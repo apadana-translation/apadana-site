@@ -1,0 +1,9 @@
+<footer id="footer" class="site__footer">
+  <ul class="nav-list">
+    <li><a href="/" class="masthead__menu-item">← Home</a></li>
+    {% for link in site.data.navigation.masthead %}
+      <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
+    {% endfor %}
+  </ul>
+  <p class="copyright">&#169; {{ site.time | date: '%Y' }} Jonathan S. Walters.</p>
+</footer>

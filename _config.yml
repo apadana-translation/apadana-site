@@ -1,0 +1,115 @@
+# Permalinks
+permalink:           pretty
+
+# Basic setup
+title:               Apadānapāli
+tagline:             'A Jekyll theme'
+description:         'A web-based interface for reading The Book of Buddhist Legends (Apadānapāli) by Jonathan S. Walters, Whitman College, 2017.'
+url:                 http://127.0.0.1:4000/
+baseurl:             ''
+paginate:            1
+
+# About/contact
+author:
+  name:              Sloop Creative
+  url:               http://www.sloopcreative.com
+  email:             dana@sloopcreative.com
+
+# Collections
+collections:
+  poems:
+    output:          true
+    permalink:       /text/:path/
+    title:           The Book of Buddhist Legends
+
+# Front Matter Defaults
+defaults:
+  # Poems
+  - scope:
+      path: _poems
+      type: poems
+    values:
+      layout: poem
+  - scope:
+      path: "_poems/chapter-1/"
+      type: "poems"
+    values:
+      category: "The Legend of the Buddhas"
+  - scope:
+      path: "_poems/chapter-2/"
+      type: "poems"
+    values:
+      category: "The Legend of the Lonely Buddhas"
+  - scope:
+      path: "_poems/chapter-3/"
+      type: "poems"
+    values:
+      category: "The Legend of the Theras"
+  - scope:
+      path: "_poems/chapter-4/"
+      type: "poems"
+    values:
+      category: "The Legend of the Therīs"
+  # Pages
+  - scope:
+      path: _pages
+      type: pages
+    values:
+      layout: page
+
+# Custom vars
+version:             0.0.1
+
+# Jekyll configuration
+keep_files:
+  - .git
+include:
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - Capfile
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+
+# Sass config
+sass:
+    sass_dir:        _sass
+    style:           :uncompressed
+
+# Plugin: Auto Pages (jekyll-paginate-v2)
+# autopages:
+#   enabled:           true
+#   categories:
+#     enabled:         false
+#   collections:
+#     enabled:         true
+
+# Pandoc configuration
+markdown: pandoc
+pandoc:
+    skip: true
+    # bundle_permalink: ':output_ext/:slug.:output_ext'
+    # papersize: 'a5paper'
+    # sheetsize: 'a4paper'
+    # imposition: true
+    # binder: true
+    # covers_dir: public/covers
+    # signature: 20
+    #
+    # flags: '--smart'
+    # site_flags: '--toc'
+    # outputs:
+    #   pdf: '--latex-engine=xelatex'
+    #   epub: '--epub-chapter-level=2'

@@ -1,0 +1,17 @@
+# Masthead navigation links
+
+masthead:
+  - title: "Read the Text"
+    url: /text/
+  - title: "About"
+    url: /about/
+  - title: "Credits"
+    url: /credits/
+
+# Footer navigation links
+
+colophon-menu:
+  - title: "About"
+    url: /about/
+  - title: "Credits"
+    url: /credits/
