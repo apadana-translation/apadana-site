@@ -1,7 +1,7 @@
 ---
 title: Sāriputta
 layout: poem
-category: "The Legend of the Theras"
+category: chapter-3
 ---
 
 # The Legends of the Theras

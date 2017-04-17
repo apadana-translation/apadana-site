@@ -1,7 +1,7 @@
 ---
 title: The Legend of the Buddhas
 layout: poem--chapter
-category: The Legend of the Buddhas
+category: chapter-1
 ---
 
 # Buddha Chapter, the First

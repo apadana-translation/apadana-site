@@ -2,16 +2,18 @@
 <ol class="index" id="index">
 {% assign chapters = site.poems | group_by: "category" | sort: "name" %}
 {% for chapter in chapters %}
+  {% assign category_slug = chapter.name %}
+  {% assign category = site.data.categories[category_slug] %}
   {% assign first_poem = chapter.items.first %}
   <!-- Filter out first two chapters from showing nested list, since each contains only one poem -->
-  {% if chapter.name contains "Buddhas" %}
+  {% if chapter.name contains "1" or chapter.name contains "2" %}
     <li class="index__chapter">
-      <a href="{{ site.baseurl }}{{ first_poem.url }}"><h5 class="chapter__name">{{ chapter.name }}</h5></a>
+      <a href="{{ site.baseurl }}{{ first_poem.url }}"><h5 class="chapter__name">{{ category.name }}</h5></a>
     </li>
   {% else %}
   <!-- Show nested list of poems for Chapters 3 & 4 -->
   <li class="index__chapter">
-    <a href="{{ site.baseurl }}{{ first_poem.url }}"><h5 class="chapter__name">{{ chapter.name }}</h5></a>
+    <a href="{{ site.baseurl }}{{ first_poem.url }}"><h5 class="chapter__name">{{ category.name }}</h5></a>
     <ol>
       {% for item in chapter.items %}
         <li>

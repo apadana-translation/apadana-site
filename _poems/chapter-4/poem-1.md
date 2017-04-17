@@ -1,7 +1,7 @@
 ---
 title: Sumedhā
 layout: poem
-category: "The Legend of the Therīs"
+category: chapter-4
 ---
 
 # The Legends of the Therīs
