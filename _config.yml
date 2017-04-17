@@ -82,11 +82,24 @@ exclude:
   - Rakefile
   - README
   - tmp
+gems:
+  - jekyll-assets
 
-# Sass config
-sass:
-    sass_dir:        assets/stylesheets
-    style:           :uncompressed
+#Jekyll Assets
+assets:
+  prefix: "/assets"
+  # digest: true
+
+  assets:
+    - "*.png"
+    - "bundle.css"
+
+  sources:
+    - _assets/bower
+    - _assets/images
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/fonts
 
 # Plugin: Auto Pages (jekyll-paginate-v2)
 # autopages:

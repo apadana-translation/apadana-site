@@ -4,6 +4,7 @@ _site
 .ruby-version
 .jekyll-metadata
 .sass-cache
+.asset-cache
 
 # Numerous always-ignore extensions
 *.diff
@@ -43,3 +44,4 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+_assets/bower
