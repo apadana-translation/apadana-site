@@ -3,15 +3,16 @@
 {% assign chapters = site.poems | group_by: "category" | sort: "name" %}
 {% for chapter in chapters %}
   {% assign category_slug = chapter.name %}
+  {% comment %}Pull category name from 'navigation' data file.{% endcomment %}
   {% assign category = site.data.categories[category_slug] %}
   {% assign first_poem = chapter.items.first %}
-  <!-- Filter out first two chapters from showing nested list, since each contains only one poem -->
+  {% comment %}Filter out first two chapters from showing nested list, since each contains only one poem.{% endcomment %}
   {% if chapter.name contains "1" or chapter.name contains "2" %}
     <li class="index__chapter">
       <a href="{{ site.baseurl }}{{ first_poem.url }}"><h5 class="chapter__name">{{ category.name }}</h5></a>
     </li>
   {% else %}
-  <!-- Show nested list of poems for Chapters 3 & 4 -->
+  {% comment %}Show nested list of poems for Chapters 3 & 4.{% endcomment %}
   <li class="index__chapter">
     <a href="{{ site.baseurl }}{{ first_poem.url }}"><h5 class="chapter__name">{{ category.name }}</h5></a>
     <ol>
