@@ -85,7 +85,7 @@ exclude:
 
 # Sass config
 sass:
-    sass_dir:        _sass
+    sass_dir:        assets/stylesheets
     style:           :uncompressed
 
 # Plugin: Auto Pages (jekyll-paginate-v2)
