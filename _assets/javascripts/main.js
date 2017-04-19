@@ -1,5 +1,7 @@
+// Required vendor scripts
 //= require jquery/jquery.min.js
-//= require ga
 //= require jquery.sidenotes/lib/jquery.sidenotes.min.js
 
-$('.poem').sidenotes();
+// Compile user scripts
+//= require ga
+//= require sidenote
