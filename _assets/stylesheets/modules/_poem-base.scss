@@ -1,0 +1,24 @@
+// poems and pages
+//
+// Each poem is wrapped in `.poem` and is used on default and poem layouts. Each
+// page is wrapped in `.page` and is only used on the page layout.
+
+.page,
+.poem {
+  margin-bottom: 4em;
+
+  li + li {
+    margin-top: .25rem;
+  }
+}
+
+// Blog poem or page title
+.page-title,
+.poem-title,
+.poem-title a {
+  color: #303030;
+}
+.page-title,
+.poem-title {
+  margin-top: 0;
+}

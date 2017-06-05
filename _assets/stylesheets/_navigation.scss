@@ -1,5 +1,4 @@
-// Masthead
-
+// Header
 .header {
   width: 100%;
   position: fixed;
@@ -9,7 +8,7 @@
   padding-top: 1rem;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
-  background-color: $gray-1;
+  background-color: $color-light;
   z-index: 1;
 
   ul, ol {
