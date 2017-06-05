@@ -1,11 +1,25 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
 
-{% include nav__next_prev_poem.html %}
+  {% include head.html %}
 
-<div class="poem">
-  {{ content }}
-</div>
+  <body>
 
-{% include nav__next_prev_poem.html %}
+    <div class="content">
+      {% include poem__header.html %}
+      <main class="container">
+        {% include nav__next_prev_poem.html %}
+
+        <div class="poem">
+          {{ content }}
+        </div>
+
+        {% include nav__next_prev_poem.html %}
+      </main>
+      {% include site__footer.html %}
+    </div>
+
+    {% js main %}
+
+  </body>
+</html>

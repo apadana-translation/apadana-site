@@ -1,14 +1,14 @@
-<header class="masthead">
+<header class="header">
   <div class="container">
-    <nav id="nav-primary" class="masthead__menu-wrapper">
-      <ul class="masthead__menu">
-        <li><a href="/" class="masthead__menu-item">← Home</a></li>
-        {% for link in site.data.navigation.masthead %}
+    <nav id="nav-primary" class="header__menu-wrapper">
+      <ul class="header__menu">
+        <li><a href="/" class="header__menu-item">← Home</a></li>
+        {% for link in site.data.navigation.site-nav %}
           {% assign class = nil %}
           {% if page.url contains link.url %}
             {% assign class = 'is--active' %}
           {% endif %}
-          <li><a href="{{ site.url }}{{ link.url }}" class="masthead__menu-item {{ class }}">{{ link.title }}</a></li>
+          <li><a href="{{ site.url }}{{ link.url }}" class="header__menu-item {{ class }}">{{ link.title }}</a></li>
         {% endfor %}
       </ul>
     </nav>

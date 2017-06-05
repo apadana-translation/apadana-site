@@ -5,3 +5,4 @@
 // Compile user scripts
 //= require ga
 //= require sidenote
+//= require toolbox

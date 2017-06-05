@@ -1,0 +1,24 @@
+<header class="header">
+  <nav id="nav-primary" class="header__menu-wrapper">
+    <ul class="header__menu">
+      <li>Site Navigation
+        <ul>
+          <li><a href="/" class="header__menu-item">← Home</a></li>
+          {% for link in site.data.navigation.site-nav %}
+            {% assign class = nil %}
+            {% if page.url contains link.url %}
+              {% assign class = 'is--active' %}
+            {% endif %}
+            <li><a href="{{ site.url }}{{ link.url }}" class="header__menu-item {{ class }}">{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+      <li>Poem Navigation
+        {% include toc.html %}
+      </li>
+      <li class="toolbox">Toggle Elements
+        {% include toolbox.html %}
+      </li>
+    </ul>
+  </nav>
+</header>

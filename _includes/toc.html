@@ -9,12 +9,12 @@
   {% comment %}Filter out first two chapters from showing nested list, since each contains only one poem.{% endcomment %}
   {% if chapter.name contains "1" or chapter.name contains "2" %}
     <li class="index__chapter">
-      <a href="{{ site.baseurl }}{{ first_poem.url }}"><h5 class="chapter__name">{{ category.name }}</h5></a>
+      <a href="{{ site.baseurl }}{{ first_poem.url }}">{{ category.name }}</a>
     </li>
   {% else %}
   {% comment %}Show nested list of poems for Chapters 3 & 4.{% endcomment %}
   <li class="index__chapter">
-    <a href="{{ site.baseurl }}{{ first_poem.url }}"><h5 class="chapter__name">{{ category.name }}</h5></a>
+    <a href="{{ site.baseurl }}{{ first_poem.url }}">{{ category.name }}</a>
     <ol>
       {% for item in chapter.items %}
         <li>

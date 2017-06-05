@@ -1,6 +1,6 @@
 # Masthead navigation links
 
-masthead:
+site-nav:
   - title: "Read the Text"
     url: /text/
   - title: "About"
