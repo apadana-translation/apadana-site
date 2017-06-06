@@ -18,10 +18,6 @@ html {
   font-family: $root-font-family;
   font-size: $root-font-size;
   line-height: $root-line-height;
-
-  @media (min-width: $large-breakpoint) {
-    font-size: $large-font-size;
-  }
 }
 
 body {
@@ -31,20 +27,8 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
-// No `:visited` state is required by default (browsers will use `a`)
 a {
-  color: $link-color;
-  text-decoration: none;
-
-  // `:focus` is linked to `:hover` for basic accessibility
-  &:hover,
-  &:focus {
-    text-decoration: underline;
-  }
-
-  strong {
-    color: inherit;
-  }
+  @include text-link($color: palette(highlight), $hover: palette(highlight), $offset: $link-offset, $opacity: $link-underline-opacity, $hover-opacity: $link-underline-hover-opacity);
 }
 
 img {

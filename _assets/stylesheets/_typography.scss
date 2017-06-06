@@ -3,25 +3,29 @@
 // Headings, body text, lists, and other misc typographic elements.
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
-  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 1rem;
   line-height: 1.25;
-  color: #313131;
   text-rendering: optimizeLegibility;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.25rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
 }
 
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.875rem;
 }
 
 h3 {
-  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
   font-size: 1.25rem;
+  font-weight: normal;
+  font-variant-caps: small-caps;
+  font-feature-settings: "smcp";
 }
 
 h4, h5, h6 {
@@ -35,7 +39,6 @@ p {
 }
 
 strong {
-  color: #303030;
 }
 
 ul, ol, dl {
@@ -87,24 +90,17 @@ blockquote {
   }
 }
 
+aside {
+  font-size: 0.625rem;
+}
 
-// Markdown footnotes
-//
-// See the example content post for an example.
-
+// Sidenotes
 // Footnote number within body text
 a[href^="#fn:"],
 // Back to footnote link
 a[href^="#fnref:"] {
   display: inline-block;
   margin-left: .1rem;
-  font-weight: bold;
-}
-
-// List of footnotes
-.footnotes {
-  margin-top: 2rem;
-  font-size: 85%;
 }
 
 // Custom type

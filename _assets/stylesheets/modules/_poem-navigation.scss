@@ -5,6 +5,6 @@
 
 // Highlight poem elements on hover
 [data-hover=on] {
-  color: $color-light;
-  background-color: $color-highlight;
+  color: palette(light);
+  background-color: palette(highlight);
 }

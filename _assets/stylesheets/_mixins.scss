@@ -1,0 +1,74 @@
+// =============================================================================
+// Embed Font: A mixin for adding @font-face rules in Jekyll Assets SCSS
+// Adapted from https://github.com/ttimsmith/ttimsmith.com/blob/7-move-over-to-jekyll-assets-for-compiling/_assets/stylesheets/_redbat/_mixins.scss
+// Usage: @include embed-font("Sample", "sample");
+// =============================================================================
+
+@mixin embed-font($font-name, $font-filepath-and-name, $font-weight, $font-style){
+  @font-face {
+    font-family: $font-name;
+    src: url(asset_path($font-filepath-and-name+".eot"));
+    src: url(asset_path($font-filepath-and-name+".eot?#iefix")) format('embedded-opentype'), /* IE6-IE8 */
+         url(asset_path($font-filepath-and-name+".woff")) format('woff'), /* Modern Browsers */
+         url(asset_path($font-filepath-and-name+".woff2")) format('woff2');
+    font-weight: $font-weight;
+    font-style: $font-style;
+  }
+}
+
+// color variable helper
+// @author Thomas Bredin-Grey <tom@studiothick.com>
+// Megatype: https://github.com/StudioThick/megatype
+@function palette($color) {
+    @return map-get($palettes, $color);
+};
+
+// =====================================================
+// ------------- Megatype text link mixin --------------
+// =====================================================
+// @author Thomas Bredin-Grey <tom@studiothick.com>
+// Megatype: https://github.com/StudioThick/megatype
+// =====================================================
+
+// better text decoration
+@mixin text-link($color: $link-color, $hover: $color, $offset: $link-offset, $opacity: $link-underline-opacity, $hover-opacity: $link-underline-hover-opacity) {
+
+    color: $color;
+    text-decoration: none;
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, rgba($color, $opacity) 50%);
+    background-repeat: repeat-x;
+    background-size: 2px 2px;
+    background-position: 0 1.05em;
+    background-position: 0 calc(43% + 0.44em + #{$offset});
+    cursor: pointer;
+
+    @if $hover != false {
+        &:hover {
+            background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%, rgba($hover, $hover-opacity) 50%);
+            color: $hover;
+        }
+    }
+
+    .no-cssgradients & {
+        text-decoration: underline; // for browsers with no cssgradient support
+    }
+}
+
+// remove text link style
+@mixin reset-link($hard-reset: false) {
+    @if $hard-reset == false {
+        &, &:hover {
+            background-image: none;
+        }
+        .no-cssgradients & {
+            text-decoration: none;
+        }
+    } @else {
+        &, &:hover {
+            background-image: none !important;
+        }
+        .no-cssgradients & {
+            text-decoration: none !important;
+        }
+    }
+}

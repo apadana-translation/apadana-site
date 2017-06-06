@@ -1,15 +1,36 @@
-$color-light: #EFEFE5;
-$color-dark: #322B1A;
-$color-highlight: #E13A00;
-$color-shadow: #EBEBEB;
+// ===================================
+// Colors
+// ===================================
 
-$root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+$palettes: (
+    light:           #EFEFE5,
+    dark:            #322B1A,
+    highlight:       #E13A00,
+    shadow:          #EBEBEB
+);
+
+$site-color-names: map-keys($palettes);
+
+$body-color: palette(dark);
+$body-bg: palette(light);
+$link-color: palette(highlight);
+
+// Typefaces
+@include embed-font("Skolar PE", "SkolarPEWeb-Regular", normal, normal);
+@include embed-font("Skolar PE", "SkolarPEWeb-Italic", normal, italic);
+@include embed-font("Skolar PE", "SkolarPEWeb-Bold", bold, normal);
+@include embed-font("Skolar PE", "SkolarPEWeb-BoldItalic", bold, italic);
+// Skolar Sans added through Typekit
+
+$root-font-family: "Skolar PE", Georgia, serif;
 $root-font-size: 16px;
 $root-line-height: 1.5;
 
-$body-color: $color-dark;
-$body-bg: $color-light;
-$link-color: $color-highlight;
+// Links
+$link-offset: 2px;
+$link-underline-opacity: 0.6;
+$link-underline-hover-opacity: 0.8;
 
+// Breakpoints
 $large-breakpoint: 38em;
 $large-font-size: 20px;

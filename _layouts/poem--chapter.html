@@ -8,13 +8,10 @@
     <div class="content">
       {% include poem__header.html %}
       <main class="container">
-        {% include nav__next_prev_poem.html %}
-
+        {% include poem__meta.html %}
         <div class="poem">
           {{ content }}
         </div>
-
-        {% include nav__next_prev_poem.html %}
       </main>
       {% include site__footer.html %}
     </div>

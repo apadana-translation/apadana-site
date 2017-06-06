@@ -21,5 +21,7 @@
   {% assign prev = links %}
 {% endfor %}
 
-{% if prevurl %}<a href="{{ prevurl }}">Previous poem: {{ prevtitle l}}</a>{% endif %}<br />
-{% if nexturl %}<a href="{{ nexturl }}">Next poem: {{ nexttitle }}</a>{% endif %}
+<aside class="poem__meta">
+{% if prevurl %}<a href="{{ prevurl }}"><h5>Previous poem:</h5><br />{{ prevtitle l}}</a>{% endif %}
+{% if nexturl %}<a href="{{ nexturl }}"><h5>Next poem:</h5><br />{{ nexttitle }}</a>{% endif %}
+</aside>

@@ -5,7 +5,10 @@
 
 .page,
 .poem {
-  margin-bottom: 4em;
+  display: inline-block;
+  max-width: 450px;
+  padding: 4rem 0;
+  vertical-align: top;
 
   li + li {
     margin-top: .25rem;
