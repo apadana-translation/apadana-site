@@ -5,8 +5,8 @@ site-nav:
     url: /text/
   - title: "About"
     url: /about/
-  - title: "Credits"
-    url: /credits/
+  - title: "Resources"
+    url: /resources/
 
 # Footer navigation links
 

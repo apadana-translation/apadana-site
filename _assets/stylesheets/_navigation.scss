@@ -1,78 +1,138 @@
 // Header
-.header {
+header {
   width: 100%;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  margin-bottom: 1rem;
-  z-index: 1;
+  font-family: "skolar-sans-latin", sans-serif;
+  font-size: 0.875rem;
 
-  ul, ol {
+  ul {
+    list-style: none;
     margin-bottom: 0;
-    padding: 0;
-    text-align: center;
-    font-size: 0;
-    list-style-type: none;
-
-    // initial li
-    li {
-      display: inline-block;
-      padding: 0.25rem 1rem;
-      position: relative;
-      font-size: 0.75rem;
-
-      // secondary ul
-      ul, ol {
-        display: none;
-      }
-
-      // initial li:hover
-      &:hover {
-        cursor: pointer;
-
-        // secondary ul visibility change
-        ul, ol {
-          display: block;
-          width: 200px;
-          left: 0;
-          padding-top: 1rem;
-          padding-bottom: 1rem;
-          position: absolute;
-          background-color: white;
-          text-align: left;
-
-          // secondary li
-          li {
-            display: block;
-            // background-color: darken($subtle-white, 7%);
-
-            &:hover {
-              // background-color: darken($subtle-white, 10%);
-            }
-
-            // poem TOC
-            ol {
-              margin: 0;
-              padding: 0;
-              position: relative;
-              font-style: italic;
-            }
-          }
-        }
-      }
-    }
+    padding-left: 0;
   }
 }
 
-.header-title {
-  margin-top: 0;
-  margin-bottom: 0;
-  // color: $gray-4;
+.top-bar {
+   display: flex;
+   align-items: baseline;
+   width: 100%;
+   color: palette(light);
+   background-color: palette(dark);
 
-  a {
-    color: inherit;
+   &__section {
+     display: flex;
+     flex: 1;
+     justify-content: center;
+     max-width: 100%;
+     flex-wrap: wrap;
+     position: relative;
+     list-style: none;
+
+     &:last-child {
+       order: 1;
+     }
+   }
+ }
+
+.title-wrap {
+  order: 1;
+  flex-grow: 4;
+}
+
+.header__title {
+  font-family: $root-font-family;
+}
+
+.menu {
+  display: none;
+
+  + label {
+    cursor: pointer;
+    display: block;
+    padding: 1em;
+    user-select: none;
+
+    &:hover {
+      color: palette(highlight);
+    }
+  }
+
+  &:checked + label {
+    color: palette(highlight);
+  }
+}
+
+.tab-group {
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  left: 0;
+  opacity: 0;
+  width: 100%;
+  color: palette(dark);
+  z-index: -1;
+  transform: translateY(-3px);
+
+  &[data-tab=on] {
+    opacity: 1;
+    position: relative;
+    top: 0;
+    z-index: 100;
+    transform: translateY(0px);
+    // transition: 0.8s transform ease;
+  }
+}
+
+.tab {
+  display: none;
+
+  $max-tab-count: 4;
+
+  @for $i from 1 through $max-tab-count {
+
+    &:checked:nth-of-type(#{$i}) ~ .tab__content:nth-of-type(#{$i}) {
+      opacity: 1;
+      position: relative;
+      top: 0;
+      z-index: 100;
+      transform: translateY(0px);
+      // transition: 0.8s transform ease;
+    }
+  }
+
+  &:checked + label {
+    color: palette(light);
+    background-color: palette(highlight);
+  }
+
+  + label {
+    cursor: pointer;
+    display: block;
+    width: 25%;
+    padding: 1em;
+    color: palette(dark);
+    background-color: palette(light);
+    // flex-grow: 3;
+    text-align: center;
+    user-select: none;
+    // transition: 0.3s background-color ease, 0.3s box-shadow ease;
+    // box-sizing: border-box;
+
+    &:hover {
+      color: palette(light);
+      background-color: palette(highlight);
+    }
+  }
+
+  &__title {
+    display: none;
+  }
+
+  &__content {
+    @extend .tab-group;
+    display: block;
+    padding: 1em 1.5em;
+    background-color: white;
+    border: solid palette(highlight);
+    border-width: 5px 0;
   }
 }

@@ -2,9 +2,11 @@
 Toggle "scholarly" features on & off on poems.
 
 The following features are toggle-able in the toolbox:
-1) sidenotes/footnotes
-2) content in square brackets
-3) diacritics (switch to non-accented notation)
+1) chapter headings
+2) sidenotes
+3) content in square brackets
+4) verse numbers
+5) diacritics (switch to non-accented notation)
 *****/
 
 // Reuseable toggle function with loop for all instances of an element
@@ -24,7 +26,7 @@ var hoverState = function (elem, one) {
 };
 
 // Events for chapter headings
-var toggleChHeadings = document.querySelector('.toolbox__toggle--ch-headings');
+var toggleChHeadings = document.querySelector('#toggle--ch-headings');
 var elemChHeadings = 'h2.ch-heading';
 toggleChHeadings.onclick = function (e) {
   toggleState(elemChHeadings, 'off', 'on');
@@ -40,7 +42,7 @@ toggleChHeadings.onmouseout = function (e) {
 };
 
 // Events for sidenotes
-var toggleNotes = document.querySelector('.toolbox__toggle--notes');
+var toggleNotes = document.querySelector('#toggle--notes');
 var elemNotes = ['aside.sidenote', 'a.footnoteRef'];
 toggleNotes.onclick = function (e) {
   toggleState(elemNotes, 'off', 'on');
@@ -65,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // Events for brackets
-var toggleBrackets = document.querySelector('.toolbox__toggle--brackets');
+var toggleBrackets = document.querySelector('#toggle--brackets');
 var elemBrackets = 'span.bracket';
 toggleBrackets.onclick = function (e) {
   toggleState(elemBrackets, 'off', 'on');
@@ -90,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // Events for verse numbers
-var toggleVerseNumbers = document.querySelector('.toolbox__toggle--verse-numbers');
+var toggleVerseNumbers = document.querySelector('#toggle--verse-numbers');
 var elemVerseNumbers = 'span.verse-number';
 toggleVerseNumbers.onclick = function (e) {
   toggleState(elemVerseNumbers, 'off', 'on');
@@ -153,7 +155,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // });
 
 // Events for diacritics
-var toggleDiacritics = document.querySelector('.toolbox__toggle--diacritics');
+var toggleDiacritics = document.querySelector('#toggle--diacritics');
 var elemDiacritics = 'span.diacritics';
 toggleDiacritics.onclick = function (e) {
   toggleState(elemDiacritics, 'off', 'on');

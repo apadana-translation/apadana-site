@@ -1,0 +1,31 @@
+<nav id="text-nav" class="header__nav-menu">
+  <ol id="index" class="index">
+  {% assign chapters = site.poems | group_by: "category" | sort: "name" %}
+  {% for chapter in chapters %}
+    {% assign category_slug = chapter.name %}
+    {% comment %}Pull category name from 'navigation' data file.{% endcomment %}
+    {% assign category = site.data.categories[category_slug] %}
+    {% assign first_poem = chapter.items.first %}
+    {% comment %}Filter out first two chapters from showing nested list, since each contains only one poem.{% endcomment %}
+    {% if chapter.name contains "1" or chapter.name contains "2" %}
+      <li>
+        <a href="{{ site.baseurl }}{{ first_poem.url }}">{{ category.name }}</a>
+      </li>
+    {% else %}
+    {% comment %}Show nested list of poems for Chapters 3 & 4.{% endcomment %}
+    <li>
+      <a href="{{ site.baseurl }}{{ first_poem.url }}">{{ category.name }}</a>
+      <ol>
+        {% for item in chapter.items %}
+          <li>
+            <a href="{{ site.baseurl }}{{ item.url }}">
+              {{ item.title }}
+            </a>
+          </li>
+        {% endfor %}
+      </ol>
+    </li>
+    {% endif %}
+  {% endfor %}
+  </ol>
+</nav>

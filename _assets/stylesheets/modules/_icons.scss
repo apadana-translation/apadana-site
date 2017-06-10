@@ -1,0 +1,11 @@
+[class^="icon-"], [class*=" icon-"] {
+  display: inline-block;
+  height: 1.25rem;
+  width: 1.25rem;
+  fill: currentColor;
+  vertical-align: middle;
+
+  & + .header__nav-title {
+    margin-left: 0.4rem;
+  }
+}

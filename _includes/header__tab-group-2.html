@@ -1,0 +1,36 @@
+<input type="radio" id="tab5" name="tabGroup2" class="tab">
+<label for="tab5" class="tab__label" title="Text Features" aria-label="View Text Features">
+  <svg class="icon-multiple-pages"><use xlink:href="#icon-multiple-pages"></use></svg>
+  <span class="tab__title">Text Features</span>
+</label>
+
+<input type="radio" id="tab6" name="tabGroup2" class="tab">
+<label for="tab6" class="tab__label" title="Search" aria-label="View Search Bar">
+  <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
+  <span class="tab__title">Search</span>
+</label>
+
+<input type="radio" id="tab7" name="tabGroup2" class="tab">
+<label for="tab7" class="tab__label" title="Download" aria-label="View Download Options">
+  <svg class="icon-download"><use xlink:href="#icon-download"></use></svg>
+  <span class="tab__title">Download</span>
+</label>
+
+<input type="radio" id="tab8" name="tabGroup2" class="tab">
+<label for="tab8" class="tab__label" title="Share" aria-label="View Share Options">
+  <svg class="icon-share"><use xlink:href="#icon-share"></use></svg>
+  <span class="tab__title">Share</span>
+</label>
+
+<div class="tab__content">
+  {% include tab__text-features.html %}
+</div>
+<div class="tab__content">
+  {% include tab__search.html %}
+</div>
+<div class="tab__content">
+  {% include tab__download.html %}
+</div>
+<div class="tab__content">
+  {% include tab__share.html %}
+</div>

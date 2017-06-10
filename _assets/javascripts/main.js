@@ -4,5 +4,6 @@
 
 // Compile user scripts
 //= require ga
+//= require navigation
 //= require sidenote
 //= require toolbox
