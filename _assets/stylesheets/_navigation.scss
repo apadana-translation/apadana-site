@@ -1,5 +1,5 @@
 // Header
-header {
+.header {
   width: 100%;
   font-family: "skolar-sans-latin-extended", sans-serif;
   font-size: 0.875rem;
@@ -9,14 +9,22 @@ header {
     margin-bottom: 0;
     padding-left: 0;
   }
+
+  &--poem {
+    position: fixed;
+    top: 0;
+    z-index: 1;
+  }
 }
 
 .top-bar {
    display: flex;
+   position: relative;
    align-items: baseline;
    width: 100%;
    color: palette(light);
    background-color: palette(dark);
+   z-index: 101;
 
    &__section {
      display: flex;
@@ -65,20 +73,21 @@ header {
   display: flex;
   flex-wrap: wrap;
   position: absolute;
-  left: 0;
   opacity: 0;
+  left: 0;
   width: 100%;
   color: palette(dark);
+  background-color: palette(light);
   z-index: -1;
-  transform: translateY(-3px);
+  transform: translateY(-100%);
+  transition: transform 0.3s ease;
 
   &[data-tab=on] {
-    opacity: 1;
     position: relative;
+    opacity: 1;
     top: 0;
     z-index: 100;
     transform: translateY(0px);
-    // transition: 0.8s transform ease;
   }
 }
 
@@ -90,12 +99,10 @@ header {
   @for $i from 1 through $max-tab-count {
 
     &:checked:nth-of-type(#{$i}) ~ .tab__content:nth-of-type(#{$i}) {
-      opacity: 1;
       position: relative;
+      opacity: 1;
       top: 0;
-      z-index: 100;
       transform: translateY(0px);
-      // transition: 0.8s transform ease;
     }
   }
 
@@ -111,11 +118,8 @@ header {
     padding: 1em;
     color: palette(dark);
     background-color: palette(light);
-    // flex-grow: 3;
     text-align: center;
     user-select: none;
-    // transition: 0.3s background-color ease, 0.3s box-shadow ease;
-    // box-sizing: border-box;
 
     &:hover {
       color: palette(light);
@@ -134,6 +138,8 @@ header {
     background-color: white;
     border: solid palette(highlight);
     border-width: 5px 0;
+    transform: translateY(-100%);
+    transition: opacity 0.8s ease, transform 0.8s ease;
 
     & > * {
       flex: 1;

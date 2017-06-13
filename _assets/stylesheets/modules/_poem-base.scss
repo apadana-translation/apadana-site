@@ -15,6 +15,16 @@
   }
 }
 
+.poem {
+  aside, span {
+    transition: background-color .2s ease;
+  }
+
+  a {
+    @include reset-link();
+  }
+}
+
 // Blog poem or page title
 .page-title,
 .poem-title,
@@ -24,4 +34,14 @@
 .page-title,
 .poem-title {
   margin-top: 0;
+}
+
+// Toggle poem elements on/off
+[data-state=off] {
+  display: none !important;
+}
+
+// Highlight poem elements on hover
+[data-hover=on] {
+  background-color: rgba(palette(highlight), 0.65);
 }

@@ -28,7 +28,7 @@ body {
 }
 
 a {
-  @include text-link($color: palette(highlight), $hover: palette(highlight), $offset: $link-offset, $opacity: $link-underline-opacity, $hover-opacity: $link-underline-hover-opacity);
+  @include text-link($color: palette(highlight), $hover: palette(highlight));
 }
 
 img {

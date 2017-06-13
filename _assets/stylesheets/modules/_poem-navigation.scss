@@ -1,10 +1,1 @@
-// Toggle poem elements on/off
-[data-state=off] {
-  display: none !important;
-}
 
-// Highlight poem elements on hover
-[data-hover=on] {
-  color: palette(light);
-  background-color: palette(highlight);
-}
