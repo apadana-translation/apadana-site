@@ -11,10 +11,10 @@ The following features are toggle-able in the toolbox:
 
 // Reuseable toggle function with loop for all instances of an element
 // Inspired by https://toddmotto.com/stop-toggling-classes-with-js-use-behaviour-driven-dom-manipulation-with-data-states/
-var toggleState = function (elem, one, two) {
+var toggleState = function (elem, one) {
   var elem = document.querySelectorAll(elem), i;
   for (i = 0; i < elem.length; ++i) {
-    elem[i].setAttribute('data-state', elem[i].getAttribute('data-state') === one ? two : one);
+    elem[i].setAttribute('data-state', one);
   };
 };
 
@@ -28,33 +28,35 @@ var hoverState = function (elem, one) {
 // Events for chapter headings
 var toggleChHeadings = document.querySelector('#toggle--ch-headings');
 var elemChHeadings = 'h2.ch-heading';
-toggleChHeadings.onclick = function (e) {
-  toggleState(elemChHeadings, 'off', 'on');
-  e.preventDefault();
-};
-toggleChHeadings.onmouseover = function (e) {
+$(toggleChHeadings).children(':checkbox').change(function() {
+  if (this.checked) {
+    toggleState(elemChHeadings, 'on');
+  } else {
+    toggleState(elemChHeadings, 'off');
+  }
+});
+toggleChHeadings.onmouseover = function() {
   hoverState(elemChHeadings, 'on');
-  e.preventDefault();
 };
-toggleChHeadings.onmouseout = function (e) {
+toggleChHeadings.onmouseout = function() {
   hoverState(elemChHeadings, 'off');
-  e.preventDefault();
 };
 
 // Events for sidenotes
 var toggleNotes = document.querySelector('#toggle--notes');
 var elemNotes = ['aside.sidenote', 'a.footnoteRef'];
-toggleNotes.onclick = function (e) {
-  toggleState(elemNotes, 'off', 'on');
-  e.preventDefault();
-};
-toggleNotes.onmouseover = function (e) {
+$(toggleNotes).children(':checkbox').change(function() {
+  if (this.checked) {
+    toggleState(elemNotes, 'on');
+  } else {
+    toggleState(elemNotes, 'off');
+  }
+});
+toggleNotes.onmouseover = function() {
   hoverState(elemNotes, 'on');
-  e.preventDefault();
 };
-toggleNotes.onmouseout = function (e) {
+toggleNotes.onmouseout = function() {
   hoverState(elemNotes, 'off');
-  e.preventDefault();
 };
 
 // Add <span> tag around all square brackets, preserve text inside
@@ -69,17 +71,18 @@ document.addEventListener('DOMContentLoaded', function() {
 // Events for brackets
 var toggleBrackets = document.querySelector('#toggle--brackets');
 var elemBrackets = 'span.bracket';
-toggleBrackets.onclick = function (e) {
-  toggleState(elemBrackets, 'off', 'on');
-  e.preventDefault();
-};
-toggleBrackets.onmouseover = function (e) {
+$(toggleBrackets).children(':checkbox').change(function() {
+  if (this.checked) {
+    toggleState(elemBrackets, 'on');
+  } else {
+    toggleState(elemBrackets, 'off');
+  }
+});
+toggleBrackets.onmouseover = function() {
   hoverState(elemBrackets, 'on');
-  e.preventDefault();
 };
-toggleBrackets.onmouseout = function (e) {
+toggleBrackets.onmouseout = function() {
   hoverState(elemBrackets, 'off');
-  e.preventDefault();
 };
 
 // Add <span> tag around all verse numbers (look for square or round brackets with only letters, numbers, dashes, or commas inside)
@@ -94,17 +97,18 @@ document.addEventListener('DOMContentLoaded', function() {
 // Events for verse numbers
 var toggleVerseNumbers = document.querySelector('#toggle--verse-numbers');
 var elemVerseNumbers = 'span.verse-number';
-toggleVerseNumbers.onclick = function (e) {
-  toggleState(elemVerseNumbers, 'off', 'on');
-  e.preventDefault();
-};
-toggleVerseNumbers.onmouseover = function (e) {
+$(toggleVerseNumbers).children(':checkbox').change(function() {
+  if (this.checked) {
+    toggleState(elemVerseNumbers, 'on');
+  } else {
+    toggleState(elemVerseNumbers, 'off');
+  }
+});
+toggleVerseNumbers.onmouseover = function() {
   hoverState(elemVerseNumbers, 'on');
-  e.preventDefault();
 };
-toggleVerseNumbers.onmouseout = function (e) {
+toggleVerseNumbers.onmouseout = function() {
   hoverState(elemVerseNumbers, 'off');
-  e.preventDefault();
 };
 
 // Disable diacritics
@@ -157,15 +161,22 @@ document.addEventListener('DOMContentLoaded', function() {
 // Events for diacritics
 var toggleDiacritics = document.querySelector('#toggle--diacritics');
 var elemDiacritics = 'span.diacritics';
-toggleDiacritics.onclick = function (e) {
-  toggleState(elemDiacritics, 'off', 'on');
-  e.preventDefault();
-};
-toggleDiacritics.onmouseover = function (e) {
+$(toggleDiacritics).children(':checkbox').change(function() {
+  if (this.checked) {
+    toggleState(elemDiacritics, 'on');
+  } else {
+    toggleState(elemDiacritics, 'off');
+  }
+});
+toggleDiacritics.onmouseover = function() {
   hoverState(elemDiacritics, 'on');
-  e.preventDefault();
 };
-toggleDiacritics.onmouseout = function (e) {
+toggleDiacritics.onmouseout = function() {
   hoverState(elemDiacritics, 'off');
-  e.preventDefault();
 };
+
+// Toggle all
+var toggleAll = document.querySelectorAll('.switch__input');
+$(toggleAll[0]).change(function() {
+  $(toggleAll).not(":eq(0)").prop('checked', $(toggleAll).prop('checked')).trigger('change');
+});

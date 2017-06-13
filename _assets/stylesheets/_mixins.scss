@@ -16,6 +16,14 @@
   }
 }
 
+// generic map function
+@function get($map, $keys...) {
+  @each $key in $keys {
+		$map: map-get($map, $key);
+  }
+  @return $map;
+}
+
 // color variable helper
 // @author Thomas Bredin-Grey <tom@studiothick.com>
 // Megatype: https://github.com/StudioThick/megatype

@@ -1,7 +1,7 @@
 // Header
 header {
   width: 100%;
-  font-family: "skolar-sans-latin", sans-serif;
+  font-family: "skolar-sans-latin-extended", sans-serif;
   font-size: 0.875rem;
 
   ul {
@@ -129,10 +129,20 @@ header {
 
   &__content {
     @extend .tab-group;
-    display: block;
-    padding: 1em 1.5em;
+    display: flex;
+    flex-direction: column;
     background-color: white;
     border: solid palette(highlight);
     border-width: 5px 0;
+
+    & > * {
+      flex: 1;
+      padding: 1em 1.5em;
+    }
+  }
+
+  &__desc {
+    margin-left: 1rem;
+    font-family: "skolar-sans-latin", sans-serif;
   }
 }

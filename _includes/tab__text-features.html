@@ -1,7 +1,32 @@
-<ul class="header__nav-menu">
-  <li><a href="#" id="toggle--ch-headings" class="toggle">Chapter Headings</a></li>
-  <li><a href="#" id="toggle--diacritics" class="toggle">Diacritics</a></li>
-  <li><a href="#" id="toggle--brackets" class="toggle">Brackets</a></li>
-  <li><a href="#" id="toggle--verse-numbers" class="toggle">Verse Numbers</a></li>
-  <li><a href="#" id="toggle--notes" class="toggle">Footnotes</a></li>
+<ul class="switch-group">
+  <li id="toggle--all" class="switch switch--master">
+    <input type="checkbox" id="switch1" name="Toggle All" class="switch__input" checked>
+    <label for="switch1" class="switch__label"><span>Toggle All</span></label>
+  </li>
+  <li id="toggle--ch-headings" class="switch">
+    <input type="checkbox" id="switch2" name="Toggle Chapter Headings" class="switch__input" checked>
+    <label for="switch2" class="switch__label"><span>Chapter Headings</span></label>
+  </li>
+  <li id="toggle--diacritics" class="switch">
+    <input type="checkbox" id="switch3" name="Toggle Diacritics" class="switch__input" checked>
+    <label for="switch3" class="switch__label"><span>Diacritics</span></label>
+  </li>
+  <li id="toggle--brackets" class="switch">
+    <input type="checkbox" id="switch4" name="Toggle Brackets" class="switch__input" checked>
+    <label for="switch4" class="switch__label"><span>Brackets</span></label>
+  </li>
+  <li id="toggle--verse-numbers" class="switch">
+    <input type="checkbox" id="switch5" name="Toggle Verse Numbers" class="switch__input" checked>
+    <label for="switch5" class="switch__label"><span>Verse Numbers</span></label>
+  </li>
+  <li id="toggle--notes" class="switch">
+    <input type="checkbox" id="switch6" name="Toggle Sidenotes" class="switch__input" checked>
+    <label for="switch6" class="switch__label"><span>Sidenotes</span></label>
+  </li>
 </ul>
+
+<aside class="tab__desc">
+  <p>Enable all features for a “scholarly edition” of the text.</p>
+  <p>Disable all features for a “lite edition.”</p>
+  <p>Or, toggle features individually based on your preferences.</p>
+</aside>

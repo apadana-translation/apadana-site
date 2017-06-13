@@ -5,13 +5,14 @@
   width: 15.625rem;
   right: -18.75rem;
   margin-left: -100%;
+  font-size: 0.625rem;
 
   p {
     margin-bottom: 0.9375rem;
   }
 }
 
-// Sidenote number within body text
+// Note number within body text
 a[href^="#sn"] {
   font-size: 75%;
   position: relative;

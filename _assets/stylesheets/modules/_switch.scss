@@ -1,0 +1,82 @@
+// Switch variables
+$switchBar: (
+	width: 2.5rem,
+	height: 1rem,
+  color: palette(shadow)
+);
+
+$switchToggle: (
+	width: 1.5rem,
+	height: 1.5rem,
+	color: (
+		default: palette(dark),
+		active: palette(highlight)
+	)
+);
+
+.switch-group {
+  float: left;
+}
+
+.switch {
+
+  &__input {
+    display: none;
+  }
+
+  &__label {
+    position: relative;
+		display: inline-block;
+		margin: (get($switchBar, height)/2);
+		cursor: pointer;
+
+    span {
+      margin-left: get($switchBar, width);
+      padding-left: get($switchBar, height);
+    }
+
+		&:before, &:after {
+			content: "";
+			position: absolute;
+	    margin: 0;
+	    outline: 0;
+		  top: 50%;
+		  transform: translate(0, -50%);
+  		transition: all .3s ease;
+		}
+
+    // Bar
+    &:before {
+		  left: 1px;
+		  width: get($switchBar, width);
+		  height: get($switchBar, height);
+		  background-color: get($switchBar, color);
+	    border-radius: (get($switchBar, height)/2);
+		}
+
+    // Thumb
+    &:after {
+	    left: 0;
+	    width: get($switchToggle, width);
+	    height: get($switchToggle, height);
+	    background-color: get($switchToggle, color, default);
+	    border-radius: 50%;
+	    box-shadow: inset 0 0 2px 0 rgba(50,43,26,0.20);
+	  }
+
+    &:hover {
+      color: get($switchToggle, color, active);
+    }
+  }
+
+  &__input:checked + &__label {
+		&:after {
+	    background-color: get($switchToggle, color, active);
+			transform: translate(80%, -50%);
+		}
+	}
+
+  &:first-child {
+    font-weight: 700;
+  }
+}
