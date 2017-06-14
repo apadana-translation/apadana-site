@@ -7,7 +7,6 @@
   ul {
     list-style: none;
     margin-bottom: 0;
-    padding-left: 0;
   }
 
   &--poem {
@@ -135,6 +134,7 @@
     @extend .tab-group;
     display: flex;
     flex-direction: column;
+    padding: 0.5rem;
     background-color: white;
     border: solid palette(highlight);
     border-width: 5px 0;
@@ -150,5 +150,9 @@
   &__desc {
     margin-left: 1rem;
     font-family: "skolar-sans-latin", sans-serif;
+
+    p:last-child {
+      margin-bottom: 0;
+    }
   }
 }

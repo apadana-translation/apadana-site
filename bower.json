@@ -16,6 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "jquery.sidenotes": "^0.2.0"
+    "jquery.sidenotes": "^0.2.0",
+    "fetch": "^2.0.3"
   }
 }
