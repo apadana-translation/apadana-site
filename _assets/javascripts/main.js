@@ -8,3 +8,4 @@
 //= require navigation
 //= require sidenote
 //= require toolbox
+//= require share
