@@ -1,5 +1,5 @@
-<nav id="text-nav" class="header__nav-menu">
-  <ol id="index" class="index">
+<nav id="text-nav" class="nav nav--toc tab__primary-content">
+  <ol id="index" class="toc__level1">
   {% assign chapters = site.poems | group_by: "category" | sort: "name" %}
   {% for chapter in chapters %}
     {% assign category_slug = chapter.name %}
@@ -15,7 +15,7 @@
     {% comment %}Show nested list of poems for Chapters 3 & 4.{% endcomment %}
     <li>
       <a href="{{ site.baseurl }}{{ first_poem.url }}">{{ category.name }}</a>
-      <ol>
+      <ol class="toc__level2">
         {% for item in chapter.items %}
           <li>
             <a href="{{ site.baseurl }}{{ item.url }}">
