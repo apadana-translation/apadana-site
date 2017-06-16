@@ -38,7 +38,7 @@ img {
   border-radius: 5px;
 }
 
-.button {
+[class^="button"] {
   @include reset-link();
   margin-left: 0.25rem;
   margin-right: 1rem;

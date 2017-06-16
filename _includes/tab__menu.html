@@ -1,12 +1,23 @@
 <nav id="site-nav" class="nav nav--site tab__primary-content">
   <ul>
-    <li><a href="/">Project Homepage</a></li>
+    <li>
+      <a href="/">
+        <h4>
+          <svg class="icon-home"><use xlink:href="#icon-home"></use></svg>
+          <span>Project Homepage</span>
+        </h4>
+      </a>
+    </li>
     {% for link in site.data.navigation.site-nav %}
       {% assign class = nil %}
       {% if page.url contains link.url %}
         {% assign class = 'is--active' %}
       {% endif %}
-      <li><a href="{{ site.url }}{{ link.url }}" class="header__menu-item {{ class }}">{{ link.title }}</a></li>
+      <li>
+        <a href="{{ site.url }}{{ link.url }}" class="{{ class }}">
+          <h4>{{ link.title }}</h4>
+        </a>
+      </li>
     {% endfor %}
   </ul>
 </nav>

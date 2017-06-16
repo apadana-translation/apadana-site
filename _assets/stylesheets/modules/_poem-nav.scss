@@ -1,3 +1,8 @@
+#tab-menu {
+  color: palette(light);
+  background-color: palette(highlight);
+}
+
 .nav {
   font-size: $root-font-size;
   font-family: $root-font-family;
@@ -14,6 +19,13 @@
 
   &--site {
 
+    a {
+      display: block;
+
+      &:hover {
+        color: inherit;
+      }
+    }
   }
 
   &--toc {
