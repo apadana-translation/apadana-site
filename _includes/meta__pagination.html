@@ -1,0 +1,27 @@
+{% comment %}https://gist.github.com/budparr/3e637e575471401d01ec{% endcomment %}
+
+{% capture the_collection %}{{ page.collection }}{% endcapture %}
+
+{% if page.collection %}
+  {% assign document = site[the_collection] %}
+{% endif %}
+
+{% for links in document %}
+  {% if links.title == page.title %}
+    {% unless forloop.first %}
+      {% assign prevurl = prev.url %}
+      {% assign prevtitle = prev.title %}
+    {% endunless %}
+    {% unless forloop.last %}
+      {% assign next = document[forloop.index] %}
+      {% assign nexttitle = next.title %}
+      {% assign nexturl = next.url %}
+    {% endunless %}
+  {% endif %}
+  {% assign prev = links %}
+{% endfor %}
+
+<section class="meta__pagination">
+  {% if prevurl %}<h5>Previous poem:</h5><a href="{{ prevurl }}">{{ prevtitle}}</a>{% endif %}
+  {% if nexturl %}<h5>Next poem:</h5><a href="{{ nexturl }}">{{ nexttitle }}</a>{% endif %}
+</section>

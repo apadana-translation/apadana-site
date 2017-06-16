@@ -3,4 +3,78 @@
   width: 11rem;
   margin-right: 3.125rem;
   top: 8rem;
+
+  h5 {
+    margin-bottom: 0.25rem;
+    font-size: inherit;
+  }
+
+  a {
+    @include reset-link();
+  }
+}
+
+.meta {
+
+  &__pagination {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid;
+  }
+
+  &__history {
+
+    a {
+      color: inherit;
+    }
+  }
+}
+
+// Timeline of version history
+.timeline {
+  position: relative;
+  padding-left: 1rem;
+  font-style: italic;
+  list-style-type: none;
+
+  &:before {
+    position: absolute;
+    top: .5rem;
+    bottom: .5rem;
+    left: -1px;
+    content:"";
+    width: 1px;
+    background: palette(dark);
+  }
+
+  > li {
+    position: relative;
+    margin-bottom: 2.5rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    &:last-child,
+    &:hover {
+      color: palette(highlight);
+
+      .timeline__marker {
+        border-color: palette(highlight);
+      }
+    }
+  }
+
+  &__marker {
+    display: block;
+    position: absolute;
+    top: 0.25rem;
+    left: -1.375rem;
+    width: 0.75rem;
+    height: 0.75rem;
+    background: palette(light);
+    border: 1px solid palette(dark);
+    border-radius: 0.5rem;
+    z-index: 10;
+  }
 }
