@@ -16,6 +16,10 @@ $switchToggle: (
 
 .switch {
 
+	&-group {
+		padding-left: 0;
+	}
+
   &__input {
     display: none;
   }

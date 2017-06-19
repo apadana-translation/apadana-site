@@ -15,7 +15,9 @@ $body-color: palette(dark);
 $body-bg: palette(light);
 $link-color: palette(highlight);
 
-// Typefaces
+// ===================================
+// Typography
+// ===================================
 @include embed-font("Skolar PE", "SkolarPEWeb-Regular", normal, normal);
 @include embed-font("Skolar PE", "SkolarPEWeb-Italic", normal, italic);
 @include embed-font("Skolar PE", "SkolarPEWeb-Bold", bold, normal);
@@ -27,12 +29,22 @@ $root-font-size: 16px;
 $root-line-height: 1.5;
 
 $nav-font-size: 0.875rem;
+$large-font-size: 20px;
 
+// ===================================
 // Links
+// ===================================
 $link-offset: 2px;
 $link-underline-opacity: 0.6;
 $link-underline-hover-opacity: 0.8;
 
+// ===================================
+// Layout
+// ===================================
+$header-height: 3.5rem;
+
+// ===================================
 // Breakpoints
-$large-breakpoint: 38em;
-$large-font-size: 20px;
+// ===================================
+$medium: 44rem;
+$large: 70rem;

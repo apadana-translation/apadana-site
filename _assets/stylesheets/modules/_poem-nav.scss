@@ -7,6 +7,10 @@
   font-size: $root-font-size;
   font-family: $root-font-family;
 
+  ul {
+    padding-left: 0;
+  }
+
   a {
     @include reset-link();
     color: inherit;

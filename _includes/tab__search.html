@@ -1,11 +1,11 @@
-<section class="tab__primary-content">
-  <form id="contact-form" action="">
-    <input class="input" id="search" type="search" name="search" placeholder="Type something…" autocomplete="off">
-    <label for="search" title="Search" aria-label="Search the site">
-      <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
-    </label>
-  </form>
-</section>
+{% comment %}https://github.com/daviddarnes/alembic/blob/master/_includes/site-search.html{% endcomment %}
+
+<form id="search-form" class="input-group tab__primary-content" action="">
+  <input class="input" id="search" type="search" name="search" placeholder="Type something…" autocomplete="off">
+  <label for="search" title="Search" aria-label="Search the site">
+    <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
+  </label>
+</form>
 
 <aside class="tab__desc">
   <p>Search is not case- or diacritic-sensitive (e.g. Ananda = Ānanda).</p>

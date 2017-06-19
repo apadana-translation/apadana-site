@@ -19,5 +19,8 @@
     "jquery.sidenotes": "^0.2.0",
     "fetch": "^2.0.3",
     "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "breakpoint-sass": "^2.7.1"
   }
 }
