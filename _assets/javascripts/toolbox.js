@@ -141,7 +141,7 @@ var diacriticsMap = {
 };
 
 var diacriticsKeys = Object.keys(diacriticsMap).join('|');
-var diacritics = new RegExp('\(' + diacriticsKeys + '\)', 'g');
+var diacritics = new RegExp('\(' + diacriticsKeys + '\)(?!([^<]+)?>)', 'g');
 document.addEventListener('DOMContentLoaded', function() {
   $(".poem").html(function(_,html){
       return html.replace(diacritics, '<span class="diacritics" data-state="on">$1</span>')
