@@ -72,9 +72,10 @@
 }
 
 .header__title {
-  font-family: $root-font-family;
   margin: 0;
   padding: 1rem;
+  font-family: $root-font-family;
+  font-weight: normal;
 }
 
 .menu {
@@ -104,7 +105,6 @@
   left: 0;
   width: 100%;
   color: palette(dark);
-  background-color: palette(light);
   z-index: -1;
   transform: translateY(-100%);
   transition: transform 0.3s ease;
@@ -144,7 +144,6 @@
 
     &:checked:nth-of-type(#{$i}) ~ .tab__content:nth-of-type(#{$i}) {
       position: relative;
-      opacity: 1;
       top: 0;
       transform: translateY(0px);
 
@@ -198,7 +197,6 @@
     flex-wrap: wrap;
     align-items: baseline;
     position: absolute;
-    opacity: 0;
     left: 0;
     width: 100%;
     transform: translateY(-100%);

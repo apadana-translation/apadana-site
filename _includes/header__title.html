@@ -4,9 +4,9 @@
 {% for category in page.categories %}
   {% if category contains "3" or category contains "4" %}
     {% assign chapter = site.data.categories[category] %}
-    <h4 class="header__title">{{ chapter.name }} / {{ page.title }}</h4>
+    <h4 class="header__title"><strong>{{ chapter.name }} /</strong> {{ page.order | default: "1" | append: ". " }}{{ page.title | truncate: 35 }}</h4>
   {% else %}
-    <h4 class="header__title">{{ page.title }}</h4>
+    <h4 class="header__title"><strong>{{ page.title }}</strong></h4>
   {% endif %}
 {% endfor %}
 

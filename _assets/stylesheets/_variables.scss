@@ -6,7 +6,8 @@ $palettes: (
     light:           #EFEFE5,
     dark:            #322B1A,
     highlight:       #E13A00,
-    shadow:          #EBEBEB
+    gray:            #EBEBEB,
+    shadow:          #322b19
 );
 
 $site-color-names: map-keys($palettes);

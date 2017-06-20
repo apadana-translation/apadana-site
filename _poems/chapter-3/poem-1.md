@@ -1,5 +1,6 @@
 ---
 title: Sāriputta
+order: 1
 layout: poem
 category: chapter-3
 ---
@@ -8,7 +9,7 @@ category: chapter-3
 
 Now listen to the legends of the Theras:
 
-### \[I. Sāriputta\]
+### \[1. Sāriputta\]
 
 Close to the Himalayan range  
 \[on\] the mountain called Lambaka[^1]  
