@@ -5,17 +5,19 @@
 
 .page,
 .poem {
-  display: inline-block;
-  max-width: 450px;
-  padding: 4rem 0;
-  vertical-align: top;
+  padding: 1rem 0;
 
   li + li {
     margin-top: .25rem;
   }
+
+  @include breakpoint($large) {
+  }
 }
 
 .poem {
+  max-width: 450px;
+
   aside, span {
     transition: background-color .2s ease;
   }

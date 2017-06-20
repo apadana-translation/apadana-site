@@ -1,8 +1,4 @@
 .poem__meta {
-  display: inline-block;
-  width: 11rem;
-  margin-right: 3.125rem;
-  top: 8rem;
 
   h5 {
     margin-bottom: 0.25rem;
@@ -11,6 +7,11 @@
 
   a {
     @include reset-link();
+  }
+
+  @include breakpoint($large) {
+    flex: 0 0 12.5rem;
+    padding-right: 3rem;
   }
 }
 
