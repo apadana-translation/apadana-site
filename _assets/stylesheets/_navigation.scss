@@ -14,7 +14,13 @@
     position: fixed;
     top: 0;
     background-color: transparent;
+    transform: translateY(0px);
+    transition: transform 0.5s ease 0.75s;
     z-index: 1;
+
+    .wf-loading & {
+      transform: translateY(-100%);
+    }
 
     @include breakpoint($large) {
       display: flex;
