@@ -1,6 +1,27 @@
 // ===================================
 // Page Layout Styles
 // ===================================
+.page {
+
+  &__header {
+    padding-top: 3rem;
+
+    @include breakpoint($large) {
+      padding-top: 0;
+    }
+  }
+
+  &__title {
+
+  }
+
+  &__content {
+
+    @include breakpoint($medium) {
+      column-count: 2;
+    }
+  }
+}
 
 // ===================================
 // Homepage Styles

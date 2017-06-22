@@ -3,6 +3,10 @@ layout: default
 ---
 
 <article class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
+  <header class="page__header">
+    <h1 class="page__title">{{ page.title }}</h1>
+  </header>
+  <div class="page__content">
+    {{ content }}
+  </div>
 </article>
