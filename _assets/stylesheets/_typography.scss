@@ -1,6 +1,6 @@
-// Typography
-//
-// Headings, body text, lists, and other misc typographic elements.
+// ===================================
+// Basic Typography
+// ===================================
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
@@ -12,15 +12,17 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 2.25rem;
   font-weight: bold;
+  line-height: 1.15;
 }
 
 h2 {
   margin-top: 1rem;
   font-size: 1.875rem;
+  line-height: 1.15;
 }
 
 h3 {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   font-weight: normal;
   font-variant-caps: small-caps;
   font-feature-settings: "smcp";
@@ -29,6 +31,7 @@ h3 {
 h4 {
   margin-top: 1rem;
   font-size: 1.25rem;
+  line-height: 1.35;
 }
 
 h5, h6 {
@@ -93,6 +96,19 @@ blockquote {
 
 aside {
   font-size: 0.8125rem;
+}
+
+// ===================================
+// Special Typographic Classes
+// ===================================
+.site-title {
+  font-size: 3rem;
+}
+
+.subtitle {
+  font-size: 2.5rem;
+  font-style: italic;
+  font-weight: normal;
 }
 
 .lead {

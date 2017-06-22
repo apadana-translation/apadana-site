@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Basic setup
-title:               The Book of Buddhist Legends
-tagline:             'A Jekyll theme'
-description:         'A web-based interface for reading The Book of Buddhist Legends (Apadānapāli) by Jonathan S. Walters, Whitman College, 2017.'
+title:               "The Book of Buddhist Legends"
+subtitle:            "Apadānapāli"
+description:         "A web-based interface for reading The Book of Buddhist Legends (Apadānapāli) by Jonathan S. Walters, Whitman College, 2017."
 url:                 http://127.0.0.1:4000/
 baseurl:             ''
 paginate:            1
@@ -20,7 +20,7 @@ collections:
   poems:
     output:          true
     permalink:       /text/:path/
-    title:           The Book of Buddhist Legends
+    title:           "The Book of Buddhist Legends"
 
 # Front Matter Defaults
 defaults:

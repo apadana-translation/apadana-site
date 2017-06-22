@@ -1,41 +1,22 @@
-// poems and pages
-//
-// Each poem is wrapped in `.poem` and is used on default and poem layouts. Each
-// page is wrapped in `.page` and is only used on the page layout.
+.container#poem {
+  margin-top: 4rem;
+}
 
-.page,
 .poem {
+  max-width: 450px;
   padding: 1rem 0;
+
+  a {
+    @include reset-link();
+  }
 
   li + li {
     margin-top: .25rem;
   }
 
-  @include breakpoint($large) {
-  }
-}
-
-.poem {
-  max-width: 450px;
-
   aside, span {
     transition: background-color .2s ease;
   }
-
-  a {
-    @include reset-link();
-  }
-}
-
-// Blog poem or page title
-.page-title,
-.poem-title,
-.poem-title a {
-  color: #303030;
-}
-.page-title,
-.poem-title {
-  margin-top: 0;
 }
 
 // Toggle poem elements on/off

@@ -1,0 +1,33 @@
+.hero {
+  flex-basis: 100%;
+  display: flex;
+  align-items: center;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  text-align: center;
+
+  @include breakpoint($medium-large) {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    text-align: left;
+  }
+
+  > * {
+    flex: 1;
+  }
+
+  &__content {
+  }
+
+  &__image {
+    display: none;
+
+    @include breakpoint($medium-large) {
+      display: block;
+    }
+
+    img {
+      margin: 0 auto;
+    }
+  }
+}

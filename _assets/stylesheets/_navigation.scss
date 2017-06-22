@@ -384,6 +384,8 @@
     display: flex;
     align-items: baseline;
     flex-direction: column;
+    margin-top: 2rem;
+    padding: 2rem 0;
 
     @include breakpoint($medium) {
       flex-direction: row;

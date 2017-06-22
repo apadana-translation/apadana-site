@@ -1,15 +1,32 @@
 ---
-layout: page
-title: Home
+layout: homepage
+title: The Book of Buddhist Legends
 permalink: /
 ---
 
-Evam me sutam. Tatra, bhikkhave, ye te samanabrahmana amaravikkhepika tattha tattha panham puttha samana vacavikkhepam apajjanti amaravikkhepam catuhi vatthuhi. Atthi kho, bho, anno atta dibbo rupi kamavacaro kabalikaraharabhakkho. Ye kho te bhonto deva na manopadosika.
+<header class="hero">
+<div class="hero__content">
+# {{ site.title }}{.site-title}
+## {{ site.subtitle }}{.subtitle}
+### Translated by Jonathan S. Walters<br/>Whitman College, 2017
+[Read Online](#){.button}
+[Download](#){.button}
+</div>
+<div class="hero__image">
+![Buddha]({{ site.url }}/assets/buddha.png){width=200px height=333px}\
+</div>
+</header>
 
-Itiha te ubho acariyantevasi annamannassa ujuvipaccanikavada bhagavantam pitthito pitthito anubandha honti bhikkhusanghanca. Tatra, bhikkhave, ye te samanabrahmana sassatavada sassatam attananca lokanca pannapenti catuhi vatthuhi, tadapi phassapaccaya.
+<section class="home__section">
+## The Text
+The Apadāna is a collection of moral biographies contained in the Pāli Canon’s “Miscellaneous Division” (*Khuddaka-nikāya*). It was composed in India during about the last two centuries <abbr>B.C.E.</abbr> Most of it consists of autobiographies ascribed to about forty early Buddhist nuns (*Therī-apadāna*) and about five hundred and fifty early Buddhist monks (*Therāpadāna*).
 
-Yam kho idam vuccati cakkhum itipi sotam itipi ghanam itipi jivha itipi kayo itipi, ayam atta anicco addhuvo asassato viparinamadhammo. Tassa tattha ekakassa digharattam nivusitatta anabhirati paritassana upapajjati. Tatra, bhikkhave, ye te samanabrahmana ucchedavada.
+[Learn More](#){.button}
+</section>
 
-Idha, bhikkhave, ekacco samano va brahmano va mando hoti momuho. Vivattakathadi yato kho, bhikkhave, bhikkhu channam phassayatananam samudayanca atthangamanca assadanca adinavanca nissarananca. Yo mamassa vighato so mamassa antarayo'ti. Aham kho idam kusalanti.
+<section class="home__section">
+## About the Project
+This is the first complete translation of the Apadāna into English. Evam me sutam. Adhiccasamuppannavado. Candimasuriyanam pathagamanam bhavissati, candimasuriyanam uppathagamanam bhavissati. Ekam samayam bhagava antara ca rajagaham antara ca nalandam addhanamaggappatipanno hoti mahata bhikkhusanghena saddhim pancamattehi bhikkhusatehi.
 
-Yatha va paneke bhonto samanabrahmana saddhadeyyani bhojanani bhunjitva te evarupam jutappamadatthananuyogam anuyutta viharanti, seyyathidam. Viharati, ettavata kho, bho, ayam atta paramaditthadhammanibbanam patto hoti'ti. Imehi kho te, bhikkhave, samanabrahmana.
+[Learn More](#){.button}
+</section>

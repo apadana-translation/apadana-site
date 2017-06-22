@@ -5,8 +5,12 @@
   fill: currentColor;
   vertical-align: middle;
 
-  & + .header__nav-title {
+  + .header__nav-title {
     margin-left: 0.4rem;
+  }
+
+  + .button {
+    margin-left: 0.25rem;
   }
 
   .nav & {

@@ -63,7 +63,7 @@ toggleNotes.onmouseout = function() {
 // https://stackoverflow.com/questions/17750648/add-span-to-specific-words
 var brackets = new RegExp(/(\[)([a-zA-Z\s]+)(\])/, 'g');
 document.addEventListener('DOMContentLoaded', function() {
-  $(".poem").html(function(_,html){
+  $("#poem").html(function(_,html){
       return html.replace(brackets, '<span class="bracket" data-state="on">$1</span>$2<span class="bracket" data-state="on">$3</span>')
   });
 });
@@ -89,7 +89,7 @@ toggleBrackets.onmouseout = function() {
 // https://stackoverflow.com/questions/17750648/add-span-to-specific-words
 var verseNumbers = new RegExp(/(\s[\(\[][a-z0-9-,\s]+[\)\]])/, 'g');
 document.addEventListener('DOMContentLoaded', function() {
-  $(".poem").html(function(_,html){
+  $("#poem").html(function(_,html){
       return html.replace(verseNumbers, '<span class="verse-number" data-state="on">$1</span>')
   });
 });
@@ -143,7 +143,7 @@ var diacriticsMap = {
 var diacriticsKeys = Object.keys(diacriticsMap).join('|');
 var diacritics = new RegExp('\(' + diacriticsKeys + '\)(?!([^<]+)?>)', 'g');
 document.addEventListener('DOMContentLoaded', function() {
-  $(".poem").html(function(_,html){
+  $("#poem").html(function(_,html){
       return html.replace(diacritics, '<span class="diacritics" data-state="on">$1</span>')
   });
 });
@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // };
 //
 // document.addEventListener('DOMContentLoaded', function() {
-//   $(".poem").html(function(_,html){
+//   $("#poem").html(function(_,html){
 //       return html.replace(/[^\u0000-\u007E]/g, function(x) { return diacriticMap[x] || x; })
 //   });
 // });

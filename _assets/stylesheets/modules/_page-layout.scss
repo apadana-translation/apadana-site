@@ -1,0 +1,44 @@
+// ===================================
+// Page Layout Styles
+// ===================================
+
+// ===================================
+// Homepage Styles
+// ===================================
+.home {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+
+  > * {
+    flex: 1;
+    padding: 1rem 0.5rem;
+  }
+
+  @include breakpoint($medium) {
+    flex-direction: row;
+
+    > * {
+      flex: 1 0 50%;
+    }
+  }
+
+  &__section {
+
+    @include breakpoint($medium) {
+      padding: 1.25rem;
+    }
+
+    @include breakpoint($large) {
+      padding: 2.5rem;
+
+      &:first-of-type {
+        padding-left: 0;
+      }
+
+      &:last-of-type {
+        padding-right: 0;
+      }
+    }
+  }
+}
