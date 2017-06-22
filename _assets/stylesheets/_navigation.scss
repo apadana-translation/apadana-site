@@ -83,15 +83,21 @@
     .header & {
       > ul > li {
         position: relative;
+        padding: 0 1rem;
 
         > ul {
           position: absolute;
           opacity: 0;
+          padding: 0 1rem 0.5rem;
           transform: translateY(-50%);
           transition: all 0.3s ease;
 
           > li {
             padding-top: 0.5rem;
+          }
+
+          @include breakpoint($medium-large) {
+            padding: 0;
           }
         }
 
@@ -99,7 +105,12 @@
 
           > ul {
             opacity: 1;
+            background-color: white;
             transform: translateY(0);
+
+            @include breakpoint($medium-large) {
+              background: none;
+            }
           }
         }
       }
@@ -134,7 +145,7 @@
        visibility: hidden;
      }
 
-     @include breakpoint($large) {
+     @include breakpoint($medium-large) {
        flex-direction: row;
      }
    }
@@ -155,10 +166,12 @@
      position: relative;
      list-style: none;
 
-     &:last-child {
+     .top-bar--site & {
 
-       @include breakpoint($large) {
-         justify-content: flex-end;
+       &:last-child {
+         @include breakpoint($medium-large) {
+           justify-content: flex-end;
+         }
        }
      }
 
@@ -184,7 +197,7 @@
     }
   }
 
-  @include breakpoint($large) {
+  @include breakpoint($medium-large) {
     justify-content: flex-start;
   }
 }
@@ -194,6 +207,15 @@
   padding: 1rem;
   font-family: $root-font-family;
   font-weight: normal;
+
+  a {
+    color: inherit;
+    @include reset-link();
+
+    &:hover, &:focus {
+      color: palette(highlight);
+    }
+  }
 }
 
 // ===================================

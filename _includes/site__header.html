@@ -1,7 +1,7 @@
 <header class="header">
   <div class="top-bar top-bar--site">
     <div class="top-bar__section title-wrap">
-      <h4 class="header__title"><strong>{{ site.title }}</strong></h4>
+      <h4 class="header__title"><strong><a href="{{ site.url }}" title="{{ site.title }}">{{ site.title }}</a></strong></h4>
     </div>
     <div class="top-bar__section">
       {% include site__navigation.html %}
