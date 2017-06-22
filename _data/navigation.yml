@@ -17,11 +17,3 @@ site-nav:
         url: /about/
   - title: "Resources"
     url: /resources/
-
-# Footer navigation links
-
-colophon-menu:
-  - title: "About"
-    url: /about/
-  - title: "Credits"
-    url: /credits/

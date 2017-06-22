@@ -1,7 +1,7 @@
 // ===================================
 // General Navigation
 // ===================================
-.header {
+.header, .footer {
   width: 100%;
   font-family: "skolar-sans-latin-extended", sans-serif;
   font-size: $nav-font-size;
@@ -10,6 +10,30 @@
     list-style: none;
     margin-bottom: 0;
   }
+}
+
+.nav {
+
+  ul {
+    padding-left: 0;
+  }
+
+  a {
+    @include reset-link();
+    color: inherit;
+
+    &:hover,
+    &:focus,
+    &:active {
+      color: palette(highlight);
+    }
+  }
+}
+
+// ===================================
+// Base Header Navigation
+// ===================================
+.header {
 
   &--poem {
     position: fixed;
@@ -32,6 +56,7 @@
 
 .nav {
 
+  // Header & Footer styles
   &--site {
     font-weight: bold;
     text-align: center;
@@ -40,16 +65,28 @@
       display: flex;
 
       > li {
-        position: relative;
         padding: 1rem;
-        cursor: pointer;
+        text-align: left;
 
         // second-level nav
         > ul {
+          font-weight: normal;
+
+          > li {
+            padding-top: 0.25rem;
+          }
+        }
+      }
+    }
+
+    // Header only
+    .header & {
+      > ul > li {
+        position: relative;
+
+        > ul {
           position: absolute;
           opacity: 0;
-          font-weight: normal;
-          text-align: left;
           transform: translateY(-50%);
           transition: all 0.3s ease;
 
@@ -64,6 +101,17 @@
             opacity: 1;
             transform: translateY(0);
           }
+        }
+      }
+    }
+
+    // Footer only
+    .footer & {
+      > ul {
+        flex-wrap: wrap;
+
+        > li {
+          flex: 1 0 50%;
         }
       }
     }
@@ -308,6 +356,66 @@
 
     p:last-child {
       margin-bottom: 0;
+    }
+  }
+}
+
+// ===================================
+// Footer Navigation
+// ===================================
+.footer {
+  color: palette(light);
+  background-color: palette(highlight);
+
+  a {
+
+    &:hover {
+      color: inherit;
+    }
+  }
+
+  p {
+    @include breakpoint($medium) {
+      text-align: right;
+    }
+  }
+
+  .container {
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+
+    @include breakpoint($medium) {
+      flex-direction: row;
+    }
+  }
+
+  &__section {
+    justify-content: center;
+    width: 100%;
+    flex: 1;
+    flex-wrap: wrap;
+    position: relative;
+    list-style: none;
+
+    .wf-loading & {
+      visibility: hidden;
+    }
+
+    &:last-child {
+      padding: 1rem 25% 1rem 1rem;
+
+      a {
+        @include text-link($color: palette(light), $hover: palette(light), $offset: 4px);
+      }
+
+      @include breakpoint($medium) {
+        padding: 1rem;
+      }
+
+      @include breakpoint($large) {
+        padding: 0 0 0 25%;
+      }
     }
   }
 }

@@ -1,9 +1,12 @@
-<footer id="footer" class="site__footer">
-  <ul class="nav-list">
-    <li><a href="/" class="masthead__menu-item">← Home</a></li>
-    {% for link in site.data.navigation.masthead %}
-      <li><a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a></li>
-    {% endfor %}
-  </ul>
-  <p class="copyright">&#169; {{ site.time | date: '%Y' }} Jonathan S. Walters.</p>
+<footer id="footer" class="footer">
+  <div class="container">
+    <div class="footer__section">
+      {% include site__navigation.html %}
+    </div>
+    <div class="footer__section">
+      <p><i>The Book of Buddhist Legends</i> is released under the <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/" title="CC BY-NC-SA 3.0 US" target="_blank">Attribution, Non-Commercial, Share Alike</a> license.</p>
+      <p>The project is published by Jonathan S. Walters and Whitman College, and first appeared in July 2017.  It was last updated on July 30, 2017.</p>
+      <p>Site created by <a href="{{ site.author.url }}" title="{{ site.author.name }}" target="_blank">{{ site.author.name }}</a>.</p>
+    </div>
+  </div>
 </footer>

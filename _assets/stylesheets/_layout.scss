@@ -13,16 +13,12 @@
 
   @include breakpoint($large) {
     flex-direction: row;
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
   }
 }
 
 aside {
   position: relative;
   vertical-align: top;
-}
-
-footer {
-  margin-bottom: 2rem;
 }
