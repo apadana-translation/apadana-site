@@ -1,16 +1,10 @@
 <header class="header">
-  <div class="container">
-    <nav id="nav-primary" class="header__menu-wrapper">
-      <ul class="header__menu">
-        <li><a href="/" class="header__menu-item">← Home</a></li>
-        {% for link in site.data.navigation.site-nav %}
-          {% assign class = nil %}
-          {% if page.url contains link.url %}
-            {% assign class = 'is--active' %}
-          {% endif %}
-          <li><a href="{{ site.url }}{{ link.url }}" class="header__menu-item {{ class }}">{{ link.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </nav>
+  <div class="top-bar top-bar--site">
+    <div class="top-bar__section title-wrap">
+      <h4 class="header__title"><strong>{{ site.title }}</strong></h4>
+    </div>
+    <div class="top-bar__section">
+      {% include site__navigation.html %}
+    </div>
   </div>
 </header>

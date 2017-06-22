@@ -1,13 +1,9 @@
-{% comment %}Mobile menu toggle{% endcomment %}
-
 {% comment %}Poem title (and chapter title if appropriate){% endcomment %}
 {% for category in page.categories %}
   {% if category contains "3" or category contains "4" %}
     {% assign chapter = site.data.categories[category] %}
-    <h4 class="header__title"><strong>{{ chapter.name }} /</strong> {{ page.order | default: "1" | append: ". " }}{{ page.title | truncate: 35 }}</h4>
+    <h5 class="header__title"><strong>{{ chapter.name }} /</strong> {{ page.order | default: "1" | append: ". " }}{{ page.title | truncate: 35 }}</h5>
   {% else %}
-    <h4 class="header__title"><strong>{{ page.title }}</strong></h4>
+    <h5 class="header__title"><strong>{{ page.title }}</strong></h5>
   {% endif %}
 {% endfor %}
-
-{% comment %}Mobile toolbar toggle{% endcomment %}

@@ -1,11 +1,11 @@
-<nav id="site-nav" class="nav nav--site tab__primary-content">
+<nav id="site-nav" class="nav tab__primary-content">
   <ul>
     <li>
       <a href="/">
-        <h4>
+        <h5>
           <svg class="icon-home"><use xlink:href="#icon-home"></use></svg>
           <span>Project Homepage</span>
-        </h4>
+        </h5>
       </a>
     </li>
     {% for link in site.data.navigation.site-nav %}
@@ -15,7 +15,7 @@
       {% endif %}
       <li>
         <a href="{{ site.url }}{{ link.url }}" class="{{ class }}">
-          <h4>{{ link.title }}</h4>
+          <h5>{{ link.title }}</h5>
         </a>
       </li>
     {% endfor %}

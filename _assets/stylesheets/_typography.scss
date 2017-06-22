@@ -26,7 +26,12 @@ h3 {
   font-feature-settings: "smcp";
 }
 
-h4, h5, h6 {
+h4 {
+  margin-top: 1rem;
+  font-size: 1.25rem;
+}
+
+h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
 }

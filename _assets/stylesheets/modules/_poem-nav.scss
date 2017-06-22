@@ -1,10 +1,18 @@
 #tab-menu {
   color: palette(light);
   background-color: palette(highlight);
+  font-family: $root-font-family;
+
+  a {
+    display: block;
+
+    &:hover, &:focus {
+      color: inherit;
+    }
+  }
 }
 
 .nav {
-  font-family: $root-font-family;
 
   ul {
     padding-left: 0;
@@ -15,23 +23,14 @@
     color: inherit;
 
     &:hover,
+    &:focus,
     &:active {
       color: palette(highlight);
     }
   }
 
-  &--site {
-
-    a {
-      display: block;
-
-      &:hover {
-        color: inherit;
-      }
-    }
-  }
-
   &--toc {
+    font-family: $root-font-family;
 
     ol {
       margin-bottom: 0;
@@ -72,6 +71,7 @@
       user-select: none;
 
       &:hover,
+      &:focus,
       &:active {
         color: palette(highlight);
       }

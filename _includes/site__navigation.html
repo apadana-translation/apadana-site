@@ -1,0 +1,16 @@
+<nav id="site-nav" class="nav nav--site">
+  <ul>
+    {% for group in site.data.navigation.site-nav %}
+      <li><a href="{{ site.url }}{{ group.url }}" title="{{ group.title }}" class="{{ class }}">{{ group.title }}</a>
+        <ul>
+          {% for item in group.items %}
+            <li><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}" class="{{ class }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+    <li><a href="#" title="View on GitHub" aria-label="View on GitHub">
+      <svg class="icon-github"><use xlink:href="#icon-github"></use></svg>
+    </a></li>
+  </ul>
+</nav>
