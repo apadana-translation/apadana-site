@@ -246,7 +246,6 @@
      }
 
      .top-bar--poem & {
-       order: 1;
 
        @include breakpoint($large) {
          display: none;
@@ -259,8 +258,11 @@
 
   .top-bar--poem & {
     flex-grow: 4;
-    order: 1;
     align-self: center;
+
+    & + .top-bar__section {
+      order: -1;
+    }
 
     @include breakpoint($large) {
       display: block;
