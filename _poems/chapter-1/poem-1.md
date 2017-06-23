@@ -1,6 +1,6 @@
 ---
 title: The Legend of the Buddhas
-layout: poem--chapter
+layout: poem
 category: chapter-1
 ---
 
