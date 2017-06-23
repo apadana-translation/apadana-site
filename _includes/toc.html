@@ -1,30 +1,36 @@
-
-<ol class="index" id="index">
-{% assign chapters = site.poems | group_by: "category" | sort: "name" %}
-{% for chapter in chapters %}
-  {% assign category_slug = chapter.name %}
-  {% comment %}Pull category name from 'navigation' data file.{% endcomment %}
-  {% assign category = site.data.categories[category_slug] %}
-  {% assign first_poem = chapter.items.first %}
-  {% comment %}Filter out first two chapters from showing nested list, since each contains only one poem.{% endcomment %}
-  {% if chapter.name contains "1" or chapter.name contains "2" %}
-    <li class="index__chapter">
-      <a href="{{ site.baseurl }}{{ first_poem.url }}">{{ category.name }}</a>
-    </li>
-  {% else %}
-  {% comment %}Show nested list of poems for Chapters 3 & 4.{% endcomment %}
-  <li class="index__chapter">
-    <a href="{{ site.baseurl }}{{ first_poem.url }}">{{ category.name }}</a>
-    <ol>
-      {% for item in chapter.items %}
-        <li>
-          <a href="{{ site.baseurl }}{{ item.url }}">
-            {{ item.title }}
-          </a>
-        </li>
-      {% endfor %}
-    </ol>
-  </li>
-  {% endif %}
-{% endfor %}
-</ol>
+<nav id="text-nav" class="nav nav--toc">
+  <ol class="toc__level1">
+  {% assign chapters = site.poems | group_by: "category" | sort: "name" %}
+  {% for chapter in chapters %}
+    {% assign category_slug = chapter.name %}
+    {% comment %}Pull category name from 'navigation' data file.{% endcomment %}
+    {% assign category = site.data.categories[category_slug] %}
+    {% assign first_poem = chapter.items.first %}
+    {% comment %}Filter out first two chapters from showing nested list, since each contains only one poem.{% endcomment %}
+    {% if chapter.name contains "1" or chapter.name contains "2" %}
+      <li>
+        <a class="chapter" href="{{ site.baseurl }}{{ first_poem.url }}">
+          <span class="chapter-name">{{ category.name }}</span>
+          <span class="chapter-size">({{ chapter.size }})</span>
+        </a>
+      </li>
+    {% else %}
+    {% comment %}Show nested list of poems for Chapters 3 & 4.{% endcomment %}
+      <li>
+        <input type="radio" name="accordion-{{ chapter.name }}" id="{{ chapter.name }}">
+        <label class="chapter" for="{{ chapter.name }}">
+          <span class="chapter-name">{{ category.name }}</span>
+          <span class="chapter-size">({{ chapter.size }})</span>
+        </label>
+        <ol class="toc__level2">
+          {% for item in chapter.items %}
+            <li>
+              <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+            </li>
+          {% endfor %}
+        </ol>
+      </li>
+    {% endif %}
+  {% endfor %}
+  </ol>
+</nav>

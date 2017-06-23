@@ -8,12 +8,9 @@
     {% include svg-sprite.html %}
 
     <div class="content">
-      {% include poem__header.html %}
-      <main role="main" id="poem" class="container flex">
-        {% include poem__meta.html %}
-        <div class="poem">
-          {{ content }}
-        </div>
+      {% include site__header.html %}
+      <main role="main" class="container flex">
+        {{ content }}
       </main>
       {% include site__footer.html %}
     </div>

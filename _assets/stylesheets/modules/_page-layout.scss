@@ -5,6 +5,7 @@
 
   &__header {
     padding-top: 3rem;
+    text-align: center;
 
     @include breakpoint($large) {
       padding-top: 0;
@@ -17,16 +18,26 @@
 
   &__content {
 
-    @include breakpoint($medium) {
-      column-count: 2;
-      column-gap: 2.5rem;
+    &.single {
+      max-width: 35rem;
+      margin: 0 auto;
+    }
+
+    &.columns {
+
+      @include breakpoint($medium) {
+        column-count: 2;
+        column-gap: 2.5rem;
+      }
     }
   }
 }
 
 // ===================================
-// Homepage Styles
+// Custom Page Styles
 // ===================================
+
+// Homepage
 .home {
   display: flex;
   flex-wrap: wrap;
@@ -65,13 +76,9 @@
   }
 }
 
-// ===================================
-// Custom Page Styles
-// ===================================
-
-// Resources
+// Resources Page
 .bibliography {
-  @extend .page__content;
+  @extend .page__content.columns;
   padding-left: 1rem;
   break-inside: avoid;
 
@@ -79,3 +86,5 @@
     margin-bottom: 1rem;
   }
 }
+
+// TOC page

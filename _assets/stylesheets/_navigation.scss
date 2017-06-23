@@ -54,9 +54,75 @@
   }
 }
 
+// ===================================
+// Footer Navigation
+// ===================================
+.footer {
+  color: palette(light);
+  background-color: palette(highlight);
+
+  a {
+
+    &:hover {
+      color: inherit;
+    }
+  }
+
+  p {
+    @include breakpoint($medium) {
+      text-align: right;
+    }
+  }
+
+  .container {
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+    margin-top: 2rem;
+    padding: 2rem 0;
+
+    @include breakpoint($medium) {
+      flex-direction: row;
+    }
+  }
+
+  &__section {
+    justify-content: center;
+    width: 100%;
+    flex: 1;
+    flex-wrap: wrap;
+    position: relative;
+    list-style: none;
+
+    .wf-loading & {
+      visibility: hidden;
+    }
+
+    &:last-child {
+      padding: 1rem 25% 1rem 1rem;
+
+      a {
+        @include text-link($color: palette(light), $hover: palette(light), $offset: 4px);
+      }
+
+      @include breakpoint($medium) {
+        padding: 1rem;
+      }
+
+      @include breakpoint($large) {
+        padding: 0 0 0 25%;
+      }
+    }
+  }
+}
+
+// ===================================
+// Navigation Menus
+// ===================================
 .nav {
 
   // Header & Footer styles
+  // .nav--site
   &--site {
     font-weight: bold;
     text-align: center;
@@ -130,6 +196,9 @@
   }
 }
 
+// ===================================
+// Top Bar (w/ Site and Poem variants)
+// ===================================
 .top-bar {
    display: flex;
    position: relative;
@@ -383,63 +452,175 @@
   }
 }
 
-// ===================================
-// Footer Navigation
-// ===================================
-.footer {
+// Main Menu nav from poems
+#tab-menu {
   color: palette(light);
   background-color: palette(highlight);
+  font-family: $root-font-family;
 
   a {
+    display: block;
 
-    &:hover {
+    &:hover, &:focus {
       color: inherit;
     }
   }
+}
 
-  p {
-    @include breakpoint($medium) {
-      text-align: right;
+#tab-toc {
+  @include breakpoint($large) {
+    width: 30rem;
+  }
+}
+
+// ===================================
+// Table of Contents
+// ===================================
+.nav {
+
+  &--toc {
+    font-family: $root-font-family;
+
+    ol {
+      margin-bottom: 0;
+      padding-left: 0;
+      counter-reset: chapter;
+    }
+
+    li {
+      display: table;
+      width: 100%;
+      counter-increment: chapter;
+
+      &:before {
+        display: table-cell;
+        position: relative;
+        width: 2rem;
+      }
+    }
+
+    input[type='radio'] {
+      display: none;
+
+      &:checked {
+
+        & + label {
+          color: palette(highlight);
+
+          & > .icon-plus {
+            display: none;
+          }
+
+          & > .icon-minus {
+            display: inline-block;
+          }
+        }
+
+        & ~ .toc__level2 {
+          max-height: 18.75rem;
+          opacity: 1;
+          overflow-y: auto;
+          padding-bottom: 0.5rem;
+          transform: translateY(0);
+          z-index: 10;
+        }
+      }
     }
   }
+}
 
-  .container {
-    display: flex;
-    align-items: baseline;
-    flex-direction: column;
-    margin-top: 2rem;
-    padding: 2rem 0;
+.toc {
 
-    @include breakpoint($medium) {
-      flex-direction: row;
-    }
-  }
-
-  &__section {
-    justify-content: center;
-    width: 100%;
-    flex: 1;
-    flex-wrap: wrap;
+  &__level1 {
     position: relative;
+    padding-left: 0;
     list-style: none;
 
-    .wf-loading & {
-      visibility: hidden;
+    > li {
+
+      &:before {
+        content: counters(chapter, ".", upper-roman) ". ";
+        background: palette(light);
+
+        #tab-toc & {
+          background: white;
+        }
+      }
+
+      &:not(:last-child) {
+        border-bottom: 2px solid palette(highlight);
+      }
+    }
+  }
+
+  &__level2 {
+    position: relative;
+    max-height: 0;
+    opacity: 0;
+    overflow-y: hidden;
+    font-size: $nav-font-size;
+    transition: all 1s ease;
+
+    > li {
+      padding-bottom: 0.25rem;
+
+      &:before {
+        content: counters(chapter, ".") ". ";
+      }
+    }
+  }
+}
+
+
+
+.chapter {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  padding: 0.5rem 0;
+  user-select: none;
+
+  &:hover,
+  &:focus,
+  &:active {
+    color: palette(highlight);
+  }
+
+  & > .icon-minus {
+    display: none;
+  }
+
+  &-name {
+    display: inline-block;
+    position: relative;
+    padding-right: 1rem;
+    background: palette(light);
+
+    #tab-toc & {
+      background: white;
+    }
+  }
+
+  &-size {
+    float: right;
+    padding-left: 0.5rem;
+    background: palette(light);
+
+    #tab-toc & {
+      background: white;
     }
 
-    &:last-child {
-      padding: 1rem 25% 1rem 1rem;
-
-      a {
-        @include text-link($color: palette(light), $hover: palette(light), $offset: 4px);
-      }
+    &:before {
+      content: "························";
+      display: block;
+      position: absolute;
+      right: 1rem;
+      letter-spacing: 0.5rem;
+      bottom: 5px;
+      z-index: -1;
 
       @include breakpoint($medium) {
-        padding: 1rem;
-      }
-
-      @include breakpoint($large) {
-        padding: 0 0 0 25%;
+        content: "··························";
       }
     }
   }

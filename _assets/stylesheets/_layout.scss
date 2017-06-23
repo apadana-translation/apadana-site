@@ -1,19 +1,26 @@
+// ===================================
 // Layout
-//
-// Styles for managing the structural hierarchy of the site.
+// ===================================
 
 .container {
-  display: flex;
-  flex-direction: column;
+  display: block;
   max-width: 975px;
   margin-left:  auto;
   margin-right: auto;
   padding: 0 1rem;
 
   @include breakpoint($large) {
-    flex-direction: row;
     padding-top: 3rem;
     padding-bottom: 3rem;
+  }
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+
+  @include breakpoint($large) {
+    flex-direction: row;
   }
 }
 
