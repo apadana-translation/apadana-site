@@ -85,7 +85,7 @@ exclude:
 gems:
   - jekyll-assets
 
-#Jekyll Assets
+# Plugin: Jekyll Assets
 assets:
   prefix: "/assets"
   # digest: true
@@ -101,15 +101,14 @@ assets:
     - _assets/stylesheets
     - _assets/fonts
 
-# Plugin: Auto Pages (jekyll-paginate-v2)
-# autopages:
-#   enabled:           true
-#   categories:
-#     enabled:         false
-#   collections:
-#     enabled:         true
+# Plugin: Jekyll Scholar
+scholar:
+  style: chicago-fullnote-bibliography
+  source: ./_resources
+  repository: /public/links
+  bibliography_template: bibliography
 
-# Pandoc configuration
+# Plugin: Jekyll Pandoc Multiple Formats
 markdown: pandoc
 pandoc:
     skip: true

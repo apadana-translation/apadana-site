@@ -19,6 +19,7 @@
 
     @include breakpoint($medium) {
       column-count: 2;
+      column-gap: 2.5rem;
     }
   }
 }
@@ -61,5 +62,20 @@
         padding-right: 0;
       }
     }
+  }
+}
+
+// ===================================
+// Custom Page Styles
+// ===================================
+
+// Resources
+.bibliography {
+  @extend .page__content;
+  padding-left: 1rem;
+  break-inside: avoid;
+
+  > li {
+    margin-bottom: 1rem;
   }
 }

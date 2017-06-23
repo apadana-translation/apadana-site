@@ -17,3 +17,6 @@ site-nav:
         url: /about/
   - title: "Resources"
     url: /resources/
+    items:
+      - title: "Further Reading"
+        url: /resources#further-reading/
