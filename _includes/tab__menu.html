@@ -1,23 +1,21 @@
-<nav id="site-nav" class="nav tab__primary-content">
+<nav id="site-nav" class="nav nav--site tab__primary-content">
   <ul>
     <li>
-      <a href="/">
-        <h5>
-          <svg class="icon-home"><use xlink:href="#icon-home"></use></svg>
-          <span>Project Homepage</span>
-        </h5>
-      </a>
+      <a href="/" title="Project Homepage">Project Homepage</a>
     </li>
-    {% for link in site.data.navigation.site-nav %}
-      {% assign class = nil %}
-      {% if page.url contains link.url %}
-        {% assign class = 'is--active' %}
-      {% endif %}
-      <li>
-        <a href="{{ site.url }}{{ link.url }}" class="{{ class }}">
-          <h5>{{ link.title }}</h5>
-        </a>
+    {% for group in site.data.navigation.site-nav %}
+      <li><a href="{{ site.url }}{{ group.url }}" title="{{ group.title }}" class="{{ class }}">{{ group.title }}</a>
+        {% if group.items %}
+        <ul>
+          {% for item in group.items %}
+            <li><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}" class="{{ class }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
       </li>
     {% endfor %}
+    <li><a href="#" title="View on GitHub" aria-label="View on GitHub">
+      <svg class="icon-github"><use xlink:href="#icon-github"></use></svg>
+    </a></li>
   </ul>
 </nav>

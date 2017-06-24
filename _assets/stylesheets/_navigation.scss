@@ -145,8 +145,8 @@
       }
     }
 
-    // Header only
-    .header & {
+    // Site Header only
+    .header--site & {
       > ul > li {
         position: relative;
         padding: 0 1rem;
@@ -183,6 +183,21 @@
       }
     }
 
+    // Poem header only
+    .header--poem & {
+      >ul {
+        flex-direction: column;
+      }
+
+      a {
+        display: block;
+
+        &:hover, &:focus {
+          color: inherit;
+        }
+      }
+    }
+
     // Footer only
     .footer & {
       > ul {
@@ -194,6 +209,11 @@
       }
     }
   }
+}
+
+#tab-menu {
+  color: palette(light);
+  background-color: palette(highlight);
 }
 
 // ===================================
@@ -454,21 +474,6 @@
   }
 }
 
-// Main Menu nav from poems
-#tab-menu {
-  color: palette(light);
-  background-color: palette(highlight);
-  font-family: $root-font-family;
-
-  a {
-    display: block;
-
-    &:hover, &:focus {
-      color: inherit;
-    }
-  }
-}
-
 #tab-toc {
   @include breakpoint($large) {
     width: 30rem;
@@ -572,8 +577,6 @@
     }
   }
 }
-
-
 
 .chapter {
   display: block;
