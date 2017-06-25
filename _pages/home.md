@@ -13,7 +13,7 @@ permalink: /
 [Download](/text/download/){.button}
 </div>
 <div class="hero__image">
-![Buddha]({{ site.url }}/assets/buddha.png){width=200px height=333px}\
+![Buddha]({{ site.url }}/assets/monks.png){width=305px height=450px}\
 </div>
 </header>
 
