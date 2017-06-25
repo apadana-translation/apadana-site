@@ -5,7 +5,8 @@ permalink:           pretty
 title:               "The Book of Buddhist Legends"
 subtitle:            "Apadānapāli"
 description:         "A web-based interface for reading The Book of Buddhist Legends (Apadānapāli) by Jonathan S. Walters, Whitman College, 2017."
-url:                 http://127.0.0.1:4000/
+#url:                 http://127.0.0.1:4000
+url:                 http://apadanapali-jekyll.s3-website-us-west-2.amazonaws.com
 baseurl:             ''
 paginate:            1
 
@@ -82,6 +83,8 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - bower.json
+  - s3_website.yml
 gems:
   - jekyll-assets
 
