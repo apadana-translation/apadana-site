@@ -45,3 +45,6 @@ validation-report.json
 node_modules
 bower_components
 _assets/bower
+
+# Sensitive files to ignore
+s3_website.yml
