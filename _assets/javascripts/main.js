@@ -7,6 +7,7 @@
 // Compile user scripts
 //= require ga
 //= require navigation
+//= require progress-bar
 //= require sidenote
 //= require toolbox
 //= require share

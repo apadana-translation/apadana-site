@@ -61,7 +61,7 @@ toggleNotes.onmouseout = function() {
 
 // Add <span> tag around all square brackets, preserve text inside
 // https://stackoverflow.com/questions/17750648/add-span-to-specific-words
-var brackets = new RegExp(/(\[)([a-zA-Z\s]+)(\])/, 'g');
+var brackets = /(\[)([a-zA-Z\s]+)(\])/g;
 document.addEventListener('DOMContentLoaded', function() {
   $("#poem").html(function(_,html){
       return html.replace(brackets, '<span class="bracket" data-state="on">$1</span>$2<span class="bracket" data-state="on">$3</span>')
@@ -87,7 +87,7 @@ toggleBrackets.onmouseout = function() {
 
 // Add <span> tag around all verse numbers (look for square or round brackets with only letters, numbers, dashes, or commas inside)
 // https://stackoverflow.com/questions/17750648/add-span-to-specific-words
-var verseNumbers = new RegExp(/(\s[\(\[][a-z0-9-,\s]+[\)\]])/, 'g');
+var verseNumbers = /(\s[\(\[][a-z0-9-,\s]+[\)\]])/g;
 document.addEventListener('DOMContentLoaded', function() {
   $("#poem").html(function(_,html){
       return html.replace(verseNumbers, '<span class="verse-number" data-state="on">$1</span>')
@@ -141,7 +141,7 @@ var diacriticsMap = {
 };
 
 var diacriticsKeys = Object.keys(diacriticsMap).join('|');
-var diacritics = new RegExp('\(' + diacriticsKeys + '\)(?!([^<]+)?>)', 'g');
+var diacritics = /\(' + diacriticsKeys + '\)(?!([^<]+)?>)/g;
 document.addEventListener('DOMContentLoaded', function() {
   $("#poem").html(function(_,html){
       return html.replace(diacritics, '<span class="diacritics" data-state="on">$1</span>')
