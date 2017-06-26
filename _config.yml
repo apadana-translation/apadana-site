@@ -91,7 +91,10 @@ gems:
 # Plugin: Jekyll Assets
 assets:
   prefix: "/assets"
-  # digest: true
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
 
   assets:
     - "*.png"

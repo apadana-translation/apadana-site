@@ -13,6 +13,8 @@ GEM
   specs:
     addressable (2.5.1)
       public_suffix (~> 2.0, >= 2.0.2)
+    autoprefixer-rails (7.1.1.2)
+      execjs
     bibtex-ruby (4.4.3)
       latex-decode (~> 0.0)
     citeproc (1.0.5)
@@ -26,6 +28,7 @@ GEM
       namae (~> 0.7)
     csl-styles (1.0.1.7)
       csl (~> 1.0)
+    execjs (2.7.0)
     extras (0.1.0)
       forwardable-extended (~> 2.5)
     fastimage (2.1.0)
@@ -88,6 +91,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  autoprefixer-rails
   jekyll (~> 3.3.0)
   jekyll-assets
   jekyll-pandoc-multiple-formats!
