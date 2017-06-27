@@ -1,10 +1,19 @@
-Buddha Chapter, the First  
-The Legend of the Buddhas  
-Praise Him, the Blessed One, the Worthy One, the Fully Complete Buddha!  
+---
+title: The Legend of the Buddhas
+layout: poem
+category: chapter-1
+---
+
+### Buddha Chapter, the First {.ch-heading}
+# The Legend of the Buddhas
+
+Praise Him, the Blessed One, the Worthy One, the Fully Complete Buddha!
+
 The Sage of Vedeha,[^1] his body bent, asked  
 the Thus-Gone-One dwelling in Jetavana,  
 “Indeed there are those \[called\] Omniscient Buddhas;  
-through what causes do they become \[so\], Hero?”[^2] \[1\][^3]  
+through what causes do they become \[so\], Hero?”[^2] \[1\][^3]
+
 Then spoke the Omniscient, Outstanding, Great Sage,  
 to lucky Ānanda with \[his\] honeyed voice,  
 “Who performed service among former Buddhas,  
@@ -90,7 +99,8 @@ spread with soft Benares muslin,
 rugs, fine silk, and cloth from China,  
 fibrous cloth and yellow garments.  
 All of these various carpets  
-I laid out \[on them\] with my mind. (14) \[17e-f, 18\]  
+I laid out \[on them\] with my mind. (14) \[17e-f, 18\]
+
 On this floor and that \[floor\] too,  
 ornamented with huts of gems,  
 effulgent torches \[made of\] gems  
@@ -141,15 +151,18 @@ which were \[just like\] divine garments,
 honey and crystallized sugar,  
 sesame oil \[and\] sugar-cane juice,  
 with milk-rice,[^14] each one satisfied,  
-\[they formed\] an exalted circle. (24) \[28, 29a-b\]  
+\[they formed\] an exalted circle. (24) \[28, 29a-b\]
+
 Having entered a jeweled room  
 like a lion its secret cave,  
 they got onto priceless couches  
-in the sleeping-lion posture. (25) \[29c-d, 30a-b\]  
+in the sleeping-lion posture. (25) \[29c-d, 30a-b\]
+
 Mindfully rising up they \[then\]  
 sat cross-legged on those couches,  
 filled with delight in altered states,  
-the pasturage of all Buddhas. (26) \[30c-f\]  
+the pasturage of all Buddhas. (26) \[30c-f\]
+
 Some are preaching their doctrines[^15] \[then\],  
 \[while\] others sport in miracles.  
 Others apply special knowledges,[^16]  
@@ -175,7 +188,8 @@ are really enjoying the palace. (30) \[34\]
 Let there be carried over head  
 a pearl-net-draped umbrella,  
 combined with \[more\] nets made of gold  
-and also of silver and gems. (31) \[35\][^19]  
+and also of silver and gems. (31) \[35\][^19]
+
 Let there be awnings made of cloth,  
 decorated with golden stars  
 and with diverse garlands spread out;  
@@ -218,7 +232,8 @@ throughout the field of the Buddhas,
 and in the universe beyond.[^22]  
 Let the stands of lamps be lighted;  
 let a series of ten thousand  
-all burn as though one single flame. (39-40) \[43-44\]  
+all burn as though one single flame. (39-40) \[43-44\]
+
 Let courtesans and dancers dance,  
 \[and\] troupes of celestial nymphs.  
 Let them put on various shows  
@@ -347,7 +362,8 @@ and vast effulgence is produced. (65) \[69\]
 In so many universes  
 let all the people see me \[there\].  
 Let them all be made \[most\] happy  
-and follow me as their model. (66) \[70\][^28]  
+and follow me as their model. (66) \[70\][^28]
+
 Beat the drum of deathlessness  
 with its sweet \[and\] distinguished sound.  
 Let all the people in that space  
@@ -405,9 +421,10 @@ of pleasure in what can’t be fathomed. (77) \[81\]
 
 Thus the Blessed One spoke the short discourse on *Dhamma* called “The
 Legend of the Buddhas” which was productive of his own Buddha-conduct.  
+
 The Legend of the Buddhas is completed.
 
-[^1]: the Sage of Videha is Ānanda, the Buddha’s cousin and personal attendant.
+[^1]: The Sage of Videha is Ānanda, the Buddha’s cousin and personal attendant.
 
 [^2]: BJTS alt. reads *dhīra* (“Wise One”) for *vīra* (“Hero”)
 
@@ -419,7 +436,7 @@ The Legend of the Buddhas is completed.
 
 [^6]: *indagopaka*
 
-[^7]: I take *sampītaŋ* (BJTS *suppītaṃ*) from *pīta,* “well-saturated.”
+[^7]: I take *sampītaŋ* (BJTS *suppītaṃ*) from *pīta*, “well-saturated.”
 
 [^8]: lit., “various”
 
@@ -427,13 +444,13 @@ The Legend of the Buddhas is completed.
 
 [^10]: reading *sandhī suvibhattā* (BJTS, Hew) for *sandhīsu vibhattā* (“divided into openings,” PTS)
 
-[^11]: or “noble diagram,” *ariyamaṇḍalā.*
+[^11]: or “noble diagram,” *ariyamaṇḍalā*.
 
 [^12]: lit., “were brought”.
 
 [^13]: or “into \[my\] residence” or “into \[that conjured up\] residence.”
 
-[^14]: lit., “with the ultimate food,” *parama-anna*. The Sinhala tradition understands this to be milk-rice *(kiri-bat*), which in Sri Lanka is typically made by boiling the rice in coconut milk rather than cow’s milk. In ancient India, the latter was more likely the case. The term may also mean, more generally, “outstanding food.”
+[^14]: lit., “with the ultimate food,” *parama-anna*. The Sinhala tradition understands this to be milk-rice (*kiri-bat*), which in Sri Lanka is typically made by boiling the rice in coconut milk rather than cow’s milk. In ancient India, the latter was more likely the case. The term may also mean, more generally, “outstanding food.”
 
 [^15]: *dhammāni*
 
@@ -445,7 +462,7 @@ The Legend of the Buddhas is completed.
 
 [^19]: here the reading of the Hewawitarne and BJTS editions, echoed in the commentary, is significantly different: “Let there be umbrellas of gems/with gilded handles of scented bamboo//covered in a net of pearls./Let them all be carried out front.”
 
-[^20]: the palm-print is *pañcaṅguli* or *pañcaṅgulika,* SInhala *pasaṅgul.* Pali-SInhala-English Dictionary gives: “a mark of five fingers made after the hand immersing \[sic\] in a solution of sandalwood.” Here the text specifies that it was scented (*gandha°*).
+[^20]: the palm-print is *pañcaṅguli* or *pañcaṅgulika*, Sinhala *pasaṅgul*. Pali-Sinhala-English Dictionary gives: “a mark of five fingers made after the hand immersing \[sic\] in a solution of sandalwood.” Here the text specifies that it was scented (*gandha°*).
 
 [^21]: *vina.*
 
@@ -455,9 +472,9 @@ The Legend of the Buddhas is completed.
 
 [^24]: lit., “for \[birth among\] the Thirty\[-Three gods who reside in Tāvatiṃsa heaven\]”. The BJTS Sinhala gloss understands this to imply that the *karma* was *kusala* (“wholesome”) in that it was done for the sake of being reborn in that heaven/among those gods.
 
-[^25]: BJTS reads *tejasā,* “by means of my power/inner heat”.
+[^25]: BJTS reads *tejasā*, “by means of my power/inner heat”.
 
-[^26]: *tena kammena sukatena* is a common foot in *Apadāna* which however breaks meter in the Pāli, having nine rather than the expected eight syllables. It easily could be emended to *tena sukatakammena* in order to keep meter in the numerous verses where it appears, but the Pāli does not witness that. Cf. \[5706\], below, for a variant *tena kammavisesana,* which does keep the meter. While I am tempted to emend the English so that the foot does keep the eight-syllable meter, “Due to that karma done very well,” I have maintained the lack of metricality — might this be somehow intentional, as to call special intention to this repeated verse? — by translating, “due to that karma done very well,” throughout.
+[^26]: *tena kammena sukatena* is a common foot in *Apadāna* which however breaks meter in the Pāli, having nine rather than the expected eight syllables. It easily could be emended to *tena sukatakammena* in order to keep meter in the numerous verses where it appears, but the Pāli does not witness that. Cf. \[5706\], below, for a variant *tena kammavisesana*, which does keep the meter. While I am tempted to emend the English so that the foot does keep the eight-syllable meter, “Due to that karma done very well,” I have maintained the lack of metricality — might this be somehow intentional, as to call special intention to this repeated verse? — by translating, “due to that karma done very well,” throughout.
 
 [^27]: a heaven of great pleasure, sometimes identified by “the thirty” or “the thirty-three” gods who dwell there.
 
