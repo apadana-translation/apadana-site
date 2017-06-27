@@ -106,8 +106,7 @@ The legend of Sattuppalamālikāya Therī[^14] is finished.
 
 [^2]: lit., “a kṣatriyan”
 
-[^3]: reading *cārikaṃ cārayām’ ahaṃ* (BJTS) for *na mālaŋ pādayām’
-    ahaŋ* (“I didn’t ? a garland,” PTS).
+[^3]: reading *cārikaṃ cārayām’ ahaṃ* (BJTS) for *na mālaŋ pādayām’ ahaŋ* (“I didn’t ? a garland,” PTS).
 
 [^4]: lit., “What then for me with these flowers...?”
 
@@ -115,14 +114,11 @@ The legend of Sattuppalamālikāya Therī[^14] is finished.
 
 [^6]: *vedajāto*
 
-[^7]: cf. above, n. to *Therī-apadāna* v. \[51\], on this obscure
-    term*.*
+[^7]: cf. above, n. to *Therī-apadāna* v. \[51\], on this obscure term*.*
 
-[^8]: lit., “as far as my”. Pronounce as two syllables when chanting, to
-    keep the meter.
+[^8]: lit., “as far as my”. Pronounce as two syllables when chanting, to keep the meter.
 
-[^9]: lit., “one whose words are to be taken,” reading *ādeyyavacanā*
-    (BJTS, PTS alt) for *adeyya°* (PTS).
+[^9]: lit., “one whose words are to be taken,” reading *ādeyyavacanā* (BJTS, PTS alt) for *adeyya°* (PTS).
 
 [^10]: see note to *Therāpadāna* v. \[309\].
 
@@ -132,5 +128,4 @@ The legend of Sattuppalamālikāya Therī[^14] is finished.
 
 [^13]: see *Therāpadāna* v. \[649\] for these same two feet.
 
-[^14]: This is the BJTS reading; PTS reads *Bhikkhunī
-    Sattuppalamālikāya*
+[^14]: This is the BJTS reading; PTS reads *Bhikkhunī Sattuppalamālikāya*

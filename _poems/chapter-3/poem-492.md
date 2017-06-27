@@ -37,20 +37,12 @@ six special knowledges mastered,
 Thus indeed Venerable Paŋsukūlapūjaka Thera spoke these verses.  
 The legend of Paŋsukūlapūjaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Rag-Robe Worshipper”
 
-[^3]: “Water”. BJTS (and PTS alt.) read *Uddhangaṇo* (“High Clearing”),
-    but this breaks the meter so I stick with the PTS reading of this
-    (anyway likely mythical) name
+[^3]: “Water”. BJTS (and PTS alt.) read *Uddhangaṇo* (“High Clearing”), but this breaks the meter so I stick with the PTS reading of this (anyway likely mythical) name
 
-[^4]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as
-    *duma + agge*. It would also be possible to take it as *du+ magge*,
-    “on a bad road”. Cf. v. \[592\] above for a case comparable to the
-    latter. Though I do follow it here, the cty and BJTS reading rather
-    begs the question how the Buddha’s rag robes got up in the tree.
+[^4]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as *duma + agge*. It would also be possible to take it as *du+ magge*, “on a bad road”. Cf. v. \[592\] above for a case comparable to the latter. Though I do follow it here, the cty and BJTS reading rather begs the question how the Buddha’s rag robes got up in the tree.
 
 [^5]: here as elsewhere, BJTS reads *kiṅkaṇiº*

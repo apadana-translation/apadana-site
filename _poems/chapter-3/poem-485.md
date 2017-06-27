@@ -155,30 +155,21 @@ six special knowledges mastered,
 Thus indeed Venerable Candanamāliya Thera spoke these verses.  
 The legend of Candanamāliya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Sandalwood and Flowers-er”
 
-[^3]: *pañca-kāma-guṇe,* “the five strands of sense pleasure,” namely
-    those obtained through the five senses
+[^3]: *pañca-kāma-guṇe,* “the five strands of sense pleasure,” namely those obtained through the five senses
 
 [^4]: *pāpakammaŋ vivajjayiŋ*
 
-[^5]: reading *ekakaṃ maṃ viharantaṃ* with BJTS for the garbled PTS
-    *ekakammaŋ vihāraŋ taŋ* (“that monastery, the single karma” \[?\])
+[^5]: reading *ekakaṃ maṃ viharantaṃ* with BJTS for the garbled PTS *ekakammaŋ vihāraŋ taŋ* (“that monastery, the single karma” \[?\])
 
 [^6]: *akāsiŋ paṭisantharaŋ*
 
-[^7]: BJTS (and acc. to PTS note on p. 423 all the mss.) read *ādu,* but
-    I follow PTS in translating the more straightforward *uda* in its
-    stead.
+[^7]: BJTS (and acc. to PTS note on p. 423 all the mss.) read *ādu,* but I follow PTS in translating the more straightforward *uda* in its stead.
 
-[^8]: *mahābrahmā,* “the great Brahmā”. For an argument that “God” is
-    the appropriate translation, see my and Gunapala Dharmasiri’s entry
-    on “God” in Malalasekera et al, eds., *Encyclopedia of Buddhism*
-    (Colombo), Volume 5, Fascicle 2 (1991):345-47
+[^8]: *mahābrahmā,* “the great Brahmā”. For an argument that “God” is the appropriate translation, see my and Gunapala Dharmasiri’s entry on “God” in Malalasekera et al, eds., *Encyclopedia of Buddhism* (Colombo), Volume 5, Fascicle 2 (1991):345-47
 
 [^9]: *mārisa,* BJTS gloss *nidukāṇeni* (“O you without suffering”)
 
@@ -192,33 +183,26 @@ The legend of Candanamāliya Thera is finished.
 
 [^14]: PTS and BJTS agree in presenting this as a six-footed verse
 
-[^15]: presumably sandalwood which has been prepared into a paste, as
-    *prasāda*
+[^15]: presumably sandalwood which has been prepared into a paste, as *prasāda*
 
 [^16]: or “to laugh”
 
-[^17]: reading *anūnamattasaṅkappo,* as above, with BJTS for PTS
-    *anunamanasaṅkappo*
+[^17]: reading *anūnamattasaṅkappo,* as above, with BJTS for PTS *anunamanasaṅkappo*
 
 [^18]: *vasavatti bhavissati.*
 
 [^19]: PTS and BJTS agree in presenting this as a six-footed verse
 
-[^20]: *caturanto vijitāvi,* “possessed of conquest of the four
-    quarters,” a supreme imperial overlord
+[^20]: *caturanto vijitāvi,* “possessed of conquest of the four quarters,” a supreme imperial overlord
 
 [^21]: PTS and BJTS agree in presenting this as a six-footed verse
 
-[^22]: reading *abhiññāpāragū hutvā* with BJTS for PTS
-    *aviññattipaccayo,* “one whose support is not known”
+[^22]: reading *abhiññāpāragū hutvā* with BJTS for PTS *aviññattipaccayo,* “one whose support is not known”
 
 [^23]: this verse does not appear in PTS
 
-[^24]: *orena nâddasaŋ ahaŋ*, following BJTS Sinhala gloss *lamusē no
-    diṭimi*
+[^24]: *orena nâddasaŋ ahaŋ*, following BJTS Sinhala gloss *lamusē no diṭimi*
 
-[^25]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of
-    *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred
-    horse”
+[^25]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
 [^26]: lit., “did *pūjā*”

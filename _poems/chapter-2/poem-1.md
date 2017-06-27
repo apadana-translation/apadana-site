@@ -251,47 +251,27 @@ for increasing emotion and connection.[^109] (58) \[139\]
 
 The Legend of the Lonely Buddhas is finished.[^110]
 
-[^1]: the Sage of Videha is Ānanda, the Buddha’s cousin and personal
-    attendant
+[^1]: the Sage of Videha is Ānanda, the Buddha’s cousin and personal attendant
 
 [^2]: *paccekabuddhā*
 
-[^3]: This and the following two verses correspond to the first three
-    verses of *Buddhāpadāna,* above, where they are however found only
-    in the BJTS edition; here, PTS agrees with BJTS in including them.
-    They are in the more elaborate meter, with eleven syllables per
-    foot, that characterizes the entire *Paccekabuddhāpadāna* (and the
-    *sutta* from which it in turn draws, SN I.3), so I have translated
-    accordingly.
+[^3]: This and the following two verses correspond to the first three verses of *Buddhāpadāna,* above, where they are however found only in the BJTS edition; here, PTS agrees with BJTS in including them. They are in the more elaborate meter, with eleven syllables per foot, that characterizes the entire *Paccekabuddhāpadāna* (and the *sutta* from which it in turn draws, SN I.3), so I have translated accordingly.
 
-[^4]: reading *pubba°* with BJTS (and PTS alt., and BJTS \[2\], above)
-    for PTS *sabba°* (“all”)
+[^4]: reading *pubba°* with BJTS (and PTS alt., and BJTS \[2\], above) for PTS *sabba°* (“all”)
 
 [^5]: j*inasāsanesu,* lit., “Victors’ dispensations”
 
 [^6]: *vaṇṇa-padesa-mattaŋ*
 
-[^7]: or, reading *sabbesu pasannacittā,* “with minds pleased in all of
-    those \[Lonely Buddhas\]”
+[^7]: or, reading *sabbesu pasannacittā,* “with minds pleased in all of those \[Lonely Buddhas\]”
 
-[^8]: or read *madhuṃ va khuddaṃ* (“sweet like honey”) with BJTS, as
-    below even in PTS (v. 56)
+[^8]: or read *madhuṃ va khuddaṃ* (“sweet like honey”) with BJTS, as below even in PTS (v. 56)
 
-[^9]: *ādīnavo yañ ca,* BJTS Sinhala gloss *kāmayen*, i.e., “the danger”
-    is (as *ādīnavo* connotes) passion itself
+[^9]: *ādīnavo yañ ca,* BJTS Sinhala gloss *kāmayen*, i.e., “the danger” is (as *ādīnavo* connotes) passion itself
 
-[^10]: reading *tath’ eva* with BJTS for PTS *tatth’ eva* (“there
-    indeed”)
+[^10]: reading *tath’ eva* with BJTS for PTS *tatth’ eva* (“there indeed”)
 
-[^11]: BJTS adds the Pāli note: *ayaṃ gāthā marammapothake ca
-    suttanipāte ca na vijjjati,* “this verse is not found in the Burmese
-    edition nor \[lit., “and”\] in *Suttanipāta*,” referring to the
-    remarkable fact that even though the following text is lifted almost
-    verbatim from the “Rhinocerous Horn” *sutta* of the *Sutta-nipāta*
-    (I.3), corresponding as indicated in the footnotes on the following
-    verses, this present verse in the *Paccekabuddhāpadāna,* though it
-    follows the format of the *Sutta-nipāta sutta*, is not found in that
-    *sutta* (nor, apparently, in Burmese manuscripts of *Apadāna*)*.*
+[^11]: BJTS adds the Pāli note: *ayaṃ gāthā marammapothake ca suttanipāte ca na vijjjati,* “this verse is not found in the Burmese edition nor \[lit., “and”\] in *Suttanipāta*,” referring to the remarkable fact that even though the following text is lifted almost verbatim from the “Rhinocerous Horn” *sutta* of the *Sutta-nipāta* (I.3), corresponding as indicated in the footnotes on the following verses, this present verse in the *Paccekabuddhāpadāna,* though it follows the format of the *Sutta-nipāta sutta*, is not found in that *sutta* (nor, apparently, in Burmese manuscripts of *Apadāna*)*.*
 
 [^12]: *kuto*, lit., “how then?” “from where?”
 
@@ -325,18 +305,13 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^27]: lit., “like a *mātaṅga* elephant in the woods (or forest)”
 
-[^28]: this corresponds to SN, v. 46 but the latter does not diverge
-    from the standard refrain, reading as the fourth foot: “one should
-    wander alone, like a rhino’s horn”
+[^28]: this corresponds to SN, v. 46 but the latter does not diverge from the standard refrain, reading as the fourth foot: “one should wander alone, like a rhino’s horn”
 
 [^29]: lit., “companions”
 
 [^30]: = SN, v. 47
 
-[^31]: = SN, v. 48. Clanging bangles is a common image of the throes of
-    passion in Sanskrit erotic poetry, one of many levels at which the
-    imagery here works to characterize the Lonely Buddha’s aversion to
-    the world
+[^31]: = SN, v. 48. Clanging bangles is a common image of the throes of passion in Sanskrit erotic poetry, one of many levels at which the imagery here works to characterize the Lonely Buddha’s aversion to the world
 
 [^32]: *dutiyena sahā,* lit., “with a second”
 
@@ -350,20 +325,15 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^37]: = SN, v. 53
 
-[^38]: lit., “it is an impossibility (*aṭṭhāna,* for *a-ṭṭhānaṃ,* lit.,
-    “groundless”) that one...would touch”
+[^38]: lit., “it is an impossibility (*aṭṭhāna,* for *a-ṭṭhānaṃ,* lit., “groundless”) that one...would touch”
 
-[^39]: *Ādiccabandhussa.* Though elsewhere in *Apadāna* this epithet
-    signals Sammāsambuddhas (especially Tissa), here, as BJTS gloss
-    makes clear, it refers to the Paccekabuddha to whom the phrase in
-    quotation marks is attributed.
+[^39]: *Ādiccabandhussa.* Though elsewhere in *Apadāna* this epithet signals Sammāsambuddhas (especially Tissa), here, as BJTS gloss makes clear, it refers to the Paccekabuddha to whom the phrase in quotation marks is attributed.
 
 [^40]: = SN, v. 54
 
 [^41]: = SN, v. 55
 
-[^42]: *niddhanta-kasāva=moho,* lit., “with faults and delusions blown
-    away/purified/cleaned up”
+[^42]: *niddhanta-kasāva=moho,* lit., “with faults and delusions blown away/purified/cleaned up”
 
 [^43]: = SN, v. 56
 
@@ -375,12 +345,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^47]: *ca,* lit., “and”
 
-[^48]: *vibhūsanaṭṭhāṇā,* lit., “from a state of adornment”. The
-    *°(ṭ)ṭhāṇā* here is largely superfluous, except in providing the
-    ablative required by *virato,* and messes up the meter (13 syllables
-    in this foot), but neither PTS nor BJTS indicates any hesitation
-    about the reading. Norman, in his SN tr. (p. 9) reads *vibhūsanā*
-    and omits *°ṭṭhāṇā*
+[^48]: *vibhūsanaṭṭhāṇā,* lit., “from a state of adornment”. The *°(ṭ)ṭhāṇā* here is largely superfluous, except in providing the ablative required by *virato,* and messes up the meter (13 syllables in this foot), but neither PTS nor BJTS indicates any hesitation about the reading. Norman, in his SN tr. (p. 9) reads *vibhūsanā* and omits *°ṭṭhāṇā*
 
 [^49]: = SN, v. 59
 
@@ -436,12 +401,9 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^75]: or “hard to get,” *dullabhā*
 
-[^76]: = SN, v. 75. This is the concluding verse of this sermon in SN,
-    and the remaining nine verses of this *apadāna* are apparently
-    original to it, as are its first eight verses, above.
+[^76]: = SN, v. 75. This is the concluding verse of this sermon in SN, and the remaining nine verses of this *apadāna* are apparently original to it, as are its first eight verses, above.
 
-[^77]: lit., “of going in the aspects of path \[and\] the aspects of
-    wisdom (*°bojjhaṅga°*)”
+[^77]: lit., “of going in the aspects of path \[and\] the aspects of wisdom (*°bojjhaṅga°*)”
 
 [^78]: or predictions: *nimittaŋ*
 
@@ -471,14 +433,11 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^91]: lit., “in” “among”
 
-[^92]: *paccantasattesu satippacārā.* BJTS reads *paccanta
-    gambhīra-mata-ppacāra,* “Going About with Deep Thought for
-    Neighboring \[Folks\]” (?)
+[^92]: *paccantasattesu satippacārā.* BJTS reads *paccanta gambhīra-mata-ppacāra,* “Going About with Deep Thought for Neighboring \[Folks\]” (?)
 
 [^93]: *Dīpā*
 
-[^94]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me*
-    (“these...who are constantly friendly”)
+[^94]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me* (“these...who are constantly friendly”)
 
 [^95]: *pahīnasabbāvaraṇā*
 
@@ -490,8 +449,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^99]: *lokasudakkhiṇeyyā*
 
-[^100]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me*
-    (“these...who are constantly friendly”)
+[^100]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me* (“these...who are constantly friendly”)
 
 [^101]: *subhāsitāni*
 
@@ -501,18 +459,13 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^104]: lit., “like”
 
-[^105]: BJTS reads *khuddam avassavantaṃ* (“flowing honey”) for PTS
-    *khuddam iva ssavantam* (“like \[“as if they were”\] flowing
-    honey”)*, *
+[^105]: BJTS reads *khuddam avassavantaṃ* (“flowing honey”) for PTS *khuddam iva ssavantam* (“like \[“as if they were”\] flowing honey”)*, *
 
-[^106]: I follow BJTS Sinhala gloss in interpolating “the Four Noble
-    Truths” here, as elsewhere more explicitly throughout *Apadāna.*
+[^106]: I follow BJTS Sinhala gloss in interpolating “the Four Noble Truths” here, as elsewhere more explicitly throughout *Apadāna.*
 
 [^107]: *Śākyasīhena*
 
-[^108]: *vikubbitāni,* lit., “miraculous transformations” (as through
-    *iddhi* superpowers); the term seems to agree with *subhāsitāni,*
-    “clever sayings,” in vv. 55-56 = “lofty verses” in v. 57.
+[^108]: *vikubbitāni,* lit., “miraculous transformations” (as through *iddhi* superpowers); the term seems to agree with *subhāsitāni,* “clever sayings,” in vv. 55-56 = “lofty verses” in v. 57.
 
 [^109]: *saŋvegasaṅgāmativaḍḍhanatthaŋ*
 

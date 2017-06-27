@@ -144,43 +144,32 @@ The legend of Tīṇisaraṇāgamaniya Thera is finished.
 
 [^1]: “three-Refuge Goer,” cf. \#113, \#298, \#356{359}
 
-[^2]: some alt. PTS mss. as well as cty read Baṇḍumatī; BJTS like PTS
-    reads Caṇḍavatī. See DPPN I:851; the city is only “known” to have
-    existed during the time of previous Buddhas (and during the previous
-    lives of Gotama Buddha).
+[^2]: some alt. PTS mss. as well as cty read Baṇḍumatī; BJTS like PTS reads Caṇḍavatī. See DPPN I:851; the city is only “known” to have existed during the time of previous Buddhas (and during the previous lives of Gotama Buddha).
 
-[^3]: lit., “I do not receive the pabbajja (renunciation, going forth,
-    in these texts meaning becoming a Buddhist monk or nun).”
+[^3]: lit., “I do not receive the pabbajja (renunciation, going forth, in these texts meaning becoming a Buddhist monk or nun).”
 
-[^4]: pihitā, cut off. Cty. glosses the participle with chāditā,
-    covered, concealed
+[^4]: pihitā, cut off. Cty. glosses the participle with chāditā, covered, concealed
 
-[^5]: the cty on \[352\] explains these as the fires of *rāga* (lust),
-    *dosa* (anger) and *moha* (ignorance, folly)
+[^5]: the cty on \[352\] explains these as the fires of *rāga* (lust), *dosa* (anger) and *moha* (ignorance, folly)
 
 [^6]: lit., “meritorious,” *puññaº*
 
 [^7]: lit., “I went for the going for refuge.”
 
-[^8]: lit., “At that time the lifespan that existed was one hundred
-    thousand years”
+[^8]: lit., “At that time the lifespan that existed was one hundred thousand years”
 
 [^9]: lit., “the eight causes \[of happiness\]
 
-[^10]: reading *paṭikanto* (BJTS) for *paṭikkanto* (“gone,” “departed,”
-    PTS).
+[^10]: reading *paṭikanto* (BJTS) for *paṭikkanto* (“gone,” “departed,” PTS).
 
 [^11]: lit., “in the city of Śāvasti (Sāvatthi)”
 
-[^12]: reading *hāsa-khiḍa-samaṅgīnaṃ* (BJTS) for
-    *sahassa-khiḍḍa-samaṅgī ‘ham* (PTS).
+[^12]: reading *hāsa-khiḍa-samaṅgīnaṃ* (BJTS) for *sahassa-khiḍḍa-samaṅgī ‘ham* (PTS).
 
 [^13]: lit., “with own strength as far as \[you can\]”
 
 [^14]: lit., “acting out of analogy with me”: *mamopamaṃ karitvāna*
 
-[^15]: *tevijja*: the threefold knowledge of an arahant, namely,
-    recollection of former lives, insight into the deaths and births of
-    beings, and recognition of the destruction of all passions.
+[^15]: *tevijja*: the threefold knowledge of an arahant, namely, recollection of former lives, insight into the deaths and births of beings, and recognition of the destruction of all passions.
 
 [^16]: lit., “understanding the minds of others”

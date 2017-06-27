@@ -38,17 +38,13 @@ six special knowledges mastered,
 Thus indeed Venerable Koladāyaka Thera spoke these verses.  
 The legend of Koladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Jujube Donor.” Virtually the same *apadāna* is repeated below as
-    \#{553}, where it is ascribed to the historical monk Gayākassapa.
+[^2]: “Jujube Donor.” Virtually the same *apadāna* is repeated below as \#{553}, where it is ascribed to the historical monk Gayākassapa.
 
 [^3]: lit., “with”
 
-[^4]: *kolaŋ*, Sinh. *ḍebara phala,* Ziziphus Mauritania, Zyziphus
-    Jujuba, Indian jujube or Chinese apple.
+[^4]: *kolaŋ*, Sinh. *ḍebara phala,* Ziziphus Mauritania, Zyziphus Jujuba, Indian jujube or Chinese apple.
 
 [^5]: lit., “without a second”
 

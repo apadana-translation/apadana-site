@@ -26,10 +26,6 @@ The legend of Ekapupphiya Thera is finished.
 
 [^2]: *pisāco*
 
-[^3]: *vītaraṃsa*; see above, note to \#215, v. 1 \[2339\]. xxx should
-    this, and the two sun metaphors in \#215, and again in \#305, be
-    treated as epithets? The distinction is taken to be the presence (or
-    not, in the case of epithets) of comparative enclitics like *va,
-    iva*
+[^3]: *vītaraṃsa*; see above, note to \#215, v. 1 \[2339\]. xxx should this, and the two sun metaphors in \#215, and again in \#305, be treated as epithets? The distinction is taken to be the presence (or not, in the case of epithets) of comparative enclitics like *va, iva*
 
 [^4]: *sabbalokahitesino*

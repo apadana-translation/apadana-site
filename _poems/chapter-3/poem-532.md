@@ -188,34 +188,21 @@ six special knowledges mastered,
 Thus indeed Venerable Vakkali Thera spoke these verses.  
 The legend of Vakkali Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Bark-Clad”. A historical monk, foremost among those intention
-    upon faith (*saddhādhimuttānaṃ*), famous for never tiring of looking
-    at the Buddha. See DPPN II:799ff.
+[^2]: “Bark-Clad”. A historical monk, foremost among those intention upon faith (*saddhādhimuttānaṃ*), famous for never tiring of looking at the Buddha. See DPPN II:799ff.
 
-[^3]: reading *anomanāmo* (lit., “having a name which was not inferior”)
-    with BJTS for PTS *Anomā nāmo* (named “Anomā”)
+[^3]: reading *anomanāmo* (lit., “having a name which was not inferior”) with BJTS for PTS *Anomā nāmo* (named “Anomā”)
 
 [^4]: *amito*
 
-[^5]: *padumākāravadano,* lit., “he whose speech had the attributes of a
-    lotus;” the epithet does not specify which “attributes” (*ākāra*)
-    are shared by his speech and a lotus, but presumably the intention
-    is “beautiful speech” “fragrant speech” “flawless speech,” and so
-    forth. Cty (p. 493): *supuphiyapadumasassirīkamukho*, “having a
-    mouth with the resplendence of a good lotus flower”
+[^5]: *padumākāravadano,* lit., “he whose speech had the attributes of a lotus;” the epithet does not specify which “attributes” (*ākāra*) are shared by his speech and a lotus, but presumably the intention is “beautiful speech” “fragrant speech” “flawless speech,” and so forth. Cty (p. 493): *supuphiyapadumasassirīkamukho*, “having a mouth with the resplendence of a good lotus flower”
 
 [^6]: lit., “good skin”
 
 [^7]: *padumāmalasucchavi*
 
-[^8]: BJTS reads *vīro* for PTS *dhīro,* a common confusion given the
-    similarity of the Sinhala letters “vī” and “dhī,” though typically
-    BJTS reads *dhīro* for PTS *vīro.* It is not clear to me how either
-    epithet relates to lotuses.
+[^8]: BJTS reads *vīro* for PTS *dhīro,* a common confusion given the similarity of the Sinhala letters “vī” and “dhī,” though typically BJTS reads *dhīro* for PTS *vīro.* It is not clear to me how either epithet relates to lotuses.
 
 [^9]: *padumapattakkho*
 
@@ -237,48 +224,25 @@ The legend of Vakkali Thera is finished.
 
 [^18]: *karuṇā-mati-sāgaro*
 
-[^19]: reading *brahmāsuresuraccito* with BJTS (and PTS alt.) for PTS
-    *brahmāmarasuraccito* (“Praised by Brahmā and the Deathless Gods” or
-    “Praised by Brahmā the God and the Gods”
+[^19]: reading *brahmāsuresuraccito* with BJTS (and PTS alt.) for PTS *brahmāmarasuraccito* (“Praised by Brahmā and the Deathless Gods” or “Praised by Brahmā the God and the Gods”
 
 [^20]: *januttamo*
 
-[^21]: *sadevamanujâkiṇṇo.* BJTS notes alt. that reads this as *ºâkiṇṇe*
-    and takes it as modifying *janamajjhe,* but accepts the reading
-    *ºâkiṇṇo* which makes it an epithet of the Buddha.
+[^21]: *sadevamanujâkiṇṇo.* BJTS notes alt. that reads this as *ºâkiṇṇe* and takes it as modifying *janamajjhe,* but accepts the reading *ºâkiṇṇo* which makes it an epithet of the Buddha.
 
 [^22]: *kadāci...janamajjhe,* following BJTS Sinh. gloss
 
-[^23]: *mama dassanalālaso,* lit., “fervently desirous of my look” or
-    “of a vision (cf. Skt. *darśan*) of me”. PSI *lālasā* = *adhika
-    tṛṣṇāva,* ardent desire, BJTS Sinh. gloss *lol vu* (desiring,
-    attached to, greedy for, eager), fr. *luḷati*, to be stirred up,
-    agitated
+[^23]: *mama dassanalālaso,* lit., “fervently desirous of my look” or “of a vision (cf. Skt. *darśan*) of me”. PSI *lālasā* = *adhika tṛṣṇāva,* ardent desire, BJTS Sinh. gloss *lol vu* (desiring, attached to, greedy for, eager), fr. *luḷati*, to be stirred up, agitated
 
-[^24]: as with Mahākaccāna (see v. \[5670-5671\], above), the
-    protagonist emulates a monk during his past life who has the same
-    name which he will have as a monk in his future life during the time
-    of Gotama Buddha. In other words, the monk named Vakkali referred to
-    by Padumuttara is emulated and imitated by the later follower of
-    Gotama Buddha even to the extent of having the same name.
+[^24]: as with Mahākaccāna (see v. \[5670-5671\], above), the protagonist emulates a monk during his past life who has the same name which he will have as a monk in his future life during the time of Gotama Buddha. In other words, the monk named Vakkali referred to by Padumuttara is emulated and imitated by the later follower of Gotama Buddha even to the extent of having the same name.
 
-[^25]: or “whose clothes are (or whose dwelling place is) made of gold.”
-    I follow BJTS Sinh. gloss *kahavat handanā vū* (“dressed in yellow
-    cloth”)
+[^25]: or “whose clothes are (or whose dwelling place is) made of gold.” I follow BJTS Sinh. gloss *kahavat handanā vū* (“dressed in yellow cloth”)
 
-[^26]: reading *hemayaññopavītaṅgaṃ* with BJTS for PTS
-    *hemayaññopacitaṅgaŋ* (“body heaped up with sacrifices of gold”?).
-    The *yaññopavīta* (or more correctly *yaññopanīta*), lit.,
-    “sacrificial cord,” is a distinctive accoutrement of brahmin dress;
-    the protagonist’s was gold-colored or made or gold. BJTS Sinh. gloss
-    suggests the latter: *ranvan pūnanūlak därǟ siruru*
+[^26]: reading *hemayaññopavītaṅgaṃ* with BJTS for PTS *hemayaññopacitaṅgaŋ* (“body heaped up with sacrifices of gold”?). The *yaññopavīta* (or more correctly *yaññopanīta*), lit., “sacrificial cord,” is a distinctive accoutrement of brahmin dress; the protagonist’s was gold-colored or made or gold. BJTS Sinh. gloss suggests the latter: *ranvan pūnanūlak därǟ siruru*
 
-[^27]: or “distinction:” *tena kammavisesana,* a variant (and metrical
-    improvement) on the common first foot in parallel verses, i.e.,
-    *tena kammena sukatena*
+[^27]: or “distinction:” *tena kammavisesana,* a variant (and metrical improvement) on the common first foot in parallel verses, i.e., *tena kammena sukatena*
 
-[^28]: here as esewhere in *Apadāna,* *aññatare* implies
-    “undistinguished” or even “base”
+[^28]: here as esewhere in *Apadāna,* *aññatare* implies “undistinguished” or even “base”
 
 [^29]: *pisācabhayatajjitā *
 
@@ -292,16 +256,12 @@ The legend of Vakkali Thera is finished.
 
 [^34]: *sabbapārami-sambhūtaŋ*
 
-[^35]: reading *lakkhīnilayanaṃ paraṃ* with BJTS (and PTS alt.) for PTS
-    *nīlakkhinayanaŋ* (having eyes which are blue eyes”)
+[^35]: reading *lakkhīnilayanaṃ paraṃ* with BJTS (and PTS alt.) for PTS *nīlakkhinayanaŋ* (having eyes which are blue eyes”)
 
 [^36]: *khandhānaŋ udayabbayaŋ*
 
-[^37]: *Gijjhakūṭaŋ,* one of the mountains near Rajgir frequented by
-    Gotama Buddha.
+[^37]: *Gijjhakūṭaŋ,* one of the mountains near Rajgir frequented by Gotama Buddha.
 
-[^38]: lit., “in a mountain cave” (or “grotto” “crag”) reading
-    *giri-kandare* with BJTS (and PTS alt.) for PTS *giri-niddare,* alt.
-    *giri-niddhare* (= mountain + ?)
+[^38]: lit., “in a mountain cave” (or “grotto” “crag”) reading *giri-kandare* with BJTS (and PTS alt.) for PTS *giri-niddare,* alt. *giri-niddhare* (= mountain + ?)
 
 [^39]: or “speech,” *vācaŋ; *

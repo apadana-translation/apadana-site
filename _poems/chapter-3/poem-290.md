@@ -46,13 +46,10 @@ The Paṇṇadāyaka Chapter, the Twenty-Ninth
 
 [^3]: *vippasannaŋ*
 
-[^4]: *khīṇâsava,* lit., “whose defilements (*āsava*s, “outflows”) had
-    been destroyed,” that is, they were arahants
+[^4]: *khīṇâsava,* lit., “whose defilements (*āsava*s, “outflows”) had been destroyed,” that is, they were arahants
 
-[^5]: *vanta-dosa,* lit., “whose defects/anger/bad deeds had been
-    vomited out”
+[^5]: *vanta-dosa,* lit., “whose defects/anger/bad deeds had been vomited out”
 
-[^6]: *anāsava;* the two epithets in the second line are positive
-    statements of the two negative epithets in the first line.
+[^6]: *anāsava;* the two epithets in the second line are positive statements of the two negative epithets in the first line.
 
 [^7]: lit., “fully mindful of the Sambuddha”

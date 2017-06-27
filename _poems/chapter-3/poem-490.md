@@ -166,17 +166,13 @@ five and ninety are the verses
 that are counted by those who know.  
 The Paŋsukūla Chapter, the Forty-Ninth
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “*Sa*l-Pavilion-er”
 
 [^3]: lit., “from *samādhi*”
 
-[^4]: *yugamattañ pekkhamāno,* lit., “looking ahead the extent of a
-    plough,” i.e., just a little, keeping his eyes on the ground in
-    front of him
+[^4]: *yugamattañ pekkhamāno,* lit., “looking ahead the extent of a plough,” i.e., just a little, keeping his eyes on the ground in front of him
 
 [^5]: i.e., arahants
 
@@ -188,17 +184,13 @@ The Paŋsukūla Chapter, the Forty-Ninth
 
 [^9]: *puññakammaº,* lit., “meritorious karma”
 
-[^10]: *gandhagandhī,* taking the repetition as intensifying, but this
-    could also be translated “perfumes and incense” or “scents and
-    incense”
+[^10]: *gandhagandhī,* taking the repetition as intensifying, but this could also be translated “perfumes and incense” or “scents and incense”
 
 [^11]: reading *sammatāḷaº* (BJTS) for *samatāḷaº* (PTS).
 
 [^12]: lit., “his meritorious karma”
 
-[^13]: BJTS reads *hessati sabbakālikaŋ* (“it will be all the time”
-    “exists \[for me\] all the time”), a foot which PTS includes in the
-    following verse, absent from BJTS
+[^13]: BJTS reads *hessati sabbakālikaŋ* (“it will be all the time” “exists \[for me\] all the time”), a foot which PTS includes in the following verse, absent from BJTS
 
 [^14]: *carimo vattate bhavo*
 

@@ -32,11 +32,9 @@ six special knowledges mastered,
 Thus indeed Venerable Kiṅkaṇipupphiya[^3] Thera spoke these verses.  
 The legend of Kiṅkaṇipupphiya[^4] Thera is finished.
 
-[^1]: “*Kiṅkaṇi* Flower-er.” This is the BJTS reading. PTS reads
-    Tikaṇḍipupphiya*, “*Tikaṇḍi Flower-er”
+[^1]: “*Kiṅkaṇi* Flower-er.” This is the BJTS reading. PTS reads Tikaṇḍipupphiya*, “*Tikaṇḍi Flower-er”
 
-[^2]: perhaps “Not Sinking,” reading privative *a* + *pilāpiya* taken
-    from \*plu, *plavati, pilavati *
+[^2]: perhaps “Not Sinking,” reading privative *a* + *pilāpiya* taken from \*plu, *plavati, pilavati *
 
 [^3]: PTS reads Tikaṇḍipupphiya, “*Tikaṇḍi* Flower-er”
 

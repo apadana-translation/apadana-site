@@ -19,6 +19,4 @@ The legend of Pāṭalipūjaka Thera is finished.
 
 [^1]: “Trumpet-Flower-Worshipper”
 
-[^2]: *pāṭali* is Sinh. *paḷol,* Bignonia suaveolens, sterospermum
-    suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of
-    Vipassi Buddha. Cf. \#71, \#78, \#96, \#255, \#369{372}.
+[^2]: *pāṭali* is Sinh. *paḷol,* Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha. Cf. \#71, \#78, \#96, \#255, \#369{372}.

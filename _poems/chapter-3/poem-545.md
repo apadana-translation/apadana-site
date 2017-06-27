@@ -112,12 +112,9 @@ six special knowledges mastered,
 Thus indeed Venerable Nandaka Thera spoke these verses.  
 The legend of Nandaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: a historical monk, famous as foremost among the exhorters of nuns.
-    See DPPN II: 17-18. His name means “Joyful” or “Joy-er”
+[^2]: a historical monk, famous as foremost among the exhorters of nuns. See DPPN II: 17-18. His name means “Joyful” or “Joy-er”
 
 [^3]: or “observed”: *paṭipanno*
 
@@ -125,8 +122,7 @@ The legend of Nandaka Thera is finished.
 
 [^5]: *sirimā*
 
-[^6]: *kittivaṇṇabhato,* lit., “Feeding (*°bhato*) on Praise
-    (*kittivaṇṇa°*)”
+[^6]: *kittivaṇṇabhato,* lit., “Feeding (*°bhato*) on Praise (*kittivaṇṇa°*)”
 
 [^7]: lit., “*pūjā-*recipient” *(pūjito)*
 
@@ -162,8 +158,7 @@ The legend of Nandaka Thera is finished.
 
 [^23]: lit., “I had an astonished mind”
 
-[^24]: *jetārāmapaṭiggahe*, i.e., when Anāthapiṇḍika gave him the
-    Jetavana grove as his hermitage
+[^24]: *jetārāmapaṭiggahe*, i.e., when Anāthapiṇḍika gave him the Jetavana grove as his hermitage
 
 [^25]: *sabbadassinā*
 

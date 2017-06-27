@@ -37,18 +37,13 @@ six special knowledges mastered,
 Thus indeed Venerable Ucchaṅgapupphiya Thera spoke these verses.  
 The legend of Ucchaṅgapupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Lapful-of-Flowers-er”
 
-[^3]: BJTS Sinhala gloss suggests the meaning is “\[my\] lap-pocket
-    (*Oḍokkuwa*), formed in the fold in the waist-garment (e.g., sarong,
-    dhoti).
+[^3]: BJTS Sinhala gloss suggests the meaning is “\[my\] lap-pocket (*Oḍokkuwa*), formed in the fold in the waist-garment (e.g., sarong, dhoti).
 
-[^4]: reading *agamaŋ* with BJTS (and PTS alt.) for PTS *āgamaŋ* (“I
-    came”)
+[^4]: reading *agamaŋ* with BJTS (and PTS alt.) for PTS *āgamaŋ* (“I came”)
 
 [^5]: lit., “the Blessed One”
 

@@ -40,8 +40,6 @@ The legend of Sālapupphadāyaka Thera is finished.
 
 [^4]: lit., “he will make many people attain nirvana”.
 
-[^5]: reading *sakosaṃ* (BJTS) for *sakoṭaŋ* (PTS). The cty reads
-    *sakeṭaṃ* and glosses it *sakaṇṇikaṃ* (“with a pinnacle”? “with the
-    ears”?)
+[^5]: reading *sakosaṃ* (BJTS) for *sakoṭaŋ* (PTS). The cty reads *sakeṭaṃ* and glosses it *sakaṇṇikaṃ* (“with a pinnacle”? “with the ears”?)
 
 [^6]: “Shiny”

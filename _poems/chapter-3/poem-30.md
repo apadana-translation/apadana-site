@@ -42,5 +42,4 @@ The Fourth Recitation Portion.
 
 [^2]: *kusalatthāya*
 
-[^3]: “Chariot with Sindh \[Horse\]” or “Sindh Chariot,” reading
-    *sindhuva* + *sandana*
+[^3]: “Chariot with Sindh \[Horse\]” or “Sindh Chariot,” reading *sindhuva* + *sandana*

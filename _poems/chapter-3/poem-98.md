@@ -32,10 +32,8 @@ six special knowledges mastered,
 Thus indeed Venerable Senāsanadāyaka[^3] Thera spoke these verses.  
 The legend of Senāsanadāyaka Thera is finished.
 
-[^1]: “Lodgings-Donor” (lit., “Giver of Bed-and-Chair” \[or “Bed and
-    Food”\])
+[^1]: “Lodgings-Donor” (lit., “Giver of Bed-and-Chair” \[or “Bed and Food”\])
 
 [^2]: “Mat-Placer”
 
-[^3]: reading Senāsanadāyaka with PTS alt and BJTS for Senādāyaka
-    (“Army-Giver,” PTS)
+[^3]: reading Senāsanadāyaka with PTS alt and BJTS for Senādāyaka (“Army-Giver,” PTS)

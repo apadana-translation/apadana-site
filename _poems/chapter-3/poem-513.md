@@ -27,16 +27,11 @@ six special knowledges mastered,
 Thus indeed Venerable Kosumbhaphaliya[^4] Thera spoke these verses.  
 The legend of Kosumbhaphaliya[^5] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “*Kosumba* (PTS *Kosumba*º*)* Fruit-er”. PTS gets the spelling
-    right in v. 1.
+[^2]: “*Kosumba* (PTS *Kosumba*º*)* Fruit-er”. PTS gets the spelling right in v. 1.
 
-[^3]: *kosumbhaŋ,* also spelt *kosambhā,* - (acc. to BJTS Sinh. gloss on
-    \[3762\]) Sinh. *kohomba,* neem or margosa tree, Azadirachta indica,
-    though Cone says “a kind of shrub or plant”
+[^3]: *kosumbhaŋ,* also spelt *kosambhā,* - (acc. to BJTS Sinh. gloss on \[3762\]) Sinh. *kohomba,* neem or margosa tree, Azadirachta indica, though Cone says “a kind of shrub or plant”
 
 [^4]: PTS reads *Kosumbaº*
 

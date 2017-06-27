@@ -27,11 +27,7 @@ six special knowledges mastered,
 Thus indeed Venerable Ummāpupphiya Thera spoke these verses.  
 The legend of Ummāpupphiya Thera is finished.
 
-[^1]: “Blue Flax*-*Flower-er”. cf. \#321. *Ummāpuppha* (Skt. *umāpuṣpa*)
-    refers to the flowers of Linum usitatissimum, Linseed. The small
-    flowers of this fiber-bearing plant are distinctively and deeply
-    blue in color, and the seeds, as the English name implies, bear a
-    useful oil.
+[^1]: “Blue Flax*-*Flower-er”. cf. \#321. *Ummāpuppha* (Skt. *umāpuṣpa*) refers to the flowers of Linum usitatissimum, Linseed. The small flowers of this fiber-bearing plant are distinctively and deeply blue in color, and the seeds, as the English name implies, bear a useful oil.
 
 [^2]: lit., “reached nirvana”
 

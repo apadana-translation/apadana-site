@@ -22,10 +22,8 @@ six special knowledges mastered,
 Thus indeed Venerable Miñjavaṭaŋsakiya Thera spoke these verses.  
 The legend of Miñjavaṭaŋsakiya Thera is finished.
 
-[^1]: “\[Donor\] of a Wreath of Kernels.” *miñja* = the kernel or pit of
-    a fruit
+[^1]: “\[Donor\] of a Wreath of Kernels.” *miñja* = the kernel or pit of a fruit
 
-[^2]: i.e., his Bodhi Tree. According to BV, the Bodhi Tree of Sikhi
-    Buddha was *pundarika, Mangifera indica*, the Mango.
+[^2]: i.e., his Bodhi Tree. According to BV, the Bodhi Tree of Sikhi Buddha was *pundarika, Mangifera indica*, the Mango.
 
 [^3]: “Cloud-Light”

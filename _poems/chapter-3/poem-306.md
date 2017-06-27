@@ -48,13 +48,6 @@ The legend of Sampasādaka Thera is finished.
 
 [^4]: lit., “in the Assembly (*saṅghe*)”
 
-[^5]: *anantaphaladāyaka.* In addition to playing on this monk’s name,
-    this epithet supplied the Sangha (in the mouth of a previous Buddha)
-    fits the (over?-)extended agricultural metaphor at work here: the
-    Sangha is a fertile field in which the mental pleasure of an
-    ordinary person is itself the seed of future happiness. The term
-    used for “field,” *khetta* in the locative, is also evocative of the
-    first verse/setting of the roughly contemporaneous (+/-)
-    *Bhagavad-gītā,* which opens, *dharmakṣetre kurukṣetre*
+[^5]: *anantaphaladāyaka.* In addition to playing on this monk’s name, this epithet supplied the Sangha (in the mouth of a previous Buddha) fits the (over?-)extended agricultural metaphor at work here: the Sangha is a fertile field in which the mental pleasure of an ordinary person is itself the seed of future happiness. The term used for “field,” *khetta* in the locative, is also evocative of the first verse/setting of the roughly contemporaneous (+/-) *Bhagavad-gītā,* which opens, *dharmakṣetre kurukṣetre*
 
 [^6]: taking the redundancy (*vehāsam nabham)* as emphatic

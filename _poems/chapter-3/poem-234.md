@@ -29,8 +29,7 @@ The legend of Kilañjadāyaka Thera is finished.
 
 [^1]: “Mat Donor”
 
-[^2]: reading *naḷakāro* with BJTS (and PTS alternate reading) for PTS
-    *nalakāro*
+[^2]: reading *naḷakāro* with BJTS (and PTS alternate reading) for PTS *nalakāro*
 
 [^3]: lit., “doing *pūjā*”
 

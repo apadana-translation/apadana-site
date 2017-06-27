@@ -137,9 +137,7 @@ six special knowledges mastered,
 Thus indeed Venerable Sabbaphaladāyaka Thera spoke these verses.  
 The legend of Sabbaphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Every Fruit Donor”
 
@@ -153,21 +151,15 @@ The legend of Sabbaphaladāyaka Thera is finished.
 
 [^7]: *pattapuṭaŋ,* BJTS Sinh. gloss *koḷagoṭuwak*
 
-[^8]: reading *sahakhārim* with BJTS (lit., “with the *khārī*
-    \[measure\],” following BJTS Sinh. gloss *koḷa goṭuva sahitava ma*
-    (“together with the satchel made of leaves”) for PTS *sākhārikaŋ*
-    (?)
+[^8]: reading *sahakhārim* with BJTS (lit., “with the *khārī* \[measure\],” following BJTS Sinh. gloss *koḷa goṭuva sahitava ma* (“together with the satchel made of leaves”) for PTS *sākhārikaŋ* (?)
 
-[^9]: *khāribhāraŋ,* also “shoulder yoke,” perhaps “load in a *khārī*”.
-    BJTS Sinh gloss understands the term to mean the load, a *khārī*
-    heavy, within the satchel made of leaves.
+[^9]: *khāribhāraŋ,* also “shoulder yoke,” perhaps “load in a *khārī*”. BJTS Sinh gloss understands the term to mean the load, a *khārī* heavy, within the satchel made of leaves.
 
 [^10]: *paribhutte,* lit., “uses”
 
 [^11]: *puññaŋ,* lit., “merit”
 
-[^12]: reading *puṭakaṃ taṃ* with BJTS for PTS *puṭikantaŋ* (“pleasant
-    satchel)
+[^12]: reading *puṭakaṃ taṃ* with BJTS for PTS *puṭikantaŋ* (“pleasant satchel)
 
 [^13]: lit., “meritorious”
 
@@ -179,8 +171,7 @@ The legend of Sabbaphaladāyaka Thera is finished.
 
 [^17]: reading *bhūtā* with BJTS for PTS *bhutā,* “become”
 
-[^18]: reading *kummā soṇā* with BJTS for PTS *Kumbhasoṇā* (“water-jug
-    \[sized\] dogs”?)
+[^18]: reading *kummā soṇā* with BJTS for PTS *Kumbhasoṇā* (“water-jug \[sized\] dogs”?)
 
 [^19]: *ḍaŋsā*
 
@@ -194,17 +185,11 @@ The legend of Sabbaphaladāyaka Thera is finished.
 
 [^24]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^25]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”)
-    *valassu,* Note BJTS omits the second mention of “wolves” so may be
-    taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in
-    specifying this particular type of bear (cf. Sorata, *kara baāna
-    valasā,* s.v.)
+[^25]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu,* Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā,* s.v.)
 
-[^26]: *osadhī* = *osadha*, (medicinal) herbs, medicinal ingredients,
-    plants
+[^26]: *osadhī* = *osadha*, (medicinal) herbs, medicinal ingredients, plants
 
-[^27]: *tiṇa.* BJTS takes the compound to imply “in trees, etc.,” i.e.,
-    beings who live in plants in general.
+[^27]: *tiṇa.* BJTS takes the compound to imply “in trees, etc.,” i.e., beings who live in plants in general.
 
 [^28]: *sududdasaŋ,* lit., “very hard to see”
 

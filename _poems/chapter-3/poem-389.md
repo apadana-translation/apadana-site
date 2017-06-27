@@ -76,13 +76,9 @@ on the great Lake Anotatta. \[3340\][^15]
 Thus indeed Venerable Soṇakoṭivīsa Thera spoke these verses.  
 The legend of Soṇakoṭivīsa Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Golden One \[Worth\] Two Hundred Million.” Apparently identical
-    with Soṇa Koḷivisa, “the Golden Koḷiyan,” a.k.a. Koḷiyavessa, “the
-    Koḷiyan vaiśya,” see DPPN, II:1293-1294.
+[^2]: “Golden One \[Worth\] Two Hundred Million.” Apparently identical with Soṇa Koḷivisa, “the Golden Koḷiyan,” a.k.a. Koḷiyavessa, “the Koḷiyan vaiśya,” see DPPN, II:1293-1294.
 
 [^3]: *pāvacane*, lit., “word”
 
@@ -106,10 +102,6 @@ The legend of Soṇakoṭivīsa Thera is finished.
 
 [^13]: *aggo āraddhaviriyānaŋ*
 
-[^14]: *chaḷabhiññāmahiddhiko,* lit., possessors of the six special
-    knowledges who have great (magical, *iddhi*) power.”
+[^14]: *chaḷabhiññāmahiddhiko,* lit., possessors of the six special knowledges who have great (magical, *iddhi*) power.”
 
-[^15]: This verse does not appear in the PTS edition, hence only has a
-    BJTS number in this translation. The Pāli is: *thero koṭiviso
-    soṇo/bhikkhusaṅghassa aggato/pañhaṃ puṭṭho viyākāsi/anotatte
-    mahāsare ti//*
+[^15]: This verse does not appear in the PTS edition, hence only has a BJTS number in this translation. The Pāli is: *thero koṭiviso soṇo/bhikkhusaṅghassa aggato/pañhaṃ puṭṭho viyākāsi/anotatte mahāsare ti//*

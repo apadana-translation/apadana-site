@@ -18,11 +18,8 @@ six special knowledges mastered,
 Thus indeed Venerable Ārakkhadāyaka Thera spoke these verses.  
 The legend of Ārakkhadāyaka Thera is finished.
 
-[^1]: This is the BJTS reading throughout, and the PTS reading in the
-    body of this poem; I assume that the PTS reading of the chapter
-    title as *Ārakkhadāya* is a typographical error
+[^1]: This is the BJTS reading throughout, and the PTS reading in the body of this poem; I assume that the PTS reading of the chapter title as *Ārakkhadāya* is a typographical error
 
 [^2]: “Protection Giver”
 
-[^3]: lit., “is my attainment of the destruction of the outflows
-    (*āsava*),” a much more technical way of saying the same thing.
+[^3]: lit., “is my attainment of the destruction of the outflows (*āsava*),” a much more technical way of saying the same thing.

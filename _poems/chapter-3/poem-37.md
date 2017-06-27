@@ -29,5 +29,4 @@ The legend of Lasuṇadāyaka Thera is finished.
 
 [^1]: “Garlic-Giver”
 
-[^2]: a type of container? Cty treats it as a container used by
-    ascetics. Also a measure, = 16 *drona*s. Cf. above v. \[198\] and n.
+[^2]: a type of container? Cty treats it as a container used by ascetics. Also a measure, = 16 *drona*s. Cf. above v. \[198\] and n.

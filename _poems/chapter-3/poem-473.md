@@ -82,17 +82,11 @@ six special knowledges mastered,
 Thus indeed Venerable Ukkāsatika Thera spoke these verses.  
 The legend of Ukkāsatika Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Hundred-Flame-er”
 
-[^3]: = Citrakūṭa, a mountain in the Himalayas, one of five said to
-    surround Lake Anottata (Anavatapta), composed of all precious metals
-    and famed for golden swans living in a golden cave. DPPN I:869: “It
-    is generally identified with Kāmptanāthgiri in Bundelkhand, an
-    isolated hill on the Paisunī or Mandākinī River”
+[^3]: = Citrakūṭa, a mountain in the Himalayas, one of five said to surround Lake Anottata (Anavatapta), composed of all precious metals and famed for golden swans living in a golden cave. DPPN I:869: “It is generally identified with Kāmptanāthgiri in Bundelkhand, an isolated hill on the Paisunī or Mandākinī River”
 
 [^4]: lit., “plunging”
 
@@ -100,8 +94,7 @@ The legend of Ukkāsatika Thera is finished.
 
 [^6]: *gahetvā,* lit., “taking”
 
-[^7]: following BJTS in understanding these “flames” as “torches with
-    flames”
+[^7]: following BJTS in understanding these “flames” as “torches with flames”
 
 [^8]: *agamas’,* lit., “I left” “I went \[away\]”
 
@@ -109,22 +102,16 @@ The legend of Ukkāsatika Thera is finished.
 
 [^10]: *jambusaṇḍa = jambudīpa =* India, the South Asian continent
 
-[^11]: *caturanto vijitāvi,* “possessed of conquest of the four
-    quarters,” a supreme imperial overlord
+[^11]: *caturanto vijitāvi,* “possessed of conquest of the four quarters,” a supreme imperial overlord
 
 [^12]: “beautiful”
 
-[^13]: reading *dasasadda+a+vivittantaṃ* with BJTS for PTS
-    *dasasaddâvivittan taŋ.*
+[^13]: reading *dasasadda+a+vivittantaṃ* with BJTS for PTS *dasasaddâvivittan taŋ.*
 
 [^14]: reading *sammatāḷaº* (BJTS) for *samatāḷaº* (PTS).
 
-[^15]: I follow BJTS Sinhala gloss in interpolating “thing” as the
-    subject of the half-verse, which otherwise would mean that sticks,
-    vines and clay were themselves absent from (*n’atthi*, “do not
-    exist”) in that city.
+[^15]: I follow BJTS Sinhala gloss in interpolating “thing” as the subject of the half-verse, which otherwise would mean that sticks, vines and clay were themselves absent from (*n’atthi*, “do not exist”) in that city.
 
 [^16]: *tālapattī,* BJTS gloss *tālapaṅkhatīhu*
 
-[^17]: lit., “that,” but given that the torches numbered one hundred, I
-    translate it as the plural pronoun
+[^17]: lit., “that,” but given that the torches numbered one hundred, I translate it as the plural pronoun

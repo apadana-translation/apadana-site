@@ -29,9 +29,7 @@ The legend of Buddhūpaṭṭhāyaka Thera is finished.
 
 [^1]: “Buddha-Server” or “Attendant on the Buddha”
 
-[^2]: the name varies widely amongst the manuscripts, perhaps because it
-    seems to have no discernible meaning, beyond being his father’s
-    name.
+[^2]: the name varies widely amongst the manuscripts, perhaps because it seems to have no discernible meaning, beyond being his father’s name.
 
 [^3]: lit., kṣatriyans
 

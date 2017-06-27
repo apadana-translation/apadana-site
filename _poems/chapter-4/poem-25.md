@@ -268,20 +268,9 @@ six special knowledges mastered,
 Thus indeed Bhikkhunī Nandā spoke these verses.  
 The legend of Nandā Therī is finished.
 
-[^1]: “Joy,” an historical nun, daughter of King Suddhodana and
-    Mahāpajāpatī Gotamī (\#17, above), hence half-sister (plus, given
-    that her mother was the Buddha’s mother’s sister) of the Buddha,
-    remembered as foremost among those with meditative power.
-    Malalasekera (DPPN II:1217) takes her as Sundarī Nandā, though there
-    has been some confusion with the other Nandās among the famous nuns;
-    “Janapadakalyāṇī” is also an epithet used for the Nandā caled
-    Rūpanandā (DPPN I:934; II: 748) who also is said to be a “sister” of
-    the Buddha. Cf. also in this mix Abhirūpanandā (DPPN I:143)
+[^1]: “Joy,” an historical nun, daughter of King Suddhodana and Mahāpajāpatī Gotamī (\#17, above), hence half-sister (plus, given that her mother was the Buddha’s mother’s sister) of the Buddha, remembered as foremost among those with meditative power. Malalasekera (DPPN II:1217) takes her as Sundarī Nandā, though there has been some confusion with the other Nandās among the famous nuns; “Janapadakalyāṇī” is also an epithet used for the Nandā caled Rūpanandā (DPPN I:934; II: 748) who also is said to be a “sister” of the Buddha. Cf. also in this mix Abhirūpanandā (DPPN I:143)
 
-[^2]: *ovādako,* or “Advisor” “Exhorter.” Vv. 2-6 here are found
-    verbatim as vv. 2-6 of five separate *apadānas* of monks in the
-    *Therāpadāna,* \#531 {534} (Dabbamalla) and \#534-537 {537-540}
-    (Mahākoṭṭhika, Uruvelakassapa, Rādha and Mogharāja, respectively).
+[^2]: *ovādako,* or “Advisor” “Exhorter.” Vv. 2-6 here are found verbatim as vv. 2-6 of five separate *apadānas* of monks in the *Therāpadāna,* \#531 {534} (Dabbamalla) and \#534-537 {537-540} (Mahākoṭṭhika, Uruvelakassapa, Rādha and Mogharāja, respectively).
 
 [^3]: *viññāpako*
 
@@ -297,40 +286,27 @@ The legend of Nandā Therī is finished.
 
 [^9]: *nirākulaŋ*
 
-[^10]: *suñññataŋ,* or “empty \[of ill-will\],” which is BJTS Sinhala
-    gloss reading; I construe the epithet as *su* + *ñata*
+[^10]: *suñññataŋ,* or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
 [^11]: *vicittaŋ*
 
-[^12]: *ratanāna-aṭṭha-paññāsaŋ uggato.* A *ratana* (Sinh. *riyan*) is
-    figured as twelve-fingers (*aṅgula*), according to Sinh-Eng
-    Dictionary about eighteen inches. The claim here then is that
-    Padumuttara Buddha was 1044 inches (or 87 feet) tall.
+[^12]: *ratanāna-aṭṭha-paññāsaŋ uggato.* A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
 
-[^13]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or
-    “like a gold festoon work”
+[^13]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^14]: *paramassādaŋ,* or “having the ultimate taste”
 
 [^15]: *amataŋ,* or “deathless”
 
-[^16]: *adantadamako* could mean either “tamer of the untamed” or “tamer
-    who is untamed;” I leave the ambiguity open with the hyphen,
-    admitting here my preference for “tamer of the untamed” (which is
-    also the BJTS reading, cf RD on *dametar*), and recommend
-    pronunciation in chanting which through stress on the first term in
-    the compound, and tone, can emphasize that the Buddha is one who
-    tames those who are untamed/feral.
+[^16]: *adantadamako* could mean either “tamer of the untamed” or “tamer who is untamed;” I leave the ambiguity open with the hyphen, admitting here my preference for “tamer of the untamed” (which is also the BJTS reading, cf RD on *dametar*), and recommend pronunciation in chanting which through stress on the first term in the compound, and tone, can emphasize that the Buddha is one who tames those who are untamed/feral.
 
 [^17]: *pabhu*
 
 [^18]: *tilokasaraṇo*
 
-[^19]: *narasaddūlo.* Cf. notes to *Thera-apadāna* \[6131\], above and
-    *Therī-apadāna* \[1222\], below
+[^19]: *narasaddūlo.* Cf. notes to *Thera-apadāna* \[6131\], above and *Therī-apadāna* \[1222\], below
 
-[^20]: Yāma, Tusita, Nimmānarati and Vāsavatti are all heavens in the
-    Buddhist cosmology.
+[^20]: Yāma, Tusita, Nimmānarati and Vāsavatti are all heavens in the Buddhist cosmology.
 
 [^21]: BJTS reads *nimmāṇaratiṃ*
 
@@ -338,15 +314,13 @@ The legend of Nandā Therī is finished.
 
 [^23]: *aninditā*
 
-[^24]: “Good Rice-Gruel,” the Buddha’s (bodhisatta Siddhattha’s)
-    biological father
+[^24]: “Good Rice-Gruel,” the Buddha’s (bodhisatta Siddhattha’s) biological father
 
 [^25]: *ramme.* BJTS reads *puramhi*, “in the city”
 
 [^26]: *kapilavhaye,* lit., “in the \[city\] named for Kapila”
 
-[^27]: reading *siriṃ ca* with BJTS for PTS (and BJTS alt.) *siriyā,*
-    “with splendor”
+[^27]: reading *siriṃ ca* with BJTS for PTS (and BJTS alt.) *siriyā,* “with splendor”
 
 [^28]: *nanditaŋ*
 
@@ -360,33 +334,27 @@ The legend of Nandā Therī is finished.
 
 [^33]: *tilokaggo,* lit., “Three Worlds’ Chief”
 
-[^34]: *majjhimo*, or BJTS (and PTS alt.) *pacchimo*, “the last” -- BJTS
-    Sinh. gloss *mä kaṇiṭu bǟyā* (“my younger elder brother”)
+[^34]: *majjhimo*, or BJTS (and PTS alt.) *pacchimo*, “the last” -- BJTS Sinh. gloss *mä kaṇiṭu bǟyā* (“my younger elder brother”)
 
 [^35]: *arahā,* “worthy” “an arahant”
 
-[^36]: that is, by Mahāpajāpatī Gotamī, founder and leader of the
-    Assembly of Nuns (*bhikkhunīsaṅgha*)
+[^36]: that is, by Mahāpajāpatī Gotamī, founder and leader of the Assembly of Nuns (*bhikkhunīsaṅgha*)
 
-[^37]: reading *kinnu v’ acchasi* with BJTS for PTS *kiŋ na acchasi*,
-    (“why don’t you sit”)
+[^37]: reading *kinnu v’ acchasi* with BJTS for PTS *kiŋ na acchasi*, (“why don’t you sit”)
 
 [^38]: *nandena pi vinā bhūtā,* a play on the nun’s name
 
-[^39]: *asucisammataŋ,* or “not considered pure” (depending on whether
-    the compound is understood as *asuci-sammataŋ* or *a-sucisammataŋ*)
+[^39]: *asucisammataŋ,* or “not considered pure” (depending on whether the compound is understood as *asuci-sammataŋ* or *a-sucisammataŋ*)
 
 [^40]: *rūpaŋ*
 
 [^41]: *manoharaŋ,* “delightful”
 
-[^42]: BJTS reads *sasikantam* (?) for PTS *passa kantaŋ*, perhaps a
-    typo given the absence of a note
+[^42]: BJTS reads *sasikantam* (?) for PTS *passa kantaŋ*, perhaps a typo given the absence of a note
 
 [^43]: *siri-saṅkhata-sannibhaŋ*
 
-[^44]: reading PTS alt *puñjitaŋ* (“lumped together”) or BJTS *piṇḍitaṃ*
-    (“pressed into a ball”) for PTS *pūjitaŋ* (“worshipped”)
+[^44]: reading PTS alt *puñjitaŋ* (“lumped together”) or BJTS *piṇḍitaṃ* (“pressed into a ball”) for PTS *pūjitaŋ* (“worshipped”)
 
 [^45]: *lokasāraŋ*
 
@@ -400,9 +368,7 @@ The legend of Nandā Therī is finished.
 
 [^50]: lit., “And mother”
 
-[^51]: PTS reads *saraŋ* (“flowing, going” or perhaps “arrow,” “lake,”
-    “remembering,” “sound”)*,* alt. *padaŋ* (“root”); BJTS reads *paraṃ*
-    (?)
+[^51]: PTS reads *saraŋ* (“flowing, going” or perhaps “arrow,” “lake,” “remembering,” “sound”)*,* alt. *padaŋ* (“root”); BJTS reads *paraṃ* (?)
 
 [^52]: *jhān’ajjhena*
 
@@ -426,49 +392,28 @@ The legend of Nandā Therī is finished.
 
 [^62]: reading *sīdantiīva* with BJTS for PTS *nisīdantī* (“sitting”)
 
-[^63]: reading *supasuppaya* with BJTS (and following BJTS Sinhala
-    gloss) for PTS *passajissaŋ* (? the side? “I will look at my
-    limbs?”)
+[^63]: reading *supasuppaya* with BJTS (and following BJTS Sinhala gloss) for PTS *passajissaŋ* (? the side? “I will look at my limbs?”)
 
-[^64]: reading *lūtā* (Sinh. gloss *makuḷuvek*) with BJTS (and PTS alt.,
-    sort of \[*lutā*, sic\]) for PTS *luddā* (“hunters” \[or
-    “disgusting/gruesome thing” ?\])
+[^64]: reading *lūtā* (Sinh. gloss *makuḷuvek*) with BJTS (and PTS alt., sort of \[*lutā*, sic\]) for PTS *luddā* (“hunters” \[or “disgusting/gruesome thing” ?\])
 
-[^65]: reading *vipubbañca* (“festering”) with BJTS for PTS *sabbañca*
-    (“all” “entire”), though the latter is also a reasonable enough
-    reading.
+[^65]: reading *vipubbañca* (“festering”) with BJTS for PTS *sabbañca* (“all” “entire”), though the latter is also a reasonable enough reading.
 
-[^66]: reading *nissasantī* (lit., “gasping for breath \[or “panting” or
-    “sighing” or “exhaling”\]) with BJTS (and PTS alt.) for PTS
-    *nissayanti* (“they are pursuing” “leaning on”)
+[^66]: reading *nissasantī* (lit., “gasping for breath \[or “panting” or “sighing” or “exhaling”\]) with BJTS (and PTS alt.) for PTS *nissayanti* (“they are pursuing” “leaning on”)
 
-[^67]: or “suffering with suffering” “ill at ease with dis-ease” etc.:
-    *dukkhena dukkhitā homi*
+[^67]: or “suffering with suffering” “ill at ease with dis-ease” etc.: *dukkhena dukkhitā homi*
 
-[^68]: reading *dolālālā* (lit., “swing-aquiver”) with BJTS for PTS
-    *dolālocā* (“swing” + ?) and alts. *dolālolā* “swing
-    unwavering/undisturbed*,” dolātulā, ,*”swing” + ?) which seem to
-    emulate the alliteration of BJTS’ *dolālālā* even at the expense of
-    apparent meaning
+[^68]: reading *dolālālā* (lit., “swing-aquiver”) with BJTS for PTS *dolālocā* (“swing” + ?) and alts. *dolālolā* “swing unwavering/undisturbed*,” dolātulā, ,*”swing” + ?) which seem to emulate the alliteration of BJTS’ *dolālālā* even at the expense of apparent meaning
 
-[^69]: especially the buds of *mimusops elengi* (says RD quoting Hardy,
-    see *makuḷa* s.v.), = Spanish Cherry, Pāli *vakula.* This accepts
-    the PTS reading here, *makul\[ḷ\]a-khārak’-ākārā*, recognizing that
-    there is a lot of variation (BJTS reads *makuḷamburuhākārā*
-    \[“resembling the buds of trees in water” (?)\])
+[^69]: especially the buds of *mimusops elengi* (says RD quoting Hardy, see *makuḷa* s.v.), = Spanish Cherry, Pāli *vakula.* This accepts the PTS reading here, *makul\[ḷ\]a-khārak’-ākārā*, recognizing that there is a lot of variation (BJTS reads *makuḷamburuhākārā* \[“resembling the buds of trees in water” (?)\])
 
-[^70]: reading *tanumajjhā* with BJTS for PTS *vedimajjhā*, “in the
-    middle of the bench” (?)
+[^70]: reading *tanumajjhā* with BJTS for PTS *vedimajjhā*, “in the middle of the bench” (?)
 
 [^71]: *sūnā,* lit., “slaughterhouse”
 
-[^72]: reading *sūnā vaṇitakibbisā* with BJTS (and PTS alt.) for PTS
-    *sūnā ‘va nītakibbisā* (“like a slaughterhouse leading to sin” ?)
+[^72]: reading *sūnā vaṇitakibbisā* with BJTS (and PTS alt.) for PTS *sūnā ‘va nītakibbisā* (“like a slaughterhouse leading to sin” ?)
 
-[^73]: *jegucchaŋ*; BJTS reads *bībhacchaṃ*, with similar range of
-    meaning (disgusting, horrible, dreadful)
+[^73]: *jegucchaŋ*; BJTS reads *bībhacchaṃ*, with similar range of meaning (disgusting, horrible, dreadful)
 
-[^74]: or, reading *vipassantī* with BJTS, “investigating” “applying
-    insight”
+[^74]: or, reading *vipassantī* with BJTS, “investigating” “applying insight”
 
 [^75]: lit., “in the” “in that”

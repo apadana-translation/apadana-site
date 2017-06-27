@@ -206,24 +206,17 @@ six special knowledges mastered,
 Thus indeed Venerable Mahākappina Thera spoke these verses.  
 The legend of Mahākappina Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: A historical monk, foremost among those who instruct (admonish,
-    teach) the monks *(bhikkhuovādakānaṃ*) (and the nuns: see DPPN
-    II:473-475, which uncharacteristically does not mention *Apadāna*).
+[^2]: A historical monk, foremost among those who instruct (admonish, teach) the monks *(bhikkhuovādakānaṃ*) (and the nuns: see DPPN II:473-475, which uncharacteristically does not mention *Apadāna*).
 
-[^3]: reading *jagadākāse* with BJTS (and PTS alt.) for PTS *jaladākāse*
-    (“in the space of a rain-cloud”)
+[^3]: reading *jagadākāse* with BJTS (and PTS alt.) for PTS *jaladākāse* (“in the space of a rain-cloud”)
 
 [^4]: see Cone s.v. for *khajjota-ābhā*
 
 [^5]: reading *saccatthābhaṃ pakāseti* for *sabbatthaŋ *
 
-[^6]: *akkhadasso*, RD “one who examines the dice, an upmire, a judge”
-    Cone s.v. a judge, a magistrate, very clear in the commentarial
-    passage she cites; “assessor” is Malalasekara’s translation
+[^6]: *akkhadasso*, RD “one who examines the dice, an upmire, a judge” Cone s.v. a judge, a magistrate, very clear in the commentarial passage she cites; “assessor” is Malalasekara’s translation
 
 [^7]: “Swan,” i.e., Haṃsavatī
 
@@ -237,53 +230,31 @@ The legend of Mahākappina Thera is finished.
 
 [^12]: *sumano*
 
-[^13]: reading BJTS *tadāhāsi mahābhāgo haṃsadundubhisussaro* with BJTS
-    for PTS’ garbled *tadā haŋsasamābhāgo haŋsadundubhinīvaco*
+[^13]: reading BJTS *tadāhāsi mahābhāgo haṃsadundubhisussaro* with BJTS for PTS’ garbled *tadā haŋsasamābhāgo haŋsadundubhinīvaco*
 
 [^14]: *ºtanūruhaŋ,* see Buddhadatta *Pāli-Sinhala Akārādiya*, s.v.
 
-[^15]: PTS *jimuttavaṇṇaŋ,* BJTS *jīmūtavaṇṇaṃ,* read *jīmutavaṇṇaṃ* and
-    see see Buddhadatta *Pāli-Sinhala Akārādiya*, *jīmuta,* s.v. BJTS
-    Sinhala gloss concurs: *meghavarṇa vū*
+[^15]: PTS *jimuttavaṇṇaŋ,* BJTS *jīmūtavaṇṇaṃ,* read *jīmutavaṇṇaṃ* and see see Buddhadatta *Pāli-Sinhala Akārādiya*, *jīmuta,* s.v. BJTS Sinhala gloss concurs: *meghavarṇa vū*
 
-[^16]: lit., “fat-shoulders”. BJTS reads *pīṇº* but understands the
-    adjective in the same way: “having shoulders whihc are full (covered
-    with meat)
+[^16]: lit., “fat-shoulders”. BJTS reads *pīṇº* but understands the adjective in the same way: “having shoulders whihc are full (covered with meat)
 
 [^17]: *muditāya,* “with disinterested love”
 
 [^18]: *katāvino,* i.e., arahant.
 
-[^19]: reading *piṇḍapātena* with BJTS (and PTS alt.) for PTS
-    *paṇipātena* (“because of this prostration” “because of this
-    adoration”)
+[^19]: reading *piṇḍapātena* with BJTS (and PTS alt.) for PTS *paṇipātena* (“because of this prostration” “because of this adoration”)
 
-[^20]: reading *cetanāpaṇidhīhi ca* with BJTS (and this is a recurring
-    foot throughout *Apadāna*) for PTS *cāgena paṇidhīhi ca* (“with
-    generosity and resolve”)
+[^20]: reading *cetanāpaṇidhīhi ca* with BJTS (and this is a recurring foot throughout *Apadāna*) for PTS *cāgena paṇidhīhi ca* (“with generosity and resolve”)
 
-[^21]: or “he won’t be reborn in a bad rebirth” (*n’upapajjati
-    duggatiŋ*)
+[^21]: or “he won’t be reborn in a bad rebirth” (*n’upapajjati duggatiŋ*)
 
 [^22]: PTS *sobhāgyaŋ*, BJTS *sobhaggaṃ*
 
 [^23]: i.e., through the remainder of the good karma
 
-[^24]: *sutaso anusāsiya,* following cty (p. 504: “the meaning is:
-    having commanded righteously with equal words and on the basis of
-    reasons”). BJTS reads *sataso* and takes it (in the gloss) as
-    *siyavarak* (“a hundred times”) though it also includes the
-    commentarial gloss “righteously and slowly” (*dähämin semin*)
+[^24]: *sutaso anusāsiya,* following cty (p. 504: “the meaning is: having commanded righteously with equal words and on the basis of reasons”). BJTS reads *sataso* and takes it (in the gloss) as *siyavarak* (“a hundred times”) though it also includes the commentarial gloss “righteously and slowly” (*dähämin semin*)
 
-[^25]: *jāto keniyajātiyā.* Malalasekera takes this as a mistake for
-    *koliyajātiyā* (in a Koiiyan clan), the corresponding reading in
-    ThagA, but cty. explains the term as *tantavāyajātiyā pesakārakūla*
-    (“in a weaver’s cast, a clan of servants”); BJTS Sinh. gloss and
-    Cone, s.v., adopt the latter reading, though PTS apparently treats
-    this as a proper name (perhaps recalling the use of this as a proper
-    name in \#389 {392}, v. 26 \[3607\] et passim). The context suggests
-    that in this birth he was a king, so this would be an instance of
-    lower caste kingship if the cty. reading is accepted.
+[^25]: *jāto keniyajātiyā.* Malalasekera takes this as a mistake for *koliyajātiyā* (in a Koiiyan clan), the corresponding reading in ThagA, but cty. explains the term as *tantavāyajātiyā pesakārakūla* (“in a weaver’s cast, a clan of servants”); BJTS Sinh. gloss and Cone, s.v., adopt the latter reading, though PTS apparently treats this as a proper name (perhaps recalling the use of this as a proper name in \#389 {392}, v. 26 \[3607\] et passim). The context suggests that in this birth he was a king, so this would be an instance of lower caste kingship if the cty. reading is accepted.
 
 [^26]: *pañcapaccekabuddhānaŋ satāni*
 
@@ -293,8 +264,7 @@ The legend of Mahākappina Thera is finished.
 
 [^29]: reading *jātā* with BJTS for PTS *jāto* (“I was born”)
 
-[^30]: *mahārajjaŋ,* lit., “of overlordship,” “of powerful kingship” “of
-    being a maharajah”
+[^30]: *mahārajjaŋ,* lit., “of overlordship,” “of powerful kingship” “of being a maharajah”
 
 [^31]: *apāpuṇiŋ.* BJTS reads *ahaṃ suṇiṃ,* “I heard”
 
@@ -310,16 +280,13 @@ The legend of Mahākappina Thera is finished.
 
 [^37]: lit., “if the assembly (*saṅgha*)”
 
-[^38]: *saccavare*, “wish \[because of\] truth,” cf. *saccakiriya,* “act
-    of truth”
+[^38]: *saccavare*, “wish \[because of\] truth,” cf. *saccakiriya,* “act of truth”
 
 [^39]: *vāsavaŋ viya,* = Sakka, Indra
 
-[^40]: *sotāpaṇṇā ca sāsane,* lit., ”and stream-enterers in the
-    dispensation”
+[^40]: *sotāpaṇṇā ca sāsane,* lit., ”and stream-enterers in the dispensation”
 
-[^41]: lit., “it,” singular, standing in for “the \[group\] of a
-    thousand monks”
+[^41]: lit., “it,” singular, standing in for “the \[group\] of a thousand monks”
 
 [^42]: *te pi āsuŋ anāsavā*
 

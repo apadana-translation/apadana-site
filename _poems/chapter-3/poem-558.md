@@ -94,27 +94,17 @@ six special knowledges mastered,
 Thus indeed Venerable Bhaddajī Thera spoke these verses.  
 The legend of Bhaddajī Thera, the eighth.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Honorable Lucky One,” a historical monk, see DPPN II:349-350.
-    This same *apadāna* is included above as \#480 {483}, where it is
-    ascribed to a monk named Bhisadāyaka (“Lotus-Root Donor”), with
-    slight variations in the formatting of the individual verses and
-    reading *bhisaṃ* (“lotus root”) for *bhikkhaṃ* (“alms food”) in v.
-    15 \[6442\].
+[^2]: “Honorable Lucky One,” a historical monk, see DPPN II:349-350. This same *apadāna* is included above as \#480 {483}, where it is ascribed to a monk named Bhisadāyaka (“Lotus-Root Donor”), with slight variations in the formatting of the individual verses and reading *bhisaṃ* (“lotus root”) for *bhikkhaṃ* (“alms food”) in v. 15 \[6442\].
 
 [^3]: lit., “the Blessed One”
 
-[^4]: *rattambaradharo,* lit., “bearing red *ambara*,” the latter
-    referring to a type of cloth as well as an upper garment made out of
-    it.
+[^4]: *rattambaradharo,* lit., “bearing red *ambara*,” the latter referring to a type of cloth as well as an upper garment made out of it.
 
 [^5]: lit., “going,” elsewhere translated as “flying” given the context
 
-[^6]: *nijjhāyamāno*, lit., “meditating” “reflecting” “thinking;” I
-    follow BJTS Sinhala gloss *balannā vu mama*
+[^6]: *nijjhāyamāno*, lit., “meditating” “reflecting” “thinking;” I follow BJTS Sinhala gloss *balannā vu mama*
 
 [^7]: *sappi,* lit., ghee, clarified butter (*gī tel*)
 

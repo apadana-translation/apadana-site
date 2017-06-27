@@ -55,19 +55,11 @@ six special knowledges mastered,
 Thus indeed Venerable Tiṇamuṭṭhidāyaka Thera spoke these verses.  
 The legend of Tiṇamuṭṭhidāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Handful of Grass Donor.” With only minor changes (the elision of
-    four feet from the opening verses, and addition of the first two
-    verses of the three-verse concluding refrain \[the present *apadāna*
-    includes only the third verse of the three-verse concluding
-    refrain\]) the same *apadāna,* with the same title, is presented
-    below as \#518 {521}
+[^2]: “Handful of Grass Donor.” With only minor changes (the elision of four feet from the opening verses, and addition of the first two verses of the three-verse concluding refrain \[the present *apadāna* includes only the third verse of the three-verse concluding refrain\]) the same *apadāna,* with the same title, is presented below as \#518 {521}
 
-[^3]: perhaps fr. *lambati,* to hang down, “Pendulous”. \#1, \#122 also
-    take place on this mountain.
+[^3]: perhaps fr. *lambati,* to hang down, “Pendulous”. \#1, \#122 also take place on this mountain.
 
 [^4]: *migarājā,* a lion
 
@@ -81,17 +73,8 @@ The legend of Tiṇamuṭṭhidāyaka Thera is finished.
 
 [^9]: lit., “meritorious,” *puññakammâbhinimmita*
 
-[^10]: here and in the following neologism I exploit the English
-    exploitation of the Latin shorthand for “thousand” and “hundred” to
-    keep the meter. The Pali is lit., “a thousand *kaṇḍa*s (part,
-    portion, lump, a small measure), hundred *bheṇḍu* \[tall?
-    thick?\]...sacrificial post” .
+[^10]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍa*s (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\]...sacrificial post” .
 
-[^11]: following BJTS; PTS reads *geṇḍu,* in multiple variations (could
-    this be related to *geṇḍuka*, a small ball?). At least in
-    transmission, these obscure measures may not have been more
-    intelligible than they are today, even if they are clues to the
-    historical situation in which the original was composed.
+[^11]: following BJTS; PTS reads *geṇḍu,* in multiple variations (could this be related to *geṇḍuka*, a small ball?). At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
 
-[^12]: lit., “I attained the destruction of the outflows”
-    (*āsavakkhayaŋ*)
+[^12]: lit., “I attained the destruction of the outflows” (*āsavakkhayaŋ*)

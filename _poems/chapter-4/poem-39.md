@@ -82,8 +82,7 @@ The legend of the bhikkhunī Ambapālī is finished
 
 [^1]: “Mango-Guarded”, an historical nun, see DPPN I: 155-156
 
-[^2]: *raŋsiphusitāvelo,* playing on/explaining the name “Phussa” (=
-    speckled, cf. *°phusita°*)
+[^2]: *raŋsiphusitāvelo,* playing on/explaining the name “Phussa” (= speckled, cf. *°phusita°*)
 
 [^3]: or “ago,” or “hence,” as elsewhere: *ito*
 
@@ -95,11 +94,9 @@ The legend of the bhikkhunī Ambapālī is finished
 
 [^7]: *bhuttā...yathā;* BJTS reads *bhutvā*
 
-[^8]: *kassape jinasāsane,* lit., “in the dispensation of the Victor,
-    Kassapa \[Buddha\]”
+[^8]: *kassape jinasāsane,* lit., “in the dispensation of the Victor, Kassapa \[Buddha\]”
 
-[^9]: reading *°brahmacariyam* with BJTS for PTS *°brahmaceram,* lit.,
-    “the Brahma-life” “the holy life” “celibacy”
+[^9]: reading *°brahmacariyam* with BJTS for PTS *°brahmaceram,* lit., “the Brahma-life” “the holy life” “celibacy”
 
 [^10]: i.e., the thirty-three gods.
 
@@ -107,5 +104,4 @@ The legend of the bhikkhunī Ambapālī is finished
 
 [^12]: it. “I went forth in the Victor’s dispensation”
 
-[^13]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni,*
-    Great Sage.
+[^13]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni,* Great Sage.

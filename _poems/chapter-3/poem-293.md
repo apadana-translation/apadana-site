@@ -34,8 +34,6 @@ The legend of Chattadāyaka Thera is finished.
 
 [^1]: “Umbrella Donor”
 
-[^2]: lit., “who’d realized nirvana,” *nibbuta* here echoing the use of
-    the term in the last line of v. 1 \[2681\].
+[^2]: lit., “who’d realized nirvana,” *nibbuta* here echoing the use of the term in the last line of v. 1 \[2681\].
 
-[^3]: “Greatly Worthy,” echoing the “arahant” state subsequently
-    achieved.
+[^3]: “Greatly Worthy,” echoing the “arahant” state subsequently achieved.

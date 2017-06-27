@@ -42,19 +42,11 @@ there are eighty verses here, plus
 three verses more than that \[number\].  
 The Kureñjiyaphaladāyaka Chapter, the Fifty-Second[^6]
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Pink Lotus Bearer” Virtually the same *apadāna* ascribed to a
-    monk with a similar name (*Padumapūjaka* *=* “Pink Lotus Offerer”)
-    and differing only in giving ninety-one rather than thirty-one as
-    the number of aeons ago when the good karma was done, and providing
-    only the third verse of the three-verse concluding refrain, is
-    presented above as \#344 {347}
+[^2]: “Pink Lotus Bearer” Virtually the same *apadāna* ascribed to a monk with a similar name (*Padumapūjaka* *=* “Pink Lotus Offerer”) and differing only in giving ninety-one rather than thirty-one as the number of aeons ago when the good karma was done, and providing only the third verse of the three-verse concluding refrain, is presented above as \#344 {347}
 
-[^3]: I am unclear about the meaning of this name, which is virtually
-    unique to, and with different referents recurs in, *Apadāna *
+[^3]: I am unclear about the meaning of this name, which is virtually unique to, and with different referents recurs in, *Apadāna *
 
 [^4]: *dhārayim,* “carried,” “brought,” “had”
 

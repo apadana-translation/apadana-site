@@ -53,17 +53,10 @@ Thus indeed Venerable Upasena Vaṅgantaputta Thera spoke these verses.
 The legend of Upasena Vaṅgantaputta Thera is finished.  
 The Third Recitation Portion is Finished.
 
-[^1]: Vaṅganta was his father; the name means “Son of Vaṅganta.”
-    Rūpasāri was his mother.
+[^1]: Vaṅganta was his father; the name means “Son of Vaṅganta.” Rūpasāri was his mother.
 
-[^2]: k*aṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum
-    acerifolium, produces a brilliant mass of yellow flowers; Engl.
-    a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now
-    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
+[^2]: k*aṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
 
-[^3]: This apparently refers to the rebirth precursor of Gotama Buddha,
-    though he was Sumedha under Dīpaṃkara Buddha, whereas this poem is
-    set in the time of Padumuttara Buddha, which was “four incalculable
-    aeons” later.
+[^3]: This apparently refers to the rebirth precursor of Gotama Buddha, though he was Sumedha under Dīpaṃkara Buddha, whereas this poem is set in the time of Padumuttara Buddha, which was “four incalculable aeons” later.
 
 [^4]: hearkens to his name: *sumedhasam*

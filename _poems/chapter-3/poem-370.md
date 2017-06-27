@@ -40,23 +40,16 @@ Timira, Salaḷa as well:
 and exactly forty verses.  
 The Mandārapupphiya[^7] Chapter, the Thirty-Seventh
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Salaḷa Flower-er”. BJTS reads *salala°* . BJTS Sinh.gloss =
-    *hora* = “large timber tree yielding rezin and oil, Dipterocarpus
-    zeylanicus *(Dipterocarp.*)” (Bot. dict.)
+[^2]: “Salaḷa Flower-er”. BJTS reads *salala°* . BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus *(Dipterocarp.*)” (Bot. dict.)
 
-[^3]: the *kinnara* (Sinh. *kandura*) has a human head and a horse’s
-    body; “centaur”.
+[^3]: the *kinnara* (Sinh. *kandura*) has a human head and a horse’s body; “centaur”.
 
 [^4]: lit., “divinely-scented *salaḷa* \[flower\]”
 
 [^5]: reading *sato* with BJTS for PTS *sadā,* “always”
 
-[^6]: lit., “conscious of me who was wishing,” or, taking it as a
-    genitive absolute construction, “conscious/aware when I was wishing
-    \[for it\]”
+[^6]: lit., “conscious of me who was wishing,” or, taking it as a genitive absolute construction, “conscious/aware when I was wishing \[for it\]”
 
 [^7]: BJTS reads *Mandārava,* the preferred Pāli spelling

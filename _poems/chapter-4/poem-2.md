@@ -32,17 +32,13 @@ six special knowledges mastered,
 Thus indeed Bhikkhunī Mekhalādāyikā Therī[^6] spoke these verses.  
 The legend of Mekhalādāyikā Therī is finished.
 
-[^1]: “Waist-Ornament-Giver”. *Mekhala* or *mekhalikā* was an ornament
-    worn by women on the waist, often made of precious metals and gems.
+[^1]: “Waist-Ornament-Giver”. *Mekhala* or *mekhalikā* was an ornament worn by women on the waist, often made of precious metals and gems.
 
-[^2]: reading *kārāpikā* (BJTS, PTS alt) for *kārāpitā* (“was built,”
-    PTS)
+[^2]: reading *kārāpikā* (BJTS, PTS alt) for *kārāpitā* (“was built,” PTS)
 
-[^3]: presumably a valuable *mekhala* which was then sold in order to
-    pay for the repairs.
+[^3]: presumably a valuable *mekhala* which was then sold in order to pay for the repairs.
 
-[^4]: lit., “for the sake of repairing of the Teacher.” Here the stupa
-    *is* the Buddha.
+[^4]: lit., “for the sake of repairing of the Teacher.” Here the stupa *is* the Buddha.
 
 [^5]: lit., “again I gave a waist-ornament”.
 

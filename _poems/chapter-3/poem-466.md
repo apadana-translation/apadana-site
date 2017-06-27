@@ -32,26 +32,14 @@ six special knowledges mastered,
 Thus indeed Venerable Avaṇṭaphaliya[^5] Thera spoke these verses.  
 The legend of Avaṇṭaphaliya[^6] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: this is the BJTS spelling; PTS reads *Avaṭaphaliya.* This same
-    *apadāna* (with the slight difference that the third and fourth
-    verses are inverted there) appears above, titled
-    *Avaṇṭaphaladāyaka*-*apadāna*, as \#378 \[381\], and also below,
-    \#501 {504}, titled *Avaṭaphaliya-apadāna*. With the name
-    *Tālaphaliyaº,* and only a slight change, it also appears as \#506
-    {509} The meaning is “Stemless Fruit-er”
+[^2]: this is the BJTS spelling; PTS reads *Avaṭaphaliya.* This same *apadāna* (with the slight difference that the third and fourth verses are inverted there) appears above, titled *Avaṇṭaphaladāyaka*-*apadāna*, as \#378 \[381\], and also below, \#501 {504}, titled *Avaṭaphaliya-apadāna*. With the name *Tālaphaliyaº,* and only a slight change, it also appears as \#506 {509} The meaning is “Stemless Fruit-er”
 
 [^3]: *sataraŋsi,* i.e., “the Sun”
 
 [^4]: *viveka-kāma*
 
-[^5]: this is the BJTS spelling; PTS reads *Avaṭaphaliya.* Cone (s.v.)
-    accepts the spelling *avaṭa* but indicates the possibility that it
-    might be a mistake for *avaṇṭa.* Though she recognizes the literal
-    meaning of the latter (“stemless”), she treats these *Apadāna*
-    passages as references to a type of fruit by that name.
+[^5]: this is the BJTS spelling; PTS reads *Avaṭaphaliya.* Cone (s.v.) accepts the spelling *avaṭa* but indicates the possibility that it might be a mistake for *avaṇṭa.* Though she recognizes the literal meaning of the latter (“stemless”), she treats these *Apadāna* passages as references to a type of fruit by that name.
 
 [^6]: this is the BJTS spelling; PTS reads *Avaṭaphaliya.*

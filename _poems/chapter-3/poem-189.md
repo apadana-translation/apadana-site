@@ -38,10 +38,8 @@ The legend of Ekacāriya Thera is finished.
 
 [^3]: I follow BJTS in assuming the implied *citta* here
 
-[^4]: reading *parinibbāṇakālamhi* with BJTS for PTS
-    *parinibbānākālamhi*
+[^4]: reading *parinibbāṇakālamhi* with BJTS for PTS *parinibbānākālamhi*
 
 [^5]: *duggatiŋ nûpapajj’ ahaŋ*
 
-[^6]: this reading follows BJTS; PTS gives the name as Mahāmallājanā.
-    The meaning is “Great Wrestling Men”.
+[^6]: this reading follows BJTS; PTS gives the name as Mahāmallājanā. The meaning is “Great Wrestling Men”.

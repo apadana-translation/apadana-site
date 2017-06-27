@@ -19,8 +19,6 @@ The legend of Ambayāgadāyaka Thera is finished.
 
 [^1]: “Mango-Sacrifice Donor”
 
-[^2]: here following the cty, “well established in my own craft” “clever
-    in my own art”
+[^2]: here following the cty, “well established in my own craft” “clever in my own art”
 
-[^3]: *yāga* = sacrifice, *mahadāna* or “great gift;” more than just a
-    handful, presumably.
+[^3]: *yāga* = sacrifice, *mahadāna* or “great gift;” more than just a handful, presumably.

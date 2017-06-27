@@ -234,31 +234,17 @@ six special knowledges mastered,
 Thus indeed Venerable Vaṅgīsa Thera spoke these verses.  
 The legend of Vaṅgīsa Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: a historical monk, famous as a poet and foremost among those with
-    ready expressions (*paṭtibhānavataŋ*). See DPPN II: 802-803. The
-    text understands the meaning of his name as both “Lord froṅm Vaṅga”
-    and “Lord of Speakers” (see v. 27 \[6144\], below)
+[^2]: a historical monk, famous as a poet and foremost among those with ready expressions (*paṭtibhānavataŋ*). See DPPN II: 802-803. The text understands the meaning of his name as both “Lord froṅm Vaṅga” and “Lord of Speakers” (see v. 27 \[6144\], below)
 
-[^3]: *lokantagū,* lit., “who has gone to the ends of the world”
-    (understood by BJTS to refer to *bhavotpattiya*, the process of
-    rebirth or re-existence itself)
+[^3]: *lokantagū,* lit., “who has gone to the ends of the world” (understood by BJTS to refer to *bhavotpattiya*, the process of rebirth or re-existence itself)
 
 [^4]: or “is coloring”: *anurañjanto*
 
-[^5]: *vibodhento,* BJTS Sinh. gloss *pobayamin,* which refers to the
-    “opening” of both minds (i.e., “enlightening” “teaching”) and of
-    flowers (“en-lightening” like the sun, to whose rays lotuses open)
+[^5]: *vibodhento,* BJTS Sinh. gloss *pobayamin,* which refers to the “opening” of both minds (i.e., “enlightening” “teaching”) and of flowers (“en-lightening” like the sun, to whose rays lotuses open)
 
-[^6]: *veneyyapadumāni,* lit., “lotuses that can be taught” or “lotuses
-    that can be led”. I follow BJTS Sinh. gloss in taking the term to
-    refer to people. I have explored a developed use of this metaphor in
-    the introduction to *Vaṃsatthappakāsini,* in my “Buddhist History:
-    The Sri Lankan Pāli Vaṃsas and their Commentary,” in Inden, Walters
-    and Ali, *Querying the Medieval* (Oxford, 2000):126ff.
+[^6]: *veneyyapadumāni,* lit., “lotuses that can be taught” or “lotuses that can be led”. I follow BJTS Sinh. gloss in taking the term to refer to people. I have explored a developed use of this metaphor in the introduction to *Vaṃsatthappakāsini,* in my “Buddhist History: The Sri Lankan Pāli Vaṃsas and their Commentary,” in Inden, Walters and Ali, *Querying the Medieval* (Oxford, 2000):126ff.
 
 [^7]: *vesārajjehi sampanno catuhi*
 
@@ -266,9 +252,7 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^9]: *visārado*
 
-[^10]: *khemappatto.* BJTS Sinh. gloss takes “peace” to mean nirvana,
-    and its attainment to be the very nature of the confidence of
-    boldness exhibited by the Buddha.
+[^10]: *khemappatto.* BJTS Sinh. gloss takes “peace” to mean nirvana, and its attainment to be the very nature of the confidence of boldness exhibited by the Buddha.
 
 [^11]: *buddhabhumiŋ ca kevalaŋ*
 
@@ -290,13 +274,7 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^20]: i.e., “I gave robes to each of them”
 
-[^21]: reading *isisaddula* \[*°saddūla*\] with PTS alt. for PTS
-    *vālisaddūla* (“Furry Leopard”) and BJTS *vādisaddūla* (“Leopard
-    among Debaters”) and BJTS alt. *vādimaddana* (“Debater-Crusher”),
-    though any of these might indicate the original meaning (or not),
-    and all of them (plus perhaps others, at least in the minds of
-    audiences) have witness in the manuscripts, i.e., have been “the”
-    meaning at least for some Buddhists through the generations.
+[^21]: reading *isisaddula* \[*°saddūla*\] with PTS alt. for PTS *vālisaddūla* (“Furry Leopard”) and BJTS *vādisaddūla* (“Leopard among Debaters”) and BJTS alt. *vādimaddana* (“Debater-Crusher”), though any of these might indicate the original meaning (or not), and all of them (plus perhaps others, at least in the minds of audiences) have witness in the manuscripts, i.e., have been “the” meaning at least for some Buddhists through the generations.
 
 [^22]: *abhayaṅkara*
 
@@ -304,26 +282,19 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^24]: *diṭṭhisūdana*
 
-[^25]: *santisukhada,* lit “Giver of Peaceful Comfort” or “Giver of
-    Peace and Comfort” or “Giver of Peace and Happiness”
+[^25]: *santisukhada,* lit “Giver of Peaceful Comfort” or “Giver of Peace and Comfort” or “Giver of Peace and Happiness”
 
 [^26]: *saraṇantaga,* lit., “Gone to the End of Refuge”
 
-[^27]: *bhavan,* BJTS reads *bhavaṃ.* This could be a nom. sing. or a
-    voc. sing.; “The Revered One” or “O Revered One.
+[^27]: *bhavan,* BJTS reads *bhavaṃ.* This could be a nom. sing. or a voc. sing.; “The Revered One” or “O Revered One.
 
 [^28]: *abhayappado*
 
-[^29]: reading *vissāmabhūmi santānaṃ* with BJTS for PTS
-    *vissāna*\[=gift?\]*bhūmisantānam* (“Land of Gifts for the lineage”
-    or “in continuity” ?); BJTS alt. *vissāsabhūmi,* “place of
-    confidence” “place to breathe easy”
+[^29]: reading *vissāmabhūmi santānaṃ* with BJTS for PTS *vissāna*\[=gift?\]*bhūmisantānam* (“Land of Gifts for the lineage” or “in continuity” ?); BJTS alt. *vissāsabhūmi,* “place of confidence” “place to breathe easy”
 
 [^30]: *mahāguṇaŋ*
 
-[^31]: *vādisurassa,* or “God of Debaters”. *Sura* is a word for “god”
-    which invokes the cosmic battle with the titans (“not *sura*s,”
-    *asuras*), “The \[Conquering\] God”
+[^31]: *vādisurassa,* or “God of Debaters”. *Sura* is a word for “god” which invokes the cosmic battle with the titans (“not *sura*s,” *asuras*), “The \[Conquering\] God”
 
 [^32]: *gatim pappomi*
 
@@ -343,26 +314,13 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^40]: *mitabhāsiŋ*, lit., “of limited speaking”
 
-[^41]: *yugamattañ nirikkitaŋ* \[BJTS reads *nirikkhakaṃ*\], both
-    variants on the typical construction with *pekkhati* rather than
-    *ikkhati*), lit., “looking ahead the extent of a plough,” i.e., just
-    a little, keeping his eyes on the ground in front of him
+[^41]: *yugamattañ nirikkitaŋ* \[BJTS reads *nirikkhakaṃ*\], both variants on the typical construction with *pekkhati* rather than *ikkhati*), lit., “looking ahead the extent of a plough,” i.e., just a little, keeping his eyes on the ground in front of him
 
-[^42]: reading *kaṇikaṃ ṭhānaracitaṃ* with BJTS for PTS
-    *kaṇṇikāraparicitaŋ* (“heaping up \[metaphors of?\] dinner-plate
-    \[trees\]”), though it is tempting to read in the latter a mild
-    criticism of the frequency of such metaphors in earlier poems by the
-    appropriately, and especially skilled poet of the present *apadāna*
+[^42]: reading *kaṇikaṃ ṭhānaracitaṃ* with BJTS for PTS *kaṇṇikāraparicitaŋ* (“heaping up \[metaphors of?\] dinner-plate \[trees\]”), though it is tempting to read in the latter a mild criticism of the frequency of such metaphors in earlier poems by the appropriately, and especially skilled poet of the present *apadāna*
 
-[^43]: here PTS seems to omit the first two feet of the verse, provided
-    in BJTS: *ācikkhi so me satthāraṃ/Sambuṃddha lokanāyakaṃ.* PTS
-    provides BJTS \[6148c-d\] as its (31a-b); it then makes BJTS
-    \[6149a-b\] into its (30c-d). BJTS presents the subsequent verse as
-    a six-footed one, making up the difference, but the problem recurs
-    below
+[^43]: here PTS seems to omit the first two feet of the verse, provided in BJTS: *ācikkhi so me satthāraṃ/Sambuṃddha lokanāyakaṃ.* PTS provides BJTS \[6148c-d\] as its (31a-b); it then makes BJTS \[6149a-b\] into its (30c-d). BJTS presents the subsequent verse as a six-footed one, making up the difference, but the problem recurs below
 
-[^44]: lit., “hard to see,” reading *duddasaṃ* with BJTS (and PTS alt.)
-    for PTS *uddayaŋ* (“profit” ?)
+[^44]: lit., “hard to see,” reading *duddasaṃ* with BJTS (and PTS alt.) for PTS *uddayaŋ* (“profit” ?)
 
 [^45]: lit., “in”
 
@@ -370,38 +328,25 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^47]: reading *maṃ* with BJTS for PTS *c’*
 
-[^48]: BJTS presents this as a six-footed verse; PTS breaks it into one
-    and a half verses, probably misled by the omitted line (see the note
-    on the previous verse numbers)
+[^48]: BJTS presents this as a six-footed verse; PTS breaks it into one and a half verses, probably misled by the omitted line (see the note on the previous verse numbers)
 
-[^49]: here too PTS seems to omit a line, which BJTS reads as: *nipacca
-    sirasā pade/nisīdiŋ satthu santike.*
+[^49]: here too PTS seems to omit a line, which BJTS reads as: *nipacca sirasā pade/nisīdiŋ satthu santike.*
 
-[^50]: *vadataŋ seṭṭho.* I read *kacci vaṅgīsa jānasi* with BJTS for PTS
-    (and BJTS alt.) *saccaŋ Vaṅgīsa kacci te* (“O Vaṅgīsa, what is the
-    truth”?), though both versions convey a similar sense to the
-    Buddha’s rhetorical question
+[^50]: *vadataŋ seṭṭho.* I read *kacci vaṅgīsa jānasi* with BJTS for PTS (and BJTS alt.) *saccaŋ Vaṅgīsa kacci te* (“O Vaṅgīsa, what is the truth”?), though both versions convey a similar sense to the Buddha’s rhetorical question
 
-[^51]: here too PTS seems to omit a line, which BJTS reads as: *kiñci
-    sippan ti tassāhaṃ/jānāmi ti ca abraviṃ.* I follow BJTS Sinh. gloss
-    in parsing the grammar here.
+[^51]: here too PTS seems to omit a line, which BJTS reads as: *kiñci sippan ti tassāhaṃ/jānāmi ti ca abraviṃ.* I follow BJTS Sinh. gloss in parsing the grammar here.
 
 [^52]: reading *avācayiṃ* with BJTS for PTS *avāvcayi* (“he said”)
 
 [^53]: reading *nara* with BJTS for PTS *atho* (“then”)
 
-[^54]: *vigatārambho*. BJTS (and PTS alt.) reads *vihat°* (“being one
-    with basis destroyed”). The point is that despite his great wisdom,
-    Vaṅgīsa cannot see where the Lonely Buddha has gone, since he (the
-    Lonely Buddha) has not been reborn anywhere
+[^54]: *vigatārambho*. BJTS (and PTS alt.) reads *vihat°* (“being one with basis destroyed”). The point is that despite his great wisdom, Vaṅgīsa cannot see where the Lonely Buddha has gone, since he (the Lonely Buddha) has not been reborn anywhere
 
 [^55]: or “here \[and\] there”: *yahiŋ tahiŋ*
 
-[^56]: reading *takkitā patimā gāthā* with BJTS for PTS *takkitānam imā
-    gāthā* (“are these verses of thinkers”?\]
+[^56]: reading *takkitā patimā gāthā* with BJTS for PTS *takkitānam imā gāthā* (“are these verses of thinkers”?\]
 
-[^57]: reading *tena hi dāni* with BJTS for PTS *tena dānena* (“through
-    that alms-giving”)
+[^57]: reading *tena hi dāni* with BJTS for PTS *tena dānena* (“through that alms-giving”)
 
 [^58]: reading *pesale tena* with BJTS for PTS *pesal’ etena*
 

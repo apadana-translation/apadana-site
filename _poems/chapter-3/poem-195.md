@@ -27,13 +27,10 @@ six special knowledges mastered,
 Thus indeed Venerable Aṅkolaka Thera spoke these verses.  
 The legend of Aṅkolaka Thera is finished.
 
-[^1]: “Alangium Donor.” The *aṅkola* (Sinh. *rukaṅgana*; Alangium
-    hexapetalum, a.k.a. sage-leaved alangium) is a flowering tree
+[^1]: “Alangium Donor.” The *aṅkola* (Sinh. *rukaṅgana*; Alangium hexapetalum, a.k.a. sage-leaved alangium) is a flowering tree
 
-[^2]: reading *mālāvaraṃ sakosakaṃ* with BJTS for PTS
-    *māhāsārasamotataŋ*
+[^2]: reading *mālāvaraṃ sakosakaṃ* with BJTS for PTS *māhāsārasamotataŋ*
 
-[^3]: *patilīna*; as is clear in the fourth foot, he is “hidden” within
-    a cave
+[^3]: *patilīna*; as is clear in the fourth foot, he is “hidden” within a cave
 
 [^4]: “Roaring (or Thunder, or Furious Elephant) of the Gods”

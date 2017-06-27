@@ -25,9 +25,6 @@ The legend of Kaṇikārapupphiya Thera is finished.
 
 [^1]: “Dinner-plate Tree Flower-er”
 
-[^2]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum
-    acerifolium, produces a brilliant mass of yellow flowers; Engl.
-    a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now
-    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
+[^2]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
 
 [^3]: “Guard of (or Guarded By) the Sun”

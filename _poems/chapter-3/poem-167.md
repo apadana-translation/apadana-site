@@ -27,7 +27,6 @@ six special knowledges mastered,
 Thus indeed Venerable Yūthikapupphiya Thera spoke these verses.  
 The legend of Yūthikapupphiya Thera is finished.
 
-[^1]: “*Yūthika-*Flower-er.” *Yūthikā* is a type of jasmine, jasminium
-    auriculatum, Sinhala *sinidda.*
+[^1]: “*Yūthika-*Flower-er.” *Yūthikā* is a type of jasmine, jasminium auriculatum, Sinhala *sinidda.*
 
 [^2]: “Offered Up Together”

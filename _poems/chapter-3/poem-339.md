@@ -91,34 +91,25 @@ six special knowledges mastered,
 Thus indeed Venerable Dhammasavaniya Thera spoke these verses.  
 The legend of Dhammasavaniya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Dharma-Hearer” or "Hearer of the Teaching”
 
-[^3]: lit., “Master of All Things (*dhamma*)” (or “Master of All
-    Teachings”)
+[^3]: lit., “Master of All Things (*dhamma*)” (or “Master of All Teachings”)
 
 [^4]: *jaṭila,* an ascetic who wears his hair in a matted braid (*jaṭā*)
 
-[^5]: lit., “I was one who practices fierce austerities,” reading
-    *ugga-tāpano* with BJTS (and PTS alternative) for PTS
-    *uggata-āpaṇa,* “rising over the bazaar”
+[^5]: lit., “I was one who practices fierce austerities,” reading *ugga-tāpano* with BJTS (and PTS alternative) for PTS *uggata-āpaṇa,* “rising over the bazaar”
 
 [^6]: lit., “to go”
 
 [^7]: *āsajja*, lit., “having hit/struck”
 
-[^8]: lit., “I did not receive a journey”. BJTS (and PTS alt.) reads *na
-    ālabhiṃ* for PTS *na labhe*; the grammar is clearer but the meaning
-    is the same.
+[^8]: lit., “I did not receive a journey”. BJTS (and PTS alt.) reads *na ālabhiṃ* for PTS *na labhe*; the grammar is clearer but the meaning is the same.
 
-[^9]: lit., “this obstruction of movement had not formerly transpired
-    for me”
+[^9]: lit., “this obstruction of movement had not formerly transpired for me”
 
-[^10]: reading *dake yathā ummujjitvā* with BJTS for PTS *dake yathā
-    ummisitvā* (“as though opening one’s eyes in the water”)
+[^10]: reading *dake yathā ummujjitvā* with BJTS for PTS *dake yathā ummisitvā* (“as though opening one’s eyes in the water”)
 
 [^11]: *evaŋ,* lit., “thus,” “in this way”
 
@@ -132,18 +123,15 @@ The legend of Dhammasavaniya Thera is finished.
 
 [^16]: lit., “the perception of”
 
-[^17]: reading *gāthāya* with BJTS (and PTS alt.) for PTS *kathāya,*
-    “through \[his\] speech”
+[^17]: reading *gāthāya* with BJTS (and PTS alt.) for PTS *kathāya,* “through \[his\] speech”
 
-[^18]: BJTS reads, more straightforwardly, “*aniccataṃ udāhari,*
-    “\[then\] spoke about impermanence”
+[^18]: BJTS reads, more straightforwardly, “*aniccataṃ udāhari,* “\[then\] spoke about impermanence”
 
 [^19]: reading *vūpasamo* with BJTS for PTS *vupasamo*
 
 [^20]: cf. S iv.28; A i.152, 299
 
-[^21]: *saha gāthaŋ sunitavāna,* lit., “after hearing \[his sermon\]
-    together with that verse” or “in conjunction with that verse”
+[^21]: *saha gāthaŋ sunitavāna,* lit., “after hearing \[his sermon\] together with that verse” or “in conjunction with that verse”
 
 [^22]: lit., “in the dispensation of the Śākyan Son”
 

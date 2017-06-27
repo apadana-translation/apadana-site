@@ -131,40 +131,21 @@ six special knowledges mastered,
 Thus indeed Venerable Bodhisammajjaka Thera spoke these verses.  
 The legend of Bodhisammajjaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Bodhi \[Tree\] Sweeper”
 
-[^3]: *guṇe.* I count the twenty here as: (1) always a god or a human,
-    (2) as a human, always a kṣatriyan or a brahmin, (3) perfected
-    limbs, (4) golden-colored, (5) great skin, (6) unsullied by dirt,
-    (7) untroubled by heat and sweat, (8) free of skin diseases, (9)
-    free of all diseases, (10) no mental torment, (11) no enemies, (12)
-    no lack of possessions, (13) no fear of water, fire, kings and
-    thieves, (14) slaves and slave-girls serve of their own accord, (15)
-    live the full lifespan, (16) folks in his city and country are
-    dedicated to god, (17) wealthy, famous, resplendent, on the side of
-    relatives, no fear of ghosts, (18) protected by all sort of
-    supernatural beings, (19) fame, (20) nirvana.
+[^3]: *guṇe.* I count the twenty here as: (1) always a god or a human, (2) as a human, always a kṣatriyan or a brahmin, (3) perfected limbs, (4) golden-colored, (5) great skin, (6) unsullied by dirt, (7) untroubled by heat and sweat, (8) free of skin diseases, (9) free of all diseases, (10) no mental torment, (11) no enemies, (12) no lack of possessions, (13) no fear of water, fire, kings and thieves, (14) slaves and slave-girls serve of their own accord, (15) live the full lifespan, (16) folks in his city and country are dedicated to god, (17) wealthy, famous, resplendent, on the side of relatives, no fear of ghosts, (18) protected by all sort of supernatural beings, (19) fame, (20) nirvana.
 
 [^4]: *uttattakanakūpamo,* lit., “in a simile to molten gold”
 
-[^5]: lit., “in” or “when”, following BJTS gloss “through the merit
-    of...”
+[^5]: lit., “in” or “when”, following BJTS gloss “through the merit of...”
 
-[^6]: reading *siniddha* (which has a wide range of meanings that could
-    refer to beautiful skin, depending on the standard for or
-    imagination of beauty: wet, moist, oily, greasy, fatty. smooth,
-    glossy, resplendent, charming, pliable) with BJTS for PTs *niddhā*
-    (?)
+[^6]: reading *siniddha* (which has a wide range of meanings that could refer to beautiful skin, depending on the standard for or imagination of beauty: wet, moist, oily, greasy, fatty. smooth, glossy, resplendent, charming, pliable) with BJTS for PTs *niddhā* (?)
 
-[^7]: BJTS reads *sukumārikā* (“like a very young girl’s) for PTS
-    *sukumārakā*
+[^7]: BJTS reads *sukumārikā* (“like a very young girl’s) for PTS *sukumārakā*
 
-[^8]: reading *yato kutoci gatisu* with BJTS for PTS *yato kuto ca,* and
-    following BJTS Sinhala gloss *yamkisi gatiyaka*
+[^8]: reading *yato kutoci gatisu* with BJTS for PTS *yato kuto ca,* and following BJTS Sinhala gloss *yamkisi gatiyaka*
 
 [^9]: lit., “dirt and dust are not smeared \[on me\]”
 
@@ -190,11 +171,9 @@ The legend of Bodhisammajjaka Thera is finished.
 
 [^20]: i.e., because they want to
 
-[^21]: *jāyate*. The use of the third person is odd; *apadāna* typically
-    uses the first person for describing one’s *anisaṃsas*.
+[^21]: *jāyate*. The use of the third person is odd; *apadāna* typically uses the first person for describing one’s *anisaṃsas*.
 
-[^22]: *anuyuttā,* lit., “applying themselves” “dedicated to”
-    “practicing”
+[^22]: *anuyuttā,* lit., “applying themselves” “dedicated to” “practicing”
 
 [^23]: lit., “desiring increase and wishing for happiness”
 
@@ -208,8 +187,7 @@ The legend of Bodhisammajjaka Thera is finished.
 
 [^28]: *pasave*, lit., “who would produce” “who is begetting”
 
-[^29]: PTS omits this verse. BJTS reads *sabuddhamuddisitvāna/bodhiṃ vā
-    tassa satthuno/yo puññaṃ pasave poso/tassa kiṃ nāma dullabhaṃ//*
+[^29]: PTS omits this verse. BJTS reads *sabuddhamuddisitvāna/bodhiṃ vā tassa satthuno/yo puññaṃ pasave poso/tassa kiṃ nāma dullabhaṃ//*
 
 [^30]: lit., “leaf”
 

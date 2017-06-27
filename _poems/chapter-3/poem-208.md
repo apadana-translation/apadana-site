@@ -29,8 +29,7 @@ The legend of Koraṇḍapupphiya Thera is finished.
 
 [^1]: “*Koraṇḍa*-Flower-er”
 
-[^2]: Sinh. *kaṭukoraṇḍu,* Barberia prionitis *(Acanth.),* cf.
-    *koraṇḍaka, kuraṇḍaka,* a shrub and its flower, J. v.473 (RD)
+[^2]: Sinh. *kaṭukoraṇḍu,* Barberia prionitis *(Acanth.),* cf. *koraṇḍaka, kuraṇḍaka,* a shrub and its flower, J. v.473 (RD)
 
 [^3]: lit., “it was offered by me”
 

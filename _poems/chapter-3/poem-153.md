@@ -38,5 +38,4 @@ The legend of Vīthisammajjaka Thera is finished.
 
 [^3]: the fifteenth day of the lunar month, when it is full.
 
-[^4]: “Good Banner.” This reading of the name follows BJTS. PTS reads
-    “by the name Vissuta”.
+[^4]: “Good Banner.” This reading of the name follows BJTS. PTS reads “by the name Vissuta”.

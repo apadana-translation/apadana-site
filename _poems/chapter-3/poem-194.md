@@ -34,15 +34,12 @@ The legend of Asokapūjaka Thera is finished.
 
 [^1]: “Offerer of Ashoka \[Blossoms\]”
 
-[^2]: BJTS reads *baddhacaro.* Cty explains the term: “I was the
-    servant, the employee of the king”
+[^2]: BJTS reads *baddhacaro.* Cty explains the term: “I was the servant, the employee of the king”
 
 [^3]: *sappabho*
 
-[^4]: *na jahitaŋ muniŋ*, *taking* *jahita* from *jahati* to abandon,
-    leave, relinquish, quit, give up (Sinh. *at harīma)*
+[^4]: *na jahitaŋ muniŋ*, *taking* *jahita* from *jahati* to abandon, leave, relinquish, quit, give up (Sinh. *at harīma)*
 
-[^5]: Jonesia Asoka, *Saraca asoca;* a large, flowering tree with dense
-    clusters of red flowers
+[^5]: Jonesia Asoka, *Saraca asoca;* a large, flowering tree with dense clusters of red flowers
 
 [^6]: “Abandoning the Sun”

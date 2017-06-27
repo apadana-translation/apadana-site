@@ -59,21 +59,14 @@ The legend of Paduma Thera is finished.
 
 [^1]: “Pink Lotus”
 
-[^2]: lit., “making many people achieve nirvana.” I am tempted to use a
-    neologism like “nirvan-izing” to get the verbal usage of
-    *nibbāpento*, but refrain.
+[^2]: lit., “making many people achieve nirvana.” I am tempted to use a neologism like “nirvan-izing” to get the verbal usage of *nibbāpento*, but refrain.
 
-[^3]: BJTS and some PTS alternatives read *sadaṇḍaṃ* (“with the stem”)
-    for *sadhajaŋ*, but as cty agrees with PTS in reading *sadhajaŋ* I
-    translate “with a flag” despite the evocative appeal of “with the
-    stem.”
+[^3]: BJTS and some PTS alternatives read *sadaṇḍaṃ* (“with the stem”) for *sadhajaŋ*, but as cty agrees with PTS in reading *sadhajaŋ* I translate “with a flag” despite the evocative appeal of “with the stem.”
 
-[^4]: a *kosa* is 500 bow lengths, so he would have been standing 250
-    bow lengths away.
+[^4]: a *kosa* is 500 bow lengths, so he would have been standing 250 bow lengths away.
 
 [^5]: lit., “One Without Outflows,” “Undefiled One,” i.e., the Buddha
 
-[^6]: this follows the BJTS Sinhala gloss. Cty offers no comment. Could
-    *pattaŋ gahetvā* also be, “taking appointment”?
+[^6]: this follows the BJTS Sinhala gloss. Cty offers no comment. Could *pattaŋ gahetvā* also be, “taking appointment”?
 
 [^7]: lit., “being five years from birth”

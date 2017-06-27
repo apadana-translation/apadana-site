@@ -105,13 +105,11 @@ one hundred and forty verses
 and another four besides \[those\].  
 The Upāli Chapter, the Fifth.
 
-[^1]: *agghiya,* BJTS Sinh. gloss *ägǟya* (Sinh-Eng dict *ägäva:*
-    candelabrum, festoon work for lamps, lamp canopy or arch)
+[^1]: *agghiya,* BJTS Sinh. gloss *ägǟya* (Sinh-Eng dict *ägäva:* candelabrum, festoon work for lamps, lamp canopy or arch)
 
 [^2]: those who had crossed the flood \[of *samsār*a\], i.e., arahants
 
-[^3]: reading *vyamhaṃ pātubhavissati puññakammapabhāvitaṃ* (BJTS) for
-    *vyamhā pātubhavissanti puññakammapabhāvitā* (PTS).
+[^3]: reading *vyamhaṃ pātubhavissati puññakammapabhāvitaṃ* (BJTS) for *vyamhā pātubhavissanti puññakammapabhāvitā* (PTS).
 
 [^4]: “Difficult to Conquer”.
 
@@ -125,7 +123,6 @@ The Upāli Chapter, the Fifth.
 
 [^9]: his brother was another of Sārī’s sons, i.e., Sāriputta
 
-[^10]: *pesale* = pleasant, beloved. Cty understands this to mean others
-    among the original arahants in the dispensation of Gotama Buddha
+[^10]: *pesale* = pleasant, beloved. Cty understands this to mean others among the original arahants in the dispensation of Gotama Buddha
 
 [^11]: Sāriputta, Cunda’s brother, was the Buddha’s top follower.

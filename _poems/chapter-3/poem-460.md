@@ -37,16 +37,11 @@ There are sixty-seven verses
 which are counted by those who know.  
 The Jagatidāyaka Chapter, the Forty-Sixth
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Scent-Offerer”
 
-[^3]: i.e., perfumes, incense. Because the offering is of “a handful,” I
-    take the “scent” in question to be some sort of scented resin akin
-    to Sinh. *dummala* or frankincense, both of which come in the form
-    of small pebbles.
+[^3]: i.e., perfumes, incense. Because the offering is of “a handful,” I take the “scent” in question to be some sort of scented resin akin to Sinh. *dummala* or frankincense, both of which come in the form of small pebbles.
 
 [^4]: lit., “did *pūjā*”
 

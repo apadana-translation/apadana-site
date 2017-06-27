@@ -40,18 +40,8 @@ due to their coming in the second and third chapters of the first part
 of the *Apadānapāḷi* \[Raṭṭhapāla is \#18, in the second chapter;
 Upavāna is \#22, in the third chapter\].)
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Auspicious,” a historical monk, see DPPN II: 1162. This same
-    *apadāna* is included above, verbatim, as \#472 {475}, Kummāsadāyaka
-    (“Barley-Porridge Donor”)
+[^2]: “Auspicious,” a historical monk, see DPPN II: 1162. This same *apadāna* is included above, verbatim, as \#472 {475}, Kummāsadāyaka (“Barley-Porridge Donor”)
 
-[^3]: *kummāsa,* Skt. *kulmāṣa*, a preparation of barley, either as a
-    soft porridge or gruel (PSI *yavayen kaḷ aharayak,”*a food made with
-    barley;” BJTS Sinh. gloss *komupiṇḍu,* “soft-boiled alms”), or as an
-    unleavened cake or junket (PSI: Sinh. *roṭiya*). Given the
-    description of “filling” the empty bowl, the former seems more
-    likely and I have translated accordingly. It is at any rate some
-    food made out of barley.
+[^3]: *kummāsa,* Skt. *kulmāṣa*, a preparation of barley, either as a soft porridge or gruel (PSI *yavayen kaḷ aharayak,”*a food made with barley;” BJTS Sinh. gloss *komupiṇḍu,* “soft-boiled alms”), or as an unleavened cake or junket (PSI: Sinh. *roṭiya*). Given the description of “filling” the empty bowl, the former seems more likely and I have translated accordingly. It is at any rate some food made out of barley.

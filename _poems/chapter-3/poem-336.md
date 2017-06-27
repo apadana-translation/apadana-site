@@ -105,24 +105,17 @@ six special knowledges mastered,
 Thus indeed Venerable Pabhaṅkara Thera spoke these verses.  
 The legend of Pabhaṅkara Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Light-Maker”
 
-[^3]: *cetiya,* could also be some other sort of shrine but vv. 3-4
-    makes clear that it is imagined as a stupa.
+[^3]: *cetiya,* could also be some other sort of shrine but vv. 3-4 makes clear that it is imagined as a stupa.
 
-[^4]: lit., “by means of,” “through”. We might say “by birth” or “in the
-    family business”
+[^4]: lit., “by means of,” “through”. We might say “by birth” or “in the family business”
 
-[^5]: *jānantassa guṇāguṇaŋ,* lit., “for one who know/can distinguish
-    virtue and ignominy”
+[^5]: *jānantassa guṇāguṇaŋ,* lit., “for one who know/can distinguish virtue and ignominy”
 
-[^6]: lit., “on a palanquin or litter on the back of an elephant.” That
-    is, he does not ride bareback but in some sort of ornamented fixture
-    on its back, an image of kingship, power and wealth.
+[^6]: lit., “on a palanquin or litter on the back of an elephant.” That is, he does not ride bareback but in some sort of ornamented fixture on its back, an image of kingship, power and wealth.
 
 [^7]: lit., “with \[my\] meritorious karma,” *puññakammena*
 
@@ -136,18 +129,13 @@ The legend of Pabhaṅkara Thera is finished.
 
 [^12]: *kilāsa*
 
-[^13]: *apamāra.* This seems an outlier since the remainder of the
-    diseases listed here are all diseases of the skin, but the Pāli is
-    unambiguous.
+[^13]: *apamāra.* This seems an outlier since the remainder of the diseases listed here are all diseases of the skin, but the Pāli is unambiguous.
 
 [^14]: *vitacchikā*
 
-[^15]: I take the PTS *idhaŋ* here as a typographical error, following
-    BJTS in reading the expected *idaŋ*
+[^15]: I take the PTS *idhaŋ* here as a typographical error, following BJTS in reading the expected *idaŋ*
 
-[^16]: reading *sodhite* with BJTS (and PTS alt, and the subsequent
-    verses here in the same form) for PTS (and BJTS alt) *sodhane*,
-    “cleaning”
+[^16]: reading *sodhite* with BJTS (and PTS alt, and the subsequent verses here in the same form) for PTS (and BJTS alt) *sodhane*, “cleaning”
 
 [^17]: lit., “when I had cleaned the Buddha’s stupa”
 

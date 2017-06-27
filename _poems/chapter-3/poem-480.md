@@ -42,14 +42,11 @@ five and ninety are the verses
 that are counted by those who know.  
 The Naḷamāli Chapter, the Forty-Eighth
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Sand Walkway-er”
 
-[^3]: lit., “wind-deer,” *Śrīsumaṅgala-Śabdakoṣaya,* s.v. explains this
-    as “a type of deer with a superabundance of swiftness”
+[^3]: lit., “wind-deer,” *Śrīsumaṅgala-Śabdakoṣaya,* s.v. explains this as “a type of deer with a superabundance of swiftness”
 
 [^4]: *sugatassa sirīmato*
 

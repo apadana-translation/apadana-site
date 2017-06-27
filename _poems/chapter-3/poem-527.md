@@ -32,18 +32,13 @@ six special knowledges mastered,
 Thus indeed Venerable Girinelapūjaka Thera spoke these verses.  
 The legend of Girinelapūjaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “*Girinil* Offerer”
 
 [^3]: lit., “did *pūjā*”
 
-[^4]: here “a *nela* flower.” *Girinela* = Sinh. *girinil mal,
-    girinilla, ginihiriya* = *kaṭaropha* (durian fruit tree *= Durio
-    Zibethinus (Bombaceae)*) *= ginnēriya;* Sri Sumangala: “a variety of
-    vine used in medicine” xxx
+[^4]: here “a *nela* flower.” *Girinela* = Sinh. *girinil mal, girinilla, ginihiriya* = *kaṭaropha* (durian fruit tree *= Durio Zibethinus (Bombaceae)*) *= ginnēriya;* Sri Sumangala: “a variety of vine used in medicine” xxx
 
 [^5]: *rate*
 

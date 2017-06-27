@@ -27,13 +27,8 @@ six special knowledges mastered,
 Thus indeed Venerable Saraṇāgamaniya Thera spoke these verses.  
 The legend of Saraṇāgamaniya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Refuge-Goer,” cf. \#23, \#113, \#298; the same text is repeated
-    verbatim (except for the elision of the first two verses of the
-    standard three-verse concluding refrain, included here), with the
-    same title, as \#356 {359}, above.
+[^2]: “Refuge-Goer,” cf. \#23, \#113, \#298; the same text is repeated verbatim (except for the elision of the first two verses of the standard three-verse concluding refrain, included here), with the same title, as \#356 {359}, above.
 
 [^3]: BJTS reads *vahaṃ* (“the current”)

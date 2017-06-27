@@ -45,15 +45,11 @@ six special knowledges mastered,
 Thus indeed Venerable Sumaṅgala Thera spoke these verses.  
 The legend of Sumaṅgala Thera is finished.
 
-[^1]: the cty. (and following it, BJTS Sinhala gloss) explains that at
-    that time he had been born as a tree-sprite (*rukkha-devatā*) living
-    near the lake.
+[^1]: the cty. (and following it, BJTS Sinhala gloss) explains that at that time he had been born as a tree-sprite (*rukkha-devatā*) living near the lake.
 
 [^2]: reading *pañcāṅgaturiyamhi* (BJTS) for *pañcaturiyatamhi* (PTS)
 
-[^3]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of
-    *ājāniya/ājānīya*, “almost exclusively used to denote a thoroughbred
-    horse”
+[^3]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to denote a thoroughbred horse”
 
 [^4]: reading *hāsaṃ katvāna* (BJTS) for *bhāsaŋ katvāna* (“spoke,” PTS)
 

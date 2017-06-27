@@ -32,9 +32,7 @@ six special knowledges mastered,
 Thus indeed Venerable Nāgapallavaka Thera spoke these verses.  
 The legend of Nāgapallavaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Ironwood-Sprout-er”
 

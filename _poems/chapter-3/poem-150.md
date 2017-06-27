@@ -37,7 +37,6 @@ The Chatta Chapter, the Fifteenth.
 
 [^1]: “Couch-Donor”
 
-[^2]: I.e., in each rebirth such a couch appears for him, according to
-    the BJTS Sinhala gloss.
+[^2]: I.e., in each rebirth such a couch appears for him, according to the BJTS Sinhala gloss.
 
 [^3]: “Radiance of Gold”

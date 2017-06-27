@@ -52,9 +52,7 @@ six special knowledges mastered,
 Thus indeed Venerable Upaḍḍhadussadāyaka Thera spoke these verses.  
 The legend of Upaḍḍhadussadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Half-Cloth Offerer”
 

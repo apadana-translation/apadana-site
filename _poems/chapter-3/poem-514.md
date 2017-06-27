@@ -32,17 +32,11 @@ six special knowledges mastered,
 Thus indeed Venerable Ketakapupphiya Thera spoke these verses.  
 The legend of Ketakapupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Screw-pine Flower-er”
 
-[^3]: the BJTS spelling; PTS reads *VItthāya,* alts. *Vittāya, Cittāya.*
-    Cf. \#380 {383}, v. 1 = \[3292\], above, where BJTS and PTS agree on
-    the spelling accepted from BJTS here; but cf. also \#485 {488}
-    above, v. 1 = \[5177\], where I also accept the BJTS reading amidst
-    considerable variation
+[^3]: the BJTS spelling; PTS reads *VItthāya,* alts. *Vittāya, Cittāya.* Cf. \#380 {383}, v. 1 = \[3292\], above, where BJTS and PTS agree on the spelling accepted from BJTS here; but cf. also \#485 {488} above, v. 1 = \[5177\], where I also accept the BJTS reading amidst considerable variation
 
 [^4]: *ekaggaŋ*
 
@@ -50,5 +44,4 @@ The legend of Ketakapupphiya Thera is finished.
 
 [^6]: lit., “did *pūjā*”
 
-[^7]: *ketakassa,* Pandanus odoratissima, Sinhala *väṭakē or
-    väṭakeyiyā*.
+[^7]: *ketakassa,* Pandanus odoratissima, Sinhala *väṭakē or väṭakeyiyā*.

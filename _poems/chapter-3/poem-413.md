@@ -138,31 +138,19 @@ six special knowledges mastered,
 Thus indeed Venerable Tiṇasūlakachādaniya[^29] Thera spoke these verses.  
 The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Arabian-Jasmine-Flower-Coverer,“ BJTS reads
-    *Tiṇasūlakachadaniya,* with the same meaning. DPPN I:1008 leaves
-    *Tiṇasūla* untranslated; BJTS Sinhala gloss is *bōlidda,* Arabian
-    Jasmine, a fragrant small white flower (*ºidda*) which flowers in
-    ball-like (*bōlº*) clusters.
+[^2]: “Arabian-Jasmine-Flower-Coverer,“ BJTS reads *Tiṇasūlakachadaniya,* with the same meaning. DPPN I:1008 leaves *Tiṇasūla* untranslated; BJTS Sinhala gloss is *bōlidda,* Arabian Jasmine, a fragrant small white flower (*ºidda*) which flowers in ball-like (*bōlº*) clusters.
 
-[^3]: *ekato* is the ablative form of *eka,* the number “one” which also
-    functions as an indefinite article. I am reading it here as though
-    it were *ekatta* (“alone”) following the BJTS Sinh. gloss (*ekalāva*
-    = alone, singly) rather than, as is the more common Pāli usage,
-    “together”.
+[^3]: *ekato* is the ablative form of *eka,* the number “one” which also functions as an indefinite article. I am reading it here as though it were *ekatta* (“alone”) following the BJTS Sinh. gloss (*ekalāva* = alone, singly) rather than, as is the more common Pāli usage, “together”.
 
 [^4]: *upāgamin,* “went up to” “approached”
 
 [^5]: or “the banks of the Ganges,” *gaṅgātīram*
 
-[^6]: *paṭhaviŋ...supaṇṇataŋ*, I suppose “fullness of flora and fauna,”
-    given the subsequent verses.
+[^6]: *paṭhaviŋ...supaṇṇataŋ*, I suppose “fullness of flora and fauna,” given the subsequent verses.
 
-[^7]: º*āyuto*, lit., “connected with” “furnished with” “endowed with”
-    “possessing”
+[^7]: º*āyuto*, lit., “connected with” “furnished with” “endowed with” “possessing”
 
 [^8]: *ºgaṇaº*, “groups”.
 
@@ -172,21 +160,15 @@ The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
 [^11]: reading *ramamāno* with BJTS for PTS *ramamāṇo*
 
-[^12]: I take the 3rd sing. *so* (and the declension of the verb,
-    *gajji*, “it roared”) apposite “four kinds” (*catukamo*), so
-    translate in the plural even though the pronoun and verb are
-    singular.
+[^12]: I take the 3rd sing. *so* (and the declension of the verb, *gajji*, “it roared”) apposite “four kinds” (*catukamo*), so translate in the plural even though the pronoun and verb are singular.
 
 [^13]: lit., “for those wild beasts”
 
 [^14]: lit., “did *pūjā*”
 
-[^15]: *nāgakesaraŋ,* BJTS gloss specifies that the meaning is “pollen
-    of ironwood (*nā, nāga*) flowers.”
+[^15]: *nāgakesaraŋ,* BJTS gloss specifies that the meaning is “pollen of ironwood (*nā, nāga*) flowers.”
 
-[^16]: *osadhī*. RD (s.v.) points out that all we really know about this
-    star is that it was particularly bright, leading Childers to
-    translate it as “Venus” and others as the morning star.
+[^16]: *osadhī*. RD (s.v.) points out that all we really know about this star is that it was particularly bright, leading Childers to translate it as “Venus” and others as the morning star.
 
 [^17]: lit., “of,” gen. case, “not-seeing of Buddhas”
 
@@ -206,8 +188,7 @@ The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
 [^25]: lit., “meritorious”
 
-[^26]: reading *sadā* (“always” “all the time”) with BJTS for PTS *tadā*
-    (“then”)
+[^26]: reading *sadā* (“always” “all the time”) with BJTS for PTS *tadā* (“then”)
 
 [^27]: or “residence”
 

@@ -28,5 +28,4 @@ The legend of Telamakkhiya Thera is finished.
 
 [^3]: lit., “kṣatriyan”
 
-[^4]: “Having Lovely Skin,” used in D (iii.159) and J (v.215; vi.269)
-    according to RD
+[^4]: “Having Lovely Skin,” used in D (iii.159) and J (v.215; vi.269) according to RD

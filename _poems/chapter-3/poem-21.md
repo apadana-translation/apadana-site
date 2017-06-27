@@ -263,55 +263,23 @@ six special knowledges mastered,
 Thus indeed Venerable Subhūti Thera spoke these verses.  
 The legend of Subhūti Thera is finished.
 
-[^1]: I am unclear how to take paṇḍu (“yellowish”) in this compound. The
-    cty understands it to mean leaves that fell from trees by
-    themselves, and this would correspond to the usage of *paṇḍu* as
-    “withered” in some compounds, but I leave it ambiguous, as is the
-    Pali.
+[^1]: I am unclear how to take paṇḍu (“yellowish”) in this compound. The cty understands it to mean leaves that fell from trees by themselves, and this would correspond to the usage of *paṇḍu* as “withered” in some compounds, but I leave it ambiguous, as is the Pali.
 
-[^2]: reading *jahasi* (“giving up,” “abandoning,” BJTS) for *pāhisi*
-    (“sent,” PTS)
+[^2]: reading *jahasi* (“giving up,” “abandoning,” BJTS) for *pāhisi* (“sent,” PTS)
 
-[^3]: or “shit,” *asuciṃ* = impurity, excrement. Is “shit” too strong a
-    word for a translation of *Apadān*a? Does “*asuci*” carry that
-    strong a connotation? Does “dirt” carry a strong enough one?
+[^3]: or “shit,” *asuciṃ* = impurity, excrement. Is “shit” too strong a word for a translation of *Apadān*a? Does “*asuci*” carry that strong a connotation? Does “dirt” carry a strong enough one?
 
-[^4]: i.e., showing their rut in their eyes, ears, and genitals. See
-    cty, p. 288.
+[^4]: i.e., showing their rut in their eyes, ears, and genitals. See cty, p. 288.
 
-[^5]: reading *pajjhāyanto pavadheti* (BJTS) for *ojjhāyanto padhāvat*i
-    (PTS).
+[^5]: reading *pajjhāyanto pavadheti* (BJTS) for *ojjhāyanto padhāvat*i (PTS).
 
-[^6]: the texts disagree on the reading of this verb, which undergirds
-    the analogy between the failed ascetic and the iron tool (*kūṭaṃ*, a
-    kind of hammer); it is in the 3rd person here, and the 2nd person in
-    the fourth foot. I follow PTS but read the verb *yāyati* rather
-    loosely to mean both “taken out for use” (as in the hammer) and
-    “taken out for a meal” (as in the ascetic); the verb itself just
-    means “go”. In this reading, the beauty (*jātarūpa*) of the tool
-    would be the reason it isn’t taken out/used, and would imply that
-    like that the ascetic looks good but isn’t actually useful. The
-    alternative *jhāyati* (“meditates,” PTS alt.) would compare the
-    failed ascetic to an insentient thing, which is also possible,
-    though it’s not then clear why the text stipulates that it’s a
-    beautiful hammer. The BJTS reading is *jhāpeti*, “set on fire,”
-    “reduce to ashes;” while it is true that the iron hammer wouldn’t
-    burn, it’s not clear what this would mean vis-a-vis the ascetic
-    (who, we’re told in v. \[17\], *will* be burning), unless it be that
-    no one would perform his funeral. The PTS reading *yāyati* is
-    especially to be preferred given the focus on place in *kattha ci*
-    (“anywhere,” repeated in the second and fourth feet).
+[^6]: the texts disagree on the reading of this verb, which undergirds the analogy between the failed ascetic and the iron tool (*kūṭaṃ*, a kind of hammer); it is in the 3rd person here, and the 2nd person in the fourth foot. I follow PTS but read the verb *yāyati* rather loosely to mean both “taken out for use” (as in the hammer) and “taken out for a meal” (as in the ascetic); the verb itself just means “go”. In this reading, the beauty (*jātarūpa*) of the tool would be the reason it isn’t taken out/used, and would imply that like that the ascetic looks good but isn’t actually useful. The alternative *jhāyati* (“meditates,” PTS alt.) would compare the failed ascetic to an insentient thing, which is also possible, though it’s not then clear why the text stipulates that it’s a beautiful hammer. The BJTS reading is *jhāpeti*, “set on fire,” “reduce to ashes;” while it is true that the iron hammer wouldn’t burn, it’s not clear what this would mean vis-a-vis the ascetic (who, we’re told in v. \[17\], *will* be burning), unless it be that no one would perform his funeral. The PTS reading *yāyati* is especially to be preferred given the focus on place in *kattha ci* (“anywhere,” repeated in the second and fourth feet).
 
-[^7]: *nicitaṃ dhanaṃ*, the PTS reading.The BJTS (and PTS alt) reading
-    is *nihitaṃ dhanaṃ* “renounced wealth,” in which case the
-    translation would be: “you do not have the maternal and paternal
-    wealth which you renounced.”
+[^7]: *nicitaṃ dhanaṃ*, the PTS reading.The BJTS (and PTS alt) reading is *nihitaṃ dhanaṃ* “renounced wealth,” in which case the translation would be: “you do not have the maternal and paternal wealth which you renounced.”
 
 [^8]: lit., “it will not be liked by you as excellent”
 
-[^9]: lit., “radiant with the color of a *Timbarūsaka* \[tree\]”. The
-    tree is *d*iospyros embryopteris, Sinh. *timbiri.* The cty.
-    specifies that the color is that of gold.
+[^9]: lit., “radiant with the color of a *Timbarūsaka* \[tree\]”. The tree is *d*iospyros embryopteris, Sinh. *timbiri.* The cty. specifies that the color is that of gold.
 
 [^10]: *anupamo*
 
@@ -319,19 +287,13 @@ The legend of Subhūti Thera is finished.
 
 [^12]: *rūpen’asadiso*
 
-[^13]: lit., he walked back and forth in the sky at that time.” I have
-    ignored the tadā in most of the instances of this repeated phrase,
-    *metri causa.*
+[^13]: lit., he walked back and forth in the sky at that time.” I have ignored the tadā in most of the instances of this repeated phrase, *metri causa.*
 
-[^14]: *siṅgī-nikkha-suvaṇṇa-ābbho; nikkha* can also be an ornament, or
-    a weight, The thrust, anyway, is that the Buddha was shiny like
-    gold.
+[^14]: *siṅgī-nikkha-suvaṇṇa-ābbho; nikkha* can also be an ornament, or a weight, The thrust, anyway, is that the Buddha was shiny like gold.
 
-[^15]: *jotirasa,* Pali-Sinhala-Ingirīsi dictionary calls it a wishing
-    jewel, *cintāmāṇikyaya*, i.e., a gem that grants wishes.
+[^15]: *jotirasa,* Pali-Sinhala-Ingirīsi dictionary calls it a wishing jewel, *cintāmāṇikyaya*, i.e., a gem that grants wishes.
 
-[^16]: reading *visuddha-kelāsa-nibho* (BJTS) for
-    *visuddha-kelāsa-ṇ-ṇibho* (PTS).
+[^16]: reading *visuddha-kelāsa-nibho* (BJTS) for *visuddha-kelāsa-ṇ-ṇibho* (PTS).
 
 [^17]: i.e., when it is full, *puṇṇamāse va candimā*
 

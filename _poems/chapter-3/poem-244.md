@@ -19,7 +19,6 @@ The legend of Viravapupphiya Thera is finished.
 
 [^1]: “Virava-Flower-er”. BJTS reads *Viraviº*
 
-[^2]: lit., “with one thousand who were free of *āsavas* (outflows,
-    defilements)”
+[^2]: lit., “with one thousand who were free of *āsavas* (outflows, defilements)”
 
 [^3]: BJTS reads *viravi*

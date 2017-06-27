@@ -22,11 +22,8 @@ six special knowledges mastered,
 Thus indeed Venerable Saḷalapupphiya Thera spoke these verses.  
 The legend of Saḷalapupphiya Thera is finished.
 
-[^1]: “*Saḷala-*Flower-er”. BJTS reads *salala°* . BJTS Sinh.gloss =
-    *hora* = “large timber tree yielding rezin and oil, Dipterocarpus
-    zeylanicus *(Dipterocarp.*)” (Bot. dict.)
+[^1]: “*Saḷala-*Flower-er”. BJTS reads *salala°* . BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus *(Dipterocarp.*)” (Bot. dict.)
 
-[^2]: The *kinnara* (Sinh. *kandura*) has a human head and a horse’s
-    body; “centaur”.
+[^2]: The *kinnara* (Sinh. *kandura*) has a human head and a horse’s body; “centaur”.
 
 [^3]: lit., “mixed up with,” “confused with” “jumbled with”

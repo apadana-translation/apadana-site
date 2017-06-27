@@ -32,17 +32,10 @@ six special knowledges mastered,
 Thus indeed Venerable Daṇḍadāyaka Thera spoke these verses.  
 The legend of Daṇḍadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Stick Donor.” This same *apadāna* (save for the elision of the
-    first two verses of the standard three-verse concluding refrain,
-    which are included here) is presented above, with the same title, as
-    \#352 {355}
+[^2]: “Stick Donor.” This same *apadāna* (save for the elision of the first two verses of the standard three-verse concluding refrain, which are included here) is presented above, with the same title, as \#352 {355}
 
-[^3]: *ālambana* or *ālamba,* lit., “hang onto,” is anything to hang
-    onto or which provides support. I understand it as a cane for
-    walking, a typical accoutrement of peripatetic Buddhist monks.
+[^3]: *ālambana* or *ālamba,* lit., “hang onto,” is anything to hang onto or which provides support. I understand it as a cane for walking, a typical accoutrement of peripatetic Buddhist monks.
 
 [^4]: *saṅghassa*, i.e., the Assembly of monks

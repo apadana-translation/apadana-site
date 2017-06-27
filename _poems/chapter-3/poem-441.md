@@ -40,24 +40,10 @@ The legend of Vibhīṭakamiñjaya Thera is finished.
 
 [^1]: BJTS reads *Vibhīṭaka*
 
-[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^3]: “*Bahera-*nut-er”
 
 [^4]: reading *vūpakaṭṭho* with BJTS for PTS *vupakaṭṭho*
 
-[^5]: *bījabījaŋ,* taking the reduplication as indicative of a large
-    number, “seeds and seeds.” BJTS Sinhala gloss interpolates “*bulu”
-    (bahera*, “bastard myrobolan,” *vibhītaka*), identifying the type of
-    seed on the basis of the protagonist’s name (as it appears in the
-    colophon), even though the Pali does not specify it. Cty (p. 487)
-    eliminates even the clue in the name, calling this monk
-    *Bījabījadāyaka* (“Numerous Seeds Donor”) after this distinctive
-    term in the text. However, cty proceeds to specify, like BJTS, that
-    these were *vibhīṭaka* \[Sinhala *buḷu,* beleric myrobalan, bastard
-    myrobalan, *Terminalia bellirica*\] seeds and even to explain that
-    “the meaning is: ‘having allowed *vibhīṭaka* fruits to mature,
-    taking the seeds \[that is\] the kernels, mixing \[them\] with honey
-    \[and\] sugar, I gave them to Kakusandha, the Blessed One’”
+[^5]: *bījabījaŋ,* taking the reduplication as indicative of a large number, “seeds and seeds.” BJTS Sinhala gloss interpolates “*bulu” (bahera*, “bastard myrobolan,” *vibhītaka*), identifying the type of seed on the basis of the protagonist’s name (as it appears in the colophon), even though the Pali does not specify it. Cty (p. 487) eliminates even the clue in the name, calling this monk *Bījabījadāyaka* (“Numerous Seeds Donor”) after this distinctive term in the text. However, cty proceeds to specify, like BJTS, that these were *vibhīṭaka* \[Sinhala *buḷu,* beleric myrobalan, bastard myrobalan, *Terminalia bellirica*\] seeds and even to explain that “the meaning is: ‘having allowed *vibhīṭaka* fruits to mature, taking the seeds \[that is\] the kernels, mixing \[them\] with honey \[and\] sugar, I gave them to Kakusandha, the Blessed One’”

@@ -42,8 +42,7 @@ six special knowledges mastered,
 Thus indeed Venerable Āyāgadāyaka Thera spoke these verses.  
 The legend of Āyāgadāyaka Thera is finished.
 
-[^1]: cty defines *āyāga* as a *dighaṃ bhojanasālaṃ* or “long
-    eating-hall,” thus the name would mean “Eating-Hall-Giver”.
+[^1]: cty defines *āyāga* as a *dighaṃ bhojanasālaṃ* or “long eating-hall,” thus the name would mean “Eating-Hall-Giver”.
 
 [^2]: lit., “root,” *mūla.*
 

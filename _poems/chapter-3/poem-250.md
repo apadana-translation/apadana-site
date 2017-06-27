@@ -34,10 +34,6 @@ The Tuvaradāya Chapter, the Twenty-Fifth
 
 [^2]: PTS reads Kakuddha
 
-[^3]: Cassia fistula*,* Sinh. *äsaḷa,* a.k.a. golden rain tree and
-    native to Southern Asia, ranging from Peninsular SE Asia (national
-    tree of Thailand) to southern Pakistan, indigenous in India, Burma,
-    as far south as Sri Lanka
+[^3]: Cassia fistula*,* Sinh. *äsaḷa,* a.k.a. golden rain tree and native to Southern Asia, ranging from Peninsular SE Asia (national tree of Thailand) to southern Pakistan, indigenous in India, Burma, as far south as Sri Lanka
 
-[^4]: reading *ujubhūtassa* with BJTS (and PTS alternative) for PTS
-    *ujjubhūtassa*
+[^4]: reading *ujubhūtassa* with BJTS (and PTS alternative) for PTS *ujjubhūtassa*

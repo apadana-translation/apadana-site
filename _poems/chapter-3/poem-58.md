@@ -54,9 +54,7 @@ The legend of Dhajadāyaka is finished.
 
 [^3]: BJTS agrees with PTS in presenting this as a six-footed verse.
 
-[^4]: BJTS agrees with PTS in presenting vv. (4-5) \[1317-1318\] as
-    containing a total of six feet, but disagree on whether the first
-    (PTS) or the second (BJTS) of these verses is the six-footed one
+[^4]: BJTS agrees with PTS in presenting vv. (4-5) \[1317-1318\] as containing a total of six feet, but disagree on whether the first (PTS) or the second (BJTS) of these verses is the six-footed one
 
 [^5]: “Risen Up”.
 

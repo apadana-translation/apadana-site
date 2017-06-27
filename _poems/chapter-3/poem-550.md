@@ -208,14 +208,9 @@ To that extent the *Buddhāpadāna, Paccekabuddhāpadāna and Therāpadāna*
 are finished. Let it be the basis for nirvana![^58]  
 The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Little Good Scent,” perhaps to distinguish him from the Sugandha
-    Thera whose *apadāna* appears above as \#527 {530}, with which the
-    present *apadāna* shares some verses. DPPN I: 904 says he is
-    probably identical with Subhūti Thera
+[^2]: “Little Good Scent,” perhaps to distinguish him from the Sugandha Thera whose *apadāna* appears above as \#527 {530}, with which the present *apadāna* shares some verses. DPPN I: 904 says he is probably identical with Subhūti Thera
 
 [^3]: One BJTS alt. reads *gottena,* “by lineage”
 
@@ -233,9 +228,7 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^10]: lit., *samādhi*
 
-[^11]: *pahūtadhanadhaññasmiŋ* taking the compound as a *dvandva*, see
-    RD, *dhana* s.v. for a discussion of the options here. This is a
-    stock phrase which means “rich in abundant treasures”
+[^11]: *pahūtadhanadhaññasmiŋ* taking the compound as a *dvandva*, see RD, *dhana* s.v. for a discussion of the options here. This is a stock phrase which means “rich in abundant treasures”
 
 [^12]: *amataŋ ca manoharaŋ*
 
@@ -253,8 +246,7 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^19]: *karuṇāpuṇṇahadayo*
 
-[^20]: reading *guṇena* with BJTS (and PTS alt., also alt. *guṇe*, “in
-    virtue”) for PTS *vivaddho* (“without aging”?)
+[^20]: reading *guṇena* with BJTS (and PTS alt., also alt. *guṇe*, “in virtue”) for PTS *vivaddho* (“without aging”?)
 
 [^21]: *lokavissutakittī*
 
@@ -266,15 +258,11 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^25]: *patiṭṭhā,* support, resting place
 
-[^26]: reading *kuvāda°* with BJTS (and PTS alt.) for PTS *kupāda°.* PTS
-    reads the second component of the compound as °*kaccha* (“reed,”
-    “marshy land”) and BJTS reads it as *gaccha* (“shrub” “small
-    plant”); “undergrowth” attempts to capture both meanings.
+[^26]: reading *kuvāda°* with BJTS (and PTS alt.) for PTS *kupāda°.* PTS reads the second component of the compound as °*kaccha* (“reed,” “marshy land”) and BJTS reads it as *gaccha* (“shrub” “small plant”); “undergrowth” attempts to capture both meanings.
 
 [^27]: *agado viya*, “counter-poison” “medicine”
 
-[^28]: reading *kilesavisanāsako* with BJTS for PTS *°nāyako* (“he is
-    the Leader of poison of the defilements”)
+[^28]: reading *kilesavisanāsako* with BJTS for PTS *°nāyako* (“he is the Leader of poison of the defilements”)
 
 [^29]: *guṇagandhavibhūsito*
 
@@ -286,8 +274,7 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^33]: *mārasenāpamaddano,* BJTS reads *mārasenappamaddano*
 
-[^34]: *bojjhaṅgaratan’issaro,* a play on the “seven gems” (the wheel,
-    etc.) of the wheel-turning monarch
+[^34]: *bojjhaṅgaratan’issaro,* a play on the “seven gems” (the wheel, etc.) of the wheel-turning monarch
 
 [^35]: *mahābhisakkasaṅkāso*
 
@@ -305,8 +292,7 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^42]: lit., “in”
 
-[^43]: *sugatūpago,* lit., “approaching well-being”. Could also be read
-    as: through morals approaching the Well-Gone-One
+[^43]: *sugatūpago,* lit., “approaching well-being”. Could also be read as: through morals approaching the Well-Gone-One
 
 [^44]: *nibbāti,* or “he cools off”
 
@@ -316,8 +302,7 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^47]: lit., “to the Well-Gone-One
 
-[^48]: reading *māse aṭṭhadinesv-ahaṃ* with BJTS for PTS *māse aṭṭhadine
-    svaha*
+[^48]: reading *māse aṭṭhadinesv-ahaṃ* with BJTS for PTS *māse aṭṭhadine svaha*
 
 [^49]: *paṇidhāya,* or “firm resolve”, Sinh. *prārthanāva*
 
@@ -337,9 +322,6 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^57]: lit., “here”
 
-[^58]: BJTS omits these two concluding lines, because the BJTS recension
-    of the *apadāna* does **not** end here, even though BJTS includes
-    these chapter summary verses for an incomplete hundred (*sātakaṃ*).
+[^58]: BJTS omits these two concluding lines, because the BJTS recension of the *apadāna* does **not** end here, even though BJTS includes these chapter summary verses for an incomplete hundred (*sātakaṃ*).
 
-[^59]: BJTS places this statement above the summary, rather than after
-    it
+[^59]: BJTS places this statement above the summary, rather than after it

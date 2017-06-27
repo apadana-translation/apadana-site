@@ -132,9 +132,7 @@ six special knowledges mastered,
 Thus indeed Venerable Kumāra-Kassapa Thera spoke these verses.  
 The legend of Kumāra-Kassapa Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Boy-Kassapa”
 
@@ -148,28 +146,19 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^7]: *munivaro*
 
-[^8]: *karuṇekarasāsayo,* BJTS Sinhala gloss: *karuṇā rasaṭa eka ma
-    nidhāna vū* (“who was the one \[and only\] treasure-trove for the
-    taste of compassion”)
+[^8]: *karuṇekarasāsayo,* BJTS Sinhala gloss: *karuṇā rasaṭa eka ma nidhāna vū* (“who was the one \[and only\] treasure-trove for the taste of compassion”)
 
 [^9]: *ekāvatta-sumānasaŋ*
 
-[^10]: reading *vicittakathikattanaṃ* (lit., “varied-discourse-ness”)
-    with BJTS for PTS *vicittakathikatthadaŋ* (“of giving meaning
-    through varied discourse”)
+[^10]: reading *vicittakathikattanaṃ* (lit., “varied-discourse-ness”) with BJTS for PTS *vicittakathikatthadaŋ* (“of giving meaning through varied discourse”)
 
 [^11]: *paribbhamaŋ bhavākāse*
 
 [^12]: *raṅgamajjhe yathā naṭo*
 
-[^13]: “Branch”. RD says “branch-deer” (*sākhā-miga*) signifies a monkey
-    at J ii.73; the compound translated here (*sākhāmigatrajo)* thus can
-    also be read to mean “son of a monkey,” but the following lines make
-    clear that the figures here are deer.
+[^13]: “Branch”. RD says “branch-deer” (*sākhā-miga*) signifies a monkey at J ii.73; the compound translated here (*sākhāmigatrajo)* thus can also be read to mean “son of a monkey,” but the following lines make clear that the figures here are deer.
 
-[^14]: reading *vajjhavāro upatiṭṭho* with BJTS (“the turn to die for
-    was looked after ”\[or “was served”\]) for PTS *vajjavāraŋ upatiṭhā*
-    (“she looked after \[etc.\] the time to die”).
+[^14]: reading *vajjhavāro upatiṭṭho* with BJTS (“the turn to die for was looked after ”\[or “was served”\]) for PTS *vajjavāraŋ upatiṭhā* (“she looked after \[etc.\] the time to die”).
 
 [^15]: reading *vattā* with BJTS for PTS *cattā*
 
@@ -177,9 +166,7 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^17]: *āgamma,* lit., “having come”
 
-[^18]: PTS treats this as two short verses; BJTS as a single verse in
-    more elaborate metre (with 11-syllable feet rather than
-    half-verses); I follow BJTS’s reading.
+[^18]: PTS treats this as two short verses; BJTS as a single verse in more elaborate metre (with 11-syllable feet rather than half-verses); I follow BJTS’s reading.
 
 [^19]: *jinasāsanaŋ,* lit., “the Victor’s dispensation”
 
@@ -187,12 +174,9 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^21]: *seṭṭhiº,* “a millionaire’s”
 
-[^22]: lit., “went forth.” We are to understand that she did this
-    unintentionally, i.e., unaware she was pregnant
+[^22]: lit., “went forth.” We are to understand that she did this unintentionally, i.e., unaware she was pregnant
 
-[^23]: the Buddha’s cousin, who tries to rival the Buddha with
-    increasing virulence and hatred until he is finally sucked into
-    *avīci* hell. See \#387 {390}, above.
+[^23]: the Buddha’s cousin, who tries to rival the Buddha with increasing virulence and hatred until he is finally sucked into *avīci* hell. See \#387 {390}, above.
 
 [^24]: *vināsetha*, 2nd pers. pl., also “destroy” “ruin” “kill”
 
@@ -202,11 +186,6 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^27]: or “to the prince,” his own son?
 
-[^28]: in the *Vammikasutta,* M i. 142ff, which is centered on
-    Kumāra-Kassapa. A certain deity appears and tells him a riddle about
-    a burning anthill; he reports this to the Buddha who solves the
-    riddle by equating the anthill with the body. See DPPN II:832-833
+[^28]: in the *Vammikasutta,* M i. 142ff, which is centered on Kumāra-Kassapa. A certain deity appears and tells him a riddle about a burning anthill; he reports this to the Buddha who solves the riddle by equating the anthill with the body. See DPPN II:832-833
 
-[^29]: who maintained that karma bears no fruit. His famous dialogue
-    about rebirth with Kumārakassapa is recounted in the *Pāyāsisutta*,
-    D. ii. 316ff. See DPPN II:187-188
+[^29]: who maintained that karma bears no fruit. His famous dialogue about rebirth with Kumārakassapa is recounted in the *Pāyāsisutta*, D. ii. 316ff. See DPPN II:187-188

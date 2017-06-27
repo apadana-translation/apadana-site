@@ -36,22 +36,13 @@ six special knowledges mastered,
 Thus indeed Venerable Sannidhāpaka[^8] Thera spoke these verses.  
 The legend of Sannidhāpaka[^9] Thera is finished.
 
-[^1]: “Putter-Down;” BJTS, cty read *Sanniṭṭhāpaka,* “Readier”
-    “Preparer”
+[^1]: “Putter-Down;” BJTS, cty read *Sanniṭṭhāpaka,* “Readier” “Preparer”
 
 [^2]: *yasena ayasena ca*, lit., "with glory as with dishonor”
 
-[^3]: lit “with a hundred thousand who had the power to subdue others
-    (*vasī*),” namely arahants
+[^3]: lit “with a hundred thousand who had the power to subdue others (*vasī*),” namely arahants
 
-[^4]: *āmaṇḍaṃ,* which PSI defines as “a kind of plant, *Palma
-    Christi*,” Sinhala *eraṇḍu*. The latter (also *ēraṇḍu*, Pāli
-    *eraṇḍa) = datti,* croton, i.e., (see Cone, s.v.) the castor oil
-    plant (Ricinus communis, the seeds of which are used to make an
-    oil). BJTS gloss on this verse gives *kaekiri*, which is something
-    like a cucumber (genera Cucumis), which I suspect is wrong, but the
-    main point is clear, that the hermit gave the Buddha something to
-    eat, presumably whatever fruit he himself was used to eating.
+[^4]: *āmaṇḍaṃ,* which PSI defines as “a kind of plant, *Palma Christi*,” Sinhala *eraṇḍu*. The latter (also *ēraṇḍu*, Pāli *eraṇḍa) = datti,* croton, i.e., (see Cone, s.v.) the castor oil plant (Ricinus communis, the seeds of which are used to make an oil). BJTS gloss on this verse gives *kaekiri*, which is something like a cucumber (genera Cucumis), which I suspect is wrong, but the main point is clear, that the hermit gave the Buddha something to eat, presumably whatever fruit he himself was used to eating.
 
 [^5]: see previous note; some kind of food, BJTS gloss is *käkiri*
 

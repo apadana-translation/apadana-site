@@ -28,9 +28,7 @@ six special knowledges mastered,
 Thus indeed Venerable Saddasaññaka Thera spoke these verses.  
 The legend of Saddasaññaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Sound-Perceiver,” cf. \#88, \#294, \#317
 
@@ -42,12 +40,6 @@ The legend of Saddasaññaka Thera is finished.
 
 [^6]: i.e., melodious and clear
 
-[^7]: *brahmassara.* RD explains this as *“*a beautiful and deep voice
-    (with 8 fine qualities: see enumd under *bindu*) D ii.211=227; J
-    i.96; v.336.”
+[^7]: *brahmassara.* RD explains this as *“*a beautiful and deep voice (with 8 fine qualities: see enumd under *bindu*) D ii.211=227; J i.96; v.336.”
 
-[^8]: lit., “I attained the destruction of the outflows”
-    (*āsavakkhayaŋ*). This has to be read as a reference to the much
-    later (present) life, for if he had become an arahant in the time of
-    Sikhi Buddha he would not have been reborn during the time of the
-    present (Gotama) Buddha.
+[^8]: lit., “I attained the destruction of the outflows” (*āsavakkhayaŋ*). This has to be read as a reference to the much later (present) life, for if he had become an arahant in the time of Sikhi Buddha he would not have been reborn during the time of the present (Gotama) Buddha.

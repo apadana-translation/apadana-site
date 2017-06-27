@@ -152,40 +152,31 @@ six special knowledges mastered,
 Thus indeed Venerable Girimānanda Thera spoke these verses.  
 The legend of Girimānanda Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Joy for the Mountains,” a historical monk, the son of King
-    Bimbisāra’s chaplain who entered the order at Rajgir. See DPPN I:
-    770-771
+[^2]: “Joy for the Mountains,” a historical monk, the son of King Bimbisāra’s chaplain who entered the order at Rajgir. See DPPN I: 770-771
 
-[^3]: *cittakkhepañ ca me āsi,* lit., “there was mental derangement for
-    me”
+[^3]: *cittakkhepañ ca me āsi,* lit., “there was mental derangement for me”
 
 [^4]: reading *aṭṭito* with BJTS for PTS *cakkhumā,* “one with eyes”
 
 [^5]: *ºpareto*, lit., “overcome,” “affected”
 
-[^6]: reading *ullokesiṃ* with BJTS (and PTS alt.) for PTS *ullokesi,*
-    “he looked upon”
+[^6]: reading *ullokesiṃ* with BJTS (and PTS alt.) for PTS *ullokesi,* “he looked upon”
 
 [^7]: reading *mahāmuniṃ* with BJTS for PTS *mahāmuni *
 
-[^8]: *satiŋ paṭilabhitvāna,* lit., “having received
-    alertness/mindfulness”
+[^8]: *satiŋ paṭilabhitvāna,* lit., “having received alertness/mindfulness”
 
 [^9]: *anavhātā*
 
-[^10]: BJTS Sinhala gloss takes the implied (3rd person plural) subject
-    here to be “the brothers, etc.” who have died
+[^10]: BJTS Sinhala gloss takes the implied (3rd person plural) subject here to be “the brothers, etc.” who have died
 
 [^11]: *āguŋ*
 
 [^12]: *ananuññātā*
 
-[^13]: *tattha kā paridevanā,* lit., “what is the lamentation there?” RD
-    (*tattha*, s.v.) gives “why sorrow for this?”
+[^13]: *tattha kā paridevanā,* lit., “what is the lamentation there?” RD (*tattha*, s.v.) gives “why sorrow for this?”
 
 [^14]: *sattā,* lit., “beings”. BJTS glosses *ºjanayo*, “people”
 
@@ -193,16 +184,13 @@ The legend of Girimānanda Thera is finished.
 
 [^16]: *sabhaṇḍā,* lit., “together with their goods”
 
-[^17]: reading *vasse ca te oramite* with BJTS for PTS *vasse ete
-    oramite *
+[^17]: reading *vasse ca te oramite* with BJTS for PTS *vasse ete oramite *
 
 [^18]: or proceed, keep going: *sampayanti*
 
 [^19]: or “according to their wishes”
 
-[^20]: i.e., they were here for temporary shelter, and now that the rain
-    (= their lifespan) has ceased, they’ve continued on in their
-    journey.
+[^20]: i.e., they were here for temporary shelter, and now that the rain (= their lifespan) has ceased, they’ve continued on in their journey.
 
 [^21]: *urago*, “stomach-goer”
 
@@ -218,18 +206,7 @@ The legend of Girimānanda Thera is finished.
 
 [^27]: lit., “did *pūjā* with”
 
-[^28]: the text is corrupt as regards the object given, apparently an
-    attempt at explaining the “Giri” part of the protagonist’s name. I
-    follow BJTS (and PTS alt) in reading *girimañjariṃ apūjayiṃ,* “I did
-    *pūjā* with a stalk of *giri* \[flowers\],” even though it breaks
-    meter (BJTS corrects to *pūjayiṃ girimañjariṃ*). BJTS glosses *giri*
-    as *girinil mal,* on which see note to \[2256\]. *Giri* means
-    “mountain,” so perhaps the reference is to a stalk of flowers
-    (*mañjarī*) growing on a mountain? PTS reads *girapañjaliŋ*
-    (“pressing together of the hands in honor of his words”?) offering
-    alternatives *giramañchira* (?) and *giripañjariŋ* (fr. *pañjara*, a
-    cage?), none of which satisfyingly corresponds to the adjective
-    supplied this offering, “endowed with a heavenly scent.”
+[^28]: the text is corrupt as regards the object given, apparently an attempt at explaining the “Giri” part of the protagonist’s name. I follow BJTS (and PTS alt) in reading *girimañjariṃ apūjayiṃ,* “I did *pūjā* with a stalk of *giri* \[flowers\],” even though it breaks meter (BJTS corrects to *pūjayiṃ girimañjariṃ*). BJTS glosses *giri* as *girinil mal,* on which see note to \[2256\]. *Giri* means “mountain,” so perhaps the reference is to a stalk of flowers (*mañjarī*) growing on a mountain? PTS reads *girapañjaliŋ* (“pressing together of the hands in honor of his words”?) offering alternatives *giramañchira* (?) and *giripañjariŋ* (fr. *pañjara*, a cage?), none of which satisfyingly corresponds to the adjective supplied this offering, “endowed with a heavenly scent.”
 
 [^29]: lit., “done *pūjā* to”
 
@@ -239,11 +216,9 @@ The legend of Girimānanda Thera is finished.
 
 [^32]: *siddhipattā*
 
-[^33]: *chaḷabhiññā mahiddhikā,* lit., possessors of the six special
-    knowledges who have great (magical, *iddhi*) power.”
+[^33]: *chaḷabhiññā mahiddhikā,* lit., possessors of the six special knowledges who have great (magical, *iddhi*) power.”
 
-[^34]: *phalaṭṭhā*, lit., “stationed in fruition” (RD), “fixed in the
-    fruits \[of the path\],” i.e., on the way to nirvana
+[^34]: *phalaṭṭhā*, lit., “stationed in fruition” (RD), “fixed in the fruits \[of the path\],” i.e., on the way to nirvana
 
 [^35]: *paṭipannā*, i.e., arahants
 
@@ -255,20 +230,15 @@ The legend of Girimānanda Thera is finished.
 
 [^39]: *lokajinaŋ*
 
-[^40]: taking *paṭikuṭiko* (BJTS reads *patiº*) as fr. *paṭikuṭati* “to
-    crouch,” “to bend over”. This may mean that he went off still bowing
-    in reverence, or else that he went off on all fours. Here BJTS
-    leaves the term unglossed
+[^40]: taking *paṭikuṭiko* (BJTS reads *patiº*) as fr. *paṭikuṭati* “to crouch,” “to bend over”. This may mean that he went off still bowing in reverence, or else that he went off on all fours. Here BJTS leaves the term unglossed
 
 [^41]: where he presumably went after the lifetime just recounted
 
 [^42]: *ātāpī,* lit.,. “burning”
 
-[^43]: *paṭisallāna-gocaro,* “I sustained myself/fed one retirement into
-    solitude for meditation”
+[^43]: *paṭisallāna-gocaro,* “I sustained myself/fed one retirement into solitude for meditation”
 
-[^44]: *padhānaŋ padahitvāna,* lit., “having exerted \[myself\] in
-    exertion
+[^44]: *padhānaŋ padahitvāna,* lit., “having exerted \[myself\] in exertion
 
 [^45]: *cando v’abbhaghanā mutto*
 

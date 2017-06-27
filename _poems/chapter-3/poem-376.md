@@ -27,15 +27,11 @@ six special knowledges mastered,
 Thus indeed Venerable Gandhamuṭṭhiya Thera spoke these verses.  
 The legend of Gandhamuṭṭhiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “A Handful of Incense-er”
 
-[^3]: or more generally, “shrine,” *cita.* I read *citake karīyamāne*
-    (locative absolute construction) with BJTS for PTS *citesu
-    kiramānesu*, “when stupas (or shrines) were being scattered”
+[^3]: or more generally, “shrine,” *cita.* I read *citake karīyamāne* (locative absolute construction) with BJTS for PTS *citesu kiramānesu*, “when stupas (or shrines) were being scattered”
 
 [^4]: *gandha,* lit., “\[good\] smells,” “types of incense”
 
@@ -43,17 +39,4 @@ The legend of Gandhamuṭṭhiya Thera is finished.
 
 [^6]: lit., “did *pūjā”*
 
-[^7]: this slight deviation on the first verse of the standard refrain —
-    reading *mama buddhassa* for the more common *buddhaseṭṭhassa*
-    (“Best Buddha’s”) — appears to be quite random. Here, PTS has the
-    variant but BJTS reads *buddhaseṭṭhassa*; elsewhere, BJTS also
-    presents the variant. I have tried to keep these straight and to
-    mark the variant when it occurs -- likewise other small variants on
-    the second verse of the refrain, but may have missed some, as it's
-    all-too-easy to just assume the default reading without looking
-    closely, exacerbated by the PTS tendency to substitute “*pe*”
-    (“etc.”*)* for the full verses of the refrain. This may account for
-    the randomness of the variant readings in the manuscripts
-    themselves, as the scribes no doubt experienced similar failures to
-    detect the distinctions in these verses, which appear in nearly
-    every *apadāna*
+[^7]: this slight deviation on the first verse of the standard refrain — reading *mama buddhassa* for the more common *buddhaseṭṭhassa* (“Best Buddha’s”) — appears to be quite random. Here, PTS has the variant but BJTS reads *buddhaseṭṭhassa*; elsewhere, BJTS also presents the variant. I have tried to keep these straight and to mark the variant when it occurs -- likewise other small variants on the second verse of the refrain, but may have missed some, as it's all-too-easy to just assume the default reading without looking closely, exacerbated by the PTS tendency to substitute “*pe*” (“etc.”*)* for the full verses of the refrain. This may account for the randomness of the variant readings in the manuscripts themselves, as the scribes no doubt experienced similar failures to detect the distinctions in these verses, which appear in nearly every *apadāna*

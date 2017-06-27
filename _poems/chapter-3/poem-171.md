@@ -45,29 +45,18 @@ The legend of Kumudamāliya Thera is finished.
 
 [^1]: “White-Lotus-Garland-er”
 
-[^2]: BJTS Sinhala gloss takes this measure to be that of a chariot
-    wheel (*riya-sak*), in which case they were very large lotuses
-    indeed.
+[^2]: BJTS Sinhala gloss takes this measure to be that of a chariot wheel (*riya-sak*), in which case they were very large lotuses indeed.
 
 [^3]: reading *taṃ* (BJTS) for *ahaŋ* (“I,” PTS).
 
-[^4]: I follow BJTS in reading *balino* for *phalino* (“of the one
-    bearing fruit,” PTS), though neither *balī* nor *phalī* is one of
-    the regular Buddha-epithets in *Apadāna*, so the choice is somewhat
-    arbitrary: the Buddha might as well be “the Fruitful One” as “the
-    Strong One”.
+[^4]: I follow BJTS in reading *balino* for *phalino* (“of the one bearing fruit,” PTS), though neither *balī* nor *phalī* is one of the regular Buddha-epithets in *Apadāna*, so the choice is somewhat arbitrary: the Buddha might as well be “the Fruitful One” as “the Strong One”.
 
-[^5]: *Samiti*, which BJTS Sinhala gloss takes to mean the Assembly of
-    monks, i.e., the Buddha and his monastic followers
+[^5]: *Samiti*, which BJTS Sinhala gloss takes to mean the Assembly of monks, i.e., the Buddha and his monastic followers
 
 [^6]: reading *samocitaṃ* (BJTS) for *saṅkocitaŋ* (PTS).
 
-[^7]: reading *yāvatā himavantantā parisā sā tadā ahu* (BJTS) for
-    *yāvatā himavantato yāva samantato ahu* (“as far as the ends of the
-    Himalayas, on all sides there was,” PTS)
+[^7]: reading *yāvatā himavantantā parisā sā tadā ahu* (BJTS) for *yāvatā himavantato yāva samantato ahu* (“as far as the ends of the Himalayas, on all sides there was,” PTS)
 
-[^8]: reading *tācchadanasampanno* ("endowed with a canopy \[on top of\]
-    him”) with BJTS for PTS *aggacchadanasampanno* (“with a canopy on
-    top \[on top of him\]”)
+[^8]: reading *tācchadanasampanno* ("endowed with a canopy \[on top of\] him”) with BJTS for PTS *aggacchadanasampanno* (“with a canopy on top \[on top of him\]”)
 
 [^9]: “Thousand Chariots”.

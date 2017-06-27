@@ -32,22 +32,10 @@ The legend of Tipupphiya Thera is finished.
 
 [^1]: “Three-Flower-er”
 
-[^2]: the *pāṭali* or trumpet-flower tree (Sinh. *paḷol gasa*) was the
-    tree under which Vipassi Buddha attained Bodhi or Awakening, hence
-    it is his “Bodhi Tree” even though it is a species different from
-    the “Bodhi Tree” of Gotama Buddha, the *ficus religiosa* (Skt.
-    *Aśvattha*).
+[^2]: the *pāṭali* or trumpet-flower tree (Sinh. *paḷol gasa*) was the tree under which Vipassi Buddha attained Bodhi or Awakening, hence it is his “Bodhi Tree” even though it is a species different from the “Bodhi Tree” of Gotama Buddha, the *ficus religiosa* (Skt. *Aśvattha*).
 
-[^3]: reading *patita* (BJTS alt) for *satta* (“seven,” PTS, BJTS,
-    though BJTS Sinhala gloss takes it as meaning “fallen” \[Sinhala
-    *väṭunu*).
+[^3]: reading *patita* (BJTS alt) for *satta* (“seven,” PTS, BJTS, though BJTS Sinhala gloss takes it as meaning “fallen” \[Sinhala *väṭunu*).
 
-[^4]: “Sambuddha, Vipassi, World Lord, well-liberated, undefiled” are
-    all accusatives which, in addition to explicating the phrase “facing
-    the Sambuddha”, therefore stand in grammatical apposition with
-    *pāṭali.* He worships the tree “as though facing the Sambuddha”
-    because, in this reading, the tree *is* the Buddha.
+[^4]: “Sambuddha, Vipassi, World Lord, well-liberated, undefiled” are all accusatives which, in addition to explicating the phrase “facing the Sambuddha”, therefore stand in grammatical apposition with *pāṭali.* He worships the tree “as though facing the Sambuddha” because, in this reading, the tree *is* the Buddha.
 
-[^5]: “Pleased on all Sides.” This (coincidentally, I presume) is the
-    name of Buddhaghosa’s commentary on the *Vinaya-piṭaka* (5th c.,
-    A.D.).
+[^5]: “Pleased on all Sides.” This (coincidentally, I presume) is the name of Buddhaghosa’s commentary on the *Vinaya-piṭaka* (5th c., A.D.).

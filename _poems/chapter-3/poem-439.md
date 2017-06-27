@@ -45,26 +45,15 @@ six special knowledges mastered,
 Thus indeed Venerable Ambapiṇḍiya Thera spoke these verses.  
 The legend of Ambapiṇḍiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Mango-Cluster-er”
 
-[^3]: reading *brahāraññe* with BJTS (and PTS alt.) for PTS
-    *Brahmāraññe* (“Brahmā’s forest”)
+[^3]: reading *brahāraññe* with BJTS (and PTS alt.) for PTS *Brahmāraññe* (“Brahmā’s forest”)
 
-[^4]: *ambapiṇḍi.* The term can mean “lump”or “round mass” too, but it’s
-    not clear how an elephant would get or make a lump or ball of mango
-    to present a Buddha; “mango-cud” seems unlikely. Wild elephants eat
-    by breaking branches, fronds or stems off trees and shrubs with
-    their trunks, and the image here seems to be along those lines:
-    mangoes fruit in clusters along branches, and the protagonist has
-    apparently broken off such a branch, clustered with mangoes, to give
-    the Buddha.
+[^4]: *ambapiṇḍi.* The term can mean “lump”or “round mass” too, but it’s not clear how an elephant would get or make a lump or ball of mango to present a Buddha; “mango-cud” seems unlikely. Wild elephants eat by breaking branches, fronds or stems off trees and shrubs with their trunks, and the image here seems to be along those lines: mangoes fruit in clusters along branches, and the protagonist has apparently broken off such a branch, clustered with mangoes, to give the Buddha.
 
-[^5]: reading *mama* with BJTS (and PTS. alt.; gen. abs. construction)
-    for PTS *mamaŋ* (acc.)
+[^5]: reading *mama* with BJTS (and PTS. alt.; gen. abs. construction) for PTS *mamaŋ* (acc.)
 
 [^6]: the heaven of happiness
 

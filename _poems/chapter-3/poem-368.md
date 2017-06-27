@@ -22,17 +22,9 @@ six special knowledges mastered,
 Thus indeed Venerable Ekacampakapupphiya Thera spoke these verses.  
 The legend of Ekacampakapupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “One *Campaka* Flower-er”. Cf. \#136, \#254, \#343{346}. The
-    *campaka* (Sinh. *sapu*) tree is *Magnolia champaca,* formerly
-    classified as *michelia champaca*. English names for the tree
-    include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and
-    Fragrant Himalayan Champaca. It was the Bodhi tree of the
-    seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly
-    fragrant cream to yellowish-colored blossoms.
+[^2]: “One *Campaka* Flower-er”. Cf. \#136, \#254, \#343{346}. The *campaka* (Sinh. *sapu*) tree is *Magnolia champaca,* formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
 [^3]: “Peaceful One”
 

@@ -47,22 +47,17 @@ six special knowledges mastered,
 Thus indeed Venerable Jātipupphiya Thera spoke these verses.  
 The legend of Jātipupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Some Kind (*jātiº*) of Flower-er”
 
 [^3]: lit., “reached nirvana”
 
-[^4]: *caṅgoṭake.* BJTS gloss, straying from the text, gives “a flower
-    bouquet (*mal-kaḍak*) of jasmine flowers (*dasamanmalin*) for the
-    top (*mudun,* of the stupa)”
+[^4]: *caṅgoṭake.* BJTS gloss, straying from the text, gives “a flower bouquet (*mal-kaḍak*) of jasmine flowers (*dasamanmalin*) for the top (*mudun,* of the stupa)”
 
 [^5]: or “the body:” *sarīram*
 
-[^6]: Nirmāṇarati, a heaven wherein, as its name implies, one delights
-    in form.
+[^6]: Nirmāṇarati, a heaven wherein, as its name implies, one delights in form.
 
 [^7]: lit., “gone to”
 

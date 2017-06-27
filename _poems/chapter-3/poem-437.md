@@ -27,13 +27,8 @@ six special knowledges mastered,
 Thus indeed Venerable Ambāṭaka Thera spoke these verses.  
 The legend of Ambāṭaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Hog-Plum”
 
-[^3]: *ambāṭakā,* RD: “the hog-plum, Spondias Mangifera (a kind of
-    mango), Vin ii.17 (ºvana), DA i.271 (ºrukkha).” BJTS gloss
-    *ämbarälla, ämbärälla*, a small, sour, mango-like fruit which is
-    cooked as a curry.
+[^3]: *ambāṭakā,* RD: “the hog-plum, Spondias Mangifera (a kind of mango), Vin ii.17 (ºvana), DA i.271 (ºrukkha).” BJTS gloss *ämbarälla, ämbärälla*, a small, sour, mango-like fruit which is cooked as a curry.

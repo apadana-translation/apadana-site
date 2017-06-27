@@ -34,16 +34,12 @@ The legend of Raŋsisaññaka Thera is finished.
 
 [^1]: “Ray-Perceiver”
 
-[^2]: *vītaraṃsi/vītaraṃsa.* RD says the metaphor is much attested, but
-    unclear. I take it to refer to sunny days that are not oppressively
-    hot, whether due to light cover, the time of day, or the time of
-    year.
+[^2]: *vītaraṃsi/vītaraṃsa.* RD says the metaphor is much attested, but unclear. I take it to refer to sunny days that are not oppressively hot, whether due to light cover, the time of day, or the time of year.
 
 [^3]: lit., remaining, additional
 
 [^4]: *kusalaŋ*
 
-[^5]: lit., “since I obtained that perception at that time.” I have
-    omitted the *tadā* to keep the meter.
+[^5]: lit., “since I obtained that perception at that time.” I have omitted the *tadā* to keep the meter.
 
 [^6]: “Well-Born”

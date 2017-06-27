@@ -166,13 +166,9 @@ six special knowledges mastered,
 Thus indeed Venerable Lakuṇṭakabhaddiya Thera spoke these verses.  
 The legend of Lakuṇṭakabhaddiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Bhaddiya the Dwarf,” a historical monk. “Bhaddiya” means “Lucky
-    One,” so the full name could be translated “Lucky, the Dwarf”. See
-    DPPN II: 764-766
+[^2]: “Bhaddiya the Dwarf,” a historical monk. “Bhaddiya” means “Lucky One,” so the full name could be translated “Lucky, the Dwarf”. See DPPN II: 764-766
 
 [^3]: lit., “the Assembly’s hermitage”
 
@@ -194,24 +190,17 @@ The legend of Lakuṇṭakabhaddiya Thera is finished.
 
 [^12]: *hitesi* \[read *hitesī* with BJTS\] *sabbasattānaŋ *
 
-[^13]: *phussakokilo.* BJTS takes *phussa* (“speckled” “gaily colored”)
-    as a proper name, “the cuckoo named Phussa”. While “Phussa” is
-    indeed a proper name for the Buddha of the era in question, I follow
-    RD in taking it here as a particular type of cuckoo. Be that as it
-    may, there is a play on the name of the Buddha in that same age,
-    Phussa
+[^13]: *phussakokilo.* BJTS takes *phussa* (“speckled” “gaily colored”) as a proper name, “the cuckoo named Phussa”. While “Phussa” is indeed a proper name for the Buddha of the era in question, I follow RD in taking it here as a particular type of cuckoo. Be that as it may, there is a play on the name of the Buddha in that same age, Phussa
 
 [^14]: “Joy”
 
-[^15]: *gandhakuṭi-samāsanne,* lit., “in the same vicinity as the
-    perfumed hut...”
+[^15]: *gandhakuṭi-samāsanne,* lit., “in the same vicinity as the perfumed hut...”
 
 [^16]: *junuttamaŋ*
 
 [^17]: *dakkhineyyaŋ*
 
-[^18]: reading *upaṭṭhākassa* with BJTS for PTS *uppaṭṭhākassa*
-    (presumably a typographical error)
+[^18]: reading *upaṭṭhākassa* with BJTS for PTS *uppaṭṭhākassa* (presumably a typographical error)
 
 [^19]: lit., “for the Great Sage” (voc)
 
@@ -219,13 +208,9 @@ The legend of Lakuṇṭakabhaddiya Thera is finished.
 
 [^21]: reading *niḷaṃ* with BJTS for PTS *nihhaŋ*
 
-[^22]: *sakuṇagghi*, a particular kind of hawk (BJTS Sinh. gloss and PSI
-    dict. give *ukussā,* Sinh-Eng Dict: kite, hawk, goshawk, harrier.
-    The term lit., means “bird-killer”
+[^22]: *sakuṇagghi*, a particular kind of hawk (BJTS Sinh. gloss and PSI dict. give *ukussā,* Sinh-Eng Dict: kite, hawk, goshawk, harrier. The term lit., means “bird-killer”
 
-[^23]: reading *duṭṭhamānaso* with BJTS (and PTS alt.) for PTS
-    *duṭṭhamānasā* (instr. would translate the same, “with an evil mind”
-    but would have to function adverbially in the Pāli
+[^23]: reading *duṭṭhamānaso* with BJTS (and PTS alt.) for PTS *duṭṭhamānasā* (instr. would translate the same, “with an evil mind” but would have to function adverbially in the Pāli
 
 [^24]: *upagantvā*, lit., “having approached”
 

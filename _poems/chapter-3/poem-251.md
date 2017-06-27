@@ -25,8 +25,7 @@ The legend of Thomadāyaka Thera is finished.
 
 [^1]: “Praise-Giver”
 
-[^2]: lit., “being standing,” *ṭhito santo*, i.e., “while I was
-    standing”
+[^2]: lit., “being standing,” *ṭhito santo*, i.e., “while I was standing”
 
 [^3]: *dhammaŋ*
 
@@ -34,6 +33,4 @@ The legend of Thomadāyaka Thera is finished.
 
 [^5]: lit., “this speech” “this word”
 
-[^6]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of
-    *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred
-    horse”
+[^6]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”

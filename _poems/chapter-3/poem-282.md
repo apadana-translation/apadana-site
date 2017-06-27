@@ -34,43 +34,27 @@ The legend of Phaladāyaka Thera is finished.
 
 [^2]: lit., “from *samādhi*”
 
-[^3]: Suddhattha Buddha, as becomes clear in v. 3, and is confirmed by
-    the dating of ninety-four aeons ago in v. 4.
+[^3]: Suddhattha Buddha, as becomes clear in v. 3, and is confirmed by the dating of ninety-four aeons ago in v. 4.
 
 [^4]: Sineru, Mt. Meru
 
-[^5]: this extends the prior simile: “being the same as Mt. Meru”
-    implies that he “upholds the earth,” a quality of the cosmic
-    mountain.
+[^5]: this extends the prior simile: “being the same as Mt. Meru” implies that he “upholds the earth,” a quality of the cosmic mountain.
 
-[^6]: Sinh. *araḷu,* myrobalan, black- or chebulic myrobalan; Terminalia
-    chebula. The list of fruits in this verse closely parallels that in
-    TherAp \#1, v. 33 \[BJTS 168\] above, but there the focus is on
-    their flowers, not their fruits.
+[^6]: Sinh. *araḷu,* myrobalan, black- or chebulic myrobalan; Terminalia chebula. The list of fruits in this verse closely parallels that in TherAp \#1, v. 33 \[BJTS 168\] above, but there the focus is on their flowers, not their fruits.
 
-[^7]: Sinh. *nelli*, emblic myrobalan, Indian gooseberry, a.k.a. Malacca
-    tree, or amla; Phyllanthus emblica
+[^7]: Sinh. *nelli*, emblic myrobalan, Indian gooseberry, a.k.a. Malacca tree, or amla; Phyllanthus emblica
 
 [^8]: *amba*, Magnifera indica
 
 [^9]: Sinh. *damba, jambu,* Syzygium samarangense
 
-[^10]: *vibhīṭaka*, Sinh. *buḷu*, Terminalia bellirica (sic bellerica),
-    beleric myrobalan or bastard myrobalan. Together with myroblan
-    proper (*araḷu*) and Indian gooseberry *(nelli*), bahera is one of
-    the three myroblans upon which many Ayurvedic and Sinhala medicines
-    are based; the dried nuts are typically pounded into powder which is
-    then used in oils and other decoctions. Here, on the contrary, the
-    reference is likely to the fresh fruit of these trees, which is also
-    used in medicines and eaten (especially gooseberrry).
+[^10]: *vibhīṭaka*, Sinh. *buḷu*, Terminalia bellirica (sic bellerica), beleric myrobalan or bastard myrobalan. Together with myroblan proper (*araḷu*) and Indian gooseberry *(nelli*), bahera is one of the three myroblans upon which many Ayurvedic and Sinhala medicines are based; the dried nuts are typically pounded into powder which is then used in oils and other decoctions. Here, on the contrary, the reference is likely to the fresh fruit of these trees, which is also used in medicines and eaten (especially gooseberrry).
 
-[^11]: *kola*, Sinh. *debara phala,* Ziziphus Mauritania, Zyzyphus
-    Jujuba, Indian jujube or Chinese apple.
+[^11]: *kola*, Sinh. *debara phala,* Ziziphus Mauritania, Zyzyphus Jujuba, Indian jujube or Chinese apple.
 
 [^12]: *bhallī, badulla* = semecarpus anacardium, Sinh. *badulu*
 
-[^13]: *billaŋ* = Aegle marmelos, Sinh. *beli geḍiya,* bael, bel, Bengal
-    quince; bilva or vilva tree; also *billā, beluvā*
+[^13]: *billaŋ* = Aegle marmelos, Sinh. *beli geḍiya,* bael, bel, Bengal quince; bilva or vilva tree; also *billā, beluvā*
 
 [^14]: Sinh. *boraḷu damanu,* a species of Eugenia.
 

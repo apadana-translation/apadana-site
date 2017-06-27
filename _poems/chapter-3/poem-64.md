@@ -49,8 +49,7 @@ The legend of Parappasādaka Thera is finished.
 
 [^1]: “Other-Pleaser”
 
-[^2]: *jhānaṃ*, translated elsewhere as “altered states” and by
-    “trance”.
+[^2]: *jhānaṃ*, translated elsewhere as “altered states” and by “trance”.
 
 [^3]: “By Whom”
 

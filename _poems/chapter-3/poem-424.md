@@ -37,15 +37,12 @@ six special knowledges mastered,
 Thus indeed Venerable Sattakadambapupphiya Thera spoke these verses.  
 The legend of Sattakadambapupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Seven-Kadam-Flower-er”
 
 [^3]: the name of the tree from which the protagonist offers flowers
 
-[^4]: *kadamba* (Sinh. *koḷom*) is Nauclea cordifolia = Neolamarckia
-    cadamba, with orange-colored, fragrant blossoms
+[^4]: *kadamba* (Sinh. *koḷom*) is Nauclea cordifolia = Neolamarckia cadamba, with orange-colored, fragrant blossoms
 
 [^5]: or “with a heart/mind \[set on\] merit”

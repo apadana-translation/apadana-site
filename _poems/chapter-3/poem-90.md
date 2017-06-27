@@ -42,7 +42,6 @@ The Timirapupphiya Chapter, the Ninth.
 
 [^1]: “Pink Lotus-Flower-er”
 
-[^2]: of a *mahāpurusa* or “Great Man” destined to become a
-    wheel-turning monarch or a Buddha.
+[^2]: of a *mahāpurusa* or “Great Man” destined to become a wheel-turning monarch or a Buddha.
 
 [^3]: “Lotus-Light”

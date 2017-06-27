@@ -34,9 +34,6 @@ The legend of Bhikkhadāyaka Thera is finished.
 
 [^1]: “Giver of Begged Food.” Compare \#56. Saparivārāsana.
 
-[^2]: I read *Padenānupadaṃ yantaṃ nibbāpente mahājanaṃ/uḷārā vitti me
-    jātā Buddhe’ ādiccabandhuni* (BJTS) for *Padenānupadaŋ yanto
-    nibbāpentaŋ mahājanaŋ/vitti me pāhunā tāva Buddhass’ ādiccabandhuno*
-    (PTS); the grammar of the latter is muddled.
+[^2]: I read *Padenānupadaṃ yantaṃ nibbāpente mahājanaṃ/uḷārā vitti me jātā Buddhe’ ādiccabandhuni* (BJTS) for *Padenānupadaŋ yanto nibbāpentaŋ mahājanaŋ/vitti me pāhunā tāva Buddhass’ ādiccabandhuno* (PTS); the grammar of the latter is muddled.
 
 [^3]: “Much Pollen”

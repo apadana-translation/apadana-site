@@ -27,14 +27,10 @@ six special knowledges mastered,
 Thus indeed Venerable Akkamanadāyaka Thera spoke these verses.  
 The legend of Akkamanadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Foot-Plank Donor”
 
-[^3]: I follow BJTS gloss in taking “a stepping-upon-er” as a “plank for
-    the feet” (*pā - puvaravak* \[*= lälla*\]
+[^3]: I follow BJTS gloss in taking “a stepping-upon-er” as a “plank for the feet” (*pā - puvaravak* \[*= lälla*\]
 
-[^4]: *vusīmato&lt;vusīmant, vusitavant,* perfected or accomplished,
-    especially with regard to *brahmacariya* (celibacy)
+[^4]: *vusīmato&lt;vusīmant, vusitavant,* perfected or accomplished, especially with regard to *brahmacariya* (celibacy)

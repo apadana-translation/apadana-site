@@ -29,11 +29,6 @@ The legend of Aḍḍhacelaka Thera is finished.
 
 [^1]: “Half-Cloth-er”
 
-[^2]: lit., “That wholesomeness \[kusala\] was finished by me”. The
-    meaning is that the good effects of the deed were not exhausted by
-    the aeon in heaven; in the subsequent aeons too he experienced good
-    results from it.
+[^2]: lit., “That wholesomeness \[kusala\] was finished by me”. The meaning is that the good effects of the deed were not exhausted by the aeon in heaven; in the subsequent aeons too he experienced good results from it.
 
-[^3]: “Boiled Rice on All Sides.” BJTS read Samantā-c-Chadana, “Covered
-    on All SIdes,” which would better fit the nature of the original
-    good deed, and is perhaps to be preferred here.
+[^3]: “Boiled Rice on All Sides.” BJTS read Samantā-c-Chadana, “Covered on All SIdes,” which would better fit the nature of the original good deed, and is perhaps to be preferred here.

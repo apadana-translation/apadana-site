@@ -27,11 +27,9 @@ six special knowledges mastered,
 Thus indeed Venerable Taraṇiya Thera spoke these verses.  
 The legend of Taraṇiya Thera is finished.
 
-[^1]: “Crosser” or “Ferry-er” or “Boatman” or “Shipper” or “Ferryman”.
-    Cf. \#270, \#280, \#485 {488}
+[^1]: “Crosser” or “Ferry-er” or “Boatman” or “Shipper” or “Ferryman”. Cf. \#270, \#280, \#485 {488}
 
-[^2]: lit., “crow-drinkable” (*kākapeyya*), i.e., so full that a crow
-    could drink from it.
+[^2]: lit., “crow-drinkable” (*kākapeyya*), i.e., so full that a crow could drink from it.
 
 [^3]: *bhikkhusaṅgha*
 

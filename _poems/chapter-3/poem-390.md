@@ -177,20 +177,13 @@ verses \[numbering\] ninety-one
 are counted by those who are wise.  
 The Avaṇṭaphala Chapter, the Thirty-Ninth
 
-[^1]: *Pubbakammapiloti.* Though included in *Thera-apadāna,* \#387 is
-    actually in the voice of the Buddha. It has been controversial
-    throughout Theravāda Buddhist history and that may be the reason
-    that it is quietly tucked away here among the monks. On this text
-    and the controversy surrounding it, see my “The Buddha’s Bad Karma:
-    A Problem in the History of Theravāda Buddhism,” *Numen* 37,1 (June,
-    1990):70-95
+[^1]: *Pubbakammapiloti.* Though included in *Thera-apadāna,* \#387 is actually in the voice of the Buddha. It has been controversial throughout Theravāda Buddhist history and that may be the reason that it is quietly tucked away here among the monks. On this text and the controversy surrounding it, see my “The Buddha’s Bad Karma: A Problem in the History of Theravāda Buddhism,” *Numen* 37,1 (June, 1990):70-95
 
 [^2]: lit., “the great assembly (*ºsaṅghena*) of monks (*bhikkhuº*)
 
 [^3]: *pubbakammāni*
 
-[^4]: I follow BJTS in reading *pilotikassa* for PTS *pilotiyassa,* and
-    likewise BJTS *buddhatte pi* for PTS *buddhatthe pi. *
+[^4]: I follow BJTS in reading *pilotikassa* for PTS *pilotiyassa,* and likewise BJTS *buddhatte pi* for PTS *buddhatthe pi. *
 
 [^5]: I follow BJTS on the name; PTS (only) gives Surabhi
 
@@ -198,36 +191,13 @@ The Avaṇṭaphala Chapter, the Thirty-Ninth
 
 [^7]: lit., I experienced feelings which were *dukkha*
 
-[^8]: she was an associate of “the heretics” (*titthiya,*
-    “ford-worshippers”), jealous rivals who repeatedly tried to
-    undermine the Buddha’s reputation. She frequented the Jetavana
-    monastery and garden in Savatthi/Sravasti where he spent much of his
-    career as Buddha, then meeting townsfolk on the road claimed to be
-    sleeping with him in his perfumed cell there. Once the rumor had
-    spread, the heretics murdered her and placed her corpse inside the
-    Jetavana, then informed the police who upon searching the place, of
-    course, discovered it.
+[^8]: she was an associate of “the heretics” (*titthiya,* “ford-worshippers”), jealous rivals who repeatedly tried to undermine the Buddha’s reputation. She frequented the Jetavana monastery and garden in Savatthi/Sravasti where he spent much of his career as Buddha, then meeting townsfolk on the road claimed to be sleeping with him in his perfumed cell there. Once the rumor had spread, the heretics murdered her and placed her corpse inside the Jetavana, then informed the police who upon searching the place, of course, discovered it.
 
-[^9]: *abhūtena*, lit., “through \[what was\] not
-    produced/actual/become.” Like Sundarīkā, Ciñca was employed by “the
-    heretics” to discredit the Buddha. She placed padding beneath her
-    garment and proceeded to tell people that the Buddha, having
-    fathered her child, was now neglecting his paternal obligations. The
-    gods, enraged at the unrighteousness of the accusation, contrived
-    her literal undoing: a mouse gnawed the strings holding the padding
-    in place and it fell out for all to see, exposing her lie.
+[^9]: *abhūtena*, lit., “through \[what was\] not produced/actual/become.” Like Sundarīkā, Ciñca was employed by “the heretics” to discredit the Buddha. She placed padding beneath her garment and proceeded to tell people that the Buddha, having fathered her child, was now neglecting his paternal obligations. The gods, enraged at the unrighteousness of the accusation, contrived her literal undoing: a mouse gnawed the strings holding the padding in place and it fell out for all to see, exposing her lie.
 
-[^10]: I follow the BJTS spelling of this name, cf. the alt reading in
-    PTS isiṅgīmo; PTS gives Isigaṇo
+[^10]: I follow the BJTS spelling of this name, cf. the alt reading in PTS isiṅgīmo; PTS gives Isigaṇo
 
-[^11]: lit., who had the five special knowledges (*abhiññā*) and
-    extensive *iddhi* powers”. The five special knowledges are various
-    magical powers (*iddhi*), divine ear (clairaudience), reading
-    others’ minds, recollection of rebirths, and divine eye
-    (clairvoyance), Note that this (non-Buddhist) sage possesses only
-    five of the special knowledges; the sixth -- awareness and assurance
-    that one has extinguished all *āsasas* -- is only achievable by
-    Buddhists.
+[^11]: lit., who had the five special knowledges (*abhiññā*) and extensive *iddhi* powers”. The five special knowledges are various magical powers (*iddhi*), divine ear (clairaudience), reading others’ minds, recollection of rebirths, and divine eye (clairvoyance), Note that this (non-Buddhist) sage possesses only five of the special knowledges; the sixth -- awareness and assurance that one has extinguished all *āsasas* -- is only achievable by Buddhists.
 
 [^12]: lit., “said to the great people” *mahājanassa ahaṃsu*
 
@@ -235,50 +205,22 @@ The Avaṇṭaphala Chapter, the Thirty-Ninth
 
 [^14]: lit., “with a boulder”
 
-[^15]: Devadatta was the Buddha’s cousin, on his father’s side, who
-    transmigrated with him in various relationships throughout the
-    *jātakas.* In the final birth he became a monk and had great prowess
-    with the Dharma, likely capable of attaining arahantship, but the
-    enmity from ancient times (which tracked with him through rebirths
-    with the bodhisattva) bore its fruit and, when the Buddha declined
-    Devadatta’s request to become leader of the Sangha, Devadatta ended
-    up his bitter rival, who tried in this instance and several others
-    (see below) to kill him. He failed, of course, and for the sin of
-    having drawn blood from the Buddha’s big toe in the event described
-    here, the earth opened up and sucked him directly into hell.
+[^15]: Devadatta was the Buddha’s cousin, on his father’s side, who transmigrated with him in various relationships throughout the *jātakas.* In the final birth he became a monk and had great prowess with the Dharma, likely capable of attaining arahantship, but the enmity from ancient times (which tracked with him through rebirths with the bodhisattva) bore its fruit and, when the Buddha declined Devadatta’s request to become leader of the Sangha, Devadatta ended up his bitter rival, who tried in this instance and several others (see below) to kill him. He failed, of course, and for the sin of having drawn blood from the Buddha’s big toe in the event described here, the earth opened up and sucked him directly into hell.
 
-[^16]: Devadatta hired an assassin, then two to kill him, and four to
-    kill them, up to sixteen. The first went to do the deed, but
-    overwhelmed by the Buddha’s presence was unable, laid down his
-    weapon and converted. The two came to find him and the same thing
-    happened, then the four and eight and finally sixteen all had
-    converted to the dismay of Devadatta, who like the human counterpart
-    to Māra in these stories storms off dejected to plot again.
+[^16]: Devadatta hired an assassin, then two to kill him, and four to kill them, up to sixteen. The first went to do the deed, but overwhelmed by the Buddha’s presence was unable, laid down his weapon and converted. The two came to find him and the same thing happened, then the four and eight and finally sixteen all had converted to the dismay of Devadatta, who like the human counterpart to Māra in these stories storms off dejected to plot again.
 
-[^17]: that is, Rajgir or Rājagaha, home of King Bimbisāra. Vulture’s
-    Peak was the site from which Devadatta threw his boulder, too. This
-    time, he had sent the angered (and drunk) elephant on a killing
-    spree through the city, aiming at killing the Buddha. As it charged
-    at him he calmly lifted its hand and it stopped, fell to the ground,
-    and worshipped him.
+[^17]: that is, Rajgir or Rājagaha, home of King Bimbisāra. Vulture’s Peak was the site from which Devadatta threw his boulder, too. This time, he had sent the angered (and drunk) elephant on a killing spree through the city, aiming at killing the Buddha. As it charged at him he calmly lifted its hand and it stopped, fell to the ground, and worshipped him.
 
 [^18]: lit., “I produced mental pleasure”
 
-[^19]: reading *sabbe sakkā ca haññiṃsu* with BJTS over PTS *Sakkesu
-    haññamānesu*, but in either event the text is suspect. In this BJTS
-    reading, presumably, the Śākyans were the fishermen in the village.
+[^19]: reading *sabbe sakkā ca haññiṃsu* with BJTS over PTS *Sakkesu haññamānesu*, but in either event the text is suspect. In this BJTS reading, presumably, the Śākyans were the fishermen in the village.
 
-[^20]: the slaying of the Buddha’s whole clan was the result, according
-    to the *Jātaka*, of enmity that developed over many lifetimes due to
-    their group evil deeds.
+[^20]: the slaying of the Buddha’s whole clan was the result, according to the *Jātaka*, of enmity that developed over many lifetimes due to their group evil deeds.
 
 [^21]: cty explains that he broke the back of the opponent.
 
 [^22]: thereby killing the amoebas causing his diarrhea
 
-[^23]: *bodhi,* Enlightenment. At its root the term means more
-    precisely, as here, Awakening. It is, needless to say, the same root
-    that gives us Buddha, Awakened One (Enlightened One).
+[^23]: *bodhi,* Enlightenment. At its root the term means more precisely, as here, Awakening. It is, needless to say, the same root that gives us Buddha, Awakened One (Enlightened One).
 
-[^24]: *sabbābhiññbalapatto,* "lit. endowed with all the powers of the
-    special knowledges”
+[^24]: *sabbābhiññbalapatto,* "lit. endowed with all the powers of the special knowledges”

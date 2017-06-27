@@ -21,8 +21,4 @@ The legend of Piyālapupphiya Thera is finished.
 
 [^2]: *piyāla* (Sinh. *piyal*) is buchanania latifolia.
 
-[^3]: this could mean the road traveled by the hunter, but given the
-    indication that this was a very meritorious act, more likely the
-    implication is, “tossed it on the road which the Buddha \[who
-    thirty-one aeons ago likely would have been Sikhi Buddha or perhaps
-    a Lonely Buddha\] had traveled along”.
+[^3]: this could mean the road traveled by the hunter, but given the indication that this was a very meritorious act, more likely the implication is, “tossed it on the road which the Buddha \[who thirty-one aeons ago likely would have been Sikhi Buddha or perhaps a Lonely Buddha\] had traveled along”.

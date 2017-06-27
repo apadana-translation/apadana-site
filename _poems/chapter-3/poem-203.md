@@ -29,8 +29,7 @@ The legend of Kiṅkaṇikapupphiya[^7] Thera is finished.
 
 [^1]: BJTS reads Kiṅkiṇikapupphiya
 
-[^2]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or
-    “like a gold festoon work”
+[^2]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^3]: BJTS reads *kiṅkhiṇi* here
 

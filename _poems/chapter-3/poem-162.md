@@ -32,9 +32,7 @@ six special knowledges mastered,
 Thus indeed Venerable Kaṇaverapupphiya Thera spoke these verses.  
 The legend of Kaṇaverapupphiya Thera is finished.
 
-[^1]: “*Kaṇavera-*Flower-er”. *Kaṇavera* is china rose or shoe-flower,
-    Sinhala *banduvada.* Cf. \#151, are these the same flower (both
-    *banduvada* in Sinhala)?
+[^1]: “*Kaṇavera-*Flower-er”. *Kaṇavera* is china rose or shoe-flower, Sinhala *banduvada.* Cf. \#151, are these the same flower (both *banduvada* in Sinhala)?
 
 [^2]: lit., “Honored by his Followers”
 

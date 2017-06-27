@@ -23,10 +23,4 @@ six special knowledges mastered,
 Thus indeed Venerable Nāgasamāla Thera spoke these verses.  
 The legend of Nāgasamāla Thera is finished.
 
-[^1]: all the manuscripts read *a*-*pāṭali*, “no trumpet flower,” but
-    the cty takes the term as *ā-pāṭali*, a trumpet flower, and I follow
-    suit, though the term could be read to mean that not only had the
-    flower been thrown away; it was not even such a special flower.
-    *Pāṭali* is Sinh. *paḷol,* Bignonia suaveolens, sterospermum
-    suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of
-    Vipassi Buddha. Cf. \#78, \#96, \#248, \#255, \#369{372}.
+[^1]: all the manuscripts read *a*-*pāṭali*, “no trumpet flower,” but the cty takes the term as *ā-pāṭali*, a trumpet flower, and I follow suit, though the term could be read to mean that not only had the flower been thrown away; it was not even such a special flower. *Pāṭali* is Sinh. *paḷol,* Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha. Cf. \#78, \#96, \#248, \#255, \#369{372}.

@@ -141,9 +141,7 @@ six special knowledges mastered,
 Thus indeed Venerable Dhotaka Thera spoke these verses.  
 The legend of Dhotaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Wash-er”
 
@@ -155,8 +153,7 @@ The legend of Dhotaka Thera is finished.
 
 [^6]: lit., “sat down”
 
-[^7]: “Six Limbs” or “Six Branches,” as in the six branches of Vedic
-    science. BJTS spells the name *Chaḷanga*
+[^7]: “Six Limbs” or “Six Branches,” as in the six branches of Vedic science. BJTS spells the name *Chaḷanga*
 
 [^8]: lit., “eighteen hundred”
 
@@ -174,8 +171,7 @@ The legend of Dhotaka Thera is finished.
 
 [^15]: *kāraŋ*
 
-[^16]: I BJTS follow BJTS’s treatment of *kataŋ kāraŋ vipulam me
-    bhavissati* as a saying in which the protagonist cultivates trust.
+[^16]: I BJTS follow BJTS’s treatment of *kataŋ kāraŋ vipulam me bhavissati* as a saying in which the protagonist cultivates trust.
 
 [^17]: lit., doing, *katvā,* BJTS alt. corrects to *datvā*
 
@@ -183,43 +179,27 @@ The legend of Dhotaka Thera is finished.
 
 [^19]: lit., “from”
 
-[^20]: reading *darito* with BJTS for PTS *dalito* “broken off” (but cf.
-    RD, *darī* s.v., *dal* is alt. for *dar* in derivatives of this
-    noun.
+[^20]: reading *darito* with BJTS for PTS *dalito* “broken off” (but cf. RD, *darī* s.v., *dal* is alt. for *dar* in derivatives of this noun.
 
-[^21]: *cuto*, which literally means “fallen” as well, paralleling the
-    actual “falling” (*patito*) governing the first two feet of the
-    verse with a metaphorical one (“fallen from life”) governing the
-    third foot.
+[^21]: *cuto*, which literally means “fallen” as well, paralleling the actual “falling” (*patito*) governing the first two feet of the verse with a metaphorical one (“fallen from life”) governing the third foot.
 
 [^22]: *lacchati ṭṭhānaŋ,* lit., “he will receive a support/place/stand
 
 [^23]: *māluto,* abl. case
 
-[^24]: *nigrodhā =* Sinh. *nuga,* RD: the banyan or Indian fig-tree,
-    Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti.*)
+[^24]: *nigrodhā =* Sinh. *nuga,* RD: the banyan or Indian fig-tree, Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti.*)
 
-[^25]: lit., “as a banyan...\[is not disturbed\] because of the wind.”
-    Banyan trees drop new roots from their spreading branches, the image
-    invoked in *virūḷha-mūla-santānaŋ*
+[^25]: lit., “as a banyan...\[is not disturbed\] because of the wind.” Banyan trees drop new roots from their spreading branches, the image invoked in *virūḷha-mūla-santānaŋ*
 
 [^26]: *amittā,* “non-friends”
 
-[^27]: PTS read *sahissanti,* BJTS (and PTS alt.) reads *pasahanti*;
-    though the latter is in the present indicative it can also be read
-    as a future-tense verb, hence the two readings produce the same
-    meaning.
+[^27]: PTS read *sahissanti,* BJTS (and PTS alt.) reads *pasahanti*; though the latter is in the present indicative it can also be read as a future-tense verb, hence the two readings produce the same meaning.
 
-[^28]: PTS read *sahissanti,* BJTS (and PTS alt.) reads *pasahanti*;
-    though the latter is in the present indicative it can also be read
-    as a future-tense verb, hence the two readings produce the same
-    meaning.
+[^28]: PTS read *sahissanti,* BJTS (and PTS alt.) reads *pasahanti*; though the latter is in the present indicative it can also be read as a future-tense verb, hence the two readings produce the same meaning.
 
 [^29]: lit., “of him,” i.e., “bring about the defeat of him”
 
-[^30]: *khattiyo,* lit., “ the warrior (kṣatriyan).” BJTS (and PTS alt.)
-    read this in the plural: *nâtimaññanti khattiyā,* in which case read
-    “kings” or else “noblemen”.
+[^30]: *khattiyo,* lit., “ the warrior (kṣatriyan).” BJTS (and PTS alt.) read this in the plural: *nâtimaññanti khattiyā,* in which case read “kings” or else “noblemen”.
 
 [^31]: *amitte,* “non-friends”
 
@@ -227,8 +207,7 @@ The legend of Dhotaka Thera is finished.
 
 [^33]: *na bhavissati vedanā,* lit., “there will not be feelings”
 
-[^34]: *bhavissati,* lit., “will become,” “will come to be,” “will
-    exist”
+[^34]: *bhavissati,* lit., “will become,” “will come to be,” “will exist”
 
 [^35]: *jaladuttamanāmake*, i.e., Padmuttara (also “Best Lotus”)
 
@@ -236,12 +215,10 @@ The legend of Dhotaka Thera is finished.
 
 [^37]: lit., “I attained the destruction of the outflows”
 
-[^38]: *padhānaŋ padahitvāna,* lit., “having exerted \[myself\] in
-    exertion
+[^38]: *padhānaŋ padahitvāna,* lit., “having exerted \[myself\] in exertion
 
 [^39]: *upasanto*
 
 [^40]: *nirūpadhi*
 
-[^41]: note that BJTS inverts the first and second verses of the
-    three-verse concluding refrain.
+[^41]: note that BJTS inverts the first and second verses of the three-verse concluding refrain.

@@ -22,8 +22,7 @@ six special knowledges mastered,
 Thus indeed Venerable Bodhiupaṭṭhāyaka Thera spoke these verses.  
 The legend of Bodhiupaṭṭhāyaka Thera is finished.
 
-[^1]: “Attender Upon the Bodhi \[Tree\].” BJTS spells the name
-    Bodhiupaṭṭhāka, which conveys the same meaning.
+[^1]: “Attender Upon the Bodhi \[Tree\].” BJTS spells the name Bodhiupaṭṭhāka, which conveys the same meaning.
 
 [^2]: the name of a certain kind of drum.
 

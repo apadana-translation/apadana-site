@@ -101,17 +101,12 @@ The Sīhāsani Chapter, the Second.
 
 [^2]: *sabbalokavinetāraŋ*
 
-[^3]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of
-    *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred
-    horse”
+[^3]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
-[^4]: *tiṇṇo*, i.e., one who has gone to the further shore of *samsāra*,
-    one who has reached nirvana
+[^4]: *tiṇṇo*, i.e., one who has gone to the further shore of *samsāra*, one who has reached nirvana
 
 [^5]: lit., “Excellent among those who cause \[others\] to cross over”
 
 [^6]: lit., “with enjoyment born”
 
-[^7]: lit., “among the eight \[types of noble beings\] who are
-    constantly attended upon and \[now\] are eating, there are many
-    arahants”
+[^7]: lit., “among the eight \[types of noble beings\] who are constantly attended upon and \[now\] are eating, there are many arahants”

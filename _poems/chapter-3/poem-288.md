@@ -33,13 +33,10 @@ The legend of Sattāhapabbajita Thera is finished.
 
 [^3]: lit., “calamity (*vyasana)* had arisen/been produced for me”
 
-[^4]: lit., “a division among relatives.” The meaning might also be “I
-    was one who caused a rift in the family” or “I was separated from
-    the family”
+[^4]: lit., “a division among relatives.” The meaning might also be “I was one who caused a rift in the family” or “I was separated from the family”
 
 [^5]: *pure*, lit., “in the house”
 
-[^6]: lit., “in a state of desire for the *sāsana* \[“Dispensation”
-    “Religion”\] of the Teacher”
+[^6]: lit., “in a state of desire for the *sāsana* \[“Dispensation” “Religion”\] of the Teacher”
 
 [^7]: “Going Out Well”

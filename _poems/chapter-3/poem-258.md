@@ -29,7 +29,6 @@ The legend of Paṇṇadāyaka Thera is finished.
 
 [^1]: “Leaf-Donor”
 
-[^2]: *niyamesu saŋvuta,* lit., “self-controlled with regard to
-    necessities”
+[^2]: *niyamesu saŋvuta,* lit., “self-controlled with regard to necessities”
 
 [^3]: = *yad* + *atthiya*, “Whatever Meaning” (?)

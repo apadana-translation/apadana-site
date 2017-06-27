@@ -38,6 +38,4 @@ The legend of Ālambanadāyaka Thera is finished.
 
 [^5]: lit., “kṣatriyans”
 
-[^6]: “Leaning on One” -- reading the name as *eka* + *apassita* (RD:
-    fr. apasseti, leaning against, depending on, trusting in), perhaps
-    meant to be resonant with the donated wall-hooks
+[^6]: “Leaning on One” -- reading the name as *eka* + *apassita* (RD: fr. apasseti, leaning against, depending on, trusting in), perhaps meant to be resonant with the donated wall-hooks

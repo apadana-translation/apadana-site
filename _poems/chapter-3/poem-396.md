@@ -165,139 +165,77 @@ six special knowledges mastered,
 Thus indeed Venerable Bakkula Thera spoke these verses.  
 The legend of Bakkula Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Two-families Bi-Kin” (see DPPN II:261). Also spelled Bākula,
-    Vakkula. A historical monk, renounced at the age of eighty and
-    attained arahantship on the eighth day. As a child, swallowed by a
-    fish and later recovered from its belly. Remembered for providing
-    medicines to Buddhas and monks in previous lifetimes; named the best
-    in good health by the Buddha of this era. Also remembered as a monk
-    who practiced asceticism without preaching it to others. Subject of
-    the *Bakkula-sutta* (M.iii.124ff), in which he describes his eighty
-    years as a monk (he dies at the age of 160).
+[^2]: “Two-families Bi-Kin” (see DPPN II:261). Also spelled Bākula, Vakkula. A historical monk, renounced at the age of eighty and attained arahantship on the eighth day. As a child, swallowed by a fish and later recovered from its belly. Remembered for providing medicines to Buddhas and monks in previous lifetimes; named the best in good health by the Buddha of this era. Also remembered as a monk who practiced asceticism without preaching it to others. Subject of the *Bakkula-sutta* (M.iii.124ff), in which he describes his eighty years as a monk (he dies at the age of 160).
 
 [^3]: reading *tattha* with BJTS for PTS *tatthā* (presumably a typo)
 
-[^4]: *sindhuvārita*,Vitex negundo*,* a.k.a. Horshoe vitex, Five-leaved
-    chaste tree
+[^4]: *sindhuvārita*,Vitex negundo*,* a.k.a. Horshoe vitex, Five-leaved chaste tree
 
-[^5]: reading *kapitthā* with BJTS for PTS *kapiṭṭhaŋ,* Feronia
-    elephantum, Sinh. *divul*
+[^5]: reading *kapitthā* with BJTS for PTS *kapiṭṭhaŋ,* Feronia elephantum, Sinh. *divul*
 
-[^6]: lit., “trees there,” reading *tattha* with BJTS for PTS *tatthā*
-    (presumably a typo)
+[^6]: lit., “trees there,” reading *tattha* with BJTS for PTS *tatthā* (presumably a typo)
 
-[^7]: at \[3321\] BJTS treats this as the name of a special type of
-    jak-fruit. It means, “life-lifer,” also (as *jivaṃjīvaka*) the name
-    of a bird (a type of pheasant, according to RD) whose call is
-    similar to the sound “*jīvaṃ jīvaṃ.”*
+[^7]: at \[3321\] BJTS treats this as the name of a special type of jak-fruit. It means, “life-lifer,” also (as *jivaṃjīvaka*) the name of a bird (a type of pheasant, according to RD) whose call is similar to the sound “*jīvaṃ jīvaṃ.”*
 
 [^8]: a kind of tree, *Vitex nigunda.* Sinh: *nika*
 
-[^9]: lit., “trees there,” reading *tattha* with BJTS for PTS *tatthā*
-    (presumably a typo)
+[^9]: lit., “trees there,” reading *tattha* with BJTS for PTS *tatthā* (presumably a typo)
 
-[^10]: *badarā,* Zizyphus jujuba. RD: “not unlike a crabapple in
-    appearance & taste, very astringent, used for medicine A i.130=Pug
-    32; A iii.76; Vin iv.76; J iii.21; DhsA 320 (cited among examples of
-    acrid flavours); VvA 186.”
+[^10]: *badarā,* Zizyphus jujuba. RD: “not unlike a crabapple in appearance & taste, very astringent, used for medicine A i.130=Pug 32; A iii.76; Vin iv.76; J iii.21; DhsA 320 (cited among examples of acrid flavours); VvA 186.”
 
-[^11]: reading *badarāmalakāni* with BJTS for PTS *badarā malakāni.
-    Āmalaka* = Sinhala *nelli,* phyllanthus emblica*,* emblic myrobalan,
-    Indian gooseberry.
+[^11]: reading *badarāmalakāni* with BJTS for PTS *badarā malakāni. Āmalaka* = Sinhala *nelli,* phyllanthus emblica*,* emblic myrobalan, Indian gooseberry.
 
 [^12]: Sinh. *boraḷu damanu,* a species of Eugenia.
 
-[^13]: *alābū* = Sinh. *puhul* (ash-pumpkin) or *labu* (gourd). Cone
-    specifies that it is bottle-gourd, Lagenaria vulgaris. Also spelt
-    *alāpū*
+[^13]: *alābū* = Sinh. *puhul* (ash-pumpkin) or *labu* (gourd). Cone specifies that it is bottle-gourd, Lagenaria vulgaris. Also spelt *alāpū*
 
 [^14]: *puṇḍarīkā *
 
-[^15]: *beluvā* = Aegle marmelos, *beli geḍiya,* bael, bel, Bengal
-    quince; bilva or vilva tree; *billā*
+[^15]: *beluvā* = Aegle marmelos, *beli geḍiya,* bael, bel, Bengal quince; bilva or vilva tree; *billā*
 
 [^16]: *kadali*
 
 [^17]: *mātuluṅgakā,* elsewhere *mātuluṅgiya*
 
-[^18]: *mahānāmā.* Following BJTS Sinhala gloss as *uk,* sugarcane,
-    Saccharum officinarum (*Gram.*)
+[^18]: *mahānāmā.* Following BJTS Sinhala gloss as *uk,* sugarcane, Saccharum officinarum (*Gram.*)
 
-[^19]: *ajjuṇā* (a.k.a. *kakudha*, Sinhala *kumbuk gasa, kubuk,*
-    Terminalia arjuna) is an impressively large, shade-giving tree that
-    thrives on the edges of tanks and lakes. PTS spells the term
-    *ajjunā.*
+[^19]: *ajjuṇā* (a.k.a. *kakudha*, Sinhala *kumbuk gasa, kubuk,* Terminalia arjuna) is an impressively large, shade-giving tree that thrives on the edges of tanks and lakes. PTS spells the term *ajjunā.*
 
-[^20]: *piyaṅgukā.* RD: “\[cp. Vedic priyangu\] 1. panic seed, Panicum
-    Italicum Vv 537; J i.39; PvA 283. Mixed with water and made into a
-    kind of gruel (piyangûdaka) it is used as an emetic J i.419. See
-    also kangu. — 2. a medicinal plant, Priyangu J v.420. BJTS glosses
-    it *puvaṅgu,* Botanical dictionary = *priyaṅgu = ruk gasa*,
-    Myristica Hersfieldia (*Myris.*), “a lofty tree...It produces
-    fragrant flowers and seeds from its trunk.”
+[^20]: *piyaṅgukā.* RD: “\[cp. Vedic priyangu\] 1. panic seed, Panicum Italicum Vv 537; J i.39; PvA 283. Mixed with water and made into a kind of gruel (piyangûdaka) it is used as an emetic J i.419. See also kangu. — 2. a medicinal plant, Priyangu J v.420. BJTS glosses it *puvaṅgu,* Botanical dictionary = *priyaṅgu = ruk gasa*, Myristica Hersfieldia (*Myris.*), “a lofty tree...It produces fragrant flowers and seeds from its trunk.”
 
-[^21]: PTS *kosumbhā,* BJTS *kosambā,* also spelt *kosambhā,;* BJTS
-    Sinh. gloss here = *kohomba,* neem or margosa tree, Azadirachta
-    indica
+[^21]: PTS *kosumbhā,* BJTS *kosambā,* also spelt *kosambhā,;* BJTS Sinh. gloss here = *kohomba,* neem or margosa tree, Azadirachta indica
 
-[^22]: PTS *salaḷā,* BJTS *salalā,* BJTS Sinh.gloss = *hora* = “large
-    timber tree yielding rezin and oil, Dipterocarpus zeylanicus
-    *(Dipterocarp.*)” (Bot. dict.)
+[^22]: PTS *salaḷā,* BJTS *salalā,* BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus *(Dipterocarp.*)” (Bot. dict.)
 
-[^23]: *nīpa* = Sinhala *kolom*, *nauclea orientalis;* also called
-    Leichhardt tree
+[^23]: *nīpa* = Sinhala *kolom*, *nauclea orientalis;* also called Leichhardt tree
 
-[^24]: *nigrodhā =* Sinh. *nuga,* RD: the banyan or Indian fig-tree,
-    Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti.*)
+[^24]: *nigrodhā =* Sinh. *nuga,* RD: the banyan or Indian fig-tree, Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti.*)
 
-[^25]: *kapitthanā* = *kapittha, kapiṭṭha* (already mentioned in v. 2
-    \[3759\] above), Feronia elephantum, Sinh. *divul*
+[^25]: *kapitthanā* = *kapittha, kapiṭṭha* (already mentioned in v. 2 \[3759\] above), Feronia elephantum, Sinh. *divul*
 
-[^26]: reading *upetamhi mahāvīre anomadassimahāyase*, gen. abs.
-    construction, with BJTS, for PTS *upetañca mahāvīram
-    Anomadassi-mahāyasaŋ* (accusatives, unclear how the grammar would
-    then work unless we assume an accusative absolute construction)
+[^26]: reading *upetamhi mahāvīre anomadassimahāyase*, gen. abs. construction, with BJTS, for PTS *upetañca mahāvīram Anomadassi-mahāyasaŋ* (accusatives, unclear how the grammar would then work unless we assume an accusative absolute construction)
 
-[^27]: *vātābādho,* “a disease of the wind,” one of the three humors in
-    classical Indian (including Buddhist) medical traditions.
+[^27]: *vātābādho,* “a disease of the wind,” one of the three humors in classical Indian (including Buddhist) medical traditions.
 
 [^28]: *iriyañ cāpi disvāna*
 
-[^29]: *khippam assamam āgacchiŋ,* lit., “quickly I came to the
-    hermitage”
+[^29]: *khippam assamam āgacchiŋ,* lit., “quickly I came to the hermitage”
 
-[^30]: reading *ahās’ ahaṃ* (“ I fetched, gathered, took, killed,”
-    *ahāsi* =1st person sing. aorist of *harati*) with BJTS for PTS
-    *akās’ ahaŋ,* “I did,” “I made”
+[^30]: reading *ahās’ ahaṃ* (“ I fetched, gathered, took, killed,” *ahāsi* =1st person sing. aorist of *harati*) with BJTS for PTS *akās’ ahaŋ,* “I did,” “I made”
 
-[^31]: *sabbosadham*. Though not stipulated, the sense may be “all the
-    medicinal herbs required for the medicine I wished to make for the
-    Buddha,” rather than every medicinal herb that exists, though either
-    interpretation is possible and I have tried to leave the translation
-    as open as the Pāli.
+[^31]: *sabbosadham*. Though not stipulated, the sense may be “all the medicinal herbs required for the medicine I wished to make for the Buddha,” rather than every medicinal herb that exists, though either interpretation is possible and I have tried to leave the translation as open as the Pāli.
 
-[^32]: *pānīyayogaŋ katvāna,* lit., something like “having prepared them
-    through liquifaction” or “making them drinkable.” He takes the herbs
-    and prepares them into a liquid medicine for the Buddha (presumably
-    by cleaning, chopping, boiling, squeezing then filtering them).
+[^32]: *pānīyayogaŋ katvāna,* lit., something like “having prepared them through liquifaction” or “making them drinkable.” He takes the herbs and prepares them into a liquid medicine for the Buddha (presumably by cleaning, chopping, boiling, squeezing then filtering them).
 
-[^33]: *paribhutte*, “was one who made use of,” i.e., who took the
-    medicine.
+[^33]: *paribhutte*, “was one who made use of,” i.e., who took the medicine.
 
-[^34]: *vāto,* lit., “wind”. The term invokes the illness itself, “a
-    disease of the wind,” which would involve an imbalance (usually an
-    excess) of that humor over the other two (bile and phlegm). The cure
-    would thus involve eliminating or “suppressing” *vāta* to restore
-    the healthy balance of the three humors.
+[^34]: *vāto,* lit., “wind”. The term invokes the illness itself, “a disease of the wind,” which would involve an imbalance (usually an excess) of that humor over the other two (bile and phlegm). The cure would thus involve eliminating or “suppressing” *vāta* to restore the healthy balance of the three humors.
 
 [^35]: *vūpasami* (fr. *vūpasammati*)
 
-[^36]: PTS reads *passaddhadarathaŋ disvā,* BJTS reads *passaddhaṃ
-    darathaṃ disvā*
+[^36]: PTS reads *passaddhadarathaŋ disvā,* BJTS reads *passaddhaṃ darathaṃ disvā*
 
 [^37]: *turiye,* musical instruments
 
@@ -307,24 +245,15 @@ The legend of Bakkula Thera is finished.
 
 [^40]: *jambusaṇḍa = jambudīpa =* India, the South Asian continent
 
-[^41]: *caturanto vijitāvi,* “possessed of conquest of the four
-    quarters,” a supreme imperial overlord
+[^41]: *caturanto vijitāvi,* “possessed of conquest of the four quarters,” a supreme imperial overlord
 
-[^42]: reading *tāvatiṃse pi khobetvā* (lit., “having shaken the
-    thirty-three gods/\[those in\] the *tāvatiṃsa* heaven”) with BJTS
-    for PTS *tāvatiŋse ‘to khobetvā* (having shaken from \[a starting
-    point?\] in Tāvatiŋsa”)
+[^42]: reading *tāvatiṃse pi khobetvā* (lit., “having shaken the thirty-three gods/\[those in\] the *tāvatiṃsa* heaven”) with BJTS for PTS *tāvatiŋse ‘to khobetvā* (having shaken from \[a starting point?\] in Tāvatiŋsa”)
 
-[^43]: *pariggahaŋ vivajjetvā. Pariggaha* can include, or specifically
-    mean, not only his wealth, but also his wife.
+[^43]: *pariggahaŋ vivajjetvā. Pariggaha* can include, or specifically mean, not only his wealth, but also his wife.
 
 [^44]: *tarissati*, lit., “get through” “overcome” “cross beyond”
 
-[^45]: Bakkula was foremost among those of good health (DPPN II: 262,
-    citing A.1.25; “for a problem connected with this, see Mil. 215ff.),
-    and this verse apparently refers to that. Thus the “all of that”
-    discerned by Gotama would be “all of that experience with medicine;”
-    the “foremost place” would be “foremost among those of good health”
+[^45]: Bakkula was foremost among those of good health (DPPN II: 262, citing A.1.25; “for a problem connected with this, see Mil. 215ff.), and this verse apparently refers to that. Thus the “all of that” discerned by Gotama would be “all of that experience with medicine;” the “foremost place” would be “foremost among those of good health”
 
 [^46]: lit., “success,” “achievement,”result”
 

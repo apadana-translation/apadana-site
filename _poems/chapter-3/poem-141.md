@@ -27,6 +27,4 @@ The legend of Adhicchattiya Thera is finished.
 
 [^2]: lit., “reached nirvana”
 
-[^3]: cty explains *chattādhichattaṃ* as an umbrella above another
-    umbrella, which were (and in places still are) common ornaments of
-    stupas,.
+[^3]: cty explains *chattādhichattaṃ* as an umbrella above another umbrella, which were (and in places still are) common ornaments of stupas,.

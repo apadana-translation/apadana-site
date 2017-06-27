@@ -131,10 +131,7 @@ The legend of Pañcadīpikā Therī is finished.
 
 [^2]: lit., “for the sake of wholesome \[karma\].”
 
-[^3]: *kālapakkhamhi divase,* lit., “on a day in the waning-moon \[half
-    of the month\],” perhaps to be taken as the moonless fortnight
-    (Sinhala *māse poya*) or the night of the new moon (Sinhala
-    *amāvaka* *poya*).
+[^3]: *kālapakkhamhi divase,* lit., “on a day in the waning-moon \[half of the month\],” perhaps to be taken as the moonless fortnight (Sinhala *māse poya*) or the night of the new moon (Sinhala *amāvaka* *poya*).
 
 [^4]: lit., “it was”.
 
@@ -144,15 +141,11 @@ The legend of Pañcadīpikā Therī is finished.
 
 [^7]: “Five Lamps”
 
-[^8]: BJTS reads “sixty leagues in height” and “thirty leagues in
-    width”. In the parallel text \#15, below, this is the reading of
-    both PTS and BJTS, but here PTS gives “a hundred” and “sixty” so I
-    have retained that difference in the translation.
+[^8]: BJTS reads “sixty leagues in height” and “thirty leagues in width”. In the parallel text \#15, below, this is the reading of both PTS and BJTS, but here PTS gives “a hundred” and “sixty” so I have retained that difference in the translation.
 
 [^9]: lit., “as far as \[its extent\]”.
 
-[^10]: reading *daṭṭhuṃ* (BJTS, PTS alt) for *dasuŋ* (PTS). PTS reads
-    *daṭṭhuŋ* in the parallel text (\#15), below.
+[^10]: reading *daṭṭhuṃ* (BJTS, PTS alt) for *dasuŋ* (PTS). PTS reads *daṭṭhuŋ* in the parallel text (\#15), below.
 
 [^11]: BJTS reads “good rebirths and bad rebirths”.
 

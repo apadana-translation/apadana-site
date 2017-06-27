@@ -45,17 +45,8 @@ The legend of Kisalayapūjaka Thera is finished.
 
 [^4]: see above, \#189, v. 2 (BJTS 2203)
 
-[^5]: BJTS gloss makes clear: out of compassion he demonstrated his
-    Buddha powers by flying through the sky for a moment.
+[^5]: BJTS gloss makes clear: out of compassion he demonstrated his Buddha powers by flying through the sky for a moment.
 
-[^6]: reading *uḷāratā* with BJTS for PTS *pūjaka* (“offerer”). The
-    latter reading -- which is also possible -- would mean that his
-    amazement was at the fact that his *pūjā* resulted in his seeing the
-    miracle, rather than the miracle itself (the *iddhi* powers of a
-    Buddha).
+[^6]: reading *uḷāratā* with BJTS for PTS *pūjaka* (“offerer”). The latter reading -- which is also possible -- would mean that his amazement was at the fact that his *pūjā* resulted in his seeing the miracle, rather than the miracle itself (the *iddhi* powers of a Buddha).
 
-[^7]: the name means “One Mule,” which seems rather diminutive for a
-    world-conquering monarch. Both PTS and BJTS give alternate reading
-    Ekissaro, “One Lord,” which would seem more appropriate, but both
-    accept Ekassara as the preferred reading based on the manuscript
-    record.
+[^7]: the name means “One Mule,” which seems rather diminutive for a world-conquering monarch. Both PTS and BJTS give alternate reading Ekissaro, “One Lord,” which would seem more appropriate, but both accept Ekassara as the preferred reading based on the manuscript record.

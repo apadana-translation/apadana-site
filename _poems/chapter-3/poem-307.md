@@ -39,11 +39,7 @@ The legend of Ārāmadāyaka Thera is finished.
 
 [^2]: reading *mayā* with BJTS for PTS *mama*
 
-[^3]: BJTS takes this as a reference to afternoon *(sawas*), as the time
-    in which the garden was planted (or given?). On the contrary I take
-    it to mean that prior to bringing the Buddha to it, the garden which
-    he initially planted had grown to sufficient maturity that birds had
-    taken residence in trees giving thick shade.
+[^3]: BJTS takes this as a reference to afternoon *(sawas*), as the time in which the garden was planted (or given?). On the contrary I take it to mean that prior to bringing the Buddha to it, the garden which he initially planted had grown to sufficient maturity that birds had taken residence in trees giving thick shade.
 
 [^4]: lit., “I dedicated the gift,” *dānam pariṇāmayiŋ*
 

@@ -30,18 +30,13 @@ six special knowledges mastered,
 Thus indeed Venerable Koṭumbariya[^8] Thera spoke these verses.  
 The legend of Koṭumbariya[^9] Thera is finished.
 
-[^1]: *koṭumbariya* is a kind of cloth; the name would mean “\[That Kind
-    of Cloth\]-er”. This spelling follows BJTS; PTS gives *Kotumbariya.*
+[^1]: *koṭumbariya* is a kind of cloth; the name would mean “\[That Kind of Cloth\]-er”. This spelling follows BJTS; PTS gives *Kotumbariya.*
 
-[^2]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum
-    acerifolium, produces a brilliant mass of yellow flowers; Engl.
-    a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now
-    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
+[^2]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
 
 [^3]: reading *vitthataṃ* with BJTS for PTS *uddhataŋ* (“risen up”)
 
-[^4]: reading *pūjitaṃ* with BJTS for PTS *paretaŋ* (“dead,”
-    “oppressed”)
+[^4]: reading *pūjitaṃ* with BJTS for PTS *paretaŋ* (“dead,” “oppressed”)
 
 [^5]: *devasanghena*
 

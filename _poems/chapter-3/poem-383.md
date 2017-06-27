@@ -32,9 +32,7 @@ six special knowledges mastered,
 Thus indeed Venerable Udumbaraphaladāyaka Thera spoke these verses.  
 The legend of Udumbaraphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Glomerous Fig Fruit Donor.” BJTS omits *phala* from the name.
 
@@ -44,5 +42,4 @@ The legend of Udumbaraphaladāyaka Thera is finished.
 
 [^5]: *kilesamaladhovana*
 
-[^6]: *Udumbara* is the glomerous fig tree, Ficus Glomerata, Sinh.
-    *dimbul*
+[^6]: *Udumbara* is the glomerous fig tree, Ficus Glomerata, Sinh. *dimbul*

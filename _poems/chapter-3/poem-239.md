@@ -17,5 +17,4 @@ six special knowledges mastered,
 Thus indeed Venerable Jagatikāraka Thera spoke these verses.  
 The legend of Jagatikāraka Thera is finished.
 
-[^1]: ”Landscaper,” reading *jagatī,* earth, ground + *kāraka,* doer;
-    lit., “earth-developer”
+[^1]: ”Landscaper,” reading *jagatī,* earth, ground + *kāraka,* doer; lit., “earth-developer”

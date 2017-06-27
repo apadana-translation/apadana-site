@@ -28,10 +28,7 @@ six special knowledges mastered,
 Thus indeed Venerable Tamālapupphiya Thera spoke these verses.  
 The legend of Tamālapupphiya Thera is finished.
 
-[^1]: “Tamāla Flower \[Donor\]”. The flower comes from a tree, Sinh.
-    *tamaḷu,* = *kollam* = *raṭa goraka* or Cochin goraka, Garcinia
-    Xanthochymus (*Guttif.*); bears greenish-white flowers and a fruit
-    used for jams and curries.
+[^1]: “Tamāla Flower \[Donor\]”. The flower comes from a tree, Sinh. *tamaḷu,* = *kollam* = *raṭa goraka* or Cochin goraka, Garcinia Xanthochymus (*Guttif.*); bears greenish-white flowers and a fruit used for jams and curries.
 
 [^2]: *devalaṭṭhi = devarukkha*
 

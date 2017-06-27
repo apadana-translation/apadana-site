@@ -17,7 +17,6 @@ six special knowledges mastered:
 Thus indeed Venerable ‘Pāhanadāyaka Thera spoke these verses.  
 The legend of ‘Pāhanadāyaka Thera is finished.
 
-[^1]: that is, Upāhana-dāyaka, supplying (as do some manuscripts) the
-    elided “u”. “Shoe-donor”
+[^1]: that is, Upāhana-dāyaka, supplying (as do some manuscripts) the elided “u”. “Shoe-donor”
 
 [^2]: “Sandalwood”

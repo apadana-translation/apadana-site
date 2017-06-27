@@ -781,48 +781,27 @@ The legend of Upāli Thera is finished.
 
 [^1]: lit., “ascetics who were wandering”
 
-[^2]: all the manuscripts have “followers of Gotama \[some spell it
-    Gautama\] Buddha,” but I follow the cty (which says they were all
-    Jains \[*nigaṇṭhasāvakā*\] spouting varied views) and BJTS, which
-    offers “Rishi Gautama” as the Sinhala gloss. This reading makes
-    sense, given that Gotama Buddha was a hundred thousand aeons off
-    still, and even -- at this point in the legend -- his predecessor
-    Padumuttara Buddha had yet to be born. Indeed, verse 5 points out
-    that there was not even the idea of “Buddha” in the world at that
-    time. It is possible to take the term as referring to their later
-    status as followers of Gotama Buddha, but the former interpretation
-    seems much more fitting to the context.
+[^2]: all the manuscripts have “followers of Gotama \[some spell it Gautama\] Buddha,” but I follow the cty (which says they were all Jains \[*nigaṇṭhasāvakā*\] spouting varied views) and BJTS, which offers “Rishi Gautama” as the Sinhala gloss. This reading makes sense, given that Gotama Buddha was a hundred thousand aeons off still, and even -- at this point in the legend -- his predecessor Padumuttara Buddha had yet to be born. Indeed, verse 5 points out that there was not even the idea of “Buddha” in the world at that time. It is possible to take the term as referring to their later status as followers of Gotama Buddha, but the former interpretation seems much more fitting to the context.
 
 [^3]: “Good Joy”
 
 [^4]: lit., “in being” or “in existence”.
 
-[^5]: reading *bhavesu samsarissati* (BJTS) for *bhaveussaŋsarissati*
-    (PTS, sic).
+[^5]: reading *bhavesu samsarissati* (BJTS) for *bhaveussaŋsarissati* (PTS, sic).
 
 [^6]: \#5 of *Therāpadāna,* above
 
-[^7]: I follow BJTS and cty in taking this a personal name, which makes
-    especial sense given the further reference to him in v. (78) \[523\]
-    below. But it could also mean “a person on the road,” taking it as
-    der. from *patha,* road.
+[^7]: I follow BJTS and cty in taking this a personal name, which makes especial sense given the further reference to him in v. (78) \[523\] below. But it could also mean “a person on the road,” taking it as der. from *patha,* road.
 
 [^8]: lit., “analogous to the unperturbable ocean”.
 
 [^9]: “beautiful”
 
-[^10]: *sanghārāma*, a Buddhist monastic residence, lit., “grove of/for
-    the Assembly.” The wider connotation of *ārāma* is “garden” or
-    “park,’ not precisely the same as ashram (Pāli *assama*) but closer
-    than any alternative that occurs to me, so I adopt the Anglicized
-    “ashram” to translate both *ārāma* and *assama.* I also sometimes
-    translate these terms “hermitage,” as meter demands. I have tried to
-    reserve the more technical “monastery” for *vihāra.*
+[^10]: *sanghārāma*, a Buddhist monastic residence, lit., “grove of/for the Assembly.” The wider connotation of *ārāma* is “garden” or “park,’ not precisely the same as ashram (Pāli *assama*) but closer than any alternative that occurs to me, so I adopt the Anglicized “ashram” to translate both *ārāma* and *assama.* I also sometimes translate these terms “hermitage,” as meter demands. I have tried to reserve the more technical “monastery” for *vihāra.*
 
 [^11]: lit., “to the monks’ Assembly”.
 
-[^12]: reading *niyyādessāmi* with BJTS (and PTS alt.) for PTS
-    *niyyātessāmi*
+[^12]: reading *niyyādessāmi* with BJTS (and PTS alt.) for PTS *niyyātessāmi*
 
 [^13]: lit., “and was built with such a large amount”
 
@@ -830,55 +809,39 @@ The legend of Upāli Thera is finished.
 
 [^15]: *bheri*
 
-[^16]: hasulā = ? Cf. RD *hasula*, s.v., which following Kern treats
-    this as a corrupted reading of *bhamuka*, “eyebrows” or “thick
-    eyebrows”, often found in combination with the term for “long
-    eyelashes” (*aḷārapamha*).
+[^16]: hasulā = ? Cf. RD *hasula*, s.v., which following Kern treats this as a corrupted reading of *bhamuka*, “eyebrows” or “thick eyebrows”, often found in combination with the term for “long eyelashes” (*aḷārapamha*).
 
-[^17]: RD gives “good hips,” referring to this text. I don’t see the
-    warrant, and take the term *susaññā* from *saññā*, sense,
-    perception, as does BJTS
+[^17]: RD gives “good hips,” referring to this text. I don’t see the warrant, and take the term *susaññā* from *saññā*, sense, perception, as does BJTS
 
-[^18]: *thānāṭhāne ca kovido*. This is one of the ten powers of a
-    Buddha.
+[^18]: *thānāṭhāne ca kovido*. This is one of the ten powers of a Buddha.
 
-[^19]: cty here explains these as the fires of *rāga* (lust), *dosa*
-    (anger) and *moha* (ignorance, folly)
+[^19]: cty here explains these as the fires of *rāga* (lust), *dosa* (anger) and *moha* (ignorance, folly)
 
 [^20]: reading *upāyanam* with BJTS, cty
 
 [^21]: *bhūtavejjaŋ*
 
-[^22]: *bhūtavijjāsu kovida*ŋ, lit., “skilled in exorcisms of ghosts,”
-    “skilled in the knowledges about ghosts”
+[^22]: *bhūtavijjāsu kovida*ŋ, lit., “skilled in exorcisms of ghosts,” “skilled in the knowledges about ghosts”
 
 [^23]: *saṃsāra-sotaŋ*
 
-[^24]: lit, in the forest of the Cittalatā, the name of one of Indra’s
-    gardens
+[^24]: lit, in the forest of the Cittalatā, the name of one of Indra’s gardens
 
-[^25]: *paṭisandhi* = conception, reunion, following cty in connecting
-    this with future existence
+[^25]: *paṭisandhi* = conception, reunion, following cty in connecting this with future existence
 
-[^26]: *balāka*, a kind of small crane or *kōkā*. lit., “just as the
-    males are not always found in the vaginas of female *balākas*...”
+[^26]: *balāka*, a kind of small crane or *kōkā*. lit., “just as the males are not always found in the vaginas of female *balākas*...”
 
 [^27]: lit., “for a long time they carry the fetus”
 
-[^28]: lit “of the *Vinaya*;” BJTS and cty understand this to mean the
-    two *Vibhanga*s of the *Vinayapiṭaka*: *Bhikkhu-vibhanga* and
-    *Bhikkhunī-vibhanga.*
+[^28]: lit “of the *Vinaya*;” BJTS and cty understand this to mean the two *Vibhanga*s of the *Vinayapiṭaka*: *Bhikkhu-vibhanga* and *Bhikkhunī-vibhanga.*
 
-[^29]: that is, the *Mahāvagga* and the *Cūlavagga* of the
-    *Vinayapiṭaka.*
+[^29]: that is, the *Mahāvagga* and the *Cūlavagga* of the *Vinayapiṭaka.*
 
-[^30]: *tikacchede ‘va pañcake*; BJTS: *sanghādisesa tika
-    pācittiyādiyehi da, pasvaeni vu parivarayehi da *
+[^30]: *tikacchede ‘va pañcake*; BJTS: *sanghādisesa tika pācittiyādiyehi da, pasvaeni vu parivarayehi da *
 
 [^31]: *niggahe*: rebuking evil monks
 
-[^32]: *paṭikamma*: cty: of monks who are unattained; a formal act of
-    the *Saṅgha* against guilty *bhikkhus.*
+[^32]: *paṭikamma*: cty: of monks who are unattained; a formal act of the *Saṅgha* against guilty *bhikkhus.*
 
 [^33]: *osāraṇe*
 
@@ -886,24 +849,17 @@ The legend of Upāli Thera is finished.
 
 [^35]: lit everywhere, *sabbaṭṭha*
 
-[^36]: *rasato osāreyy’aham*. *Rasa = kritya*, function, what should be
-    done -- in the abl? \[This section contains a lot of technical
-    material that needs checking in the *Vinaya* texts)
+[^36]: *rasato osāreyy’aham*. *Rasa = kritya*, function, what should be done -- in the abl? \[This section contains a lot of technical material that needs checking in the *Vinaya* texts)
 
-[^37]: *niruttiyā*, in knowledge of the original dialect of the holy
-    scriptures, which the BJTS Sinhala gloss explains as knowing the
-    original meaning of words and understanding grammar.
+[^37]: *niruttiyā*, in knowledge of the original dialect of the holy scriptures, which the BJTS Sinhala gloss explains as knowing the original meaning of words and understanding grammar.
 
 [^38]: *rūpadakkho*
 
 [^39]: lit., “in the dispensation of the Son of the Śākyas.”
 
-[^40]: neither I, nor the mss tradition, knows what to do with “*tape*”
-    here. The BJTS takes it to mean “army,” cty reads *tappeyya* (“would
-    feel remorse”)
+[^40]: neither I, nor the mss tradition, knows what to do with “*tape*” here. The BJTS takes it to mean “army,” cty reads *tappeyya* (“would feel remorse”)
 
-[^41]: *dukkhitaṃ*. Cty understands this to mean “its own relatives,”
-    the other birds.
+[^41]: *dukkhitaṃ*. Cty understands this to mean “its own relatives,” the other birds.
 
 [^42]: *satipaṭṭhāna*
 
@@ -911,26 +867,21 @@ The legend of Upāli Thera is finished.
 
 [^44]: lit., “of everything in the dispensation”.
 
-[^45]: reading *pamesi* (“measured,” BJTS, cty, PTS alt) for *pihesi*
-    (“loved,” PTS).
+[^45]: reading *pamesi* (“measured,” BJTS, cty, PTS alt) for *pihesi* (“loved,” PTS).
 
 [^46]: lit., “\[most\] learned”.
 
 [^47]: see notes to \[524\] above.
 
-[^48]: lit., “for one who knows *Vinaya* to \[or through, or with\] the
-    root”,
+[^48]: lit., “for one who knows *Vinaya* to \[or through, or with\] the root”,
 
-[^49]: “path”. This spelling follows BJTS, cty and PTS alt; PTS reads
-    Ajasa.
+[^49]: “path”. This spelling follows BJTS, cty and PTS alt; PTS reads Ajasa.
 
-[^50]: i.e., showing their rut in their eyes, ears, and genitals. See
-    cty, p. 288.
+[^50]: i.e., showing their rut in their eyes, ears, and genitals. See cty, p. 288.
 
 [^51]: see \#1, v. 25 \[164\]. Or glossary?
 
-[^52]: this refers to the “doors” of the body’s sense-organs: eyes,
-    ears, etc.
+[^52]: this refers to the “doors” of the body’s sense-organs: eyes, ears, etc.
 
 [^53]: lit., “the elephant did not lift his foot”.
 
@@ -940,29 +891,13 @@ The legend of Upāli Thera is finished.
 
 [^56]: lit., “practicing austerities”.
 
-[^57]: cty stipulates that this refers to his former occupation as the
-    barber of the Śākyas.
+[^57]: cty stipulates that this refers to his former occupation as the barber of the Śākyas.
 
-[^58]: my translation here follows the BJTS Sinhala gloss on this
-    grammatically-ambiguous verse, and the BJTS (and PTS alt.) reading
-    of the final verb as *khamāpayi* (third person) for PTS *khamāpayiŋ*
-    (first person); the ambiguity revolves around the term translated
-    here as “Self-Become,” *sayambhuñ* (*sayambhuṃ*), which as a
-    nominative (as in the BJTS gloss, and corresponding to the third
-    person verb), should be *sayambhū* (would -*ū* ever become -*uñ* in
-    *sandhi* with *ca*?), rather than this form which appears to be an
-    accusative (*sayambhuṃ*, which would accord with the first person
-    verb of PTS, but leaves the text asserting that the protagonist
-    forgave the Buddha rather than the other way around); the -*uṃ*
-    could also be read as a vocative form, but then the verse lacks a
-    subject, since the first reference to the (present) Buddha is
-    clearly in the vocative.
+[^58]: my translation here follows the BJTS Sinhala gloss on this grammatically-ambiguous verse, and the BJTS (and PTS alt.) reading of the final verb as *khamāpayi* (third person) for PTS *khamāpayiŋ* (first person); the ambiguity revolves around the term translated here as “Self-Become,” *sayambhuñ* (*sayambhuṃ*), which as a nominative (as in the BJTS gloss, and corresponding to the third person verb), should be *sayambhū* (would -*ū* ever become -*uñ* in *sandhi* with *ca*?), rather than this form which appears to be an accusative (*sayambhuṃ*, which would accord with the first person verb of PTS, but leaves the text asserting that the protagonist forgave the Buddha rather than the other way around); the -*uṃ* could also be read as a vocative form, but then the verse lacks a subject, since the first reference to the (present) Buddha is clearly in the vocative.
 
-[^59]: cty here explains these as the fires of *rāga* (lust), *dosa*
-    (anger) and *moha* (ignorance, folly)
+[^59]: cty here explains these as the fires of *rāga* (lust), *dosa* (anger) and *moha* (ignorance, folly)
 
-[^60]: cty here explains these as the fires of *rāga* (lust), *dosa*
-    (anger) and *moha* (ignorance, folly)
+[^60]: cty here explains these as the fires of *rāga* (lust), *dosa* (anger) and *moha* (ignorance, folly)
 
 [^61]: cty: expelling *samsāra*, getting freed from *samsāra*
 
@@ -970,26 +905,19 @@ The legend of Upāli Thera is finished.
 
 [^63]: cty: the medicine is nirvana
 
-[^64]: lit., “it’s poison just like *haḷāhaḷa* for those in conflict
-    with the dispensation”
+[^64]: lit., “it’s poison just like *haḷāhaḷa* for those in conflict with the dispensation”
 
 [^65]: this interpretation of *jhāpeti* follows the cty.
 
 [^66]: reading *tāreti* (BJTS, cty) for *tarati* (PTS).
 
-[^67]: the term *avirodhiyā* (alt *avirādhiyā*) here and in the next
-    verse is problematic -- to be taken as the optative of
-    *virujjhati&gt;virodhati*?
+[^67]: the term *avirodhiyā* (alt *avirādhiyā*) here and in the next verse is problematic -- to be taken as the optative of *virujjhati&gt;virodhati*?
 
-[^68]: reading *na virādhiyā* (cty) or *na virodhiya* (BJTS) for *n’
-    avirodhiyā* (PTS).
+[^68]: reading *na virādhiyā* (cty) or *na virodhiya* (BJTS) for *n’ avirodhiyā* (PTS).
 
 [^69]: the Buddha’s son, *Therāpadāna* \#16, below.
 
-[^70]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as
-    *duma + agge*. It would also be possible to take it as *du+ magge*,
-    “on a bad road”. Here the former reading makes sense of the allusion
-    to “flag” in the fourth foot.
+[^70]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as *duma + agge*. It would also be possible to take it as *du+ magge*, “on a bad road”. Here the former reading makes sense of the allusion to “flag” in the fourth foot.
 
 [^71]: *kappa*, could also translate: “which is the practice of”
 

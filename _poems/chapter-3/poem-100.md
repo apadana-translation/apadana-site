@@ -52,6 +52,4 @@ The First Hundred[^4] is finished.
 
 [^3]: BJTS read “Sudhāpiṇḍiya Chapter”.
 
-[^4]: *sataka* is a common structure in Sanskrit and Pāli poetry,
-    usually referring to one hundred verses, rather than (as here) one
-    hundred stories.
+[^4]: *sataka* is a common structure in Sanskrit and Pāli poetry, usually referring to one hundred verses, rather than (as here) one hundred stories.

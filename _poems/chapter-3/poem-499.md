@@ -57,20 +57,12 @@ six special knowledges mastered,
 Thus indeed Venerable Naḷakuṭikadāyaka Thera spoke these verses.  
 The legend of Naḷakuṭikadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Little Reed Hut Donor”
 
-[^3]: BJTS reads *bhārito,* Bhārita; PTS alts. are *Hāriko,* Hārika, and
-    *Hiriko*, Hirika. DPPN II:1324 goes with Hārita. Cf. \#342 {345},
-    above, for the parallel *apadāna* of Nalāgārika (BJTS Naḷāgārika*),*
-    which shares the first two verses with this one.
+[^3]: BJTS reads *bhārito,* Bhārita; PTS alts. are *Hāriko,* Hārika, and *Hiriko*, Hirika. DPPN II:1324 goes with Hārita. Cf. \#342 {345}, above, for the parallel *apadāna* of Nalāgārika (BJTS Naḷāgārika*),* which shares the first two verses with this one.
 
-[^4]: reading *sabbākāravarūpamaṃ* with BJTS (and PTS alt.) for PTS
-    *sabbāgarāvarūpamaŋ* (“excellent metaphor for all houses”); BJTS
-    Sinhala gloss *siyalu ākārayen utum upamā äti dharma-nämäti
-    prasādayṭa nägī*
+[^4]: reading *sabbākāravarūpamaṃ* with BJTS (and PTS alt.) for PTS *sabbāgarāvarūpamaŋ* (“excellent metaphor for all houses”); BJTS Sinhala gloss *siyalu ākārayen utum upamā äti dharma-nämäti prasādayṭa nägī*
 
 [^5]: lit., “in the Śākyas’ Son’s”

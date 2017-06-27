@@ -407,18 +407,11 @@ Thus the Blessed One spoke the short discourse on *Dhamma* called “The
 Legend of the Buddhas” which was productive of his own Buddha-conduct.  
 The Legend of the Buddhas is completed.
 
-[^1]: the Sage of Videha is Ānanda, the Buddha’s cousin and personal
-    attendant.
+[^1]: the Sage of Videha is Ānanda, the Buddha’s cousin and personal attendant.
 
 [^2]: BJTS alt. reads *dhīra* (“Wise One”) for *vīra* (“Hero”)
 
-[^3]: The first four verses of BJTS are not found in PTS. The first
-    three verses of BJTS are in the more elaborate meter, with eleven
-    syllables per foot, that characterizes the following
-    *Paccekabuddhāpadāna* (and the *sutta* from which it in turn draws),
-    so I have translated accordingly. Indeed, with very small changes,
-    these first three verses are also the first three verses of
-    *Paccekabuddhāpadāna*, even in the PTS edition.
+[^3]: The first four verses of BJTS are not found in PTS. The first three verses of BJTS are in the more elaborate meter, with eleven syllables per foot, that characterizes the following *Paccekabuddhāpadāna* (and the *sutta* from which it in turn draws), so I have translated accordingly. Indeed, with very small changes, these first three verses are also the first three verses of *Paccekabuddhāpadāna*, even in the PTS edition.
 
 [^4]: *jinasāsanesu,* lit., “in the Victors’ dispensations”
 
@@ -432,46 +425,27 @@ The Legend of the Buddhas is completed.
 
 [^9]: *jambonadā,* a special and much-prized variety of gold
 
-[^10]: reading *sandhī suvibhattā* (BJTS, Hew) for *sandhīsu vibhattā*
-    (“divided into openings,” PTS)
+[^10]: reading *sandhī suvibhattā* (BJTS, Hew) for *sandhīsu vibhattā* (“divided into openings,” PTS)
 
 [^11]: or “noble diagram,” *ariyamaṇḍalā.*
 
 [^12]: lit., “were brought”.
 
-[^13]: or “into \[my\] residence” or “into \[that conjured up\]
-    residence.”
+[^13]: or “into \[my\] residence” or “into \[that conjured up\] residence.”
 
-[^14]: lit., “with the ultimate food,” *parama-anna*. The Sinhala
-    tradition understands this to be milk-rice *(kiri-bat*), which in
-    Sri Lanka is typically made by boiling the rice in coconut milk
-    rather than cow’s milk. In ancient India, the latter was more likely
-    the case. The term may also mean, more generally, “outstanding
-    food.”
+[^14]: lit., “with the ultimate food,” *parama-anna*. The Sinhala tradition understands this to be milk-rice *(kiri-bat*), which in Sri Lanka is typically made by boiling the rice in coconut milk rather than cow’s milk. In ancient India, the latter was more likely the case. The term may also mean, more generally, “outstanding food.”
 
 [^15]: *dhammāni*
 
-[^16]: *abhiññā,* classically six in number: superpowers or miraculous
-    powers (*iddhi*), “divine ear” (*dibbasotu*), knowing others’
-    hearts/minds/thoughts, recalling one’s own previous lives, knowing
-    others’ rebirths, certainty of nirvana. The first five are generally
-    accessible religious goals; the sixth is experienced only by
-    Buddhist arahants.
+[^16]: *abhiññā,* classically six in number: superpowers or miraculous powers (*iddhi*), “divine ear” (*dibbasotu*), knowing others’ hearts/minds/thoughts, recalling one’s own previous lives, knowing others’ rebirths, certainty of nirvana. The first five are generally accessible religious goals; the sixth is experienced only by Buddhist arahants.
 
 [^17]: lit., transforming themselves into magical transformations
 
 [^18]: lit., “about the range of the realm of omniscience.”
 
-[^19]: here the reading of the Hewawitarne and BJTS editions, echoed in
-    the commentary, is significantly different: “Let there be umbrellas
-    of gems/with gilded handles of scented bamboo//covered in a net of
-    pearls./Let them all be carried out front.”
+[^19]: here the reading of the Hewawitarne and BJTS editions, echoed in the commentary, is significantly different: “Let there be umbrellas of gems/with gilded handles of scented bamboo//covered in a net of pearls./Let them all be carried out front.”
 
-[^20]: the palm-print is *pañcaṅguli* or *pañcaṅgulika,* SInhala
-    *pasaṅgul.* Pali-SInhala-English Dictionary gives: “a mark of five
-    fingers made after the hand immersing \[sic\] in a solution of
-    sandalwood.” Here the text specifies that it was scented
-    (*gandha°*).
+[^20]: the palm-print is *pañcaṅguli* or *pañcaṅgulika,* SInhala *pasaṅgul.* Pali-SInhala-English Dictionary gives: “a mark of five fingers made after the hand immersing \[sic\] in a solution of sandalwood.” Here the text specifies that it was scented (*gandha°*).
 
 [^21]: *vina.*
 
@@ -479,29 +453,12 @@ The Legend of the Buddhas is completed.
 
 [^23]: *gandhabba = gandharva*
 
-[^24]: lit., “for \[birth among\] the Thirty\[-Three gods who reside in
-    Tāvatiṃsa heaven\]”. The BJTS Sinhala gloss understands this to
-    imply that the *karma* was *kusala* (“wholesome”) in that it was
-    done for the sake of being reborn in that heaven/among those gods.
+[^24]: lit., “for \[birth among\] the Thirty\[-Three gods who reside in Tāvatiṃsa heaven\]”. The BJTS Sinhala gloss understands this to imply that the *karma* was *kusala* (“wholesome”) in that it was done for the sake of being reborn in that heaven/among those gods.
 
 [^25]: BJTS reads *tejasā,* “by means of my power/inner heat”.
 
-[^26]: *tena kammena sukatena* is a common foot in *Apadāna* which
-    however breaks meter in the Pāli, having nine rather than the
-    expected eight syllables. It easily could be emended to *tena
-    sukatakammena* in order to keep meter in the numerous verses where
-    it appears, but the Pāli does not witness that. Cf. \[5706\], below,
-    for a variant *tena kammavisesana,* which does keep the meter. While
-    I am tempted to emend the English so that the foot does keep the
-    eight-syllable meter, “Due to that karma done very well,” I have
-    maintained the lack of metricality — might this be somehow
-    intentional, as to call special intention to this repeated verse? —
-    by translating, “due to that karma done very well,” throughout.
+[^26]: *tena kammena sukatena* is a common foot in *Apadāna* which however breaks meter in the Pāli, having nine rather than the expected eight syllables. It easily could be emended to *tena sukatakammena* in order to keep meter in the numerous verses where it appears, but the Pāli does not witness that. Cf. \[5706\], below, for a variant *tena kammavisesana,* which does keep the meter. While I am tempted to emend the English so that the foot does keep the eight-syllable meter, “Due to that karma done very well,” I have maintained the lack of metricality — might this be somehow intentional, as to call special intention to this repeated verse? — by translating, “due to that karma done very well,” throughout.
 
-[^27]: a heaven of great pleasure, sometimes identified by “the thirty”
-    or “the thirty-three” gods who dwell there.
+[^27]: a heaven of great pleasure, sometimes identified by “the thirty” or “the thirty-three” gods who dwell there.
 
-[^28]: Hewawitarne reads, perhaps preferably: “all the way to Brahma’s
-    home, let them follow my example.” BJTS also records mss. that
-    provide this reading, and gives it parenthetically as an additional
-    line.
+[^28]: Hewawitarne reads, perhaps preferably: “all the way to Brahma’s home, let them follow my example.” BJTS also records mss. that provide this reading, and gives it parenthetically as an additional line.

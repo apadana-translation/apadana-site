@@ -34,11 +34,9 @@ The legend of Citapūjaka[^8] Thera is finished.
 
 [^3]: “Unconquered”
 
-[^4]: lit., “desiring to sacrifice a fire sacrifice”: *āhutiŋ
-    yiṭṭhukāma*
+[^4]: lit., “desiring to sacrifice a fire sacrifice”: *āhutiŋ yiṭṭhukāma*
 
-[^5]: reading *disvā* with BJTS and PTS alternative for PTS *katvā*,
-    “having made” or “making”
+[^5]: reading *disvā* with BJTS and PTS alternative for PTS *katvā*, “having made” or “making”
 
 [^6]: “Well Lit Up” “Very Brilliant” “Hotly Burning”
 

@@ -43,12 +43,9 @@ The legend of Madhupiṇḍika Thera is finished.
 
 [^2]: reading *seṭṭhaṃ* (BJTS) for *setthaŋ* (PTS)
 
-[^3]: compare *nisabha* with *narasabha*, which I also translate “Bull
-    of Men”.
+[^3]: compare *nisabha* with *narasabha*, which I also translate “Bull of Men”.
 
-[^4]: *osadhī*. RD (s.v.) points out that all we really know about this
-    star is that it was particularly bright, leading Childers to
-    translate it as “Venus” and others as the morning star.
+[^4]: *osadhī*. RD (s.v.) points out that all we really know about this star is that it was particularly bright, leading Childers to translate it as “Venus” and others as the morning star.
 
 [^5]: reading *pahutā āsi* (BJTS) for *pahunā tāva* (PTS)
 
@@ -56,7 +53,4 @@ The legend of Madhupiṇḍika Thera is finished.
 
 [^7]: “Good to Look At”
 
-[^8]: PTS does not include the last two feet of this verse, which appear
-    only in BJTS. The latter presents it as a six-footed verse, the
-    former as a four-footed verse containing the first four feet
-    translated here.
+[^8]: PTS does not include the last two feet of this verse, which appear only in BJTS. The latter presents it as a six-footed verse, the former as a four-footed verse containing the first four feet translated here.

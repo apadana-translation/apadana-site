@@ -83,27 +83,17 @@ The legend of Pupphathūpiya Thera is finished.
 
 [^2]: or “Close to the Himalayan range”
 
-[^3]: perhaps fr. *lambati,* to hand down, “Pendulous”. \#1, \#345{348}
-    also take place on this mountain.
+[^3]: perhaps fr. *lambati,* to hand down, “Pendulous”. \#1, \#345{348} also take place on this mountain.
 
-[^4]: lit., “you \[plural\] should know the fact through us that”. I
-    follow the BJTS Sinhala gloss in taking this as a statement made by
-    the students to the teacher (i.e., the rebirth precursor of the
-    arahant). The second person plural imperative is used as a form of
-    respectful address, so the sense is less direct than the command
-    appears in English. The Sinhala gloss reads, “it would be good if
-    you were to gain understanding from our words that...”
+[^4]: lit., “you \[plural\] should know the fact through us that”. I follow the BJTS Sinhala gloss in taking this as a statement made by the students to the teacher (i.e., the rebirth precursor of the arahant). The second person plural imperative is used as a form of respectful address, so the sense is less direct than the command appears in English. The Sinhala gloss reads, “it would be good if you were to gain understanding from our words that...”
 
 [^5]: PTS and BJTS agree in presenting this as a six-footed verse
 
 [^6]: PTS and BJTS agree in presenting this as a six-footed verse
 
-[^7]: reading *tāhaṃ disaṃ namassissaṃ* (BJTS) for *na hi disvāna
-    passissaŋ* (“not seeing I will look,” PTS).
+[^7]: reading *tāhaṃ disaṃ namassissaṃ* (BJTS) for *na hi disvāna passissaŋ* (“not seeing I will look,” PTS).
 
-[^8]: BJTS reads this verb as *pūjesiṃ,* past tense “I did *pūjā,”* but
-    here, given the context, I prefer the PTS reading *pūjessaŋ,* the
-    future tense (sort of).
+[^8]: BJTS reads this verb as *pūjesiṃ,* past tense “I did *pūjā,”* but here, given the context, I prefer the PTS reading *pūjessaŋ,* the future tense (sort of).
 
 [^9]: lit., “the Victor’s dispensation”
 

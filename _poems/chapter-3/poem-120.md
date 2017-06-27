@@ -59,7 +59,6 @@ The Mahāparivāra Chapter, the Twelfth.
 
 [^2]: lit., “will \[have\] become”
 
-[^3]: reading *saṃvaritvāna* (BJTS) for *saṃsaritvāna*
-    (“transmigrating,” PTS).
+[^3]: reading *saṃvaritvāna* (BJTS) for *saṃsaritvāna* (“transmigrating,” PTS).
 
 [^4]: “Good Serving” “Waiting on Well”

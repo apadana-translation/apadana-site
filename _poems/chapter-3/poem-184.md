@@ -38,15 +38,11 @@ The legend of Pañcahatthiya Thera is finished.
 
 [^3]: lit., “entered into”
 
-[^4]: lit., “are picked up,” reading *paggaṇhitaṃ* with BJTS for PTS
-    “*‘haŋ mūgo ‘mhi”* (“I am a deer”)
+[^4]: lit., “are picked up,” reading *paggaṇhitaṃ* with BJTS for PTS “*‘haŋ mūgo ‘mhi”* (“I am a deer”)
 
-[^5]: That is, nine handfuls total. BJTS suggests another readings of
-    “five or four handfuls,” but the “*ca*” suggests that the reading
-    5+4 is more appropriate. The cty does not take this up.
+[^5]: That is, nine handfuls total. BJTS suggests another readings of “five or four handfuls,” but the “*ca*” suggests that the reading 5+4 is more appropriate. The cty does not take this up.
 
-[^6]: reading *abhituṭṭho* with BJTS for PTS *abhighuṭṭho* (“proclaimed,
-    announced”)
+[^6]: reading *abhituṭṭho* with BJTS for PTS *abhighuṭṭho* (“proclaimed, announced”)
 
 [^7]: lit., “I did *pūjā* \[with them\]”
 
@@ -54,6 +50,4 @@ The legend of Pañcahatthiya Thera is finished.
 
 [^9]: lit., “that flower”
 
-[^10]: that is, five men named Subhāsammatā, all of whom were rebirth
-    precursors of Rev. Pañcahatthiya. The name means “Well-Approved” or
-    “Well Agreed Upon”.
+[^10]: that is, five men named Subhāsammatā, all of whom were rebirth precursors of Rev. Pañcahatthiya. The name means “Well-Approved” or “Well Agreed Upon”.

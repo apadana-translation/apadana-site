@@ -38,7 +38,6 @@ The legend of Sudhāpiṇḍiya Thera is finished.
 
 [^1]: “Plaster-Ball-er”
 
-[^2]: *papañca* = three things delaying time in samsara, namely craving,
-    wrong views and pride.
+[^2]: *papañca* = three things delaying time in samsara, namely craving, wrong views and pride.
 
 [^3]: “Repairer”

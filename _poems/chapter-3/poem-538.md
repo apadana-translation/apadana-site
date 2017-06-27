@@ -219,17 +219,11 @@ six special knowledges mastered,
 Thus indeed Venerable Uruvelakassapa Thera spoke these verses.  
 The legend of Uruvelakassapa Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Kassapa of Uruvela,” a historical monk famous for having the
-    foremost place among monks with large retinues. See DPPN 1:432-434
+[^2]: “Kassapa of Uruvela,” a historical monk famous for having the foremost place among monks with large retinues. See DPPN 1:432-434
 
-[^3]: this and the following five verses also appear, verbatim, as the
-    first six verses of Dabbamalla’s *apadāna* (\#531 {534}, above;
-    \[5769\]-\[5774\]), and also of Mahākoṭṭhita’s *apadāna* (\#534
-    {537}, above; \[5881\]-\[5886\])
+[^3]: this and the following five verses also appear, verbatim, as the first six verses of Dabbamalla’s *apadāna* (\#531 {534}, above; \[5769\]-\[5774\]), and also of Mahākoṭṭhita’s *apadāna* (\#534 {537}, above; \[5881\]-\[5886\])
 
 [^4]: *ovādako*
 
@@ -247,18 +241,13 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^11]: *nirākulaŋ*
 
-[^12]: *suñññataŋ,* or “empty \[of ill-will\],” which is BJTS Sinhala
-    gloss reading; I construe the epithet as *su* + *ñata*
+[^12]: *suñññataŋ,* or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
 [^13]: *vicittaŋ*
 
-[^14]: *ratanāna-aṭṭha-paññāsaŋ uggato.* A *ratana* (Sinh. *riyan*) is
-    figured as twelve-fingers (*aṅgula*), according to Sinh-Eng
-    Dictionary about eighteen inches. The claim here then is that
-    Padumuttara Buddha was 1044 inches (or 87 feet) tall.
+[^14]: *ratanāna-aṭṭha-paññāsaŋ uggato.* A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
 
-[^15]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or
-    “like a gold festoon work”
+[^15]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^16]: *lokapajjtotaŋ*
 
@@ -266,26 +255,15 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^18]: *mahājinaŋ*
 
-[^19]: following BJTS Sinh gloss in taking *mahatā parivārena* with
-    *saha dānaŋ ahaŋ adaŋ* rather than with *mahāŋjina,* though the
-    latter is also a possible reading.
+[^19]: following BJTS Sinh gloss in taking *mahatā parivārena* with *saha dānaŋ ahaŋ adaŋ* rather than with *mahāŋjina,* though the latter is also a possible reading.
 
-[^20]: *parisā mahatī hotu,* lit., “let there be \[to me\]”. This
-    translation follows BJTS Sinhala gloss (*ē ē tanhi upadinnā vū maṭa
-    mahat vū piris äti wēwā,* “let there be a large retinue for me being
-    reborn in this and that place” ), but the construction is elastic
-    enough to allow for other readings that would better emphasize the
-    “sociokarmic” dimension here, that is, that an entire group of
-    people both make and experience this karma, e.g., “let this retinue
-    be great as \[it\] transmigrates here and there” or even “let this
-    be a great retinue transmigrating here and there”.
+[^20]: *parisā mahatī hotu,* lit., “let there be \[to me\]”. This translation follows BJTS Sinhala gloss (*ē ē tanhi upadinnā vū maṭa mahat vū piris äti wēwā,* “let there be a large retinue for me being reborn in this and that place” ), but the construction is elastic enough to allow for other readings that would better emphasize the “sociokarmic” dimension here, that is, that an entire group of people both make and experience this karma, e.g., “let this retinue be great as \[it\] transmigrates here and there” or even “let this be a great retinue transmigrating here and there”.
 
 [^21]: *karavīkarudo,* “he with the sound of a cuckoo”
 
 [^22]: *gajagajjitassusaro*
 
-[^23]: reading *saddhāvantaṃ guṇe mama* with BJTS for PTS
-    *sandhāvantaguṇaŋ mamaŋ*
+[^23]: reading *saddhāvantaṃ guṇe mama* with BJTS for PTS *sandhāvantaguṇaŋ mamaŋ*
 
 [^24]: *sīhaghosassa,* lit., “of the one who has a lion’s sound”
 
@@ -295,26 +273,15 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^27]: *asadiso*
 
-[^28]: *vijaṭetvā mahājaṭaŋ. Jaṭa* literally means he braid of a “matted
-    hair ascetic” or a tangle of tree branches (a thicket), but
-    figuratively refers to the great tangle of desire. The verb,
-    *vjaṭeti*, means “untangle” but has the connotation, as does the
-    English equivalent, of explaining or unraveling.
+[^28]: *vijaṭetvā mahājaṭaŋ. Jaṭa* literally means he braid of a “matted hair ascetic” or a tangle of tree branches (a thicket), but figuratively refers to the great tangle of desire. The verb, *vjaṭeti*, means “untangle” but has the connotation, as does the English equivalent, of explaining or unraveling.
 
-[^29]: reading *rājāpaccā* (lit., “children of the king”) with BJTS for
-    PTS *rājāmaccā* (“royal ministers”)
+[^29]: reading *rājāpaccā* (lit., “children of the king”) with BJTS for PTS *rājāmaccā* (“royal ministers”)
 
-[^30]: *vīraṅgarūpā,* lit., “with the appearance/form and limbs/body of
-    a hero
+[^30]: *vīraṅgarūpā,* lit., “with the appearance/form and limbs/body of a hero
 
-[^31]: reading *sodhetvā aṭavībalaṃ* with BJTS for PTS *sodhetvā
-    avidhībalaŋ* (“cleaning up that army without a method”). BJTS
-    understands this as a \[rebel\] army which is hiding in the forest;
-    it could also be read to mean “army of forest people,” the so-called
-    “tribals” on the borderlands of India.
+[^31]: reading *sodhetvā aṭavībalaṃ* with BJTS for PTS *sodhetvā avidhībalaŋ* (“cleaning up that army without a method”). BJTS understands this as a \[rebel\] army which is hiding in the forest; it could also be read to mean “army of forest people,” the so-called “tribals” on the borderlands of India.
 
-[^32]: BJTS reads *vo* (pl) for PTS *te* (sing.), perhaps assuming a
-    “royal we”?
+[^32]: BJTS reads *vo* (pl) for PTS *te* (sing.), perhaps assuming a “royal we”?
 
 [^33]: *munivaraŋ*
 
@@ -338,38 +305,25 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^43]: reading *bhamanto* with BJTS for PTS *bhavanto* (“existing”)
 
-[^44]: the following story refers -- quite obliquely -- to the
-    *Mahānāradakassapajātaka* (No. 544), told in the context of Uruvela
-    Kassapa’s conversion. See DPPN II: 518-519. In the story, he is born
-    as Aṅgati, king of Mithilā in Videha.
+[^44]: the following story refers -- quite obliquely -- to the *Mahānāradakassapajātaka* (No. 544), told in the context of Uruvela Kassapa’s conversion. See DPPN II: 518-519. In the story, he is born as Aṅgati, king of Mithilā in Videha.
 
 [^45]: i.e., the naked ascetic
 
-[^46]: “Virtue.” In *Mahānāradakassapajātaka* he is depicted as
-    preaching that there is no future life, and advocating that one
-    therefore should indulge in only pleasures during the present one.
+[^46]: “Virtue.” In *Mahānāradakassapajātaka* he is depicted as preaching that there is no future life, and advocating that one therefore should indulge in only pleasures during the present one.
 
-[^47]: lit “gone into dependence on,” reading *ºgatāsayo* with BJTS for
-    PTS *hatāsayo*
+[^47]: lit “gone into dependence on,” reading *ºgatāsayo* with BJTS for PTS *hatāsayo*
 
-[^48]: In *Mahānāradakassapajātaka* he proceeds to spend two weeks in
-    the palace, indulging himself.
+[^48]: In *Mahānāradakassapajātaka* he proceeds to spend two weeks in the palace, indulging himself.
 
 [^49]: lit., “disregarding,” *nādayitvāna*
 
-[^50]: “Pain”. *Mahānāradakassapajātaka* explains that at the end of two
-    weeks she requested her father for 1000 (units of money) to make
-    offerings to monks, and to keep the fast. That text maintains that
-    in a future life she was born as Ānanda
+[^50]: “Pain”. *Mahānāradakassapajātaka* explains that at the end of two weeks she requested her father for 1000 (units of money) to make offerings to monks, and to keep the fast. That text maintains that in a future life she was born as Ānanda
 
 [^51]: the Bodhisatta
 
 [^52]: lit., “of the”
 
-[^53]: reading *dasakammapathāna* (gen.) with BJTS for PTS
-    *dasakammapathena* (acc.); these are three ways of acting in body,
-    four ways of acting in speech, and three ways of acting in mind,
-    totaling ten.
+[^53]: reading *dasakammapathāna* (gen.) with BJTS for PTS *dasakammapathena* (acc.); these are three ways of acting in body, four ways of acting in speech, and three ways of acting in mind, totaling ten.
 
 [^54]: reading *phītāyaṃ* with BJTS for PTS *pi tāyaŋ*
 
@@ -377,7 +331,6 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^56]: lit., “among the Jaṭilas*, “*matted-hair ascetics”
 
-[^57]: reading *uruvelakassapo iti* with BJTS for PTS *Uruvelāsu
-    Kassapo* (“Kassapa among the Uruvelans”)
+[^57]: reading *uruvelakassapo iti* with BJTS for PTS *Uruvelāsu Kassapo* (“Kassapa among the Uruvelans”)
 
 [^58]: the Nerañjarā River *(nadī*)

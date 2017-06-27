@@ -31,13 +31,10 @@ six special knowledges mastered,
 Thus indeed Venerable Bandhujīvaka Thera spoke these verses.  
 The legend of Bandhujīvaka Thera is finished.
 
-[^1]: the name of a flower, Sinhala *banduvada,* Latin *pentapetes
-    phoenicea*
+[^1]: the name of a flower, Sinhala *banduvada,* Latin *pentapetes phoenicea*
 
 [^2]: lit., “sticking”
 
-[^3]: Sinhala *banduvada,* Latin *pentapetes phoenicea.* Cf. \#162
-    below, where *kaṇavera* is also Sinhala *banduvada* (acc. to
-    Pali-Sinhala-Ingirisi Dictionary)
+[^3]: Sinhala *banduvada,* Latin *pentapetes phoenicea.* Cf. \#162 below, where *kaṇavera* is also Sinhala *banduvada* (acc. to Pali-Sinhala-Ingirisi Dictionary)
 
 [^4]: “Eyes on all Sides”.

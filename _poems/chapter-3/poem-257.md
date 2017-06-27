@@ -29,10 +29,7 @@ The legend of Mañjaripūjaka Thera is finished.
 
 [^1]: “Offerer of a Bunch”
 
-[^2]: *mañjari* is a bunch, cluster, stem with branches; the causative
-    *karitvā* suggests human agency in constructing it, which suggests
-    to me a grouping of flowers, i.e., a bouquet or perhaps a wreath or
-    other ornament.
+[^2]: *mañjari* is a bunch, cluster, stem with branches; the causative *karitvā* suggests human agency in constructing it, which suggests to me a grouping of flowers, i.e., a bouquet or perhaps a wreath or other ornament.
 
 [^3]: lit., “entered into”
 

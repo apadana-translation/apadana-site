@@ -63,22 +63,11 @@ six special knowledges mastered,
 Thus indeed Venerable Sīhāsanadāyaka Thera spoke these verses.  
 The legend of Sīhāsanadāyaka Thera is finished.
 
-[^1]: his name means “Donor of a Lion-throne,” the first of many monks
-    (and nuns) in the *Apadāna* who, otherwise unknown,
-    embody/represent/model specific pious actions rather than play a
-    role in the historical dispensation of Gotama Buddha; it’s possible
-    that they weren’t even real people, or in some cases, that they are
-    to be identified with historical monks and nuns who seemingly
-    otherwise are not represented in the collection (associations that
-    are made mostly in the commentary on *Theragāthā* and *Therīgāthā,*
-    partly tracked in DPPN and worthy of a more complete review)
+[^1]: his name means “Donor of a Lion-throne,” the first of many monks (and nuns) in the *Apadāna* who, otherwise unknown, embody/represent/model specific pious actions rather than play a role in the historical dispensation of Gotama Buddha; it’s possible that they weren’t even real people, or in some cases, that they are to be identified with historical monks and nuns who seemingly otherwise are not represented in the collection (associations that are made mostly in the commentary on *Theragāthā* and *Therīgāthā,* partly tracked in DPPN and worthy of a more complete review)
 
 [^2]: *pādapīṭha*
 
-[^3]: alternates including cty and BJTS read *satam* or *sata* (“one
-    hundred”) for *satta* (“seven”) in PTS; in that reading the total
-    number of virgins in that heavenly mansion would have been one
-    hundred thousand.
+[^3]: alternates including cty and BJTS read *satam* or *sata* (“one hundred”) for *satta* (“seven”) in PTS; in that reading the total number of virgins in that heavenly mansion would have been one hundred thousand.
 
 [^4]: *sivikā* = *siv geya* (dictionary), *doolā* (BJTS Sinhala gloss)
 

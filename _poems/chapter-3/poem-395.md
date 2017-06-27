@@ -162,20 +162,15 @@ six special knowledges mastered,
 Thus indeed Venerable Padumakūṭāgāriya Thera spoke these verses.  
 The legend of Padumakūṭāgāriya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Pink Lotus Gabled-Hut-er”
 
-[^3]: taking *samogayha* as grnd. of *samugaṇhāti*, should be
-    *samuggayha,* BJTS glosses *pavisi*, “he entered,” and I follow
-    suit, unclear how “seized” or “taken” would apply here.
+[^3]: taking *samogayha* as grnd. of *samugaṇhāti*, should be *samuggayha,* BJTS glosses *pavisi*, “he entered,” and I follow suit, unclear how “seized” or “taken” would apply here.
 
 [^4]: reading *vipine* with BJTS for PTS *iriṇe* (‘in the desert”)
 
-[^5]: reading *āhiṇḍāmi* with BJTS for PTS *ahiṇḍāmi*, “not wandering
-    about”
+[^5]: reading *āhiṇḍāmi* with BJTS for PTS *ahiṇḍāmi*, “not wandering about”
 
 [^6]: *pasadaŋ = pasataŋ* (RD *pasata* 1)
 
@@ -191,17 +186,9 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^12]: PTS and BJTS agree in presenting this as a six-footed verse
 
-[^13]: the figure should be eighteen hundred aeons, as Piyadassi is
-    stated below to have lived eighteen hundred aeons ago. I don’t know
-    how to make sense of this prediction of a future of twenty-four
-    hundred aeons for the protagonist, since the point of the poem is
-    that eighteen hundred aeons after Piyadassi he became an arahant (in
-    the dispensation of Gotama Buddha). But the Pāli is clear, so I
-    leave the discrepancy to stand. The protagonist does after all admit
-    that the kalpas he’s lived are “innumerable by counting.”
+[^13]: the figure should be eighteen hundred aeons, as Piyadassi is stated below to have lived eighteen hundred aeons ago. I don’t know how to make sense of this prediction of a future of twenty-four hundred aeons for the protagonist, since the point of the poem is that eighteen hundred aeons after Piyadassi he became an arahant (in the dispensation of Gotama Buddha). But the Pāli is clear, so I leave the discrepancy to stand. The protagonist does after all admit that the kalpas he’s lived are “innumerable by counting.”
 
-[^14]: *vokiṇṇaŋ,* lit., “strewn about.” I follow BJTS Sinhala gloss
-    (*oba moba*) in this translation
+[^14]: *vokiṇṇaŋ,* lit., “strewn about.” I follow BJTS Sinhala gloss (*oba moba*) in this translation
 
 [^15]: *vyamham*
 
@@ -209,17 +196,11 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^17]: *vivaṭṭetvā, “*causing to be turn away,” “destroying”
 
-[^18]: *pañcanivāraṇe.* five obstacles to arahantship. RD: “kāmacchanda,
-    abhijjhā-vyāpāda, thīnamiddha, uddhacca-kukkucca, vicikicchā,” i.e.,
-    attraction to sense pleasures, acting badly due to covetousness,
-    sloth and torpor, flurry and worry, doubt.
+[^18]: *pañcanivāraṇe.* five obstacles to arahantship. RD: “kāmacchanda, abhijjhā-vyāpāda, thīnamiddha, uddhacca-kukkucca, vicikicchā,” i.e., attraction to sense pleasures, acting badly due to covetousness, sloth and torpor, flurry and worry, doubt.
 
 [^19]: lit., “thought,” “mind,” *cittaŋ janetvā*
 
-[^20]: PTS connects the first two feet of this verse with the previous
-    one, which it (unlike BJTS) presents as six-footed, BJTS makes these
-    the first two feet of the present, six-footed verse. I follow BJTS
-    here.
+[^20]: PTS connects the first two feet of this verse with the previous one, which it (unlike BJTS) presents as six-footed, BJTS makes these the first two feet of the present, six-footed verse. I follow BJTS here.
 
 [^21]: *nipakassa satīmato*
 
@@ -239,11 +220,7 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^29]: *rittikā te atikkantā*
 
-[^30]: reading *pamuttā* with BJTS (and PTS alt.) for PTS *pavuttā.* The
-    sense of the verse -- which I admit to finding cryptic -- seems to
-    be, as BJTS gloss gives it, that this vast expanse of time was empty
-    in the absence of Buddhas, who in achieving nirvana let go of (were
-    not present in) the world.
+[^30]: reading *pamuttā* with BJTS (and PTS alt.) for PTS *pavuttā.* The sense of the verse -- which I admit to finding cryptic -- seems to be, as BJTS gloss gives it, that this vast expanse of time was empty in the absence of Buddhas, who in achieving nirvana let go of (were not present in) the world.
 
 [^31]: *tam ahaŋ payirūpāsitvā*
 
@@ -251,9 +228,7 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^33]: *addassāsiŋ,* BJTS reads *addasāsiṃ *
 
-[^34]: read “Gotama,” as below? Or read *Anomaŋ nāma* as “certainly
-    Supreme/Not Inferior” rather than “named Anoma”? The latter is
-    however the BJTS gloss, and I translate accordingly.
+[^34]: read “Gotama,” as below? Or read *Anomaŋ nāma* as “certainly Supreme/Not Inferior” rather than “named Anoma”? The latter is however the BJTS gloss, and I translate accordingly.
 
 [^35]: *dukkhass’ antakaro Buddho*
 

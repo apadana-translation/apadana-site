@@ -31,13 +31,10 @@ The legend of Naḷinakesariya Thera is finished.
 
 [^2]: *jalakukkuṭa* = water-fowl, a duck or something similar.
 
-[^3]: This follows the BJTS gloss, which follows the cty. lit., “living
-    in the center of a self-produced lake”
+[^3]: This follows the BJTS gloss, which follows the cty. lit., “living in the center of a self-produced lake”
 
 [^4]: lit., “going”
 
-[^5]: *kesariŋ* = flower pollen (or filaments, “hairs”). BJTS
-    understands this to be the pollen of a lotus blossom growing on the
-    lake.
+[^5]: *kesariŋ* = flower pollen (or filaments, “hairs”). BJTS understands this to be the pollen of a lotus blossom growing on the lake.
 
 [^6]: “Lotus Flower”

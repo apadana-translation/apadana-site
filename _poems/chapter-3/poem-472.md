@@ -110,9 +110,7 @@ six special knowledges mastered,
 Thus indeed Venerable Maṇipūjaka Thera spoke these verses.  
 The legend of Maṇipūjaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Gem-Offerer”
 
@@ -140,12 +138,9 @@ The legend of Maṇipūjaka Thera is finished.
 
 [^14]: hasulā = ?
 
-[^15]: RD gives “good hips,” referring to this text. I don’t see the
-    warrant, and take the term *susaññā* from *saññā*, sense,
-    perception, as does BJTS
+[^15]: RD gives “good hips,” referring to this text. I don’t see the warrant, and take the term *susaññā* from *saññā*, sense, perception, as does BJTS
 
-[^16]: reading *sukatā* with BJTS for *katākatā* (“man-made and
-    natural”)
+[^16]: reading *sukatā* with BJTS for *katākatā* (“man-made and natural”)
 
 [^17]: *vinīpātā*
 

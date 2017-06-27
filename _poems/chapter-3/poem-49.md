@@ -125,18 +125,13 @@ The legend of Subhadda Thera is finished.
 
 [^1]: lit., “as the Sambuddha reached nirvana”
 
-[^2]: the term implies some sort of blanket or canopy, though v. \[5\]
-    refers to it as a garland.
+[^2]: the term implies some sort of blanket or canopy, though v. \[5\] refers to it as a garland.
 
 [^3]: *tagara*, a particular type thereof.
 
-[^4]: Nirmāṇarati is another heaven wherein, as its name implies, one
-    delights in form.
+[^4]: Nirmāṇarati is another heaven wherein, as its name implies, one delights in form.
 
-[^5]: the Four Noble Truths: suffering, the cause of suffering, the
-    cessation of suffering, the path that leads to the cessation of
-    suffering, believed to have been delivered in his first sermon.
-    Subhadda’s question, however, was asked as the Buddha lay dying.
+[^5]: the Four Noble Truths: suffering, the cause of suffering, the cessation of suffering, the path that leads to the cessation of suffering, believed to have been delivered in his first sermon. Subhadda’s question, however, was asked as the Buddha lay dying.
 
 [^6]: lit., “the Supreme Buddha’s dispensation”
 
@@ -148,7 +143,6 @@ The legend of Subhadda Thera is finished.
 
 [^10]: lit., “made \[me\] to go forth”
 
-[^11]: *upasampadā*: higher ordination, usually accomplished a long time
-    after going forth (*pabbajja*)
+[^11]: *upasampadā*: higher ordination, usually accomplished a long time after going forth (*pabbajja*)
 
 [^12]: *parinibbāna*

@@ -31,15 +31,11 @@ The legend of Vinelapupphiya[^7] Thera is finished.
 
 [^2]: *patāpavā&lt;pratāpa-vant,* lit., “Possessor of Cosmic Heat”
 
-[^3]: reading *sikhīsabho* with BJTS; PTS gives *sikhīsito* = “White as
-    Fire” or “Fiery-Smiler”
+[^3]: reading *sikhīsabho* with BJTS; PTS gives *sikhīsito* = “White as Fire” or “Fiery-Smiler”
 
 [^4]: BJTS reads *minela.*
 
-[^5]: “Very Cloudy” or “Thick with Rain Clouds”. *Megha* and *ghana*
-    both mean “cloud” (as well as other meanings). BJTS reads the name
-    as *Sumedhayasa*, "Famous for Wisdom” (or “Famous for Good
-    Sacrifices,” *su* + *medha*)
+[^5]: “Very Cloudy” or “Thick with Rain Clouds”. *Megha* and *ghana* both mean “cloud” (as well as other meanings). BJTS reads the name as *Sumedhayasa*, "Famous for Wisdom” (or “Famous for Good Sacrifices,” *su* + *medha*)
 
 [^6]: BJTS (and PTS alternate) reads *Minela°*
 

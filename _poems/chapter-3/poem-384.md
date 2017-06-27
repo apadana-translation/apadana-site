@@ -27,14 +27,10 @@ six special knowledges mastered,
 Thus indeed Venerable Pilakkhaphaladāyaka Thera spoke these verses.  
 The legend of Pilakkhaphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Wave-leafed Fig Fruit Donor.”
 
 [^3]: *vanante*, in the forest or at the edge/border of the forest
 
-[^4]: *pilakkha,* the wave — leaved or wave-leafed fig tree, Ficus
-    infectoria; (Bot. Dict. gives Ficus Arnottiana (*Urti.*), Sinh.
-    *pulila*
+[^4]: *pilakkha,* the wave — leaved or wave-leafed fig tree, Ficus infectoria; (Bot. Dict. gives Ficus Arnottiana (*Urti.*), Sinh. *pulila*

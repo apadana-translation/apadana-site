@@ -43,16 +43,13 @@ six special knowledges mastered,
 Thus indeed Venerable Jagatidāyaka Thera spoke these verses.  
 The legend of Jagatidāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Spot of Earth Donor”
 
 [^3]: *jagati,* lit., “earth” “the ground”
 
-[^4]: i.e., at the base of his Bodhi tree, which was a *bimbijāla* tree,
-    .
+[^4]: i.e., at the base of his Bodhi tree, which was a *bimbijāla* tree, .
 
 [^5]: kṣatriyans*, khattiyo*
 

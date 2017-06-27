@@ -37,21 +37,10 @@ six special knowledges mastered,
 Thus indeed Venerable Āmaṇḍaphaladāyaka Thera spoke these verses.  
 The legend of Āmaṇḍaphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “*Āmaṇḍa-*Fruit Donor”
 
 [^3]: lit., “from *samādhi*”
 
-[^4]: *āmaṇḍaṃ,* which PSI defines as “a kind of plant, *Palma
-    Christi*,” Sinhala *eraṇḍu*. The latter (also *ēraṇḍu*, Pāli
-    *eraṇḍa) = datti,* croton, i.e., (see Cone, s.v.) the castor oil
-    plant (Ricinus communis, the seeds of which are used to make an
-    oil). BJTS gloss gives *kaekiri* on v. \[1187\], which is something
-    like a cucumber (genera Cucumis), which I suspect is wrong; here a
-    footnote on the SInh. gloss of v. \[5613\] questions *mas komaḍu?
-    eraṇḍu?* (“watermelon? castor oil plant?”). Whatever the identity of
-    the fruit, the point is that the protagonist gave the Buddha one of
-    the fruits he was carrying.
+[^4]: *āmaṇḍaṃ,* which PSI defines as “a kind of plant, *Palma Christi*,” Sinhala *eraṇḍu*. The latter (also *ēraṇḍu*, Pāli *eraṇḍa) = datti,* croton, i.e., (see Cone, s.v.) the castor oil plant (Ricinus communis, the seeds of which are used to make an oil). BJTS gloss gives *kaekiri* on v. \[1187\], which is something like a cucumber (genera Cucumis), which I suspect is wrong; here a footnote on the SInh. gloss of v. \[5613\] questions *mas komaḍu? eraṇḍu?* (“watermelon? castor oil plant?”). Whatever the identity of the fruit, the point is that the protagonist gave the Buddha one of the fruits he was carrying.

@@ -87,17 +87,12 @@ finished
 
 [^4]: *°putta°* lit., “son”
 
-[^5]: *accharā kāmavaṇṇinī*, lit., “having the desirable appearance
-    \[like\] celestia nymphs”
+[^5]: *accharā kāmavaṇṇinī*, lit., “having the desirable appearance \[like\] celestia nymphs”
 
 [^6]: lit., “offered *pūjā*”
 
-[^7]: reading *pabbajitvāna* with BJTS (and PTS alt.) for PTS *pabbajiŋ*
-    (“I went forth”)
+[^7]: reading *pabbajitvāna* with BJTS (and PTS alt.) for PTS *pabbajiŋ* (“I went forth”)
 
 [^8]: *aṭṭhamāse,* BJTS reads *addhamāse* (“half a month”)
 
-[^9]: PTS just gives *pe* here, suggesting that the concluding refrain
-    remains in the first person singular as elsewhere throughout the
-    collection. BJTS however supplies the full verses, including the
-    readings translated here, corrected for the plural subject.
+[^9]: PTS just gives *pe* here, suggesting that the concluding refrain remains in the first person singular as elsewhere throughout the collection. BJTS however supplies the full verses, including the readings translated here, corrected for the plural subject.

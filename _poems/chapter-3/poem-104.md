@@ -29,8 +29,7 @@ The legend of Padapūjaka Thera is finished.
 
 [^1]: “Foot-worshipper”.
 
-[^2]: reading *hāsenokīritāni* (BJTS) for *hasena-kāritān*i (“with
-    laughter caused to be built,” PTS).
+[^2]: reading *hāsenokīritāni* (BJTS) for *hasena-kāritān*i (“with laughter caused to be built,” PTS).
 
 [^3]: lit. "in the Supreme Buddha’s"
 

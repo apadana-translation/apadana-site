@@ -40,12 +40,9 @@ The legend of Tīṇikiṅkhanipupphiya[^7] Thera is finished.
 
 [^1]: BJTS reads *Tikiṅkaṇipupphiya*
 
-[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^3]: “Three *kiṅkhani* Flower-er.” BJTS reads *Tikiṅkaṇipupphiya.* Cf.
-    *\#498,* ascribed to a monk with the same name
+[^3]: “Three *kiṅkhani* Flower-er.” BJTS reads *Tikiṅkaṇipupphiya.* Cf. *\#498,* ascribed to a monk with the same name
 
 [^4]: BJTS reads *kiṅkaṇiº*
 

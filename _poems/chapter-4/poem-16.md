@@ -60,8 +60,7 @@ now there will be no more rebirth. (12)
 Thus indeed Bhikkhunī Sālamālikā[^7] spoke these verses.  
 The legend of Sālamālikā[^8] Therī is finished.
 
-[^1]: “*Sal*-Garland-er.” This follows BJTS. PTS reads Nalamālikā,
-    “Reed-Garland-er”.
+[^1]: “*Sal*-Garland-er.” This follows BJTS. PTS reads Nalamālikā, “Reed-Garland-er”.
 
 [^2]: *vedajāto*
 
@@ -71,9 +70,7 @@ The legend of Sālamālikā[^8] Therī is finished.
 
 [^5]: PTS reads *nala°*
 
-[^6]: as will be clear from the numbering, BJTS places this verse
-    before, rather than after, the standard refrain, and omits the final
-    verse (12) found in the PTS version.
+[^6]: as will be clear from the numbering, BJTS places this verse before, rather than after, the standard refrain, and omits the final verse (12) found in the PTS version.
 
 [^7]: PTS reads *Nala°.*
 

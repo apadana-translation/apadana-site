@@ -53,8 +53,7 @@ The legend of Ekāsaniya Thera is finished.
 
 [^3]: *turiyaŋ sabbaŋ*, musical instruments
 
-[^4]: the cty here explains these as the fires of *rāga* (lust), *dosa*
-    (anger) and *moha* (ignorance, folly)
+[^4]: the cty here explains these as the fires of *rāga* (lust), *dosa* (anger) and *moha* (ignorance, folly)
 
 [^5]: lit., "in the Supreme Buddha’s”
 

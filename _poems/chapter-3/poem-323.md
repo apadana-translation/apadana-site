@@ -24,8 +24,6 @@ The legend of Hāsajanaka Thera is finished.
 
 [^1]: “Laughter-Knower”
 
-[^2]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as
-    *duma + agge*. It would also be possible to take it as *du+ magge*,
-    “on a bad road”.
+[^2]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as *duma + agge*. It would also be possible to take it as *du+ magge*, “on a bad road”.
 
 [^3]: lit., “laughter was produced for me”

@@ -149,18 +149,13 @@ six special knowledges mastered,
 Thus indeed Venerable Kāḷudāyi Thera spoke these verses.  
 The legend of Kāḷudāyi Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: a historical monk, famous as foremost among the pleasers of clans,
-    and also for bringing the Buddha back to Kapilavastu after his
-    Awakening. See DPPN I: 589-590
+[^2]: a historical monk, famous as foremost among the pleasers of clans, and also for bringing the Buddha back to Kapilavastu after his Awakening. See DPPN I: 589-590
 
 [^3]: *nāyakānaŋ varo satthā*
 
-[^4]: or “virtue from ignomy”: reading *guṇāguṇavidū* with BJTS for PTS
-    *guṇāguṇe vidū*
+[^4]: or “virtue from ignomy”: reading *guṇāguṇavidū* with BJTS for PTS *guṇāguṇe vidū*
 
 [^5]: *kataññū*
 
@@ -174,17 +169,7 @@ The legend of Kāḷudāyi Thera is finished.
 
 [^10]: *anantaguṇasañcayo*
 
-[^11]: reading *anantajanasaṃsadī* with BJTS (taking it fr.
-    *saṃsandati,* “to flow together” “to associate with;” BJTS Sinh.
-    gloss *anantajanayā gen yut sabamäda,* “in the midst of an assembly
-    made fixed by getting of endless people;”) for PTS *anantajanataŋ
-    sarī* (“remembering an endless populace”). Other alts. include (PTS)
-    *anantajinasaŋsariŋ* (“I transmigrated with the endless Victor \[or
-    endless Victors\]”) and (BJTS) *anantajinasaṃsarī* (“he who
-    Transmigrates with Endless Victors” or “Who Transmigrates As the
-    Endless Victor”) and *anantajanasaṃsudhī* (“Purifier of Limitless
-    People”). The accepted BJTS reading could (should?) also be taken as
-    an epithet, “Assembled with Limitless Folks”
+[^11]: reading *anantajanasaṃsadī* with BJTS (taking it fr. *saṃsandati,* “to flow together” “to associate with;” BJTS Sinh. gloss *anantajanayā gen yut sabamäda,* “in the midst of an assembly made fixed by getting of endless people;”) for PTS *anantajanataŋ sarī* (“remembering an endless populace”). Other alts. include (PTS) *anantajinasaŋsariŋ* (“I transmigrated with the endless Victor \[or endless Victors\]”) and (BJTS) *anantajinasaṃsarī* (“he who Transmigrates with Endless Victors” or “Who Transmigrates As the Endless Victor”) and *anantajanasaṃsudhī* (“Purifier of Limitless People”). The accepted BJTS reading could (should?) also be taken as an epithet, “Assembled with Limitless Folks”
 
 [^12]: *dhammābhisamayo*
 
@@ -192,25 +177,17 @@ The legend of Kāḷudāyi Thera is finished.
 
 [^14]: *saŋvegajātesu,* lit., “had produced emotion” “were moved”
 
-[^15]: *kulappasādakāna*°. *Pasādakas* or “pleasers,” those who produce
-    emotion *(saṃvega*) and pleasure (*pasāda*) by preaching the
-    *Dhamma,* have long been taken (incorrectly, I believe) as “Buddhist
-    missionaries”
+[^15]: *kulappasādakāna*°. *Pasādakas* or “pleasers,” those who produce emotion *(saṃvega*) and pleasure (*pasāda*) by preaching the *Dhamma,* have long been taken (incorrectly, I believe) as “Buddhist missionaries”
 
 [^16]: *pāsādiko*
 
-[^17]: *haṃsârāmam* appears to be a proper name, though it could also be
-    taken as “the hermitage in \[my hometown\] Haṃsavatī”
+[^17]: *haṃsârāmam* appears to be a proper name, though it could also be taken as “the hermitage in \[my hometown\] Haṃsavatī”
 
 [^18]: *kāraŋ katvā,* lit., “having done a deed”
 
 [^19]: lit., “in a Best Buddha’s”
 
-[^20]: here PTS presents as two six-footed verses material that BJTS
-    presents as three four-footed ones. The PTS reading seems on the
-    mark here, as it contains the two speeches in single verses. Indeed,
-    BJTS Sinh. gloss has to take all three verses \[6197-6199\] as a
-    single unit in order to convey the grammar correctly.
+[^20]: here PTS presents as two six-footed verses material that BJTS presents as three four-footed ones. The PTS reading seems on the mark here, as it contains the two speeches in single verses. Indeed, BJTS Sinh. gloss has to take all three verses \[6197-6199\] as a single unit in order to convey the grammar correctly.
 
 [^21]: *siñcanto vāmatena maŋ*
 
@@ -218,24 +195,16 @@ The legend of Kāḷudāyi Thera is finished.
 
 [^23]: *sadevake,* lit., “in \[the world\] with \[its\] gods”
 
-[^24]: i.e., the Isipatana, an open space near Benares (Sārnāth) which
-    was the home of the Deer Park where he preached the first sermon,
-    the *Dhammacakkappavattanasutta*
+[^24]: i.e., the Isipatana, an open space near Benares (Sārnāth) which was the home of the Deer Park where he preached the first sermon, the *Dhammacakkappavattanasutta*
 
-[^25]: i.e., the five monks who had been his compatriots while
-    practicing austerities (“contortion”) for six years, to whom he
-    preached the first sermon, making them the first followers (and the
-    first arahants, after himself)
+[^25]: i.e., the five monks who had been his compatriots while practicing austerities (“contortion”) for six years, to whom he preached the first sermon, making them the first followers (and the first arahants, after himself)
 
-[^26]: this account is apparently the only classical reference to the
-    mountain (or hill, *giri*), see DPPN II:411 (where the spelling is
-    *Maṅgalagiri*, sic)
+[^26]: this account is apparently the only classical reference to the mountain (or hill, *giri*), see DPPN II:411 (where the spelling is *Maṅgalagiri*, sic)
 
 [^27]: i.r., “the king”
 
 [^28]: *dasabalaŋ*
 
-[^29]: lit., “to the \[place\] named Kapila,” i.e., to Kapilavastu, home
-    city of both the protagonist and of the Buddha
+[^29]: lit., “to the \[place\] named Kapila,” i.e., to Kapilavastu, home city of both the protagonist and of the Buddha
 
 [^30]: *pasādemi*

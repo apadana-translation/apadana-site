@@ -29,5 +29,4 @@ The legend of Raṃsisaññaka Thera is finished.
 
 [^1]: “Ray-Perceiver,” PTS reads Raŋsi°
 
-[^2]: reading *ajinuttaravāso* with BJTS for PTS *ajinuttamavattho*
-    (“dressed in ultimate deer-leather \[clothes\]”
+[^2]: reading *ajinuttaravāso* with BJTS for PTS *ajinuttamavattho* (“dressed in ultimate deer-leather \[clothes\]”

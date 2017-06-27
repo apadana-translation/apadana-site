@@ -72,15 +72,13 @@ Headed Up by Famous (Yasavatī) is finished
 
 [^3]: or “defilements” *sabbāsavā*
 
-[^4]: reading *ca no n’atthi* with BJTS for PTS *sabbāsavāmano n’atthi*
-    (“there is no mind with all outflows”)
+[^4]: reading *ca no n’atthi* with BJTS for PTS *sabbāsavāmano n’atthi* (“there is no mind with all outflows”)
 
 [^5]: or “wholesome”
 
 [^6]: *yaŋ kiñci sabbam patthitaŋ*
 
-[^7]: *sabbaŋ...paribhogaŋ;* BJTS reads *yaṃ kiñci sādhu patthitaṃ*
-    (“whatever excellently wished”)
+[^7]: *sabbaŋ...paribhogaŋ;* BJTS reads *yaṃ kiñci sādhu patthitaṃ* (“whatever excellently wished”)
 
 [^8]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
 
@@ -94,8 +92,7 @@ Headed Up by Famous (Yasavatī) is finished
 
 [^13]: *°sampadā*
 
-[^14]: reading BJTS (and, partly, PTS alt.) *mānusikam atikkantā* for
-    PTS *mānussikam anikkantā*
+[^14]: reading BJTS (and, partly, PTS alt.) *mānusikam atikkantā* for PTS *mānussikam anikkantā*
 
 [^15]: *jātiyā,* lit., “by birth,” the clear theme of this verse
 

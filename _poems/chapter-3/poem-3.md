@@ -122,8 +122,7 @@ six special knowledges mastered,
 Thus indeed Venerable Mahākassapa Thera spoke these verses.  
 The legend of Mahākassapa Thera is finished.
 
-[^1]: *parinibbute*, lit., “when he had fully gone out” “when he reached
-    nirvana”.
+[^1]: *parinibbute*, lit., “when he had fully gone out” “when he reached nirvana”.
 
 [^2]: *saṃvega.*
 
@@ -131,14 +130,11 @@ The legend of Mahākassapa Thera is finished.
 
 [^4]: lit., “reached nirvana”
 
-[^5]: the locatives allow for a double entendre, what is given, and/or:
-    ”we will make a heap of merit with respect to the Buddha, the
-    World-Chief.”
+[^5]: the locatives allow for a double entendre, what is given, and/or: ”we will make a heap of merit with respect to the Buddha, the World-Chief.”
 
 [^6]: lit., “one hundred and fifty hands high”
 
-[^7]: taking the PTS alternate reading *tattha* for *tesu*, which also
-    follows BJTS
+[^7]: taking the PTS alternate reading *tattha* for *tesu*, which also follows BJTS
 
 [^8]: *tidasaŋ,* i.e., the thirty-three gods, in Tāvatiṃsa heaven
 
@@ -148,13 +144,11 @@ The legend of Mahākassapa Thera is finished.
 
 [^11]: *indalaṭṭhi*
 
-[^12]: following the cty, which understands the numbers to refer to
-    *yojanas*
+[^12]: following the cty, which understands the numbers to refer to *yojanas*
 
 [^13]: lit “half of that,” i.e., 250
 
-[^14]: following BJTS in reading *sūcighare* and *sūci* for *sucighare*
-    and *suci* (PTS).
+[^14]: following BJTS in reading *sūcighare* and *sūci* for *sucighare* and *suci* (PTS).
 
 [^15]: following the cty in reading *āpaṇa* for *paṇṇu.*
 
@@ -162,5 +156,4 @@ The legend of Mahākassapa Thera is finished.
 
 [^17]: lit., “eighty *koṭis*”
 
-[^18]: following BJTS Sinhala gloss, which takes *’bhiraññassa* as
-    *ran.*
+[^18]: following BJTS Sinhala gloss, which takes *’bhiraññassa* as *ran.*

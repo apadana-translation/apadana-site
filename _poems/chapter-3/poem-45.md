@@ -34,8 +34,7 @@ The legend of Pañcahatthiya Thera is finished.
 
 [^1]: “Five Handfuls”
 
-[^2]: reading *okhitta-cakkhu* (BJTS, cty) for *khitta-cakkhu* (“thrown
-    eyes,” PTS).
+[^2]: reading *okhitta-cakkhu* (BJTS, cty) for *khitta-cakkhu* (“thrown eyes,” PTS).
 
 [^3]: reading *ahamsu* (BJTS) for *akāsi* (PTS)
 

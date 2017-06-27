@@ -67,9 +67,7 @@ six special knowledges mastered,
 Thus indeed Venerable Ekasaṅkhiya Thera spoke these verses.  
 The legend of Ekasaṅkhiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “One Conch-er”
 
@@ -87,8 +85,7 @@ The legend of Ekasaṅkhiya Thera is finished.
 
 [^9]: *jambusaṇḍa = jambudīpa =* India, the South Asian Subcontinent
 
-[^10]: *caturanto vijitāvi,* “possessed of conquest of the four
-    quarters,” a supreme imperial overlord
+[^10]: *caturanto vijitāvi,* “possessed of conquest of the four quarters,” a supreme imperial overlord
 
 [^11]: *aṅgasatā*
 

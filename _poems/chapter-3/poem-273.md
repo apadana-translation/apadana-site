@@ -24,5 +24,4 @@ The legend of Caṅgoṭakiya Thera is finished.
 
 [^1]: “Box-er”
 
-[^2]: *caṅgoṭakam*, “box,” glossed here as *goṭuwak,* a cup-shaped
-    container
+[^2]: *caṅgoṭakam*, “box,” glossed here as *goṭuwak,* a cup-shaped container

@@ -37,9 +37,7 @@ The Bhikkhadāyī Chapter, the Eleventh.
 
 [^1]: “Worship with Pollen-er”
 
-[^2]: flowers of the *nāga* (Sinh. *nā*) or ironwood tree are are
-    brilliant white and so fragrant that they are used in the making of
-    perfumes and cosmetics.
+[^2]: flowers of the *nāga* (Sinh. *nā*) or ironwood tree are are brilliant white and so fragrant that they are used in the making of perfumes and cosmetics.
 
 [^3]: lit., “a kṣatriyan”.
 

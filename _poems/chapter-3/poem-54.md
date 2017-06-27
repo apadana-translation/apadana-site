@@ -42,8 +42,7 @@ six special knowledges mastered,
 Thus indeed Venerable Gandhodakiya Thera spoke these verses.  
 The legend of Gandhodaka Thera is finished.
 
-[^1]: “Scented Water.” BJTS spells the name Gandhodakiya; both BJTS and
-    PTS give the latter spelling in the colophon
+[^1]: “Scented Water.” BJTS spells the name Gandhodakiya; both BJTS and PTS give the latter spelling in the colophon
 
 [^2]: lit., “a large sound”
 

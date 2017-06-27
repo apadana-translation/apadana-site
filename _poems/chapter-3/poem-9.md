@@ -86,21 +86,14 @@ The legend of Khadiravaniya Revata Thera is finished.
 
 [^2]: following BJTS and cty in reading *āruhi*
 
-[^3]: i.e., “he who crosses,” hearkening to his formative act of merit
-    as well as his former profession.
+[^3]: i.e., “he who crosses,” hearkening to his formative act of merit as well as his former profession.
 
 [^4]: lit., “kṣatriyan”.
 
-[^5]: the name of a tree. The *campaka* (Sinh. *sapu*) tree is *Magnolia
-    champaca,* formerly classified as *michelia champaca*. English names
-    for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid
-    Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the
-    seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly
-    fragrant cream to yellowish-colored blossoms.
+[^5]: the name of a tree. The *campaka* (Sinh. *sapu*) tree is *Magnolia champaca,* formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
 [^6]: lit, “from the Thirty \[three gods\]”.
 
 [^7]: *brahmabandhu*, i.e., a brahmin
 
-[^8]: *Sammāsambuddhasāsane,* lit., “in the dispensation of the Fully
-    Awakened One”.
+[^8]: *Sammāsambuddhasāsane,* lit., “in the dispensation of the Fully Awakened One”.

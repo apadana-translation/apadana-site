@@ -29,5 +29,4 @@ The legend of Sayanadāyaka Thera is finished.
 
 [^1]: “Bed-Donor”
 
-[^2]: “Great Excellent One”. PTS gives the name as Mahāvīra (“Great
-    Hero”); I follow BJTS.
+[^2]: “Great Excellent One”. PTS gives the name as Mahāvīra (“Great Hero”); I follow BJTS.

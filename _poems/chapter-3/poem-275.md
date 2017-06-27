@@ -39,5 +39,4 @@ The legend of Ekañjaliya Thera is finished.
 
 [^6]: lit., “named,” “by name”
 
-[^7]: only slightly variant form with the same meaning as the this-life
-    name, “One Salute”
+[^7]: only slightly variant form with the same meaning as the this-life name, “One Salute”

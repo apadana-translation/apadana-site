@@ -40,8 +40,6 @@ The legend of Saparivāriya Thera is finished.
 
 [^4]: lit., “spread out,” “expanded”.
 
-[^5]: reading *ahorattaṃ* (BJTS) for *thūpam rattaŋ* (“the stupa by
-    night,” PTS).
+[^5]: reading *ahorattaṃ* (BJTS) for *thūpam rattaŋ* (“the stupa by night,” PTS).
 
-[^6]: I follow BJTS and PTS alt in reading the name thus, which means
-    “Accomplished” or “Entire”. PTS reads Pamatta (“Negligent”).
+[^6]: I follow BJTS and PTS alt in reading the name thus, which means “Accomplished” or “Entire”. PTS reads Pamatta (“Negligent”).

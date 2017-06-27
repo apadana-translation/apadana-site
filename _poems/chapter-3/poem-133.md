@@ -49,12 +49,9 @@ The legend of Candanapūjaka Thera is finished.
 
 [^1]: “Sandalwood-Worshipper”
 
-[^2]: reading BJTS for the correct spelling for *kiṇṇara* (PTS). The
-    *kinnara* (Sinh. *kandura*) has a human head and a horse’s body;
-    “centaur”.
+[^2]: reading BJTS for the correct spelling for *kiṇṇara* (PTS). The *kinnara* (Sinh. *kandura*) has a human head and a horse’s body; “centaur”.
 
-[^3]: v*asano* could also be translated, “lived in a dwelling” \[made of
-    flowers\].
+[^3]: v*asano* could also be translated, “lived in a dwelling” \[made of flowers\].
 
 [^4]: lit., “entered”
 

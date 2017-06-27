@@ -80,46 +80,27 @@ six special knowledges mastered,
 Thus indeed Venerable Taraṇiya Thera spoke these verses.  
 The legend of Taraṇiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Ferryman”. Cf. \#204, \#270, \#280 for parallel *apadāna*s of
-    monks with this name.
+[^2]: “Ferryman”. Cf. \#204, \#270, \#280 for parallel *apadāna*s of monks with this name.
 
-[^3]: PTS reads *Cinatā.* BJTS reads *Vinakaº*, PTS alt. *Vinatā* is the
-    spelling preferred by DPPN (see II:883), and used without divergence
-    between PTS and BJTS in \#380 {383}, v. 1 = \[3292\]; cf. also \#511
-    {514} v. 1 = \[5473\], below.. Malalasekera says it was presumably
-    in the Himalayas.
+[^3]: PTS reads *Cinatā.* BJTS reads *Vinakaº*, PTS alt. *Vinatā* is the spelling preferred by DPPN (see II:883), and used without divergence between PTS and BJTS in \#380 {383}, v. 1 = \[3292\]; cf. also \#511 {514} v. 1 = \[5473\], below.. Malalasekera says it was presumably in the Himalayas.
 
 [^4]: *kacchapo vārigocaro *
 
-[^5]: *yato sarāmi attānaŋ,* lit., “starting from when I remember
-    myself”
+[^5]: *yato sarāmi attānaŋ,* lit., “starting from when I remember myself”
 
-[^6]: or “since I reached puberty,” *yato patto ‘smi viññuta,* lit.,
-    “starting from when I reached puberty;”
+[^6]: or “since I reached puberty,” *yato patto ‘smi viññuta,* lit., “starting from when I reached puberty;”
 
-[^7]: reading *phuṭṭhe pādatale yathā* with BJTS for PTS *yathā pādatale
-    muni*
+[^7]: reading *phuṭṭhe pādatale yathā* with BJTS for PTS *yathā pādatale muni*
 
 [^8]: *bhaddake*, or “lucky” “fortunate” etc
 
-[^9]: BJTS *pavacchante* (cf. *pavecchante,* the reading in \[5004\]
-    below, note *pavacchante* as PTS alt. there \[v, 5 of \#499,
-    Ekapattadāyaka\]; RD = “give, bestow,” PSI “\[rainwater\] falls
-    down”) for PTS *pavassante*, more straightforwardly “when raining”
+[^9]: BJTS *pavacchante* (cf. *pavecchante,* the reading in \[5004\] below, note *pavacchante* as PTS alt. there \[v, 5 of \#499, Ekapattadāyaka\]; RD = “give, bestow,” PSI “\[rainwater\] falls down”) for PTS *pavassante*, more straightforwardly “when raining”
 
 [^10]: *sammādhāre* (loc. abs. construction)
 
-[^11]: here PTS also reads *pavecchante,* which may exploit the more
-    literal meaning of that term (acc. to RD), give, bestow; “when
-    proper support is provided”. However, in the parallel verses below
-    (5-6 of \#499, Ekapattadāyaka*,* PTS reads *pavassante*). “Raining”
-    is a frequent metaphor for *Dhamma*-preaching, and it would be
-    possible to construe the second *pāda* that way, “when it rains the
-    preaching of the Sammāsambuddha, with proper support...”
+[^11]: here PTS also reads *pavecchante,* which may exploit the more literal meaning of that term (acc. to RD), give, bestow; “when proper support is provided”. However, in the parallel verses below (5-6 of \#499, Ekapattadāyaka*,* PTS reads *pavassante*). “Raining” is a frequent metaphor for *Dhamma*-preaching, and it would be possible to construe the second *pāda* that way, “when it rains the preaching of the Sammāsambuddha, with proper support...”
 
 [^12]: *upasanto*
 

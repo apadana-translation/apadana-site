@@ -44,7 +44,4 @@ The legend of Vatthadāyaka Thera is finished.
 
 [^1]: “Cloth-Donor”
 
-[^2]: BJTS (and some PTS alt) reads suvaṇṇo (“with good color” or
-    “golden”) for supaṇṇo (PTS, lit., “good leaves”) but the cty agrees
-    with PTS and glosses *supaṇṇo* as *supatto* (“good wings”), so I
-    translate accordingly.
+[^2]: BJTS (and some PTS alt) reads suvaṇṇo (“with good color” or “golden”) for supaṇṇo (PTS, lit., “good leaves”) but the cty agrees with PTS and glosses *supaṇṇo* as *supatto* (“good wings”), so I translate accordingly.

@@ -327,59 +327,35 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^6]: *iddhiŋ*
 
-[^7]: *cakkavālaŋ samaŋ* (BJTS *cakkavāḷasamaṃ*) *kāyaŋ,* lit., “body
-    the same as the ring surrounding the universe”
+[^7]: *cakkavālaŋ samaŋ* (BJTS *cakkavāḷasamaṃ*) *kāyaŋ,* lit., “body the same as the ring surrounding the universe”
 
-[^8]: or “island” (*dīpa*). This verse presumes knowledge of the ancient
-    Indian understanding of India (here *jambudīpaŋ* \[BJTS *°dīpo*\],
-    “the Island of Rose-Apples”) as one of the four great islands or
-    continents making up the whole world. It lies to the south, with the
-    other three being north, east and west of India.
+[^8]: or “island” (*dīpa*). This verse presumes knowledge of the ancient Indian understanding of India (here *jambudīpaŋ* \[BJTS *°dīpo*\], “the Island of Rose-Apples”) as one of the four great islands or continents making up the whole world. It lies to the south, with the other three being north, east and west of India.
 
-[^9]: lit., “in the ring surrounding the universe” (*cakkavālagiri°;*
-    BJTS *cakkavāḷagiri°*)
+[^9]: lit., “in the ring surrounding the universe” (*cakkavālagiri°;* BJTS *cakkavāḷagiri°*)
 
 [^10]: *jamburukkha°,* lit., “a rose-apple tree”
 
 [^11]: *°vaṇṇaŋ...dassayuŋ*
 
-[^12]: *yasovaṇṇā,* lit., “we have the the appearance of Yaso” “we are
-    the color (or have the appearance) of fame”
+[^12]: *yasovaṇṇā,* lit., “we have the the appearance of Yaso” “we are the color (or have the appearance) of fame”
 
-[^13]: here as elsewhere, reading the voc. *mahāmunue* with BJTS (and
-    PTS alt.) for PTS *mahāmuni*
+[^13]: here as elsewhere, reading the voc. *mahāmunue* with BJTS (and PTS alt.) for PTS *mahāmuni*
 
-[^14]: reading *buddhānaṃ* with BJTS (or PTS alt. *Buddhāna*) for PTS
-    *pubbānaŋ* (former); but cf. below \[1133\] where BJTS and PTS both
-    give *pubbānaṃ* in a repetition of this verse (and several around
-    it)
+[^14]: reading *buddhānaṃ* with BJTS (or PTS alt. *Buddhāna*) for PTS *pubbānaŋ* (former); but cf. below \[1133\] where BJTS and PTS both give *pubbānaṃ* in a repetition of this verse (and several around it)
 
-[^15]: reading *vārayitvā anācaraṃ* with BJTS for PTS *pācayantī
-    anāvaraŋ* (“burning/tormenting ?)
+[^15]: reading *vārayitvā anācaraṃ* with BJTS for PTS *pācayantī anāvaraŋ* (“burning/tormenting ?)
 
-[^16]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity
-    into which an arahant will not/cannot fall, D.iii.133 (and cf.
-    D.iii.235 where only the first five appear as a set). This is
-    *Pāsādika Sutta,* \#29 of *Dīghanikāya,* section 26. The nine are:
-    (1) cannot deliberately take the life of a living being (2) cannot
-    steal (3) cannot have sexual intercourse (4) cannot deliberately lie
-    (5) cannot hoard anything for his own indulgence (6) cannot act
-    wrongly through attachments (7) cannot act wrongly through hatred
-    (8) cannot act wrongly through folly (9) cannot act wrongly through
-    fear
+[^16]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta,* \#29 of *Dīghanikāya,* section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
 
-[^17]: reading *sañcattaṃ* with BJTS (and PTS alt.) for PTS *samattaŋ*
-    (“fulfilled” “completed”)
+[^17]: reading *sañcattaṃ* with BJTS (and PTS alt.) for PTS *samattaŋ* (“fulfilled” “completed”)
 
-[^18]: reading *°bhaṇḍe na gūhāma* with BJTS for PTS *bhaṇḍena gūhāmi*
-    (“I conceal with a thing”)
+[^18]: reading *°bhaṇḍe na gūhāma* with BJTS for PTS *bhaṇḍena gūhāmi* (“I conceal with a thing”)
 
 [^19]: lit., “gone to”
 
 [^20]: lit., “see,” fig. “know”
 
-[^21]: reading *anubhuttaṃ* with BJTS for PTS *pariccattaŋ* (“are
-    sacrificed”)
+[^21]: reading *anubhuttaṃ* with BJTS for PTS *pariccattaŋ* (“are sacrificed”)
 
 [^22]: *saṃsāre,* or “wheel of life”
 
@@ -393,11 +369,9 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^27]: lit., “Sambuddha,” paralleling the usage in the previous verse
 
-[^28]: reading *gavesato buddhadhamme* with BJTS for PTS *gavesantā
-    buddhadhammaŋ* (“We, searching for the Buddha’s Teaching)
+[^28]: reading *gavesato buddhadhamme* with BJTS for PTS *gavesantā buddhadhammaŋ* (“We, searching for the Buddha’s Teaching)
 
-[^29]: reading *thaludajāni* with BJTS for PTS *phaludakajāti* (“born in
-    fruit-juice”)
+[^29]: reading *thaludajāni* with BJTS for PTS *phaludakajāti* (“born in fruit-juice”)
 
 [^30]: lit., “the Great Hero prophesied”
 
@@ -407,30 +381,24 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^33]: lit., “there is no agitation \[to my mind\]”
 
-[^34]: reading *pabbajitvāna* with BJTS (and PTS alt.) for PTS
-    *pabbajiŋ* (“I went forth”)
+[^34]: reading *pabbajitvāna* with BJTS (and PTS alt.) for PTS *pabbajiŋ* (“I went forth”)
 
 [^35]: *aṭṭhamāse,* BJTS reads *addhamāse* (“half a month”)
 
 [^36]: reading *bahu ‘neke* with BJTS for PTS *buhun eke*
 
-[^37]: reading *sahāyasampadā honti* with BJTS for PTS *pabhāyasampadā
-    bhonti* (“becoming attained with light” ?)
+[^37]: reading *sahāyasampadā honti* with BJTS for PTS *pabhāyasampadā bhonti* (“becoming attained with light” ?)
 
-[^38]: reading *nibbānapadam asaṅkhataṃ* with BJTS for PTS
-    *nibbān’-amat’-asaṅkhataŋ* (“unconditioned, deathless nirvana”)
+[^38]: reading *nibbānapadam asaṅkhataṃ* with BJTS for PTS *nibbān’-amat’-asaṅkhataŋ* (“unconditioned, deathless nirvana”)
 
 [^39]: reading *sabbaṃ* with BJTS for PTS *saccaŋ* (“the truth of”)
 
-[^40]: reading *vandāma* with BJTS for PTS *vandāmi* (as in v. \[1028\],
-    above)
+[^40]: reading *vandāma* with BJTS for PTS *vandāmi* (as in v. \[1028\], above)
 
-[^41]: reading *vajantīnaṃ* with BJTS for PYS *vadantīnaŋ* (“who are
-    saying”)
+[^41]: reading *vajantīnaṃ* with BJTS for PYS *vadantīnaŋ* (“who are saying”)
 
 [^42]: *santasaṅkhatadoso* (BJTS *°dosaṃ*)
 
 [^43]: reading the correct spelling with BJTS for PTS *Sākulā*
 
-[^44]: reading *dasasahassabhikkhunī aṭṭhārasasahassakā* with BJTS for
-    PTS *dasaṭṭhārasasahassā* (“the ten-eighteen thousand”)
+[^44]: reading *dasasahassabhikkhunī aṭṭhārasasahassakā* with BJTS for PTS *dasaṭṭhārasasahassā* (“the ten-eighteen thousand”)

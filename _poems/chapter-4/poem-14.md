@@ -126,42 +126,20 @@ The legend of Ekāsanadāyikā Therī is finished.
 
 [^2]: lit., “in the midday sun”
 
-[^3]: lit., “woolen rugs with long fleece \[and\] woolen rugs with
-    ebroidered designs”.
+[^3]: lit., “woolen rugs with long fleece \[and\] woolen rugs with ebroidered designs”.
 
 [^4]: lit., “the midday sun is fixed \[in the sky\]”
 
 [^5]: lit., “this is a suitable time for coming to that \[seat\]”
 
-[^6]: lit., “according to the \[size of the\] cavity”. Or perhaps we
-    should read, “as much as \[I had\] cooked,” from *randheti*?
+[^6]: lit., “according to the \[size of the\] cavity”. Or perhaps we should read, “as much as \[I had\] cooked,” from *randheti*?
 
-[^7]: lit., “and \[coverlets of\] fur \[or wool\] sticking up on one
-    end” (*uddhaŋ-ekanta-lomī ca*).
+[^7]: lit., “and \[coverlets of\] fur \[or wool\] sticking up on one end” (*uddhaŋ-ekanta-lomī ca*).
 
 [^8]: or families or clans (*kule*).
 
-[^9]: PTS reads *celāvikā* (fr. *cela,* “cloth”? Diaper-washers? The
-    tradition itself is unsure, with equally obscure alternates in PTS
-    \[velāyikā, veccheyikā\] and BJTS \[*velāpikā, velāyikā*; BJTS
-    reads, equally obscurely and perhaps without mss. basis,
-    *kheḷasikā\]).* The texts are in more agreement about the first part
-    of the compound (sometimes as a separate adjective,) *khujjā*,
-    “having a humped back,” though PTS records an alternate for that too
-    (*bujjā*, an easy orthographical mistake*)*. Mrs. Lily De Silva
-    pointed out to me (personal communication) that in ancient India
-    deformed people were often employed as servants, and the hump-backed
-    servant woman has obvious parallels in Sanskrit literature (e.g.,
-    Mantharā \[Kūnī\], the hump-backed servant-woman of Queen Kaikeyī
-    who convinces the latter to have Rāma banished, in the Hindu epic
-    *Rāmāyana*).
+[^9]: PTS reads *celāvikā* (fr. *cela,* “cloth”? Diaper-washers? The tradition itself is unsure, with equally obscure alternates in PTS \[velāyikā, veccheyikā\] and BJTS \[*velāpikā, velāyikā*; BJTS reads, equally obscurely and perhaps without mss. basis, *kheḷasikā\]).* The texts are in more agreement about the first part of the compound (sometimes as a separate adjective,) *khujjā*, “having a humped back,” though PTS records an alternate for that too (*bujjā*, an easy orthographical mistake*)*. Mrs. Lily De Silva pointed out to me (personal communication) that in ancient India deformed people were often employed as servants, and the hump-backed servant woman has obvious parallels in Sanskrit literature (e.g., Mantharā \[Kūnī\], the hump-backed servant-woman of Queen Kaikeyī who convinces the latter to have Rāma banished, in the Hindu epic *Rāmāyana*).
 
-[^10]: the same phrase, *rajjaṃ chaḍetvā,* appears above, in
-    *Therī-apadāna* v. \[133\], too. It literally means “having
-    broken/cut off the kingdom/kingship/rulership/rule.” The meaning is
-    that a ruling monarch somehow abandons his (or in this case her) own
-    kingship/queenship to take on the religious life. Here we might
-    translate, “Even today, having abdicated queenship, I have gone
-    forth...”
+[^10]: the same phrase, *rajjaṃ chaḍetvā,* appears above, in *Therī-apadāna* v. \[133\], too. It literally means “having broken/cut off the kingdom/kingship/rulership/rule.” The meaning is that a ruling monarch somehow abandons his (or in this case her) own kingship/queenship to take on the religious life. Here we might translate, “Even today, having abdicated queenship, I have gone forth...”
 
 [^11]: BJTS omits *āyasmā.*

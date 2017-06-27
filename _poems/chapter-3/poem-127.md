@@ -49,5 +49,4 @@ The legend of Phaladāyaka Thera is finished.
 
 [^1]: “Fruit Donor”
 
-[^2]: the reference may be to the seed-pod of a lotus flower (Sinhala
-    *nelum-baṭa*), which contains tasty nut-like seeds.
+[^2]: the reference may be to the seed-pod of a lotus flower (Sinhala *nelum-baṭa*), which contains tasty nut-like seeds.

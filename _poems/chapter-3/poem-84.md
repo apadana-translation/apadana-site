@@ -44,7 +44,6 @@ The legend of Adhopupphiya Thera is finished.
 
 [^1]: “Below-Flower-er”
 
-[^2]: lit., “when there was looking forward by the hero \[alt. wise
-    one\],” i.e., “when he saw me”.
+[^2]: lit., “when there was looking forward by the hero \[alt. wise one\],” i.e., “when he saw me”.
 
 [^3]: lit., “I entered into the mountain.”

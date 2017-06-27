@@ -35,11 +35,8 @@ six special knowledges mastered,
 Thus indeed Venerable Billaphaliya Thera spoke these verses.  
 The legend of Billaphaliya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “*Bel-*Fruit-er”
 
-[^3]: *bellaŋ, billā* = fruit of Aegle marmelos, Sinh. *beli geḍiya,*
-    bael, bel, Bengal quince; bilva or vilva tree, = *beluvā*
+[^3]: *bellaŋ, billā* = fruit of Aegle marmelos, Sinh. *beli geḍiya,* bael, bel, Bengal quince; bilva or vilva tree, = *beluvā*

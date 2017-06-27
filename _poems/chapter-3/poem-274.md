@@ -27,12 +27,9 @@ The legend of Abbhañjanadāyaka Thera is finished.
 
 [^1]: “Unguent-Donor”
 
-[^2]: *nippapañca,* lit., “One who Lacks the Delays,” i.e., the three
-    characteristics (craving, delusion, pride) which delay progress
-    toward nirvana.
+[^2]: *nippapañca,* lit., “One who Lacks the Delays,” i.e., the three characteristics (craving, delusion, pride) which delay progress toward nirvana.
 
-[^3]: *jyāyī* = practitioner of *jhanas* (levels of meditative
-    achievement).
+[^3]: *jyāyī* = practitioner of *jhanas* (levels of meditative achievement).
 
 [^4]: *sabbalokahitesino*
 

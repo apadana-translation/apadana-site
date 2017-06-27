@@ -89,9 +89,7 @@ The Legend of Bhaddiya Kaḷigodhāyaputta Thera is finished.
 
 [^1]: *sabbalokagganāyakaŋ*
 
-[^2]: reading *vatthaṃ senasanaṃ c’eva* with BJTS for PTS *satthukañca
-    ‘baddhakañca* (“things for the teacher, unrestricted gifts,“ PTS).
-    *Senāsana* literally means “bed-and-chair” (or “bed and eating”)
+[^2]: reading *vatthaṃ senasanaṃ c’eva* with BJTS for PTS *satthukañca ‘baddhakañca* (“things for the teacher, unrestricted gifts,“ PTS). *Senāsana* literally means “bed-and-chair” (or “bed and eating”)
 
 [^3]: or “king of kings”
 

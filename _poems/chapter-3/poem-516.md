@@ -47,21 +47,15 @@ six special knowledges mastered,
 Thus indeed Venerable Ajjunapupphiya Thera spoke these verses.  
 The legend of Ajjunapupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Arjuna Flower-er”
 
-[^3]: reading BJTS for the correct spelling for *kiṇṇara* (PTS). The
-    *kinnara* (Sinh. *kandura*) has a human head and a horse’s body;
-    “centaur”.
+[^3]: reading BJTS for the correct spelling for *kiṇṇara* (PTS). The *kinnara* (Sinh. *kandura*) has a human head and a horse’s body; “centaur”.
 
 [^4]: *vedajāto*
 
-[^5]: *ajjuna* (a.k.a. *kakudha,* Sinhala *kumbuk gasa, kubuk,*
-    Terminalia arjuna) is an impressively large, shade-giving tree that
-    thrives on the edges of tanks and lakes.
+[^5]: *ajjuna* (a.k.a. *kakudha,* Sinhala *kumbuk gasa, kubuk,* Terminalia arjuna) is an impressively large, shade-giving tree that thrives on the edges of tanks and lakes.
 
 [^6]: lit., “did *pūjā*”
 

@@ -35,7 +35,6 @@ The legend of Sūcidāyaka Thera is finished.
 
 [^2]: lit., “having the thirty-two excellent marks”
 
-[^3]: note that verses (4) and (5) are inverted in comparison with the
-    BJTS reading
+[^3]: note that verses (4) and (5) are inverted in comparison with the BJTS reading
 
 [^4]: “Lord of Bipeds”

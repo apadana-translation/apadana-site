@@ -25,11 +25,7 @@ six special knowledges mastered,
 Thus indeed Venerable Vaṭaŋsakiya Thera spoke these verses.  
 The legend of Vaṭaŋsakiya Thera is finished.
 
-[^1]: “Chaplet (or Wreath for the Head) \[Donor\].” BJTS gives
-    *sovaṇṇavaṭaŋsakiya,* “Golden Chaplet \[Donor\],” a reading
-    confirmed in the Summary which names this *apadāna “Soṇṇa”.* Cf.
-    \#149, above; the BJTS reading allows for the two monks to be
-    distinguished from each other. In this regard cf. also \#228, below.
+[^1]: “Chaplet (or Wreath for the Head) \[Donor\].” BJTS gives *sovaṇṇavaṭaŋsakiya,* “Golden Chaplet \[Donor\],” a reading confirmed in the Summary which names this *apadāna “Soṇṇa”.* Cf. \#149, above; the BJTS reading allows for the two monks to be distinguished from each other. In this regard cf. also \#228, below.
 
 [^2]: lit., “to a garden-ground”
 

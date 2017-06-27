@@ -32,12 +32,8 @@ six special knowledges mastered,
 Thus indeed Venerable Valliphaladāyaka Thera spoke these verses.  
 The legend of Valliphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Creeper-Fruit Donor.”
 
-[^3]: *Valli* is a generic term for any “creeper” or “vine” (Sinh. *väl,
-    liya*), so the donation was some sort of fruit (or vegetable, e.g.,
-    *baṭu karavila*) that grows on a creeping vine.
+[^3]: *Valli* is a generic term for any “creeper” or “vine” (Sinh. *väl, liya*), so the donation was some sort of fruit (or vegetable, e.g., *baṭu karavila*) that grows on a creeping vine.

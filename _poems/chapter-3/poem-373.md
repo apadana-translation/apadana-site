@@ -47,28 +47,16 @@ six special knowledges mastered,
 Thus indeed Venerable Tīṇuppalamāliya Thera spoke these verses.  
 The legend of Tīṇuppalamāliya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Three Blue Lotus Flower-er.” BJTS reads *Tiuppalaº.* Cf.
-    \#339{342}.
+[^2]: “Three Blue Lotus Flower-er.” BJTS reads *Tiuppalaº.* Cf. \#339{342}.
 
-[^3]: *vānara.* This is the elegant grey langur (Sinh. *vandurā*) as
-    opposed to the cruder rhesus monkey (Sinh. *rilavā*)
+[^3]: *vānara.* This is the elegant grey langur (Sinh. *vandurā*) as opposed to the cruder rhesus monkey (Sinh. *rilavā*)
 
-[^4]: *lakkhaṇavyañjanûpetaŋ,* i.e., the thirty-two primary marks and
-    eighty lesser or minor marks that adorn the body of a great man
-    (*mahāpurusa*) who is destined to be either a wheel-turning monarch
-    or a Buddha.
+[^4]: *lakkhaṇavyañjanûpetaŋ,* i.e., the thirty-two primary marks and eighty lesser or minor marks that adorn the body of a great man (*mahāpurusa*) who is destined to be either a wheel-turning monarch or a Buddha.
 
 [^5]: lit., “after doing *pūjā* with”
 
-[^6]: taking *paṭikuṭiko* (BJTS reads *patiº*) as fr. *paṭikuṭati* “to
-    crouch,” “to bend over” (as does apparently BJTS, glossing the term
-    *häkiḷī = vakuṭu vu*). This may mean that he went off still bowing
-    in reverence, or else that he went off on all fours.
+[^6]: taking *paṭikuṭiko* (BJTS reads *patiº*) as fr. *paṭikuṭati* “to crouch,” “to bend over” (as does apparently BJTS, glossing the term *häkiḷī = vakuṭu vu*). This may mean that he went off still bowing in reverence, or else that he went off on all fours.
 
-[^7]: here as above, the recurrent verse has not been modified to
-    reflect that the protagonist discards a simian rather than human
-    body as he moves to heaven.
+[^7]: here as above, the recurrent verse has not been modified to reflect that the protagonist discards a simian rather than human body as he moves to heaven.

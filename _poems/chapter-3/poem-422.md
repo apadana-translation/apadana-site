@@ -107,36 +107,24 @@ six special knowledges mastered,
 Thus indeed Venerable Ekadussadāyaka Thera spoke these verses.  
 The legend of Ekadussadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “One-Cloth-Donor” This same *apadāna* appears as \#{334}, above
-    (BJTS only), presumably (as I speculate in the notes there) in order
-    to fill a gap in the mss. tradition.
+[^2]: “One-Cloth-Donor” This same *apadāna* appears as \#{334}, above (BJTS only), presumably (as I speculate in the notes there) in order to fill a gap in the mss. tradition.
 
-[^3]: lit., “master of all things (*dhamma*)” (or “Master of All
-    Teachings”)
+[^3]: lit., “master of all things (*dhamma*)” (or “Master of All Teachings”)
 
-[^4]: *niraya-samphassa,* lit., “contact with hell” “touching of hell”
-    “experience of hell”
+[^4]: *niraya-samphassa,* lit., “contact with hell” “touching of hell” “experience of hell”
 
-[^5]: amending *kappasatahassāni* to *kappasatasahassāni*, which keeps
-    the meter.
+[^5]: amending *kappasatahassāni* to *kappasatasahassāni*, which keeps the meter.
 
 [^6]: *jalajuttamanāmaka*
 
 [^7]: BJTS (and PTS alt.) reads *dhīro* (“the wise one”)
 
-[^8]: lit., “footstep after footstep,” or more literally still, “on
-    footstep on footstep,” reduplicated to suggest the whole series.
-    This interpretation follows the BJTS Sinhala gloss.
+[^8]: lit., “footstep after footstep,” or more literally still, “on footstep on footstep,” reduplicated to suggest the whole series. This interpretation follows the BJTS Sinhala gloss.
 
 [^9]: lit., “having been”
 
-[^10]: the repetition of the second foot as the fourth foot does not
-    seem to be intentional, as it carries no poetic force and cries out
-    for an indicative verb. I suspect it is a mistake, but an early one
-    as it seems to be in all the manuscript traditions.
+[^10]: the repetition of the second foot as the fourth foot does not seem to be intentional, as it carries no poetic force and cries out for an indicative verb. I suspect it is a mistake, but an early one as it seems to be in all the manuscript traditions.
 
 [^11]: lit., “not going up into destruction anywhere”

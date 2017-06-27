@@ -101,34 +101,15 @@ six special knowledges mastered,
 Thus indeed Venerable Kaṅkha-Revata Thera spoke these verses.  
 The legend of Kaṅkha-Revata Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Troubled Revata,” a historical monk so-named due to his
-    scrupulosity about the Vinaya rules prior to attaining his
-    arahantship. He was known as the foremost among those who are
-    proficient in the trance-like meditative states called *jhanas*. See
-    DPPN I: 474-475
+[^2]: “Troubled Revata,” a historical monk so-named due to his scrupulosity about the Vinaya rules prior to attaining his arahantship. He was known as the foremost among those who are proficient in the trance-like meditative states called *jhanas*. See DPPN I: 474-475
 
-[^3]: *sīhahanu.* BJTS Sinh. gloss on this curious epithet is
-    *siṃhayakugē haṇu banda piruṇu haṇu ättē ya* (“he has a full jaw
-    like the jaw of a lion”)
+[^3]: *sīhahanu.* BJTS Sinh. gloss on this curious epithet is *siṃhayakugē haṇu banda piruṇu haṇu ättē ya* (“he has a full jaw like the jaw of a lion”)
 
 [^4]: *brahmagiro*
 
-[^5]: the final component of this compound varies considerably in the
-    texts; all the alternatives seem to indicate “sound” or “noise,”
-    paralleling other forms of this adjective (e.g., \[5624\], \[5734\])
-    . PTS reads *haŋsadundrabhinisvano,* which is garbled*;* BJTS reads
-    *haṃsadundubhibissaro*. I follow BJTS and BJTS Sinh. gloss *haḍḍa.*
-    Presumably the meaning is that his voice was loud or resonated well.
-    BJTS takes the first two components of the compound, *haṃsa* +
-    *dundubhi*, as the name of a particular type of drum, “Swan-drum”
-    (*hasbera*), though I find no indication of such an instrument in
-    the dictionaries and so find more likely the translation here, that
-    the Buddha’s sound was resounding like that of a swan or a drum --
-    loud but pleasant.
+[^5]: the final component of this compound varies considerably in the texts; all the alternatives seem to indicate “sound” or “noise,” paralleling other forms of this adjective (e.g., \[5624\], \[5734\]) . PTS reads *haŋsadundrabhinisvano,* which is garbled*;* BJTS reads *haṃsadundubhibissaro*. I follow BJTS and BJTS Sinh. gloss *haḍḍa.* Presumably the meaning is that his voice was loud or resonated well. BJTS takes the first two components of the compound, *haṃsa* + *dundubhi*, as the name of a particular type of drum, “Swan-drum” (*hasbera*), though I find no indication of such an instrument in the dictionaries and so find more likely the translation here, that the Buddha’s sound was resounding like that of a swan or a drum -- loud but pleasant.
 
 [^6]: *nāgavikkantagamano*
 
@@ -138,15 +119,13 @@ The legend of Kaṅkha-Revata Thera is finished.
 
 [^9]: *mahākāruṇiko*
 
-[^10]: *mahātamanisūdano* (BJTS reads, more coherently,
-    *mahātamapanūdano*)
+[^10]: *mahātamanisūdano* (BJTS reads, more coherently, *mahātamapanūdano*)
 
 [^11]: *tilokaggo*
 
 [^12]: *sattâsayavidū*
 
-[^13]: *veneyyavinayaŋ bahuŋ*; BJTS tries to clean up the grammar with
-    *vineyye vinayaṃ bahuṃ*
+[^13]: *veneyyavinayaŋ bahuŋ*; BJTS tries to clean up the grammar with *vineyye vinayaṃ bahuṃ*
 
 [^14]: *toseti,* lit., “is delighting”
 
@@ -154,23 +133,16 @@ The legend of Kaṅkha-Revata Thera is finished.
 
 [^16]: *tadā pasanno,* lit., “then being pleased”
 
-[^17]: *kappākappe*, or “permitted...prohibited” or “the rule...not the
-    rule” or “suitable...not suitable”
+[^17]: *kappākappe*, or “permitted...prohibited” or “the rule...not the rule” or “suitable...not suitable”
 
 [^18]: *vinayī,* both “removed” and “instructed”
 
-[^19]: *idha vā huraŋ vā*, cf. RD, s.v. and his references to re-use of
-    the phrase in poetry: S.i.12; DH 20; Sn 224 = J. i.96.
+[^19]: *idha vā huraŋ vā*, cf. RD, s.v. and his references to re-use of the phrase in poetry: S.i.12; DH 20; Sn 224 = J. i.96.
 
 [^20]: or “wandering in celibacy”: *brahmacariyan carantā*
 
-[^21]: pronounce all six syllables when chanting, or else read “\[most\]
-    energetically,” to keep the meter.
+[^21]: pronounce all six syllables when chanting, or else read “\[most\] energetically,” to keep the meter.
 
-[^22]: This verse is in a more complex 11-12-11-12 meter named xxx
-    (reading *ye jhāyino tā* with BJTS for PTS *jhāyino tā* in the third
-    foot, thereby preserving both meter and grammar.
+[^22]: This verse is in a more complex 11-12-11-12 meter named xxx (reading *ye jhāyino tā* with BJTS for PTS *jhāyino tā* in the third foot, thereby preserving both meter and grammar.
 
-[^23]: *lokantagū,* lit., “who has gone to the ends of the world”
-    (understood by BJTS to refer to *bhavotpattiya*, the process of
-    rebirth or re-existence itself)
+[^23]: *lokantagū,* lit., “who has gone to the ends of the world” (understood by BJTS to refer to *bhavotpattiya*, the process of rebirth or re-existence itself)

@@ -51,10 +51,8 @@ The legend of Pupphachadanīya Thera is finished.
 
 [^5]: lit., “as far as the city \[went\]”
 
-[^6]: lit., “for an entire week they did not depart.” *Vigacchatha* =
-    3rd person plural *attanopada* aorist fr. \*gam
+[^6]: lit., “for an entire week they did not depart.” *Vigacchatha* = 3rd person plural *attanopada* aorist fr. \*gam
 
 [^7]: lit., “kṣatriyans”.
 
-[^8]: “Same as Part of the Sky.” BJTS read *ambaraṃsa sanāma te,* “they
-    were named Ambaraṃsa” (Sky-Part”).
+[^8]: “Same as Part of the Sky.” BJTS read *ambaraṃsa sanāma te,* “they were named Ambaraṃsa” (Sky-Part”).

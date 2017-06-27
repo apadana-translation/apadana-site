@@ -29,10 +29,4 @@ The legend of Biḷālidāyaka Thera is finished.
 
 [^1]: “Tuberous-Root-Donor”. Cty glosses *biḷāli* as *āḷavaṃ,* “potato”
 
-[^2]: I am unclear about the meaning of this name. Cf. *roma*, body
-    hair, *romaka,* feathered?, or *romantheti*, chews the cud. The
-    mountain is named elsewhere (\#517) and the name is used also of a
-    previous Paccekabuddha (\#279, \#347, \#433 {436}, below), and a
-    rebirth-precursor of other arahants, too (\#226, above; \#299,
-    below; in DPPN the name is *only* witnessed in *Apadāna* (plus one
-    instance in ThagA i.399)
+[^2]: I am unclear about the meaning of this name. Cf. *roma*, body hair, *romaka,* feathered?, or *romantheti*, chews the cud. The mountain is named elsewhere (\#517) and the name is used also of a previous Paccekabuddha (\#279, \#347, \#433 {436}, below), and a rebirth-precursor of other arahants, too (\#226, above; \#299, below; in DPPN the name is *only* witnessed in *Apadāna* (plus one instance in ThagA i.399)

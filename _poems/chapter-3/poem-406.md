@@ -112,22 +112,13 @@ six special knowledges mastered,
 Thus indeed Venerable Nanda Thera spoke these verses.  
 The legend of Nanda Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Joy”. BJTS reads *Nandaka*
 
-[^3]: PTS reads *pasadamigaŋ gavesanto;* BJTS reads *pasadaṃ migam
-    esanto.* The two readings have virtually the same meaning; unlike
-    the PTS reading, however, the BJTS reading keeps the meter
+[^3]: PTS reads *pasadamigaŋ gavesanto;* BJTS reads *pasadaṃ migam esanto.* The two readings have virtually the same meaning; unlike the PTS reading, however, the BJTS reading keeps the meter
 
-[^4]: PTS and BJTS agree on this reading, even though it breaks meter;
-    following the text, this first foot contains nine syllable. One
-    would prefer “the Buddha named Anuruddha” (*anuruddho nāma buddho,*
-    eight syllables) to keep the meter, but as many of the other Buddhas
-    have three-syllable names, the pattern is “*X nāma Sambuddho”* and
-    here the manuscripts (and the authors?) have followed suit.
+[^4]: PTS and BJTS agree on this reading, even though it breaks meter; following the text, this first foot contains nine syllable. One would prefer “the Buddha named Anuruddha” (*anuruddho nāma buddho,* eight syllables) to keep the meter, but as many of the other Buddhas have three-syllable names, the pattern is “*X nāma Sambuddho”* and here the manuscripts (and the authors?) have followed suit.
 
 [^5]: reading *so dhīro* with BJTS for PTS *so vīro,* “the Hero”
 
@@ -135,34 +126,25 @@ The legend of Nanda Thera is finished.
 
 [^7]: *padumapupphehi,* lit., “with pink lotus flowers”
 
-[^8]: *vyādhi me udapajjatha* (BJTS reads *upapajjatha*), lit “illness
-    came into existence for me”
+[^8]: *vyādhi me udapajjatha* (BJTS reads *upapajjatha*), lit “illness came into existence for me”
 
-[^9]: BJTS reads *sovaṇṇamayaṃ* for PTS *sovaṇṇayaŋ*, thereby breaking
-    meter.
+[^9]: BJTS reads *sovaṇṇamayaṃ* for PTS *sovaṇṇayaŋ*, thereby breaking meter.
 
-[^10]: BJTS reads *niyamāna* for PTS *niyyamāna,* to the same end
-    (“\[the one\] taking that carriage and going”)
+[^10]: BJTS reads *niyamāna* for PTS *niyyamāna,* to the same end (“\[the one\] taking that carriage and going”)
 
 [^11]: *devabhūtassa me sato,* lit., “when I am being born as a god”
 
-[^12]: reading *tuvaṭṭāmi* with BJTS (and PTS alt.) for PTS
-    *tuvaṭṭhāmi*. The term means to share with, cuddle, snuggle up; BJTS
-    provides the less evocative gloss “I sleep” (*nidimi*)
+[^12]: reading *tuvaṭṭāmi* with BJTS (and PTS alt.) for PTS *tuvaṭṭhāmi*. The term means to share with, cuddle, snuggle up; BJTS provides the less evocative gloss “I sleep” (*nidimi*)
 
-[^13]: *apāyā,* “hells,” reckoned as four: hell proper (*niraya*) and
-    rebirth as an animal, a ghost (*peta*), or a titan (*asura). *
+[^13]: *apāyā,* “hells,” reckoned as four: hell proper (*niraya*) and rebirth as an animal, a ghost (*peta*), or a titan (*asura). *
 
-[^14]: *mahīsaññam adhiṭṭhāya,* lit., “having fixed \[my\] mind (or
-    concentrating) on perception of the earth”
+[^14]: *mahīsaññam adhiṭṭhāya,* lit., “having fixed \[my\] mind (or concentrating) on perception of the earth”
 
-[^15]: *loṇatoyaŋ,* lit., “the salt water”. This interpretation follows
-    BJTS
+[^15]: *loṇatoyaŋ,* lit., “the salt water”. This interpretation follows BJTS
 
 [^16]: lit., “going”
 
-[^17]: *dhammaddhajo dhammadāyādo,* lit., “\[I am\] one who possesses
-    the flag (or banner) of the Teaching, worthy heir of the Teaching”
+[^17]: *dhammaddhajo dhammadāyādo,* lit., “\[I am\] one who possesses the flag (or banner) of the Teaching, worthy heir of the Teaching”
 
 [^18]: *pāraṅgamaniyaŋ maggaŋ*
 

@@ -153,19 +153,15 @@ six special knowledges mastered,
 Thus indeed Venerable Tissa-metteyya Thera spoke these verses.  
 The legend of Tissa-metteyya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: BJTS reads *Tissa-metteyya.* He was a historical monk to whom the
-    *Tissa-metteyya-sutta* of SN was preached.
+[^2]: BJTS reads *Tissa-metteyya.* He was a historical monk to whom the *Tissa-metteyya-sutta* of SN was preached.
 
 [^3]: *paricare*
 
 [^4]: *hehi*, (future 3rd sing. of *bhavati*)
 
-[^5]: *manuja* (“Man”), BJTS reads *manuje* (also, presumably, a
-    vocative)
+[^5]: *manuja* (“Man”), BJTS reads *manuje* (also, presumably, a vocative)
 
 [^6]: reading *devate* with BJTS for PTS *deva te*
 
@@ -187,8 +183,7 @@ The legend of Tissa-metteyya Thera is finished.
 
 [^15]: *khāribhārañ*
 
-[^16]: *tindukaŋ phalaŋ* = *timbiri, diospyros embryopteris,* a.k.a.
-    Indian persimmon, wild mangosteen
+[^16]: *tindukaŋ phalaŋ* = *timbiri, diospyros embryopteris,* a.k.a. Indian persimmon, wild mangosteen
 
 [^17]: *puññakammena saŋyuttā,* lit., “with \[his\] meritorious karma”
 

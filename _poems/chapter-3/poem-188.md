@@ -27,8 +27,7 @@ six special knowledges mastered,
 Thus indeed Venerable Tikaṇṇipupphiya Thera spoke these verses.  
 The legend of Tikaṇṇipupphiya Thera is finished.
 
-[^1]: “Three-*kaṇṇi-*Flower-er.” BJTS glosses *kaṇṇi* flowers as “thin
-    grape flowers”.
+[^1]: “Three-*kaṇṇi-*Flower-er.” BJTS glosses *kaṇṇi* flowers as “thin grape flowers”.
 
 [^2]: *accharā* = *apsarā*
 

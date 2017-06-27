@@ -32,8 +32,7 @@ The Hatthi Chapter, the Twenty-Second
 
 [^1]: “Sin-Obstructer”
 
-[^2]: reading *naḷakehi* with BJTS (and PTS alternative reading) for PTS
-    *nalakehi* .
+[^2]: reading *naḷakehi* with BJTS (and PTS alternative reading) for PTS *nalakehi* .
 
 [^3]: *pāpaŋ*
 

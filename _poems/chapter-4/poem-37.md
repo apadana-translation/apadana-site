@@ -80,20 +80,13 @@ six special knowledges mastered,
 Thus indeed the bhikkhunī Aḍḍhakāsikā spoke these verses.  
 The legend of Aḍḍhakāsikā Therī[^17] is finished
 
-[^1]: “Half a Benares Thousand \[Whore\],” “She \[Whose Daytime Price\]
-    is Half a Benares Thousand,” as historical nun, remembered as the
-    precedent for the giving of ordination by messenger. See DPPN I:50.
-    Here the ordination is specifically called *upasampadā*, “higher
-    ordination”
+[^1]: “Half a Benares Thousand \[Whore\],” “She \[Whose Daytime Price\] is Half a Benares Thousand,” as historical nun, remembered as the precedent for the giving of ordination by messenger. See DPPN I:50. Here the ordination is specifically called *upasampadā*, “higher ordination”
 
 [^2]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
 
-[^3]: *patimokkhamhi,* lit “in \[read “through”?\] the fortnightly
-    recitation/227 rules
+[^3]: *patimokkhamhi,* lit “in \[read “through”?\] the fortnightly recitation/227 rules
 
-[^4]: reading *mataññutnī* (lit., “one who knows the limit”) *ca asane*
-    (“in eating”)*,* with BJTS for PTS *mataññū nīca-āsane* (”moderate
-    on a high seat” ?)
+[^4]: reading *mataññutnī* (lit., “one who knows the limit”) *ca asane* (“in eating”)*,* with BJTS for PTS *mataññū nīca-āsane* (”moderate on a high seat” ?)
 
 [^5]: reading *jāgariye pi* with BJTS for PTS *jāgariyesu*
 
@@ -109,12 +102,9 @@ The legend of Aḍḍhakāsikā Therī[^17] is finished
 
 [^11]: *tadā...°atthāya,* lit., “then...for the sake of”
 
-[^12]: PTS reads *tadā ‘pasampadatthāya,* with incorrect *sandhi*; BJTS
-    reads, correctly, *tatopasampadatthāya,* cf. PTS alt. (also correct)
-    *tad’ upa°*
+[^12]: PTS reads *tadā ‘pasampadatthāya,* with incorrect *sandhi*; BJTS reads, correctly, *tatopasampadatthāya,* cf. PTS alt. (also correct) *tad’ upa°*
 
-[^13]: reading *sutvā* with BJTS for PTS *disvā* (“seeing”). Neither
-    edition indicates variance in its reading of the verb.
+[^13]: reading *sutvā* with BJTS for PTS *disvā* (“seeing”). Neither edition indicates variance in its reading of the verb.
 
 [^14]: *ṭhite,* lit., “were standing on” “remained on”
 

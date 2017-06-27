@@ -23,11 +23,7 @@ six special knowledges mastered,
 Thus indeed Venerable Suvaṇṇabimbohaniya Thera spoke these verses.  
 The legend of Suvaṇṇabimbohaniya Thera is finished.
 
-[^1]: “Gold-Pillow-er”. The term (properly *bimbohana*) derives from the
-    shape of the fruit of the *Bimbijala* tree, Momordica monadelpha,
-    Bodhi tree of Dhammadassi Buddha. While PTS uses this spelling in
-    the colophon, and BJTS and PTS alternative use it here, PTS gives
-    *Suvaṇṇabibbohaniya,* presumably a typo.
+[^1]: “Gold-Pillow-er”. The term (properly *bimbohana*) derives from the shape of the fruit of the *Bimbijala* tree, Momordica monadelpha, Bodhi tree of Dhammadassi Buddha. While PTS uses this spelling in the colophon, and BJTS and PTS alternative use it here, PTS gives *Suvaṇṇabibbohaniya,* presumably a typo.
 
 [^2]: kṣatriyan
 

@@ -39,11 +39,9 @@ The legend of Sappidāyaka Thera is finished.
 
 [^2]: lit., “surrounded by a group of women”
 
-[^3]: following the BJTS gloss on *atināmes’ ahaŋ gharaŋ*, lit., “I
-    caused \[him\] to pass time \[in his own\] home.”
+[^3]: following the BJTS gloss on *atināmes’ ahaŋ gharaŋ*, lit., “I caused \[him\] to pass time \[in his own\] home.”
 
-[^4]: lit., “sense-faculties,” i.e., hearing, seeing, smelling,
-    touching, tasting and thinking
+[^4]: lit., “sense-faculties,” i.e., hearing, seeing, smelling, touching, tasting and thinking
 
 [^5]: BJTS (and PTS alt.) reads *dhīro* (“the wise one”)
 

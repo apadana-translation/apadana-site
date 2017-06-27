@@ -27,13 +27,8 @@ six special knowledges mastered,
 Thus indeed Venerable Phārusaphaladāyaka Thera spoke these verses.  
 The legend of Phārusaphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “*Phārusa* Fruit Donor.”
 
-[^3]: a fruit from which a drink is made, Sinh. *boraḷu-damunu.* BJTS
-    equates it with *ugurässa,* Flacourtia Ramontchi, sweet lovi lovi,
-    but RD says it is a bitter fruit. Bot. Dictionary says that
-    *boraḷu-damunu* is a species of Eugenia.
+[^3]: a fruit from which a drink is made, Sinh. *boraḷu-damunu.* BJTS equates it with *ugurässa,* Flacourtia Ramontchi, sweet lovi lovi, but RD says it is a bitter fruit. Bot. Dictionary says that *boraḷu-damunu* is a species of Eugenia.

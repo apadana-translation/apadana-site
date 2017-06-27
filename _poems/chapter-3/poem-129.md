@@ -32,12 +32,8 @@ six special knowledges mastered,
 Thus indeed Venerable Gandhapupphiya Thera spoke these verses.  
 The legend of Gandhapupphiya Thera is finished.
 
-[^1]: “Scented-Flower-er” or “Perfumed-Flower-er”. This is the BJTS and
-    cty reading of the name; PTS gives Gaṇṭhipupphiya,
-    “Knot/Joint-Flowers”.
+[^1]: “Scented-Flower-er” or “Perfumed-Flower-er”. This is the BJTS and cty reading of the name; PTS gives Gaṇṭhipupphiya, “Knot/Joint-Flowers”.
 
-[^2]: *purakkhato sāvakehi,* lit.,”Honored by \[His\] Followers” “Placed
-    in Front by \[His\] Followers”
+[^2]: *purakkhato sāvakehi,* lit.,”Honored by \[His\] Followers” “Placed in Front by \[His\] Followers”
 
-[^3]: according to RD, the name of a tree, Crataeva roxburghii, but he
-    also points to Skt. *varaṇa,* “Causeway” “Rampart” “Wall”
+[^3]: according to RD, the name of a tree, Crataeva roxburghii, but he also points to Skt. *varaṇa,* “Causeway” “Rampart” “Wall”

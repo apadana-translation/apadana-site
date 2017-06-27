@@ -23,19 +23,10 @@ The legend of Ekamandāriya Thera is finished.
 
 [^1]: BJTS reads *Mandāravaº,* the preferred Pāli spelling.
 
-[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^3]: “One *Mandāra* \[Flower\]-er.” *Mandārava* (skt. *mandāra*) is the
-    coral tree, Erhythrina fulgens (RD Erythmia Indica), also one of the
-    five celestial trees whose flowers fall from the world of the gods.
-    BJTS reads, probably more correctly, *Mandāravapupphiya.* In this
-    context the reference seems to be to the divine, rather than the
-    earthly *mandāra(va),* so I leave the term untranslated, rather than
-    give “One Coral Tree \[Flower\]-er”
+[^3]: “One *Mandāra* \[Flower\]-er.” *Mandārava* (skt. *mandāra*) is the coral tree, Erhythrina fulgens (RD Erythmia Indica), also one of the five celestial trees whose flowers fall from the world of the gods. BJTS reads, probably more correctly, *Mandāravapupphiya.* In this context the reference seems to be to the divine, rather than the earthly *mandāra(va),* so I leave the term untranslated, rather than give “One Coral Tree \[Flower\]-er”
 
-[^4]: “Auspicious,” “Festival,” “Lucky,” also the name of a previous
-    Buddha.
+[^4]: “Auspicious,” “Festival,” “Lucky,” also the name of a previous Buddha.
 
 [^5]: lit., “with (in) *samādhi*”

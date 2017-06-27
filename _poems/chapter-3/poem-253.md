@@ -22,14 +22,10 @@ six special knowledges mastered,
 Thus indeed Venerable Citapūjaka Thera spoke these verses.  
 The legend of Citapūjaka Thera is finished.
 
-[^1]: “Pyre-Worshipper”. BJTS reads *Citakapūjaka,* which gets the
-    proper word for pyre (*cita*) even though BJTS retains in v. 2
-    \[2508\] the form *citaṃ*
+[^1]: “Pyre-Worshipper”. BJTS reads *Citakapūjaka,* which gets the proper word for pyre (*cita*) even though BJTS retains in v. 2 \[2508\] the form *citaṃ*
 
 [^2]: “reached nirvana”
 
 [^3]: taking *citaŋ* as *citakaṃ*
 
-[^4]: lit., “I made attendance upon \[it\].” *Sakkāra* *=* hospitality,
-    attendance, service upon, i.e., cleaning it up, placing flowers
-    there, providing it with water and food offerings, etc.
+[^4]: lit., “I made attendance upon \[it\].” *Sakkāra* *=* hospitality, attendance, service upon, i.e., cleaning it up, placing flowers there, providing it with water and food offerings, etc.

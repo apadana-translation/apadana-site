@@ -34,15 +34,8 @@ The legend of Tiṇasantharadāyaka Thera is finished.
 
 [^1]: “Grass Mat Donor”
 
-[^2]: *padakkhiṇāvattā* (BJTS Sinhala gloss *dakṣiṇāvarta vä*) contains
-    a *double entendre* in Pāli (and Sinhala) which I have tried to
-    preserve in English: the (physical) turning to the right of the
-    leaves (itself auspicious, in the proper “circumambulation” to show
-    respect, “keeping the right” to the object of veneration) is
-    simultaneously a (metaphorical) turning toward what is right, good,
-    skillful (or even, “turning into religious gifts,” *dakkhiṇā*)
+[^2]: *padakkhiṇāvattā* (BJTS Sinhala gloss *dakṣiṇāvarta vä*) contains a *double entendre* in Pāli (and Sinhala) which I have tried to preserve in English: the (physical) turning to the right of the leaves (itself auspicious, in the proper “circumambulation” to show respect, “keeping the right” to the object of veneration) is simultaneously a (metaphorical) turning toward what is right, good, skillful (or even, “turning into religious gifts,” *dakkhiṇā*)
 
-[^3]: the palmyra (*tāla,* Sinh. *tal*) tree or fan palm is Borassus
-    flabelliformis
+[^3]: the palmyra (*tāla,* Sinh. *tal*) tree or fan palm is Borassus flabelliformis
 
 [^4]: “Great Wealth”

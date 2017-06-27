@@ -201,19 +201,15 @@ eleven hundred \[verses here\].
 The Ten Chapters[^38] called Paduma.  
 The Fourth Hundred[^39] is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Unconquered”
 
 [^3]: lit., “the Victor named Padumuttara”
 
-[^4]: lit., “master of all things (*dhamma*)” (or “Master of All
-    Teachings”)
+[^4]: lit., “master of all things (*dhamma*)” (or “Master of All Teachings”)
 
-[^5]: on the bodies of those destined to become a wheel-turning monarch
-    or a Buddha
+[^5]: on the bodies of those destined to become a wheel-turning monarch or a Buddha
 
 [^6]: *cittam āpajjiŋxi,* lit., “I produced the thought”
 
@@ -227,35 +223,19 @@ The Fourth Hundred[^39] is finished.
 
 [^11]: *paṇḍitānaŋ*
 
-[^12]: *gatiŋ me sodhayissati,* i.e., “it will clean up my karma;” “it
-    will get me a better rebirth”
+[^12]: *gatiŋ me sodhayissati,* i.e., “it will clean up my karma;” “it will get me a better rebirth”
 
 [^13]: *gahim*
 
-[^14]: reading *madhutelaṃ* (Sinhala gloss: *mītel*) with BJTS for PTS
-    *dumatelaŋ* (“tree oil”). The term could also be read as a compound,
-    “honey and oil;” the PTS reading could be sustained by taking
-    *mītel* as the tree oil of that name, which is produced from the
-    seeds of the *mī* tree, Bassia longifolia (*Sapot.*). Indeed,
-    *madhu* (“honey”) can also refer to this oil. However, buffalo ghee
-    would be a more likely oil for lamp-lighting than *mī* oil (which is
-    used primarily in the making of medicines), so I have followed the
-    BJTS reading here, leaving open these other possibilities.
+[^14]: reading *madhutelaṃ* (Sinhala gloss: *mītel*) with BJTS for PTS *dumatelaŋ* (“tree oil”). The term could also be read as a compound, “honey and oil;” the PTS reading could be sustained by taking *mītel* as the tree oil of that name, which is produced from the seeds of the *mī* tree, Bassia longifolia (*Sapot.*). Indeed, *madhu* (“honey”) can also refer to this oil. However, buffalo ghee would be a more likely oil for lamp-lighting than *mī* oil (which is used primarily in the making of medicines), so I have followed the BJTS reading here, leaving open these other possibilities.
 
-[^15]: reading *narāsabhaṃ* with BJTS for PTS (and BJTS alt.)
-    *vināyakaŋ* (“Guide”)
+[^15]: reading *narāsabhaṃ* with BJTS for PTS (and BJTS alt.) *vināyakaŋ* (“Guide”)
 
-[^16]: *tindaṇḍake*, lit., “three-sticked”. BJTS glosses *the term as
-    piriväjipuṭuwa*, “the stool (or chair) \[used by\] ascetics”
+[^16]: *tindaṇḍake*, lit., “three-sticked”. BJTS glosses *the term as piriväjipuṭuwa*, “the stool (or chair) \[used by\] ascetics”
 
-[^17]: *ratyā vivasāne,* read *ratyā vivasane,* “at the end of the
-    night,” a stock phrase.
+[^17]: *ratyā vivasāne,* read *ratyā vivasane,* “at the end of the night,” a stock phrase.
 
-[^18]: *sabbe vanā gandhamayā,* lit., “all the forests made of good
-    scents.” I am assuming that despite the Buddha’s magical power, the
-    trees themselves did not come to him, though that is the Pāli (and
-    BJTS glosses in Sinhala accordingly). Rather, I take the meaning to
-    be that the scents of those forests came to him.
+[^18]: *sabbe vanā gandhamayā,* lit., “all the forests made of good scents.” I am assuming that despite the Buddha’s magical power, the trees themselves did not come to him, though that is the Pāli (and BJTS glosses in Sinhala accordingly). Rather, I take the meaning to be that the scents of those forests came to him.
 
 [^19]: *anubhāvena,* BJTS notes that all the texts give *ānubhāvena*
 
@@ -269,9 +249,7 @@ The Fourth Hundred[^39] is finished.
 
 [^24]: PTS and BJTS agree in presenting this as a six-footed verse.
 
-[^25]: BJTS understands this as a measure of distance, *krōśa* = 500
-    bow-lengths, 80 bull-lengths, 8000 *riyan* (*Śri Sumaṅgala
-    Śabdakoṣaya,* s.v.)
+[^25]: BJTS understands this as a measure of distance, *krōśa* = 500 bow-lengths, 80 bull-lengths, 8000 *riyan* (*Śri Sumaṅgala Śabdakoṣaya,* s.v.)
 
 [^26]: *samantato,* “on all sides” “everywhere”
 
@@ -289,8 +267,7 @@ The Fourth Hundred[^39] is finished.
 
 [^33]: *vināyakaṃ*
 
-[^34]: *nirūpadhi,* i.e., “devoid of the ground for rebirth,” “free of
-    the *upadhis”*
+[^34]: *nirūpadhi,* i.e., “devoid of the ground for rebirth,” “free of the *upadhis”*
 
 [^35]: BJTS: Piḷindavaccha
 
@@ -300,6 +277,4 @@ The Fourth Hundred[^39] is finished.
 
 [^38]: *vaggadasakaŋ*
 
-[^39]: *Sataka* is a common structure in Sanskrit and Pāli poetry,
-    usually referring to one hundred verses, rather than (as here) one
-    hundred stories.
+[^39]: *Sataka* is a common structure in Sanskrit and Pāli poetry, usually referring to one hundred verses, rather than (as here) one hundred stories.

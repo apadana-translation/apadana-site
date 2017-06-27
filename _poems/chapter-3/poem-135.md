@@ -39,11 +39,9 @@ The legend of Rahosaññaka Thera is finished.
 
 [^1]: “Solitary-Place Perceiver”
 
-[^2]: reading *saṃhāritvāna* (BJTS) for *saṃsāvetvāna* (“Having kept
-    well,” PTS)
+[^2]: reading *saṃhāritvāna* (BJTS) for *saṃsāvetvāna* (“Having kept well,” PTS)
 
-[^3]: reading *buddhavedaṃ* (BJTS) for *buddhavesaŋ* (“the appearance of
-    the Buddha,” PTS).
+[^3]: reading *buddhavedaṃ* (BJTS) for *buddhavesaŋ* (“the appearance of the Buddha,” PTS).
 
 [^4]: reading *īdiṃ* (BJTS) for *nisīdi* (“he sat,” PTS)
 

@@ -41,12 +41,9 @@ The legend of Nāgapupphiya Thera is finished.
 
 [^2]: “Good Calf” or “Very Young One”
 
-[^3]: reading *dhūpeti jalate* (BJTS) for *dhūpo ‘tijalate* (“as though
-    incense were flaming up,” PTS).
+[^3]: reading *dhūpeti jalate* (BJTS) for *dhūpo ‘tijalate* (“as though incense were flaming up,” PTS).
 
-[^4]: reading *hāsaṃ mama viditvāna* (lit., “making a smile \[or
-    laughter\] known to me”) with BJTS for PTS *ve hāsaŋ mama disvāna*
-    (“surely having seen my smile \[or laughter\]” PTS).
+[^4]: reading *hāsaṃ mama viditvāna* (lit., “making a smile \[or laughter\] known to me”) with BJTS for PTS *ve hāsaŋ mama disvāna* (“surely having seen my smile \[or laughter\]” PTS).
 
 [^5]: lit., “on the road he took”.
 

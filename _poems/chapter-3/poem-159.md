@@ -27,8 +27,7 @@ six special knowledges mastered,
 Thus indeed Venerable Punnāgapupphiya Thera spoke these verses.  
 The legend of Punnāgapupphiya Thera is finished.
 
-[^1]: *Punnāga-*Flower-er,” *punnāga* being a type of flowering tree
-    (Sinhala *domba*), Alexandrian laurel.
+[^1]: *Punnāga-*Flower-er,” *punnāga* being a type of flowering tree (Sinhala *domba*), Alexandrian laurel.
 
 [^2]: *punnāga*
 

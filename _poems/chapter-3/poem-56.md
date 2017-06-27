@@ -43,6 +43,4 @@ The legend of Saparivārāsana Thera is finished.
 
 [^3]: lit., “there will be pleasure from the fruit”
 
-[^4]: lit., “in the 227 rules recited by monks on full moon days,”
-    reading *pātimokkhasmiṃ* (BJTS, cty, PTS alt.) for *pātimokkhasmi*
-    (PTS).
+[^4]: lit., “in the 227 rules recited by monks on full moon days,” reading *pātimokkhasmiṃ* (BJTS, cty, PTS alt.) for *pātimokkhasmi* (PTS).

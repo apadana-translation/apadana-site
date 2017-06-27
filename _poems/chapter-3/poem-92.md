@@ -32,8 +32,6 @@ six special knowledges mastered,
 Thus indeed Venerable Sucintita Thera spoke these verses.  
 The legend of Sucintita Thera is finished
 
-[^1]: “Well-Thought.” \#66 and \#425 {428} are also ascribed to
-    (apparently different) monks of this name.
+[^1]: “Well-Thought.” \#66 and \#425 {428} are also ascribed to (apparently different) monks of this name.
 
-[^2]: reading *suddhāpīṭham* (BJTS, PTS alt.) for *pubbe-pīṭham*
-    (“former \[or eastern\] chair,” PTS).
+[^2]: reading *suddhāpīṭham* (BJTS, PTS alt.) for *pubbe-pīṭham* (“former \[or eastern\] chair,” PTS).

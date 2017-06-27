@@ -32,21 +32,11 @@ six special knowledges mastered,
 Thus indeed Venerable Campakapupphiya Thera spoke these verses.  
 The legend of Campakapupphiya Thera is finished.
 
-[^1]: “Campaka-Flower-er”. The *campaka* (Sinh. *sapu*) tree is
-    *Magnolia champaca,* formerly classified as *michelia champaca*.
-    English names for the tree include Champak, Joy Perfume Tree, Yellow
-    Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi
-    tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It
-    has highly fragrant cream to yellowish-colored blossoms.
+[^1]: “Campaka-Flower-er”. The *campaka* (Sinh. *sapu*) tree is *Magnolia champaca,* formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
-[^2]: *osadhī*. RD (s.v.) points out that all we really know about this
-    star is that it was particularly bright, leading Childers to
-    translate it as “Venus” and others as the morning star.
+[^2]: *osadhī*. RD (s.v.) points out that all we really know about this star is that it was particularly bright, leading Childers to translate it as “Venus” and others as the morning star.
 
-[^3]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum
-    acerifolium, produces a brilliant mass of yellow flowers; Engl.
-    a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now
-    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
+[^3]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
 
 [^4]: presumably sacrificing, chanting mantras, and forth.
 

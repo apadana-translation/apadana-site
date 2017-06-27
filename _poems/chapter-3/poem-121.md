@@ -48,16 +48,13 @@ six special knowledges mastered,
 Thus indeed Venerable Sereyyaka Thera spoke these verses.  
 The legend of Sereyyaka Thera is finished.
 
-[^1]: “Jinti-Flower-er.” Sinhala *kaṭukaraṇḍu*. RD: “name of a tree
-    (Berleria cristata)”
+[^1]: “Jinti-Flower-er.” Sinhala *kaṭukaraṇḍu*. RD: “name of a tree (Berleria cristata)”
 
 [^2]: see \#1, v. 25 \[164\]. Or glossary? xxx
 
-[^3]: i.e., showing their rut in their eyes, ears, and genitals. See
-    cty, p. 288.
+[^3]: i.e., showing their rut in their eyes, ears, and genitals. See cty, p. 288.
 
-[^4]: cty says these are *jāti* or jasmine flowers (is *katukarandu* a
-    variety thereof?). *Saman piccha*?
+[^4]: cty says these are *jāti* or jasmine flowers (is *katukarandu* a variety thereof?). *Saman piccha*?
 
 [^5]: lit., “they scattered a floral covering on the Bull of Men”.
 

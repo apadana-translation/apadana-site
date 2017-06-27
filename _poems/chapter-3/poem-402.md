@@ -80,14 +80,9 @@ six special knowledges mastered,
 Thus indeed Venerable Puṇṇaka Thera spoke these verses.  
 The legend of Puṇṇaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Full One,” a historical monk, to whom the *Puṇṇovāda Sutta* (M.
-    iii. 267ff.;S. iv. 60 ff) was preached. Cty (p. 484) says he was the
-    leader of an army of yakkhas, but I do not see that detail in the
-    extant text.
+[^2]: “Full One,” a historical monk, to whom the *Puṇṇovāda Sutta* (M. iii. 267ff.;S. iv. 60 ff) was preached. Cty (p. 484) says he was the leader of an army of yakkhas, but I do not see that detail in the extant text.
 
 [^3]: *buddhe nibbāyamānamhi* (loc. abs. construction)
 
@@ -95,17 +90,11 @@ The legend of Puṇṇaka Thera is finished.
 
 [^5]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^6]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”)
-    *valassu,* Note BJTS omits the second mention of “wolves” so may be
-    taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in
-    specifying this particular type of bear (cf. Sorata, *kara baāna
-    valasā,* s.v.)
+[^6]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu,* Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā,* s.v.)
 
 [^7]: reading *vyagghā* with BJTS for PTS *vālā* (= *vāḷā*, snakes?)
 
-[^8]: *uppādaŋ taŋ...disvā,* lit., “after seeing that strange omen,” but
-    the plural is obviously implied as three strange omens have been
-    mentioned.
+[^8]: *uppādaŋ taŋ...disvā,* lit., “after seeing that strange omen,” but the plural is obviously implied as three strange omens have been mentioned.
 
 [^9]: lit., “went”
 

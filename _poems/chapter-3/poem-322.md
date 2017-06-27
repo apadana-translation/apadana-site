@@ -34,9 +34,7 @@ The legend of Pulinapūjaka Thera is finished.
 
 [^1]: “Sand-Giver,” cf. \#27 (where the name is spelled *Puḷinaº*)
 
-[^2]: *osadhī*. RD (s.v.) points out that all we really know about this
-    star is that it was particularly bright, leading Childers to
-    translate it as “Venus” and others as the morning star.
+[^2]: *osadhī*. RD (s.v.) points out that all we really know about this star is that it was particularly bright, leading Childers to translate it as “Venus” and others as the morning star.
 
 [^3]: *gayha*
 

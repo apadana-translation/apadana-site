@@ -199,21 +199,15 @@ six special knowledges mastered,
 Thus indeed Venerable Sīvali Thera spoke these verses.  
 The legend of Sīvali Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: a historical monk, famous (and still tapped for power today) as
-    foremost among the recipients of gifts. See DPPN II:1163-1164Small
-    images, pictures and *yantras* of Sīvali are common good-luck-charms
-    throughout the Theravāda Buddhist world
+[^2]: a historical monk, famous (and still tapped for power today) as foremost among the recipients of gifts. See DPPN II:1163-1164Small images, pictures and *yantras* of Sīvali are common good-luck-charms throughout the Theravāda Buddhist world
 
 [^3]: lit., “*samādhi* whose metaphor is lightening”
 
 [^4]: *°varaŋ,* lit., “excellent” “fine”
 
-[^5]: *anupamo,* lit., “which has no metaphor,” referencing back to the
-    second foot as does the third foot to the first.
+[^5]: *anupamo,* lit., “which has no metaphor,” referencing back to the second foot as does the third foot to the first.
 
 [^6]: *amarā*, or “the immortals”
 
@@ -225,21 +219,15 @@ The legend of Sīvali Thera is finished.
 
 [^10]: or “bent”: *vinataŋ*
 
-[^11]: reading *brāhmaṇo* with BJTS (and PTS alt.) for PTS *brāhmaṇā*
-    (“the Brahmins”)
+[^11]: reading *brāhmaṇo* with BJTS (and PTS alt.) for PTS *brāhmaṇā* (“the Brahmins”)
 
-[^12]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of
-    *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred
-    horse”
+[^12]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
 [^13]: reading *hi vo* with BJTS for PTS *vibho* (= “the Wise One” ?)
 
-[^14]: reading *dakkhiṇā tāya ko vattā* with BJTS for PTS *dakkhiṇādāya
-    kho-v-attaŋ,* (“the value of giving a gift indeed” ?)
+[^14]: reading *dakkhiṇā tāya ko vattā* with BJTS for PTS *dakkhiṇādāya kho-v-attaŋ,* (“the value of giving a gift indeed” ?)
 
-[^15]: “Good-Looking,” presumably the proper name of the monk who held
-    the foremost place among receivers of gifts during the era of
-    Padumuttara Buddha.
+[^15]: “Good-Looking,” presumably the proper name of the monk who held the foremost place among receivers of gifts during the era of Padumuttara Buddha.
 
 [^16]: *cārunayano,* or “lovely to the eyes” (?)
 
@@ -259,35 +247,23 @@ The legend of Sīvali Thera is finished.
 
 [^24]: lit., “see”
 
-[^25]: reading *tadāhaṃ taṃ gahetvāna* with BJTS (and PTS alt.) for PTS
-    *tadā bhattaŋ gahetvāna* (“then having taken cooked rice”)
+[^25]: reading *tadāhaṃ taṃ gahetvāna* with BJTS (and PTS alt.) for PTS *tadā bhattaŋ gahetvāna* (“then having taken cooked rice”)
 
 [^26]: *kammasāmigharaŋ*
 
-[^27]: reading *tamesantā mam’ addasuṃ* with BJTS for PTS *tamesantaŋ
-    tamaddasaŋ* (“searching for that I saw that”)
+[^27]: reading *tamesantā mam’ addasuṃ* with BJTS for PTS *tamesantaŋ tamaddasaŋ* (“searching for that I saw that”)
 
-[^28]: reading *taṃ dvayaṃ* with BJTS for PTS *sat’ anvayaŋ*
-    (“conforming with \[their\] mindfulness”). BJTS gloss understands
-    the intention to be, “did not obtain those two things from me,”
-    i.e., “I would not sell those two things”i
+[^28]: reading *taṃ dvayaṃ* with BJTS for PTS *sat’ anvayaŋ* (“conforming with \[their\] mindfulness”). BJTS gloss understands the intention to be, “did not obtain those two things from me,” i.e., “I would not sell those two things”i
 
 [^29]: reading *ruṭṭho* with BJTS for PTS *Buddho* (“the Buddha”)
 
-[^30]: BJTS reads *sapattino* (“\[kings\] with co-wives” ?) though it
-    recognizes *tapassino* (the PTS readings) as an alt.
+[^30]: BJTS reads *sapattino* (“\[kings\] with co-wives” ?) though it recognizes *tapassino* (the PTS readings) as an alt.
 
-[^31]: reading *sattāhaṃ* with BJTS for PTS *ekāhaŋ* (“one day”), cf. v.
-    30 below where like BJTS, PTS indicates “seven days” rather than
-    “one day”
+[^31]: reading *sattāhaṃ* with BJTS for PTS *ekāhaŋ* (“one day”), cf. v. 30 below where like BJTS, PTS indicates “seven days” rather than “one day”
 
-[^32]: reading *papatiṃ nirayaṃ bhusaṃ* with BJTS for PTS *pāpattaŋ
-    nirayan bhusaŋ* (“evilness hell vehemently ”)
+[^32]: reading *papatiṃ nirayaṃ bhusaṃ* with BJTS for PTS *pāpattaŋ nirayan bhusaŋ* (“evilness hell vehemently ”)
 
-[^33]: lit., “meritorious karma;” I follow BJTS Sinhala gloss (and the
-    context) in construing this foot with the previous verse, rather
-    than (and indeed in juxtaposition) with what follows in the present
-    one.
+[^33]: lit., “meritorious karma;” I follow BJTS Sinhala gloss (and the context) in construing this foot with the previous verse, rather than (and indeed in juxtaposition) with what follows in the present one.
 
 [^34]: “Good Sojourner”
 
@@ -295,15 +271,11 @@ The legend of Sīvali Thera is finished.
 
 [^36]: lit., “gone astray at the gate \[to the birth canal\]”
 
-[^37]: BJTS Sinh. gloss clarifies that she gave approval of the
-    gate-obstruction during the previous life; therefore reborn in the
-    present she suffered this obstruction in her “gate” (*dvāra*)
+[^37]: BJTS Sinh. gloss clarifies that she gave approval of the gate-obstruction during the previous life; therefore reborn in the present she suffered this obstruction in her “gate” (*dvāra*)
 
-[^38]: *mahiddhiko*, usually translated “greatly powerful,” i.e., a
-    possessor of the *iddhi* (“magical”) superpowers
+[^38]: *mahiddhiko*, usually translated “greatly powerful,” i.e., a possessor of the *iddhi* (“magical”) superpowers
 
-[^39]: i.e., the things allowed a Buddhist monk, usually summarized as
-    four: robes, alms-food, a dwelling-place, and medicines.
+[^39]: i.e., the things allowed a Buddhist monk, usually summarized as four: robes, alms-food, a dwelling-place, and medicines.
 
 [^40]: lit., “did *pūjā*”
 

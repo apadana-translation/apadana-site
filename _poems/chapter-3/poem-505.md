@@ -27,21 +27,9 @@ six special knowledges mastered,
 Thus indeed Venerable Pāraphaliya[^4] Thera spoke these verses.  
 The legend of Pāraphaliya[^5] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “*Pāra* Fruit-er”. BJTS reads *Vāraº*, both cite *Pādaº* as alt.,
-    but none of these is an identifiable fruit. BJTS Sinh. gloss just
-    gives the Pāli *as* Sinhala, *vāraphalayak* (“a fruit \[called\]
-    *vāra*). The lack of care/the disagreement about the name of the
-    fruit (and hence of the monk) suggests, as does the poem itself,
-    just a few strung-together repeating feet from the main text, that
-    this is a “filler”. Cf. in this regard on the note on the name of
-    the previous *apadāna*, \#501 {504}, that the present one is omitted
-    in at least one mss. with its name supplied to the content of the
-    previous one (which content is filled, in turn, with an *apadāna*
-    already presented twice in the main text above!)
+[^2]: “*Pāra* Fruit-er”. BJTS reads *Vāraº*, both cite *Pādaº* as alt., but none of these is an identifiable fruit. BJTS Sinh. gloss just gives the Pāli *as* Sinhala, *vāraphalayak* (“a fruit \[called\] *vāra*). The lack of care/the disagreement about the name of the fruit (and hence of the monk) suggests, as does the poem itself, just a few strung-together repeating feet from the main text, that this is a “filler”. Cf. in this regard on the note on the name of the previous *apadāna*, \#501 {504}, that the present one is omitted in at least one mss. with its name supplied to the content of the previous one (which content is filled, in turn, with an *apadāna* already presented twice in the main text above!)
 
 [^3]: BJTS reads “*vāra* fruit”
 

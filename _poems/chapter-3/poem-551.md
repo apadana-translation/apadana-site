@@ -143,48 +143,17 @@ six special knowledges mastered,
 Thus indeed Venerable Yasa Thera spoke these verses.  
 The legend of Yasa Thera, the first.
 
-[^1]: PTS ends with its \#547 (BJTS {550}), and contains only fifty-five
-    chapters. BJTS concludes with an additional nine *apadānas*,
-    numbered {551} - {559}, and comprising this fifty-sixth chapter.
+[^1]: PTS ends with its \#547 (BJTS {550}), and contains only fifty-five chapters. BJTS concludes with an additional nine *apadānas*, numbered {551} - {559}, and comprising this fifty-sixth chapter.
 
-[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^3]: “Famous,” a historical monk, who was truly famous for being among
-    the first sixty arahant monks with the Buddha at the first
-    *pavāraṇā* ceremony when the Buddha sent them wandering with his
-    so-called “Great Commission” (which I call “the Great Dismissal”).
-    On Yasa, see DPPN II: 685-687. This same *apadāna* appears above as
-    \#396 {399}, ascribed to a monk named “Sabbadāyaka*” (*in keeping
-    with v. \[6355\] = \[3852\]), verbatim except for a slight change in
-    the first verse of the three-verse concluding refrain,a minor
-    variation in the epithet “Sacrificial Recipient” at \[6347\] (cf.
-    \[3844\]), and consistency with BJTS rather than PTS readings in
-    \#396. This and the following eight *apadānas* are all ascribed to
-    historical monks seemingly not included in the earlier parts of the
-    text, who thereby are revealed to be in the earlier parts of the
-    text after all, named for their original pious deeds rather than by
-    their own names.
+[^3]: “Famous,” a historical monk, who was truly famous for being among the first sixty arahant monks with the Buddha at the first *pavāraṇā* ceremony when the Buddha sent them wandering with his so-called “Great Commission” (which I call “the Great Dismissal”). On Yasa, see DPPN II: 685-687. This same *apadāna* appears above as \#396 {399}, ascribed to a monk named “Sabbadāyaka*” (*in keeping with v. \[6355\] = \[3852\]), verbatim except for a slight change in the first verse of the three-verse concluding refrain,a minor variation in the epithet “Sacrificial Recipient” at \[6347\] (cf. \[3844\]), and consistency with BJTS rather than PTS readings in \#396. This and the following eight *apadānas* are all ascribed to historical monks seemingly not included in the earlier parts of the text, who thereby are revealed to be in the earlier parts of the text after all, named for their original pious deeds rather than by their own names.
 
-[^4]: *ogayha*, “submerged in” “plunged into.” BJTS normalizes this by
-    glossing “in the vicinity of the great ocean,” but I take it more
-    literally, and assume that the protagonist is a supernatural being
-    for whom this *is* normal.
+[^4]: *ogayha*, “submerged in” “plunged into.” BJTS normalizes this by glossing “in the vicinity of the great ocean,” but I take it more literally, and assume that the protagonist is a supernatural being for whom this *is* normal.
 
 [^5]: PTS *cakkavākā pakūjitā;* BJTS *cakkavākūpakūjitā*
 
-[^6]: RD says this is a water-plant, a kind of lotus, referencing J
-    iv.539; vi.47, 279, 564. Here BJTS gloss is *helmällen, heḷmäli* =
-    edible white water-lily, Nymphaea Lotus, also the (or a) gloss at
-    \[4231\], \[4233\], \[4313\]. But elsewhere BJTS gives different
-    glosses: at \[4007\] BJTS glosses it as *madāra* tree
-    \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the
-    blossoms fell into the water from overhanging trees. BJTS gloss at
-    \[324\] is “a water-born plant named *Mandālā”.* At \[171\] BJTS
-    Sinh. gloss is *taḍāgayangen*, “from the moss,” following its
-    reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict.
-    *taḍāga* = *sevela.*
+[^6]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS gloss is *helmällen, heḷmäli* = edible white water-lily, Nymphaea Lotus, also the (or a) gloss at \[4231\], \[4233\], \[4313\]. But elsewhere BJTS gives different glosses: at \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā”.* At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela.*
 
 [^7]: *maccha-kacchapa-sañchannā*
 
@@ -194,8 +163,7 @@ The legend of Yasa Thera, the first.
 
 [^10]: *ºkoñcaº*
 
-[^11]: *kokilādīhi vagguhi,* lit., “and with the lovely \[cries\] of
-    cuckoos, etc.”
+[^11]: *kokilādīhi vagguhi,* lit., “and with the lovely \[cries\] of cuckoos, etc.”
 
 [^12]: *parevatā*
 
@@ -203,16 +171,11 @@ The legend of Yasa Thera, the first.
 
 [^14]: *cakkavākā*
 
-[^15]: *dindibhā,* Sinh. gloss *kirallu, kiraḷā =* red-wattled or
-    yellow-wattled lapwing. PSI dictionary gives “bluejay”
+[^15]: *dindibhā,* Sinh. gloss *kirallu, kiraḷā =* red-wattled or yellow-wattled lapwing. PSI dictionary gives “bluejay”
 
 [^16]: *sāḷikā,* RD: maina (= mynah) birds
 
-[^17]: *pampakā ,* Sinh. gloss *huṇapupulō* (Sorata = *uṇahapuḷuvā*)*,*
-    a small, tailless monkey. Its high-pitched cry, which famously (and
-    frighteningly) resembles that of a cobra, is apparently the reason
-    these have been included in the present list of (mostly) birds known
-    for their cries.
+[^17]: *pampakā ,* Sinh. gloss *huṇapupulō* (Sorata = *uṇahapuḷuvā*)*,* a small, tailless monkey. Its high-pitched cry, which famously (and frighteningly) resembles that of a cobra, is apparently the reason these have been included in the present list of (mostly) birds known for their cries.
 
 [^18]: a type of pheasant
 
@@ -220,8 +183,7 @@ The legend of Yasa Thera, the first.
 
 [^20]: lit., “having done a *dhamma*-talk for me”
 
-[^21]: *parijana* (for *parijjanaṃ*), “the people around there,”
-    “retinue”
+[^21]: *parijana* (for *parijjanaṃ*), “the people around there,” “retinue”
 
 [^22]: *vasīsatasahassehi,* that is, masters of the Teaching, arahants.
 
@@ -233,9 +195,7 @@ The legend of Yasa Thera, the first.
 
 [^26]: *āhutīnaṃ paṭiggaho*
 
-[^27]: *tappayi,* lit., “satisfied,” “regaled,” “entertained.” BJTS
-    reads *sabbe ime ca* (“and all of these \[monks\]”) for PTS *saṅgham
-    etena*
+[^27]: *tappayi,* lit., “satisfied,” “regaled,” “entertained.” BJTS reads *sabbe ime ca* (“and all of these \[monks\]”) for PTS *saṅgham etena*
 
 [^28]: lit., “every day”
 

@@ -22,20 +22,15 @@ six special knowledges mastered,
 Thus indeed Venerable Tīṇikiṅkhaṇikapūjaka[^7] Thera spoke these verses.  
 The legend of Tīṇikiṅkhaṇikapūjaka[^8] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Three *Kiṅkhaṇi* Flower-er.” BJTS reads *Tikiṅkiṇiº*
 
 [^3]: “Group of Ghosts”
 
-[^4]: Or, “robe of rags”. The Pamsukūla robe was typically a filthy
-    shroud picked up in a cremation grounds. Cf. above, v. \[592\]
+[^4]: Or, “robe of rags”. The Pamsukūla robe was typically a filthy shroud picked up in a cremation grounds. Cf. above, v. \[592\]
 
-[^5]: I follow the cty and BJTS Sinhala gloss in taking *dumaggamhi* as
-    *duma + aggamhi*. It would also be possible to take it as *du+
-    maggamhi*, “on a bad road”.
+[^5]: I follow the cty and BJTS Sinhala gloss in taking *dumaggamhi* as *duma + aggamhi*. It would also be possible to take it as *du+ maggamhi*, “on a bad road”.
 
 [^6]: BJTS reads *kiṅkiṇi*
 

@@ -127,9 +127,7 @@ six special knowledges mastered,
 Thus indeed the bhikkhunī Abhirūpanandā spoke these verses.  
 The legend of Abhirūpanandā Therī[^19] is finished
 
-[^1]: “Very Beautiful Joy,” an historical nun, DPPN I:143. On these
-    various “Joys” (of whom Malalasekera’s designations may need further
-    work) see above, the first note to *Therī-apadāna* \#25.
+[^1]: “Very Beautiful Joy,” an historical nun, DPPN I:143. On these various “Joys” (of whom Malalasekera’s designations may need further work) see above, the first note to *Therī-apadāna* \#25.
 
 [^2]: *carunayano*
 
@@ -143,36 +141,26 @@ The legend of Abhirūpanandā Therī[^19] is finished
 
 [^7]: *kapilavhaye,* lit., “in the \[city\] named for Kapila”
 
-[^8]: reading *upapadaṃ* (in the sense of “epithet”) with BJTS for PTS
-    *uppādaŋ* (“birth” “omen”), which breaks meter.
+[^8]: reading *upapadaṃ* (in the sense of “epithet”) with BJTS for PTS *uppādaŋ* (“birth” “omen”), which breaks meter.
 
 [^9]: *abhirūpaŋ*
 
-[^10]: reading *me kantisūcakaṃ* with BJTS for PTS *m’ ekaŋ ti sūcakaŋ*
-    (?)
+[^10]: reading *me kantisūcakaṃ* with BJTS for PTS *m’ ekaŋ ti sūcakaŋ* (?)
 
-[^11]: reading *rūpalāvaññabhusitā* with BJTS for PTS
-    *rūpavaṇṇavibhusitā,* which however has much the same meaning.
+[^11]: reading *rūpalāvaññabhusitā* with BJTS for PTS *rūpavaṇṇavibhusitā,* which however has much the same meaning.
 
 [^12]: or debate: *vivādo*
 
-[^13]: reading *tadā mamatthaṃ* (“for my sake,” i.e., over who will
-    marry me) with BJTS for PTS *Idaŋ me-m’ atthe* (“this for the sake
-    of me”?)
+[^13]: reading *tadā mamatthaṃ* (“for my sake,” i.e., over who will marry me) with BJTS for PTS *Idaŋ me-m’ atthe* (“this for the sake of me”?)
 
-[^14]: i.e., everyone wants Nandā so badly that the end result will be
-    the ruin of the whole clan; her father takes her out of the
-    competition to avoid the conflict it will generate
+[^14]: i.e., everyone wants Nandā so badly that the end result will be the ruin of the whole clan; her father takes her out of the competition to avoid the conflict it will generate
 
-[^15]: reading *rūpadessiṃ naruttamaṃ* with BJTS for PTS *rūpadassiŋ*
-    (alt. *dassana*), “beautiful looking supreme man”
+[^15]: reading *rūpadessiṃ naruttamaṃ* with BJTS for PTS *rūpadassiŋ* (alt. *dassana*), “beautiful looking supreme man”
 
 [^16]: *samussayaŋ, “*conglomeration,” i.e., the body
 
-[^17]: or “dwelling” “practicing” “living” (BJTS: *viharantyā’dha
-    yoniso*)
+[^17]: or “dwelling” “practicing” “living” (BJTS: *viharantyā’dha yoniso*)
 
-[^18]: reading *mahāmune* (voc.) with BJTS for PTS *tadā muni* (“Then
-    the Sage \[nom.\];” PTS alt. *tadā mune,* “Then, O Sage”)
+[^18]: reading *mahāmune* (voc.) with BJTS for PTS *tadā muni* (“Then the Sage \[nom.\];” PTS alt. *tadā mune,* “Then, O Sage”)
 
 [^19]: this is the BJTS reading for PTS *bhikkhunī Abhirūpanandā*

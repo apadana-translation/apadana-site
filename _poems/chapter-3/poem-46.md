@@ -29,10 +29,8 @@ The legend of Padumucchadaniya Thera is finished.
 
 [^1]: “Pink-Lotus-Cover-er”
 
-[^2]: reading *uggamī* with BJTS (and PTS alt.) for PTS *uggamiŋ* (“I
-    rose”)
+[^2]: reading *uggamī* with BJTS (and PTS alt.) for PTS *uggamiŋ* (“I rose”)
 
-[^3]: BJTS agrees in reading the verb in the first person, though BJTS
-    alt. gives a reading in third person, which would be better here
+[^3]: BJTS agrees in reading the verb in the first person, though BJTS alt. gives a reading in third person, which would be better here
 
 [^4]: “Lord of Lotuses”

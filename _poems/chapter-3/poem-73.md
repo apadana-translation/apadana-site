@@ -24,13 +24,8 @@ The legend of Saññaka Thera is finished.
 
 [^1]: “Perceiver”
 
-[^2]: or, “robe of rags”. The Pamsukūla robe was typically a filthy
-    shroud picked up in a cremation grounds. Cf. above, v. \[592\]
+[^2]: or, “robe of rags”. The Pamsukūla robe was typically a filthy shroud picked up in a cremation grounds. Cf. above, v. \[592\]
 
-[^3]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as
-    *duma + agge*. It would also be possible to take it as *du+ magge*,
-    “on a bad road”. Cf. v. \[592\] above for a case comparable to the
-    latter. Though I do follow it here, the cty and BJTS reading rather
-    begs the question how the Buddha’s rag robes got up in the tree.
+[^3]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as *duma + agge*. It would also be possible to take it as *du+ magge*, “on a bad road”. Cf. v. \[592\] above for a case comparable to the latter. Though I do follow it here, the cty and BJTS reading rather begs the question how the Buddha’s rag robes got up in the tree.
 
 [^4]: “Best Part of a Tree”

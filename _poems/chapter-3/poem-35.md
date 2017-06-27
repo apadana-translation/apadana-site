@@ -103,22 +103,15 @@ six special knowledges mastered,
 Thus indeed Venerable Mogharāja Thera spoke these verses.  
 The legend of Mogharāja Thera is finished.
 
-[^1]: reading *samogadhā* (BJTS) for *samāhaṭā* (PTS). The Sinhala gloss
-    in BJTS understands the verse to refer to the beings in Brahmaloka;
-    though the text does not stipulate that, it would make sense of the
-    inclusion here of formless and non-sentient beings (as are found
-    there, along with beings that have form). In any event, the point of
-    the verse is that the Buddha’s knowledge is all-encompassing.
+[^1]: reading *samogadhā* (BJTS) for *samāhaṭā* (PTS). The Sinhala gloss in BJTS understands the verse to refer to the beings in Brahmaloka; though the text does not stipulate that, it would make sense of the inclusion here of formless and non-sentient beings (as are found there, along with beings that have form). In any event, the point of the verse is that the Buddha’s knowledge is all-encompassing.
 
 [^2]: lit., that which causes darkness” = ignorance, delusion
 
 [^3]: reading *sabhattena* (BJTS) for *subhakena* (PTS)
 
-[^4]: lit., “rose up into the sky the sky;” I have reduced the
-    redundancy of *vehāsaṃ nabhaṃ*, as does the BJTS Sinhala gloss.
+[^4]: lit., “rose up into the sky the sky;” I have reduced the redundancy of *vehāsaṃ nabhaṃ*, as does the BJTS Sinhala gloss.
 
-[^5]: I read *pathavyā* (BJTS) for *padesa* (PTS), to avoid the
-    redundancy (even contradiction) with the next verse.
+[^5]: I read *pathavyā* (BJTS) for *padesa* (PTS), to avoid the redundancy (even contradiction) with the next verse.
 
 [^6]: lit., “in the dispensation of Gotama, the Blessed One”
 

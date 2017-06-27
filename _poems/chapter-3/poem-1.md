@@ -1171,95 +1171,53 @@ six special knowledges mastered,
 Thus indeed Venerable Sāriputta Thera spoke these verses.  
 The legend of Sāriputta Thera is finished.
 
-[^1]: perhaps fr. *lambati,* to hand down, “Pendulous”. \#112, \#345
-    {348} also take place on this mountain.
+[^1]: perhaps fr. *lambati,* to hand down, “Pendulous”. \#112, \#345 {348} also take place on this mountain.
 
 [^2]: *kumbhilā*
 
 [^3]: *makarā*
 
-[^4]: *suṃsumārā,* lit., “crocodile,” the term used to translate
-    *kumbhīlā* in the preceding foot; these are actually two different
-    sorts of crocodile, but to avoid the inevitable redundancy in
-    English I have chosen to translate the former “alligator,” a species
-    not actually found in this region.
+[^4]: *suṃsumārā,* lit., “crocodile,” the term used to translate *kumbhīlā* in the preceding foot; these are actually two different sorts of crocodile, but to avoid the inevitable redundancy in English I have chosen to translate the former “alligator,” a species not actually found in this region.
 
-[^5]: read *pāṭhīna,* Silurus Boalis, “a kind of shad” (RD); wikipedia
-    gives “sheatfish,” related to catfish, includes all the siluridae.
-    BJTS glosses *peṭiyō*
+[^5]: read *pāṭhīna,* Silurus Boalis, “a kind of shad” (RD); wikipedia gives “sheatfish,” related to catfish, includes all the siluridae. BJTS glosses *peṭiyō*
 
-[^6]: *pāvusa,* glossed as “large-mouth fish”, cf. *pāgusa, patusa,*
-    BJTS glosses *lūllu*
+[^6]: *pāvusa,* glossed as “large-mouth fish”, cf. *pāgusa, patusa,* BJTS glosses *lūllu*
 
-[^7]: reading *valajā* with BJTS, which treats it as a type of fish
-    (Sinh. *valayō*), for PTS *jalajā*, lit., “water-born”, a generic
-    word for “fish”.
+[^7]: reading *valajā* with BJTS, which treats it as a type of fish (Sinh. *valayō*), for PTS *jalajā*, lit., “water-born”, a generic word for “fish”.
 
-[^8]: *muñja,* more common as a kind of reed, also the name of a fish
-    (BJTS glosses *moddu*), always in *dvandva* compound with *rohita,*
-    “red-fish”
+[^8]: *muñja,* more common as a kind of reed, also the name of a fish (BJTS glosses *moddu*), always in *dvandva* compound with *rohita,* “red-fish”
 
 [^9]: *rohita,* BJTS glosses *reheru*
 
-[^10]: reading *maggurā* with BJTS, which glosses the term as *magurō,*
-    for PTS *vaggula* (= *vagguli,* bat? Or fr. *vaggu,* beautiful,
-    hence “pretty fish”?)
+[^10]: reading *maggurā* with BJTS, which glosses the term as *magurō,* for PTS *vaggula* (= *vagguli,* bat? Or fr. *vaggu,* beautiful, hence “pretty fish”?)
 
 [^11]: *patāyanti.*
 
-[^12]: reading *sālā* *ca* (BJTS, cty) for *kolakā* (PTS)*;* shorea
-    robusta
+[^12]: reading *sālā* *ca* (BJTS, cty) for *kolakā* (PTS)*;* shorea robusta
 
-[^13]: *tilaka,* BJTS glosses as *madaṭa* cf. botanical dictionary =
-    *madaṭiya*, a tree which yields false yellow sandalwood, and seeds
-    that are used as beads and a jeweler’s weight of about 1.25 troy
-    ounce, *adenanthera pavonina,* coral bean tree a.k.a. saga, sagaseed
-    tree, red-bead tree, kolkriki
+[^13]: *tilaka,* BJTS glosses as *madaṭa* cf. botanical dictionary = *madaṭiya*, a tree which yields false yellow sandalwood, and seeds that are used as beads and a jeweler’s weight of about 1.25 troy ounce, *adenanthera pavonina,* coral bean tree a.k.a. saga, sagaseed tree, red-bead tree, kolkriki
 
-[^14]: *pāṭali*, Sinh. *paḷol,* Bignonia suaveolens, sterospermum
-    suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of
-    Vipassi Buddha.
+[^14]: *pāṭali*, Sinh. *paḷol,* Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
 
-[^15]: *sindhuvārita*, Vitex negundo*,* a.k.a. horshoe vitex,
-    five-leaved chaste tree
+[^15]: *sindhuvārita*, Vitex negundo*,* a.k.a. horshoe vitex, five-leaved chaste tree
 
-[^16]: PTS *salaḷā,* BJTS *salalā,* BJTS Sinh.gloss = *hora* = “large
-    timber tree yielding rezin and oil, Dipterocarpus zeylanicus
-    *(Dipterocarp.*)” (Bot. dict.). RD says this is a tree with fragrant
-    blossoms (which was the Bodhi Tree of Padumuttara Buddha, cf. above,
-    \#177, v. 1 \[2133\]). RD notes references to this tree atJ v.420;
-    Bu ii.51= J i.13; Vv 355; VvA 162; Miln 338; M ii.184, and says it
-    is Pinus Longiflis (now more commonly Pinus Longifolia), Indian
-    pine, indigenous to northern India, Pakistan, Himalayas, bearing
-    brilliant clustered flowers in blue and other colors, with edible
-    seeds.
+[^16]: PTS *salaḷā,* BJTS *salalā,* BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus *(Dipterocarp.*)” (Bot. dict.). RD says this is a tree with fragrant blossoms (which was the Bodhi Tree of Padumuttara Buddha, cf. above, \#177, v. 1 \[2133\]). RD notes references to this tree atJ v.420; Bu ii.51= J i.13; Vv 355; VvA 162; Miln 338; M ii.184, and says it is Pinus Longiflis (now more commonly Pinus Longifolia), Indian pine, indigenous to northern India, Pakistan, Himalayas, bearing brilliant clustered flowers in blue and other colors, with edible seeds.
 
-[^17]: *nīpa* = Sinhala *kolom*, nauclea orientalis*;* “yelow
-    cheesewood,” also called Leichhardt tree
+[^17]: *nīpa* = Sinhala *kolom*, nauclea orientalis*;* “yelow cheesewood,” also called Leichhardt tree
 
-[^18]: *nāga* = Sinhala *nā*, ironwood, Mesua Ferrea Linn, Bodhi tree of
-    Mangala, Sumana, Revata, Sobhita buddhas; national tree of Sri
-    Lanka. It has brilliant, fragrant white flowers containing four
-    petals each, as well as a red fruit eaten by birds.
+[^18]: *nāga* = Sinhala *nā*, ironwood, Mesua Ferrea Linn, Bodhi tree of Mangala, Sumana, Revata, Sobhita buddhas; national tree of Sri Lanka. It has brilliant, fragrant white flowers containing four petals each, as well as a red fruit eaten by birds.
 
-[^19]: *punnāga* = Sinhala *domba,* Alexandrian laurel, Calophyllum
-    inophyllum
+[^19]: *punnāga* = Sinhala *domba,* Alexandrian laurel, Calophyllum inophyllum
 
 [^20]: *ketaka,* Pandanus odoratissima, Sinhala *väṭakē or väṭakeyiyā*.
 
-[^21]: *atimutta = atimuttaka*? RD: a plant, Gaertnera Racemosa =
-    hiptage, hiptage benghalensis, stout, high-climbing vine, now
-    invasive species in Florida, scented pink-white flowers, medicinal
-    uses. BJTS glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon
-    tumba,* an annual creeper, Trichodesma zeylanicum).
+[^21]: *atimutta = atimuttaka*? RD: a plant, Gaertnera Racemosa = hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. BJTS glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba,* an annual creeper, Trichodesma zeylanicum).
 
 [^22]: Jonesia Asoka, Saraca asoca
 
-[^23]: *aṅkola,* Alangium hexapetalum*,* a.k.a. sage-leaved alangium,
-    Sinh. *rukaṅguna*
+[^23]: *aṅkola,* Alangium hexapetalum*,* a.k.a. sage-leaved alangium, Sinh. *rukaṅguna*
 
-[^24]: *bimbijāla,* the Bodhi tree of the previous Buddha, Dhammadassi
-    Buddha, Sinh. *rat karavū,* momordica monadelpha
+[^24]: *bimbijāla,* the Bodhi tree of the previous Buddha, Dhammadassi Buddha, Sinh. *rat karavū,* momordica monadelpha
 
 [^25]: RD: name of a flower
 
@@ -1267,21 +1225,13 @@ The legend of Sāriputta Thera is finished.
 
 [^27]: *tiṇasūlika* = “Arabian jasmine,” Sinhala *bōlidda*
 
-[^28]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum
-    acerifolium, produces a brilliant mass of yellow flowers; Engl.
-    a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now
-    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
+[^28]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
 
-[^29]: *asana,* Pentaptera tomentosa, = a.k.a. crocodile-bark tree,
-    Indian laurel, silver grey wood, white chuglam. The Bodhi tree of
-    Tissa Buddha. BJTS glosses as *piyā gasa* = *bakmī* = Sarcocephalus
-    cordatus *(Rubi.*)
+[^29]: *asana,* Pentaptera tomentosa, = a.k.a. crocodile-bark tree, Indian laurel, silver grey wood, white chuglam. The Bodhi tree of Tissa Buddha. BJTS glosses as *piyā gasa* = *bakmī* = Sarcocephalus cordatus *(Rubi.*)
 
-[^30]: *añjani, = añjana-rukkha*, black-colored tree, cf. *añjana* black
-    ointment
+[^30]: *añjani, = añjana-rukkha*, black-colored tree, cf. *añjana* black ointment
 
-[^31]: *punnāga* = Sinhala *domba,* Alexandrian laurel, Calophyllum
-    inophyllum
+[^31]: *punnāga* = Sinhala *domba,* Alexandrian laurel, Calophyllum inophyllum
 
 [^32]: *giripunnāga*
 
@@ -1289,12 +1239,9 @@ The legend of Sāriputta Thera is finished.
 
 [^34]: *Uddālaka* = Cassia fistula*,* Sinh. *äsaḷa*
 
-[^35]: *kuṭaja,* Nerium antidysenterica (used for diarrhea, as its name
-    implies), aka arctic snow, winter cherry, Wrightia antidysenterica,
-    Wrightia zeylanica, nerium zeylanica, Sinhala *kelinda*
+[^35]: *kuṭaja,* Nerium antidysenterica (used for diarrhea, as its name implies), aka arctic snow, winter cherry, Wrightia antidysenterica, Wrightia zeylanica, nerium zeylanica, Sinhala *kelinda*
 
-[^36]: *kadamba* (Sinh. *koḷom*) is Nauclea cordifolia = Neolamarckia
-    cadamba, with orange-colored, fragrant blossoms
+[^36]: *kadamba* (Sinh. *koḷom*) is Nauclea cordifolia = Neolamarckia cadamba, with orange-colored, fragrant blossoms
 
 [^37]: *vakula,* Mimusops elengi, = Spanish cherry, medlar, bullet-wood
 
@@ -1302,43 +1249,27 @@ The legend of Sāriputta Thera is finished.
 
 [^39]: *mātulungiya*
 
-[^40]: *aññe jāyanti kesarī* (fr. *kesara,* flower pollen). BJTS seems
-    to take this as a type or stage of the lotus flower, “pollen
-    lotuses” (*kesara-padmayō*)
+[^40]: *aññe jāyanti kesarī* (fr. *kesara,* flower pollen). BJTS seems to take this as a type or stage of the lotus flower, “pollen lotuses” (*kesara-padmayō*)
 
-[^41]: here “tank” (*taḷāka,* Sinhala *wäwa*) is used interchangeably
-    with “lake” (*sara*), and as the context well makes clear it should
-    be imagined as a large, man-made reservoir rather than some sort of
-    table-top fishbowl.
+[^41]: here “tank” (*taḷāka,* Sinhala *wäwa*) is used interchangeably with “lake” (*sara*), and as the context well makes clear it should be imagined as a large, man-made reservoir rather than some sort of table-top fishbowl.
 
-[^42]: *gabbhaŋ gaṇhanti,* lit., “seizing the womb,” BJTS glosses *hata
-    gaṇit* = *aṭa gannawā,* are germinating or springing forth
+[^42]: *gabbhaŋ gaṇhanti,* lit., “seizing the womb,” BJTS glosses *hata gaṇit* = *aṭa gannawā,* are germinating or springing forth
 
 [^43]: *mūlāliyo*, BJTS gloss *nelumba-ala*
 
 [^44]: taking *niddhāvanti* from *dhāvati* 2
 
-[^45]: = *siṇghāṭa, singhara,* Hindi *siṅghāḍā,* a kind of water plant,
-    Sinh. *gokaṭu,* trapa bispinosa, “water caltrop” or “Water chestnut”
-    or “buffalo nut,” “bat nut,” “devil pod,” “ling nut,” “*lin kok,”
-    “lin kio* nut”
+[^45]: = *siṇghāṭa, singhara,* Hindi *siṅghāḍā,* a kind of water plant, Sinh. *gokaṭu,* trapa bispinosa, “water caltrop” or “Water chestnut” or “buffalo nut,” “bat nut,” “devil pod,” “ling nut,” “*lin kok,” “lin kio* nut”
 
 [^46]: Sinhala *banduvada,* Latin *pentapetes phoenicea*
 
-[^47]: read *pāṭhīna,* Silurus Boalis, “a kind of shad” (RD); wikipedia
-    gives “sheatfish,” related to catfish, includes all the siluridae.
-    BJTS glosses *peṭiyō*
+[^47]: read *pāṭhīna,* Silurus Boalis, “a kind of shad” (RD); wikipedia gives “sheatfish,” related to catfish, includes all the siluridae. BJTS glosses *peṭiyō*
 
-[^48]: *pāvusa,* glossed as “large-mouth fish”, cf. *pāgusa, patusa,*
-    BJTS glosses *lūllu*
+[^48]: *pāvusa,* glossed as “large-mouth fish”, cf. *pāgusa, patusa,* BJTS glosses *lūllu*
 
-[^49]: reading *valajā* with BJTS, which treats it as a type of fish
-    (Sinh. *valayō*), for PTS *jalajā*, lit., “water-born”, a generic
-    word for “fish”.
+[^49]: reading *valajā* with BJTS, which treats it as a type of fish (Sinh. *valayō*), for PTS *jalajā*, lit., “water-born”, a generic word for “fish”.
 
-[^50]: *muñja,* more common as a kind of reed, also the name of a fish
-    (BJTS glosses *moddu*), always in *dvandva* compound with *rohita,*
-    “red-fish”
+[^50]: *muñja,* more common as a kind of reed, also the name of a fish (BJTS glosses *moddu*), always in *dvandva* compound with *rohita,* “red-fish”
 
 [^51]: *rohita,* BJTS glosses *reheru*
 
@@ -1346,9 +1277,7 @@ The legend of Sāriputta Thera is finished.
 
 [^53]: BJTS reads *maṅgurā* and glosses *magurō*
 
-[^54]: fr. *ogāhati*, *ogāhana*, plunging? = watersnakes? BJTS reads
-    *oguha.* In v. \[4012\], below, the same (?) term is spelt
-    *uggāhaka.* Cf *gaha,* a demon, a “seizer”
+[^54]: fr. *ogāhati*, *ogāhana*, plunging? = watersnakes? BJTS reads *oguha.* In v. \[4012\], below, the same (?) term is spelt *uggāhaka.* Cf *gaha,* a demon, a “seizer”
 
 [^55]: *ajagarā.* RD says “a large snake...a Boa Constrictor”
 
@@ -1356,30 +1285,23 @@ The legend of Sāriputta Thera is finished.
 
 [^57]: *ravihaŋsā*
 
-[^58]: *cakkavākā,* BJTS Sinh. gloss *sakvālihiṇiyō = cakravākayā,* an
-    aquatic bird, brahminy goose, btahmany kite, haliastur indus
+[^58]: *cakkavākā,* BJTS Sinh. gloss *sakvālihiṇiyō = cakravākayā,* an aquatic bird, brahminy goose, btahmany kite, haliastur indus
 
 [^59]: *kokilā*
 
 [^60]: *sukaº*
 
-[^61]: reading º*sālikā* with BJTS for PTS *ºsāḷi ca. Sāḷlka* (Skt.
-    *śārika*) = Sinh. *säḷalihiṇiyō,* Indian mynah birds (Hindi *maina,*
-    Skt. *madana*)
+[^61]: reading º*sālikā* with BJTS for PTS *ºsāḷi ca. Sāḷlka* (Skt. *śārika*) = Sinh. *säḷalihiṇiyō,* Indian mynah birds (Hindi *maina,* Skt. *madana*)
 
 [^62]: *kukutthakā,* Sinh. *valikukuḷō*
 
 [^63]: *kulīrakā,* BJTS *kuḷº,* Sinh. *ranvan kakuḷuvō*
 
-[^64]: *pokkharasātakā,* Sinh. gloss *piyum venehi* (lotus-colored)
-    *vil-lihiṇiyō,* lake-swallow or swift. PSI dict. gives: “a type of
-    crane-*ardea siberica”*
+[^64]: *pokkharasātakā,* Sinh. gloss *piyum venehi* (lotus-colored) *vil-lihiṇiyō,* lake-swallow or swift. PSI dict. gives: “a type of crane-*ardea siberica”*
 
-[^65]: *dindibhā,* Sinh. gloss *kirallu, kiraḷā =* red-wattled or
-    yellow-wattled lapwing. PSI dictionary gives “bluejay”
+[^65]: *dindibhā,* Sinh. gloss *kirallu, kiraḷā =* red-wattled or yellow-wattled lapwing. PSI dictionary gives “bluejay”
 
-[^66]: *sukapotā,* Sinh. gloss = *girāmalittō* (= *girāmalicciyā*),
-    Ceylon lorikeet, loriculus indicus
+[^66]: *sukapotā,* Sinh. gloss = *girāmalittō* (= *girāmalicciyā*), Ceylon lorikeet, loriculus indicus
 
 [^67]: *haŋsā*
 
@@ -1391,10 +1313,7 @@ The legend of Sāriputta Thera is finished.
 
 [^71]: *tambacūlaka,* Sinh. gloss *kukuḷō*
 
-[^72]: reading *pampakā* with BJTS (PTS reads *sampakā),* Sinh. gloss
-    *huṇapupulō* (Sorata = *uṇahapuḷuvā*)*,* a small, tailless monkey.
-    Its high-pitched cry famously (and frighteningly) resembles that of
-    a cobra.
+[^72]: reading *pampakā* with BJTS (PTS reads *sampakā),* Sinh. gloss *huṇapupulō* (Sorata = *uṇahapuḷuvā*)*,* a small, tailless monkey. Its high-pitched cry famously (and frighteningly) resembles that of a cobra.
 
 [^73]: *jīvajīva,* Sinh-Eng dict: *äṭikukuḷa*
 
@@ -1406,8 +1325,7 @@ The legend of Sāriputta Thera is finished.
 
 [^77]: *kurarā*, Sinh. gloss *ukussō* PSI dict. = *kaburässō*
 
-[^78]: *pasada,* Sinh. gloss *titmuvō,* pl. of *titmuvā,* spotted deer,
-    axis maculatus
+[^78]: *pasada,* Sinh. gloss *titmuvō,* pl. of *titmuvā,* spotted deer, axis maculatus
 
 [^79]: *varahā,* Sinh. gloss *vallūrō*
 
@@ -1415,25 +1333,17 @@ The legend of Sāriputta Thera is finished.
 
 [^81]: *bheraṇḍakā,* Sinh. gloss *sivallu,* pl. of *sivalā, hivalā*
 
-[^82]: *rohiccā,* RD says “a kind of deer, J.vi.537, fr. *rohita,* red,
-    hence “red deer” (?); Sinh. gloss *rērumuvō,* pl. of *rērumuvā, =
-    “*duck” or “teal” deer.
+[^82]: *rohiccā,* RD says “a kind of deer, J.vi.537, fr. *rohita,* red, hence “red deer” (?); Sinh. gloss *rērumuvō,* pl. of *rērumuvā, = “*duck” or “teal” deer.
 
 [^83]: *acchaº,* Sinh. gloss *valassu*
 
 [^84]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^85]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”)
-    *valassu,* Note BJTS omits the second mention of “wolves” so may be
-    taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in
-    specifying this particular type of bear (cf. Sorata, *kara baāna
-    valasā,* s.v.)
+[^85]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu,* Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā,* s.v.)
 
-[^86]: i.e., showing their rut in their eyes, ears, and genitals. See
-    cty, p. 288.
+[^86]: i.e., showing their rut in their eyes, ears, and genitals. See cty, p. 288.
 
-[^87]: I.e., elephant. Cty (p. 311; 288): born in the *mātaṅga* clan of
-    elephants
+[^87]: I.e., elephant. Cty (p. 311; 288): born in the *mātaṅga* clan of elephants
 
 [^88]: *kiṇṇara,* Sinh. gloss *kindurō*
 
@@ -1441,108 +1351,65 @@ The legend of Sāriputta Thera is finished.
 
 [^90]: *vanakammikā*
 
-[^91]: *cetā*, Sinh. gloss *dāsayō* (“slaves”) seems to read *ceta as
-    ceṭa, ceṭaka,* servant, boy; I follow the gloss in giving the word
-    (otherwise “mind,” “thought”) a translation, though RD and PSI dict
-    give no indication that *ceta* is an alternate spelling for *ceṭa*
+[^91]: *cetā*, Sinh. gloss *dāsayō* (“slaves”) seems to read *ceta as ceṭa, ceṭaka,* servant, boy; I follow the gloss in giving the word (otherwise “mind,” “thought”) a translation, though RD and PSI dict give no indication that *ceta* is an alternate spelling for *ceṭa*
 
 [^92]: *luddakā*, Sinh. gloss *väddō,* aborigines of Sri Lanka (Veddas)
 
-[^93]: *tinduka* = *timbiri,* diospyros embryopteris*,* a.k.a. Indian
-    persimmon
+[^93]: *tinduka* = *timbiri,* diospyros embryopteris*,* a.k.a. Indian persimmon
 
 [^94]: *piyal* = buchanania latifolia
 
-[^95]: *madhuka* reading *madhuk’ ek*ā; madhuka = mī gasa, bassia
-    latifolia
+[^95]: *madhuka* reading *madhuk’ ek*ā; madhuka = mī gasa, bassia latifolia
 
-[^96]: BJTS glosses as Sinh. *ät demaṭa,* Bot. Dict: “a small timber
-    tree that bears yellow flowers, Gmelina arborea (*Verb.*)
+[^96]: BJTS glosses as Sinh. *ät demaṭa,* Bot. Dict: “a small timber tree that bears yellow flowers, Gmelina arborea (*Verb.*)
 
-[^97]: PTS *kosumbhā,* BJTS *kosambā,* also spelt *kosambhā,* - (acc. to
-    BJTS Sinh. gloss on \[3762\]) Sinh. *kohomba,* neem or margosa tree,
-    Azadirachta indica, though Cone says “a kind of shrub or plant”
+[^97]: PTS *kosumbhā,* BJTS *kosambā,* also spelt *kosambhā,* - (acc. to BJTS Sinh. gloss on \[3762\]) Sinh. *kohomba,* neem or margosa tree, Azadirachta indica, though Cone says “a kind of shrub or plant”
 
-[^98]: PTS *salaḷā,* BJTS *salalā,* BJTS Sinh.gloss = *hora* = “large
-    timber tree yielding rezin and oil, Dipterocarpus zeylanicus
-    *(Dipterocarp.*)” (Bot. dict.)
+[^98]: PTS *salaḷā,* BJTS *salalā,* BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus *(Dipterocarp.*)” (Bot. dict.)
 
-[^99]: *nīpa* = Sinhala *kolom*, *nauclea orientalis;* also called
-    Leichhardt tree
+[^99]: *nīpa* = Sinhala *kolom*, *nauclea orientalis;* also called Leichhardt tree
 
-[^100]: *harīṭaka =* Sinhala *araḷu,* yellow myrobalan, terminalia
-    chebula
+[^100]: *harīṭaka =* Sinhala *araḷu,* yellow myrobalan, terminalia chebula
 
-[^101]: *āmalaka* = Sinhala *nelli,* phyllanthus emblica*,* emblic
-    myrobalan, Indian gooseberry
+[^101]: *āmalaka* = Sinhala *nelli,* phyllanthus emblica*,* emblic myrobalan, Indian gooseberry
 
 [^102]: fruit of the eugenia, *damba*, *jambu*
 
-[^103]: = Sinhala *buḷu,* beleric myrobalan, bastard myrobalan,
-    *Terminalia bellirica*
+[^103]: = Sinhala *buḷu,* beleric myrobalan, bastard myrobalan, *Terminalia bellirica*
 
-[^104]: *kola*, Sinh. *ḍebara phala,* Ziziphus Mauritania, Zyziphus
-    Jujuba, Indian jujube or Chinese apple.
+[^104]: *kola*, Sinh. *ḍebara phala,* Ziziphus Mauritania, Zyziphus Jujuba, Indian jujube or Chinese apple.
 
-[^105]: *bhallātakā, bhallī, badulla* = semecarpus anacardium, Sinh.
-    *badulu*
+[^105]: *bhallātakā, bhallī, badulla* = semecarpus anacardium, Sinh. *badulu*
 
-[^106]: *bellā, billā* = fruit of Aegle marmelos, Sinh. *beli geḍiya,*
-    bael, bel, Bengal quince; bilva or vilva tree, = *beluvā*
+[^106]: *bellā, billā* = fruit of Aegle marmelos, Sinh. *beli geḍiya,* bael, bel, Bengal quince; bilva or vilva tree, = *beluvā*
 
-[^107]: *kalamba,* RD draws attention to Skt. *kalambika, kalambuka, =*
-    convulvulus repens*,* bindweed, but there are other possibilities
-    including a tree menispermum calumba (but its fruits are
-    poisonous/only used in controlled medical usages, unlikely?) and
-    (following BJTS Sinh. gloss here) Anthocephalus Cadamba *(Rub.)*,
-    Sinh. *kalamba*
+[^107]: *kalamba,* RD draws attention to Skt. *kalambika, kalambuka, =* convulvulus repens*,* bindweed, but there are other possibilities including a tree menispermum calumba (but its fruits are poisonous/only used in controlled medical usages, unlikely?) and (following BJTS Sinh. gloss here) Anthocephalus Cadamba *(Rub.)*, Sinh. *kalamba*
 
-[^108]: BJTS reads *aluva.* RD: fr. Skt. *ālu, āluka*: a bulbous plant,
-    Radix Globosa Esculenta or Amorphophallus (Kern), Arum Campanulatum
-    (Hardy), cognate with alium, good possibility is amorphophallus
-    titanum, “titan arum”
+[^108]: BJTS reads *aluva.* RD: fr. Skt. *ālu, āluka*: a bulbous plant, Radix Globosa Esculenta or Amorphophallus (Kern), Arum Campanulatum (Hardy), cognate with alium, good possibility is amorphophallus titanum, “titan arum”
 
 [^109]: BJTS reads *biḷālīº*
 
 [^110]: BJTS reads *sutaka*
 
-[^111]: RD says this is a water-plant, a kind of lotus, referencing J
-    iv.539; vi.47, 279, 564. Here BJTS Sinh. gloss is *taḍāgayangen*,
-    “from the moss,” following its reading of \[170\] “well fixed \[in
-    the mosses\]”. Bot. Dict. *taḍāga* = *sevela.* At \[4231\],
-    \[4233\], \[4313\], \[6332\] the (or a) BJTS gloss is *helmällen,
-    heḷmäli* = edible white water-lily, Nymphaea Lotus. At \[4007\] BJTS
-    glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea
-    (*Legum.*)\] and says the blossoms fell into the water from
-    overhanging trees. BJTS gloss at \[324\] is “a water-born plant
-    named *Mandālā”.*
+[^111]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela.* At \[4231\], \[4233\], \[4313\], \[6332\] the (or a) BJTS gloss is *helmällen, heḷmäli* = edible white water-lily, Nymphaea Lotus. At \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā”.*
 
-[^112]: reading *balapatto* with BJTS for PTS *phalapatto* (“obtaining
-    results”)
+[^112]: reading *balapatto* with BJTS for PTS *phalapatto* (“obtaining results”)
 
-[^113]: while arahants have six special knowledges, only the first five
-    (psychic power over matter, clairaudience, clairvoyance,
-    recollection of one’s own former births, knowledge of others’
-    rebirth) are possible for non-Buddhist sages; the sixth is certainty
-    of one’s own nirvana.
+[^113]: while arahants have six special knowledges, only the first five (psychic power over matter, clairaudience, clairvoyance, recollection of one’s own former births, knowledge of others’ rebirth) are possible for non-Buddhist sages; the sixth is certainty of one’s own nirvana.
 
 [^114]: lit., “attained excellence in”
 
-[^115]: lit., “delighting in their paternal pastures” (*pettike gocare
-    ratā*), which cty understands in terms of the food they received
+[^115]: lit., “delighting in their paternal pastures” (*pettike gocare ratā*), which cty understands in terms of the food they received
 
-[^116]: *asaṃsaṭṭha*, lit., “not joined,” “unmixed”. I follow the cty in
-    this translation.
+[^116]: *asaṃsaṭṭha*, lit., “not joined,” “unmixed”. I follow the cty in this translation.
 
 [^117]: lit., “my students were difficult to approach”
 
-[^118]: this follows the cty -- “having gone they bring the fruit from a
-    jambu a hundred yojanas off in the Himalayas.”
+[^118]: this follows the cty -- “having gone they bring the fruit from a jambu a hundred yojanas off in the Himalayas.”
 
 [^119]: *khārī*
 
-[^120]: *sīlagandhena* = with the scent of moral discipline or
-    disciplinary precepts.
+[^120]: *sīlagandhena* = with the scent of moral discipline or disciplinary precepts.
 
 [^121]: v*jjādharā,* “knowledge-bearers”
 
@@ -1558,18 +1425,13 @@ The legend of Sāriputta Thera is finished.
 
 [^127]: *dānavā*
 
-[^128]: that is, ascetics, who carry around all their possessions,
-    limited to the basic necessities they require, in shoulder yokes.
-    Cty: *khāribhāran ti : udañcanakamaṇḍalu-ādikam
-    tāpasaparikkharabhāram*.
+[^128]: that is, ascetics, who carry around all their possessions, limited to the basic necessities they require, in shoulder yokes. Cty: *khāribhāran ti : udañcanakamaṇḍalu-ādikam tāpasaparikkharabhāram*.
 
-[^129]: reading *khipita* with BJTS (and some PTS alt) for PTS *khitta*,
-    “thrown down,” hard to see how it fits here
+[^129]: reading *khipita* with BJTS (and some PTS alt) for PTS *khitta*, “thrown down,” hard to see how it fits here
 
 [^130]: *pāde pādam nikkhipantā,* lit., “placing the foot on the foot”
 
-[^131]: lit., “constantly am receiving joy”, or “receiving laughter” or
-    “smiles”. Perhaps, “I constantly receive their smiles”
+[^131]: lit., “constantly am receiving joy”, or “receiving laughter” or “smiles”. Perhaps, “I constantly receive their smiles”
 
 [^132]: reading *vipaccatan* (BJTS) for *paccatan* (PTS).
 
@@ -1585,13 +1447,11 @@ The legend of Sāriputta Thera is finished.
 
 [^138]: or “lamp,” *dīpo*
 
-[^139]: lit., “to be measured according to *āḷhakas* \[a measure of
-    grain\]”.
+[^139]: lit., “to be measured according to *āḷhakas* \[a measure of grain\]”.
 
 [^140]: one lakh = 100,000, hence the number of pieces is two trillion
 
-[^141]: reading *sukhama-c-chiddena jālena* for *sukhuma-cchikena
-    jālena*, with the Cty.
+[^141]: reading *sukhama-c-chiddena jālena* for *sukhuma-cchikena jālena*, with the Cty.
 
 [^142]: *Disaṃ olokayī,* lit., “looked out in the directions”
 
@@ -1605,17 +1465,11 @@ The legend of Sāriputta Thera is finished.
 
 [^147]: *bheri*
 
-[^148]: hasulā = ? Cf. RD *hasula*, s.v., which following Kern treats
-    this as a corrupted reading of *bhamuka*, “eyebrows” or “thick
-    eyebrows”, often found in combination with the term for “long
-    eyelashes” (*aḷārapamha*).
+[^148]: hasulā = ? Cf. RD *hasula*, s.v., which following Kern treats this as a corrupted reading of *bhamuka*, “eyebrows” or “thick eyebrows”, often found in combination with the term for “long eyelashes” (*aḷārapamha*).
 
-[^149]: RD gives “good hips,” referring to this text. I don’t see the
-    warrant, and take the term *susaññā* from *saññā*, sense,
-    perception, as does BJTS Sinhala gloss
+[^149]: RD gives “good hips,” referring to this text. I don’t see the warrant, and take the term *susaññā* from *saññā*, sense, perception, as does BJTS Sinhala gloss
 
-[^150]: lit., 80 *koṭis* = 80 x 10,000,000 or 800,000,000 \[pieces of
-    money\]
+[^150]: lit., 80 *koṭis* = 80 x 10,000,000 or 800,000,000 \[pieces of money\]
 
 [^151]: *pabbajissati ‘kiñcano*
 
@@ -1631,10 +1485,7 @@ The legend of Sāriputta Thera is finished.
 
 [^157]: or °chief: *Śākyapungavaṃ*
 
-[^158]: *tādinā* = *tādi*, an arahant who is “such” in matters both
-    disagreeable and agreeable. He takes things as they are, thus I
-    sometimes translate the term ”Such-Like” or “Such-Like One” as well
-    as “Neutral One”.
+[^158]: *tādinā* = *tādi*, an arahant who is “such” in matters both disagreeable and agreeable. He takes things as they are, thus I sometimes translate the term ”Such-Like” or “Such-Like One” as well as “Neutral One”.
 
 [^159]: *kāraŋ*
 
@@ -1656,44 +1507,27 @@ The legend of Sāriputta Thera is finished.
 
 [^168]: *brahmabandhu*, i.e., a brahmin
 
-[^169]: 100 *koṭis* = 100 x 10,000,000 = 1,000,000,000. Cf. v. \[251\],
-    above: Sāriputta was even richer than Anomadassi Buddha predicted he
-    would be.
+[^169]: 100 *koṭis* = 100 x 10,000,000 = 1,000,000,000. Cf. v. \[251\], above: Sāriputta was even richer than Anomadassi Buddha predicted he would be.
 
 [^170]: *pabbajim anāgāriyaṃ*.
 
-[^171]: *ugga-tejo* = “possessing mighty (fierce, hot) *tejas* (power,
-    heat)”
+[^171]: *ugga-tejo* = “possessing mighty (fierce, hot) *tejas* (power, heat)”
 
 [^172]: *me cittam uppajj;* lit., “my mind arose,” “my idea was born”.
 
 [^173]: lit., “about the ultimate goal”.
 
-[^174]: PTS reads *marisa,* not in the dictionaries, not glossed in the
-    cty. BJTS read *mārisa*, hence this translation. Usually used of
-    those in heaven. In the vocative, paralleling “*dhira*”.
+[^174]: PTS reads *marisa,* not in the dictionaries, not glossed in the cty. BJTS read *mārisa*, hence this translation. Usually used of those in heaven. In the vocative, paralleling “*dhira*”.
 
-[^175]: *āvuso,* BJTS glosses *nidukānan vahansa* (“you \[respectful\]
-    without suffering”)
+[^175]: *āvuso,* BJTS glosses *nidukānan vahansa* (“you \[respectful\] without suffering”)
 
-[^176]: *paṭhamaṃ phalam-ajjhagaṃ,* i.e., became a Sotāpanna or
-    Stream-enterer, a person who will achieve nirvana after seven more
-    births, and will not in the meantime fall into any bad birth-states.
-    This interpretation follows the BJTS SInhala gloss. Another
-    plausible reading, which would make better sense of the accusative
-    form of *paṭhama* (otherwise, why not *paṭhamaphalam-ajjhagaṃ*?), is
-    “first, I attained the fruit”
+[^176]: *paṭhamaṃ phalam-ajjhagaṃ,* i.e., became a Sotāpanna or Stream-enterer, a person who will achieve nirvana after seven more births, and will not in the meantime fall into any bad birth-states. This interpretation follows the BJTS SInhala gloss. Another plausible reading, which would make better sense of the accusative form of *paṭhama* (otherwise, why not *paṭhamaphalam-ajjhagaṃ*?), is “first, I attained the fruit”
 
 [^177]: *jinasāsanaŋ*, lit, “the Victor’s dispensation”
 
 [^178]: *bahukehi kappana-hutehi. *
 
-[^179]: PTS and BJTS both read the verse in a meter unlike the more
-    elaborate meter of the opening verses and the (*gāthā*) that
-    characterizes the bulk of *Apadāna.* Those exhibit a consistent
-    11-11-11-11 or 8-8-8-8 number of syllables per foot, respectively.
-    The present verse seems to be 11-9-6-9, and I have translated
-    accordingly.
+[^179]: PTS and BJTS both read the verse in a meter unlike the more elaborate meter of the opening verses and the (*gāthā*) that characterizes the bulk of *Apadāna.* Those exhibit a consistent 11-11-11-11 or 8-8-8-8 number of syllables per foot, respectively. The present verse seems to be 11-9-6-9, and I have translated accordingly.
 
 [^180]: = Kolita, Mahāmoggallāna.
 
@@ -1707,20 +1541,13 @@ The legend of Sāriputta Thera is finished.
 
 [^185]: *lūkha-civarā*
 
-[^186]: *viveka*, seclusion, detachment, meditation, being apart,
-    loneliness
+[^186]: *viveka*, seclusion, detachment, meditation, being apart, loneliness
 
-[^187]: see cty p. 233. *Paṭipanna* = attained four fruits of the path,
-    in the eighth fruit (*phalaṭṭh*ā) established arahantship;
-    *sekhā-phala* = the lower (or as John Strong \[1983\]: would have
-    it, slower) three fruits (*sotāpanna, sakadāgami, anāgami*)
+[^187]: see cty p. 233. *Paṭipanna* = attained four fruits of the path, in the eighth fruit (*phalaṭṭh*ā) established arahantship; *sekhā-phala* = the lower (or as John Strong \[1983\]: would have it, slower) three fruits (*sotāpanna, sakadāgami, anāgami*)
 
 [^188]: *satipaṭṭhānakusalā*
 
-[^189]: *bojjhangā-bhāvanā-ratā,* lit., “fond of meditating on the
-    constituents of wisdom.” The constituents of wisdom are usually
-    enumerated as seven: mindfulness, investigation of the law, energy,
-    rapture, repose, concentration and equanimity.
+[^189]: *bojjhangā-bhāvanā-ratā,* lit., “fond of meditating on the constituents of wisdom.” The constituents of wisdom are usually enumerated as seven: mindfulness, investigation of the law, energy, rapture, repose, concentration and equanimity.
 
 [^190]: *samādhi-bhāvanā-ratā.*
 
@@ -1732,21 +1559,11 @@ The legend of Sāriputta Thera is finished.
 
 [^194]: *kumuda*
 
-[^195]: RD says this is a water-plant, a kind of lotus, referencing J
-    iv.539; vi.47, 279, 564. Here BJTS gloss is “a water-born plant
-    named *Mandālā”.* At \[171\] BJTS Sinh. gloss is *taḍāgayangen*,
-    “from the moss,” following its reading of \[170\] “well fixed \[in
-    the mosses\]”. Bot. Dict. *taḍāga* = *sevela.* At \[4231\],
-    \[4233\], \[4313\], \[6332\] the (or a) BJTS gloss is *helmällen,
-    heḷmäli* = edible white water-lily, Nymphaea Lotus. At \[4007\] BJTS
-    glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea
-    (*Legum.*)\] and says the blossoms fell into the water from
-    overhanging trees.
+[^195]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS gloss is “a water-born plant named *Mandālā”.* At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela.* At \[4231\], \[4233\], \[4313\], \[6332\] the (or a) BJTS gloss is *helmällen, heḷmäli* = edible white water-lily, Nymphaea Lotus. At \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees.
 
 [^196]: *paduma*
 
-[^197]: actually March-April, *Bak Māsa* in the Sinhala calendar,
-    *rammaka māsa* in Pali
+[^197]: actually March-April, *Bak Māsa* in the Sinhala calendar, *rammaka māsa* in Pali
 
 [^198]: lit., “like medicine”
 
@@ -1756,63 +1573,45 @@ The legend of Sāriputta Thera is finished.
 
 [^201]: reading *sāmaṃ* (BJTS) for *samaŋ* (PTS).
 
-[^202]: lit., “the complete party of Awakening” (here reading
-    *pakkhiyaṃ* \[BJTS\] for *pakkhikaŋ* \[PTS\]).
+[^202]: lit., “the complete party of Awakening” (here reading *pakkhiyaṃ* \[BJTS\] for *pakkhikaŋ* \[PTS\]).
 
-[^203]: *āsaya* = likes, wants + *anusaya* = defilements deep in the
-    mind which have not been acted upon
+[^203]: *āsaya* = likes, wants + *anusaya* = defilements deep in the mind which have not been acted upon
 
-[^204]: reading *balābalaṃ* (BJTS, cty) for *phalāphalaŋ* (“the fruits
-    and the fruitlessness,” PTS).
+[^204]: reading *balābalaṃ* (BJTS, cty) for *phalāphalaŋ* (“the fruits and the fruitlessness,” PTS).
 
 [^205]: lit., “for the sake of resolving”
 
 [^206]: taking *taṃ* as *tesaṃ*, with the cty
 
-[^207]: here I follow the cty, which glosses *kittayun* as *gunaṃ
-    katheyyuṃ.*
+[^207]: here I follow the cty, which glosses *kittayun* as *gunaṃ katheyyuṃ.*
 
 [^208]: I follow the cty here.
 
 [^209]: lit., “he would receive nothing but destruction”
 
-[^210]: *jinasāsanaŋ,* lit., “the Victor’s dispensation.” Jina, “Victor”
-    (or “Conqueror”) is appropriately paired here with the “defeat” of
-    riva
+[^210]: *jinasāsanaŋ,* lit., “the Victor’s dispensation.” Jina, “Victor” (or “Conqueror”) is appropriately paired here with the “defeat” of riva
 
-[^211]: *Dhamma-senāpati,* lit., “the chief of the army of *Dhamma*,” or
-    perhaps “*Dhamma’s* commander in chief.” Pronounce as “gen’ral” to
-    keep the meter when chanting.
+[^211]: *Dhamma-senāpati,* lit., “the chief of the army of *Dhamma*,” or perhaps “*Dhamma’s* commander in chief.” Pronounce as “gen’ral” to keep the meter when chanting.
 
-[^212]: “army” might make the analogy work better, but the Pāli is
-    *sakyaputtassa sāsane,* lit., “in the dispensation of the Son of the
-    Śākyas.” Yet the analogy appears more appropriate in light of the
-    more basic meaning of “dispensation” (*sāsane*), namely
-    “commandment” or “order” (as of a king).
+[^212]: “army” might make the analogy work better, but the Pāli is *sakyaputtassa sāsane,* lit., “in the dispensation of the Son of the Śākyas.” Yet the analogy appears more appropriate in light of the more basic meaning of “dispensation” (*sāsane*), namely “commandment” or “order” (as of a king).
 
 [^213]: or perhaps “I’m released, quick like an arrow;”
 
 [^214]: lit., “existences”
 
-[^215]: the cty here explains these as the fires of *rāga* (lust),
-    *dosa* (anger) and *moha* (ignorance, folly)
+[^215]: the cty here explains these as the fires of *rāga* (lust), *dosa* (anger) and *moha* (ignorance, folly)
 
 [^216]: cty glosses *ugghāṭitā* as *viddhaṃsitā.*
 
-[^217]: *sakyaputtassa sāsane,* lit., “in the dispensation of the Son of
-    the Śākyas”
+[^217]: *sakyaputtassa sāsane,* lit., “in the dispensation of the Son of the Śākyas”
 
 [^218]: *samādhimhi.*
 
-[^219]: reading *sahassam* (BJTS, PTS alt) for *sahāyam* (“friend,”
-    “companion,” PTS). BJTS Sinhala gloss understands this to mean
-    creating a thousand forms by means of *iddh*i -- the
-    self-multiplication miracle found throughout these texts.
+[^219]: reading *sahassam* (BJTS, PTS alt) for *sahāyam* (“friend,” “companion,” PTS). BJTS Sinhala gloss understands this to mean creating a thousand forms by means of *iddh*i -- the self-multiplication miracle found throughout these texts.
 
 [^220]: lit., “my cessation”.
 
-[^221]: this verse is in a different meter (?), apparently 10-11-7-10,
-    so I translate accordingly.
+[^221]: this verse is in a different meter (?), apparently 10-11-7-10, so I translate accordingly.
 
 [^222]: reading *uddhaṭa* (BJTS, cty) for *uddhata* (PTS).
 
@@ -1824,12 +1623,8 @@ The legend of Sāriputta Thera is finished.
 
 [^226]: lit., “stand on/before my head.”
 
-[^227]: lit., “like an elephant having broken \[its\] chains.” I take
-    some poetic license and adopt the plural in order to make the phrase
-    work metrically, here and in all subsequent instances of this verse,
-    which recurs quite regularly throughout the *Apadāna.*
+[^227]: lit., “like an elephant having broken \[its\] chains.” I take some poetic license and adopt the plural in order to make the phrase work metrically, here and in all subsequent instances of this verse, which recurs quite regularly throughout the *Apadāna.*
 
-[^228]: *vhārāmi anāsavo,* lit., “I am dwelling without outflows;”
-    *āsavas* are “constraints” to the achievement of nirvana.
+[^228]: *vhārāmi anāsavo,* lit., “I am dwelling without outflows;” *āsavas* are “constraints” to the achievement of nirvana.
 
 [^229]: Lt. “was well come to me”

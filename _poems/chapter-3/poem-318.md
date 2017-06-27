@@ -46,14 +46,10 @@ The legend of Tiraŋsiya Thera is finished.
 
 [^2]: or “column of fire”
 
-[^3]: *sāvakuttamaŋ,* which I follow BJTS gloss in treating as a
-    Buddha-epithet.
+[^3]: *sāvakuttamaŋ,* which I follow BJTS gloss in treating as a Buddha-epithet.
 
-[^4]: lit., “dispelling the darkness of the world in the world,”
-    repeating *loka* perhaps for emphasis.
+[^4]: lit., “dispelling the darkness of the world in the world,” repeating *loka* perhaps for emphasis.
 
-[^5]: lit., “the Great Sage was praised by me,” which creates
-    syntactical confusion in English given the grammar of the first
-    foot, whose subject is apparently the narrator.
+[^5]: lit., “the Great Sage was praised by me,” which creates syntactical confusion in English given the grammar of the first foot, whose subject is apparently the narrator.
 
 [^6]: “Knowledge-Bearer”

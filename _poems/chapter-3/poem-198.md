@@ -31,14 +31,10 @@ The legend of Muṭṭhipūjaka Thera is finished.
 
 [^2]: lit., “exerted \[himself\] in exertion”: *padhānaŋ padahī*
 
-[^3]: reading *caṅkamamānassa* with BJTS (and PTS alt.) for PTS
-    *kampamānassa* (“shaking” “trembling" “quaking” “quivering”)
+[^3]: reading *caṅkamamānassa* with BJTS (and PTS alt.) for PTS *kampamānassa* (“shaking” “trembling" “quaking” “quivering”)
 
-[^4]: lit., “a handful of flowers of *girinela*.” *Girinela* = Sinh.
-    *girinil mal, girinilla;* Sri Sumangala: “a variety of vine used in
-    medicine”
+[^4]: lit., “a handful of flowers of *girinela*.” *Girinela* = Sinh. *girinil mal, girinilla;* Sri Sumangala: “a variety of vine used in medicine”
 
 [^5]: lit., “kṣatriyan”
 
-[^6]: *su* + *nela (*or *neḷa),* without fault, blameless, gentle,
-    humane: “Very Faultless One”
+[^6]: *su* + *nela (*or *neḷa),* without fault, blameless, gentle, humane: “Very Faultless One”

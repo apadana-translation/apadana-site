@@ -175,8 +175,7 @@ six special knowledges mastered,
 Thus indeed Bhikkhunī Sakulā spoke these verses.  
 The legend of Sakulā Therī is finished.
 
-[^1]: a historical nun, remembered as foremost among those who possess
-    the “divine eye” (*dibbacakkhu*)
+[^1]: a historical nun, remembered as foremost among those who possess the “divine eye” (*dibbacakkhu*)
 
 [^2]: *purisājañño*
 
@@ -186,8 +185,7 @@ The legend of Sakulā Therī is finished.
 
 [^5]: *sirimā,* or “Resplendent One”
 
-[^6]: *kittivaṇṇagato,* lit., “gone to beauty through praise;” “colored
-    by praise”
+[^6]: *kittivaṇṇagato,* lit., “gone to beauty through praise;” “colored by praise”
 
 [^7]: *suvissuto*
 
@@ -205,11 +203,7 @@ The legend of Sakulā Therī is finished.
 
 [^14]: *uppādetā*
 
-[^15]: *anuppannassa maggassa,* lit., “the unborn path” “the path that
-    had not arisen”. *Uppanna* is from the same root as *uppādetā*
-    (Producer of the unproduced”) hence a resonance between the first
-    and second feet that is echoed in the third foot, and again in the
-    fourth
+[^15]: *anuppannassa maggassa,* lit., “the unborn path” “the path that had not arisen”. *Uppanna* is from the same root as *uppādetā* (Producer of the unproduced”) hence a resonance between the first and second feet that is echoed in the third foot, and again in the fourth
 
 [^16]: *maggaññū*
 
@@ -217,8 +211,7 @@ The legend of Sakulā Therī is finished.
 
 [^18]: *maggakkhāyī*
 
-[^19]: *sārathīnaŋ varuttamo,* lit., “the excellent ultimate of
-    charioteers”
+[^19]: *sārathīnaŋ varuttamo,* lit., “the excellent ultimate of charioteers”
 
 [^20]: *khattiyanandanā *
 
@@ -238,13 +231,10 @@ The legend of Sakulā Therī is finished.
 
 [^28]: lit., “given *pūjā*”
 
-[^29]: *sabbaṅgasampannā,* lit., “endowed with all limbs,” i.e., “had a
-    great body”
+[^29]: *sabbaṅgasampannā,* lit., “endowed with all limbs,” i.e., “had a great body”
 
-[^30]: *satthu sāsanakārikā,* lit., “\[I am\] a doer of the Teacher’s
-    dispensation”
+[^30]: *satthu sāsanakārikā,* lit., “\[I am\] a doer of the Teacher’s dispensation”
 
-[^31]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I
-    became”)
+[^31]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I became”)
 
 [^32]: *naruttamo*

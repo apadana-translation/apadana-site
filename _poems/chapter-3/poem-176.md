@@ -26,9 +26,6 @@ The legend of Maggadattika Thera is finished.
 
 [^2]: reading *abbho°* (BJTS) for *ambho°* (PTS).
 
-[^3]: PTS reads the second line first, and the first line second; I
-    follow BJTS. In the second line, I read *sīsa muddhani* (BJTS) for
-    *lāsaŋ muddhani* (“shining on his head”).
+[^3]: PTS reads the second line first, and the first line second; I follow BJTS. In the second line, I read *sīsa muddhani* (BJTS) for *lāsaŋ muddhani* (“shining on his head”).
 
-[^4]: “Floral Canopy” or “Covered with Flowers”. PTS reads
-    *Pupphachadaniya.*
+[^4]: “Floral Canopy” or “Covered with Flowers”. PTS reads *Pupphachadaniya.*

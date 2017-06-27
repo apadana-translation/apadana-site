@@ -49,36 +49,25 @@ six special knowledges mastered,
 Thus indeed Venerable Ghatamaṇḍadāyaka Thera spoke these verses.  
 The legend of Ghatamaṇḍadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Cream-of-Ghee Donor.” This *apadāna* is included verbatim above,
-    with the same name, as \#423 {426}.
+[^2]: “Cream-of-Ghee Donor.” This *apadāna* is included verbatim above, with the same name, as \#423 {426}.
 
 [^3]: *sucintitaŋ*
 
-[^4]: *vātābādhena,* “a disease of the wind,” one of the three humors in
-    classical Indian (including Buddhist) medical traditions.
+[^4]: *vātābādhena,* “a disease of the wind,” one of the three humors in classical Indian (including Buddhist) medical traditions.
 
-[^5]: *ghata* (cream, scum) + *maṇḍa* (clarified butter, ghee), i.e.,
-    the best part of the ghee, the purest oil skimmed off the top of a
-    pot of ghee.
+[^5]: *ghata* (cream, scum) + *maṇḍa* (clarified butter, ghee), i.e., the best part of the ghee, the purest oil skimmed off the top of a pot of ghee.
 
 [^6]: PTS and BJTS agree in presenting this as a six-footed verse.
 
-[^7]: *katattā ācitattā ca*, lit., “because of the doing, and because of
-    the heaping up \[of that karma\]”
+[^7]: *katattā ācitattā ca*, lit., “because of the doing, and because of the heaping up \[of that karma\]”
 
 [^8]: this is the BJTS spelling; PTS gives *Bhāgīrasī*
 
 [^9]: *bhavate madhusakkarā*
 
-[^10]: this foot consists of two different words for” tree”:
-    *dharaṇī-rūha* (“growing in the earth”) and *pādapa* (“drinking from
-    the feet \[or roots\]”). Though awkward in English, I translate
-    literally here rather than give the non-descriptive “tree, which was
-    a tree”.
+[^10]: this foot consists of two different words for” tree”: *dharaṇī-rūha* (“growing in the earth”) and *pādapa* (“drinking from the feet \[or roots\]”). Though awkward in English, I translate literally here rather than give the non-descriptive “tree, which was a tree”.
 
 [^11]: *bhavanti,* become
 

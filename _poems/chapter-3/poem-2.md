@@ -131,15 +131,13 @@ The legend of Mahāmoggallāna Thera is finished.
 
 [^2]: PTS reads Varūṇa.
 
-[^3]: lit., “transformed into the form of Kāma;” could be less specific:
-    transforming into sexy shapes
+[^3]: lit., “transformed into the form of Kāma;” could be less specific: transforming into sexy shapes
 
 [^4]: lit., “established the turiya”
 
 [^5]: *accharā*, Skt. *apsarā*
 
-[^6]: lit., “with one thousand who were free of *āsavas* (outflows,
-    defilements)”
+[^6]: lit., “with one thousand who were free of *āsavas* (outflows, defilements)”
 
 [^7]: or “World-Leader:” *lokanāyako*
 
@@ -147,18 +145,13 @@ The legend of Mahāmoggallāna Thera is finished.
 
 [^9]: *brahmabandhu*, i.e., a brahmin
 
-[^10]: *pahittato*. RD “of resolute will.” Cty (following Buddhaghosa)
-    explains the term as derived from: *peseti*, “sent:” “having a mind
-    that is sent forth to nirvana;” RD dismisses this as false
-    etymology.
+[^10]: *pahittato*. RD “of resolute will.” Cty (following Buddhaghosa) explains the term as derived from: *peseti*, “sent:” “having a mind that is sent forth to nirvana;” RD dismisses this as false etymology.
 
 [^11]: *āraddhaviriyā,* lit., “with strenuous effort”
 
-[^12]: following BJTS in reading *samanginnā* (sing. abl) for PTS
-    *samangīnaŋ* (pl. dat/gen)
+[^12]: following BJTS in reading *samanginnā* (sing. abl) for PTS *samangīnaŋ* (pl. dat/gen)
 
-[^13]: reading, with BJTS and PTS alt, *marām’ ahaṃ* for PTS *bhavām’
-    ahaŋ*
+[^13]: reading, with BJTS and PTS alt, *marām’ ahaṃ* for PTS *bhavām’ ahaŋ*
 
 [^14]: *carimo vattate bhavo*
 

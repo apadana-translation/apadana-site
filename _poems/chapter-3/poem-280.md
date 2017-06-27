@@ -30,8 +30,7 @@ when the verses are counted by
 wise people there are forty-two.  
 The Suvaṇṇabimbohana Chapter, the Twenty-Eighth
 
-[^1]: “Cross-Over-er,” “Ferryman.” The name appears as *Setuna*,
-    “Bridge-er,” in the chapter summary below.
+[^1]: “Cross-Over-er,” “Ferryman.” The name appears as *Setuna*, “Bridge-er,” in the chapter summary below.
 
 [^2]: “Fully Immersed”
 

@@ -32,8 +32,7 @@ six special knowledges mastered,
 Thus indeed Venerable Nipannañjalika Thera spoke these verses.  
 The legend of Nipannañjalika Thera is finished.
 
-[^1]: PTS reads Pannañjalika but I follow PTS alt, BJTS and cty in
-    reading the same as Nipannañjalika, “Lying-Down-Hands-Presser”
+[^1]: PTS reads Pannañjalika but I follow PTS alt, BJTS and cty in reading the same as Nipannañjalika, “Lying-Down-Hands-Presser”
 
 [^2]: *abhivāetvā*
 

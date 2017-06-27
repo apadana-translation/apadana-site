@@ -24,10 +24,4 @@ The legend of Ekañjalika Thera is finished.
 
 [^2]: *vināyakaŋ*
 
-[^3]: *adantadamanaŋ,* could mean either “tamer of the untamed” or
-    “tamer who is untamed;” I leave the ambiguity open with the hyphen,
-    admitting here my preference for “tamer of the untamed” (which is
-    also the BJTS reading; cf. RD on *dametar*), and recommend
-    pronunciation in chanting which through stress on the first term in
-    the compound, and tone, can emphasize that the Buddha is one who
-    tames those who are untamed/feral.
+[^3]: *adantadamanaŋ,* could mean either “tamer of the untamed” or “tamer who is untamed;” I leave the ambiguity open with the hyphen, admitting here my preference for “tamer of the untamed” (which is also the BJTS reading; cf. RD on *dametar*), and recommend pronunciation in chanting which through stress on the first term in the compound, and tone, can emphasize that the Buddha is one who tames those who are untamed/feral.

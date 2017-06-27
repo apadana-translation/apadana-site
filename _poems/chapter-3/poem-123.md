@@ -53,8 +53,7 @@ The legend of Pāyāsadāyaka Thera is finished.
 
 [^3]: lit., “the Blessed One”
 
-[^4]: the cty explains the prefixes that intensify the participle as
-    meaning that he had ascended with some distinction (*visesana*)
+[^4]: the cty explains the prefixes that intensify the participle as meaning that he had ascended with some distinction (*visesana*)
 
 [^5]: lit., “kṣatriyan”.
 

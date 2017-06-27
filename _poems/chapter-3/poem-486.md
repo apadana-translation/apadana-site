@@ -27,13 +27,9 @@ six special knowledges mastered,
 Thus indeed Venerable Dhātupūjaka Thera spoke these verses.  
 The legend of Dhātupūjaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Relic-Worshipper.” This same *apadāna* is repeated below,
-    verbatim, as \#{557}, ascribed there to the historical monk Uttara
-    (as “A Different Uttara”).
+[^2]: “Relic-Worshipper.” This same *apadāna* is repeated below, verbatim, as \#{557}, ascribed there to the historical monk Uttara (as “A Different Uttara”).
 
 [^3]: lit., “did *pūjā*”
 

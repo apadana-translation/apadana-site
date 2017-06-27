@@ -42,16 +42,12 @@ six special knowledges mastered,
 Thus indeed Venerable Morahatthiya Thera spoke these verses.  
 The legend of Morahatthiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Peacock Feather-er”
 
 [^3]: lit., “these”
 
-[^4]: The cty here explains these as the fires of *rāga* (lust), *dosa*
-    (anger) and *moha* (ignorance, folly)
+[^4]: The cty here explains these as the fires of *rāga* (lust), *dosa* (anger) and *moha* (ignorance, folly)
 
-[^5]: The cty here explains these as the fires of *rāga* (lust), *dosa*
-    (anger) and *moha* (ignorance, folly)
+[^5]: The cty here explains these as the fires of *rāga* (lust), *dosa* (anger) and *moha* (ignorance, folly)

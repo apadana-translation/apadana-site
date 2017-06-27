@@ -35,8 +35,6 @@ The legend of Sakacittaniya Thera is finished.
 
 [^1]: “Thinking for Himself”
 
-[^2]: some PTS alternatives and BJTS read *pūlinaṃ*, “sand,” but PTS
-    agrees with the cty in reading *veḷunaṃ*, “bamboo.” so I translate
-    accordingly.
+[^2]: some PTS alternatives and BJTS read *pūlinaṃ*, “sand,” but PTS agrees with the cty in reading *veḷunaṃ*, “bamboo.” so I translate accordingly.
 
 [^3]: “Boundless Fame”

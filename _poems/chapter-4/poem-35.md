@@ -165,11 +165,9 @@ The legend of Sukkā Therī[^35] is finished
 
 [^2]: *carunayano*
 
-[^3]: *sikhī,* a play on the meaning of the Buddha’s name. It can also
-    mean “peacock.” Here *sikhī viya,* lit., “like a heap of fire”.
+[^3]: *sikhī,* a play on the meaning of the Buddha’s name. It can also mean “peacock.” Here *sikhī viya,* lit., “like a heap of fire”.
 
-[^4]: reading *loke* (loc.) with BJTS (and PTS alt.) for PTS *lokaŋ*
-    (acc.)
+[^4]: reading *loke* (loc.) with BJTS (and PTS alt.) for PTS *lokaŋ* (acc.)
 
 [^5]: *tadā pi ca tath’ ev’ ahaŋ*
 
@@ -177,18 +175,9 @@ The legend of Sukkā Therī[^35] is finished
 
 [^7]: *jinuttamo*
 
-[^8]: *varasaddūlo.* BJTS reads *narasaddūlo*, which is also the reading
-    in *Therī-apadāna* \[814\] above; PTS alt. gives *narasaraṇo*
-    (“Refuge for Men”). Cf. the note to *Thera-apadāna* \[6131\] on this
-    rather uncharacteristically loose, and rare but repeated, *Apadāna*
-    Buddha*-*epithet (or epithets). Does the variation suggest a lack of
-    meaning in the epithet itself (in *Apadāna* the leopard \[as
-    *dīpi*\] usually appears as part of a list of wild animals, not
-    \[unlike say the lion, elephant, swan, bull\] as part of a
-    Buddha-epithet)
+[^8]: *varasaddūlo.* BJTS reads *narasaddūlo*, which is also the reading in *Therī-apadāna* \[814\] above; PTS alt. gives *narasaraṇo* (“Refuge for Men”). Cf. the note to *Thera-apadāna* \[6131\] on this rather uncharacteristically loose, and rare but repeated, *Apadāna* Buddha*-*epithet (or epithets). Does the variation suggest a lack of meaning in the epithet itself (in *Apadāna* the leopard \[as *dīpi*\] usually appears as part of a list of wild animals, not \[unlike say the lion, elephant, swan, bull\] as part of a Buddha-epithet)
 
-[^9]: reading *yathāyukaṃ* with BJTS for PTS *yathāsukhaŋ* (“as much as
-    comfortable” or perhaps “as I pleased”)
+[^9]: reading *yathāyukaṃ* with BJTS for PTS *yathāsukhaŋ* (“as much as comfortable” or perhaps “as I pleased”)
 
 [^10]: *dīpavaro*
 
@@ -196,20 +185,15 @@ The legend of Sukkā Therī[^35] is finished
 
 [^12]: *lokasaraṇo*
 
-[^13]: *araṇo,* lit., “having no battle,” “not adversarial,” rhymed in
-    the epithets *lokasaraṇo* and *maraṇantago* that also appear in this
-    verse
+[^13]: *araṇo,* lit., “having no battle,” “not adversarial,” rhymed in the epithets *lokasaraṇo* and *maraṇantago* that also appear in this verse
 
 [^14]: *maraṇantago,* lit., “gone to the end of death”
 
-[^15]: *naravīra,* or “Heroic Man” “Having the Virility of a Man”
-    (“Masculine One”)
+[^15]: *naravīra,* or “Heroic Man” “Having the Virility of a Man” (“Masculine One”)
 
-[^16]: *tisso sikkhā*, i.e., training in morality (*sīla*), wisdom
-    *(paññā)* and meditative states *(samādhi*)
+[^16]: *tisso sikkhā*, i.e., training in morality (*sīla*), wisdom *(paññā)* and meditative states *(samādhi*)
 
-[^17]: reading *hitā ‘va ‘haṃ* with BJTS for PTS *mahāmune* (“O Great
-    Sage”)
+[^17]: reading *hitā ‘va ‘haṃ* with BJTS for PTS *mahāmune* (“O Great Sage”)
 
 [^18]: = Rājagaha, Rajgir, in Bihār
 
@@ -225,25 +209,9 @@ The legend of Sukkā Therī[^35] is finished
 
 [^24]: *vimutto*
 
-[^25]: *Siṅgī-nikkha-savaṇṇo,* lit., “having the same color as a
-    golden/”ginger” coin;” *nikkha* can also be an ornament, or a
-    weight, The thrust, anyway, is that the Buddha was shiny like gold.
+[^25]: *Siṅgī-nikkha-savaṇṇo,* lit., “having the same color as a golden/”ginger” coin;” *nikkha* can also be an ornament, or a weight, The thrust, anyway, is that the Buddha was shiny like gold.
 
-[^26]: these lines (41 syllables in PTS, 40 syllables in BJTS \[which
-    omits the *ca* after *purāṇajaṭilehi*\]) are presented by both PTS
-    and BJTS as a single verse, though they break the two-footed lines
-    differently and I am at a loss for how to understand the “verse”
-    metrically. A quote from some prose text? A verse in more complex
-    meter, garbled in transmission? I have translated into the closest
-    approximation of the latter possibility in *Apadāna,* namely a
-    12-12-12-12 verse (which would suggest the possible loss of seven
-    syllables \[in the case of PTS’ reading\] or eight syllables \[in
-    the case of BJTS’s reading\] sometime comparatively early in the
-    transmission process (since it affects all the extant mss.) In
-    addition to conforming to a verse-form occasionally encountered
-    elsewhere in *Apadāna*, this implicit 12-12-12-12 structure works
-    very nicely for the basic units that then make up the four discrete
-    feet.
+[^26]: these lines (41 syllables in PTS, 40 syllables in BJTS \[which omits the *ca* after *purāṇajaṭilehi*\]) are presented by both PTS and BJTS as a single verse, though they break the two-footed lines differently and I am at a loss for how to understand the “verse” metrically. A quote from some prose text? A verse in more complex meter, garbled in transmission? I have translated into the closest approximation of the latter possibility in *Apadāna,* namely a 12-12-12-12 verse (which would suggest the possible loss of seven syllables \[in the case of PTS’ reading\] or eight syllables \[in the case of BJTS’s reading\] sometime comparatively early in the transmission process (since it affects all the extant mss.) In addition to conforming to a verse-form occasionally encountered elsewhere in *Apadāna*, this implicit 12-12-12-12 structure works very nicely for the basic units that then make up the four discrete feet.
 
 [^27]: *taŋ...guṇasañcayaŋ*
 
@@ -251,21 +219,13 @@ The legend of Sukkā Therī[^35] is finished
 
 [^29]: \#23, above
 
-[^30]: lit., “there was an \[achieving of\] insight into the *Dhamma* of
-    twenty million.” *Dhammâbhisamaya*, “insight into the *Dhamma*” or
-    “entry into the *Dhamma*” or “comprehension of the *Dhamma”* or
-    “penetration into the *Dhamma”* refers to the achievement of a firm
-    grasp on the essentials of the Teaching. It is used as a technical
-    term in the account of each Buddha in the *Buddhavaṃsa*, one among
-    many categories of Buddha-achievement enumerated there.
+[^30]: lit., “there was an \[achieving of\] insight into the *Dhamma* of twenty million.” *Dhammâbhisamaya*, “insight into the *Dhamma*” or “entry into the *Dhamma*” or “comprehension of the *Dhamma”* or “penetration into the *Dhamma”* refers to the achievement of a firm grasp on the essentials of the Teaching. It is used as a technical term in the account of each Buddha in the *Buddhavaṃsa*, one among many categories of Buddha-achievement enumerated there.
 
 [^31]: *yakkho*
 
 [^32]: *ye...na,* lit., “those who have not”
 
-[^33]: PTS *payirupāsanti* breaks the meter; BJTS *upāsanti* does not.
-    The two are essentially the same verb, the former with an additional
-    *pari&lt;payir *
+[^33]: PTS *payirupāsanti* breaks the meter; BJTS *upāsanti* does not. The two are essentially the same verb, the former with an additional *pari&lt;payir *
 
 [^34]: reading *mahāmune* (voc.) with BJTS for PTS *mahāmuni* (nom.)
 

@@ -24,13 +24,6 @@ The legend of Kuṭidāyaka Thera is finished.
 
 [^1]: “Hut-Donor”
 
-[^2]: I take *aparājite* as a locative, “with regard to the Unconquered
-    One,” because the opening line concerns a single Sambuddha (who
-    ninety-one aeons ago would have been Vipassi Buddha). But it is
-    possible that the gift was made more generically for “Unconquered
-    Ones,” taking the term as an accusative plural object of *adāsim*
+[^2]: I take *aparājite* as a locative, “with regard to the Unconquered One,” because the opening line concerns a single Sambuddha (who ninety-one aeons ago would have been Vipassi Buddha). But it is possible that the gift was made more generically for “Unconquered Ones,” taking the term as an accusative plural object of *adāsim*
 
-[^3]: “\[Bringer of\] Much Rain Everywhere,” an usual name which is
-    almost a sentence, perhaps why the text here, equally unusually,
-    includes “iti” after giving the (proper) name, which I have
-    translated, “quote,”.
+[^3]: “\[Bringer of\] Much Rain Everywhere,” an usual name which is almost a sentence, perhaps why the text here, equally unusually, includes “iti” after giving the (proper) name, which I have translated, “quote,”.

@@ -74,13 +74,11 @@ The legend of Ekatthambhika Thera is finished.
 
 [^1]: his name means “One Pillar-er”.
 
-[^2]: *māḷa,* a building with one peak in its roof, perhaps Engl.
-    “lean-to” or “A-frame”
+[^2]: *māḷa,* a building with one peak in its roof, perhaps Engl. “lean-to” or “A-frame”
 
 [^3]: lit “they having not acquired one pillar”.
 
-[^4]: reading *paricārem’* (BJTS, PTS alt) for *parivārem’* (“being
-    surrounded,” PTS, but also with the sense of “waiting upon”).
+[^4]: reading *paricārem’* (BJTS, PTS alt) for *parivārem’* (“being surrounded,” PTS, but also with the sense of “waiting upon”).
 
 [^5]: “Fame-Bearer”
 

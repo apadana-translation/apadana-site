@@ -31,5 +31,4 @@ The legend of Saddasaññaka Thera is finished.
 
 [^2]: *sudassana*
 
-[^3]: reading *asaṃso devamānuse* with BJTS for PTS *āsi sadevamānusena
-    so* (“He was with gods and men”?)
+[^3]: reading *asaṃso devamānuse* with BJTS for PTS *āsi sadevamānusena so* (“He was with gods and men”?)

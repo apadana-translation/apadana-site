@@ -27,13 +27,11 @@ six special knowledges mastered,
 Thus indeed Venerable Kadambapupphiya Thera spoke these verses.  
 The legend of Kadambapupphiya Thera is finished.
 
-[^1]: “*Kadamba-*Flower-er”. Kadamba (Sinhala *koḷom*) is a flowering
-    tree, Nauclea cordifolia.
+[^1]: “*Kadamba-*Flower-er”. Kadamba (Sinhala *koḷom*) is a flowering tree, Nauclea cordifolia.
 
 [^2]: “Fowl”.
 
-[^3]: reading *vasanti te* (BJTS) for *vasantike* (“in the middle of the
-    house,” PTS)
+[^3]: reading *vasanti te* (BJTS) for *vasantike* (“in the middle of the house,” PTS)
 
 [^4]: i.e., according to the cty, the moon.
 

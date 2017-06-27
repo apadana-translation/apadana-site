@@ -61,24 +61,19 @@ six special knowledges mastered,
 Thus indeed Venerable Ekavihāriya Thera spoke these verses.  
 The legend of Ekavihāriya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “”One Condition-er”
 
 [^3]: *gottena*
 
-[^4]: *nippapañca,* lit., “One who Lacks the Delays,” i.e., the three
-    characteristics (craving, delusion, pride) which delay progress
-    toward nirvana.
+[^4]: *nippapañca,* lit., “One who Lacks the Delays,” i.e., the three characteristics (craving, delusion, pride) which delay progress toward nirvana.
 
 [^5]: *nirālambo*
 
 [^6]: *ākāsa-sama-mānaso*, following BJTS gloss (*no gäṭena*)
 
-[^7]: lit., “possessing much emptiness,” reading *suññatā* with BJTS
-    (and PTS alt.) for PTS *puññatā* (“much merit-ness,” *sic*)
+[^7]: lit., “possessing much emptiness,” reading *suññatā* with BJTS (and PTS alt.) for PTS *puññatā* (“much merit-ness,” *sic*)
 
 [^8]: *tadī*
 
@@ -106,24 +101,18 @@ The legend of Ekavihāriya Thera is finished.
 
 [^20]: *nātho*
 
-[^21]: *karavīikarudo* (BJTS \[and PTS alt.\] corrects to
-    *karavīika-ruto*). RD *Karavīika* = the Indian cuckoo
+[^21]: *karavīikarudo* (BJTS \[and PTS alt.\] corrects to *karavīika-ruto*). RD *Karavīika* = the Indian cuckoo
 
 [^22]: *brahmaghoso*
 
 [^23]: *tathāgato*
 
-[^24]: *uddharanto mahāduggā*; I follow BJTS gloss in supplying “people”
-    as the object of the verbal noun.
+[^24]: *uddharanto mahāduggā*; I follow BJTS gloss in supplying “people” as the object of the verbal noun.
 
 [^25]: *vipannaṭṭhe* (PTS), *vipannaddhe* (BJTS)
 
 [^26]: *anāyake*
 
-[^27]: *hetubhūto*, i.e., the condition suitable to his attaining
-    arahantship
+[^27]: *hetubhūto*, i.e., the condition suitable to his attaining arahantship
 
-[^28]: reading *sakāyavūpakasso* \[corrected in BJTS alt. to
-    *vūpakāso*\] *me hetubhūto mahābhavi* with BJTS for PTS
-    *svakāūpakaṭṭho me hetubhūto mam āgami* (“physical solitude came to
-    me become the condition for me”)
+[^28]: reading *sakāyavūpakasso* \[corrected in BJTS alt. to *vūpakāso*\] *me hetubhūto mahābhavi* with BJTS for PTS *svakāūpakaṭṭho me hetubhūto mam āgami* (“physical solitude came to me become the condition for me”)

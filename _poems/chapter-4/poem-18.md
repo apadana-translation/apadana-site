@@ -473,18 +473,13 @@ six special knowledges mastered,
 Thus indeed Bhikkhunī Khemā spoke these verses.  
 The legend of Khemā Therī is finished.
 
-[^1]: “Peace,” a historical nun, famous as foremost among those with
-    great wisdom. She had been the chief queen of the Buddha’s friend
-    and supporter King Bimbisāra prior to attaining arahantship,
-    ordaining, and distinguishing herself as a *Dhamma*-preacher.
+[^1]: “Peace,” a historical nun, famous as foremost among those with great wisdom. She had been the chief queen of the Buddha’s friend and supporter King Bimbisāra prior to attaining arahantship, ordaining, and distinguishing herself as a *Dhamma*-preacher.
 
 [^2]: *uttamaŋ bhikkhuniŋ*
 
-[^3]: reading *bhavissasi* with BJTS (and PTS alt.) for PTS
-    *bhavissati*, “she will be.”
+[^3]: reading *bhavissasi* with BJTS (and PTS alt.) for PTS *bhavissati*, “she will be.”
 
-[^4]: Yāma, Tusita, Nimmānarati and Vāsavatti are all heavens in the
-    Buddhist cosmology.
+[^4]: Yāma, Tusita, Nimmānarati and Vāsavatti are all heavens in the Buddhist cosmology.
 
 [^5]: BJTS reads *nimmāṇaratiṃ*
 
@@ -494,19 +489,13 @@ The legend of Khemā Therī is finished.
 
 [^8]: *sabbadhammavipassaka,* a play on that Buddha’s name
 
-[^9]: *brahmacariyaŋ caritvāna*, lit., “conducting \[myself\] in the
-    conduct of {God} Brahmā;’ or else, “having preserved celibacy”
+[^9]: *brahmacariyaŋ caritvāna*, lit., “conducting \[myself\] in the conduct of {God} Brahmā;’ or else, “having preserved celibacy”
 
-[^10]: *paccayākāra°,* or “modes of causes,” i.e., Abhidhammic analysis
-    of the causes of the continuity between the links in the twelve-fold
-    chain of causation (*paṭiccasamuppāda*)
+[^10]: *paccayākāra°,* or “modes of causes,” i.e., Abhidhammic analysis of the causes of the continuity between the links in the twelve-fold chain of causation (*paṭiccasamuppāda*)
 
 [^11]: or “due to loving celibately”
 
-[^12]: lit., “I was gone” The grammar of the Pāli, as in my translation,
-    leaves ambiguous whether the place of rebirth qualifies “nobody” or
-    “husband”: “nobody wherever I was reborn” or “even he who was my
-    husband, whenever I was reborn”
+[^12]: lit., “I was gone” The grammar of the Pāli, as in my translation, leaves ambiguous whether the place of rebirth qualifies “nobody” or “husband”: “nobody wherever I was reborn” or “even he who was my husband, whenever I was reborn”
 
 [^13]: *uddissa,* lit., “assigned to” “appointed to” “allotted”
 
@@ -518,31 +507,19 @@ The legend of Khemā Therī is finished.
 
 [^17]: ”Female renouncer” “nun” “renunciate woman”
 
-[^18]: *sukhe ṭhitā,* lit., “remaining in comfort.” Pronounce all four
-    syllables when chanting to keep the meter or, to chant as a
-    three-syllable word, read “comfortable royal princesses”
+[^18]: *sukhe ṭhitā,* lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
 
-[^19]: I follow the original (in both recensions) in making this first
-    foot a nine-syllable foot through the addition of the (superfluous)
-    “and” (*ca*). The comma amplifies its effect, to syncopate the verse
-    such that the (respective, exact) parallelism of the following verse
-    (in which, however, all four feet contain the expected eight
-    syllables) becomes apparent.
+[^19]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*ca*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
 
 [^20]: = Bhaddā Kuṇḍalakesī
 
-[^21]: given the long names, this foot is unavoidably nine-syllables
-    long, both in Pli and in English
+[^21]: given the long names, this foot is unavoidably nine-syllables long, both in Pli and in English
 
 [^22]: or “Teaching,” *dhammaŋ deseti abbhutaŋ*
 
-[^23]: the fifteenth *sutta* of the *Dīghanikāya,* containing a detailed
-    analysis of the twelve-fold chain of causation
+[^23]: the fifteenth *sutta* of the *Dīghanikāya,* containing a detailed analysis of the twelve-fold chain of causation
 
-[^24]: here the text (in both PTS and BJTS editions) substitutes *tehi
-    kammehi* (plural instrumental) for the ordinary *tena kammena*
-    (singular instrumental) in this *Apadāna* stock phrase. Perhaps
-    “good deeds” would be the more natural plural term here.
+[^24]: here the text (in both PTS and BJTS editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be the more natural plural term here.
 
 [^25]: reading *°amhi* with BJTS for PTS *°āsiŋ* (“I was”)
 
@@ -552,30 +529,21 @@ The legend of Khemā Therī is finished.
 
 [^28]: *udapajjatha,* lit., “produced”
 
-[^29]: reading *rūpavilāsabhūsitā* with PTS alt. for PTS *rūpavant’
-    āvibhūsitā* (“beautiful \[and\] extremely ornamented”) and BJTS
-    *rūpalavaññabhūsitā* (“adorned with beauty and gorgeousness”),
-    though all the readings make the same basic point
+[^29]: reading *rūpavilāsabhūsitā* with PTS alt. for PTS *rūpavant’ āvibhūsitā* (“beautiful \[and\] extremely ornamented”) and BJTS *rūpalavaññabhūsitā* (“adorned with beauty and gorgeousness”), though all the readings make the same basic point
 
 [^30]: *ratā,* lit., “delighting in” “intent upon”
 
-[^31]: *keḷāyane* fr. *keḷāyati,* to play, sport, amuse; to take pride
-    in. Could tr. here: “intently sporting in beauty”
+[^31]: *keḷāyane* fr. *keḷāyati,* to play, sport, amuse; to take pride in. Could tr. here: “intently sporting in beauty”
 
 [^32]: *na upesiŋ,* lit., “I did not approach”.
 
 [^33]: *mahādayaŋ,* lit., “Great Compassionate One”
 
-[^34]: *veluvanaŋ* (BJTS *veḷuvanaṃ*)*,* a pleasure grove near Rajgir
-    where the Buddha stayed when visiting King Bimbisāra
+[^34]: *veluvanaŋ* (BJTS *veḷuvanaṃ*)*,* a pleasure grove near Rajgir where the Buddha stayed when visiting King Bimbisāra
 
-[^35]: *nandanaŋ*, “Joy” the divine pleasure grove of Śakra/Indra, the
-    king of the gods
+[^35]: *nandanaŋ*, “Joy” the divine pleasure grove of Śakra/Indra, the king of the gods
 
-[^36]: *naranandananandanaŋ,* lit., “the Nandana \[“Joy”\] Garden that
-    is the joy \[*nandana*\] of people”. My translation attempts to
-    convey both the meaning and the delightful alliteration of the Pāli
-    here.
+[^36]: *naranandananandanaŋ,* lit., “the Nandana \[“Joy”\] Garden that is the joy \[*nandana*\] of people”. My translation attempts to convey both the meaning and the delightful alliteration of the Pāli here.
 
 [^37]: *amarinda-sunandanaŋ*
 
@@ -583,43 +551,35 @@ The legend of Khemā Therī is finished.
 
 [^39]: lit., “of the grove’s”
 
-[^40]: *giribbajapuruttamaŋ* (a.k.a. *rajagaha* = Rajgir), the capital
-    of King Bimbisāra near where the Bamboo Groove was (and is) located.
+[^40]: *giribbajapuruttamaŋ* (a.k.a. *rajagaha* = Rajgir), the capital of King Bimbisāra near where the Bamboo Groove was (and is) located.
 
-[^41]: she plans to be there when he is absent, still trying to evade
-    him
+[^41]: she plans to be there when he is absent, still trying to evade him
 
 [^42]: lit., “bearing fruit”
 
 [^43]: lit., “surrounded by a *saṅghāti* (monastic robe)
 
-[^44]: *visayajaŋ ratiŋ,* lit., “delight produced by/in the spheres of
-    the senses”
+[^44]: *visayajaŋ ratiŋ,* lit., “delight produced by/in the spheres of the senses”
 
 [^45]: lit., “by an elderly person” “by a decrepit person”
 
 [^46]: or “alone”
 
-[^47]: or a little less forcefully, “is this not the wretched Bull of
-    Men?” “Is this wretched one not the Bull of Men?” “this wretched one
-    is not the Bull of Men”
+[^47]: or a little less forcefully, “is this not the wretched Bull of Men?” “Is this wretched one not the Bull of Men?” “this wretched one is not the Bull of Men”
 
 [^48]: which has delicate, white flowers
 
 [^49]: or otherwise “good,” *su°*
 
-[^50]: PTS *varassoṇī* (“excellent buttocks”), BJTS *sussoṇī*, (“good
-    buttocks”)
+[^50]: PTS *varassoṇī* (“excellent buttocks”), BJTS *sussoṇī*, (“good buttocks”)
 
-[^51]: or “form/shape/beauty which is not to be satisfied” (or “not
-    troubling”?)
+[^51]: or “form/shape/beauty which is not to be satisfied” (or “not troubling”?)
 
 [^52]: lit., “this,” perhaps a deictic?
 
 [^53]: lit., “white-eyed”
 
-[^54]: lit., “gasping for breath (or “panting” or “sighing” or
-    “exhaling”: *nissasantī)* moment by moment”
+[^54]: lit., “gasping for breath (or “panting” or “sighing” or “exhaling”: *nissasantī)* moment by moment”
 
 [^55]: *me āsi saṃvego*
 
@@ -627,12 +587,9 @@ The legend of Khemā Therī is finished.
 
 [^57]: *samussayaŋ, “*conglomeration,” i.e., the body
 
-[^58]: *mānânusayaŋ ujjaha,* pride located in the subconscious,
-    “sleepful” (but not) pride in one’s existence, etc
+[^58]: *mānânusayaŋ ujjaha,* pride located in the subconscious, “sleepful” (but not) pride in one’s existence, etc
 
-[^59]: PTS and BJTS agree on the text here, in a complex/atypical meter,
-    but whereas PTS presents it as two 6-5-6-6 verses, BJTS presents it
-    as one 11-11-11-12 verse, as indicated in the varied numbering here.
+[^59]: PTS and BJTS agree on the text here, in a complex/atypical meter, but whereas PTS presents it as two 6-5-6-6 verses, BJTS presents it as one 11-11-11-12 verse, as indicated in the varied numbering here.
 
 [^60]: see above, v. 34 \[449\]
 
@@ -648,14 +605,11 @@ The legend of Khemā Therī is finished.
 
 [^66]: *loka-saraṇaŋ*
 
-[^67]: *araṇaŋ,* lit., “having no battle,” “not adversarial,” echoed in
-    *lokasaraṇaŋ* and *maraṇantagaŋ *
+[^67]: *araṇaŋ,* lit., “having no battle,” “not adversarial,” echoed in *lokasaraṇaŋ* and *maraṇantagaŋ *
 
 [^68]: *maraṇantagaŋ* (correct to *°antakaṃ* read *°antaguṃ* with BJTS)
 
-[^69]: or “Giver of Boons” “Wish-Granter”. Reading *varadadaṃ* with BJTS
-    (and PTS alt.) for PTS *varadaŋ* (which could be taken, however, as
-    the same thing)
+[^69]: or “Giver of Boons” “Wish-Granter”. Reading *varadadaṃ* with BJTS (and PTS alt.) for PTS *varadaŋ* (which could be taken, however, as the same thing)
 
 [^70]: *mahāhitaŋ*
 
@@ -669,35 +623,16 @@ The legend of Khemā Therī is finished.
 
 [^75]: *nibbanatho*, Skt. *nivanathaḥ*
 
-[^76]: *paccayākāra°,* or “modes of causes,” i.e., Abhidhammic analysis
-    of the causes of the continuity between the links in the twelve-fold
-    chain of causation (*paṭiccasamuppāda*)
+[^76]: *paccayākāra°,* or “modes of causes,” i.e., Abhidhammic analysis of the causes of the continuity between the links in the twelve-fold chain of causation (*paṭiccasamuppāda*)
 
-[^77]: this and the next two verses almost exactly parallel
-    *Gotamī-apadāna,* vv. 184-186 \[410-412\], above, and *Uppalavaṇṇā*
-    vv. 17-19 \[527-529\], below. That *Gotamī-apadāna* was composed
-    earlier, and *Khemā-apadāna later,* is perhaps evident in the
-    slippage within this verse, where the past tense verbs (appropriate
-    to the context in *Gotamī-apadāna*, but not here) have not been
-    corrected, even though the pronouns have been corrected from third
-    to first person. Pronouns and verb tenses are corrected in the next
-    two verses and more tellingly, in the corresponding verse of
-    *Uppalavaṇṇā-apadāna*, v. 17 \[527\], which reads *homi* for *āsiŋ*
+[^77]: this and the next two verses almost exactly parallel *Gotamī-apadāna,* vv. 184-186 \[410-412\], above, and *Uppalavaṇṇā* vv. 17-19 \[527-529\], below. That *Gotamī-apadāna* was composed earlier, and *Khemā-apadāna later,* is perhaps evident in the slippage within this verse, where the past tense verbs (appropriate to the context in *Gotamī-apadāna*, but not here) have not been corrected, even though the pronouns have been corrected from third to first person. Pronouns and verb tenses are corrected in the next two verses and more tellingly, in the corresponding verse of *Uppalavaṇṇā-apadāna*, v. 17 \[527\], which reads *homi* for *āsiŋ*
 
 [^78]: *kusalâhaŋ visuddhīsu,* lit., “I am skilled in the purifications”
 
-[^79]: one of the books of the Abhidhamma, believed in tradition to have
-    been uttered by Moggaliputtatissa in refutation of heretical views
-    expressed at the Third Great Recitation during the time of Aśoka
-    Maurya, an important piece of evidence that *Apadāna* is a
-    post-Aśokan text.
+[^79]: one of the books of the Abhidhamma, believed in tradition to have been uttered by Moggaliputtatissa in refutation of heretical views expressed at the Third Great Recitation during the time of Aśoka Maurya, an important piece of evidence that *Apadāna* is a post-Aśokan text.
 
-[^80]: *abhidhammanayaññū ca vasī,* lit., “\[I am a\] master of the
-    knowledge of Abhidhammic method”
+[^80]: *abhidhammanayaññū ca vasī,* lit., “\[I am a\] master of the knowledge of Abhidhammic method”
 
-[^81]: see DPPN I:1039, a locality in Kosala, between Śrāvasti and
-    Sāketa. King Pasenadi once stopped there to visit Khemā, who lived
-    there (S. iv. 374)
+[^81]: see DPPN I:1039, a locality in Kosala, between Śrāvasti and Sāketa. King Pasenadi once stopped there to visit Khemā, who lived there (S. iv. 374)
 
-[^82]: reading *yathātathaṃ* with BJTS (and PTS alt.) for PTS
-    *yathākathaŋ,* “according to what was said”
+[^82]: reading *yathātathaṃ* with BJTS (and PTS alt.) for PTS *yathākathaŋ,* “according to what was said”

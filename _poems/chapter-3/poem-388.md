@@ -32,9 +32,7 @@ six special knowledges mastered,
 Thus indeed Venerable Panasaphaladāyaka Thera spoke these verses.  
 The legend of Panasaphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Jak-Fruit Donor.”
 
@@ -42,17 +40,8 @@ The legend of Panasaphaladāyaka Thera is finished.
 
 [^4]: *samādhikusalo*
 
-[^5]: I follow BJTS in treating this as the name of a special type of
-    jak-fruit. It means, “life-lifer,” also (as *jivaṃjīvaka*) the name
-    of a bird (a type of pheasant, according to RD) whose call is
-    similar to the sound “*jīvaṃ jīvaṃ.”*
+[^5]: I follow BJTS in treating this as the name of a special type of jak-fruit. It means, “life-lifer,” also (as *jivaṃjīvaka*) the name of a bird (a type of pheasant, according to RD) whose call is similar to the sound “*jīvaṃ jīvaṃ.”*
 
-[^6]: *panasa* (Sinh. *panā* , *kos*) is the jak-fruit tree, Artocarpus
-    integrifolia (*Urti.*)
+[^6]: *panasa* (Sinh. *panā* , *kos*) is the jak-fruit tree, Artocarpus integrifolia (*Urti.*)
 
-[^7]: *kumbha-mattaŋ. Kumbha* can also mean the frontal globes of an
-    elephant, which are the size of (and resemble) a typical water jug
-    (I’m thinking of a *kalageḍiya* as used in rural Sri Lanka). As will
-    be clear, jak fruit can be very large. It is eaten as a tasty
-    vegetable when young, as a heavy starchy vegetable when mature, and
-    as a sweet fruit when ripe.
+[^7]: *kumbha-mattaŋ. Kumbha* can also mean the frontal globes of an elephant, which are the size of (and resemble) a typical water jug (I’m thinking of a *kalageḍiya* as used in rural Sri Lanka). As will be clear, jak fruit can be very large. It is eaten as a tasty vegetable when young, as a heavy starchy vegetable when mature, and as a sweet fruit when ripe.

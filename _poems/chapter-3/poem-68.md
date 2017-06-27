@@ -51,8 +51,7 @@ The legend of Ambadāyaka Thera is finished.
 
 [^2]: see note to v. \[1098\]
 
-[^3]: reading *damena uttamen*a (BJTS, PTS alt) for *dhammena yuttamena*
-    (PTS, corrupt).
+[^3]: reading *damena uttamen*a (BJTS, PTS alt) for *dhammena yuttamena* (PTS, corrupt).
 
 [^4]: lit., “in the seventy-seventh aeon”
 

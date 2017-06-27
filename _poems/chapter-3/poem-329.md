@@ -47,14 +47,11 @@ The legend of Pupphacchattiya Thera is finished.
 
 [^1]: “Flower-Umbrella-er”
 
-[^2]: here as in so many places, the singular is used in what is almost
-    certainly a plural sense, and I translate accordingly. xxx to the
-    intro...
+[^2]: here as in so many places, the singular is used in what is almost certainly a plural sense, and I translate accordingly. xxx to the intro...
 
 [^3]: *bhikkhusaṅghe ṭhito*
 
-[^4]: here as in \#306 above I take the redundancy (*vehāsam nabham)* as
-    emphatic
+[^4]: here as in \#306 above I take the redundancy (*vehāsam nabham)* as emphatic
 
 [^5]: *naradeva,* “God (or king) among Men”
 

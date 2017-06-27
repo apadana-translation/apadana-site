@@ -105,27 +105,15 @@ six special knowledges mastered,
 Thus indeed Venerable Yāgudāyaka Thera spoke these verses.  
 The legend of Yāgudāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Gruel Donor”
 
-[^3]: *atithiŋ me gahetvā,* lit., “taking \[someone who was\] a stranger
-    to me” or “taking a stranger with me.” Cone, s.v., reads this usage
-    of *atithiŋ* within the common meaning of that term, “stranger” or
-    “newcomer,” and I follow suit. BJTS says an *atithi* is some sort of
-    “instrument for the road,” presumably a type of vehicle, or a
-    walking stick, or what have you; that would result in a translation
-    like “taking my *aitithi,* I...” As becomes clear below (v. 11;
-    \[4426\]), the protagonist is a merchant, traveling for the purpose
-    of trade. Thus *atithi* might also refer to the merchandise he takes
-    to sell or exchange.
+[^3]: *atithiŋ me gahetvā,* lit., “taking \[someone who was\] a stranger to me” or “taking a stranger with me.” Cone, s.v., reads this usage of *atithiŋ* within the common meaning of that term, “stranger” or “newcomer,” and I follow suit. BJTS says an *atithi* is some sort of “instrument for the road,” presumably a type of vehicle, or a walking stick, or what have you; that would result in a translation like “taking my *aitithi,* I...” As becomes clear below (v. 11; \[4426\]), the protagonist is a merchant, traveling for the purpose of trade. Thus *atithi* might also refer to the merchandise he takes to sell or exchange.
 
 [^4]: reading *agacchiṃ* with BJTS for PTS *āgacchiŋ,* “I came”
 
-[^5]: *saṅghārāmam upāgamiŋ,* lit., “I approached a residence \[or
-    “garden”\] for the Sangha \[or “assembly of monks”\]”
+[^5]: *saṅghārāmam upāgamiŋ,* lit., “I approached a residence \[or “garden”\] for the Sangha \[or “assembly of monks”\]”
 
 [^6]: *āraññakā*
 
@@ -137,18 +125,15 @@ The legend of Yāgudāyaka Thera is finished.
 
 [^10]: *gatī*, i.e., liability for rebirth
 
-[^11]: *oruddhanadikā yadi.* BJTS reads *oruddhanadikāya hi*, “because
-    of the river obstructing \[them\]”
+[^11]: *oruddhanadikā yadi.* BJTS reads *oruddhanadikāya hi*, “because of the river obstructing \[them\]”
 
 [^12]: *vedajāto*
 
 [^13]: lit., “of mine”
 
-[^14]: *pacannaŋ yāguŋ datvāna,* lit., “having given the fifth
-    gruel\[-donation\]”
+[^14]: *pacannaŋ yāguŋ datvāna,* lit., “having given the fifth gruel\[-donation\]”
 
-[^15]: *tidase gaṇe,* i.e. “among the thirty\[-three\] gods,” “in
-    Tāvatiṃsa heaven”
+[^15]: *tidase gaṇe,* i.e. “among the thirty\[-three\] gods,” “in Tāvatiṃsa heaven”
 
 [^16]: *mahārajjam,* lit., “great sovereignty” or “maharajah-ship”
 
@@ -156,33 +141,25 @@ The legend of Yāgudāyaka Thera is finished.
 
 [^18]: lit., “pierced,” “struck” “hit”
 
-[^19]: *sabbasampattiº,* lit., “all the attainments,” i.e., “I reached
-    nirvana, I became an arahant”
+[^19]: *sabbasampattiº,* lit., “all the attainments,” i.e., “I reached nirvana, I became an arahant”
 
 [^20]: omitting *cāpi,* “and also”
 
-[^21]: *sammasanto* (fr. *sammasati*)*,* “thinking about” “meditating
-    upon” “thoroughly understanding”
+[^21]: *sammasanto* (fr. *sammasati*)*,* “thinking about” “meditating upon” “thoroughly understanding”
 
 [^22]: *kalebaraŋ,* “body,” especially “dead body”.
 
-[^23]: reading *pure sikkhāpadā dānā* with BJTS for PTS *pure
-    sikkhāpadādāne;* lit., “before the training rules were given”
+[^23]: reading *pure sikkhāpadā dānā* with BJTS for PTS *pure sikkhāpadādāne;* lit., “before the training rules were given”
 
-[^24]: reading *vāṇijjaṃ* (trade, trading, i.e., his work as a traveling
-    merchant) with BJTS for PTS *vānijjaŋ*
+[^24]: reading *vāṇijjaṃ* (trade, trading, i.e., his work as a traveling merchant) with BJTS for PTS *vānijjaŋ*
 
-[^25]: or, “was a very good business” or “was well-directed:”
-    *suppayojitaŋ*
+[^25]: or, “was a very good business” or “was well-directed:” *suppayojitaŋ*
 
-[^26]: *nâbhijānāmi uppanna,* lit., “I do not know through experience
-    the arising \[of\]” or “I am not conscious of the arising \[of\]”
+[^26]: *nâbhijānāmi uppanna,* lit., “I do not know through experience the arising \[of\]” or “I am not conscious of the arising \[of\]”
 
-[^27]: *imāni pañcaṭhānāni,* lit., “these five conditions” “these five
-    states of being”
+[^27]: *imāni pañcaṭhānāni,* lit., “these five conditions” “these five states of being”
 
-[^28]: *bhavā ugghāṭitā mayā,* lit., “rebirths have been eliminated by
-    me”
+[^28]: *bhavā ugghāṭitā mayā,* lit., “rebirths have been eliminated by me”
 
 [^29]: this verse does not appear in BJTS
 

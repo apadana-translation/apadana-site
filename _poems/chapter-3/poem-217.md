@@ -34,8 +34,7 @@ The legend of Tālavaṇṭadāyaka Thera is finished.
 
 [^1]: “Palmyra-frond Fan Donor”
 
-[^2]: The palmyra (*tāla,* Sinh. *tal*) tree or fan palm is Borassus
-    flabelliformis
+[^2]: The palmyra (*tāla,* Sinh. *tal*) tree or fan palm is Borassus flabelliformis
 
 [^3]: lit., “Great Perfected Buddha’s”
 

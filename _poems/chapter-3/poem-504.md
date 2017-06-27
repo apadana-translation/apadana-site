@@ -32,25 +32,8 @@ six special knowledges mastered,
 Thus indeed Venerable Avaṭaphaliya Thera spoke these verses.  
 The legend of Avaṭaphaliya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: here BJTS and PTS agree on the spelling*.* The meaning is
-    “Stemless Fruit-er.” This same *apadāna* (with only very slight
-    differences) appears above, titled *Avaṇṭaphaladāyaka*-*apadāna*, as
-    \#378 \[381\], and titled *Avaṇṭaphaliyaº* (there PTS
-    *Avaṭaphaliyaº*), as \#463 {466}*.* In the present *apadāna* the
-    order of the refrain verses matches \#463 {466} but is inverted from
-    \#378 {381}; and the third foot of the first verse varies from that
-    in both of the parallel first verses. Virtually the same *apadāna*
-    is also presented as \#506 {509}, below, with the title
-    *Tālaphaliya.* It varies from the present one only in the fourth
-    foot of the second verse, where “with stems removed” is replaced by
-    “palmyra”. It is repeated again as {555}, below, and ascribed to the
-    historical monk Vajjīputta. Note Lilley’s note on PTS colophonic
-    title here, not only that its own alt. S-1 reads *Avaṇṭaº* but also
-    “*The following* apadāna *is missing in G., and the* Thera’s *name
-    is attached to this* apadāna*.” *
+[^2]: here BJTS and PTS agree on the spelling*.* The meaning is “Stemless Fruit-er.” This same *apadāna* (with only very slight differences) appears above, titled *Avaṇṭaphaladāyaka*-*apadāna*, as \#378 \[381\], and titled *Avaṇṭaphaliyaº* (there PTS *Avaṭaphaliyaº*), as \#463 {466}*.* In the present *apadāna* the order of the refrain verses matches \#463 {466} but is inverted from \#378 {381}; and the third foot of the first verse varies from that in both of the parallel first verses. Virtually the same *apadāna* is also presented as \#506 {509}, below, with the title *Tālaphaliya.* It varies from the present one only in the fourth foot of the second verse, where “with stems removed” is replaced by “palmyra”. It is repeated again as {555}, below, and ascribed to the historical monk Vajjīputta. Note Lilley’s note on PTS colophonic title here, not only that its own alt. S-1 reads *Avaṇṭaº* but also “*The following* apadāna *is missing in G., and the* Thera’s *name is attached to this* apadāna*.” *
 
 [^3]: *sataraŋsi,* i.e., “the Sun”

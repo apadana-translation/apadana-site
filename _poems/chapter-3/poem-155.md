@@ -27,12 +27,7 @@ six special knowledges mastered,
 Thus indeed Venerable Mandāravapūjaka Thera spoke these verses.  
 The legend of Mandāravapūjaka Thera is finished.
 
-[^1]: *“Mandārava-*Flower Offerer.” *Mandārava* (skt. *mandāra*) is the
-    coral tree, Erhythrina fulgens (RD Erythmia Indica), also one of the
-    five celestial trees whose flowers fall from the world of the gods.
-    In this context the reference seems to be to the divine, rather than
-    the earthly *mandārava,* so I leave the term untranslated, rather
-    than give “Coral Tree-Flower Offerer”
+[^1]: *“Mandārava-*Flower Offerer.” *Mandārava* (skt. *mandāra*) is the coral tree, Erhythrina fulgens (RD Erythmia Indica), also one of the five celestial trees whose flowers fall from the world of the gods. In this context the reference seems to be to the divine, rather than the earthly *mandārava,* so I leave the term untranslated, rather than give “Coral Tree-Flower Offerer”
 
 [^2]: lit., “did *pūjā* for”.
 

@@ -97,24 +97,19 @@ six special knowledges mastered,
 Thus indeed Venerable Ekadhammasavanīya Thera spoke these verses.  
 The legend of Ekadhammasavanīya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “One-Teaching-Hearer.” BJTS spells the name *Ekadammasavaṇīya*
 
 [^3]: *jaṭila,* an ascetic who wears his hair in a matted braid (*jaṭā*)
 
-[^4]: lit., “I was one who practices fierce austerities,” reading
-    *ugga-tāpano* with BJTS (and PTS alternative) for PTS
-    *uggata-āpaṇa,* “rising over the bazaar”
+[^4]: lit., “I was one who practices fierce austerities,” reading *ugga-tāpano* with BJTS (and PTS alternative) for PTS *uggata-āpaṇa,* “rising over the bazaar”
 
 [^5]: *na gantuŋ visahām’ ahaŋ*
 
 [^6]: lit., “I do not receive going”
 
-[^7]: reading *‘vokammitvāna* (“set out”) with BJTS for PTS
-    *vomisitvāna* (?).
+[^7]: reading *‘vokammitvāna* (“set out”) with BJTS for PTS *vomisitvāna* (?).
 
 [^8]: lit., “taking the perception of impermanence”
 

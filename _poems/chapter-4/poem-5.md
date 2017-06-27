@@ -45,22 +45,15 @@ six special knowledges mastered,
 Thus indeed Bhikkhunī Tīṇinaḷamālikā spoke these verses.  
 The legend of Tīṇinaḷamālikā Therī is finished.
 
-[^1]: BJTS omits *Tīṇī°.* The name means “\[Three\] (or perhaps we
-    should read *tiṇī,* \[Grass\]) Reed Garland-er”.
+[^1]: BJTS omits *Tīṇī°.* The name means “\[Three\] (or perhaps we should read *tiṇī,* \[Grass\]) Reed Garland-er”.
 
 [^2]: see note to *Therāpadāna* v. \[1886\]
 
 [^3]: *vedajāto*
 
-[^4]: lit., “I went to the Group of Thirty-Three”. BJTS reads “Due to
-    that karma \[so\] well done, with intention and \[firm\] resolve,
-    leaving \[my\] *kinnarī* body, I was born \[with\] the
-    Thirty-Three,” and places the last two feet of the verse at the
-    beginning of the next one.
+[^4]: lit., “I went to the Group of Thirty-Three”. BJTS reads “Due to that karma \[so\] well done, with intention and \[firm\] resolve, leaving \[my\] *kinnarī* body, I was born \[with\] the Thirty-Three,” and places the last two feet of the verse at the beginning of the next one.
 
-[^5]: reading *saṃvejetvāna me cittaṃ* (BJTS, PTS alt) for *saṃvedayitvā
-    kusalaṃ* (“having felt/experienced \[my\] wholesome \[karma\],”
-    PTS).
+[^5]: reading *saṃvejetvāna me cittaṃ* (BJTS, PTS alt) for *saṃvedayitvā kusalaṃ* (“having felt/experienced \[my\] wholesome \[karma\],” PTS).
 
 [^6]: BJTS reads “all \[new\] existence is destroyed.”
 

@@ -28,33 +28,20 @@ There are six plus sixty verses
 which are counted by those who know.  
 The Ekapadumiya Chapter, the Thirty-Fifth
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “One Salute.” Cf. \#29, \#275.
 
-[^3]: PTS and BJTS alt. read *Romasa* (cf. \#279). I follow BJTS in
-    reading *Revata* (also a PTS alt.)
+[^3]: PTS and BJTS alt. read *Romasa* (cf. \#279). I follow BJTS in reading *Revata* (also a PTS alt.)
 
-[^4]: reading *pītaraṃsiṃ va* with BJTS for PTS *vītaraŋsîva* (“devoid
-    of rays” or “woven rays”). PTS alt. *sataraŋsîva* (“hundred-rayed”)
-    is perhaps better than either of these readings, and consistent with
-    *Apadāna* usage elsewhere (cf. \#33, \#85, \#112, \#153, \#178,
-    \#181, \#185, \#202, \#215, \#309, \#345{348})
+[^4]: reading *pītaraṃsiṃ va* with BJTS for PTS *vītaraŋsîva* (“devoid of rays” or “woven rays”). PTS alt. *sataraŋsîva* (“hundred-rayed”) is perhaps better than either of these readings, and consistent with *Apadāna* usage elsewhere (cf. \#33, \#85, \#112, \#153, \#178, \#181, \#185, \#202, \#215, \#309, \#345{348})
 
 [^5]: *pahaṭaŋ,* BJTS reads *pahaṭṭhaŋ* with the same meaning.
 
 [^6]: or bronze, iron, etc.
 
-[^7]: *ukkāmukhaŋ,* the “mouth” (receiving or discharging end) of a
-    furnace or forge, a goldsmith’s smelting pot.
+[^7]: *ukkāmukhaŋ,* the “mouth” (receiving or discharging end) of a furnace or forge, a goldsmith’s smelting pot.
 
-[^8]: *khadiraṅgārasannibha*. *Khadira* is Sinh. *kihiri,* Acacia
-    Sundra, English “red cutch” or “khayer.” The tree produces
-    impressive spikes of yellow flowers but is known primarily for its
-    timber and use in making charcoal.
+[^8]: *khadiraṅgārasannibha*. *Khadira* is Sinh. *kihiri,* Acacia Sundra, English “red cutch” or “khayer.” The tree produces impressive spikes of yellow flowers but is known primarily for its timber and use in making charcoal.
 
-[^9]: *osadhī*. RD (s.v.) points out that all we really know about this
-    star is that it was particularly bright, leading Childers to
-    translate it as “Venus” and others as the morning star.
+[^9]: *osadhī*. RD (s.v.) points out that all we really know about this star is that it was particularly bright, leading Childers to translate it as “Venus” and others as the morning star.

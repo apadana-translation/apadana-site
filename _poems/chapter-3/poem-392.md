@@ -474,28 +474,19 @@ six special knowledges mastered,
 Thus indeed Venerable Sela Thera spoke these verses.  
 The legend of Sela Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
-    BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation. Here BJTS
-    reads 391, a typo.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation. Here BJTS reads 391, a typo.
 
-[^2]: “Stone,” a historical monk much-mentioned in the canon and
-    commentaries.
+[^2]: “Stone,” a historical monk much-mentioned in the canon and commentaries.
 
-[^3]: *vīthisāmi,* could also be imagined as an “owner” of roads, or
-    “master” of roads; BJTS seems to prefer the latter, glossing, “I was
-    the foremost person on a particular road.”
+[^3]: *vīthisāmi,* could also be imagined as an “owner” of roads, or “master” of roads; BJTS seems to prefer the latter, glossing, “I was the foremost person on a particular road.”
 
-[^4]: as v. 91 \[3673\], below, specifies that this occurred 100,000
-    aeons ago, the Buddha in question presumably would be Padumuttara
-    Buddha.
+[^4]: as v. 91 \[3673\], below, specifies that this occurred 100,000 aeons ago, the Buddha in question presumably would be Padumuttara Buddha.
 
 [^5]: *ādhāro sabbalokassa*
 
 [^6]: lit., “they”, *te*, “they \[have\]”
 
-[^7]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a
-    guild”
+[^7]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a guild”
 
 [^8]: *hatth’ārūḷhā,* those mounted on elephants
 
@@ -507,8 +498,7 @@ The legend of Sela Thera is finished.
 
 [^12]: lit., “they”, *te*, “they \[have\]”
 
-[^13]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a
-    guild”
+[^13]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a guild”
 
 [^14]: *uggā*
 
@@ -516,8 +506,7 @@ The legend of Sela Thera is finished.
 
 [^16]: lit., “they”, *te*, “they \[have\]”
 
-[^17]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a
-    guild”
+[^17]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a guild”
 
 [^18]: *āḷārikā*
 
@@ -529,8 +518,7 @@ The legend of Sela Thera is finished.
 
 [^22]: *te*, lit., “they” “they \[have\]”
 
-[^23]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a
-    guild”
+[^23]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a guild”
 
 [^24]: *rajakā*
 
@@ -542,8 +530,7 @@ The legend of Sela Thera is finished.
 
 [^28]: lit., “they”, *te*, “they \[have\]”
 
-[^29]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a
-    guild”
+[^29]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a guild”
 
 [^30]: *usukārā,* arrow-makers
 
@@ -559,23 +546,13 @@ The legend of Sela Thera is finished.
 
 [^36]: lit., “they”, *te*, “they \[have\]”
 
-[^37]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a
-    guild”
+[^37]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a guild”
 
-[^38]: here, PTS and BJTS diverge. The latter presents in two verses all
-    the material, plus some more, that appears in this one verse in PTS.
-    BJTS \[3588\] reads: The fletchers, the *bhamakāras* (?)/leather
-    workers and carpenters/happy, with pleasure in \[their\] hearts/have
-    formed themselves into a guild.// BJTS \[3589\] reads: “The
-    metal-smiths (*kammāro*), workers in gold/and likewise those who
-    work in tin/happy, with pleasure in \[their\] hearts, have formed
-    themselves into a guild.//” I prefer the BJTS reading here, but
-    stick the PTS as my base text.
+[^38]: here, PTS and BJTS diverge. The latter presents in two verses all the material, plus some more, that appears in this one verse in PTS. BJTS \[3588\] reads: The fletchers, the *bhamakāras* (?)/leather workers and carpenters/happy, with pleasure in \[their\] hearts/have formed themselves into a guild.// BJTS \[3589\] reads: “The metal-smiths (*kammāro*), workers in gold/and likewise those who work in tin/happy, with pleasure in \[their\] hearts, have formed themselves into a guild.//” I prefer the BJTS reading here, but stick the PTS as my base text.
 
 [^39]: *bhatakā*
 
-[^40]: *gītakā&lt;gītakārā.* BJTS reads *cetaka*, “boy servants,”
-    “waifs”
+[^40]: *gītakā&lt;gītakārā.* BJTS reads *cetaka*, “boy servants,” “waifs”
 
 [^41]: *dāsa-kammakārā bahū*
 
@@ -583,8 +560,7 @@ The legend of Sela Thera is finished.
 
 [^43]: lit., “they”, *te*, “they \[have\]”
 
-[^44]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a
-    guild”
+[^44]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a guild”
 
 [^45]: *udahārā*
 
@@ -598,8 +574,7 @@ The legend of Sela Thera is finished.
 
 [^50]: lit., “they”, *te*, “they \[have\]”
 
-[^51]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a
-    guild”
+[^51]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a guild”
 
 [^52]: *pupphikā*
 
@@ -613,23 +588,19 @@ The legend of Sela Thera is finished.
 
 [^57]: lit., “they”, *te*, “they \[have\]”
 
-[^58]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a
-    guild”
+[^58]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a guild”
 
 [^59]: *gaṇikā*, “those who belong to the crowd”
 
 [^60]: *kumbhadāsī*, lit., “slave-girls with water pots”
 
-[^61]: reading *pūvikā macchakā pi ca* (lit., “women who sell cakes and
-    also women who sell fish”) with BJTS for PTS *pūvikā macchakāyikā*
-    (“women who sell cakes and women with bodies of fish”
+[^61]: reading *pūvikā macchakā pi ca* (lit., “women who sell cakes and also women who sell fish”) with BJTS for PTS *pūvikā macchakāyikā* (“women who sell cakes and women with bodies of fish”
 
 [^62]: *yathā sakena thāmena,* “as far as their own power”
 
 [^63]: *te,* lit., “they” “they \[have\]”
 
-[^64]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a
-    guild”
+[^64]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a guild”
 
 [^65]: reading *etha* with BJTS for PTS *ete*, “they”
 
@@ -639,8 +610,7 @@ The legend of Sela Thera is finished.
 
 [^68]: *kārayun*, lit., “they caused to be built”
 
-[^69]: *upatthāna-sālā,* a hall for meetings, assemblies, services of
-    attendance on the monks.
+[^69]: *upatthāna-sālā,* a hall for meetings, assemblies, services of attendance on the monks.
 
 [^70]: *bhikkhusaṅghassa*
 
@@ -650,9 +620,7 @@ The legend of Sela Thera is finished.
 
 [^73]: *bhikkhusaṅghassa purato*
 
-[^74]: i.e., the protagonist, acting as the *ādikammika* (“instigator”)
-    of the offering; cf. *Pilindavaccha-apadāna* (\#388 {391}), vv. 6, 8
-    \[3379, 3381\]
+[^74]: i.e., the protagonist, acting as the *ādikammika* (“instigator”) of the offering; cf. *Pilindavaccha-apadāna* (\#388 {391}), vv. 6, 8 \[3379, 3381\]
 
 [^75]: *anuvattiŋsu*
 
@@ -670,79 +638,45 @@ The legend of Sela Thera is finished.
 
 [^82]: *rajje*
 
-[^83]: *parisā honti bandhavā*. This presumably refers to the relatives
-    in the previous existence, reborn with him as his political retinue.
+[^83]: *parisā honti bandhavā*. This presumably refers to the relatives in the previous existence, reborn with him as his political retinue.
 
 [^84]: lit., “there was a brahmin named Vāseṭṭha”
 
-[^85]: lit., “with eighty ten-millions (*asīti-koṭi)* in wealth
-    (*nicayo,* “heaped up”)”
+[^85]: lit., “with eighty ten-millions (*asīti-koṭi)* in wealth (*nicayo,* “heaped up”)”
 
-[^86]: *chalaṅge pāramiṇgato,* lit., “one who has reached perfection in
-    the six branches.” RD: “the set of six Vedāngas, disciplines of
-    Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā,
-    5. chando (viciti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97
-    in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln
-    178, 236.”
+[^86]: *chalaṅge pāramiṇgato,* lit., “one who has reached perfection in the six branches.” RD: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (viciti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.”
 
-[^87]: *jaṅghāvihāraŋ vicarantaŋ*, lit., “wandering while living on the
-    legs”. BJTS understands this to refer to walking back and forth
-    (Sinh. *sakman*), as in walking meditation, but these terms do not
-    necessarily imply that.
+[^87]: *jaṅghāvihāraŋ vicarantaŋ*, lit., “wandering while living on the legs”. BJTS understands this to refer to walking back and forth (Sinh. *sakman*), as in walking meditation, but these terms do not necessarily imply that.
 
 [^88]: or “honored”
 
 [^89]: lit., “having seen,” *disvā*
 
-[^90]: BJTS: Keṇiya. He is known in the canonical and commentarial
-    texts, as is this meeting with Sela which resulted in the latter
-    discovering the Buddha’s presence in Āpaṇa and subsequently
-    converting along with the 300 who had been his relatives at the time
-    of the original act, co-transmigrating up to and including the final
-    result of that act, namely arahantship. See DPPN I:663-664
+[^90]: BJTS: Keṇiya. He is known in the canonical and commentarial texts, as is this meeting with Sela which resulted in the latter discovering the Buddha’s presence in Āpaṇa and subsequently converting along with the 300 who had been his relatives at the time of the original act, co-transmigrating up to and including the final result of that act, namely arahantship. See DPPN I:663-664
 
-[^91]: reading *jaṭā-khārika-bharitam* (lit., “hair-braided \[and\]
-    filled with ashes”) with BJTS for PTS *jaṭābhābhārabharitaŋ,* “heavy
-    with the weight of the light of dread-locks,” but both are probably
-    mistakes for the recurring *jaṭābhārabharitaŋ* (PTS) or *jaṭābhārena
-    bharitaṃ* (BJTS) elsewhere in the text, translated as “bearing a
-    weight of matted hair”
+[^91]: reading *jaṭā-khārika-bharitam* (lit., “hair-braided \[and\] filled with ashes”) with BJTS for PTS *jaṭābhābhārabharitaŋ,* “heavy with the weight of the light of dread-locks,” but both are probably mistakes for the recurring *jaṭābhārabharitaŋ* (PTS) or *jaṭābhārena bharitaṃ* (BJTS) elsewhere in the text, translated as “bearing a weight of matted hair”
 
 [^92]: *paṭiyattāhutaŋ*
 
-[^93]: Sela asks the ascetic whether his sacrifice is being performed
-    for a wedding, whether because he is bringing a bride to live in his
-    own house (*āvāho*) or going to live in the house of a bride
-    (*vivāho*).
+[^93]: Sela asks the ascetic whether his sacrifice is being performed for a wedding, whether because he is bringing a bride to live in his own house (*āvāho*) or going to live in the house of a bride (*vivāho*).
 
-[^94]: lit., “has the king been invited by you?”. The brahmin wonders
-    whether the sacrifice is being performed for the king, as an
-    alternative to performing it for a wedding.
+[^94]: lit., “has the king been invited by you?”. The brahmin wonders whether the sacrifice is being performed for the king, as an alternative to performing it for a wedding.
 
-[^95]: *āhutī-yiṭṭhu-kāmo,* lit., “I am one with the desire to sacrifice
-    (*yiṭṭhu\[m\] =* infinitive of *yajati*) sacrifices (or oblations:
-    *āhutī*)” or “to sacrifice oblations.”
+[^95]: *āhutī-yiṭṭhu-kāmo,* lit., “I am one with the desire to sacrifice (*yiṭṭhu\[m\] =* infinitive of *yajati*) sacrifices (or oblations: *āhutī*)” or “to sacrifice oblations.”
 
-[^96]: *brāhmaṇe deva-sammate,* lit., “brahmins who have the same
-    opinions as the gods”
+[^96]: *brāhmaṇe deva-sammate,* lit., “brahmins who have the same opinions as the gods”
 
 [^97]: *sattasukhāvaho*
 
 [^98]: *sabbasattahitāvaho*
 
-[^99]: lit., “radiant with the color of a *Timbarūsaka* \[tree\]”. The
-    tree is diospyros embryopteris, Sinh. *timbiri.* The cty. specifies
-    that the color is that of gold.
+[^99]: lit., “radiant with the color of a *Timbarūsaka* \[tree\]”. The tree is diospyros embryopteris, Sinh. *timbiri.* The cty. specifies that the color is that of gold.
 
 [^100]: *pahaṭo,* BJTS reads *pahaṭṭho,* with the same meaning.
 
-[^101]: *ukkāmukhaº,* the “mouth” (receiving or discharging end) of a
-    furnace or forge, a goldsmith’s smelting pot.
+[^101]: *ukkāmukhaº,* the “mouth” (receiving or discharging end) of a furnace or forge, a goldsmith’s smelting pot.
 
-[^102]: *khadiraṅgārasannibha*. *Khadira* is Sinh. *kihiri,* Acacia
-    Sundra, English “red cutch” or “khayer.” The tree produces
-    impressive spikes of yellow flowers but is known primarily for its
-    timber and use in making charcoal.
+[^102]: *khadiraṅgārasannibha*. *Khadira* is Sinh. *kihiri,* Acacia Sundra, English “red cutch” or “khayer.” The tree produces impressive spikes of yellow flowers but is known primarily for its timber and use in making charcoal.
 
 [^103]: *vijjūpamo*
 
@@ -750,8 +684,7 @@ The legend of Sela Thera is finished.
 
 [^105]: i.e., when it is full, *puṇṇamāse va candimā*
 
-[^106]: *bhayātīto = bhaya + atīta,* lit., “he in whom fear is
-    overcome/surpassed/int he past” or “the one free of fear”
+[^106]: *bhayātīto = bhaya + atīta,* lit., “he in whom fear is overcome/surpassed/int he past” or “the one free of fear”
 
 [^107]: *bhavantakaraṇo,* “he who makes an end of existence”
 
@@ -773,13 +706,11 @@ The legend of Sela Thera is finished.
 
 [^116]: “God,” the creator deity, the lord of all (*sahampatī*)
 
-[^117]: reading *pattadhammo* with BJTS for PTS *mahantadhammo*, “he who
-    had a big Teaching”
+[^117]: reading *pattadhammo* with BJTS for PTS *mahantadhammo*, “he who had a big Teaching”
 
 [^118]: *dasabalo*
 
-[^119]: *balātibalapārago* (BJTS reads *ºpāragū*), lit., “one who has
-    gone beyond the power-surpassing power”
+[^119]: *balātibalapārago* (BJTS reads *ºpāragū*), lit., “one who has gone beyond the power-surpassing power”
 
 [^120]: *durāsado*
 
@@ -793,20 +724,9 @@ The legend of Sela Thera is finished.
 
 [^125]: *nerūpamo,* i.e., “is like the cosmic mountain.”
 
-[^126]: *asamasamo,* “the same \[even\] in difference*.”* This epithet
-    could be read as the grammatical negative of the compound
-    *samasama*, lit., “exactly the same” or “evenly even” (or, according
-    to Sinhala usage of the same term, “Equal”), which is also used as a
-    Buddha-epithet above, v. 57 of \#388 {391} (*Pilindavaccha-apadāna*)
-    = \[3430\]. *Asama* also means “stone,” a synonym for Sela’s own
-    name, so we could read this as meaning “The Same as Stone,” though
-    the relationship of that quality to the nature of the sky would then
-    prove problematic. A better alt. reading, suggested to me by H.M.
-    Wijerathna, is “the Same as the Unmatched Ones,” (“the same as those
-    of whom no one is an equal”), i.e., the previous Buddhas.
+[^126]: *asamasamo,* “the same \[even\] in difference*.”* This epithet could be read as the grammatical negative of the compound *samasama*, lit., “exactly the same” or “evenly even” (or, according to Sinhala usage of the same term, “Equal”), which is also used as a Buddha-epithet above, v. 57 of \#388 {391} (*Pilindavaccha-apadāna*) = \[3430\]. *Asama* also means “stone,” a synonym for Sela’s own name, so we could read this as meaning “The Same as Stone,” though the relationship of that quality to the nature of the sky would then prove problematic. A better alt. reading, suggested to me by H.M. Wijerathna, is “the Same as the Unmatched Ones,” (“the same as those of whom no one is an equal”), i.e., the previous Buddhas.
 
-[^127]: *atulo.* Pronounce as contraction “unmeas’rable to preserve
-    meter
+[^127]: *atulo.* Pronounce as contraction “unmeas’rable to preserve meter
 
 [^128]: *aggataŋ gato*
 
@@ -822,70 +742,41 @@ The legend of Sela Thera is finished.
 
 [^134]: *buddhi-mantānaŋ* (intelligence and mantras)
 
-[^135]: happiness need to be contracted “happ’ness” in recitation, to
-    preserve meter.
+[^135]: happiness need to be contracted “happ’ness” in recitation, to preserve meter.
 
-[^136]: *assāsaka,* “breathing,” “having breath,” by extension
-    “breathing easily,” or “he who makes others breath easily”. I follow
-    BJTS Sinhala gloss in thus translating the epithet (Sinh. äsväsillak
+[^136]: *assāsaka,* “breathing,” “having breath,” by extension “breathing easily,” or “he who makes others breath easily”. I follow BJTS Sinhala gloss in thus translating the epithet (Sinh. äsväsillak
 
-[^137]: *veda-kara*, “the one who makes religious feeling, religious
-    joy, enthusiasm, emotion.” *Veda* is a wide-ranging term derived
-    from \*vid (hence also “knowledge,” “science,” cf. *vijjā*), and of
-    course designates the revealed poetry of the brahmins. In that
-    latter context (whereby we could read the term, “Doer of the Veda”
-    or even Maker of the Veda,” another possible meaning) , the literal
-    meaning of *assāsaka* (see previous note) is especially interesting,
-    for “Breathing” or even “the Breath” similarly evokes a theme very
-    dear to Brahmanical thought and scripture.
+[^137]: *veda-kara*, “the one who makes religious feeling, religious joy, enthusiasm, emotion.” *Veda* is a wide-ranging term derived from \*vid (hence also “knowledge,” “science,” cf. *vijjā*), and of course designates the revealed poetry of the brahmins. In that latter context (whereby we could read the term, “Doer of the Veda” or even Maker of the Veda,” another possible meaning) , the literal meaning of *assāsaka* (see previous note) is especially interesting, for “Breathing” or even “the Breath” similarly evokes a theme very dear to Brahmanical thought and scripture.
 
 [^138]: *meghūpamo,* especially a storm-cloud
 
-[^139]: reading *lokacakkhu* with BJTS for PTS *loke samussito*
-    (“elevated in the world,” also a reasonable epithet for both the
-    Buddha and the sun)
+[^139]: reading *lokacakkhu* with BJTS for PTS *loke samussito* (“elevated in the world,” also a reasonable epithet for both the Buddha and the sun)
 
 [^140]: *vīro*
 
-[^141]: reading *sabbatamavinodano* with BJTS for PTS
-    *sabbantamavinodano*
+[^141]: reading *sabbatamavinodano* with BJTS for PTS *sabbantamavinodano*
 
-[^142]: reading *sabhāva-dassano* with BJTS for PTS *sabhāva rasako,*
-    “the Original Taste”
+[^142]: reading *sabhāva-dassano* with BJTS for PTS *sabhāva rasako,* “the Original Taste”
 
-[^143]: *ārammaṇa-vimuttīsu,* the (multiple) forms of release from the
-    objects of the world and of the senses, including mental objects
+[^143]: *ārammaṇa-vimuttīsu,* the (multiple) forms of release from the objects of the world and of the senses, including mental objects
 
 [^144]: contract to “ven’rable” for recitation, to keep the meter
 
-[^145]: this verse does not appear in PTS. BJTS reads: *Vuddho samussito
-    loke/lakkhaṇehi alaṅkato/appameyyo mahāvīro/so me Buddho
-    nimantito//*
+[^145]: this verse does not appear in PTS. BJTS reads: *Vuddho samussito loke/lakkhaṇehi alaṅkato/appameyyo mahāvīro/so me Buddho nimantito//*
 
-[^146]: *Yassa ñāṇam appameyyaŋ,* lit., “of whom knowledge is without
-    end/limit/measure”
+[^146]: *Yassa ñāṇam appameyyaŋ,* lit., “of whom knowledge is without end/limit/measure”
 
-[^147]: *sīlaŋ yassa anūpamaŋ,* lit., “the morality of whom is without
-    comparison/metaphor”
+[^147]: *sīlaŋ yassa anūpamaŋ,* lit., “the morality of whom is without comparison/metaphor”
 
 [^148]: *vimutti asadisā*
 
-[^149]: BJTS (and PTS alt., *diti* \[sic?\]) reading *yassa dhiti*
-    (‘whose energy/steadfastness/courage”) for PTS *yassa pīti* (whose
-    joy”), also a likable epithet for both the Buddha
+[^149]: BJTS (and PTS alt., *diti* \[sic?\]) reading *yassa dhiti* (‘whose energy/steadfastness/courage”) for PTS *yassa pīti* (whose joy”), also a likable epithet for both the Buddha
 
 [^150]: *thāmo yas”sa acintiyo*
 
-[^151]: reading *agadūpama,* “like a medicine” with BJTS for PTS
-    *agarūpama* (“like \[something which is\] not heavy”?)
+[^151]: reading *agadūpama,* “like a medicine” with BJTS for PTS *agarūpama* (“like \[something which is\] not heavy”?)
 
-[^152]: lit., “you all should produce joy with me: BJTS gloss prefers to
-    read the *me* as modifying the saying of “Buddha,” i.e., “my saying
-    of...” I take it, instead, as an instrumental connected with the
-    second person plural imperative, a subtle reminder that though Sela
-    is addressed as a singular “you” in the first two feet of this
-    verse, he is surrounded by a large group of three hundred followers.
-    The meaning could also be “you all should produce joy for me” .
+[^152]: lit., “you all should produce joy with me: BJTS gloss prefers to read the *me* as modifying the saying of “Buddha,” i.e., “my saying of...” I take it, instead, as an instrumental connected with the second person plural imperative, a subtle reminder that though Sela is addressed as a singular “you” in the first two feet of this verse, he is surrounded by a large group of three hundred followers. The meaning could also be “you all should produce joy for me” .
 
 [^153]: *pītimato santo*
 
@@ -897,34 +788,23 @@ The legend of Sela Thera is finished.
 
 [^157]: *sāgaraŋ viya dissantaŋ*
 
-[^158]: *adantadamako* could mean either “tamer of the untamed” or
-    “tamer who is untamed;” I leave the ambiguity open with the hyphen,
-    admitting here my preference for “tamer of the untamed” (which is
-    also the BJTS reading, cf RD on *dametar*), and recommend
-    pronunciation in chanting which through stress on the first term in
-    the compound, and tone, can emphasize that the Buddha is one who
-    tames those who are untamed/feral.
+[^158]: *adantadamako* could mean either “tamer of the untamed” or “tamer who is untamed;” I leave the ambiguity open with the hyphen, admitting here my preference for “tamer of the untamed” (which is also the BJTS reading, cf RD on *dametar*), and recommend pronunciation in chanting which through stress on the first term in the compound, and tone, can emphasize that the Buddha is one who tames those who are untamed/feral.
 
-[^159]: *bodhento bodhapakkhiye,* which BJTS glosses as the (37) aspects
-    or qualities of Awakening or Enlightenment (*bodha,* here = *bodhi,*
-    see RD s.v.)
+[^159]: *bodhento bodhapakkhiye,* which BJTS glosses as the (37) aspects or qualities of Awakening or Enlightenment (*bodha,* here = *bodhi,* see RD s.v.)
 
 [^160]: *ācāra-upacāraññū*
 
 [^161]: *dhammanucchavasaŋvaraŋ* (BJTS reads *dhammanucchaviº*)
 
-[^162]: *pade padaŋ nikkhipantā,* lit., “carefully placing \[your feet\]
-    step by step”
+[^162]: *pade padaŋ nikkhipantā,* lit., “carefully placing \[your feet\] step by step”
 
-[^163]: *pade padaŋ nikkhipantā,* lit., “carefully placing \[your feet\]
-    step by step”
+[^163]: *pade padaŋ nikkhipantā,* lit., “carefully placing \[your feet\] step by step”
 
 [^164]: *durūpansaṅkamā*
 
 [^165]: *appasaddā*
 
-[^166]: reading *yadā ‘haṃ* with BJTS for PTS *yāvâhaŋ,* “as far as
-    I...”
+[^166]: reading *yadā ‘haṃ* with BJTS for PTS *yāvâhaŋ,* “as far as I...”
 
 [^167]: *munibhūtā va,* i.e., silently
 
@@ -936,19 +816,15 @@ The legend of Sela Thera is finished.
 
 [^171]: *kathaŋ vītisāretvā*
 
-[^172]: i.e., the thirty-two auspicious marks on the body of a
-    *mahāpurusa,* which signal that he will either be a Buddha or a
-    wheel-turning monarch.
+[^172]: i.e., the thirty-two auspicious marks on the body of a *mahāpurusa,* which signal that he will either be a Buddha or a wheel-turning monarch.
 
-[^173]: *reading *iddhiyā* with BJTS for PTS *itthiyā* (“to a woman,”
-    sic!)*
+[^173]: *reading *iddhiyā* with BJTS for PTS *itthiyā* (“to a woman,” sic!)*
 
 [^174]: *kosohitaŋ vatthaguyhaŋ,* BJTS reads *kosohitavatthaguyhaŋ*
 
 [^175]: *kaṇṇasote*, “on his auditory organ”
 
-[^176]: reading *patamasi nalāṭantaṃ* with BJTS for PTS
-    *paṭtimasanalāṭaŋ taŋ*
+[^176]: reading *patamasi nalāṭantaṃ* with BJTS for PTS *paṭtimasanalāṭaŋ taŋ*
 
 [^177]: *niṭṭhaŋ gantvā,* lit., “having gone (come) to the conclusion”
 
@@ -964,18 +840,11 @@ The legend of Sela Thera is finished.
 
 [^183]: *pūgadhamme*
 
-[^184]: *hetu,* lit., causes; I follow BJTS gloss in understanding these
-    as *ānisaṃs*a*s* (Sinh. *anusas aṭak labami*). BJTS explains the use
-    of *hetu* (which may be *metri causa*) as “making that good deed,
-    \[that is\] that karma, the reason.” I count the eight here as: (1)
-    worshipped everywhere, (2) ambrosial food, (3) supported by
-    everyone, (4) no terrors, (5) no diseases, (6) long life, (7) fine
-    skin, (8) chosen or wished-for residences.
+[^184]: *hetu,* lit., causes; I follow BJTS gloss in understanding these as *ānisaṃs*a*s* (Sinh. *anusas aṭak labami*). BJTS explains the use of *hetu* (which may be *metri causa*) as “making that good deed, \[that is\] that karma, the reason.” I count the eight here as: (1) worshipped everywhere, (2) ambrosial food, (3) supported by everyone, (4) no terrors, (5) no diseases, (6) long life, (7) fine skin, (8) chosen or wished-for residences.
 
 [^185]: *pūjito*
 
-[^186]: reading *patiṭṭhā homi sabbesaṃ* with BJTS (and PTS alt.) for
-    PTS *patiṭṭhā bhosiŋ sabbesaŋ*
+[^186]: reading *patiṭṭhā homi sabbesaṃ* with BJTS (and PTS alt.) for PTS *patiṭṭhā bhosiŋ sabbesaŋ*
 
 [^187]: lit., “have,” “find”
 
@@ -991,15 +860,11 @@ The legend of Sela Thera is finished.
 
 [^193]: or, “in addition to those eight”
 
-[^194]: *paṭisambhidā,* i.e., mastery of the (four) analytical modes, a
-    mark of arahantship
+[^194]: *paṭisambhidā,* i.e., mastery of the (four) analytical modes, a mark of arahantship
 
-[^195]: lit., “and”. The *ca* here connects the two separate *ānisaṃsas*
-    into one, referred to in the final foot with the singular pronoun
-    *etaŋ*
+[^195]: lit., “and”. The *ca* here connects the two separate *ānisaṃsas* into one, referred to in the final foot with the singular pronoun *etaŋ*
 
-[^196]: *sabbavositavosāno,* lit., “being one who has accomplished all
-    accomplishments,” “being an arahant”
+[^196]: *sabbavositavosāno,* lit., “being one who has accomplished all accomplishments,” “being an arahant”
 
 [^197]: *katakicco*, i.e., “being an arahant”
 
@@ -1015,12 +880,7 @@ The legend of Sela Thera is finished.
 
 [^203]: lit., “having given”
 
-[^204]: *hetu,* lit., causes; I follow BJTS in understanding these as
-    *ānisaṃs*a*s* (Sinh. *anusas pahak labami*). I count the five here
-    as: (1) unshaken by love, (2) wealthy, (3) one whose words are taken
-    well, causing no offense, (4) mind not out of control, unshaken, and
-    (5) arahantship (unstained, respectful, obedient, duties complete,
-    undefiled follower of the Buddha).
+[^204]: *hetu,* lit., causes; I follow BJTS in understanding these as *ānisaṃs*a*s* (Sinh. *anusas pahak labami*). I count the five here as: (1) unshaken by love, (2) wealthy, (3) one whose words are taken well, causing no offense, (4) mind not out of control, unshaken, and (5) arahantship (unstained, respectful, obedient, duties complete, undefiled follower of the Buddha).
 
 [^205]: *acalo homi mettāya*
 
@@ -1030,11 +890,7 @@ The legend of Sela Thera is finished.
 
 [^208]: *na dhaŋsemi yathā ahaŋ*
 
-[^209]: reading *abhantaṃ mānasaṃ mama* with BJTS (*bhanta* = swerving,
-    wavering, unsteady, used of a cart that is out of control) for PTS
-    *āgataŋ mānasaŋ mamaŋ* (alt. *mama*), “my mind is come”. PTS also
-    gives *asantaŋ* (lacking peace, disturbed) as an alternate reading,
-    which would be preferable to *āgataŋ*
+[^209]: reading *abhantaṃ mānasaṃ mama* with BJTS (*bhanta* = swerving, wavering, unsteady, used of a cart that is out of control) for PTS *āgataŋ mānasaŋ mamaŋ* (alt. *mama*), “my mind is come”. PTS also gives *asantaŋ* (lacking peace, disturbed) as an alternate reading, which would be preferable to *āgataŋ*
 
 [^210]: *vimalo homi sāsane*
 
@@ -1050,17 +906,13 @@ The legend of Sela Thera is finished.
 
 [^216]: *paññapes’ ahaŋ*
 
-[^217]: *hetu,* lit., causes; I follow BJTS in understanding these as
-    *ānisaṃs*a*s* (Sinh. *anusas pahak labami*). I count the five here
-    as: (1) good birth, (2) great wealth, (3) all success, (4) lack of
-    stinginess or greed, (5) magic palanquin.
+[^217]: *hetu,* lit., causes; I follow BJTS in understanding these as *ānisaṃs*a*s* (Sinh. *anusas pahak labami*). I count the five here as: (1) good birth, (2) great wealth, (3) all success, (4) lack of stinginess or greed, (5) magic palanquin.
 
 [^218]: *ucce kule, *
 
 [^219]: *mahābhogo bhavāmi*
 
-[^220]: reading *sabbasampattiko homi* with BJTS for PTS
-    *sabbasampāttiko*
+[^220]: reading *sabbasampattiko homi* with BJTS for PTS *sabbasampāttiko*
 
 [^221]: lit., “not found for me” “I do not know” “I do not experience”
 
@@ -1072,20 +924,15 @@ The legend of Sela Thera is finished.
 
 [^225]: *sabbâbhiññā-balapatto*
 
-[^226]: *para-kiccatta-kiccāni,* “duties which are to be done by
-    others”. I follow BJTS gloss in reading the compound accordingly; it
-    could also be read to mean that he performed his own duties
-    including duties involving service *to* others.
+[^226]: *para-kiccatta-kiccāni,* “duties which are to be done by others”. I follow BJTS gloss in reading the compound accordingly; it could also be read to mean that he performed his own duties including duties involving service *to* others.
 
 [^227]: *pāvisim abhayaŋ puraŋ*, that is, nirvana.
 
-[^228]: Reading *seṭṭhattaṃ* (lit., “bestness”) with BJTS (and PTS alt.)
-    for PTS *seṭṭhan taŋ*
+[^228]: Reading *seṭṭhattaṃ* (lit., “bestness”) with BJTS (and PTS alt.) for PTS *seṭṭhan taŋ*
 
 [^229]: *karetvā* (BJTS reads *karitvā*) *kāraṇā nānā*
 
-[^230]: reading *dāruṇena damenti te* with BJTS for PTS *dārune na
-    damenti te,* “they do not tame the cruel ones.”
+[^230]: reading *dāruṇena damenti te* with BJTS for PTS *dārune na damenti te,* “they do not tame the cruel ones.”
 
 [^231]: reading *na h’evaṃ* with BJTS for PTS *na heva*
 
@@ -1095,14 +942,11 @@ The legend of Sela Thera is finished.
 
 [^234]: *uttame dame*
 
-[^235]: reading *vaṇṇe kittento* with BJTS for PTS *vaṇṇaŋ kittento,*
-    “praising the virtue”
+[^235]: reading *vaṇṇe kittento* with BJTS for PTS *vaṇṇaŋ kittento,* “praising the virtue”
 
-[^236]: reading *ekapañhaṃ* with BJTS for PTS *ekapañhe*, “single
-    questions”
+[^236]: reading *ekapañhaṃ* with BJTS for PTS *ekapañhe*, “single questions”
 
-[^237]: *sārathinā*. *Sārathī*, coachman or charioteer, also connotes a
-    trainer of horses, one who keeps the horses under control.
+[^237]: *sārathinā*. *Sārathī*, coachman or charioteer, also connotes a trainer of horses, one who keeps the horses under control.
 
 [^238]: *suvimiuttā*
 
@@ -1110,11 +954,6 @@ The legend of Sela Thera is finished.
 
 [^240]: *nibbutā*, lit., “blown out,” “cooled off,” i.e., in nirvana.
 
-[^241]: *upadhikkhaye,* i.e., “in the destruction of the substratum of
-    rebirth,.” *Upadhi* (clinging to rebirth, the reason for rebirth,
-    the obstacle to nirvana) is classified in various lists of *upadhis*
-    (plural), such as clinging, wrong views, defilements, karma, bad
-    conduct, etc.
+[^241]: *upadhikkhaye,* i.e., “in the destruction of the substratum of rebirth,.” *Upadhi* (clinging to rebirth, the reason for rebirth, the obstacle to nirvana) is classified in various lists of *upadhis* (plural), such as clinging, wrong views, defilements, karma, bad conduct, etc.
 
-[^242]: BJTS agrees with PTS here in presenting this variant on the
-    standard refrain verse
+[^242]: BJTS agrees with PTS here in presenting this variant on the standard refrain verse

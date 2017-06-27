@@ -56,8 +56,7 @@ The legend of Sumanāveliya Thera is finished.
 
 [^2]: lit., “made a *pūjā, pūjitaŋ*
 
-[^3]: Nirmāṇarati, a heaven wherein, as its name implies, one delights
-    in form.
+[^3]: Nirmāṇarati, a heaven wherein, as its name implies, one delights in form.
 
 [^4]: reading *akkositaṃ* with BJTS for PTS *uṭṭhāhitaŋ* (“exertion”)
 
