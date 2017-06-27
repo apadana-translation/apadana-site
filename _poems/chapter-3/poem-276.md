@@ -1,36 +1,20 @@
-*\[276. Potthadāyaka*[^1]*\]*
-
-I gave a plastering[^2] gift for
-
-the Gift-Worthy, Unexcelled One[^3]
-
-in the name of[^4] the Great Sage, the
-
-Teacher, and the Teaching, and monks.[^5] (1) \[2605\]
-
-In the ninety-one aeons since
-
-I did that \[good\] karma back then,
-
-I’ve come to know no bad rebirth:
-
-that’s the fruit of a plaster-gift. (2) \[2606\]
-
-The four analytical modes,
-
-and these eight deliverances,
-
-six special knowledges mastered,
-
-\[I have\] done what the Buddha taught! (3) \[2607\]
-
-Thus indeed Venerable Potthadāyaka Thera spoke these verses.
-
-The legend of Potthadāyaka Thera is finished.
-
+*\[276. Potthadāyaka*[^1]*\]*  
+I gave a plastering[^2] gift for  
+the Gift-Worthy, Unexcelled One[^3]  
+in the name of[^4] the Great Sage, the  
+Teacher, and the Teaching, and monks.[^5] (1) \[2605\]  
+In the ninety-one aeons since  
+I did that \[good\] karma back then,  
+I’ve come to know no bad rebirth:  
+that’s the fruit of a plaster-gift. (2) \[2606\]  
+The four analytical modes,  
+and these eight deliverances,  
+six special knowledges mastered,  
+\[I have\] done what the Buddha taught! (3) \[2607\]  
+Thus indeed Venerable Potthadāyaka Thera spoke these verses.  
+The legend of Potthadāyaka Thera is finished.  
 [^1]: “Plastering Donor” (or perhaps to be read, “Bark-Donor,” see next
-    note)
-
+    note)  
 [^2]: *potthadāna.* The basic meaning of *pottha* is plaster, a mortar
     made with limestone, soil, cow dung and water (RD, s.v.). The poem
     gives no contextual reason to take it, as apparently do both BJTS
@@ -51,8 +35,7 @@ The legend of Potthadāyaka Thera is finished.
     *Potthaka,* in the colophonic summary, which might support reading
     it as “cloth” after all. Cf. below, v. 176 of
     *Pilindavaccha-apadāna* (\#388 {391}) = \[3550\], where the term is
-    definitely used for a type of cloth.
-
+    definitely used for a type of cloth.  
 [^3]: *dakkhiṇeyye anuttare*, following BJTS Sinhala gloss (*kerehi*) in
     reading these locatives as indicating that the gift was “for” the
     Buddha. But these epithets could equally well stand in for the
@@ -61,8 +44,6 @@ The legend of Potthadāyaka Thera is finished.
     sense of the gift of plaster, if that is the meaning of *pottha*. If
     the reference is to the living Buddha (as BJTS seems to assume),
     then plastering does not make sense, which may explain why BJTS (and
-    cty) read it as a cloth instead.
-
-[^4]: more lit., “with reference to,” “concerning,” *ārabbha*
-
+    cty) read it as a cloth instead.  
+[^4]: more lit., “with reference to,” “concerning,” *ārabbha*  
 [^5]: *satthā (= Buddha), dhamma and saṅgha,* i.e., the Triple Gem.
