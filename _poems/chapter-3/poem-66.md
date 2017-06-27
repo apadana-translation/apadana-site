@@ -2,39 +2,48 @@
 Roaming a mountain hard to reach  
 I was \[then\] a high-born lion.  
 Slaying assemblies of wild beasts  
-I was living on that mountain. (1) \[1384\]  
+I was living on that mountain. (1) \[1384\]
+
 But Atthadassi, Blessed One,  
 Best Debater, Omniscient One,  
 with a wish for my upliftment  
-came to that superb mountain \[then\]. (2) \[1385\]  
+came to that superb mountain \[then\]. (2) \[1385\]
+
 I approached wishing to eat \[some\]  
 spotted antelopes I had killed.  
 At that time the Blessed One did  
-come \[there\] during his begging rounds. (3) \[1386\]  
+come \[there\] during his begging rounds. (3) \[1386\]
+
 Taking excellent \[chunks of\] meat,  
 I gave \[them\] to the Teacher \[then\].  
 The Great Hero gave thanks \[for that,\]  
-\[thus\] bringing me toward nirvana. (4) \[1387\]  
+\[thus\] bringing me toward nirvana. (4) \[1387\]
+
 I entered that hard-reached mountain  
 with that pleasure in \[my own\] heart,  
 \[and\] having given birth to joy,  
-I passed away \[right then and\] there. (5) \[1388\]  
+I passed away \[right then and\] there. (5) \[1388\]
+
 Because of that gift of \[some\] meat  
 and the resolve in \[my own\] heart,  
 for fifteen hundred aeons I  
-delighted in the world of gods. (6) \[1389\]  
+delighted in the world of gods. (6) \[1389\]
+
 In \[all\] the remaining aeons  
 I \[always\] acted wholesomely,  
 because of the gift of that meat,  
-and through Buddha-recollection. (7) \[1390\]  
+and through Buddha-recollection. (7) \[1390\]
+
 In the thirty-eighth aeon \[hence\]  
 there were eight \[kings\] named Dighāyu.[^2]  
 In the sixtieth[^3] aeon hence  
-there were two \[kings\] named Varuṇa. (8) \[1391\]  
+there were two \[kings\] named Varuṇa. (8) \[1391\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (9) \[1392\]  
+\[I have\] done what the Buddha taught! (9) \[1392\]
+
 Thus indeed Venerable Sucintita Thera spoke these verses.  
 The legend of Sucintita Thera is finished.  
 [^1]: “Well-Thought-Out.” \#92 and \#425 {428}, below, are ascribed to

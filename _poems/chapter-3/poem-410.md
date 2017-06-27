@@ -2,199 +2,248 @@
 In the Himalayan region,  
 there’s a mountain named Paduma.[^3]  
 My well-built hermitage \[is there,\]  
-with well-fashioned halls made of leaves. (1) \[4219\]  
+with well-fashioned halls made of leaves. (1) \[4219\]
+
 The rivers that are flowing there  
 have good banks and are beautiful,  
 with clear water, water that’s cool;  
-\[those\] rivers are always lovely. (2) \[4220\]  
+\[those\] rivers are always lovely. (2) \[4220\]
+
 There are sheatfish,[^4] *pāvusa*[^5] fish*,*  
 *valaja,*[^6] reed-fish[^7] \[and\] red-fish.[^8]  
 They are shining[^9] in the river;  
-the rivers always transport \[them\].[^10](3) \[4221\]  
+the rivers always transport \[them\].[^10](3) \[4221\]
+
 They’re veiled[^11] in mango,[^12] rose-apple,[^13]  
 *kareri*[^14] \[and\] coral-bean tree*,*[^15]  
 golden shower,[^16] trumpet-flower,[^17]  
-beautifying my hermitage. (4) \[4222\]  
+beautifying my hermitage. (4) \[4222\]
+
 Alangium,[^18] red *bimbijāl*,[^19]  
 and *māyākārī*[^20] \[trees\] in bloom  
 are diffusing perfumes \[there\],  
-beautifying my hermitage. (5) \[4223\]  
+beautifying my hermitage. (5) \[4223\]
+
 Hiptage vines[^21] and *sattalika,*[^22]  
 ironwood[^23] \[and\] *sal*[^24] in flower  
 are wafting divine fragrances,  
-beautifying my hermitage. (6) \[4224\]  
+beautifying my hermitage. (6) \[4224\]
+
 Neem*,*[^25] *salalā,*[^26] yellow cheesewood[^27]  
 and *aṭṭhaṅga*[^28] \[trees\] in full bloom,  
 are wafting divine fragrances,  
-beautifying my hermitage. (7) \[4225\]  
+beautifying my hermitage. (7) \[4225\]
+
 My hermitage has lots of fruit:  
 myrobalan[^29] \[and\] gooseberry,[^30]  
 mango,[^31] rose-apple,[^32] bahera,[^33]  
-jujube,[^34] markingnut,[^35] bel.[^36] (8) \[4226\]  
+jujube,[^34] markingnut,[^35] bel.[^36] (8) \[4226\]
+
 There kadam[^37] and banana \[trees\]  
 are flowering in my hermitage.  
 Wafting divine fragrances, they’re  
-beautifying my hermitage. (9) \[4227\]  
+beautifying my hermitage. (9) \[4227\]
+
 *Asokapiṇḍī,*[^38] *cavarī,*[^39]  
 and yellow cheesewood[^40] \[trees\] in bloom,  
 are wafting divine fragrances,  
-beautifying my hermitage. (10) \[4228\]  
+beautifying my hermitage. (10) \[4228\]
+
 Laurel[^41] \[and\] mountain laurel[^42] \[trees\]  
 \[and\] *timira* \[trees\] in bloom there,  
 are wafting divine fragrances,  
-beautifying my hermitage. (11) \[4229\]  
+beautifying my hermitage. (11) \[4229\]
+
 *Nigguṇḍi,*[^43] *sirinigguṇḍi*[^44]  
 and champak trees[^45] which are in bloom,  
 are wafting divine fragrances,  
-beautifying my hermitage. (12) \[4230\]  
+beautifying my hermitage. (12) \[4230\]
+
 Near \[the hermitage\] there’s a pond,  
 \[full of\] the songs of ruddy geese,[^46]  
 covered with *mandālaka* blooms[^47]  
-and with pink and blue lotuses.[^48] (13) \[4231\]  
+and with pink and blue lotuses.[^48] (13) \[4231\]
+
 It has clear water, cool water,  
 good bathing-fords[^49] which are lovely.  
 It is clear, the same as crystal,  
-beautifying my hermitage. (14) \[4232\]  
+beautifying my hermitage. (14) \[4232\]
+
 Pink lotuses are blooming there,  
 and white and blue lotuses \[too\].  
 It’s covered in *mandālaka,*[^50]  
-beautifying my hermitage. (15) \[4233\]  
+beautifying my hermitage. (15) \[4233\]
+
 Sheatfish[^51] \[also\] *pāvusa*[^52] fish*,*  
 *valaja,*[^53] reed-fish[^54] \[and\] red-fish[^55]  
 are swimming around[^56] in that \[pond\],[^57]  
-beautifying my hermitage. (16) \[4234\]  
+beautifying my hermitage. (16) \[4234\]
+
 Crocodiles[^58] and alligators,[^59]  
 tortoises and \[other\] fierce beasts,[^60]  
 *ogāhas,*[^61] \[and\] pythons[^62] \[too are\]  
-beautifying my hermitage. (17) \[4235\]  
+beautifying my hermitage. (17) \[4235\]
+
 Pigeons[^63] and *ravi-*swans[^64] as well,  
 ruddy geese[^65] and *nadīcara*s,  
 lapwings,[^66] \[also\] mynah birds[^67] are  
-beautifying my hermitage. (18) \[4236\]  
+beautifying my hermitage. (18) \[4236\]
+
 Shrubs like *nayita, ambagandhi,*  
 and screw-pine[^68] are blossoming there,  
 wafting \[their\] divine fragrances,  
-beautifying my hermitage. (19) \[4237\]  
+beautifying my hermitage. (19) \[4237\]
+
 Lions and tigers and leopards,  
 bears[^69] \[and\] wolves,[^70] *kara bānā* bears[^71]  
 are roaming about in the woods,  
-beautifying my hermitage. (20) \[4238\]  
+beautifying my hermitage. (20) \[4238\]
+
 Those bearing weights of matted hair,[^72]  
 who wear deer-leather outer robes,  
 are roaming about in the woods,  
-beautifying my hermitage. (21) \[4239\]  
+beautifying my hermitage. (21) \[4239\]
+
 Those \[hermits\] wearing deer-leather  
 are clever, living peacefully,  
 and they’re all eating little food,  
-beautifying my hermitage. (22) \[4240\]  
+beautifying my hermitage. (22) \[4240\]
+
 Carrying their[^73] shoulder yokes,[^74]  
 plunging into the forest then,  
 eating \[only\] roots and \[wild\] fruits,  
-\[they\] live in the hermitage then.[^75] (23) \[4241\]  
+\[they\] live in the hermitage then.[^75] (23) \[4241\]
+
 They do not carry wood for fires  
 nor water for washing \[their\] feet;  
 through their collective majesty,[^76]  
-\[that all\] gets carried by itself. (24) \[4242\]  
+\[that all\] gets carried by itself. (24) \[4242\]
+
 Those eighty-four thousand sages  
 gathered together in that place;  
 all practice meditation[^77] and  
-are seeking ultimate meaning. (25) \[4243\]  
+are seeking ultimate meaning. (25) \[4243\]
+
 All are ascetics, celibates,  
 reproving,[^78] with vows for fixed minds[^79]  
 and able to fly through the sky;[^80]  
-\[they\] live in the hermitage then. (26) \[4244\]  
+\[they\] live in the hermitage then. (26) \[4244\]
+
 For five days they would congregate,  
 tranquil \[and\] living peacefully,  
 \[then\] worshipping one another,  
-they’re departing the way they face.[^81] (27) \[4245\]  
+they’re departing the way they face.[^81] (27) \[4245\]
+
 The Victor, Padumuttara,  
 was the Master of Everything.[^82]  
 Doing away with the darkness,  
-the Victor arose at that time. (28) \[4246\]  
+the Victor arose at that time. (28) \[4246\]
+
 There was a powerful spirit[^83]  
 \[then,\] living near my hermitage.  
 He praised[^84] the Sambuddha to me,  
-the one named “Ultimate Lotus.”[^85] (29) \[4247\]  
+the one named “Ultimate Lotus.”[^85] (29) \[4247\]
+
 “It is a Buddha who arose,  
 the Great Sage, Padumuttara;  
 having gone quickly, Sir,[^86] you now  
-should visit \[him\], the Sambuddha.”[^87] (30) \[4248\]  
+should visit \[him\], the Sambuddha.”[^87] (30) \[4248\]
+
 After hearing the spirit’s words,  
 with a mind that was very clear,  
 having shored up[^88] the hermitage;  
-I then set out from the forest. (31) \[4249\]  
+I then set out from the forest. (31) \[4249\]
+
 As though \[my\] clothes were now in flames,[^89]  
 quickly leaving the hermitage,  
 staying over a single night,[^90]  
-I came up to \[Buddha\], the Guide. (32) \[4250\]  
+I came up to \[Buddha\], the Guide. (32) \[4250\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 explaining the Four Noble Truths,  
-was declaring the deathless path. (33) \[4251\]  
+was declaring the deathless path. (33) \[4251\]
+
 Taking a pink lotus in bloom,[^91]  
 I went up to the Sage So Great.  
 Happy, with pleasure in \[my\] heart,  
-I offered it to the Buddha. (34) \[4252\]  
+I offered it to the Buddha. (34) \[4252\]
+
 Having worshipped[^92] the Sambuddha  
 whose name was “Ultimate Lotus,”  
 placing deer-hide on one shoulder,  
-I praised the Leader of the World: (35) \[2453\]  
+I praised the Leader of the World: (35) \[2453\]
+
 “That knowledge by which the Buddha  
 \[now\] dwells here without defilements,  
 I shall eulogize that knowledge;  
-\[all of\] you listen to my words. (36) \[2454\]  
+\[all of\] you listen to my words. (36) \[2454\]
+
 Blocking the stream of existence,[^93]  
 you ferry all creatures across.  
 Having listened to your Teaching,  
-they’re crossing the stream of craving.[^94] (37) \[2455\]  
+they’re crossing the stream of craving.[^94] (37) \[2455\]
+
 You’re the Teacher for those who breathe,  
 the Banner, the Flag and the Pole;  
 you are the Goal, the Solid Ground,  
-the Island,[^95] the Best of Bipeds. (38) \[2456\]  
+the Island,[^95] the Best of Bipeds. (38) \[2456\]
+
 The heads of groups[^96] throughout the world  
 are said to be leading teachers.[^97]  
 You are the Chief, Omniscient One;  
-they \[have all\] come into your fold.[^98] (39) \[4257\]  
+they \[have all\] come into your fold.[^98] (39) \[4257\]
+
 Through your knowledge, Omniscient One,[^99]  
 you ferry many folks across.  
 Coming to take a look at you,  
-they make an end to suffering. (40) \[4258\]  
+they make an end to suffering. (40) \[4258\]
+
 Whatever perfumes are produced,  
 waft through this world, O Eyeful One.  
 None is equal to your \[sweet\] scent,  
-O Field of Merit, O Great Sage. (41) \[4259\]  
+O Field of Merit, O Great Sage. (41) \[4259\]
+
 O Eyeful One, you liberate  
 from woeful states,[^100] \[and\] wombs of beasts.[^101]  
 O Great Sage, you are explaining  
-the unconditioned path of peace.” (42) \[4260\]  
+the unconditioned path of peace.” (42) \[4260\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 seated in the monks’ Assembly,  
-spoke these verses \[about me then\]: (43) \[4261\]  
+spoke these verses \[about me then\]: (43) \[4261\]
+
 “He who \[thus\] worshipped[^102] my knowledge,  
 \[feeling well-\] pleased by \[his\] own hands,  
 I shall relate details of him;  
-\[all of\] you listen to my words: (44) \[4262\]  
+\[all of\] you listen to my words: (44) \[4262\]
+
 For thirty thousand aeons he  
 will delight in the world of gods.  
 A thousand time’s he’ll be a king,  
-a king who turns the wheel \[of law\].” (45) \[4263\]  
+a king who turns the wheel \[of law\].” (45) \[4263\]
+
 The gain for me was well-received,  
 having pleased \[him\], the Sambuddha.  
 Knowing well all the defilements,  
-I am \[now\] living, undefiled. (46) \[4264\]  
+I am \[now\] living, undefiled. (46) \[4264\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (47) \[4265\]  
+I am living without constraint. (47) \[4265\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (48) \[4266\]  
+\[I have\] done what the Buddha taught! (48) \[4266\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (49) \[4267\]  
+\[I have\] done what the Buddha taught! (49) \[4267\]
+
 Thus indeed Venerable Udena Thera spoke these verses.  
 The legend of Udena Thera is finished.  
 The Summary:  

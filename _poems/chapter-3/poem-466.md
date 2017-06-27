@@ -2,27 +2,33 @@
 The Blessed One, Hundred-Rayed One,[^3]  
 the Self-Become, Unconquered One,  
 Seclusion-Lover,[^4] Sambuddha,  
-went forth in order to seek food. (1) \[4889\]  
+went forth in order to seek food. (1) \[4889\]
+
 \[Holding\] fruit in \[my\] hand I saw  
 the Bull of Men who had approached.  
 Happy, with pleasure in \[my\] heart,  
-I gave \[him\] fruit with stems removed. (2) \[4890\]  
+I gave \[him\] fruit with stems removed. (2) \[4890\]
+
 In the ninety-four aeons since  
 I gave \[him\] that fruit \[at that time\],  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving fruit. (3) \[4891\]  
+that is the fruit of giving fruit. (3) \[4891\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (4) \[4892\]  
+I am living without constraint. (4) \[4892\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (5) \[4893\]  
+\[I have\] done what the Buddha taught! (5) \[4893\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[4894\]  
+\[I have\] done what the Buddha taught! (6) \[4894\]
+
 Thus indeed Venerable Avaṇṭaphaliya[^5] Thera spoke these verses.  
 The legend of Avaṇṭaphaliya[^6] Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

@@ -2,23 +2,28 @@
 Happy, with pleasure in my heart,  
 I gave eight tickets for alms food[^3]  
 to Kassapa, the Blessed One,  
-the Brahmin, the Perfected One.[^4] (1) \[4991\]  
+the Brahmin, the Perfected One.[^4] (1) \[4991\]
+
 Within the \[present\] aeon, since  
 I gave those eight meal-tickets \[then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of eight meal-tickets. (2) \[4992\]  
+that’s the fruit of eight meal-tickets. (2) \[4992\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (3) \[4993\]  
+I am living without constraint. (3) \[4993\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (4) \[4994\]  
+\[I have\] done what the Buddha taught! (4) \[4994\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[4995\]  
+\[I have\] done what the Buddha taught! (5) \[4995\]
+
 Thus indeed Venerable Kusaṭṭhakadāyaka Thera spoke these verses.  
 The legend of Kusaṭṭhakadāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

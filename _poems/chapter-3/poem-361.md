@@ -11,11 +11,13 @@ I carried it \[thus\] for a week,
 In the ninety-one aeons since  
 I did *pūjā* to the Buddha,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[3182\]  
+that’s the fruit of Buddha-*pūjā.* (3) \[3182\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[3183\]  
+\[I have\] done what the Buddha taught! (4) \[3183\]
+
 Thus indeed Venerable Ekamandāriya Thera spoke these verses.  
 The legend of Ekamandāriya Thera is finished.  
 [^1]: BJTS reads *Mandāravaº,* the preferred Pāli spelling.  

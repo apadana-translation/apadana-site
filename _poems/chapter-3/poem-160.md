@@ -2,31 +2,38 @@
 Close to the Himalayan range,  
 there was a large, natural lake  
 covered with pink and blue lotuses,  
-with white lotuses strewn about.[^2] (1) \[2043\]  
+with white lotuses strewn about.[^2] (1) \[2043\]
+
 At that time I was a bird there,  
 known by the name of Kakudha,[^3]  
 learned in merit/not merit,[^4]  
-moral and intelligent \[too\]. (2) \[2044\]  
+moral and intelligent \[too\]. (2) \[2044\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 the Great Sage wandered into the  
-vicinity of that \[great\] lake. (3) \[2045\]  
+vicinity of that \[great\] lake. (3) \[2045\]
+
 Taking a water-born lotus,  
 I gave it to the Great Sage \[then\].  
 Discerning what I was thinking,  
-the Sage so Great accepted \[it\]. (4) \[2046\]  
+the Sage so Great accepted \[it\]. (4) \[2046\]
+
 After having given that gift,  
 incited by \[my\] wholesome roots,  
 for one hundred thousand aeons  
-I’ve come to know no bad rebirth. (5) \[2047\]  
+I’ve come to know no bad rebirth. (5) \[2047\]
+
 In the sixteen-hundredth aeon  
 there were people, \[numbering\] eight,  
 \[all of whom\] were named Varuṇa,  
-wheel-turning kings with great power. (6) \[2048\]  
+wheel-turning kings with great power. (6) \[2048\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (7) \[2049\]  
+\[I have\] done what the Buddha taught! (7) \[2049\]
+
 Thus indeed Venerable Kumudadāyaka Thera spoke these verses.  
 The legend of Kumudadāyaka Thera is finished.  
 The Summary:  

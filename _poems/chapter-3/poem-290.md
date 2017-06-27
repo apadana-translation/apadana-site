@@ -2,27 +2,33 @@
 Eighty-four thousand \[great people\]  
 renounced the world, nothing at all.  
 I gave precedence to them \[then,\]  
-wishing for the ultimate goal. (1) \[2665\]  
+wishing for the ultimate goal. (1) \[2665\]
+
 In this world of lust and being,  
 they carefully attended on  
 the Undisturbed One,[^2] Lucid One,[^3]  
-\[feeling well-\]pleased by \[their\] own hands. (2) \[2666\]  
+\[feeling well-\]pleased by \[their\] own hands. (2) \[2666\]
+
 \[Their\] Faults Destroyed,[^4] Defects Expelled,[^5]  
 they Did their Duty, Free of Fault,[^6]  
 Pervading \[all\] with Loving Hearts,  
-Self-Become Ones, Unconquered Ones; (3) \[2667\]  
+Self-Become Ones, Unconquered Ones; (3) \[2667\]
+
 remembering those Sambuddhas,[^7]  
 having given service to them,  
 when the \[time of my\] death arrived,  
-I went to divine existence. (3-4) \[2668\]  
+I went to divine existence. (3-4) \[2668\]
+
 In the ninety-four aeons since  
 I protected morals back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of being restrained. (5) \[2669\]  
+that’s the fruit of being restrained. (5) \[2669\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[2670\]  
+\[I have\] done what the Buddha taught! (6) \[2670\]
+
 Thus indeed Venerable Pubbaṅgamaniya Thera spoke these verses.  
 The legend of Pubbaṅgamaniya Thera is finished.  
 The summary:  

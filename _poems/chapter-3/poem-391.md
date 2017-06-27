@@ -3,108 +3,134 @@
 In the city, Haṃsavatī,  
 I was a gate-keeper[^3] back then.  
 Undisturbable,[^4] boundless wealth  
-was heaped up for me in the house. (1) \[3374\]  
+was heaped up for me in the house. (1) \[3374\]
+
 \[While\] sitting down in solitude,  
 having \[greatly\] gladdened \[my\] mind,  
 seated in the splendid palace,  
-I contemplated thus back then: (2) \[3375\]  
+I contemplated thus back then: (2) \[3375\]
+
 “Much wealth has been obtained by me;  
 I have an opulent harem.  
 King Ānanda,[^5] lord of the earth,  
-himself invited \[me to come\].[^6] (3) \[3376\]  
+himself invited \[me to come\].[^6] (3) \[3376\]
+
 And \[now\] this Buddha has been born,  
 the Spontaneously Born[^7] Sage.[^8]  
 And \[all this\] wealth exists for me;  
-I will give gifts[^9] to the Teacher. (4) \[3377\]  
+I will give gifts[^9] to the Teacher. (4) \[3377\]
+
 The royal prince, \[named\] Paduma,[^10]  
 gave splendid gifts for the Victor:  
 strong[^11] elephants and palanquins  
-and large[^12] supports[^13] \[to hold them up\]. (5) \[3378\]  
+and large[^12] supports[^13] \[to hold them up\]. (5) \[3378\]
+
 I’ll also give gifts[^14] to the monks[^15]  
 with virtue supremely splendid.[^16]  
 I will be the instigator[^17]  
-of other \[things\] not yet given.”[^18] (6) \[3379\]  
+of other \[things\] not yet given.”[^18] (6) \[3379\]
+
 Thinking through varied[^19] donations[^20]  
 of which the fruit is happiness,  
 I lit on[^21] a requisites-gift,[^22]  
-\[which would\] fulfill my intentions: (7) \[3380\]  
+\[which would\] fulfill my intentions: (7) \[3380\]
+
 “I shall donate the requisites[^23]  
 for the monks of splendid virtue.[^24]  
 I will be the instigator[^25]  
-of other \[things\] not yet given.”[^26] (8) \[3381\]  
+of other \[things\] not yet given.”[^26] (8) \[3381\]
+
 Approaching the basket-makers,[^27]  
 I made an umbrella to last,[^28]  
 bringing together into one,  
-a hundred thousand umbrellas. (9) \[3382\]  
+a hundred thousand umbrellas. (9) \[3382\]
+
 I brought together into one,  
 a hundred thousand \[strips of\] cloth,  
 I brought together into one,  
-a hundred thousand begging bowls. (10a-b)[^29] \[3383\]  
+a hundred thousand begging bowls. (10a-b)[^29] \[3383\]
+
 And also small knives[^30] \[and\] hatchets,[^31]  
 needles[^32] \[and\] clippers for the nails.[^33]  
 Having \[them\] made fit for that I  
-hung \[them\] beneath the umbrella. (10c-d, 11a-b) \[3384\]  
+hung \[them\] beneath the umbrella. (10c-d, 11a-b) \[3384\]
+
 I had fans[^34] made fit for that \[too\],  
 fans \[made out\] of palmyra \[fronds\],[^35]  
 peacock-feathers[^36] and tails of yaks;[^37]  
-water-strainers,[^38] oil-containers.[^39] (11c-d, 12a-b) \[3385\]  
+water-strainers,[^38] oil-containers.[^39] (11c-d, 12a-b) \[3385\]
+
 I likewise had made, fit for that,  
 needle-cases[^40] \[and\] shoulder straps[^41]  
 as well as girdles for the waist[^42]  
-and \[also\] well-constructed stools.[^43] (12c-d, 13a-b) \[3386\]  
+and \[also\] well-constructed stools.[^43] (12c-d, 13a-b) \[3386\]
+
 Filling vessels made for eating  
 and also copper \[oil\] beakers  
 with medicines, I fixed those too  
-on the umbrella’s underside. (13b-c, 14a-b) \[3387\]  
+on the umbrella’s underside. (13b-c, 14a-b) \[3387\]
+
 I filled vessels with all \[of this\]:  
 sweet-flag,[^44] cuscus grass,[^45] licorice,[^46]  
 pepper,[^47] also black peppercorns,[^48]  
-myrobalan[^49] \[and\] ginger[^50] \[too\]. (14c-d, 15a-b) \[3388\]  
+myrobalan[^49] \[and\] ginger[^50] \[too\]. (14c-d, 15a-b) \[3388\]
+
 I likewise had made, fit for that,  
 shoes \[for the feet\],[^51] \[and\] sandals[^52] \[too\],  
 towels[^53] \[to use after bathing\],  
-\[and\] well-constructed walking-sticks.[^54] (15c-d, 16a-b) \[3389\]  
+\[and\] well-constructed walking-sticks.[^54] (15c-d, 16a-b) \[3389\]
+
 Tubes for holding herbs[^55] and ointments,[^56]  
 sticks of caustic,[^57] pots to keep things,[^58]  
 \[locks with their\] keys[^59] and key-cases[^60]  
-sewn with \[cloth\] of the five colors. (16c-d, 17a-b) \[3390\]  
+sewn with \[cloth\] of the five colors. (16c-d, 17a-b) \[3390\]
+
 I likewise had made, fit for that,  
 bandages[^61] and \[also\] smoke-tubes,[^62]  
 lamp-holders[^63] and water-vessels,[^64]  
-and baskets \[woven\] of wicker.[^65] (17c-d, 18a-b) \[3391\]  
+and baskets \[woven\] of wicker.[^65] (17c-d, 18a-b) \[3391\]
+
 I likewise had made, fit for that,  
 tweezers[^66] \[to pull\], scissors \[to cut\],[^67]  
 bags[^68] for \[containing\] medicines  
-and tools for removing ear-wax.[^69] (18c-d, 19a-b) \[3392\]  
+and tools for removing ear-wax.[^69] (18c-d, 19a-b) \[3392\]
+
 I \[likewise\] had made, fit for that,  
 and fixed beneath \[that\] umbrella,  
 long benches[^70] as well as short chairs[^71]  
 and couches[^72] fashioned with four \[legs\].[^73] (19c-d, 20a-b)
-\[3393\]  
+\[3393\]
+
 I likewise had made, fit for that,  
 wool cushions[^74] and cotton cushions,[^75]  
 cushions \[fashioned\] for the small chairs  
-and very well made pillows[^76] \[too\]; (20c-d, 21a-b) \[3394\]  
+and very well made pillows[^76] \[too\]; (20c-d, 21a-b) \[3394\]
+
 massaging stones[^77] and honeycombs,[^78]  
 and oil for warming up the hands,[^79]  
 small cases,[^80] planks[^81] and needles[^82] \[too\],  
-and a bed that was spread with rugs,[^83] (21c-d, 22a-b) \[3395\]  
+and a bed that was spread with rugs,[^83] (21c-d, 22a-b) \[3395\]
+
 dwelling places[^84] and foot-towels[^85]  
 and sticks \[to use\] for chairs and beds,[^86]  
 toothpicks[^87] and \[also good\] tooth-sticks,[^88]  
-\[and\] scents for smearing on the head,[^89] (22c-d, 23a-b) \[3396\]  
+\[and\] scents for smearing on the head,[^89] (22c-d, 23a-b) \[3396\]
+
 wood for fires[^90] and stools \[made\] of straw,[^91]  
 small plates for covering alms-bowls,[^92]  
 ladles \[which are made\] for water,[^93]  
-silver troughs for \[storing\] chunnam,[^94] (23c-d, 24a-b) \[3397\]  
+silver troughs for \[storing\] chunnam,[^94] (23c-d, 24a-b) \[3397\]
+
 brooms[^95] and water-jugs[^96] and likewise  
 garments \[to wear when\] it’s raining,[^97]  
 covers for the itch when sitting[^98]  
-and[^99] intermediate robes[^100] \[too\], (24c-d, 25a-b) \[3398\]  
+and[^99] intermediate robes[^100] \[too\], (24c-d, 25a-b) \[3398\]
+
 monastic robes and upper robes,[^101]  
 cleaners for the mouth and the nose,[^102]  
 abundant salt and sour gruel,[^103]  
-honey[^104] and soured milk to drink,[^105] (25c-d, 26a-b) \[3399\]  
+honey[^104] and soured milk to drink,[^105] (25c-d, 26a-b) \[3399\]
+
 incense,[^106] lumps of boiled rice,[^107] and rags,[^108]  
 napkins with which to wipe the face:[^109]  
 whatever ought to be given  
@@ -119,275 +145,337 @@ I spoke these words \[to him back then\]: (26c-d, 27-28) \[3400-3401\]
 “Together \[we were\] born \[and\] raised;  
 \[we\] are both of a single mind,[^114]  
 and[^115] in common \[we\] both follow  
-\[one course\] through happiness and pain.”[^116] (29) \[3402\]  
+\[one course\] through happiness and pain.”[^116] (29) \[3402\]
+
 \[King:\]  
 “O conqueror of foes[^117] you have  
 dissatisfaction[^118] in the mind.  
 If you can, warrior, you should  
-remove that dissatisfaction. (30) \[3403\]  
+remove that dissatisfaction. (30) \[3403\]
+
 Your dissatisfaction is mine;[^119]  
 \[we\] are both of a single mind.[^120]  
 Know mine as ‘eliminated’  
-if yours \[has been expelled as well\].” (31) \[3404\]  
+if yours \[has been expelled as well\].” (31) \[3404\]
+
 \[Protagonist:\]  
 “Know of me,[^121] O great king, that my  
 suffering[^122] is hard to remove.  
-\[If you’re\] able[^123] you should shout[^124] \[it\]: (32) \[3405\]  
+\[If you’re\] able[^123] you should shout[^124] \[it\]: (32) \[3405\]
+
 one[^125] boon[^126] hard for you to grant[^127] \[me\].”  
 \[King:\]  
 “As long as \[I have\] victory,  
 to the \[whole\] extent of my life,  
 if it would be useful[^128] to you,  
-without wavering I’ll give[^129] \[it\].” (33) \[3406\]  
+without wavering I’ll give[^129] \[it\].” (33) \[3406\]
+
 \[Protagonist:\]  
 “This has been roared[^130] by you O king,[^131]  
 \[but\] too much roaring would be wrong.”  
 \[King:\]  
 “Today I’ll recognize you as  
-the one supported in all things.”[^132] (34) \[3407\]  
+the one supported in all things.”[^132] (34) \[3407\]
+
 \[Protagonist:\]  
 “\[When\] you know \[what\] I \[want to\] give  
 you’ll obdurately[^133] put \[me\] down.”[^134]  
 \[King:\]  
 “What’s the point of me stopping you?[^135]  
-You should declare your wish to me!” (35) \[3408\]  
+You should declare your wish to me!” (35) \[3408\]
+
 \[Protagonist:\]  
 “I am desirous, O great king,  
 of feeding \[him\], the Sambuddha,  
 the Best Buddha, the Unexcelled;  
-do not let my life be wasted!”[^136] (36) \[3409\]  
+do not let my life be wasted!”[^136] (36) \[3409\]
+
 \[King:\]  
 “I’ll[^137] give a different boon[^138] to you:  
 the Thus-Gone-One’s not to be begged;[^139]  
 to no one should the Thus-Gone-One  
-be given, like a wishing-gem.”[^140] (37) \[3410\]  
+be given, like a wishing-gem.”[^140] (37) \[3410\]
+
 \[Protagonist:\]  
 “O king did you not \[just\] say[^141] \[that\]  
 you’d even \[give me\] your own[^142] life?  
 The Thus-Gone-One is fit to give  
-by one giving \[his very\] life.” (38) \[3411\]  
+by one giving \[his very\] life.” (38) \[3411\]
+
 \[King:\]  
 “The Great Hero is kept apart;  
 to no one should he[^143] be given.  
 The Buddha’s not promised by me;  
-choose[^144] limitless riches \[instead\].” (39) \[3412\]  
+choose[^144] limitless riches \[instead\].” (39) \[3412\]
+
 \[Protagonist:\]  
 “Let us arrive at a judgement;  
 we’ll question in a court of law.  
 They[^145] will declare the proper path;[^146]  
-we will inquire about it thus.” (40) \[3413\]  
+we will inquire about it thus.” (40) \[3413\]
+
 Having taken the king in hand,  
 I \[then\] went to the court of law.  
 \[There\], in front of \[all\] the judges,[^147]  
-I spoke these words \[to them back then\]: (41) \[3414\]  
+I spoke these words \[to them back then\]: (41) \[3414\]
+
 \[Protagonist:\]  
 “Listen to me, O \[you\] judges:  
 the king did give a boon to me.  
 Without excepting anything  
-he offered even \[his own\] life.[^148] (42) \[3415\]  
+he offered even \[his own\] life.[^148] (42) \[3415\]
+
 When he had given me \[that\] boon,  
 I wished for the Best of Buddhas.  
 The Buddha’s well-given to me;  
-otherwise I am full of doubt.”[^149] (43) \[3416\]  
+otherwise I am full of doubt.”[^149] (43) \[3416\]
+
 \[Judges:\]  
 “We’ll listen[^150] to \[these\] words of yours  
 \[and\] of the earth-protecting king.  
 Listening to the words of both  
-we shall cut off \[all of\] your doubts. (44) \[3417\]  
+we shall cut off \[all of\] your doubts. (44) \[3417\]
+
 O king, \[did\] you give everything,\
 to this man, all-inclusively,[^151]  
 without excepting anything,  
-\[and\] offer even \[your own\] life?” (45) \[3418\]  
+\[and\] offer even \[your own\] life?” (45) \[3418\]
+
 \[King:\]  
 “Fallen into misery,[^152] he  
 requested an unexcelled boon.  
 Knowing him to be so upset,[^153]  
-I gave \[it\], all-inclusively.” (46) \[3419\]  
+I gave \[it\], all-inclusively.” (46) \[3419\]
+
 \[Judges:\]  
 “You are defeated \[here\], O king;  
 the Thus-Gone-One should be given.  
 The doubts of both have been cut off;  
-stand firm in \[this,\] the proper path.”[^154] (47) \[3420\]  
+stand firm in \[this,\] the proper path.”[^154] (47) \[3420\]
+
 \[Protagonist/narrator:\]  
 The king being put in \[his\] place  
 \[then\] said these \[words\] to the judges:  
 \[King:\]  
 “Fair[^155] to me too you should return[^156]  
-\[him\]; again I’ll get the Buddha.” (48) \[3421\]  
+\[him\]; again I’ll get the Buddha.” (48) \[3421\]
+
 \[Judges, to protagonist:\]  
 “Having fulfilled your intentions,  
 after feeding the Thus-Gone-One,  
 you should return[^157] the Sambuddha  
-to \[King\] Ānanda of \[great\] fame.” (49) \[3422\]  
+to \[King\] Ānanda of \[great\] fame.” (49) \[3422\]
+
 \[Protagonist:\]  
 Having saluted the judges  
 and also the king,[^158] Ānanda,  
 \[then\] happy, being delighted,  
-I went up to the Sambuddha. (50) \[3423\]  
+I went up to the Sambuddha. (50) \[3423\]
+
 Having approached the Sambuddha,  
 the Flood-Crosser, the Undefiled,  
 after saluting with \[my\] head,  
-I spoke these words \[to him back then\]: (51) \[3424\]  
+I spoke these words \[to him back then\]: (51) \[3424\]
+
 “Give your consent, O Eyeful One,  
 causing \[my\] heart to \[start\] laughing;  
 approach my residence along  
-with the hundred thousand masters.”[^159] (52) \[3425\]  
+with the hundred thousand masters.”[^159] (52) \[3425\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 the Eyeful One gave \[his\] consent,  
-discerning what I was thinking. (53) \[3426\]  
+discerning what I was thinking. (53) \[3426\]
+
 Perceiving \[that he gave\] consent,  
 after saluting the Teacher,  
 happy, with rapture in \[my\] heart,  
-I went up to my residence. (54) \[3427\]  
+I went up to my residence. (54) \[3427\]
+
 Assembling friends and ministers  
 I spoke these words \[to them back then\]:  
 “I got what’s very hard to get,  
-just like a wish-fulfilling gem.” (55) \[3428\]  
+just like a wish-fulfilling gem.” (55) \[3428\]
+
 \[Friends and Ministers:\]  
 “With what \[then\] will we worship[^160] him?  
 The Victor[^161] is the Boundless One,[^162]  
 Beyond Compare,[^163] Unmatched,[^164] Hero,[^165]  
-Unmeasurable,[^166] Unequaled.”[^167] (56) \[3429\]  
+Unmeasurable,[^166] Unequaled.”[^167] (56) \[3429\]
+
 And thus also Always the Same,[^168]  
 Without a Second,[^169] Bull of Men.[^170]  
 Service that’s hard for you to do  
-is suitable for the Buddha. (57) \[3430\]  
+is suitable for the Buddha. (57) \[3430\]
+
 Assembling varied flowers let  
 us make a floral pavilion.[^171]  
 That is what befits the Buddha;  
-there will be everything-*pūjā.”* (58) \[3431\]  
+there will be everything-*pūjā.”* (58) \[3431\]
+
 \[Protagonist:\]  
 I made that pavilion \[out of\]  
 blue lotuses,[^172] pink lotuses,[^173]  
 jasmine[^174] and *atimuttaka,*[^175]  
-champak[^176] and ironwood flowers.[^177] (59) \[3432\]  
+champak[^176] and ironwood flowers.[^177] (59) \[3432\]
+
 I spread one hundred thousand seats,  
 \[which were\] shaded with umbrellas.  
 The meanest seat, \[reserved\] for me,  
-was superb \[and\] worth one hundred. (60) \[3433\]  
+was superb \[and\] worth one hundred. (60) \[3433\]
+
 I spread one hundred thousand seats,  
 \[which were\] shaded with umbrellas.  
 After preparing food and drink,  
-I announced the time \[to begin\]. (61) \[3434\]  
+I announced the time \[to begin\]. (61) \[3434\]
+
 When I announced \[that it was\] time,  
 the Great Sage, Padumuttara,  
 \[then\] arrived at my residence  
-with the hundred thousand masters. (62) \[3435\]  
+with the hundred thousand masters. (62) \[3435\]
+
 The Supreme Person \[then\] sat down,  
 with the hundred thousand masters,  
 on the flowery floral stage[^178]  
-\[with\] the umbrella borne on top. (63) \[3436\]  
+\[with\] the umbrella borne on top. (63) \[3436\]
+
 In proper form[^179] and without flaws,  
 the Eyeful One did \[then\] accept  
 the hundred thousand umbrellas,  
-\[and too\] the hundred thousand seats. (64) \[3437\]  
+\[and too\] the hundred thousand seats. (64) \[3437\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 wishing to ferry me across,  
-accepted \[those things\], the Great Sage. (65) \[3438\]  
+accepted \[those things\], the Great Sage. (65) \[3438\]
+
 One for \[every\] one \[of the\] monks,[^180]  
 I gifted an alms-bowl to each.  
 They put down[^181] \[their\] previous[^182] bowls;  
-I carried to each a bronze[^183] bowl. (66) \[3439\]  
+I carried to each a bronze[^183] bowl. (66) \[3439\]
+
 Seven nights and days the Buddha  
 sat in the floral pavilion.  
 Awakening many beings,  
-he turned the wheel of the Teaching.[^184] (67) \[3440\]  
+he turned the wheel of the Teaching.[^184] (67) \[3440\]
+
 While he was preaching his sermon,[^185]  
 eighty-four thousand \[beings then\]  
 beneath the floral pavilion  
-gained insight into the Teaching.[^186] (68) \[3441\]  
+gained insight into the Teaching.[^186] (68) \[3441\]
+
 When the seventh day had arrived,  
 Padumuttara, the Great Sage,  
 spoke these verses \[to the crowd\]  
-from his umbrella-shaded seat: (69) \[3442\]  
+from his umbrella-shaded seat: (69) \[3442\]
+
 \[Padumuttara Buddha:\]  
 “I’ll relate details of this man  
 who gave to me, lacking nothing,  
 this \[most\] excellent offering;  
-\[all of\] you listen to my words: (70) \[3443\]  
+\[all of\] you listen to my words: (70) \[3443\]
+
 Tusker, solider, chariot, horse:  
 a four-fold army \[he will get\];  
 they will wait on him[^187] constantly:  
-that’s the fruit of everything-gifts.[^188](71) \[3444\]  
+that’s the fruit of everything-gifts.[^188](71) \[3444\]
+
 Palanquins \[too\], which have been hitched[^189]  
 to elephants \[and\] to horses,  
 will always[^190] be on hand for him:  
-that’s the fruit of everything-gifts. (72) \[3445\]  
+that’s the fruit of everything-gifts. (72) \[3445\]
+
 \[And\] sixty thousand chariots,  
 all decorated and adorned,  
 will constantly wait on this \[man\]:  
-that’s the fruit of everything-gifts. (73) \[3446\]  
+that’s the fruit of everything-gifts. (73) \[3446\]
+
 Sixty thousand instruments[^191] \[and\]  
 well-decorated kettle-drums[^192]  
 will constantly make sound for him:  
-that’s the fruit of everything-gifts. (74) \[3447\]  
+that’s the fruit of everything-gifts. (74) \[3447\]
+
 And women \[too, all\] well-made-up  
 numbering eight-six thousand,  
 with varied clothes and jewelry,  
-wearing earrings bearing gemstones, (75) \[3448\]  
+wearing earrings bearing gemstones, (75) \[3448\]
+
 with long eyelashes, lovely smiles[^193]  
 and slim waists, pleasant to look at,[^194]  
 constantly will wait on this \[man\]:  
-that’s the fruit of everything-gifts. (76) \[3449\]  
+that’s the fruit of everything-gifts. (76) \[3449\]
+
 For thirty thousand aeons he  
 will delight in the world of gods.  
 A thousand times the lord of gods,  
-he will exercise divine rule. (77) \[3450\]  
+he will exercise divine rule. (77) \[3450\]
+
 One thousand times he’s going to be  
 a king who turns the wheel \[of law\],  
 \[and he will have\] much local rule,  
-innumerable by counting. (78) \[3451\]  
+innumerable by counting. (78) \[3451\]
+
 While he, endowed with good karma,[^195]  
 is dwelling in the world of gods,  
 a gem-umbrella will be carried  
-around the world of gods for him. (79) \[3452\]  
+around the world of gods for him. (79) \[3452\]
+
 Whenever he should wish for shade,[^196]  
 a cloth \[and\] flower canopy,  
 recognizing this man’s wishes,[^197]  
-will constantly give shade \[to him\]. (80) \[3453\]  
+will constantly give shade \[to him\]. (80) \[3453\]
+
 Falling from the world of the gods,  
 incited by \[his\] wholesome roots,  
 in accordance with \[his\] karma,[^198]  
-he’ll be a kinsman of Brahmā.[^199] (81) \[3454\]  
+he’ll be a kinsman of Brahmā.[^199] (81) \[3454\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (82) \[3455\]  
+will be the Teacher in the world. (82) \[3455\]
+
 Seated in the monks’ Assembly,  
 Gotama, Bull of the Śākyans,  
 will place him in the foremost place  
-of understanding everything.[^200] (83) \[3456\]  
+of understanding everything.[^200] (83) \[3456\]
+
 He’ll be the teacher’s follower  
 by the name Pilindavaccha.  
 He’ll be honored[^201] by[^202] \[all\] the gods,  
-the titans[^203] and music-nymphs*.*[^204] (84) \[3457\]  
+the titans[^203] and music-nymphs*.*[^204] (84) \[3457\]
+
 Being beloved by[^205] all of them,  
 the Buddhist monks and Buddhist nuns,  
 and likewise too the laypeople,  
-he will dwell without defilements.”[^206](85) \[3458\]  
+he will dwell without defilements.”[^206](85) \[3458\]
+
 \[Protagonist:\]  
 Karma done a hundred thousand  
 \[aeons hence\] showed me \[its\] fruit here:  
 well-liberated, arrow-quick,  
-I have destroyed my defilements. (86) \[3459\]  
+I have destroyed my defilements. (86) \[3459\]
+
 O! My karma was done so well  
 in the unsurpassed merit-field.[^207]  
 Having done that act in that place[^208]  
-I’ve attained the unshaking state.[^209] (87) \[3460\]  
+I’ve attained the unshaking state.[^209] (87) \[3460\]
+
 A man who gave an excellent  
 offering,[^210] which lacked for nothing,  
 did take precedence from the start:[^211]  
-that’s the fruit of that offering. (88) \[3461\]  
+that’s the fruit of that offering. (88) \[3461\]
+
 Giving umbrellas for Buddha[^212]  
 \[and\] the monks of splendid virtue,[^213]  
 I experience eight results,[^214]  
-in accordance with my karma: (89) \[3462\]  
+in accordance with my karma: (89) \[3462\]
+
 I’m not aware of[^215] cold \[nor\] heat,  
 I am not soiled[^216] with dirt \[and\] dust,[^217]  
 I am safe,[^218] free of oppression,[^219]  
-\[and\] I am honored[^220] all the time. (90) \[3463\]  
+\[and\] I am honored[^220] all the time. (90) \[3463\]
+
 I am \[a person\] with soft skin,[^221]  
 \[my\] mind is \[always\] very clear,[^222]  
 \[and\] except[^223] for this \[present\] birth,  
@@ -399,43 +487,53 @@ as a result[^225] of that karma. (91-92) \[3464-3465\]
 Why[^226] do I lack in this lifetime[^227]  
 \[such\] bearing of an umbrella?  
 Because by doing all deeds[^228] I’m  
-under nirvana’s umbrella.[^229] (93) \[3466\]  
+under nirvana’s umbrella.[^229] (93) \[3466\]
+
 Giving clothes for the Well-Gone-One  
 \[and\] the monks of splendid virtue,[^230]  
 I experience eight results,[^231]  
-in accordance with my karma: (94) \[3467\]  
+in accordance with my karma: (94) \[3467\]
+
 As I transmigrate in the world,[^232]  
 I have an unblemished[^233] body,  
 golden in color, beautiful,  
-endowed with majesty, and smooth.[^234] (95) \[3468\]  
+endowed with majesty, and smooth.[^234] (95) \[3468\]
+
 A hundred thousand strips of cloth,  
 white and yellow and \[also\] red  
 are carried up above my head:  
-that is the fruit of giving cloth. (96) \[3469\]  
+that is the fruit of giving cloth. (96) \[3469\]
+
 Silk cloth[^235] and woolen blankets[^236] too,  
 *khoma* and also cotton cloth:[^237]  
 I am getting \[them\] everywhere,  
-as a result[^238] of \[giving\] them.[^239] (97) \[3470\]  
+as a result[^238] of \[giving\] them.[^239] (97) \[3470\]
+
 Giving bowls for the Well-Gone-One  
 \[and\] the monks of splendid virtue,[^240]  
 I experience ten results,[^241]  
-in accordance with my karma: (98) \[3471\]  
+in accordance with my karma: (98) \[3471\]
+
 I am always eating \[food\] on  
 plates of gold and plates of crystal,[^242]  
 also plates \[fashioned\] in silver  
-\[and\] plates which are made of ruby. (99) \[3472\]  
+\[and\] plates which are made of ruby. (99) \[3472\]
+
 I am safe,[^243] free of oppression,[^244]  
 \[and\] I am honored[^245] all the time.  
 I’m in receipt of food \[and\] drink,  
-clothes and couches \[to rest upon\]. (100) \[3473\]  
+clothes and couches \[to rest upon\]. (100) \[3473\]
+
 My possessions do not run out;  
 I’m one who has a steady heart.  
 I’m[^246] always fond of the Teaching,  
-have few flaws[^247] and am undefiled.[^248] (101) \[3474\]  
+have few flaws[^247] and am undefiled.[^248] (101) \[3474\]
+
 In the world of gods or of men,  
 these virtues follow after[^249] \[me\].  
 Everywhere shade does not leave me,  
-as though \[I were beneath\] a tree.[^250] (102) \[3475\]  
+as though \[I were beneath\] a tree.[^250] (102) \[3475\]
+
 Having given the Best Buddha,  
 and likewise the monks’ Assembly,  
 numerous well-made \[types\] of knives,[^251]  
@@ -445,11 +543,13 @@ in accordance with my karma: (103) \[3476\][^254]
 I am a god, and do not shake,[^255]  
 perfected in self-confidence,[^256]  
 \[have\][^257] courage[^258] \[and\] virility,[^259]  
-\[and\] my mind is always alert.[^260] (104) \[3477\]  
+\[and\] my mind is always alert.[^260] (104) \[3477\]
+
 As a result of \[giving\] them,[^261]  
 I am receiving everywhere  
 knowledge which cuts off defilement  
-\[and\] fine merit without measure. (105) \[3478\]  
+\[and\] fine merit without measure. (105) \[3478\]
+
 With pleasure in my heart I gave[^262]  
 for the Buddha \[and\] for the monks,[^263]  
 many scissors[^264] which were not rough[^265]  
@@ -465,131 +565,163 @@ knowledge as strong[^274] as a diamond.[^275] (107) \[3480c-d, 3481\]
 Giving needles for the Buddha[^276]  
 \[and\] the monks of splendid virtue,[^277]  
 I experience five results,[^278]  
-in accordance with my karma: (108) \[3482\]  
+in accordance with my karma: (108) \[3482\]
+
 Transmigrating from birth to birth,  
 I’m always worshipped,[^279] free of doubt,[^280]  
 very handsome, endowed with wealth,  
-\[and my\] wisdom is very sharp. (109) \[3483\]  
+\[and my\] wisdom is very sharp. (109) \[3483\]
+
 I see[^281] with knowledge of the facts  
 profound[^282] and subtle conditions.  
 My knowledge dispels \[all\] darkness,  
-just like a supreme thunder-bolt.[^283] (110) \[3484\]  
+just like a supreme thunder-bolt.[^283] (110) \[3484\]
+
 Giving clippers[^284] for the Buddha[^285]  
 \[and\] the monks of splendid virtue,[^286]  
 I experience five results,[^287]  
-in accordance with my karma: (111) \[3485\]  
+in accordance with my karma: (111) \[3485\]
+
 Everywhere indeed I receive  
 slave-girls and slaves, cows and horses,  
 servants and numerous watchmen,[^288]  
-barbers, food-providers[^289] \[and\] cooks. (112) \[3486\]  
+barbers, food-providers[^289] \[and\] cooks. (112) \[3486\]
+
 Giving fans[^290] for the Well-Gone-One  
 and fans \[made of\] palmyra\[-fronds,\][^291]  
 I experience eight results,[^292]  
-in accordance with my karma: (113) \[3487\]  
+in accordance with my karma: (113) \[3487\]
+
 I’m not aware of[^293] cold \[nor\] heat,  
 \[and\] burning fever[^294] is not known.  
 I don’t experience distress[^295]  
-nor torments \[which would scorch\] my heart.[^296] (114) \[3488\]  
+nor torments \[which would scorch\] my heart.[^296] (114) \[3488\]
+
 All my fires have been extinguished [^297]  
 as the result of \[giving\] that:  
 the fire of lust[^298] and fire of hate,[^299]  
-the fires of pride and of wrong views.[^300] (115) \[3489\]  
+the fires of pride and of wrong views.[^300] (115) \[3489\]
+
 Giving peacock plumes \[and\] ox-tails  
 for the monks, supreme assembly,[^301]  
 I’m one whose defilements are calmed;  
-I am dwelling free of blemish. (116) \[3490\]  
+I am dwelling free of blemish. (116) \[3490\]
+
 Giving strainers[^302] for the Buddha[^303]  
 \[and the monks who\] do the Teaching,[^304]  
 I experience five results,[^305]  
-in accordance with my karma. (117) \[3491\]  
+in accordance with my karma. (117) \[3491\]
+
 Passing beyond all the others,  
 I receive a divine lifespan.  
 There’s[^306] always little to endure[^307]  
-from thieves or \[other\] enemies.[^308] (118) \[3492\]  
+from thieves or \[other\] enemies.[^308] (118) \[3492\]
+
 There is also no trouble done  
 by weapons nor by poisoning,[^309]  
 There is no untimely death[^310] as  
-the result of my[^311] \[giving\] them. (119) \[3493\]  
+the result of my[^311] \[giving\] them. (119) \[3493\]
+
 Giving oil-containers[^312] for the  
 Buddha[^313] \[and also for\] the monks,[^314]  
 I experience five results,[^315]  
-in accordance with my[^316] karma: (120) \[3494\]  
+in accordance with my[^316] karma: (120) \[3494\]
+
 \[I have\] a very charming form,  
 good speech[^317] and lofty intentions;[^318]  
 \[I have\] a mind that’s not confused,  
-I’m guarded by all protections. (121) \[3495\]  
+I’m guarded by all protections. (121) \[3495\]
+
 Giving needle-cases[^319] for the  
 Buddha[^320] \[and also for\] the monks,[^321]  
 I experience three results,[^322]  
-in accordance with my[^323] karma: (122) \[3496\]  
+in accordance with my[^323] karma: (122) \[3496\]
+
 Pleasure in \[my\] mind \[and\] body[^324]  
 \[and\] pleasure born through the senses:[^325]  
 I am receiving these virtues  
-as a result of \[giving\] that. (123) \[3497\]  
+as a result of \[giving\] that. (123) \[3497\]
+
 Giving shoulder straps[^326] for Buddha[^327]  
 \[and\] the monks of splendid virtue,[^328]  
 I experience three results,[^329]  
-in accordance with my karma: (124) \[3498\]  
+in accordance with my karma: (124) \[3498\]
+
 I know the Great Teaching in depth;[^330]  
 I recall the second lifetime;[^331]  
 in every place I have good skin[^332]  
-as a result of \[giving\] that. (125) \[3499\]  
+as a result of \[giving\] that. (125) \[3499\]
+
 Giving girdles[^333] for the Victor[^334]  
 \[and\] the monks of splendid virtue,[^335]  
 I experience six results,[^336]  
-in accordance with my karma: (126) \[3500\]  
+in accordance with my karma: (126) \[3500\]
+
 Steadfast[^337] in meditative states,[^338]  
 I dwell in meditative states;  
 I’m in a group without factions,[^339]  
-my words are always taken well.[^340] (127) \[3501\]  
+my words are always taken well.[^340] (127) \[3501\]
+
 Mindfulness arises in me;  
 I do not \[ever\] get frightened.[^341]  
 In the world of gods or of men,  
-these virtues follow after[^342] \[me\]. (128) \[3502\]  
+these virtues follow after[^342] \[me\]. (128) \[3502\]
+
 Giving stools[^343] for the Victor \[and\]  
 the monks who have splendid virtue,[^344]  
 I’m an heir with five \[different\] kinds;[^345]  
-I’m not shaken by anything. (129) \[3503\]  
+I’m not shaken by anything. (129) \[3503\]
+
 Whatever Teachings, heard by me,  
 arouse knowledge \[and\] mindfulness,  
 kept in my mind[^346] they don’t get lost,  
-becoming very well-discerned. (130) \[3504\]  
+becoming very well-discerned. (130) \[3504\]
+
 Having given vessels and food  
 for Buddha \[and\] the supreme group,[^347]  
 I experience three results,[^348]  
-in accordance with my karma: (131) \[3505\]  
+in accordance with my karma: (131) \[3505\]
+
 I’m receiving eating vessels  
 made of gold \[and\] made of gemstones,  
 likewise \[vessels\] made of crystal  
-and even \[those\] made of rubies. (132) \[3506\]  
+and even \[those\] made of rubies. (132) \[3506\]
+
 \[I\] always \[have\] things to enjoy:[^349]  
 wives and slaves \[and\] slave-girls \[too\],  
 tusker-horse-chariot-soldier,[^350]  
-and the women are devoted.[^351] (133) \[3507\]  
+and the women are devoted.[^351] (133) \[3507\]
+
 \[I\] always \[have\] things to enjoy;  
 I observe[^352] all forms of learning:[^353]  
 ancient lore[^354] and Vedic mantras[^355]  
-and many varied disciplines.[^356] (134) \[3508\]  
+and many varied disciplines.[^356] (134) \[3508\]
+
 Giving plates for the Well-Gone-One  
 \[and\] for the monks, the supreme group,  
 I experience three results,[^357]  
-in accordance with my karma. (135) \[3509\]  
+in accordance with my karma. (135) \[3509\]
+
 I am receiving \[costly\] plates  
 made of gold \[and\] made of gemstones,  
 likewise \[vessels\] made of crystal  
-and even \[those\] made of rubies. (136) \[3510\]  
+and even \[those\] made of rubies. (136) \[3510\]
+
 I am also receiving plates,  
 made of Bodhi[^358] \[leaves\],[^359] made of gourds,[^360]  
 and likewise made of lotus leaves,[^361]  
-\[and\] of shells for drinking honey.[^362] (137) \[3511\]  
+\[and\] of shells for drinking honey.[^362] (137) \[3511\]
+
 As a result of \[giving\] that,  
 these virtues \[also\] are received:  
 good conduct[^363] in vows for virtue,[^364]  
-and with respect to good manners.[^365] (138) \[3512\]  
+and with respect to good manners.[^365] (138) \[3512\]
+
 Giving medicines for Buddha[^366]  
 \[and\] the monks of splendid virtue,[^367]  
 I experience ten results,[^368]  
-in accordance with my karma. (139) \[3513\]  
+in accordance with my karma. (139) \[3513\]
+
 I’m[^369] long-lived, strong \[and\] heroic,  
 beautiful, famous and happy,  
 free of oppression,[^370] \[also\] safe,[^371]  
@@ -599,27 +731,33 @@ as a result of \[giving\] that. (140) \[3514\][^373]
 Giving shoes[^374] for the Victor \[and\]  
 monks of supreme splendid virtue,  
 I experience three results,[^375]  
-in accordance with my karma. (141) \[3515\]  
+in accordance with my karma. (141) \[3515\]
+
 \[First\], palanquins which have been hitched[^376]  
 to elephants \[and\] to horses,  
 \[numbering in all\] six million,  
-are waiting on me all the time. (142) \[3516\]  
+are waiting on me all the time. (142) \[3516\]
+
 As I transmigrate in the world,[^377]  
 sandals[^378] made of gems \[and\] of wool,[^379]  
 \[also made of\] gold \[and\] silver  
-come to be; \[they\] lift up \[my\] feet.[^380] (143) \[3517\]  
+come to be; \[they\] lift up \[my\] feet.[^380] (143) \[3517\]
+
 They are running[^381] toward the right way[^382]  
 \[and\] purify guilty conduct.[^383]  
 I am receiving these virtues  
-as a result of \[giving\] that. (144) \[3518\]  
+as a result of \[giving\] that. (144) \[3518\]
+
 Giving sandals[^384] for the Buddha[^385]  
 \[and\] the monks of splendid virtue,[^386]  
 having put on magic sandals,[^387]  
-I reside according to wish.[^388] (145) \[3519\]  
+I reside according to wish.[^388] (145) \[3519\]
+
 Giving napkins to wipe the face[^389]  
 for Buddha and the supreme group,  
 I experience five results,[^390]  
-in accordance with my karma. (146) \[3520\]  
+in accordance with my karma. (146) \[3520\]
+
 Golden-colored \[and\] unblemished,  
 beautiful \[and\] endowed with strength,  
 my body is very smooth \[and\]  
@@ -629,7 +767,8 @@ as a result of \[giving\] that. (147) \[3521\][^393]
 Giving walking-sticks for Buddha[^394]  
 \[and\] the monks of splendid virtue,[^395]  
 I experience six results,[^396]  
-in accordance with my karma. (148) \[3522\]  
+in accordance with my karma. (148) \[3522\]
+
 Numerous sons are \[born\] to me,  
 I do not \[ever\] get frightened;[^397]  
 there’s[^398] always little to endure,[^399]  
@@ -639,19 +778,23 @@ my mind is not out of control.[^401] (149) \[3523\][^402]
 Having given herbs[^403] \[and\] ointments[^404]  
 for Buddha and the supreme monks,[^405]  
 I experience eight results[^406]  
-in accordance with my karma. (150) \[3524\]  
+in accordance with my karma. (150) \[3524\]
+
 I’m one whose eyes are \[always\] large,  
 \[whether they’re\][^407] white, yellow \[or\] red.  
 \[My\] eyes are unsullied and clear[^408]  
-and \[they\] are free of all disease.[^409] (151) \[3525\]  
+and \[they\] are free of all disease.[^409] (151) \[3525\]
+
 I am receiving “divine eye,”  
 the unsurpassed eye of wisdom.  
 I am receiving these virtues  
-as a result of \[giving\] that. (152) \[3526\]  
+as a result of \[giving\] that. (152) \[3526\]
+
 Giving keys[^410] for the Well-Gone-One  
 \[and\] the monks of splendid virtue,[^411]  
 I’m receiving the knowledge-key  
-which unlocks the door of *Dhamma*.[^412] (153) \[3527\]  
+which unlocks the door of *Dhamma*.[^412] (153) \[3527\]
+
 Giving key-cases for Buddha[^413]  
 \[and\] the monks of splendid virtue,[^414]  
 I experience two results,[^415]  
@@ -661,7 +804,8 @@ as I transmigrate in the world,[^416]
 Giving bandages for Buddha[^420]  
 \[and\] the monks of splendid virtue,[^421]  
 I experience five results,[^422]  
-in accordance with my karma. (155) \[3529\]  
+in accordance with my karma. (155) \[3529\]
+
 Steadfast[^423] in meditative states,[^424]  
 I dwell in meditative states;  
 I’m in a group without factions,[^425]  
@@ -671,131 +815,163 @@ there’s[^428] great wealth of possessions.[^429] (156) \[3530\][^430]
 Giving smoke-tubes[^431] for the Victor  
 \[and\] the monks of splendid virtue,[^432]  
 I experience three results,[^433]  
-in accordance with my karma. (157) \[3531\]  
+in accordance with my karma. (157) \[3531\]
+
 My conscience[^434] is never[^435] crooked,  
 \[and my\] muscles[^436] are well-defined;[^437]  
 I’m receiving the “divine eye”  
-as a result of \[giving\] that. (158) \[3532\]  
+as a result of \[giving\] that. (158) \[3532\]
+
 Giving lamp-plates[^438] for the Buddha[^439]  
 \[and\] the monks of splendid virtue,[^440]  
 I experience three results,[^441]  
-in accordance with my karma. (159) \[3533\]  
+in accordance with my karma. (159) \[3533\]
+
 I’m well-born,[^442] have a good body,[^443]  
 \[and I\] am wise,[^444] revered as smart.[^445]  
 I am receiving these virtues  
-as a result of \[giving\] that. (160) \[3534\]  
+as a result of \[giving\] that. (160) \[3534\]
+
 Giving vessels[^446] and baskets[^447] for  
 the Buddha and the supreme group,  
 I experience ten results,[^448]  
-in accordance with my karma. (161) \[3535\]  
+in accordance with my karma. (161) \[3535\]
+
 I’m always guarded,[^449] have great fame,[^450]  
 \[and\] happiness,[^451] likewise \[my\] state;[^452]  
 I’m devoted,[^453] and delicate,[^454]  
-\[and\] kept away from all distress.[^455] (162) \[3536\]  
+\[and\] kept away from all distress.[^455] (162) \[3536\]
+
 I’m a recipient of great[^456]  
 qualities[^457] for my occupation,[^458]  
 of vessels and of baskets \[too\];  
-I’m one whose troubles are removed.[^459](163) \[3537\]  
+I’m one whose troubles are removed.[^459](163) \[3537\]
+
 I’m receiving the four colors  
 of elephants, horses and gems.  
 Those things do not \[ever\] run out:  
-that’s the fruit in vessel-giving. (164) \[3538\]  
+that’s the fruit in vessel-giving. (164) \[3538\]
+
 Giving tubes for storing ointment[^460]  
 for Buddha and the supreme group,  
 I experience five results,[^461]  
-in accordance with my karma. (165) \[3539\]  
+in accordance with my karma. (165) \[3539\]
+
 All the time I have a body  
 endowed with all auspicious marks,[^462]  
 fitted with \[long\] life and wisdom,[^463]  
-liberated from all sorrows.[^464] (166) \[3540\]  
+liberated from all sorrows.[^464] (166) \[3540\]
+
 Giving scissors[^465] which were slender[^466]  
 \[and\] very sharp[^467] \[too\] for the monks,[^468]  
 I get the knowledge, unmatched[^469] and  
-pure, which cuts off the defilements. (167) \[3541\]  
+pure, which cuts off the defilements. (167) \[3541\]
+
 Giving tweezers[^470] for the Buddha[^471]  
 \[and\] the monks of splendid virtue,[^472]  
 I get the knowledge, unmatched[^473] and  
-pure, which pulls out the defilements. (168) \[3542\]  
+pure, which pulls out the defilements. (168) \[3542\]
+
 Giving nose-\[cleaners\][^474] for Buddha[^475]  
 \[and\] the monks of splendid virtue,[^476]  
 I experience eight results,[^477]  
-in accordance with my karma. (169) \[3543\]  
+in accordance with my karma. (169) \[3543\]
+
 I have faith[^478] \[and\] morality,[^479]  
 shame,[^480] the virtue of fearing sin,[^481]  
 \[I’m\] happy, generous, patient,  
-and wisdom is \[my\] eighth virtue. (170) \[3544\]  
+and wisdom is \[my\] eighth virtue. (170) \[3544\]
+
 Giving short chairs[^482] for the Buddha[^483]  
 \[and\] the monks of splendid virtue,[^484]  
 I experience five results,[^485]  
-in accordance with my karma. (171) \[3545\]  
+in accordance with my karma. (171) \[3545\]
+
 I’m born in an eminent clan,[^486]  
 I become a very rich man,[^487]  
 everyone is honoring me,[^488]  
-glory is arising for me.[^489] (172) \[3546\]  
+glory is arising for me.[^489] (172) \[3546\]
+
 For one hundred thousand aeons  
 palanquins atop four horses[^490]  
 are constantly waiting on me,  
-enjoying giving \[them\] away.[^491] (173) \[3547\]  
+enjoying giving \[them\] away.[^491] (173) \[3547\]
+
 Giving cushions[^492] for the Buddha[^493]  
 \[and\] the monks of splendid virtue,[^494]  
 I experience six results,[^495]  
-in accordance with my karma. (174) \[3548\]  
+in accordance with my karma. (174) \[3548\]
+
 \[My\] body is proportional,[^496]  
 I’m honored,[^497] gentle,[^498] good-looking,[^499]  
 I get an entourage that’s smart:[^500]  
-that’s the fruit of giving cushions. (175) \[3549\]  
+that’s the fruit of giving cushions. (175) \[3549\]
+
 Cotton mattresses[^501] and varied[^502]  
 coverlets of wool[^503] and of silk;[^504]  
 I receive various sorts of  
-fine hemp cloth[^505] and woolen blankets.[^506] (176) \[3550\]  
+fine hemp cloth[^505] and woolen blankets.[^506] (176) \[3550\]
+
 And cloaks[^507] which are soft \[on the skin,\]  
 and soft leather[^508] and bamboo[^509] ones;  
 I am receiving varied rugs:[^510]  
-that’s the fruit of giving cushions. (177) \[3551\]  
+that’s the fruit of giving cushions. (177) \[3551\]
+
 As far back as I remember,[^511]  
 ever since I reached discretion,[^512]  
 not vain,[^513] meditation’s my bed:[^514]  
-that’s the fruit of giving cushions. (178) \[3552\]  
+that’s the fruit of giving cushions. (178) \[3552\]
+
 Giving pillows[^515] for the Victor  
 \[and\] the monks of splendid virtue,[^516]  
 I experience six results,[^517]  
-in accordance with my karma. (179) \[3553\]  
+in accordance with my karma. (179) \[3553\]
+
 I am being cushioned upon[^518]  
 pillows made of wool and lotus  
 and also of red sandalwood;  
-I have[^519] an outstanding body.[^520] (180) \[3554\]  
+I have[^519] an outstanding body.[^520] (180) \[3554\]
+
 The excellent Eightfold Path and  
 the four fruits that come from monkhood:  
 knowledge of these is brought \[to me\]  
-\[and\] I dwell[^521] \[there\] all of the time. (181) \[3555\]  
+\[and\] I dwell[^521] \[there\] all of the time. (181) \[3555\]
+
 Giving,[^522] taming,[^523] and self-control;[^524]  
 \[and\] the \[four\] forms of boundlessness:[^525]  
 knowledge of these is brought \[to me\]  
-\[and\] I dwell[^526] \[there\] all of the time. (182) \[3556\]  
+\[and\] I dwell[^526] \[there\] all of the time. (182) \[3556\]
+
 Vows[^527] and virtues[^528] and practices,[^529]  
 also the \[types of\] good manners:[^530]  
 knowledge \[of these\] is brought \[to me\]  
-\[and\] I dwell[^531] \[there\] every day. (183) \[3557\]  
+\[and\] I dwell[^531] \[there\] every day. (183) \[3557\]
+
 Walking back and forth[^532] or striving;  
 exertion which leads to wisdom:[^533]  
 knowledge of these is brought \[to me\];  
-I dwell[^534] according to my wish. (184) \[3558\]  
+I dwell[^534] according to my wish. (184) \[3558\]
+
 Morality,[^535] meditation[^536]  
 and wisdom,[^537] unsurpassed freedom:[^538]  
 knowledge of these is brought \[to me\]  
-\[and\] I dwell[^539] \[full of\] happiness. (185) \[3559\]  
+\[and\] I dwell[^539] \[full of\] happiness. (185) \[3559\]
+
 Giving straw stools[^540] for the Victor  
 \[and\] the monks of splendid virtue,[^541]  
 I experience four results,[^542]  
-in accordance with my karma. (186) \[3560\]  
+in accordance with my karma. (186) \[3560\]
+
 I’m finding the best palanquins,  
 made of gold \[and\] made of gemstones,  
 made of ivory \[and\] fine wood:[^543]  
-that’s the fruit of stools \[made\] of straw. (187) \[3561\]  
+that’s the fruit of stools \[made\] of straw. (187) \[3561\]
+
 Giving footstools[^544] for the Victor  
 \[and\] the monks of splendid virtue,[^545]  
 I experience two results,[^546]  
-in accordance with my karma. (188) \[3562\]  
+in accordance with my karma. (188) \[3562\]
+
 I receive many vehicles:[^547]  
 that is the fruit of a footstool.  
 Slave-girls and slaves and \[also\] wives  
@@ -805,43 +981,53 @@ that is the fruit of a footstool. (189) \[3563\][^549]
 Giving oils for anointing[^550]  
 for Buddha and the supreme group,  
 I experience five results,[^551]  
-in accordance with my karma. (190) \[3564\]  
+in accordance with my karma. (190) \[3564\]
+
 Lack of illness, having beauty,  
 \[and\] quickly grasping[^552] the Teaching,  
 receiving of \[much\] food \[and\] drink,  
-\[and long\] life[^553] is the fifth for me. (191) \[3565\]  
+\[and long\] life[^553] is the fifth for me. (191) \[3565\]
+
 Giving clarified butter[^554] for  
 monks of supreme, splendid virtue,  
 I experience five results,[^555]  
-in accordance with my karma. (192) \[3566\]  
+in accordance with my karma. (192) \[3566\]
+
 I am strong, endowed with beauty,  
 always happy[^556] and born slender.[^557]  
 I am free of disease, and pure:  
-that is the fruit of \[giving\] ghee. (193) \[3567\]  
+that is the fruit of \[giving\] ghee. (193) \[3567\]
+
 Giving cleaners for the mouth[^558] for  
 the Buddha and the supreme group,  
 I experience five results,[^559]  
-in accordance with my karma. (194) \[3568\]  
+in accordance with my karma. (194) \[3568\]
+
 I have a clean throat[^560] \[and\] sweet sound,[^561]  
 I am free of coughs of asthma,[^562]  
 and the scent of blue lotuses[^563]  
-is always wafting from \[my\] mouth. (195) \[3569\]  
+is always wafting from \[my\] mouth. (195) \[3569\]
+
 Giving well-prepared[^564] milk-curds[^565] for  
 the Buddha and the supreme group,  
 I’m enjoying[^566] ambrosial[^567] things[^568]  
-\[and\] mindfulness of \[my\] body.[^569] (196) \[3570\]  
+\[and\] mindfulness of \[my\] body.[^569] (196) \[3570\]
+
 Giving honey with[^570] color, scent  
 \[and\] taste for Buddha[^571] \[and\] the group,  
 I \[now\] drink the juice of freedom,[^572]  
-which is unmatched,[^573] beyond compare.[^574](197) \[3571\]  
+which is unmatched,[^573] beyond compare.[^574](197) \[3571\]
+
 Giving actual[^575] juice for the  
 Buddha and for the supreme group,  
 I experience the four fruits,[^576]  
-in accordance with my karma. (198) \[3572\]  
+in accordance with my karma. (198) \[3572\]
+
 Having given food \[and\] drink for  
 the Buddha and the supreme group  
 I experience ten results,[^577]  
-in accordance with my karma. (199) \[3573\]  
+in accordance with my karma. (199) \[3573\]
+
 \[I am\] always long-lived \[and\] strong,  
 a hero, beautiful, famous  
 and happy; a recipient  
@@ -851,27 +1037,33 @@ I am receiving these virtues. (200) \[3574\][^581]
 Giving incense[^582] for the Buddha[^583]  
 \[and\] the monks of splendid virtue,[^584]  
 I experience ten results,[^585]  
-in accordance with my karma. (201) \[3575\]  
+in accordance with my karma. (201) \[3575\]
+
 \[My\] body smells good,[^586] I’m famous,  
 quick-thinking[^587] as well as clever;[^588]  
 \[I have\] sharp, extensive wisdom;[^589]  
-I have bright[^590] \[and\] deep wisdom. (202) \[3576\]  
+I have bright[^590] \[and\] deep wisdom. (202) \[3576\]
+
 As I transmigrate in the world,[^591]  
 I have wide and alert wisdom.[^592]  
 Now, because of \[giving\] that, I’ve  
-attained auspicious, happy peace.[^593] (203) \[3577\]  
+attained auspicious, happy peace.[^593] (203) \[3577\]
+
 My being in Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (204) \[3578\]  
+\[I have\] done what the Buddha taught! (204) \[3578\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (205) \[3579\]  
+I am living without constraint. (205) \[3579\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (206) \[3580\]  
+\[I have\] done what the Buddha taught! (206) \[3580\]
+
 Thus indeed Venerable Pilindavaccha[^594] Thera spoke these verses.  
 The legend of Pilindavaccha[^595] Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
@@ -1168,7 +1360,8 @@ The legend of Pilindavaccha[^595] Thera is finished.
 [^152]: *kicchapatto va hutvāna,* lit., “being fallen into misery”  
 [^153]: *sudukkhitaŋ,* lit., “very much suffering,” “very well
     dissatisfied”  
-[^154]: *yathāsaṇṭhamhi tiṭṭhatha;* cf. above, n. to v. 40 \[3413\]  
+[^154]: *yathāsaṇṭhamhi tiṭṭhatha;* cf. above, n. to v. 40 \[3413\]
+
 [^155]: *sammā*, lit., “right” “proper”  
 [^156]: *deyyātha puna*  
 [^157]: *puna deyyāsi*  

@@ -4,423 +4,528 @@ Now listen to the legends of the Theras:
 Close to the Himalayan range,  
 \[on\] the mountain called Lambaka,[^1]  
 my ashram is very well made,  
-a well-constructed hall of leaves. (1) \[140\]  
+a well-constructed hall of leaves. (1) \[140\]
+
 There’s a river, with gentle banks,  
 well-fixed, delightful to the mind,  
 and strewn about with bright white sand,  
-not very far from my ashram. (2) \[141\]  
+not very far from my ashram. (2) \[141\]
+
 Free of gravel \[and\] free of slopes,  
 excellent, without bad odors,  
 the river flows right past that place,  
-making my ashram beautiful. (3) \[142\]  
+making my ashram beautiful. (3) \[142\]
+
 Crocodiles[^2] and leviathans,[^3]  
 alligators[^4] and tortoises;  
 the river flows right past that place,  
-making my ashram beautiful. (4) \[143\]  
+making my ashram beautiful. (4) \[143\]
+
 Sheatfish,[^5] *pāvusa,*[^6] *valaja,*[^7]  
 reed-fish,[^8] red-fish[^9] and *maggura*[^10]  
 are flowing \[with the current\][^11] \[there\],  
-making my ashram beautiful. (5) \[144\]  
+making my ashram beautiful. (5) \[144\]
+
 Trees that blossom and trees that fruit  
 stand on both banks of that river,  
 overhanging it from both sides,  
-making my ashram beautiful. (6) \[145\]  
+making my ashram beautiful. (6) \[145\]
+
 Mango, *sal*[^12] and coral-bean tree*,*[^13]  
 trumpet-flower*,*[^14] Chinese chaste tree,[^15]  
 trees in flower with heavenly scents  
-are perfuming my ashram \[then\]. (7) \[146\]  
+are perfuming my ashram \[then\]. (7) \[146\]
+
 Sandal, *salalā,*[^16] cheesewood[^17] too  
 ironwood,[^18] laurel[^19] and screw-pine[^20]  
 trees in flower with heavenly scents  
-are perfuming my ashram \[then\]. (8) \[147\]  
+are perfuming my ashram \[then\]. (8) \[147\]
+
 Hiptage[^21] vines and ashoka trees,[^22]  
 *bhaginimāla* flowering,  
 sage-leaf alangium,[^23] and red  
-bimbijāl[^24] bloom in my ashram*.* (9) \[148\]  
+bimbijāl[^24] bloom in my ashram*.* (9) \[148\]
+
 *Ketaka,*[^25] *kandali*[^26] flowers,  
 *kebuka,* and Arab jasmine[^27]  
 are exuding heavenly scents  
-making my ashram beautiful. (10) \[149\]  
+making my ashram beautiful. (10) \[149\]
+
 Dinner-plate tree[^28] and *kaṇika*  
 *s*ilver greywood,[^29] many black trees[^30]  
 are exuding heavenly scents,  
-making my ashram beautiful. (11) \[150\]  
+making my ashram beautiful. (11) \[150\]
+
 Laurel[^31] and mountain laurel[^32] trees*,*  
 and ebony,[^33] all blossoming,  
 are exuding heavenly scents  
-making my ashram beautiful. (12) \[151\]  
+making my ashram beautiful. (12) \[151\]
+
 Golden shower,[^34] winter cherry,[^35]  
 kadam[^36] and Spanish cherry[^37] trees  
 are exuding heavenly scents  
-making my ashram beautiful. (13) \[152\]  
+making my ashram beautiful. (13) \[152\]
+
 *Ālaka* and *isimugga*,  
 banana*,*[^38] also citron[^39] trees  
 matured on the sweet-smelling water  
-are bearing forth their flowers \[there\]. (14) \[153\]  
+are bearing forth their flowers \[there\]. (14) \[153\]
+
 Some pink lotuses are blooming,  
 others are producing pollen,[^40]  
 some pink lotuses are budding,  
-always flowering in the tank.[^41] (15) \[154\]  
+always flowering in the tank.[^41] (15) \[154\]
+
 Pink lotuses germinate \[there\];[^42]  
 the lotus roots[^43] are being cleansed.[^44]  
 *Singhāṭi*[^45] leaves are strew about,  
-making that tank so beautiful. (16) \[155\]  
+making that tank so beautiful. (16) \[155\]
+
 Shrubs like *nayita, ambagandhi,*  
 *uttuli, bandhujīvaka*[^46]  
 all in bloom then in the tank \[there\]  
-are exuding heavenly scents. (17) \[156\]  
+are exuding heavenly scents. (17) \[156\]
+
 Sheatfish,[^47] also *pāvusa*[^48] fish*,*  
 *valaja,*[^49] reed-fish[^50] \[and\] red-fish[^51]  
 and *saṅkula*[^52] and *maggura*[^53]  
-are living in that tank \[there\] then. (18) \[157\]  
+are living in that tank \[there\] then. (18) \[157\]
+
 Crocodiles and alligators,  
 *tantiggāha* and *rakkhasa,*  
 *ogaha*[^54] and also pythons[^55]  
-are living in that tank \[there\] then. (19) \[158\]  
+are living in that tank \[there\] then. (19) \[158\]
+
 Pigeons[^56] and *ravi-*swans[^57] as well,  
 ruddy geese[^58] and *nadīcara*s,  
 cuckoos,[^59] parrots,[^60] and mynah birds[^61] too  
-are living on that lake \[there then\]. (20) \[159\]  
+are living on that lake \[there then\]. (20) \[159\]
+
 In the forest wild jungle fowl,[^62]  
 golden crabs,[^63] lake-swallows[^64] \[too\],  
 lapwings[^65] and Ceylon lorikeets,[^66]  
-are living on that lake \[there then\]. (21) \[160\]  
+are living on that lake \[there then\]. (21) \[160\]
+
 Swans[^67] \[and\] curlews[^68] and peacocks[^69] too,  
 cuckoos[^70] and jungle fowl[^71] as well,  
 small monkeys[^72] as well as pheasants[^73]  
-are living on that lake \[there then\]. (22) \[161\]  
+are living on that lake \[there then\]. (22) \[161\]
+
 Owls[^74] and *poṭṭhasīsa*s[^75] \[too\],  
 numerous hawks,[^76] also osprey,[^77]  
 and also *mahākāḷa* birds  
-are living on that lake \[there then\]. (23) \[162\]  
+are living on that lake \[there then\]. (23) \[162\]
+
 Spotted deer[^78] and also wild boar,[^79]  
 and numerous wolves[^80] and jackals,[^81]  
 *rohicca-*deer,[^82] *suggapota*s  
-are living on that lake \[there then\]. (24) \[163\]  
+are living on that lake \[there then\]. (24) \[163\]
+
 Lions and tigers and leopards,  
 bears[^83] \[and\] wolves,[^84] *kara bānā* bears,[^85]  
 and thrice-rutting[^86] *mātaṅgas*[^87] \[too\]  
-are living on that lake \[there then\]. (25) \[164\]  
+are living on that lake \[there then\]. (25) \[164\]
+
 Centaurs[^88] and monkeys[^89] are there too  
 and folks who work in the forest,[^90]  
 servant-boys[^91] as well as hunters,[^92]  
-are living on that lake \[there then\]. (26) \[165\]  
+are living on that lake \[there then\]. (26) \[165\]
+
 Wild mangosteen,[^93] Chirauli-nut,[^94]  
 Mahuwa*,*[^95] *kāsumāriya*[^96]  
 are bearing never-ending fruit  
-not very far from my ashram. (27) \[166\]  
+not very far from my ashram. (27) \[166\]
+
 Margosa*,*[^97] *salalā,*[^98] yellow  
 cheesewoods[^99] with such excellent fruit  
 are constantly bearing those fruits  
-not very far from my ashram. (28) \[167\]  
+not very far from my ashram. (28) \[167\]
+
 Myrobalan[^100] and gooseberry,[^101]  
 mango, rose-apple*,*[^102] bahera,[^103]  
 jujube,[^104] markingnut,[^105] bel[^106] --  
-they constantly are bearing fruit. (29) \[168\]  
+they constantly are bearing fruit. (29) \[168\]
+
 Bindweed*,*[^107] also titan arum,[^108]  
 *bilāni,*[^109] *takkaḷāni* \[bulbs\]  
 *jīvaka* and *sahaka*[^110] \[plants\]  
-are abundant in my ashram. (30) \[169\]  
+are abundant in my ashram. (30) \[169\]
+
 That well-created tank is there  
 not very far from the ashram,  
 with clear water, cool for drinking,  
-well-fixed, delightful to the mind. (31) \[170\]  
+well-fixed, delightful to the mind. (31) \[170\]
+
 Covered with pink and blue lotus,  
 combined with white lotus flowers  
 and covered again with *mandālaka*[^111]  
-it exudes a heavenly scent. (32) \[171\]  
+it exudes a heavenly scent. (32) \[171\]
+
 At that time I was then living  
 in that well-made, lovely ashram  
 in the woods blooming and fruiting  
-and thus endowed with everything. (33) \[172\]  
+and thus endowed with everything. (33) \[172\]
+
 I was ascetic Saruci  
 of noble-conduct, vow-taker,  
 a meditator, trance-lover,  
-strong[^112] in the five special knowledges.[^113] (34) \[173\]  
+strong[^112] in the five special knowledges.[^113] (34) \[173\]
+
 Four and twenty thousand students  
 were waiting upon me back then.  
 They all were from the Brahmin caste,  
-of noble birth and glorious. (35) \[174\]  
+of noble birth and glorious. (35) \[174\]
+
 They’d reached perfection in my teachings  
 of grammar and vocabulary,  
 of synonyms and metrics too,  
-and reading signs, and history. (36) \[175\]  
+and reading signs, and history. (36) \[175\]
+
 They were skilled as interpreters  
 of events and omens and signs  
 on the earth and ground, in the sky;  
-my students were very well-trained. (37) \[176\]  
+my students were very well-trained. (37) \[176\]
+
 Satisfied they were, and prudent;  
 ate little food, had no desires.  
 Happy if receiving or not,  
-they always gathered around me. (38) \[177\]  
+they always gathered around me. (38) \[177\]
+
 Meditators, trance-lovers,  
 wise, attentive, with peaceful minds,  
 with wishes for \[only\] nothing,  
-they always gathered around me. (39) \[178\]  
+they always gathered around me. (39) \[178\]
+
 Masters of[^114] special knowledges,  
 delighting in their brahmin ways,[^115]  
 able to fly through the sky, most wise,  
-they always gathered around me. (40) \[179\]  
+they always gathered around me. (40) \[179\]
+
 They kept the six sense-doors well-closed,  
 were lust-free, with guarded sense-organs,  
 \[most\] wise, and not tied down at home:[^116]  
-no one came close to my students.[^117] (41) \[180\]  
+no one came close to my students.[^117] (41) \[180\]
+
 At night they always passed the time  
 \[meditating\] seated cross-legged  
 or walking back and forth in place;  
-no one came close to my students. (42) \[181\]  
+no one came close to my students. (42) \[181\]
+
 Not aroused in what’s arousing,  
 nor defiled in what’s defiling;  
 not fooling self in foolish things:  
-no one came close to my students. (43) \[182\]  
+no one came close to my students. (43) \[182\]
+
 They spent all \[their\] time studying  
 \[all\] the miraculous powers.  
 They could set the earth to quaking  
-with haughtiness none could approach. (44) \[183\]  
+with haughtiness none could approach. (44) \[183\]
+
 When those students were playing sports  
 they sported in the altered states,  
 brought rose-apples from \[distant\] trees;[^118]  
-no one came close to my students. (45) \[184\]  
+no one came close to my students. (45) \[184\]
+
 Some would travel to Goyāna,  
 others to Pubbavideha,  
 and some to Utturukuru:  
-no one came close to my students. (46) \[185\]  
+no one came close to my students. (46) \[185\]
+
 They’d send their requisites[^119] ahead  
 and then they’d proceed after \[them\];  
 the sky was totally covered  
-by twenty-four thousand \[students\]. (47) \[186\]  
+by twenty-four thousand \[students\]. (47) \[186\]
+
 Some ate cooked food and some ate raw,  
 some ground with teeth, others with mortars.  
 Some ate food that they ground on stone,  
-some only fruits that had fallen. (48) \[187\]  
+some only fruits that had fallen. (48) \[187\]
+
 Some \[bathed\] getting into water,  
 \[others\] loved the pure evening \[rain\]  
 \[while others\] bathed sprinkling water:  
-no one came close to my students. (49) \[188\]  
+no one came close to my students. (49) \[188\]
+
 With nails and armpit hair grown long,  
 muck in \[their\] teeth, heads \[soiled\] with dirt  
 and perfumed \[only\] with precepts:[^120]  
-no one came close to my students. (50) \[189\]  
+no one came close to my students. (50) \[189\]
+
 Those famed matted-haired ascetics  
 would assemble in the morning,  
 saying what they’d received, and not,  
-then set off \[flying\] through the air. (51) \[190\]  
+then set off \[flying\] through the air. (51) \[190\]
+
 A mighty din would issue forth  
 from them as they were taking off.  
 The gods would be most delighted  
-by that sound of \[their\] deer-hide robes. (52) \[191\]  
+by that sound of \[their\] deer-hide robes. (52) \[191\]
+
 Traveling in all directions  
 those sages, flying through the sky  
 would go to any place they wished  
-by means of their own \[vast\] power. (53) \[192\]  
+by means of their own \[vast\] power. (53) \[192\]
+
 They could set the earth to quaking;  
 all of them were sky-travelers.  
 Famed ascetics, hard to conquer,  
-they were steady like the ocean. (54) \[193\]  
+they were steady like the ocean. (54) \[193\]
+
 Some walked back and forth meditating  
 some sages did so while seated,  
 some of them lived on fallen-fruits;  
-no one came close to my students. (55) \[194\]  
+no one came close to my students. (55) \[194\]
+
 They dwelt always in states of love  
 and were kindly to all creatures.  
 None of them raised his own self up  
-and they felt hatred toward no one. (56) \[195\]  
+and they felt hatred toward no one. (56) \[195\]
+
 Fearless like the king of lions,  
 mighty like an elephant king,  
 hard to approach like a tiger  
-they would come into my presence. (57) \[196\]  
+they would come into my presence. (57) \[196\]
+
 Sorcerers[^121] and \[their\] deities,[^122]  
 cobra-gods,[^123] music-nymphs,[^124] demons,[^125]  
 fairies,[^126] titans[^127] \[and\] *garuḷa*s  
-are living on that lake. (58) \[197\]  
+are living on that lake. (58) \[197\]
+
 Those dread-locked requisite-bearers[^128]  
 dressed in superb deer-leather \[clothes\],  
 all those sages, sky-travelers,  
-are living on that lake \[there then\]. (59) \[198\]  
+are living on that lake \[there then\]. (59) \[198\]
+
 As is always appropriate  
 they respected one another.  
 From twenty-four thousand students  
-not the sound of a sneeze[^129] is heard. (60) \[199\]  
+not the sound of a sneeze[^129] is heard. (60) \[199\]
+
 One foot placed after the other[^130]  
 making little sound, self-controlled,  
 all of them, after they’d come close  
-are worshipping me with their heads. (61) \[200\]  
+are worshipping me with their heads. (61) \[200\]
+
 Thus surrounded by those students  
 peaceful, doing austerities,  
 I \[then\] dwelt in that ashram there  
-meditator, trance-lover. (62) \[201\]  
+meditator, trance-lover. (62) \[201\]
+
 My ashram was always perfumed  
 by those sages’ morality  
 and the scents of both blooming flowers  
-and the different fruits \[that grew there\]. (63) \[202\]  
+and the different fruits \[that grew there\]. (63) \[202\]
+
 By night and day I never know  
 displeasure, nor does it come to me.  
 Giving my students instruction,  
-I am constantly filled with joy.[^131] (64) \[203\]  
+I am constantly filled with joy.[^131] (64) \[203\]
+
 The blossoming of many flowers  
 and ripening[^132] of many fruits  
 are exuding heavenly scents  
-making my ashram beautiful. (65) \[204\]  
+making my ashram beautiful. (65) \[204\]
+
 Arising from meditation[^133]  
 I’m zealous and intelligent.  
 Taking ascetics’ requisites  
-I proceeded into the woods. (66) \[205\]  
+I proceeded into the woods. (66) \[205\]
+
 I was well-trained to read the signs  
 surrounding births and portents \[too\].  
 At that time I’d \[fully\] mastered[^134]  
-all the mantras in existence. (67) \[206\]  
+all the mantras in existence. (67) \[206\]
+
 Anomadassi, Blessed One,  
 the World’s Best, the Bull Among Men,  
 the Buddha, seeking solitude  
-entered the Himalayas \[then\]. (68) \[207\]  
+entered the Himalayas \[then\]. (68) \[207\]
+
 Going into Himalaya  
 the Supreme, Compassionate Sage,  
 getting into lotus posture[^135]  
-sat down, the Ultimate Person. (69) \[208\]  
+sat down, the Ultimate Person. (69) \[208\]
+
 \[Then\] I saw that Sambuddha \[there\],  
 shining light, a mental delight,  
 bright like a blue water lily,[^136]  
-blazing up like a fire-altar. (70) \[209\]  
+blazing up like a fire-altar. (70) \[209\]
+
 I saw the Leader of the World  
 like a regal *sal* tree in bloom;  
 blazing forth like a tree of lamps;  
-lightening flaring in a cloud-bank. (71) \[210\]  
+lightening flaring in a cloud-bank. (71) \[210\]
+
 “This *nāga* is the Great Hero,  
 the Sage who ended suffering;”  
 after coming to see this one  
-all suffering was cast away. (72) \[211\]  
+all suffering was cast away. (72) \[211\]
+
 After seeing that God of Gods  
 adorned with the auspicious marks  
 I thought, “is he Buddha or not?  
-Surely I’m seeing One with Eyes.” (73) \[212\]  
+Surely I’m seeing One with Eyes.” (73) \[212\]
+
 One thousand wheel-marks are seen  
 on his unsurpassed \[lovely\] foot.  
 I, having seen those marks of his,  
-concluded he’s the Thus-Gone-One. (74) \[213\]  
+concluded he’s the Thus-Gone-One. (74) \[213\]
+
 I brought in a broom for sweeping  
 and having done the sweeping then  
 I gathered eight blooming flowers  
-for *pūjā* to that Best Buddha. (75) \[214\]  
+for *pūjā* to that Best Buddha. (75) \[214\]
+
 After *pūjā* to that Buddha,  
 the Flood-Crosser, Undefiled One,  
 placing deer-hide on one shoulder  
-I worshipped the Chief of the World. (76) \[215\]  
+I worshipped the Chief of the World. (76) \[215\]
+
 “The knowledge by which the Buddha  
 dwells without \[any\] defilements --  
 that knowledge I shall now proclaim;  
-\[all of\] you listen to my words! (77) \[216\]  
+\[all of\] you listen to my words! (77) \[216\]
+
 May you lift this world up rightly  
 Self-Become One, Boundless Increase![^137]  
 Coming into the sight of you  
-they cross the rushing stream of doubt. (78) \[217\]  
+they cross the rushing stream of doubt. (78) \[217\]
+
 You’re the Teacher for those who breathe,  
 the Banner, the Flag and the Pole;  
 you are the Goal, the Solid Ground,  
-the Island,[^138] the Best of Bipeds. (79) \[218\]  
+the Island,[^138] the Best of Bipeds. (79) \[218\]
+
 It’s possible to measure the  
 ocean’s water by the gallon[^139]  
 but not ever could one measure  
-your knowledge, O Omniscient One. (80) \[219\]  
+your knowledge, O Omniscient One. (80) \[219\]
+
 It’s possible to lift the earth  
 onto a comparable sphere  
 but not ever could one measure  
-your knowledge, O Omniscient One. (81) \[220\]  
+your knowledge, O Omniscient One. (81) \[220\]
+
 It’s possible to measure \[all\]  
 space with a rope or by the inch  
 but not ever could one measure  
-your knowledge, O Omniscient One. (82) \[221\]  
+your knowledge, O Omniscient One. (82) \[221\]
+
 One might exhaust the entire earth  
 and all the water in the sea  
 but similes that might arise  
-won’t befit the Buddha’s knowledge. (83) \[222\]  
+won’t befit the Buddha’s knowledge. (83) \[222\]
+
 Whatever goes on in the minds  
 of this world’s creatures, with its gods,  
 O Eyeful One all those things too  
-are sunk in your knowledge-water. (84) \[223\]  
+are sunk in your knowledge-water. (84) \[223\]
+
 The knowledge by which you attained  
 supreme complete Awakening:  
 with that knowledge, Omniscient One,  
-you crush rivals and heretics.” (85) \[224\]  
+you crush rivals and heretics.” (85) \[224\]
+
 Having praised with these \[nine\] verses,  
 the ascetic named Suruci  
 spreading out his deer-leather robe  
-sat down \[right there\] upon the earth. (86) \[225\]  
+sat down \[right there\] upon the earth. (86) \[225\]
+
 “They say the king of mountains rose  
 to that height after being sunk  
 in the great ocean for as long  
-as eighty-four thousand aeons. (87) \[226\]  
+as eighty-four thousand aeons. (87) \[226\]
+
 And Meru, having thus arisen,  
 being so long and so spread out,  
 bit by bit gets broken into  
-two million lakhs[^140] \[of small pebbles\]. (88) \[227\]  
+two million lakhs[^140] \[of small pebbles\]. (88) \[227\]
+
 If one should investigate it,  
 counting the numbers of lakhs \[there,\]  
 \[still\] he could not ever measure  
-your knowledge, O Omniscient One. (89) \[228\]  
+your knowledge, O Omniscient One. (89) \[228\]
+
 Whichever water is encircled  
 by water holes[^141] however small  
 the beings who live in water  
-would all \[find themselves\] submerged there. (90) \[229\]  
+would all \[find themselves\] submerged there. (90) \[229\]
+
 In just that way, O Great Hero,  
 these ordinary heretics  
 who jump into dogmas’ grasp  
-get deluded by what they touch. (91) \[230\]  
+get deluded by what they touch. (91) \[230\]
+
 These \[heretics\] pulled underwater  
 by your knowledge which is pure and  
 which is seen without obstruction  
-never move beyond your knowledge.” (92) \[231\]  
+never move beyond your knowledge.” (92) \[231\]
+
 At that time \[he\], the Blessed One,  
 Anomadassi, Greatly Famed,  
 arising from his meditation,  
-surveyed the \[whole\] world,[^142] that Victor. (93) \[232\]  
+surveyed the \[whole\] world,[^142] that Victor. (93) \[232\]
+
 Nisabha was a follower  
 of that Sage Anomadassi.  
 He was surrounded by a lakh  
-of peaceful-minded ones like him (94) \[233\]  
+of peaceful-minded ones like him (94) \[233\]
+
 who’d destroyed defilements, were pure,  
 and had the six special knowledges.  
 Discerning the Buddha’s wishes  
-he then approached that World-Leader. (95) \[234\]  
+he then approached that World-Leader. (95) \[234\]
+
 Standing up in the air right there  
 they circumambulated him  
 and praising with ten fingers pressed  
-came down to the Buddha’s presence. (96) \[235\]  
+came down to the Buddha’s presence. (96) \[235\]
+
 Anomadassi, Blessed One,  
 the World’s Best One, the Bull of Men,  
 sitting in the monks’ Assembly  
-\[right then\] made manifest a smile. (97) \[236\]  
+\[right then\] made manifest a smile. (97) \[236\]
+
 Varuṇa was the attendant  
 on the Omniscient One, Great Sage.  
 Putting \[his\] robe on one shoulder  
-he then queried the World-Leader: (98) \[237\]  
+he then queried the World-Leader: (98) \[237\]
+
 “O Blessed One, what is the cause  
 of the Teacher’s \[breaking a\] smile?  
 It never is without a cause  
-that the Buddhas begin to smile.” (99) \[238\]  
+that the Buddhas begin to smile.” (99) \[238\]
+
 Anomadassi, Blessed One,  
 the World’s Best One, the Bull of Men,  
 seated in the monks’ Assembly  
-\[then\] spoke these verses \[in reply\]: (100) \[239\]  
+\[then\] spoke these verses \[in reply\]: (100) \[239\]
+
 “This one who honors[^143] me with flowers  
 and also extols my knowledge,  
 I shall relate details of him;  
-\[all of\] you listen to my words.” (101) \[240\]  
+\[all of\] you listen to my words.” (101) \[240\]
+
 Knowing that Buddha would speak,[^144] the  
 gods all came together \[there then\].  
 Wishing to hear the great Teaching[^145]  
-they \[then\] approached the Sambuddha. (102) \[241\]  
+they \[then\] approached the Sambuddha. (102) \[241\]
+
 Lesser gods in ten world-systems  
 who possessed enormous powers  
 wishing to hear the great Teaching  
-also approached the Sambuddha. (103) \[242\]  
+also approached the Sambuddha. (103) \[242\]
+
 \[He said\], “The army, with four parts --  
 tusker, soldier, chariot, horse --  
 will ceaselessly wait on this one;  
-that’s the fruit of Buddha-*pūjā.* (104) \[243\]  
+that’s the fruit of Buddha-*pūjā.* (104) \[243\]
+
 Sixty thousand instruments[^146] \[and\]  
 well-decorated kettle-drums[^147]  
 will always pay respects to him;  
-that’s the fruit of Buddha-*pūjā*. (105) \[244\]  
+that’s the fruit of Buddha-*pūjā*. (105) \[244\]
+
 Women numbering sixteen thousand,  
 decked out in all the ornaments,  
 with varied clothes and jewelry  
@@ -428,172 +533,214 @@ and wearing earrings made of gems (106)
 with long eyelashes, lovely smiles[^148]  
 and slim waists, pleasant to look at,[^149]  
 will ceaselessly wait on this one:  
-that’s the fruit of Buddha-*pūjā.* (107) \[246\]  
+that’s the fruit of Buddha-*pūjā.* (107) \[246\]
+
 He’ll delight in the world of gods  
 for one hundred thousand aeons.  
 A thousand times he’s going to be  
-the wheel-turning king of a country. (108) \[247\]  
+the wheel-turning king of a country. (108) \[247\]
+
 A thousand times the king of gods,  
 he will exercise divine rule,  
 \[and he will have\] much local rule  
-innumerable by counting. (109) \[248\]  
+innumerable by counting. (109) \[248\]
+
 When he attains his final birth  
 he will go to the human state.  
 He will be borne out of the womb  
-of the brahmin woman Sāri. (110) \[249\]  
+of the brahmin woman Sāri. (110) \[249\]
+
 Thenceforth this man will be known by  
 the name of his maternal clan:  
 his name will be Sāriputta;  
-he will have sharp intelligence. (111) \[250\]  
+he will have sharp intelligence. (111) \[250\]
+
 Giving up eight hundred million[^150]  
 he will renounce, with nothing left,[^151]  
 and searching for the path to peace  
-this great man’s going to wander \[far\]. (112) \[251\]  
+this great man’s going to wander \[far\]. (112) \[251\]
+
 Aeons beyond measure from now,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (113) \[252\]  
+will be the Teacher in the world. (113) \[252\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma’s* legitimate offspring,[^152]  
 with the name of Sāriputta  
-he’ll be the foremost follower. (114) \[253\]  
+he’ll be the foremost follower. (114) \[253\]
+
 This river, the Bhāgīrathī,[^153]  
 is fed by the Himalayas,  
 rushes into the mighty sea,  
-\[then\] satisfies the great ocean. (115) \[254\]  
+\[then\] satisfies the great ocean. (115) \[254\]
+
 Just so this man, Sāriputta,  
 wise one among the Sāketas  
 attaining[^154] wisdom’s perfection  
-will satisfy[^155] \[all\] living beings. (116) \[255\]  
+will satisfy[^155] \[all\] living beings. (116) \[255\]
+
 Going from the Himalayas  
 to the sea, the mighty ocean,  
 whatever sand lies in between  
-cannot be fathomed by counting. (117) \[256\]  
+cannot be fathomed by counting. (117) \[256\]
+
 Without remainder he’ll be able  
 to fathom that by counting thus;  
 but there will be no upper limit  
-to Sāriputta’s \[own\] wisdom. (118) \[257\]  
+to Sāriputta’s \[own\] wisdom. (118) \[257\]
+
 Counting by hundreds of thousands  
 one would exhaust the Ganges’s sands;  
 but there will be no upper limit  
-to Sāriputta’s \[own\] wisdom. (119) \[258\]  
+to Sāriputta’s \[own\] wisdom. (119) \[258\]
+
 The waves upon the mighty ocean  
 cannot be fathomed by counting;  
 that too \[he’ll do\]! Sāriputta’s  
-wisdom will have no upper limit. (120) \[259\]  
+wisdom will have no upper limit. (120) \[259\]
+
 Satisfying[^156] the Sambuddha  
 Gotama, Bull of the Śākyas,[^157]  
 he’ll attain wisdom’s perfection  
-and be the foremost follower. (121) \[260\]  
+and be the foremost follower. (121) \[260\]
+
 Perfectly he’s going to follow  
 the *Dhamma*-wheel which \[will be\] turned  
 by the Śākyas’ Son, Neutral One,[^158]  
-a *Dhamma*-shower raining forth. (122) \[261\]  
+a *Dhamma*-shower raining forth. (122) \[261\]
+
 Understanding all of that well,  
 Gotama, Bull of the Śākyas,  
 seated in the monks’ Assembly  
-will place him in the foremost place.” (123) \[262\]  
+will place him in the foremost place.” (123) \[262\]
+
 O see the deed[^159] I did so well  
 for Teacher Anomadassi.  
 Having done what he required[^160]  
-in every place I did excel. (124) \[263\]  
+in every place I did excel. (124) \[263\]
+
 Karma done immeasurable  
 \[aeons hence\] showed me \[its\] fruit here:  
 well-liberated, arrow-quick,[^161]  
-I have destroyed my defilements. (125) \[264\]  
+I have destroyed my defilements. (125) \[264\]
+
 Searching for the unconditioned  
 and unshaking state, nirvana,  
 sussing out all the heretics  
-I circled through existences.[^162] (126) \[265\]  
+I circled through existences.[^162] (126) \[265\]
+
 Just as a man, plagued with disease  
 would investigate all the jungles  
 searching for medicinal herbs  
-to be released from his illness, (127) \[266\]  
+to be released from his illness, (127) \[266\]
+
 searching for the unconditioned  
 state of deathlessness, nirvana,  
 without a break,[^163] five hundred times  
-I went forth into sagely life.[^164] (128) \[267\]  
+I went forth into sagely life.[^164] (128) \[267\]
+
 Bearing a weight of matted hair[^165]  
 I wore a deer-leather garment;  
 perfecting special knowledges  
-I went to the world of Brahma. (129) \[268\]  
+I went to the world of Brahma. (129) \[268\]
+
 There’s nothing outside the wisdom  
 laid down in the dispensation.[^166]  
 Whatever being’s intelligent  
-will discern the dispensation.[^167] (130) \[269\]  
+will discern the dispensation.[^167] (130) \[269\]
+
 Then I thought, “this is the method  
 for that me, desiring the goal.”  
 Searching for the unconditioned  
-I wandered the difficult fords. (131) \[270\]  
+I wandered the difficult fords. (131) \[270\]
+
 Just as a man, wanting its pith,  
 who chops and splits a banana tree  
 would not thereby attain that pith  
-but would be devoid of that pith, (132) \[271\]  
+but would be devoid of that pith, (132) \[271\]
+
 so too the world’s heretics  
 with their varied views and big crowds  
 lack that which is unconditioned  
-like the banana tree lacks pith. (133) \[272\]  
+like the banana tree lacks pith. (133) \[272\]
+
 When I reached \[my\] last existence  
 I was a kinsman of Brahma.[^168]  
 Throwing away a whole billion[^169]  
-I went forth into homelessness.[^170] (134) \[273\]  
+I went forth into homelessness.[^170] (134) \[273\]
+
 The First Recitation Portion.  
 There was a learned mantra-knower  
 who had mastered the three Vedas,  
 a brahmin known as Sañjaya.  
-I dwelt in his vicinity. (135) \[274\]  
+I dwelt in his vicinity. (135) \[274\]
+
 O Great Hero, your follower,  
 the brahmin known as Assaji,  
 hard to approach, with mighty powers[^171]  
-always went about for alms \[there\]. (136) \[275\]  
+always went about for alms \[there\]. (136) \[275\]
+
 I saw that one who was so wise,  
 a sage well used to quietude,  
 a peaceful-hearted elephant,  
-just like a lotus flower in bloom. (137) \[276\]  
+just like a lotus flower in bloom. (137) \[276\]
+
 Having seen him I realized[^172]  
 “this man will be a worthy one,  
 well-tamed, whose mind is purified,  
-a bull, most excellent, a hero. (138) \[277\]  
+a bull, most excellent, a hero. (138) \[277\]
+
 Pleasing in his mode of conduct,  
 beautiful and well-self-controlled,  
 tamed in the ultimate taming,  
-a seer of deathlessness he’ll be. (139) \[278\]  
+a seer of deathlessness he’ll be. (139) \[278\]
+
 Why then do I not question him  
 the happy one, about the goal?[^173]  
 Questioned by me he will reply!”  
-Then I am asking \[him\] questions. (140) \[279\]  
+Then I am asking \[him\] questions. (140) \[279\]
+
 I proceeded to follow him  
 as he wandered about for alms;  
 I was honored with permission  
-to ask about the deathless state. (141) \[280\]  
+to ask about the deathless state. (141) \[280\]
+
 Approaching him along the road  
 I questioned him in this way \[then\]:  
 “Of which clan are you, O wise one?  
-Whose pupil are you, happy one?[^174] (142) \[281\]  
+Whose pupil are you, happy one?[^174] (142) \[281\]
+
 Like a lion which is not frightened  
 he, questioned by me, answered thus:  
 “A Buddha’s risen in the world;  
-I am his student, a follower.” (143) \[282\]  
+I am his student, a follower.” (143) \[282\]
+
 “It would be excellent, wise one,  
 o famous one, O \[Buddha’s\] son,  
 if you’d please declare to me, sir,[^175]  
-the sort of Teaching Buddha teaches.” (144) \[283\]  
+the sort of Teaching Buddha teaches.” (144) \[283\]
+
 Questioned by me he \[then\] declared  
 the entire deep and subtle state  
 in which all suffering’s destroyed  
-and craving’s arrow is removed. (145) \[284\]  
+and craving’s arrow is removed. (145) \[284\]
+
 “The Thus-Gone-One did speak about  
 the basic causes of all things  
 and the ceasing of those causes;  
-that is what the Great Monk declares.” (146) \[285\]  
+that is what the Great Monk declares.” (146) \[285\]
+
 When my question had been answered  
 I had attained the first path-fruit.[^176]  
 Having heard the dispensation,[^177]  
-I was free of stain and blemish. (147) \[286\]  
+I was free of stain and blemish. (147) \[286\]
+
 After hearing the sage’s speech,  
 having seen the superb Teaching,  
 well-immersed in that Great Teaching  
-I uttered these verses \[aloud\]: (148) \[287\]  
+I uttered these verses \[aloud\]: (148) \[287\]
+
 “Even if this Teaching goes only this far  
 you all should discern \[its\] grief-free state  
 as not seen in the past  
@@ -601,283 +748,353 @@ performing many sacrifices.[^178] (149) \[288\][^179]
 While seeking *Dhamma* \[formerly\]  
 I wandered the difficult fords.  
 That meaning’s \[now\] obtained by me;  
-there is no time for neglecting.” (150) \[289\]  
+there is no time for neglecting.” (150) \[289\]
+
 Greatly pleased by \[monk\] Assaji,  
 attaining to that tranquil state,  
 looking for my co-renouncer  
-I returned to the ashram \[then\]. (151) \[290\]  
+I returned to the ashram \[then\]. (151) \[290\]
+
 On seeing me from far away  
 my companion,[^180] who was well-trained,  
 who’d learned[^181] meditative postures,  
-\[astonished\], spoke these words \[to me\]: (152) \[291\]  
+\[astonished\], spoke these words \[to me\]: (152) \[291\]
+
 “O sage your face and eyes are pleased  
 and you display a sagely mien.  
 How have you come to deathlessness,  
-everlasting state, nirvana?” (153) \[292\]  
+everlasting state, nirvana?” (153) \[292\]
+
 You come, conforming to what’s good,  
 it is as though you’ve been made calm.  
 And you’ve approached \[me\], O brahmin,  
-tamed in the ultimate taming.” (154) \[293\]  
+tamed in the ultimate taming.” (154) \[293\]
+
 “I have attained the deathless state  
 where craving’s arrow is destroyed.  
 You too ought to attain \[to that\];  
-let’s go to the Teacher’s presence.” (155) \[294\]  
+let’s go to the Teacher’s presence.” (155) \[294\]
+
 My companion, who was well-trained,  
 assented saying “Excellent!”  
 Taking \[his\] hand into \[my\] hand  
-we went to the Teacher’s presence. (156) \[295\]  
+we went to the Teacher’s presence. (156) \[295\]
+
 “We both of us will now go forth  
 in your presence, O Śākyas’ Son.  
 Having arrived at your teaching  
-we will live without defilements.” (157) \[296\]  
+we will live without defilements.” (157) \[296\]
+
 Kolita’s top in magic powers;  
 I’m the one foremost in wisdom.  
 The two of us, living as one,  
-beautify the dispensation. (158) \[297\]  
+beautify the dispensation. (158) \[297\]
+
 While my thought was still incomplete  
 I wandered the difficult fords.  
 Coming to your philosophy  
-my thought is now fully mature. (159) \[298\]  
+my thought is now fully mature. (159) \[298\]
+
 Having been planted in the earth,  
 trees blossom forth in \[their\] season.  
 They exude their heavenly scents  
-and delight all living beings. (160) \[299\]  
+and delight all living beings. (160) \[299\]
+
 In just this way, O Great Hero,  
 O Greatly Famed One, Śākyas’ Son,  
 being planted in your teaching  
-I want to bear flowers in season. (161) \[300\]  
+I want to bear flowers in season. (161) \[300\]
+
 I seek the liberation-flower,  
 freedom from this circling rebirth.[^182]  
 Finding that liberation-flower  
-I’ll delight all living beings. (162) \[301\]  
+I’ll delight all living beings. (162) \[301\]
+
 Through this entire Buddha-field  
 except for the Great Sage himself,  
 in wisdom there is no rival  
-for \[me\], your son, O Eyeful One. (163) \[302\]  
+for \[me\], your son, O Eyeful One. (163) \[302\]
+
 Well-instructed are your students;  
 the retinue is so well-trained.  
 Tamed in the ultimate taming  
-they always gather around you. (164) \[303\]  
+they always gather around you. (164) \[303\]
+
 Meditators, trance-lovers,  
 wise, attentive, with minds at peace,  
 sages who have a sagely mien,  
-they always gather around you. (165) \[304\]  
+they always gather around you. (165) \[304\]
+
 Wanting little,[^183] clever and wise,  
 eating little, with no desires,  
 happy if receiving or not,  
-they always gather around you. (166) \[305\]  
+they always gather around you. (166) \[305\]
+
 Forest dwellers with wants removed,[^184]  
 meditators in shabby robes[^185]  
 who delight in being alone,[^186]  
-they always gather around you. (167) \[306\]  
+they always gather around you. (167) \[306\]
+
 Attainers of the eight path-fruits  
 \[and\] those who are still aspiring,[^187]  
 searching for the ultimate goal  
-they always gather around you. (168) \[307\]  
+they always gather around you. (168) \[307\]
+
 Stainless enterers of the stream  
 and some who are once-returners;  
 non-returners and arahants too,  
-they always gather around you. (169) \[308\]  
+they always gather around you. (169) \[308\]
+
 Skilled in retaining mindfulness,[^188]  
 fond of wisdom’s parts as focus,[^189]  
 your followers all, and numerous,  
-they always gather around you. (170) \[309\]  
+they always gather around you. (170) \[309\]
+
 Skilled in \[all\] the superpowers,  
 fond of calming-meditation,[^190]  
 undertaking fit exertion[^191]  
-they always gather around you. (171) \[310\]  
+they always gather around you. (171) \[310\]
+
 Perfecting the three knowledges,  
 special knowledges, superpowers,  
 attaining wisdom’s perfection  
-they always gather around you. (172) \[311\]  
+they always gather around you. (172) \[311\]
+
 Such indeed are they, Great Hero,  
 your students, who are so well-trained,  
 hard to approach, with mighty powers,  
-they always gather around you. (173) \[312\]  
+they always gather around you. (173) \[312\]
+
 Surrounded by \[all\] those students  
 ascetics who have been taught well,  
 like a lion which is not frightened  
-you shine just like the king of stars.[^192] (174) \[313\]  
+you shine just like the king of stars.[^192] (174) \[313\]
+
 Having been planted in the earth,  
 hardwood trees grow up \[strong and tall\].  
 They attain their full abundance  
-and \[in season\] display their fruit. (175) \[314\]  
+and \[in season\] display their fruit. (175) \[314\]
+
 O Śākyas’ Son, O Great Famed One,  
 you’re analogous to the earth;  
 being fixed in your \[great\] teaching,  
-they \[like the trees\] grow deathless fruit. (176) \[315\]  
+they \[like the trees\] grow deathless fruit. (176) \[315\]
+
 The Indus, and the Sarasvatī  
 are rivers, like the Candabhāgā,  
 the Ganges and the Yamuna  
-the Sarabhu and the Mahī too. (177) \[316\]  
+the Sarabhu and the Mahī too. (177) \[316\]
+
 When those rivers \[finish\] flowing  
 the great ocean accepts them \[all\].  
 Abandoning their former names,  
-they’re all known as “the great ocean”. (178) \[317\]  
+they’re all known as “the great ocean”. (178) \[317\]
+
 Likewise these people, of four castes,  
 who’ve gone forth into your presence,  
 abandoning their former names  
-are all known as “the Buddha’s sons”. (179) \[318\]  
+are all known as “the Buddha’s sons”. (179) \[318\]
+
 Just as the moon which is unblemished  
 going across the space in the sky  
 casting its light upon the world  
-outshines the entire mass of stars, (180) \[319\]  
+outshines the entire mass of stars, (180) \[319\]
+
 so likewise you, O Great Hero,  
 surrounded by the gods and men,  
 going across the Buddha-field  
-are shining brightly all the time. (181) \[320\]  
+are shining brightly all the time. (181) \[320\]
+
 Waves which \[first\] arise from the depths  
 go no further than the seashore;  
 when they do come onto the shore,  
-they are crushed to bits[^193] and scattered. (182) \[321\]  
+they are crushed to bits[^193] and scattered. (182) \[321\]
+
 Just so the world’s heretics  
 with their varied views and big crowds  
 wishing to possess the Teaching  
-never go further than the Sage. (183) \[322\]  
+never go further than the Sage. (183) \[322\]
+
 If they \[try\] attaining to that  
 through debating, O Eyeful One,  
 having come into your presence  
-they get thoroughly crushed by you. (184) \[323\]  
+they get thoroughly crushed by you. (184) \[323\]
+
 Just as many white lotuses[^194]  
 and *mandālaka* blooms,[^195] water-born,  
 do get besmeared by the water  
-and also by the mud and clay, (185) \[324\]  
+and also by the mud and clay, (185) \[324\]
+
 so too indeed many creatures  
 who’re born and grow up in the world  
 are pained by \[their\] lust and anger  
-like the white lotus in the mud. (186) \[325\]  
+like the white lotus in the mud. (186) \[325\]
+
 Just as a pink lotus,[^196] water-born,  
 growing up in the water’s midst  
 is not besmeared by the water  
-but rather that lotus is clean, (187) \[326\]  
+but rather that lotus is clean, (187) \[326\]
+
 so too are you, O Great Hero,  
 though born within the world, Great Sage.  
 You are not besmeared by the world,  
-like the pink lotus by water. (188) \[327\]  
+like the pink lotus by water. (188) \[327\]
+
 Likewise, many lotus flowers  
 blossom in the month of April[^197]  
 \[but\] do not last beyond that month;  
-that is the time for blossoming. (189) \[328\]  
+that is the time for blossoming. (189) \[328\]
+
 So too are you, O Śākyas’ Son  
 blooming in your liberation.  
 The dispensation’s not surpassed  
-like the water-born lotuses. (190) \[329\]  
+like the water-born lotuses. (190) \[329\]
+
 The king of *sal* trees all in bloom  
 exudes a heavenly perfume.  
 Surrounded by other *sal* trees  
-the king of *sal* trees is lovely. (191) \[330\]  
+the king of *sal* trees is lovely. (191) \[330\]
+
 So too are you, O Great Hero,  
 blooming with a Buddha’s wisdom.  
 Circled by the monks’ Assembly,  
-like the *sal*-king you are lovely. (192) \[331\]  
+like the *sal*-king you are lovely. (192) \[331\]
+
 Just as the Himalayan stone’s  
 medicine for living beings  
 and the lair of the lesser gods,  
-and *nāga*s and *asurās* too, (193) \[332\]  
+and *nāga*s and *asurās* too, (193) \[332\]
+
 so too are you, O Great Hero,  
 medicine[^198] for living beings;  
 you’ve mastered the three knowledges,  
-special knowledges, great powers. (194) \[333\]  
+special knowledges, great powers. (194) \[333\]
+
 They are admonished, Great Hero,  
 by you, \[but\] with \[great\] compassion.  
 Delighting in love of *Dhamma*  
-they dwell in your dispensation. (195) \[334\]  
+they dwell in your dispensation. (195) \[334\]
+
 Likewise a lion, king of beasts,  
 going about how he wishes,  
 surveying the four directions  
-\[then\] growls three times \[his mighty roar\]. (196) \[335\]  
+\[then\] growls three times \[his mighty roar\]. (196) \[335\]
+
 All the beasts are very frightened  
 because of that lion’s growling.  
 Thus just one beast, of noble birth  
-always frightens \[all of the rest\]. (197) \[336\]  
+always frightens \[all of the rest\]. (197) \[336\]
+
 Because of your growl, Great Hero,  
 the earth \[herself\] begins to quake.  
 Those fit for wisdom realize it,  
-scaring the partisans of Death.[^199] (198) \[337\]  
+scaring the partisans of Death.[^199] (198) \[337\]
+
 The heretics are all afraid  
 of your voice, O Sage so Great.  
 That flock of crows is in a fluster  
-like the beasts with the lion-king.[^200] (199) \[338\]  
+like the beasts with the lion-king.[^200] (199) \[338\]
+
 Those with followers in the world  
 are known by the title “teachers”.  
 They teach to their community  
-doctrines passed down by tradition. (200) \[339\]  
+doctrines passed down by tradition. (200) \[339\]
+
 Not so do you, O Great Hero  
 preach your Teaching to living beings.  
 Understanding the truths yourself[^201]  
-\[you preach\] all of Awakening.[^202] (201) \[340\]  
+\[you preach\] all of Awakening.[^202] (201) \[340\]
+
 Grasping desires and deep fantasies,[^203]  
 strengths and weaknesses of senses,[^204]  
 discerning who’s able, who’s not,  
-you thunder forth like a great cloud. (202) \[341\]  
+you thunder forth like a great cloud. (202) \[341\]
+
 Right to the universe’s edge,  
 seated groups of followers are  
 thinking through their varied doctrines,  
-trying to resolve[^205] \[all\] their[^206] doubts. (203) \[342\]  
+trying to resolve[^205] \[all\] their[^206] doubts. (203) \[342\]
+
 Reading the minds of everyone,  
 skilled in analogies, O Sage,  
 discoursing on single questions  
-you resolve living beings’ doubts. (204) \[343\]  
+you resolve living beings’ doubts. (204) \[343\]
+
 In this world the earth is filled with  
 people like those \[I’ve\] referred to.  
 All of them, hands reverently pressed,  
-should sing the World-Leader’s praises.[^207] (205) \[344\]  
+should sing the World-Leader’s praises.[^207] (205) \[344\]
+
 Singing praises for an entire aeon,  
 speaking of diverse qualities  
 they never could be fully measured;  
-the Thus-Gone-One has no measure. (206) \[345\]  
+the Thus-Gone-One has no measure. (206) \[345\]
+
 Thus singing the Victor’s praises  
 with all the power that they have,  
 speaking for ten million aeons  
-this and that would remain unsaid. (207) \[346\]  
+this and that would remain unsaid. (207) \[346\]
+
 If any being, god or man,  
 even if he’s \[very\] well-trained  
 tries to draw the full \[ocean’s water\][^208]  
-he would certainly come to grief.[^209] (208) \[347\]  
+he would certainly come to grief.[^209] (208) \[347\]
+
 \[Now\] fixed in your dispensation,  
 O Śākyas’ Son, O Great Famed One  
 having reached Wisdom’s Perfection  
-I’m living without defilements. (209) \[348\]  
+I’m living without defilements. (209) \[348\]
+
 Defeating rival heretics  
 I further the dispensation.[^210]  
 Today I’m the *Dhamma*’s general[^211]  
-in the Buddha’s dispensation.[^212] (210) \[349\]  
+in the Buddha’s dispensation.[^212] (210) \[349\]
+
 Karma done immeasurable  
 \[aeons hence\] showed me \[its\] fruit here:  
 well-liberated, arrow-quick,[^213]  
-I have destroyed my defilements. (211) \[350\]  
+I have destroyed my defilements. (211) \[350\]
+
 Whatever man who on his head  
 would carry a load, every day,  
 he’d be oppressed due to that load,  
-\[and\] that burden would be heavy. (212) \[351\]  
+\[and\] that burden would be heavy. (212) \[351\]
+
 I transmigrated through lifetimes[^214]  
 being burnt up by the three fires,[^215]  
 weighed down by the burden of being  
-as though I were lifting mountains. (213) \[352\]  
+as though I were lifting mountains. (213) \[352\]
+
 My burden \[now\] has been laid down  
 and I’ve destroyed[^216] re-becoming.  
 I’ve done all things that should be done  
-in the Buddha’s dispensation.[^217] (214) \[353\]  
+in the Buddha’s dispensation.[^217] (214) \[353\]
+
 Through this entire Buddha-field,  
 except the Śākyan Bull himself,  
 I’m supreme in terms of wisdom;  
-there is no one to rival me. (215) \[354\]  
+there is no one to rival me. (215) \[354\]
+
 So well-trained in meditation[^218]  
 excelling in the superpowers,  
 today my only desire is to  
-create a thousand magically.[^219] (216) \[355\]  
+create a thousand magically.[^219] (216) \[355\]
+
 Of me who dwelt there by and by  
 the Great Sage was the \[great\] Teacher.  
 He told me the dispensation;  
-cessation[^220] happened lying down. (217) \[356\]  
+cessation[^220] happened lying down. (217) \[356\]
+
 My divine eye is purified  
 and I’m skilled in concentration.  
 Proper exertion is applied;  
-I love wisdom’s parts as focus. (218) \[357\]  
+I love wisdom’s parts as focus. (218) \[357\]
+
 Everything is done by me  
 which followers ought to attain.  
 Except the Leader of the World  
-there is no one to rival me. (219) \[358\]  
+there is no one to rival me. (219) \[358\]
+
 Skilled in the attainments and discipline,  
 through altered states I got liberated fast.  
 Fond of wisdom’s parts as focus  
@@ -885,11 +1102,13 @@ I’ve excelled in the followers’ virtues. (220) \[359\][^221]
 Attaining the followers’ virtues  
 I’m honored by the Best of Men.  
 \[My\] mind is always filled with faith  
-in fellow religious students. (221) \[360\]  
+in fellow religious students. (221) \[360\]
+
 Like a snake whose poison’s destroyed,[^222]  
 like a bull whose horns are broken,  
 freed of my pride and arrogance  
-I approach with great reverence.[^223] (222) \[361\]  
+I approach with great reverence.[^223] (222) \[361\]
+
 If my wisdom were a beautiful girl  
 she’d hook up with the rulers of earth.  
 This is the fruit of \[my\] having praised the  
@@ -897,47 +1116,58 @@ knowledge of Anomadassi Buddha.[^224] (223) \[362\][^225]
 I help keep rolling perfectly  
 the *Dhamma*-wheel which was turned  
 by the Śākyas’ Son, Neutral One:  
-that’s the fruit of praising knowledge. (224) \[363\]  
+that’s the fruit of praising knowledge. (224) \[363\]
+
 May I not ever, anywhere,  
 meet one whose thoughts are less than pure,  
 who’s lazy or lacks energy,  
-is unlearned or immoral. (225) \[364\]  
+is unlearned or immoral. (225) \[364\]
+
 Let only one who is learned,  
 wise, well-fixed in moral precepts  
 and settled into mental calm  
-come face-to-face in front of me.[^226] (226) \[365\]  
+come face-to-face in front of me.[^226] (226) \[365\]
+
 I’m saying this to you, O monks,  
 gathered together begging here:  
 always be happy, with slight wants,  
-meditators, trance-lovers. (227) \[366\]  
+meditators, trance-lovers. (227) \[366\]
+
 That one whom I saw first of all  
 was free of lust and stainless \[too\].  
 He’s my teacher, he’s the hero,  
-the follower named Assaji. (228) \[367\]  
+the follower named Assaji. (228) \[367\]
+
 It’s on account of him that I  
 today am *Dhamma*’s general.  
 In every place, having excelled,  
-I’m living without defilements. (229) \[368\]  
+I’m living without defilements. (229) \[368\]
+
 I bow my head in reverence  
 to whatever region he’s in,  
 that one who was my own teacher,  
-the follower named Assaji. (230) \[369\]  
+the follower named Assaji. (230) \[369\]
+
 Having called to mind my karma,  
 Gotama, Bull of the Śākyas,  
 seated in the monks’ Assembly  
-placed \[me\] in the foremost place \[then\]. (231) \[370\]  
+placed \[me\] in the foremost place \[then\]. (231) \[370\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,[^227]  
-I am living without constraint.[^228] \[371\]  
+I am living without constraint.[^228] \[371\]
+
 Being in Best Buddha’s presence  
 was a very good thing[^229] for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! \[372\]  
+\[I have\] done what the Buddha taught! \[372\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (232) \[373\]  
+\[I have\] done what the Buddha taught! (232) \[373\]
+
 Thus indeed Venerable Sāriputta Thera spoke these verses.  
 The legend of Sāriputta Thera is finished.  
 [^1]: perhaps fr. *lambati,* to hand down, “Pendulous”. \#112, \#345

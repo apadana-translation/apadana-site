@@ -2,7 +2,8 @@
 In a quiet and trouble-free  
 forest grove, I \[once\] having seen  
 Siddhattha the Sage, the Supreme,[^2]  
-Sacrificial Recipient, (1) \[1588\]  
+Sacrificial Recipient, (1) \[1588\]
+
 Gone-Out-One, the Great Elephant,  
 Bull of Men,[^3] like a thoroughbred,  
 shining forth like the morning star,[^4]  
@@ -12,7 +13,8 @@ knowledge came into being then. (2) \[1589\][^6]
 Giving honey to the Teacher  
 who’d risen from meditation,  
 \[and\] worshipping the Teacher’s feet,  
-I departed facing the east. (3) \[1590\]  
+I departed facing the east. (3) \[1590\]
+
 \[Then\] thirty-four aeons \[ago\]  
 I was the king, Sudassana;[^7]  
 sweet honey flowed from lotus roots  
@@ -22,15 +24,18 @@ that’s the fruit of former karma. (4) \[1591\][^8]
 In the ninety-four aeons since  
 I gave \[him\] that honey back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of giving honey. (5) \[1592\]  
+that’s the fruit of giving honey. (5) \[1592\]
+
 \[And\] thirty-four aeons ago  
 there were four \[named\] Sudassana,  
 wheel-turning kings with great power,  
-possessors of the seven gems. (6) \[1593\]  
+possessors of the seven gems. (6) \[1593\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (7) \[1594\]  
+\[I have\] done what the Buddha taught! (7) \[1594\]
+
 Thus indeed Venerable Madhupiṇḍika Thera spoke these verses.  
 The legend of Madhupiṇḍika Thera is finished.  
 [^1]: “Honey-Ball-er”  

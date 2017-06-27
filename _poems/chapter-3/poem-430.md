@@ -2,55 +2,68 @@
 The Self-Composed One,[^3] the Buddha,  
 the Self-Tamer,[^4] Attentive One,[^5]  
 Wandering the Path of Brahmā,[^6]  
-Delighting in Mental Relief,[^7] (1) \[4617\]  
+Delighting in Mental Relief,[^7] (1) \[4617\]
+
 the Flood-Crosser,[^8] the Sambuddha,  
 Who Loves Meditation \[and\] Trance,[^9]  
 the Sage, the Seated One,[^10] Attainer,[^11]  
-Brilliant as Blue Lotus Petals:[^12] (2) \[4618\]  
+Brilliant as Blue Lotus Petals:[^12] (2) \[4618\]
+
 I approached \[him,\] the Best Buddha,  
 taking a gourd[^13] to hold water.  
 After washing the Buddha’s feet,  
-I gave that \[water-\]gourd \[to him\]. (3) \[4619\]  
+I gave that \[water-\]gourd \[to him\]. (3) \[4619\]
+
 The Sambuddha \[then\] had \[it\] fetched,  
 the Leader, Padumuttara,  
 “Bringing \[more\] water with this \[gourd,\]  
-place it at the soles of my feet.” (4) \[4620\]  
+place it at the soles of my feet.” (4) \[4620\]
+
 Agreeing, saying, “Excellent,”  
 and with respect for the Teacher,  
 carrying water with the gourd,[^14]  
-I brought it to the Best Buddha. (5) \[4621\]  
+I brought it to the Best Buddha. (5) \[4621\]
+
 The Great Hero gave thanks \[for that,\]  
 quenching \[the anguish in\] my heart,  
 “Because of giving \[me\] this gourd,  
-let what you think be accomplished.” (6) \[4622\]  
+let what you think be accomplished.” (6) \[4622\]
+
 For fifteen[^15] aeons \[after that,\]  
 I delighted in the gods’ world,  
 and thirty times I was a king,  
-a king who turns the wheel \[of law\]. (7) \[4623\]  
+a king who turns the wheel \[of law\]. (7) \[4623\]
+
 Whether by day or else by night,  
 walking back and forth or standing,  
 a water pot[^16] made out of gold  
-is standing \[right\] in front of me. (8) \[4624\]  
+is standing \[right\] in front of me. (8) \[4624\]
+
 Giving a gourd to the Buddha,  
 I receive a gold water-pot:  
 the deed done with little trouble[^17]  
-becomes huge like that \[later on\]. (9) \[4625\]  
+becomes huge like that \[later on\]. (9) \[4625\]
+
 In the hundred thousand aeons  
 since I gave \[him\] that gourd back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of \[giving\] a gourd. (10) \[4626\]  
+that’s the fruit of \[giving\] a gourd. (10) \[4626\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (11) \[4627\]  
+I am living without constraint. (11) \[4627\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (12) \[4628\]  
+\[I have\] done what the Buddha taught! (12) \[4628\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (13) \[4629\]  
+\[I have\] done what the Buddha taught! (13) \[4629\]
+
 Thus indeed Venerable Sovaṇṇakattarika[^18] Thera spoke these verses.  
 The legend of Sovaṇṇakattarika[^19] Thera is finished.  
 The Summary:  
@@ -68,7 +81,8 @@ The Sakiŋsammajjaka Chapter, the Forty-Third
     edition dictating the main numbering of this translation.  
 [^2]: “Golden Scissors” or “Golden Walking-stick-er” or (following BJTS,
     and preferred) “Golden Water-jug-er”. BJTS (and PTS alt) reads the
-    name *Soṇṇakontarika,* see below, n. to \[4624\]  
+    name *Soṇṇakontarika,* see below, n. to \[4624\]
+
 [^3]: reading *manobhāvanīyaṃ* with BJTS for PTS *manobhāvaniyaŋ;* BJTS
     Sinhala gloss *sambhāvanīya vū*  
 [^4]: *attadantaŋ*  

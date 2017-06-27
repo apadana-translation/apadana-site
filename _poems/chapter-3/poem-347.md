@@ -2,19 +2,23 @@
 Close to the Himalayan range,  
 there’s a mountain named Romasa.[^3]  
 The Buddha known as Sambhava  
-then dwelt there in the open air. (1) \[3117\]  
+then dwelt there in the open air. (1) \[3117\]
+
 Coming out of \[my\] residence,  
 I brought[^4] \[him\] a lotus \[flower\].  
 Having brought a single one  
-I went forward into rebirth. (2) \[3118\]  
+I went forward into rebirth. (2) \[3118\]
+
 In the ninety-one aeons since  
 I offered[^5] \[him\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[3119\]  
+that’s the fruit of Buddha-*pūjā.* (3) \[3119\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (3) \[3120\]  
+\[I have\] done what the Buddha taught! (3) \[3120\]
+
 Thus indeed Venerable Padumapūjaka Thera spoke these verses.  
 The legend of Padumapūjaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

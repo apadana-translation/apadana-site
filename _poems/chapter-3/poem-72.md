@@ -2,19 +2,23 @@
 As it stepped[^2] I saw the foot of  
 Tissa, the Kinsman of the Sun.[^3]  
 Happy, \[and\] with a happy heart,  
-I pleased my heart over that foot. (1) \[1427\]  
+I pleased my heart over that foot. (1) \[1427\]
+
 In the ninety-two aeons since  
 I obtained that perception \[then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of foot-perception. (2) \[1428\]  
+that’s the fruit of foot-perception. (2) \[1428\]
+
 In the seventh aeon \[ago\]  
 the Kṣatriyan named Sumedha  
 was a wheel-turner with great strength,  
-possessor of the seven gems. (3) \[1429\]  
+possessor of the seven gems. (3) \[1429\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[1430\]  
+\[I have\] done what the Buddha taught! (4) \[1430\]
+
 Thus indeed Venerable Padasaññaka Thera spoke these verses.  
 The legend of Padasaññaka Thera is finished.  
 [^1]: “Foot-Perceiver”  

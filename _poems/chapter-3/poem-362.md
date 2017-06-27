@@ -2,15 +2,18 @@
 Coming from the world of the dead,[^3]  
 \[I saw\] Gotama, Splendid One.[^4]  
 Taking a *kekkhāra* flower  
-I offered \[it\] to the Buddha. (1) \[3184\]  
+I offered \[it\] to the Buddha. (1) \[3184\]
+
 In the ninety-two aeons since  
 I did *pūjā* to the Buddha,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (2) \[3185\]  
+that’s the fruit of Buddha-*pūjā.* (2) \[3185\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (3) \[3186\]  
+\[I have\] done what the Buddha taught! (3) \[3186\]
+
 Thus indeed Venerable Kekkhārupupphiya Thera spoke these verses.  
 The legend of Kekkhārupupphiya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

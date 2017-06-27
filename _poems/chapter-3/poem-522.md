@@ -2,27 +2,33 @@
 I gifted one \[thing called\] *peccha,*[^3]  
 with \[great\] pleasure, with \[both my\] hands,  
 to Vipassi, the Blessed One,  
-the World’s Best One, the Neutral One. (1) \[5550\]  
+the World’s Best One, the Neutral One. (1) \[5550\]
+
 Elephant \[and\] horse vehicles,  
 divine vehicles are obtained;  
 due to that gift of a *peccha,*  
-I attained \[my\] arahantship. (2) \[5551\]  
+I attained \[my\] arahantship. (2) \[5551\]
+
 In the ninety-one aeons since  
 I gave \[him\] that *peccha* back then,  
 I’ve come to know no bad rebirth:  
-the fruit of giving a *peccha*. (3) \[5552\]  
+the fruit of giving a *peccha*. (3) \[5552\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (10) \[5553\]  
+I am living without constraint. (10) \[5553\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (11) \[5554\]  
+\[I have\] done what the Buddha taught! (11) \[5554\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (12) \[5555\]  
+\[I have\] done what the Buddha taught! (12) \[5555\]
+
 Thus indeed Venerable Pecchadāyaka[^4] Thera spoke these verses.  
 The legend of Pecchadāyaka[^5] Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

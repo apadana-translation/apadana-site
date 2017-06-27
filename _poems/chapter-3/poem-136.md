@@ -2,27 +2,33 @@
 \[I saw Buddha\], the Morning Star,[^2]  
 shining like a dinner-plate tree,[^3]  
 sitting down within a mountain,  
-surveying all the directions. (1) \[1909\]  
+surveying all the directions. (1) \[1909\]
+
 There were three young brahmin men then,  
 well-trained in their own \[brahmin\] arts.[^4]  
 Taking ascetics’ provisions,  
-they were coming up behind me. (2) \[1910\]  
+they were coming up behind me. (2) \[1910\]
+
 In a bag were seven flowers  
 those ascetics had laid down \[there\].  
 Having picked them up I gave them  
-for the knowledge of Vessabhu. (3) \[1911\]  
+for the knowledge of Vessabhu. (3) \[1911\]
+
 In the thirty-one aeons since  
 I offered those flowers \[to it\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of knowledge-*pūjā.* (4) \[1912\]  
+that’s the fruit of knowledge-*pūjā.* (4) \[1912\]
+
 In the twenty-ninth aeon \[hence,\]  
 \[a king\] known as Vihatābha,[^5]  
 was a wheel-turner with great strength,  
-possessor of the seven gems. (5) \[1913\]  
+possessor of the seven gems. (5) \[1913\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[1914\]  
+\[I have\] done what the Buddha taught! (6) \[1914\]
+
 Thus indeed Venerable Campakapupphiya Thera spoke these verses.  
 The legend of Campakapupphiya Thera is finished.  
 [^1]: “Campaka-Flower-er”. The *campaka* (Sinh. *sapu*) tree is

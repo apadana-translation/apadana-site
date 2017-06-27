@@ -2,31 +2,38 @@
 When Padumuttara Buddha,  
 the World’s Best One, the Neutral One,  
 was wandering about for alms,  
-maintaining superlative fame, (1) \[4710\]  
+maintaining superlative fame, (1) \[4710\]
+
 taking the best \[rose-apple\][^3] fruit,  
 with a mind that was very clear,  
 I gave \[it\] to the Teacher, the  
-Hero, the One Deserving Gifts. (2) \[4711\]  
+Hero, the One Deserving Gifts. (2) \[4711\]
+
 O Biped-Lord,[^4] O World’s Best One,  
 Bull of Men, due to that karma,  
 I’ve attained the unshaking place  
-beyond \[all\] conquest and defeat. (3) \[4712\]  
+beyond \[all\] conquest and defeat. (3) \[4712\]
+
 In the hundred thousand aeons  
 since I gave that donation then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of giving the best. (4) \[4713\]  
+that’s the fruit of giving the best. (4) \[4713\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (5) \[4714\]  
+I am living without constraint. (5) \[4714\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (6) \[4715\]  
+\[I have\] done what the Buddha taught! (6) \[4715\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (7) \[4716\]  
+\[I have\] done what the Buddha taught! (7) \[4716\]
+
 Thus indeed Venerable Jambuphaliya Thera spoke these verses.  
 The legend of Jambuphaliya Thera is finished.  
 The Summary:  

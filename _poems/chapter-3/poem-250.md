@@ -2,19 +2,23 @@
 The \[Buddha\] named Kakusandha[^2]  
 the Self-Become One, Unconquered,  
 coming out from the great forest  
-had arrived at a big river. (1) \[2495\]  
+had arrived at a big river. (1) \[2495\]
+
 Taking a golden shower[^3] \[bloom\],  
 having a mind \[full of\] pleasure,  
 I gave \[it\] to the Self-Become,  
-Self-Controlled One, the Honest One.[^4] (2) \[2496\]  
+Self-Controlled One, the Honest One.[^4] (2) \[2496\]
+
 In the thirty-one aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of flower-*pūjā.* (3) \[2497\]  
+that’s the fruit of flower-*pūjā.* (3) \[2497\]
+
 The four analytical modes  
 and these eight deliverances,  
 six special knowledges mastered:  
-\[I have\] done what the Buddha taught! (4) \[2498\]  
+\[I have\] done what the Buddha taught! (4) \[2498\]
+
 Thus indeed Venerable Uddāladāyaka Thera spoke these verses.  
 The legend of Uddāladāyaka Thera is finished.  
 The summary:  

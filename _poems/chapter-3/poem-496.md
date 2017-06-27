@@ -8,15 +8,18 @@ I presented cream from some ghee.[^5] (1) \[5289\][^6]
 From doing and heaping \[that\] up,[^7]  
 the river \[named\] Bhāgīrathī,[^8]  
 \[and\] even the four great oceans  
-are supplying \[ghee-\]cream to me. (2) \[5290\]  
+are supplying \[ghee-\]cream to me. (2) \[5290\]
+
 And even this \[whole\] awful earth,  
 beyond measure, beyond counting,  
 discerning what I am thinking,  
-turns into honey and sugar.[^9] (3) \[5291\]  
+turns into honey and sugar.[^9] (3) \[5291\]
+
 These trees on \[all\] four continents,  
 foot-drinkers growing in the earth,[^10]  
 discerning what I am thinking,  
-turn into[^11] wishing-trees \[for me\]. (4) \[5292\]  
+turn into[^11] wishing-trees \[for me\]. (4) \[5292\]
+
 Fifty times the lord of the gods,  
 I exercised divine rule \[there\].  
 And fifty-one times I was \[then\]  
@@ -26,19 +29,23 @@ innumerable by counting. (5) \[5293\][^12]
 In the ninety-four aeons since  
 I gave \[him\] that gift at that time,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of the cream from ghee. (6) \[5294\]  
+that’s the fruit of the cream from ghee. (6) \[5294\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (7) \[5295\]  
+I am living without constraint. (7) \[5295\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (8) \[5296\]  
+\[I have\] done what the Buddha taught! (8) \[5296\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (9) \[5297\]  
+\[I have\] done what the Buddha taught! (9) \[5297\]
+
 Thus indeed Venerable Ghatamaṇḍadāyaka Thera spoke these verses.  
 The legend of Ghatamaṇḍadāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

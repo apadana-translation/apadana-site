@@ -6,27 +6,33 @@ three sayings[^3] get emitted \[then,\]
 “From here, sir,[^5] go to a good state,  
 in the company of people.  
 Becoming human do obtain  
-great faith in the Excellent Truth.[^6] (2) \[2186\]  
+great faith in the Excellent Truth.[^6] (2) \[2186\]
+
 “Having established that, your faith,  
 in the well-known Excellent Truth,  
 \[well-\]fixed, born of \[those happy\] roots,  
-\[be\] steadfast as long as \[you\] live. (3) \[2187\]  
+\[be\] steadfast as long as \[you\] live. (3) \[2187\]
+
 “Doing good \[deeds\][^7] with \[your\] body,  
 \[and doing\] much good[^8] with \[your\] speech;  
 doing good[^9] with \[your\] mind \[as well,\]  
-\[be\] free of hate and attachment.[^10] (4) \[2188\]  
+\[be\] free of hate and attachment.[^10] (4) \[2188\]
+
 “Thus exalting the life \[you live\],  
 doing merit with much giving,  
 make other men also enter  
-the chaste life \[and\] Excellent Truth.” (5) \[2189\]  
+the chaste life \[and\] Excellent Truth.” (5) \[2189\]
+
 When gods know that a god’s falling,[^11]  
 \[filled\] with this \[sort of\] compassion,  
 they rejoice \[about his rebirth\]:  
-“O god come \[back\] repeatedly.” (6) \[2190\]  
+“O god come \[back\] repeatedly.” (6) \[2190\]
+
 I was moved when at that time the  
 assembly of gods had gathered,  
 “Well now then to what womb should I  
-go when \[I have\] fallen from here?” (7) \[2191\]  
+go when \[I have\] fallen from here?” (7) \[2191\]
+
 Padumuttara’s follower,  
 known by the name of Sumana,[^12]  
 a monk with senses \[well-\]controlled,  
@@ -38,15 +44,18 @@ in the meaning and the Teaching.[^13] (8-9) \[2192-2193\]
 Having listened to his words, I  
 made my heart pleased in the Buddha.  
 Having saluted that wise \[monk,\]  
-I \[then\] passed away on the spot. (10) \[2194\]  
+I \[then\] passed away on the spot. (10) \[2194\]
+
 I was reborn right then and there,  
 incited by \[those\] happy roots.  
 For one hundred thousand aeons  
-I was not born in a bad state.[^14] (11) \[2195\]  
+I was not born in a bad state.[^14] (11) \[2195\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (12) \[2196\]  
+\[I have\] done what the Buddha taught! (12) \[2196\]
+
 Thus indeed Venerable Ekacintita Thera spoke these verses.  
 The legend of Ekacintita Thera is finished.  
 [^1]: “Once-Thought-Out.”  

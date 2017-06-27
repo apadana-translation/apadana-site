@@ -2,79 +2,98 @@
 One hundred thousand aeons hence  
 a Leader arose \[in the world\],  
 Superior-Named,[^3] Boundless One,[^4]  
-whose name was Padumuttara. (1) \[5689\]  
+whose name was Padumuttara. (1) \[5689\]
+
 \[His\] speech had lotus-attributes,[^5]  
 skin[^6] was stainless like a lotus;[^7]  
 \[Buddha was\] Unsoiled by the World,  
-like a pink lotus by water. (2) \[5690\]  
+like a pink lotus by water. (2) \[5690\]
+
 Wise One,[^8] with eyes like lotus leaves,[^9]  
 Beloved as is a lotus,[^10]  
 he had a superb lotus scent;[^11]  
-therefore his \[name was\] “Best Lotus.”[^12] (3) \[5691\]  
+therefore his \[name was\] “Best Lotus.”[^12] (3) \[5691\]
+
 The World’s Best One, Free of Conceit,[^13]  
 proverbial[^14] Eyes for the Blind,[^15]  
 Virtue-Treasure,[^16] the Mask of Peace,[^17]  
-Ocean of Compassionate Thoughts,[^18] (4) \[5692\]  
+Ocean of Compassionate Thoughts,[^18] (4) \[5692\]
+
 Praised by Brahmā, titans \[and\] gods,[^19]  
 the Great Hero, the Best Person,[^20]  
 Crowded by Men Along with Gods,[^21]  
-once, dwelling among people,[^22] he (5) \[5693\]  
+once, dwelling among people,[^22] he (5) \[5693\]
+
 delighted the whole multitude  
 with \[his\] very fragrant speaking  
 and \[with his\] voice, \[sweet as\] honey,  
-\[while\] praising \[his\] own follower: (6) \[5694\]  
+\[while\] praising \[his\] own follower: (6) \[5694\]
+
 “Intent on faith, with a good mind,  
 \[and\] greedy for my appearance,[^23]  
 there’s no other as \[much\] like that  
-as is this monk \[named\] Vakkali.”[^24] (7) \[5695\]  
+as is this monk \[named\] Vakkali.”[^24] (7) \[5695\]
+
 Back then I was a brahmin’s son,  
 in the city, Haṃsavatī.  
 After hearing \[the Buddha’s\] speech,  
-I longed \[to have\] that place \[myself\]. (8) \[5696\]  
+I longed \[to have\] that place \[myself\]. (8) \[5696\]
+
 Inviting the Stainless One, the  
 Thus-Gone-One, with \[his\] followers,  
 after feeding \[them\] for a week,  
-I covered \[them\] with \[new\] cloth \[robes\]. (9) \[5697\]  
+I covered \[them\] with \[new\] cloth \[robes\]. (9) \[5697\]
+
 Bowing \[my\] head to the \[Buddha\],  
 sunk in \[his\] limitless ocean  
 of virtue, overflowing with joy,  
-I spoke these words \[to him just then\]: (10) \[5698\]  
+I spoke these words \[to him just then\]: (10) \[5698\]
+
 “O \[Great\] Sage, seven days ago,  
 you praised the one who is foremost  
 among the monks possessing faith;  
-I’ll \[someday\] be the same as \[him\].” (11) \[5699\]  
+I’ll \[someday\] be the same as \[him\].” (11) \[5699\]
+
 When that was said, the Great Hero,  
 whose Vision is Unobstructed,  
 the Sage So Great uttered this speech  
-to the \[assembled\] multitude: (12) \[5700\]  
+to the \[assembled\] multitude: (12) \[5700\]
+
 “All of you, look at this young man,  
 clothed in polished gold\[-colored clothes\],[^25]  
 gold brahmin’s cord[^26] on \[his\] torso,  
-transporting people’s eyes \[and\] minds. (13) \[5701\]  
+transporting people’s eyes \[and\] minds. (13) \[5701\]
+
 Very far into the future,  
 this one will be the follower  
 of Gotama \[Buddha\], Great Sage,  
-foremost of those intent on faith. (14) \[5702\]  
+foremost of those intent on faith. (14) \[5702\]
+
 \[Whether\] born human or divine,  
 avoiding every torment \[there\],  
 furnished with every possession,  
-he will transmigrate happily. (15) \[5703\]  
+he will transmigrate happily. (15) \[5703\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (16) \[5704\]  
+will be the Teacher in the world. (16) \[5704\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 the one whose name is Vakkali  
-will be the Teacher’s follower. (17) \[5705\]  
+will be the Teacher’s follower. (17) \[5705\]
+
 Due to that karma’s excellence,[^27]  
 and \[my\] intention and resolve,  
 discarding \[my\] human body,  
-I went to Tāvatiṃsa \[then\]. (18) \[5706\]  
+I went to Tāvatiṃsa \[then\]. (18) \[5706\]
+
 Transmigrating from birth to birth,  
 being happy in every place,  
 I was born in a certain[^28] clan,  
-in the city of Śrāvasti. (19) \[5707\]  
+in the city of Śrāvasti. (19) \[5707\]
+
 At the feet of the Great Sage, \[my  
 parents\], frightened by goblin-fears,[^29]  
 wretched-minded laid me down \[there\],  
@@ -86,39 +105,48 @@ please support him,[^30] O \[World-\]Leader.” (20-21) \[5708-5709\]
 Refuge for those who are frightened,  
 the \[Great\] Sage then accepted me  
 with his hand, soft as a lotus,  
-which was webbed and marked with conch shells. (22) \[5710\]  
+which was webbed and marked with conch shells. (22) \[5710\]
+
 Since that time I was \[then\] guarded  
 by him who’s Guarded by No One;[^31]  
 freed from all grounds for rebirth,[^32] I  
-\[am\] reared up with \[great\] happiness. (23) \[5711\]  
+\[am\] reared up with \[great\] happiness. (23) \[5711\]
+
 \[Each\] moment I’m deprived of \[him\],  
 the Well-Gone-One, I long \[for him\];  
 \[being only\] seven years old,  
-I went forth into homelessness. (24) \[5712\]  
+I went forth into homelessness. (24) \[5712\]
+
 Dissatisfied, I’m longing for  
 his form possessing all good \[traits\],[^33]  
 produced by all the perfections,[^34]  
-the highest home of good fortune.[^35](25) \[5713\]  
+the highest home of good fortune.[^35](25) \[5713\]
+
 Knowing my love for Buddha’s form,  
 the Victor then admonished me:  
 “Enough, Vakkali! Why delight  
-in form, rejoiced over by fools? (26) \[5714\]  
+in form, rejoiced over by fools? (26) \[5714\]
+
 The one who sees the great Teaching,  
 that man who’s wise is seeing me;  
 \[but\] not seeing the great Teaching,  
-he also is not seeing me. (27) \[5715\]  
+he also is not seeing me. (27) \[5715\]
+
 Endless danger is the body,  
 likened to a poisonous tree;  
 the abode of every disease,  
-it’s just a heap of suffering. (28) \[5716\]  
+it’s just a heap of suffering. (28) \[5716\]
+
 Tiring of form, seeing \[it as\]  
 the rising and falling of parts,[^36]  
 happily, one is going to reach  
-the end of all the defilements.” (29) \[5717\]  
+the end of all the defilements.” (29) \[5717\]
+
 Being thus instructed by him,  
 by the Leader, the Friendly Sage,  
 having ascended Vulture’s Peak,[^37]  
-I meditated in a cave.[^38] (30) \[5718\]  
+I meditated in a cave.[^38] (30) \[5718\]
+
 The Great Sage, standing at the foot  
 of the mountain, \[then\] said to me,  
 “O Vakkali,” \[and\] being thrilled,  
@@ -130,27 +158,33 @@ I reached the ground, comfortably. (31-32) \[5719-5720\]
 Once again he preached the *Dhamma*,  
 the rising and falling of parts;  
 \[and this time,\] grasping the Teaching,  
-I attained \[my\] arahantship. (33) \[5721\]  
+I attained \[my\] arahantship. (33) \[5721\]
+
 Then amidst a great multitude,  
 the One Gone to the End of Death,  
 Great-Minded One, appointed me  
-foremost of those intent on faith. (34) \[5722\]  
+foremost of those intent on faith. (34) \[5722\]
+
 In the hundred thousand aeons  
 since I did that \[good\] karma then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (35) \[5723\]  
+that’s the fruit of Buddha-*pūjā.* (35) \[5723\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (36) \[5724\]  
+I am living without constraint. (36) \[5724\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (37) \[5725\]  
+\[I have\] done what the Buddha taught! (37) \[5725\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (38) \[5726\]  
+\[I have\] done what the Buddha taught! (38) \[5726\]
+
 Thus indeed Venerable Vakkali Thera spoke these verses.  
 The legend of Vakkali Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

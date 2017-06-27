@@ -3,59 +3,73 @@
 Having seen the chief of \[all\] trees,  
 the trumpet-flower[^3] Bodhi tree  
 of Vipassi, the Blessed One,  
-I brought pleasure to \[my\] heart there. (1) \[4462\]  
+I brought pleasure to \[my\] heart there. (1) \[4462\]
+
 Having taken a broom \[with me,\]  
 I always swept that Bodhi tree.  
 After sweeping that Bodhi tree,  
-I worshipped the trumpet-flower. (2) \[4463\]  
+I worshipped the trumpet-flower. (2) \[4463\]
+
 Bringing pleasure to \[my\] heart there,  
 hands pressed together on \[my\] head,  
 praising \[that\] Bodhi tree I \[then,\]  
-crouched over,[^4] departed \[from there\]. (3) \[4464\]  
+crouched over,[^4] departed \[from there\]. (3) \[4464\]
+
 Going along a walking path,[^5]  
 remembering the supreme tree,[^6]  
 \[at that time\] a python[^7] crushed me,  
-of frightful form, extremely strong. (4) \[4465\]  
+of frightful form, extremely strong. (4) \[4465\]
+
 Due to the fruit of my karma,[^8]  
 being near death[^9] I was happy.  
 \[The python\] swallowed my body;[^10]  
-I delighted in the gods’ world. (5) \[4466\]  
+I delighted in the gods’ world. (5) \[4466\]
+
 My mind is always undisturbed,  
 well-purified and very clear.[^11]  
 I do not know arrows of grief,  
-\[nor any\] torment in my heart. (6) \[4467\]  
+\[nor any\] torment in my heart. (6) \[4467\]
+
 I do not get the itch,[^12] ringworm,[^13]  
 rashes,[^14] abscesses,[^15] leprosy,[^16]  
 epilepsy[^17] \[and\] scabies[^18] \[too\]:  
-that is the fruit of sweeping \[up\]. (7) \[4468\]  
+that is the fruit of sweeping \[up\]. (7) \[4468\]
+
 Grief as well as lamentation  
 are[^19] not known in \[this\] heart of mine.  
 My mind’s upright and unattached:[^20]  
-that is the fruit of sweeping \[up\]. (8) \[4469\]  
+that is the fruit of sweeping \[up\]. (8) \[4469\]
+
 My mind is pure, I do not cling  
 when in the meditative states.[^21]  
 Whichever of those states[^22] I want,  
-it \[always\] comes to be for me. (9) \[4470\]  
+it \[always\] comes to be for me. (9) \[4470\]
+
 I’m not attached to lustful \[ways\]  
 and also \[not to\] hateful \[ones\];  
 not bewildered in ignorance:  
-that is the fruit of sweeping \[up\]. (10) \[4471\]  
+that is the fruit of sweeping \[up\]. (10) \[4471\]
+
 In the ninety-one aeons since  
 I did that karma at that time,  
 I’ve come to know no bad rebirth:  
-that is the fruit of sweeping \[up\]. (11) \[4472\]  
+that is the fruit of sweeping \[up\]. (11) \[4472\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (12) \[4473\]  
+I am living without constraint. (12) \[4473\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (13) \[4474\]  
+\[I have\] done what the Buddha taught! (13) \[4474\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (14) \[4475\]  
+\[I have\] done what the Buddha taught! (14) \[4475\]
+
 Thus indeed Venerable Sakiŋsammajjaka Thera spoke these verses.  
 The legend of Sakiŋsammajjaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

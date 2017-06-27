@@ -10,19 +10,23 @@ of the best race of bulls of men. (1-2) \[2163-2164\]
 I \[once\] offered to the Buddha  
 Sikhi, the Kinsman of the World,  
 a piece of cloth[^6] \[which I had\] filled  
-with seven flowers \[I\] had plucked. (3) \[2165\]  
+with seven flowers \[I\] had plucked. (3) \[2165\]
+
 In the thirty-one aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā. (*4) \[2166\]  
+that’s the fruit of Buddha-*pūjā. (*4) \[2166\]
+
 In the twentieth aeon hence  
 I was a greatly powerful  
 wheel-turning monarch with great strength,  
-\[known by the\] name Mahāṇela.[^7] (5) \[2167\]  
+\[known by the\] name Mahāṇela.[^7] (5) \[2167\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[2168\]  
+\[I have\] done what the Buddha taught! (6) \[2168\]
+
 Thus indeed Venerable Koṭumbariya[^8] Thera spoke these verses.  
 The legend of Koṭumbariya[^9] Thera is finished.  
 [^1]: *koṭumbariya* is a kind of cloth; the name would mean “\[That Kind

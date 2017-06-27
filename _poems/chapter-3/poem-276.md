@@ -2,15 +2,18 @@
 I gave a plastering[^2] gift for  
 the Gift-Worthy, Unexcelled One[^3]  
 in the name of[^4] the Great Sage, the  
-Teacher, and the Teaching, and monks.[^5] (1) \[2605\]  
+Teacher, and the Teaching, and monks.[^5] (1) \[2605\]
+
 In the ninety-one aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of a plaster-gift. (2) \[2606\]  
+that’s the fruit of a plaster-gift. (2) \[2606\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (3) \[2607\]  
+\[I have\] done what the Buddha taught! (3) \[2607\]
+
 Thus indeed Venerable Potthadāyaka Thera spoke these verses.  
 The legend of Potthadāyaka Thera is finished.  
 [^1]: “Plastering Donor” (or perhaps to be read, “Bark-Donor,” see next

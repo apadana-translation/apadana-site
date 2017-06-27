@@ -2,35 +2,43 @@
 Sitting in a large, peaked building,[^2]  
 I saw the Leader of the World,  
 Undefiled, Possessing Power,  
-Honored by the Monks’ Assembly. (1) \[1915\]  
+Honored by the Monks’ Assembly. (1) \[1915\]
+
 “Who is not pleased after seeing  
 a lakh with the three-fold knowledge,  
 special knowledges,[^3] superpowers,  
-\[all\] surrounding the Sambuddha? (2) \[1916\]  
+\[all\] surrounding the Sambuddha? (2) \[1916\]
+
 Who is not pleased after seeing  
 Sambuddha with boundless knowledge,  
 to whom none comes close in knowledge  
-\[in this world\] with its gods and men? (3) \[1917\]  
+\[in this world\] with its gods and men? (3) \[1917\]
+
 Who is not pleased after seeing  
 \[him,\] the Whole One,[^4] the Mine of Gems,  
 explaining[^5] the *Dhamma*-body  
-\[which no one\] can ever injure?” (4) \[1918\]  
+\[which no one\] can ever injure?” (4) \[1918\]
+
 Nārada Saragacchiya  
 by \[saying\] these three verses \[then\]  
 praised[^6] \[Buddha\] Padumuttara,  
-the Unconquered, the Sambuddha. (5) \[1919\]  
+the Unconquered, the Sambuddha. (5) \[1919\]
+
 Due to that pleasure in \[my\] heart  
 and \[my\] praising of the Buddha,  
 for one hundred thousand aeons  
-I’ve come to know no bad rebirth. (6) \[1920\]  
+I’ve come to know no bad rebirth. (6) \[1920\]
+
 In the thirtieth aeon \[hence\]  
 the Kṣatriyan named Sukhitta[^7]  
 was a wheel-turner with great strength,  
-possessor of the seven gems. (7) \[1921\]  
+possessor of the seven gems. (7) \[1921\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (8) \[1922\]  
+\[I have\] done what the Buddha taught! (8) \[1922\]
+
 Thus indeed Venerable Atthasandassaka Thera spoke these verses.  
 The legend of Atthasandassaka Thera is finished.  
 [^1]: “Instructor of the Meaning”  

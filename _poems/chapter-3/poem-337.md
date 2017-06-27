@@ -2,67 +2,83 @@
 In the city, Bandumatī,  
 I was one who worked for others.  
 \[Though\] bound in service to others,  
-I looked not for another’s rice.[^3] (1) \[3005\]  
+I looked not for another’s rice.[^3] (1) \[3005\]
+
 Gone off alone and sitting down,  
 I thought \[it out\] in this way:  
 “The Buddha’s risen in the world  
-and I’ve provided no service. (2) \[3006\]  
+and I’ve provided no service. (2) \[3006\]
+
 It is time to clean up my life;[^4]  
 the moment is prepared for me.  
 Suffering is a taste of hell  
-for creatures devoid of merit. (3) \[3007\]  
+for creatures devoid of merit. (3) \[3007\]
+
 Having thought \[it out\] in this way,  
 I approached the labor foreman.[^5]  
 After begging \[him\] for \[some\] work,[^6]  
-I entered into the forest.[^7] (4) \[3008\]  
+I entered into the forest.[^7] (4) \[3008\]
+
 Having gathered at that time \[some\]  
 grass and sticks and \[also some\] vines,  
 \[and\] having put three poles[^8] in place,  
-I constructed a grass hut \[there\]. (5) \[3009\]  
+I constructed a grass hut \[there\]. (5) \[3009\]
+
 After I dedicated that  
 hut for[^9] the Assembly of monks,  
 I came back on that very day  
-and approached the labor foreman. (6) \[3010\]  
+and approached the labor foreman. (6) \[3010\]
+
 Due to that karma done very well,  
 I then went to Tāvatiṃsa.  
 My mansion there, very well made,  
-was created by a grass hut. (7) \[3011\]  
+was created by a grass hut. (7) \[3011\]
+
 The mansion \[that\] appeared for me,  
 a mil-*kaṇḍa*[^10] cent-*bheṇḍu*[^11] \[large\],  
 made of gold, covered in flags,  
-contained a hundred thousand doors. (8) \[3012\]  
+contained a hundred thousand doors. (8) \[3012\]
+
 In whichever womb I’m reborn,  
 \[whether\] it’s human or divine,  
 recognizing what I’m thinking,  
-a palace comes to be \[for me\]. (9) \[3013\]  
+a palace comes to be \[for me\]. (9) \[3013\]
+
 I do not experience fear,  
 get stupefied, horripilate;  
 I do not know those things in me:[^12]  
-that’s the fruit of grass-hut\[-giving\]. (10) \[3014\]  
+that’s the fruit of grass-hut\[-giving\]. (10) \[3014\]
+
 Lions and tigers and leopards,  
 bears[^13] \[and\] wolves,[^14] *kara bānā* bears[^15] --  
 all of them stay away from me:  
-that’s the fruit of grass-hut\[-giving\]. (11) \[3015\]  
+that’s the fruit of grass-hut\[-giving\]. (11) \[3015\]
+
 Vipers[^16] and ghosts,[^17] cobras \[as well\],  
 *kumbhaṇḍa*, *rakkhasa*-\[demons\];  
 they too are \[all\] avoiding me:  
-that’s the fruit of grass-hut\[-giving\]. (12) \[3016\]  
+that’s the fruit of grass-hut\[-giving\]. (12) \[3016\]
+
 I do not remember seeing  
 my dreams \[when they\] are of evil.  
 Mindfulness arises for me:  
-that’s the fruit of grass-hut\[-giving\]. (13) \[3017\]  
+that’s the fruit of grass-hut\[-giving\]. (13) \[3017\]
+
 Just because of that grass-hut\[-gift\],  
 I have experienced success.  
 I have witnessed the Teaching of  
-Gotama \[Buddha\], Blessed One. (14) \[3018\]  
+Gotama \[Buddha\], Blessed One. (14) \[3018\]
+
 In the ninety-one aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of grass-hut\[-giving\]. (15) \[3019\]  
+that’s the fruit of grass-hut\[-giving\]. (15) \[3019\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (16) \[3020\]  
+\[I have\] done what the Buddha taught! (16) \[3020\]
+
 Thus indeed Venerable Tiṇakuṭidāyaka Thera spoke these verses.  
 The legend of Tiṇakuṭidāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

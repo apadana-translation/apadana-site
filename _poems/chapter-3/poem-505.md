@@ -2,23 +2,28 @@
 I saw the golden Sambuddha,  
 Sacrificial Recipient,  
 who had entered onto the road,  
-shining like a dinner-plate tree. (1) \[5420\]  
+shining like a dinner-plate tree. (1) \[5420\]
+
 In the ninety-one aeons since  
 I gave \[him\] *pāra-*fruit[^3] back then,  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving fruit. (2) \[5421\]  
+that is the fruit of giving fruit. (2) \[5421\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (3) \[5422\]  
+I am living without constraint. (3) \[5422\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (4) \[5423\]  
+\[I have\] done what the Buddha taught! (4) \[5423\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[5424\]  
+\[I have\] done what the Buddha taught! (5) \[5424\]
+
 Thus indeed Venerable Pāraphaliya[^4] Thera spoke these verses.  
 The legend of Pāraphaliya[^5] Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

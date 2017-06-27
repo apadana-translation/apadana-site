@@ -2,15 +2,18 @@
 On Candabhāgā River’s bank  
 I was an osprey[^2] at that time.  
 I brought[^3]a big fish and gave it  
-to the Buddha \[named\] Siddhattha. (1) \[2562\]  
+to the Buddha \[named\] Siddhattha. (1) \[2562\]
+
 In the ninety-four aeons since  
 I donated that fish back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of fish donations. (2) \[2563\]  
+that’s the fruit of fish donations. (2) \[2563\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (3) \[2564\]  
+\[I have\] done what the Buddha taught! (3) \[2564\]
+
 Thus indeed Venerable Macchadāyaka Thera spoke these verses.  
 The legend of Macchadāyaka Thera is finished.  
 [^1]: “Fish-Donor”  

@@ -2,19 +2,23 @@
 After praising the true Teaching  
 of Buddha Padumuttara  
 who took pity on all creatures,  
-I was one who had upright views. (1) \[1307\]  
+I was one who had upright views. (1) \[1307\]
+
 I donated a gift of lamps  
 to surround the \[great\] Bodhi Tree.  
 Believing \[in the Buddha\] I  
-\[then\] lit[^2] \[those\] lamps all of the time. (2) \[1308\]  
+\[then\] lit[^2] \[those\] lamps all of the time. (2) \[1308\]
+
 In whichever womb I’m reborn  
 \[whether\] it’s human or divine,  
 torches are carried[^3] in the sky:  
-that is the fruit of giving lamps. (3) \[1309\]  
+that is the fruit of giving lamps. (3) \[1309\]
+
 \[Right\] through walls, \[also right\] through rocks,  
 \[and\] passing over mountain\[-top\]s,[^4]  
 I can see[^5] in all directions  
-\[even\] one hundred leagues \[distant\]. (4) \[1310\]  
+\[even\] one hundred leagues \[distant\]. (4) \[1310\]
+
 Through the rest of that \[good\] karma  
 I have attained arahantship.[^6]  
 I’m bearing my last body in  
@@ -22,11 +26,13 @@ the Biped-Lord’s dispensation. (5) \[1312[^7]\]
 Thirty-four hundred aeons \[thence\]  
 I was known as Satacakkhu;[^8]  
 I was a king with great power,  
-a wheel-turner who had great strength. (6) \[1311\]  
+a wheel-turner who had great strength. (6) \[1311\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (7) \[1313\]  
+\[I have\] done what the Buddha taught! (7) \[1313\]
+
 Thus indeed Venerable Pañcadīpika Thera spoke these verses.  
 The legend of Pañcadīpika Thera is finished.  
 [^1]: “Five-Lamps”  

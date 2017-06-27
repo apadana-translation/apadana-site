@@ -2,27 +2,33 @@
 Vessabhū, the Sage, having plunged  
 into a *sal-*forest in bloom,  
 sat down on a bad mountain road  
-like a lion, the Well-Born-One.[^3] (1) \[4752\]  
+like a lion, the Well-Born-One.[^3] (1) \[4752\]
+
 Happy, with pleasure in \[my\] heart,  
 I presented[^4] hog-plum[^5] \[to him\],  
 the Merit-Field, the Great Hero,  
-\[feeling well-\]pleased by my own hands. (2) \[4753\]  
+\[feeling well-\]pleased by my own hands. (2) \[4753\]
+
 In the thirty-one aeons since  
 I offered[^6] that flower[^7] \[to him\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā*. (3) \[4754\]  
+that’s the fruit of Buddha-*pūjā*. (3) \[4754\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 All defilements are exhausted;  
-I am living without constraint. (4) \[4755\]  
+I am living without constraint. (4) \[4755\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (5) \[4756\]  
+\[I have\] done what the Buddha taught! (5) \[4756\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[4757\]  
+\[I have\] done what the Buddha taught! (6) \[4757\]
+
 Thus indeed Venerable Ambāṭakiya Thera spoke these verses.  
 The legend of Ambāṭakiya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

@@ -2,31 +2,38 @@
 \[I saw\] the Golden Sambuddha  
 going in the path of the wind,  
 glistening like an oil-altar,[^3]  
-blazing up like a fire-altar.[^4] \[2937\]  
+blazing up like a fire-altar.[^4] \[2937\]
+
 Taking \[some\] water with my hand,  
 I tossed it up into the sky.  
 The Buddha, Compassionate, Sage,  
-Great Hero, \[then\] accepted it. \[2938\]  
+Great Hero, \[then\] accepted it. \[2938\]
+
 Standing in the sky, the Teacher,  
 whose name was Padumuttara,  
 discerning what I was thinking,  
-spoke this verse \[about me just then\]: \[2939\]  
+spoke this verse \[about me just then\]: \[2939\]
+
 “Because of this gift of water  
 and the joy that \[he\] produced \[then\],  
 for one hundred thousand aeons  
-he’ll come to know no bad rebirth.” \[2940\]  
+he’ll come to know no bad rebirth.” \[2940\]
+
 Due to that deed for Buddha,[^5]  
 the World’s Best One, the Bull of Men,  
 I’ve attained the unshaking state  
-beyond \[all\] conquest and defeat. \[2941\]  
+beyond \[all\] conquest and defeat. \[2941\]
+
 In the sixty-five hundredth aeon,  
 there were three wheel-turning monarchs;  
 \[all were\] named Sahassarāja,[^6]  
-lords over people on four sides. \[2942\]  
+lords over people on four sides. \[2942\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! \[2943\]  
+\[I have\] done what the Buddha taught! \[2943\]
+
 Thus indeed Venerable Udakapūjaka Thera spoke these verses.  
 The legend of Udakapūjaka Thera is finished.  
 [^1]: “Water-Offer-er” This *apadāna*, apparently supplied to fulfill

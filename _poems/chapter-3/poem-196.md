@@ -2,31 +2,38 @@
 In the city, Dvāravatī,  
 I had a small flowering tree.[^2]  
 There was a well there \[in that place,\]  
-\[whose water\] made the trees grow tall.[^3] (1) \[2241\]  
+\[whose water\] made the trees grow tall.[^3] (1) \[2241\]
+
 Siddhattha, the Unconquered One,  
 made firm by \[his\] own \[mental\][^4] strength,  
 showing \[his\] compassion for me,  
-traveled in the path of the wind.[^5] (2) \[2242\]  
+traveled in the path of the wind.[^5] (2) \[2242\]
+
 I am looking at nothing else,  
 fixed on worship of the Great Sage.  
 Seeing an ashoka tree sprout  
-I threw it up into the sky. (3) \[2243\]  
+I threw it up into the sky. (3) \[2243\]
+
 Those shoots are going backwards  
 to the Buddha going \[in the sky\].  
 That I, seeing that miracle,  
-\[thought\], “O! The Buddha’s loftiness!”[^6] (4) \[2244\]  
+\[thought\], “O! The Buddha’s loftiness!”[^6] (4) \[2244\]
+
 In the ninety-four aeons since  
 I offered \[the Buddha\] that sprout,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (5) \[2245\]  
+that’s the fruit of Buddha-*pūjā.* (5) \[2245\]
+
 In the twenty-seventh aeon  
 ago lived one Ekassara,[^7]  
 a wheel-turning king with great strength,  
-possessor of the seven gems. (6) \[2246\]  
+possessor of the seven gems. (6) \[2246\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (7) \[2247\]  
+\[I have\] done what the Buddha taught! (7) \[2247\]
+
 Thus indeed Venerable Kisalayapūjaka Thera spoke these verses.  
 The legend of Kisalayapūjaka Thera is finished.  
 [^1]: “Offerer of a Tender Sprout (or Shoot)”  

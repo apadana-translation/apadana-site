@@ -10,23 +10,28 @@ the Bull among Men, to the garden. (1-2) \[2748-49\]
 Happy, \[and\] with a happy heart,  
 I gave fruits and flower\[s\] \[to him\],  
 and with the pleasure born of that,  
-I made the formal donation.[^4] (3) \[2750\]  
+I made the formal donation.[^4] (3) \[2750\]
+
 That which I gave to the Buddha,  
 with a mind that was very clear,  
 was reborn as \[great\] fruit for me while  
-I was reborn in existence.[^5] (4) \[2751\]  
+I was reborn in existence.[^5] (4) \[2751\]
+
 In the ninety-four aeons since  
 I gave \[him\] that gift at that time,  
 I’ve come to no know bad rebirth:  
-the fruit of giving a garden. (5) \[2752\]  
+the fruit of giving a garden. (5) \[2752\]
+
 In the thirty-seventh aeon  
 were seven Mudusītalas,[^6]  
 wheel-turning monarchs with great strength,  
-possessors of the seven gems. (6) \[2753\]  
+possessors of the seven gems. (6) \[2753\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (7) \[2754\]  
+\[I have\] done what the Buddha taught! (7) \[2754\]
+
 Thus indeed Venerable Ārāmadāyaka Thera spoke these verses.  
 The legend of Ārāmadāyaka Thera is finished.  
 [^1]: “Garden Donor”  

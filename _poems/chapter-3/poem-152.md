@@ -2,15 +2,18 @@
 Employed in others’ transport work,  
 I committed a crime[^2] \[back then\].  
 I was exiled to the forest;  
-filled with fear, I was terrified. (1) \[1999\]  
+filled with fear, I was terrified. (1) \[1999\]
+
 Having seen a tree in flower  
 with tiny, well-fashioned clusters,  
 picking a copper-colored bloom,  
-I scattered \[it\] on the Bodhi. (2) \[2000\]  
+I scattered \[it\] on the Bodhi. (2) \[2000\]
+
 Having swept around that Bodhi,  
 the ultimate *pāṭali* tree,  
 getting into lotus posture,[^3]  
-I stayed at the Bodhi \[tree\]’s roots. (3) \[2001\]  
+I stayed at the Bodhi \[tree\]’s roots. (3) \[2001\]
+
 Searching for the road \[I’d\] gone on,  
 they[^4] \[then\] came into my presence.  
 And having seen them, \[then and\] there  
@@ -18,19 +21,23 @@ I recalled the superb Bodhi. (4) \[2002\][^5]
 Having worshipped the Bodhi \[tree\]  
 with a mind that was very clear,  
 I obtained varied *tal*[^6] trees \[then\]  
-inside a frightful mountain crag. (5) \[2003\]  
+inside a frightful mountain crag. (5) \[2003\]
+
 In the ninety-one aeons since  
 I offered that flower \[to him\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (6) \[2004\]  
+that’s the fruit of Buddha-*pūjā.* (6) \[2004\]
+
 In the thirtieth aeon hence  
 there was a king, Samphusita,[^7]  
 a wheel-turner with great power,  
-possessor of the seven gems. (7) \[2005\]  
+possessor of the seven gems. (7) \[2005\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (8) \[2006\]  
+\[I have\] done what the Buddha taught! (8) \[2006\]
+
 Thus indeed Venerable Tambapupphiya Thera spoke these verses.  
 The legend of Tambapupphiya Thera is finished.  
 [^1]: “Copper-Colored Flower-er”  

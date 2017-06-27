@@ -2,59 +2,73 @@
 Plunged into the Himalayas,  
 I’m reciting mantras back the,  
 \[and\] fifty-four thousand students  
-attended on me \[in that place\]. (1) \[4922\]  
+attended on me \[in that place\]. (1) \[4922\]
+
 They all learned by heart,[^3] true knowers,[^4]  
 were masters of Vedic science;[^5]  
 having come of their own accord,[^6]  
-they dwelt in the Himalayas. (2) \[4923\]  
+they dwelt in the Himalayas. (2) \[4923\]
+
 The Son of a God, Greatly Famed,  
 falling from Tusitā \[heaven\],[^7]  
 was reborn in a mother’s womb,  
-attentive \[and\] remembering. (3) \[4924\]  
+attentive \[and\] remembering. (3) \[4924\]
+
 When the Buddha[^8] was being born,  
 the ten-thousand world-system quaked,  
 \[and\] those who were blind obtained[^9] eyes,[^10]  
-when the Leader was being born. (4) \[4925\]  
+when the Leader was being born. (4) \[4925\]
+
 This entire \[great bountiful\][^11] earth  
 quaked in every manner.[^12]  
 Having heard the sound of shouting,  
-the populace was frightened \[then\]. (5) \[4926\]  
+the populace was frightened \[then\]. (5) \[4926\]
+
 All the people came together,  
 and they came into my presence.  
 “The \[great bountiful\] earth has quaked,  
-what will this be the result of?” (6) \[4927\]  
+what will this be the result of?” (6) \[4927\]
+
 I answered them, “Don’t be frightened;  
 there is nothing for you to fear.  
 Let all of you be confident;  
-this omen portends happiness. (7) \[4928\]  
+this omen portends happiness. (7) \[4928\]
+
 \[This great bountiful\] earth quakes through  
 contact[^13] with \[one of\] eight causes.  
 Likewise \[this\] sign is \[also\] seen:  
-there’s a huge effulgence \[of light\]. (8) \[4929\]  
+there’s a huge effulgence \[of light\]. (8) \[4929\]
+
 Without a doubt a Best Buddha,  
 an Eyeful One, will \[soon\] be born!”  
 Having \[thus\] informed the people,  
-I spoke about the five precepts.[^14] (9) \[4930\]  
+I spoke about the five precepts.[^14] (9) \[4930\]
+
 Hearing of the five precepts,[^15] and  
 a Buddha’s birth, hard to obtain,  
 happy \[and\] full of excitement,[^16]  
-their hair stood on end in delight.[^17] (10) \[4931\]  
+their hair stood on end in delight.[^17] (10) \[4931\]
+
 In the ninety-two aeons since  
 I explained the signs \[at that time\],  
 I’ve come to know no bad rebirth:  
-that is the fruit of explaining. (11) \[4932\]  
+that is the fruit of explaining. (11) \[4932\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (12) \[4933\]  
+I am living without constraint. (12) \[4933\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (13) \[4934\]  
+\[I have\] done what the Buddha taught! (13) \[4934\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (14) \[4935\]  
+\[I have\] done what the Buddha taught! (14) \[4935\]
+
 Thus indeed Venerable Nimittavyākaraṇiya Thera spoke these verses.  
 The legend of Nimittavyākaraṇiya Thera is finished.  
 The Summary:  

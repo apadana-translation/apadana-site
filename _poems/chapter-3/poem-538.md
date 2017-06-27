@@ -6,43 +6,53 @@ a hundred thousand aeons hence. (1) \[5911\][^3]
 The Admonisher,[^4] Instructor,[^5]  
 Crosser-Over[^6] of all that breathe,  
 Skilled at Preaching,[^7] \[he\], the Buddha,  
-caused many folks to cross \[the flood\]. (2) \[5912\]  
+caused many folks to cross \[the flood\]. (2) \[5912\]
+
 Merciful,[^8] Compassionate One,[^9]  
 Well-Wisher[^10] of all that breathe, he  
 established in the five precepts  
-all the rivals who had arrived. (3) \[5913\]  
+all the rivals who had arrived. (3) \[5913\]
+
 In this way he was Unconfused[^11]  
 and Very Well-Known[^12] by rivals,  
 Ornamented[^13] by arahants  
-who were masters \[and\] neutral ones. (4) \[5914\]  
+who were masters \[and\] neutral ones. (4) \[5914\]
+
 The \[body of the\] Sage So Great  
 rose up fifty-eight cubits[^14] \[tall\];  
 he was Valuable Like Gold,[^15]  
-Bearing the Thirty-Two Great Marks. (5) \[5915\]  
+Bearing the Thirty-Two Great Marks. (5) \[5915\]
+
 \[People’s\] lifespan at that time was  
 \[fully\] one hundred thousand years.  
 Remaining \[in the world\] so long,  
-he ferried many folks across. (6) \[5916\]  
+he ferried many folks across. (6) \[5916\]
+
 I then \[lived\] in Haṃsavatī,  
 A brahmin held in high regard.  
 Approaching the Torch for the World,[^16]  
-I heard the preaching of *Dhamma*. (7) \[5917\]  
+I heard the preaching of *Dhamma*. (7) \[5917\]
+
 \[One\] of the Great Man’s[^17] followers  
 had an extensive retinue.  
 I was thrilled after hearing \[him\]  
-being placed in that foremost place. (8) \[5918\]  
+being placed in that foremost place. (8) \[5918\]
+
 Inviting \[him\], the Great Victor,[^18]  
 I gave an almsgiving \[to him\],  
 along with \[my\][^19] large entourage,  
-including a thousand brahmins. (9) \[5919\]  
+including a thousand brahmins. (9) \[5919\]
+
 Giving a massive almsgiving,  
 having saluted the Leader,  
 happy, standing off at one side,  
-I spoke these words \[to him just then\]: (10) \[5920\]  
+I spoke these words \[to him just then\]: (10) \[5920\]
+
 “Hero, due to my faith in you  
 and by virtue of serving \[you\],  
 let \[me\] have[^20] a large retinue  
-\[while\] transmigrating here and there.” (11) \[5921\]  
+\[while\] transmigrating here and there.” (11) \[5921\]
+
 \[Buddha\], the Cuckoo-Voiced[^21] Teacher,  
 Elephant-Trumpet-Sounding One,[^22]  
 spoke to the retinue \[just\] then:  
@@ -54,47 +64,58 @@ happy, with faith in my virtue.[^23] (12-13) \[5922-5923\]
 This one’s aspiring to the place  
 of the monk with a lion’s roar.[^24]  
 Very far into the future,  
-he’ll receive that delightful \[place\]. (14) \[5924\]  
+he’ll receive that delightful \[place\]. (14) \[5924\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (15) \[5925\]  
+will be the Teacher in the world. (15) \[5925\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 the one whose name is Kassapa  
-will be the Teacher’s follower.” (16) \[5926\]  
+will be the Teacher’s follower.” (16) \[5926\]
+
 \[Then\] ninety-two aeons ago,  
 there was a Teacher, Unsurpassed,[^25]  
 Beyond Compare,[^26] Unrivaled One:[^27]  
-Phussa, Chief Leader of the World. (17) \[5927\]  
+Phussa, Chief Leader of the World. (17) \[5927\]
+
 That one, having slain all darkness,  
 untangling the great tangle,[^28]  
 rained forth the rain of deathlessness,  
-refreshing the \[world\] with \[its\] gods. (18) \[5928\]  
+refreshing the \[world\] with \[its\] gods. (18) \[5928\]
+
 In \[the city of\] Benares,  
 \[reborn\] the king’s sons[^29] at that time,  
 we were three brothers, all of us,  
-in the confidence of the king. (19) \[5929\]  
+in the confidence of the king. (19) \[5929\]
+
 Strong, with heroic limbs \[and\] looks,[^30]  
 \[we’re\] undefeated in battle.  
 Then troubled in the borderlands,  
-the lord of the earth said to us: (20) \[5930\]  
+the lord of the earth said to us: (20) \[5930\]
+
 “Come, going to the borderlands,  
 cleaning up that forest army,[^31]  
 having pacified my kingdom,  
-come back again,” \[is what\] he said. (21) \[5931\]  
+come back again,” \[is what\] he said. (21) \[5931\]
+
 Afterward we said \[to the king\]:  
 “If you’ll give \[leave\] to us to serve  
 the \[Buddha\], Leader \[of the World\],  
-then we’ll clean up your[^32] \[enemies\].” (22) \[5932\]  
+then we’ll clean up your[^32] \[enemies\].” (22) \[5932\]
+
 Then we, having obtained our wish,  
 sent out by the earth’s protector,  
 making the borderlands weapon-  
-free, we came up to him again. (23) \[5933\]  
+free, we came up to him again. (23) \[5933\]
+
 Having asked the king \[to let us\]  
 serve the Teacher, the World-Leader,  
 getting the Excellent Sage,[^33] we  
-worshipped[^34] him as long as \[we\] lived. (24) \[5934\]  
+worshipped[^34] him as long as \[we\] lived. (24) \[5934\]
+
 Giving very expensive cloth,  
 and abundant[^35] tasty \[alms food\],  
 and lodgings[^36] \[which were\] delightful,  
@@ -111,11 +132,13 @@ worshipping[^39] with all of \[our\] strength,[^40] (25-27)
 fallen from there, gone to heaven,[^41]  
 all \[three\] of us experienced  
 great happiness \[when\] in that place:  
-that’s the fruit of Buddha-*pūjā.* (28) \[5938\]  
+that’s the fruit of Buddha-*pūjā.* (28) \[5938\]
+
 Like an illusionist on stage[^42]  
 showing \[himself as\] very large,  
 thus touring[^43] in existence I  
-became the king of Videha.[^44] (29) \[5939\]  
+became the king of Videha.[^44] (29) \[5939\]
+
 At the word of naked[^45] Guṇa,[^46]  
 become[^47] dependent on wrong views,[^48]  
 I got onto an evil path.  
@@ -131,55 +154,68 @@ went to heaven with a palace. (30-32) \[5940-5942\]
 When \[my\] last rebirth was attained,  
 I was a kinsman of Brahmā,  
 born in Benares with great wealth,[^54]  
-in a large brahmin family.[^55] (33) \[5943\]  
+in a large brahmin family.[^55] (33) \[5943\]
+
 Fearing death, illness \[and\] old age,  
 and abandoning \[my\] great wealth,  
 seeking the path to nirvana,  
-I went forth as a Jaṭila.[^56] (34) \[5944\]  
+I went forth as a Jaṭila.[^56] (34) \[5944\]
+
 \[And\] then those two brothers of mine  
 \[also\] went forth along with me.  
 Having built in Uruvelā  
-a hermitage, I \[then\] lived there. (35) \[5945\]  
+a hermitage, I \[then\] lived there. (35) \[5945\]
+
 Named “Kassapa” through \[my\] lineage,  
 since I dwelt in Uruvelā,  
 I was therefore known \[by the name\]  
-of “Uruvela Kassapa.”[^57] (36) \[5946\]  
+of “Uruvela Kassapa.”[^57] (36) \[5946\]
+
 My brother \[lived\] near the river;[^58]  
 he was named “Nadī Kassapa.”  
 \[The other lived\] close to Gāyā;  
-by name he’s “Gāyā Kassapa”. (37) \[5947\]  
+by name he’s “Gāyā Kassapa”. (37) \[5947\]
+
 Two hundred for Nadīkassapa,  
 \[and\] three for the middle brother.  
 No less than five hundred for me,  
-students who all \[then\] followed me. (38) \[5948\]  
+students who all \[then\] followed me. (38) \[5948\]
+
 Then the Buddha, approaching me,  
 the World-Chief, Charioteer of Men,  
 doing various miracles,  
-he led me \[on the correct path\]. (39) \[5949\]  
+he led me \[on the correct path\]. (39) \[5949\]
+
 I was \[ordained\], “come monk,” along  
 with a lakh \[in my\] retinue;  
 I attained \[my\] arahantship,  
-together with all of them \[too\]. (40) \[5950\]  
+together with all of them \[too\]. (40) \[5950\]
+
 They and also many others  
 were students attending on me.  
 I was able to instruct \[them,\]  
-as the Seventh Sage \[advised\] me. (41) \[5951\]  
+as the Seventh Sage \[advised\] me. (41) \[5951\]
+
 He placed me in the foremost place  
 \[of those with a\] large retinue.  
 O! the deed done for the Buddha  
-\[certainly\] bore \[its\] fruit for me. (42) \[5952\]  
+\[certainly\] bore \[its\] fruit for me. (42) \[5952\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (43) \[5953\]  
+I am living without constraint. (43) \[5953\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (44) \[5954\]  
+\[I have\] done what the Buddha taught! (44) \[5954\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (45) \[5955\]  
+\[I have\] done what the Buddha taught! (45) \[5955\]
+
 Thus indeed Venerable Uruvelakassapa Thera spoke these verses.  
 The legend of Uruvelakassapa Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

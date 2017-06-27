@@ -3,51 +3,63 @@
 In the Himalayan region,  
 there’s a mountain named Lambaka.[^4]  
 The Sambuddha, Upatissa,  
-walked back and forth in open air. (1) \[5538\]  
+walked back and forth in open air. (1) \[5538\]
+
 I was a deer-hunter back then,  
 within a grove in the forest.  
 Having seen that God among Gods,  
-I then gave a handful of grass. (2) \[5539\]  
+I then gave a handful of grass. (2) \[5539\]
+
 Giving \[it\] to the Buddha to  
 sit on, I pleased \[my own\] heart \[there\].  
 Saluting the Sambuddha, I  
-\[then\] departed, facing the north. (3) \[5540\]  
+\[then\] departed, facing the north. (3) \[5540\]
+
 Not long after, a king of beasts[^5]  
 injured me where I had traveled.[^6]  
 Being brought down by \[that\] lion,  
-I passed away \[right\] on the spot. (4) \[5541\]  
+I passed away \[right\] on the spot. (4) \[5541\]
+
 Near \[when\] I did that karma for  
 the Best Buddha, the Undefiled,[^7]  
 quick like[^8] an arrow \[just\] released,  
-I went to the world of the gods. (5) \[5542\]  
+I went to the world of the gods. (5) \[5542\]
+
 \[My\] lovely sacrificial post[^9]  
 created by good[^10] karma there  
 was mil-*kaṇḍa*[^11] cent-*bheṇḍu*[^12] \[large\]  
-made out of gold, covered in flags. (6) \[5543\]  
+made out of gold, covered in flags. (6) \[5543\]
+
 Radiating its brilliant light,  
 like the risen hundred-rayed \[sun\],  
 it’s crowded with divine maidens.  
-I \[greatly\] enjoyed \[myself there\]. (7) \[5544\]  
+I \[greatly\] enjoyed \[myself there\]. (7) \[5544\]
+
 Falling from the world of the gods,  
 incited by \[my\] wholesome roots,  
 coming back to the human state,  
-I attained \[my\] arahantship.[^13] (8) \[5545\]  
+I attained \[my\] arahantship.[^13] (8) \[5545\]
+
 In the ninety-four aeons since  
 I gave \[him a place to\] sit down,  
 I’ve come to know no bad rebirth:  
-the fruit of a handful of grass. (9) \[5546\]  
+the fruit of a handful of grass. (9) \[5546\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (10) \[5547\]  
+I am living without constraint. (10) \[5547\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (11) \[5548\]  
+\[I have\] done what the Buddha taught! (11) \[5548\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (12) \[5549\]  
+\[I have\] done what the Buddha taught! (12) \[5549\]
+
 Thus indeed Venerable Tiṇamuṭṭhidāyaka Thera spoke these verses.  
 The legend of Tiṇamuṭṭhidāyaka Thera is finished.  
 [^1]: BJTS reads simply *Phaladāyakaº*  

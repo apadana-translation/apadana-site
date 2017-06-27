@@ -2,39 +2,48 @@
 On Candabhāgā River’s bank,  
 I was a monkey[^3] at that time.  
 I saw the Stainless Buddha \[who\]  
-was seated on a mountainside. (1) \[3084\]  
+was seated on a mountainside. (1) \[3084\]
+
 I was enraptured seeing \[him\],  
 Shining Forth in All Directions,  
 like a regal *sal* tree in bloom,  
-Bearing the Great and Lesser Marks.[^4](2) \[3085\]  
+Bearing the Great and Lesser Marks.[^4](2) \[3085\]
+
 Happy, with \[my\] heart exultant,  
 \[and my\] mind bristling with joy,  
 I offered on \[the Buddha’s\] head  
-three \[lovely\] blue lotus flowers. (3) \[3086\]  
+three \[lovely\] blue lotus flowers. (3) \[3086\]
+
 After offering \[those\] flowers  
 to Vipassi, the Greatest Sage,  
 approaching him respectfully  
-I \[then\] departed facing north. (4) \[3087\]  
+I \[then\] departed facing north. (4) \[3087\]
+
 Crouched over[^5] going off \[from there,\]  
 with a mind that was very clear,  
 I alighted on a mountain  
-\[and\] attained the end of \[my\] life. (5) \[3088\]  
+\[and\] attained the end of \[my\] life. (5) \[3088\]
+
 Due to that karma done very well,  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body,[^6]  
-I went to Tāvatiṃsa \[then\]. (6) \[3089\]  
+I went to Tāvatiṃsa \[then\]. (6) \[3089\]
+
 And \[afterwards,\] three hundred times,  
 I ruled over the \[world of\] gods.  
 And \[furthermore\] five hundred times  
-I was a king who turned the wheel. (7) \[3090\]  
+I was a king who turned the wheel. (7) \[3090\]
+
 In the ninety-one aeons since  
 I did that flower-*pūjā* \[then\]*,*  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (8) \[3091\]  
+that’s the fruit of Buddha-*pūjā.* (8) \[3091\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (9) \[3092\]  
+\[I have\] done what the Buddha taught! (9) \[3092\]
+
 Thus indeed Venerable Tīṇuppalamāliya Thera spoke these verses.  
 The legend of Tīṇuppalamāliya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

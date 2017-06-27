@@ -2,59 +2,73 @@
 I had a well-made hermitage,  
 on the banks of River Indus.  
 There[^3] I am instructing students  
-in history and \[reading\] signs. (1) \[3706\]  
+in history and \[reading\] signs. (1) \[3706\]
+
 They lived on the Indus’ slopes,  
 desiring teachings,[^4] learned folks,[^5]  
 masters in Vedic sciences,[^6]  
-wanting to hear good instruction.[^7] (2) \[3707\]  
+wanting to hear good instruction.[^7] (2) \[3707\]
+
 They were skilled in interpreting[^8]  
 omens as well as \[reading\] signs.[^9]  
 Searching for ultimate meaning,  
-they then dwelt within the forest. (3) \[3708\]  
+they then dwelt within the forest. (3) \[3708\]
+
 The Sambuddha named Sumedha  
 arose in the world at that time.  
 Being \[filled\] with pity for us,  
-the \[Buddha, the\] Guide,[^10] approached \[us\]. (4) \[3709\]  
+the \[Buddha, the\] Guide,[^10] approached \[us\]. (4) \[3709\]
+
 Fashioning a mat out of grass[^11]  
 for Sumedha, the World’s Leader,  
 the Great Hero who had approached,  
-I gave \[it\] to the World’s Best One. (5) \[3710\]  
+I gave \[it\] to the World’s Best One. (5) \[3710\]
+
 Taking honey from the forest,  
 I gave \[it\] to the Best Buddha.  
 The Sambuddha, having consumed  
-\[it\], spoke these words \[to us back then\]: (6) \[3711\]  
+\[it\], spoke these words \[to us back then\]: (6) \[3711\]
+
 “He who gave this honey to me,  
 \[feeling well-\] pleased by \[his\] own hands,  
 I shall relate details of him;  
-\[all of\] you listen to my words: (7) \[3712\]  
+\[all of\] you listen to my words: (7) \[3712\]
+
 Because of this honey-giving,  
 and because of the mat of grass,  
 for thirty thousand aeons he  
-will delight in the world of gods. (8) \[3713\]  
+will delight in the world of gods. (8) \[3713\]
+
 \[After\] thirty thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (9) \[3714\]  
+will be the Teacher in the world. (9) \[3714\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 knowing well all the defilements,  
-he’ll reach nirvana, undefiled.” (10) \[3715\]  
+he’ll reach nirvana, undefiled.” (10) \[3715\]
+
 Coming here from the world of gods,  
 \[when I\] approached \[my\] mother’s womb,  
 there then rained a rain of honey;[^12]  
-the earth was covered with honey.[^13] (11) \[3716\]  
+the earth was covered with honey.[^13] (11) \[3716\]
+
 When I was coming out from the  
 womb, as though very unhappily,[^14]  
 there again a rain of honey  
-is raining for me constantly. (12) \[3717\]  
+is raining for me constantly. (12) \[3717\]
+
 Having departed from the house,  
 I went forth into homelessness.  
 I am receiving[^15] food \[and\] drink:  
-that’s the fruit of giving honey. (13) \[3718\]  
+that’s the fruit of giving honey. (13) \[3718\]
+
 \[Whether\] born human \[or\] divine,  
 I succeed in all \[my\] wishes.  
 Just because of that honey-gift,  
-I attained \[my\] arahantship.[^16] (14) \[3719\]  
+I attained \[my\] arahantship.[^16] (14) \[3719\]
+
 When the god is raining, I am always living  
 undefiled \[and\] happy, on grass four fingers \[high\],  
 or[^17] covered[^18] by a tree \[bursting forth\] in full bloom,[^19]  
@@ -63,23 +77,28 @@ in an empty house, a pavilion, \[or\] tree root.[^20] (15-16)
 I’ve overcome all existence,  
 great \[or\] small \[or\] in the middle.[^22]  
 Today I’m free of defilements;  
-now there will be no more rebirth. (17) \[3721\]  
+now there will be no more rebirth. (17) \[3721\]
+
 In the thirty thousand aeons  
 since I gave that gift at that time,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of giving honey. (18) \[3722\]  
+that’s the fruit of giving honey. (18) \[3722\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 All defilements are exhausted;  
-now there will be no more rebirth. (19) \[3723\]  
+now there will be no more rebirth. (19) \[3723\]
+
 My being in Buddha’s presence[^23]  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (20) \[3724\]  
+\[I have\] done what the Buddha taught! (20) \[3724\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (21) \[3725\]  
+\[I have\] done what the Buddha taught! (21) \[3725\]
+
 Thus indeed Venerable Madhudāyaka Thera spoke these verses.  
 The legend of Madhudāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

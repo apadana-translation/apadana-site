@@ -3,115 +3,143 @@
 Floating in[^4] the great ocean, my  
 palace \[then\] was very well-made.  
 There was a pond, \[also\] well made,  
-\[full of\] the cries of ruddy geese,[^5] \[6331\]  
+\[full of\] the cries of ruddy geese,[^5] \[6331\]
+
 covered with *mandālaka*[^6] blooms  
 and with pink and blue lotuses.  
 And a river was flowing there,  
-beautiful, with excellent banks, \[6332\]  
+beautiful, with excellent banks, \[6332\]
+
 covered with fish and tortoises,[^7]  
 with various birds spread about,[^8]  
 noisy with peacocks[^9] \[and\] herons,[^10]  
-\[and\] the \[calls of birds\] like cuckoos.[^11] \[6333\]  
+\[and\] the \[calls of birds\] like cuckoos.[^11] \[6333\]
+
 Pigeons[^12] \[and\] *ravi*-swans[^13] \[as well\],  
 ruddy geese[^14] and *nadīcaras*,  
 lapwings[^15] \[and\] mynah birds[^16] are here,  
-small monkeys,[^17] *jīvajīvakas.*[^18] \[6334\]  
+small monkeys,[^17] *jīvajīvakas.*[^18] \[6334\]
+
 \[It\] resounds with swans and herons,  
 owls and many *piṅgalas.*  
 The sand contains the seven gems,  
-\[strewn with\] jewels \[and costly\] pearls. \[6335\]  
+\[strewn with\] jewels \[and costly\] pearls. \[6335\]
+
 All of the trees, made out[^19] of gold,  
 pervaded by various scents,  
 are lighting up my palace \[there\],  
-by day and night, all of the time. \[6336\]  
+by day and night, all of the time. \[6336\]
+
 Sixty thousand instruments are  
 being played morning and evening.  
 Sixteen thousand women \[as well\]  
-are waiting on me constantly. \[6337\]  
+are waiting on me constantly. \[6337\]
+
 Happy, with pleasure in \[my\] heart,  
 having departed \[my\] palace,  
 I worshipped that Greatly Famed One,  
-Sumedha, Leader of the World. \[6338\]  
+Sumedha, Leader of the World. \[6338\]
+
 Having greeted the Sambuddha,  
 inviting him \[and\] Assembly,  
 that Wise One then agreed \[to come\],  
-Sumedha, Leader of the World. \[6339\]  
+Sumedha, Leader of the World. \[6339\]
+
 Having preached the *Dhamma* to me,[^20]  
 the Great Sage \[later\] took his leave.  
 Having greeted the Sambuddha,  
-I returned to my palace \[then\]. \[6340\]  
+I returned to my palace \[then\]. \[6340\]
+
 I summoned \[all\] the people[^21] there:  
 “All of you gather together.  
 In the first part of the day,  
-the Buddha will come to the palace.” \[6341\]  
+the Buddha will come to the palace.” \[6341\]
+
 “We dwelling near you have received  
 something that’s well-gotten for us.  
 We too will do a *pūjā* for  
-the Teacher, the Best of Buddhas.” \[6342\]  
+the Teacher, the Best of Buddhas.” \[6342\]
+
 After putting up food \[and\] drink,  
 I announced that it was the time.  
 The Leader of the World arrived  
-with one hundred thousand masters.[^22] \[6343\]  
+with one hundred thousand masters.[^22] \[6343\]
+
 I went to meet \[him\] with the five  
 musical instruments \[sounding\].  
 The Supreme Person[^23] sat down on  
-a chair made out of solid gold. \[6344\]  
+a chair made out of solid gold. \[6344\]
+
 I placed[^24] a canopy above,  
 which was made out of solid gold;  
 fans are then diffusing \[perfumes\]  
-within the Assembly of monks. \[6345\]  
+within the Assembly of monks. \[6345\]
+
 I regaled the monks’ Assembly  
 with large amounts of food \[and\] drink;  
 I gave individual pairs  
-of cloth[^25] to the monks’ Assembly. \[6346\]  
+of cloth[^25] to the monks’ Assembly. \[6346\]
+
 The one whom they called Sumedha,  
 Sacrificial Recipient,[^26]  
 sitting in the monks’ Assembly,  
-spoke these \[six\] verses \[at that time\]: \[6347\]  
+spoke these \[six\] verses \[at that time\]: \[6347\]
+
 “This one who \[gave\] me food and drink  
 and fed[^27] all of these \[monks\] with it,  
 I shall relate details of him;  
-\[all of\] you listen to my words: \[6348\]  
+\[all of\] you listen to my words: \[6348\]
+
 For eighteen hundred aeons he  
 will delight in the world of gods.  
 A thousand times he’ll be a king,  
-a king who turns the wheel \[of law\]. \[6349\]  
+a king who turns the wheel \[of law\]. \[6349\]
+
 In whichever womb he’s reborn,  
 \[whether\] it’s human or divine,  
 a canopy of solid gold  
-will always[^28] be carried \[for him\]. \[6350\]  
+will always[^28] be carried \[for him\]. \[6350\]
+
 In thirty thousand aeons \[hence\],  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. \[6351\]  
+will be the Teacher in the world. \[6351\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 knowing well all the defilements,  
-he’ll reach nirvana, undefiled. \[6352\]  
+he’ll reach nirvana, undefiled. \[6352\]
+
 Sitting in the monks’ Assembly  
 he will \[then\] roar the lion’s roar.[^29]  
 On \[his\] pyre an umbrella’s borne;[^30]  
-beneath it[^31] he is cremated.” \[6353\]  
+beneath it[^31] he is cremated.” \[6353\]
+
 Monkhood has been attained by me;  
 my defilements are \[now\] burnt up.  
 In a pavilion or tree-root,  
-burning heat is not known by me. \[6354\]  
+burning heat is not known by me. \[6354\]
+
 In the thirty thousand aeons  
 since I gave that gift at that time,  
 I’ve come to know no bad rebirth:  
-the fruit of giving everything. \[6355\]  
+the fruit of giving everything. \[6355\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. \[6356\]  
+I am living without constraint. \[6356\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! \[6357\]  
+\[I have\] done what the Buddha taught! \[6357\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! \[6358\]  
+\[I have\] done what the Buddha taught! \[6358\]
+
 Thus indeed Venerable Yasa Thera spoke these verses.  
 The legend of Yasa Thera, the first.  
 [^1]: PTS ends with its \#547 (BJTS {550}), and contains only fifty-five

@@ -2,23 +2,28 @@
 The Sambuddha[^3] named Romasa[^4]  
 was living on a mountainside.  
 I gave bindweed[^5] to that \[Buddha\],  
-\[feeling well-\]pleased by \[my\] own hands. (1) \[4679\]  
+\[feeling well-\]pleased by \[my\] own hands. (1) \[4679\]
+
 In the ninety-four aeons since  
 I gave that donation back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of \[giving\] bindweed. (2) \[4680\]  
+that’s the fruit of \[giving\] bindweed. (2) \[4680\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (3) \[4681\]  
+I am living without constraint. (3) \[4681\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (4) \[4682\]  
+\[I have\] done what the Buddha taught! (4) \[4682\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[4683\]  
+\[I have\] done what the Buddha taught! (5) \[4683\]
+
 Thus indeed Venerable Kalambadāyaka Thera spoke these verses.  
 The legend of Kalambadāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

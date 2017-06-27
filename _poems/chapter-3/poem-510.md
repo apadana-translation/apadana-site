@@ -2,11 +2,13 @@
 In the city, Bandhumatī,  
 I worked in a hermitage then.[^3]  
 I saw the Spotless One, Buddha,  
-\[who\] was traveling through the sky. (1) \[5448\]  
+\[who\] was traveling through the sky. (1) \[5448\]
+
 Having taken a coconut,  
 I gave \[it\] to the Best Buddha.  
 Standing in the sky, the Calm One,  
-the Great Famed One accepted \[it\]. (2) \[5449\]  
+the Great Famed One accepted \[it\]. (2) \[5449\]
+
 With a mind that was very clear,  
 having given Buddha that fruit,  
 productive of delight for me,  
@@ -18,23 +20,28 @@ A gem was truly produced for
 In the ninety-one aeons since  
 I gave \[the Buddha\] fruit back then,  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving fruit. (5) \[5452\]  
+that is the fruit of giving fruit. (5) \[5452\]
+
 The divine eye is purified;  
 I’m skilled in meditative states.[^5]  
 Special knowledges perfected:  
-that is the fruit of giving fruit*.* (6) \[5453\]  
+that is the fruit of giving fruit*.* (6) \[5453\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (7) \[5454\]  
+I am living without constraint. (7) \[5454\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (8) \[5455\]  
+\[I have\] done what the Buddha taught! (8) \[5455\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (9) \[5456\]  
+\[I have\] done what the Buddha taught! (9) \[5456\]
+
 Thus indeed Venerable Nāḷikeradāyaka Thera spoke these verses.  
 The legend of Nāḷikeradāyaka Thera is finished.  
 The Summary:  

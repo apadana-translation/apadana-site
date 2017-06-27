@@ -2,67 +2,83 @@
 The Victor,[^3] Padumuttara,  
 was the Master of Everything.[^4]  
 Plunged into the Himalayas,  
-the Leader of the World sat down. (1) \[3856\]  
+the Leader of the World sat down. (1) \[3856\]
+
 I did not see the Sambuddha,  
 I also did not hear \[his\] sound.  
 Searching for food for me to eat,  
-I was wandering in the woods. (2) \[3857\]  
+I was wandering in the woods. (2) \[3857\]
+
 There I did see the Sambuddha,  
 Bearing the Thirty-two Great Marks.[^5]  
 Seeing \[the Buddha\] made me think,[^6]  
-“what sort of[^7] being[^8] might this be?” (3) \[3858\]  
+“what sort of[^7] being[^8] might this be?” (3) \[3858\]
+
 Examining \[his body’s\] marks,  
 I recalled my \[studies of\] lore,  
 the good words which I \[once\] had heard,  
-from[^9] elderly[^10] men of wisdom:[^11] (4) \[3859\]  
+from[^9] elderly[^10] men of wisdom:[^11] (4) \[3859\]
+
 “According to that word of theirs,  
 this \[person\] will be a Buddha;  
 well then I ought to honor \[him\];  
-it will purify my station.”[^12] (5) \[3860\]  
+it will purify my station.”[^12] (5) \[3860\]
+
 Quickly coming to \[my\] ashram,  
 I grabbed[^13] \[some\] buffalo ghee,[^14] and  
 taking a pot \[to carry it,\]  
-I approached \[him\], the Bull of Men.[^15] (6) \[3861\]  
+I approached \[him\], the Bull of Men.[^15] (6) \[3861\]
+
 Taking a three-legged \[stool\],[^16] I  
 stood it \[up\] in an open space.  
 Lighting a lamp \[placed on that stool,\]  
-I worshipped \[the Buddha\] eight times. (7) \[3862\]  
+I worshipped \[the Buddha\] eight times. (7) \[3862\]
+
 Seven nights and days the Buddha,  
 sat \[there\], the Ultimate Person.  
 Then at the end of the \[last\] night,[^17]  
-\[Buddha\] stood up, the World-Leader. \[3863\]  
+\[Buddha\] stood up, the World-Leader. \[3863\]
+
 Happy, with pleasure in \[my\] heart,  
 for seven nights and days I lit  
 \[that\] lamp for the \[seated\] Buddha,  
-\[feeling well-\]pleased by my own hands. \[3864\]  
+\[feeling well-\]pleased by my own hands. \[3864\]
+
 All the good scents of the forests[^18]  
 on Gandhamādana Mountain,  
 by means of Buddha’s majesty[^19]  
-then went up to \[him\], the Victor. \[3865\]  
+then went up to \[him\], the Victor. \[3865\]
+
 \[All of\] the trees \[were then\] in bloom.  
 By means of Buddha’s majesty  
 all of the floral scents produced,[^20]  
-assembled into one right then. \[3866\]  
+assembled into one right then. \[3866\]
+
 Throughout the Himalayas, both  
 the snake-gods and the *garuḷas,*  
 desiring to hear the Teaching,  
-came into the Buddha’s presence. \[3867\]  
+came into the Buddha’s presence. \[3867\]
+
 The monk whose name was Devala  
 was the Buddha’s chief attendant.  
 With one hundred thousand masters,  
-he \[also\] approached the Buddha.[^21] \[3868\]  
+he \[also\] approached the Buddha.[^21] \[3868\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 seated in the monks’ Assembly,  
-\[then\] spoke these verses \[about me\]: \[3869\]  
+\[then\] spoke these verses \[about me\]: \[3869\]
+
 “He who has lit a lamp for me,  
 \[feeling well-\]pleased by his own hands,  
 I shall relate details of him;  
-\[all of\] you listen to my words: \[3870\]  
+\[all of\] you listen to my words: \[3870\]
+
 For sixty thousand aeons he  
 will delight in the world of gods.  
 A thousand times he’ll be a king,  
-a king who turns the wheel \[of law\]. \[3871\]  
+a king who turns the wheel \[of law\]. \[3871\]
+
 Thirty-six times lord of the gods,  
 he will exercise divine rule.  
 Seven hundred \[times\][^22] on the earth,  
@@ -72,77 +88,95 @@ innumerable by counting. \[3872\][^24]
 Because of this lamp-offering,  
 he will develop “divine eye.”  
 This one is always going to see  
-eight *kosa*s[^25] in all directions.[^26] \[3873\]  
+eight *kosa*s[^25] in all directions.[^26] \[3873\]
+
 Fallen from the world of the gods,  
 when this person has been reborn,  
 whether by day or else by night,  
-a lamp will be carried \[for him\]. \[3874\]  
+a lamp will be carried \[for him\]. \[3874\]
+
 When this person’s[^27] being reborn,  
 a possessor of good karma,  
 he will illuminate \[the world\]  
-throughout the city \[where\] he is. \[3875\]  
+throughout the city \[where\] he is. \[3875\]
+
 In whichever womb he’s reborn,  
 \[whether\] it’s human or divine,  
 because of his lamp-offering,  
 due to the fruit of \[those\] eight lamps,  
 people will not surpass this one:  
-that is the fruit of giving lamps. \[3876\]  
+that is the fruit of giving lamps. \[3876\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. \[3877\]  
+will be the Teacher in the world. \[3877\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 knowing well all the defilements,  
-he’ll reach nirvana, undefiled. \[3878\]  
+he’ll reach nirvana, undefiled. \[3878\]
+
 Having pleased \[him\], the Sambuddha,  
 Gotama, Bull of the Śākyas,  
 he’ll be the Teacher’s follower,  
-\[and his\] name \[will be\] Ajita.” \[3879\]  
+\[and his\] name \[will be\] Ajita.” \[3879\]
+
 For sixty thousand aeons I  
 delighted in the world of gods.  
 In that place too my hundred lamps  
-are burning \[brightly\] all the time.[^28] \[3880\]  
+are burning \[brightly\] all the time.[^28] \[3880\]
+
 In the gods’ world or that of men,  
 my \[own\] effulgence[^29] is diffused.  
 Remembering the Best Buddha,  
-I generate enormous mirth. \[3881\]  
+I generate enormous mirth. \[3881\]
+
 Falling from Tusitā heaven,  
 I came out of a mother’s womb.  
 While that person[^30] was being born,  
-there was \[always\] a lot of light. \[3882\]  
+there was \[always\] a lot of light. \[3882\]
+
 Having departed from the house,  
 I went forth into homelessness.  
 Having gone up to Bāvarī,  
-I agreed to be his student.[^31] \[3883\]  
+I agreed to be his student.[^31] \[3883\]
+
 Living in the Himalayas,  
 I heard \[about\][^32] the World-Leader.  
 Searching for ultimate meaning,  
-I approached \[the Buddha\], the Guide.[^33] \[3884\]  
+I approached \[the Buddha\], the Guide.[^33] \[3884\]
+
 The Tame One, Buddha, He who Tames,  
 the Flood-Crosser, Beyond Rebirth,[^34]  
 the Buddha spoke of nirvana,  
-liberation from all dis-ease. \[3885\]  
+liberation from all dis-ease. \[3885\]
+
 His coming to me succeeded;  
 I entertained \[him\], the Great Sage.  
 Attaining the three knowledges,  
-\[I have\] done what the Buddha taught! \[3886\]  
+\[I have\] done what the Buddha taught! \[3886\]
+
 In the hundred thousand aeons  
 since I gave \[him\] that lamp back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of giving lamps. \[3887\]  
+that’s the fruit of giving lamps. \[3887\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 All defilements are exhausted;  
-now there will be no more rebirth. (26) \[3888\]  
+now there will be no more rebirth. (26) \[3888\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (27) \[3889\]  
+\[I have\] done what the Buddha taught! (27) \[3889\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (28) \[3890\]  
+\[I have\] done what the Buddha taught! (28) \[3890\]
+
 Thus indeed Venerable Ajita Thera spoke these verses.  
 The legend of Ajita Thera is finished.  
 The summary:  

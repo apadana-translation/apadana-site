@@ -2,27 +2,33 @@
 The Blessed One, Thousand-Rayed One,[^3]  
 the Self-Become, Unconquered One,  
 rising up from \[his\] solitude,  
-went forth in order to seek food. \[6379\]  
+went forth in order to seek food. \[6379\]
+
 \[Holding\] fruit in \[my\] hand, I saw  
 the Bull of Men who had approached.  
 Happy, with pleasure in \[my\] heart,  
-I gave \[him\] fruit with stems attached. \[6380\]  
+I gave \[him\] fruit with stems attached. \[6380\]
+
 In the ninety-four aeons since  
 I gave \[him\] that fruit \[at that time\],  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving fruit. \[6381\]  
+that is the fruit of giving fruit. \[6381\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. \[6382\]  
+I am living without constraint. \[6382\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! \[6383\]  
+\[I have\] done what the Buddha taught! \[6383\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! \[6384\]  
+\[I have\] done what the Buddha taught! \[6384\]
+
 Thus indeed Venerable Vajjīputta Thera spoke these verses.  
 The legend of Vajjīputta Thera, the fifth.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

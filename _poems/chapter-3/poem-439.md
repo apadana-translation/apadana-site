@@ -2,15 +2,18 @@
 I was then an elephant-king,  
 with tusks like plough-poles, fully grown.  
 Wandering in a large forest,[^3]  
-I saw the Leader of the World. (1) \[4701\]  
+I saw the Leader of the World. (1) \[4701\]
+
 Taking a cluster of mangoes,[^4]  
 I gave \[them\] to \[him,\] the Teacher.  
 The Great Hero accepted them,  
-Siddhattha, Leader of the World. (2) \[4702\]  
+Siddhattha, Leader of the World. (2) \[4702\]
+
 While I[^5] meditated \[on him\],  
 the Victor then consumed \[that fruit\].  
 Bringing pleasure to \[my\] heart there,  
-I was reborn in Tusitā.[^6] (3) \[4703\]  
+I was reborn in Tusitā.[^6] (3) \[4703\]
+
 After falling down from there, I  
 was a monarch who turns the wheel.  
 \[Then\] through that very method, I,  
@@ -22,19 +25,23 @@ am living \[here now,\] undefiled. (4-5) \[4704-4705\]
 In the ninety-four aeons since  
 I gave that fruit \[to him\] back then,  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving fruit. (6) \[4706\]  
+that is the fruit of giving fruit. (6) \[4706\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (7) \[4707\]  
+I am living without constraint. (7) \[4707\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (8) \[4708\]  
+\[I have\] done what the Buddha taught! (8) \[4708\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (9) \[4709\]  
+\[I have\] done what the Buddha taught! (9) \[4709\]
+
 Thus indeed Venerable Ambapiṇḍiya Thera spoke these verses.  
 The legend of Ambapiṇḍiya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

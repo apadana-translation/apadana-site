@@ -2,23 +2,28 @@
 Taking an *utuḷhi* flower,  
 I offered it to the Bodhi,  
 when \[that\] banyan[^3] tree had grown large,  
-in the golden-colored sunlight.[^4] (1) \[4747\]  
+in the golden-colored sunlight.[^4] (1) \[4747\]
+
 Within the \[present\] aeon, since  
 I offered a flower back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Bodhi-*pūjā*. (2) \[4748\]  
+that’s the fruit of Bodhi-*pūjā*. (2) \[4748\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (3) \[4749\]  
+I am living without constraint. (3) \[4749\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (4) \[4750\]  
+\[I have\] done what the Buddha taught! (4) \[4750\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[4751\]  
+\[I have\] done what the Buddha taught! (5) \[4751\]
+
 Thus indeed Venerable Utuḷhipupphiya[^5] Thera spoke these verses.  
 The legend of Utuḷhipupphiya[^6] Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

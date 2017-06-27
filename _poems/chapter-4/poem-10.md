@@ -2,63 +2,78 @@
 In the city, Bandhumatī,  
 I was a water-fetcher then.  
 Living by carrying water,  
-I’m raising \[my\] children that way.[^2] (1) \[116\]  
+I’m raising \[my\] children that way.[^2] (1) \[116\]
+
 “I lack the things to be given  
 in the unsurpassed merit-field.”  
 Going to a water-tower,[^3]  
-I supplied \[the Buddha\][^4] water. (2) \[117\]  
+I supplied \[the Buddha\][^4] water. (2) \[117\]
+
 Due to that karma done very well,  
 I went to Tāvatiṃsa \[then\].  
 There I had a well-made mansion  
-fashioned by carrying water.[^5] (3) \[118\]  
+fashioned by carrying water.[^5] (3) \[118\]
+
 I am surrounded all the time  
 by a thousand celestial nymphs,  
 \[and\] I always am surpassing  
-all of them in \[all\] the ten ways.[^6] (4) \[119\]  
+all of them in \[all\] the ten ways.[^6] (4) \[119\]
+
 I was fixed in the chief queen’s place  
 of fifty kings among the gods.  
 I was fixed in the chief queen’s place  
-of twenty kings who turned the wheel. (5) \[120\]  
+of twenty kings who turned the wheel. (5) \[120\]
+
 Transmigrating in two stations,  
 the human or else the divine,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of giving water. (6) \[121\]  
+that’s the fruit of giving water. (6) \[121\]
+
 On a mountain top or bad road,  
 up in the air and on the ground,  
 whenever I desire water,  
-I receive \[it\] very quickly. (7) \[122\]  
+I receive \[it\] very quickly. (7) \[122\]
+
 In times of drought \[my\] region’s not  
 scorched by the heat nor boiling hot;  
 discerning what I am thinking  
-a great rain-cloud \[always\] rains forth. (8) \[123\]  
+a great rain-cloud \[always\] rains forth. (8) \[123\]
+
 Whenever I am sent \[somewhere,\]  
 with my assembly of kinsfolk,  
 if I am wishing for \[some\] rain  
-a great rain-cloud is then produced. (9) \[124\]  
+a great rain-cloud is then produced. (9) \[124\]
+
 Being burned or having fever  
 don’t \[ever\] affect my body;[^7]  
 on my body there is no dust:  
-that’s the fruit of giving water. (10) \[125\]  
+that’s the fruit of giving water. (10) \[125\]
+
 Today with \[my\] mind purified  
 the evil-minded one is gone.  
 All \[my\] defilements are destroyed;  
-now there will be no more rebirth. (11) \[126\]  
+now there will be no more rebirth. (11) \[126\]
+
 In the ninety-one aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of giving water. (12) \[127\]  
+that’s the fruit of giving water. (12) \[127\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (13) \[128\]  
+I am living without constraint. (13) \[128\]
+
 Being in Best Buddha's presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (14) \[129\]  
+\[I have\] done what the Buddha taught! (14) \[129\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (15) \[130\]  
+\[I have\] done what the Buddha taught! (15) \[130\]
+
 Thus indeed Bhikhhunī Udakadāyikā spoke these verses.  
 The legend of Udakadāyikā Therī is finished.  
 The Summary:  

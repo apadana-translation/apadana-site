@@ -2,31 +2,38 @@
 The \[Sambuddha\] named Vessabhu,  
 the third Sage \[born in that aeon,\][^2]  
 plunging[^3] into a forest grove  
-lived \[there\], the Ultimate Person. (1) \[1377\]  
+lived \[there\], the Ultimate Person. (1) \[1377\]
+
 Taking \[some\] lotus roots and stems,[^4]  
 I[^5] went into Buddha’s presence  
 and gave that \[food\] to the Buddha  
-\[feeling well-\] pleased by \[my\] own hands. (2) \[1378\]  
+\[feeling well-\] pleased by \[my\] own hands. (2) \[1378\]
+
 And feeling the touch of the hand  
 of Vessabhu the One Most Wise,  
 I was happy beyond compare;  
-could anything ever top that?[^6] (3) \[1379\]  
+could anything ever top that?[^6] (3) \[1379\]
+
 My final \[life\] is taking place;  
 all existence is \[now\] destroyed.  
 When I was an elephant king  
-I planted wholesome \[seeds back then\]. (4) \[1380\]  
+I planted wholesome \[seeds back then\]. (4) \[1380\]
+
 In the thirty-one aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of a lotus root. (5) \[1381\]  
+that’s the fruit of a lotus root. (5) \[1381\]
+
 In the thirteenth aeon \[ago\]  
 there were sixteen lords of people,  
 kings \[all known as\] Samodhāna  
-wheel-turning monarchs with great strength. (6) \[1382\]  
+wheel-turning monarchs with great strength. (6) \[1382\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (7) \[1383\]  
+\[I have\] done what the Buddha taught! (7) \[1383\]
+
 Thus indeed Venerable Bhisadāyaka Thera spoke these verses.  
 The legend of Bhisadāyaka Thera is finished.  
 [^1]: “Lotus-root Donor”  

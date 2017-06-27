@@ -2,27 +2,33 @@
 All of them, gathered together,  
 are looking at me, overwhelmed.[^2]  
 Burning was produced \[in the minds\][^3]  
-of those \[people\] who are looking. (1) \[2208\]  
+of those \[people\] who are looking. (1) \[2208\]
+
 At that time a follower of  
 Buddha Dhammadassi, the Sage,  
 known by the name of Sunanda[^4]  
-came into my vicinity. (2) \[2209\]  
+came into my vicinity. (2) \[2209\]
+
 Those who were my associates[^5]  
 gave me a flower at that time.  
 Taking that flower \[they’d given,\]  
-I gave it to the follower. (3) \[2210\]  
+I gave it to the follower. (3) \[2210\]
+
 I passed away \[right\] on the spot  
 \[and then\] was reborn yet again.  
 In eighteen hundred aeons \[hence\]  
-I went into no place of grief. (4) \[2211\]  
+I went into no place of grief. (4) \[2211\]
+
 In the thirteen hundredth aeon,  
 there were eight Dhūmaketunas,[^6]  
 wheel-turning monarchs with great strength,  
-possessors of the seven gems. (5) \[2212\]  
+possessors of the seven gems. (5) \[2212\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[2213\]  
+\[I have\] done what the Buddha taught! (6) \[2213\]
+
 Thus indeed Venerable Tivaṇṭipupphiya Thera spoke these verses.  
 The legend of Tivaṇṭipupphiya Thera is finished.  
 The Summary:  

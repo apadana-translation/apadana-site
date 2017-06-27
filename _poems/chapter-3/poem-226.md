@@ -10,15 +10,18 @@ I offered \[it\] to the Buddha. (1-2) \[2401-2402\]
 In the ninety-one aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[2403\]  
+that’s the fruit of Buddha-*pūjā.* (3) \[2403\]
+
 In the seventy-fourth aeon  
 the *kṣatriyan* named Romasa,[^3]  
 strong with servants and vehicles[^4]  
-was dressed with garland-ornaments. (4) \[2404\]  
+was dressed with garland-ornaments. (4) \[2404\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[2405\]  
+\[I have\] done what the Buddha taught! (5) \[2405\]
+
 Thus indeed Venerable Aṅkolapupphiya Thera spoke these verses.  
 The legend of Aṅkolapupphiya Thera is finished.  
 [^1]: “Alangium Flower-er”. PTS reads *Caṅkolapupphiya*  

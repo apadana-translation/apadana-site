@@ -3,15 +3,18 @@
 In this \[present\] lucky aeon  
 Brahmā’s Kinsman, Greatly Famed One,  
 named Kassapa through \[his\] lineage,[^3]  
-Best Debater, \[Buddha\] arose. (1) \[4630\]  
+Best Debater, \[Buddha\] arose. (1) \[4630\]
+
 Non-Delayed One,[^4] Unsupported,[^5]  
 Whose Mind is as Level as Space,[^6]  
 Very Empty,[^7] Neutral,[^8] Not Fond  
-of Appearances,[^9] the Master,[^10] (2) \[4631\]  
+of Appearances,[^9] the Master,[^10] (2) \[4631\]
+
 Heart Unattached,[^11] Defilement-Free,[^12]  
 Not Mixing in the clan \[and\] group,[^13]  
 Greatly Compassionate, Hero,  
-Skilled in means of disciplining,[^14](3) \[4632\]  
+Skilled in means of disciplining,[^14](3) \[4632\]
+
 Active in duties to others,[^15]  
 Training \[the whole world\] with \[its\] gods,[^16]  
 Drying Up the muddiness on  
@@ -23,31 +26,38 @@ was seated amidst a huge crowd. (4-5) \[4633-4634\]
 Lord,[^20] with the Voice of a Cuckoo,[^21]  
 the Sound of Brahmā,[^22] Thus-Gone-One,[^23]  
 Lifting \[those on\] very bad roads[^24]  
-who are lost[^25] without a Leader,[^26] (6) \[4635\]  
+who are lost[^25] without a Leader,[^26] (6) \[4635\]
+
 preaching the stainless Teaching \[then,\]  
 the World-Leader was seen by me.  
 Having listened to his Teaching,  
-I went forth into homelessness. (7) \[4636\]  
+I went forth into homelessness. (7) \[4636\]
+
 Going forth, I was then thinking  
 of the Victor’s dispensation;  
 weighed down by associations,  
-I lived alone in lovely woods. (8) \[4637\]  
+I lived alone in lovely woods. (8) \[4637\]
+
 Physical solitude became  
 the great condition[^27] \[then\] for me,  
 possessed of mental solitude,  
-looking at meetings fearfully.[^28] (9) \[4638\]  
+looking at meetings fearfully.[^28] (9) \[4638\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (10) \[4639\]  
+I am living without constraint. (10) \[4639\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (11) \[4640\]  
+\[I have\] done what the Buddha taught! (11) \[4640\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (12) \[4641\]  
+\[I have\] done what the Buddha taught! (12) \[4641\]
+
 Thus indeed Venerable Ekavihāriya Thera spoke these verses.  
 The legend of Ekavihāriya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

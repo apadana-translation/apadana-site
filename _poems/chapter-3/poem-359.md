@@ -2,15 +2,18 @@
 We boarded a boat at that time,  
 monk and I,[^3] an *ajīvaka.*  
 When the boat was broken \[to bits,\]  
-that Buddhist monk gave me refuge. (1) \[3173\]  
+that Buddhist monk gave me refuge. (1) \[3173\]
+
 In the thirty-one aeons since  
 he gave refuge to me \[back then\],  
 I’ve come to know no bad rebirth:  
-the fruit of going for refuge. (2) \[3174\]  
+the fruit of going for refuge. (2) \[3174\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (3) \[3175\]  
+\[I have\] done what the Buddha taught! (3) \[3175\]
+
 Thus indeed Venerable Saraṇāgamaniya Thera spoke these verses.  
 The legend of Saraṇāgamaniya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

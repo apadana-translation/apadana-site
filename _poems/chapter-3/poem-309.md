@@ -10,11 +10,13 @@ I approached the Well-Gone \[Buddha\]. (1-2) \[2759-2760\]
 In the ninety-four aeons since  
 I obtained that perception then,  
 I’ve come to know no bad rebirth:  
-the fruit of perceiving Buddhas. (3) \[2761\]  
+the fruit of perceiving Buddhas. (3) \[2761\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[2762\]  
+\[I have\] done what the Buddha taught! (4) \[2762\]
+
 Thus indeed Venerable Buddhasaññaka Thera spoke these verses.  
 The legend of Buddhasaññaka Thera is finished.  
 [^1]: “Buddha-Perceiver”

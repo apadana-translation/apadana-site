@@ -2,23 +2,28 @@
 In the past I gave some fruit \[then\]  
 to \[him\], Tissa, the Blessed One.  
 I gave coconut and also  
-sweet-meats, such as were fit \[for him\]. (1) \[2062\]  
+sweet-meats, such as were fit \[for him\]. (1) \[2062\]
+
 And giving that to the Buddha,  
 to Tissa, the Very Great Sage,  
 pleasure-seeking[^2] I delighted,  
-being reborn just as I wished. (2) \[2063\]  
+being reborn just as I wished. (2) \[2063\]
+
 In the ninety-two aeons since  
 I gifted \[him\] that gift back then,  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving fruit. (3) \[2064\]  
+that is the fruit of giving fruit. (3) \[2064\]
+
 In the thirteenth aeon ago  
 there was a king, Indasama,[^3]  
 a wheel-turner with great power,  
-possessor of the seven gems. (4) \[2065\]  
+possessor of the seven gems. (4) \[2065\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[2066\]  
+\[I have\] done what the Buddha taught! (5) \[2066\]
+
 Thus indeed Venerable Khajjakadāyaka Thera spoke these verses.  
 The legend of Khajjakadāyaka Thera is finished.  
 [^1]: “Sweet-Meat Giver”. *Khajjaka* (Sinhala *khādya, rasa kävili*)

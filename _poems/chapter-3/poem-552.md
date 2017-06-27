@@ -4,27 +4,33 @@ the World’s Best One, the Neutral One,
 was wandering about for alms,  
 maintaining superlative fame,  
 taking the best fruit \[of some sort\],  
-I gave \[it\] to \[him\], the Teacher, \[6359\]  
+I gave \[it\] to \[him\], the Teacher, \[6359\]
+
 The Biped-Lord,[^3] the World’s Best One,  
 Bull of Men. Due to that karma,  
 I’ve attained the unshaking state  
-beyond \[all\] conquest and defeat. \[6360\]  
+beyond \[all\] conquest and defeat. \[6360\]
+
 In the hundred thousand aeons  
 since I gave that donation then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of giving the best. \[6361\]  
+that’s the fruit of giving the best. \[6361\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. \[6362\]  
+I am living without constraint. \[6362\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! \[6363\]  
+\[I have\] done what the Buddha taught! \[6363\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! \[6364\]  
+\[I have\] done what the Buddha taught! \[6364\]
+
 Thus indeed Venerable Nadīkassapa Thera spoke these verses.  
 The legend of Nadīkassapa Thera, the second.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

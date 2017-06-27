@@ -2,103 +2,128 @@
 In the city, Haṃsavatī,  
 I was a wanderer back then.  
 From hermitage to hermitage,  
-I wandered desiring the good.[^2] (1) \[91\]  
+I wandered desiring the good.[^2] (1) \[91\]
+
 One day when the moon was waning,[^3]  
 I saw the supreme Bodhi \[Tree\].  
 Bringing pleasure to \[my\] heart there,  
-I sat down at that Bodhi’s roots. (2) \[92\]  
+I sat down at that Bodhi’s roots. (2) \[92\]
+
 Standing with a heart of reverence,  
 hands pressed together on \[my\] head,  
 knowing mental happiness \[there,\]  
-I then reflected in this way: (3) \[93\]  
+I then reflected in this way: (3) \[93\]
+
 “If \[he\] has limitless virtue,  
 is unique, without a rival,  
 let Buddha show me a marvel;  
-let him make this Bodhi \[Tree\] shine.” (4) \[94\]  
+let him make this Bodhi \[Tree\] shine.” (4) \[94\]
+
 When I made that aspiration,  
 the Bodhi Tree did then blaze up.  
 It shined forth in all directions,  
-displaying[^4] every good color.[^5] (5) \[95\]  
+displaying[^4] every good color.[^5] (5) \[95\]
+
 Seven nights and days I sat there,  
 at the roots of that Bodhi \[Tree\],  
 \[and\] when the seventh day arrived,  
-I made an offering[^6] of lamps. (6) \[96\]  
+I made an offering[^6] of lamps. (6) \[96\]
+
 Setting them around my seat \[there,\]  
 I \[proceeded to\] light five lamps.  
 \[And\] then my lamps \[all remained\] lit,  
-until the sun did rise \[again\]. (7) \[97\]  
+until the sun did rise \[again\]. (7) \[97\]
+
 Due to that karma done very well,  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body,  
-I went to Tāvatiṃsa \[then\]. (8) \[98\]  
+I went to Tāvatiṃsa \[then\]. (8) \[98\]
+
 There my well-made divine mansion  
 was known as “Pañcadīpī”[^7] then.  
 It was a hundred leagues in height,  
-\[and\] sixty leagues in width back then.[^8] (9) \[99\]  
+\[and\] sixty leagues in width back then.[^8] (9) \[99\]
+
 Uncountable numbers of lamps  
 are burning in my surroundings.  
 The divine world is \[then\] lit up  
-with lamp-light, up to its edges.[^9] (10) \[100\]  
+with lamp-light, up to its edges.[^9] (10) \[100\]
+
 If when standing looking eastward,  
 I should desire to see \[something\],  
 above, below, also across,  
-I see everything with \[my\] eyes. (11) \[101\]  
+I see everything with \[my\] eyes. (11) \[101\]
+
 As far as I should wish to see,[^10]  
 things well done and things not well done,[^11]  
 there’s no obstruction \[to my sight\]  
-in the trees and the mountains there. (12) \[102\]  
+in the trees and the mountains there. (12) \[102\]
+
 I was fixed in the chief queen’s place  
 of eighty kings among the gods.  
 I was fixed in the chief queen’s place  
-of one hundred wheel-turning kings. (13) \[103\]  
+of one hundred wheel-turning kings. (13) \[103\]
+
 In whichever womb I’m reborn,  
 \[whether\] it’s human or divine,  
 in my surroundings, a \[whole\] lakh  
-of lamps are burning \[there\] for me. (14) \[104\]  
+of lamps are burning \[there\] for me. (14) \[104\]
+
 Fallen from the world of the gods,  
 being born in a mother’s womb,  
 while I was in that mother’s womb,  
-my eyes were open all the time.[^12] (15) \[105\]  
+my eyes were open all the time.[^12] (15) \[105\]
+
 Due to my having good karma,[^13]  
 an \[entire\] hundred thousand lamps  
 are lit in the lying-in room:  
-that’s the fruit of \[giving\] five lamps. (16) \[106\]  
+that’s the fruit of \[giving\] five lamps. (16) \[106\]
+
 When my final rebirth occurred,  
 I turned \[my\] mind away \[from lust\].  
 I attained the unaging \[and\]  
-undying cool state, nirvana. (17) \[107\]  
+undying cool state, nirvana. (17) \[107\]
+
 \[When\] I was \[but\] seven years old,  
 I attained \[my\] arahantship.  
 Discerning \[my\] virtue, Buddha  
-Gotama ordained \[me right then\]. (18) \[108\]  
+Gotama ordained \[me right then\]. (18) \[108\]
+
 Meditating on a platform,[^14]  
 beneath a tree, in palaces,  
 in caves or empty buildings \[then\]  
-five lamps are burning \[there\] for me. (19) \[109\]  
+five lamps are burning \[there\] for me. (19) \[109\]
+
 My divine eye is purified;  
 I am skilled in concentration.  
 I excel in special knowledges:  
-that’s the fruit of \[giving\] five lamps. (20) \[110\]  
+that’s the fruit of \[giving\] five lamps. (20) \[110\]
+
 Every achievement is achieved;  
 \[my\] duty’s done, \[I’m\] undefiled.  
 With five lamps I’m worshipping \[your\]  
-feet, Great Hero, o Eyeful One. (21) \[111\]  
+feet, Great Hero, o Eyeful One. (21) \[111\]
+
 In the hundred thousand aeons  
 since I gave \[him\] those lamps back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of \[giving\] five lamps. (22) \[112\]  
+that’s the fruit of \[giving\] five lamps. (22) \[112\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (23) \[113\]  
+I am living without constraint. (23) \[113\]
+
 Being in Best Buddha's presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (24) \[114\]  
+\[I have\] done what the Buddha taught! (24) \[114\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (25) \[115\]  
+\[I have\] done what the Buddha taught! (25) \[115\]
+
 Thus indeed Bhikkhunī Pañcadīpikā spoke these verses.  
 The legend of Pañcadīpikā Therī is finished.  
 [^1]: “Five-Lamp-er”  

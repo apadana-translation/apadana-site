@@ -2,27 +2,33 @@
 Affixing[^2] decorated cloth  
 on the front of the best stupa  
 of Siddhattha, the Blessed One,  
-I set up a wishing-tree \[there\].[^3] (1) \[1110\]  
+I set up a wishing-tree \[there\].[^3] (1) \[1110\]
+
 In whichever womb I’m reborn  
 \[whether\] it’s human or divine,  
 a wishing-tree’s \[established there,\][^4]  
-making my doorway beautiful. (2) \[1111\]  
+making my doorway beautiful. (2) \[1111\]
+
 I, along with my retinue,  
 and whoever’s attached to me  
 getting cloth from that \[wishing-tree\]  
-we clothe ourselves all the time. (3) \[1112\]  
+we clothe ourselves all the time. (3) \[1112\]
+
 In the ninety-four aeons since  
 I set up that \[wishing-\]tree then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of a wishing-tree. (4) \[1113\]  
+that’s the fruit of a wishing-tree. (4) \[1113\]
+
 In the seventh aeon ago  
 eight kṣatriyans named Sucela[^5]  
 were wheel-turners who had great strength,  
-possessors of the seven gems. (5) \[1114\]  
+possessors of the seven gems. (5) \[1114\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[1115\]  
+\[I have\] done what the Buddha taught! (6) \[1115\]
+
 Thus indeed Venerable Kapparukkhiya Thera spoke these verses.  
 The legend of Kapparukkhiya Thera is finished.  
 The Summary:  

@@ -3,23 +3,28 @@
 I was a deer-hunter back then,  
 within a grove in the forest.  
 There I saw the Sambuddha \[once\],  
-honored by the gods’ assembly.[^3] (1) \[3140\]  
+honored by the gods’ assembly.[^3] (1) \[3140\]
+
 \[While\] preaching the Four Noble Truths  
 he ferried many folks across.  
 I \[also\] heard \[his\] honeyed speech  
-like[^4] the song[^5] of a cuckoo bird.[^6] (2) \[3141\]  
+like[^4] the song[^5] of a cuckoo bird.[^6] (2) \[3141\]
+
 Having pleased \[my\] heart in the sound  
 of Sikhi \[Buddha\], World’s Kinsman,  
 the Sage, Divine Sound Intoner,[^7]  
-I attained \[my\] arahantship.[^8](3) \[3142\]  
+I attained \[my\] arahantship.[^8](3) \[3142\]
+
 In the thirty-one aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of \[feeling\] pleasure. (4) \[3143\]  
+that’s the fruit of \[feeling\] pleasure. (4) \[3143\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[3144\]  
+\[I have\] done what the Buddha taught! (5) \[3144\]
+
 Thus indeed Venerable Saddasaññaka Thera spoke these verses.  
 The legend of Saddasaññaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

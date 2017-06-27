@@ -2,15 +2,18 @@
 The Sambuddha named Anātha  
 dwelt on the Ganges riverbank.[^3]  
 Taking golden shower \[flowers,\]  
-I worshipped[^4] the Unconquered One. (1) \[3203\]  
+I worshipped[^4] the Unconquered One. (1) \[3203\]
+
 In the thirty-one aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (2) \[3204\]  
+that’s the fruit of Buddha-*pūjā.* (2) \[3204\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (3) \[3205\]  
+\[I have\] done what the Buddha taught! (3) \[3205\]
+
 Thus indeed Venerable Uddālapupphiya Thera spoke these verses.  
 The legend of Uddālapupphiya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

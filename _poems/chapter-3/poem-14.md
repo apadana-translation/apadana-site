@@ -2,84 +2,104 @@
 The Victor Padumuttara,  
 Sacrificial Recipient,  
 leaving the group \[of followers,\]  
-dwelt in the Himalayas then. (1) \[708\]  
+dwelt in the Himalayas then. (1) \[708\]
+
 I too was in Himalaya,  
 dwelling in an ashram back then.  
 I went up to the World-Leader,  
-the Great Hero, who’d just arrived. (2) \[709\]  
+the Great Hero, who’d just arrived. (2) \[709\]
+
 Taking a floral umbrella,  
 I went up to the Bull of Men  
 practicing \[his\] meditation;[^1]  
-I caused \[him\] no[^2] interruption. (3) \[710\]  
+I caused \[him\] no[^2] interruption. (3) \[710\]
+
 Holding it up with both my hands  
 I gave the floral umbrella.  
 Padumuttara the Great Sage,  
-the Blessed One \[then\] received it. (4) \[711\]  
+the Blessed One \[then\] received it. (4) \[711\]
+
 All the gods, who were delighted,  
 \[then\] approached the Himalayas.  
 They let out their cheers of “Sādhu,”[^3]  
-“the Eyeful One will give \[him\] thanks.”[^4] (5) \[712\]  
+“the Eyeful One will give \[him\] thanks.”[^4] (5) \[712\]
+
 After saying this \[then\] those gods  
 approached \[him\], the Best among Men.  
 They were carrying in the sky  
-his superb lotus-umbrella. (6) \[713\]  
+his superb lotus-umbrella. (6) \[713\]
+
 “Hoisting a lotus-umbrella,  
 this ascetic gave it to me.  
 I shall relate details of him;  
-\[all of\] you listen to my words: (7) \[714\]  
+\[all of\] you listen to my words: (7) \[714\]
+
 He will exercise divine rule  
 for five and twenty \[full\] aeons.  
 Thirty-four times he’s going to be  
-a king who turns the wheel \[of law\]. (8) \[715\]  
+a king who turns the wheel \[of law\]. (8) \[715\]
+
 In whichever womb he’s reborn,  
 \[whether\] it’s human or divine,  
 he’s going to carry that lotus  
-arrayed out in the open air. (9) \[716\]  
+arrayed out in the open air. (9) \[716\]
+
 In one hundred thousands aeons  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (10) \[717\]  
+will be the Teacher in the world. (10) \[717\]
+
 When Buddha’s words have been proclaimed  
 he will attain the human state.  
 In the mind-created body[^5]  
-he will be \[ranked as\] ultimate. (11) \[718\]  
+he will be \[ranked as\] ultimate. (11) \[718\]
+
 There will be a pair of brothers;  
 they will both be known as Pantha.  
 Enjoying the ultimate goal  
-they’ll light up the dispensation.” (12) \[719\]  
+they’ll light up the dispensation.” (12) \[719\]
+
 I went forth into homelessness  
 \[but even after\] eighteen years  
 I’d not gained \[any\] distinction  
-in the Śākyan[^6] dispensation. (13) \[720\]  
+in the Śākyan[^6] dispensation. (13) \[720\]
+
 I was in a dumb position;  
 I was despised in the city.  
 \[Even my\] brother dismissed me:  
-“It’s \[now\] time for you to go home.”[^7] (14) \[721\]  
+“It’s \[now\] time for you to go home.”[^7] (14) \[721\]
+
 Being one who was \[thus\] dismissed,  
 I stood there with my mind depressed,  
 in the monastery’s storage room,  
-desiring[^8] to be a true monk.[^9] (15) \[722\]  
+desiring[^8] to be a true monk.[^9] (15) \[722\]
+
 Then to that place the Teacher came  
 \[and\] touching my head with his hand  
 then taking me by \[my own\] hand  
-he made me come inside again.[^10] (16) \[723\]  
+he made me come inside again.[^10] (16) \[723\]
+
 Teacher, with compassion for me,  
 gave a cloth for wiping the feet.  
 In this way he did purify \[me\]  
-as I stood off to one side. (17) \[724\]  
+as I stood off to one side. (17) \[724\]
+
 Having taken him by the hands --  
 he who was like a red lotus --  
 right there my mind was liberated  
-\[and\] I became an arahant. (18) \[725\]  
+\[and\] I became an arahant. (18) \[725\]
+
 In \[my\] mind-created bodies  
 I attained thorough excellence.  
 Knowing well all the defilements,  
 without defilements I \[now\] live.[]{#BookmarkCopy1 .anchor} (19)
-\[726\]  
+\[726\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (20) \[727\]  
+\[I have\] done what the Buddha taught! (20) \[727\]
+
 Thus indeed Venerable Cullapanthaka Thera spoke these verses.  
 The legend of Cullapanthaka Thera is finished.  
 [^1]: *samādhiṃ*  

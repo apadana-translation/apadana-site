@@ -2,7 +2,8 @@
 Myrobalan[^3] and gooseberry,[^4]  
 mango, rose-apple*,*[^5] bahera,[^6]  
 jujube,[^7] markingnut,[^8] bel[^9] --  
-I’m carrying \[that\] by myself. (1) \[4689\]  
+I’m carrying \[that\] by myself. (1) \[4689\]
+
 Seeing a Meditator, Sage,  
 Trance-Lover, on a \[mountain\] slope,  
 a Great Sage \[dwelling there\] alone,  
@@ -22,31 +23,38 @@ and may illness not come to you.” (4-5) \[4692-4693\]
 Having said this, the Sambuddha,  
 the Self-Become One, the Great Sage,  
 the Hero,[^14] rose into the sky,  
-just like a swan-king in the air. (6) \[4694\]  
+just like a swan-king in the air. (6) \[4694\]
+
 From when I gave myrobalan  
 to the Great Sage, the Self-Become,  
 until this \[present\] birth \[of mine,\]  
-illness did not arise for me. (7) \[4695\]  
+illness did not arise for me. (7) \[4695\]
+
 This is the final time for me;  
 \[my\] last rebirth is proceeding.[^15]  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (8) \[4696\]  
+\[I have\] done what the Buddha taught! (8) \[4696\]
+
 In the ninety-four aeons since  
 I gave \[him\] medicine back then,  
 I’ve come to know no bad rebirth:  
-that is the fruit of medicine. (9) \[4697\]  
+that is the fruit of medicine. (9) \[4697\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (10) \[4698\]  
+I am living without constraint. (10) \[4698\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (11) \[4699\]  
+\[I have\] done what the Buddha taught! (11) \[4699\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (12) \[4700\]  
+\[I have\] done what the Buddha taught! (12) \[4700\]
+
 Thus indeed Venerable Harīṭakadāyaka Thera spoke these verses.  
 The legend of Harīṭakadāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

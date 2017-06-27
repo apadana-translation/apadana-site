@@ -2,23 +2,28 @@
 \[Back then\] I was the conch-blower  
 for Vipassi, the Blessed One,  
 constantly engaged in service  
-to the Well-Gone One, the Great Sage. (1) \[1606\]  
+to the Well-Gone One, the Great Sage. (1) \[1606\]
+
 Look at the fruit of that service  
 to the Neutral One, the World-Chief:  
 sixty thousand *turiya-*drums  
-are constantly attending me. (2) \[1607\]  
+are constantly attending me. (2) \[1607\]
+
 In the ninety-one aeons since  
 I served the Great Sage in that way,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of doing service. (3) \[1608\]  
+that’s the fruit of doing service. (3) \[1608\]
+
 In the twenty-fourth[^1] aeon hence  
 there were sixteen \[different\] kings \[then\];  
 \[all\] were named Mahānigghosa,[^2]  
-wheel-turning monarchs with great strength. (4) \[1609\]  
+wheel-turning monarchs with great strength. (4) \[1609\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[1610\]  
+\[I have\] done what the Buddha taught! (5) \[1610\]
+
 Thus indeed Venerable Buddhūpaṭṭhāka Thera spoke these verses.  
 The legend of Buddhūpaṭṭhāka Thera is finished.  
 The Summary:  

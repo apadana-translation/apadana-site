@@ -2,19 +2,23 @@
 I was a sorcerer[^3] \[back then,\]  
 on a Himalayan mountain.  
 I saw the Spotless One, Buddha,  
-Great Famed One, walking back and forth. (1) \[3191\]  
+Great Famed One, walking back and forth. (1) \[3191\]
+
 At that time I having placed[^4]  
 three *kesara* flowers on \[my\] head,  
 I approached \[him\], the Sambuddha,  
-\[and\] did *pūjā* to Vessabhu. (2) \[3192\]  
+\[and\] did *pūjā* to Vessabhu. (2) \[3192\]
+
 In the thirty-one aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[3193\]  
+that’s the fruit of Buddha-*pūjā.* (3) \[3193\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[3194\]  
+\[I have\] done what the Buddha taught! (4) \[3194\]
+
 Thus indeed Venerable Kesarapupphiya Thera spoke these verses.  
 The legend of Kesarapupphiya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

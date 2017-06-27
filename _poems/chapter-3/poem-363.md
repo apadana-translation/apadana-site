@@ -2,19 +2,23 @@
 The Sambuddha was named[^3] Phussa,  
 the \[Great\] Master of Everything.[^4]  
 The Seclusion-Lover,[^5] Wise One,[^6]  
-came into my presence \[back then\]. (1) \[3187\]  
+came into my presence \[back then\]. (1) \[3187\]
+
 Bringing pleasure to \[my\] heart in  
 him, the Victor, Great Compassion,  
 taking lotus roots and stems, I  
-gave \[them\] to the Best of Buddhas. (2) \[3188\]  
+gave \[them\] to the Best of Buddhas. (2) \[3188\]
+
 In the ninety-two aeons since  
 I gave that lotus-root back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of lotus-root gifts. (3) \[3189\]  
+that’s the fruit of lotus-root gifts. (3) \[3189\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[3190\]  
+\[I have\] done what the Buddha taught! (4) \[3190\]
+
 Thus indeed Venerable Bhisamuḷāladāyaka Thera spoke these verses.  
 The legend of Bhisamuḷāladāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

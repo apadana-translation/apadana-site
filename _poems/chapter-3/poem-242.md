@@ -2,23 +2,28 @@
 Gathering both ends of a bow,[^2]  
 I entered into the forest.  
 I saw a small lake gathered[^3] \[there\],  
-very clean[^4] and full of flowers.[^5] (1) \[2465\]  
+very clean[^4] and full of flowers.[^5] (1) \[2465\]
+
 Plucking \[one\] with both of my hands  
 and saluting on my forehead,[^6]  
 I \[then\] offered \[it\] to Tissa,  
-the Buddha, Kinsman of the World. (2) \[2466\]  
+the Buddha, Kinsman of the World. (2) \[2466\]
+
 In the ninety-two aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[2467\]  
+that’s the fruit of Buddha-*pūjā.* (3) \[2467\]
+
 In the seventy-seventh aeon,  
 \[I was\] named Pamokkharaṇa,[^7]  
 a wheel-turning king with great strength,  
-possessor of the seven gems. (4) \[2468\]  
+possessor of the seven gems. (4) \[2468\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[2469\]  
+\[I have\] done what the Buddha taught! (5) \[2469\]
+
 Thus indeed Venerable Nāgakesariya Thera spoke these verses.  
 The legend of Nāgakesariya Thera is finished.  
 [^1]: “Ironwood Lake-er” (?); *nāga =* elephant, cobra, ironwood tree +

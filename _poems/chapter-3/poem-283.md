@@ -10,15 +10,18 @@ splendid like an arjuna tree.[^5] (1-2) \[2633-2634\]
 In the ninety-four aeons since  
 I went to meet the Bull of Men,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of going to meet. (3) \[2635\]  
+that’s the fruit of going to meet. (3) \[2635\]
+
 In the twenty-seventh aeon  
 hence there was one ruler of men,  
 a wheel-turning king with great strength,  
-who was named Suparivāra.[^6] (4) \[2636\]  
+who was named Suparivāra.[^6] (4) \[2636\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[2637\]  
+\[I have\] done what the Buddha taught! (5) \[2637\]
+
 Thus indeed Venerable Paccuggamaniya Thera spoke these verses.  
 The legend of Paccuggamaniya Thera is finished.  
 [^1]: “Go and Meet-er”  

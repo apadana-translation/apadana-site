@@ -2,23 +2,28 @@
 When a stupa[^3] was being built,  
 various perfumes[^4] were gathered.  
 Happy, with pleasure in \[my\] heart,  
-I gave[^5] a handful of incense. (1) \[3252\]  
+I gave[^5] a handful of incense. (1) \[3252\]
+
 In the hundred thousand aeons  
 since I worshipped[^6] that stupa \[then,\]  
 I’ve come to know no bad rebirth:  
-that’s the fruit of stupa-*pūjā.* (2) \[3253\]  
+that’s the fruit of stupa-*pūjā.* (2) \[3253\]
+
 My being in Buddha’s presence[^7]  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (3) \[3254\]  
+\[I have\] done what the Buddha taught! (3) \[3254\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (4) \[3255\]  
+I am living without constraint. (4) \[3255\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[3256\]  
+\[I have\] done what the Buddha taught! (5) \[3256\]
+
 Thus indeed Venerable Gandhamuṭṭhiya Thera spoke these verses.  
 The legend of Gandhamuṭṭhiya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

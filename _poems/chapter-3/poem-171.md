@@ -3,35 +3,43 @@
 In the Himalayan Mountains,  
 there was a large, natural lake.  
 I was a *rakkhasa* born there,  
-of frightful form, having great strength. (1) \[2104\]  
+of frightful form, having great strength. (1) \[2104\]
+
 White lotuses were blooming there,  
 arising just as big as wheels,[^2]  
 and I \[then\] picked those[^3] lotuses.  
-The Strong One’s[^4] group[^5] was \[there\] then \[too\]. (2) \[2105\]  
+The Strong One’s[^4] group[^5] was \[there\] then \[too\]. (2) \[2105\]
+
 But Atthadassi, Blessed One,  
 the Biped-Lord, the Bull of Men,  
 seeing that those flowers were picked,[^6]  
-did come into my presence \[then\]. (3) \[2106\]  
+did come into my presence \[then\]. (3) \[2106\]
+
 The God of Gods, the Bull of Men,  
 the Sambuddha approached \[me then\].  
 Picking up all of those flowers  
-I gave \[them all\] to the Buddha. (4) \[2107\]  
+I gave \[them all\] to the Buddha. (4) \[2107\]
+
 That company then \[stretched\] out to  
 the ends of the Himalayas.[^7]  
 With a canopy \[over\] him[^8]  
-the Thus-Gone-One did journey forth. (5) \[2108\]  
+the Thus-Gone-One did journey forth. (5) \[2108\]
+
 In the eighteen hundred aeons  
 since I offered \[that\] flower \[to him\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (6) \[2109\]  
+that’s the fruit of Buddha-*pūjā.* (6) \[2109\]
+
 In the fifteenth aeon ago,  
 there were seven lords of people,  
 wheel-turning kings with great power,  
-\[all\] known as Sahassaratha.[^9] (7) \[2110\]  
+\[all\] known as Sahassaratha.[^9] (7) \[2110\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (8) \[2111\]  
+\[I have\] done what the Buddha taught! (8) \[2111\]
+
 Thus indeed Venerable Kumudamāliya Thera spoke these verses.  
 The legend of Kumudamāliya Thera is finished.  
 [^1]: “White-Lotus-Garland-er”  

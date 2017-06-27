@@ -2,23 +2,28 @@
 \[I saw\] the golden Sambuddha,  
 just like the hundred-raying sun,  
 shining forth in all directions  
-just like the moon when it is full, (1) \[1672\]  
+just like the moon when it is full, (1) \[1672\]
+
 surrounded by \[his followers\]  
 just like the earth is by the sea.  
 I presented to Vipassi  
-a pollen-filled ironwood[^2] bloom. (2) \[1673\]  
+a pollen-filled ironwood[^2] bloom. (2) \[1673\]
+
 In the ninety-one aeons since  
 I offered that pollen \[to him\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[1674\]  
+that’s the fruit of Buddha-*pūjā.* (3) \[1674\]
+
 In the forty-fifth aeon hence  
 there was a king[^3] known as Reṇu,[^4]  
 a wheel-turner with great power,  
-possessor of the seven gems. (4) \[1675\]  
+possessor of the seven gems. (4) \[1675\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[1676\]  
+\[I have\] done what the Buddha taught! (5) \[1676\]
+
 Thus indeed Venerable Reṇupūjaka Thera spoke these verses.  
 The legend of Reṇupūjaka Thera is finished.  
 The Summary:  

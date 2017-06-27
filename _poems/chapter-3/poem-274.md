@@ -10,15 +10,18 @@ the Biped Lord, Neutral One. (1-2) \[2595-2596\]
 During aeons beyond measure  
 since I gave \[Buddha\] unguent,  
 I’ve come to know no bad rebirth:  
-the fruit of \[giving\] unguent. (3) \[2597\]  
+the fruit of \[giving\] unguent. (3) \[2597\]
+
 In the fifteenth aeon ago  
 there was a ruler, Cirappa,[^5]  
 a wheel-turning king with great strength,  
-possessor of the seven gems. (4) \[2598\]  
+possessor of the seven gems. (4) \[2598\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[2599\]  
+\[I have\] done what the Buddha taught! (5) \[2599\]
+
 Thus indeed Venerable Abbhañjanadāyaka Thera spoke these verses.  
 The legend of Abbhañjanadāyaka Thera is finished.  
 [^1]: “Unguent-Donor”  

@@ -2,75 +2,93 @@
 In \[reading\] marks[^3] and history,[^4]  
 with glosses[^5] \[and\] ritual law,  
 \[I was\] learned, mantra-knowing,[^6]  
-a master of the three Vedas. (1) \[5039\]  
+a master of the three Vedas. (1) \[5039\]
+
 \[Many\] students came to me then,  
 resembling a river stream.  
 I am teaching mantras to them,  
-night and day, \[I am\] not lazy. (2) \[5040\]  
+night and day, \[I am\] not lazy. (2) \[5040\]
+
 The Sambuddha named Siddhattha  
 arose in the world at that time.  
 Having driven out the darkness,  
-he displayed the light of knowledge. (3) \[5041\]  
+he displayed the light of knowledge. (3) \[5041\]
+
 A certain one of my students  
 conversed with[^7] my \[other\] students;  
 having heard the fact \[he discussed\],  
-they then announced \[the fact\] to me: (4) \[5042\]  
+they then announced \[the fact\] to me: (4) \[5042\]
+
 “A Buddha’s risen in the world,  
 an Omniscient One, World-Leader.  
 The people are turning to him;  
-we’re not going to get \[anything\].”[^8] (5) \[5043\]  
+we’re not going to get \[anything\].”[^8] (5) \[5043\]
+
 “Buddhas are Born Spontaneously,[^9]  
 \[those\] Eyeful Ones, Greatly Famed Ones.  
 Why then don’t I also \[go\] see  
-the Best Buddha, the World-Leader?”[^10] (6) \[5044\]  
+the Best Buddha, the World-Leader?”[^10] (6) \[5044\]
+
 Having taken my deer-leather,  
 \[my\] robes of bark, \[and\] water-pot,[^11]  
 departing from \[my\] hermitage,  
-I advised \[my\] students \[like this\]: (7) \[5045\]  
+I advised \[my\] students \[like this\]: (7) \[5045\]
+
 “Like a glomerous fig tree bloom,[^12]  
 \[and\] like the rabbit in the moon,[^13]  
 \[and\] like the \[mother’s\] milk of crows,[^14]  
-a World-Leader’s hard to obtain. (8) \[5046\]  
+a World-Leader’s hard to obtain. (8) \[5046\]
+
 A Buddha’s risen in the world!  
 Even human birth’s hard to get,  
 and hearing’s[^15] very hard to get,  
-when both of them occur \[at once\]. (9) \[5047\]  
+when both of them occur \[at once\]. (9) \[5047\]
+
 A Buddha’s risen in the world!  
 We’ll get to see \[him in\] our lives.[^16]  
 Come, we will \[now\] all go into  
-the Sammāsambuddha’s presence.” (10) \[5048\]  
+the Sammāsambuddha’s presence.” (10) \[5048\]
+
 They all were holding water-pots,  
 \[and\] dressed in rough \[bark and\] deer-hide.  
 They,[^17] bearing weights of matted hair,[^18]  
-then departed from the forest. (11) \[5049\]  
+then departed from the forest. (11) \[5049\]
+
 Looking but a plough’s length ahead,[^19]  
 searching for ultimate meaning,  
 coming like baby elephants,  
-\[they were\] without fear, like lions. (12) \[5050\]  
+\[they were\] without fear, like lions. (12) \[5050\]
+
 Free of cares and unwavering,[^20]  
 clever and living peacefully,  
 wandering about for gleaning,[^21]  
-they approached the Best of Buddhas. (13) \[5051\]  
+they approached the Best of Buddhas. (13) \[5051\]
+
 When a league and a half was left[^22]  
 \[to go\], illness arose in me.  
 Remembering the Best Buddha,  
-I passed away \[right\] on the spot. (14) \[5052\]  
+I passed away \[right\] on the spot. (14) \[5052\]
+
 In the ninety-four aeons since  
 I obtained that perception then,  
 I’ve come to know no bad rebirth:  
-the fruit of perceiving Buddhas. (15) \[5053\]  
+the fruit of perceiving Buddhas. (15) \[5053\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (16) \[5054\]  
+I am living without constraint. (16) \[5054\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (17) \[5055\]  
+\[I have\] done what the Buddha taught! (17) \[5055\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (18) \[5056\]  
+\[I have\] done what the Buddha taught! (18) \[5056\]
+
 Thus indeed Venerable Buddhasaññaka Thera spoke these verses.  
 The legend of Buddhasaññaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

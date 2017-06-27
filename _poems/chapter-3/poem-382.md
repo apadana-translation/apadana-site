@@ -2,11 +2,13 @@
 In the city, Bandhumatī,  
 I worked in a hermitage then.[^3]  
 I saw the Buddha, Spotless One,  
-\[who\] was traveling through the sky. (1) \[3284\]  
+\[who\] was traveling through the sky. (1) \[3284\]
+
 Taking fruit of a breadfruit[^4] \[tree\]  
 I gave \[it\] to the Best Buddha.  
 Standing in the sky, the Calm One,  
-the Great Famed One accepted \[it\]. (2) \[3285\]  
+the Great Famed One accepted \[it\]. (2) \[3285\]
+
 Having given Buddha that fruit,  
 with a mind that was very clear,  
 productive of delight for me,  
@@ -18,19 +20,23 @@ A gem[^5] was truly produced for
 In the ninety-one aeons since  
 I gave \[the Buddha\] fruit back then,  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving fruit. (5) \[3288\]  
+that is the fruit of giving fruit. (5) \[3288\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (6) \[3289\]  
+\[I have\] done what the Buddha taught! (6) \[3289\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (7) \[3290\]  
+I am living without constraint. (7) \[3290\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (8) \[3291\]  
+\[I have\] done what the Buddha taught! (8) \[3291\]
+
 Thus indeed Venerable Labujaphaladāyaka Thera spoke these verses.  
 The legend of Labujaphaladāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

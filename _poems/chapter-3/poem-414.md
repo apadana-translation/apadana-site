@@ -2,51 +2,63 @@
 In the city, Bandhumatī,  
 I was a pork-seller[^3] \[back then\].  
 Having cooked the spleen and lungs,[^4]  
-I poured honey over \[that\] meat.[^5] (1) \[4373\]  
+I poured honey over \[that\] meat.[^5] (1) \[4373\]
+
 Having gone to a gathering,[^6]  
 I took hold of a single bowl.  
 Filling up that bowl \[with meat\], I  
-gave it to the monks’ Assembly. (2) \[4374\]  
+gave it to the monks’ Assembly. (2) \[4374\]
+
 The monk there who was most senior  
 then assigned[^7] \[the merit\] to me:  
 “due to filling this bowl \[with meat\],  
-he will receive great happiness. (3) \[4375\]  
+he will receive great happiness. (3) \[4375\]
+
 Receiving[^8] the two attainments,[^9]  
 incited by \[his\] wholesome roots,  
 during \[his\] last going around,  
-he will destroy the defilements.” (4) \[4376\]  
+he will destroy the defilements.” (4) \[4376\]
+
 Bringing pleasure to \[my\] heart there,  
 I \[then\] went to Tāvatiṃsa.  
 Eating as well as drinking there,  
-I do receive great happiness. (5) \[4377\]  
+I do receive great happiness. (5) \[4377\]
+
 In a pavilion or tree-root,  
 recalling previous karma,  
 a downpour of \[both\] food and drink  
-is raining on me all the time. (6) \[4378\]  
+is raining on me all the time. (6) \[4378\]
+
 This is the final time for me;  
 \[my\] last rebirth is proceeding.[^10]  
 Even here \[both\] food and drink are[^11]  
-raining on me all of the time. (7) \[4379\]  
+raining on me all of the time. (7) \[4379\]
+
 Because of having given meat,  
 transmigrating in existence,  
 knowing well all the defilements,  
-I am living without constraint.[^12] (8) \[4380\]  
+I am living without constraint.[^12] (8) \[4380\]
+
 In the ninety-one aeons since  
 I gave that offering back then,  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving meat. (9) \[4381\]  
+that is the fruit of giving meat. (9) \[4381\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (10) \[4382\]  
+I am living without constraint. (10) \[4382\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (11) \[4383\]  
+\[I have\] done what the Buddha taught! (11) \[4383\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (12) \[4384\]  
+\[I have\] done what the Buddha taught! (12) \[4384\]
+
 Thus indeed Venerable Madhumaŋsadāyaka Thera spoke these verses.  
 The legend of Madhumaŋsadāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

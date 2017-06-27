@@ -3,51 +3,63 @@
 The Sambuddha named Sumedha,  
 Chief, Compassionate One, the Sage,  
 the World’s Chief, Seclusion-Lover,  
-came up to the Himalayas. (1) \[4268\]  
+came up to the Himalayas. (1) \[4268\]
+
 Plunged[^3] into the Himalayas,  
 Sumedha, Leader of the World,  
 the Ultimate Person, sat down,  
-getting into lotus posture.[^4] (2) \[4269\]  
+getting into lotus posture.[^4] (2) \[4269\]
+
 Sumedha, Leader of the World,  
 his meditative state attained,[^5]  
 the Ultimate Person, Buddha,  
-sat \[there\] for seven nights \[and\] days. (3) \[4270\]  
+sat \[there\] for seven nights \[and\] days. (3) \[4270\]
+
 Taking a carrying pole-load,[^6]  
 I \[too\] plunged into the forest.[^7]  
 There I saw \[him\], the Sambuddha,  
-Flood-Crosser, the Undefiled One. (4) \[4271\]  
+Flood-Crosser, the Undefiled One. (4) \[4271\]
+
 After having picked up a broom,  
 I \[then\] swept out the hermitage.  
 Fixing sticks in the four \[corners,\]  
-I made \[him\] a pavilion then. (5) \[4272\]  
+I made \[him\] a pavilion then. (5) \[4272\]
+
 Bringing flowers from a *sal* \[tree,\]  
 I \[then\] covered the pavilion.  
 Happy, with pleasure in \[my\] heart,  
-I worshipped \[him\], the Thus-Gone-One. (6) \[4273\]  
+I worshipped \[him\], the Thus-Gone-One. (6) \[4273\]
+
 The one whom they call “Sumedha,”[^8]  
 Very Wise[^9] \[and\] Intelligent,[^10]  
 seated in the monks’ Assembly,  
-spoke these verses \[about me then\]: (7) \[4274\]  
+spoke these verses \[about me then\]: (7) \[4274\]
+
 Knowing that Buddha would speak,[^11] the  
 gods all came together, \[thinking\],  
 “the Best Buddha, the Eyeful One,  
-will doubtlessly preach the *Dhamma*.”[^12] (8) \[4275\]  
+will doubtlessly preach the *Dhamma*.”[^12] (8) \[4275\]
+
 The Sambuddha named Sumedha,  
 Sacrificial Recipient,  
 seated in the gods’ assembly,  
-spoke these verses \[about me then\]: (9) \[4276\]  
+spoke these verses \[about me then\]: (9) \[4276\]
+
 “Who for a week did bear for me  
 a *sal-*bloom-covered pavilion,  
 I shall relate details of him;  
-\[all of\] you listen to my words: (10) \[4277\]  
+\[all of\] you listen to my words: (10) \[4277\]
+
 Born as a god or as a man,  
 he will be the color of gold.  
 Being one with abundant wealth,  
-he’ll feast on sensual pleasures.[^13] (11) \[4278\]  
+he’ll feast on sensual pleasures.[^13] (11) \[4278\]
+
 \[Then\] sixty thousand elephants,  
 decked out in all the ornaments,  
 *mātaṅga*s with gold headdresses,  
-clothed in harnessing made of gold, (12) \[4279\]  
+clothed in harnessing made of gold, (12) \[4279\]
+
 mounted by elephant-trainers  
 with lances and goads in hand,[^14]  
 will come to \[be owned by\] this man,  
@@ -57,19 +69,23 @@ this man will delight \[in the world\]. (13) \[4280\][^16]
 Sixty thousand horses \[as well\],  
 decked out in all the ornaments,  
 thoroughbreds of good pedigree,[^17]  
-horses from Sindh, fast vehicles, (14) \[4281\]  
+horses from Sindh, fast vehicles, (14) \[4281\]
+
 mounted by trainers of horses[^18]  
 carrying bows and one-edged swords,[^19]  
 will constantly wait on this \[man\]:  
-that’s the fruit of Buddha-*pūjā.* (15) \[4282\]  
+that’s the fruit of Buddha-*pūjā.* (15) \[4282\]
+
 Sixty thousand chariots \[too\],  
 decked out in all the ornaments,  
 covered in[^20] the skins of leopards  
-and likewise tigers,[^21] flags hoisted, (16) \[4283\]  
+and likewise tigers,[^21] flags hoisted, (16) \[4283\]
+
 mounted by animal-trainers[^22]  
 wearing armor with bows in hand,  
 will constantly wait on this \[man\]:  
-that’s the fruit of Buddha-*pūjā.* (17) \[4284\]  
+that’s the fruit of Buddha-*pūjā.* (17) \[4284\]
+
 \[And\] sixty thousand villages,  
 completely full in all regards,  
 rich in grain and abundant wealth,[^23]  
@@ -79,55 +95,68 @@ that’s the fruit of Buddha-*pūjā.* (18) \[4285\][^25]
 The four-part army: elephant,  
 horse, chariot and foot-soldier,  
 will constantly wait on this \[man\]:  
-that’s the fruit of Buddha-*pūjā.* (19) \[4286\]  
+that’s the fruit of Buddha-*pūjā.* (19) \[4286\]
+
 For eighteen hundred aeons he  
 will delight in the world of gods.  
 A[^26] thousand times he’ll be a king,  
-a king who turns the wheel \[of law\]. (20) \[4287\]  
+a king who turns the wheel \[of law\]. (20) \[4287\]
+
 \[During that time\] three hundred times  
 he will exercise divine rule,  
 \[and there will be\] much local rule,  
-innumerable by counting. (21) \[4288\]  
+innumerable by counting. (21) \[4288\]
+
 \[After\] thirty thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (22) \[4289\]  
+will be the Teacher in the world. (22) \[4289\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 knowing well all the defilements,  
-he’ll reach nirvana, undefiled.” (23) \[4290\]  
+he’ll reach nirvana, undefiled.” (23) \[4290\]
+
 Thirty thousand aeons \[ago\]  
 I saw the Leader of the World.  
 In all the time from then to now,[^27]  
-I was seeking the deathless state. (24) \[4291\]  
+I was seeking the deathless state. (24) \[4291\]
+
 The gain for me was well-received,  
 that I knew the dispensation.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (25) \[4292\]  
+\[I have\] done what the Buddha taught! (25) \[4292\]
+
 Praise to you, O Well-Bred Person![^28]  
 Praise to you, Ultimate Person!  
 After having praised your knowledge,  
-I’ve now attained the deathless state. (26) \[4293\]  
+I’ve now attained the deathless state. (26) \[4293\]
+
 In whichever womb I’m reborn,  
 \[whether\] it’s human or divine,  
 I am happy in every place,  
-the fruit of my praising knowledge. (27) \[4294\]  
+the fruit of my praising knowledge. (27) \[4294\]
+
 This is the final time for me;  
 \[my\] last rebirth is proceeding.[^29]  
 Like elephants with broken chains,  
-I am living without constraint. (28) \[4295\]  
+I am living without constraint. (28) \[4295\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (29) \[4296\]  
+I am living without constraint. (29) \[4296\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (30) \[4297\]  
+\[I have\] done what the Buddha taught! (30) \[4297\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (31) \[4298\]  
+\[I have\] done what the Buddha taught! (31) \[4298\]
+
 Thus indeed Venerable Bhaddāli Thera spoke these verses.  
 The legend of Bhaddāli Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

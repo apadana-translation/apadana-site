@@ -2,19 +2,23 @@
 I saw Vipassi, the Victor,  
 wandering about for alms food.  
 I gave an owl’s \[measure of\] food[^2]  
-to the Best Biped, Neutral One. (1) \[2713\]  
+to the Best Biped, Neutral One. (1) \[2713\]
+
 Happy, with pleasure in \[my\] heart,  
 I greeted \[Buddha\] at that time.  
 I sang the praises of Buddha,  
-wishing for the ultimate goal. (2) \[2714\]  
+wishing for the ultimate goal. (2) \[2714\]
+
 In the ninety-one aeons since  
 I sang \[the Buddha’s\] praises \[then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of singing praises. (3) \[2715\]  
+that’s the fruit of singing praises. (3) \[2715\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[2716\]  
+\[I have\] done what the Buddha taught! (4) \[2716\]
+
 Thus indeed Venerable Anusaŋsāvaka Thera spoke these verses.  
 The legend of Anusaŋsāvaka Thera is finished.  
 The Summary:  

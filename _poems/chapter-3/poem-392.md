@@ -2,31 +2,38 @@
 In the city, Haṃsavatī,  
 I was in charge of the roadways.[^3]  
 Calling my kinsfolk together,  
-I spoke these words \[to them back then\]: (1) \[3581\]  
+I spoke these words \[to them back then\]: (1) \[3581\]
+
 “The Buddha’s[^4] been born in the world,  
 the Unsurpassed Field of Merit,  
 the Foundation for Every World,[^5]  
-Sacrificial Recipient. (2) \[3582\]  
+Sacrificial Recipient. (2) \[3582\]
+
 The kṣatriyans and city folk,  
 the rich people and the brahmins,  
 happy, with pleasure in \[their\] hearts,  
-have[^6] formed themselves into a guild.[^7] (3) \[3583\]  
+have[^6] formed themselves into a guild.[^7] (3) \[3583\]
+
 Those on elephants,[^8] royal guards,[^9]  
 charioteers[^10] and foot-soldiers[^11]  
 happy, with pleasure in \[their\] hearts,  
-have[^12] formed themselves into a guild.[^13] (4) \[3584\]  
+have[^12] formed themselves into a guild.[^13] (4) \[3584\]
+
 The mighty lords[^14] and the princes,[^15]  
 Vaiśyas as well as the brahmins,  
 happy, with pleasure in \[their\] hearts,  
-have[^16] formed themselves into a guild.[^17] (5) \[3585\]  
+have[^16] formed themselves into a guild.[^17] (5) \[3585\]
+
 The cooks[^18] \[and\] those who dress the hair,[^19]  
 the bath boys,[^20] the garland-makers,[^21]  
 happy, with pleasure in \[their\] hearts,  
-have[^22] formed themselves into a guild.[^23] (6) \[3586\]  
+have[^22] formed themselves into a guild.[^23] (6) \[3586\]
+
 The dyers,[^24] also the weavers,[^25]  
 the tanners,[^26] also the bath girls,[^27]  
 happy, with pleasure in \[their\] hearts,  
-have[^28] formed themselves into a guild.[^29] (7) \[3587\]  
+have[^28] formed themselves into a guild.[^29] (7) \[3587\]
+
 The fletchers,[^30] the leather workers,[^31]  
 carpenters[^32] and workers in gold,[^33]  
 tinsmiths,[^34] also \[makers of\] mats,[^35]  
@@ -34,63 +41,78 @@ have[^36] formed themselves into a guild.[^37] (8) \[3588-3589\][^38]
 Hired servants[^39] \[and\] musicians,[^40]  
 and numerous slaves and servants,[^41]  
 to the extent of their own strength,[^42]  
-have[^43] formed themselves into a guild.[^44] (9) \[3590\]  
+have[^43] formed themselves into a guild.[^44] (9) \[3590\]
+
 Water-bringers,[^45] wood-gatherers,[^46]  
 tillers,[^47] also grass-carriers,[^48]  
 to the extent of their own strength,[^49]  
-have[^50] formed themselves into a guild.[^51] (10) \[3591\]  
+have[^50] formed themselves into a guild.[^51] (10) \[3591\]
+
 Florists[^52] and gardeners[^53] as well,  
 green-grocers[^54] \[and\] fruit-carriers,[^55]  
 to the extent of their own strength[^56]  
-have[^57] formed themselves into a guild.[^58] (11) \[3592\]  
+have[^57] formed themselves into a guild.[^58] (11) \[3592\]
+
 Harlots,[^59] slave-girls who bring water,[^60]  
 women who sell cakes \[or\] sell fish,[^61]  
 to the extent of their own strength,[^62]  
-have[^63] formed themselves into a guild.[^64] (12) \[3593\]  
+have[^63] formed themselves into a guild.[^64] (12) \[3593\]
+
 Come[^65] you all, gathered together,  
 let us \[too\] form, as one, a group;[^66]  
 let us \[now\] perform service[^67] for  
-the Unsurpassed Field of Merit.” (13) \[3594\]  
+the Unsurpassed Field of Merit.” (13) \[3594\]
+
 They, having listened to my words,  
 formed a group \[to last\] for all time  
 \[and\] built[^68] a well-built meeting-hall[^69]  
-for \[those in\] the monks' Assembly.[^70] (14) \[3595\]  
+for \[those in\] the monks' Assembly.[^70] (14) \[3595\]
+
 After dedicating that hall,  
 elated[^71] with a happy mind,[^72]  
 surrounded by all of those \[folks,\]  
-I went up to the Sambuddha. (15) \[3596\]  
+I went up to the Sambuddha. (15) \[3596\]
+
 Having approached the Sambuddha,  
 the Lord of the World, Bull of Men,  
 \[and\] worshipping the Teacher’s feet,  
-I spoke these words \[to him back then\]: (16) \[3597\]  
+I spoke these words \[to him back then\]: (16) \[3597\]
+
 “These three hundred people, Hero,  
 \[together\] as one \[in\] a group,  
 have appointed for you, O Sage,  
-this well-constructed meeting-hall.” (17) \[3598\]  
+this well-constructed meeting-hall.” (17) \[3598\]
+
 The Eyeful One, accepting \[it\]  
 in front of the monks’ Assembly,[^73]  
 \[the Buddha\] spoke these verses \[then\],  
-in front of my three hundred \[folks\]: (18) \[3599\]  
+in front of my three hundred \[folks\]: (18) \[3599\]
+
 “Three hundred and this best one[^74] too,  
 conforming[^75] \[together\] as one,  
 having made this \[great\] achievement,[^76]  
-you all are going to enjoy \[it\]. (19) \[3600\]  
+you all are going to enjoy \[it\]. (19) \[3600\]
+
 When \[your\] last rebirth is attained,  
 you all will achieve nirvana,  
 the state of coolness, unsurpassed,[^77]  
-unborn, undying peacefulness.” (20) \[3601\]  
+unborn, undying peacefulness.” (20) \[3601\]
+
 The Buddha prophesied like that,[^78]  
 the Omniscient One,[^79] Best of Monks,[^80]  
 \[and\] having heard the Buddha’s words,  
-I declared \[my own\] mental bliss.[^81] (21) \[3602\]  
+I declared \[my own\] mental bliss.[^81] (21) \[3602\]
+
 For thirty thousand aeons I  
 delighted in the world of gods.  
 Five hundred times the lord of gods,  
-I exercised divine rule \[there\]. (22) \[3603\]  
+I exercised divine rule \[there\]. (22) \[3603\]
+
 One thousand times I \[also\] was  
 a king who turns the wheel \[of law\].  
 While exercising divine rule  
-the great gods \[all then\] worshipped \[me\]. (23) \[3604\]  
+the great gods \[all then\] worshipped \[me\]. (23) \[3604\]
+
 Here, in this human kingdom,[^82] \[my\]  
 relatives are my retinue.[^83]  
 When \[my\] last rebirth was attained  
@@ -111,7 +133,8 @@ Or have you invited the king?[^94] (26-27) \[3607-3608\]
 I want to do sacrifices[^95]  
 for brahmins who think like the gods,[^96]  
 \[but\] I’m not invited by kings  
-\[and\] have not found a sacrifice.” (28) \[3609\]  
+\[and\] have not found a sacrifice.” (28) \[3609\]
+
 \[Keniya:\]  
 “There is no bringing brides for me;  
 I do not go to brides \[either\].  
@@ -124,71 +147,88 @@ these preparations are for him. (29-30) \[3610-3611\]
 The Bright Hue of Wild Mangosteen,[^99]  
 Incomparable, Unmeasurable,  
 the Buddha, Unrivaled in Form,  
-is invited for tomorrow. (31) \[3612\]  
+is invited for tomorrow. (31) \[3612\]
+
 Like beaten[^100] \[gold\] atop a forge[^101]  
 \[burning bright\] like cedar charcoal,[^102]  
 the Great Hero’s like lightening bolts[^103] --  
-I’ve invited him, the Buddha.[^104] (32) \[3613\]  
+I’ve invited him, the Buddha.[^104] (32) \[3613\]
+
 Like fire \[burning\] on a mountain,  
 like the moon on the fifteenth day,[^105]  
 the same color as burning reeds --  
-I’ve invited him, the Buddha. (33) \[3614\]  
+I’ve invited him, the Buddha. (33) \[3614\]
+
 Fearless, Overcomer of Fear,[^106]  
 the Existence-Ender,[^107] the Sage,  
 The Great Hero’s like a lion --  
-I’ve invited him, the Buddha. (34) \[3615\]  
+I’ve invited him, the Buddha. (34) \[3615\]
+
 Skillful in the Buddha’s Teaching,  
 little to endure from others,  
 Great Hero’s like an elephant --  
-I’ve invited him, the Buddha. (35) \[3616\]  
+I’ve invited him, the Buddha. (35) \[3616\]
+
 Skilled in doing the Great Teaching,[^108]  
 the Unmatched,[^109] Buddha-elephant,  
 the Great Hero is like a bull --  
-I’ve invited him, the Buddha. (36) \[3617\]  
+I’ve invited him, the Buddha. (36) \[3617\]
+
 Of Endless Beauty,[^110] Boundless Fame,  
 Bearing all the Various Marks,  
 the Great Hero is like Indra[^111] --  
-I’ve invited him, the Buddha. (37) \[3618\]  
+I’ve invited him, the Buddha. (37) \[3618\]
+
 Strong One,[^112] Whose Group is Powerful,[^113]  
 Majestic One,[^114] Hard to Approach,[^115]  
 The Great Hero is like Brahmā[^116] --  
-I’ve invited him, the Buddha. (38) \[3619\]  
+I’ve invited him, the Buddha. (38) \[3619\]
+
 Teaching-Reacher,[^117] Ten-Powered One,[^118]  
 Master of Surpassing Power,[^119]  
 the Great Hero is like the earth --  
-I’ve invited him, the Buddha. (39) \[3620\]  
+I’ve invited him, the Buddha. (39) \[3620\]
+
 Full of waves \[called\] morality,  
 churning knowledge of the Teaching,  
 the Great Hero is like the sea --  
-I’ve invited him, the Buddha. (40) \[3621\]  
+I’ve invited him, the Buddha. (40) \[3621\]
+
 Hard to Approach,[^120] Hard to Subdue,[^121]  
 Unshaken,[^122] Risen Up,[^123] Lofty,[^124]  
 the Great Hero’s like Mt. Meru[^125] --  
-I’ve invited him, the Buddha. (41) \[3622\]  
+I’ve invited him, the Buddha. (41) \[3622\]
+
 Of Endless Knowledge, Impartial,[^126]  
 Unmeasurable,[^127] Gone to the Top,[^128]  
 the Great Hero is like the sky --  
-I’ve invited him, the Buddha. (42) \[3623\]  
+I’ve invited him, the Buddha. (42) \[3623\]
+
 Support[^129] for Those with Fears \[and\] Frights,  
 Protection[^130] for Refuge-Seekers,[^131]  
 the Great Hero Provides Comfort[^132] --  
-I’ve invited him, the Buddha. (43) \[3624\]  
+I’ve invited him, the Buddha. (43) \[3624\]
+
 The Abode[^133] of Wisdom and Spells,[^134]  
 Merit-Field for happiness-Seekers[^135]  
 the Great Hero, the Mine of Gems --  
-I’ve invited him, the Buddha. (44) \[3625\]  
+I’ve invited him, the Buddha. (44) \[3625\]
+
 Comforter,[^136] the Awe-Inspirer,[^137]  
 Giver of the Fruit of Monkhood,  
 the Great Hero is like a cloud[^138] --  
-I’ve invited him, the Buddha. (45) \[3626\]  
+I’ve invited him, the Buddha. (45) \[3626\]
+
 The Eye of the World,[^139] the Hero,[^140]  
 Dispeller of Every Darkness,[^141]  
 the Great Hero is like the sun --  
-I’ve invited him, the Buddha. (46) \[3627\]  
+I’ve invited him, the Buddha. (46) \[3627\]
+
 Sage, Seer of the Nature[^142] of  
 Emancipations from Objects,[^143]  
 the Great Hero is like the moon --  
-I’ve invited him, the Buddha. (47) \[3628\]  
+I’ve invited him, the Buddha. (47) \[3628\]
+
 Venerable,[^144] Raised up in the World,  
 Adorned with the Auspicious Marks,  
 Unmeasurable, the Great Sage --  
@@ -196,194 +236,241 @@ I’ve invited him, the Buddha. \[3629\][^145]
 The One Whose Knowledge is Boundless,[^146]  
 Morality beyond Compare,[^147]  
 whose freedom has no parallel,[^148]  
-I’ve invited him, the Buddha. (48) \[3630\]  
+I’ve invited him, the Buddha. (48) \[3630\]
+
 Whose courage[^149] has no parallel,  
 whose firmness is unthinkable,[^150]  
 he whose exertion is the best --  
-I’ve invited him, the Buddha. (49) \[3631\]  
+I’ve invited him, the Buddha. (49) \[3631\]
+
 Passion, hatred, stupidity  
 and every poison is destroyed;  
 the Great Hero is like a drug[^151] --  
-I’ve invited him, the Buddha. (50) \[3632\]  
+I’ve invited him, the Buddha. (50) \[3632\]
+
 There’s removal of the darkness  
 of all pain, defilement, disease;  
 the Great Hero’s like a doctor --  
-I’ve invited him, the Buddha. (51) \[3633\]  
+I’ve invited him, the Buddha. (51) \[3633\]
+
 “Friend, this sound is hard to obtain,  
 which has been said \[here\], “the Buddha”.  
 Hearing “the Buddha,” “the Buddha,”  
-you all should be joyful like me.”[^152] (52) \[3634\]  
+you all should be joyful like me.”[^152] (52) \[3634\]
+
 \[Sela:\]  
 Not keeping my joy inside \[me\]  
 it poured forth \[to those\] outside \[me\].  
 I, being \[full of\] joyful thoughts,[^153]  
-spoke these words \[to him at that time\]: (53) \[3635\]  
+spoke these words \[to him at that time\]: (53) \[3635\]
+
 “Well then where is that Blessed One,  
 the World’s Best One, the Bull of Men?  
 Having gone where will I see \[this\]  
-Giver of the Fruit of Monkhood?” (54) \[3636\]  
+Giver of the Fruit of Monkhood?” (54) \[3636\]
+
 \[He,\] taking hold of \[my\] right arm,[^154]  
 thrilled, with \[his\] hands pressed together,  
 showed to me the King of Teachings,[^155]  
-who Removes the Arrows of Grief. (55) \[3637\]  
+who Removes the Arrows of Grief. (55) \[3637\]
+
 \[Keniya:\]  
 “Do you see[^156] this massive forest,  
 risen up like a great storm cloud,  
 dark blue just like collyrium,  
-as visible as the ocean?[^157] (56) \[3638\]  
+as visible as the ocean?[^157] (56) \[3638\]
+
 The Buddha \[now\] is dwelling there,  
 the Untamed-Tamer,[^158] the \[Great\] Sage,  
 instructing those who can be trained,  
-making known Awakening’s parts.”[^159] (57) \[3639\]  
+making known Awakening’s parts.”[^159] (57) \[3639\]
+
 \[Sela:\]  
 Like the thirsty \[seeking\] water,  
 like the hungry \[looking for\] food,  
 like a cow greedy for \[its\] calf,  
-I went in search of the Victor. (58) \[3640\]  
+I went in search of the Victor. (58) \[3640\]
+
 Knowing manners and good conduct[^160]  
 I did teach to my own students  
 going into Buddha’s presence,  
-restraint in line with the Teaching:[^161] (59) \[3641\]  
+restraint in line with the Teaching:[^161] (59) \[3641\]
+
 ‘Blessed Ones are Hard to Approach,  
 like lions wandering alone,  
 walking carefully, step by step,[^162]  
-come \[along after me\], O men. (60) \[3642\]  
+come \[along after me\], O men. (60) \[3642\]
+
 As fearful as a snake’s venom,  
 like a lion, king of the beasts,  
 like a rutting tusked elephant,  
-thus Buddhas are Hard to Approach. (61) \[3643\]  
+thus Buddhas are Hard to Approach. (61) \[3643\]
+
 O men, neglecting \[any need\]  
 \[that you may have\] to cough or sneeze,  
 walking carefully, step by step,[^163]  
-go into the Buddha’s presence. (62) \[3644\]  
+go into the Buddha’s presence. (62) \[3644\]
+
 Buddhas are Hard to Go Up To,[^164]  
 they’re Ones who Relish Solitude,  
 make Little Sound,[^165] Hard to Approach,  
-Revered \[in the world\] with its gods. (63) \[3645\]  
+Revered \[in the world\] with its gods. (63) \[3645\]
+
 When[^166] I am asking \[him\] questions,  
 or exchanging friendly greetings,  
 then you all should make little sound;  
-stand \[there\] as though \[you were\] sages.[^167] (64) \[3646\]  
+stand \[there\] as though \[you were\] sages.[^167] (64) \[3646\]
+
 Which Great Teaching he is preaching,[^168]  
 peaceful, leading to nirvana,  
 listen to the meaning with care,[^169]  
-happily hearing the Teaching.’”[^170] (65) \[3647\]  
+happily hearing the Teaching.’”[^170] (65) \[3647\]
+
 Having approached the Sambuddha  
 I exchanged greetings with the Sage.  
 \[While I was\] conversing with[^171] him,  
-I looked out for \[Great Man’s\] marks.[^172] (66) \[3648\]  
+I looked out for \[Great Man’s\] marks.[^172] (66) \[3648\]
+
 I can see thirty of the marks,  
 doubting only two of the marks:  
 through his powers[^173] the Sage showed me  
-\[his\] penis enclosed in a sheath.[^174] (67) \[3649\]  
+\[his\] penis enclosed in a sheath.[^174] (67) \[3649\]
+
 \[And then the Buddha\] placed his tongue  
 into \[his\] ear[^175] and on his nose.  
 The Victor touched \[his\] forehead’s tip[^176]  
-\[and\] covered it all \[with his tongue\]. (68) \[3650\]  
+\[and\] covered it all \[with his tongue\]. (68) \[3650\]
+
 I, seeing his auspicious marks,  
 fulfilling \[all\] the attributes,  
 concluding[^177] that, “he’s a Buddha,”  
-I went forth with \[all\] my students. (69) \[3651\]  
+I went forth with \[all\] my students. (69) \[3651\]
+
 I went forth into homelessness,  
 together with the three hundred.  
 When eight months \[still\] had not elapsed,  
-we all realized nirvana.[^178] (70) \[3652\]  
+we all realized nirvana.[^178] (70) \[3652\]
+
 Together[^179] doing \[good\] karma  
 for the Unsurpassed Merit-Field,  
 together we transmigrated,  
-together we turned \[from the world\]. (71) \[3653\]  
+together we turned \[from the world\]. (71) \[3653\]
+
 I gave[^180] rafters[^181] \[for that new hall\],  
 remaining[^182] within the guild’s rule.[^183]  
 Due to that deed, well done \[by me\],  
-I’m receiving eight good results.[^184] (72) \[3654\]  
+I’m receiving eight good results.[^184] (72) \[3654\]
+
 I’m worshipped[^185] in \[all\] directions,  
 and I have food that’s ambrosial;  
 I’m the support of everyone;[^186]  
-I don’t experience[^187] terror.[^188] (73) \[3655\]  
+I don’t experience[^187] terror.[^188] (73) \[3655\]
+
 I don’t get \[any\] diseases,  
 and I protect \[my\] long life-span.  
 I am one with exquisite skin,  
-I live in dwellings \[that I\] choose.[^189] (74) \[3656\]  
+I live in dwellings \[that I\] choose.[^189] (74) \[3656\]
+
 Remaining[^190] within the guild’s rule,[^191]  
 the rafters I gave[^192] \[numbered\] eight.  
 Following the eighth[^193] \[I received\]  
-analysis[^194] with[^195] Arahantship. (75) \[3657\]  
+analysis[^194] with[^195] Arahantship. (75) \[3657\]
+
 All accomplishments accomplished,[^196]  
 duties complete,[^197] defilement-free,[^198]  
 \[I\] am your son \[today\], Great Sage,  
-\[and\] “Eight Rafters”[^199] is \[now my\] name. (76) \[3658\]  
+\[and\] “Eight Rafters”[^199] is \[now my\] name. (76) \[3658\]
+
 Remaining[^200] within the guild’s rule,[^201]  
 the pillars[^202] I gave[^203] \[numbered\] five.  
 Due to that deed, well done \[by me\],  
-I’m receiving five good results.[^204] (77) \[3659\]  
+I’m receiving five good results.[^204] (77) \[3659\]
+
 I remain unshaken by love,[^205]  
 I do not lack for possessions,[^206]  
 I’m one whose words are taken well,[^207]  
-\[and\] likewise I cause no offense.[^208] (78) \[3660\]  
+\[and\] likewise I cause no offense.[^208] (78) \[3660\]
+
 My mind is not out of control,[^209]  
 I’m not shaken by anything,  
 unstained in the dispensation,[^210]  
-due to that deed, well done \[by me\]. (79) \[3661\]  
+due to that deed, well done \[by me\]. (79) \[3661\]
+
 I’m respectful,[^211] obedient,[^212]  
 duties complete,[^213] defilement-free;[^214]  
 I’m your follower, Great Hero,  
-a venerated monk,[^215] O Sage. (80) \[3662\]  
+a venerated monk,[^215] O Sage. (80) \[3662\]
+
 Making a well-made palanquin,  
 I \[then\] dedicated[^216] that hall.  
 Due to that deed, well done \[by me\],  
-I’m receiving five good results.[^217] (81) \[3663\]  
+I’m receiving five good results.[^217] (81) \[3663\]
+
 I’m born in an eminent clan,[^218]  
 I become a very rich man,[^219]  
 I’m one who achieves all success,[^220]  
-I am not plagued with[^221] avarice.[^222] (82) \[3664\]  
+I am not plagued with[^221] avarice.[^222] (82) \[3664\]
+
 In \[whichever\] village \[I\] wish  
 my palanquin comes to a rest,[^223]  
 by means of that best palanquin,  
-I travel according to wish. (83) \[3665\]  
+I travel according to wish. (83) \[3665\]
+
 Because of that palanquin-gift,  
 I removed all of \[my\] darkness.  
 Sage, this monk,[^224] empowered with all  
-special knowledges,[^225] worships you. (84) \[3666\]  
+special knowledges,[^225] worships you. (84) \[3666\]
+
 I performed all of \[my\] duties  
 \[and\] the duties of others \[too\].[^226]  
 Because of that well-done deed, I  
-entered the city of no fear.[^227] (85) \[3667\]  
+entered the city of no fear.[^227] (85) \[3667\]
+
 I gave food \[to the Buddha and\]  
 also \[that\] well-completed hall.  
 Due to that deed, well done \[by me\],  
-I arrived at that best of states.[^228] (86) \[3668\]  
+I arrived at that best of states.[^228] (86) \[3668\]
+
 Those who are tamers in the world,  
 tame these elephants \[and\] horses.  
 Employing varied punishments[^229]  
-they tame by means of cruelty.[^230] (87) \[3669\]  
+they tame by means of cruelty.[^230] (87) \[3669\]
+
 Not like that,[^231] O Great Hero, do  
 you tame men \[and\] women \[here\].  
 Not using force,[^232] without weapons,[^233]  
-you tame in the supreme taming.[^234] (88) \[3670\]  
+you tame in the supreme taming.[^234] (88) \[3670\]
+
 Praising the virtues[^235] of giving,  
 \[you are\] skilled in preaching, O Sage;  
 addressing a single question[^236]  
-you freed the three hundred, O Sage. (89) \[3671\]  
+you freed the three hundred, O Sage. (89) \[3671\]
+
 We’re tamed by the charioteer,[^237]  
 well-freed,[^238] undefiled,[^239] empowered  
 by all the special knowledges,  
-quenched[^240] in destroying the bases.[^241] (90) \[3672\]  
+quenched[^240] in destroying the bases.[^241] (90) \[3672\]
+
 In the hundred thousand aeons  
 since I gave that gift at that time,  
 every fear has been overcome:  
-that’s the fruit of giving a hall. (91) \[3673\]  
+that’s the fruit of giving a hall. (91) \[3673\]
+
 My being in Buddha’s presence[^242]  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (92) \[3674\]  
+\[I have\] done what the Buddha taught! (92) \[3674\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (93) \[3675\]  
+I am living without constraint. (93) \[3675\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (94) \[3676\]  
+\[I have\] done what the Buddha taught! (94) \[3676\]
+
 Thus indeed Venerable Sela Thera spoke these verses.  
 The legend of Sela Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

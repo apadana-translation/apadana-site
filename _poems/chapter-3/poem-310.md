@@ -2,7 +2,8 @@
 I cleaned up a mountain cave  
 for Piyadassi, the Blessed One,  
 and looked after the water pot  
-for the Neutral One’s consumption. (1) \[2763\]  
+for the Neutral One’s consumption. (1) \[2763\]
+
 Piyadassi, the Greatest Sage,  
 the Buddha, explained that for me  
 “a mil-*kaṇḍa*[^2] cent-*bheṇḍu*[^3] \[large\]  
@@ -14,11 +15,13 @@ I joyed an aeon in heaven. (2-3) \[2764-2765\]
 In the thirty-second aeon  
 \[lived\] the ruler[^6] named Susuddha,[^7]  
 a wheel-turning king with great strength,  
-possessor of the seven gems. (4) \[2766\]  
+possessor of the seven gems. (4) \[2766\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[2767\]  
+\[I have\] done what the Buddha taught! (5) \[2767\]
+
 Thus indeed Venerable Pabbhāradāyaka Thera spoke these verses.  
 The legend of Pabbhāradāyaka Thera is finished.  
 The Summary:  

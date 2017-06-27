@@ -2,27 +2,33 @@
 The Sambuddha named Ajjuna[^3]  
 lived in the Himalayas then,  
 he Endowed with Good Behavior,  
-Skilled in Meditation,[^4] the Sage. (1) \[5431\]  
+Skilled in Meditation,[^4] the Sage. (1) \[5431\]
+
 Taking a water-jug’s worth[^5] of  
 *ajela,*[^6] *jīvajīvaka,*  
 \[and\] taking umbrella-leaves \[too\],[^7]  
-I gave \[them\] to the Teacher \[then\]. (2) \[5432\]  
+I gave \[them\] to the Teacher \[then\]. (2) \[5432\]
+
 In the ninety-four aeons since  
 I gave \[him\] that fruit at that time,  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving fruit. (3) \[5433\]  
+that is the fruit of giving fruit. (3) \[5433\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (4) \[5434\]  
+I am living without constraint. (4) \[5434\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (5) \[5435\]  
+\[I have\] done what the Buddha taught! (5) \[5435\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[5436\]  
+\[I have\] done what the Buddha taught! (6) \[5436\]
+
 Thus indeed Venerable Ajelaphaladāyaka[^8] Thera spoke these verses.  
 The legend of Ajelaphaladāyaka[^9] Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

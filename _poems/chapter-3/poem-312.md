@@ -2,27 +2,33 @@
 Of good birth like a *sal* tree’s[^2] bough,  
 rising up like a drumstick tree,[^3]  
 \[streaking\] the sky like Indra’s bolt,[^4]  
-the Victor was always shining. (1) \[2771\]  
+the Victor was always shining. (1) \[2771\]
+
 With a mind that was very clear,  
 I donated edibles to  
 him, the God Over Other Gods,  
-Vessabhu \[Buddha\], the Great Sage. (2) \[2772\]  
+Vessabhu \[Buddha\], the Great Sage. (2) \[2772\]
+
 The Self-Become, Unconquered One,  
 the Buddha, gave me thanks[^5] for that:  
 “let it be born as fruit for you,  
-as \[you’re\] reborn in existence.”[^6] (3) \[2773\]  
+as \[you’re\] reborn in existence.”[^6] (3) \[2773\]
+
 In the thirty-one aeons since  
 I gave that gift \[to him\] back then,  
 I’ve come to know no bad rebirth:  
-that is the fruit of \[giving\] food. (4) \[2774\]  
+that is the fruit of \[giving\] food. (4) \[2774\]
+
 In the twenty-five aeon hence  
 there was one man, Amittabhā,[^7]  
 a wheel-turning king with great strength,  
-possessor of the seven gems. (5) \[2775\]  
+possessor of the seven gems. (5) \[2775\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[2776\]  
+\[I have\] done what the Buddha taught! (6) \[2776\]
+
 Thus indeed Venerable Bhojanadāyaka Thera spoke these verses.  
 The legend of Bhojanadāyaka Thera is finished.  
 [^1]: “Food Donor”  

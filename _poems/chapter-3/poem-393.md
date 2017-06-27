@@ -3,118 +3,146 @@ I saw the Leader of the World, (3d) \[3679\][^3]
 shining like a dinner-plate tree,[^4]  
 blazing forth like a tree of lamps,  
 radiant like the morning star,[^5]  
-like lightening in a mass of clouds, (1) \[3677\]  
+like lightening in a mass of clouds, (1) \[3677\]
+
 not frightened, never terrified,  
 like a lion, king of the beasts,  
 illuming the knowledge-light,[^6]  
-crushing the groups of heretics,[^7] (2) \[3678\]  
+crushing the groups of heretics,[^7] (2) \[3678\]
+
 elevating this \[entire\] world,  
 eliminating every doubt,[^8]  
 roaring[^9] like the king of the beasts. (3a-c) \[3679a-c\][^10]  
 With matted hair, wearing a hide,  
 lofty, strong, and powerful, I  
 took[^11] \[my\] robe made out of bark \[and\]  
-spread it[^12] at the soles of \[his\][^13] feet. (4) \[3680\]  
+spread it[^12] at the soles of \[his\][^13] feet. (4) \[3680\]
+
 Taking a \[fragrant\] black creeper,[^14]  
 I anointed[^15] the Thus-Gone-One.  
 After anointing the Buddha,[^16]  
-I praised[^17] the Leader of the World: (5) \[3681\]  
+I praised[^17] the Leader of the World: (5) \[3681\]
+
 “O Great Sage, Crosser of the Flood,[^18]  
 you are lifting up the \[whole\] world.  
 You are shining with knowledge-light,  
-\[your\] supreme lightening\[-like\] knowledge. (6) \[3682\]  
+\[your\] supreme lightening\[-like\] knowledge. (6) \[3682\]
+
 You turn the wheel of the Teaching,  
 you crush the rival heretics,[^19]  
 the Bull, the Winner at Meetings,[^20]  
-you are shaking the \[entire\] world. (7) \[3683\]  
+you are shaking the \[entire\] world. (7) \[3683\]
+
 Like the waves of the great ocean,  
 breaking on the edge of the shore,  
 every misguided view breaks up  
-\[when it crashes\][^21] on your knowledge. (8) \[3684\]  
+\[when it crashes\][^21] on your knowledge. (8) \[3684\]
+
 When a net[^22] which has very fine  
 mesh has been stretched out[^23] in a lake,  
 creatures[^24] entangled in the net[^25]  
-instantly \[find themselves\] oppressed. (9) \[3685\]  
+instantly \[find themselves\] oppressed. (9) \[3685\]
+
 So the heretics in the world,  
 attached to the various sects,[^26]  
 do thrash about, O Happy One,[^27]  
-\[entangled\] in your great knowledge.[^28] (10) \[3686\]  
+\[entangled\] in your great knowledge.[^28] (10) \[3686\]
+
 Support[^29] for those caught in the flood,  
 you’re the Lord[^30] for those lacking kin,  
 Refuge[^31] for those distressed by fear,  
-Relief[^32] for those seeking freedom, (11) \[3687\]  
+Relief[^32] for those seeking freedom, (11) \[3687\]
+
 the One Hero,[^33] the Unmatched One,[^34]  
 the Heap of Compassion and Love,[^35]  
 Moral One,[^36] Unequaled,[^37] Peaceful,[^38]  
-Master,[^39] Neutral,[^40] the Winning Road,[^41] (12) \[3688\]  
+Master,[^39] Neutral,[^40] the Winning Road,[^41] (12) \[3688\]
+
 Wise One,[^42] Whose Delusion’s Destroyed,[^43]  
 Lust-less One,[^44] Who Speaks the Unsaid,[^45]  
 Accomplished One,[^46] you’ve Thrown Off Hate,[^47]  
-Stainless One,[^48] Restrained,[^49] Pure One,[^50] (13) \[3689\]  
+Stainless One,[^48] Restrained,[^49] Pure One,[^50] (13) \[3689\]
+
 Attachment-Free,[^51] Conceit Slain,[^52]  
 Arahant,[^53] Three-Worlds-Surpasser,[^54]  
 Limit-Free,[^55] Teaching-Respecter,[^56]  
-Goal-Reacher,[^57] Whose Rule is Friendship,[^58] (14) \[3690\]  
+Goal-Reacher,[^57] Whose Rule is Friendship,[^58] (14) \[3690\]
+
 you Ferry Across[^59] like a ship,  
 Bring Relief[^60] []{#BookmarkCopy1 .anchor}like buried treasure,[^61]  
 are Without Fear[^62] as is a lion,  
-Haughty[^63] like an elephant-king.” (15) \[3691\]  
+Haughty[^63] like an elephant-king.” (15) \[3691\]
+
 Having praised with \[those\] ten verses  
 Padumuttara of Great Fame,  
 having worshipped the Teacher’s feet,  
-I thereafter stood silently. (16) \[3692\]  
+I thereafter stood silently. (16) \[3692\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 the Teacher, standing in the monks’  
-Assembly, spoke these verses \[then\]: (17) \[3693\]  
+Assembly, spoke these verses \[then\]: (17) \[3693\]
+
 “He who praised my morality,  
 \[my\] knowledge, also \[my\] Teaching,  
 I shall relate details of him;  
-\[all of\] you listen to my words: (18) \[3694\]  
+\[all of\] you listen to my words: (18) \[3694\]
+
 For sixty thousand aeons he’ll  
 delight in the world of the gods.  
 Overcoming the other gods,  
-he will exercise rulership. (19) \[3695\]  
+he will exercise rulership. (19) \[3695\]
+
 He thereafter having gone forth,  
 incited by \[his\] wholesome roots,  
 will go forth in the Blessed One  
-Gotama’s dispensation. (20) \[3696\]  
+Gotama’s dispensation. (20) \[3696\]
+
 Going forth, having avoided  
 bad actions[^64] \[done\] with his body,  
 destroying all \[his\] defilements,  
-he’ll reach nirvana,[^65] undefiled.” (21) \[3697\]  
+he’ll reach nirvana,[^65] undefiled.” (21) \[3697\]
+
 “Just like a cloud, which thundering,  
 satiates this world \[wanting rain\],  
 so indeed did you, Great Hero,  
-satiate me \[with\] your thunder.” (22) \[3698\]  
+satiate me \[with\] your thunder.” (22) \[3698\]
+
 Praising morality, wisdom,  
 the Teaching and the World’s Leader,  
 I attained the ultimate peace,  
-nirvana, the unshaking state. (23) \[3699\]  
+nirvana, the unshaking state. (23) \[3699\]
+
 So now indeed the Blessed One,  
 the Eyeful One, should long remain;  
 \[people\][^66] should learn what \[now\] is known,[^67]  
-and \[they\] should reach the deathless state.[^68] (24) \[3700\]  
+and \[they\] should reach the deathless state.[^68] (24) \[3700\]
+
 This is my last going around;  
 all \[new\] existence is destroyed.  
 Knowing well all the defilements,  
-I \[now\] am living, undefiled.[]{#BookmarkCopy12 .anchor} (25) \[3701\]  
+I \[now\] am living, undefiled.[]{#BookmarkCopy12 .anchor} (25) \[3701\]
+
 In the hundred thousand aeons  
 since I praised the Buddha \[back then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of praising \[Buddhas\]. (26) \[3702\]  
+that’s the fruit of praising \[Buddhas\]. (26) \[3702\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 All defilements are exhausted;  
-now there will be no more rebirth. (27) \[3703\]  
+now there will be no more rebirth. (27) \[3703\]
+
 My being in Buddha’s presence[^69]  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (28) \[3704\]  
+\[I have\] done what the Buddha taught! (28) \[3704\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (29) \[3705\]  
+\[I have\] done what the Buddha taught! (29) \[3705\]
+
 Thus indeed Venerable Sabbakittika Thera spoke these verses.  
 The legend of Sabbakittika Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

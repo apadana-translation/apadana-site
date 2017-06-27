@@ -10,11 +10,13 @@ I offered[^3] \[it\] to Vipassi. (1-2) \[3199-3200\]
 In the ninety-one aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[3201\]  
+that’s the fruit of Buddha-*pūjā.* (3) \[3201\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[3202\]  
+\[I have\] done what the Buddha taught! (4) \[3202\]
+
 Thus indeed Venerable Kadambapupphiya Thera spoke these verses.  
 The legend of Kadambapupphiya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

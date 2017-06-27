@@ -2,19 +2,23 @@
 The Sambuddha named Upasanta[^3]  
 was living on a mountainside.  
 Carrying one *campaka* \[bloom\]  
-I approached the Ultimate Man. (1) \[3206\]  
+I approached the Ultimate Man. (1) \[3206\]
+
 Happy, with pleasure in \[my\] heart,  
 taking \[it\] with both of \[my\] hands,  
 I worshipped[^4] the Unconquered One,  
-the Unexcelled *Pacceka-*Sage. (2) \[3207\]  
+the Unexcelled *Pacceka-*Sage. (2) \[3207\]
+
 In the thirty-one aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[3208\]  
+that’s the fruit of Buddha-*pūjā.* (3) \[3208\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[3209\]  
+\[I have\] done what the Buddha taught! (4) \[3209\]
+
 Thus indeed Venerable Ekacampakapupphiya Thera spoke these verses.  
 The legend of Ekacampakapupphiya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

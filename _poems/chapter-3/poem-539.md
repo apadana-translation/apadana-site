@@ -6,35 +6,43 @@ a hundred thousand aeons hence. (1) \[5956\][^3]
 The Admonisher,[^4] Instructor,[^5]  
 Crosser-Over[^6] of all that breathe,  
 Skilled at Preaching,[^7] \[he\], the Buddha,  
-caused many folks to cross \[the flood\]. (2) \[5957\]  
+caused many folks to cross \[the flood\]. (2) \[5957\]
+
 Merciful,[^8] Compassionate One,[^9]  
 Well-Wisher[^10] of all that breathe, he  
 established in the five precepts  
-all the rivals who had arrived. (3) \[5958\]  
+all the rivals who had arrived. (3) \[5958\]
+
 In this way he was Unconfused[^11]  
 and Very Well-Known[^12] by rivals,  
 Ornamented[^13] by arahants  
-who were masters \[and\] neutral ones. (4) \[5959\]  
+who were masters \[and\] neutral ones. (4) \[5959\]
+
 The \[body of the\] Sage So Great  
 rose up fifty-eight cubits[^14] \[tall\];  
 he was Valuable Like Gold,[^15]  
-Bearing the Thirty-Two Great Marks. (5) \[5960\]  
+Bearing the Thirty-Two Great Marks. (5) \[5960\]
+
 \[People’s\] lifespan at that time was  
 \[fully\] one hundred thousand years.  
 Remaining \[in the world\] so long,  
-he ferried many folks across. (6) \[5961\]  
+he ferried many folks across. (6) \[5961\]
+
 I then \[lived\] in Haṃsavatī,  
 brahmin master of the mantras.  
 Approaching the Excellent Man,[^16]  
-I heard the preaching of *Dhamma,* (7) \[5962\]  
+I heard the preaching of *Dhamma,* (7) \[5962\]
+
 the Great Hero, the \[World-\]Leader,  
 Confident among Multitudes,[^17]  
 appointing[^18] a monk with quick wit,[^19]  
-in that \[quality’s\] foremost place. (8) \[5963\]  
+in that \[quality’s\] foremost place. (8) \[5963\]
+
 After doing deeds at that time  
 for the Leader and Assembly,  
 having bowed \[my\] head at \[his\] feet,  
-I aspired \[to attain\] that place. (9) \[5964\]  
+I aspired \[to attain\] that place. (9) \[5964\]
+
 With his lovely voice[^20] conveying  
 away \[all\] defilements \[and\] stains,  
 he as Shiny as Gold Ingots,[^21]  
@@ -46,83 +54,103 @@ Hugely[^22] \[fruitful\] for you \[will be\]
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (12) \[5967\]  
+will be the Teacher in the world. (12) \[5967\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 the one given the name Rādha  
-will be the Teacher’s follower.” (13) \[5968\]  
+will be the Teacher’s follower.” (13) \[5968\]
+
 Glad by reason of your virtue,[^24]  
 the Śākyas’ Son, the Bull of Men,  
 the Leader’s going to appoint \[you\]  
-foremost of those who have quick wit.” (14) \[5969\]  
+foremost of those who have quick wit.” (14) \[5969\]
+
 After hearing that I was thrilled,  
 \[and\] then for as long as \[I\] lived,  
 mindful, loving-hearted \[and\] wise,  
-I waited on[^25] \[him\], the Victor. (15) \[5970\]  
+I waited on[^25] \[him\], the Victor. (15) \[5970\]
+
 Due to that karma done very well,  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body,  
-I went to Tāvatiṃsa \[then\]. (16) \[5971\]  
+I went to Tāvatiṃsa \[then\]. (16) \[5971\]
+
 Three hundred times \[the lord of gods,\]  
 I exercised divine rule \[there\],  
 and \[then\] five hundred times I was  
-a king who turns the wheel \[of law\]. (17) \[5972\]  
+a king who turns the wheel \[of law\]. (17) \[5972\]
+
 \[There was also\] much local rule,  
 innumerable by counting.  
 Through the power of that karma,  
-I was happy in every place. (18) \[5973\]  
+I was happy in every place. (18) \[5973\]
+
 When \[my\] last rebirth was attained,  
 I was born in a brahmin clan,  
 poor,[^26] \[and\] wanting for clothes and food,  
-in Rajgir, ultimate city.[^27] (19) \[5974\]  
+in Rajgir, ultimate city.[^27] (19) \[5974\]
+
 I gave a ladle’s worth of food  
 to Sāriputta, neutral one,  
 when \[I\] was old and decrepit,  
-and I came to \[his\] hermitage. (20) \[5975\]  
+and I came to \[his\] hermitage. (20) \[5975\]
+
 Nobody was ordaining[^28] me,  
 being old \[and\] of failing strength;[^29]  
 due to that, old and discolored,  
-I was sorrow\[ful\] at that time. (21) \[5976\]  
+I was sorrow\[ful\] at that time. (21) \[5976\]
+
 Having seen me, Great Compassion,[^30]  
 the Sage So Great said \[this\] to me:  
 “What meaning has this sorrow, son?  
-Tell me of your mental anguish.” (22) \[5977\]  
+Tell me of your mental anguish.” (22) \[5977\]
+
 “I’m not getting ordained, Hero,  
 in your well-preached dispensation;  
 thus I’m miserable with grief;  
-be \[my\] refuge, O Leader.” (23) \[5978\]  
+be \[my\] refuge, O Leader.” (23) \[5978\]
+
 Then calling the monks together,  
 the Seventh Sage questioned \[them thus\]:  
 “Let them speak, those who remember  
-the service of this one \[for us\].” (24) \[5979\]  
+the service of this one \[for us\].” (24) \[5979\]
+
 Sāriputta spoke at that time:  
 “I remember his deed \[for us\].  
 He gave a ladleful of food  
-to me \[then\] wandering for alms.” (25) \[5980\]  
+to me \[then\] wandering for alms.” (25) \[5980\]
+
 Excellent, Excellent, grateful  
 Sāriputta! \[Now\] you ordain  
 this \[man, an\] elderly brahmin;  
-he’s going to be a thoroughbred.[^31](26) \[5981\]  
+he’s going to be a thoroughbred.[^31](26) \[5981\]
+
 Then \[I\] got to go forth \[and got\]  
 ordained with proper ritual.[^32]  
 In a short time \[I then\] attained  
-destruction of the defilements.[^33] (27) \[5982\]  
+destruction of the defilements.[^33] (27) \[5982\]
+
 Thrilled \[and\] mindful, I’m listening  
 carefully to the Sage’s words.  
 Then the Victor placed me in the  
-foremost place of those with quick wit. (28) \[5983\]  
+foremost place of those with quick wit. (28) \[5983\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (29) \[5984\]  
+I am living without constraint. (29) \[5984\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (30) \[5985\]  
+\[I have\] done what the Buddha taught! (30) \[5985\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (31) \[5986\]  
+\[I have\] done what the Buddha taught! (31) \[5986\]
+
 Thus indeed Venerable Rādha Thera spoke these verses.  
 The legend of Rādha Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

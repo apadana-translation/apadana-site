@@ -2,191 +2,238 @@
 On Candabhāgā River’s bank,  
 I had a well-made hermitage.  
 It was strewn with very white sand,  
-\[and\] furnished with halls made of leaves. (1) \[4299\]  
+\[and\] furnished with halls made of leaves. (1) \[4299\]
+
 The river \[there\] was beautiful,  
 with flat banks \[and\] good bathing-fords.  
 It was full of fish and turtles;  
-crocodiles resorted \[to it\]. (2) \[4300\]  
+crocodiles resorted \[to it\]. (2) \[4300\]
+
 \[There were\] bears, peacocks and leopards,  
 Indian[^3] cuckoos and mynah birds;  
 always chirping and growling,[^4] they’re  
-beautifying my hermitage. (3) \[4301\]  
+beautifying my hermitage. (3) \[4301\]
+
 Cuckoos[^5] with their lovely voices  
 and swans[^6] with their honey-sweet tones  
 are \[always\] singing their songs[^7] there,  
-beautifying my hermitage. (4) \[4302\]  
+beautifying my hermitage. (4) \[4302\]
+
 Lions, tigers and wild boars \[too\],  
 wolves,[^8] \[more\] wolves,[^9] *kara bānā* bears,[^10]  
 roar[^11] even on bad mountain roads,[^12]  
-beautifying my hermitage. (5) \[4303\]  
+beautifying my hermitage. (5) \[4303\]
+
 *Eṇi-*deer[^13] and *sarabha-*deer,[^14]  
 jackals[^15] and many hogs[^16] \[as well\],  
 cry[^17] even on bad mountain roads,[^18]  
-beautifying my hermitage. (6) \[4304\]  
+beautifying my hermitage. (6) \[4304\]
+
 Golden shower[^19] and champak \[trees\],[^20]  
 trumpet-flower*,*[^21] Chinese chaste trees,[^22]  
 hiptage[^23] vines and ashoka trees[^24]  
-are blooming in my hermitage. (7) \[4305\]  
+are blooming in my hermitage. (7) \[4305\]
+
 Sage-leaf alangium,[^25] jasmine,[^26]  
 *sattali,*[^27] *bimbijālika,*[^28]  
 *kaṇṇikā* and dinner-plate trees[^29]  
-are blooming in my hermitage. (8) \[4306\]  
+are blooming in my hermitage. (8) \[4306\]
+
 Ironwood,[^30] *sal*[^31] and *salalā,*[^32]  
 white lotuses in bloom are here;  
 wafting divine fragrances, they’re  
-beautifying my hermitage. (9) \[4307\]  
+beautifying my hermitage. (9) \[4307\]
+
 Arjuna[^33] and silver greywood,[^34]  
 flowering sugarcane[^35] is here,  
 *sal*[^36] and *kaṅgu*[^37]-flowers \[too, are\]  
-beautifying my hermitage. (10) \[4308\]  
+beautifying my hermitage. (10) \[4308\]
+
 Mango,[^38] rose-apple,[^39] coral-bean  
 tree*,*[^40] neem,[^41] and *sāla-kalyāṇi,*[^42]  
 wafting divine fragrances are  
-beautifying my hermitage. (11) \[4309\]  
+beautifying my hermitage. (11) \[4309\]
+
 Ashoka[^43] and wood-apple[^44] \[trees\],  
 blooming *bhaginimāla* here,  
 wafting divine fragrances are  
-beautifying my hermitage. (12) \[4310\]  
+beautifying my hermitage. (12) \[4310\]
+
 Kadam[^45] and banana[^46] \[trees\] and  
 *isimugga*[^47] are planted \[there\].  
 They bear fruit continuously,  
-beautifying my hermitage. (13) \[4311\]  
+beautifying my hermitage. (13) \[4311\]
+
 Myrobalan[^48] \[and\] gooseberry,[^49]  
 mango,[^50] rose-apple,[^51] bahera,[^52]  
 jujube,[^53] markingnut,[^54] bel[^55]  
-are fruiting in my hermitage. (14) \[4312\]  
+are fruiting in my hermitage. (14) \[4312\]
+
 Near \[the hermitage\] there’s a pond,  
 with good bathing-fords, beautiful,  
 covered with *mandālaka* blooms[^56]  
-and with pink and blue lotuses.[^57] (15) \[4313\]  
+and with pink and blue lotuses.[^57] (15) \[4313\]
+
 Pink lotuses germinate there;  
 others, flowering, make pollen.  
 *Kaṇṇika* trees with fallen leaves[^58]  
-are blooming in my hermitage. (16) \[4314\]  
+are blooming in my hermitage. (16) \[4314\]
+
 Sheatfish,[^59] \[also\] *pāvusa*[^60] fish*,*  
 *valaja,*[^61] reed-fish[^62] \[and\] red-fish[^63]  
 are swimming[^64] in the clear water,  
-beautifying my hermitage. (17) \[4315\]  
+beautifying my hermitage. (17) \[4315\]
+
 Shrubs like *nayita, ambagandhi,*  
 and screw-pine,[^65] suited \[to water\],  
 wafting divine fragrances are  
-beautifying my hermitage. (18) \[4316\]  
+beautifying my hermitage. (18) \[4316\]
+
 Honey is flowing from the roots  
 \[and\] milk \[and\] oil[^66] \[flow\] from the stems;  
 wafting divine fragrances, they’re  
-beautifying my hermitage. (19) \[4317\]  
+beautifying my hermitage. (19) \[4317\]
+
 The sand that’s there is beautiful,  
 strewn about beside the water.[^67]  
 Young buds[^68] are[^69] \[always\] blossoming,  
-beautifying my hermitage. (20) \[4318\]  
+beautifying my hermitage. (20) \[4318\]
+
 Those bearing weights of matted hair,[^70]  
 who wear deer-leather outer robes,  
 dressed in garments made of bark, are  
-beautifying my hermitage. (21) \[4319\]  
+beautifying my hermitage. (21) \[4319\]
+
 Looking but a plough’s length ahead,[^71]  
 clever \[and\] living peacefully,  
 not looking to indulge[^72] in lust,  
-they’re living in my hermitage. (22) \[4320\]  
+they’re living in my hermitage. (22) \[4320\]
+
 With nails and armpit hair grown long,  
 muck in \[their\] teeth, heads \[soiled\] with dirt,  
 all dressed in muddy dirt-smeared robes,[^73]  
-they’re living in my hermitage. (23) \[4321\]  
+they’re living in my hermitage. (23) \[4321\]
+
 \[Six\] special knowledge-perfecters,[^74]  
 they \[all\] can travel in the air.  
 They’re rising up into the sky,  
-beautifying my hermitage. (24) \[4322\]  
+beautifying my hermitage. (24) \[4322\]
+
 Surrounded by those students, I  
 am living in the forest then.  
 I do not know the day from night,  
-always doing meditation.[^75] (25) \[4323\]  
+always doing meditation.[^75] (25) \[4323\]
+
 The Buddha[^76] in that period  
 was Atthadassi, the Great Sage.  
 Doing away with the darkness,  
-the Leader of the World arose. (26) \[4324\]  
+the Leader of the World arose. (26) \[4324\]
+
 At that time a certain student  
 arrived \[there\] at my hermitage,[^77]  
 wanting to ask for secret spells,[^78]  
-the six branches, \[reading of\] marks. (27) \[4325\]  
+the six branches, \[reading of\] marks. (27) \[4325\]
+
 “A Buddha’s[^79] risen in the world,  
 the Great Sage \[named\] Atthadassi;  
 explaining the Four Noble Truths,  
-he’s declaring the deathless path.” (28) \[4326\]  
+he’s declaring the deathless path.” (28) \[4326\]
+
 Thrilled, \[my\] hair on end in delight,[^80]  
 hoping to enter[^81] the Teaching,  
 going out from the hermitage,  
-I spoke these words \[to my students\]: (29) \[4327\]  
+I spoke these words \[to my students\]: (29) \[4327\]
+
 “A Buddha’s risen in the world,  
 Bearing the Thirty-two Great Marks.  
 Come, all of you, let us \[now\] go  
-into the Great Sambuddha’s midst.” (30) \[4328\]  
+into the Great Sambuddha’s midst.” (30) \[4328\]
+
 They \[all then\] followed \[my\] advice,  
 perfected in the great Teaching.  
 Seekers of ultimate meaning,  
-they agreed, saying, “Excellent!” (31) \[4329\]  
+they agreed, saying, “Excellent!” (31) \[4329\]
+
 Those bearing weights of matted hair,[^82]  
 wearing deer-leather outer robes,  
 searching for ultimate meaning,  
-then departed from the forest. (32) \[4330\]  
+then departed from the forest. (32) \[4330\]
+
 The Buddha[^83] in that period  
 was Atthadassi, of Great Fame.  
 Explaining the Four Noble Truths,  
-he’s declaring the deathless path. (33) \[4331\]  
+he’s declaring the deathless path. (33) \[4331\]
+
 Taking a white umbrella, I  
 carried it for the Best Buddha.  
 Carrying it for one \[whole\] day,  
-I \[then\] worshipped the Best Buddha. (34) \[4332\]  
+I \[then\] worshipped the Best Buddha. (34) \[4332\]
+
 Atthadassi, the Blessed One,  
 the World’s Best One, the Bull of Men,  
 seated in the monks’ Assembly,  
-spoke these verses \[about me then\]: (35) \[4333\]  
+spoke these verses \[about me then\]: (35) \[4333\]
+
 “Who bore this umbrella for me,  
 \[feeling well-\]pleased by his own hands,  
 I shall relate details of him:  
-\[all of\] you listen to my words: (36) \[4334\]  
+\[all of\] you listen to my words: (36) \[4334\]
+
 When\[ever\] this one is reborn,  
 \[whether\] as a god or human,  
 umbrellas[^84] will be borne for him:  
-the fruit of giving umbrellas. (37) \[4335\]  
+the fruit of giving umbrellas. (37) \[4335\]
+
 For seventy-seven aeons  
 he’ll delight in the world of gods.  
 A thousand times he’ll be a king,  
-a king who turns the wheel \[of law\]. (38) \[4336\]  
+a king who turns the wheel \[of law\]. (38) \[4336\]
+
 Seventy-seven times as well,  
 he will exercise divine rule,  
 \[and there will be\] much local rule,  
-innumerable by counting. (39) \[4337\]  
+innumerable by counting. (39) \[4337\]
+
 Eighteen hundred aeons \[from now,\]  
 Gotama, Bull of the Śākyas,  
 doing away with the darkness,  
-will arise, the One with \[Five\] Eyes. (40) \[4338\]  
+will arise, the One with \[Five\] Eyes. (40) \[4338\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 knowing well all the defilements,  
-he’ll reach nirvana, undefiled.” (41) \[4339\]  
+he’ll reach nirvana, undefiled.” (41) \[4339\]
+
 Since I was that karma-doer,  
 bearing the Buddha’s umbrella,  
 \[right\] up to now I do not know  
-a white umbrella not carried. (42) \[4340\]  
+a white umbrella not carried. (42) \[4340\]
+
 This is the final time for me;  
 \[my\] last rebirth is proceeding;[^85]  
 today umbrella-carrying  
-is happening all of the time. (43) \[4341\]  
+is happening all of the time. (43) \[4341\]
+
 O! My karma was well-done for  
 Atthadassi, the Neutral One.  
 All defilements are exhausted;  
-now there will be no more rebirth. (44) \[4342\]  
+now there will be no more rebirth. (44) \[4342\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (45) \[4343\]  
+I am living without constraint. (45) \[4343\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (46) \[4344\]  
+\[I have\] done what the Buddha taught! (46) \[4344\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (47) \[4345\]  
+\[I have\] done what the Buddha taught! (47) \[4345\]
+
 Thus indeed Venerable Ekachattiya Thera spoke these verses.  
 The legend of Ekachattiya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

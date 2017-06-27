@@ -10,11 +10,13 @@ I pressed my hands together once. (1-2) \[994-995\]
 In the ninety-one aeons since  
 I pressed my hands together \[once,\]  
 I’ve come to know no bad rebirth;  
-that is the fruit of saluting. (3) \[996\]  
+that is the fruit of saluting. (3) \[996\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[997\]  
+\[I have\] done what the Buddha taught! (4) \[997\]
+
 Thus indeed Venerable Ekañjalika Thera spoke these verses.  
 The legend of Ekañjalika Thera is finished.  
 [^1]: “One-Salute”  

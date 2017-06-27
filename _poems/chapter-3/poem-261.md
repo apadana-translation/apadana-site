@@ -3,23 +3,28 @@
 Taking two water-born flowers,[^2]  
 I approached the Bull Among Men,  
 Siddhattha, gold-colored \[Buddha\],  
-traveling around the bazaar. (1) \[2540\]  
+traveling around the bazaar. (1) \[2540\]
+
 I placed one flower down at the  
 two feet of the Best of Buddhas.  
 And taking the other[^3] flower  
-I threw \[it\] up into the sky. (2) \[2541\]  
+I threw \[it\] up into the sky. (2) \[2541\]
+
 In the ninety-four aeons since  
 I offered that flower \[to him\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of giving flowers. (3) \[2542\]  
+that’s the fruit of giving flowers. (3) \[2542\]
+
 In the thirty-second aeon  
 ago lived one lord of the earth  
 known as Antalikkhacara,[^4]  
-a wheel-turning king with great strength. (4) \[2543\]  
+a wheel-turning king with great strength. (4) \[2543\]
+
 The four analytical modes,  
 and these eight deliverances;  
 six special knowledges mastered:  
-\[I have\] done what the Buddha taught! (5) \[2544\]  
+\[I have\] done what the Buddha taught! (5) \[2544\]
+
 Thus indeed Venerable Ākāsukkhipiya Thera spoke these verses.  
 The legend of Ākāsukkhipiya Thera is finished.  
 [^1]: “Sky-Scatterer” or “Thrown Up Into the Sky”. The name of each

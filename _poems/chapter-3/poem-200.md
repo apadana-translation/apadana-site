@@ -2,23 +2,28 @@
 The Victor Padumuttara[^2]  
 Sacrificial Recipient,  
 leaving the forest goes to the  
-monastery, the One with Eyes. (1) \[2266\]  
+monastery, the One with Eyes. (1) \[2266\]
+
 With both my hands \[I\] gathered up  
 an unsurpassed jasmine[^3] flower.  
 I offered \[it\] to the Buddha,  
-Loving-Hearted, the Neutral One. (2) \[2267\]  
+Loving-Hearted, the Neutral One. (2) \[2267\]
+
 Because of that mental pleasure,  
 having experienced success,  
 for one hundred thousand aeons  
-I’ve come to know no bad rebirth. (3) \[2268\]  
+I’ve come to know no bad rebirth. (3) \[2268\]
+
 In the fiftieth aeon hence  
 there was one lord of the people  
 known as Samittanandana,[^4]  
-a wheel-turning king with great strength. (4) \[2269\]  
+a wheel-turning king with great strength. (4) \[2269\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[2270\]  
+\[I have\] done what the Buddha taught! (5) \[2270\]
+
 Thus indeed Venerable Yūthikāpupphiya Thera spoke these verses.  
 The legend of Yūthikāpupphiya Thera is finished.  
 The Summary:  

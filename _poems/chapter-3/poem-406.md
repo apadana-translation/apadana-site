@@ -2,91 +2,113 @@
 I was a deer-hunter back then,  
 within a grove in the forest.  
 \[While\] searching after[^3] spotted deer,  
-I saw the Self-Become One \[there\]. (1) \[4050\]  
+I saw the Self-Become One \[there\]. (1) \[4050\]
+
 The Sambuddha named Anuraddha,[^4]  
 the Self-Become, Unconquered One,  
 Seclusion-Lover, the Wise One,[^5]  
-plunged into the forest[^6] back then. (2) \[4051\]  
+plunged into the forest[^6] back then. (2) \[4051\]
+
 Having gathered four sticks of wood,  
 I placed them in four \[corner-\]spots.  
 Building a well-built pavilion,  
-I covered \[it\] with lotus blooms.[^7] (3) \[4052\]  
+I covered \[it\] with lotus blooms.[^7] (3) \[4052\]
+
 Having covered the pavilion,  
 I greeted the Self-Become One.  
 Laying aside my bow right there,  
-I went forth into homelessness. (4) \[4053\]  
+I went forth into homelessness. (4) \[4053\]
+
 A short time after going forth,  
 I was afflicted with illness.[^8]  
 Transmigrating through past karma,  
-I passed away \[right then and\] there. (5) \[4054\]  
+I passed away \[right then and\] there. (5) \[4054\]
+
 Bound up with \[my\] former karma,  
 I went to Tusitā heaven.  
 There a mansion made out of gold[^9]  
-is produced according to wish. (6) \[4055\]  
+is produced according to wish. (6) \[4055\]
+
 \[My\] divine carriage stands in wait,  
 a thousand-horse-yoked vehicle.  
 Ascending into that carriage,  
-I travel according to wish. (7) \[4056\]  
+I travel according to wish. (7) \[4056\]
+
 When I am going out[^10] from there,  
 having been reborn as a god,[^11]  
 a pavilion’s held up for me  
-a hundred leagues on every side. (8) \[4057\]  
+a hundred leagues on every side. (8) \[4057\]
+
 I \[always\] nestle[^12] on a bed  
 that’s constantly strewn with flowers.  
 And from the sky, pink lotuses  
-are raining \[on me\] all the time. (9) \[4058\]  
+are raining \[on me\] all the time. (9) \[4058\]
+
 When the rays of light are throbbing,  
 and the sun’s heat scorches \[the world\],  
 the heat is not oppressing me:  
-that’s the fruit of a pavilion. (10) \[4059\]  
+that’s the fruit of a pavilion. (10) \[4059\]
+
 I pass beyond \[all\] bad rebirth;  
 the states of woe[^13] are closed to me.  
 In a pavilion or tree-root,  
-burning heat is not known by me. (11) \[4060\]  
+burning heat is not known by me. (11) \[4060\]
+
 Fixing perception on the earth,[^14]  
 I cross over the \[great\] ocean.[^15]  
 That’s my well-done karma, the fruit  
-of \[doing\] that Buddha-*pūjā.* (12) \[4061\]  
+of \[doing\] that Buddha-*pūjā.* (12) \[4061\]
+
 Making roads, even with no road,  
 I am traveling[^16] in the sky.  
 O! that karma well-done by me:  
-that’s the fruit of Buddha-*pūjā.* (13) \[4062\]  
+that’s the fruit of Buddha-*pūjā.* (13) \[4062\]
+
 I know former existences,  
 the “divine eye” is purified,  
 my defilements are \[all\] destroyed:  
-that’s the fruit of Buddha-*pūjā.* (14) \[4063\]  
+that’s the fruit of Buddha-*pūjā.* (14) \[4063\]
+
 Buddha’s legitimate offspring,  
 worthy heir to the Great Teaching,  
 I’ve renounced my earlier birth:  
-that’s the fruit of Buddha-*pūjā.* (15) \[4064\]  
+that’s the fruit of Buddha-*pūjā.* (15) \[4064\]
+
 I’m one who pleased the Well-Gone-One,  
 Gotama, Bull of the Śākyas,  
 the *Dhamma’*s heir, I bear its flag:[^17]  
-that’s the fruit of Buddha-*pūjā.* (16) \[4065\]  
+that’s the fruit of Buddha-*pūjā.* (16) \[4065\]
+
 After serving the Sambuddha,  
 Gotama, Bull of the Śākyas,  
 I asked the Leader of the World  
-\[about\] the path that goes beyond.[^18] (17) \[4066\]  
+\[about\] the path that goes beyond.[^18] (17) \[4066\]
+
 Being asked, the Buddha \[then\] told  
 the deep and subtle state \[beyond\].  
 Having heard that Teaching of his,  
-I attained \[my\] arahantship.[^19] (18) \[4067\]  
+I attained \[my\] arahantship.[^19] (18) \[4067\]
+
 O! that karma well-done by me!  
 I’m fully freed from being born;  
 I have destroyed all defilements;  
-now there will be no more rebirth. (19) \[4068\]  
+now there will be no more rebirth. (19) \[4068\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (20) \[4069\]  
+I am living without constraint. (20) \[4069\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (21) \[4070\]  
+\[I have\] done what the Buddha taught! (21) \[4070\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (22) \[4071\]  
+\[I have\] done what the Buddha taught! (22) \[4071\]
+
 Thus indeed Venerable Nanda Thera spoke these verses.  
 The legend of Nanda Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

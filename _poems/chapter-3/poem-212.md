@@ -2,23 +2,28 @@
 \[One time\] I gave a \[pair of\] shoe\[s\]  
 to a forest-dwelling rishi  
 \[who’d\] long practiced austerities,  
-grown old, with cultivated thought. (1) \[2324\]  
+grown old, with cultivated thought. (1) \[2324\]
+
 Because of that deed, Biped Lord,[^2]  
 Best in the World, O Bull of Men,  
 I enjoy every vehicle:  
-that is the fruit of past karma. (2) \[2325\]  
+that is the fruit of past karma. (2) \[2325\]
+
 In the ninety-one aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of a \[pair of\] shoes. (3) \[2326\]  
+that’s the fruit of a \[pair of\] shoes. (3) \[2326\]
+
 Seventy-seven aeons hence[^3]  
 there were eight of the royal caste[^4]  
 known by the name of Suyāna,[^5]  
-wheel-turning monarchs with great strength. (4) \[2327\]  
+wheel-turning monarchs with great strength. (4) \[2327\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[2328\]  
+\[I have\] done what the Buddha taught! (5) \[2328\]
+
 Thus indeed Venerable Pānadhidāyaka Thera spoke these verses.  
 The legend of Pānadhidāyaka Thera is finished  
 [^1]: “Sandal Donor,” taking *panidha* as *pavahanak* following BJTS

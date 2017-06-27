@@ -2,35 +2,43 @@
 Making a well-made railing for  
 the foot of the superb Bodhi[^3]  
 of Padumuttara Buddha,  
-I brought pleasure to \[my\] own heart. (1) \[4777\]  
+I brought pleasure to \[my\] own heart. (1) \[4777\]
+
 Really excellent[^4] merchandise,[^5]  
 \[things\] man-made and \[things\] not man-made,[^6]  
 are raining \[on me\] from the sky:  
-that is the fruit of a railing. (2) \[4778\]  
+that is the fruit of a railing. (2) \[4778\]
+
 Being jumped on from both \[sides\] when  
 threatening armies are massing,[^7]  
 I am not seeing frights or fears:  
-that is the fruit of a railing. (3) \[4779\]  
+that is the fruit of a railing. (3) \[4779\]
+
 Discerning what I am thinking,  
 a good mansion gets made[^8] \[for me\]  
 \[with\] many very costly beds:  
-that is the fruit of a railing. (4) \[4780\]  
+that is the fruit of a railing. (4) \[4780\]
+
 In the hundred thousand aeons  
 since I had that railing made \[then\],  
 I’ve come to know no bad rebirth:  
-that is the fruit of a railing. (5) \[4781\]  
+that is the fruit of a railing. (5) \[4781\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (6) \[4782\]  
+I am living without constraint. (6) \[4782\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (7) \[4783\]  
+\[I have\] done what the Buddha taught! (7) \[4783\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (8) \[4784\]  
+\[I have\] done what the Buddha taught! (8) \[4784\]
+
 Thus indeed Venerable Vedikāraka Thera spoke these verses.  
 The legend of Vedikāraka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

@@ -10,11 +10,13 @@ sandalwood and also incense.[^4] (1-2) \[2697-2698\]
 In the ninety-one aeons since  
 I performed *pūjā* to those feet,  
 I’ve come to know no bad rebirth:  
-the fruit of doing foot-*pūjā.* (3) \[2699\]  
+the fruit of doing foot-*pūjā.* (3) \[2699\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[2700\]  
+\[I have\] done what the Buddha taught! (4) \[2700\]
+
 Thus indeed Venerable Padapūjaka Thera spoke these verses.  
 The legend of Padapūjaka Thera is finished.  
 [^1]: “Foot-Worshipper”  

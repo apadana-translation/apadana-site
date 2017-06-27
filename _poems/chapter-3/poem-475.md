@@ -2,23 +2,28 @@
 When Vipassi, the Sage So Great,  
 was going about as \[he\] wished,  
 seeing \[that his\] bowl was empty,  
-I filled \[it\] with barley porridge.[^3] (1) \[4986\]  
+I filled \[it\] with barley porridge.[^3] (1) \[4986\]
+
 In the ninety-one aeons since  
 I gave that alms food at that time,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of barley porridge. (2) \[4987\]  
+that’s the fruit of barley porridge. (2) \[4987\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (3) \[4988\]  
+I am living without constraint. (3) \[4988\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (4) \[4989\]  
+\[I have\] done what the Buddha taught! (4) \[4989\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[4990\]  
+\[I have\] done what the Buddha taught! (5) \[4990\]
+
 Thus indeed Venerable Kummāsadāyaka Thera spoke these verses.  
 The legend of Kummāsadāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

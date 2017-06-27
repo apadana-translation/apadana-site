@@ -2,31 +2,38 @@
 The Victor, Padumuttara,  
 was a Master of Everything.  
 RIsing up from meditation,[^3]  
-the World-Leader walked back and forth. (1) \[5611\]  
+the World-Leader walked back and forth. (1) \[5611\]
+
 Having taken a *khāri-*load,  
 I was carrying fruit \[just\] then.  
 I saw the Buddha, Stainless One,  
-the Great Sage, walking back and forth. (2) \[5612\]  
+the Great Sage, walking back and forth. (2) \[5612\]
+
 Happy, with pleasure in \[my\] heart,  
 hands pressed together on \[my\] head,  
 saluting \[him\], the Sambuddha,  
-I gave \[him\] a castor-oil fruit.[^4] (3) \[5613\]  
+I gave \[him\] a castor-oil fruit.[^4] (3) \[5613\]
+
 In the hundred thousand aeons,  
 since I gave that fruit at that time,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of castor-oil \[fruit\]. (4) \[5614\]  
+that’s the fruit of castor-oil \[fruit\]. (4) \[5614\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (5) \[5615\]  
+I am living without constraint. (5) \[5615\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (6) \[5616\]  
+\[I have\] done what the Buddha taught! (6) \[5616\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (7) \[5617\]  
+\[I have\] done what the Buddha taught! (7) \[5617\]
+
 Thus indeed Venerable Āmaṇḍaphaladāyaka Thera spoke these verses.  
 The legend of Āmaṇḍaphaladāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

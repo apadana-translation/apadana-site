@@ -2,31 +2,38 @@
 When Dipaṅkara was Buddha,  
 the Victor said of Sumedha:  
 “Aeons beyond measure from now,  
-this one will become a Buddha. (1) \[5193\]  
+this one will become a Buddha. (1) \[5193\]
+
 The one named Māyā’s going to be  
 the birth-mother of this \[person\];  
 Suddhodhana the father’s name;  
-this one will be \[named\] Gotama. (2) \[5194\]  
+this one will be \[named\] Gotama. (2) \[5194\]
+
 Being one bent on exertion,  
 having practiced austerities,  
 the Sambuddha will awaken[^3]  
-Great Famed, at the Bodhi tree’s roots.[^4] (3) \[5195\]  
+Great Famed, at the Bodhi tree’s roots.[^4] (3) \[5195\]
+
 Upatissa[^5] and Kolita[^6]  
 will be the \[two\] chief followers;[^7]  
 the one whose name is Ānanda  
-will attend upon this Victor. (4) \[5196\]  
+will attend upon this Victor. (4) \[5196\]
+
 Khemā and Uppalavaṇṇā  
 will be chief female followers;[^8]  
 Citta and Ālavaka will  
-be the chief pious laymen.[^9] (5) \[5197\]  
+be the chief pious laymen.[^9] (5) \[5197\]
+
 Khujjuttarā, Nandamātā  
 will be chief pious laywomen;[^10]  
 the Bodhi tree of this Hero  
-is known as the Aśvattha tree.”[^11] (6) \[5198\]  
+is known as the Aśvattha tree.”[^11] (6) \[5198\]
+
 After having heard those words of  
 the Great Sage, the Unequaled One,[^12]  
 overjoyed, \[both\] gods[^13] and men, are  
-praising \[him\], hands pressed together. (7) \[5199\]  
+praising \[him\], hands pressed together. (7) \[5199\]
+
 At that time I was a young man,  
 well-educated, named Megha.[^14]  
 Having heard \[that\] best prophesy  
@@ -38,47 +45,58 @@ I renounced right along with \[him\]. (8-9) \[5200-5201\]
 Restrained[^17] in the monastic rules,[^18]  
 and \[also\] in the five senses,  
 he lived pure, mindful, a hero,  
-doer of what the Victor taught.[^19] (10) \[5202\]  
+doer of what the Victor taught.[^19] (10) \[5202\]
+
 \[While\] I was living in that way,  
 I strayed away[^20] from the good road,  
 urged into bad behavior by  
-a certain evil friend \[of mine\]. (11) \[5203\]  
+a certain evil friend \[of mine\]. (11) \[5203\]
+
 Having been controlled by reason,[^21]  
 I fell from the dispensation;[^22]  
 afterward, by that bad friend, the  
-murder of \[my\] mother was schemed. (12) \[5204\]  
+murder of \[my\] mother was schemed. (12) \[5204\]
+
 I did no-interval karma,[^23]  
 and I killed with an evil mind;  
 I fell from there \[right into\] hell,[^24]  
-born in a very cruel \[place\]. (13) \[5205\]  
+born in a very cruel \[place\]. (13) \[5205\]
+
 Being gone to that woeful state,[^25]  
 I long transmigrated in pain,[^26]  
 not seeing the Hero again,  
-Sumedha, the Bull among Men. (14) \[5206\]  
+Sumedha, the Bull among Men. (14) \[5206\]
+
 In this aeon, in the ocean,  
 I was a *timiṅgala* fish.[^27]  
 Having seen a ship in the sea,  
-I approached it looking for food. (15) \[5207\]  
+I approached it looking for food. (15) \[5207\]
+
 Seeing me, the traders, afraid,  
 remembered the Best of Buddhas;  
 I heard a huge sound shouted out,  
-“Gotama!” \[they cried in terror\]. (16) \[5208\]  
+“Gotama!” \[they cried in terror\]. (16) \[5208\]
+
 Recalling the past perception,  
 I passed away \[right\] on the spot.  
 I was reborn in Śrāvasti,  
-a brahmin in a high-ranked clan. (17) \[5209\]  
+a brahmin in a high-ranked clan. (17) \[5209\]
+
 My name was Dhammarucī \[then\],  
 a loather of every evil.  
 Having seen the Lamp of the World,  
-being \[only\] seven years old, (18) \[5210\]  
+being \[only\] seven years old, (18) \[5210\]
+
 I went to great Jetavana,[^28]  
 \[and\] went forth into homelessness.  
 I approach the Buddha three times  
-\[every\] night, also \[every\] day. (19) \[5211\]  
+\[every\] night, also \[every\] day. (19) \[5211\]
+
 Seeing \[me\], seeing \[me,\] the Sage  
 called \[me\] “long time Dhammarucī.”  
 After that I told the Buddha  
-\[how my\] past karma had progressed: (20) \[5212\]  
+\[how my\] past karma had progressed: (20) \[5212\]
+
 Very long, marked with hundreds of good deeds,[^29]  
 conditions \[then\] gradually[^30] purified.  
 Today I am looking closely indeed,  
@@ -86,7 +104,8 @@ I am seeing your body without compare. (21) \[5213\][^31]
 Very long, darkness is destroyed by it.[^32]  
 Through guarding[^33] purity, the stream[^34] has been cleansed.  
 Very long, \[now\] purified without fault,  
-is the eye made out of knowledge, O Great Sage. (22) \[5214\]  
+is the eye made out of knowledge, O Great Sage. (22) \[5214\]
+
 A long time, \[now\] come together with you;  
 not destroyed, again the interval was long;  
 today, again come together with you,  
@@ -94,15 +113,18 @@ O Gotama, deeds do not \[just\] disappear. (23) 5215\]
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (24) \[5216\]  
+I am living without constraint. (24) \[5216\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (25) \[5217\]  
+\[I have\] done what the Buddha taught! (25) \[5217\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (26) \[5218\]  
+\[I have\] done what the Buddha taught! (26) \[5218\]
+
 Thus indeed Venerable Dhammarucī Thera spoke these verses.  
 The legend of Dhammarucī Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

@@ -2,31 +2,38 @@
 When Kakusandha passed away,[^3]  
 the Brahmin, the Perfected One,[^4]  
 gathering *salala*[^5] flowers,  
-I constructed a pavilion.[^6] \[6372\]  
+I constructed a pavilion.[^6] \[6372\]
+
 Having gone to Tāvatiṃsa,  
 I received a supreme mansion.  
 I surpassed \[all\] the other gods:  
-that is the fruit of good karma. \[6373\]  
+that is the fruit of good karma. \[6373\]
+
 Whether it’s the day or the night,  
 walking back and forth or[^7] standing,  
 I’m covered with *salala* blooms:  
-that is the fruit of good karma. \[6374\]  
+that is the fruit of good karma. \[6374\]
+
 Within just this \[present\] aeon[^8]  
 since I \[thus\] worshipped[^9] the Buddha,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* \[6375\]  
+that’s the fruit of Buddha-*pūjā.* \[6375\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. \[6376\]  
+I am living without constraint. \[6376\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! \[6377\]  
+\[I have\] done what the Buddha taught! \[6377\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! \[6378\]  
+\[I have\] done what the Buddha taught! \[6378\]
+
 Thus indeed Venerable Kimbila Thera spoke these verses.  
 The legend of Kimbila Thera, the fourth.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

@@ -2,31 +2,38 @@
 There was a huge festival  
 for Blessed Vipassi’s Bodhi Tree.  
 The Sambuddha \[sat\] at its roots,  
-the World’s Best, the Bull among Men.[^2] (1) \[2729\]  
+the World’s Best, the Bull among Men.[^2] (1) \[2729\]
+
 At that moment the Blessed One,  
 Honored by the Monks’ Assembly,  
 was preaching the Four Noble Truths,  
-uttering \[his\] majestic[^3] speech. (2) \[2730\]  
+uttering \[his\] majestic[^3] speech. (2) \[2730\]
+
 Preaching by means of summary  
 and also extended discourses,  
 the Sambuddha, Covers Removed,[^4]  
-purified[^5] the great multitude. (3) \[2731\]  
+purified[^5] the great multitude. (3) \[2731\]
+
 Hearing the Teaching of Buddha,  
 of the World’s Best, the Neutral One,  
 having worshipped the Teacher’s feet  
-I departed facing the north. (4) \[2732\]  
+I departed facing the north. (4) \[2732\]
+
 In the ninety-one aeons since  
 I heard that Teaching at that time,  
 I’ve come to know no bad rebirth:  
-fruit of perceiving the Teaching.[^6] (5) \[2733\]  
+fruit of perceiving the Teaching.[^6] (5) \[2733\]
+
 In the thirty-third aeon hence  
 there was one ruler of people,  
 known by the name of Sutava,[^7]  
-a wheel-turning king with great strength. (6) \[2734\]  
+a wheel-turning king with great strength. (6) \[2734\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (7) \[2735\]  
+\[I have\] done what the Buddha taught! (7) \[2735\]
+
 Thus indeed Venerable Dhammasaññaka Thera spoke these verses.  
 The legend of Dhammasaññaka Thera is finished.  
 [^1]: “Perceiver of the Teaching”  

@@ -2,31 +2,38 @@
 I was dressed in[^3] deer-leather \[then\],  
 wearing a \[heavy\] shoulder-yoke.  
 Carrying a *khāri* load, I  
-brought jujubes[^4][]{#BookmarkCopy1 .anchor} to the ashram. \[6365\]  
+brought jujubes[^4][]{#BookmarkCopy1 .anchor} to the ashram. \[6365\]
+
 The Blessed One in that era  
 was alone with nobody else.[^5]  
 He then approached my hermitage,  
-shining brightly all of the time. \[6366\]  
+shining brightly all of the time. \[6366\]
+
 Bringing pleasure to \[my\] own heart,  
 worshipping[^6] the Compliant One,[^7]  
 taking \[them\] with both of my hands  
-I gave the Buddha jujubes. \[6367\]  
+I gave the Buddha jujubes. \[6367\]
+
 In the thirty-one aeons since  
 I gave that fruit \[to him\] back then,  
 I’ve come to know no bad rebirth:  
-the fruit of giving jujubes. \[6368\]  
+the fruit of giving jujubes. \[6368\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. \[6369\]  
+I am living without constraint. \[6369\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! \[6370\]  
+\[I have\] done what the Buddha taught! \[6370\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! \[6371\]  
+\[I have\] done what the Buddha taught! \[6371\]
+
 Thus indeed Venerable Gayā-Kassapa Thera spoke these verses.  
 The legend of Gayā-Kassapa Thera, the third.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

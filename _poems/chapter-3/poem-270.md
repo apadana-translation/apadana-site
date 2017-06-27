@@ -2,19 +2,23 @@
 Vipassi Buddha,[^2] Golden One,  
 was standing on a river bank,  
 Worthy of Homage, the Teacher,  
-Honored by the Monks’ Assembly. (1) \[2578\]  
+Honored by the Monks’ Assembly. (1) \[2578\]
+
 Boats for crossing the great ocean  
 were not to be found in that place.  
 Having gone forth from \[that\] river  
-I helped the World’s Leader across.[^3] (2) \[2579\]  
+I helped the World’s Leader across.[^3] (2) \[2579\]
+
 In the ninety-one aeons since  
 I helped the Best Person to cross,  
 I’ve come to know no bad rebirth:  
-that is the fruit of ferrying. (3) \[2580\]  
+that is the fruit of ferrying. (3) \[2580\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[2581\]  
+\[I have\] done what the Buddha taught! (4) \[2581\]
+
 Thus indeed Venerable Taraṇiya Thera spoke these verses.  
 The legend of Taraṇiya Thera is finished.  
 The summary:  

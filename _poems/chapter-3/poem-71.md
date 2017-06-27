@@ -3,19 +3,23 @@
 I paid reverence at the stupa  
 of Sikhi, Kinsman of the World,  
 \[with\] a trumpet flower[^1] that had been  
-thrown away on the great highway. (1) \[1423\]  
+thrown away on the great highway. (1) \[1423\]
+
 In the thirty-one aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of stupa-*pūjā.* (2) \[1424\]  
+that’s the fruit of stupa-*pūjā.* (2) \[1424\]
+
 In the fifteenth aeon \[ago\]  
 the Kṣatriyan named Bhūmiya  
 was a wheel-turner with great strength,  
-possessor of the seven gems. (3) \[1425\]  
+possessor of the seven gems. (3) \[1425\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[1426\]  
+\[I have\] done what the Buddha taught! (4) \[1426\]
+
 Thus indeed Venerable Nāgasamāla Thera spoke these verses.  
 The legend of Nāgasamāla Thera is finished.  
 [^1]: all the manuscripts read *a*-*pāṭali*, “no trumpet flower,” but

@@ -2,51 +2,63 @@
 The Blessed One named Siddhattha  
 came into my presence \[one time\]  
 when I was cleaning[^1] a retreat[^2]  
-on a most fine,[^3] superb mountain. (1) \[784\]  
+on a most fine,[^3] superb mountain. (1) \[784\]
+
 Seeing the Buddha who’d arrived  
 I spread out a woven \[grass\] mat  
 for the World’s Best, the Neutral One,  
-and gave \[to him\] that floral seat. (2) \[785\]  
+and gave \[to him\] that floral seat. (2) \[785\]
+
 Sitting on that seat of flowers  
 Siddhattha the World-Leader  
 discerning my situation  
-\[then\] spoke about impermanence. (3) \[786\]  
+\[then\] spoke about impermanence. (3) \[786\]
+
 “In flux indeed is all that is;  
 things that arise and \[then\] decline  
 are being born \[and then\] dying;  
-happy is the relief from them.” (4) \[787\]  
+happy is the relief from them.” (4) \[787\]
+
 Saying this the Omniscient One,  
 the World’s Best One, the Bull of Men,  
 the Hero[^4] flew into the sky  
-just like a swan-king in the air. (5) \[788\]  
+just like a swan-king in the air. (5) \[788\]
+
 Abandoning my own dogma  
 I \[then\] perceived impermanence.  
 Meditating for \[just\] one \[day\],  
-\[right then and\] there I passed away. (6) \[789\]  
+\[right then and\] there I passed away. (6) \[789\]
+
 Incited by \[my\] wholesome roots  
 I \[then\] enjoyed the two-fold bliss.[^5]  
 When \[my\] last rebirth was attained  
-I was born among dog-cookers.[^6](7) \[790\]  
+I was born among dog-cookers.[^6](7) \[790\]
+
 After I set out from the house  
 I went forth into homelessness.  
 Dread-locked ascetic seven years,  
-I attained \[my\] arahantship. (8) \[791\]  
+I attained \[my\] arahantship. (8) \[791\]
+
 Energetic,[^7] self-abandoned,  
 careful about the moral rules,  
 having pleased the Great Elephant  
-I got higher ordination. (9) \[792\]  
+I got higher ordination. (9) \[792\]
+
 In the ninety-four aeons since  
 I did that \[good\] karma back then  
 I’ve come to know no bad rebirth;  
-that’s the fruit of a flower-gift. (10 \[793\]  
+that’s the fruit of a flower-gift. (10 \[793\]
+
 In the ninety-fourth aeon since  
 I obtained that perception \[then\],  
 meditating upon that sense  
-my defilements were \[all\] destroyed. (11) \[794\]  
+my defilements were \[all\] destroyed. (11) \[794\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (12) \[795\]  
+\[I have\] done what the Buddha taught! (12) \[795\]
+
 Thus indeed Venerable Sopāka Thera spoke these verses.  
 The legend of Venerable Sopāka Thera is finished.  
 [^1]: BJTS and cty read *sevantassa* (“serving”) for *sodhayantassa*

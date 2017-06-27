@@ -2,19 +2,23 @@
 Having seen the path[^3] stepped upon  
 by[^4] Sikhi \[Buddha\], World’s Kinsman,  
 placing deer-hide on one shoulder,  
-I worshipped that superb[^5] footprint. (1) \[3153\]  
+I worshipped that superb[^5] footprint. (1) \[3153\]
+
 Seeing a *koraṇḍa* in bloom,  
 foot-drinker growing in the earth,[^6]  
 taking a sprig with \[flowers,\] I  
-worshipped[^7] the wheel on \[that\] footprint.[^8] (2) \[3154\]  
+worshipped[^7] the wheel on \[that\] footprint.[^8] (2) \[3154\]
+
 In the thirty-one aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of footprint-*pūjā.* (3) \[3155\]  
+that’s the fruit of footprint-*pūjā.* (3) \[3155\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[3156\]  
+\[I have\] done what the Buddha taught! (4) \[3156\]
+
 Thus indeed Venerable Sakoṭakakoraṇḍadāyaka Thera spoke these verses.  
 The legend of Sakoṭakakoraṇḍadāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

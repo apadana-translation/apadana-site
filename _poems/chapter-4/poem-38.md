@@ -10,19 +10,23 @@ clever, with senses \[well-\]controlled. (1-2) \[1287-1288\]
 Learned bearer of the Teaching,  
 asker of the Teaching’s meaning,[^2]  
 studier of, listener to  
-and worshipper of the Teaching, (3) \[1289\]  
+and worshipper of the Teaching, (3) \[1289\]
+
 amidst the people I’m preaching  
 in the Victor’s dispensation.  
 Because of \[my\] profound learning,  
-I despised kind associates.[^3] (4) \[1290\]  
+I despised kind associates.[^3] (4) \[1290\]
+
 And now, in \[my\] final rebirth,  
 I am a water-jug slave-girl,  
 born in Śrāvasti, best city,  
-in Anāthapiṇḍi\[ka\]’s house.[^4] (5) \[1291\]  
+in Anāthapiṇḍi\[ka\]’s house.[^4] (5) \[1291\]
+
 Gone \[bearing\] a load of water,  
 I saw an erudite brahmin,  
 \[standing\] in the water, chilly.  
-After seeing him I said this: (6) \[1292\]  
+After seeing him I said this: (6) \[1292\]
+
 “Bearing water I always go  
 down to the water in the cold,  
 scared with fear of the master’s[^5] stick,  
@@ -42,43 +46,53 @@ is freed from \[that\] evil karma.” (10) \[1296\][^12]
 I spoke a verse[^13] of *Dhamma* to  
 \[him\] coming out of the water.  
 Hearing that \[he\] was very moved;  
-gone forth, he was an arahant. (11) \[1297\]  
+gone forth, he was an arahant. (11) \[1297\]
+
 When I was born in the slave clan,  
 \[I\] completed the full hundred.[^14]  
 Therefore they named me “Completer,”[^15]  
-and freed me from \[my\] slavery. (12) \[1298\]  
+and freed me from \[my\] slavery. (12) \[1298\]
+
 Getting the millionaire’s consent,  
 I went forth into homelessness.  
 *A*fter not a very long time,  
-I attained \[my\] arahantship. (13) \[1299\]  
+I attained \[my\] arahantship. (13) \[1299\]
+
 I’ve mastered the superpowers  
 \[like\] the “divine ear” element.  
 I’m also a master, Great Sage,  
-of the knowledge in others’ hearts. (14) \[1300\]  
+of the knowledge in others’ hearts. (14) \[1300\]
+
 I remember \[my\] former lives;  
 \[my\] “divine eye” is purified.  
 All the defilements are destroyed;  
-\[I\] will not be reborn again. (15) \[1301\]  
+\[I\] will not be reborn again. (15) \[1301\]
+
 In meaning and in the Teaching,  
 etymology and preaching,  
 \[this\] knowledge of mine was produced  
-in your presence, O Great Hero. (16) \[1302\]  
+in your presence, O Great Hero. (16) \[1302\]
+
 Through meditation, very wise;  
 through what has been heard, one’s learned;  
 but karma will not be destroyed[^16]  
-through the pride of those of high birth. (17) \[1303\]  
+through the pride of those of high birth. (17) \[1303\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (18) \[1304\]  
+I am living without constraint. (18) \[1304\]
+
 Being in Best Buddha's presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (19) \[1305\]  
+\[I have\] done what the Buddha taught! (19) \[1305\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (20) \[1306\]  
+\[I have\] done what the Buddha taught! (20) \[1306\]
+
 Thus indeed the bhikkhunī Puṇṇikā spoke these verses.  
 The legend of Puṇṇikā Therī[^17] is finished  
 [^1]: “Complete” “Full”. BJTS reads Puṇṇā; both spellings are correct,

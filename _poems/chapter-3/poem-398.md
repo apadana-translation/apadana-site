@@ -2,31 +2,38 @@
 When Kakusandha passed away,[^3]  
 the Brahmin, the Perfected One,[^4]  
 gathering *salaḷa*[^5] flowers,[^6]  
-I constructed a pavilion.[^7] (1) \[3821\]  
+I constructed a pavilion.[^7] (1) \[3821\]
+
 Having gone to Tāvatiṃsa,  
 I received a supreme mansion.  
 I surpassed \[all\] the other gods:  
-that is the fruit of good karma. (2) \[3822\]  
+that is the fruit of good karma. (2) \[3822\]
+
 Whether it’s the day or the night,  
 walking back and forth or[^8] standing,  
 I’m covered with *salaḷa* blooms:  
-that is the fruit of good karma. (3) \[3823\]  
+that is the fruit of good karma. (3) \[3823\]
+
 Within just this \[present\] aeon[^9]  
 since I \[thus\] worshipped[^10] the Buddha,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (4) \[3824\]  
+that’s the fruit of Buddha-*pūjā.* (4) \[3824\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 All defilements are exhausted;  
-now there will be no more rebirth. (5) \[3825\]  
+now there will be no more rebirth. (5) \[3825\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (6) \[3826\]  
+\[I have\] done what the Buddha taught! (6) \[3826\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (7) \[3827\]  
+\[I have\] done what the Buddha taught! (7) \[3827\]
+
 Thus indeed Venerable Salaḷamaṇḍapiya Thera spoke these verses.  
 The legend of Salaḷamaṇḍapiya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

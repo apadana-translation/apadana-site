@@ -2,35 +2,43 @@
 The Victor, Padumuttara,  
 was a Master of Everything.  
 \[That\] Leader arose in the world  
-one hundred thousand aeons hence. (1) \[804\]  
+one hundred thousand aeons hence. (1) \[804\]
+
 The Admonisher,[^2] Instructor,[^3]  
 Crosser-Over[^4] of all that breathe,  
 Skilled at Preaching,[^5] \[he\], the Buddha,  
-caused many folks to cross \[the flood\]. (2) \[805\]  
+caused many folks to cross \[the flood\]. (2) \[805\]
+
 Merciful,[^6] Compassionate One,[^7]  
 Well-Wisher[^8] of all that breathe, he  
 established in the five precepts  
-all the rivals who had arrived. (3) \[806\]  
+all the rivals who had arrived. (3) \[806\]
+
 In this way he was Unconfused[^9]  
 and Very Well-Known[^10] by rivals,  
 Ornamented[^11] by arahants  
-who were masters \[and\] neutral ones. (4) \[807\]  
+who were masters \[and\] neutral ones. (4) \[807\]
+
 The \[body of the\] Sage So Great  
 rose up fifty-eight cubits[^12] \[tall\];  
 he was Valuable Like Gold,[^13]  
-Bearing the Thirty-Two Great Marks. (5) \[808\]  
+Bearing the Thirty-Two Great Marks. (5) \[808\]
+
 \[People’s\] lifespan at that time was  
 \[fully\] one hundred thousand years.  
 Remaining \[in the world\] so long,  
-he ferried many folks across. (6) \[809\]  
+he ferried many folks across. (6) \[809\]
+
 I was born in Haṃsavatī,  
 in a clan of millionaires then,  
 glistening with various gems,  
-endowed with supreme happiness. (7) \[810\]  
+endowed with supreme happiness. (7) \[810\]
+
 Having approached the Great Hero,  
 I heard \[him\] preaching the *Dhamma*,  
 ultimately sweet[^14] ambrosia[^15]  
-which makes known the ultimate truth. (8) \[811\]  
+which makes known the ultimate truth. (8) \[811\]
+
 Then after inviting \[him, the\]  
 Three-Worlds-Ender, with Assembly,  
 giving him a large almsgiving,  
@@ -42,83 +50,103 @@ of Buddhist nuns who meditate. (9-10) \[812-813\]
 Then the Untamed-Tamer,[^16] Master,[^17]  
 Refuge for the Three Worlds,[^18] \[Buddha,\]  
 the Leopard of Men,[^19] prophesied:  
-“you will receive that well-wished \[place\]. (11) \[814\]  
+“you will receive that well-wished \[place\]. (11) \[814\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (12) \[815\]  
+will be the Teacher in the world. (12) \[815\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 the one known by the name Nandā,  
-will be the Teacher’s follower.” (13) \[816\]  
+will be the Teacher’s follower.” (13) \[816\]
+
 At that time being overjoyed,  
 as long as life, heart \[full of\] love,  
 I attended on the Victor,  
-the Guide, providing requisites. (14) \[817\]  
+the Guide, providing requisites. (14) \[817\]
+
 Due to that karma done very well,  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body,  
-I went to Tāvatiṃsa \[then\]. (15) \[818\]  
+I went to Tāvatiṃsa \[then\]. (15) \[818\]
+
 Fallen thence, I went to Yāma,[^20]  
 \[and\] then I went to Tusita,  
 and then to Nimmānarati,[^21]  
-and then Vāsavatti City. (16) \[819\]  
+and then Vāsavatti City. (16) \[819\]
+
 In whichever place I’m reborn,  
 in accordance with that karma,  
 everyplace I was made chief queen  
-of \[the gods who were\] the kings \[there\]. (17) \[820\]  
+of \[the gods who were\] the kings \[there\]. (17) \[820\]
+
 Fallen thence, in the human state,  
 \[everyplace\] I was made chief queen  
 of kings who turn the wheel \[of law,\]  
-and \[powerful\] regional kings. (18) \[821\]  
+and \[powerful\] regional kings. (18) \[821\]
+
 Having experienced success,  
 among gods as well as humans,  
 becoming happy everywhere,  
-I transmigrated for aeons.[^22] (19) \[822\]  
+I transmigrated for aeons.[^22] (19) \[822\]
+
 When \[my\] last rebirth was attained,  
 I was the blameless[^23] daughter of  
 King Suddhodana,[^24] \[living in\]  
-delightful[^25] Kapilavastu.[^26] (20) \[823\]  
+delightful[^25] Kapilavastu.[^26] (20) \[823\]
+
 Seeing \[my\] splendor[^27] \[and\] beauty,  
 that \[Śākyan\] clan was rejoicing.[^28]  
 Therefore they gave the name “Nandā,”  
-pleasant \[and\] excellent, to me. (21) \[824\]  
+pleasant \[and\] excellent, to me. (21) \[824\]
+
 \[I was\][^29] renowned as “the Beauty”[^30]  
 among all of the young women  
 in that same[^31] delightful city,  
-except \[of course\] Yasodharā.[^32] (22) \[825\]  
+except \[of course\] Yasodharā.[^32] (22) \[825\]
+
 \[My\] eldest brother’s the Buddha,[^33]  
 the middle one’s[^34] likewise a saint;[^35]  
 staying alone in the lay life,  
-I am exhorted by mother:[^36] (23) \[826\]  
+I am exhorted by mother:[^36] (23) \[826\]
+
 “Child, you’re born in the Śākyan clan,  
 following after the Buddha.  
 Why do you sit[^37] \[there\] in the house,  
-being bereft of \[all your\] joy?[^38] (24) \[827\]  
+being bereft of \[all your\] joy?[^38] (24) \[827\]
+
 Thought impure[^39] is youthful beauty,[^40]  
 under the power of old age;  
 even a life which is healthy,  
-ends in disease, ends in dying. (25) \[828\]  
+ends in disease, ends in dying. (25) \[828\]
+
 Look at even your \[own\] fine form:  
 charming, distracting to the mind,[^41]  
 it’s adorned and ornamented  
-like[^42] Goddess Fortune embellished,[^43] (26) \[829\]  
+like[^42] Goddess Fortune embellished,[^43] (26) \[829\]
+
 like concentrated[^44] world-essence[^45]  
 medicinal balm for the eyes,[^46]  
 generating praise for merit,[^47]  
-rejoicing the Okkāka clan; (27) \[830\]  
+rejoicing the Okkāka clan; (27) \[830\]
+
 in no long time at all, old age  
 is going to overpower \[it\].  
 Young one, abandoning the house,  
-choose[^48] the Teaching, O blameless one.” (28) \[831\]  
+choose[^48] the Teaching, O blameless one.” (28) \[831\]
+
 After hearing \[my\] mother’s words,  
 I went forth into homelessness  
 in[^49] body, but not in \[my\] heart,  
-\[still\] enthralled by youth and beauty. (29) \[832\]  
+\[still\] enthralled by youth and beauty. (29) \[832\]
+
 Mother[^50] said to make my basis[^51]  
 through study of the altered states,[^52]  
 \[pursuing it\] with great effort.  
-I was not enthused[^53] about that. (30) \[833\]  
+I was not enthused[^53] about that. (30) \[833\]
+
 Then the Great Compassionate One  
 saw[^54] me enthralled by sense pleasures.  
 To make me[^55] weary of beauty,[^56]  
@@ -130,91 +158,113 @@ even more beautiful than I. (31-32) \[834-835\]
 And I, astonished, seeing her[^59]  
 very astonishing body,  
 thought \[to myself,\] “fruitful \[today\]  
-is the receipt of human eyes.” (33) \[836\]  
+is the receipt of human eyes.” (33) \[836\]
+
 I said to her, “O lucky one![^60]  
 Tell me the story how you’ve come,  
 and if you please, do tell to me  
-\[your\] clan, \[your\] name, \[your\] family.” (34) \[837\]  
+\[your\] clan, \[your\] name, \[your\] family.” (34) \[837\]
+
 “No time for questions, lucky one;  
 let me lay \[my head\] in \[your\] lap.”[^61]  
 As though sinking[^62] into my limbs  
-she reclined well[^63] for a moment. (35) \[838\]  
+she reclined well[^63] for a moment. (35) \[838\]
+
 Then putting \[her\] head in my lap  
 she with lovely eyes stretched out \[there\].  
 A spider,[^64] very venomous,  
-landed on that \[woman’s\] forehead. (36) \[839\]  
+landed on that \[woman’s\] forehead. (36) \[839\]
+
 When \[it\] had fallen onto her,  
 boils formed \[all over her body\];  
 popping open, they were oozing  
-putrid \[chunks of\] pus mixed with blood. (37) \[840\]  
+putrid \[chunks of\] pus mixed with blood. (37) \[840\]
+
 And \[her\] face was disfigured too,  
 with the putrid stench of a corpse;  
 and \[her\] body festered[^65] too,  
-\[now\] swollen up and \[turning\] blue. (38) \[841\]  
+\[now\] swollen up and \[turning\] blue. (38) \[841\]
+
 With all of her limbs quivering,  
 gasping for every breath she took,[^66]  
 making known her own suffering,  
-she piteously wailed \[like this:\] (39) \[842\]  
+she piteously wailed \[like this:\] (39) \[842\]
+
 “I’m afflicted with affliction,[^67]  
 feeling \[agonizing\] feelings;  
 I’m sunk down in great affliction.  
-Be a refuge for me, O friend.” (40) \[843\]  
+Be a refuge for me, O friend.” (40) \[843\]
+
 “Where is \[that\] facial shine of yours?  
 Where is your \[attractive\] long nose?  
 Your excellent copper-red lips?  
-Where has your \[beautiful\] face gone? (41) \[844\]  
+Where has your \[beautiful\] face gone? (41) \[844\]
+
 Where’s \[your\] mouth, shining like the moon?  
 Where has your conch-shell-shaped neck gone?  
 And \[both\] your ears, swaying like swings,[^68]  
-have \[now\] become \[badly\] discolored. (42) \[845\]  
+have \[now\] become \[badly\] discolored. (42) \[845\]
+
 Your milk-laden \[breasts shaped\] like jugs  
 which resembled pointy \[young\] buds[^69]  
 have popped open; you’ve become a  
-putrid corpse with a horrid stench. (43) \[846\]  
+putrid corpse with a horrid stench. (43) \[846\]
+
 \[Your\] slender middle[^70] \[and\] buttocks,  
 meat-stall[^71] where wounds and sins[^72] are born  
 \[are now\] adorned with excrement.  
-O! Beauty is not eternal! (44) \[847\]  
+O! Beauty is not eternal! (44) \[847\]
+
 Every born body \[is the same:\]  
 putrid-smelling and frightening,  
 like a loathsome[^73] cemetery,  
-where \[only\] fools \[find their\] delight.” (45) \[848\]  
+where \[only\] fools \[find their\] delight.” (45) \[848\]
+
 Then the Great Compassionate One,  
 my brother, Leader of the World,  
 Having seen me, moved in \[my\] heart,  
-he spoke these verses \[to me then:\] (46) \[849\]  
+he spoke these verses \[to me then:\] (46) \[849\]
+
 “Nanda, look at \[your own\] body,  
 \[also\] a sick \[and\] putrid corpse.  
 Through disgustingness cultivate  
-\[your\] mind, well-composed and tranquil. (47) \[850\]  
+\[your\] mind, well-composed and tranquil. (47) \[850\]
+
 Just as is this, so too is that;  
 just as is that, so too is this:  
 putrid \[and\] emitting a stench,  
-causing delight \[only\] to fools. (48) \[851\]  
+causing delight \[only\] to fools. (48) \[851\]
+
 Considering that in this way,  
 industrious by day and night,  
 you will see with your own wisdom,  
-having turned away in disgust. (49) \[852\]  
+having turned away in disgust. (49) \[852\]
+
 After that I was deeply moved,  
 having heard \[those\] well-said verses;  
 remaining there, being at peace,[^74]  
-I attained \[my\] arahantship. (50) \[853\]  
+I attained \[my\] arahantship. (50) \[853\]
+
 Everyplace where I am seated,  
 I \[reach\] the highest altered states.  
 The Victor, pleased by \[my\][^75] virtue,  
-\[then\] placed me in that foremost place. (51) \[854\]  
+\[then\] placed me in that foremost place. (51) \[854\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (52) \[855\]  
+I am living without constraint. (52) \[855\]
+
 Being in Best Buddha's presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (53) \[856\]  
+\[I have\] done what the Buddha taught! (53) \[856\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (54) \[857\]  
+\[I have\] done what the Buddha taught! (54) \[857\]
+
 Thus indeed Bhikkhunī Nandā spoke these verses.  
 The legend of Nandā Therī is finished.  
 [^1]: “Joy,” an historical nun, daughter of King Suddhodana and

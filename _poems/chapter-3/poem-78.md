@@ -10,19 +10,23 @@ like a festoon work made of gold. (1-2) \[1458-1459\]
 Happy, \[and\] with a happy heart,  
 with the flower I performed *pūjā*  
 to Tissa, the World-Knower, Lord,  
-having worshipped the God of Men. (3) \[1460\]  
+having worshipped the God of Men. (3) \[1460\]
+
 In the ninety-two aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of flower-*pūjā.* (4) \[1461\]  
+that’s the fruit of flower-*pūjā.* (4) \[1461\]
+
 Sixty-three aeons ago the  
 \[king\] known as Abhisammata  
 was a wheel-turner with great strength,  
-possessor of the seven gems. (5) \[1462\]  
+possessor of the seven gems. (5) \[1462\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[1463\]  
+\[I have\] done what the Buddha taught! (6) \[1463\]
+
 Thus indeed Venerable Pāṭalipupphiya Thera spoke these verses.  
 The legend of Pāṭalipupphiya Thera is finished.  
 [^1]: “Trumpet-Flower-er”  

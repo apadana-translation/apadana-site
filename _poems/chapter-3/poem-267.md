@@ -2,19 +2,23 @@
 On Candabhāgā River’s bank  
 I was a forester back then.  
 I saw the Buddha, Siddhattha,  
-traveling across the sky \[there\]. (1) \[2565\]  
+traveling across the sky \[there\]. (1) \[2565\]
+
 Raising my hands pressed together,  
 gazing upon the Sage so Great,  
 bringing pleasure to \[my\] own heart  
-I gave the Leader reverence. (2) \[2566\]  
+I gave the Leader reverence. (2) \[2566\]
+
 In the ninety-four aeons since  
 I revered the Bull Among Men,  
 I’ve come to know no bad rebirth:  
-that is the fruit of reverence. (3) \[2567\]  
+that is the fruit of reverence. (3) \[2567\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[2568\]  
+\[I have\] done what the Buddha taught! (4) \[2568\]
+
 Thus indeed Venerable Javahaŋsaka Thera spoke these verses.  
 The legend of Javahaŋsaka Thera is finished.  
 [^1]: “Speedy Swan-er,” apparently an allusion to the Buddha’s movement

@@ -21,11 +21,13 @@ that’s the fruit of Buddha-*pūjā*. (4) \[1579\][^2]
 In the thirty-ninth aeon \[hence\]  
 there were sixteen \[different\] people;  
 \[all\] were known as Devagandha[^3]  
-\[and\] they were \[all\] wheel-turning kings. (5) \[1580\]  
+\[and\] they were \[all\] wheel-turning kings. (5) \[1580\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[1581\]  
+\[I have\] done what the Buddha taught! (6) \[1581\]
+
 Thus indeed Venerable Gandhamāliya Thera spoke these verses.  
 The legend of Gandhamāliya Thera is finished.  
 [^1]: “Perfumed Garland-er.” Cf. \#332 {BJTS only}, below, which is

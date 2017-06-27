@@ -2,63 +2,78 @@
 In Ketumati, best city,  
 there was a king named Vijaya,[^3]  
 a hero, endowed with great strength,[^4]  
-inhabiting \[that\] city then. (1) \[4113\]  
+inhabiting \[that\] city then. (1) \[4113\]
+
 Because of that king’s indolence,  
 wild men of the forest[^5] rose up.  
 They were spies,[^6] and men with foul mouths;[^7]  
-they laid waste to the country then. (2) \[4114\]  
+they laid waste to the country then. (2) \[4114\]
+
 When the borderlands angered \[him\],  
 the king[^8] then quickly assembled  
 \[his\] dependents[^9] and officers,[^10]  
-to restrain[^11] \[all those\] enemies. (3) \[4115\]  
+to restrain[^11] \[all those\] enemies. (3) \[4115\]
+
 Elephant-riders,[^12] sentinels,[^13]  
 champions,[^14] shield-bearing soldiers,[^15]  
 archers[^16] and mighty noblemen:[^17]  
-they all assembled at that time. (4) \[4116\]  
+they all assembled at that time. (4) \[4116\]
+
 The cooks[^18] \[and\] those who dress the hair,[^19]  
 the bath boys,[^20] the garland-makers,[^21]  
 heroes[^22] \[and\] conquering soldiers:[^23]  
-they all assembled at that time. (5) \[4117\]  
+they all assembled at that time. (5) \[4117\]
+
 The swordsmen[^24] as well as the waiters,[^25]  
 bowmen and people in armor,  
 hunters[^26] and conquering soldiers:[^27]  
-they all assembled at that time. (6) \[4118\]  
+they all assembled at that time. (6) \[4118\]
+
 *Mātaṅga*s[^28] rutting in three ways[^29]  
 \[and\] tuskers sixty years of age,  
 adorned with headdresses of gold:  
-they all assembled at that time. (7) \[4119\]  
+they all assembled at that time. (7) \[4119\]
+
 The soldiers[^30] who have done the job,[^31]  
 enduring[^32] cold \[as well as\] heat,  
 also excrement-removal:[^33]  
-they all assembled at that time. (8) \[4120\]  
+they all assembled at that time. (8) \[4120\]
+
 The sound of conchs, the sound of drums,  
 and thus the sound of trumpets;[^34]  
 they being gladded by those \[sounds\]  
-did all assemble at that time. (9) \[4121\]  
+did all assemble at that time. (9) \[4121\]
+
 Those who crush and those who injure[^35]  
 with tridents[^36] \[and\] knives[^37] \[and\] mantras,[^38]  
 suits of armor, also lances:  
-they all assembled at that time. (10) \[4122\]  
+they all assembled at that time. (10) \[4122\]
+
 Dressing in a suit of armor[^39]  
 that king, victory-less victor,[^40]  
 impaled on tridents at that time  
-sixty thousand living beings. (11) \[4123\]  
+sixty thousand living beings. (11) \[4123\]
+
 The people then let out the cry,[^41]  
 “Alas! the king is unrighteous.  
 When will there \[ever\] be an end  
-for one who is roasting in hell?”[^42] (12) \[4124\]  
+for one who is roasting in hell?”[^42] (12) \[4124\]
+
 On the bed I then tossed and turned,[^43]  
 \[as though\][^44] I’m lying down[^45] in hell:[^46]  
 I do not sleep by day and night;  
-they torture me with a trident. (13) \[4125\]  
+they torture me with a trident. (13) \[4125\]
+
 “What good is[^47] \[this\] careless kingship,  
 \[these\] vehicles \[or this\] army?  
 They aren’t able to support \[me\];  
-they terrify me all the time. (14) \[4126\]  
+they terrify me all the time. (14) \[4126\]
+
 What good are \[these\] sons \[and these\] wives,  
 \[as well as this\] entire kingship?  
 Well then why don’t I \[now\] go forth?  
-I will cleanse the road to rebirth. (15) \[4127\]  
+I will cleanse the road to rebirth. (15) \[4127\]
+
 Disregarding \[all my\] wealth \[and\]  
 fighting battles I abandoned  
 \[my\] sixty thousand elephants  
@@ -86,7 +101,8 @@ I went forth into homelessness. (20c-d-21) \[4132\][^54]
 Sixty thousand milch-cows \[as well\],  
 \[and\] all the metal pails for milk[^55] --  
 eliminating even them,  
-I went forth into homelessness. (22) \[4133\]  
+I went forth into homelessness. (22) \[4133\]
+
 \[My\] sixty thousand women \[too\],  
 decked out in all the ornaments,  
 with varied clothes and jewelry  
@@ -98,95 +114,118 @@ I went forth into homelessness. (23-24) \[4134-4135\]
 \[And\] sixty thousand villages,  
 completely full in all regards --  
 throwing away that \[whole\] kingship,  
-I went forth into homelessness. (25) \[4136\]  
+I went forth into homelessness. (25) \[4136\]
+
 Having gone out from the city,  
 I approached the Himalayas.  
 On Bhāgīrathī[^58] River’s banks,  
-I constructed a hermitage. (26) \[4137\]  
+I constructed a hermitage. (26) \[4137\]
+
 Having built a hall out of leaves  
 I made \[myself\] a heated room;[^59]  
 bent on exertion,[^60] resolute,[^61]  
-I’m living in my hermitage. (27) \[4138\]  
+I’m living in my hermitage. (27) \[4138\]
+
 Terror does not arise in me;  
 I don’t see frights or fearful \[things\]  
 when meditating under trees,  
-in pavilions[^62] or empty homes. (28) \[4139\]  
+in pavilions[^62] or empty homes. (28) \[4139\]
+
 The Sambuddha named Sumedha,  
 Chief, Compassionate One, the Sage,  
 blazing with the light of knowledge,  
-arose in the world at that time. (29) \[4140\]  
+arose in the world at that time. (29) \[4140\]
+
 There was a powerful spirit[^63]  
 living near my hermitage \[then\].  
 When the Best Buddha came to be,  
-he then announced \[that fact\] to me: (30) \[4141\]  
+he then announced \[that fact\] to me: (30) \[4141\]
+
 “A Buddha’s risen in the world,  
 an Eyeful One named Sumedha;  
 he’s \[helping\] all the folk to cross;  
-he will ferry you across too.” (31) \[4142\]  
+he will ferry you across too.” (31) \[4142\]
+
 After hearing the spirit’s words,  
 all the time I was[^64] deeply moved;[^65]  
 thinking, “A Buddha! A Buddha!”  
-I made my hermitage ready. (32) \[4143\]  
+I made my hermitage ready. (32) \[4143\]
+
 After chopping wood for the fire  
 and smoothing out \[my\] sleeping mat,  
 having worshipped my hermitage,  
-I went out from the forest \[then\]. (33) \[4144\]  
+I went out from the forest \[then\]. (33) \[4144\]
+
 Taking sandalwood from village  
 to village, city to city,  
 searching for \[him\], the God of Gods,  
-I then came up to \[him\], the Guide. (34) \[4145\]  
+I then came up to \[him\], the Guide. (34) \[4145\]
+
 At that moment, the Blessed One,  
 Sumedha, Leader of the World,  
 was preaching the Four \[Noble\] Truths,  
-enlightening the people then. (35) \[4146\]  
+enlightening the people then. (35) \[4146\]
+
 Pressing both my hands together  
 with[^66] the sandalwood on my head,  
 having greeted the Sambuddha,  
-I spoke these verses \[to him then\]: (36) \[4147\]  
+I spoke these verses \[to him then\]: (36) \[4147\]
+
 “When jasmine trees[^67] are flowering  
 \[their\] scents are diffused around them;[^68]  
 Hero, with the scent of virtue you  
-permeate every[^69] direction. (37) \[4148\]  
+permeate every[^69] direction. (37) \[4148\]
+
 When the *sal* trees[^70] are flowering,  
 champak,[^71] ironwood,[^72] *vanika,*[^73]  
 hiptage vines,[^74] and and \[also\] screw-pine,[^75]  
-\[their scents\] get diffused with the wind. (38) \[4149\]  
+\[their scents\] get diffused with the wind. (38) \[4149\]
+
 Having smelled your \[perfume-like\] scent,  
 I came here from Himalaya.  
 I worship you,[^76] O Sage So Great,  
-World’s Best One, O One of Great Fame.” (39) \[4150\]  
+World’s Best One, O One of Great Fame.” (39) \[4150\]
+
 I anointed the World-Leader,  
 Sumedha, with good sandalwood.  
 Bringing pleasure to \[my\] own heart  
-I stood silently at that time. (40) \[4151\]  
+I stood silently at that time. (40) \[4151\]
+
 The Blessed One named Sumedha,  
 the World’s Best One, the Bull of Men,  
 seated in the monks’ Assembly  
-spoke these verses \[about me then\]: (41) \[4152\]  
+spoke these verses \[about me then\]: (41) \[4152\]
+
 “This one who praised my virtues and  
 who worshipped me[^77] with sandalwood,  
 I shall relate details of him;  
-\[all of\] you listen to my words: (42) \[4153\]  
+\[all of\] you listen to my words: (42) \[4153\]
+
 For twenty-five aeons he is  
 going to be a handsome man  
 who speaks welcome words, pious[^78]  
-\[and\] upright, full of great power.[^79] (43) \[4154\]  
+\[and\] upright, full of great power.[^79] (43) \[4154\]
+
 In the twenty-sixth aeon he  
 will delight in the world of gods.  
 A thousand times he’ll be a king,  
-a king who turns the wheel \[of law\]. (44) \[4155\]  
+a king who turns the wheel \[of law\]. (44) \[4155\]
+
 Thirty-three times the lord of gods,  
 he will exercise divine rule,  
 \[and there will be\] much local rule,  
-innumerable by counting. (45) \[4156\]  
+innumerable by counting. (45) \[4156\]
+
 Being fallen from there, this man  
 will go on to the human state.  
 Bound up with \[his\] good[^80] karma he’s  
-going to be Brahma’s kinsman.[^81] (46) \[4157\]  
+going to be Brahma’s kinsman.[^81] (46) \[4157\]
+
 Learned, knowing[^82] \[all\] the mantras,  
 a master of the three Vedas,  
 endowed with three auspicious marks  
-\[will be\] the brahmin, Bāvarī. (47) \[4158\]  
+\[will be\] the brahmin, Bāvarī. (47) \[4158\]
+
 Having become that man’s student,  
 he’ll be a master of mantras.  
 Going up to the Sambuddha,  
@@ -198,19 +237,23 @@ will reach nirvana, undefiled.” (48-49) \[4159-4160\]
 The three fires[^83] are blown out in me;  
 all \[new\] existence is destroyed;  
 knowing well all the defilements,  
-I am \[now\] living, undefiled. (50) \[4161\]  
+I am \[now\] living, undefiled. (50) \[4161\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (51) \[4162\]  
+I am living without constraint. (51) \[4162\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (52) \[4163\]  
+\[I have\] done what the Buddha taught! (52) \[4163\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (53) \[4164\]  
+\[I have\] done what the Buddha taught! (53) \[4164\]
+
 Thus indeed Venerable Todeyya Thera spoke these verses.  
 The legend of Todeyya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

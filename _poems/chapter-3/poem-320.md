@@ -9,11 +9,13 @@ like a lion which is well-born. (1-2) \[2821-2822\]
 In the ninety-one aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[2823\]  
+that’s the fruit of Buddha-*pūjā.* (3) \[2823\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[2824\]  
+\[I have\] done what the Buddha taught! (4) \[2824\]
+
 Thus indeed Venerable Kumudamāliya Thera spoke these verses.  
 The legend of Kumudamāliya Thera is finished.  
 The Summary:  

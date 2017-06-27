@@ -2,23 +2,28 @@
 Building a hut in the forest,  
 I dwelt upon a mountain \[then\],  
 I was happy to get, or not,  
-in glory as in dishonor.[^2] (1) \[1184\]  
+in glory as in dishonor.[^2] (1) \[1184\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 with a hundred thousand masters[^3]  
-came into my presence \[back then\]. (2) \[1185\]  
+came into my presence \[back then\]. (2) \[1185\]
+
 Laying out a mat made of grass  
 for the one named for the lotus,  
 the Great Hero, who had arrived,  
-\[and\] I gave \[it\] to \[him,\] the Teacher. (3) \[1186\]  
+\[and\] I gave \[it\] to \[him,\] the Teacher. (3) \[1186\]
+
 Happy, and with a happy heart,  
 with a mind that was very clear,  
 I provided \[both\] food[^4] and drink  
-to him, the Upright \[Sambuddha\]. (4) \[1187\]  
+to him, the Upright \[Sambuddha\]. (4) \[1187\]
+
 In the hundred thousand aeons  
 since I gave \[him\] that gift back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of castor oil fruit.[^5] (5) \[1188\]  
+that’s the fruit of castor oil fruit.[^5] (5) \[1188\]
+
 In the forty-first aeon hence  
 I was known as Arindama,[^6]  
 a wheel-turning king with great strength,  
@@ -26,7 +31,8 @@ possessor of the seven gems. (6) \[1189\][^7]
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (7) \[1190\]  
+\[I have\] done what the Buddha taught! (7) \[1190\]
+
 Thus indeed Venerable Sannidhāpaka[^8] Thera spoke these verses.  
 The legend of Sannidhāpaka[^9] Thera is finished.  
 [^1]: “Putter-Down;” BJTS, cty read *Sanniṭṭhāpaka,* “Readier”
@@ -44,6 +50,7 @@ The legend of Sannidhāpaka[^9] Thera is finished.
     eat, presumably whatever fruit he himself was used to eating.  
 [^5]: see previous note; some kind of food, BJTS gloss is *käkiri*  
 [^6]: “Enemy-Tamer”  
-[^7]: text misreads as \[1789\]  
+[^7]: text misreads as \[1789\]
+
 [^8]: BJTS reads *Sanniṭṭhāpaka*  
 [^9]: BJTS reads *Sanniṭṭhāpaka*

@@ -10,31 +10,38 @@ I would like to give \[you\] alms food.” (1-2) \[4738-4739\]
 Merciful, Compassionate One,  
 Atthadassi, Greatly Famed One,  
 discerning what I was thinking,  
-descended to my hermitage. (3) \[4740\]  
+descended to my hermitage. (3) \[4740\]
+
 Descending, the Sambuddha then  
 sat down on \[that\] mat made of leaves.[^6]  
 Having taken some markingnut,[^7]  
-I gave \[it\] to the Best Buddha. (4) \[4741\]  
+I gave \[it\] to the Best Buddha. (4) \[4741\]
+
 While I meditated \[on him\],  
 the Victor then consumed \[that fruit\].  
 Bringing pleasure to \[my\] heart there,  
-I then worshipped \[him,\] the Victor. (5) \[4742\]  
+I then worshipped \[him,\] the Victor. (5) \[4742\]
+
 In the eighteen hundred aeons  
 since I gave \[him\] that fruit back then,  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving fruit. (6) \[4743\]  
+that is the fruit of giving fruit. (6) \[4743\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (7) \[4744\]  
+I am living without constraint. (7) \[4744\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (8) \[4745\]  
+\[I have\] done what the Buddha taught! (8) \[4745\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (9) \[4746\]  
+\[I have\] done what the Buddha taught! (9) \[4746\]
+
 Thus indeed Venerable Bhallāṭakadāyaka Thera spoke these verses.  
 The legend of Bhallāṭakadāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

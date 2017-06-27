@@ -2,43 +2,53 @@
 I was then a forest-worker,[^3]  
 as were[^4] father and grandfathers.[^5]  
 \[Earning\] my living killing beasts,[^6]  
-no wholesomeness[^7] exists for me. (1) \[5263\]  
+no wholesomeness[^7] exists for me. (1) \[5263\]
+
 In the area where I lived,  
 Tissa, Chief Leader of the World,  
 Eyeful One, compassionately  
-showed \[me\] three \[of his own\] footsteps. (2) \[5264\]  
+showed \[me\] three \[of his own\] footsteps. (2) \[5264\]
+
 And having seen the stepping feet  
 of the Teacher known as[^8] Tissa,  
 happy, \[and\] with a happy heart,  
-I pleased my heart \[about his\] feet. (3) \[5265\]  
+I pleased my heart \[about his\] feet. (3) \[5265\]
+
 Seeing a *koraṇḍa*[^9] in bloom,  
 foot-drinker growing in the earth,[^10]  
 taking a sprig with \[flowers,\] I  
-did *pūja* to \[those\] best of feet. (4) \[5266\]  
+did *pūja* to \[those\] best of feet. (4) \[5266\]
+
 Due to that karma done very well,  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body,  
-I went to Tāvatiṃsa \[then\]. (5) \[5267\]  
+I went to Tāvatiṃsa \[then\]. (5) \[5267\]
+
 In whichever womb I’m reborn,  
 \[whether\] it’s human or divine,  
 I have[^11] *koraṇḍa-*colored skin;  
-I’m radiantly beautiful.[^12] (6) \[5268\]  
+I’m radiantly beautiful.[^12] (6) \[5268\]
+
 In the ninety-two aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of worshipping[^13] feet. (7) \[5269\]  
+that’s the fruit of worshipping[^13] feet. (7) \[5269\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (8) \[5270\]  
+I am living without constraint. (8) \[5270\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (9) \[5271\]  
+\[I have\] done what the Buddha taught! (9) \[5271\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (10) \[5272\]  
+\[I have\] done what the Buddha taught! (10) \[5272\]
+
 Thus indeed Venerable Koraṇḍapupphiya Thera spoke these verses.  
 The legend of Koraṇḍapupphiya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

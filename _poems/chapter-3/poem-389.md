@@ -2,59 +2,73 @@
 When Vipassi’s dispensation[^3]  
 \[arose\], I made a single cave[^4]  
 in Bandhumā, royal city,  
-for the monks[^5] in four directions. (1) \[3326\]  
+for the monks[^5] in four directions. (1) \[3326\]
+
 Covering[^6] the floor of the cave  
 with rugs, I dedicated \[it\].  
 Happy, with rapture in \[my\] heart,  
-I then made this aspiration: (2) \[3327\]  
+I then made this aspiration: (2) \[3327\]
+
 “Were I to please[^7] a Sambuddha  
 and to get to renounce \[the world\],[^8]  
 I should attain ultimate peace  
-and the unexcelled nirvana.” (3) \[3328\]  
+and the unexcelled nirvana.” (3) \[3328\]
+
 Just because of those good roots,  
 transmigrating ninety aeons,  
 born as a god or else a man,  
-I shined, a doer of merit. (4) \[3329\]  
+I shined, a doer of merit. (4) \[3329\]
+
 As the remainder of that deed,  
 here in this final existence,  
 I was born as the only son  
-of Campa’s foremost millionaire. (5) \[3330\]  
+of Campa’s foremost millionaire. (5) \[3330\]
+
 Having heard that I had been born,[^9]  
 this was the wish of my father:  
 “I am giving to this \[young\] boy  
-an entire two hundred million.”[^10] (6) \[3331\]  
+an entire two hundred million.”[^10] (6) \[3331\]
+
 Hair four fingers wide was produced  
 on the soles of both of my feet.  
 It was fine and soft to the touch,  
-beautiful, just like cotton wool.[^11] (7) \[3332\]  
+beautiful, just like cotton wool.[^11] (7) \[3332\]
+
 In the past for ninety aeons,  
 \[and\] this \[aeon\] one more than that,  
 I’ve not come to know my feet placed  
-on \[any\] ground that lacks a rug. (8) \[3333\]  
+on \[any\] ground that lacks a rug. (8) \[3333\]
+
 The Sambuddha was pleased by me;  
 I went forth into homelessness.  
 I have attained arahantship;  
-cooled off, I am in nirvana.[^12] (9) \[3334\]  
+cooled off, I am in nirvana.[^12] (9) \[3334\]
+
 Appointed by the All-Seer  
 “foremost among resolute \[monks,\]”[^13]  
 \[I’m\] undefiled, an arahant,  
-six knowledge-holder, powerful.[^14] (10) \[3335\]  
+six knowledge-holder, powerful.[^14] (10) \[3335\]
+
 In the ninety-one aeons since  
 I gave \[the Buddha\] that gift then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of giving a cave. (11) \[3336\]  
+that’s the fruit of giving a cave. (11) \[3336\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (12) \[3337\]  
+\[I have\] done what the Buddha taught! (12) \[3337\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (13) \[3338\]  
+I am living without constraint. (13) \[3338\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (14) \[3339\]  
+\[I have\] done what the Buddha taught! (14) \[3339\]
+
 Soṇa Koṭivisa Thera  
 in front of the monks’ Assembly,  
 being asked questions \[then\] answered  

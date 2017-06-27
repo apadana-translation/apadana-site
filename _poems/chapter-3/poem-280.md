@@ -2,19 +2,23 @@
 On a rough spot on the highway,  
 I caused a bridge to be fashioned  
 for the sake of the world’s crossing,  
-\[feeling well-\]pleased by \[my\] own hands. (1) \[2619\]  
+\[feeling well-\]pleased by \[my\] own hands. (1) \[2619\]
+
 In the ninety-one aeons since  
 that bridge got constructed by me,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of giving a bridge. (2) \[2620\]  
+that’s the fruit of giving a bridge. (2) \[2620\]
+
 In the fifty-fifth aeon hence  
 there was one \[man\], Samogadha,[^2]  
 a wheel-turning king with great strength,  
-possessor of the seven gems. (3) \[2621\]  
+possessor of the seven gems. (3) \[2621\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[2622\]  
+\[I have\] done what the Buddha taught! (4) \[2622\]
+
 Thus indeed Venerable Taraṇiya Thera spoke these verses.  
 The legend of Taraṇiya Thera is finished.  
 The summary:  

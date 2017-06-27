@@ -2,19 +2,23 @@
 The Blessed One, Piyadassi’s  
 walkway was purified by me,  
 with a covering made of reeds[^2]  
-to block the wind and heat \[for him\]. (1) \[2369\]  
+to block the wind and heat \[for him\]. (1) \[2369\]
+
 For the sake of punishing sin,[^3]  
 there is achievement of goodness.[^4]  
 To destroy defilements[^5] I  
-worked hard in the dispensation.[^6] (2) \[2370\]  
+worked hard in the dispensation.[^6] (2) \[2370\]
+
 In the eleventh aeon hence  
 \[lived one\] known as Aggideva,[^7]  
 a wheel-turning king with great strength,  
-possessor of the seven gems. (3) \[2371\]  
+possessor of the seven gems. (3) \[2371\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[2372\]  
+\[I have\] done what the Buddha taught! (4) \[2372\]
+
 Thus indeed Venerable Pāpanivāriya Thera spoke these verses.  
 The legend of Pāpanivāriya Thera is finished.  
 The Summary:  

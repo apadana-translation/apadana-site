@@ -2,7 +2,8 @@
 Rising up from meditation,[^2]  
 \[the Buddha\][^3] approached me for alms.  
 Same as the cosmic mountain,[^4] he  
-was like the bearer of the earth.[^5] (1) \[2627\]  
+was like the bearer of the earth.[^5] (1) \[2627\]
+
 Myrobalan[^6] \[and\] gooseberry,[^7]  
 mango,[^8] rose-apple,[^9] bahera,[^10]  
 jujube,[^11] markingnut,[^12] bel,[^13]  
@@ -14,15 +15,18 @@ the Pitier of Every World.[^15] (2-3) \[2628-2629\]
 In the ninety-four aeons since  
 I gave that fruit \[to him\] back then,  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving fruit. (4) \[2630\]  
+that is the fruit of giving fruit. (4) \[2630\]
+
 In the fifty-seventh aeon  
 hence \[lived\] a ruler,[^16] Ekajjha,[^17]  
 a wheel-turning king with great strength,  
-possessor of the seven gems. (5) \[2631\]  
+possessor of the seven gems. (5) \[2631\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[2632\]  
+\[I have\] done what the Buddha taught! (6) \[2632\]
+
 Thus indeed Venerable Phaladāyaka Thera spoke these verses.  
 The legend of Phaladāyaka Thera is finished.  
 [^1]: “Fruit-Donor”. cf. \#87, \#127, \#140, \#305 (more? xxx)  

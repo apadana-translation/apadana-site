@@ -2,7 +2,8 @@
 In the past, in a forest grove,  
 I was a man who hunted deer.  
 Seeing \[Buddha’s\] green *pāṭali*[^2]  
-I scattered three flowers \[on it\]. (1) \[1582\]  
+I scattered three flowers \[on it\]. (1) \[1582\]
+
 Then picking up the fallen[^3] leaves  
 I threw them \[all\] away outside.  
 Worshipping the *pāṭali* \[tree\],  
@@ -14,15 +15,18 @@ I passed away \[right\] on the spot.[^4] (2-3) \[1583-1584\]
 In the ninety-one aeons since  
 I performed that Bodhi-*pūjā,*  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Bodhi-*pūjā.* (4) \[1585\]  
+that’s the fruit of Bodhi-*pūjā.* (4) \[1585\]
+
 In the thirtieth aeons hence  
 there were thirteen kings who were \[all\]  
 named Samantapāsādika,[^5]  
-wheel-turning monarchs with great strength. (5) \[1586\]  
+wheel-turning monarchs with great strength. (5) \[1586\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[1587\]  
+\[I have\] done what the Buddha taught! (6) \[1587\]
+
 Thus indeed Venerable Tipupphiya Thera spoke these verses.  
 The legend of Tipupphiya Thera is finished.  
 [^1]: “Three-Flower-er”  

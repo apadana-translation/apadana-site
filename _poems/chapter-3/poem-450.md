@@ -2,11 +2,13 @@
 Happy, with pleasure in \[my\] heart,  
 I had a Bodhi-tree shrine[^3] made  
 for Siddhattha, the Blessed One,  
-the Biped-Lord, the Neutral One. (1) \[4785\]  
+the Biped-Lord, the Neutral One. (1) \[4785\]
+
 Being reborn in Tusitā,[^4]  
 I live in a house \[made of\] gems.  
 There’s neither cold nor hot for me;  
-the wind does not touch my body. (2) \[4786\]  
+the wind does not touch my body. (2) \[4786\]
+
 In the fifty-sixth aeon hence  
 I was a wheel-turning monarch;  
 my city known as Kāsika,[^5]  
@@ -18,35 +20,43 @@ of\][^7] sticks \[or of\] vines \[or of\] clay. (3-4) \[4787-4788\]
 \[My\] palace known as Maṅgala,[^8]  
 constructed by Vissakamma,  
 \[measured\] a league across \[in length,\]  
-and it was a half a league wide. (5) \[4789\]  
+and it was a half a league wide. (5) \[4789\]
+
 \[Its\] eighty-four thousand pillars  
 were \[all made out of solid\] gold;  
 the pinnacles were made of gems,  
-and the roofs were \[made of\] silver. (6) \[4790\]  
+and the roofs were \[made of\] silver. (6) \[4790\]
+
 That house all made of \[solid\] gold,  
 constructed by Vissakamma,  
 was occupied by me \[back then\]:  
-that’s the fruit of giving a shrine.[^9] (7) \[4791\]  
+that’s the fruit of giving a shrine.[^9] (7) \[4791\]
+
 After enjoying all of that,  
 in the world[^10] of gods \[and of\] men,  
 today I have reached nirvana,  
-the peaceful state that’s unexcelled. (8) \[4792\]  
+the peaceful state that’s unexcelled. (8) \[4792\]
+
 In the ninety-four aeons since  
 I had that Bodhi\[-tree-\]shrine made,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of giving a shrine. (9) \[4793\]  
+that’s the fruit of giving a shrine. (9) \[4793\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (10) \[4794\]  
+I am living without constraint. (10) \[4794\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (11) \[4795\]  
+\[I have\] done what the Buddha taught! (11) \[4795\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (12) \[4796\]  
+\[I have\] done what the Buddha taught! (12) \[4796\]
+
 Thus indeed Venerable Bodhighariya Thera spoke these verses.  
 The legend of Bodhighariya Thera is finished.  
 The Summary:  

@@ -2,7 +2,8 @@
 One hundred thousand aeons hence  
 the Leader arose \[in the world\],  
 the Hero, Friend of Every World,[^3]  
-who name was Padumuttara. (1) \[5811\]  
+who name was Padumuttara. (1) \[5811\]
+
 Being a brahmin at that time,  
 distinguished,[^4] a Vedic master,  
 wandering during siesta,  
@@ -38,35 +39,43 @@ he’s wishing for that \[foremost\] place
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (10) \[5820\]  
+will be the Teacher in the world. (10) \[5820\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 named Kumāra-Kassapa, he  
-will be the Teacher’s follower. (11) \[5821\]  
+will be the Teacher’s follower. (11) \[5821\]
+
 Through the power of that cloth with  
 varied flowers and gems \[as well\],  
 he will attain the foremost \[place\]  
-of \[preachers\] with varied discourse.” (12) \[5822\]  
+of \[preachers\] with varied discourse.” (12) \[5822\]
+
 Due to that karma done very well,  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body,  
-I went to Tāvatiṃsa \[then\]. (13) \[5823\]  
+I went to Tāvatiṃsa \[then\]. (13) \[5823\]
+
 Touring[^11] the space of existence  
 like an actor upon the stage,[^12]  
 the son of a deer \[named\] Sākhā,[^13]  
-I entered the womb of a doe. (14) \[5824\]  
+I entered the womb of a doe. (14) \[5824\]
+
 \[And\] then while I was in the womb,  
 \[my mother’s\] turn to die stood nigh.[^14]  
 Turned out[^15] by Sākhā, my mother  
-went to Nigrodha for refuge. (15) \[5825\]  
+went to Nigrodha for refuge. (15) \[5825\]
+
 By that deer-king \[Nigrodha\], she  
 was released from \[her pending\] death.  
 Sacrificing his life \[instead\],  
-\[Nigrodha\] then advised me thus: (16) \[5826\]  
+\[Nigrodha\] then advised me thus: (16) \[5826\]
+
 “Only Nigrodha should be served;  
 don’t keep company with Sākhā.[^16]  
 Better death in Nirodha\[‘s care\]  
-than life in \[the care of\] Sākhā.” (17) \[5827\]  
+than life in \[the care of\] Sākhā.” (17) \[5827\]
+
 Instructed by that advice of the deer\[-king\],  
 my mother and I, because of his advice,  
 to the delightful Tusitā heaven came[^17]  
@@ -75,23 +84,28 @@ as though \[we\] had gone abroad, taking \[our\] house. (18-19)
 Again, when Hero Kassapa’s  
 dispensation had reached \[its\] goal,  
 ascending to a mountain-top  
-engaged in the Victor’s teachings,[^19] (20) \[5829\]  
+engaged in the Victor’s teachings,[^19] (20) \[5829\]
+
 now, in Rājagaha[^20] \[city\],  
 I was born in a wealthy[^21] clan.  
 My mother, with \[me in her\] womb,  
-had gone[^22] forth into homelessness. (21) \[5830\]  
+had gone[^22] forth into homelessness. (21) \[5830\]
+
 Finding out that \[she\] was pregnant,  
 they approached Devadatta[^23] then.  
 He said, “let all of you banish[^24]  
-this Buddhist nun[^25] who is evil.” (22) \[5831\]  
+this Buddhist nun[^25] who is evil.” (22) \[5831\]
+
 Now \[she\] too being shown mercy  
 by the Lord of Sages,[^26] Victor,  
 my mother’s \[living\] happily  
-in a convent for Buddhist nuns. (23) \[5832\]  
+in a convent for Buddhist nuns. (23) \[5832\]
+
 Finding that out, the Kosala  
 earth-protector supported me,  
 with the care given to a prince,[^27]  
-and by name I was “Kassapa.” (24) \[5833\]  
+and by name I was “Kassapa.” (24) \[5833\]
+
 Because there was “Great Kassapa,”  
 I \[was known as\] “Boy Kassapa.”  
 Hearing Buddha’s preaching that the  
@@ -103,15 +117,18 @@ I \[then\] attained that foremost place. (25-26) \[5834-5835\]
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (27) \[5836\]  
+I am living without constraint. (27) \[5836\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (28) \[5837\]  
+\[I have\] done what the Buddha taught! (28) \[5837\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (29) \[5838\]  
+\[I have\] done what the Buddha taught! (29) \[5838\]
+
 Thus indeed Venerable Kumāra-Kassapa Thera spoke these verses.  
 The legend of Kumāra-Kassapa Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

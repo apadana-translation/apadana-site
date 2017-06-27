@@ -10,15 +10,18 @@ to Sikhi, Kinsman of the World. (1-2) \[2406-2407\]
 In the thirty-one aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[2408\]  
+that’s the fruit of Buddha-*pūjā.* (3) \[2408\]
+
 In the twenty-seventh aeon  
 hence \[lived\] one lord of the people  
 \[who was\] named Mahāpatāpa[^3]  
-a wheel-turning king with great strength. (4) \[2409\]  
+a wheel-turning king with great strength. (4) \[2409\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[2410\]  
+\[I have\] done what the Buddha taught! (5) \[2410\]
+
 Thus indeed Venerable Vaṭaŋsakiya Thera spoke these verses.  
 The legend of Vaṭaŋsakiya Thera is finished.  
 [^1]: “Chaplet (or Wreath for the Head) \[Donor\].” BJTS gives

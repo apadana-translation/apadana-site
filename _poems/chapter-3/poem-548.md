@@ -2,11 +2,13 @@
 In this \[present\] lucky aeon  
 Brahmā’s Kinsman, Greatly Famed One,  
 known by the name of Kassapa,[^3]  
-Best Debater,[^4] \[Buddha,\] arose. (1) \[6247\]  
+Best Debater,[^4] \[Buddha,\] arose. (1) \[6247\]
+
 Back then \[both\] Candana and I,  
 gone forth[^5] in the dispensation,  
 fulfilling *Dhamma* to the end  
-of life in the dispensation, (2) \[6248\]  
+of life in the dispensation, (2) \[6248\]
+
 fallen from there were both reborn  
 \[as gods\] in Tusitā heaven.  
 Having surpassed the others[^6] there,  
@@ -18,35 +20,43 @@ we’re enjoying great happiness. (3-4) \[6249-6250\]
 Falling from there, Candana was  
 reborn among the thirty \[gods\];  
 I was a son of the Śākyas,[^7]  
-in Kapilavastu city. (5) \[6251\]  
+in Kapilavastu city. (5) \[6251\]
+
 When \[the Buddha\], the World’s Leader,  
 asked by the Elder, Udāyi,[^8]  
 with compassion for the Śākyas  
-returned[^9] to Kapilavastu, (6) \[6252\]  
+returned[^9] to Kapilavastu, (6) \[6252\]
+
 the proud among the Śākyans then,  
 not knowing the Buddha’s virtue,  
 aren’t bowing to the Sambuddha,  
-caste-conceited,[^10] disrespectful.[^11] (7) \[6253\]  
+caste-conceited,[^10] disrespectful.[^11] (7) \[6253\]
+
 Discerning what they were thinking,  
 walking back and forth in the sky,  
 the Victor rained like the Rain-God,[^12]  
-\[and\] blazed forth like the God of Fire.[^13] (8) \[6254\]  
+\[and\] blazed forth like the God of Fire.[^13] (8) \[6254\]
+
 Displaying his unequaled form,  
 he made \[it\] disappear again.  
 Having been one, he was many,  
-\[and then\] again he was alone. (9) \[6255\]  
+\[and then\] again he was alone. (9) \[6255\]
+
 He showed \[himself\] in varied forms,  
 in darkness as well as bright light.  
 Having performed that miracle,  
-the Sage instructed \[his\] kinsmen. (10) \[6256\]  
+the Sage instructed \[his\] kinsmen. (10) \[6256\]
+
 A huge cloud four continents\[-wide\]  
 rained forth \[on the world\] all the time.  
 Then the Buddha preached \[to them all\]  
-the *Vessantara Jātaka.*[^14] (11) \[6257\]  
+the *Vessantara Jātaka.*[^14] (11) \[6257\]
+
 At that time all those kṣatriyans,  
 having slain \[their\] caste-born conceit,  
 approached the Buddha for refuge.  
-Then \[King\] Suddhodana[^15] said this: (12) \[6258\]  
+Then \[King\] Suddhodana[^15] said this: (12) \[6258\]
+
 “O Very Wise One[^16] this is the third time I’m  
 worshipping your feet, One with Eyes on All Sides;[^17]  
 \[the first time was\] when \[your\] birth caused the earth to quake,  
@@ -55,55 +65,68 @@ worshipping your feet, One with Eyes on All Sides;[^17]
 Seeing the Buddha’s majestic  
 power,[^20] I \[too\] was astonished.[^21]  
 Having gone forth right on that spot,  
-I dwelt, worshipped by \[my\] mother.[^22] (14) \[6260\]  
+I dwelt, worshipped by \[my\] mother.[^22] (14) \[6260\]
+
 Candana, \[now\] son of a god,  
 approached me, then examined[^23] \[me\]  
 on the *Bhaddekaratta Sutta,*[^24]  
-in abridged \[and\] extended forms.[^25] (15) \[6261\]  
+in abridged \[and\] extended forms.[^25] (15) \[6261\]
+
 Then being incited by him,  
 I approached the Leader of Men.[^26]  
 Hearing the *Bhaddekaratta*,  
-moved,[^27] I longed for the forest\[-life\]. (16) \[6262\]  
+moved,[^27] I longed for the forest\[-life\]. (16) \[6262\]
+
 Then I asked \[my\] mother \[about\]  
 going alone to the forest.  
 My mother said, “You’re Delicate.  
-Refrain from that \[course\].”[^28] Then I said: (17) \[6263\]  
+Refrain from that \[course\].”[^28] Then I said: (17) \[6263\]
+
 “\[When\] I’m practicing solitude,[^29]  
 I will push away with \[my\] chest  
 sacrificial grass[^30] \[and\] cane grass,[^31]  
-cuscus grass,[^32] tender grass,[^33] coarse grass.[^34] (18) \[6264\]  
+cuscus grass,[^32] tender grass,[^33] coarse grass.[^34] (18) \[6264\]
+
 Gone into the woods, recalling  
 the Victor’s dispensation, the  
 advice \[in\] *Bhaddekaratta,*  
-I attained \[my\] arahantship. (19) \[6265\]  
+I attained \[my\] arahantship. (19) \[6265\]
+
 The past is not to be pursued;  
 the future's not to be longed for.  
 What is past has been left behind,  
-and the future is unattained. (20) \[6266\]  
+and the future is unattained. (20) \[6266\]
+
 Everywhere[^35] he who sees clearly  
 a thing which arises \[then falls\],  
 that wise one[^36] fosters[^37] \[nirvana\],  
-unconquerable \[and\] steady. (21) \[6267\]  
+unconquerable \[and\] steady. (21) \[6267\]
+
 \[Now,\] today[^38] effort should be made;[^39]  
 who knows[^40] \[if there’s\] death tomorrow?  
 There exists no contract for us[^41]  
-with the massive army of Death. (22) \[6268\]  
+with the massive army of Death. (22) \[6268\]
+
 “Living thus, making great effort,  
 day and night, without laziness,  
 that indeed’s *Bhaddekaratto,*”  
-\[so\] says[^42] the Sage, the Peaceful One.”[^43] (23) \[6269\]  
+\[so\] says[^42] the Sage, the Peaceful One.”[^43] (23) \[6269\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (24) \[6270\]  
+I am living without constraint. (24) \[6270\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (25) \[6271\]  
+\[I have\] done what the Buddha taught! (25) \[6271\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (26) \[6272\]  
+\[I have\] done what the Buddha taught! (26) \[6272\]
+
 Thus indeed Venerable Lomasakaṅgiya Thera spoke these verses.  
 The legend of Lomasakaṅgiya Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
@@ -119,7 +142,8 @@ The legend of Lomasakaṅgiya Thera is finished.
 [^6]: lit., “the rest” “the remainder”  
 [^7]: i.e., a kinsman of the Buddha’s, born in the same (Sākiya = Śākya)
     clan as the Buddha  
-[^8]: that is, Kāḷudāyi, \#543 {546}, above, v. 25 \[6212\]  
+[^8]: that is, Kāḷudāyi, \#543 {546}, above, v. 25 \[6212\]
+
 [^9]: *upesi,* lit., “came up to”  
 [^10]: *jātitthaddhā*  
 [^11]: *anādarā*  

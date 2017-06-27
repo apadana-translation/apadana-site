@@ -2,23 +2,28 @@
 Having been the son of a god,  
 I worshipped[^2] Sikhi, the Leader  
 with *mandārava* blossoms \[which\]  
-I offered to the Buddha \[then\]. (1) \[2017\]  
+I offered to the Buddha \[then\]. (1) \[2017\]
+
 That divine garland covered the  
 Thus-Gone-One for an entire week.  
 All the people assembled \[there,\]  
-venerating the Thus-Gone-One. (2) \[2018\]  
+venerating the Thus-Gone-One. (2) \[2018\]
+
 In the thirty-one aeons since  
 I did that flower-*pūjā* \[then\]*,*  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[2019\]  
+that’s the fruit of Buddha-*pūjā.* (3) \[2019\]
+
 And in the tenth aeon ago  
 I was the king, Jutindara,[^3]  
 a wheel-turner with great power,  
-possessor of the seven gems. (4) \[2020\]  
+possessor of the seven gems. (4) \[2020\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[2021\]  
+\[I have\] done what the Buddha taught! (5) \[2021\]
+
 Thus indeed Venerable Mandāravapūjaka Thera spoke these verses.  
 The legend of Mandāravapūjaka Thera is finished.  
 [^1]: *“Mandārava-*Flower Offerer.” *Mandārava* (skt. *mandāra*) is the

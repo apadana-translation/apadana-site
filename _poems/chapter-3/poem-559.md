@@ -2,23 +2,28 @@
 When Vipassi, the Sage So Great,  
 was going about as \[he\] wished,  
 seeing \[that his\] bowl was empty,  
-I filled \[it\] with barley porridge.[^3] \[6446\]  
+I filled \[it\] with barley porridge.[^3] \[6446\]
+
 In the ninety-one aeons since  
 I gave that alms food at that time,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of barley porridge. \[6447\]  
+that’s the fruit of barley porridge. \[6447\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. \[6448\]  
+I am living without constraint. \[6448\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! \[6449\]  
+\[I have\] done what the Buddha taught! \[6449\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! \[6450\]  
+\[I have\] done what the Buddha taught! \[6450\]
+
 Thus indeed Venerable Sīvaka Thera spoke these verses.  
 The legend of Sīvaka Thera, the ninth.  
 The Summary of That:  

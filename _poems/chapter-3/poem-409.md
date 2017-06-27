@@ -2,104 +2,129 @@
 In the city, Haṃsavatī,  
 I was the son of a rich man.[^3]  
 I amuse myself all the time,  
-endowed with sensual pleasures. (1) \[4165\]  
+endowed with sensual pleasures. (1) \[4165\]
+
 Ascending \[one\] palace \[of\] three[^4]  
 raised up[^5] \[for me by\] architects,[^6]  
 I amuse myself constantly  
-with dancing and with singing there. (2) \[4166\]  
+with dancing and with singing there. (2) \[4166\]
+
 Musical instruments[^7] played[^8] for  
 me, keep up the right melody.[^9]  
 All of the women are dancing;  
-they’re carrying my mind away. (3) \[4167\]  
+they’re carrying my mind away. (3) \[4167\]
+
 Head-twisters,[^10] tiny dwarf-dancers,[^11]  
 bower-crouchers,[^12] in-the-middlers,[^13]  
 leapers[^14] and comedy-dancers[^15]  
-are always entertaining me. (4) \[4168\]  
+are always entertaining me. (4) \[4168\]
+
 Cymbal-beaters,[^16] *kumbhathūn-*ers,[^17]  
 many dancers,[^18] puppet-masters;[^19]  
 \[those\] dancers and puppet-masters  
-are always entertaining me. (5) \[4169\]  
+are always entertaining me. (5) \[4169\]
+
 Bath boys[^20] \[and\] []{#BookmarkCopy1 .anchor}those who dress the
 hair,[^21]  
 cooks,[^22] garland-makers,[^23] dice-players,[^24]  
 all the boxers[^25] \[and\] the wrestlers[^26]  
-are always entertaining me. (6) \[4170\]  
+are always entertaining me. (6) \[4170\]
+
 When those well-trained[^27] professionals[^28]  
 are playing at those \[different[^29] arts\],  
 I do not know the night from day,  
-like Indra[^30] with the thirty gods.[^31] (7) \[4171\]  
+like Indra[^30] with the thirty gods.[^31] (7) \[4171\]
+
 Wayfarers,[^32] people on the road,[^33]  
 beggars[^34] and many travelers,[^35]  
 they are always approaching \[me,\]  
-\[and\] taking \[their\] meals at my house. (8) \[4172\]  
+\[and\] taking \[their\] meals at my house. (8) \[4172\]
+
 \[Buddhist\] monks and also brahmins,  
 the unexcelled fields[^36] for merit,  
 working to increase[^37] my merit  
-are \[also\] coming to my house. (9) \[4173\]  
+are \[also\] coming to my house. (9) \[4173\]
+
 All the Jains: the *Padaka*s[^38] the  
 *Laṭakas,*[^39] *Pupphasāṭakas,*[^40]  
 *Tedaṇḍakas,*[^41] *Ekasikhas*[^42]  
-are \[also\] coming to my house. (10) \[4174\]  
+are \[also\] coming to my house. (10) \[4174\]
+
 Ājīvikas: the *Godhammas,*[^43]  
 *Viluttāvīs,*[^44] *Devadhammis,*[^45]  
 \[and the\] *Rajojalladharas,*[^46]  
-are \[also\] coming to my house. (11) \[4175\]  
+are \[also\] coming to my house. (11) \[4175\]
+
 Ascetics and forest dwellers:  
 *Parivattakas,*[^47] *Siddhipattas*[^48]  
 many *Koṇḍas,*[^49] *Puggalikas,*[^50]  
-are \[also\] coming to my house. (12) \[4176\]  
+are \[also\] coming to my house. (12) \[4176\]
+
 *Oḍḍakas,*[^51] also *Damiḷas,*[^52]  
 *Sākulas,*[^53] *Malayāḷakas,*[^54]  
 *Sabaras,*[^55] and *Yonakas*[^56] too  
-are \[also\] coming to my house. (13) \[4177\]  
+are \[also\] coming to my house. (13) \[4177\]
+
 *Andhakas*,[^57] all the *Muṇḍakas,*[^58]  
 *Kolakas,*[^59] *Sānuvindakas,*[^60]  
 and *Ārāvacīnaraṭṭhas*[^61]  
-are \[also\] coming to my house. (14) \[4178\]  
+are \[also\] coming to my house. (14) \[4178\]
+
 *Alasandakas,*[^62] *Pallavakas,*[^63]  
 *Babbaras,*[^64] *Bhagga-kārusas,*[^65]  
 *Rohitas*[^66] and *Cetaputtas*,[^67]  
-are \[also\] coming to my house. (15) \[4179\]  
+are \[also\] coming to my house. (15) \[4179\]
+
 *Madhurakas*,[^68] *Kosalakas,*[^69]  
 *Kāsikas,*[^70] *Hatthiporakas*,[^71]  
 *Isiṇḍas,*[^72] and *Matthalas*[^73] \[too\]  
-are \[also\] coming to my house. (16) \[4180\]  
+are \[also\] coming to my house. (16) \[4180\]
+
 *Velāvakas*[^74] and *Arammas,*[^75]  
 *Okkalas*,[^76] many *Mekalas*,[^77]  
 *Khuddakas*[^78] and *Suddakas*[^79] \[too\]  
-are \[also\] coming to my house. (17) \[4181\]  
+are \[also\] coming to my house. (17) \[4181\]
+
 *Rohanas,*[^80] also *Sindhava*s,[^81]  
 *Cittas*[^82] \[and\] *Ekakaṇṇikas,*[^83]  
 *Suraṭṭhas*[^84] and *Aparantas*[^85]  
-are \[also\] coming to my house. (18) \[4182\]  
+are \[also\] coming to my house. (18) \[4182\]
+
 *Suppārikas,*[^86] *Kikumāras*[^87]  
 *Malayas*,[^88] *Soṇṇabhūmakas*,[^89]  
 *Vajjihāras*[^90] too, all of them  
-are \[also\] coming to my house. (19) \[4183\]  
+are \[also\] coming to my house. (19) \[4183\]
+
 Basket-makers,[^91] also weavers,[^92]  
 leather workers[^93] and carpenters,[^94]  
 metal-smiths[^95] as well as potters[^96]  
-are \[also\] coming to my house. (20) \[4184\]  
+are \[also\] coming to my house. (20) \[4184\]
+
 Gem-sellers[^97] and bronze-purveyors,[^98]  
 workers in gold[^99] and cloth-merchants,[^100]  
 and those who work in tin, they all  
-are \[also\] coming to my house. (21) \[4185\]  
+are \[also\] coming to my house. (21) \[4185\]
+
 Fletchers[^101] and the makers of bows,[^102]  
 weavers[^103] and makers of perfumes,[^104][]{#BookmarkCopy12 .anchor}  
 as well as tailors,[^105] all of them  
-are \[also\] coming to my house. (22) \[4186\]  
+are \[also\] coming to my house. (22) \[4186\]
+
 Oil-handlers[^106] and wood-gatherers,[^107]  
 water-carriers[^108] and servants,  
 cooks[^109] and those who protect the soup[^110]  
-are \[also\] coming to my house. (23) \[4187\]  
+are \[also\] coming to my house. (23) \[4187\]
+
 Gate-keepers[^111] and sentinels,[^112]  
 eulogizers,[^113] flower-pluckers,  
 elephant riders[^114] and keepers[^115]  
-are \[also\] coming to my house. (24) \[4188\]  
+are \[also\] coming to my house. (24) \[4188\]
+
 I gave \[wealth\] to the indolent  
 Maharaja \[named\] Ānanda,  
 covering[^116] his deficiency  
-with gems of the seven colors. (25) \[4189\]  
+with gems of the seven colors. (25) \[4189\]
+
 I satisfied with gemstones all  
 those people who were praised by me,  
 the multi-colored populace,  
@@ -107,115 +132,143 @@ discerning what they were thinking. (26) \[4190
 When the lovely words were spoken,  
 when the drums were being sounded,  
 when the conch-shells were being blown,  
-I’m delighting in \[my\] own house. (27) \[4191\]  
+I’m delighting in \[my\] own house. (27) \[4191\]
+
 The Buddha[^117] in that period  
 was Leader Padumuttara.  
 He was with one hundred thousand  
-whose defilements were \[now\] extinct.[^118] (28) \[4192\]  
+whose defilements were \[now\] extinct.[^118] (28) \[4192\]
+
 The Eyeful One had gone onto  
 the road, together with the monks.  
 Lighting up Every[^119] Direction,  
-he blazed forth like a tree of lamps. (29) \[4193\]  
+he blazed forth like a tree of lamps. (29) \[4193\]
+
 They all are pounding on[^120] \[their\] drums  
 for the traveling World-Leader.  
 His \[brilliant\] light is being shed,  
-like the sun \[when it\] has risen. (30) \[4194\]  
+like the sun \[when it\] has risen. (30) \[4194\]
+
 Even behind[^121] paneled windows  
 not penetrated by its rays,  
 all the time, inside the houses,  
-there was an enormous brilliance. (31) \[4195\]  
+there was an enormous brilliance. (31) \[4195\]
+
 After seeing the Buddha’s light,  
 I said to the assemblymen,  
 “Without a doubt the Best Buddha  
-is this one going on the road.” (32) \[4196\]  
+is this one going on the road.” (32) \[4196\]
+
 Having come down from the palace,  
 I quickly went to the bazaar.  
 Having greeted the Sambuddha,  
-I spoke these words \[to him back then\]: (33) \[4197\]  
+I spoke these words \[to him back then\]: (33) \[4197\]
+
 “O may the Buddha pity me,  
 the Leader \[named\] Supreme Lotus.”  
 The Sage \[then\] consented \[to come\],  
-with the hundred thousand masters. (34) \[4198\]  
+with the hundred thousand masters. (34) \[4198\]
+
 \[Thus\] inviting the Sambuddha,  
 I led him to \[my\] own \[great\] house.  
 There I satisfied the Great Sage  
-with food \[to eat\] and drinks \[to drink\]. (35) \[4199\]  
+with food \[to eat\] and drinks \[to drink\]. (35) \[4199\]
+
 Knowing it grew too late to eat  
 for the Best Buddha, Neutral One,  
 I served the Best Buddha with a  
-hundred musical instruments. (36) \[4200\]  
+hundred musical instruments. (36) \[4200\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 sitting down inside \[my own\] house,  
-spoke these verses \[about me then\]: (37) \[4201\]  
+spoke these verses \[about me then\]: (37) \[4201\]
+
 “He who served me with instruments,  
 and who gave me \[alms\] food and drink,  
 I shall relate details of him;  
-\[all of\] you listen to my words: (38) \[4202\]  
+\[all of\] you listen to my words: (38) \[4202\]
+
 This man is going to make the \[whole\]  
 world[^122] into a single kingdom.  
 Possessing gold, possessing wealth,  
-he’ll be one with abundant food. (39) \[4203\]  
+he’ll be one with abundant food. (39) \[4203\]
+
 Undertaking the five precepts,[^123]  
 \[and\] then the ten ways of acting;[^124]  
 undertaking, making progress,  
-he will \[then\] train his retinue. (40) \[4204\]  
+he will \[then\] train his retinue. (40) \[4204\]
+
 Sixty thousand instruments \[and\]  
 women who are all-adorned  
 will play for this one constantly:  
-that is the fruit of attendance. (41) \[4205\]  
+that is the fruit of attendance. (41) \[4205\]
+
 For thirty thousand aeons he  
 will delight in the world of gods.  
 Sixty-four times the lord of gods,  
-he will exercise divine rule. (42) \[4206\]  
+he will exercise divine rule. (42) \[4206\]
+
 And seventy-four times he’ll be  
 a king who turns the wheel \[of law\],  
 \[and there will be\] much local rule,  
-innumerable by counting. (43) \[4207\]  
+innumerable by counting. (43) \[4207\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (44) \[4208\]  
+will be the Teacher in the world. (44) \[4208\]
+
 In whichever womb he’s reborn,  
 \[whether\] it’s human or divine,  
 being one with no lack of wealth,  
-he will go to the human state. (45) \[4209\]  
+he will go to the human state. (45) \[4209\]
+
 Having become a learned man,  
 a master of the three Vedas,  
 this one will wander the \[whole\] earth,  
-searching for ultimate meaning. (46) \[4210\]  
+searching for ultimate meaning. (46) \[4210\]
+
 And afterwards he will go forth,  
 incited by his wholesome roots.  
 He’ll thrill in the dispensation  
-of Gotama, the Blessed One. (47) \[4211\]  
+of Gotama, the Blessed One. (47) \[4211\]
+
 After pleasing the Sambuddha,  
 Gotama, Bull of the Śākyas,  
 having burnt up \[his\] defilements,  
-this one will become an arahant.” (48) \[4212\]  
+this one will become an arahant.” (48) \[4212\]
+
 Like a tiger-king in the woods,  
 like a lion, king of the beasts,  
 today I’m living without fear  
-in the Buddha’s[^125] dispensation. (49) \[4213\]  
+in the Buddha’s[^125] dispensation. (49) \[4213\]
+
 I do not see me being born  
 in want or in a bad rebirth  
 in the world of gods or people:  
-that is the fruit of attendance. (50) \[4213\]  
+that is the fruit of attendance. (50) \[4213\]
+
 I’m \[now\] intent on seclusion,[^126]  
 calmed,[^127] devoid of grounds for rebirth;[^128]  
 like elephants with broken chains,  
-I am living without constraint. (51) \[4215\]  
+I am living without constraint. (51) \[4215\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (52) \[4216\]  
+I am living without constraint. (52) \[4216\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (53) \[4217\]  
+\[I have\] done what the Buddha taught! (53) \[4217\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (54) \[4218\]  
+\[I have\] done what the Buddha taught! (54) \[4218\]
+
 Thus indeed Venerable Jatukaṇṇika Thera spoke these verses.  
 The legend of Jatukaṇṇika Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

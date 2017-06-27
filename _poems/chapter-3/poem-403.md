@@ -2,107 +2,133 @@
 In the Himalayan region,  
 there’s a mountain named Asoka.[^3]  
 In that place was my hermitage,  
-constructed by Vissakamma.[^4] (1) \[3935\]  
+constructed by Vissakamma.[^4] (1) \[3935\]
+
 The Sambuddha named Sumedha,  
 Chief,[^5] Compassionate One,[^6] the Sage,[^7]  
 dressing himself in the morning,  
-approached me \[begging\] for alms food. (2) \[3936\]  
+approached me \[begging\] for alms food. (2) \[3936\]
+
 \[Seeing\] the Great Hero who’d come,[^8]  
 Sumedha, Leader of the World,  
 taking a good alms-bowl, I  
-filled it with clarified butter.[^9] (3) \[3937\]  
+filled it with clarified butter.[^9] (3) \[3937\]
+
 Giving it to[^10] the Best Buddha,  
 Sumedha, Leader of the World,  
 pressing both my hands together,  
-I brought pleasure to \[my\] heart \[there\]. (4) \[3938\]  
+I brought pleasure to \[my\] heart \[there\]. (4) \[3938\]
+
 Because of this ghee-offering,  
 \[made\] with intention and resolve,  
 \[whether\] born human or divine,  
-I obtain enormous comfort. (5) \[3940\]  
+I obtain enormous comfort. (5) \[3940\]
+
 Avoiding states of suffering,[^11]  
 I transmigrate from birth to birth.  
 Having resolved \[my\] heart on it,[^12]  
-I’m obtaining the deathless state. (6) \[3941\]  
+I’m obtaining the deathless state. (6) \[3941\]
+
 “This gain for you is well-received,  
 which is that you saw me, brahmin.  
 Having arrived to look at me,  
-you’re going to be an arahant. (7) \[3942\]  
+you’re going to be an arahant. (7) \[3942\]
+
 Be confident \[and\] have no fear,  
 after finding the Great-Famed One.  
 Having given \[this\] ghee to me,  
-you will be freed from being born. (8) \[3943\]  
+you will be freed from being born. (8) \[3943\]
+
 Because of this ghee-offering  
 and practicing with loving heart,[^13]  
 for eighteen hundred aeons you  
-will delight in the world of gods. (9) \[3944\]  
+will delight in the world of gods. (9) \[3944\]
+
 And eighteen times you \[also\] will  
 become the king of \[all\] the gods,  
 \[and you will have\] much local rule,  
-innumerable by counting. (10) \[3945\]  
+innumerable by counting. (10) \[3945\]
+
 And fifty-one times you will be  
 a king who turns the wheel \[of law\],  
 lord of the grove of rose-apples,[^14]  
-victorious on \[all\] four sides.[^15] (11) \[3946\]  
+victorious on \[all\] four sides.[^15] (11) \[3946\]
+
 Unperturbed like the great ocean,  
 as hard to carry as the earth,  
 in just that way your possessions  
-are going to be immeasurable.”[^16] (12) \[3947\]  
+are going to be immeasurable.”[^16] (12) \[3947\]
+
 I went forth after giving \[up\]  
 six hundred million \[worth\] of gold.  
 Seeking after what is wholesome,  
-I \[first\] went up to Bāvarī. (13) \[3948\]  
+I \[first\] went up to Bāvarī. (13) \[3948\]
+
 \[While\] I studied the mantras there,  
 Vedic science[^17] and \[reading\] marks,  
 you arose \[in the world\], Great Sage,  
-destroying that bewilderment.[^18] (14) \[3949\]  
+destroying that bewilderment.[^18] (14) \[3949\]
+
 Having a desire to see you,  
 I came \[up to you\], O Great Sage.  
 Having listened to your Teaching,  
-I \[then\] attained the deathless state. (15) \[3950\]  
+I \[then\] attained the deathless state. (15) \[3950\]
+
 Thirty thousand aeons \[ago\]  
 I gave that ghee to the Buddha.  
 In the interval[^19] I don’t know  
-\[any\] begging of ghee[^20] by me. (16) \[3951\]  
+\[any\] begging of ghee[^20] by me. (16) \[3951\]
+
 My intentions being discerned,  
 what I wish for \[then\] arises.  
 My heart discerned \[I am\] reborn,  
-\[and\] I gratify everyone. (17) \[3952\]  
+\[and\] I gratify everyone. (17) \[3952\]
+
 O! the Buddha! O! the Teaching!  
 O! our Teacher’s \[great\] achievement!  
 After giving a bit of ghee,  
-I receive immeasurably. (18) \[3953\]  
+I receive immeasurably. (18) \[3953\]
+
 The water in the great ocean,  
 the extent of Mt. Meru’s slope,  
 would not be[^21] one half a quarter[^22]  
-of the ghee arising for me. (19) \[3954\]  
+of the ghee arising for me. (19) \[3954\]
+
 The universe’s full extent,  
 made into a \[gigantic\] pile  
 would not be able[^23] \[to fill the\]  
-space of the clothing worn by me. (20) \[3955\]  
+space of the clothing worn by me. (20) \[3955\]
+
 Himalaya, king of mountains,  
 although it is the best mountain,  
 is not \[even\] comparable  
-to the perfumes anointing me. (21) \[3956\]  
+to the perfumes anointing me. (21) \[3956\]
+
 Clothes and perfumes and ghee and food,  
 or \[everything\] that’s in the world,  
 and nirvana, unconditioned:[^24]  
-that is the fruit of giving ghee. (22) \[3957\]  
+that is the fruit of giving ghee. (22) \[3957\]
+
 \[My\] couch today is mindfulness,[^25]  
 \[my\] pasture’s meditative states,[^26]  
 \[my\] food is wisdom’s \[seven\] parts:[^27]  
-that is the fruit of giving ghee. (23) \[3958\]  
+that is the fruit of giving ghee. (23) \[3958\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Knowing well all the defilements,  
-I am \[now\] living, undefiled.[]{#BookmarkCopy1 .anchor} (24) \[3959\]  
+I am \[now\] living, undefiled.[]{#BookmarkCopy1 .anchor} (24) \[3959\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (25) \[3960\]  
+\[I have\] done what the Buddha taught! (25) \[3960\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (26) \[3961\]  
+\[I have\] done what the Buddha taught! (26) \[3961\]
+
 Thus indeed Venerable Mettagu Thera spoke these verses.  
 The legend of Mettagu Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

@@ -2,27 +2,33 @@
 With a mind \[which was\] very clear,  
 I gave a single umbrella  
 to the Blessed One \[named\] Tissa,  
-the God of Gods, the Neutral One. (1) \[2313\]  
+the God of Gods, the Neutral One. (1) \[2313\]
+
 The badness[^2] in me is suppressed;  
 there is achievement of goodness.[^3]  
 Umbrella carried in the sky:[^4]  
-the fruit of previous karma. (2) \[2314\]  
+the fruit of previous karma. (2) \[2314\]
+
 \[This is\] my last transmigration,  
 all existences are canceled.  
 I \[now\] possess my last body  
-in the Buddha’s[^5] dispensation. (3) \[2315\]  
+in the Buddha’s[^5] dispensation. (3) \[2315\]
+
 In the ninety-two aeons since  
 I gave that umbrella back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of umbrella-gifts. (4) \[2316\]  
+that’s the fruit of umbrella-gifts. (4) \[2316\]
+
 The seventy-second aeon hence  
 there were eight lords of the people,  
 \[all\] known as Mahānidāna,[^6]  
-kings who were wheel-turning monarchs. (5) \[2317\]  
+kings who were wheel-turning monarchs. (5) \[2317\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[2318\]  
+\[I have\] done what the Buddha taught! (6) \[2318\]
+
 Thus indeed Venerable Vātātapanivāriya Thera spoke these verses.  
 The legend of Vātātapanivāriya Thera is finished.  
 The Summary:  

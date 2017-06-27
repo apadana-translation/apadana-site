@@ -3,7 +3,8 @@
 I saw a green *pāṭali*[^3] tree,  
 foot-drinker growing in the earth.[^4]  
 Resolutely[^5] pressing my hands,  
-I worshipped \[that\] *pāṭali* \[tree\]. (1) \[3220\]  
+I worshipped \[that\] *pāṭali* \[tree\]. (1) \[3220\]
+
 Having pressed hands together,  
 filling[^6] \[my\] mind \[with\] reverence,  
 purified \[both\] inside \[and\] out,[^7]  
@@ -15,11 +16,13 @@ Sea of Compassion and Knowledge. (2-3) \[3221-3222\]
 In the ninety-one aeons since  
 I worshipped that Bodhi \[tree then\],  
 I’ve come to know no bad rebirth:  
-that is the fruit of worshipping. (4) \[3223\]  
+that is the fruit of worshipping. (4) \[3223\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[3224\]  
+\[I have\] done what the Buddha taught! (5) \[3224\]
+
 Thus indeed Venerable Bodhivandaka Thera spoke these verses.  
 The legend of Bodhivandaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

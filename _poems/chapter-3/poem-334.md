@@ -2,11 +2,13 @@
 In the city, Haṃsavatī,  
 I was a grass-bearer \[back then\].  
 I am living by bearing grass,  
-and by that I feed \[my\] children. \[2949\]  
+and by that I feed \[my\] children. \[2949\]
+
 The Victor, Padumuttara,  
 was the Master of Everything.[^2]  
 Doing away with the darkness,  
-the World-Leader arose back then. \[2950\]  
+the World-Leader arose back then. \[2950\]
+
 \[While\] sitting down in \[my\] own house,  
 this is what I thought at that time:  
 “The Buddha’s risen in the world,  
@@ -18,67 +20,83 @@ I will \[now\] plant a donation.” \[2951-2952\]
 Contemplating \[it\] in this way,  
 I brought pleasure to \[my\] own heart.  
 Taking that single piece of cloth,  
-I gave \[it\] to the Best Buddha. \[2953\]  
+I gave \[it\] to the Best Buddha. \[2953\]
+
 Having given \[that\] single cloth,  
 I gave rise to \[great\] shouts of joy,  
 “If you are a Buddha, Wise One,  
-carry me across, O Great Sage.” \[2954\]  
+carry me across, O Great Sage.” \[2954\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 singing the praises of my gift,  
-\[the Buddha\] then gave thanks to me: \[2955\]  
+\[the Buddha\] then gave thanks to me: \[2955\]
+
 “Because of this single cloak\[-gift,\]  
 \[done\] with intention and resolve,  
 he will not go to a bad place  
-for one hundred thousand[^4] aeons. \[2956\]  
+for one hundred thousand[^4] aeons. \[2956\]
+
 Thirty-six times a lord of gods,  
 he will exercise divine rule.  
 And thirty-three times he’ll become  
-a king who turns the wheel \[of law\]. \[2957\]  
+a king who turns the wheel \[of law\]. \[2957\]
+
 There will be much regional rule,  
 incalculable by counting.  
 In the world of gods or of men,  
-you’ll transmigrate in existence. \[2958\]  
+you’ll transmigrate in existence. \[2958\]
+
 Good-looking and full of virtue,  
 with a body that’s not surpassed,  
 you’ll obtain, whenever you wish,  
-unwavering limitless cloth.” \[2959\]  
+unwavering limitless cloth.” \[2959\]
+
 When he had said this, the Buddha  
 known by the name Supreme Lotus,[^5]  
 the Wise One rose into the sky,  
-just like a swan-king in the air. \[2960\]  
+just like a swan-king in the air. \[2960\]
+
 In whichever womb I’m reborn,  
 \[whether\] it’s human or divine,  
 I have no lack of possessions:  
-that’s the fruit of a single cloth. \[2961\]  
+that’s the fruit of a single cloth. \[2961\]
+
 With every footstep \[that I take\],[^6]  
 \[some\] cloth is \[then\] produced for me.  
 I stand upon cloth underneath;  
-a canopy on top of me. \[2962\]  
+a canopy on top of me. \[2962\]
+
 \[And\] today I \[still\] am wishing  
 that I could cover with \[some\] cloth  
 even the \[whole\] universe  
-with \[its\] forests \[and its\] mountains. \[2963\]  
+with \[its\] forests \[and its\] mountains. \[2963\]
+
 Just because of that single cloth,  
 transmigrating from birth to birth,  
 I was[^7] one of golden color,  
-transmigrating from birth to birth.[^8] \[2964\]  
+transmigrating from birth to birth.[^8] \[2964\]
+
 \[One\] result of that single cloth:  
 no ruination anywhere.[^9]  
 This one \[will be my\] final life;  
-\[that\] now is bearing fruit for me. \[2965\]  
+\[that\] now is bearing fruit for me. \[2965\]
+
 In the hundred thousand aeons  
 since I gave that cloth at that time,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of a single cloth. \[2966\]  
+that’s the fruit of a single cloth. \[2966\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. \[2967\]  
+I am living without constraint. \[2967\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! \[2968\]  
+\[I have\] done what the Buddha taught! \[2968\]
+
 Thus indeed Venerable Ekadussadāyaka Thera spoke these verses.  
 The legend of Ekadussadāyaka Thera is finished.  
 [^1]: “One-Cloth-Donor”  

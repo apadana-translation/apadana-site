@@ -2,71 +2,88 @@
 The Victor, Padumuttara,  
 the One with Eyes for everything,  
 the Leader \[of the World,\] arose  
-a hundred thousand aeons hence. (1) \[6118\]  
+a hundred thousand aeons hence. (1) \[6118\]
+
 Just like the waves on the ocean,  
 \[and just\] like the stars in the sky,  
 thus the word of the \[Sambuddha,\]  
-is thought out by the arahants. (2) \[6119\]  
+is thought out by the arahants. (2) \[6119\]
+
 The Supreme Victor, in a crowd  
 mixed with \[Buddhist\] monks and brahmins,  
 is honored by people along  
-with the gods, titans and snake-gods. (3) \[6120\]  
+with the gods, titans and snake-gods. (3) \[6120\]
+
 The Victor, the World-Surpasser,[^3]  
 illuminates[^4] the world with rays,  
 causing to open[^5] through his words  
-the tractable lotus\[-people\].[^6] (4) \[6121\]  
+the tractable lotus\[-people\].[^6] (4) \[6121\]
+
 The Supreme Person, Endowed with  
 the Four Perfect Confidences,[^7]  
 Fear \[and\] Timidness Abandoned,[^8]  
-is Confident,[^9] with Peace Attained.[^10] (5) \[6122\]  
+is Confident,[^9] with Peace Attained.[^10] (5) \[6122\]
+
 The World-Chief is acknowledged as  
 the entire sphere of Buddhahood,[^11]  
 \[which is\] the Excellent Bull’s place;[^12]  
-there is no one who refutes \[that\]. (6) \[6123\]  
+there is no one who refutes \[that\]. (6) \[6123\]
+
 When the Neutral One, \[the Buddha\],  
 fearlessly roars[^13] \[his\] lion’s roar,  
 no god nor man nor God Himself[^14]  
-exists who contradicts \[his words\]. (7) \[6124\]  
+exists who contradicts \[his words\]. (7) \[6124\]
+
 Preaching the excellent *Dhamma*,  
 ferrying \[the world\] with \[its\] gods,  
 Confident among Multitudes,  
-he’s turning the wheel of *Dhamma.* (8) \[6125\]  
+he’s turning the wheel of *Dhamma.* (8) \[6125\]
+
 Praising the lofty virtue of  
 a well-regarded follower,  
 foremost among eloquent[^15] \[monks\],  
-he placed him in that foremost place. (9) \[6126\]  
+he placed him in that foremost place. (9) \[6126\]
+
 I then \[lived\] in Haṃsavatī,  
 a brahmin \[likewise\] well-regarded,  
 born knowing all of the Vedas,  
-lord of speech,[^16] debater-crusher.[^17] (10) \[6127\]  
+lord of speech,[^16] debater-crusher.[^17] (10) \[6127\]
+
 Approaching him, the Great Hero,  
 having heard that *Dhamma-*preaching,  
 I obtained overwhelming joy,[^18]  
-loving the follower’s virtue. (11) \[6128\]  
+loving the follower’s virtue. (11) \[6128\]
+
 Inviting \[him\], the Well-Gone-One,  
 World’s Delighter, with Assembly,  
 I served \[them\] food[^19] for seven days,  
-\[and\] then I covered \[them\] with cloth.[^20] (12) \[6129\]  
+\[and\] then I covered \[them\] with cloth.[^20] (12) \[6129\]
+
 Bowing with \[my\] head at \[his\] feet,  
 granted leave, hands pressed together,  
 happy, standing \[off to\] one side,  
-I praised the Ultimate Victor: (13) \[6130\]  
+I praised the Ultimate Victor: (13) \[6130\]
+
 “Praise to you, Leopard of Sages![^21]  
 Praise to you, O Best of People!  
 Praise to you, Chief of Every World!  
-Praise to you, Fearlessness-Maker![^22] (14) \[6131\]  
+Praise to you, Fearlessness-Maker![^22] (14) \[6131\]
+
 Praise to you, Confuser of Death![^23]  
 Praise to you, Crusher of \[False\] Views![^24]  
 Praise to you, Peaceful Comforter![^25]  
-Praise to you, Gone Beyond Refuge![^26] (15) \[6132\]  
+Praise to you, Gone Beyond Refuge![^26] (15) \[6132\]
+
 Revered One:[^27] Lord for the lordless,  
 Courage-Giver[^28] for the frightened,  
 Resting Place for the exhausted,[^29]  
-Refuge for those seeking refuge.” (16) \[6133\]  
+Refuge for those seeking refuge.” (16) \[6133\]
+
 Praising the One of Great Virtue,[^30]  
 the Sambuddha, in such-like ways,  
 I said to the God of Speakers:[^31]  
-“I’m attaining that monk’s station.”[^32] (17) \[6134\]  
+“I’m attaining that monk’s station.”[^32] (17) \[6134\]
+
 He of Limitless Eloquence,[^33]  
 the Blessed One, said at that time:  
 “This one who worshipped[^34] the Buddha  
@@ -78,48 +95,59 @@ of the monk who’s god of speakers. (18-19) \[6135-6136\]
 Very far into the future,  
 he’ll receive that delightful \[place,\]  
 enjoying, with nothing lacking,  
-happiness[^35] among gods \[and\] men. (20) \[6137\]  
+happiness[^35] among gods \[and\] men. (20) \[6137\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (21) \[6138\]  
+will be the Teacher in the world. (21) \[6138\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 the one whose name is Vaṅgīsa  
-will be the Teacher’s follower.” (22) \[6139\]  
+will be the Teacher’s follower.” (22) \[6139\]
+
 After hearing that I was thrilled,  
 \[and\] then for as long as \[I\] lived ,  
 loving-hearted, I provided  
-the Thus-Gone-One with requisites. (23) \[6140\]  
+the Thus-Gone-One with requisites. (23) \[6140\]
+
 Due to that karma done very well,  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body,  
-I went to Tāvatiṃsa \[then\]. (24) \[6141\]  
+I went to Tāvatiṃsa \[then\]. (24) \[6141\]
+
 And now, in \[my\] final rebirth,  
 I’m born in a mendicant clan.  
 Birth was behind \[me\] when I was  
-\[only\] seven years past \[my\] birth. (25) \[6142\]  
+\[only\] seven years past \[my\] birth. (25) \[6142\]
+
 I’m born knowing all the Vedas,  
 confident among speech-teachers,  
 lovely-sounding, varied speaker,  
-trampling out other speeches. (26) \[6143\]  
+trampling out other speeches. (26) \[6143\]
+
 Born in Vaṅga, I’m “Vaṅga Lord,”[^36]  
 or \[I’m known as\] “the lord of words;”[^37]  
 “Vaṅgīsa” \[thus\] became my name,  
-which is honored throughout the world. (27) \[6144\]  
+which is honored throughout the world. (27) \[6144\]
+
 When I had attained discretion,  
 still[^38] in the first stage[^39] of \[my\] youth,  
 then in lovely Rajgir \[city\]  
-I saw \[the monk\] Sāriputta, (28) \[6145\]  
+I saw \[the monk\] Sāriputta, (28) \[6145\]
+
 The Twenty-Fifth Recitation Portion  
 wandering about for alms food,  
 bowl in hand, very self-composed,  
 eyes undistracted, of few words,[^40]  
-not looking \[beyond\] a plough’s length.[^41] (29) \[6146\]  
+not looking \[beyond\] a plough’s length.[^41] (29) \[6146\]
+
 Having seen him, being awestruck,  
 I spoke as was fitting for me,  
 \[in eloquent\] verses and feet,  
-free of spots of \[mere\] fleeting thoughts.[^42] (30) \[6147\]  
+free of spots of \[mere\] fleeting thoughts.[^42] (30) \[6147\]
+
 Then he, the wise one, the hero,  
 spoke back \[thus\] to me in response:  
 “The one described my Teacher,  
@@ -141,55 +169,68 @@ and \[then\] I said \[to him\] “I know”. (33c-d) \[6151\][^51]
 “Through your distinction in knowledge,  
 if you can, \[then now\] speak about  
 a dead skull thrown out in the woods,  
-even \[after\] twelve years \[have passed\].” (34) \[6152\]  
+even \[after\] twelve years \[have passed\].” (34) \[6152\]
+
 When I agreed \[saying\], “Yes, \[Sir,\]”  
 he showed three \[such dead\] skulls \[to me\].  
 I said[^52] that they were \[now\] reborn  
-in hell, as a man,[^53] with the gods. (35) \[6153\]  
+in hell, as a man,[^53] with the gods. (35) \[6153\]
+
 At that time the Leader showed \[me\]  
 the skull of a Lonely Buddha.  
 After that, without a basis,[^54]  
-I requested ordination. (36) \[6154\]  
+I requested ordination. (36) \[6154\]
+
 After going forth, I praised the  
 Well-Gone-One in this \[and\] that place.[^55]  
 Therefore the monks became annoyed  
-at me, “he has a poet’s mind.” (37) \[6155\]  
+at me, “he has a poet’s mind.” (37) \[6155\]
+
 Therefore in order to test \[me\],  
 the Guide, the Buddha said to me:  
 “Are these verses thoughtful figures,[^56]  
-or are they spoken groundlessly?” (38) \[6156\]  
+or are they spoken groundlessly?” (38) \[6156\]
+
 “Hero, I’m not poet-minded;  
 they are spoken by me with grounds.”  
 “In that case, \[then,\] O Vaṅgīsa,  
-you sing your praises of me now.”[^57] (39) \[6157\]  
+you sing your praises of me now.”[^57] (39) \[6157\]
+
 At that time I praised the Hero,  
 the Seventh Sage, with \[my\] verses.  
 Then at once, \[becoming\] happy,  
-the Victor placed me as foremost. (40) \[6158\]  
+the Victor placed me as foremost. (40) \[6158\]
+
 Through \[my\] speaking and through \[my\] mind  
 I then despised \[some\] others who  
 were well-behaved.[^58] Stirred up[^59] by that,  
-I attained \[my\] arahantship. (41) \[6159\]  
+I attained \[my\] arahantship. (41) \[6159\]
+
 “No other one at all is found who’s  
 foremost among the eloquent  
 as is this monk \[named\] Vaṅgīsa;  
-so should you consider[^60] \[him\], monks.” (42) \[6160\]  
+so should you consider[^60] \[him\], monks.” (42) \[6160\]
+
 Karma done a hundred thousand  
 \[aeons hence\] showed me \[its\] fruit here:  
 well-liberated, arrow-quick,  
-I have destroyed my defilements. (43) \[6161\]  
+I have destroyed my defilements. (43) \[6161\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (44) \[6162\]  
+I am living without constraint. (44) \[6162\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (45) \[6163\]  
+\[I have\] done what the Buddha taught! (45) \[6163\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (46) \[6164\]  
+\[I have\] done what the Buddha taught! (46) \[6164\]
+
 Thus indeed Venerable Vaṅgīsa Thera spoke these verses.  
 The legend of Vaṅgīsa Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

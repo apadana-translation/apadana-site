@@ -2,19 +2,23 @@
 I saw the Buddha, Vipassi,  
 the World’s Best, the Bull among Men,  
 shining like a dinner-plate tree,[^2]  
-just like the sun \[when it\] rises. (1) \[2725\]  
+just like the sun \[when it\] rises. (1) \[2725\]
+
 Pressing both my hands together,  
 I brought \[Buddha\] to \[my\] own house.  
 Having brought the Sambuddha \[there,\]  
-I donated milk-rice[^3] \[to him\]. (2) \[2726\]  
+I donated milk-rice[^3] \[to him\]. (2) \[2726\]
+
 In the ninety-one aeons since  
 I gave that milk-rice \[to him\] then,  
 I’ve come to know no bad rebirth:  
-that is the fruit of milk-rice-gifts. (3) \[2727\]  
+that is the fruit of milk-rice-gifts. (3) \[2727\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[2728\]  
+\[I have\] done what the Buddha taught! (4) \[2728\]
+
 Thus indeed Venerable Paramannadāyaka Thera spoke these verses.  
 The legend of Paramannadāyaka Thera is finished.  
 [^1]: “Milk-rice Donor,” lit., “Donor of the Ultimate Food,”

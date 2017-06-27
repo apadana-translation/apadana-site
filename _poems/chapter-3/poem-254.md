@@ -2,19 +2,23 @@
 In the Himalayan region  
 there’s a mountain named Vikaṭa.[^2]  
 In its midst was[^3] dwelling \[back then\]  
-a monk with senses \[well-\]controlled. (1) \[2511\]  
+a monk with senses \[well-\]controlled. (1) \[2511\]
+
 After seeing that \[monk’s\] calmness,  
 with \[my own\] mind very lucid,  
 gathering three champak flowers  
-I strew those \[blossoms\] about \[there\]. (2) \[2512\]  
+I strew those \[blossoms\] about \[there\]. (2) \[2512\]
+
 In the ninety-one aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[2513\]  
+that’s the fruit of Buddha-*pūjā.* (3) \[2513\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[2514\]  
+\[I have\] done what the Buddha taught! (4) \[2514\]
+
 Thus indeed Venerable Ticampakapupphiya Thera spoke these verses.  
 The legend of Ticampakapupphiya Thera is finished.  
 [^1]: “Three-*Campaka*-Flower-er”. The *campaka* (Sinh. *sapu*) tree is

@@ -2,123 +2,153 @@
 Near the lake called Anotatta,  
 on the lovely level rock ground,  
 where sparkled gems of different sorts  
-and varied perfumes \[filled\] the woods, (1) \[3341\]  
+and varied perfumes \[filled\] the woods, (1) \[3341\]
+
 surrounded by the Assembly[^2]  
 of monks, the Leader of the World,  
 while seated there, did \[then\] explain  
-the former deeds done[^3] by himself: (2) \[3342\]  
+the former deeds done[^3] by himself: (2) \[3342\]
+
 Hear from me, O monks, the karma  
 \[which formerly was\] done by me,  
 \[and how\] those karma rags’ \[effects\]  
-ripen in the Buddha himself.[^4] (3) \[3343\]  
+ripen in the Buddha himself.[^4] (3) \[3343\]
+
 Among \[my\] other, former births  
 I was a jerk named Munāli.  
 I told lies about Sarabhu,[^5]  
-an innocent Lonely Buddha. (4) \[3344\]  
+an innocent Lonely Buddha. (4) \[3344\]
+
 As a result of that karma,  
 a long time I circled through hell.[^6]  
 I experienced suffering[^7]  
-for numerous thousands of years. (5) \[3345\]  
+for numerous thousands of years. (5) \[3345\]
+
 As \[its\] final karmic effect,  
 here in \[my\] final existence,  
 I received \[some nasty\] slander  
-connected with Sundarīkā.[^8] (6) \[3346\]  
+connected with Sundarīkā.[^8] (6) \[3346\]
+
 I was Nanda, a follower  
 of the Buddha Sabbābhibhu.  
 My transmigration was in hell  
-for long after I slandered him. (7) \[3347\]  
+for long after I slandered him. (7) \[3347\]
+
 My long transmigration in hell  
 \[continued for\] ten thousand years.  
 When I \[again\] got human birth,  
-I \[also\] got lots of slander. (8) \[3348\]  
+I \[also\] got lots of slander. (8) \[3348\]
+
 Through what remained of that karma,  
 Lady Ciñca did slander me  
 in front of a group of people  
-without any grounding in fact.[^9] (9) \[3349\]  
+without any grounding in fact.[^9] (9) \[3349\]
+
 I was an erudite brahmin,  
 attended on, given worship.  
 In a large wood, I was teaching  
-mantras to five hundred young men. (10) \[3350\]  
+mantras to five hundred young men. (10) \[3350\]
+
 To that place had come Sage Gīma,[^10]  
 who possessed vast superpowers.[^11]  
 After having seen him coming,  
-I slandered that blameless \[person\]. (11) \[3351\]  
+I slandered that blameless \[person\]. (11) \[3351\]
+
 I said \[this\] to my students then:  
 “this sage delights in the pleasures!”  
 The young men \[there\] took \[that\] to heart  
-when I made that declaration. (12) \[3352\]  
+when I made that declaration. (12) \[3352\]
+
 Then all the young men, \[my students\],  
 begging for alms from clan to clan,  
 repeated to a lot of folks,[^12]  
-“this sage delights in the pleasures!” (13) \[3353\]  
+“this sage delights in the pleasures!” (13) \[3353\]
+
 As a result of that karma,  
 these five hundred monks \[now with me\]  
 all received \[some nasty\] slander  
-connected with Sundarīkā. (14) \[3354\]  
+connected with Sundarīkā. (14) \[3354\]
+
 One time eying wealth I murdered  
 brothers by a second mother.[^13]  
 I put \[them\] on a mountain road  
-\[and\] crushed \[them\] in an avalanche.[^14] (15) \[3355\]  
+\[and\] crushed \[them\] in an avalanche.[^14] (15) \[3355\]
+
 As a result of that karma,  
 Devadatta threw a boulder  
 \[and\] a splinter \[off that boulder\]  
-\[then\] crushed the big toe on my foot.[^15] (16) \[3356\]  
+\[then\] crushed the big toe on my foot.[^15] (16) \[3356\]
+
 One time I was a little boy,  
 playing by the great thoroughfare.  
 Having seen a Lonely Buddha,  
-I threw a clod of dirt \[at him\]. (17) \[3357\]  
+I threw a clod of dirt \[at him\]. (17) \[3357\]
+
 As a result of that karma,  
 here in \[my\] final existence,  
 Devadatta hired \[some\] killers  
-for the sake of murdering me.[^16] (18) \[3358\]  
+for the sake of murdering me.[^16] (18) \[3358\]
+
 Once, while I was on \[my\] tusker,  
 I saw a supreme Lonely Sage,  
 wandering about for alms food --  
-with elephant I attacked him. (19) \[3359\]  
+with elephant I attacked him. (19) \[3359\]
+
 As a result of that karma,  
 the elephant Nāḷāgiri,  
 agitated, cruel, approached me  
-in the fine town at Vulture’s Peak.[^17] (20) \[3360\]  
+in the fine town at Vulture’s Peak.[^17] (20) \[3360\]
+
 I was the king, \[named\] Patthiva;  
 I killed a man with a dagger.  
 As a result of that karma,  
-I roasted in hell a long time. (21) \[3361\]  
+I roasted in hell a long time. (21) \[3361\]
+
 Through what remained of that karma,  
 the skin on my foot got all cracked  
 and caused me a lot of trouble --  
-karma sure doesn’t just vanish! (22) \[3362\]  
+karma sure doesn’t just vanish! (22) \[3362\]
+
 I \[once\] lived as a fisher-boy,  
 in a village of fishermen.  
 Having seen the fish getting killed,  
-pleasurable thoughts filled my mind.[^18] (23) \[3363\]  
+pleasurable thoughts filled my mind.[^18] (23) \[3363\]
+
 As a result of that karma,  
 I suffered a headache \[one time\];  
 all of the Śākyans were murdered,[^19]  
-when Viḍuḍabha murdered \[them\].[^20] (24) \[3364\]  
+when Viḍuḍabha murdered \[them\].[^20] (24) \[3364\]
+
 I reviled the holy words \[and\]  
 followers of Phussa \[Buddha\],  
 “chomp \[and\] eat \[inferior\] grain  
-you all, and don’t eat \[any\] rice.” (25) \[3365\]  
+you all, and don’t eat \[any\] rice.” (25) \[3365\]
+
 As a result of that karma,  
 I \[had to\] eat grain for three months  
 when, invited by a brahmin,  
-I lived in various kingdoms. (26) \[3366\]  
+I lived in various kingdoms. (26) \[3366\]
+
 In the midst of a wrestling match,  
 a wrestler’s son, I blocked \[the fight\];[^21]  
 as a result of that karma,  
-\[one time\] I suffered a backache. (27) \[3367\]  
+\[one time\] I suffered a backache. (27) \[3367\]
+
 I was a \[practicing\] doctor  
 and purged the son of a rich man;[^22]  
 as a result of that karma,  
-I contracted dysentery. (28) \[3368\]  
+I contracted dysentery. (28) \[3368\]
+
 One time I, Jotipāla, said  
 to Kassapa, the Well-Gone-One,  
 “Whence then this baldy’s Waking Up,[^23]  
-Awakening so hard to reach?” (29) \[3369\]  
+Awakening so hard to reach?” (29) \[3369\]
+
 As a result of that karma,  
 I practiced great austerities  
 in Uruvela, six \[long\] years,  
-and then achieved Awakening. (30) \[3370\]  
+and then achieved Awakening. (30) \[3370\]
+
 “Along that path I did not reach  
 supreme Awakening,” \[I thought\],  
 “along which path then should I search,  
@@ -130,7 +160,8 @@ I shall realize nirvana.” (31-32) \[3371-72\]
 Thus did he explain, the Victor,  
 Endowed with All Superpowers,[^24]  
 in front of the monks’ Assembly,  
-at the great Lake Anotatta. (33) \[3373\]  
+at the great Lake Anotatta. (33) \[3373\]
+
 Thus indeed the Blessed One spoke this short discourse on dharma
 \[revealing\] his own previous conduct, the Buddha-*apadāna* named “The
 Rags of Previous Karma”.  

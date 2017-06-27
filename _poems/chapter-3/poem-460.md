@@ -2,23 +2,28 @@
 When the pyres were constructed  
 various scents[^3] were \[then\] gathered.  
 Happy, with pleasure in \[my\] heart,  
-I offered[^4] a handful of scents. (1) \[4859\]  
+I offered[^4] a handful of scents. (1) \[4859\]
+
 In the hundred thousand aeons  
 since I worshipped that pyre \[back then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of worshipping[^5] pyres. (2) \[4860\]  
+that’s the fruit of worshipping[^5] pyres. (2) \[4860\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (3) \[4861\]  
+I am living without constraint. (3) \[4861\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (4) \[4862\]  
+\[I have\] done what the Buddha taught! (4) \[4862\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[4863\]  
+\[I have\] done what the Buddha taught! (5) \[4863\]
+
 Thus indeed Venerable Gandhapūjaka Thera spoke these verses.  
 The legend of Gandhapūjaka Thera is finished.  
 The Summary:  

@@ -2,19 +2,23 @@
 I saw the Buddha, Stainless One,  
 the Flood-Crosser, Undefiled One,[^3]  
 sitting down on a mountainside,  
-shining like a dinner-plate tree.[^4] (1) \[3132\]  
+shining like a dinner-plate tree.[^4] (1) \[3132\]
+
 Seeing wild mangosteen[^5] in bloom,  
 I broke off sprigs[^6] with \[fruit on them\].  
 Happy, \[my\] heart \[filled\] with pleasure,  
-I gave them to \[him\], Vessabhu. (2) \[3133\]  
+I gave them to \[him\], Vessabhu. (2) \[3133\]
+
 In the ninety-one aeons since  
 I gave that fruit \[to the Buddha\],  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving fruit. (3) \[3134\]  
+that is the fruit of giving fruit. (3) \[3134\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[3135\]  
+\[I have\] done what the Buddha taught! (4) \[3135\]
+
 Thus indeed Venerable Tiṇḍukaphaladāyaka Thera spoke these verses.  
 The legend of Tiṇḍukaphaladāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

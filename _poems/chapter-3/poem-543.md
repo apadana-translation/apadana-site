@@ -2,31 +2,38 @@
 The Victor, Padumuttara,  
 the One with Eyes for everything,  
 the Leader \[of the World,\] arose  
-a hundred thousand aeons hence. (1) \[6076\]  
+a hundred thousand aeons hence. (1) \[6076\]
+
 His morals could not be measured,  
 meditative states like lightening,[^3]  
 vast[^4] knowledge could not be measured,  
-and freedom unlike anything.[^5] (2) \[6077\]  
+and freedom unlike anything.[^5] (2) \[6077\]
+
 The Leader preached the *Dhamma* to  
 the men, the gods,[^6] the snake-gods \[and\]  
 the Brahmās \[all\] come together,  
-mixed with \[Buddhist\] monks and brahmins. (3) \[6078\]  
+mixed with \[Buddhist\] monks and brahmins. (3) \[6078\]
+
 Confident among Multitudes,[^7]  
 the \[Buddha\] placed a merit-filled,  
 much-receiving \[and\] gift-worthy  
-follower in that foremost place. (4) \[6079\]  
+follower in that foremost place. (4) \[6079\]
+
 I was a kṣatriyan back then,  
 in the city named “Haṃsa;”[^8]  
 hearing the Victor’s words \[about\]  
-the follower’s virtuousness,[^9] (5) \[6080\]  
+the follower’s virtuousness,[^9] (5) \[6080\]
+
 inviting \[Buddha\], for a week  
 I fed \[him\] with \[his\] followers.  
 Giving a massive alms-giving,  
-I aspired \[to attain\] that place. (6) \[6081\]  
+I aspired \[to attain\] that place. (6) \[6081\]
+
 Then \[he\], the Bull Among People,  
 seeing me bowing[^10] at \[his\] feet,  
 the Great Hero, in \[his\] good voice,  
-uttered these words \[concerning me\]: (7) \[6082\]  
+uttered these words \[concerning me\]: (7) \[6082\]
+
 Then the multitude, desiring  
 to hear the words of the Victor,  
 the gods, titans, musical nymphs,  
@@ -50,39 +57,48 @@ This rich man is truly wishing
 He’ll be a getter of huge wealth,  
 just like the monk Sudassana,[^15]  
 \[and\] also just like me \[as well\];  
-he’ll receive that in the future. (13) \[6088\]  
+he’ll receive that in the future. (13) \[6088\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (14) \[6089\]  
+will be the Teacher in the world. (14) \[6089\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 the one whose name is Sīvali  
-will be the Teacher’s follower.” (15) \[6090\]  
+will be the Teacher’s follower.” (15) \[6090\]
+
 Due to that karma done very well,  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body,  
-I went to Tāvatiṃsa \[then\]. (16) \[6091\]  
+I went to Tāvatiṃsa \[then\]. (16) \[6091\]
+
 \[Then\] ninety-one aeons ago,  
 the World-Leader \[named\] Vipassi  
 arose, the One with Lovely Eyes,[^16]  
-with Insight into Everything.[^17] (17) \[6092\]  
+with Insight into Everything.[^17] (17) \[6092\]
+
 Then I \[lived\] in Bandhumatī,  
 \[a member\] of a certain clan;[^18]  
 I was[^19] pitied and sought after,  
-one intent on ending karma.[^20] (18) \[6093\]  
+one intent on ending karma.[^20] (18) \[6093\]
+
 Then a certain corporation[^21]  
 constructed a monastic school[^22]  
 for the Great Sage \[named\] Vipassi,  
-which was large and widely renowned. (19) \[6094\]  
+which was large and widely renowned. (19) \[6094\]
+
 Searching for new curds and honey  
 to give along with solid food[^23]  
 at the end of the great alms-gift,  
-they did not find[^24] \[any to give\]. (20) \[6095\]  
+they did not find[^24] \[any to give\]. (20) \[6095\]
+
 Then having taken \[some\] of that,[^25]  
 new curds and also honey too,  
 I went to the overseer’s house,[^26]  
-and seeking that they saw me.[^27] (21) \[6096\]  
+and seeking that they saw me.[^27] (21) \[6096\]
+
 Even offering a thousand,  
 they did not obtain those two \[things\].[^28]  
 I thought \[about it\] then like this:  
@@ -94,19 +110,23 @@ for the World-Lord with Assembly.” (22-23) \[6097-6098\]
 Then having thought \[it out\] like that,  
 mixing together the curds and  
 the honey, I gave \[them\] to the  
-Lord of the World with Assembly. (24) \[6099\]  
+Lord of the World with Assembly. (24) \[6099\]
+
 Due to that karma done very well,  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body,  
-I went to Tāvatiṃsa \[then\]. (25) \[6100\]  
+I went to Tāvatiṃsa \[then\]. (25) \[6100\]
+
 Again, in Benares, being  
 a king \[who was\] very famous,  
 enraged[^29] at an enemy \[then,\]  
-I caused the gateway to be blocked. (26) \[6101\]  
+I caused the gateway to be blocked. (26) \[6101\]
+
 Then, obstructing ascetics[^30] \[too\],  
 \[it\] was guarded thus for a week.[^31]  
 Therefore, as the result of that  
-karma, I fell hard into hell.[^32] (27) \[6102\]  
+karma, I fell hard into hell.[^32] (27) \[6102\]
+
 And now in \[my\] final rebirth,  
 due to the kṣatriyan’s good deeds,[^33]  
 I’m born in Koliya city;  
@@ -118,27 +138,33 @@ suffering in \[my\] mother’s womb. (28-29) \[6103-6104\]
 One week breached in the birth canal,[^36]  
 I’m endowed with great suffering.  
 Because she gave approval \[then\],  
-my mother suffered greatly \[now\].[^37] (30) \[6105\]  
+my mother suffered greatly \[now\].[^37] (30) \[6105\]
+
 Departing from Śrāvasti, I  
 was pitied by \[him\], the Buddha;  
 on the very day I set out,  
-I went forth into homelessness. (31) \[6106\]  
+I went forth into homelessness. (31) \[6106\]
+
 My preceptor: Sāriputta;  
 powerful[^38] Moggallāna, the  
 wise, instructed me \[as teacher\]  
-\[while he was\] removing my hair. (32) \[6107\]  
+\[while he was\] removing my hair. (32) \[6107\]
+
 While my hair was being cut off,  
 I attained \[my\] arahantship.  
 Gods, snake-gods and human beings  
-are bringing me the requisites.[^39] (33) \[6108\]  
+are bringing me the requisites.[^39] (33) \[6108\]
+
 Because, delighted, I worshipped[^40]  
 \[Buddha\] named Padumuttara  
 and the Guide, Vipassi \[Buddha\],  
-I’m distinguished with requisites. (34) \[6109\]  
+I’m distinguished with requisites. (34) \[6109\]
+
 Due to the distinction of those  
 deeds, I’m receiving everywhere  
 enormous \[and\] ultimate wealth,  
-in woods, village, water \[and\] land. (35) \[6110\]  
+in woods, village, water \[and\] land. (35) \[6110\]
+
 When the Guide is traveling for  
 the sake of seeing Revata,  
 the World’s Chief Leader together  
@@ -153,19 +179,23 @@ then going to Jetavana,
 The Teacher, Friend of Every World,[^44]  
 praised me amidst the multitude:  
 “O monks, Sīvali’s the foremost  
-receiver among my students.” (39) \[6114\]  
+receiver among my students.” (39) \[6114\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (40) \[6115\]  
+I am living without constraint. (40) \[6115\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (41) \[6116\]  
+\[I have\] done what the Buddha taught! (41) \[6116\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (42) \[6117\]  
+\[I have\] done what the Buddha taught! (42) \[6117\]
+
 Thus indeed Venerable Sīvali Thera spoke these verses.  
 The legend of Sīvali Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

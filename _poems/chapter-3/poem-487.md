@@ -2,119 +2,148 @@
 On a Himalayan mountain,  
 \[I’m\] Devala the ascetic.  
 My meditation walkway there  
-was made by non-human beings.[^3] (1) \[5140\]  
+was made by non-human beings.[^3] (1) \[5140\]
+
 Bearing a weight of matted hair,  
 carrying a water-pot then,  
 searching for ultimate meaning,  
-I departed from the forest. (2) \[5141\]  
+I departed from the forest. (2) \[5141\]
+
 Eighty-six thousand students \[there,\]  
 waited upon me at that time.  
 Well-known together with their deeds,[^4]  
-they are living in the forest. (3) \[5142\]  
+they are living in the forest. (3) \[5142\]
+
 Going out from the hermitage,  
 I made a stupa out of sand.  
 Assembling various flowers,  
-I worshipped[^5] that stupa then. (4) \[5143\]  
+I worshipped[^5] that stupa then. (4) \[5143\]
+
 Bringing pleasure to \[my\] heart there,  
 I \[re-\]entered the hermitage.  
 All \[my\] students, come together,  
-questioned me \[about\] what that meant:[^6] (5) \[5144\]  
+questioned me \[about\] what that meant:[^6] (5) \[5144\]
+
 “\[All of\] us would like to find out  
 which deity you’re honoring  
 \[at that\] stupa made out of sand:  
-being asked, please tell \[that\] to us.”[^7] (6) \[5145\]  
+being asked, please tell \[that\] to us.”[^7] (6) \[5145\]
+
 “The Eyeful Ones, Greatly Famed Ones,  
 have no views[^8] \[and\] no magic spells;[^9]  
 they’re the ones I am honoring,  
-the Best Buddhas, Greatly Famed Ones.” (7) \[5146\]  
+the Best Buddhas, Greatly Famed Ones.” (7) \[5146\]
+
 “In what way are they Great Heroes,  
 Omniscient Ones, Lords of the World?  
 What do they look like?[^10] What conduct?  
-In what way are they Greatly Famed?” (8) \[5147\]  
+In what way are they Greatly Famed?” (8) \[5147\]
+
 “Buddhas have thirty-two great marks,  
 and also forty \[adult\] teeth.[^11]  
 Their eyes with heifer-eyelashes[^12]  
-resemble wild licorice fruits.[^13] (9) \[5148\]  
+resemble wild licorice fruits.[^13] (9) \[5148\]
+
 And when those Buddhas are walking,[^14]  
 they look but a plough’s length ahead.[^15]  
 They do not have a person’s voice;[^16]  
-their euphonic sound[^17] is not heard. (10) \[5149\]  
+their euphonic sound[^17] is not heard. (10) \[5149\]
+
 Also, when those Well-Gone-Ones walk,  
 they lift up \[one foot at a time\],[^18]  
 \[always\] starting \[with\] the right foot:  
-that is the nature of Buddhas. (11) \[5150\]  
+that is the nature of Buddhas. (11) \[5150\]
+
 And those Buddhas are not afraid,  
 \[just\] like lions, the kings of beasts.  
 They do not \[ever\] praise themselves,  
-and don’t revile living beings. (12) \[5151\]  
+and don’t revile living beings. (12) \[5151\]
+
 They are free of pride and contempt,  
 the same for all living beings.  
 Buddhas \[only\] praise selflessly:  
-that is the nature of Buddhas. (13) \[5152\]  
+that is the nature of Buddhas. (13) \[5152\]
+
 And \[when\] Buddhas are being born,  
 they radiate light \[from themselves\],  
 \[and\] in six \[different\] ways[^19] they cause  
-this whole \[bountiful\] earth to quake. (14) \[5153\]  
+this whole \[bountiful\] earth to quake. (14) \[5153\]
+
 And they are \[able to\] see hell,  
 and hell is cooled off at that time.  
 A massive cloud rains forth \[as well\]:  
-that is the nature of Buddhas. (15) \[5154\]  
+that is the nature of Buddhas. (15) \[5154\]
+
 Such-like are those Great Elephants,  
 Incomparable,[^20] of Great Fame;  
 in beauty they are unsurpassed,[^21]  
-the Thus-Gone-Ones, Beyond Measure.” (16) \[5155\]  
+the Thus-Gone-Ones, Beyond Measure.” (16) \[5155\]
+
 All of \[my\] students, respectful,  
 \[then\] expressed \[their\] thanks for my speech,  
 and[^22] likewise went along \[with me,\]  
-as far as they could \[and\] had strength. (17) \[5156\]  
+as far as they could \[and\] had strength. (17) \[5156\]
+
 Wishing for \[their\] own \[good\] karma,  
 they’re worshipping \[that\] sand \[stupa\].  
 Having faith in that speech \[of mine\],  
-their minds drifted[^23] to Buddhahood. (18) \[5157\]  
+their minds drifted[^23] to Buddhahood. (18) \[5157\]
+
 Then a God’s Son, Greatly Famous,  
 fell down from Tusitā heaven.  
 He was born in a mother’s womb,  
-making the ten-thousand \[worlds\] quake. (19) \[5158\]  
+making the ten-thousand \[worlds\] quake. (19) \[5158\]
+
 I stood on the walkway which was  
 near \[my\] hermitage \[at that time\].  
 All \[my\] students, having gathered,  
-came into my presence \[just then\]. (20) \[5159\]  
+came into my presence \[just then\]. (20) \[5159\]
+
 “The earth, bull-like, is bellowing;  
 it’s roaring like the king of beasts.  
 It’s shaking[^24] like a crocodile;  
-what will this be the result of?” (21) \[5160\]  
+what will this be the result of?” (21) \[5160\]
+
 “The Buddha[^25] I detailed \[for you,\]  
 close to the stupa made of sand,  
 the Blessed One, the Teacher, now  
-has been born in a mother’s womb.” (22) \[5161\]  
+has been born in a mother’s womb.” (22) \[5161\]
+
 Discussing the Teaching for them,  
 \[and\] having detailed the Great Sage,  
 exhorting \[my\] own students \[there\],  
-I sat in lotus position. (23) \[5162\]  
+I sat in lotus position. (23) \[5162\]
+
 \[All\] my strength was \[then\] exhausted,  
 due to a serious[^26] illness.  
 Remembering the Best Buddha,  
-I passed away \[right\] on the spot. (24) \[5163\]  
+I passed away \[right\] on the spot. (24) \[5163\]
+
 All \[of my\] students assembled;  
 they made \[me\] a pyre at that time,  
 and taking my mortal remains,[^27]  
-they lifted \[me\] onto the pyre. (25) \[5164\]  
+they lifted \[me\] onto the pyre. (25) \[5164\]
+
 Having attended to the pyre,  
 hands pressed together on \[their\] heads,  
 wounded[^28] by the arrows of grief,  
-come together they lamented. (26) \[5165\]  
+come together they lamented. (26) \[5165\]
+
 While they were wailing \[uselessly,\][^29]  
 I \[then\] came \[back\] to the pyre \[there\].  
 “I am your \[dead\] teacher, wise ones;  
-do not lament \[my passing on\]. (27) \[5166\]  
+do not lament \[my passing on\]. (27) \[5166\]
+
 Endeavor for the highest good,  
 night and day not being lazy.  
 Don’t be negligent, all of you;  
-your moment[^30] is offered to you.” (28) \[5167\]  
+your moment[^30] is offered to you.” (28) \[5167\]
+
 Exhorting \[my\] own students \[thus\],  
 I returned to the world of gods.  
 For eighteen aeons \[after that\]  
-I delighted in the gods’ world. (29) \[5168\]  
+I delighted in the gods’ world. (29) \[5168\]
+
 And \[then\] a hundred times I was  
 a king who turns the wheel \[of law\].  
 Also another hundred times,  
@@ -124,31 +153,38 @@ I \[then\] exercised divine rule. (30) \[5169\][^31]
 In the remaining aeons I  
 transmigrated as god or man.[^32]  
 I’ve come to know no bad rebirth:  
-that’s the fruit of generating.[^33] (31) \[5170\]  
+that’s the fruit of generating.[^33] (31) \[5170\]
+
 As in the month of Kattikā,[^34]  
 many trees are in full flower,  
 likewise in that very season,  
-I have flowered as a great sage. (32) \[5171\]  
+I have flowered as a great sage. (32) \[5171\]
+
 Vigorous effort’s the yoked ox,  
 carrying perfect peace for me.[^35]  
 Like elephants with broken chains  
-I am dwelling without constraint. (33) \[5172\]  
+I am dwelling without constraint. (33) \[5172\]
+
 In the hundred thousand aeons  
 since I praised the Buddha \[back then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of praising \[Buddhas\]. (34) \[5173\]  
+that’s the fruit of praising \[Buddhas\]. (34) \[5173\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (35) \[5174\]  
+I am living without constraint. (35) \[5174\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (36) \[5175\]  
+\[I have\] done what the Buddha taught! (36) \[5175\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (37) \[5176\]  
+\[I have\] done what the Buddha taught! (37) \[5176\]
+
 Thus indeed Venerable Puḷinuppādaka Thera spoke these verses.  
 The legend of Puḷinuppādaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

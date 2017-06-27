@@ -2,59 +2,73 @@
 In this \[present\] lucky aeon,  
 Brahma’s Kinsman, Greatly Famed One,  
 \[the Buddha\] known as Kassapa  
-was born, the Best of Debaters. (1) \[1323\]  
+was born, the Best of Debaters. (1) \[1323\]
+
 I’m born in a lay Buddhist clan,  
 in Śrāvasti, superb city.  
 Having seen that superb Victor,  
-and having heard \[him\] preach \[*Dhamma,*\] (2a-d)[^2] \[1324\]  
+and having heard \[him\] preach \[*Dhamma,*\] (2a-d)[^2] \[1324\]
+
 gone to that Hero for refuge,  
 I undertook morality.  
 Whenever that Great Hero, in  
-the midst of the great populace, (2e-f, 3a-b) \[1325\]  
+the midst of the great populace, (2e-f, 3a-b) \[1325\]
+
 the Bull of Men was explaining  
 his own supreme Awakening,  
 things which formerly were unheard,  
-starting with “\[life is\] suffering,” (3c-f) \[1326\]  
+starting with “\[life is\] suffering,” (3c-f) \[1326\]
+
 hearing that, \[and\] taking \[it\] up,  
 insight, thinking, wisdom, science,  
 and intuition rose in me,  
-and I asked the monks \[about them\]. (4) \[1327\]  
+and I asked the monks \[about them\]. (4) \[1327\]
+
 In Kassapa’s dispensation,[^3]  
 I practiced celibate \[nunhood\].[^4]  
 Due to that karma, I was born  
-in the city of the thirty.[^5] (5) \[1328\]  
+in the city of the thirty.[^5] (5) \[1328\]
+
 And now, in \[my\] final rebirth,  
 born in a large millionaire’s clan  
 having approached and having heard  
-the Buddha’s great truth-filled Teaching, (6) \[1329\]  
+the Buddha’s great truth-filled Teaching, (6) \[1329\]
+
 having gone forth, in no long time,  
 I understood truth’s foundations;  
 casting away all defilements,  
-I achieved \[my\] arahantship. (7) \[1330\]  
+I achieved \[my\] arahantship. (7) \[1330\]
+
 I’ve mastered the superpowers  
 \[like\] the “divine ear” element.  
 I’m also a master, Great Sage,[^6]  
-of the knowledge in others’ hearts. (8) \[1331\]  
+of the knowledge in others’ hearts. (8) \[1331\]
+
 I remember \[my\] former lives;  
 \[my\] “divine eye” is purified.  
 All the defilements are destroyed;  
-\[I\] will not be reborn again. (9) \[1332\]  
+\[I\] will not be reborn again. (9) \[1332\]
+
 In meaning and in the Teaching,  
 etymology and preaching,  
 \[this\] knowledge of mine was produced  
-in your presence, O Great Hero. (10) \[1333\]  
+in your presence, O Great Hero. (10) \[1333\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (11) \[1334\]  
+I am living without constraint. (11) \[1334\]
+
 Being in Best Buddha's presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (12) \[1335\]  
+\[I have\] done what the Buddha taught! (12) \[1335\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (13) \[1336\]  
+\[I have\] done what the Buddha taught! (13) \[1336\]
+
 Thus indeed the bhikkhunī Selā spoke these verses.  
 The legend of Selā Therī[^7] is finished  
 The Summary:  

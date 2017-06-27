@@ -2,19 +2,23 @@
 \[I lived\][^2] in the Sage-assembly,[^3]  
 a fierce *mātaṅga*[^4] elephant.  
 Feeling pleasure for the Sages[^5]  
-I sprinkled \[some\] lotus pollen.[^6] (1) \[2717\]  
+I sprinkled \[some\] lotus pollen.[^6] (1) \[2717\]
+
 Having pleased my heart among those  
 Best of Self-Enlightened Victors,  
 Devoid of Passions, Neutral Ones,  
-I joyed an aeon in heaven. (2) \[2718\]  
+I joyed an aeon in heaven. (2) \[2718\]
+
 In the ninety-one aeons since  
 I sprinkled that pollen back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of flower-*pūjā.* (3) \[2719\]  
+that’s the fruit of flower-*pūjā.* (3) \[2719\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[2720\]  
+\[I have\] done what the Buddha taught! (4) \[2720\]
+
 Thus indeed Venerable Padumakesariya Thera spoke these verses.  
 The legend of Padumakesariya Thera is finished.  
 [^1]: “Pink Lotus-Pollen-er”  

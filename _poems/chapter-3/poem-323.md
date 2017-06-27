@@ -2,19 +2,23 @@
 I saw the Teacher’s robe of rags,  
 stuck up in the top of a tree.[^2]  
 Having pressed my hands together,  
-I lifted \[it\] up further still. (1) \[2837\]  
+I lifted \[it\] up further still. (1) \[2837\]
+
 Having glimpsed \[it\] from far away  
 \[that robe\] filled me up with laughter.[^3]  
 Having pressed my hands together,  
-I brought \[my\] heart more pleasure still. (2) \[2838\]  
+I brought \[my\] heart more pleasure still. (2) \[2838\]
+
 In the ninety-one aeons since  
 I obtained that perception then,  
 I’ve come to know no bad rebirth:  
-the fruit of perceiving Buddhas. (3) \[2839\]  
+the fruit of perceiving Buddhas. (3) \[2839\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (4) \[2840\]  
+\[I have\] done what the Buddha taught! (4) \[2840\]
+
 Thus indeed Venerable Hāsajanaka Thera spoke these verses.  
 The legend of Hāsajanaka Thera is finished.  
 [^1]: “Laughter-Knower”  

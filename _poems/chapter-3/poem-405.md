@@ -2,35 +2,43 @@
 In the Himalayan region,  
 there’s a mountain named Anoma.  
 My well-made hermitage \[is there\],  
-\[with\] halls well-constructed of leaves. (1) \[3990\]  
+\[with\] halls well-constructed of leaves. (1) \[3990\]
+
 And a river is flowing there,  
 beautiful, with excellent banks,  
 \[and\] along \[those\] banks[^3] are growing  
-many pink and blue lotuses. (2) \[3991\]  
+many pink and blue lotuses. (2) \[3991\]
+
 \[That\] river is flowing back then,  
 covered with fish and tortoises,  
 sheatfish,[^4] *pāvusa,*[^5] *valaja,*[^6]  
-reed-fish,[^7] red-fish[^8] \[and\] *maggura.*[^9] (3) \[3992\]  
+reed-fish,[^7] red-fish[^8] \[and\] *maggura.*[^9] (3) \[3992\]
+
 *Timira* \[trees\] are blooming there,  
 ashoka*,*[^10] *khuddamālaka,*[^11]  
 laurel*,*[^12] and mountain laurel[^13] trees  
-are perfuming my hermitage. (4) \[3993\]  
+are perfuming my hermitage. (4) \[3993\]
+
 Winter cherry[^14] is blooming there,  
 and forests of Arab jasmine;[^15]  
 *sal*[^16] and *salalā*[^17] \[trees\] are there,  
-and lots of blooming *campaka.*[^18] (5) \[3994\]  
+and lots of blooming *campaka.*[^18] (5) \[3994\]
+
 Arjuna \[trees\][^19] and hiptage vines,[^20]  
 and sugarcane[^21] are blossoming;  
 silver greywood,[^22] *madhugandhi,*[^23]  
-blossoming in my hermitage. (6) \[3995\]  
+blossoming in my hermitage. (6) \[3995\]
+
 Half a league on every side is  
 covered with *bimbijālika,*[^24]  
 golden shower,[^25] trumpet-flower,[^26]  
-jasmine,[^27] also *piyaṅguka.*[^28] (7) \[3996\]  
+jasmine,[^27] also *piyaṅguka.*[^28] (7) \[3996\]
+
 *Mātaṅgava* and *sattali*[^29]  
 trumpet-flower,[^30] Chinese chaste tree,[^31]  
 much sage-leaf alangium[^32] there,  
-\[and\] *tālakūṭa*[^33] blossoming. (8) \[3997\]  
+\[and\] *tālakūṭa*[^33] blossoming. (8) \[3997\]
+
 There is much *sāleyyaka*[^34] there,  
 blossoming in my hermitage.  
 Many trees are beautiful when  
@@ -40,215 +48,266 @@ are wafting through my hermitage. (9-10a-b) \[3998\][^35]
 Myrobalan[^36] \[and\] gooseberry,[^37]  
 mango,[^38] rose-apple,[^39] bahera,[^40]  
 jujube,[^41] markingnut,[^42] \[and\] bel,[^43]  
-as well as *phārusaka*[^44] fruits, (10c-d, 11a-b) \[3999\]  
+as well as *phārusaka*[^44] fruits, (10c-d, 11a-b) \[3999\]
+
 wild mangosteen,[^45] chirauli-nut,[^46]  
 mahuwa[^47] and *kāsumārī,*[^48]  
 breadfruit[^49] \[and\] jak[^50] \[are growing\] there,  
-bananas[^51] \[and\] jujube fruits,[^52] (11c-d, 12a-b) \[4000\]  
+bananas[^51] \[and\] jujube fruits,[^52] (11c-d, 12a-b) \[4000\]
+
 large quantities of hog-plum[^53] there,  
 as well as *vallikāra*[^54] fruits,  
 citron[^55] and *sapāriya*[^56] \[trees\]  
-are blooming in my hermitage. (12c-d, 13a-b) \[4001\]  
+are blooming in my hermitage. (12c-d, 13a-b) \[4001\]
+
 *Ālaka* and *isimugga*,[^57]  
 after that lots of *moda-*fruit;[^58]  
 all around,[^59] heavy with ripe fruit,[^60]  
-are wave-leafed[^61] and glomerous[^62] figs. (13c-d, 14a-b) \[4002\]  
+are wave-leafed[^61] and glomerous[^62] figs. (13c-d, 14a-b) \[4002\]
+
 Pepper,[^63] and black peppercorns[^64] there,  
 banyan*,*[^65] also wood-apple trees,[^66]  
 a lot of glomerous fig trees,[^67]  
-*kaṇḍapakka* and *pārī* \[trees\]. (14c-d, 15a-b) \[4003\]  
+*kaṇḍapakka* and *pārī* \[trees\]. (14c-d, 15a-b) \[4003\]
+
 These and many other trees too  
 are fruiting in my hermitage.  
 Also many flowering trees,  
-flowering in my hermitage. (15c-d, 16a-b) \[4004\]  
+flowering in my hermitage. (15c-d, 16a-b) \[4004\]
+
 Titan arum,[^68] also bindweed*,*[^69]  
 *bilāni, takkaḷāni* \[bulbs\],  
 *ālaka* and *tālaka* \[too\]  
-are \[all\] found in my hermitage. (16c-d, 17a-b) \[4005\]  
+are \[all\] found in my hermitage. (16c-d, 17a-b) \[4005\]
+
 Close to[^70] that hermitage of mine,  
 there was a large natural lake.  
 \[It was\] beautiful, with good banks,  
-cool water, \[crystal-\]clear water. (17c-d, 18a-b) \[4006\]  
+cool water, \[crystal-\]clear water. (17c-d, 18a-b) \[4006\]
+
 Many pink and blue lotuses  
 are mixed with white lotuses there;  
 covered with *mandālaka*[^71] blooms,  
-it’s full of various \[good\] scents. (18c-d, 19a-b) \[4007\]  
+it’s full of various \[good\] scents. (18c-d, 19a-b) \[4007\]
+
 Pink lotuses germinate there;  
 others, flowering, make pollen.  
 Many pink lotus buds \[and\] leaves  
 \[and\] pericarps[^72] float[^73] \[on that lake\]. (19c-d, 20a-b)
-\[4008\]  
+\[4008\]
+
 Honey flows from the lotus stems[^74]  
 \[and\] milk \[and\] ghee[^75] from lotus roots.[^76]  
 On all sides, with the scent of that,  
-it’s full of various \[good\] scents. (20c-d, 21a-b) \[4009\]  
+it’s full of various \[good\] scents. (20c-d, 21a-b) \[4009\]
+
 White lotuses,[^77] *ambagandhī,*  
 and many *nayita* are seen;  
 as befits a natural lake,  
-there’s a lot of screw-pine[^78] in bloom. (21c-d, 22a-b) \[4010\]  
+there’s a lot of screw-pine[^78] in bloom. (21c-d, 22a-b) \[4010\]
+
 *Bandhujīva*[^79] in full flower,  
 sweetly-scented[^80] *setavārī,*[^81]  
 crocodiles[^82] and alligators[^83]  
-\[and other\] fierce beasts[^84] are born there. (22c-d, 23a-b) \[4011\]  
+\[and other\] fierce beasts[^84] are born there. (22c-d, 23a-b) \[4011\]
+
 Many u*ggāhas*[^85] \[and\] pythons[^86]  
 \[live\] there in \[that\] natural lake;  
 sheatfish,[^87] *pāvusa,*[^88] *valaja,*[^89]  
 reed-fish,[^90] red-fish[^91] \[and\] *maggura.*[^92] (23c-d, 24a-b)
-\[4012\]  
+\[4012\]
+
 \[It’s\] covered with fish and turtles,[^93]  
 also with small, tailless monkeys;[^94]  
 pigeons[^95] and *ravi-*swans[^96] \[as well\],  
-wild jungle fowl,[^97] *nadīcara*s, (24c-d, 25a-b) \[4013\]  
+wild jungle fowl,[^97] *nadīcara*s, (24c-d, 25a-b) \[4013\]
+
 wattled lapwings[^98] and ruddy geese,[^99]  
 *campakas*[^100] as well as pheasants,[^101]  
 squirrels,[^102] \[also\] osprey[^103] \[and\] hawks,[^104]  
-\[and\] many \[birds called\] *uddhara,* (25c-d, 26a-b) \[4014\]  
+\[and\] many \[birds called\] *uddhara,* (25c-d, 26a-b) \[4014\]
+
 paddy-birds,[^105] Ceylon lorikeets,[^106]  
 crabs[^107] and many yak-oxen[^108] \[too\],  
 *kāreṇiyas*[^109] and *tilakas*  
-are \[then\] residing on that lake. (26c-d, 27a-b) \[4015\]  
+are \[then\] residing on that lake. (26c-d, 27a-b) \[4015\]
+
 Lions and tigers and leopards,  
 bears[^110] \[and\] wolves,[^111] *kara bānā* bears,[^112]  
 monkeys,[^113] also even centaurs[^114]  
-are seen inside my hermitage. (27c-d, 28a-b) \[4016\]  
+are seen inside my hermitage. (27c-d, 28a-b) \[4016\]
+
 Smelling those \[sweetly-perfumed\] scents,  
 feeding myself upon \[those\] fruits,  
 drinking perfumed water, I am  
-living \[there\] in my hermitage. (28c-d, 29a-b) \[4017\]  
+living \[there\] in my hermitage. (28c-d, 29a-b) \[4017\]
+
 *Eṇi-*deer[^115] as well as wild boar,[^116]  
 spotted deer,[^117] \[also\] smaller breeds,[^118]  
 and *aggikas* \[and\] *jotikas*[^119]  
-are living in my hermitage. (29c-d, 30a-b) \[4018\]  
+are living in my hermitage. (29c-d, 30a-b) \[4018\]
+
 Swans[^120] \[and\] curlews[^121] and peacocks[^122] too,  
 mynah birds[^123] and also cuckoos;[^124]  
 there are many *mañjarikas,*[^125]  
-owls[^126] and *poṭṭhasīsa*s[^127] there. (30c-d, 31a-b) \[4019\]  
+owls[^126] and *poṭṭhasīsa*s[^127] there. (30c-d, 31a-b) \[4019\]
+
 There are goblins,[^128] also titans,[^129]  
 many fairies,[^130] \[also\] demons,[^131]  
 *garuḷa*s, also snake-demons,[^132][]{#BookmarkCopy1 .anchor}  
-living \[there\] in my hermitage. (31c-d, 32a-b) \[4020\]  
+living \[there\] in my hermitage. (31c-d, 32a-b) \[4020\]
+
 Sages who possess great powers,[^133]  
 peaceful-hearted \[and\] attentive,  
 holding long-spouted waterpots,[^134]  
 all wearing robes of deer-leather,  
 wearing braids and \[carrying\] weights,[^135]  
-are living in my hermitage. (32c-d, 33) \[4021\]  
+are living in my hermitage. (32c-d, 33) \[4021\]
+
 Looking but a plough’s length ahead,[^136]  
 clever \[and\] living peacefully,  
 happy if receiving or not,  
-they’re living in my hermitage. (34) \[4022\]  
+they’re living in my hermitage. (34) \[4022\]
+
 Throwing off \[their\] clothes made of bark,  
 rattling \[their\] deer-leather \[robes\],  
 supported by \[just their\] own strength,  
-they are then flying[^137] through the sky. (35) \[4023\]  
+they are then flying[^137] through the sky. (35) \[4023\]
+
 They are not carrying water,  
 nor branches nor wood for the fire;  
 \[those things\] are supplied by themselves:[^138]  
-that’s the fruit of a miracle.[^139] (36) \[4024\]  
+that’s the fruit of a miracle.[^139] (36) \[4024\]
+
 Taking a tub made of iron,[^140]  
 they’re living inside the forest;[^141]  
 even elephants, great cobras  
-and lions do not frighten \[them\]. (37) \[4025\]  
+and lions do not frighten \[them\]. (37) \[4025\]
+
 Some would travel to Goyāna,  
 others to Pubbavideha,  
 and some to Utturukuru,  
 depending on[^142] \[just their\] own strength;  
 carrying \[their\] alms food from there,  
-they are eating \[it\] together. (38, 39a-b) \[4026\]  
+they are eating \[it\] together. (38, 39a-b) \[4026\]
+
 When all of \[those\] fierce ascetics,[^143]  
 \[those\] neutral ones, were taking off,  
 the forest is then noisy with  
-the flapping[^144] of deer-leather robes. (39c-d, 40a-b) \[4027\]  
+the flapping[^144] of deer-leather robes. (39c-d, 40a-b) \[4027\]
+
 Of that sort were those great heroes,  
 \[those\] fierce ascetics, my students;  
 \[always\] surrounded by them, I  
-am living in my hermitage. (40c-d, 41a-b) \[4028\]  
+am living in my hermitage. (40c-d, 41a-b) \[4028\]
+
 Satisfied through \[their\] own karma,  
 educated,[^145] come together,  
 morally-upright \[and\] clever,  
 skillful in the \[four\] boundless states,[^146]  
 wishing[^147] \[to boost their\] own karma,  
-they are propitiating me. (41c-d, 42) \[4029\]  
+they are propitiating me. (41c-d, 42) \[4029\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 recognizing the proper time,[^148]  
-the Guide approached \[my hermitage\]. (43) \[4030\]  
+the Guide approached \[my hermitage\]. (43) \[4030\]
+
 Having approached, the Sambuddha,  
 the Zealous One,[^149] Clever, the Sage,  
 the Sambuddha, taking \[his\] bowl,  
-approached me \[begging\] for alms food. (44) \[4031\]  
+approached me \[begging\] for alms food. (44) \[4031\]
+
 Spreading out a mat made of grass  
 \[for\] the Great Hero who’d approached,  
 the one whose name was “Best Lotus,”  
-I showered \[him\] with *sal* flowers. (45) \[4032\]  
+I showered \[him\] with *sal* flowers. (45) \[4032\]
+
 Having the Sambuddha sit down,  
 my mind \[stirred up\] with emotion,[^150]  
 quickly ascending a mountain,  
-I brought \[some fragrant\] aloe wood.[^151] (46) \[4033\]  
+I brought \[some fragrant\] aloe wood.[^151] (46) \[4033\]
+
 Taking a divinely-scented  
 jak fruit[^152] big as a water-jug,[^153]  
 hoisting it up on \[my\] shoulder,  
-I went up to \[him\], the Leader. (47) \[4034\]  
+I went up to \[him\], the Leader. (47) \[4034\]
+
 Giving the fruit to the Buddha,  
 I anointed \[him\] with aloe.  
 Happy, with pleasure in my heart,  
-I worshipped \[him\], the Best Buddha. (48) \[4035\]  
+I worshipped \[him\], the Best Buddha. (48) \[4035\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 seated amidst \[those great\] sages,  
-\[then\] spoke these verses \[about me\]: (49) \[4036\]  
+\[then\] spoke these verses \[about me\]: (49) \[4036\]
+
 “He who gave me fruit and aloe,  
 and \[also a place\] to sit down,  
 I shall relate details of him;  
-\[all of\] you listen to my words: (50) \[4037\]  
+\[all of\] you listen to my words: (50) \[4037\]
+
 In a village or a forest,  
 atop mountains or inside caves,  
 recognizing this man’s wishes,[^154]  
-food will come into existence. (51) \[4038\]  
+food will come into existence. (51) \[4038\]
+
 \[Whether\] born in the world of gods  
 or in that of men, this person  
 will satisfy his retinue  
-with food and \[also\] with clothing. (52) \[4039\]  
+with food and \[also\] with clothing. (52) \[4039\]
+
 In whatever womb \[he’s\] reborn,  
 \[whether\] it’s human or divine,  
 having[^155] inexhaustible[^156] food,  
-this person’s going to transmigrate. (53) \[4040\]  
+this person’s going to transmigrate. (53) \[4040\]
+
 For thirty thousand aeons he’ll  
 delight in the world of the gods.  
 A thousand times he’ll be a king,  
-a king who turns the wheel \[of law\]. (54) \[4041\]  
+a king who turns the wheel \[of law\]. (54) \[4041\]
+
 Seventy-one \[different\] times  
 he will exercise divine rule,  
 \[and he will have\] much local rule,  
-innumerable by counting. (55) \[4042\]  
+innumerable by counting. (55) \[4042\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (56) \[4043\]  
+will be the Teacher in the world. (56) \[4043\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 knowing well all the defilements,  
-he’ll reach nirvana, undefiled.” (57) \[4044\]  
+he’ll reach nirvana, undefiled.” (57) \[4044\]
+
 The gain for me was well-received,  
 which is that I saw the Leader.  
 Obtaining the three knowledges,  
-\[I have\] done what the Buddha taught! (58) \[4045\]  
+\[I have\] done what the Buddha taught! (58) \[4045\]
+
 In a village or a forest,  
 atop mountains or inside caves,  
 recognizing what I’m wishing,  
-food is always coming to[^157] me. (59) \[4046\]  
+food is always coming to[^157] me. (59) \[4046\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (60) \[4047\]  
+I am living without constraint. (60) \[4047\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (61) \[4048\]  
+\[I have\] done what the Buddha taught! (61) \[4048\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (62) \[4049\]  
+\[I have\] done what the Buddha taught! (62) \[4049\]
+
 Thus indeed Venerable Upasīva Thera spoke these verses.  
 The legend of Upasīva Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
@@ -461,7 +520,8 @@ The legend of Upasīva Thera is finished.
     here) the main point that fierce water-beasts are born there.  
 [^85]: *uggāhaka,* fr. *ogāhati*, *ogāhana*, plunging? = watersnakes?
     PTS spells the term *ogaha* (BJTS *oguha*) above,
-    *Sariputta-apadāna* v. 19 = BJTS \[158\]  
+    *Sariputta-apadāna* v. 19 = BJTS \[158\]
+
 [^86]: *ajagarā.* RD says “a large snake...a Boa Constrictor”  
 [^87]: read *pāṭhīna,* Silurus Boalis, “a kind of shad” (RD); wikipedia
     gives “sheatfish,” related to catfish, includes all the siluridae.

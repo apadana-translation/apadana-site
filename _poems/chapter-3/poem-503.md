@@ -2,27 +2,33 @@
 I saw the Buddha, Stainless One,  
 the World’s Best One, the Bull of Men,  
 sitting down on a mountainside,  
-shining like a dinner-plate tree.[^3] (1) \[5408\]  
+shining like a dinner-plate tree.[^3] (1) \[5408\]
+
 Happy, with pleasure in \[my\] heart,  
 hands pressed together on \[my\] head,  
 gathering *kāsumāri*[^4] fruit,  
-I gave \[it\] to the Best Buddha. (2) \[5409\]  
+I gave \[it\] to the Best Buddha. (2) \[5409\]
+
 In the thirty-one aeons since  
 I gave that fruit \[to the Buddha\],  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving fruit. (3) \[5410\]  
+that is the fruit of giving fruit. (3) \[5410\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (4) \[5411\]  
+I am living without constraint. (4) \[5411\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (5) \[5412\]  
+\[I have\] done what the Buddha taught! (5) \[5412\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (6) \[5413\]  
+\[I have\] done what the Buddha taught! (6) \[5413\]
+
 Thus indeed Venerable Kāsumāriphaladāyaka Thera spoke these verses.  
 The legend of Kāsumāriphaladāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

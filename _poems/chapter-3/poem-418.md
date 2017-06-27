@@ -2,63 +2,78 @@
 Taking someone unknown to me,[^3]  
 I went[^4] to a village back then.  
 Seeing a very full river,  
-I approached a monastery.[^5] (1) \[4416\]  
+I approached a monastery.[^5] (1) \[4416\]
+
 Forest-dwellers,[^6] punctilious,[^7]  
 meditators,[^8] \[clad in\] coarse[^9] robes,  
 wise, lovers of seclusion, were  
-living in \[that\] monastery. (2) \[4417\]  
+living in \[that\] monastery. (2) \[4417\]
+
 Their destinies[^10] had been cut off,  
 well-liberated, neutral ones;  
 they did not go begging for alms  
-if the river obstructed \[them\].[^11] (3) \[4418\]  
+if the river obstructed \[them\].[^11] (3) \[4418\]
+
 Happy, with pleasure in \[my\] heart,  
 awe-struck,[^12] with hands pressed together,  
 taking \[some\] rice-grain that I had,[^13]  
-I made a gruel-donation \[then\]. (4) \[4419\]  
+I made a gruel-donation \[then\]. (4) \[4419\]
+
 Giving gruel \[to those monks\] five times,[^14]  
 \[feeling well-\]pleased by \[my\] own hands,  
 satisfied with \[my\] own karma,  
-I went to Tāvatiṃsa then. (5) \[4420\]  
+I went to Tāvatiṃsa then. (5) \[4420\]
+
 A mansion made of gems was born  
 for me in the group of thirty.[^15]  
 I joyed with a group of women  
-in that superb mansion \[of mine\]. (6) \[4421\]  
+in that superb mansion \[of mine\]. (6) \[4421\]
+
 Thirty-three times the lord of gods,  
 I exercised divine rule \[there\].  
 Thirty times a wheel-turning king,  
-I exercised overlordship.[^16] (7) \[4422\]  
+I exercised overlordship.[^16] (7) \[4422\]
+
 There was \[also\] much local rule,  
 innumerable by counting.  
 In the world of gods or humans,  
-I \[always\] enjoyed \[great\] fame. (8) \[4423\]  
+I \[always\] enjoyed \[great\] fame. (8) \[4423\]
+
 When \[my\] last rebirth was attained,  
 I went forth into homelessness.  
 As soon as[^17] \[my\] hair was cut off,  
-I realized[^18] complete success.[^19] (9) \[4424\]  
+I realized[^18] complete success.[^19] (9) \[4424\]
+
 Due to decay, due to old age,[^20]  
 contemplating[^21] this corpse[^22] \[of mine\],  
 before the training rules were taught,[^23]  
-I attained \[my\] arahantship. (10) \[4425\]  
+I attained \[my\] arahantship. (10) \[4425\]
+
 Well-given was my superb gift;  
 \[my\] trade[^24] was very well-applied.[^25]  
 Because of that very gruel-gift,  
-I’ve attained the unshaking state. (11) \[4426\]  
+I’ve attained the unshaking state. (11) \[4426\]
+
 I have no experience of[^26]  
 sorrow \[and\] wailing \[and\] illness,  
 \[nor\] distress that torments the mind:  
-that is the fruit of giving gruel. (12) \[4427\]  
+that is the fruit of giving gruel. (12) \[4427\]
+
 O! \[that\] gruel was very well spent!  
 Giving the monks’ Assembly gruel,  
 in the unsurpassed merit-field,  
-I enjoy \[these\] five good results: (13) \[4428\]  
+I enjoy \[these\] five good results: (13) \[4428\]
+
 I don’t get ill, I’m beautiful,  
 the Teaching quickly is observed,  
 I receive \[lots of\] food \[and\] drink,  
-and \[my long\] lifespan is the fifth. (14) \[4429\]  
+and \[my long\] lifespan is the fifth. (14) \[4429\]
+
 Whoever struck by awe would give  
 gruel to the Assembly of monks,  
 that wise person would \[also\] get  
-these five \[most welcome\] benefits.[^27] (15) \[4430\]  
+these five \[most welcome\] benefits.[^27] (15) \[4430\]
+
 What should be done has all been done;  
 I have put an end to rebirths.[^28]  
 All defilements are exhausted;  
@@ -70,19 +85,23 @@ and \[Buddha’s\] virtuous Teaching. (17)[^30]
 In the thirty thousand aeons  
 since I gave that gift at that time,  
 I’ve come to know no bad rebirth:  
-that is the fruit of giving gruel. (18) \[4431\]  
+that is the fruit of giving gruel. (18) \[4431\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (19) \[4432\]  
+I am living without constraint. (19) \[4432\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (20) \[4433\]  
+\[I have\] done what the Buddha taught! (20) \[4433\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (21) \[4434\]  
+\[I have\] done what the Buddha taught! (21) \[4434\]
+
 Thus indeed Venerable Yāgudāyaka Thera spoke these verses.  
 The legend of Yāgudāyaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

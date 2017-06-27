@@ -2,23 +2,28 @@
 I was a water bird[^2] who dwelled  
 within a natural lake[^3] \[there\].  
 Then I saw \[him\], the God of Gods,  
-\[when\] he was flying[^4] through the sky. (1) \[2470\]  
+\[when\] he was flying[^4] through the sky. (1) \[2470\]
+
 With a mind that was very clear  
 I plucked some pollen[^5] with my beak  
 \[and then\] offered it to Tissa,  
-the Buddha, Kinsman of the World. (2) \[2471\]  
+the Buddha, Kinsman of the World. (2) \[2471\]
+
 In the ninety-two aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[2472\]  
+that’s the fruit of Buddha-*pūjā.* (3) \[2472\]
+
 In the seventy-third aeon  
 I was \[one\] named Satapatta,[^6]  
 a wheel-turning king with great strength,  
-possessor of the seven gems. (4) \[2473\]  
+possessor of the seven gems. (4) \[2473\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[2474\]  
+\[I have\] done what the Buddha taught! (5) \[2474\]
+
 Thus indeed Venerable Naḷinakesariya Thera spoke these verses.  
 The legend of Naḷinakesariya Thera is finished.  
 [^1]: “Lotus-Lake-er”  

@@ -2,15 +2,18 @@
 Seeing a pulas tree in bloom,[^3]  
 stretching out hands pressed together,  
 recalling Siddhattha Buddha,  
-I offered *pūjā* in the sky. (1) \[3150\]  
+I offered *pūjā* in the sky. (1) \[3150\]
+
 In the ninety-four aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (2) \[3151\]  
+that’s the fruit of Buddha-*pūjā.* (2) \[3151\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (3) \[3152\]  
+\[I have\] done what the Buddha taught! (3) \[3152\]
+
 Thus indeed Venerable Kiŋsukapūjaka Thera spoke these verses.  
 The legend of Kiŋsukapūjaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

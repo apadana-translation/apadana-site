@@ -3,15 +3,18 @@
 I was a deer-hunter back then,  
 within a grove in the forest.  
 I brought the monks[^2] a \[vessel\] filled[^3]  
-with *tuvara*[^4] \[for them to eat\].[^5] (1) \[2462\]  
+with *tuvara*[^4] \[for them to eat\].[^5] (1) \[2462\]
+
 In the ninety-one aeons since  
 I gave \[them\] that gift at that time,  
 I’ve come to know no bad rebirth:  
-that is the fruit of *tuvara.* (2) \[2463\]  
+that is the fruit of *tuvara.* (2) \[2463\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (3) \[2464\]  
+\[I have\] done what the Buddha taught! (3) \[2464\]
+
 Thus indeed Venerable Tuvaradāyaka Thera spoke these verses.  
 The legend of Tuvaradāyaka Thera is finished.  
 [^1]: “Tuvara Donor”. *tuvara* = Sinh. *tōra,* a tree whose seed is

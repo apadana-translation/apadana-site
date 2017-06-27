@@ -2,31 +2,38 @@
 In the Himalayan region,  
 there’s a mountain named Sobhita.  
 My well-constructed hermitage  
-was built by \[my\] own students \[there\]. (1) \[3758\]  
+was built by \[my\] own students \[there\]. (1) \[3758\]
+
 There were many canopies there,[^3]  
 and flowering Chinese chaste trees.[^4]  
 There were many wood-apple[^5] trees,[^6]  
-and *jīvajīvaka*s[^7] in bloom. (2) \[3759\]  
+and *jīvajīvaka*s[^7] in bloom. (2) \[3759\]
+
 There were many *nigguṇḍi*[^8] trees,[^9]  
 jujube,[^10] also gooseberry,[^11]  
 *phārusaka*[^12] and bottle-gourds[^13]  
-and white lotus[^14] flowers in bloom. (3) \[3760\]  
+and white lotus[^14] flowers in bloom. (3) \[3760\]
+
 There was *āḷakā* and bel[^15] there,  
 plantain*,*[^16] and also citron[^17] trees;  
 there was lots of sugarcane[^18] there,  
-arjuna[^19] and *piyaṅguka.*[^20] (4) \[3761\]  
+arjuna[^19] and *piyaṅguka.*[^20] (4) \[3761\]
+
 Neem*,*[^21] *salalā,*[^22] yellow  
 cheesewoods,[^23] banyan,[^24] wood-apple trees,[^25]  
 my hermitage was one like that;  
-I lived \[there\] with \[my\] students then. (5) \[3762\]  
+I lived \[there\] with \[my\] students then. (5) \[3762\]
+
 Anomadassi, Blessed One,  
 the Self-Become One, World-Leader,  
 looking for a secluded place,  
-\[then\] came up to my hermitage. (6) \[3763\]  
+\[then\] came up to my hermitage. (6) \[3763\]
+
 When the Great Hero had approached,[^26]  
 Anomadassi of Great Fame,  
 suddenly \[some\] internal pain,[^27]  
-arose for the Lord of the World. (7) \[3764\]  
+arose for the Lord of the World. (7) \[3764\]
+
 Wandering in the hermitage,  
 I saw the Leader of the World.  
 Having approached the Sambuddha,  
@@ -38,99 +45,123 @@ been born \[inside\] of the Buddha.” (8-9) \[3765-3766\]
 Wishing to practice medicine,  
 I ran back[^29] to the hermitage.  
 In the presence of my students,  
-I then addressed \[all my\] students. (10) \[3767\]  
+I then addressed \[all my\] students. (10) \[3767\]
+
 All the students were respectful;  
 having listened to what I said,  
 they assembled in one group for  
-me, who respected the Teacher. (11) \[3768\]  
+me, who respected the Teacher. (11) \[3768\]
+
 Having quickly scaled a mountain,  
 I fetched[^30] all of the healing herbs.[^31]  
 Making \[them\] into a liquid,[^32]  
-I gave \[it\] to the Best Buddha. (12) \[3769\]  
+I gave \[it\] to the Best Buddha. (12) \[3769\]
+
 When the Great Hero consumed[^33] \[it\],  
 the Omniscient One, World-Leader,  
 quickly \[that\] illness[^34] was suppressed[^35]  
-for the Well-Gone-One, the Great Sage. (13) \[3770\]  
+for the Well-Gone-One, the Great Sage. (13) \[3770\]
+
 Having seen \[his\] distress relieved,[^36]  
 Anomadassi of Great Fame,  
 after sitting on his own seat,  
-spoke these verses \[to us back then\]: (14) \[3771\]  
+spoke these verses \[to us back then\]: (14) \[3771\]
+
 “This one who gave me medicine  
 and \[thereby\] relieved my disease,  
 I shall relate details of him;  
-\[all of\] you listen to my words: (15) \[3772\]  
+\[all of\] you listen to my words: (15) \[3772\]
+
 For one hundred thousand aeons  
 he’ll delight in the world of gods.  
 When instruments[^37] are sounded there,  
-this one constantly will be thrilled. (16) \[3773\]  
+this one constantly will be thrilled. (16) \[3773\]
+
 Coming to the world of humans,  
 incited by \[his\] wholesome roots,  
 a thousand times he’ll be a king,  
-a king who turns the wheel \[of law\]. (17) \[3774\]  
+a king who turns the wheel \[of law\]. (17) \[3774\]
+
 In the fifty-fifth aeon \[hence\]  
 he’ll be the king[^38] named Anoma,[^39]  
 lord of the grove of rose-apples,[^40]  
-victorious on \[all\] four sides.[^41] (18) \[3775\]  
+victorious on \[all\] four sides.[^41] (18) \[3775\]
+
 A wheel-turning king with great strength,  
 possessor of the seven gems,  
 he will exercise sovereignty,  
-making even the heavens shake.[^42] (19) \[3776\]  
+making even the heavens shake.[^42] (19) \[3776\]
+
 \[Whether\] born human or divine,  
 he’ll be one with little disease.  
 Throwing away \[his\] possessions,[^43]  
-he’ll transcend[^44] illness in the world. (20) \[3777\]  
+he’ll transcend[^44] illness in the world. (20) \[3777\]
+
 Aeons beyond measure from now,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
-will be the Teacher in the world. (21) \[3778\]  
+will be the Teacher in the world. (21) \[3778\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 knowing well all the defilements,  
-he’ll reach nirvana, undefiled.” (22) \[3779\]  
+he’ll reach nirvana, undefiled.” (22) \[3779\]
+
 Burning up \[all his\] defilements  
 he will cross the flood of clinging.  
 He’ll be the Teacher’s follower,  
-\[the monk\] whose name is Bakkula. (23) \[3780\]  
+\[the monk\] whose name is Bakkula. (23) \[3780\]
+
 Having come to know all of this,  
 Gotama, Bull of the Śākyas,  
 seated in the monks’ Assembly  
-will place \[him\] in that foremost place.”[^45] (24) \[3781\]  
+will place \[him\] in that foremost place.”[^45] (24) \[3781\]
+
 Anomadassi, Blessed One,  
 the Self-Become One, World-Leader,  
 looking for a secluded place,  
-came to my hermitage \[back then\]. (25) \[3782\]  
+came to my hermitage \[back then\]. (25) \[3782\]
+
 With all the healing herbs I served  
 the Great Hero who had approached,  
 Omniscient One, the World-Leader,  
-\[feeling well-\]pleased by \[my\] own hands. (26) \[3783\]  
+\[feeling well-\]pleased by \[my\] own hands. (26) \[3783\]
+
 I can’t even \[start\] to spend the  
 harvest[^46] of that seed well-planted,[^47]  
 that karma I did well for him,  
-well done by me so long ago.[^48] (27) \[3784\]  
+well done by me so long ago.[^48] (27) \[3784\]
+
 My gains were well-obtained be me  
 who saw the Leader \[of the World\];  
 through the remainder of that deed,  
-I realized the deathless state. (28) \[3785\]  
+I realized the deathless state. (28) \[3785\]
+
 Having come to know all of that,  
 Gotama, Bull of the Śākyas,  
 seated in the monks’ Assembly  
-\[has\] placed in that foremost place. (29) \[3786\]  
+\[has\] placed in that foremost place. (29) \[3786\]
+
 In the vast number of aeons  
 since I did that karma back then,  
 I’ve come to know no bad rebirth:  
-that is the fruit of medicine. (30) \[3787\]  
+that is the fruit of medicine. (30) \[3787\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 All defilements are exhausted;  
-now there will be no more rebirth. (31) \[3788\]  
+now there will be no more rebirth. (31) \[3788\]
+
 My being in Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (32) \[3789\]  
+\[I have\] done what the Buddha taught! (32) \[3789\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (33) \[3790\]  
+\[I have\] done what the Buddha taught! (33) \[3790\]
+
 Thus indeed Venerable Bakkula Thera spoke these verses.  
 The legend of Bakkula Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the

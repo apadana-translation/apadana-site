@@ -7,27 +7,33 @@ through what causes do they become \[so\], Wise One?” (1) \[82\][^3]
 Then spoke the Omniscient, Outstanding, Great Sage,  
 to lucky Ānanda with \[his\] honeyed voice,  
 “Who performed service among former[^4] Buddhas,  
-\[but\] didn’t get freed in their dispensations,[^5] (2) \[83\]  
+\[but\] didn’t get freed in their dispensations,[^5] (2) \[83\]
+
 because that is the means to awaken, wise,  
 they with sharp knowing, through knowledge and power,  
 because of \[their\] wishes \[and\] also great strength,  
-reach the Awakening of Lonely \[Buddhas\]. (3) \[84\]  
+reach the Awakening of Lonely \[Buddhas\]. (3) \[84\]
+
 In every world, with the exception of me,  
 there is no equal for the Lonely Buddhas.  
 I will describe a piece of the excellent  
-character[^6] of those Buddhas, the Great Sages.” (4) \[85\]  
+character[^6] of those Buddhas, the Great Sages.” (4) \[85\]
+
 All of you, with well-pleased minds,[^7] aspiring for  
 the unsurpassed medicine, hear, by yourselves,  
 the excellent sayings, which are short and sweet,[^8]  
-of those Great Sages who were Lonely Buddhas, (5) \[86\]  
+of those Great Sages who were Lonely Buddhas, (5) \[86\]
+
 which are explanations of generations  
 of Lonely Buddhas who gathered together,  
 and a story of dispassion for danger,[^9]  
-and likewise \[how\] they achieved Awakening. (6) \[87\]  
+and likewise \[how\] they achieved Awakening. (6) \[87\]
+
 With awareness detached from passionate things,  
 mind not delighting in delights in the world,  
 abandoning obstacles, throbbing conquered,  
-thereby indeed[^10] they achieved Awakening. (7) \[88\]  
+thereby indeed[^10] they achieved Awakening. (7) \[88\]
+
 Putting away the stick among all beings,  
 not causing harm to a single one of them,  
 with a loving mind, friendly, compassionate,  
@@ -201,39 +207,48 @@ One should wander alone, like a rhino’s horn. (49) \[130\][^76]
 With Pure Morals and With Very Pure Wisdom,  
 Attentive, Applying Selves to Mindfulness,  
 Insightful, Seeing the Teaching’s Distinction,  
-Knowing the Aspects of Path \[and\] of Wisdom,[^77] (50) \[131\]  
+Knowing the Aspects of Path \[and\] of Wisdom,[^77] (50) \[131\]
+
 in a Victor’s dispensation practicing  
 merit, aspiration \[and\] thus \[gaining\] signs,[^78]  
 Wise Ones who don’t go on to have followers  
-become Lonely Victors, \[those\] Self-Become Ones. (51) \[132\]  
+become Lonely Victors, \[those\] Self-Become Ones. (51) \[132\]
+
 With Vast *Dhamma,*[^79] \[and\] Many *Dhamma*-Bodies,[^80]  
 Mind-Lords,[^81] Crossing the Flood of All Suffering,[^82]  
 With Thrilled Minds,[^83] Seers of the Ultimate Goal,[^84]  
-Analogues of Lions,[^85] Like a Rhino’s Horn,[^86] (52) \[133\]  
+Analogues of Lions,[^85] Like a Rhino’s Horn,[^86] (52) \[133\]
+
 With Tranquil Senses,[^87] With Tranquil Minds,[^88] Composed,[^89]  
 Acting Mindfully[^90] for[^91] neighboring beings,[^92]  
 Lamps[^93] shining the light of ultimate truth here,  
-these Lonely Buddhas are constantly honored.[^94] (53) \[134\]  
+these Lonely Buddhas are constantly honored.[^94] (53) \[134\]
+
 All Obstacles Abandoned,[^95] Lords of People,[^96]  
 Lamps of the World,[^97] Shedding Light Like Heaps of Gold,[^98]  
 Free of Doubt \[and\] Good for the World to Look At,[^99]  
-these Lonely Buddhas are constantly honored.[^100] (54) \[135\]  
+these Lonely Buddhas are constantly honored.[^100] (54) \[135\]
+
 The clever sayings[^101] of the Lonely Buddhas  
 are circulating[^102] in the world with \[its\] gods.  
 Having heard, those who don’t act that way are fools;  
-they spin in suffering again and again. (55) \[136\]  
+they spin in suffering again and again. (55) \[136\]
+
 The clever sayings[^103] of the Lonely Buddhas  
 are as sweet as if they were[^104] flowing honey.[^105]  
 Having heard, those who practice accordingly  
-become seers of the \[Four\][^106] Truths, very wise. (56) \[137\]  
+become seers of the \[Four\][^106] Truths, very wise. (56) \[137\]
+
 The\[se\] lofty verses spoken by \[those\] Victors,  
 Lonely Buddhas, gone forth into homelessness,  
 were made known, for apprehending the Teaching,  
-by the Śākyan Lion,[^107] the Ultimate Man. (57) \[138\]  
+by the Śākyan Lion,[^107] the Ultimate Man. (57) \[138\]
+
 With pity for the world, these transformations[^108]  
 of those \[Self-Become Ones,\] the Lonely Buddhas,  
 were made known by \[him,\] the Self-Become Lion,  
-for increasing emotion and connection.[^109] (58) \[139\]  
+for increasing emotion and connection.[^109] (58) \[139\]
+
 The Legend of the Lonely Buddhas is finished.[^110]  
 [^1]: the Sage of Videha is Ānanda, the Buddha’s cousin and personal
     attendant  

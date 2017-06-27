@@ -2,11 +2,13 @@
 I was \[only\] seven years old,[^2]  
 a learned master of mantras.  
 Carrying on the family line,  
-I encouraged sacrifice\[s\]. (1) \[2841\]  
+I encouraged sacrifice\[s\]. (1) \[2841\]
+
 Eighty-four thousand \[living\] beasts,  
 are slaughtered by me every day.  
 Brought to a wooden hitching post,[^3]  
-they are kept for sacrificing. (2) \[2842\]  
+they are kept for sacrificing. (2) \[2842\]
+
 Like beaten[^4] \[gold\] atop a forge,[^5]  
 \[burning bright\] like cedar charcoal,[^6]  
 like the sun \[when it\] is rising,  
@@ -18,31 +20,38 @@ the Sambuddha, having approached
 “Non-violence to all that breathe,  
 young man, is \[what best\] pleases me,  
 and abstaining from stealing \[things\],  
-transgressing and drinking liquor. (5) \[2845\]  
+transgressing and drinking liquor. (5) \[2845\]
+
 I am pleased by good behavior,  
 and gratitude for the learned;  
 praiseworthy too are those things \[done\]  
-for others in \[this\] world of things. (6) \[2846\]  
+for others in \[this\] world of things. (6) \[2846\]
+
 Having cultivated those things,  
 delighting in kindness to all,[^10]  
 pleasing \[your\] heart in the Buddha,  
-cultivate the ultimate Path.” (7) \[2847\]  
+cultivate the ultimate Path.” (7) \[2847\]
+
 Saying this, the Omniscient One,  
 the World’s Best, the Bull among Men,  
 having thus given me advice,  
-rose into the sky and flew off.[^11] (8) \[2848\]  
+rose into the sky and flew off.[^11] (8) \[2848\]
+
 Beforehand having cleansed \[my\] heart,  
 I later brought \[my\] heart pleasure.  
 Because of that mental pleasure,  
-I was reborn in Tusitā. (9) \[2849\]  
+I was reborn in Tusitā. (9) \[2849\]
+
 In the ninety-four aeons since  
 I brought \[that\] pleasure to \[my\] heart,  
 I’ve come to know no bad rebirth:  
-the fruit of perceiving Buddhas. (10) \[2850\]  
+the fruit of perceiving Buddhas. (10) \[2850\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (11) \[2851\]  
+\[I have\] done what the Buddha taught! (11) \[2851\]
+
 Thus indeed Venerable Saññasāmika Thera spoke these verses.  
 The legend of Saññasāmika Thera is finished.  
 [^1]: “Mastered through Perception”  

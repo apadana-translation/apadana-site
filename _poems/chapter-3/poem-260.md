@@ -10,15 +10,18 @@ I offered Buddha \[that flower\]. (1-2) \[2535-2536\]
 In the thirty-one aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā*. (3) \[2537\]  
+that’s the fruit of Buddha-*pūjā*. (3) \[2537\]
+
 In the twenty-fifth aeon \[hence\]  
 I‘m known \[by the name\] Amita,[^4]  
 a wheel-turning king with great strength,  
-possessor of the seven gems. (4) \[2538\]  
+possessor of the seven gems. (4) \[2538\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[2539\]  
+\[I have\] done what the Buddha taught! (5) \[2539\]
+
 Thus indeed Venerable Aggapupphiya Thera spoke these verses.  
 The legend of Aggapupphiya Thera is finished.  
 The summary:  

@@ -2,99 +2,123 @@
 Near the top of a mountain slope,  
 the ascetic named Anoma,  
 making a well-built hermitage,  
-dwelt in a hall made of leaves then. (1) \[4072\]  
+dwelt in a hall made of leaves then. (1) \[4072\]
+
 His practices[^3] were successful;  
 the goal attained[^4] by[^5] \[his\] own strength.[^6]  
 Heroic in \[his\] own monkhood,  
-\[he\] was zealous, clever, a sage. (2) \[4073\]  
+\[he\] was zealous, clever, a sage. (2) \[4073\]
+
 Confident in his religion,[^7]  
 he was skilled in others’ doctrines,[^8]  
 expert[^9] and skillful \[in reading\]  
-omens[^10] on earth and in the sky. (3) \[4074\]  
+omens[^10] on earth and in the sky. (3) \[4074\]
+
 Meditating, trance-loving sage,  
 he did not covet,[^11] was grief-free,[^12]  
 happy if receiving or not,  
-ate little food,[^13] did not kill beasts.[^14] (4) \[4075\]  
+ate little food,[^13] did not kill beasts.[^14] (4) \[4075\]
+
 Piyadassi, the Sambuddha,  
 Chief,[^15] Compassionate One, the Sage,  
 wishing to help beings across,[^16]  
-spread[^17] \[the Teaching\] with compassion.[^18] (5) \[4076\]  
+spread[^17] \[the Teaching\] with compassion.[^18] (5) \[4076\]
+
 Piyadassi, the Sage So Great,  
 seeing folks who could understand,[^19]  
 having gone is exhorting \[them,\]  
-in a thousand universes.[^20] (6) \[4077\]  
+in a thousand universes.[^20] (6) \[4077\]
+
 With a desire to lift me up,  
 he \[then\] approached my hermitage.  
 I had not formerly seen \[him,\][^21]  
-nor heard of him from anyone. (7) \[4078\]  
+nor heard of him from anyone. (7) \[4078\]
+
 Omens, dreams \[and\] auspicious marks  
 were very clear to me \[back then\],  
 an expert, skilled in horoscopes,[^22]  
-\[both\] on the earth and in the sky. (8) \[4079\]  
+\[both\] on the earth and in the sky. (8) \[4079\]
+
 After hearing of the Buddha,  
 I gladdened \[my\] heart over him.[^23]  
 Whether eating or sitting down,  
-I remember \[him\] all the time. (9) \[4080\]  
+I remember \[him\] all the time. (9) \[4080\]
+
 When I was thus remembering,  
 the Blessed One thought \[of me\] too.  
 Joy arose in me all the time,  
-when I thought about the Buddha. (10) \[4081\]  
+when I thought about the Buddha. (10) \[4081\]
+
 Returning at a later time,  
 the Sage So Great came up to me.  
 When he arrived[^24] I did not know  
-that he’s the Buddha, the Great Sage. (11) \[4082\]  
+that he’s the Buddha, the Great Sage. (11) \[4082\]
+
 Full of Pity, Compassionate,  
 Piyadassi, the Sage So Great,  
 \[then\] introduced himself \[to me\]:  
-“I am the Buddha in the world.”[^25] (12) \[4083\]  
+“I am the Buddha in the world.”[^25] (12) \[4083\]
+
 Coming to know the Sambuddha,  
 Piyadassi, the Sage So Great,  
 \[filling my\] own heart with pleasure,  
-I spoke these words \[to him back then\]: (13) \[4084\]  
+I spoke these words \[to him back then\]: (13) \[4084\]
+
 “You are sitting down on other  
 chairs and palanquins and deck-chairs,  
 but[^26] you, the Seer of All Things,  
-should sit[^27] upon a gem-set throne.[^28] (14) \[4085\]  
+should sit[^27] upon a gem-set throne.[^28] (14) \[4085\]
+
 At that time \[someone\][^29] created[^30]  
 a chair made out of all the gems,  
 a magically-created[^31] seat  
-for Piyadassi, the Great Sage. (15) \[4086\]  
+for Piyadassi, the Great Sage. (15) \[4086\]
+
 Then I gave a rose-apple fruit,[^32]  
 as big as a jug of water,[^33]  
 to \[Buddha\] seated on \[that\] chair  
-magically-fashioned out of gems. (16) \[4087\]  
+magically-fashioned out of gems. (16) \[4087\]
+
 \[At that time\] the Great Sage ate \[it\],  
 generating \[great\] mirth[^34] for me.  
 Then bringing pleasure to \[my\] heart,  
-I saluted \[him\], the Teacher. (17) \[4088\]  
+I saluted \[him\], the Teacher. (17) \[4088\]
+
 But Piyadassi, Blessed One,  
 the World’s Best One, the Bull of Men,  
 sitting upon \[that\] gem-set throne,  
-spoke these verses \[about me then\]: (18) \[4089\]  
+spoke these verses \[about me then\]: (18) \[4089\]
+
 “He who gave me \[this\] gem-set chair  
 and \[also this\] ambrosial[^35] fruit,  
 I shall relate details of him;  
-\[all of\] you listen to my words: (19) \[4090\]  
+\[all of\] you listen to my words: (19) \[4090\]
+
 “For seventy-seven aeons  
 he’ll delight in the world of gods,  
 and fifty-seven times he’ll be  
-a king who turns the wheel \[of law\]. (20) \[4091\]  
+a king who turns the wheel \[of law\]. (20) \[4091\]
+
 Thirty-two times the lord of gods,  
 he will exercise divine rule,  
 \[and there will be\] much local rule,  
-innumerable by counting. (21) \[4092\]  
+innumerable by counting. (21) \[4092\]
+
 He will receive seats made of gems  
 and also made out of rubies,  
 \[and\] many palanquins well-made  
-out of gold[^36] \[and\] out of silver.[^37] (22) \[4093\]  
+out of gold[^36] \[and\] out of silver.[^37] (22) \[4093\]
+
 Even when walking back and forth,  
 palanquins of different sorts,  
 all the time will wait upon  
-\[this\] man possessing good[^38] karma. (23) \[4094\]  
+\[this\] man possessing good[^38] karma. (23) \[4094\]
+
 Huts with gables and palaces,  
 and beds which are very costly,  
 all of the time will come to be,  
-discerning what he is thinking. (24) \[4095\]  
+discerning what he is thinking. (24) \[4095\]
+
 \[And\] sixty thousand elephants,  
 decked out in all the ornaments,  
 *mātaṅga*s with gold headdresses,  
@@ -122,7 +146,8 @@ that’s the fruit of a gem-set chair. (29-30) \[4100-4101\]
 Sixty thousand milch-cows \[as well,\]  
 red in color,[^45] best of the best,[^46]  
 will give birth to \[many good\] calves:  
-that’s the fruit of a gem-set chair. (31) \[4102\]  
+that’s the fruit of a gem-set chair. (31) \[4102\]
+
 Sixty thousand women \[as well\],  
 decked out in all the ornaments,  
 with varied clothes and jewelry  
@@ -134,35 +159,43 @@ that’s the fruit of a gem-set chair. (32-33) \[4103-4104\]
 Eighteen hundred aeons \[from now,\]  
 the Eyeful One named Gotama,  
 doing away with the darkness,  
-will be the Buddha in the world. (34) \[4105\]  
+will be the Buddha in the world. (34) \[4105\]
+
 Coming to look at him, \[this man\]  
 will go forth having nothing.  
 Satisfying the Teacher, he’ll  
-delight in the dispensation. (35) \[4106\]  
+delight in the dispensation. (35) \[4106\]
+
 Having listened to his Teaching,  
 he will destroy the defilements.  
 Knowing well all the defilements,  
-he’ll reach nirvana, undefiled. (36) \[4107\]  
+he’ll reach nirvana, undefiled. (36) \[4107\]
+
 Vigorous effort’s the yoked ox  
 carrying perfect peace for me.[^49]  
 Wishing for ultimate meaning,  
-I dwell in the dispensation. (37) \[4108\]  
+I dwell in the dispensation. (37) \[4108\]
+
 This is the final time for me;  
 \[my\] last rebirth is proceeding.[^50]  
 All defilements are exhausted;  
-now there will be no more rebirth. (38) \[4109\]  
+now there will be no more rebirth. (38) \[4109\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. (39) \[4110\]  
+I am living without constraint. (39) \[4110\]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! (40) \[4111\]  
+\[I have\] done what the Buddha taught! (40) \[4111\]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (41) \[4112\]  
+\[I have\] done what the Buddha taught! (41) \[4112\]
+
 Thus indeed Venerable Hemaka Thera spoke these verses.  
 The legend of Hemaka Thera is finished.  
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
