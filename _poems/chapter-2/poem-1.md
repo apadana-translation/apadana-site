@@ -1,9 +1,18 @@
-The Legend of the Lonely Buddhas  
-Now listen to the legend of the Lonely Buddhas:  
+---
+title: The Legend of the Lonely Buddhas
+layout: poem
+category: chapter-1
+---
+
+# The Legend of the Lonely Buddhas
+
+Now listen to the legend of the Lonely Buddhas:
+
 The Sage of Vedeha,[^1] his body bent, asked  
 the Thus-Gone-One dwelling in Jetavana,  
 “Indeed there are those \[called\] the Lonely Buddhas;[^2]  
-through what causes do they become \[so\], Wise One?” (1) \[82\][^3]  
+through what causes do they become \[so\], Wise One?” (1) \[82\][^3]
+
 Then spoke the Omniscient, Outstanding, Great Sage,  
 to lucky Ānanda with \[his\] honeyed voice,  
 “Who performed service among former[^4] Buddhas,  
@@ -37,173 +46,213 @@ thereby indeed[^10] they achieved Awakening. (7) \[88\]
 Putting away the stick among all beings,  
 not causing harm to a single one of them,  
 with a loving mind, friendly, compassionate,  
-one should wander alone, like a rhino’s horn. (8) \[89\][^11]  
+one should wander alone, like a rhino’s horn. (8) \[89\][^11]
+
 Putting away the stick among all beings,  
 not causing harm to a single one of them,  
 not wishing for sons, let alone[^12] companions,  
-one should wander alone, like a rhino’s horn. (9) \[90\][^13]  
+one should wander alone, like a rhino’s horn. (9) \[90\][^13]
+
 Affections arise for one with connections;  
 this dis-ease proceeds in line with affections.  
 Seeing the danger that’s born of affections,  
-one should wander alone, like a rhino’s horn. (10) \[91\][^14]  
+one should wander alone, like a rhino’s horn. (10) \[91\][^14]
+
 Feeling compassion for friends \[and\] companions,  
 one puts off the goal, mind tied \[to their problems\];  
 seeing that fearfulness in intimacy,  
-one should wander alone, like a rhino’s horn. (11) \[92\][^15]  
+one should wander alone, like a rhino’s horn. (11) \[92\][^15]
+
 One who is attentive to sons and to wives  
 is entangled like a large bamboo \[thicket\].  
 Not stuck to others, like a new bamboo shoot,  
-one should wander alone, like a rhino’s horn. (12) \[93\][^16]  
+one should wander alone, like a rhino’s horn. (12) \[93\][^16]
+
 Just as a deer, not ensnared, goes for pasture  
 in the forest according to \[its\] wishes,  
 a knowing man looks after independence;  
-one should wander alone, like a rhino’s horn. (13) \[94\][^17]  
+one should wander alone, like a rhino’s horn. (13) \[94\][^17]
+
 Resting, standing, going, wandering there is  
 \[some\] invitation amidst \[one’s\] companions.  
 Looking after independence \[most\] don’t want,[^18]  
-one should wander alone, like a rhino’s horn. (14) \[95\][^19]  
+one should wander alone, like a rhino’s horn. (14) \[95\][^19]
+
 Amidst \[one’s\] companions there is delighting  
 in sports, and there is abundant love for sons.  
 \[Though\] hating separation from what’s held dear,  
-one should wander alone, like a rhino’s horn. (15) \[96\][^20]  
+one should wander alone, like a rhino’s horn. (15) \[96\][^20]
+
 Global in outlook,[^21] one is causing no harm,  
 being happy with whatever comes one’s way;  
 an endurer of troubles, not stiff with fear,  
-one should wander alone, like a rhino’s horn. (16) \[97\][^22]  
+one should wander alone, like a rhino’s horn. (16) \[97\][^22]
+
 Even some who have gone forth are ill-disposed;  
 likewise \[some\] householders living in the house.  
 Being unconcerned about others’ children,  
-one should wander alone, like a rhino’s horn. (17) \[98\][^23]  
+one should wander alone, like a rhino’s horn. (17) \[98\][^23]
+
 Shedding the attributes of life in the house  
 like an ebony[^24] tree whose leaves have fallen,  
 the hero severs the ties to household life;  
-one should wander alone, like a rhino’s horn. (18) \[99\][^25]  
+one should wander alone, like a rhino’s horn. (18) \[99\][^25]
+
 If one should obtain a clever companion,  
 a co-wanderer who lives well \[and\] is wise,  
 after having overcome every trouble,  
-one would wander with that one, thrilled \[and\] mindful. (19)
-\[100\][^26]  
+one would wander with that one, thrilled \[and\] mindful. (19) \[100\][^26]
+
 If one should not get a clever companion,  
 a co-wanderer who lives well \[and\] is wise,  
 \[then\] like a king quitting a conquered kingdom,  
-one should wander alone, like tuskers in the woods.[^27] (20)
-\[101\][^28]  
+one should wander alone, like tuskers in the woods.[^27] (20) \[101\][^28]
+
 Truly we’re praising success with companions;  
 those[^29] who are better or equal should be served.  
 Not getting those, not enjoying sinful things,  
-one should wander alone, like a rhino’s horn. (21) \[102\][^30]  
+one should wander alone, like a rhino’s horn. (21) \[102\][^30]
+
 Seeing shiny \[bangles made out\] of \[fine\] gold,  
 which have been well-made by the son of a smith,\
 banging together when two are on \[one\] arm  
-one should wander alone, like a rhino’s horn. (22) \[103\][^31]  
+one should wander alone, like a rhino’s horn. (22) \[103\][^31]
+
 “Like that, with another,[^32] there will be for me,  
 meaningless chatter or ill-tempered \[bad speech\];”  
 seeing that as a danger for the future,  
-one should wander alone, like a rhino’s horn. (23) \[104\][^33]  
+one should wander alone, like a rhino’s horn. (23) \[104\][^33]
+
 Sense pleasures are varied, sweet and delightful;  
 \[they\] churn up the mind with \[their\] varying form.  
 Seeing danger in the strands of sense pleasure,  
-one should wander alone, like a rhino’s horn. (24) \[105\][^34]  
+one should wander alone, like a rhino’s horn. (24) \[105\][^34]
+
 “For me this is calamity, misfortune;  
 a sickness, a \[sharp\] arrow, a fearsome thing.”  
 Seeing this fear in the strands of sense pleasure,  
-one should wander alone, like a rhino’s horn. (25) \[106\][^35]  
+one should wander alone, like a rhino’s horn. (25) \[106\][^35]
+
 \[Freezing\] cold and \[scorching\] heat, hunger and thirst,  
 wind \[and\] hot weather and gadflies \[and\] serpents:  
 having vanquished even all of those \[problems,\]  
-one should wander alone, like a rhino’s horn. (26) \[107\][^36]  
+one should wander alone, like a rhino’s horn. (26) \[107\][^36]
+
 Just as a noble elephant with a full-  
 grown spotted body, abandoning the herd,  
 might dwell in the woods, however it wishes,  
-one should wander alone, like a rhino’s horn. (27) \[108\][^37]  
+one should wander alone, like a rhino’s horn. (27) \[108\][^37]
+
 “One who is fond of company cannot touch[^38]  
 liberation, even temporarily.”  
 Heeding with care \[those\] words of the Sun’s Kinsman,[^39]  
-one should wander alone, like a rhino’s horn. (28) \[109\][^40]  
+one should wander alone, like a rhino’s horn. (28) \[109\][^40]
+
 Freed from \[incessant\] wrangling of opinions,  
 gaining the way, getting the path, \[with the thought,\]  
 “I know I am not to be led by others,”  
-one should wander alone, like a rhino’s horn. (29) \[110\][^41]  
+one should wander alone, like a rhino’s horn. (29) \[110\][^41]
+
 Freed from greed, without deceit, \[and\] thirst-free,  
 lacking hypocrisy, fault- and folly-free,[^42]  
 becoming intention-free in the whole world,  
-one should wander alone, like a rhino’s horn. (30) \[111\][^43]  
+one should wander alone, like a rhino’s horn. (30) \[111\][^43]
+
 Avoiding, not consorting with an evil  
 companion, who is blind[^44] to the goal, who gets  
 into trouble, who intends \[things\], is slothful,  
-one should wander alone, like a rhino’s horn. (31) \[112\][^45]  
+one should wander alone, like a rhino’s horn. (31) \[112\][^45]
+
 One should consort with \[someone\] noble, a friend,  
-very learned, *Dhamma-*bearer, skilled preacher.  
+very learned, *Dhamma*-bearer, skilled preacher.  
 Discerning \[one’s own\] goals, removing \[all\] doubt,  
-one should wander alone, like a rhino’s horn. (32) \[113\][^46]  
+one should wander alone, like a rhino’s horn. (32) \[113\][^46]
+
 Not embellishing, not looking after sport  
 nor[^47] delights, pleasures, happiness in the world;  
 abstaining from adornment,[^48] telling the truth,  
-one should wander alone, like a rhino’s horn. (33) \[114\][^49]  
+one should wander alone, like a rhino’s horn. (33) \[114\][^49]
+
 Having given up sense pleasures completely,  
 \[including\] sons and wives, father \[and\] mother,  
 wealth and grain and also \[all one’s\] relatives,  
-one should wander alone, like a rhino’s horn. (34) \[115\][^50]  
+one should wander alone, like a rhino’s horn. (34) \[115\][^50]
+
 Mindful, discerning, “this is an attachment;  
 the happiness here is trifling, little fun;  
 here there is much suffering, this is a shaft,”[^51]  
-one should wander alone, like a rhino’s horn. (35) \[116\][^52]  
+one should wander alone, like a rhino’s horn. (35) \[116\][^52]
+
 Having broken to bits \[one’s own\] hindrances,[^53]  
 like a fish breaking a net in the water,  
 like fire that does not return to what is burnt,  
-one should wander alone, like a rhino’s horn. (36) \[117\][^54]  
+one should wander alone, like a rhino’s horn. (36) \[117\][^54]
+
 With eyes cast downward, not \[just\] goofing around,  
 having senses guarded and mind protected,  
 not filled with desire,[^55] not burning \[as though fire,\]  
-one should wander alone, like a rhino’s horn. (37) \[118\][^56]  
+one should wander alone, like a rhino’s horn. (37) \[118\][^56]
+
 Discarding the attributes of household life,  
 just like a coral tree[^57] with fallen-off leaves,  
 departing \[the house\] wearing the saffron robe,  
-one should wander alone, like a rhino’s horn. (38) \[119\][^58]  
+one should wander alone, like a rhino’s horn. (38) \[119\][^58]
+
 Not[^59] greedy for \[good\] tastes, not wavering, not  
 feeding others, on unbroken begging rounds,[^60]  
 with a mind that’s not bound to this clan or that,  
-one should wander alone, like a rhino’s horn. (39) \[120\][^61]  
+one should wander alone, like a rhino’s horn. (39) \[120\][^61]
+
 Abandoning the five hindrances of mind,  
 having pushed away all of the defilements,  
 independent, affection \[and\] hate removed,  
-one should wander alone, like a rhino’s horn. (40) \[121\][^62]  
+one should wander alone, like a rhino’s horn. (40) \[121\][^62]
+
 Putting happiness and suffering behind,  
 \[and\] even in the past, mental joy and pain;[^63]  
 attaining equanimity, calm and pure,  
-one should wander alone, like a rhino’s horn. (41) \[122\][^64]  
+one should wander alone, like a rhino’s horn. (41) \[122\][^64]
+
 With strenuous effort[^65] to reach the best goal,  
 with mind unstuck \[and\] behavior attentive,  
 with firm exertion, having strength and power,  
-one should wander alone, like a rhino’s horn. (42) \[123\][^66]  
+one should wander alone, like a rhino’s horn. (42) \[123\][^66]
+
 Not quitting solitude \[or\] meditation,  
 always living among things by the Teaching,  
 grasping the danger within existences,  
-one should wander alone, like a rhino’s horn. (43) \[124\][^67]  
+one should wander alone, like a rhino’s horn. (43) \[124\][^67]
+
 Aspiring to destroy craving, not lazy,  
 not foolish, learned, possessing mindfulness,  
 probing the Teaching, restrained, energetic,  
-one should wander alone, like a rhino’s horn. (44) \[125\][^68]  
+one should wander alone, like a rhino’s horn. (44) \[125\][^68]
+
 Not terrified, like a lion \[hearing\] sounds;  
 unentangled, as is the wind in a net;  
 not smeared, like a pink lotus by the water,  
-one should wander alone, like a rhino’s horn. (45) \[126\][^69]  
+one should wander alone, like a rhino’s horn. (45) \[126\][^69]
+
 Having overcome, like a strong-toothed lion,  
 the king of beasts, wandering victorious,  
 one should make use of lodgings that are remote,  
-one should wander alone, like a rhino’s horn. (46) \[127\][^70]  
+one should wander alone, like a rhino’s horn. (46) \[127\][^70]
+
 Practicing love, equanimity, pity,  
 release, or[^71] joy for others at the \[right\] time,  
 being unobstructed by the entire world,  
-one should wander alone, like a rhino’s horn. (47) \[128\][^72]  
+one should wander alone, like a rhino’s horn. (47) \[128\][^72]
+
 Quitting passion and hatred and delusion,  
 having broken to bits \[one’s own\] hindrances,[^73]  
 not trembling at the moment when life’s destroyed,  
-one should wander alone, like a rhino’s horn. (48) \[129\][^74]  
+one should wander alone, like a rhino’s horn. (48) \[129\][^74]
+
 They associate, they embrace with \[some\] motive;  
 friends without motives are hard to find[^75] these days.  
 Wise about self-interest, people aren’t pure.  
-One should wander alone, like a rhino’s horn. (49) \[130\][^76]  
+One should wander alone, like a rhino’s horn. (49) \[130\][^76]
+
 With Pure Morals and With Very Pure Wisdom,  
 Attentive, Applying Selves to Mindfulness,  
 Insightful, Seeing the Teaching’s Distinction,  
@@ -214,7 +263,7 @@ merit, aspiration \[and\] thus \[gaining\] signs,[^78]
 Wise Ones who don’t go on to have followers  
 become Lonely Victors, \[those\] Self-Become Ones. (51) \[132\]
 
-With Vast *Dhamma,*[^79] \[and\] Many *Dhamma*-Bodies,[^80]  
+With Vast *Dhamma*,[^79] \[and\] Many *Dhamma*-Bodies,[^80]  
 Mind-Lords,[^81] Crossing the Flood of All Suffering,[^82]  
 With Thrilled Minds,[^83] Seers of the Ultimate Goal,[^84]  
 Analogues of Lions,[^85] Like a Rhino’s Horn,[^86] (52) \[133\]
@@ -251,11 +300,11 @@ for increasing emotion and connection.[^109] (58) \[139\]
 
 The Legend of the Lonely Buddhas is finished.[^110]
 
-[^1]: the Sage of Videha is Ānanda, the Buddha’s cousin and personal attendant
+[^1]: The Sage of Videha is Ānanda, the Buddha’s cousin and personal attendant
 
 [^2]: *paccekabuddhā*
 
-[^3]: This and the following two verses correspond to the first three verses of *Buddhāpadāna,* above, where they are however found only in the BJTS edition; here, PTS agrees with BJTS in including them. They are in the more elaborate meter, with eleven syllables per foot, that characterizes the entire *Paccekabuddhāpadāna* (and the *sutta* from which it in turn draws, SN I.3), so I have translated accordingly.
+[^3]: This and the following two verses correspond to the first three verses of *Buddhāpadāna*, above, where they are however found only in the BJTS edition; here, PTS agrees with BJTS in including them. They are in the more elaborate meter, with eleven syllables per foot, that characterizes the entire *Paccekabuddhāpadāna* (and the *sutta* from which it in turn draws, SN I.3), so I have translated accordingly.
 
 [^4]: reading *pubba°* with BJTS (and PTS alt., and BJTS \[2\], above) for PTS *sabba°* (“all”)
 
@@ -263,7 +312,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^6]: *vaṇṇa-padesa-mattaŋ*
 
-[^7]: or, reading *sabbesu pasannacittā,* “with minds pleased in all of those \[Lonely Buddhas\]”
+[^7]: or, reading *sabbesu pasannacittā*, “with minds pleased in all of those \[Lonely Buddhas\]”
 
 [^8]: or read *madhuṃ va khuddaṃ* (“sweet like honey”) with BJTS, as below even in PTS (v. 56)
 
@@ -271,7 +320,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^10]: reading *tath’ eva* with BJTS for PTS *tatth’ eva* (“there indeed”)
 
-[^11]: BJTS adds the Pāli note: *ayaṃ gāthā marammapothake ca suttanipāte ca na vijjjati,* “this verse is not found in the Burmese edition nor \[lit., “and”\] in *Suttanipāta*,” referring to the remarkable fact that even though the following text is lifted almost verbatim from the “Rhinocerous Horn” *sutta* of the *Sutta-nipāta* (I.3), corresponding as indicated in the footnotes on the following verses, this present verse in the *Paccekabuddhāpadāna,* though it follows the format of the *Sutta-nipāta sutta*, is not found in that *sutta* (nor, apparently, in Burmese manuscripts of *Apadāna*)*.*
+[^11]: BJTS adds the Pāli note: *ayaṃ gāthā marammapothake ca suttanipāte ca na vijjjati*, “this verse is not found in the Burmese edition nor \[lit., “and”\] in *Suttanipāta*,” referring to the remarkable fact that even though the following text is lifted almost verbatim from the “Rhinocerous Horn” *sutta* of the *Sutta-nipāta* (I.3), corresponding as indicated in the footnotes on the following verses, this present verse in the *Paccekabuddhāpadāna*, though it follows the format of the *Sutta-nipāta sutta*, is not found in that *sutta* (nor, apparently, in Burmese manuscripts of *Apadāna*).
 
 [^12]: *kuto*, lit., “how then?” “from where?”
 
@@ -285,13 +334,13 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^17]: = SN, v. 39
 
-[^18]: *anabhijjhitaŋ seritaŋ,* lit., “un-coveted independence”
+[^18]: *anabhijjhitaŋ seritaŋ*, lit., “un-coveted independence”
 
 [^19]: = SN, v. 40
 
 [^20]: = SN, v. 41
 
-[^21]: *catuddiso,* lit., “\[one who belongs to\] the four directions”
+[^21]: *catuddiso*, lit., “\[one who belongs to\] the four directions”
 
 [^22]: = SN, v. 42
 
@@ -325,7 +374,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^37]: = SN, v. 53
 
-[^38]: lit., “it is an impossibility (*aṭṭhāna,* for *a-ṭṭhānaṃ,* lit., “groundless”) that one...would touch”
+[^38]: lit., “it is an impossibility (*aṭṭhāna*, for *a-ṭṭhānaṃ*, lit., “groundless”) that one...would touch”
 
 [^39]: *Ādiccabandhussa.* Though elsewhere in *Apadāna* this epithet signals Sammāsambuddhas (especially Tissa), here, as BJTS gloss makes clear, it refers to the Paccekabuddha to whom the phrase in quotation marks is attributed.
 
@@ -345,7 +394,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^47]: *ca,* lit., “and”
 
-[^48]: *vibhūsanaṭṭhāṇā,* lit., “from a state of adornment”. The *°(ṭ)ṭhāṇā* here is largely superfluous, except in providing the ablative required by *virato,* and messes up the meter (13 syllables in this foot), but neither PTS nor BJTS indicates any hesitation about the reading. Norman, in his SN tr. (p. 9) reads *vibhūsanā* and omits *°ṭṭhāṇā*
+[^48]: *vibhūsanaṭṭhāṇā,* lit., “from a state of adornment”. The *°(ṭ)ṭhāṇā* here is largely superfluous, except in providing the ablative required by *virato*, and messes up the meter (13 syllables in this foot), but neither PTS nor BJTS indicates any hesitation about the reading. Norman, in his SN tr. (p. 9) reads *vibhūsanā* and omits *°ṭṭhāṇā*
 
 [^49]: = SN, v. 59
 
@@ -433,7 +482,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^91]: lit., “in” “among”
 
-[^92]: *paccantasattesu satippacārā.* BJTS reads *paccanta gambhīra-mata-ppacāra,* “Going About with Deep Thought for Neighboring \[Folks\]” (?)
+[^92]: *paccantasattesu satippacārā.* BJTS reads *paccanta gambhīra-mata-ppacāra*, “Going About with Deep Thought for Neighboring \[Folks\]” (?)
 
 [^93]: *Dīpā*
 
@@ -459,13 +508,13 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^104]: lit., “like”
 
-[^105]: BJTS reads *khuddam avassavantaṃ* (“flowing honey”) for PTS *khuddam iva ssavantam* (“like \[“as if they were”\] flowing honey”)*, *
+[^105]: BJTS reads *khuddam avassavantaṃ* (“flowing honey”) for PTS *khuddam iva ssavantam* (“like \[“as if they were”\] flowing honey”)
 
-[^106]: I follow BJTS Sinhala gloss in interpolating “the Four Noble Truths” here, as elsewhere more explicitly throughout *Apadāna.*
+[^106]: I follow BJTS Sinhala gloss in interpolating “the Four Noble Truths” here, as elsewhere more explicitly throughout *Apadāna*.
 
 [^107]: *Śākyasīhena*
 
-[^108]: *vikubbitāni,* lit., “miraculous transformations” (as through *iddhi* superpowers); the term seems to agree with *subhāsitāni,* “clever sayings,” in vv. 55-56 = “lofty verses” in v. 57.
+[^108]: *vikubbitāni,* lit., “miraculous transformations” (as through *iddhi* superpowers); the term seems to agree with *subhāsitāni*, “clever sayings,” in vv. 55-56 = “lofty verses” in v. 57.
 
 [^109]: *saŋvegasaṅgāmativaḍḍhanatthaŋ*
 
