@@ -68,25 +68,37 @@ Vedika, Bodhigharika:
 the verses that are counted here,  
 which are declared in this chapter,  
 all\[-told\] are one less than eighty.  
-The Vibhīṭaki Chapter, the Forty-Fifth  
+The Vibhīṭaki Chapter, the Forty-Fifth
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Bodhi Tree Shrine-er”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Bodhi Tree Shrine-er”
+
 [^3]: *bodhigharam,* lit., “bodhi \[tree\] house,” an enclosure
     surrounding a Bodhi tree which functions both as shrine and as
     protection for the tree. Siddhattha Buddha’s Bodhi tree was a
-    *kaṇikāra,* “dinner-plate tree”  
-[^4]: the heaven of happiness  
+    *kaṇikāra,* “dinner-plate tree”
+
+[^4]: the heaven of happiness
+
 [^5]: “in the Benares Country”,” cf. Kāsi, Benares, where many of the
-    *Jātaka* stories are set.  
-[^6]: Vishwakarma, “the divine architect”  
+    *Jātaka* stories are set.
+
+[^6]: Vishwakarma, “the divine architect”
+
 [^7]: I follow BJTS Sinhala gloss in interpolating “thing” as the
     subject of the half-verse, which otherwise would mean that sticks,
     vines and clay were themselves absent from (*n’atthi*, “do not
-    exist”) in that city.  
-[^8]: “Auspicious” “Festival”  
-[^9]: lit., “of giving a \[Bodhi tree\] house”  
-[^10]: or “state” “existence”: *bhave* rather than *loke*  
-[^11]: BJTS *Viṭabhīkī* is an obvious typographical error here  
+    exist”) in that city.
+
+[^8]: “Auspicious” “Festival”
+
+[^9]: lit., “of giving a \[Bodhi tree\] house”
+
+[^10]: or “state” “existence”: *bhave* rather than *loke*
+
+[^11]: BJTS *Viṭabhīkī* is an obvious typographical error here
+
 [^12]: BJTS reads Uttal’

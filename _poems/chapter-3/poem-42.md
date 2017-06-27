@@ -141,27 +141,39 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (28) \[1167\]
 
 Thus indeed Venerable Soṇa Koḷiyavessa Thera spoke these verses.  
-The legend of Koḷiyavessa Thera is finished.  
+The legend of Koḷiyavessa Thera is finished.
+
 [^1]: *dakkhineyyo sadevake,* lit “he who is worthy of gifts \[in the
-    world\] with its gods”  
-[^2]: lit., “meritorious”  
+    world\] with its gods”
+
+[^2]: lit., “meritorious”
+
 [^3]: reading *cinitvā* (BJTS, PTS alt) for *vinditvā* (PTS), even
     though the latter, in the sense of “gains,” amounts to much the same
-    thing.  
-[^4]: See above,v. \[749\] and n.  
-[^5]: reading *ca sā* (BJTS) for *mayā* (PTS).  
+    thing.
+
+[^4]: See above,v. \[749\] and n.
+
+[^5]: reading *ca sā* (BJTS) for *mayā* (PTS).
+
 [^6]: lit., “will go to the ultimate mountain” (*naguttamaṃ*, cf. v.
-    \[1121\] and n.)  
+    \[1121\] and n.)
+
 [^7]: reading *parikkhatā* (BJTS) for *puraklhatā* (“placed in front
-    of,” PTS)  
+    of,” PTS)
+
 [^8]: lit., “\[Another\] kṣatriyan.” BJTS Sinhala gloss says his name
-    was Rāma, and the girl’s name was Piyā.  
-[^9]: *āraddha-viriya*  
+    was Rāma, and the girl’s name was Piyā.
+
+[^9]: *āraddha-viriya*
+
 [^10]: *visesa-ññu* = “the distinguished/extraordinary/superior knower;”
     could also be read as: “the knower of
-    distinctions/variety/difference.”  
+    distinctions/variety/difference.”
+
 [^11]: reading *ṭhapessati* (BJTS) for *ṭhapesi maŋ* (“he placed me,”
-    PTS)  
+    PTS)
+
 [^12]: some of the manuscripts contain here a largely unintelligible
     verse which appears to be a corruption of a verse found in
     *Theragāthāṭṭhakathā* (see BJTS I:168), varying widely among
@@ -177,5 +189,6 @@ The legend of Koḷiyavessa Thera is finished.
     somewhat uncharacteristically put a great deal of the narrative into
     the voice of the Buddha making his prediction. Still, what is
     especially jarring in the text as received is the lack of an
-    indication even of which foremost place it was.  
+    indication even of which foremost place it was.
+
 [^13]: Aṅgirasa

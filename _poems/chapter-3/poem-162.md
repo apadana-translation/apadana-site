@@ -30,12 +30,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2061\]
 
 Thus indeed Venerable Kaṇaverapupphiya Thera spoke these verses.  
-The legend of Kaṇaverapupphiya Thera is finished.  
+The legend of Kaṇaverapupphiya Thera is finished.
+
 [^1]: “*Kaṇavera-*Flower-er”. *Kaṇavera* is china rose or shoe-flower,
     Sinhala *banduvada.* Cf. \#151, are these the same flower (both
-    *banduvada* in Sinhala)?  
-[^2]: lit., “Honored by his Followers”  
-[^3]: or harem  
-[^4]: BJTS gloss says, “trusted (authorized) by the king”.  
-[^5]: lit., “on/in the monks’ Assembly”  
+    *banduvada* in Sinhala)?
+
+[^2]: lit., “Honored by his Followers”
+
+[^3]: or harem
+
+[^4]: BJTS gloss says, “trusted (authorized) by the king”.
+
+[^5]: lit., “on/in the monks’ Assembly”
+
 [^6]: “Great Power”

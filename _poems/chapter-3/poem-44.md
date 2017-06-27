@@ -34,12 +34,16 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[1190\]
 
 Thus indeed Venerable Sannidhāpaka[^8] Thera spoke these verses.  
-The legend of Sannidhāpaka[^9] Thera is finished.  
+The legend of Sannidhāpaka[^9] Thera is finished.
+
 [^1]: “Putter-Down;” BJTS, cty read *Sanniṭṭhāpaka,* “Readier”
-    “Preparer”  
-[^2]: *yasena ayasena ca*, lit., "with glory as with dishonor”  
+    “Preparer”
+
+[^2]: *yasena ayasena ca*, lit., "with glory as with dishonor”
+
 [^3]: lit “with a hundred thousand who had the power to subdue others
-    (*vasī*),” namely arahants  
+    (*vasī*),” namely arahants
+
 [^4]: *āmaṇḍaṃ,* which PSI defines as “a kind of plant, *Palma
     Christi*,” Sinhala *eraṇḍu*. The latter (also *ēraṇḍu*, Pāli
     *eraṇḍa) = datti,* croton, i.e., (see Cone, s.v.) the castor oil
@@ -47,10 +51,14 @@ The legend of Sannidhāpaka[^9] Thera is finished.
     oil). BJTS gloss on this verse gives *kaekiri*, which is something
     like a cucumber (genera Cucumis), which I suspect is wrong, but the
     main point is clear, that the hermit gave the Buddha something to
-    eat, presumably whatever fruit he himself was used to eating.  
-[^5]: see previous note; some kind of food, BJTS gloss is *käkiri*  
-[^6]: “Enemy-Tamer”  
+    eat, presumably whatever fruit he himself was used to eating.
+
+[^5]: see previous note; some kind of food, BJTS gloss is *käkiri*
+
+[^6]: “Enemy-Tamer”
+
 [^7]: text misreads as \[1789\]
 
-[^8]: BJTS reads *Sanniṭṭhāpaka*  
+[^8]: BJTS reads *Sanniṭṭhāpaka*
+
 [^9]: BJTS reads *Sanniṭṭhāpaka*

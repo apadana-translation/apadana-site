@@ -30,6 +30,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1622\]
 
 Thus indeed Venerable Ñāṇasaññaka Thera spoke these verses.  
-The legend of Ñāṇasaññaka Thera is finished.  
-[^1]: “Knowledge-Perceiver”  
+The legend of Ñāṇasaññaka Thera is finished.
+
+[^1]: “Knowledge-Perceiver”
+
 [^2]: see \#1, v. 25 \[164\].

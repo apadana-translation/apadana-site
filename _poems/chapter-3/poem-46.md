@@ -25,10 +25,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1201\]
 
 Thus indeed, Venerable Padumucchadaniya Thera spoke these verses.  
-The legend of Padumucchadaniya Thera is finished.  
-[^1]: “Pink-Lotus-Cover-er”  
+The legend of Padumucchadaniya Thera is finished.
+
+[^1]: “Pink-Lotus-Cover-er”
+
 [^2]: reading *uggamī* with BJTS (and PTS alt.) for PTS *uggamiŋ* (“I
-    rose”)  
+    rose”)
+
 [^3]: BJTS agrees in reading the verb in the first person, though BJTS
-    alt. gives a reading in third person, which would be better here  
+    alt. gives a reading in third person, which would be better here
+
 [^4]: “Lord of Lotuses”

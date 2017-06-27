@@ -50,14 +50,23 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (10) \[2897\]
 
 Thus indeed Venerable Sumanāveliya Thera spoke these verses.  
-The legend of Sumanāveliya Thera is finished.  
-[^1]: “Happy Garland-er”  
-[^2]: lit., “made a *pūjā, pūjitaŋ*  
+The legend of Sumanāveliya Thera is finished.
+
+[^1]: “Happy Garland-er”
+
+[^2]: lit., “made a *pūjā, pūjitaŋ*
+
 [^3]: Nirmāṇarati, a heaven wherein, as its name implies, one delights
-    in form.  
-[^4]: reading *akkositaṃ* with BJTS for PTS *uṭṭhāhitaŋ* (“exertion”)  
-[^5]: *uda* as enclitic, “or”  
-[^6]: lit., “the resolutions (or aspirations) of \[my\] mind (or heart)”  
-[^7]: *pūjita*  
-[^8]: lit., “kṣatriyan”  
+    in form.
+
+[^4]: reading *akkositaṃ* with BJTS for PTS *uṭṭhāhitaŋ* (“exertion”)
+
+[^5]: *uda* as enclitic, “or”
+
+[^6]: lit., “the resolutions (or aspirations) of \[my\] mind (or heart)”
+
+[^7]: *pūjita*
+
+[^8]: lit., “kṣatriyan”
+
 [^9]: “Thousand-Spoked” or “Sun”

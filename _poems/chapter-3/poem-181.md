@@ -26,12 +26,15 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2156\]
 
 Thus indeed Venerable Kuṭajapupphiya Thera spoke these verses.  
-The legend of Kuṭajapupphiya Thera is finished.  
+The legend of Kuṭajapupphiya Thera is finished.
+
 [^1]: “Arctic-Snow-Flower-er”. Sinhala *keḷinda*, aka Arctic Snow,
     Winter Cherry, nerium antidysenterica, as its name implies used for
     dysentery. See below, \#514 {517} for a different *apadāna* ascribed
-    to a monk of the same name.  
+    to a monk of the same name.
+
 [^2]: the compound *vitthatasamotthaṭa* means “spread out and spread
     over;” I try to capture the reduplication with the qualifier “well”.
-    The point is that it was a large, expansive vine  
+    The point is that it was a large, expansive vine
+
 [^3]: “Flowering”.

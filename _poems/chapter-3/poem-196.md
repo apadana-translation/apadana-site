@@ -35,18 +35,25 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[2247\]
 
 Thus indeed Venerable Kisalayapūjaka Thera spoke these verses.  
-The legend of Kisalayapūjaka Thera is finished.  
-[^1]: “Offerer of a Tender Sprout (or Shoot)”  
-[^2]: lit., “there was a small flowering tree (or shrub) of mine”  
-[^3]: lit., “making grow up of the trees,” apposite “well”  
-[^4]: see above, \#189, v. 2 (BJTS 2203)  
+The legend of Kisalayapūjaka Thera is finished.
+
+[^1]: “Offerer of a Tender Sprout (or Shoot)”
+
+[^2]: lit., “there was a small flowering tree (or shrub) of mine”
+
+[^3]: lit., “making grow up of the trees,” apposite “well”
+
+[^4]: see above, \#189, v. 2 (BJTS 2203)
+
 [^5]: BJTS gloss makes clear: out of compassion he demonstrated his
-    Buddha powers by flying through the sky for a moment.  
+    Buddha powers by flying through the sky for a moment.
+
 [^6]: reading *uḷāratā* with BJTS for PTS *pūjaka* (“offerer”). The
     latter reading -- which is also possible -- would mean that his
     amazement was at the fact that his *pūjā* resulted in his seeing the
     miracle, rather than the miracle itself (the *iddhi* powers of a
-    Buddha).  
+    Buddha).
+
 [^7]: the name means “One Mule,” which seems rather diminutive for a
     world-conquering monarch. Both PTS and BJTS give alternate reading
     Ekissaro, “One Lord,” which would seem more appropriate, but both

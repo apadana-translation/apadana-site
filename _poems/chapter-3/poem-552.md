@@ -32,10 +32,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! \[6364\]
 
 Thus indeed Venerable Nadīkassapa Thera spoke these verses.  
-The legend of Nadīkassapa Thera, the second.  
+The legend of Nadīkassapa Thera, the second.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Kassapa by the River,” a historical monk, brother of
     Uruvela-Kassapa (see v. 36-38 of Uruvela-Kassapa’s *apadāna,*
     \[5946\]-\[5948\], above); cf. DPPN II:10. This same *apadāna*, with
@@ -45,7 +47,8 @@ The legend of Nadīkassapa Thera, the second.
     that ascription BJTS Sinh. gloss says the type of “best fruit”
     referred to in the first (there second) verse was a rose-apple
     (*jambu*) fruit. Here, lacking that ascription, BJTS Sinh. gloss is
-    silent as regards the type of fruit that was donated.  
+    silent as regards the type of fruit that was donated.
+
 [^3]: I read this and the following two epithets in the vocative, in
     keeping with PTS, though BJTS reads them as nominatives, continuing
     the preceding verse, here and in the repeated version (\#{552}). See

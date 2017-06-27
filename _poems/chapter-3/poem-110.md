@@ -33,11 +33,16 @@ Muṭṭhipupphi, Udakada,
 Naḷamālī, Nivāsaka,  
 Biḷālidāyī[^5] and Reṇu too;  
 there are six and sixty verses.  
-The Bhikkhadāyī Chapter, the Eleventh.  
-[^1]: “Worship with Pollen-er”  
+The Bhikkhadāyī Chapter, the Eleventh.
+
+[^1]: “Worship with Pollen-er”
+
 [^2]: flowers of the *nāga* (Sinh. *nā*) or ironwood tree are are
     brilliant white and so fragrant that they are used in the making of
-    perfumes and cosmetics.  
-[^3]: lit., “a kṣatriyan”.  
-[^4]: “Pollen”  
+    perfumes and cosmetics.
+
+[^3]: lit., “a kṣatriyan”.
+
+[^4]: “Pollen”
+
 [^5]: here too I follow the BJTS spelling, as above.

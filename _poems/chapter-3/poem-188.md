@@ -25,8 +25,11 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2201\]
 
 Thus indeed Venerable Tikaṇṇipupphiya Thera spoke these verses.  
-The legend of Tikaṇṇipupphiya Thera is finished.  
+The legend of Tikaṇṇipupphiya Thera is finished.
+
 [^1]: “Three-*kaṇṇi-*Flower-er.” BJTS glosses *kaṇṇi* flowers as “thin
-    grape flowers”.  
-[^2]: *accharā* = *apsarā*  
+    grape flowers”.
+
+[^2]: *accharā* = *apsarā*
+
 [^3]: “Ultimate Men,” BJTS reads *Ramuttamā,* “Ultimate Delight”

@@ -35,10 +35,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! \[6378\]
 
 Thus indeed Venerable Kimbila Thera spoke these verses.  
-The legend of Kimbila Thera, the fourth.  
+The legend of Kimbila Thera, the fourth.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: the personal name of a historical monk, well known in the early
     texts. See DPPN I: 604-605 for details. This same *apadāna,* almost
     verbatim (the only difference is in the first verse of the
@@ -46,17 +48,24 @@ The legend of Kimbila Thera, the fourth.
     common “Like elephants...” found here), is included above as \#395
     {398}. There it is ascribed to a monk named Salaḷamaṇḍapiya
     (“*Salaḷa*-Pavilion-er”), apparently reflecting the nature of the
-    formative gift described in this *apadāna. *  
-[^3]: lit., “reached nirvana”  
+    formative gift described in this *apadāna. *
+
+[^3]: lit., “reached nirvana”
+
 [^4]: *vusīmati,* loc. of *vusīmant = vusitavant,* “one who has reached
-    perfection” “the Master”  
+    perfection” “the Master”
+
 [^5]: BJTS Sinh.gloss = *hora,* Bot. Dict. = “large timber tree yielding
-    rezin and oil, Dipterocarpus zeylanicus *(Dipterocarp.*)”  
+    rezin and oil, Dipterocarpus zeylanicus *(Dipterocarp.*)”
+
 [^6]: lit., “I caused a pavilion (*maṇḍapa*) to be constructed,” caus.
-    of *karoti*  
-[^7]: lit., “and,” *ca*  
+    of *karoti*
+
+[^7]: lit., “and,” *ca*
+
 [^8]: Kakusandha Buddha lived at an earlier time in the present aeon,
     one of five Buddhas said to have done so. The author demonstrates
     awareness of -- and a solution that smoothes out -- the little
-    wrinkle this creates in applying this typical refrain.  
+    wrinkle this creates in applying this typical refrain.
+
 [^9]: lit., “did *pūjā*”

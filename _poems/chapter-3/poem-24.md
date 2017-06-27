@@ -105,22 +105,33 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (21) \[968\]
 
 Thus indeed Venerable Pañcasīlasamādāniya Thera spoke these verses.  
-The legend of Pañcasīlasamādāniya Thera is finished.  
-[^1]: “Accepter of the FIve Moral Precepts”  
+The legend of Pañcasīlasamādāniya Thera is finished.
+
+[^1]: “Accepter of the FIve Moral Precepts”
+
 [^2]: see DPPN I:851; the city is only “known” to have existed during
     the time of previous Buddhas (and during the previous lives of
-    Gotama Buddha).  
+    Gotama Buddha).
+
 [^3]: cty here explains these as the fires of *rāga* (lust), *dosa*
-    (anger) and *moha* (ignorance, folly)  
-[^4]: lit., “as the last was taking place”  
-[^5]: lit., “in the city of Vesāli”  
+    (anger) and *moha* (ignorance, folly)
+
+[^4]: lit., “as the last was taking place”
+
+[^5]: lit., “in the city of Vesāli”
+
 [^6]: I follow the cty in understaṇḍing *desaka* (ordinarily teacher,
-    lecturer) as “only one part” (*ekakoṭṭhāsam eva*).  
+    lecturer) as “only one part” (*ekakoṭṭhāsam eva*).
+
 [^7]: lit., “causes” or bases for good or bad action. The BJTS Sinhala
-    gloss is *anusas* (karmic results)  
-[^8]: lit., “I obtain those places”.  
-[^9]: *pañcasīlān’*:  
-[^10]: reading *mocayiṃ* (BJTS) for *poṭhayiŋ* (PTS).  
+    gloss is *anusas* (karmic results)
+
+[^8]: lit., “I obtain those places”.
+
+[^9]: *pañcasīlān’*:
+
+[^10]: reading *mocayiṃ* (BJTS) for *poṭhayiŋ* (PTS).
+
 [^11]: *pañcasīle*: to practice restraint from taking life, taking what
     is not given, sexual misconduct, false speech and becoming careless
     through the use of alcohol.

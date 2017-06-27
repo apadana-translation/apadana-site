@@ -182,36 +182,54 @@ Uruvelakassapa, Rādha,
 and Mogharājā the pundit.  
 There are three hundred verses here,  
 piled on another sixty-two.  
-The Kaccāna Chapter, the Fifty-Fourth[^44]  
+The Kaccāna Chapter, the Fifty-Fourth[^44]
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: a historical monk. See DPPN II: 669-670  
+    edition dictating the main numbering of this translation.
+
+[^2]: a historical monk. See DPPN II: 669-670
+
 [^3]: this and the following five verses also appear, verbatim, as the
     first six verses of Dabbamalla’s *apadāna* (\#531 {534}, above;
     \[5769\]-\[5774\]), and also of Mahākoṭṭhita’s *apadāna* (\#534
     {537}; \[5881\]-\[5886\]), and Uruvela-Kassapa’s *apadāna* (\#535
     {538}; \[5911\]-\[5916\]), and Rādhas *apadāna* (\#536 {539};
-    \[5956\]-\[5961\])  
-[^4]: *ovādako*  
-[^5]: *viññāpako*  
-[^6]: *tārako*  
-[^7]: *desanākusalo*  
-[^8]: *anukampako*  
-[^9]: *kāruṇiko*  
-[^10]: *hitesi*  
-[^11]: *nirākulaŋ*  
+    \[5956\]-\[5961\])
+
+[^4]: *ovādako*
+
+[^5]: *viññāpako*
+
+[^6]: *tārako*
+
+[^7]: *desanākusalo*
+
+[^8]: *anukampako*
+
+[^9]: *kāruṇiko*
+
+[^10]: *hitesi*
+
+[^11]: *nirākulaŋ*
+
 [^12]: *suñññataŋ,* or “empty \[of ill-will\],” which is BJTS Sinhala
-    gloss reading; I construe the epithet as *su* + *ñata*  
-[^13]: *vicittaŋ*  
+    gloss reading; I construe the epithet as *su* + *ñata*
+
+[^13]: *vicittaŋ*
+
 [^14]: *ratanāna-aṭṭha-paññāsaŋ uggato.* A *ratana* (Sinh. *riyan*) is
     figured as twelve-fingers (*aṅgula*), according to Sinh-Eng
     Dictionary about eighteen inches. The claim here then is that
-    Padumuttara Buddha was 1044 inches (or 87 feet) tall.  
+    Padumuttara Buddha was 1044 inches (or 87 feet) tall.
+
 [^15]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or
-    “like a gold festoon work”  
-[^16]: *aññatare* implies “undistinguished” here  
-[^17]: i.e., an itinerant worker or a servant  
+    “like a gold festoon work”
+
+[^16]: *aññatare* implies “undistinguished” here
+
+[^17]: i.e., an itinerant worker or a servant
+
 [^18]: BJTS Sinh. gloss (*piriyam no kaḷa bimhi*) seems to take the Pāli
     as *vasanto ‘katabhūmiyaṃ* (“on an unfinished floor”) rather than
     (as both editions have it), *vasanto katabhūmiyan,* which means the
@@ -219,47 +237,73 @@ The Kaccāna Chapter, the Fifty-Fourth[^44]
     (*mahī*) in the final foot may be why the BJTS editor reads it this
     way, and I follow suit, though it is unclear to me why blackening an
     unfinished floor would be problematic enough to cause the terrible
-    consequences it does for the protagonist.  
+    consequences it does for the protagonist.
+
 [^19]: *paṭikkamanasālāyaŋ,* following RD. The sense is of a building
     whose purpose is keeping the chairs, cushions, mats or what have you
     that are appointed for distinguished visitors. As the Buddha and
     monks would have been among the latter, the sooting up of the floor
-    seems to have been especially grave.  
+    seems to have been especially grave.
+
 [^20]: *lūkhacīvaradhārakaŋ. Lūkhaº* refers to rough, inferior cloth
-    discarded by tailors  
+    discarded by tailors
+
 [^21]: *sālapiṇḍitaŋ*, BJTS Sinh. gloss “who has *sālapiṇḍa* (“a lump of
-    food in a hall” “a lump of *sal* “  
-[^22]: “Truth-Army”  
+    food in a hall” “a lump of *sal* “
+
+[^22]: “Truth-Army”
+
 [^23]: oddly, here the Buddha does not draw the conclusion that the
     protagonist will indeed attain that foremost place; perhaps a verse
-    or two has been lost?  
-[^24]: lit., “for as long as \[I\] lived”  
+    or two has been lost?
+
+[^24]: lit., “for as long as \[I\] lived”
+
 [^25]: reading *jātiyā lakkhaṇaṅkito* with BJTS for PTS *tatiyākāraṇ’
-    aṅkita* (“marked in the third mine”?)  
+    aṅkita* (“marked in the third mine”?)
+
 [^26]: BJTS gloss explains that he was a *paccekabuddha* or “Lonely
     Buddha” who realizes nirvana without teaching the path (as does a
     Sammāsambuddha). Reading *upariṭṭhaṃ yasassinaṃ* with BJTS for PTS
-    *upaṭṭhitaŋ yasassinaŋ* (“I waited on the famous”)  
-[^27]: lit., “the karma”  
-[^28]: taking BJTS *macchime* (for *pacchime)* as a typographical error  
-[^29]: lit., “kṣatriyan”  
-[^30]: *mogharajjasukhan yasmā*  
-[^31]: *Mogharājā*  
-[^32]: *naranāyakaŋ*  
+    *upaṭṭhitaŋ yasassinaŋ* (“I waited on the famous”)
+
+[^27]: lit., “the karma”
+
+[^28]: taking BJTS *macchime* (for *pacchime)* as a typographical error
+
+[^29]: lit., “kṣatriyan”
+
+[^30]: *mogharajjasukhan yasmā*
+
+[^31]: *Mogharājā*
+
+[^32]: *naranāyakaŋ*
+
 [^33]: reading *taṃ vīraṃ vādisūdanaṃ* with BJTS for PTS *vāhisaŋ
     vādisūdanaŋ* (“Lord of Speech, Debater-Crusher) and following BJTS
-    Sinh. gloss on *sūdanaṃ* (*maḍinnā,* “Crusher”)  
+    Sinh. gloss on *sūdanaṃ* (*maḍinnā,* “Crusher”)
+
 [^34]: reading *diṭṭhiṃ te nābhijānāti* with BJTS for PTS *diṭṭhi no
-    nâbhijānāmi*, and following BJTS Sinh. gloss.  
+    nâbhijānāmi*, and following BJTS Sinh. gloss.
+
 [^35]: or “excellent knowledge,” see under RD *abhikkanta,* s.v.
-    (*ºdassāvin*)  
-[^36]: *sabbarogatikicchako*  
-[^37]: *abhaṇī* lit., “said”  
-[^38]: *suññato*  
-[^39]: reading *mogharāja* (voc.) with BJTS for PTS *Mogharājā* (nom.)  
-[^40]: *attānudiṭṭhiŋ uhacca*  
-[^41]: reading *katvā* with BJTS for PTS *hutvā* (“having become”)  
-[^42]: lit., “in”  
-[^43]: *mahā-bhisakko*  
+    (*ºdassāvin*)
+
+[^36]: *sabbarogatikicchako*
+
+[^37]: *abhaṇī* lit., “said”
+
+[^38]: *suññato*
+
+[^39]: reading *mogharāja* (voc.) with BJTS for PTS *Mogharājā* (nom.)
+
+[^40]: *attānudiṭṭhiŋ uhacca*
+
+[^41]: reading *katvā* with BJTS for PTS *hutvā* (“having become”)
+
+[^42]: lit., “in”
+
+[^43]: *mahā-bhisakko*
+
 [^44]: BJTS places this statement above the summary, rather than after
     it

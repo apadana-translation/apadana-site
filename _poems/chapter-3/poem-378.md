@@ -25,11 +25,15 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[3266\]
 
 Thus indeed Venerable Sumanatālavaṇṭiya Thera spoke these verses.  
-The legend of Sumanatālavaṇṭiya Thera is finished.  
+The legend of Sumanatālavaṇṭiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Jasmine-Palmyra-Fan-er”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Jasmine-Palmyra-Fan-er”
+
 [^3]: the palmyra (*tāla,* Sinh. *tal*) tree or fan palm is Borassus
-    flabelliformis  
+    flabelliformis
+
 [^4]: BJTS reads “Being in Best Buddha’s presence”

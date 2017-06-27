@@ -108,30 +108,51 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (22) \[4964\]
 
 Thus indeed Venerable Maṇipūjaka Thera spoke these verses.  
-The legend of Maṇipūjaka Thera is finished.  
+The legend of Maṇipūjaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Gem-Offerer”  
-[^3]: lit., “going”  
-[^4]: lit., “meritorious”  
-[^5]: *indīvaraŋ, Cassia fistula*  
-[^6]: lit., “do *pūjā*”  
-[^7]: *vicinaŋ,* lit., “searching,” “investigating”  
-[^8]: presumably a gem on a turban of some sort  
-[^9]: lit., “did *pūjā”*  
-[^10]: lit., “*pūjā*”  
-[^11]: lit., “doing *pūjā*”  
-[^12]: lit., “went”  
-[^13]: *ālokākaraṇo mama* (BJTS reads *mamaŋ,* “providing me light”)  
-[^14]: hasulā = ?  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Gem-Offerer”
+
+[^3]: lit., “going”
+
+[^4]: lit., “meritorious”
+
+[^5]: *indīvaraŋ, Cassia fistula*
+
+[^6]: lit., “do *pūjā*”
+
+[^7]: *vicinaŋ,* lit., “searching,” “investigating”
+
+[^8]: presumably a gem on a turban of some sort
+
+[^9]: lit., “did *pūjā”*
+
+[^10]: lit., “*pūjā*”
+
+[^11]: lit., “doing *pūjā*”
+
+[^12]: lit., “went”
+
+[^13]: *ālokākaraṇo mama* (BJTS reads *mamaŋ,* “providing me light”)
+
+[^14]: hasulā = ?
+
 [^15]: RD gives “good hips,” referring to this text. I don’t see the
     warrant, and take the term *susaññā* from *saññā*, sense,
-    perception, as does BJTS  
+    perception, as does BJTS
+
 [^16]: reading *sukatā* with BJTS for *katākatā* (“man-made and
-    natural”)  
-[^17]: *vinīpātā*  
-[^18]: lit., “gem-*pūjā*”  
-[^19]: *sampadā*, \[good\] achievements, etc.  
-[^20]: lit., “did *pūjā*”  
+    natural”)
+
+[^17]: *vinīpātā*
+
+[^18]: lit., “gem-*pūjā*”
+
+[^19]: *sampadā*, \[good\] achievements, etc.
+
+[^20]: lit., “did *pūjā*”
+
 [^21]: lit., “of gem-*pūjā*”

@@ -45,16 +45,19 @@ Ekadussī, Sāladada
 \[and\] Phaladāyaka, the tenth.  
 By counting there are clearly \[here\]  
 seventy verses plus two \[more\].  
-The Sobhita Chapter, the Fourteenth.  
+The Sobhita Chapter, the Fourteenth.
+
 [^1]: “Piyāla-Fruit-Donor” *Piyāla* (Sinh. *piyal*) is buchanania
     latifolia*.* PTS omits “Piyāla,” hence reads the name merely as
     “Fruit-Donor”. Cf. below, \#497 {500}, for a (different) *apadāna*
-    ascribed to a monk of this name.  
+    ascribed to a monk of this name.
+
 [^2]: *pārādhaka/parādhaka* (BJTS) or *parodhaka* (PTS, cty) seems to be
     a neologism. The cty glosses it as *para-satta-rodhaka* (“harmer of
     other beings”) and as *vihesaka*, “vexer”. The BJTS Sinhala gloss
     gives “a destroyer of others’ breaths/other beings, a *vädd*a (Sri
     Lankan aborigine, hunter)”. I read *parapāṇu*° (“other beings
     \[lit., “ones with breath”\],” BJTS) for *paramāṇu* (“atoms,” PTS)
-    in the compound in the second foot.  
+    in the compound in the second foot.
+
 [^3]: *vināyakaŋ*

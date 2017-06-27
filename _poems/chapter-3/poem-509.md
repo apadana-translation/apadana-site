@@ -30,12 +30,15 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[5447\]
 
 Thus indeed Venerable Tālaphaliya Thera spoke these verses.  
-The legend of Tālaphaliya Thera is finished.  
+The legend of Tālaphaliya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Palmyra-Fruit-er.” the fruit is a purple-colored, and something
     like a small coconut. When the top of cut off it contains three
     refreshing bits of fruit which are scooped out with the finger and
-    eaten fresh.  
+    eaten fresh.
+
 [^3]: *sataraŋsi,* i.e., “the Sun”

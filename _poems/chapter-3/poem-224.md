@@ -25,7 +25,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2395\]
 
 Thus indeed Venerable Ārakkhadāyaka Thera spoke these verses.  
-The legend of Ārakkhadāyaka Thera is finished.  
-[^1]: “Protection-Giver”  
-[^2]: *vedi*  
+The legend of Ārakkhadāyaka Thera is finished.
+
+[^1]: “Protection-Giver”
+
+[^2]: *vedi*
+
 [^3]: “Not Seeing”

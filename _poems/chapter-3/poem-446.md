@@ -30,18 +30,25 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[4757\]
 
 Thus indeed Venerable Ambāṭakiya Thera spoke these verses.  
-The legend of Ambāṭakiya Thera is finished.  
+The legend of Ambāṭakiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Hog-Plum-er”  
-[^3]: *abhijāto*  
-[^4]: lit., “did *pūjā* to”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Hog-Plum-er”
+
+[^3]: *abhijāto*
+
+[^4]: lit., “did *pūjā* to”
+
 [^5]: *ambāṭakā,* RD: “the hog-plum, Spondias Mangifera (a kind of
     mango).” BJTS gloss *ämbarälla, ämbärälla*, a small, sour,
     mango-like fruit which is cooked as a curry. Here the protagonist
     apparently offered hog-plum flowers rather than fruits (see v. 3,
-    below)  
-[^6]: *abhiropayiŋ*  
+    below)
+
+[^6]: *abhiropayiŋ*
+
 [^7]: though “hog-plum” evokes the small sour fruit, in the present
     instance the protagonist apparently offers flowers from that tree

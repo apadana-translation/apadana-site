@@ -197,56 +197,83 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (40) \[732\]
 
 Thus indeed Bhikkhunī Kisāgotamī spoke these verses.  
-The legend of Kisāgotamī Therī is finished.  
+The legend of Kisāgotamī Therī is finished.
+
 [^1]: “The Lean Gotamī” a historical nun, remembered as foremost among
-    the nuns who wore robes made of coarse cloth.  
-[^2]: *varanaraŋ*  
-[^3]: *lūkhacīvaradhārikaŋ*  
-[^4]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”  
-[^5]: ”Teaching”  
+    the nuns who wore robes made of coarse cloth.
+
+[^2]: *varanaraŋ*
+
+[^3]: *lūkhacīvaradhārikaŋ*
+
+[^4]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
+
+[^5]: ”Teaching”
+
 [^6]: *sukhe ṭhitā,* lit., “remaining in comfort.” Pronounce all four
     syllables when chanting to keep the meter or, to chant as a
-    three-syllable word, read “comfortable royal princesses”  
+    three-syllable word, read “comfortable royal princesses”
+
 [^7]: I follow the original (in both recensions) in making this first
     foot a nine-syllable foot through the addition of the (superfluous)
     “and” (*ca*). The comma amplifies its effect, to syncopate the verse
     such that the (respective, exact) parallelism of the following verse
     (in which, however, all four feet contain the expected eight
-    syllables) becomes apparent.  
-[^8]: = Bhaddā Kuṇḍalakesī  
+    syllables) becomes apparent.
+
+[^8]: = Bhaddā Kuṇḍalakesī
+
 [^9]: here the text (in both PTS and BJTS editions) substitutes *tehi
     kammehi* (plural instrumental) for the ordinary *tena kammena*
     (singular instrumental) in this *Apadāna* stock phrase. Perhaps
-    “good deeds” would be better here.  
-[^10]: *gatā,* lit., “gone to,” perhaps to be read as “given to”  
-[^11]: *yadā ca,* lit., “and when”  
-[^12]: *sukheṭhito*, lit., “fixed in comfort”  
+    “good deeds” would be better here.
+
+[^10]: *gatā,* lit., “gone to,” perhaps to be read as “given to”
+
+[^11]: *yadā ca,* lit., “and when”
+
+[^12]: *sukheṭhito*, lit., “fixed in comfort”
+
 [^13]: that is, “died,” reading *yamavasaṃ gato* with BJTS for PTS
-    *parasaṅgato* (“associated with the other \[world?\]”)  
-[^14]: reading *mataṃ* with BJTS (and PTS alt.) for PTS *evaŋ* (“thus”)  
+    *parasaṅgato* (“associated with the other \[world?\]”)
+
+[^14]: reading *mataṃ* with BJTS (and PTS alt.) for PTS *evaŋ* (“thus”)
+
 [^15]: reading *bhisamuttamaŋ* for PTS *‘Bhisamuttamaŋ* (“the ultimate
-    Abhisa”); BJTS reads *bhisajuttamaṃ*  
+    Abhisa”); BJTS reads *bhisajuttamaṃ*
+
 [^16]: *puttasañjīvanaŋ;* RD cites *this* passage at *sañjīvana,* s.v.
-    (“reviving”)  
+    (“reviving”)
+
 [^17]: *vinayopāyakovido,* lit., “skilled in tricks/expedients in the
-    way of speaking”  
-[^18]: *siddhatthakan*. See RD s.v., again citing *this* passage  
-[^19]: *madurassaro *  
+    way of speaking”
+
+[^18]: *siddhatthakan*. See RD s.v., again citing *this* passage
+
+[^19]: *madurassaro *
+
 [^20]: *dhammo.* The term, usually translated “Teaching” here, has a
     wide semantic range including teaching, doctrine, truth. destiny,
     fact, thing. An alternate translation, using the play here on the
     various “teachings” and “*the* Teaching,” would be: “Not a
     village-teaching and not a town-teaching, also not a teaching for
     one family./ *This* Teaching is for the whole world with \[its\]
-    gods: that which is, is impermanent.”  
+    gods: that which is, is impermanent.”
+
 [^21]: both PTS and BJTS present this in a more complex, 12-11-11-12
-    meter, and I translate accordingly.  
-[^22]: *jinasāsane,* lit., “in the Victor’s dispensation”  
+    meter, and I translate accordingly.
+
+[^22]: *jinasāsane,* lit., “in the Victor’s dispensation”
+
 [^23]: *satthu sāsanakārikā,* lit., “\[I am\] a doer of the Teacher’s
-    dispensation”  
+    dispensation”
+
 [^24]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I
-    became”)  
-[^25]: lit., “pure” (*suddhaŋ*)  
-[^26]: lit., “in the” “in that”  
+    became”)
+
+[^25]: lit., “pure” (*suddhaŋ*)
+
+[^26]: lit., “in the” “in that”
+
 [^27]: or assemblies (even four parts of the Assembly), multitudes,
     retinues

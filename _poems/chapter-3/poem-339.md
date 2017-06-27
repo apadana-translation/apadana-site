@@ -89,39 +89,62 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (18) \[3059\]
 
 Thus indeed Venerable Dhammasavaniya Thera spoke these verses.  
-The legend of Dhammasavaniya Thera is finished.  
+The legend of Dhammasavaniya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Dharma-Hearer” or "Hearer of the Teaching”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Dharma-Hearer” or "Hearer of the Teaching”
+
 [^3]: lit., “Master of All Things (*dhamma*)” (or “Master of All
-    Teachings”)  
-[^4]: *jaṭila,* an ascetic who wears his hair in a matted braid (*jaṭā*)  
+    Teachings”)
+
+[^4]: *jaṭila,* an ascetic who wears his hair in a matted braid (*jaṭā*)
+
 [^5]: lit., “I was one who practices fierce austerities,” reading
     *ugga-tāpano* with BJTS (and PTS alternative) for PTS
-    *uggata-āpaṇa,* “rising over the bazaar”  
-[^6]: lit., “to go”  
-[^7]: *āsajja*, lit., “having hit/struck”  
+    *uggata-āpaṇa,* “rising over the bazaar”
+
+[^6]: lit., “to go”
+
+[^7]: *āsajja*, lit., “having hit/struck”
+
 [^8]: lit., “I did not receive a journey”. BJTS (and PTS alt.) reads *na
     ālabhiṃ* for PTS *na labhe*; the grammar is clearer but the meaning
-    is the same.  
+    is the same.
+
 [^9]: lit., “this obstruction of movement had not formerly transpired
-    for me”  
+    for me”
+
 [^10]: reading *dake yathā ummujjitvā* with BJTS for PTS *dake yathā
-    ummisitvā* (“as though opening one’s eyes in the water”)  
-[^11]: *evaŋ,* lit., “thus,” “in this way”  
-[^12]: lit., “am going” (“went”)  
-[^13]: lit., “will” (*bhavissati,* future tense)  
-[^14]: *handa me*, “well then for me”  
-[^15]: lit., “I might obtain a thing of value”  
-[^16]: lit., “the perception of”  
+    ummisitvā* (“as though opening one’s eyes in the water”)
+
+[^11]: *evaŋ,* lit., “thus,” “in this way”
+
+[^12]: lit., “am going” (“went”)
+
+[^13]: lit., “will” (*bhavissati,* future tense)
+
+[^14]: *handa me*, “well then for me”
+
+[^15]: lit., “I might obtain a thing of value”
+
+[^16]: lit., “the perception of”
+
 [^17]: reading *gāthāya* with BJTS (and PTS alt.) for PTS *kathāya,*
-    “through \[his\] speech”  
+    “through \[his\] speech”
+
 [^18]: BJTS reads, more straightforwardly, “*aniccataṃ udāhari,*
-    “\[then\] spoke about impermanence”  
-[^19]: reading *vūpasamo* with BJTS for PTS *vupasamo*  
-[^20]: cf. S iv.28; A i.152, 299  
+    “\[then\] spoke about impermanence”
+
+[^19]: reading *vūpasamo* with BJTS for PTS *vupasamo*
+
+[^20]: cf. S iv.28; A i.152, 299
+
 [^21]: *saha gāthaŋ sunitavāna,* lit., “after hearing \[his sermon\]
-    together with that verse” or “in conjunction with that verse”  
-[^22]: lit., “in the dispensation of the Śākyan Son”  
+    together with that verse” or “in conjunction with that verse”
+
+[^22]: lit., “in the dispensation of the Śākyan Son”
+
 [^23]: *saddhammasavane phalaŋ,* lit., “the fruit in the Great Teaching”

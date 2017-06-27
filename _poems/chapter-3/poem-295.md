@@ -30,9 +30,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2696\]
 
 Thus indeed Venerable Gosīsanikkhepa Thera spoke these verses.  
-The legend of Gosīsanikkhepa Thera is finished.  
-[^1]: “Laid Down Golden Sandalwood”  
-[^2]: lit., “golden \[colored\] sandalwood was spread out by me”  
-[^3]: *kāraŋ*  
-[^4]: *sangha*  
+The legend of Gosīsanikkhepa Thera is finished.
+
+[^1]: “Laid Down Golden Sandalwood”
+
+[^2]: lit., “golden \[colored\] sandalwood was spread out by me”
+
+[^3]: *kāraŋ*
+
+[^4]: *sangha*
+
 [^5]: “Well-Established"

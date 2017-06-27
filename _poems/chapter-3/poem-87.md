@@ -20,5 +20,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[1538\]
 
 Thus indeed Venerable Phaladāyaka Thera spoke these verses.  
-The legend of Phaladāyaka Thera is finished.  
+The legend of Phaladāyaka Thera is finished.
+
 [^1]: “Fruit-Giver”

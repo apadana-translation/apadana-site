@@ -25,7 +25,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1575\]
 
 Thus indeed Venerable Sucidāyaka Thera spoke these verses.  
-The legend of Sucidāyaka Thera is finished.  
-[^1]: “Needle-Donor”  
-[^2]: lit., “the destruction of all outflows”  
+The legend of Sucidāyaka Thera is finished.
+
+[^1]: “Needle-Donor”
+
+[^2]: lit., “the destruction of all outflows”
+
 [^3]: “Same as a DIamond” (or “Same as a Thunderbolt”)

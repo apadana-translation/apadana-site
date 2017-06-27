@@ -38,9 +38,12 @@ Adhimutta, Lasuṇada,
 Āyāgī, Dhammacakkhika.  
 Kapparukkhi is the tenth;  
 verses one hundred twelve.  
-Kuṇḍadhāna Chapter, the Fourth.  
-[^1]: “Wish-Fulfilling-Tree-er”  
-[^2]: reading *laggetvā* (BJTS, cty) for *langhetvā* (PTS)  
+Kuṇḍadhāna Chapter, the Fourth.
+
+[^1]: “Wish-Fulfilling-Tree-er”
+
+[^2]: reading *laggetvā* (BJTS, cty) for *langhetvā* (PTS)
+
 [^3]: *kapparukkha* (lit., “aeon tree”) typically refers to a tree in
     heaven that grants all wishes. Especially given the reference to
     affixing a decorated cloth, this may allude to a picture of such a
@@ -51,7 +54,9 @@ Kuṇḍadhāna Chapter, the Fourth.
     encouraged to hang money and objects as gifts on it. Given the
     allusion in v. (3) \[1112\] to getting cloth from the *kapparukkha,*
     this may be the best interpretation of the term in this context, but
-    for a metaphorical usage of the term cf. v. \[26\], above  
+    for a metaphorical usage of the term cf. v. \[26\], above
+
 [^4]: lit., “a wish-fulfilling tree gets established.” On wishing-tree,
-    see previous note.  
+    see previous note.
+
 [^5]: “Good Cloth”

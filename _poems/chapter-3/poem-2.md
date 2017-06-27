@@ -125,27 +125,43 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (23) \[398\]
 
 Thus indeed Venerable Mahāmoggallāna Thera spoke these verses.  
-The legend of Mahāmoggallāna Thera is finished.  
-[^1]: *nāgarājā*  
-[^2]: PTS reads Varūṇa.  
+The legend of Mahāmoggallāna Thera is finished.
+
+[^1]: *nāgarājā*
+
+[^2]: PTS reads Varūṇa.
+
 [^3]: lit., “transformed into the form of Kāma;” could be less specific:
-    transforming into sexy shapes  
-[^4]: lit., “established the turiya”  
-[^5]: *accharā*, Skt. *apsarā*  
+    transforming into sexy shapes
+
+[^4]: lit., “established the turiya”
+
+[^5]: *accharā*, Skt. *apsarā*
+
 [^6]: lit., “with one thousand who were free of *āsavas* (outflows,
-    defilements)”  
-[^7]: or “World-Leader:” *lokanāyako*  
-[^8]: or “World-Leader,” *lokanāyakaŋ*  
-[^9]: *brahmabandhu*, i.e., a brahmin  
+    defilements)”
+
+[^7]: or “World-Leader:” *lokanāyako*
+
+[^8]: or “World-Leader,” *lokanāyakaŋ*
+
+[^9]: *brahmabandhu*, i.e., a brahmin
+
 [^10]: *pahittato*. RD “of resolute will.” Cty (following Buddhaghosa)
     explains the term as derived from: *peseti*, “sent:” “having a mind
     that is sent forth to nirvana;” RD dismisses this as false
-    etymology.  
-[^11]: *āraddhaviriyā,* lit., “with strenuous effort”  
+    etymology.
+
+[^11]: *āraddhaviriyā,* lit., “with strenuous effort”
+
 [^12]: following BJTS in reading *samanginnā* (sing. abl) for PTS
-    *samangīnaŋ* (pl. dat/gen)  
+    *samangīnaŋ* (pl. dat/gen)
+
 [^13]: reading, with BJTS and PTS alt, *marām’ ahaṃ* for PTS *bhavām’
-    ahaŋ*  
-[^14]: *carimo vattate bhavo*  
-[^15]: lit., “in an aeon immeasurably \[past\].”  
+    ahaŋ*
+
+[^14]: *carimo vattate bhavo*
+
+[^15]: lit., “in an aeon immeasurably \[past\].”
+
 [^16]: reading *bhummanupatto* (BJTS) for *bhumim anuppatto* (PTS).

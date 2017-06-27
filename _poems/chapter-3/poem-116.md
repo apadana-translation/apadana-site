@@ -40,7 +40,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[1732\]
 
 Thus indeed Venerable Citakapūjaka Thera spoke these verses.  
-The legend of Citakapūjaka Thera is finished.  
-[^1]: “Shrine-Worshipper”  
-[^2]: lit., “reached nirvana”  
+The legend of Citakapūjaka Thera is finished.
+
+[^1]: “Shrine-Worshipper”
+
+[^2]: lit., “reached nirvana”
+
 [^3]: “Risen Up”.

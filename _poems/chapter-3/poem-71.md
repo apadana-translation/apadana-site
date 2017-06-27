@@ -21,7 +21,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[1426\]
 
 Thus indeed Venerable Nāgasamāla Thera spoke these verses.  
-The legend of Nāgasamāla Thera is finished.  
+The legend of Nāgasamāla Thera is finished.
+
 [^1]: all the manuscripts read *a*-*pāṭali*, “no trumpet flower,” but
     the cty takes the term as *ā-pāṭali*, a trumpet flower, and I follow
     suit, though the term could be read to mean that not only had the

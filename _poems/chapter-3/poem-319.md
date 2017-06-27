@@ -33,10 +33,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[2820\]
 
 Thus indeed Venerable Kandalīpupphiya Thera spoke these verses.  
-The legend of Kandalīpupphiya Thera is finished.  
+The legend of Kandalīpupphiya Thera is finished.
+
 [^1]: “*Kandalī-*Flower-er.” BJTS takes *kandalī* as *kadalī*, plantain,
     which has other witness in the tradition (cf. Cone, sv) and which is
-    specified in v. 3. Hence, “Plantain-Flower-er”.  
+    specified in v. 3. Hence, “Plantain-Flower-er”.
+
 [^2]: i.e., I was self-sufficient, I earned my own keep. This follows
-    the reading of BJTS Sinhala gloss.  
+    the reading of BJTS Sinhala gloss.
+
 [^3]: lit., “seated with *samādhi*

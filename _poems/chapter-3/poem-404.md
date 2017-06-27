@@ -139,68 +139,109 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (28) \[3989\]
 
 Thus indeed Venerable Dhotaka Thera spoke these verses.  
-The legend of Dhotaka Thera is finished.  
+The legend of Dhotaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Wash-er”  
-[^3]: This is the BJTS spelling; PTS gives *Bhāgīrasī*  
-[^4]: or through? *dvārena*  
-[^5]: “beautiful”  
-[^6]: lit., “sat down”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Wash-er”
+
+[^3]: This is the BJTS spelling; PTS gives *Bhāgīrasī*
+
+[^4]: or through? *dvārena*
+
+[^5]: “beautiful”
+
+[^6]: lit., “sat down”
+
 [^7]: “Six Limbs” or “Six Branches,” as in the six branches of Vedic
-    science. BJTS spells the name *Chaḷanga*  
-[^8]: lit., “eighteen hundred”  
-[^9]: *samito,* lit., “assembled” (also pacified, calmed)  
-[^10]: *nikkuhe*  
-[^11]: *dhotapāpake*  
-[^12]: *attā,* “things in hand”  
-[^13]: lit., “there has not been doing of donations (*dakkhiṇe*) by me”  
-[^14]: *kārāpetvā imaŋ kammaŋ*  
-[^15]: *kāraŋ*  
+    science. BJTS spells the name *Chaḷanga*
+
+[^8]: lit., “eighteen hundred”
+
+[^9]: *samito,* lit., “assembled” (also pacified, calmed)
+
+[^10]: *nikkuhe*
+
+[^11]: *dhotapāpake*
+
+[^12]: *attā,* “things in hand”
+
+[^13]: lit., “there has not been doing of donations (*dakkhiṇe*) by me”
+
+[^14]: *kārāpetvā imaŋ kammaŋ*
+
+[^15]: *kāraŋ*
+
 [^16]: I BJTS follow BJTS’s treatment of *kataŋ kāraŋ vipulam me
-    bhavissati* as a saying in which the protagonist cultivates trust.  
-[^17]: lit., doing, *katvā,* BJTS alt. corrects to *datvā*  
-[^18]: *mahāº*  
-[^19]: lit., “from”  
+    bhavissati* as a saying in which the protagonist cultivates trust.
+
+[^17]: lit., doing, *katvā,* BJTS alt. corrects to *datvā*
+
+[^18]: *mahāº*
+
+[^19]: lit., “from”
+
 [^20]: reading *darito* with BJTS for PTS *dalito* “broken off” (but cf.
     RD, *darī* s.v., *dal* is alt. for *dar* in derivatives of this
-    noun.  
+    noun.
+
 [^21]: *cuto*, which literally means “fallen” as well, paralleling the
     actual “falling” (*patito*) governing the first two feet of the
     verse with a metaphorical one (“fallen from life”) governing the
-    third foot.  
-[^22]: *lacchati ṭṭhānaŋ,* lit., “he will receive a support/place/stand  
-[^23]: *māluto,* abl. case  
+    third foot.
+
+[^22]: *lacchati ṭṭhānaŋ,* lit., “he will receive a support/place/stand
+
+[^23]: *māluto,* abl. case
+
 [^24]: *nigrodhā =* Sinh. *nuga,* RD: the banyan or Indian fig-tree,
-    Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti.*)  
+    Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti.*)
+
 [^25]: lit., “as a banyan...\[is not disturbed\] because of the wind.”
     Banyan trees drop new roots from their spreading branches, the image
-    invoked in *virūḷha-mūla-santānaŋ*  
-[^26]: *amittā,* “non-friends”  
+    invoked in *virūḷha-mūla-santānaŋ*
+
+[^26]: *amittā,* “non-friends”
+
 [^27]: PTS read *sahissanti,* BJTS (and PTS alt.) reads *pasahanti*;
     though the latter is in the present indicative it can also be read
     as a future-tense verb, hence the two readings produce the same
-    meaning.  
+    meaning.
+
 [^28]: PTS read *sahissanti,* BJTS (and PTS alt.) reads *pasahanti*;
     though the latter is in the present indicative it can also be read
     as a future-tense verb, hence the two readings produce the same
-    meaning.  
-[^29]: lit., “of him,” i.e., “bring about the defeat of him”  
+    meaning.
+
+[^29]: lit., “of him,” i.e., “bring about the defeat of him”
+
 [^30]: *khattiyo,* lit., “ the warrior (kṣatriyan).” BJTS (and PTS alt.)
     read this in the plural: *nâtimaññanti khattiyā,* in which case read
-    “kings” or else “noblemen”.  
-[^31]: *amitte,* “non-friends”  
-[^32]: *puññakammena saŋyuttā*, lit., “with \[his\] meritorious karma”  
-[^33]: *na bhavissati vedanā,* lit., “there will not be feelings”  
+    “kings” or else “noblemen”.
+
+[^31]: *amitte,* “non-friends”
+
+[^32]: *puññakammena saŋyuttā*, lit., “with \[his\] meritorious karma”
+
+[^33]: *na bhavissati vedanā,* lit., “there will not be feelings”
+
 [^34]: *bhavissati,* lit., “will become,” “will come to be,” “will
-    exist”  
-[^35]: *jaladuttamanāmake*, i.e., Padmuttara (also “Best Lotus”)  
-[^36]: *kāraŋ*  
-[^37]: lit., “I attained the destruction of the outflows”  
+    exist”
+
+[^35]: *jaladuttamanāmake*, i.e., Padmuttara (also “Best Lotus”)
+
+[^36]: *kāraŋ*
+
+[^37]: lit., “I attained the destruction of the outflows”
+
 [^38]: *padhānaŋ padahitvāna,* lit., “having exerted \[myself\] in
-    exertion  
-[^39]: *upasanto*  
-[^40]: *nirūpadhi*  
+    exertion
+
+[^39]: *upasanto*
+
+[^40]: *nirūpadhi*
+
 [^41]: note that BJTS inverts the first and second verses of the
     three-verse concluding refrain.

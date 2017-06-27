@@ -25,7 +25,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1638\]
 
 Thus indeed Venerable Muṭṭhipupphiya Thera spoke these verses.  
-The legend of Muṭṭhipupphiya Thera is finished.  
-[^1]: “A Handful of Flowers-er”  
-[^2]: “Good to Look At”  
+The legend of Muṭṭhipupphiya Thera is finished.
+
+[^1]: “A Handful of Flowers-er”
+
+[^2]: “Good to Look At”
+
 [^3]: “Higher than Gods” or “Supreme Kings”

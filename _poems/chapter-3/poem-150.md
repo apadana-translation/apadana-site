@@ -33,8 +33,11 @@ Anulepa, Maggadāyī,
 Phaladāyī, Vaṭaṃsaka,  
 Pallaṅkadāyī, fifty six  
 verses are \[thus\] declared \[herein\].  
-The Chatta Chapter, the Fifteenth.  
-[^1]: “Couch-Donor”  
+The Chatta Chapter, the Fifteenth.
+
+[^1]: “Couch-Donor”
+
 [^2]: I.e., in each rebirth such a couch appears for him, according to
-    the BJTS Sinhala gloss.  
+    the BJTS Sinhala gloss.
+
 [^3]: “Radiance of Gold”

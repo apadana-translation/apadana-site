@@ -30,6 +30,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1662\]
 
 Thus indeed Venerable Āsanūpaṭṭāyaka Thera spoke these verses.  
-The legend of Āsanūpaṭṭāyaka Thera is finished.  
-[^1]: “Seat-Attendant”  
+The legend of Āsanūpaṭṭāyaka Thera is finished.
+
+[^1]: “Seat-Attendant”
+
 [^2]: “Nirvana-Bringer”

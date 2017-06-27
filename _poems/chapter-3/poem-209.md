@@ -20,9 +20,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2312\]
 
 Thus indeed Venerable Ādhāradāyaka Thera spoke these verses.  
-The legend of Ādhāradāyaka Thera is finished.  
-[^1]: “Stool Donor”  
-[^2]: lit., “I am possessing”  
-[^3]: lit., “Great Perfected Buddha’s”  
+The legend of Ādhāradāyaka Thera is finished.
+
+[^1]: “Stool Donor”
+
+[^2]: lit., “I am possessing”
+
+[^3]: lit., “Great Perfected Buddha’s”
+
 [^4]: “Walking All Around”. This is the BJTS reading; PTS spells the
     name Samantavaruṇa.

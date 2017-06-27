@@ -20,10 +20,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2338\]
 
 Thus indeed Venerable Ekasaññaka Thera spoke these verses.  
-The legend of Ekasaññaka Thera is finished.  
-[^1]: “One Perception”  
+The legend of Ekasaññaka Thera is finished.
+
+[^1]: “One Perception”
+
 [^2]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as
     *duma + agge*. It would also be possible to take it as *du+ magge*,
-    “on a bad road”.  
+    “on a bad road”.
+
 [^3]: “Unlimited Brilliance,” also the name of the Buddha of the Pure
     Land Sukhāvatī

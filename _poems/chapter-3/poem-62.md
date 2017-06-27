@@ -30,5 +30,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1360\]
 
 Thus indeed Venerable Āvopupphiya Thera spoke these verses.  
-The legend of Āvopupphiya Thera is finished.  
+The legend of Āvopupphiya Thera is finished.
+
 [^1]: lit., “for the Biped Lord”

@@ -20,7 +20,9 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2594\]
 
 Thus indeed Venerable Caṅgoṭakiya Thera spoke these verses.  
-The legend of Caṅgoṭakiya Thera is finished.  
-[^1]: “Box-er”  
+The legend of Caṅgoṭakiya Thera is finished.
+
+[^1]: “Box-er”
+
 [^2]: *caṅgoṭakam*, “box,” glossed here as *goṭuwak,* a cup-shaped
     container

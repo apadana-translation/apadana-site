@@ -35,15 +35,23 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[2254\]
 
 Thus indeed Venerable Tindukadāyaka Thera spoke these verses.  
-The legend of Tindukadāyaka Thera is finished.  
+The legend of Tindukadāyaka Thera is finished.
+
 [^1]: “Donor of a Tinduka Tree”. Tinduka = Sinh. *timbiri*, Diaspyros
-    embryopteris; Indian Persimmon, wild mangosteen  
-[^2]: *makkaṭa* = Sinh. *vandura*, the Grey Langur  
+    embryopteris; Indian Persimmon, wild mangosteen
+
+[^2]: *makkaṭa* = Sinh. *vandura*, the Grey Langur
+
 [^3]: *tinduka* = Sinh. *timbiri*, Diaspyros embryopteris; Indian
-    Persimmon  
+    Persimmon
+
 [^4]: reading *nikkhamitvā* with BJTS (and also alternate reading in
-    PTS) for PTS *nikkhipitvā* (“laying down”)  
-[^5]: *tibhavantaguŋ*  
-[^6]: that is, *arahants.*  
-[^7]: PTS *pāmujjaŋ,* BJTS *pāmojjaṃ *  
+    PTS) for PTS *nikkhipitvā* (“laying down”)
+
+[^5]: *tibhavantaguŋ*
+
+[^6]: that is, *arahants.*
+
+[^7]: PTS *pāmujjaŋ,* BJTS *pāmojjaṃ *
+
 [^8]: “Joyful”

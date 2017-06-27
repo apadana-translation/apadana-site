@@ -75,12 +75,18 @@ Patthodanī, Mañcadada:
 the verses that are counted here  
 number two hundred verses and  
 one verse more than \[those two hundred\].  
-The Bhaddāli Chapter, the Forty-Second  
+The Bhaddāli Chapter, the Forty-Second
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Couch Donor” “Bed Donor”  
-[^3]: i.e., his corporeal relics had been spread out (in stupas)  
-[^4]: *caṇḍālo,* a person of low status, an outcaste  
-[^5]: or “among the thirty\[-three\] gods,” “in Tāvatiṃsa heaven”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Couch Donor” “Bed Donor”
+
+[^3]: i.e., his corporeal relics had been spread out (in stupas)
+
+[^4]: *caṇḍālo,* a person of low status, an outcaste
+
+[^5]: or “among the thirty\[-three\] gods,” “in Tāvatiṃsa heaven”
+
 [^6]: *carimo vattate bhavo*

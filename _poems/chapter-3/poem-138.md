@@ -25,14 +25,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1927\]
 
 Thus indeed Venerable Ekapasādaniya Thera spoke these verses.  
-The legend of Ekapasādaniya Thera is finished.  
+The legend of Ekapasādaniya Thera is finished.
+
 [^1]: “One-Pleasing”. This is the BJTS reading. PTS reads the name as
     Ekadaŋsaniya; cty reads Ekapadāsaniya. The chapter summary below
     leads one to expect here an *Ekadussī-apadāna*, witnessed in none of
     the mss. which nevertheless maintain the chapter summary. There is a
     parallel case in the chapter summary for Chapter 33, below, which
     calls for an *Ekadussika-apadāna* absent in PTS; there, BJTS
-    supplies one (as \#{334}, *Ekadussadāyaka-apadāna*, see below)  
-[^2]: “Maned-One” “Lion”  
-[^3]: lit., “seeking after wholesome and unwholesome”  
+    supplies one (as \#{334}, *Ekadussadāyaka-apadāna*, see below)
+
+[^2]: “Maned-One” “Lion”
+
+[^3]: lit., “seeking after wholesome and unwholesome”
+
 [^4]: “Dwelling Without Friends” (or “Not Living Off Friends”?)

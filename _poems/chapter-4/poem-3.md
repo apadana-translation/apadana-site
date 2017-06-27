@@ -25,6 +25,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[30\]
 
 Thus indeed Bhikkhunī Maṇḍapadāyikā spoke these verses.  
-The legend of Maṇḍapadāyikā Therī is finished.  
-[^1]: “Raised-Platform-Donor”.  
+The legend of Maṇḍapadāyikā Therī is finished.
+
+[^1]: “Raised-Platform-Donor”.
+
 [^2]: lit., “of meritorious karma”.

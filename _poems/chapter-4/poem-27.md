@@ -346,7 +346,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (70) \[951\]
 
 Thus indeed Bhikkhunī Bhaddā-Kāpilāni spoke these verses.  
-The legend of Bhaddā-Kāpilāni Therī[^51] is finished  
+The legend of Bhaddā-Kāpilāni Therī[^51] is finished
+
 [^1]: reading *nāyako* (BJTS) for *nāmako* (PTS, “one whose name”).
     While the phrase *nāma nāmako* (“named with the name...”) is very
     common in *Apadāna* (I have tended in my translations to reduce the
@@ -356,15 +357,22 @@ The legend of Bhaddā-Kāpilāni Therī[^51] is finished
     *Therīgāthā-Aṭṭhakathā* version of the text which may well bear
     earlier witness; I anyway like the juxtaposition of the husband as
     an economic leader with Padumuttara Buddha, the Leader \[of the
-    World\] (also *nāyako*).  
+    World\] (also *nāyako*).
+
 [^2]: lit., “who was foremost among those who bespeak ascetic
-    \[practices\].”  
-[^3]: reading *tadā hi* (BJTS) for *tadā āha* (“then he said,” PTS).  
-[^4]: *veneyye,* lit., “those who were to be instructed”.  
-[^5]: *nibbuto,* i.e., attained nirvana.  
+    \[practices\].”
+
+[^3]: reading *tadā hi* (BJTS) for *tadā āha* (“then he said,” PTS).
+
+[^4]: *veneyye,* lit., “those who were to be instructed”.
+
+[^5]: *nibbuto,* i.e., attained nirvana.
+
 [^6]: lit., “in the middle of eight \[times\] eight large jars
-    (*kumbhi*).”  
-[^7]: *divākara,* the sun.  
+    (*kumbhi*).”
+
+[^7]: *divākara,* the sun.
+
 [^8]: the mss. tradition disagrees on the reading of this term, and this
     translation is only provisional, going with the PTS (*cittaṃ*,
     “heart, mind”) but taking it in its rarer meaning of “variegated.”
@@ -373,38 +381,59 @@ The legend of Bhaddā-Kāpilāni Therī[^51] is finished
     *cetiyaṃ* (shrine, stupa), unless we read it to mean “thought out”
     or something along those lines. BJTS alternative is *citakaṃ,*
     “funeral pile,” redundant with *cetiyaṃ,* while PTS alternative is
-    *citaṃ* (“heaped up,” a possibility) or *dhītaṃ* (?).  
-[^9]: lit., “day-maker,” as above.  
-[^10]: *haritāla.*  
-[^11]: *manosilā.*  
-[^12]: *añjana.*  
+    *citaṃ* (“heaped up,” a possibility) or *dhītaṃ* (?).
+
+[^9]: lit., “day-maker,” as above.
+
+[^10]: *haritāla.*
+
+[^11]: *manosilā.*
+
+[^12]: *añjana.*
+
 [^13]: *varadhāri,* lit., “Bearer of Excellence” or “the One Clothed in
-    Excellence”.  
-[^14]: lit., “for as long as he lived”.  
+    Excellence”.
+
+[^14]: lit., “for as long as he lived”.
+
 [^15]: here the term *sampatti* (happiness, success, attainment) is in
     the plural, but to avoid the awkward “happinesses” I translate in
-    the singular. Cf. *Therāpadāna* \[1729\] for a parallel half-verse.  
+    the singular. Cf. *Therāpadāna* \[1729\] for a parallel half-verse.
+
 [^16]: lit., “this one,” i.e., the millionaire reborn, a later rebirth
     precursor of Kassapa. Reading *tadā ‘yaṃ* (BJTS) for *tadā hi* (“at
-    that very time,” PTS)  
-[^17]: lit., “approved of \[or agreed upon\] as excellent.”  
+    that very time,” PTS)
+
+[^17]: lit., “approved of \[or agreed upon\] as excellent.”
+
 [^18]: reading *aḍḍho satthāgamenā ‘si* (BJTS) for *aḍḍho santo
-    gamenâsi* (“being rich through going” \[?\], PTS)  
-[^19]: lit., “and”.  
-[^20]: reading *bhattuno* (BJTS) for *uttariŋ* (“besides,” PTS).  
-[^21]: *paccekanāyake*, i.e., *pacceka-buddhas.*  
-[^22]: lit., “of gold indeed”.  
+    gamenâsi* (“being rich through going” \[?\], PTS)
+
+[^19]: lit., “and”.
+
+[^20]: reading *bhattuno* (BJTS) for *uttariŋ* (“besides,” PTS).
+
+[^21]: *paccekanāyake*, i.e., *pacceka-buddhas.*
+
+[^22]: lit., “of gold indeed”.
+
 [^23]: there is divergence in the manuscripts on this line. I read
     *soṇṇāsanopaviṭṭhānaṃ* (BJTS) for *sovaṇṇāsane paviṭṭhānaŋ* (“who’d
     entered onto a golden seat,” PTS); the meaning is anyway clear, that
     within the gem pavilion seats had been made of gold for the Lonely
     Buddhas, and the alms-food was served to them while they were
-    sitting thereon.  
-[^24]: i.e., Benares.  
-[^25]: lit., “in Benares, in a village outside the gates”  
-[^26]: Kassapa’s next rebirth precursor.  
-[^27]: or, a woman devoted to her husband  
-[^28]: the eldest brother’s  
+    sitting thereon.
+
+[^24]: i.e., Benares.
+
+[^25]: lit., “in Benares, in a village outside the gates”
+
+[^26]: Kassapa’s next rebirth precursor.
+
+[^27]: or, a woman devoted to her husband
+
+[^28]: the eldest brother’s
+
 [^29]: BJTS (also PTS alt.) reads *duṭṭhā* (angry, wicked) for *ruṭṭhā*
     (angry, enraged); I follow PTS here in taking the term to refer to
     her anger in the moment more than the sort of larger bad character
@@ -429,61 +458,83 @@ The legend of Bhaddā-Kāpilāni Therī[^51] is finished
     lapse, and who then realizes that the only lapse was in her
     husband’s greediness for merit even at her expense -- would have had
     plenty of cause to become enraged, especially if the return of the
-    food had already been a volley in a marital spat.  
+    food had already been a volley in a marital spat.
+
 [^30]: reading *amejjhe* (“impure,” BJTS, PTS alt.) for *apace*
-    (“uncooked,” PTS).  
+    (“uncooked,” PTS).
+
 [^31]: BJTS reads *samacittamukhaṃ* (“his face \[showed\] the same
     mind”) for PTS *samacittasukhaŋ*, the reading I prefer here even
     though both readings amount to the same thing: the Paccekabuddha
     shows no change of face, no difference of opinion, whether receiving
     a bowl of mud or a nice home-cooked meal. This equanimity, of
-    course, is characteristic of Buddhas and other Awakened beings.  
+    course, is characteristic of Buddhas and other Awakened beings.
+
 [^32]: reading *saṃvijiṃ bhusaṃ* (BJTS, PTS alt) for *mahāsaṅghaŋ cajiŋ
-    bhusan* (“I let loose the many \[in the?\] great community,” PTS).  
+    bhusan* (“I let loose the many \[in the?\] great community,” PTS).
+
 [^33]: reading *sakkaraŋ* (alt. *sakkāraŋ*) adaŋ, “I gave with proper
     reverence” “I gave hospitably” with PTS’; BJTS reads *sakkharaṃ
-    adaṃ,* “I gave gravel” (!).  
+    adaṃ,* “I gave gravel” (!).
+
 [^34]: lit., “Hero,” but I translate “Buddha” to avoid any confusion of
     this previous Buddha with Bhaddā-Kāpilāni’s present-life husband
-    Mahā-Kassapa.  
+    Mahā-Kassapa.
+
 [^35]: PTS (and BJTS alt) gives *vaṭṭiṇi,* BJTS *vaṭṭiyo* for the plural
-    of *vaṭṭi,* “wick”.  
+    of *vaṭṭi,* “wick”.
+
 [^36]: PTS reads *ṭhāpayiŋ* (“I laid out”)*;* BJTS reads *ṭhāpayī*,
-    “laid out.” Following PTS I take the term verbally.  
-[^37]: i.e., people of Benares.  
+    “laid out.” Following PTS I take the term verbally.
+
+[^37]: i.e., people of Benares.
+
 [^38]: BJTS reads *iti* (quotation marker) for *isi* (sage), hence would
-    have “He was well known as Sumitta”.  
-[^39]: i.e., the environs of Benares  
-[^40]: lit., “in the clan of the Koliyas”.  
+    have “He was well known as Sumitta”.
+
+[^39]: i.e., the environs of Benares
+
+[^40]: lit., “in the clan of the Koliyas”.
+
 [^41]: BJTS reads *samupaṭṭhahi* for *samupaṭṭhayi* ( PTS), but the
-    meaning is cleat.  
+    meaning is cleat.
+
 [^42]: reading *tappayitvāna* (BJTS) for *vāsayitvāna* (“having
-    perfumed” “having cleaned,” PTS).  
+    perfumed” “having cleaned,” PTS).
+
 [^43]: reading BJTS *adāsi* for PTS *adaŋsu,* “they gave,” though the
     latter would also be an acceptable reading since the text specifies
-    that the 500 cousins served the Paccekabuddhas together.  
+    that the 500 cousins served the Paccekabuddhas together.
+
 [^44]: BJTS reads *pūjayi*, “he worshipped,” which is certainly
     possible, but I follow the PTS reading *pūjayiŋ* (“I worshipped”)
     because otherwise the becoming-Bhaddā-Kāpilāni does not get inserted
     into this previous life of her husband’s, as she does all the other
-    previous lives.  
+    previous lives.
+
 [^45]: the four boundless states are love of all beings (*mettā),*
     compassion for those who suffer (*karunā*), joy in others’ joy
-    (*muditā)*, and equanimity *(upekkhā*).  
+    (*muditā)*, and equanimity *(upekkhā*).
+
 [^46]: reading *dhīrassa* (BJTS) for *vīrassa* (“the Hero,” PTS), an
-    epithet used of Kassapa Buddha above \[924\].  
+    epithet used of Kassapa Buddha above \[924\].
+
 [^47]: BJTS read *kamma-anta-pekkhataṃ* for PTS *kamma-anta-pekkhako*;
     whether we take the term (with BJTS) as an adverb modifying “having
     gone,” or (with PTS) as an adjective modifying “Kassapa” -- either
-    of which could produce this translation -- the meaning is clear.  
+    of which could produce this translation -- the meaning is clear.
+
 [^48]: lit., “attained to being moved (*saṃvega*), the religious
     experience that (like being overjoyed \[*pasanna\]*) is often a
     fore-runner to becoming an arahant in these hagiographical and
-    parallel historical texts.  
+    parallel historical texts.
+
 [^49]: BJTS reads *paribbājavate* (“in the state of a renouncer”) for
     *°pathe* (“on the path,” PTS) but both editions include the other
     reading as alternates and the PTS editor has chosen what I also
-    think is the best syntactically.  
+    think is the best syntactically.
+
 [^50]: BJTS (and PTS alt.) reads *suto* for PTS *putto,* but as the
-    synonyms both mean “son” this does not affect the translation.  
+    synonyms both mean “son” this does not affect the translation.
+
 [^51]: PTS omits Therī, which I supply from BJTS.

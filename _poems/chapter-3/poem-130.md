@@ -52,7 +52,9 @@ Pāyās-Odaki-Thomaka,
 Gandha and Padumapupphiya.  
 Five more than a hundred verses  
 preached by knowers of the meaning.  
-The Sereyyaka Chapter, the Thirteenth.  
-[^1]: “Pink Lotus-Offerer”  
+The Sereyyaka Chapter, the Thirteenth.
+
+[^1]: “Pink Lotus-Offerer”
+
 [^2]: the BJTS Snhala gloss reads this phrase to mean that they were
     obedient (*kī karu*, i.e., did what they were told).

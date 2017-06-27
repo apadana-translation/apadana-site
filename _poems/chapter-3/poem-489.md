@@ -126,65 +126,99 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (26) \[5218\]
 
 Thus indeed Venerable Dhammarucī Thera spoke these verses.  
-The legend of Dhammarucī Thera is finished.  
+The legend of Dhammarucī Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Splendor of the Teaching”.  
-[^3]: *bujjhissati*, from the same root as Buddha (lit., “Awakened”)  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Splendor of the Teaching”.
+
+[^3]: *bujjhissati*, from the same root as Buddha (lit., “Awakened”)
+
 [^4]: lit., “of an *asattha* tree.” The *asattha* (Skt. *aśvattha*)
     tree, ficus religiosa, is the Bodhi tree of Gotama Buddha (Sinh. *bō
-    gasa*)  
-[^5]: i.e., Sāriputta (*Thera-apadāna* \#1)  
-[^6]: i.e., Mahā-Moggallāna (*Thera-apadāna* \#2)  
-[^7]: *sāvakā,* “voice-hearers,” accompished arahant monks  
-[^8]: *sāvikā*  
+    gasa*)
+
+[^5]: i.e., Sāriputta (*Thera-apadāna* \#1)
+
+[^6]: i.e., Mahā-Moggallāna (*Thera-apadāna* \#2)
+
+[^7]: *sāvakā,* “voice-hearers,” accompished arahant monks
+
+[^8]: *sāvikā*
+
 [^9]: *upāsakā,* devout laymen who observe eight precepts, more
-    monk-like than ordinary Buddhists who observe the five precepts.  
-[^10]: *upāsikā*  
+    monk-like than ordinary Buddhists who observe the five precepts.
+
+[^10]: *upāsikā*
+
 [^11]: The *asattha* (Skt. *aśvattha*) tree is ficus religiosa (Sinh.
-    *bō gasa*)  
-[^12]: *asamassa*  
+    *bō gasa*)
+
+[^12]: *asamassa*
+
 [^13]: *ºmarū*, in the more general sense of “gods” (as opposed, I
     suppose, to the *maruts* of Vedic mythology to which the term most
-    directly applies  
-[^14]: “Cloud”  
-[^15]: *āsaya*, lit., “abode” “haunt” “support for” “vessel of”  
-[^16]: or “went forth”  
-[^17]: *saŋvuto*  
+    directly applies
+
+[^14]: “Cloud”
+
+[^15]: *āsaya*, lit., “abode” “haunt” “support for” “vessel of”
+
+[^16]: or “went forth”
+
+[^17]: *saŋvuto*
+
 [^18]: lit., “in the recitation,” “in the *Pātimokkha*,*”* the (in the
     Pāli *vinaya*, 227) rules recited at monthly *uposatha* gatherings
-    of Buddhist monks, ideally encapsulating the whole of monastic law.  
-[^19]: *jinasāsanakārako*  
-[^20]: or “was lost,” *paridhaŋsito*  
-[^21]: or thinking, *vitakka-vasa-go* (BJTS *vitakka-vasīko*)  
-[^22]: *sāsanato,* lit., “from the dispensation”  
+    of Buddhist monks, ideally encapsulating the whole of monastic law.
+
+[^19]: *jinasāsanakārako*
+
+[^20]: or “was lost,” *paridhaŋsito*
+
+[^21]: or thinking, *vitakka-vasa-go* (BJTS *vitakka-vasīko*)
+
+[^22]: *sāsanato,* lit., “from the dispensation”
+
 [^23]: *anantariyañ,* a deed whose result is immediate descent into the
     lowest Avīci (“no interval”? “no pleasure”?) hell*,* “a deadly sin,”
     of which there are five: patricide, matricide, killing an arahant,
     shedding the blood of a Buddha (it is impossible to kill one), and
-    dissension in the Sangha (monks’ Assembly).  
+    dissension in the Sangha (monks’ Assembly).
+
 [^24]: lit., “into *avīci*, which is particularly gruesome. See DPPN
-    I:199ff.  
-[^25]: or “suffering,” *vinīpatagato*  
-[^26]: or “suffering,” *dukkhito*  
+    I:199ff.
+
+[^25]: or “suffering,” *vinīpatagato*
+
+[^26]: or “suffering,” *dukkhito*
+
 [^27]: of mythical proportions, the largest fish in the sea, maybe even
-    “sea monster”  
+    “sea monster”
+
 [^28]: the “Jeta Grove” in which Anāthapiṇḍika built the famous
-    hermitage for the Buddha, the location of many of the *sutta*s.  
-[^29]: lit., “merits,” *ºpuññaº*  
+    hermitage for the Buddha, the location of many of the *sutta*s.
+
+[^29]: lit., “merits,” *ºpuññaº*
+
 [^30]: reading *patipubbena* with BJTS for PTS *patipubbe na* (“in the
-    past, not...”)  
+    past, not...”)
+
 [^31]: PTS and BJTS agree in presenting this and the following two
     verses in a different, more complex meter than the rest of the poem
     (and indeed, different from the meter in the vast majority of the
     whole *Apadāna* collection), with 10-11-10-11 syllable counts per
     quatrain (10-11-10-12 in the present instance, perhaps due to the
-    superfluous *‘haŋ*). I have translated accordingly.  
-[^32]: reading *tayā* with BJTS (and PTS alts.) for PTS *mayā* (“by me”)  
+    superfluous *‘haŋ*). I have translated accordingly.
+
+[^32]: reading *tayā* with BJTS (and PTS alts.) for PTS *mayā* (“by me”)
+
 [^33]: *suci-rakkhena*, a play on words that echoes the “very long
     \[time\]” (*su-ciraṃ*) governing these verses. Or is this *sucira +
     akkhena,* “by the eye for very long,” picking up the “eye”
-    (*nayana)* reference in the fourth foot?  
+    (*nayana)* reference in the fourth foot?
+
 [^34]: or river (*nadī*) of existence, or of doubt (as in \#485 {488}
     above, v. 7 = \[5183\]

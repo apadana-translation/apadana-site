@@ -33,14 +33,20 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[2754\]
 
 Thus indeed Venerable Ārāmadāyaka Thera spoke these verses.  
-The legend of Ārāmadāyaka Thera is finished.  
-[^1]: “Garden Donor”  
-[^2]: reading *mayā* with BJTS for PTS *mama*  
+The legend of Ārāmadāyaka Thera is finished.
+
+[^1]: “Garden Donor”
+
+[^2]: reading *mayā* with BJTS for PTS *mama*
+
 [^3]: BJTS takes this as a reference to afternoon *(sawas*), as the time
     in which the garden was planted (or given?). On the contrary I take
     it to mean that prior to bringing the Buddha to it, the garden which
     he initially planted had grown to sufficient maturity that birds had
-    taken residence in trees giving thick shade.  
-[^4]: lit., “I dedicated the gift,” *dānam pariṇāmayiŋ*  
-[^5]: i.e., in the cycle of reincarnation, *bhave*  
+    taken residence in trees giving thick shade.
+
+[^4]: lit., “I dedicated the gift,” *dānam pariṇāmayiŋ*
+
+[^5]: i.e., in the cycle of reincarnation, *bhave*
+
 [^6]: “Softly Cool”

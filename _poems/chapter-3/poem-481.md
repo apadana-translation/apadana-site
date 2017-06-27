@@ -39,24 +39,34 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[5038\]
 
 Thus indeed Venerable Paŋsukūlasaññika Thera spoke these verses.  
-The legend of Paŋsukūlasaññika Thera is finished.  
+The legend of Paŋsukūlasaññika Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Rag-robe Perceiver”  
-[^3]: *aggapuggalo*  
-[^4]: or, “the monastery”: *vihāraŋ*  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Rag-robe Perceiver”
+
+[^3]: *aggapuggalo*
+
+[^4]: or, “the monastery”: *vihāraŋ*
+
 [^5]: reading *vitataṃ* with BJTS for PTS *tiyantaŋ* (‘with three
-    strings” \[?\])  
+    strings” \[?\])
+
 [^6]: reading *bhakkhatthāaya cariṃ ahaṃ* with BJTS for PTS *akkhitto
-    yamaliŋ ahaŋ* (“struck by a pair”)  
-[^7]: *gahetvāna,* lit., “taking”  
-[^8]: *maṇḍalaggaŋ*  
+    yamaliŋ ahaŋ* (“struck by a pair”)
+
+[^7]: *gahetvāna,* lit., “taking”
+
+[^8]: *maṇḍalaggaŋ*
+
 [^9]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as
     *duma + agge*. It would also be possible to take it as *du+ magge*,
     “on a bad road”. Cf. v. \[592\] above for a case comparable to the
     latter. Though I do follow it here, the cty and BJTS reading rather
-    begs the question how the Buddha’s rag robes got up in the tree.  
+    begs the question how the Buddha’s rag robes got up in the tree.
+
 [^10]: PTS omits the first two feet of \[5035\] (“In the ninety-two
     aeons since/I worshipped that rag-robe \[back then,”) and adds the
     second two feet of it to \[5034\], treating its v. 4 as a six-footed

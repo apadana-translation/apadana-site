@@ -20,10 +20,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2611\]
 
 Thus indeed Venerable Citakapūjaka Thera spoke these verses.  
-The legend of Citakapūjaka Thera is finished.  
-[^1]: “Shrine-Worshipper”  
+The legend of Citakapūjaka Thera is finished.
+
+[^1]: “Shrine-Worshipper”
+
 [^2]: RD explains this as a “long creeper,” which is common enough in
-    similes to be noticed in JPTS 1907, p. 123.  
+    similes to be noticed in JPTS 1907, p. 123.
+
 [^3]: cty stipulates that he first constructed the shrine of sand, then
-    worshipped it using the flowers in his *pūjā.*  
+    worshipped it using the flowers in his *pūjā.*
+
 [^4]: “Cared For” “Fostered” (or perhaps “Carers For,” “Fosterers”)

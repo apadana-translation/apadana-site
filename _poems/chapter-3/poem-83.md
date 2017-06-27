@@ -30,9 +30,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1517\]
 
 Thus indeed Venerable Nipannañjalika Thera spoke these verses.  
-The legend of Nipannañjalika Thera is finished.  
+The legend of Nipannañjalika Thera is finished.
+
 [^1]: PTS reads Pannañjalika but I follow PTS alt, BJTS and cty in
-    reading the same as Nipannañjalika, “Lying-Down-Hands-Presser”  
-[^2]: *abhivāetvā*  
-[^3]: *vandiŋ*  
+    reading the same as Nipannañjalika, “Lying-Down-Hands-Presser”
+
+[^2]: *abhivāetvā*
+
+[^3]: *vandiŋ*
+
 [^4]: “Great Flame”

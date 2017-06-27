@@ -40,17 +40,24 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[1451\]
 
 Thus indeed Venerable Tiṇasanthāraka[^7] Thera spoke these verses.  
-The legend of Tiṇasanthāradāyaka Thera is finished.  
-[^1]: “Grass-Mat-Donor”  
-[^2]: *lokanāyakaŋ*  
+The legend of Tiṇasanthāradāyaka Thera is finished.
+
+[^1]: “Grass-Mat-Donor”
+
+[^2]: *lokanāyakaŋ*
+
 [^3]: taking *paṭikuṭiko* (BJTS reads *patiº*) as fr. *paṭikuṭati* “to
     crouch,” “to bend over” (as does apparently BJTS, glossing the term
     *häkiḷī = vakuṭu vu*). This may mean that he went off still bowing
-    in reverence, or else that he went off on all fours.  
+    in reverence, or else that he went off on all fours.
+
 [^4]: Nirmāṇarati is a heaven wherein, as its name implies, one delights
-    in form.  
-[^5]: lit., “the kṣatriyan”  
-[^6]: “Same as a Wild Animal” (especially a deer, antelope, gazelle)  
+    in form.
+
+[^5]: lit., “the kṣatriyan”
+
+[^6]: “Same as a Wild Animal” (especially a deer, antelope, gazelle)
+
 [^7]: PTS accepts this inconsistent reading even though one of its
     alts., like BJTS, give the name here as expected
     (Tiṇasanthāradāyaka)

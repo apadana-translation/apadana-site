@@ -143,30 +143,41 @@ Ekasaññī, Tiṇidada,
 Sūcī, Pāṭalipupphiya,  
 Ṭhitañjalī, Tipadumī:  
 five and seventy verses.  
-The Nāgasamāla Chapter, the Eighth.  
+The Nāgasamāla Chapter, the Eighth.
+
 [^1]: “Three-Lotus-er.” BJTS reads Tipadumiya, which has the same
-    meaning.  
+    meaning.
+
 [^2]: *adantadamakaŋ* could mean either “tamer of the untamed” or “tamer
     who is untamed;” I leave the ambiguity open with the hyphen,
     admitting here my preference for “tamer of the untamed” (which is
     also the BJTS reading, cf RD on *dametar*), and recommend
     pronunciation in chanting which through stress on the first term in
     the compound, and tone, can emphasize that the Buddha is one who
-    tames those who are untamed/feral.  
-[^3]: *sabbasattasukhāvaho*  
-[^4]: lit., “at that time”  
-[^5]: “Greatly Spread Out”.  
+    tames those who are untamed/feral.
+
+[^3]: *sabbasattasukhāvaho*
+
+[^4]: lit., “at that time”
+
+[^5]: “Greatly Spread Out”.
+
 [^6]: the Sinhala gloss in BJTS takes the unspecified “red \[things\]”
     (*lohitakā*) to be flowers, but that isn’t specified in the text.
     BJTS presumably assumes the red things are flowers since that was
     the original gift. (The same term is used in v. \[1475\]). Cty gives
     no comment. Perhaps we should take the term as *lohitankā*, “red
-    rubies?”  
+    rubies?”
+
 [^7]: reading *dvāra-khāhāya* (BJTS) for *dvāragāhe* (“on the doors of
-    the house,” PTS)  
+    the house,” PTS)
+
 [^8]: this follows the BJTS SInhala gloss reading of this odd usage of
-    *patta* (“bowl” or “leaf”)  
-[^9]: *tuvaṭṭhissanti*, “they will lie together,” Sinhala *turul vey*i.  
+    *patta* (“bowl” or “leaf”)
+
+[^9]: *tuvaṭṭhissanti*, “they will lie together,” Sinhala *turul vey*i.
+
 [^10]: reading *idha* (“here,” BJTS) for *imaŋ* (“this,” accusative
-    singular, PTS).  
+    singular, PTS).
+
 [^11]: lit., “trade”.

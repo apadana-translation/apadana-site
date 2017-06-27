@@ -25,6 +25,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2071\]
 
 Thus indeed Venerable Desapūjaka Thera spoke these verses.  
-The legend of Desapūjaka Thera is finished.  
-[^1]: “Region-Worshipper”  
+The legend of Desapūjaka Thera is finished.
+
+[^1]: “Region-Worshipper”
+
 [^2]: “Cow-Well-Born”

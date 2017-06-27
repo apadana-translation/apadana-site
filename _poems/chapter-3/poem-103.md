@@ -30,7 +30,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1628\]
 
 Thus indeed Venerable Uppalahatthiya Thera spoke these verses.  
-The legend of Uppalahatthiya Thera is finished.  
-[^1]: “Blue Lotus-Handful-er”  
-[^2]: reading *pupphadānass’* (BJTS) for *sasaññāya* (PTS)  
+The legend of Uppalahatthiya Thera is finished.
+
+[^1]: “Blue Lotus-Handful-er”
+
+[^2]: reading *pupphadānass’* (BJTS) for *sasaññāya* (PTS)
+
 [^3]: = *na* + *ajja* + *upama,* “No Metaphor (for? exists?) Today (?)

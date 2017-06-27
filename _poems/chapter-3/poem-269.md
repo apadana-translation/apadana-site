@@ -25,7 +25,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2577\]
 
 Thus indeed Venerable Upāgatabhāsaniya Thera spoke these verses.  
-The legend of Upāgatabhāsaniya Thera is finished.  
-[^1]: “Speaker to One who has Arrived”  
-[^2]: *rakkhaso*  
+The legend of Upāgatabhāsaniya Thera is finished.
+
+[^1]: “Speaker to One who has Arrived”
+
+[^2]: *rakkhaso*
+
 [^3]: Reading *heṭṭhasīso* with BJTS for PTS *poṭṭhasīso*

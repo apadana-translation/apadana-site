@@ -34,8 +34,11 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[1559\]
 
 Thus indeed Venerable Sudhāpiṇḍiya Thera spoke these verses.  
-The legend of Sudhāpiṇḍiya Thera is finished.  
-[^1]: “Plaster-Ball-er”  
+The legend of Sudhāpiṇḍiya Thera is finished.
+
+[^1]: “Plaster-Ball-er”
+
 [^2]: *papañca* = three things delaying time in samsara, namely craving,
-    wrong views and pride.  
+    wrong views and pride.
+
 [^3]: “Repairer”

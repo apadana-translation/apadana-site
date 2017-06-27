@@ -23,6 +23,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2705\]
 
 Thus indeed Venerable Desakittiya Thera spoke these verses.  
-The legend of Desakittiya Thera is finished.  
-[^1]: “Proclaimer in the Region”  
+The legend of Desakittiya Thera is finished.
+
+[^1]: “Proclaimer in the Region”
+
 [^2]: “Junior Brother-in-Law”

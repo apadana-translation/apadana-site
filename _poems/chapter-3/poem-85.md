@@ -25,7 +25,9 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1530\]
 
 Thus indeed Venerable Raṃsisaññaka Thera spoke these verses.  
-The legend of Raṃsisaññaka Thera is finished.  
-[^1]: “Ray-Perceiver,” PTS reads Raŋsi°  
+The legend of Raṃsisaññaka Thera is finished.
+
+[^1]: “Ray-Perceiver,” PTS reads Raŋsi°
+
 [^2]: reading *ajinuttaravāso* with BJTS for PTS *ajinuttamavattho*
     (“dressed in ultimate deer-leather \[clothes\]”

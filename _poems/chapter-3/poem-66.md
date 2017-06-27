@@ -45,10 +45,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (9) \[1392\]
 
 Thus indeed Venerable Sucintita Thera spoke these verses.  
-The legend of Sucintita Thera is finished.  
+The legend of Sucintita Thera is finished.
+
 [^1]: “Well-Thought-Out.” \#92 and \#425 {428}, below, are ascribed to
-    (apparently different) monks bearing this same name.  
-[^2]: “Long Life”  
+    (apparently different) monks bearing this same name.
+
+[^2]: “Long Life”
+
 [^3]: BJTS reads *saṭṭhimhi* *‘to kappasate* (“six thousand \[sixty
     hundred\] aeons ago”) with BJTS for PTS *satthimh’ ito kappasate.*
     The former must be wrong, because this protagonist performed his

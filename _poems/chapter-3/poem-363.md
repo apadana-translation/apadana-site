@@ -20,17 +20,23 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[3190\]
 
 Thus indeed Venerable Bhisamuḷāladāyaka Thera spoke these verses.  
-The legend of Bhisamuḷāladāyaka Thera is finished.  
+The legend of Bhisamuḷāladāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Lotus Root and Stem Donor.” *Bhisa* refers to the lotus “potato”
     (Sinh. *ala*) found under the mud; *muḷāla* refers to the lotus
     “stem” (Sinh. *daṇḍu,* dictionary gives *däli*). The former is
     starchy and crunchy; the latter is like a green vegetable. Both are
-    delicious staples of village diets to this day. Cf. \#65.  
-[^3]: reading *nāmāsi* with BJTS (and PTS alt.) for PTS *nāmā ti*  
+    delicious staples of village diets to this day. Cf. \#65.
+
+[^3]: reading *nāmāsi* with BJTS (and PTS alt.) for PTS *nāmā ti*
+
 [^4]: lit., “master of all things (*dhamma*)” (or “Master of All
-    Teachings”)  
-[^5]: *viveka-kāma*  
+    Teachings”)
+
+[^5]: *viveka-kāma*
+
 [^6]: *suppañña*

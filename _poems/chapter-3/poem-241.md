@@ -16,16 +16,21 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[2464\]
 
 Thus indeed Venerable Tuvaradāyaka Thera spoke these verses.  
-The legend of Tuvaradāyaka Thera is finished.  
+The legend of Tuvaradāyaka Thera is finished.
+
 [^1]: “Tuvara Donor”. *tuvara* = Sinh. *tōra,* a tree whose seed is
-    eaten as a grain (*tōra parippu* = “*tōra* lentils” = toor dhal)  
-[^2]: *saṅghassa*  
+    eaten as a grain (*tōra parippu* = “*tōra* lentils” = toor dhal)
+
+[^2]: *saṅghassa*
+
 [^3]: reading *bharitvā* with BJTS and cty (and PTS alternative) for PTS
-    *haritvā*  
+    *haritvā*
+
 [^4]: this reading follows the BJTS gloss, and also the cty, which
     explains: “having filled \[it\] with a handful of *tuvara*, like a
     small amount of *mung*, a little bit of *tuvara,* I gave \[it\] in a
     vessel to the *saṅgha* which had entered/was living in the forest.”
     *Tuvara* (Sinh. *tōra*) is a tree whose seeds are boiled and eaten
-    like lentils.  
+    like lentils.
+
 [^5]: lit., “I gave \[it\]”

@@ -28,7 +28,10 @@ six special knowledges mastered:
 \[I have\] done what the Buddha taught! (6) \[2651\]
 
 Thus indeed Venerable Upaṭṭhāyaka Thera spoke these verses.  
-The legend of Upaṭṭhāyaka Thera is finished.  
-[^1]: “Servant”  
-[^2]: *sabbalokahitesino*  
+The legend of Upaṭṭhāyaka Thera is finished.
+
+[^1]: “Servant”
+
+[^2]: *sabbalokahitesino*
+
 [^3]: “Possessor of a Strong Army”

@@ -20,5 +20,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[978\]
 
 Thus indeed Venerable Dhūpadāyaka Thera spoke these verses.  
-The legend of Dhūpadāyaka Thera is finished.  
+The legend of Dhūpadāyaka Thera is finished.
+
 [^1]: “Incense-Donor”

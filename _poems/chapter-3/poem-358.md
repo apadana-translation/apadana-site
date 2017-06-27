@@ -20,11 +20,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[3172\]
 
 Thus indeed Venerable Sajjhadāyaka[^4] Thera spoke these verses.  
-The legend of Sajjhadāyaka[^5] Thera is finished.  
+The legend of Sajjhadāyaka[^5] Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Silver Donor.” BJTS reads *Mañcadāyaka,* “Bed Donor”.  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Silver Donor.” BJTS reads *Mañcadāyaka,* “Bed Donor”.
+
 [^3]: the transmission of this *apadāna* is quite inconsistent with
     regard to the type of gift, and by extension the name of the
     arahant. BJTS reads “a single bed” or “a single couch” (*mañca*).
@@ -44,6 +47,8 @@ The legend of Sajjhadāyaka[^5] Thera is finished.
     fruit is stated to be receipt of various sorts of vehicles -- was
     the original gift then a vehicle of some sort? Is the BJTS tradition
     that supplies *mañca* predicated on an understanding of that term as
-    a “couch" which is mobile, some sort of palanquin?  
-[^4]: BJTS reads *Mañcadāyaka*  
+    a “couch" which is mobile, some sort of palanquin?
+
+[^4]: BJTS reads *Mañcadāyaka*
+
 [^5]: BJTS reads *Mañcadāyaka*

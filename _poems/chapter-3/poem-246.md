@@ -15,5 +15,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[2483\]
 
 Thus indeed Venerable Pattadāyaka Thera spoke these verses.  
-The legend of Pattadāyaka Thera is finished.  
+The legend of Pattadāyaka Thera is finished.
+
 [^1]: “Bowl-Donor”

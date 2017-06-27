@@ -45,11 +45,15 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (9) \[1409\]
 
 Thus indeed Venerable Ambadāyaka Thera spoke these verses.  
-The legend of Ambadāyaka Thera is finished.  
-[^1]: “Mango-Donor”  
+The legend of Ambadāyaka Thera is finished.
+
+[^1]: “Mango-Donor”
+
 [^2]: see note to v. \[1098\]
 
 [^3]: reading *damena uttamen*a (BJTS, PTS alt) for *dhammena yuttamena*
-    (PTS, corrupt).  
-[^4]: lit., “in the seventy-seventh aeon”  
+    (PTS, corrupt).
+
+[^4]: lit., “in the seventy-seventh aeon”
+
 [^5]: “Born of Eight Mangoes”

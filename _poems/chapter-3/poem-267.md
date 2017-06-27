@@ -20,7 +20,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2568\]
 
 Thus indeed Venerable Javahaŋsaka Thera spoke these verses.  
-The legend of Javahaŋsaka Thera is finished.  
+The legend of Javahaŋsaka Thera is finished.
+
 [^1]: “Speedy Swan-er,” apparently an allusion to the Buddha’s movement
     across the sky, the witnessing of which serves as this monk’s
     foundational good deed.

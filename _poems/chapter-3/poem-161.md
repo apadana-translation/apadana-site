@@ -31,7 +31,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2055\]
 
 Thus indeed Venerable Supāricariya Thera spoke these verses.  
-The legend of Supāricariya Thera is finished.  
-[^1]: “Good Service”  
-[^2]: *yakkha*  
+The legend of Supāricariya Thera is finished.
+
+[^1]: “Good Service”
+
+[^2]: *yakkha*
+
 [^3]: “Completely Adorned” “All Decked Out”

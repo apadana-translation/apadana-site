@@ -178,74 +178,119 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[5340\]
 
 Thus indeed Venerable Puḷinathūpiya[^44] Thera spoke these verses.  
-The legend of Puḷinathūpiya[^45] Thera is finished.  
+The legend of Puḷinathūpiya[^45] Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Sand-Stupa-er.” BJTS reads *Pulinaº *  
-[^3]: BJTS reads *Yamako*  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Sand-Stupa-er.” BJTS reads *Pulinaº *
+
+[^3]: BJTS reads *Yamako*
+
 [^4]: reading *catuddasasahassāni* with BJTS (and PTS alt.) for PTS
-    *catuddasaŋ sahassānaŋ* (“of fourteenth thousand”)  
-[^5]: *paricaranti*  
-[^6]: lit., “do *pūjā*”  
-[^7]: *no koci garahissati*  
-[^8]: lit., “I did *pūjā* \[to it\]”  
-[^9]: lit., “of”  
-[^10]: BJTS reads *kiṅkaṇiº*  
-[^11]: reading *jāyanti* with BJTS for PTS *jhāyanti* (“are meditating”)  
+    *catuddasaŋ sahassānaŋ* (“of fourteenth thousand”)
+
+[^5]: *paricaranti*
+
+[^6]: lit., “do *pūjā*”
+
+[^7]: *no koci garahissati*
+
+[^8]: lit., “I did *pūjā* \[to it\]”
+
+[^9]: lit., “of”
+
+[^10]: BJTS reads *kiṅkaṇiº*
+
+[^11]: reading *jāyanti* with BJTS for PTS *jhāyanti* (“are meditating”)
+
 [^12]: *vitakkā gehanissitā,* lit., “initial reflections connected with
     the house,” i.e., domestic concerns, perseveration about things of
     the lay world; BJTS Sinh. gloss is *kāmaniḥśrita* (“connected with
-    lust/sense-pleasures”)  
+    lust/sense-pleasures”)
+
 [^13]: BJTS (and PTS alt.) read *sugataṃ* (“the Well-Gone-One”) for PTS
     *sukataŋ.* BJTS Sinhala gloss then treats it adjectivally,
-    *sarvajñastupaya* (“the stupa of the Omniscient One”)  
-[^14]: *viharam,* fr. *viharati.*  
-[^15]: *sātthavāhaŋ*  
-[^16]: *vināyakaŋ*  
+    *sarvajñastupaya* (“the stupa of the Omniscient One”)
+
+[^14]: *viharam,* fr. *viharati.*
+
+[^15]: *sātthavāhaŋ*
+
+[^16]: *vināyakaŋ*
+
 [^17]: *saŋvaseyyāsi,* lit., “were you to live with” or “that you should
-    live with”  
-[^18]: *mārisa*, BJTS glosses *nidukāṇeni* (“O you without suffering”)  
+    live with”
+
+[^18]: *mārisa*, BJTS glosses *nidukāṇeni* (“O you without suffering”)
+
 [^19]: reading *kuvitakke* (pl.) with BJTS for PTS *kuvitakkaŋ* (sing.,
     “bad reflection” or, following the translation in the preceeding
-    verse, “bad pre-occupation”)  
+    verse, “bad pre-occupation”)
+
 [^20]: BJTS reads *tuttāṭṭito,* the more correct (acc. to RD) spelling
-    of PTS *ºaddito*  
-[^21]: *maccurājā* = Māra  
-[^22]: *vharamānaŋ maŋ*  
-[^23]: *kālakato santo,* lit., “being passed away”  
+    of PTS *ºaddito*
+
+[^21]: *maccurājā* = Māra
+
+[^22]: *vharamānaŋ maŋ*
+
+[^23]: *kālakato santo,* lit., “being passed away”
+
 [^24]: *yavatāyuŋ,* lit., “for as long as the lifespan \[in the Brahmā
-    world\],” which is very extensive  
-[^25]: i.e., the thirty\[-three\] gods, in Tāvatiṃsa heaven  
-[^26]: BJTS reads *kiṅkaṇi*  
-[^27]: *pariciṇṇattā*  
-[^28]: lit., “dirt and dust are not smeared \[on me\]”  
-[^29]: lit., “in”  
+    world\],” which is very extensive
+
+[^25]: i.e., the thirty\[-three\] gods, in Tāvatiṃsa heaven
+
+[^26]: BJTS reads *kiṅkaṇi*
+
+[^27]: *pariciṇṇattā*
+
+[^28]: lit., “dirt and dust are not smeared \[on me\]”
+
+[^29]: lit., “in”
+
 [^30]: reading *sāragāhinā* (BJTS understands *sāra*, “the pith,” as
     nirvana) for PTS *pāragāminā* (“who has gone to the opposite shore),
-    though the meaning of the latter is close to that of the former.  
+    though the meaning of the latter is close to that of the former.
+
 [^31]: reading *sādhaka* with BJTS for PTS *sārikā* (= “pithy”? PTS alt.
-    are *sāraṇā* \[“remembered”\] and *sārakā* \[”pithy”\] )  
-[^32]: or “flood,” *aṇṇavaŋ*  
+    are *sāraṇā* \[“remembered”\] and *sārakā* \[”pithy”\] )
+
+[^32]: or “flood,” *aṇṇavaŋ*
+
 [^33]: reading *thokakañ ca yaṃ* with BJTS for PTS *thokakañcanaŋ* (“a
-    little gold”)  
-[^34]: *saŋsāraŋ*, frequently described as “an ocean”  
-[^35]: lit., “in the city, Śrāvasti,”  
+    little gold”)
+
+[^34]: *saŋsāraŋ*, frequently described as “an ocean”
+
+[^35]: lit., “in the city, Śrāvasti,”
+
 [^36]: *mahāsāle,* a mark of wealth (which is further emphasized as
-    *su-aḍhake*, “very wealthy” or “very influential”)  
-[^37]: or a sprout: *papaṭikaŋ*  
+    *su-aḍhake*, “very wealthy” or “very influential”)
+
+[^37]: or a sprout: *papaṭikaŋ*
+
 [^38]: *vinīharuŋ,* lit., “they went out of,” “they threw away”. BJTS
-    Sinhala gloss *bähäraṭa gat ha*  
-[^39]: lit., “on an *uposatha* day”  
+    Sinhala gloss *bähäraṭa gat ha*
+
+[^39]: lit., “on an *uposatha* day”
+
 [^40]: *dhammasenāpat’,* i.e., Sāriputta. Cf. *Sāriputta-apadāna* (\#1),
     v. 210, v. 229 (= \[349\], \[368\]) and *Upāli-apadāna* (\#6), v. 99
-    (= \[544\])  
-[^41]: lit., “in the Śākyas’ Son’s”  
+    (= \[544\])
+
+[^41]: lit., “in the Śākyas’ Son’s”
+
 [^42]: BJTS jumps from \[5334\] to \[5336\] here, inadvertently (I
-    assume) omitting \[5335\] from its numbering.  
+    assume) omitting \[5335\] from its numbering.
+
 [^43]: BJTS reads *soṇṇapuphass’idaṃ phalaṃ,* “that is the fruit of a
     gold-colored flower,” referring back to the *kṅikaṇi* (PTS:
     *kiṅkhani*) flowers offered to the sand-stupa (see above, v. 10
-    \[5313\], cf. v. 18 \[5321\])  
-[^44]: BJTS reads *Pulinaº *  
+    \[5313\], cf. v. 18 \[5321\])
+
+[^44]: BJTS reads *Pulinaº *
+
 [^45]: BJTS reads *Pulinaº *

@@ -92,26 +92,38 @@ which are counted by those who know,
 there are one thousand three hundred  
 verses plus fifty seven \[more\].[^11]  
 The *Therī-apadāna* is Finished[^12]  
-The *Apadāna* is Finished  
+The *Apadāna* is Finished
+
 [^1]: “Stone,” known only here but treated as an historical nun by
     Malalasekera, DPPN II: 1290. BJTS reads *Pesalā*, here and elsewhere
-    in this *apadāna* (= “Agreeable”)  
+    in this *apadāna* (= “Agreeable”)
+
 [^2]: PTS presents this and the following verse as six-footed verses,
     presenting in a total of three verses the same material in the same
-    order that BJTS presents in four verses.  
+    order that BJTS presents in four verses.
+
 [^3]: *kassape jinasāsane,* lit., “in the dispensation of the Victor,
-    Kassapa \[Buddha\]”  
+    Kassapa \[Buddha\]”
+
 [^4]: reading *°brahmacariyam* with BJTS for PTS *°brahmaceram,* lit.,
-    “the Brahma-life” “the holy life” “celibacy”  
-[^5]: i.e., the thirty-three gods.  
+    “the Brahma-life” “the holy life” “celibacy”
+
+[^5]: i.e., the thirty-three gods.
+
 [^6]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni,*
-    Great Sage.  
-[^7]: this is the BJTS reading for PTS *bhikkhunī Selā*  
-[^8]: this line only in BJTS, which reads *Pesalā* here as elsewhere  
+    Great Sage.
+
+[^7]: this is the BJTS reading for PTS *bhikkhunī Selā*
+
+[^8]: this line only in BJTS, which reads *Pesalā* here as elsewhere
+
 [^9]: these final two feet enumerating the verses in the chapter, like
     most of the expected chapter summary, appears in BJTS but not in
-    PTS.  
+    PTS.
+
 [^10]: this appears only in BJTS, and appears before rather than after
-    the chapter summary.  
-[^11]: this colophonic verse appears in BJTS only; PTS omits it  
+    the chapter summary.
+
+[^11]: this colophonic verse appears in BJTS only; PTS omits it
+
 [^12]: this appears only in BJTS; PTS omits it

@@ -25,12 +25,19 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2284\]
 
 Thus indeed Venerable Kiṅkaṇikapupphiya[^6] Thera spoke these verses.  
-The legend of Kiṅkaṇikapupphiya[^7] Thera is finished.  
-[^1]: BJTS reads Kiṅkiṇikapupphiya  
+The legend of Kiṅkaṇikapupphiya[^7] Thera is finished.
+
+[^1]: BJTS reads Kiṅkiṇikapupphiya
+
 [^2]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or
-    “like a gold festoon work”  
-[^3]: BJTS reads *kiṅkhiṇi* here  
-[^4]: lit., “in the seventy-seventh aeon”  
-[^5]: “Cruel Chariot”. PTS reads *bhimaratha.*  
-[^6]: BJTS reads Kiṅkiṇikapupphiya  
+    “like a gold festoon work”
+
+[^3]: BJTS reads *kiṅkhiṇi* here
+
+[^4]: lit., “in the seventy-seventh aeon”
+
+[^5]: “Cruel Chariot”. PTS reads *bhimaratha.*
+
+[^6]: BJTS reads Kiṅkiṇikapupphiya
+
 [^7]: BJTS reads Kiṅkiṇikapupphiya

@@ -20,5 +20,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2709\]
 
 Thus indeed Venerable Saraṇagamaniya Thera spoke these verses.  
-The legend of Saraṇagamaniya Thera is finished.  
+The legend of Saraṇagamaniya Thera is finished.
+
 [^1]: “Refuge-Goer,” cf. \#23, \#113, \#356{359}.

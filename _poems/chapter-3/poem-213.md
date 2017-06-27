@@ -30,8 +30,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2334\]
 
 Thus indeed Venerable Saccasaññaka Thera spoke these verses.  
-The legend of Saccasaññaka Thera is finished.  
-[^1]: “Perception of the Truths”  
-[^2]: *bhikkhusaṅghapurakkhato*  
-[^3]: *ariyasaccāniˆ:* suffering, craving, release and the Path  
+The legend of Saccasaññaka Thera is finished.
+
+[^1]: “Perception of the Truths”
+
+[^2]: *bhikkhusaṅghapurakkhato*
+
+[^3]: *ariyasaccāniˆ:* suffering, craving, release and the Path
+
 [^4]: “One Attaining”

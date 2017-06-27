@@ -30,6 +30,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2857\]
 
 Thus indeed Venerable Nimittasaññaka Thera spoke these verses.  
-The legend of Nimittasaññaka Thera is finished.  
-[^1]: “Perceiver of the Signs”  
+The legend of Nimittasaññaka Thera is finished.
+
+[^1]: “Perceiver of the Signs”
+
 [^2]: “Forest-Creature”

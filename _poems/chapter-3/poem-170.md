@@ -33,10 +33,16 @@ Kaṇikāra, Sappidada,
 Yūthika, Dussadāyaka,  
 Māḷa and Pañcaṅgulika,  
 four and fifty verses.  
-The Supāricariya Chapter, the Seventeenth.  
-[^1]: “Palm-Print-er”  
-[^2]: *gandhakuṭiŋ*, Sinhala *gandakiḷiya*  
-[^3]: reading *appasaddo* with BJTS for PTS *appasādo* (“unpleased”)  
-[^4]: lit., “gave”  
-[^5]: see n. to v. \[38\], above.  
+The Supāricariya Chapter, the Seventeenth.
+
+[^1]: “Palm-Print-er”
+
+[^2]: *gandhakuṭiŋ*, Sinhala *gandakiḷiya*
+
+[^3]: reading *appasaddo* with BJTS for PTS *appasādo* (“unpleased”)
+
+[^4]: lit., “gave”
+
+[^5]: see n. to v. \[38\], above.
+
 [^6]: “Radiating Light from Himself”

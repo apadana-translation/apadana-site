@@ -235,66 +235,98 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (47) \[4345\]
 
 Thus indeed Venerable Ekachattiya Thera spoke these verses.  
-The legend of Ekachattiya Thera is finished.  
+The legend of Ekachattiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “One Umbrella-er”  
-[^3]: pronounce as two syllables for chanting, to keep the meter  
-[^4]: *kujanti*, lit., “they are making \[their animal\] sounds”  
-[^5]: *kokilā*  
-[^6]: *haŋsā*  
-[^7]: *abhikūjanti*  
-[^8]: *vakā,* Sinh. gloss *vṛkayō*, cognate with “wolf”  
-[^9]: *kokaº*, etymological cousin of *vāka*, *vṛka*, above, see RD  
+    edition dictating the main numbering of this translation.
+
+[^2]: “One Umbrella-er”
+
+[^3]: pronounce as two syllables for chanting, to keep the meter
+
+[^4]: *kujanti*, lit., “they are making \[their animal\] sounds”
+
+[^5]: *kokilā*
+
+[^6]: *haŋsā*
+
+[^7]: *abhikūjanti*
+
+[^8]: *vakā,* Sinh. gloss *vṛkayō*, cognate with “wolf”
+
+[^9]: *kokaº*, etymological cousin of *vāka*, *vṛka*, above, see RD
+
 [^10]: *ºtaracchayo*, BJTS *ºtaracchakā,* Sinh. gloss *kara bānā*
-    (‘submissive” “bent over”) *valassu, *  
-[^11]: *nādenti,* lit., “make sounds”  
-[^12]: lit., “on a bad mountain road”  
+    (‘submissive” “bent over”) *valassu, *
+
+[^11]: *nādenti,* lit., “make sounds”
+
+[^12]: lit., “on a bad mountain road”
+
 [^13]: reading *enimigā* with BJTS for PTS *enī migā* (“those
     deer/beasts”). PSI dict. defines *eṇi* as “a type of antelope”
     (Sinh. *muva vargayak,* “a type of deer”); RD, *eṇi,* s.v.: “a kind
-    of antelope,” “ºmiga, the eṇi deer”  
-[^14]: *sarabhā,* RD “a type of deer”  
-[^15]: *bheraṇḍakā,* Sinh. gloss *sivallu,* pl. of *sivalā, hivalā*  
-[^16]: *sūkarā*  
-[^17]: *nādenti,* lit., “make sounds”  
-[^18]: lit., “on a bad mountain road”  
-[^19]: *Uddālaka* = Cassia fistula*,* Sinh. *äsaḷa*  
+    of antelope,” “ºmiga, the eṇi deer”
+
+[^14]: *sarabhā,* RD “a type of deer”
+
+[^15]: *bheraṇḍakā,* Sinh. gloss *sivallu,* pl. of *sivalā, hivalā*
+
+[^16]: *sūkarā*
+
+[^17]: *nādenti,* lit., “make sounds”
+
+[^18]: lit., “on a bad mountain road”
+
+[^19]: *Uddālaka* = Cassia fistula*,* Sinh. *äsaḷa*
+
 [^20]: the *campaka* (Sinh. *sapu*) tree is *Magnolia champaca,*
     formerly classified as *michelia champaca*. English names for the
     tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and
     Fragrant Himalayan Champaca. It was the Bodhi tree of the
     seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly
-    fragrant cream to yellowish-colored blossoms.  
+    fragrant cream to yellowish-colored blossoms.
+
 [^21]: *pāṭali*, Sinh. *paḷol,* Bignonia suaveolens, sterospermum
     suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of
-    Vipassi Buddha.  
+    Vipassi Buddha.
+
 [^22]: *sindhuvārita*,Vitex negundo*,* a.k.a. Horshoe vitex, Five-leaved
-    chaste tree  
+    chaste tree
+
 [^23]: *atimutta = atimuttaka*? RD: a plant, Gaertnera Racemosa =
     Hiptage, hiptage benghalensis, stout, high-climbing vine, now
     invasive species in Florida, scented pink-white flowers, medicinal
     uses. BJTS glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon
-    tumba,* an annual creeper, Trichodesma zeylanicum).  
-[^24]: Jonesia Asoka, *Saraca asoca*, Sinh. *diyaratmal*  
+    tumba,* an annual creeper, Trichodesma zeylanicum).
+
+[^24]: Jonesia Asoka, *Saraca asoca*, Sinh. *diyaratmal*
+
 [^25]: *aṅkolaka, aṅkola,* Alangium hexapetalum*,* a.k.a. sage-leaved
-    alangium, Sinh. *rukaṅguna*  
-[^26]: *yūthikā* = Sinh. *sīnidda* = *jasminum auriculatum*  
+    alangium, Sinh. *rukaṅguna*
+
+[^26]: *yūthikā* = Sinh. *sīnidda* = *jasminum auriculatum*
+
 [^27]: BJTS glosses as *satpeti däsaman*, = *“*hundred-petaled” *saman
     picca mal*, a fragrant species of jasmine, Jasminum sambac. Note
-    that at \[3432\] BJTS says *vassika* is (regular) *däsaman.*  
+    that at \[3432\] BJTS says *vassika* is (regular) *däsaman.*
+
 [^28]: or Bimbajāla, a flowering tree, Sinh. *rat karavū,* Phyllanthus
-    indicus (*Euphorb.*), the Bodhi tree of Dhammadassi Buddha  
+    indicus (*Euphorb.*), the Bodhi tree of Dhammadassi Buddha
+
 [^29]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum
     acerifolium, produces a brilliant mass of yellow flowers; Engl.
     a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now
-    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.  
+    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
+
 [^30]: *nāga* = Sinhala *nā*, ironwood, Mesua Ferrea Linn, Bodhi tree of
     Mangala, Sumana, Revata, Sobhita buddhas; national tree of Sri
     Lanka. It has brilliant, fragrant white flowers containing four
-    petals each, as well as a red fruit eaten by birds.  
-[^31]: *sālā*, shorea robusta  
+    petals each, as well as a red fruit eaten by birds.
+
+[^31]: *sālā*, shorea robusta
+
 [^32]: PTS *salaḷā,* BJTS *saḷalā,* BJTS Sinh.gloss = *hora* = “large
     timber tree yielding rezin and oil, Dipterocarpus zeylanicus
     *(Dipterocarp.*)” (Bot. dict.). RD says this is a tree with fragrant
@@ -304,47 +336,67 @@ The legend of Ekachattiya Thera is finished.
     is Pinus Longiflis (now more commonly Pinus Longifolia), Indian
     Pine, indigenous to northern India, Pakistan, Himalayas, bearing
     brilliant clustered flowers in blue and other colors, with edible
-    seeds.  
+    seeds.
+
 [^33]: *Ajjuna* (a.k.a. *kakudha,* Sinhala *kumbuk gasa, kubuk,*
     Terminalia arjuna) is an impressively large, shade-giving tree that
-    thrives on the edges of tanks and lakes.  
+    thrives on the edges of tanks and lakes.
+
 [^34]: *asana,* Pentaptera tomentosa, = a.k.a. crocodile-bark tree,
     Indian Laurel, silver grey wood, white chuglam. The Bodhi tree of
     Tissa Buddha. BJTS glosses as *piyā gasa* = *bakmī* = Sarcocephalus
-    cordatus *(Rubi.*)  
+    cordatus *(Rubi.*)
+
 [^35]: *mahānāmā.* Following BJTS Sinhala gloss as *uk,* sugarcane,
-    Saccharum officinarum (*Gram.*)  
-[^36]: *sālā*, shorea robusta  
+    Saccharum officinarum (*Gram.*)
+
+[^36]: *sālā*, shorea robusta
+
 [^37]: BJTS Sinhala gloss = *puwaṅgu = rukgasa,* Bot. Dict. “C. En
     \[Ceylon endemic\], a lofty tree, Myristica Horsfieldia (*Myris.*).
-    It produces fragrant flowers and seeds from its trunk”  
-[^38]: *ambā*, Magnifera indica  
-[^39]: *jambū,* Sinh. *damba, jambu,* Syzygium samarangense  
+    It produces fragrant flowers and seeds from its trunk”
+
+[^38]: *ambā*, Magnifera indica
+
+[^39]: *jambū,* Sinh. *damba, jambu,* Syzygium samarangense
+
 [^40]: *tilaka,* BJTS glosses as *madaṭa* cf. botanical dictionary =
     *madaṭiya*, a tree which yields false yellow sandalwood, and seeds
     that are used as beads and a jeweler’s weight of about 1.25 troy
     ounce, *adenanthera pavonina,* coral bean tree a.k.a. Saga, Sagaseed
-    tree, Red-bead tree, kolkriki  
+    tree, Red-bead tree, kolkriki
+
 [^41]: reading *nimbā* with BJTS (and PTS alt) for PTS *nīpā,* yellow
     cheesewood. *Nimba* (a.k.a. *kosambha*) is the neem or margosa tree,
-    Azadirachta indica  
-[^42]: BJTS gloss *sal-kalaṇa,* “beautiful *sal*”  
+    Azadirachta indica
+
+[^42]: BJTS gloss *sal-kalaṇa,* “beautiful *sal*”
+
 [^43]: *asokā,* Jonesia Asoka, Saraca asoca. Here BJTS glosses
-    *hō-palu,* Bot Dict the name of several plants  
-[^44]: *kapitthā,* Feronia elephantum, Sinh. *divul, givul*  
+    *hō-palu,* Bot Dict the name of several plants
+
+[^44]: *kapitthā,* Feronia elephantum, Sinh. *divul, givul*
+
 [^45]: *kadamba* (Sinh. *koḷom*) is Nauclea cordifolia = Neolamarckia
-    cadamba, with orange-colored, fragrant blossoms  
-[^46]: *kaḍalī,* Sinh. *kesel*  
+    cadamba, with orange-colored, fragrant blossoms
+
+[^46]: *kaḍalī,* Sinh. *kesel*
+
 [^47]: BJTS glosses *vanamuŋ* (jungle/wild mung) above; here the gloss
-    is “the variety of grain called *ṛṣimudga* (*khodahamu*)”  
+    is “the variety of grain called *ṛṣimudga* (*khodahamu*)”
+
 [^48]: *harītakā,* Sinh. *araḷu,* myrobalan, black- or chebulic
     myrobalan; Terminalia chebula. The list of fruits in this verse
     closely parallels that in TherAp \#1, v. 33 \[BJTS 168\] above, but
-    there the focus is on their flowers, not their fruits.  
+    there the focus is on their flowers, not their fruits.
+
 [^49]: *āmalakā,* Sinh. *nelli*, emblic myrobalan, Indian gooseberry,
-    a.k.a. Malacca tree, or amla; Phyllanthus emblica  
-[^50]: *ambā*, Magnifera indica  
-[^51]: *jamnū,* Sinh. *damba, jambu,* Syzygium samarangense  
+    a.k.a. Malacca tree, or amla; Phyllanthus emblica
+
+[^50]: *ambā*, Magnifera indica
+
+[^51]: *jamnū,* Sinh. *damba, jambu,* Syzygium samarangense
+
 [^52]: *vibhīṭakā*, Sinh. *buḷu*, Terminalia bellirica (sic bellerica),
     beleric myrobalan or bastard myrobalan. Together with myroblan
     proper (*araḷu*) and Indian gooseberry *(nelli*), bahera is one of
@@ -352,13 +404,17 @@ The legend of Ekachattiya Thera is finished.
     are based; the dried nuts are typically pounded into powder which is
     then used in oils and other decoctions. Here, on the contrary, the
     reference is likely to the fresh fruit of these trees, which is also
-    used in medicines and eaten (especially gooseberrry).  
+    used in medicines and eaten (especially gooseberrry).
+
 [^53]: *kola*, Sinh. *debara phala,* Ziziphus Mauritania, Zyzyphus
-    Jujuba, Indian jujube or Chinese apple.  
+    Jujuba, Indian jujube or Chinese apple.
+
 [^54]: *bhallātakā, bhallī, badulla* = semecarpus anacardium, Sinh.
-    *badulu*  
+    *badulu*
+
 [^55]: *bellā, billaŋ* = Aegle marmelos, Sinh. *beli geḍiya,* bael, bel,
-    Bengal quince; bilva or vilva tree; also *billā, beluvā*  
+    Bengal quince; bilva or vilva tree; also *billā, beluvā*
+
 [^56]: RD says this is a water-plant, a kind of lotus, referencing J
     iv.539; vi.47, 279, 564. Here BJTS glosses *helmällen nohot
     diyakandarayen,* “if not *helmälla* then *diyakandara.*” *Helmälla*
@@ -371,53 +427,82 @@ The legend of Ekachattiya Thera is finished.
     \[324\] is “a water-born plant named *Mandālā”.* At \[171\] BJTS
     Sinh. gloss is *taḍāgayangen*, “from the moss,” following its
     reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict.
-    *taḍāga* = *sevela.*  
+    *taḍāga* = *sevela.*
+
 [^57]: reading *padumuppalakehi ca* with BJTS for PTS *padumapphalakehi
     ca* (“and with pink lotuses and fruit” or “and with pink lotus
-    fruits”.  
-[^58]: *opatta-kaṇṇikā*  
+    fruits”.
+
+[^58]: *opatta-kaṇṇikā*
+
 [^59]: read *pāṭhīna,* Silurus Boalis, “a kind of shad” (RD); wikipedia
     gives “sheatfish,” related to catfish, includes all the siluridae.
-    BJTS glosses *peṭiyō*  
+    BJTS glosses *peṭiyō*
+
 [^60]: *pāvusa,* glossed as “large-mouth fish”, cf. *pāgusa, patusa,*
-    BJTS glosses *lūllu*  
+    BJTS glosses *lūllu*
+
 [^61]: reading *valajā* with BJTS, which treats it as a type of fish
     (Sinh. *valayō*), for PTS *jalajā*, lit., “water-born”, a generic
-    word for “fish”.  
+    word for “fish”.
+
 [^62]: *muñja,* more common as a kind of reed, also the name of a fish
     (BJTS glosses *moddu*), always in *dvandva* compound with *rohita,*
-    “red-fish”  
-[^63]: *rohita,* BJTS glosses *reheru*  
-[^64]: *vicaraŋ*, moving around, traveling about  
-[^65]: *ketaka,* Pandanus odoratissima, Sinhala *väṭakē or väṭakeyiyā*.  
-[^66]: *sappi,* lit., ghee, clarified butter (*gī tel*)  
+    “red-fish”
+
+[^63]: *rohita,* BJTS glosses *reheru*
+
+[^64]: *vicaraŋ*, moving around, traveling about
+
+[^65]: *ketaka,* Pandanus odoratissima, Sinhala *väṭakē or väṭakeyiyā*.
+
+[^66]: *sappi,* lit., ghee, clarified butter (*gī tel*)
+
 [^67]: *jalasevitā,* lit., “associating with water” “resorting to
     water”. Perhaps, “mixed with the water”? I take the meaning to be
     that the \[white\] sand is beautiful in juxtaposition with the
-    \[blue, clear\] water.  
+    \[blue, clear\] water.
+
 [^68]: reading *opupphā* with BJTS (and PTS alt.) for PTS *opaṭṭā*, for
-    *opattā* (“with fallen leaves”)?  
+    *opattā* (“with fallen leaves”)?
+
 [^69]: *santi.* BJTS reads *senti* (“are lying down” “are sleeping” “are
-    behaving”)  
-[^70]: *jaṭābhārabharitā* (PTS), *jaṭābhārena bharitā* (BJTS)  
+    behaving”)
+
+[^70]: *jaṭābhārabharitā* (PTS), *jaṭābhārena bharitā* (BJTS)
+
 [^71]: *yugamattañ ca pekkhantā,* lit., “looking ahead the extent of a
     plough,” i.e., just a little, keeping their eyes on the ground in
-    front of them  
+    front of them
+
 [^72]: reading *kāmabhoge anapekhā* with BJTS (and PTS alt.) for PTS
-    *kāmagedhe anapekhā*, “not looking at craving lust”  
+    *kāmagedhe anapekhā*, “not looking at craving lust”
+
 [^73]: *rajojalladharā,* cf. above \[4175\], especially the note, and
-    cf. the long note on \[4174\].  
+    cf. the long note on \[4174\].
+
 [^74]: *abhiññāpāramīpattā,* lit., “attainers of perfection of the
-    special knowledges”  
+    special knowledges”
+
 [^75]: *sadā jhānasamappito,*lit., “always endowed with meditative
-    states or trances (*jhānas*)  
-[^76]: lit., “the Blessed One”  
-[^77]: lit., “came into my presence”  
-[^78]: lit., “wanting to ask for the mantras”  
-[^79]: reading *Buddho* with BJTS for the obvious typo in PTS, *Būddho*  
-[^80]: *tuṭṭhahaṭṭho*, horripilating with delight  
-[^81]: lit., “hoping to go into,” *ºantaragatāsayo*  
-[^82]: *jaṭābhārabharitā* (PTS), *jaṭābhārena bharitā* (BJTS)  
-[^83]: lit., “the Blessed One”  
-[^84]: lit., “umbrella”  
+    states or trances (*jhānas*)
+
+[^76]: lit., “the Blessed One”
+
+[^77]: lit., “came into my presence”
+
+[^78]: lit., “wanting to ask for the mantras”
+
+[^79]: reading *Buddho* with BJTS for the obvious typo in PTS, *Būddho*
+
+[^80]: *tuṭṭhahaṭṭho*, horripilating with delight
+
+[^81]: lit., “hoping to go into,” *ºantaragatāsayo*
+
+[^82]: *jaṭābhārabharitā* (PTS), *jaṭābhārena bharitā* (BJTS)
+
+[^83]: lit., “the Blessed One”
+
+[^84]: lit., “umbrella”
+
 [^85]: *carimo vattate bhavo*

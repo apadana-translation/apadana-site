@@ -20,12 +20,16 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2030\]
 
 Thus indeed Venerable Tiṇasulaka Thera spoke these verses.  
-The legend of Tiṇasulaka Thera is finished.  
+The legend of Tiṇasulaka Thera is finished.
+
 [^1]: “*Tiṇasula* (or *Tiṇasūla*) Flower-er”. This is a form of jasmine,
-    “Arabian jasmine,” Sinhala *bōlidda.*  
-[^2]: “Group of Ghosts”  
+    “Arabian jasmine,” Sinhala *bōlidda.*
+
+[^2]: “Group of Ghosts”
+
 [^3]: the text abbreviates the standard claim of not having experienced
     any ill-state, but that still seems to be the sense here: for 99,999
     aeons he did not fall back into hell or animal births. This is also
-    how BJTS Sinhala gloss understands the term *avinipātaka.*  
+    how BJTS Sinhala gloss understands the term *avinipātaka.*
+
 [^4]: “Growing from the Earth,” “Tree”.

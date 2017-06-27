@@ -20,5 +20,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2758\]
 
 Thus indeed Venerable Anulepadāyaka Thera spoke these verses.  
-The legend of Anulepadāyaka Thera is finished.  
+The legend of Anulepadāyaka Thera is finished.
+
 [^1]: “Ointment Donor”

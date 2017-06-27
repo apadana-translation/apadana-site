@@ -78,15 +78,23 @@ Savani, Ekapadumi:
 the clump of verses there \[numbers\]  
 one hundred verses and also  
 forty-four \[additional ones\].  
-The Gandhathūpiya Chapter, the Thirty-Fourth  
+The Gandhathūpiya Chapter, the Thirty-Fourth
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Tossed Lotus-er”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Tossed Lotus-er”
+
 [^3]: lit., “Master of All Things (*dhamma*)” (or “Master of All
-    Teachings”)  
-[^4]: *vuddhi,* lit., “increase” or “furtherance”.  
-[^5]: *ānubhāvena*  
-[^6]: *vuccati,* lit., “was called”  
-[^7]: *sattapattan* = “Lotus”  
+    Teachings”)
+
+[^4]: *vuddhi,* lit., “increase” or “furtherance”.
+
+[^5]: *ānubhāvena*
+
+[^6]: *vuccati,* lit., “was called”
+
+[^7]: *sattapattan* = “Lotus”
+
 [^8]: lit., “since I did *pūjā”*

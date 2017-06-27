@@ -30,9 +30,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2686\]
 
 Thus indeed Venerable Chattadāyaka Thera spoke these verses.  
-The legend of Chattadāyaka Thera is finished.  
-[^1]: “Umbrella Donor”  
+The legend of Chattadāyaka Thera is finished.
+
+[^1]: “Umbrella Donor”
+
 [^2]: lit., “who’d realized nirvana,” *nibbuta* here echoing the use of
-    the term in the last line of v. 1 \[2681\].  
+    the term in the last line of v. 1 \[2681\].
+
 [^3]: “Greatly Worthy,” echoing the “arahant” state subsequently
     achieved.

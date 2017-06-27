@@ -15,8 +15,11 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[2477\]
 
 Thus indeed Venerable Viravapupphiya Thera spoke these verses.  
-The legend of Viravapupphiya Thera is finished.  
-[^1]: “Virava-Flower-er”. BJTS reads *Viraviº*  
+The legend of Viravapupphiya Thera is finished.
+
+[^1]: “Virava-Flower-er”. BJTS reads *Viraviº*
+
 [^2]: lit., “with one thousand who were free of *āsavas* (outflows,
-    defilements)”  
+    defilements)”
+
 [^3]: BJTS reads *viravi*

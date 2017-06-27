@@ -30,9 +30,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1600\]
 
 Thus indeed Venerable Senāsanadāyaka[^3] Thera spoke these verses.  
-The legend of Senāsanadāyaka Thera is finished.  
+The legend of Senāsanadāyaka Thera is finished.
+
 [^1]: “Lodgings-Donor” (lit., “Giver of Bed-and-Chair” \[or “Bed and
-    Food”\])  
-[^2]: “Mat-Placer”  
+    Food”\])
+
+[^2]: “Mat-Placer”
+
 [^3]: reading Senāsanadāyaka with PTS alt and BJTS for Senādāyaka
     (“Army-Giver,” PTS)

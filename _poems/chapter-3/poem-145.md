@@ -25,13 +25,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1965\]
 
 Thus indeed Venerable Ummāpupphiya Thera spoke these verses.  
-The legend of Ummāpupphiya Thera is finished.  
+The legend of Ummāpupphiya Thera is finished.
+
 [^1]: “Blue Flax*-*Flower-er”. cf. \#321. *Ummāpuppha* (Skt. *umāpuṣpa*)
     refers to the flowers of Linum usitatissimum, Linseed. The small
     flowers of this fiber-bearing plant are distinctively and deeply
     blue in color, and the seeds, as the English name implies, bear a
-    useful oil.  
-[^2]: lit., “reached nirvana”  
-[^3]: lit., “a great stupa festival” or “a large stupa festival”  
-[^4]: *ummā-pupphaŋ*  
+    useful oil.
+
+[^2]: lit., “reached nirvana”
+
+[^3]: lit., “a great stupa festival” or “a large stupa festival”
+
+[^4]: *ummā-pupphaŋ*
+
 [^5]: “God Soma” or “Moon God”.

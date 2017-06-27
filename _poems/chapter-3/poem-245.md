@@ -15,5 +15,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[2480\]
 
 Thus indeed Venerable Kuṭidhūpaka Thera spoke these verses.  
-The legend of Kuṭidhūpaka Thera is finished.  
+The legend of Kuṭidhūpaka Thera is finished.
+
 [^1]: “Hut-perfumer”

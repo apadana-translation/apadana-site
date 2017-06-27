@@ -78,32 +78,49 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (16) \[3934\]
 
 Thus indeed Venerable Puṇṇaka Thera spoke these verses.  
-The legend of Puṇṇaka Thera is finished.  
+The legend of Puṇṇaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Full One,” a historical monk, to whom the *Puṇṇovāda Sutta* (M.
     iii. 267ff.;S. iv. 60 ff) was preached. Cty (p. 484) says he was the
     leader of an army of yakkhas, but I do not see that detail in the
-    extant text.  
-[^3]: *buddhe nibbāyamānamhi* (loc. abs. construction)  
-[^4]: *acchaº,* Sinh. gloss *valassu*  
-[^5]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD  
+    extant text.
+
+[^3]: *buddhe nibbāyamānamhi* (loc. abs. construction)
+
+[^4]: *acchaº,* Sinh. gloss *valassu*
+
+[^5]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
+
 [^6]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”)
     *valassu,* Note BJTS omits the second mention of “wolves” so may be
     taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in
     specifying this particular type of bear (cf. Sorata, *kara baāna
-    valasā,* s.v.)  
-[^7]: reading *vyagghā* with BJTS for PTS *vālā* (= *vāḷā*, snakes?)  
+    valasā,* s.v.)
+
+[^7]: reading *vyagghā* with BJTS for PTS *vālā* (= *vāḷā*, snakes?)
+
 [^8]: *uppādaŋ taŋ...disvā,* lit., “after seeing that strange omen,” but
     the plural is obviously implied as three strange omens have been
-    mentioned.  
-[^9]: lit., “went”  
-[^10]: *nibbutaŋ*  
-[^11]: *nibbutaŋ*  
-[^12]: *yakkho*  
-[^13]: BJTS reads *yaṃ* (“which”) for PTS (and BJTS alt.) *taŋ*  
-[^14]: *puṇṇako*  
-[^15]: *divyamayo* (BJTS and PTS alt. read *dibbamayo*) *gandho*  
-[^16]: *puṇṇako*  
+    mentioned.
+
+[^9]: lit., “went”
+
+[^10]: *nibbutaŋ*
+
+[^11]: *nibbutaŋ*
+
+[^12]: *yakkho*
+
+[^13]: BJTS reads *yaṃ* (“which”) for PTS (and BJTS alt.) *taŋ*
+
+[^14]: *puṇṇako*
+
+[^15]: *divyamayo* (BJTS and PTS alt. read *dibbamayo*) *gandho*
+
+[^16]: *puṇṇako*
+
 [^17]: *carimo vattate bhavo*

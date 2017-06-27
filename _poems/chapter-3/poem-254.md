@@ -20,14 +20,17 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2514\]
 
 Thus indeed Venerable Ticampakapupphiya Thera spoke these verses.  
-The legend of Ticampakapupphiya Thera is finished.  
+The legend of Ticampakapupphiya Thera is finished.
+
 [^1]: “Three-*Campaka*-Flower-er”. The *campaka* (Sinh. *sapu*) tree is
     *Magnolia champaca,* formerly classified as *michelia champaca*.
     English names for the tree include Champak, Joy Perfume Tree, Yellow
     Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi
     tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It
-    has highly fragrant cream to yellowish-colored blossoms.  
+    has highly fragrant cream to yellowish-colored blossoms.
+
 [^2]: this is the only reference to the mountain recorded in DPPN. The
     term means “disgusting” “foul” “filthy” “degraded” as in
-    *vikaṭabhojana,* spoiled or rotten food.  
+    *vikaṭabhojana,* spoiled or rotten food.
+
 [^3]: lit., “is”

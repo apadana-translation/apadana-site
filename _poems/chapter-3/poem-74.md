@@ -26,9 +26,12 @@ six special knowledges mastered,
 
 Thus indeed Venerable Bhisāluvadāyaka Thera spoke these verses.  
 The legend of Bhisāluvadāyaka Thera is finished.  
-The Sixth Recitation Portion.  
+The Sixth Recitation Portion.
+
 [^1]: “Lotus-Root-and-*āluva*-Root-Donor”. RD equates *āluva* with
     *ālupa* or *āluka*, “edible root of Amorphophallus Campanulatus;”
-    Cone defines *āluva* as “an edible root”  
-[^2]: lit., “lotus-root and *āluva*-\[root\]”  
+    Cone defines *āluva* as “an edible root”
+
+[^2]: lit., “lotus-root and *āluva*-\[root\]”
+
 [^3]: “Approved of Lotus-Root”

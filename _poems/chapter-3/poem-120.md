@@ -53,9 +53,13 @@ Citapūjī, Buddhasaññī,
 Magg’, Upaṭṭhāna, Jātina  
 ninety uttered verses are  
 counted clearly \[in this part\].  
-The Mahāparivāra Chapter, the Twelfth.  
-[^1]: “Birth-Worshipper”  
-[^2]: lit., “will \[have\] become”  
+The Mahāparivāra Chapter, the Twelfth.
+
+[^1]: “Birth-Worshipper”
+
+[^2]: lit., “will \[have\] become”
+
 [^3]: reading *saṃvaritvāna* (BJTS) for *saṃsaritvāna*
-    (“transmigrating,” PTS).  
+    (“transmigrating,” PTS).
+
 [^4]: “Good Serving” “Waiting on Well”

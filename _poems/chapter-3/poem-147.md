@@ -25,10 +25,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1976\]
 
 Thus indeed Venerable Maggadāyaka Thera spoke these verses.  
-The legend of Maggadāyaka Thera is finished.  
-[^1]: “Road-Donor”  
+The legend of Maggadāyaka Thera is finished.
+
+[^1]: “Road-Donor”
+
 [^2]: PTS has mistakenly made the “t”’s in the name retroflex; I follow
-    BJTS in providing the correct spelling.  
+    BJTS in providing the correct spelling.
+
 [^3]: *kuddāla* is the particularly South Asian version of the hoe,
-    Sinhala *udälla.*  
+    Sinhala *udälla.*
+
 [^4]: “Well-Awakened”

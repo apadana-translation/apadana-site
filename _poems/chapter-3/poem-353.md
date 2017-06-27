@@ -15,11 +15,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[3152\]
 
 Thus indeed Venerable Kiŋsukapūjaka Thera spoke these verses.  
-The legend of Kiŋsukapūjaka Thera is finished.  
+The legend of Kiŋsukapūjaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Pulas-Offerer”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Pulas-Offerer”
+
 [^3]: *kiṃsukaŋ* *pupphitaŋ disvā.* The *kiŋsuka* (“what is it”
     “strange”) tree is Butea frondosa, Sinh. *kǟla* or *gaskǟla, ǟtkan,
     pulāṣa;* Engl. pulas tree. It yields gum and beautiful flowers.

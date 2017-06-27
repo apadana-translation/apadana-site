@@ -20,16 +20,21 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[3120\]
 
 Thus indeed Venerable Padumapūjaka Thera spoke these verses.  
-The legend of Padumapūjaka Thera is finished.  
+The legend of Padumapūjaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Pink Lotus Offerer”. Virtually the same *apadāna* as this present
     one, ascribed to a monk with a similar name (*Padumadhāriya* *=*
     “Pink Lotus Bearer”) and differing only in giving thirty-one rather
     than ninety-one as the number of aeons ago when the good karma was
     done, and providing the full three-verse concluding refrain, is
-    presented below as \#517 {520}  
-[^3]: A recurring name in *Apadāna* of uncertain meaning  
-[^4]: *dhārayim,* “carried,” “brought,” “had”  
+    presented below as \#517 {520}
+
+[^3]: A recurring name in *Apadāna* of uncertain meaning
+
+[^4]: *dhārayim,* “carried,” “brought,” “had”
+
 [^5]: lit., “did *pūjā*”

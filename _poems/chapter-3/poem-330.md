@@ -127,17 +127,28 @@ Saŋsāvaka and Nigguṇḍi,[^11]
 Sumana, Pupphachattaka,  
 and Suparivāracchatta:  
 one hundred plus seven verses.  
-The Ummāpupphiya Chapter, the Thirty-Third  
-[^1]: “Donor of Umbrella with Retinue”  
-[^2]: lit., “in”  
+The Ummāpupphiya Chapter, the Thirty-Third
+
+[^1]: “Donor of Umbrella with Retinue”
+
+[^2]: lit., “in”
+
 [^3]: reading *susaṅghahita* with BJTS for PTS *susaṅghahīta* (“very
-    friendly to the assembly”), and following BJTS gloss here.  
-[^4]: *bhikkhusaṅghe*  
-[^5]: *abbhugataŋ *  
-[^6]: lit., “is carried at that time”  
-[^7]: *tidasaŋ puraŋ,* lit., “the city of the Thirty,” = Tāvatiṃsa  
-[^8]: “Very Joyful”  
+    friendly to the assembly”), and following BJTS gloss here.
+
+[^4]: *bhikkhusaṅghe*
+
+[^5]: *abbhugataŋ *
+
+[^6]: lit., “is carried at that time”
+
+[^7]: *tidasaŋ puraŋ,* lit., “the city of the Thirty,” = Tāvatiṃsa
+
+[^8]: “Very Joyful”
+
 [^9]: reading *phalikaṃ* with BJTS and PTS alternative for PTS
-    *phalitaŋ*, “in fruit” (maybe “decorated with fruit”?)  
-[^10]: *anumodi*  
+    *phalitaŋ*, “in fruit” (maybe “decorated with fruit”?)
+
+[^10]: *anumodi*
+
 [^11]: PTS reads *Nigguṇṭhi*

@@ -29,9 +29,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1457\]
 
 Thus indeed Venerable Sūcidāyaka Thera spoke these verses.  
-The legend of Sūcidāyaka Thera is finished.  
-[^1]: “Needle-Donor”  
-[^2]: lit., “having the thirty-two excellent marks”  
+The legend of Sūcidāyaka Thera is finished.
+
+[^1]: “Needle-Donor”
+
+[^2]: lit., “having the thirty-two excellent marks”
+
 [^3]: note that verses (4) and (5) are inverted in comparison with the
-    BJTS reading  
+    BJTS reading
+
 [^4]: “Lord of Bipeds”

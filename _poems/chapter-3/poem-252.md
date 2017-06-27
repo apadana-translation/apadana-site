@@ -20,11 +20,16 @@ six special knowledges mastered:
 \[I have\] done what the Buddha taught! (4) \[2506\]
 
 Thus indeed Venerable Ekāsanadāyaka Thera spoke these verses.  
-The legend of Ekāsanadāyaka Thera is finished.  
-[^1]: “One-Seat-Donor”  
-[^2]: or “abandoning,” “giving up”  
-[^3]: *devavaṇṇaŋ.* Or “royal caste”?  
-[^4]: *Buddhaseṭṭhassa sāsane*  
+The legend of Ekāsanadāyaka Thera is finished.
+
+[^1]: “One-Seat-Donor”
+
+[^2]: or “abandoning,” “giving up”
+
+[^3]: *devavaṇṇaŋ.* Or “royal caste”?
+
+[^4]: *Buddhaseṭṭhassa sāsane*
+
 [^5]: cf. above, \#55, v. 2 \[1291\]
 
 [^6]: *piṇḍapāta*

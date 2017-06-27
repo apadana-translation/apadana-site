@@ -30,9 +30,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2354\]
 
 Thus indeed Venerable Tālavaṇṭadāyaka Thera spoke these verses.  
-The legend of Tālavaṇṭadāyaka Thera is finished.  
-[^1]: “Palmyra-frond Fan Donor”  
+The legend of Tālavaṇṭadāyaka Thera is finished.
+
+[^1]: “Palmyra-frond Fan Donor”
+
 [^2]: The palmyra (*tāla,* Sinh. *tal*) tree or fan palm is Borassus
-    flabelliformis  
-[^3]: lit., “Great Perfected Buddha’s”  
+    flabelliformis
+
+[^3]: lit., “Great Perfected Buddha’s”
+
 [^4]: “Big Pleasure Garden” or “Big Monastic Residence”

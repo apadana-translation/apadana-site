@@ -25,10 +25,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2664\]
 
 Thus indeed Venerable Buddhūpaṭṭhāyaka Thera spoke these verses.  
-The legend of Buddhūpaṭṭhāyaka Thera is finished.  
-[^1]: “Buddha-Server” or “Attendant on the Buddha”  
+The legend of Buddhūpaṭṭhāyaka Thera is finished.
+
+[^1]: “Buddha-Server” or “Attendant on the Buddha”
+
 [^2]: the name varies widely amongst the manuscripts, perhaps because it
     seems to have no discernible meaning, beyond being his father’s
-    name.  
-[^3]: lit., kṣatriyans  
+    name.
+
+[^3]: lit., kṣatriyans
+
 [^4]: “Servant of the Monks”

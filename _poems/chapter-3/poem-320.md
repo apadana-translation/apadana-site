@@ -25,5 +25,6 @@ Pupphâsani, Santhavaka,
 Saddasañi, Tiraŋsiya,  
 Kandali and Komudi too:  
 there are fifty-seven verses.  
-The Ārakkhadāya Chapter, the Thirty-Second  
+The Ārakkhadāya Chapter, the Thirty-Second
+
 [^1]: “White-Lotus-Flower-er”

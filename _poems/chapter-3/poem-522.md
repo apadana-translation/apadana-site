@@ -30,12 +30,15 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (12) \[5555\]
 
 Thus indeed Venerable Pecchadāyaka[^4] Thera spoke these verses.  
-The legend of Pecchadāyaka[^5] Thera is finished.  
+The legend of Pecchadāyaka[^5] Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Bed Donor.” This is the BJTS reading; PTS reads *Pecchadāyakaº*
-    and also *ekapecchaŋ* in v. 1.  
+    and also *ekapecchaŋ* in v. 1.
+
 [^3]: the transmission of this *apadāna* is quite inconsistent with
     regard to the type of gift, and by extension the name of the
     arahant. BJTS reads “a single bed” (*mañca*). PTS *Peccha* is of
@@ -53,6 +56,8 @@ The legend of Pecchadāyaka[^5] Thera is finished.
     BJTS more likely for its consistency and intelligibility?), and
     something different still is perhaps preferable, given that the
     intermediate fruit is stated to be receipt of various sorts of
-    vehicles.  
-[^4]: BJTS reads *Mañcadāyaka*  
+    vehicles.
+
+[^4]: BJTS reads *Mañcadāyaka*
+
 [^5]: BJTS reads *Mañcadāyaka*

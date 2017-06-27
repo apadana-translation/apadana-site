@@ -20,10 +20,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2431\]
 
 Thus indeed Venerable Bhājanadāyaka Thera spoke these verses.  
-The legend of Bhājanadāyaka Thera is finished.  
-[^1]: “Vessel Donor”  
+The legend of Bhājanadāyaka Thera is finished.
+
+[^1]: “Vessel Donor”
+
 [^2]: *anupālesiŋ.* One would prefer the meaning “I made” or “I
-    provided,” but this is the Pāli.  
-[^3]: *bhikkhusaṅgha*  
+    provided,” but this is the Pāli.
+
+[^3]: *bhikkhusaṅgha*
+
 [^4]: “Unlimited Nets” (taking *jālin* from *jāla*; or “Unlimited
     Armor,” taking *jālin* from *jālikā*?)

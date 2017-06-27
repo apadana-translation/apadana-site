@@ -36,13 +36,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[4723\]
 
 Thus indeed Venerable Vibhīṭakamiñjaya Thera spoke these verses.  
-The legend of Vibhīṭakamiñjaya Thera is finished.  
-[^1]: BJTS reads *Vibhīṭaka*  
+The legend of Vibhīṭakamiñjaya Thera is finished.
+
+[^1]: BJTS reads *Vibhīṭaka*
+
 [^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^3]: “*Bahera-*nut-er”  
-[^4]: reading *vūpakaṭṭho* with BJTS for PTS *vupakaṭṭho*  
+    edition dictating the main numbering of this translation.
+
+[^3]: “*Bahera-*nut-er”
+
+[^4]: reading *vūpakaṭṭho* with BJTS for PTS *vupakaṭṭho*
+
 [^5]: *bījabījaŋ,* taking the reduplication as indicative of a large
     number, “seeds and seeds.” BJTS Sinhala gloss interpolates “*bulu”
     (bahera*, “bastard myrobolan,” *vibhītaka*), identifying the type of

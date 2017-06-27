@@ -15,8 +15,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[2490\]
 
 Thus indeed Venerable Pāṭalipūjaka Thera spoke these verses.  
-The legend of Pāṭalipūjaka Thera is finished.  
-[^1]: “Trumpet-Flower-Worshipper”  
+The legend of Pāṭalipūjaka Thera is finished.
+
+[^1]: “Trumpet-Flower-Worshipper”
+
 [^2]: *pāṭali* is Sinh. *paḷol,* Bignonia suaveolens, sterospermum
     suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of
     Vipassi Buddha. Cf. \#71, \#78, \#96, \#255, \#369{372}.

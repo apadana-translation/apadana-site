@@ -20,12 +20,16 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2641\]
 
 Thus indeed Venerable Ekapupphiya Thera spoke these verses.  
-The legend of Ekapupphiya Thera is finished.  
-[^1]: “One Flower-er”  
-[^2]: *pisāco*  
+The legend of Ekapupphiya Thera is finished.
+
+[^1]: “One Flower-er”
+
+[^2]: *pisāco*
+
 [^3]: *vītaraṃsa*; see above, note to \#215, v. 1 \[2339\]. xxx should
     this, and the two sun metaphors in \#215, and again in \#305, be
     treated as epithets? The distinction is taken to be the presence (or
     not, in the case of epithets) of comparative enclitics like *va,
-    iva*  
+    iva*
+
 [^4]: *sabbalokahitesino*

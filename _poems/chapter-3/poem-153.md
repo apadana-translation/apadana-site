@@ -30,9 +30,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2012\]
 
 Thus indeed Venerable Vīthisammajjaka Thera spoke these verses.  
-The legend of Vīthisammajjaka Thera is finished.  
-[^1]: “Road-Sweeper”  
-[^2]: reading *candaṃ* (BJTS) for *tad-āhu* (“that was,” PTS)  
-[^3]: the fifteenth day of the lunar month, when it is full.  
+The legend of Vīthisammajjaka Thera is finished.
+
+[^1]: “Road-Sweeper”
+
+[^2]: reading *candaṃ* (BJTS) for *tad-āhu* (“that was,” PTS)
+
+[^3]: the fifteenth day of the lunar month, when it is full.
+
 [^4]: “Good Banner.” This reading of the name follows BJTS. PTS reads
     “by the name Vissuta”.

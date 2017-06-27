@@ -35,12 +35,17 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[2390\]
 
 Thus indeed Venerable Dverataniya Thera spoke these verses.  
-The legend of Dverataniya Thera is finished.  
+The legend of Dverataniya Thera is finished.
+
 [^1]: “Two-Gem-er.” BJTS reads *Dviratananiya*, which conveys the same
     meaning. The name is unusual in that it alludes to the reward rather
-    than the original/“seed” karma.  
-[^2]: lit., “a gem”  
+    than the original/“seed” karma.
+
+[^2]: lit., “a gem”
+
 [^3]: these are presumably meant to be taken as magical, wish-fulfilling
-    gems  
-[^4]: lit., “skillful knowing” or “intelligent knowing”  
+    gems
+
+[^4]: lit., “skillful knowing” or “intelligent knowing”
+
 [^5]: “Much Deer.” *Rohita* (“red”) is a type of deer.

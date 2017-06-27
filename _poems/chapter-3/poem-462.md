@@ -25,10 +25,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[4873\]
 
 Thus indeed Venerable Citapūjaka Thera spoke these verses.  
-The legend of Citapūjaka Thera is finished.  
+The legend of Citapūjaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Pyre-Worshipper”  
-[^3]: lit., “the Blessed One”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Pyre-Worshipper”
+
+[^3]: lit., “the Blessed One”
+
 [^4]: lit., “dong *pūjā*”

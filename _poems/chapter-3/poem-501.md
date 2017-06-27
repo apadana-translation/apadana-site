@@ -193,60 +193,94 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (38) \[5395\]
 
 Thus indeed Venerable Tīṇikaṇikārapupphiya Thera spoke these verses.  
-The legend of Tīṇikaṇikārapupphiya Thera is finished.  
+The legend of Tīṇikaṇikārapupphiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Three *Kaṇikāra* Flowers-er.” WIth minor changes noted there,
     this same *apadāna* appears below as \#{556}, ascribed to the
-    historical monk Uttara.  
-[^3]: lit “crouching with his legs crossed”  
-[^4]: *vijjādharo,* “spell-knower”  
-[^5]: i.e., when it is full, *puṇṇamāse va candimā*  
+    historical monk Uttara.
+
+[^3]: lit “crouching with his legs crossed”
+
+[^4]: *vijjādharo,* “spell-knower”
+
+[^5]: i.e., when it is full, *puṇṇamāse va candimā*
+
 [^6]: reading *buddharaṃsī vidhāvare* with BJTS for PTS *Buddharaŋs’
-    ābhidhāvare*  
-[^7]: lit., “similar to the color of a reed-fire”  
+    ābhidhāvare*
+
+[^7]: lit., “similar to the color of a reed-fire”
+
 [^8]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum
     acerifolium, produces a brilliant mass of yellow flowers; Engl.
     a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now
-    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.  
-[^9]: lit., “did *pūjā*”  
-[^10]: lit. "to the Best Buddha”  
-[^11]: *kaṇikārîti ñāyati*  
+    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
+
+[^9]: lit., “did *pūjā*”
+
+[^10]: lit. "to the Best Buddha”
+
+[^11]: *kaṇikārîti ñāyati*
+
 [^12]: here and in the following neologism I exploit the English
     exploitation of the Latin shorthand for “thousand” and “hundred” to
     keep the meter. The Pali is lit., “a thousand *kaṇḍa*s (part,
     portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\].”
-    .  
+    .
+
 [^13]: following BJTS, PTS reads *geṇḍu,* in multiple variations. At
     least in transmission, these obscure measures may not have been more
     intelligible than they are today, even if they are clues to the
-    historical situation in which the original was composed.  
-[^14]: *yenicchakā,* following BJTS Sinhala gloss *kämäti tänaka*  
+    historical situation in which the original was composed.
+
+[^14]: *yenicchakā,* following BJTS Sinhala gloss *kämäti tänaka*
+
 [^15]: *ºvikutīº;* I take this to evoke a mattress (*tūlikāº*)
     constructed through piling up (“assembling”) of layers of grass or
-    wool (see RD., s.v.)  
+    wool (see RD., s.v.)
+
 [^16]: reading *uddalomikaº* with BJTS for PTS *uddhalomikā* (which
-    means about the same thing, see RD, s.v)  
-[^17]: lit., “on a flower”  
-[^18]: or perhaps flowers? Or both, i.e. trees in bloom?  
-[^19]: *khiḍḍāratiyā*  
-[^20]: *tidase,* i.e., in Tāvatiṃsa heaven  
-[^21]: *vyamha-m-uttame,* lit., “in \[my\] ultimate (or superb) mansion”  
-[^22]: PTS and BJTS agree in presenting this as a six-footed verse  
+    means about the same thing, see RD, s.v)
+
+[^17]: lit., “on a flower”
+
+[^18]: or perhaps flowers? Or both, i.e. trees in bloom?
+
+[^19]: *khiḍḍāratiyā*
+
+[^20]: *tidase,* i.e., in Tāvatiṃsa heaven
+
+[^21]: *vyamha-m-uttame,* lit., “in \[my\] ultimate (or superb) mansion”
+
+[^22]: PTS and BJTS agree in presenting this as a six-footed verse
+
 [^23]: *nava,* the same adjective translated as “new” in the first foot
-    and “fresh” in the second foot  
-[^24]: lit., “*pūjā*”  
+    and “fresh” in the second foot
+
+[^24]: lit., “*pūjā*”
+
 [^25]: *mahāpakkho, lit.,* “one of the great faction” “one with a
-    powerful party,”  
-[^26]: PTS and BJTS agree in presenting this as a six-footed verse  
-[^27]: or “I do not know,” *na jānāmi*  
-[^28]: *pariḷāho*  
-[^29]: lit., “in the city, Śrāvasti,”  
+    powerful party,”
+
+[^26]: PTS and BJTS agree in presenting this as a six-footed verse
+
+[^27]: or “I do not know,” *na jānāmi*
+
+[^28]: *pariḷāho*
+
+[^29]: lit., “in the city, Śrāvasti,”
+
 [^30]: *mahāsāle,* a mark of wealth (which is further emphasized as
-    *su-aḍhake*, “very wealthy” or “very influential”)  
+    *su-aḍhake*, “very wealthy” or “very influential”)
+
 [^31]: *pañca-kāma-guṇe,* “the five strands of sense pleasure,” namely
-    those obtained through the five senses  
-[^32]: *samādhikusalo ahaŋ*  
-[^33]: *iddhipādesu kovido*  
+    those obtained through the five senses
+
+[^32]: *samādhikusalo ahaŋ*
+
+[^33]: *iddhipādesu kovido*
+
 [^34]: lit., “did *pūjā*”

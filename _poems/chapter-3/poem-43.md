@@ -85,13 +85,20 @@ six special knowledges mastered,
 
 Thus indeed Venerable Bhaddiya Kaḷigodhāyaputta Thera spoke these
 verses.  
-The Legend of Bhaddiya Kaḷigodhāyaputta Thera is finished.  
-[^1]: *sabbalokagganāyakaŋ*  
+The Legend of Bhaddiya Kaḷigodhāyaputta Thera is finished.
+
+[^1]: *sabbalokagganāyakaŋ*
+
 [^2]: reading *vatthaṃ senasanaṃ c’eva* with BJTS for PTS *satthukañca
     ‘baddhakañca* (“things for the teacher, unrestricted gifts,“ PTS).
-    *Senāsana* literally means “bed-and-chair” (or “bed and eating”)  
-[^3]: or “king of kings”  
-[^4]: *bhikkhusaṅghaparibbūḷho*, lit., “by the monk’s assembly”  
-[^5]: lit. “the Sambuddha”  
-[^6]: see above, n. to v.\[761\].  
+    *Senāsana* literally means “bed-and-chair” (or “bed and eating”)
+
+[^3]: or “king of kings”
+
+[^4]: *bhikkhusaṅghaparibbūḷho*, lit., “by the monk’s assembly”
+
+[^5]: lit. “the Sambuddha”
+
+[^6]: see above, n. to v.\[761\].
+
 [^7]: reading *kleso* (BJTS) for *keso* (“hair,” PTS).

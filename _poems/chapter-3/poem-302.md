@@ -20,7 +20,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2724\]
 
 Thus indeed Venerable Sabbagandhiya Thera spoke these verses.  
-The legend of Sabbagandhiya Thera is finished.  
-[^1]: “Every \[Good\] Scent” or “All-Perfumed”  
-[^2]: kṣatriyan  
+The legend of Sabbagandhiya Thera is finished.
+
+[^1]: “Every \[Good\] Scent” or “All-Perfumed”
+
+[^2]: kṣatriyan
+
 [^3]: “Good Cloth.” Cf. \#40

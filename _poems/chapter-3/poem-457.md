@@ -60,18 +60,26 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (12) \[4844\]
 
 Thus indeed Venerable Ekachattiya Thera spoke these verses.  
-The legend of Ekachattiya Thera is finished.  
+The legend of Ekachattiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “One Umbrella-er.” \#409 {412} above is the *apadāna* of a monk
-    bearing this same name.  
-[^3]: *kakkulānugatā mahī*  
-[^4]: *mahāvātā*  
+    bearing this same name.
+
+[^3]: *kakkulānugatā mahī*
+
+[^4]: *mahāvātā*
+
 [^5]: reading *sarirāsukhepanā* with BJTS (and PTS alt.,; see Cone,
     asu-1, s.v. for a discussion of this very passage, reading
-    *sarirassa-asu-khepana*) for PTS *sarirass’ ānukhepanā*  
+    *sarirassa-asu-khepana*) for PTS *sarirass’ ānukhepanā*
+
 [^6]: reading *vihanantaṃ* with BJTS for PTS *viharanti* (“they are
-    dwelling”)  
-[^7]: *carimo vattate bhavo*  
+    dwelling”)
+
+[^7]: *carimo vattate bhavo*
+
 [^8]: lit., “even today”

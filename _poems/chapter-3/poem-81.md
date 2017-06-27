@@ -46,8 +46,11 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (9) \[1505\]
 
 Thus indeed Venerable Timirapupphiya Thera spoke these verses.  
-The legend of Timirapupphiya Thera is finished.  
-[^1]: “Dark-Flower-er”  
+The legend of Timirapupphiya Thera is finished.
+
+[^1]: “Dark-Flower-er”
+
 [^2]: *nibbuto*, i.e., “he who has achieved nirvana will make others
-    achieve nirvana.”  
+    achieve nirvana.”
+
 [^3]: lit., “oppressing” “pressing,” “causing pain”

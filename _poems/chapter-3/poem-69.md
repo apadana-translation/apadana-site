@@ -30,5 +30,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1415\]
 
 Thus indeed Venerable Sumana Thera spoke these verses.  
-The legend of Sumana Thera is finished.  
+The legend of Sumana Thera is finished.
+
 [^1]: “Happy”

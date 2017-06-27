@@ -20,9 +20,13 @@ six special knowledges mastered:
 \[I have\] done what the Buddha taught! (4) \[2548\]
 
 Thus indeed Venerable Telamakkhiya Thera spoke these verses.  
-The legend of Telamakkhiya Thera is finished.  
-[^1]: “Oil-Smearer”  
-[^2]: lit., “reached nirvana”  
-[^3]: lit., “kṣatriyan”  
+The legend of Telamakkhiya Thera is finished.
+
+[^1]: “Oil-Smearer”
+
+[^2]: lit., “reached nirvana”
+
+[^3]: lit., “kṣatriyan”
+
 [^4]: “Having Lovely Skin,” used in D (iii.159) and J (v.215; vi.269)
     according to RD

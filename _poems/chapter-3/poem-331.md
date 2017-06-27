@@ -29,13 +29,17 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2936\]
 
 Thus indeed Venerable Gandhathūpiya Thera spoke these verses.  
-The legend of Gandhathūpiya Thera is finished.  
+The legend of Gandhathūpiya Thera is finished.
+
 [^1]: PTS reads *Gandhodakaº* despite its being atypically not the name
     of the first *apadāna* in the chapter. Especially given the doubt
     about the PTS mss. transmission of this part of the text (see
     below), I am inclined to follow BJTS in this instance, too,
-    supplying the expected chapter name.  
+    supplying the expected chapter name.
+
 [^2]: “Scented-Stupa-er.” Cf. \#95, with which there has obviously been
-    some conflation, it being nearly identitical.  
-[^3]: lit., “the Buddha”  
+    some conflation, it being nearly identitical.
+
+[^3]: lit., “the Buddha”
+
 [^4]: *indīvara,* Cassia fistula

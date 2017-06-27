@@ -20,7 +20,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2016\]
 
 Thus indeed Venerable Kakkārupūjaka Thera spoke these verses.  
-The legend of Kakkārupūjaka Thera is finished.  
-[^1]: “*Kakkāru-*Flower Donor.” *Kakkāru* is a type of celestial flower.  
-[^2]: lit., “did *pūjā* for”.  
+The legend of Kakkārupūjaka Thera is finished.
+
+[^1]: “*Kakkāru-*Flower Donor.” *Kakkāru* is a type of celestial flower.
+
+[^2]: lit., “did *pūjā* for”.
+
 [^3]: “Best of Beings”

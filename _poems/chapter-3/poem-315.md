@@ -30,6 +30,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2792\]
 
 Thus indeed Venerable Pupphâsaniya Thera spoke these verses.  
-The legend of Pupphâsaniya Thera is finished.  
-[^1]: “Flower-Seat-er”  
+The legend of Pupphâsaniya Thera is finished.
+
+[^1]: “Flower-Seat-er”
+
 [^2]: *sabbena tena kusalena*

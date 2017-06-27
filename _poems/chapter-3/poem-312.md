@@ -30,9 +30,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2776\]
 
 Thus indeed Venerable Bhojanadāyaka Thera spoke these verses.  
-The legend of Bhojanadāyaka Thera is finished.  
-[^1]: “Food Donor”  
-[^2]: = *sāla, shorea robusta*  
+The legend of Bhojanadāyaka Thera is finished.
+
+[^1]: “Food Donor”
+
+[^2]: = *sāla, shorea robusta*
+
 [^3]: *sobhañjana.* RD (sole citation J v. 405) says Hyperanthica
     moringa, but that designation seems to be known only here and in
     citations of this dictionary. The proper designation of the tree
@@ -46,14 +49,18 @@ The legend of Bhojanadāyaka Thera is finished.
     branches will bear fruit within a year of replanting, and it grows
     for the light, tall and lanky, such that it’s demise is often the
     result of its size, whether through breaking off or becoming a
-    nuisance)  
+    nuisance)
+
 [^4]: *indalaṭṭhi,* i.e., lightening (or the rainbow, in which case
     translating “\[painting\] the sky like Inda’s bow” would preserve
     the play in the original, which parallels this simile with the
     comparison to the *sal* branch or sprout \[also ºlaṭṭhi*\]* in the
     first line). Cone has an entry on *indalaṭṭhi*, based on Ap witness
     alone, which similarly leaves the ambiguity between rainbow and
-    lightening unresolved.  
-[^5]: *anumodi*  
-[^6]: lit., “in existence,” in the cycle of reincarnation, *bhave*  
+    lightening unresolved.
+
+[^5]: *anumodi*
+
+[^6]: lit., “in existence,” in the cycle of reincarnation, *bhave*
+
 [^7]: ”Light for the Friendless”

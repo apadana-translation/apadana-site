@@ -19,15 +19,20 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[3198\]
 
 Thus indeed Venerable Aṅkolapupphiya Thera spoke these verses.  
-The legend of Aṅkolapupphiya Thera is finished.  
+The legend of Aṅkolapupphiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “*Aṅkola-*Flower-er.” The *aṅkola* (Sinh. *rukaṅgana*; Alangium
     hexapetalum, a.k.a. sage-leaved alangium) is a flowering tree. Cf.
-    \#195, \#226.  
+    \#195, \#226.
+
 [^3]: a mountain in the Himalayas. DPPN says it is “generally identified
     with Kāmptanāthgiri in Bundelkhand, an isolated hill on the Paisunī
-    or Mandākinī River.”  
-[^4]: lit., “plucked”  
+    or Mandākinī River.”
+
+[^4]: lit., “plucked”
+
 [^5]: lit., “did *pūjā* to”

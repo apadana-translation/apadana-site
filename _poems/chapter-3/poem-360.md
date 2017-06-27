@@ -28,8 +28,10 @@ Kiŋsuka, ‘Raṇḍapupphiya,
 Supuṭi, Sajjhadāyaka,  
 Saraṇaŋ and Piṇḍapāta  
 \[make\] exactly forty verses.  
-The Saddasaññaka Chapter, the Thirty-Sixth  
+The Saddasaññaka Chapter, the Thirty-Sixth
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Alms Round-er”

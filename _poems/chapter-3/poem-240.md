@@ -23,8 +23,10 @@ Vedika and Vaṇṇakāra,
 Piyālam, Ambayāgada,  
 Jagatī and Vāsidāyi:  
 there are thirty verses plus eight.  
-The Udakāsanadāyi Chapter, the Twenty-Fourth  
-[^1]: “Razor-donor”  
+The Udakāsanadāyi Chapter, the Twenty-Fourth
+
+[^1]: “Razor-donor”
+
 [^2]: DPPN: the name given to the inhabitants of Mount Vepulla, then
     known as Pācinavamsa, near Rājagaha, in the time of Kakusandha
     Buddha. Their term of life was forty thousand years. S.ii.190.

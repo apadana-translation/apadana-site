@@ -65,13 +65,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (13) \[740\]
 
 Thus indeed Venerable Pilindavaccha Thera spoke these verses.  
-The legend of Pilindavaccha Thera is finished.  
+The legend of Pilindavaccha Thera is finished.
+
 [^1]: BJTS gives Pilindivaccha, which is also an alt reading in cty. As
     DPPN notes this may be a monk different from the famous
     Pilindavaccha of whom a much longer *apadāna* appears as \#388
-    {391}, below.  
-[^2]: i.e., *apsaras*  
-[^3]: lit., “kṣatriyan”.  
-[^4]: lit., “again”.  
+    {391}, below.
+
+[^2]: i.e., *apsaras*
+
+[^3]: lit., “kṣatriyan”.
+
+[^4]: lit., “again”.
+
 [^5]: presumably his foundational *pūjā* entailed rubbing scented
     ointment upon the stupa of Sumedha Buddha.

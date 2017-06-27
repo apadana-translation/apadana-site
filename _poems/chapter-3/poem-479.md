@@ -95,18 +95,26 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (19) \[5024\]
 
 Thus indeed Venerable Pānadhidāyaka Thera spoke these verses.  
-The legend of Pānadhidāyaka Thera is finished.  
+The legend of Pānadhidāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Sandal Donor,” taking *panidha* as *pavahanak* following BJTS
     Sinhala gloss. See above, \#212, for a different *apadāna* of a monk
-    with the same name.  
-[^3]: *pattikañ*  
-[^4]: *carudassanaŋ*  
+    with the same name.
+
+[^3]: *pattikañ*
+
+[^4]: *carudassanaŋ*
+
 [^5]: *nīharitvā,* taking out, throw away, driving out; “taking off?”
     Should we imagine that he is wearing, rather than carrying, the
-    shoes?  
-[^6]: lit., “ascend onto” “get into”  
-[^7]: lit., “recognizing \[that there would be\] speech of the Buddha”  
+    shoes?
+
+[^6]: lit., “ascend onto” “get into”
+
+[^7]: lit., “recognizing \[that there would be\] speech of the Buddha”
+
 [^8]: lit., “with,” “by”

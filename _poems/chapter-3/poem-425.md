@@ -50,31 +50,43 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (10) \[4538\]
 
 Thus indeed Venerable Koraṇḍapupphiya Thera spoke these verses.  
-The legend of Koraṇḍapupphiya Thera is finished.  
+The legend of Koraṇḍapupphiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Koraṇḍa-Flower-er”  
-[^3]: BJTS gloss: a hunter  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Koraṇḍa-Flower-er”
+
+[^3]: BJTS gloss: a hunter
+
 [^4]: lit., “by means of,” “through”. We might say “by birth” or “in the
-    family business”  
+    family business”
+
 [^5]: BJTS reads *pitumātumaten’ ahaṃ* (“with the consent of father and
     mother”) for PTS *pitupetāmahen’ ahaŋ.* I follow the latter reading
     here, noting that at \[2986\] these same two feet are repeated;
     there, BJTS agrees with PTS, leading me to suspect that in the
     present case BJTS’ mss. are corrupt. But both readings make the same
     point: the protagonist did his work as a hunter/animal killer as a
-    family-approved business, not behind his parents’ backs.  
+    family-approved business, not behind his parents’ backs.
+
 [^6]: reading BJTS *pasumārena* (lit., “by” or “through” killing wild
-    animals) for PTS *pararuhirena* (“through the blood of others”)  
-[^7]: *kusalaŋ*  
-[^8]: lit., “named”  
+    animals) for PTS *pararuhirena* (“through the blood of others”)
+
+[^7]: *kusalaŋ*
+
+[^8]: lit., “named”
+
 [^9]: Sinh. *kaṭukoraṇḍu,* Barberia prionitis *(Acanth.),* cf.
-    *koraṇḍaka, kuraṇḍaka,* a shrub and its flower, J. v.473 (RD)  
+    *koraṇḍaka, kuraṇḍaka,* a shrub and its flower, J. v.473 (RD)
+
 [^10]: this foot consists of two different words for” tree”:
     *dharaṇī-rūha* (“growing in the earth”) and *pādapa* (“drinking from
     the feet \[or roots\]”). Though awkward in English, I translate
     literally here rather than give the non-descriptive “tree, which was
-    a tree”.  
-[^11]: *sappabhāso,* “a shining beauty”  
+    a tree”.
+
+[^11]: *sappabhāso,* “a shining beauty”
+
 [^12]: lit., “doing *pūjā*”

@@ -21,13 +21,19 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2502\]
 
 Thus indeed Venerable Thomadāyaka Thera spoke these verses.  
-The legend of Thomadāyaka Thera is finished.  
-[^1]: “Praise-Giver”  
+The legend of Thomadāyaka Thera is finished.
+
+[^1]: “Praise-Giver”
+
 [^2]: lit., “being standing,” *ṭhito santo*, i.e., “while I was
-    standing”  
-[^3]: *dhammaŋ*  
-[^4]: *mudito* not *muditā*  
-[^5]: lit., “this speech” “this word”  
+    standing”
+
+[^3]: *dhammaŋ*
+
+[^4]: *mudito* not *muditā*
+
+[^5]: lit., “this speech” “this word”
+
 [^6]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of
     *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred
     horse”

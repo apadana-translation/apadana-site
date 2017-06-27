@@ -43,17 +43,24 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (9) \[4746\]
 
 Thus indeed Venerable Bhallāṭakadāyaka Thera spoke these verses.  
-The legend of Bhallāṭakadāyaka Thera is finished.  
+The legend of Bhallāṭakadāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Markingnut Fruit-er”  
-[^3]: *tiṇattharaŋ*  
-[^4]: lit., “going”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Markingnut Fruit-er”
+
+[^3]: *tiṇattharaŋ*
+
+[^4]: lit., “going”
+
 [^5]: *pavanaº.* Despite RD’s qualms (*pavana*, s.v.) I follow the
     tradition in reading this as “forest, woods” rather than “the side
-    of a mountain.” Note BJTS alt. *vipinaº.*  
+    of a mountain.” Note BJTS alt. *vipinaº.*
+
 [^6]: *paṇṇasanthare*, presumably the “rug made of grass” mentioned in
-    v. 2  
+    v. 2
+
 [^7]: *bhallātakaŋ bhallī, badulla* = semecarpus anacardium, Sinh.
     *badulu*

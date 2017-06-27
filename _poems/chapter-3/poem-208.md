@@ -25,9 +25,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2308\]
 
 Thus indeed Venerable Koraṇḍapupphiya Thera spoke these verses.  
-The legend of Koraṇḍapupphiya Thera is finished.  
-[^1]: “*Koraṇḍa*-Flower-er”  
+The legend of Koraṇḍapupphiya Thera is finished.
+
+[^1]: “*Koraṇḍa*-Flower-er”
+
 [^2]: Sinh. *kaṭukoraṇḍu,* Barberia prionitis *(Acanth.),* cf.
-    *koraṇḍaka, kuraṇḍaka,* a shrub and its flower, J. v.473 (RD)  
-[^3]: lit., “it was offered by me”  
+    *koraṇḍaka, kuraṇḍaka,* a shrub and its flower, J. v.473 (RD)
+
+[^3]: lit., “it was offered by me”
+
 [^4]: “Free of Dirt (or impurity)”

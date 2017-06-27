@@ -81,32 +81,50 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (17) \[4616\]
 
 Thus indeed Venerable Sovaṇṇakiṅkhaniya Thera spoke these verses.  
-The legend of Sovaṇṇakiṅkhaniya Thera is finished.  
+The legend of Sovaṇṇakiṅkhaniya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Gold *Kiṅkhani* Flower-er.” BJTS spells the name
-    “Soṇṇakiṅkhaṇiya”  
-[^3]: *tapokammaŋ apassito.*  
+    “Soṇṇakiṅkhaṇiya”
+
+[^3]: *tapokammaŋ apassito.*
+
 [^4]: *paramena,* “superior” “best.” BJTS Sinhala gloss: *däḍi,*
-    “strong”  
+    “strong”
+
 [^5]: reading *udaggamānaso* (“thrilled mind”) with BJTS for PTS
-    *uddaggamānaso* (“a mind on top of water”)  
-[^6]: or “face to face with”  
-[^7]: lit., “being gone to”  
+    *uddaggamānaso* (“a mind on top of water”)
+
+[^6]: or “face to face with”
+
+[^7]: lit., “being gone to”
+
 [^8]: *samalaṇkatā,* lit., “well-ornamented,” “together with their
-    ornaments,” “all decked out”  
-[^9]: *bheriyo*, “kettle-drums,” BJTS Sinh. gloss *gäṭabera*  
+    ornaments,” “all decked out”
+
+[^9]: *bheriyo*, “kettle-drums,” BJTS Sinh. gloss *gäṭabera*
+
 [^10]: *paṇavāni,* “a kind of small drum or cymbal,” BJTS Sinh. gloss
-    *paṇā* \[read *panā*\] *bera*  
-[^11]: *deṇḍimā,* “a kind of kettle-drum”  
+    *paṇā* \[read *panā*\] *bera*
+
+[^11]: *deṇḍimā,* “a kind of kettle-drum”
+
 [^12]: *vaggu* \[BJTS *vagguṃ*\] *vadati dundubhi* (BJTS, “speaking
-    beautifully the sound of drums”)  
-[^13]: see n. to \#1, v. 25 \[164\]. Or glossary?  
+    beautifully the sound of drums”)
+
+[^13]: see n. to \#1, v. 25 \[164\]. Or glossary?
+
 [^14]: i.e., showing their rut in their eyes, ears, and genitals. See
-    cty, p. 288.  
-[^15]: lit., “are doing attendance”  
+    cty, p. 288.
+
+[^15]: lit., “are doing attendance”
+
 [^16]: *balakāye gaje c’eva,* lit., “and also army elephants” or “also
-    elephants army troops” or “also cavalry elephants”  
-[^17]: lit., “a lack...does not exist for me”  
+    elephants army troops” or “also cavalry elephants”
+
+[^17]: lit., “a lack...does not exist for me”
+
 [^18]: BJTS reads *ºkiṅkhaṇiº*

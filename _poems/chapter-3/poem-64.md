@@ -45,9 +45,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (9) \[1376\]
 
 Thus indeed Venerable Parappasādaka Thera spoke these verses.  
-The legend of Parappasādaka Thera is finished.  
-[^1]: “Other-Pleaser”  
+The legend of Parappasādaka Thera is finished.
+
+[^1]: “Other-Pleaser”
+
 [^2]: *jhānaṃ*, translated elsewhere as “altered states” and by
-    “trance”.  
-[^3]: “By Whom”  
+    “trance”.
+
+[^3]: “By Whom”
+
 [^4]: “Risen Up”

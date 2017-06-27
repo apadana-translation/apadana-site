@@ -45,6 +45,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (9) \[1741\]
 
 Thus indeed Venerable Buddhasaññaka Thera spoke these verses.  
-The legend of Buddhasaññaka Thera is finished.  
-[^1]: “Buddha-Perceiver”.  
+The legend of Buddhasaññaka Thera is finished.
+
+[^1]: “Buddha-Perceiver”.
+
 [^2]: PTS reads Vessavaṇṇa.

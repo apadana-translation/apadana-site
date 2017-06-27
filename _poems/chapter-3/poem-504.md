@@ -30,10 +30,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[5419\]
 
 Thus indeed Venerable Avaṭaphaliya Thera spoke these verses.  
-The legend of Avaṭaphaliya Thera is finished.  
+The legend of Avaṭaphaliya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: here BJTS and PTS agree on the spelling*.* The meaning is
     “Stemless Fruit-er.” This same *apadāna* (with only very slight
     differences) appears above, titled *Avaṇṭaphaladāyaka*-*apadāna*, as
@@ -49,5 +51,6 @@ The legend of Avaṭaphaliya Thera is finished.
     historical monk Vajjīputta. Note Lilley’s note on PTS colophonic
     title here, not only that its own alt. S-1 reads *Avaṇṭaº* but also
     “*The following* apadāna *is missing in G., and the* Thera’s *name
-    is attached to this* apadāna*.” *  
+    is attached to this* apadāna*.” *
+
 [^3]: *sataraŋsi,* i.e., “the Sun”

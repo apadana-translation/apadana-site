@@ -144,37 +144,51 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (29) \[3705\]
 
 Thus indeed Venerable Sabbakittika Thera spoke these verses.  
-The legend of Sabbakittika Thera is finished.  
+The legend of Sabbakittika Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Every-Praiser”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Every-Praiser”
+
 [^3]: I have translated the final foot of (3) \[3679\] as the first line
     of this poem: “I saw the Leader of the World”. Placing the verb at
     the end of the string of similes works better in Pāli than it does
     in English, when presenting a string of descriptors as long as this
-    one.  
+    one.
+
 [^4]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum
     acerifolium, produces a brilliant mass of yellow flowers; Engl.
     a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now
-    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.  
+    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
+
 [^5]: *osadhī*. RD (s.v.) points out that all we really know about this
     star is that it was particularly bright, leading Childers to
-    translate it as “Venus” and others as the morning star.  
-[^6]: *ñāṇālokaŋ pakāsentaŋ*  
-[^7]: *maddantaŋ titthiye gaṇe*  
-[^8]: *chindantaŋ, sabbasaŋsayaŋ,* lit., “cutting off all doubt”  
+    translate it as “Venus” and others as the morning star.
+
+[^6]: *ñāṇālokaŋ pakāsentaŋ*
+
+[^7]: *maddantaŋ titthiye gaṇe*
+
+[^8]: *chindantaŋ, sabbasaŋsayaŋ,* lit., “cutting off all doubt”
+
 [^9]: reading *gajjantaŋ* with BJTS for PTS *lasantaŋ,* “playing” or
-    “sporting,” also “shining” or “sounding forth”  
+    “sporting,” also “shining” or “sounding forth”
+
 [^10]: I have translated (3d) = \[3679d\] as the first line of this
     poem: “I saw the Leader of the World”. Placing the verb at the end
     of the string of epithets works better in Pāli than it does in
     English, when presenting a string of descriptors as long as this
-    one.  
-[^11]: lit., “having taken,” *gahetvāna*  
+    one.
+
+[^11]: lit., “having taken,” *gahetvāna*
+
 [^12]: *apatthariŋ.* BJTS reads *avatthariṃ* (and cf. PTS alt.
-    *avattari*), with the same meaning.  
-[^13]: i.e., the Buddha’s, following the BJTS SInhala gloss.  
+    *avattari*), with the same meaning.
+
+[^13]: i.e., the Buddha’s, following the BJTS SInhala gloss.
+
 [^14]: reading *kāḷānusāriyaṃ* with BJTS for PTS *kāḷāṇusārikaŋ.* RD
     (s.v.) takes *Kāḷa+anusāriyaṃ* fr. *kala 1,* “black, (pol- ished?)
     Anusāri ("a kind of dark, fragrant sandal wood" Vin. Texts ii.51)
@@ -189,86 +203,141 @@ The legend of Sabbakittika Thera is finished.
     whichever type (in modern South Asia it usually is indeed a variety
     of sandalwood), into a paste, which is kept on hand for this
     purpose, i.e., for smearing (on the forehead) of a person in order
-    to bless him or her.  
-[^15]: *anulimpin,* “smeared on”  
-[^16]: lit., “the Sambuddha”  
-[^17]: *santhaviŋ*  
-[^18]: *oghatiṇṇa*  
-[^19]: *paratitthiye maddase*  
+    to bless him or her.
+
+[^15]: *anulimpin,* “smeared on”
+
+[^16]: lit., “the Sambuddha”
+
+[^17]: *santhaviŋ*
+
+[^18]: *oghatiṇṇa*
+
+[^19]: *paratitthiye maddase*
+
 [^20]: reading *jitasaṅgamo* with BJTS for PTS *jitasaṅgame.* I
     following BJTS Sinhala gloss (*dinana lada saṅgrāma äti,* “he who
     has meetings where he wins”), which seems to take the Pāli as “he
     whose meetings result in defeating \[others\],” but could also mean,
     “He who has meetings with the defeated,” “he by whom meetings are
     defeated,” or, drawing on the “bull” imagery, “he who wins in sexual
-    intercourse”  
+    intercourse”
+
 [^21]: lit., “in just that way,” *tath’ eva*, a filler which translated
-    literally does not add to the clarity of the metaphor.  
+    literally does not add to the clarity of the metaphor.
+
 [^22]: BJTS reads *ºjālena,* (instr.) “by a net,” but I think the PTS
     reading *ºjāle* (loc.) makes better grammatical sense here, the
-    first two feet forming an extended locative absolute construction.  
+    first two feet forming an extended locative absolute construction.
+
 [^23]: *sampatānite*, glossed by BJTS as *atuḷa kalhi*, “when it has
-    been spread”  
-[^24]: lit., “living things,” *pāṇā*; BJTS glosses ”(fish)” (*matsyayō*)  
-[^25]: *antojālagatā,* lit., “gone to inside the net”  
+    been spread”
+
+[^24]: lit., “living things,” *pāṇā*; BJTS glosses ”(fish)” (*matsyayō*)
+
+[^25]: *antojālagatā,* lit., “gone to inside the net”
+
 [^26]: reading *puthupāsaṇḍanissita* with BJTS for PTS *phuṭā
-    saccavinissitā* (“are numerous and ungrounded in truth”?)  
-[^27]: *mārisa*, in the voc.  
-[^28]: *anto ñāṇavare tuyhaŋ*  
-[^29]: *patiṭṭhā*  
-[^30]: *nātho*  
-[^31]: *saraṇo*  
-[^32]: *parāyaṇo,* = final end, support, refuge  
-[^33]: *ekavīro*,  
-[^34]: *asādiso*  
+    saccavinissitā* (“are numerous and ungrounded in truth”?)
+
+[^27]: *mārisa*, in the voc.
+
+[^28]: *anto ñāṇavare tuyhaŋ*
+
+[^29]: *patiṭṭhā*
+
+[^30]: *nātho*
+
+[^31]: *saraṇo*
+
+[^32]: *parāyaṇo,* = final end, support, refuge
+
+[^33]: *ekavīro*,
+
+[^34]: *asādiso*
+
 [^35]: reading *kāruṇāmettāsañcayo* with BJTS for PTS
     *mettākāruṇādisañcayo,* “heap of love, compassion, etc.” (which
-    breaks meter).  
-[^36]: *susīlo,* lit., “one who has good moral discipline”  
-[^37]: *asamo*  
-[^38]: *santo*  
-[^39]: *vasī*  
-[^40]: *tādī*  
+    breaks meter).
+
+[^36]: *susīlo,* lit., “one who has good moral discipline”
+
+[^37]: *asamo*
+
+[^38]: *santo*
+
+[^39]: *vasī*
+
+[^40]: *tādī*
+
 [^41]: *jitāñjaso*, following BJTS gloss. I read this foot *vasī tadī
-    jitāñjaso* with PTS *vasitavijitañjayo*  
-[^42]: *dhīro*  
-[^43]: *vigatasammoho*  
-[^44]: *anejo*  
-[^45]: *akathaŋ kathī.* BJTS reads this as a compound, *akathaṅkathī*  
-[^46]: *vusito*  
-[^47]: *vantadoso,* lit., “who has vomited up hate”  
-[^48]: *nimmalo*  
-[^49]: *payato*  
-[^50]: reading *sucī* with BJTS for PTS *suci*  
-[^51]: reading *sangâtigo* with BJTS for PTS *sangh’âtīto*  
+    jitāñjaso* with PTS *vasitavijitañjayo*
+
+[^42]: *dhīro*
+
+[^43]: *vigatasammoho*
+
+[^44]: *anejo*
+
+[^45]: *akathaŋ kathī.* BJTS reads this as a compound, *akathaṅkathī*
+
+[^46]: *vusito*
+
+[^47]: *vantadoso,* lit., “who has vomited up hate”
+
+[^48]: *nimmalo*
+
+[^49]: *payato*
+
+[^50]: reading *sucī* with BJTS for PTS *suci*
+
+[^51]: reading *sangâtigo* with BJTS for PTS *sangh’âtīto*
+
 [^52]: reading *hatamado* with BJTS for PTS *gatamado* (“Gone into
-    Conceit” “Intoxicated One”  
+    Conceit” “Intoxicated One”
+
 [^53]: *tevijjo,* “possessor of the three higher knowledges”
     (recognition of former births, insight into the future destiny of
     all being, recognition of the origin of misery and of the path to
     its removal), that is, an *arahant*. The term is also used in a
     non-Buddhist (Brahmanical) sense, “master of the three Vedas,” but
-    here the Buddhist interpretation would seem most appropriate.  
-[^54]: *tibhavantago*  
-[^55]: *sīmâtigo*  
-[^56]: *dhammagarū*  
-[^57]: *katattho,* lit., “he whose goal is done”  
-[^58]: *hitadhammato*  
+    here the Buddhist interpretation would seem most appropriate.
+
+[^54]: *tibhavantago*
+
+[^55]: *sīmâtigo*
+
+[^56]: *dhammagarū*
+
+[^57]: *katattho,* lit., “he whose goal is done”
+
+[^58]: *hitadhammato*
+
 [^59]: *tārako,* elsewhere in this translation this epithet is
-    translated “Crosser Over”  
-[^60]: *assāsa* (“breathing easily”) + *kārako*  
-[^61]: *nidhīva*  
-[^62]: *asambhito*  
-[^63]: reading *dappito* with BJTS for PTS *dammito*, “Tamed”  
-[^64]: *pāpakammaŋ*  
-[^65]: *nibbāyissati*  
+    translated “Crosser Over”
+
+[^60]: *assāsa* (“breathing easily”) + *kārako*
+
+[^61]: *nidhīva*
+
+[^62]: *asambhito*
+
+[^63]: reading *dappito* with BJTS for PTS *dammito*, “Tamed”
+
+[^64]: *pāpakammaŋ*
+
+[^65]: *nibbāyissati*
+
 [^66]: in the BJTS reading which guides me here, the last two feet of
-    this verse have an implied, 3rd person plural subject.  
+    this verse have an implied, 3rd person plural subject.
+
 [^67]: reading *aññātañca vijāneyyuṃ* with BJTS for PTS *aññātañca
-    vijāneyyaŋ* (“I should learn”)  
+    vijāneyyaŋ* (“I should learn”)
+
 [^68]: reading *phuseyyuṃ amataṃ padaṃ* for PTS *phasseyyam amataŋ
     padaŋ* (“I should touch the deathless path”). *Phassati* is related
     to *phuseti* and in fact can stand for it, but the latter carries
     the applied meaning “reach” or “achieve” (an exalted religious
-    state), and the first person makes no sense in context.  
+    state), and the first person makes no sense in context.
+
 [^69]: here too BJTS agrees with the PTS variant reading of this foot

@@ -30,11 +30,16 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2786\]
 
 Thus indeed Venerable Sattapadumiya Thera spoke these verses.  
-The legend of Sattapadumiya Thera is finished.  
+The legend of Sattapadumiya Thera is finished.
+
 [^1]: “Seven Lotus-er.” This spelling follows BJTS; PTS reads
     *Sattapaduminya,* “Seven Lotus Ponds,” which the context does not
-    support.  
-[^2]: "Hunter," also the name of a low caste  
-[^3]: lit., “Joy \[or laughter\] came into being for me”  
-[^4]: lit., “excellent water-born flowers”  
+    support.
+
+[^2]: "Hunter," also the name of a low caste
+
+[^3]: lit., “Joy \[or laughter\] came into being for me”
+
+[^4]: lit., “excellent water-born flowers”
+
 [^5]: “Excellent Trees”

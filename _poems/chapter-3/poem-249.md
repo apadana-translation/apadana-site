@@ -20,8 +20,11 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2494\]
 
 Thus indeed Venerable Bimbijāliya Thera spoke these verses.  
-The legend of Bimbijāliya Thera is finished.  
-[^1]: “*Bimbijāla*-Flower-er”  
+The legend of Bimbijāliya Thera is finished.
+
+[^1]: “*Bimbijāla*-Flower-er”
+
 [^2]: or *Bimbajāla*, a flowering tree, Sinh. *rat karavū,* Phyllanthus
-    indicus (*Euphorb.*), the Bodhi tree of Dhammadassi Buddha  
+    indicus (*Euphorb.*), the Bodhi tree of Dhammadassi Buddha
+
 [^3]: “Lotus Pollen-er” cf. RD *kiñjakkha-kesara* found in VvA

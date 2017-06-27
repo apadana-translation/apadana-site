@@ -125,19 +125,27 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (25) \[214\]
 
 Thus indeed Bhikkhunī Pañcadīpikā spoke these verses.  
-The legend of Pañcadīpikā Therī is finished.  
+The legend of Pañcadīpikā Therī is finished.
+
 [^1]: “Five-Lamp-er.” With some very minor changes, this is identical to
     *Therī-apadāna* \#9, above, ascribed to a nun of the same name. I
     have not repeated all the footnotes here, but have altered the
     translation slightly to indicate the minor differences between the
     two texts, and have retained footnotes indicating differences in the
-    BJTS version, as appropriate.  
-[^2]: lit., “it was”.  
-[^3]: “Five Lamps”  
-[^4]: lit., “as far as \[its extent\]”.  
-[^5]: BJTS reads “good rebirths and bad rebirths”.  
+    BJTS version, as appropriate.
+
+[^2]: lit., “it was”.
+
+[^3]: “Five Lamps”
+
+[^4]: lit., “as far as \[its extent\]”.
+
+[^5]: BJTS reads “good rebirths and bad rebirths”.
+
 [^6]: both PTS and BJTS read *sūtikāgehe* for *sūtighare* in the
     parallel verse in \#9, but I take the meaning to be the same so have
-    not altered the translation.  
-[^7]: or “pavilion”  
+    not altered the translation.
+
+[^7]: or “pavilion”
+
 [^8]: lit., “in empty buildings”

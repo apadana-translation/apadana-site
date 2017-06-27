@@ -25,11 +25,15 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2525\]
 
 Thus indeed Venerable Mañjaripūjaka Thera spoke these verses.  
-The legend of Mañjaripūjaka Thera is finished.  
-[^1]: “Offerer of a Bunch”  
+The legend of Mañjaripūjaka Thera is finished.
+
+[^1]: “Offerer of a Bunch”
+
 [^2]: *mañjari* is a bunch, cluster, stem with branches; the causative
     *karitvā* suggests human agency in constructing it, which suggests
     to me a grouping of flowers, i.e., a bouquet or perhaps a wreath or
-    other ornament.  
-[^3]: lit., “entered into”  
+    other ornament.
+
+[^3]: lit., “entered into”
+
 [^4]: fr. *joti,* “Star” or “Light” or “Splendour” or “Glory”

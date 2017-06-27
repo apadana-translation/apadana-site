@@ -25,16 +25,21 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2328\]
 
 Thus indeed Venerable Pānadhidāyaka Thera spoke these verses.  
-The legend of Pānadhidāyaka Thera is finished  
+The legend of Pānadhidāyaka Thera is finished
+
 [^1]: “Sandal Donor,” taking *panidha* as *pavahanak* following BJTS
     Sinhala gloss. Cf. below, \#476 {479} for a different *apadāna* of a
-    monk with the same name  
+    monk with the same name
+
 [^2]: This, and the following two epithets are in the vocative case,
     addressing \[presumably Gotama\] Buddha directly. This is one of
     several instances of such use of the vocative which indicate that
     the *apadānas* were believed to have been spoken in the Buddha’s own
     presence (and time), even though some schools of reciters denied
-    that implication. See introduction, link xxx  
-[^3]: lit., “in the seventy-seventh aeon”.  
-[^4]: lit., “kṣatriyans”  
+    that implication. See introduction, link xxx
+
+[^3]: lit., “in the seventy-seventh aeon”.
+
+[^4]: lit., “kṣatriyans”
+
 [^5]: “Good Vehicles”

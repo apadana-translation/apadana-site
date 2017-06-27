@@ -25,14 +25,17 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2066\]
 
 Thus indeed Venerable Khajjakadāyaka Thera spoke these verses.  
-The legend of Khajjakadāyaka Thera is finished.  
+The legend of Khajjakadāyaka Thera is finished.
+
 [^1]: “Sweet-Meat Giver”. *Khajjaka* (Sinhala *khādya, rasa kävili*)
     refers to the range of sweets (in contemporary Sri Lanka, typically
     made with coconut and palm sugar or honey) which are prepared for
     festivals, parties and other special occasions, and which are
     allowed to monks with their afternoon tea (they do not take an
     actual evening meal, so these sweets are often the sustenance for
-    scrupulous monks in the evening).  
+    scrupulous monks in the evening).
+
 [^2]: lit., “pleasure-doing,” one who acts for the sake of pleasure,
-    *kāmakāri.*  
+    *kāmakāri.*
+
 [^3]: “Same as Indra \[king of the gods\]”.

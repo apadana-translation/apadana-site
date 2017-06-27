@@ -60,24 +60,36 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (12) \[4384\]
 
 Thus indeed Venerable Madhumaŋsadāyaka Thera spoke these verses.  
-The legend of Madhumaŋsadāyaka Thera is finished.  
+The legend of Madhumaŋsadāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Honey-Meat-Donor”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Honey-Meat-Donor”
+
 [^3]: *sūkariko,* Cty: *sūkaramaṃsaṃ vikkiṇitvā jīvitaṃ kappento,*
-    “earning a living by selling hog-flesh”  
+    “earning a living by selling hog-flesh”
+
 [^4]: *ukkoṭakaŋ randhayitvā,* following the cty:
     *pihaka-papphāsa-maṃsaṃ pacitvā.* BJTS gloss: *kävatū papumas pisa,*
     ‘having cooked the liver and heart meat.” The intent is clearly
-    “cooking the pig innards” or “cooking the pluck”  
+    “cooking the pig innards” or “cooking the pluck”
+
 [^5]: reading *madhu maṃsamhi okiriŋ* with BJTS (and PTS alt., and cty.)
-    for PTS: *madhusappimhi ākiriŋ,* “I sprinkled honey on the ghee”  
-[^6]: *sannipātam ahaŋ gantvā*  
+    for PTS: *madhusappimhi ākiriŋ,* “I sprinkled honey on the ghee”
+
+[^6]: *sannipātam ahaŋ gantvā*
+
 [^7]: reading *niyyādesi* with BJTS for PTS *niyyātesi.* BJTS Sinhala
-    gloss: *maṭa pin dunnē ya*  
-[^8]: *bhutvā,* lit., “becoming”  
-[^9]: *dve sampattiyo,* i.e., birth as a human and birth as a god  
-[^10]: *carimo vattate bhavo*  
-[^11]: lit., “is,” with “food-and-drink” being taken as a singular noun.  
+    gloss: *maṭa pin dunnē ya*
+
+[^8]: *bhutvā,* lit., “becoming”
+
+[^9]: *dve sampattiyo,* i.e., birth as a human and birth as a god
+
+[^10]: *carimo vattate bhavo*
+
+[^11]: lit., “is,” with “food-and-drink” being taken as a singular noun.
+
 [^12]: or “free of the outflows,” “undefiled,” *anāsavo*

@@ -20,6 +20,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2780\]
 
 Thus indeed Venerable Gatasaññaka Thera spoke these verses.  
-The legend of Gatasaññaka Thera is finished.  
-[^1]: “Perceived \[Buddha\] Gone”  
+The legend of Gatasaññaka Thera is finished.
+
+[^1]: “Perceived \[Buddha\] Gone”
+
 [^2]: lit., “going on a journey to the three-fold gods”

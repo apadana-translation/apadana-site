@@ -25,7 +25,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2081\]
 
 Thus indeed Venerable Sappidāyaka Thera spoke these verses.  
-The legend of Sappidāyaka Thera is finished.  
-[^1]: “Ghee-Donor”  
-[^2]: lit., “ghee-oil”  
+The legend of Sappidāyaka Thera is finished.
+
+[^1]: “Ghee-Donor”
+
+[^2]: lit., “ghee-oil”
+
 [^3]: “Same as Water”

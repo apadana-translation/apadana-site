@@ -120,27 +120,44 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (24) \[881\]
 
 Thus indeed Bhikkhunī Soṇā spoke these verses.  
-The legend of Soṇā Therī is finished.  
+The legend of Soṇā Therī is finished.
+
 [^1]: “Dog,” or a kind of tree, Bodhi Tree of Paduma and Nārada Buddhas,
     according to BV. An historical nun, remembered as foremost among
-    those who make energetic effort.  
+    those who make energetic effort.
+
 [^2]: reaidng *pūjitā* with BJTS (and PTS alt.) for PTS *sajjitā,* which
-    however approximates the same meaning.  
-[^3]: *munivaraŋ*  
-[^4]: or “saluting”: *abhivādiya*  
-[^5]: or “when I had attained puberty:” *yadā ca yobbanupetā*  
-[^6]: lit., “I gave birth to”  
-[^7]: lit., “of”  
-[^8]: *mayhaŋ akāmāya,* lit., “with my disliking \[of it\]  
-[^9]: *devadevassa*, lit., “of the God of Gods” or “the Gods’ God’s”  
-[^10]: or “honored,” “being placed in front of”  
-[^11]: *dasaputta°,* lit., “by the ten sons”  
+    however approximates the same meaning.
+
+[^3]: *munivaraŋ*
+
+[^4]: or “saluting”: *abhivādiya*
+
+[^5]: or “when I had attained puberty:” *yadā ca yobbanupetā*
+
+[^6]: lit., “I gave birth to”
+
+[^7]: lit., “of”
+
+[^8]: *mayhaŋ akāmāya,* lit., “with my disliking \[of it\]
+
+[^9]: *devadevassa*, lit., “of the God of Gods” or “the Gods’ God’s”
+
+[^10]: or “honored,” “being placed in front of”
+
+[^11]: *dasaputta°,* lit., “by the ten sons”
+
 [^12]: or “I’m fed up with this existence:” *jīvitenâlam atthu me,*
-    lit., “Let it be enough with life for me”  
-[^13]: *jīnāya*, BJTS reads *cattāya* (with much the same meaning)  
-[^14]: reading *sampatto* with BJTS for PTS *pasuto* (“pursuing”)  
-[^15]: *kumbhiyā culle,* lit., “into a small *kumbhi-*pot”  
+    lit., “Let it be enough with life for me”
+
+[^13]: *jīnāya*, BJTS reads *cattāya* (with much the same meaning)
+
+[^14]: reading *sampatto* with BJTS for PTS *pasuto* (“pursuing”)
+
+[^15]: *kumbhiyā culle,* lit., “into a small *kumbhi-*pot”
+
 [^16]: *khandhe,* lit., “the \[five\] heaps” or aggregates that make up
     personal being, the constituent elements of the “I” trapped in
-    *saṃsāra. *  
+    *saṃsāra. *
+
 [^17]: lit., “on the fire element”

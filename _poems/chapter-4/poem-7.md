@@ -55,8 +55,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (11) \[70\]
 
 Thus indeed Bhikkhunī Kaṭacchubhikkhadāyikā spoke these verses.  
-The legend of Kaṭacchubhikkhadāyikā Therī is finished.  
-[^1]: “Spoonful of Begged-for-Food Donor”  
-[^2]: lit., “made”  
-[^3]: lit., “having nothing”.  
+The legend of Kaṭacchubhikkhadāyikā Therī is finished.
+
+[^1]: “Spoonful of Begged-for-Food Donor”
+
+[^2]: lit., “made”
+
+[^3]: lit., “having nothing”.
+
 [^4]: lit., “sacrificial attainment,” *yāgasampadā.*

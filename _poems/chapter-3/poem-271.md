@@ -21,11 +21,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2585\]
 
 Thus indeed Venerable Suvaṇṇabimbohaniya Thera spoke these verses.  
-The legend of Suvaṇṇabimbohaniya Thera is finished.  
+The legend of Suvaṇṇabimbohaniya Thera is finished.
+
 [^1]: “Gold-Pillow-er”. The term (properly *bimbohana*) derives from the
     shape of the fruit of the *Bimbijala* tree, Momordica monadelpha,
     Bodhi tree of Dhammadassi Buddha. While PTS uses this spelling in
     the colophon, and BJTS and PTS alternative use it here, PTS gives
-    *Suvaṇṇabibbohaniya,* presumably a typo.  
-[^2]: kṣatriyan  
+    *Suvaṇṇabibbohaniya,* presumably a typo.
+
+[^2]: kṣatriyan
+
 [^3]: “Unique” or “Unmatched”

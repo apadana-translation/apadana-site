@@ -30,11 +30,17 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1196\]
 
 Thus indeed Venerable Pañcahatthiya Thera spoke these verses.  
-The legend of Pañcahatthiya Thera is finished.  
-[^1]: “Five Handfuls”  
+The legend of Pañcahatthiya Thera is finished.
+
+[^1]: “Five Handfuls”
+
 [^2]: reading *okhitta-cakkhu* (BJTS, cty) for *khitta-cakkhu* (“thrown
-    eyes,” PTS).  
-[^3]: reading *ahamsu* (BJTS) for *akāsi* (PTS)  
-[^4]: BJTS gloss: *mudun malkaḍa*  
-[^5]: *saŋsāviŋsu* fr. *saṃsāveti,* to flow together to  
+    eyes,” PTS).
+
+[^3]: reading *ahamsu* (BJTS) for *akāsi* (PTS)
+
+[^4]: BJTS gloss: *mudun malkaḍa*
+
+[^5]: *saŋsāviŋsu* fr. *saṃsāveti,* to flow together to
+
 [^6]: “\[One\] Handful”

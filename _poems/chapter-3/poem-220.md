@@ -28,12 +28,19 @@ Saṇṭhita and Tālavaṇṭī,
 likewise Akkantasaññaka;  
 Sappi and Pāpanivārī,  
 \[make\] four plus fifty verses \[here\].  
-The Hatthi Chapter, the Twenty-Second  
-[^1]: “Sin-Obstructer”  
+The Hatthi Chapter, the Twenty-Second
+
+[^1]: “Sin-Obstructer”
+
 [^2]: reading *naḷakehi* with BJTS (and PTS alternative reading) for PTS
-    *nalakehi* .  
-[^3]: *pāpaŋ*  
-[^4]: *kusala*  
-[^5]: lit., “for the sake of the destruction of defilements”  
-[^6]: lit., “I exerted \[myself\] in the Teacher’s dispensation”  
+    *nalakehi* .
+
+[^3]: *pāpaŋ*
+
+[^4]: *kusala*
+
+[^5]: lit., “for the sake of the destruction of defilements”
+
+[^6]: lit., “I exerted \[myself\] in the Teacher’s dispensation”
+
 [^7]: “God (or King) of Fire”

@@ -46,14 +46,22 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (9) \[1322\]
 
 Thus indeed Venerable Dhajadāyaka Thera spoke these verses.  
-The legend of Dhajadāyaka is finished.  
-[^1]: “Flag-Giver”  
-[^2]: reading *pādaputtame* wth BJTS for PTS *pādamuttame*  
-[^3]: BJTS agrees with PTS in presenting this as a six-footed verse.  
+The legend of Dhajadāyaka is finished.
+
+[^1]: “Flag-Giver”
+
+[^2]: reading *pādaputtame* wth BJTS for PTS *pādamuttame*
+
+[^3]: BJTS agrees with PTS in presenting this as a six-footed verse.
+
 [^4]: BJTS agrees with PTS in presenting vv. (4-5) \[1317-1318\] as
     containing a total of six feet, but disagree on whether the first
-    (PTS) or the second (BJTS) of these verses is the six-footed one  
-[^5]: “Risen Up”.  
-[^6]: *upasanto*  
-[^7]: *nirūpadhi*  
+    (PTS) or the second (BJTS) of these verses is the six-footed one
+
+[^5]: “Risen Up”.
+
+[^6]: *upasanto*
+
+[^7]: *nirūpadhi*
+
 [^8]: lit., “the kṣatriyan”

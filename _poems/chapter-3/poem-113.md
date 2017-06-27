@@ -55,14 +55,21 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (11) \[1706\]
 
 Thus indeed Venerable Saraṇāgamaniya Thera spoke these verses.  
-The legend of Saraṇāgamaniya Thera is finished.  
-[^1]: “Refuge-Goer,” cf. \#23, \#298, \#356{359}  
+The legend of Saraṇāgamaniya Thera is finished.
+
+[^1]: “Refuge-Goer,” cf. \#23, \#298, \#356{359}
+
 [^2]: the wonderfully-ambiguous term *nāga* could refer to an elephant,
-    a cobra, a deity, the Buddha or a king, among many other things.  
-[^3]: lit., “at the head of a battle”  
-[^4]: *yakkha*  
-[^5]: reading *senāyo vimhitā* (BJTS) for *senā sāvimhitā* (PTS).  
+    a cobra, a deity, the Buddha or a king, among many other things.
+
+[^3]: lit., “at the head of a battle”
+
+[^4]: *yakkha*
+
+[^5]: reading *senāyo vimhitā* (BJTS) for *senā sāvimhitā* (PTS).
+
 [^6]: I read the term *rathesabhā* as *rathe + usabh*ā, following the
     BJTS Sinhala gloss: *rājya-dhura-vahanayehi śreṣṭha vu* (“best among
-    those on the vehicle which is the burden of kingship”)  
+    those on the vehicle which is the burden of kingship”)
+
 [^7]: “Great Drum.” This reading follows BJTS for PTS *Mahāscunda*.

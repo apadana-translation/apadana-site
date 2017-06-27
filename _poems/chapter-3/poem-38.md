@@ -40,9 +40,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[1103\]
 
 Thus indeed Venerable Āyāgadāyaka Thera spoke these verses.  
-The legend of Āyāgadāyaka Thera is finished.  
+The legend of Āyāgadāyaka Thera is finished.
+
 [^1]: cty defines *āyāga* as a *dighaṃ bhojanasālaṃ* or “long
-    eating-hall,” thus the name would mean “Eating-Hall-Giver”.  
-[^2]: lit., “root,” *mūla.*  
-[^3]: i.e., in a mixture of human and divine worlds.  
+    eating-hall,” thus the name would mean “Eating-Hall-Giver”.
+
+[^2]: lit., “root,” *mūla.*
+
+[^3]: i.e., in a mixture of human and divine worlds.
+
 [^4]: or “kings,” *devā*.

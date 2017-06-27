@@ -40,7 +40,9 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[445\]
 
 Thus indeed Venerable Puṇṇa Mantāṇiputta Thera spoke these verses.  
-The legend of Puṇṇa Mantāṇiputta Thera is finished.  
+The legend of Puṇṇa Mantāṇiputta Thera is finished.
+
 [^1]: BJTS Sinhala gloss understands “mama” here as the genitive: *my*
-    (Sinh: *māgē*) karma. I take it instead as a dative, “to me”  
+    (Sinh: *māgē*) karma. I take it instead as a dative, “to me”
+
 [^2]: ”Good-Explanation-er,” taking this as a proper name with BJTS.

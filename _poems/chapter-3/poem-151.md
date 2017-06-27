@@ -29,11 +29,15 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1998\]
 
 Thus indeed Venerable Bandhujīvaka Thera spoke these verses.  
-The legend of Bandhujīvaka Thera is finished.  
+The legend of Bandhujīvaka Thera is finished.
+
 [^1]: the name of a flower, Sinhala *banduvada,* Latin *pentapetes
-    phoenicea*  
-[^2]: lit., “sticking”  
+    phoenicea*
+
+[^2]: lit., “sticking”
+
 [^3]: Sinhala *banduvada,* Latin *pentapetes phoenicea.* Cf. \#162
     below, where *kaṇavera* is also Sinhala *banduvada* (acc. to
-    Pali-Sinhala-Ingirisi Dictionary)  
+    Pali-Sinhala-Ingirisi Dictionary)
+
 [^4]: “Eyes on all Sides”.

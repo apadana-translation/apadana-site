@@ -35,20 +35,27 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[2735\]
 
 Thus indeed Venerable Dhammasaññaka Thera spoke these verses.  
-The legend of Dhammasaññaka Thera is finished.  
-[^1]: “Perceiver of the Teaching”  
-[^2]: I take the BJTS vocatives here as typos  
+The legend of Dhammasaññaka Thera is finished.
+
+[^1]: “Perceiver of the Teaching”
+
+[^2]: I take the BJTS vocatives here as typos
+
 [^3]: *vācā+āsabhim&gt;āsabhī,* a reading both PTS and BJTS accept
     despite Lilley’s n. to PTS here that the mss. *always* give the
-    (mis)reading *“vācasabbam,”* “whole speech” or “all \[his\] words”  
+    (mis)reading *“vācasabbam,”* “whole speech” or “all \[his\] words”
+
 [^4]: *vivatta-cchada,* lit., “removed covering,” perhaps He who Removes
     the Coverings or He Whose Covers are Removed or One who is Freed of
     All Coverings (see RD s.v.). The epithet is especially appropriate
     here for evoking the “open-fisted” method of the Buddha, where
-    nothing is secret or for initiates only.  
-[^5]: *nibbāpesi,* could also be “extinguished,” “quenched”  
+    nothing is secret or for initiates only.
+
+[^5]: *nibbāpesi,* could also be “extinguished,” “quenched”
+
 [^6]: following BJTS in reading *dhamma-saññā* for PTS *dhamma-dāna,*
     “giving the Teaching.” Though the latter comes to label important
     forms of practice, here it would be odd, since the protagonist is
-    the recipent rather than the agent of the Teaching.  
+    the recipent rather than the agent of the Teaching.
+
 [^7]: “Hearer”

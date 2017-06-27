@@ -30,11 +30,16 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2836\]
 
 Thus indeed Venerable Pulinapūjaka Thera spoke these verses.  
-The legend of Pulinapūjaka Thera is finished.  
-[^1]: “Sand-Giver,” cf. \#27 (where the name is spelled *Puḷinaº*)  
+The legend of Pulinapūjaka Thera is finished.
+
+[^1]: “Sand-Giver,” cf. \#27 (where the name is spelled *Puḷinaº*)
+
 [^2]: *osadhī*. RD (s.v.) points out that all we really know about this
     star is that it was particularly bright, leading Childers to
-    translate it as “Venus” and others as the morning star.  
-[^3]: *gayha*  
-[^4]: *gahetvāna*  
+    translate it as “Venus” and others as the morning star.
+
+[^3]: *gayha*
+
+[^4]: *gahetvāna*
+
 [^5]: lit., “with” “through” “by means of”

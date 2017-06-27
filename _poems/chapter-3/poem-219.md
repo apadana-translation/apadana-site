@@ -33,12 +33,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[2368\]
 
 Thus indeed Venerable Sappidāyaka Thera spoke these verses.  
-The legend of Sappidāyaka Thera is finished.  
-[^1]: “Ghee-Giver”  
-[^2]: lit., “surrounded by a group of women”  
+The legend of Sappidāyaka Thera is finished.
+
+[^1]: “Ghee-Giver”
+
+[^2]: lit., “surrounded by a group of women”
+
 [^3]: following the BJTS gloss on *atināmes’ ahaŋ gharaŋ*, lit., “I
-    caused \[him\] to pass time \[in his own\] home.”  
+    caused \[him\] to pass time \[in his own\] home.”
+
 [^4]: lit., “sense-faculties,” i.e., hearing, seeing, smelling,
-    touching, tasting and thinking  
-[^5]: BJTS (and PTS alt.) reads *dhīro* (“the wise one”)  
+    touching, tasting and thinking
+
+[^5]: BJTS (and PTS alt.) reads *dhīro* (“the wise one”)
+
 [^6]: “Effulgent God (or King)”

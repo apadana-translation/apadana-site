@@ -36,8 +36,11 @@ ten indeed, in the third group.
 All together one hundred eighty five  
 verses have been spoken.  
 Subhūti Chapter, the Third.  
-The Fourth Recitation Portion.  
-[^1]: “Giver of *Khoma* Cloth”  
-[^2]: *kusalatthāya*  
+The Fourth Recitation Portion.
+
+[^1]: “Giver of *Khoma* Cloth”
+
+[^2]: *kusalatthāya*
+
 [^3]: “Chariot with Sindh \[Horse\]” or “Sindh Chariot,” reading
     *sindhuva* + *sandana*

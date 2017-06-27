@@ -25,10 +25,16 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2419\]
 
 Thus indeed Venerable Sukatāveḷiya Thera spoke these verses.  
-The legend of Sukatāveḷiya Thera is finished.  
-[^1]: “Well-made Flower Garland”  
-[^2]: “Not White” (“Black”)  
-[^3]: *āveḷa*, a garland of flowers worn on the head.  
-[^4]: lit., “I am proceeding”  
-[^5]: lit., “not having obtained,” *asampatta*  
+The legend of Sukatāveḷiya Thera is finished.
+
+[^1]: “Well-made Flower Garland”
+
+[^2]: “Not White” (“Black”)
+
+[^3]: *āveḷa*, a garland of flowers worn on the head.
+
+[^4]: lit., “I am proceeding”
+
+[^5]: lit., “not having obtained,” *asampatta*
+
 [^6]: “Two Burdens” or “Two Loads”

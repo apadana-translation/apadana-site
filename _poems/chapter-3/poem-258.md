@@ -25,8 +25,11 @@ six special knowledges mastered:
 \[I have\] done what the Buddha taught! (5) \[2530\]
 
 Thus indeed Venerable Paṇṇadāyaka Thera spoke these verses.  
-The legend of Paṇṇadāyaka Thera is finished.  
-[^1]: “Leaf-Donor”  
+The legend of Paṇṇadāyaka Thera is finished.
+
+[^1]: “Leaf-Donor”
+
 [^2]: *niyamesu saŋvuta,* lit., “self-controlled with regard to
-    necessities”  
+    necessities”
+
 [^3]: = *yad* + *atthiya*, “Whatever Meaning” (?)

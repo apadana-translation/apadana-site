@@ -41,13 +41,19 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[4804\]
 
 Thus indeed Venerable Jagatidāyaka Thera spoke these verses.  
-The legend of Jagatidāyaka Thera is finished.  
+The legend of Jagatidāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Spot of Earth Donor”  
-[^3]: *jagati,* lit., “earth” “the ground”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Spot of Earth Donor”
+
+[^3]: *jagati,* lit., “earth” “the ground”
+
 [^4]: i.e., at the base of his Bodhi tree, which was a *bimbijāla* tree,
-    .  
-[^5]: kṣatriyans*, khattiyo*  
+    .
+
+[^5]: kṣatriyans*, khattiyo*
+
 [^6]: *sabbattha pūjito homi*

@@ -174,38 +174,55 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (36) \[768\]
 
 Thus indeed Bhikkhunī Dhammadinnā spoke these verses.  
-The legend of Dhammadinnā Therī is finished.  
+The legend of Dhammadinnā Therī is finished.
+
 [^1]: “*Dhamma*-Given,” an historical nun, remembered as foremost among
-    the nuns who preached *Dhamma.*  
+    the nuns who preached *Dhamma.*
+
 [^2]: *ayyaka*, lit., “grandfather.” I follow BJTS Sinhala gloss in
     reading him as her “master” (*svāmi teme*), imagining him called
-    “grandfather” in the home where she was a servant.  
+    “grandfather” in the home where she was a servant.
+
 [^3]: *ghananinādasussaro,* should this be taken as a Buddha epithet, to
-    be capitalized?  
-[^4]: *°āgacchita°,* lit., “come into”  
-[^5]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”  
-[^6]: ”Good Teaching”  
+    be capitalized?
+
+[^4]: *°āgacchita°,* lit., “come into”
+
+[^5]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
+
+[^6]: ”Good Teaching”
+
 [^7]: *sukhe ṭhitā,* lit., “remaining in comfort.” Pronounce all four
     syllables when chanting to keep the meter or, to chant as a
-    three-syllable word, read “comfortable royal princesses”  
+    three-syllable word, read “comfortable royal princesses”
+
 [^8]: I follow the original (in both recensions) in making this first
     foot a nine-syllable foot through the addition of the (superfluous)
     “and” (*ca*). The comma amplifies its effect, to syncopate the verse
     such that the (respective, exact) parallelism of the following verse
     (in which, however, all four feet contain the expected eight
-    syllables) becomes apparent.  
-[^9]: = Bhaddā Kuṇḍalakesī  
+    syllables) becomes apparent.
+
+[^9]: = Bhaddā Kuṇḍalakesī
+
 [^10]: here the text (in both PTS and BJTS editions) substitutes *tehi
     kammehi* (plural instrumental) for the ordinary *tena kammena*
     (singular instrumental) in this *Apadāna* stock phrase. Perhaps
-    “good deeds” would be better here.  
+    “good deeds” would be better here.
+
 [^11]: *paṭhame yobbane ṭhitā*, lit., “fixed in the first \[blush of\]
-    youth”  
-[^12]: lit., “going”  
-[^13]: *subuddhimā,* lit., “through He who Possessed Great Intelligence”  
-[^14]: lit., “in the” “in that”  
-[^15]: *dhāretha,* lit., “carry” “recall” “remember” “regard”  
+    youth”
+
+[^12]: lit., “going”
+
+[^13]: *subuddhimā,* lit., “through He who Possessed Great Intelligence”
+
+[^14]: lit., “in the” “in that”
+
+[^15]: *dhāretha,* lit., “carry” “recall” “remember” “regard”
+
 [^16]: *satthu sāsanakārikā,* lit., “\[I am\] a doer of the Teacher’s
-    dispensation”  
+    dispensation”
+
 [^17]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I
     became”)

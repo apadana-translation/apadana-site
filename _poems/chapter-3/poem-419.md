@@ -70,16 +70,22 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (14) \[4448\]
 
 Thus indeed Venerable Patthodanadāyaka Thera spoke these verses.  
-The legend of Patthodanadāyaka Thera is finished.  
+The legend of Patthodanadāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Half-Pint of Cooked Rice-er”  
-[^3]: *satataŋ vanakammiko*, lit., “continually a forest-worker”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Half-Pint of Cooked Rice-er”
+
+[^3]: *satataŋ vanakammiko*, lit., “continually a forest-worker”
+
 [^4]: *pattha* (a unit for measure, = 1/4 of a quart; 1/2 of a pint) +
     *odanaṃ*; BJTS Sinh gloss *(sahal) pataka batak,* “cooked rice
-    \[boiled from\] a half pint (of uncooked rice)”  
+    \[boiled from\] a half pint (of uncooked rice)”
+
 [^5]: *parakammāyane yutto*, lit., “yoked to going for the work of
     others,” i.e., doing coolie labor, being an intinerant worker, being
-    a servant  
+    a servant
+
 [^6]: we might say, “a flood of possessions”

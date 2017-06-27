@@ -49,19 +49,30 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (10) \[3083\]
 
 Thus indeed Venerable Ekapadumiya Thera spoke these verses.  
-The legend of Ekapadumiya Thera is finished.  
+The legend of Ekapadumiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “One-Lotus-er”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “One-Lotus-er”
+
 [^3]: lit., “master of all things (*dhamma*)” (or “Master of All
-    Teachings”)  
-[^4]: *vibhāvento,* could also be “understanding” or “annihilating”  
+    Teachings”)
+
+[^4]: *vibhāvento,* could also be “understanding” or “annihilating”
+
 [^5]: *bhavābhave,* lit., “all sorts of existence,” “this and that type
-    of existence”  
-[^6]: lit., “came” or “approached”  
-[^7]: lit., “in”  
-[^8]: lit., “made this expression of thanks for me”  
-[^9]: lit., “go”  
-[^10]: *vinipātaŋ,* lit., “a state of suffering” or “ruination”  
+    of existence”
+
+[^6]: lit., “came” or “approached”
+
+[^7]: lit., “in”
+
+[^8]: lit., “made this expression of thanks for me”
+
+[^9]: lit., “go”
+
+[^10]: *vinipātaŋ,* lit., “a state of suffering” or “ruination”
+
 [^11]: *jalajuttama,* the literal meaning of Padumuttara

@@ -199,25 +199,39 @@ And these verses are counted too,
 seventy-four verses \[beyond\]  
 eleven hundred \[verses here\].  
 The Ten Chapters[^38] called Paduma.  
-The Fourth Hundred[^39] is finished.  
+The Fourth Hundred[^39] is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Unconquered”  
-[^3]: lit., “the Victor named Padumuttara”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Unconquered”
+
+[^3]: lit., “the Victor named Padumuttara”
+
 [^4]: lit., “master of all things (*dhamma*)” (or “Master of All
-    Teachings”)  
+    Teachings”)
+
 [^5]: on the bodies of those destined to become a wheel-turning monarch
-    or a Buddha  
-[^6]: *cittam āpajjiŋxi,* lit., “I produced the thought”  
-[^7]: *ko nāma*  
-[^8]: or “person,” “living being,” “creature:” *satto*  
-[^9]: lit., “of” (gen. case)  
-[^10]: reading *vuddhānaṃ* with BJTS for PTS *Buddhānaŋ*  
-[^11]: *paṇḍitānaŋ*  
+    or a Buddha
+
+[^6]: *cittam āpajjiŋxi,* lit., “I produced the thought”
+
+[^7]: *ko nāma*
+
+[^8]: or “person,” “living being,” “creature:” *satto*
+
+[^9]: lit., “of” (gen. case)
+
+[^10]: reading *vuddhānaṃ* with BJTS for PTS *Buddhānaŋ*
+
+[^11]: *paṇḍitānaŋ*
+
 [^12]: *gatiŋ me sodhayissati,* i.e., “it will clean up my karma;” “it
-    will get me a better rebirth”  
-[^13]: *gahim*  
+    will get me a better rebirth”
+
+[^13]: *gahim*
+
 [^14]: reading *madhutelaṃ* (Sinhala gloss: *mītel*) with BJTS for PTS
     *dumatelaŋ* (“tree oil”). The term could also be read as a compound,
     “honey and oil;” the PTS reading could be sustained by taking
@@ -226,41 +240,66 @@ The Fourth Hundred[^39] is finished.
     *madhu* (“honey”) can also refer to this oil. However, buffalo ghee
     would be a more likely oil for lamp-lighting than *mī* oil (which is
     used primarily in the making of medicines), so I have followed the
-    BJTS reading here, leaving open these other possibilities.  
+    BJTS reading here, leaving open these other possibilities.
+
 [^15]: reading *narāsabhaṃ* with BJTS for PTS (and BJTS alt.)
-    *vināyakaŋ* (“Guide”)  
+    *vināyakaŋ* (“Guide”)
+
 [^16]: *tindaṇḍake*, lit., “three-sticked”. BJTS glosses *the term as
-    piriväjipuṭuwa*, “the stool (or chair) \[used by\] ascetics”  
+    piriväjipuṭuwa*, “the stool (or chair) \[used by\] ascetics”
+
 [^17]: *ratyā vivasāne,* read *ratyā vivasane,* “at the end of the
-    night,” a stock phrase.  
+    night,” a stock phrase.
+
 [^18]: *sabbe vanā gandhamayā,* lit., “all the forests made of good
     scents.” I am assuming that despite the Buddha’s magical power, the
     trees themselves did not come to him, though that is the Pāli (and
     BJTS glosses in Sinhala accordingly). Rather, I take the meaning to
-    be that the scents of those forests came to him.  
-[^19]: *anubhāvena,* BJTS notes that all the texts give *ānubhāvena*  
-[^20]: *pupphagandhāse*, following BJTS Sinhala gloss here  
-[^21]: lit., “went up to the Buddha’s presence”  
-[^22]: following BJTS Sinhala gloss: *satsiya varak*  
-[^23]: *vipulaṃ rajjaṃ karissati,* following BJTS Sinhala gloss  
-[^24]: PTS and BJTS agree in presenting this as a six-footed verse.  
+    be that the scents of those forests came to him.
+
+[^19]: *anubhāvena,* BJTS notes that all the texts give *ānubhāvena*
+
+[^20]: *pupphagandhāse*, following BJTS Sinhala gloss here
+
+[^21]: lit., “went up to the Buddha’s presence”
+
+[^22]: following BJTS Sinhala gloss: *satsiya varak*
+
+[^23]: *vipulaṃ rajjaṃ karissati,* following BJTS Sinhala gloss
+
+[^24]: PTS and BJTS agree in presenting this as a six-footed verse.
+
 [^25]: BJTS understands this as a measure of distance, *krōśa* = 500
     bow-lengths, 80 bull-lengths, 8000 *riyan* (*Śri Sumaṅgala
-    Śabdakoṣaya,* s.v.)  
-[^26]: *samantato,* “on all sides” “everywhere”  
-[^27]: *sattassa*, also “being” “creature” (gen. abs. construction)  
-[^28]: lit., “every day”  
-[^29]: *prabhā*  
-[^30]: *sattassa* (gen. abs. construction)  
-[^31]: *sissattaṃ ajjupāgamiṃ*  
-[^32]: following the BJTS Sinhala gloss “(*geṇa*)”  
-[^33]: *vināyakaṃ*  
+    Śabdakoṣaya,* s.v.)
+
+[^26]: *samantato,* “on all sides” “everywhere”
+
+[^27]: *sattassa*, also “being” “creature” (gen. abs. construction)
+
+[^28]: lit., “every day”
+
+[^29]: *prabhā*
+
+[^30]: *sattassa* (gen. abs. construction)
+
+[^31]: *sissattaṃ ajjupāgamiṃ*
+
+[^32]: following the BJTS Sinhala gloss “(*geṇa*)”
+
+[^33]: *vināyakaṃ*
+
 [^34]: *nirūpadhi,* i.e., “devoid of the ground for rebirth,” “free of
-    the *upadhis”*  
-[^35]: BJTS: Piḷindavaccha  
-[^36]: BJTS: Salalaº  
-[^37]: BJTS: Piḷindavaccha  
-[^38]: *vaggadasakaŋ*  
+    the *upadhis”*
+
+[^35]: BJTS: Piḷindavaccha
+
+[^36]: BJTS: Salalaº
+
+[^37]: BJTS: Piḷindavaccha
+
+[^38]: *vaggadasakaŋ*
+
 [^39]: *Sataka* is a common structure in Sanskrit and Pāli poetry,
     usually referring to one hundred verses, rather than (as here) one
     hundred stories.

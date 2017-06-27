@@ -20,6 +20,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2556\]
 
 Thus indeed Venerable Araṇadīpiya Thera spoke these verses.  
-The legend of Araṇadīpiya Thera is finished.  
-[^1]: “Solitude Illuminator”  
+The legend of Araṇadīpiya Thera is finished.
+
+[^1]: “Solitude Illuminator”
+
 [^2]: “Eyes on All Sides” or “All-Seeing”

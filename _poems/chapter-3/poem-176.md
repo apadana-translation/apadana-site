@@ -20,11 +20,15 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2132\]
 
 Thus indeed Venerable Maggadattika Thera spoke these verses.  
-The legend of Maggadattika Thera is finished.  
-[^1]: “Road-Gift-er”  
-[^2]: reading *abbho°* (BJTS) for *ambho°* (PTS).  
+The legend of Maggadattika Thera is finished.
+
+[^1]: “Road-Gift-er”
+
+[^2]: reading *abbho°* (BJTS) for *ambho°* (PTS).
+
 [^3]: PTS reads the second line first, and the first line second; I
     follow BJTS. In the second line, I read *sīsa muddhani* (BJTS) for
-    *lāsaŋ muddhani* (“shining on his head”).  
+    *lāsaŋ muddhani* (“shining on his head”).
+
 [^4]: “Floral Canopy” or “Covered with Flowers”. PTS reads
     *Pupphachadaniya.*

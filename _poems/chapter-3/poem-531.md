@@ -122,31 +122,47 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (27) \[5688\]
 
 Thus indeed Venerable Mahākaccāna Thera spoke these verses.  
-The legend of Mahākaccāna Thera is finished.  
+The legend of Mahākaccāna Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “The Great Golden One” = Kaccāyana, a historical monk, one of the
     chief followers of the Buddha. See DPPN II: 468ff. Cf. also \#33,
     above, another *apadāna* with varying details which is ascribed to
-    this famous monk.  
-[^3]: *anejo*  
-[^4]: *ajitañjayo*  
-[^5]: *kamalapattakkho*  
-[^6]: *sasaṅkavimalānano*  
+    this famous monk.
+
+[^3]: *anejo*
+
+[^4]: *ajitañjayo*
+
+[^5]: *kamalapattakkho*
+
+[^6]: *sasaṅkavimalānano*
+
 [^7]: *kanakācalasaṅkāso,* following BJTS Sinhala gloss
-    *kanakaparvatayak men babalannā*  
+    *kanakaparvatayak men babalannā*
+
 [^8]: reading *ravi-ditti-samappabho* with BJTS for PTS
     *ravidittihiruppabho* (“with Sunlight like the Sun when it’s
-    Blazing”)  
-[^9]: *sattanettamanohārī*  
-[^10]: *varalakkhaṇabhūsito*  
+    Blazing”)
+
+[^9]: *sattanettamanohārī*
+
+[^10]: *varalakkhaṇabhūsito*
+
 [^11]: *sabbavākyapathātīto,* lit., “he for whom the roads of all
-    sayings are in the past”  
-[^12]: *manujāmarasakkato*  
-[^13]: *bodhayan satte*  
-[^14]: *vāgīso*  
-[^15]: *madhurassaro*  
+    sayings are in the past”
+
+[^12]: *manujāmarasakkato*
+
+[^13]: *bodhayan satte*
+
+[^14]: *vāgīso*
+
+[^15]: *madhurassaro*
+
 [^16]: *karuṇāniḍḍhasantāno.* BJTS reads *karuṇānibaddhasantāno*
     (“Continuously Fixed on \[stable, bound down to\] Compassion”)*,*
     and notes alt. reading *ºnibandha* for *niḍḍha*, as does PTS; BJTS
@@ -156,41 +172,70 @@ The legend of Mahākaccāna Thera is finished.
     attempts at making sense of *niḍḍha* (or *niddha* ?) in the received
     Pāli. *Niḍḍha* (nest, seat, abode, from *ni* + *sad*, “seat”) not
     only works best in terms of meter, it also brings out a bird-related
-    reading of the entire birth, likening the Buddha to a song-bird.  
-[^17]: *catusaccupasaṅhitaŋ*  
-[^18]: lit., “going”  
-[^19]: *yathā*, “just as” “to the extent that” “in the way that”  
+    reading of the entire birth, likening the Buddha to a song-bird.
+
+[^17]: *catusaccupasaṅhitaŋ*
+
+[^18]: lit., “going”
+
+[^19]: *yathā*, “just as” “to the extent that” “in the way that”
+
 [^20]: i.e., the Kaccāyana who was a chief follower of Padumuttara
     Buddha’s, after whom the (present protagonist) Kaccāyana models
-    himself during a previous life.  
-[^21]: lit., “spread out” “having length”  
-[^22]: i.e., Padumuttara Buddha, the speaker of this verse  
+    himself during a previous life.
+
+[^21]: lit., “spread out” “having length”
+
+[^22]: i.e., Padumuttara Buddha, the speaker of this verse
+
 [^23]: *tadagge es’ aggo*, lit., “he’s top in the top point \[of the
-    category, “explains the Teaching at length”\]  
-[^24]: *dhāretha,* lit., “carry” “recall” “remember” “regard”  
-[^25]: lit., “done *pūjā*”  
-[^26]: *lokasaraṇaŋ*  
+    category, “explains the Teaching at length”\]
+
+[^24]: *dhāretha,* lit., “carry” “recall” “remember” “regard”
+
+[^25]: lit., “done *pūjā*”
+
+[^26]: *lokasaraṇaŋ*
+
 [^27]: *saraṇañjaho,* he by whom refuge is abandoned, playing on the
     epithet “World-Refuge” in the first foot: the Buddha is the refuge
-    for others, but has (relies on, needs) no refuge himself.  
-[^28]: *isivaraŋ,* lit., “excellent sage”  
+    for others, but has (relies on, needs) no refuge himself.
+
+[^28]: *isivaraŋ,* lit., “excellent sage”
+
 [^29]: lit., “fat-shoulders”. BJTS reads *pīṇº* but understands the
     adjective in the same way: “having shoulders whihc are full (covered
-    with meat)  
-[^30]: *acalaŋ*  
-[^31]: that is, doing *añjali,* “hands pressed together”  
-[^32]: *Buddhavaṇṇagatāsayaŋ*  
-[^33]: *dhammapaṭiggahavaraŋ,* “with an excellent grasp of the *Dhamma*”  
-[^34]: *amatāsittasannibhaŋ*  
-[^35]: here BJTS uses \[5673\] to number two verses  
-[^36]: *adhippāyavidū*  
-[^37]: or “prophesied,” *vyākato*  
-[^38]: *ujjeniye pure*  
-[^39]: BJTS reads *tiriṭavacchassa*  
-[^40]: *purohitadijāº*  
+    with meat)
+
+[^30]: *acalaŋ*
+
+[^31]: that is, doing *añjali,* “hands pressed together”
+
+[^32]: *Buddhavaṇṇagatāsayaŋ*
+
+[^33]: *dhammapaṭiggahavaraŋ,* “with an excellent grasp of the *Dhamma*”
+
+[^34]: *amatāsittasannibhaŋ*
+
+[^35]: here BJTS uses \[5673\] to number two verses
+
+[^36]: *adhippāyavidū*
+
+[^37]: or “prophesied,” *vyākato*
+
+[^38]: *ujjeniye pure*
+
+[^39]: BJTS reads *tiriṭavacchassa*
+
+[^40]: *purohitadijāº*
+
 [^41]: “Fierce Luster.” BJTS Sinh. gloss Sanskritizes the name as
-    “Caṇḍapradyota”  
-[^42]: “Sandalwood \[and\] Pink Lotus”  
-[^43]: *bhūmipālena,* “by the king”  
-[^44]: *mokkha-pura-dvāraŋ*  
+    “Caṇḍapradyota”
+
+[^42]: “Sandalwood \[and\] Pink Lotus”
+
+[^43]: *bhūmipālena,* “by the king”
+
+[^44]: *mokkha-pura-dvāraŋ*
+
 [^45]: *mahāmate (*fr. *mahāmati)*

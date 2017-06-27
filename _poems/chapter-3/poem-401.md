@@ -151,28 +151,47 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (28) \[3918\]
 
 Thus indeed Venerable Tissa-metteyya Thera spoke these verses.  
-The legend of Tissa-metteyya Thera is finished.  
+The legend of Tissa-metteyya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: BJTS reads *Tissa-metteyya.* He was a historical monk to whom the
-    *Tissa-metteyya-sutta* of SN was preached.  
-[^3]: *paricare*  
-[^4]: *hehi*, (future 3rd sing. of *bhavati*)  
+    *Tissa-metteyya-sutta* of SN was preached.
+
+[^3]: *paricare*
+
+[^4]: *hehi*, (future 3rd sing. of *bhavati*)
+
 [^5]: *manuja* (“Man”), BJTS reads *manuje* (also, presumably, a
-    vocative)  
-[^6]: reading *devate* with BJTS for PTS *deva te*  
-[^7]: *paricara*  
-[^8]: lit., “he did not burn”  
-[^9]: lit., “kṣatriyan”  
-[^10]: *sabbaññu,* “Omniscient One”  
-[^11]: *pabhaṅkara*  
-[^12]: *tamonuda*  
-[^13]: *namassissāmi*  
-[^14]: *deva*  
-[^15]: *khāribhārañ*  
+    vocative)
+
+[^6]: reading *devate* with BJTS for PTS *deva te*
+
+[^7]: *paricara*
+
+[^8]: lit., “he did not burn”
+
+[^9]: lit., “kṣatriyan”
+
+[^10]: *sabbaññu,* “Omniscient One”
+
+[^11]: *pabhaṅkara*
+
+[^12]: *tamonuda*
+
+[^13]: *namassissāmi*
+
+[^14]: *deva*
+
+[^15]: *khāribhārañ*
+
 [^16]: *tindukaŋ phalaŋ* = *timbiri, diospyros embryopteris,* a.k.a.
-    Indian persimmon, wild mangosteen  
-[^17]: *puññakammena saŋyuttā,* lit., “with \[his\] meritorious karma”  
-[^18]: lit., “will become”  
+    Indian persimmon, wild mangosteen
+
+[^17]: *puññakammena saŋyuttā,* lit., “with \[his\] meritorious karma”
+
+[^18]: lit., “will become”
+
 [^19]: lit., “bearing”

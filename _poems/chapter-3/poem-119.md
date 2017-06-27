@@ -50,11 +50,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (10) \[1757\]
 
 Thus indeed Venerable Paccupaṭṭhānasaññaka Thera spoke these verses.  
-The legend of Paccupaṭṭhānasaññaka Thera is finished.  
-[^1]: “Perceiver of Attending”  
-[^2]: a *yakkha’s*  
-[^3]: *parinibbāyi*, achieved complete nirvana  
-[^4]: “Ocean”  
-[^5]: lit., “the size of a mustard seed”.  
-[^6]: lit., “relic” (*dhātuṃ*).  
+The legend of Paccupaṭṭhānasaññaka Thera is finished.
+
+[^1]: “Perceiver of Attending”
+
+[^2]: a *yakkha’s*
+
+[^3]: *parinibbāyi*, achieved complete nirvana
+
+[^4]: “Ocean”
+
+[^5]: lit., “the size of a mustard seed”.
+
+[^6]: lit., “relic” (*dhātuṃ*).
+
 [^7]: “Very WIse”

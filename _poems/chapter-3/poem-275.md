@@ -25,12 +25,19 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2604\]
 
 Thus indeed Venerable Ekañjaliya Thera spoke these verses.  
-The legend of Ekañjaliya Thera is finished.  
-[^1]: “One Salute”  
-[^2]: *udumbara,* Sinh. *dimbul*  
-[^3]: or “fixed,” “established”  
-[^4]: lit., “Raising up *añjali*”  
-[^5]: *manujâdhipo,* lit., “exerciser of power over those born of Manu.”  
-[^6]: lit., “named,” “by name”  
+The legend of Ekañjaliya Thera is finished.
+
+[^1]: “One Salute”
+
+[^2]: *udumbara,* Sinh. *dimbul*
+
+[^3]: or “fixed,” “established”
+
+[^4]: lit., “Raising up *añjali*”
+
+[^5]: *manujâdhipo,* lit., “exerciser of power over those born of Manu.”
+
+[^6]: lit., “named,” “by name”
+
 [^7]: only slightly variant form with the same meaning as the this-life
     name, “One Salute”

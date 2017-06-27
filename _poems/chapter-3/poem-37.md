@@ -25,7 +25,9 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1095\]
 
 Thus indeed Venerable Lasuṇadāyaka Thera spoke these verses.  
-The legend of Lasuṇadāyaka Thera is finished.  
-[^1]: “Garlic-Giver”  
+The legend of Lasuṇadāyaka Thera is finished.
+
+[^1]: “Garlic-Giver”
+
 [^2]: a type of container? Cty treats it as a container used by
     ascetics. Also a measure, = 16 *drona*s. Cf. above v. \[198\] and n.

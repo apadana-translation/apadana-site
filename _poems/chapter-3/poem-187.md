@@ -57,21 +57,35 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (12) \[2196\]
 
 Thus indeed Venerable Ekacintita Thera spoke these verses.  
-The legend of Ekacintita Thera is finished.  
-[^1]: “Once-Thought-Out.”  
-[^2]: or body (*kāyā*); this reading follows BJTS  
-[^3]: lit., sounds, objects of hearing  
+The legend of Ekacintita Thera is finished.
+
+[^1]: “Once-Thought-Out.”
+
+[^2]: or body (*kāyā*); this reading follows BJTS
+
+[^3]: lit., sounds, objects of hearing
+
 [^4]: verses 1-10 plus the first two feet of v. 11 here are repeated
-    almost verbatim as the same verses of \#327, below.  
-[^5]: *bho,* BJTS glosses *pinvata* (“O meritorious one”)  
-[^6]: *saddhamme*  
-[^7]: *kusalaŋ,* “wholesome \[karma\]”  
-[^8]: *kusalaŋ*  
-[^9]: *kusalaŋ*  
+    almost verbatim as the same verses of \#327, below.
+
+[^5]: *bho,* BJTS glosses *pinvata* (“O meritorious one”)
+
+[^6]: *saddhamme*
+
+[^7]: *kusalaŋ,* “wholesome \[karma\]”
+
+[^8]: *kusalaŋ*
+
+[^9]: *kusalaŋ*
+
 [^10]: lit., “\[be a person\] who is not one with ill-will, \[one who
-    is\] free of attachment.”  
+    is\] free of attachment.”
+
 [^11]: reading *devā devaṃ yadā vidū cavantaṃ* with BJTS for PTS
-    *devadevaŋ yathāvidū bhavantaŋ*  
-[^12]: “Cheerful” or “Good-Minded”  
-[^13]: *atthadhammānusāsitvā*  
+    *devadevaŋ yathāvidū bhavantaŋ*
+
+[^12]: “Cheerful” or “Good-Minded”
+
+[^13]: *atthadhammānusāsitvā*
+
 [^14]: *duggatiŋ nûpapajj’ ahaŋ*

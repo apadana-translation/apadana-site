@@ -35,12 +35,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[1908\]
 
 Thus indeed Venerable Rahosaññaka Thera spoke these verses.  
-The legend of Rahosaññaka Thera is finished.  
-[^1]: “Solitary-Place Perceiver”  
+The legend of Rahosaññaka Thera is finished.
+
+[^1]: “Solitary-Place Perceiver”
+
 [^2]: reading *saṃhāritvāna* (BJTS) for *saṃsāvetvāna* (“Having kept
-    well,” PTS)  
+    well,” PTS)
+
 [^3]: reading *buddhavedaṃ* (BJTS) for *buddhavesaŋ* (“the appearance of
-    the Buddha,” PTS).  
-[^4]: reading *īdiṃ* (BJTS) for *nisīdi* (“he sat,” PTS)  
-[^5]: *pallaṅkam ābhujitvāna,* lit., “crouching with legs crossed”  
+    the Buddha,” PTS).
+
+[^4]: reading *īdiṃ* (BJTS) for *nisīdi* (“he sat,” PTS)
+
+[^5]: *pallaṅkam ābhujitvāna,* lit., “crouching with legs crossed”
+
 [^6]: “Glory-Bearer”

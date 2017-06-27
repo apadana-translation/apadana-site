@@ -35,13 +35,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[1855\]
 
 Thus indeed Venerable Ñāṇasaññaka Thera spoke these verses.  
-The legend of Ñāṇasaññaka Thera is finished.  
-[^1]: “Knowledge-Perceiver”  
+The legend of Ñāṇasaññaka Thera is finished.
+
+[^1]: “Knowledge-Perceiver”
+
 [^2]: lit., “neither \[is there an analogy\] for association of \[with\]
     the Teacher.” My translation of this verse follows the BJTS Sinhala
-    gloss.  
+    gloss.
+
 [^3]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of
     *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred
-    horse”  
-[^4]: see note to \[1567\].  
+    horse”
+
+[^4]: see note to \[1567\].
+
 [^5]: “Sand and Flowers-er”

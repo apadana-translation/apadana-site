@@ -25,16 +25,21 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2303\]
 
 Thus indeed Venerable Salaḷamāliya Thera spoke these verses.  
-The legend of Salaḷamāliya Thera is finished.  
+The legend of Salaḷamāliya Thera is finished.
+
 [^1]: “Salaḷa-Garland-er.” BJTS reads *salala°* . BJTS Sinh.gloss =
     *hora* = “large timber tree yielding rezin and oil, Dipterocarpus
-    zeylanicus *(Dipterocarp.*)” (Bot. dict.).  
+    zeylanicus *(Dipterocarp.*)” (Bot. dict.).
+
 [^2]: lit., “Trainer of Men” or “Charioteer of Men,” *narasārathiŋ.* I
-    adopt the shorter form here *metri causa. *  
+    adopt the shorter form here *metri causa. *
+
 [^3]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum
     acerifolium, produces a brilliant mass of yellow flowers; Engl.
     a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now
-    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.  
+    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
+
 [^4]: lit., “Having made a bow not two-fold.” The meaning seems to be,
-    “having strung a bow”.  
+    “having strung a bow”.
+
 [^5]: “Effulgent One”

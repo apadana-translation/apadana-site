@@ -45,12 +45,17 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (9) \[1894\]
 
 Thus indeed Venerable Candanapūjaka Thera spoke these verses.  
-The legend of Candanapūjaka Thera is finished.  
-[^1]: “Sandalwood-Worshipper”  
+The legend of Candanapūjaka Thera is finished.
+
+[^1]: “Sandalwood-Worshipper”
+
 [^2]: reading BJTS for the correct spelling for *kiṇṇara* (PTS). The
     *kinnara* (Sinh. *kandura*) has a human head and a horse’s body;
-    “centaur”.  
+    “centaur”.
+
 [^3]: v*asano* could also be translated, “lived in a dwelling” \[made of
-    flowers\].  
-[^4]: lit., “entered”  
+    flowers\].
+
+[^4]: lit., “entered”
+
 [^5]: “Red Cow.” BJTS reads Rohita, “Red”.

@@ -25,10 +25,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2076\]
 
 Thus indeed Venerable Kaṇikāracchadaniya Thera spoke these verses.  
-The legend of Kaṇikāracchadaniya Thera is finished.  
+The legend of Kaṇikāracchadaniya Thera is finished.
+
 [^1]: “Dinner-plate-Cover-er”. *Kaṇṇikāra, kaṇikāra* = Sinhala
     *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of
     yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur,
     caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha
-    Buddha.  
+    Buddha.
+
 [^2]: lit., “kṣatriyans”

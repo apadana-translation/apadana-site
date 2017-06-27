@@ -36,14 +36,21 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[5255\]
 
 Thus indeed Venerable Tīṇikiṅkhanipupphiya[^6] Thera spoke these verses.  
-The legend of Tīṇikiṅkhanipupphiya[^7] Thera is finished.  
-[^1]: BJTS reads *Tikiṅkaṇipupphiya*  
+The legend of Tīṇikiṅkhanipupphiya[^7] Thera is finished.
+
+[^1]: BJTS reads *Tikiṅkaṇipupphiya*
+
 [^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^3]: “Three *kiṅkhani* Flower-er.” BJTS reads *Tikiṅkaṇipupphiya.* Cf.
-    *\#498,* ascribed to a monk with the same name  
-[^4]: BJTS reads *kiṅkaṇiº*  
-[^5]: lit., “done *pūjā*”  
-[^6]: “ BJTS reads *Tikiṅkaṇipupphiya.*  
+    *\#498,* ascribed to a monk with the same name
+
+[^4]: BJTS reads *kiṅkaṇiº*
+
+[^5]: lit., “done *pūjā*”
+
+[^6]: “ BJTS reads *Tikiṅkaṇipupphiya.*
+
 [^7]: BJTS reads *Tikiṅkaṇipupphiya.*

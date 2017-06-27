@@ -25,11 +25,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[3271\]
 
 Thus indeed Venerable Sumanadāmadāyaka Thera spoke these verses.  
-The legend of Sumanadāmadāyaka Thera is finished.  
+The legend of Sumanadāmadāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Jasmine Wreath (or Garland) Donor”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Jasmine Wreath (or Garland) Donor”
+
 [^3]: the two epithets in this foot -- *nhātaka* (*nahātaka,* “one who
     has bathed”) and *tapassin* (“practicer of austerities”) -- are
     typically reserved for non-Buddhist adepts. The former refers to a
@@ -41,5 +44,6 @@ The legend of Sumanadāmadāyaka Thera is finished.
     self-mortifying practices renounced by the Bodhisattva prior to
     achieving Buddhahood (but according to RD is also used in a more
     general sense to refer to one who has achieved mastery over the
-    senses, including Gotama Buddha, e.g., Vin i.234=A iv.184).  
+    senses, including Gotama Buddha, e.g., Vin i.234=A iv.184).
+
 [^4]: BJTS read "Being in Best Buddha's presence”

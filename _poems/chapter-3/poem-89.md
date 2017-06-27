@@ -25,6 +25,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1546\]
 
 Thus indeed Venerable Bodhisaññaka Thera spoke these verses.  
-The legend of Bodhisaññaka Thera is finished.  
-[^1]: “Bodhi-\[Tree\]-Perceiver”  
+The legend of Bodhisaññaka Thera is finished.
+
+[^1]: “Bodhi-\[Tree\]-Perceiver”
+
 [^2]: “Sweetener of the Water”

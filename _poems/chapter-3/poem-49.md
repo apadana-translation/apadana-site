@@ -121,22 +121,34 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (24) \[1238\]
 
 Thus indeed Venerable Subhadda Thera spoke these verses.  
-The legend of Subhadda Thera is finished.  
-[^1]: lit., “as the Sambuddha reached nirvana”  
+The legend of Subhadda Thera is finished.
+
+[^1]: lit., “as the Sambuddha reached nirvana”
+
 [^2]: the term implies some sort of blanket or canopy, though v. \[5\]
-    refers to it as a garland.  
-[^3]: *tagara*, a particular type thereof.  
+    refers to it as a garland.
+
+[^3]: *tagara*, a particular type thereof.
+
 [^4]: Nirmāṇarati is another heaven wherein, as its name implies, one
-    delights in form.  
+    delights in form.
+
 [^5]: the Four Noble Truths: suffering, the cause of suffering, the
     cessation of suffering, the path that leads to the cessation of
     suffering, believed to have been delivered in his first sermon.
-    Subhadda’s question, however, was asked as the Buddha lay dying.  
-[^6]: lit., “the Supreme Buddha’s dispensation”  
-[^7]: *dhammarājaŋ*  
-[^8]: This verse appears to be out of sequence, or interpolated?  
-[^9]: lit., “I saw the Victor \[only\] at the end”.  
-[^10]: lit., “made \[me\] to go forth”  
+    Subhadda’s question, however, was asked as the Buddha lay dying.
+
+[^6]: lit., “the Supreme Buddha’s dispensation”
+
+[^7]: *dhammarājaŋ*
+
+[^8]: This verse appears to be out of sequence, or interpolated?
+
+[^9]: lit., “I saw the Victor \[only\] at the end”.
+
+[^10]: lit., “made \[me\] to go forth”
+
 [^11]: *upasampadā*: higher ordination, usually accomplished a long time
-    after going forth (*pabbajja*)  
+    after going forth (*pabbajja*)
+
 [^12]: *parinibbāna*

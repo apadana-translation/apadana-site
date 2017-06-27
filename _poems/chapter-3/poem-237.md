@@ -15,9 +15,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[2452\]
 
 Thus indeed Venerable Piyālapupphiya Thera spoke these verses.  
-The legend of Piyālapupphiya Thera is finished.  
-[^1]: *“Piyal* flower-er”  
-[^2]: *piyāla* (Sinh. *piyal*) is buchanania latifolia.  
+The legend of Piyālapupphiya Thera is finished.
+
+[^1]: *“Piyal* flower-er”
+
+[^2]: *piyāla* (Sinh. *piyal*) is buchanania latifolia.
+
 [^3]: this could mean the road traveled by the hunter, but given the
     indication that this was a very meritorious act, more likely the
     implication is, “tossed it on the road which the Buddha \[who

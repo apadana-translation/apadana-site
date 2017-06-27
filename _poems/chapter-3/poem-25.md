@@ -28,5 +28,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[974\]
 
 Thus indeed Venerable Annasamsāvaka Thera spoke these verses.  
-The legend of Annasamsāvaka Thera is finished.  
+The legend of Annasamsāvaka Thera is finished.
+
 [^1]: “Causer of the Flow of Food”

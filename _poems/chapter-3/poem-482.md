@@ -90,45 +90,67 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (18) \[5056\]
 
 Thus indeed Venerable Buddhasaññaka Thera spoke these verses.  
-The legend of Buddhasaññaka Thera is finished.  
+The legend of Buddhasaññaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Buddha Perceiver”  
-[^3]: *lakkhaṇe*  
-[^4]: *itihāse*  
-[^5]: *sa-nighaṇḍu*  
-[^6]: lit., “mantra-bearer”  
-[^7]: lit., “to”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Buddha Perceiver”
+
+[^3]: *lakkhaṇe*
+
+[^4]: *itihāse*
+
+[^5]: *sa-nighaṇḍu*
+
+[^6]: lit., “mantra-bearer”
+
+[^7]: lit., “to”
+
 [^8]: *lābho amhaŋ na hessati,* lit., “there will not be receiving for
-    us”  
-[^9]: pronounce as spontan’yasly (4 syllable) to keep the meter  
+    us”
+
+[^9]: pronounce as spontan’yasly (4 syllable) to keep the meter
+
 [^10]: this verse is presumably thought by the protagonist upon hearing
-    the worries of his students.  
+    the worries of his students.
+
 [^11]: like the deer-leather (*ajina*) and bark-robes (*vākacīraŋ*)*,*
     the water-pot (*kamaṇḍalu*, a long-spouted jar for carrying water)
-    is a distinctive possession, and signifier of non-Buddhist ascetics  
+    is a distinctive possession, and signifier of non-Buddhist ascetics
+
 [^12]: *odumbarakapupphaŋ va. Odumbaraka* (BJTS *odumbarika*) means
     “related to the *udumbara* tree, which is Ficus Gomerata, Sinh.
-    *dimbul.*  
-[^13]: *candamhi sasakaŋ yathā*  
+    *dimbul.*
+
+[^13]: *candamhi sasakaŋ yathā*
+
 [^14]: cty (p. 488) explains, “”as milk is hard to obtain for (or of)
     crows due to their being oppressed by \[having\] little, day and
-    night”  
-[^15]: i.e., hearing the Buddha, “a listening” *(savanaŋ*)  
+    night”
+
+[^15]: i.e., hearing the Buddha, “a listening” *(savanaŋ*)
+
 [^16]: lit., “we will receive eyes/vision our life”. BJTS gloss is weak
-    here:  
+    here:
+
 [^17]: PTS *Je* is obviously a typographical mistake for *Te* (BJTS’
-    reading)  
-[^18]: *jaṭābhārabharitā* (PTS), *jaṭābhārena bharitā* (BJTS)  
+    reading)
+
+[^18]: *jaṭābhārabharitā* (PTS), *jaṭābhārena bharitā* (BJTS)
+
 [^19]: *yugamattañ pekkhamānā,* lit., “looking ahead the extent of a
     plough,” i.e., just a little, keeping their eyes on the ground in
-    front of them  
+    front of them
+
 [^20]: reading *appakiccā aloluppā* with BJTS for PTS *appabhāsā
     alīlatā,* “saying little and having no playfulness (or very
     serious),” a possible but unusual reading; both terms of the BJTS
     reading, unlike those of the PTS reading, have solid witness in
-    other texts.  
-[^21]: *uñchāya caramānā*  
+    other texts.
+
+[^21]: *uñchāya caramānā*
+
 [^22]: *diyaḍḍhayojane sese,* lit., “when a half less than two leagues
     remained,” following BJTS Sinhala gloss

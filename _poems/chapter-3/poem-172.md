@@ -20,6 +20,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2115\]
 
 Thus indeed Venerable Nisseṇidāyaka Thera spoke these verses.  
-The legend of Nisseṇidāyaka Thera is finished.  
-[^1]: “Stairway-Donor”  
+The legend of Nisseṇidāyaka Thera is finished.
+
+[^1]: “Stairway-Donor”
+
 [^2]: “Lots of Loud Laughter”

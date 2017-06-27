@@ -15,6 +15,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[2618\]
 
 Thus indeed Venerable Ekapuṇḍarīka Thera spoke these verses.  
-The legend of Ekapuṇḍarīka Thera is finished.  
-[^1]: “One White Lotus-er”  
+The legend of Ekapuṇḍarīka Thera is finished.
+
+[^1]: “One White Lotus-er”
+
 [^2]: Here this puzzling name is used of a Lonely Buddha.

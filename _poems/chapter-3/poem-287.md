@@ -15,5 +15,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[2654\]
 
 Thus indeed Venerable Apadāniya Thera spoke these verses.  
-The legend of Apadāniya Thera is finished.  
+The legend of Apadāniya Thera is finished.
+
 [^1]: “*Apadāna*-er”

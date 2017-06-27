@@ -35,11 +35,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! \[2943\]
 
 Thus indeed Venerable Udakapūjaka Thera spoke these verses.  
-The legend of Udakapūjaka Thera is finished.  
+The legend of Udakapūjaka Thera is finished.
+
 [^1]: “Water-Offer-er” This *apadāna*, apparently supplied to fulfill
     the colophonic expectation of an *apadāna* so-named at this juncture
     in the text, precisely duplicates \#106, already given above (verses
-    \[1639-1645\]).  
+    \[1639-1645\]).
+
 [^2]: up to this point in the whole *Apadāna* text as received, save a
     few extra verses in the BJTS edition of the *Buddhāpadāna*, and
     minor variants in individual verses which in this translation are
@@ -64,8 +66,12 @@ The legend of Udakapūjaka Thera is finished.
     corresponding BJTS *apadāna* numbers are likewise provided in {fancy
     brackets} beside the PTS numbers in the heading of each poem. These
     latter, BJTS numbers maintain the base-ten structure of the editors,
-    unlike those of the PTS.  
-[^3]: *ghata-āsana*, presumably where oil oblations are made  
-[^4]: *huta-āsana*, where sacrifices are offered into the fire  
-[^5]: lit., "for the Biped-Lord”  
+    unlike those of the PTS.
+
+[^3]: *ghata-āsana*, presumably where oil oblations are made
+
+[^4]: *huta-āsana*, where sacrifices are offered into the fire
+
+[^5]: lit., "for the Biped-Lord”
+
 [^6]: “Thousand Kings”

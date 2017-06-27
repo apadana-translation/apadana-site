@@ -121,28 +121,42 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (25) \[2887\]
 
 Thus indeed Venerable Nigguṇḍipupphiya Thera spoke these verses.  
-The legend of Nigguṇḍipupphiya Thera is finished.  
+The legend of Nigguṇḍipupphiya Thera is finished.
+
 [^1]: “*Nigguṇḍi*-Flower-er.” Cf. \#205, above. Here PTS spells through
     nearly certain error *Nigguṇṭhiº.* I follow the BJTS reading here.
     *Nigguṇḍi* is a kind of tree, *Vitex negunda.* Sinh: *nika,* Engl.
     “chaste tree,” “Chinese chaste tree” “five-leafed chaste tree”
-    “horseshoe vitex”.  
-[^2]: or body (*kāyā*); this reading follows BJTS  
-[^3]: lit., sounds, objects of hearing  
+    “horseshoe vitex”.
+
+[^2]: or body (*kāyā*); this reading follows BJTS
+
+[^3]: lit., sounds, objects of hearing
+
 [^4]: vv\. 1-10 plus the first two feet of v. 11 here precisely parallel the
-    same verses of \#187, above.  
-[^5]: *bho,* BJTS glosses *pinvata* (“O meritorious one”)  
-[^6]: *saddhamme*  
-[^7]: *kusalaŋ*  
+    same verses of \#187, above.
+
+[^5]: *bho,* BJTS glosses *pinvata* (“O meritorious one”)
+
+[^6]: *saddhamme*
+
+[^7]: *kusalaŋ*
+
 [^8]: lit., “\[be a person\] who is not one with ill-will, \[one who
-    is\] free of attachment.”  
+    is\] free of attachment.”
+
 [^9]: reading *devā devaṃ yadā vidū cavantaṃ* with BJTS for PTS
-    *devadevaŋ yadā viduŋ*  
-[^10]: “Cheerful” or “Good-Minded”  
-[^11]: *atthadhammānusāsitvā*  
-[^12]: only in BJTS.  
+    *devadevaŋ yadā viduŋ*
+
+[^10]: “Cheerful” or “Good-Minded”
+
+[^11]: *atthadhammānusāsitvā*
+
+[^12]: only in BJTS.
+
 [^13]: here is the primary divergence, itself quite small, from the
-    parallel passage in \#187  
+    parallel passage in \#187
+
 [^14]: accepting the PTS reading *dhāretu* and taking it as the nom.
     sing. the verbal noun *dhāretar,* “bearer in mind, causer to
     remember, instructor, teacher” in the range supplied by RD*.*
@@ -151,34 +165,47 @@ The legend of Nigguṇḍipupphiya Thera is finished.
     (*dharati*), mostly in this causative sense *(dhāreti,* to carry,
     possess, put on, hold back, restrain, bear in mind, understand) with
     the same basic intent that “I was the support of my mother \[rather
-    than the other way around\] even when I was in her womb.”  
+    than the other way around\] even when I was in her womb.”
+
 [^15]: Tidasa, the heaven of the (roughly) thirty gods, equivalent to
-    Tāvatiŋsa  
+    Tāvatiŋsa
+
 [^16]: reading *samokkamiṃ* with BJTS for PTS *samokkamaŋ,* which would
-    be a more impersonal still “there was a coming into a mother’s womb”  
+    be a more impersonal still “there was a coming into a mother’s womb”
+
 [^17]: *kaṇha+sukka*; “dark and bright” “black and white,” (one of the
     colorless color-sensations); by extension merit or demerit, *puñña*
     or *pāpa.* “Black” and “White” carry similar connotations in
-    English, so I have translated accordingly.  
+    English, so I have translated accordingly.
+
 [^18]: *ārāma,* any of a number of places, so-designated, where the
     Buddha dwelt (and where many of the *sutta*s were preached). Given
     the reference to Sāvatthi in the present instance (v. 16) this would
-    likely be the *ārāma* donated by Anāthapiṇḍika*,* in the Jetavāna.  
-[^19]: *pāvacana* = *dhamma*, the “Good Word”  
-[^20]: *bahujañña,* “of the populace,” “among the multitude”  
+    likely be the *ārāma* donated by Anāthapiṇḍika*,* in the Jetavāna.
+
+[^19]: *pāvacana* = *dhamma*, the “Good Word”
+
+[^20]: *bahujañña,* “of the populace,” “among the multitude”
+
 [^21]: *samaya*. Alternately, “I \[too\] went to the festival,” (which
     may overdetermine it) or (following cty, p. 477) “the gathering”
     (*samūhaṃ*), “I went to the place of gathering” (*samāgamaṭṭhānaṃ
-    ahaṃ agamāsin ti attho*).  
+    ahaṃ agamāsin ti attho*).
+
 [^22]: lit., “the follower named Ānanda,” He is \#10, above. His name
     means “Joy.” The two halves of the verse barely connect, which may
     indicate some hiatus or a missing two feet, such that these two feet
     would belong with the subsequent verse, which would work better for
-    the flow of the Pāli.  
-[^23]: taking *mahājutiŋ* as a Buddha-epithet.  
-[^24]: PTS *nigguṇṭhi*  
-[^25]: lit., “in the twenty-five-thousandth of the aeons”  
-[^26]: lit., kṣatriyan  
+    the flow of the Pāli.
+
+[^23]: taking *mahājutiŋ* as a Buddha-epithet.
+
+[^24]: PTS *nigguṇṭhi*
+
+[^25]: lit., “in the twenty-five-thousandth of the aeons”
+
+[^26]: lit., kṣatriyan
+
 [^27]: the text is based on two large numbers, “*abbudas* and
     *nirabudda*s” of previous/subsequent lives as a kṣatriyan king,
     apparently within that single aeon (the 25,000th ago). Cty (p. 477)

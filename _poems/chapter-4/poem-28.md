@@ -471,67 +471,97 @@ all of my karma is destroyed:
 I worship your feet, Eyeful One.” \[1028\]
 
 Thus indeed Bhikkhunī Yasodharā spoke these verses.  
-The legend of *Yasodharā* Therī[^71] is finished  
-[^1]: these first six verses appear in BJTS, but not PTS.  
-[^2]: *mahiddhikā* = possessing great magical powers.  
+The legend of *Yasodharā* Therī[^71] is finished
+
+[^1]: these first six verses appear in BJTS, but not PTS.
+
+[^2]: *mahiddhikā* = possessing great magical powers.
+
 [^3]: reading *satehi satassehi sā* (BJTS) for *satehi saha pañcahi*
     (“by five hundred,” PTS). As the subsequent three *apadāna*s make
     clear, these authors believed that Yasodharā approached the Buddha
-    accompanied by considerably more than 500 nuns.  
-[^4]: reading *ettha* with BJTS for PTS *nāma* (“indeed”)  
-[^5]: reading *samupāsanti* (“attend upon together” “honor jointly”)  
-[^6]: lit., “to/of the Teacher,” “give reverence *to* the Teacher”  
+    accompanied by considerably more than 500 nuns.
+
+[^4]: reading *ettha* with BJTS for PTS *nāma* (“indeed”)
+
+[^5]: reading *samupāsanti* (“attend upon together” “honor jointly”)
+
+[^6]: lit., “to/of the Teacher,” “give reverence *to* the Teacher”
+
 [^7]: PTS *khalitaŋ ce tavaŋ mayi,* BJTS *khalitaṃ ce mamaṃ tayi*, both
-    to be construed the same way  
-[^8]: *munindo*  
-[^9]: *câpi*, lit., “and also”  
+    to be construed the same way
+
+[^8]: *munindo*
+
+[^9]: *câpi*, lit., “and also”
+
 [^10]: “in the dispensation” may be governed by “all the assemblies” or,
     as I have it here, “doubt;” the grammar is ambiguous; the alternate
     reading would be “let doubt be cut off for all the/assemblies in th’
-    dispensation”  
-[^11]: *te pajāpatī*  
+    dispensation”
+
+[^11]: *te pajāpatī*
+
 [^12]: reading *itthi-y-aṅge* (lit., “in the body of women”) with BJTS
-    for PTS *itthi atho* (“and a woman who is established”)  
-[^13]: *devatā,* or “deities” “supernaturals” “fairies” “spirits”  
-[^14]: *samānasukhadukkhā tā. *  
-[^15]: *iddhi anekā,* lit., “superpowers”  
+    for PTS *itthi atho* (“and a woman who is established”)
+
+[^13]: *devatā,* or “deities” “supernaturals” “fairies” “spirits”
+
+[^14]: *samānasukhadukkhā tā. *
+
+[^15]: *iddhi anekā,* lit., “superpowers”
+
 [^16]: this verse does not appear in PTS, whereas PTS supplies (15)
     which does not appear in BJTS. The two verses are sufficiently
     different to warrant inclusion of both, though it creates some
     unevenness in the flow of the narrative here. The Pāli is:
     *evamādīni vatvāna uppatitvāna ambaraṃ/iddhi anekā dassesi
-    buddhānuññā yasodharā*  
-[^17]: *abhivādetvā,* or “after saluting”  
-[^18]: *iddhiŋ*  
+    buddhānuññā yasodharā*
+
+[^17]: *abhivādetvā,* or “after saluting”
+
+[^18]: *iddhiŋ*
+
 [^19]: this verse does not appear here in BJTS, whereas BJTS supplies
     \[974\] which does not appear here in PTS. The two verses are
     sufficiently different to warrant inclusion of both, though it
     creates some unevenness in the flow of the narrative here. This
     verse does appear in BJTS below \[1054\], as in PTS, in the
     reduplication of Yasodharā’s *apadāna* as the *apadāna* of Eighteen
-    Thousand Buddhist Nuns Headed Up by Yasodharā.  
+    Thousand Buddhist Nuns Headed Up by Yasodharā.
+
 [^20]: *cakkavālaŋ samaŋ* (BJTS *cakkavāḷasamaṃ*) *kāyaŋ,* lit., “body
-    the same as the ring surrounding the universe”  
+    the same as the ring surrounding the universe”
+
 [^21]: or *Uttarakuru* “island” (*dīpa*). This verse presumes knowledge
     of the ancient Indian understanding of India (here *jambudīpaŋ*
     \[BJTS *°dīpo*\], “the Island of Rose-Apples”) as one of the four
     great islands or continents making up the whole world. It lies to
-    the south, with the other three being north, east and west of India.  
+    the south, with the other three being north, east and west of India.
+
 [^22]: lit., “in the ring surrounding the universe” (*cakkavālagiri°;*
-    BJTS *cakkavāḷagiri°*)  
-[^23]: *jamburukkha°,* lit., “a rose-apple tree”  
-[^24]: *°vaṇṇaŋ...dassayi*  
-[^25]: reading *phullapadmena* with BJTS for PTS *phullapaccena* (?)  
-[^26]: *dhammaŋ...puññataŋ,* alt. *suññataṃ* (“emptiness”!)  
+    BJTS *cakkavāḷagiri°*)
+
+[^23]: *jamburukkha°,* lit., “a rose-apple tree”
+
+[^24]: *°vaṇṇaŋ...dassayi*
+
+[^25]: reading *phullapadmena* with BJTS for PTS *phullapaccena* (?)
+
+[^26]: *dhammaŋ...puññataŋ,* alt. *suññataṃ* (“emptiness”!)
+
 [^27]: reading *buddhānaṃ* with BJTS (or PTS alt. *Buddhāna*) for PTS
-    *pubbānaŋ* (former)  
+    *pubbānaŋ* (former)
+
 [^28]: *saṅgaman te su-dassitaŋ* allows for a wide range of meanings;
     here I follow the BJTS in a fairly modest one. The half-verse could
     be taken more provocatively to mean, e.g., “when the Buddhas were
     World-Lords (or “during the time of the former World-Lords”) meeting
-    (or “intercourse”) with you was well seen \[by me\]”  
+    (or “intercourse”) with you was well seen \[by me\]”
+
 [^29]: reading *vārayitvā anācaraṃ* with BJTS for PTS *pācayantī
-    anāvaraŋ* (“burning/tormenting ?)  
+    anāvaraŋ* (“burning/tormenting ?)
+
 [^30]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity
     into which an arahant will not/cannot fall, D.iii.133 (and cf.
     D.iii.235 where only the first five appear as a set). This is
@@ -541,60 +571,99 @@ The legend of *Yasodharā* Therī[^71] is finished
     (5) cannot hoard anything for his own indulgence (6) cannot act
     wrongly through attachments (7) cannot act wrongly through hatred
     (8) cannot act wrongly through folly (9) cannot act wrongly through
-    fear  
+    fear
+
 [^31]: reading *sañcattaṃ* with BJTS (and PTS alt.) for PTS *samattaŋ*
-    (“fulfilled” “completed”)  
+    (“fulfilled” “completed”)
+
 [^32]: reading *°bhaṇḍe na gūhāmi* with BJTS for PTS *bhaṇḍena gūhāmi*
-    (“I conceal with a thing”)  
-[^33]: lit., “gone to”  
-[^34]: lit., “see,” fig. “know”  
+    (“I conceal with a thing”)
+
+[^33]: lit., “gone to”
+
+[^34]: lit., “see,” fig. “know”
+
 [^35]: reading *anubhuttaṃ* with BJTS for PTS *pariccattaŋ* (“are
-    sacrificed,” cf. PTS alt. *anubhontaŋ*)  
-[^36]: *saṃsāre,* or “wheel of life”  
-[^37]: lit., “in”  
-[^38]: *yaŋ dhammaŋ*  
-[^39]: lit., “Sambuddha”  
-[^40]: lit., “and”  
-[^41]: lit., “Sambuddha,” paralleling the usage in the previous verse  
+    sacrificed,” cf. PTS alt. *anubhontaŋ*)
+
+[^36]: *saṃsāre,* or “wheel of life”
+
+[^37]: lit., “in”
+
+[^38]: *yaŋ dhammaŋ*
+
+[^39]: lit., “Sambuddha”
+
+[^40]: lit., “and”
+
+[^41]: lit., “Sambuddha,” paralleling the usage in the previous verse
+
 [^42]: reading *gavesato buddhadhamme* with BJTS for PTS *gavesantā
-    buddhadhammaŋ* (“I, searching for the Buddha’s Teaching)  
-[^43]: lit., “doing *pūjā*”  
-[^44]: i.e., Sumedha  
+    buddhadhammaŋ* (“I, searching for the Buddha’s Teaching)
+
+[^43]: lit., “doing *pūjā*”
+
+[^44]: i.e., Sumedha
+
 [^45]: reading *cīrānupari āsīnaṃ* with BJTS for PTS *cirānugataŋ*
-    *dassitaŋ* (“associated for a long time, seen”)  
-[^46]: *patikantaŋ*, BJTS *atikantaṃ*  
-[^47]: *manoharaŋ*  
-[^48]: reading *ise* (voc.) with BJTS for PTS *isiŋ* (acc.)  
-[^49]: reading *tayo* with BJTS for PTS *tato*  
-[^50]: BJTS and PTS alt. read *samā* (“equal to”) for *saha* here,  
+    *dassitaŋ* (“associated for a long time, seen”)
+
+[^46]: *patikantaŋ*, BJTS *atikantaṃ*
+
+[^47]: *manoharaŋ*
+
+[^48]: reading *ise* (voc.) with BJTS for PTS *isiŋ* (acc.)
+
+[^49]: reading *tayo* with BJTS for PTS *tato*
+
+[^50]: BJTS and PTS alt. read *samā* (“equal to”) for *saha* here,
+
 [^51]: *bodhanatthāya tavaŋ* (PTS alt. *tava*); the phrase can also be
-    translated, “for the sake of your knowing \[me\]”  
-[^52]: or, as above, “for the sake of knowing \[me\]”  
-[^53]: reading *mahā-isiṃ* (acc.) with BJTS for PTS *mahā-isi* (nom.)  
-[^54]: lit., “the Great Hero prophesied”  
+    translated, “for the sake of your knowing \[me\]”
+
+[^52]: or, as above, “for the sake of knowing \[me\]”
+
+[^53]: reading *mahā-isiṃ* (acc.) with BJTS for PTS *mahā-isi* (nom.)
+
+[^54]: lit., “the Great Hero prophesied”
+
 [^55]: BJTS consigns this verse to an asterisked footnote, recognizing
-    that it occurs in a number of its alternate recensions.  
+    that it occurs in a number of its alternate recensions.
+
 [^56]: BJTS agrees with PTS in presenting this as *mahā-ise* (voc.) but
     reference alternate readings *mahā-isi* (nom.), presumably troubled
-    by the Buddha addressing Sumedha as “Great Sage”  
-[^57]: reading *manāpā* with BJTS for PTS *manasā*  
+    by the Buddha addressing Sumedha as “Great Sage”
+
+[^57]: reading *manāpā* with BJTS for PTS *manasā*
+
 [^58]: reading *yathā...anurakkhanti sāmino* with BJTS for PTS
-    *yathā...anurakkhati sāmi no* (“as our master protects”)  
-[^59]: lit., “there is no agitation \[to my mind\]”  
+    *yathā...anurakkhati sāmi no* (“as our master protects”)
+
+[^59]: lit., “there is no agitation \[to my mind\]”
+
 [^60]: This and the following 19 verses (20 verses total) are not
     included here in BJTS. vv. (62) and (63) do appear at BJTS
     \[1092\]-\[1093\]
 
-[^61]: lit., “and a woman”  
-[^62]: lit., “and a woman”  
-[^63]: *etesaŋ devadevānaŋ*  
+[^61]: lit., “and a woman”
+
+[^62]: lit., “and a woman”
+
+[^63]: *etesaŋ devadevānaŋ*
+
 [^64]: *adhikāraŋ sadā mayhaŋ,* lit., “my service is constant” “my
-    service is daily”  
-[^65]: or do: from *carati*  
-[^66]: *saddhamma°,* lit “good Teaching”  
-[^67]: *dhammesu ciṇṇānaŋ sadā saddhamma-carino, *  
-[^68]: *aṭṭhamāse,* BJTS reads *addhamāse* (“half a month”)  
-[^69]: reading *bahu ‘neke* with BJTS for PTS *buhun eke*  
+    service is daily”
+
+[^65]: or do: from *carati*
+
+[^66]: *saddhamma°,* lit “good Teaching”
+
+[^67]: *dhammesu ciṇṇānaŋ sadā saddhamma-carino, *
+
+[^68]: *aṭṭhamāse,* BJTS reads *addhamāse* (“half a month”)
+
+[^69]: reading *bahu ‘neke* with BJTS for PTS *buhun eke*
+
 [^70]: this and the following concluding verses do not appear here in
     PTS, and are unusual (though not unique) for *Apadāna* in which
     individual poems usually conclude with what I’ve dubbed the
@@ -603,5 +672,6 @@ The legend of *Yasodharā* Therī[^71] is finished
     unusual post-refrain position, below, as vv. 57-59 (plus 60) of
     *apadāna* \#30, Eighteen Thousand Nuns with Yasodharā, and are also
     in this position in the BJTS version of that *apadāna* (vv.
-    \[1100-1102\] plus \[1103\]).  
+    \[1100-1102\] plus \[1103\]).
+
 [^71]: PTS omits Therī, which I supply from BJTS.

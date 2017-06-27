@@ -40,8 +40,11 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[1525\]
 
 Thus indeed Venerable Adhopupphiya Thera spoke these verses.  
-The legend of Adhopupphiya Thera is finished.  
-[^1]: “Below-Flower-er”  
+The legend of Adhopupphiya Thera is finished.
+
+[^1]: “Below-Flower-er”
+
 [^2]: lit., “when there was looking forward by the hero \[alt. wise
-    one\],” i.e., “when he saw me”.  
+    one\],” i.e., “when he saw me”.
+
 [^3]: lit., “I entered into the mountain.”

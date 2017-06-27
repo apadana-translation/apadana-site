@@ -64,25 +64,43 @@ six special knowledges mastered,
 Thus indeed Eighteen Thousand Kṣatriyan Maiden Buddhist Nuns  
 Headed Up by Famous (Yasavatī) spoke these verses.  
 The legend of Eighteen Thousand Kṣatriyan Maiden Buddhist Nuns  
-Headed Up by Famous (Yasavatī) is finished  
-[^1]: this name is supplied only by BJTS  
-[^2]: BJTS reads “The *Apadāna* of Buddhist Nuns Headed Up By Yasavatī”  
-[^3]: or “defilements” *sabbāsavā*  
+Headed Up by Famous (Yasavatī) is finished
+
+[^1]: this name is supplied only by BJTS
+
+[^2]: BJTS reads “The *Apadāna* of Buddhist Nuns Headed Up By Yasavatī”
+
+[^3]: or “defilements” *sabbāsavā*
+
 [^4]: reading *ca no n’atthi* with BJTS for PTS *sabbāsavāmano n’atthi*
-    (“there is no mind with all outflows”)  
-[^5]: or “wholesome”  
-[^6]: *yaŋ kiñci sabbam patthitaŋ*  
+    (“there is no mind with all outflows”)
+
+[^5]: or “wholesome”
+
+[^6]: *yaŋ kiñci sabbam patthitaŋ*
+
 [^7]: *sabbaŋ...paribhogaŋ;* BJTS reads *yaṃ kiñci sādhu patthitaṃ*
-    (“whatever excellently wished”)  
-[^8]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*  
-[^9]: *paribhogaŋ*  
-[^10]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*  
-[^11]: *kat’ amhehi.* BJTS (and PTS alt.) reads *katam etaṃ*  
-[^12]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*  
-[^13]: *°sampadā*  
+    (“whatever excellently wished”)
+
+[^8]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
+
+[^9]: *paribhogaŋ*
+
+[^10]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
+
+[^11]: *kat’ amhehi.* BJTS (and PTS alt.) reads *katam etaṃ*
+
+[^12]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
+
+[^13]: *°sampadā*
+
 [^14]: reading BJTS (and, partly, PTS alt.) *mānusikam atikkantā* for
-    PTS *mānussikam anikkantā*  
-[^15]: *jātiyā,* lit., “by birth,” the clear theme of this verse  
-[^16]: lit., “born in the clan”  
-[^17]: *lābhasakkārapūjitā*  
+    PTS *mānussikam anikkantā*
+
+[^15]: *jātiyā,* lit., “by birth,” the clear theme of this verse
+
+[^16]: lit., “born in the clan”
+
+[^17]: *lābhasakkārapūjitā*
+
 [^18]: lit., “given *pūjā*”

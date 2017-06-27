@@ -31,12 +31,16 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2830\]
 
 Thus indeed Venerable Ummāpupphiya Thera spoke these verses.  
-The legend of Ummāpupphiya Thera is finished.  
-[^1]: “\[Blue\] Flax-Flower-er.” cf. \#145.  
+The legend of Ummāpupphiya Thera is finished.
+
+[^1]: “\[Blue\] Flax-Flower-er.” cf. \#145.
+
 [^2]: *samādhinā upaviṭṭham* fr *upavisati* (reading BJTS for PTS
-    *upāviṭṭham*)  
+    *upāviṭṭham*)
+
 [^3]: *ummāpuppha* (Skt. *umāpuṣpa*), Linum usitatissimum, Linseed. The
     small flowers of this fiber-bearing plant are distinctively and
     deeply blue in color, and the seeds, as the English name implies,
-    bear a useful oil.  
+    bear a useful oil.
+
 [^4]: “Covered on all Sides”

@@ -206,81 +206,140 @@ and two hundred verses \[as well\]
 \[plus\] eighteen \[verses\] more than that.  
 To that extent the *Buddhāpadāna, Paccekabuddhāpadāna and Therāpadāna*
 are finished. Let it be the basis for nirvana![^58]  
-The Bhaddiya Chapter, the Fifty-Fifth[^59]  
+The Bhaddiya Chapter, the Fifty-Fifth[^59]
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Little Good Scent,” perhaps to distinguish him from the Sugandha
     Thera whose *apadāna* appears above as \#527 {530}, with which the
     present *apadāna* shares some verses. DPPN I: 904 says he is
-    probably identical with Subhūti Thera  
-[^3]: One BJTS alt. reads *gottena,* “by lineage”  
-[^4]: *vadataŋ varo*  
-[^5]: *anuvyañjanasampanno*  
-[^6]: *dvattiŋsavaralakkhaṇo*  
-[^7]: lit., “Surrounded by”  
-[^8]: *raŋsijālasamosaṭo*  
-[^9]: *assāsetā*  
-[^10]: lit., *samādhi*  
+    probably identical with Subhūti Thera
+
+[^3]: One BJTS alt. reads *gottena,* “by lineage”
+
+[^4]: *vadataŋ varo*
+
+[^5]: *anuvyañjanasampanno*
+
+[^6]: *dvattiŋsavaralakkhaṇo*
+
+[^7]: lit., “Surrounded by”
+
+[^8]: *raŋsijālasamosaṭo*
+
+[^9]: *assāsetā*
+
+[^10]: lit., *samādhi*
+
 [^11]: *pahūtadhanadhaññasmiŋ* taking the compound as a *dvandva*, see
     RD, *dhana* s.v. for a discussion of the options here. This is a
-    stock phrase which means “rich in abundant treasures”  
-[^12]: *amataŋ ca manoharaŋ*  
-[^13]: *dvattiŋsalakkhaṇadharo*  
-[^14]: *anuvyañjanasampanno*  
-[^15]: *raŋsijālaparikkhitto*  
-[^16]: *ditto va kanakācalo*  
-[^17]: lit., “Surrounded by”  
-[^18]: *soṇṇānano*  
-[^19]: *karuṇāpuṇṇahadayo*  
+    stock phrase which means “rich in abundant treasures”
+
+[^12]: *amataŋ ca manoharaŋ*
+
+[^13]: *dvattiŋsalakkhaṇadharo*
+
+[^14]: *anuvyañjanasampanno*
+
+[^15]: *raŋsijālaparikkhitto*
+
+[^16]: *ditto va kanakācalo*
+
+[^17]: lit., “Surrounded by”
+
+[^18]: *soṇṇānano*
+
+[^19]: *karuṇāpuṇṇahadayo*
+
 [^20]: reading *guṇena* with BJTS (and PTS alt., also alt. *guṇe*, “in
-    virtue”) for PTS *vivaddho* (“without aging”?)  
-[^21]: *lokavissutakittī*  
-[^22]: *yasasā vitato*  
-[^23]: *ākāsasadiso*  
-[^24]: *asaṅga-citto*  
-[^25]: *patiṭṭhā,* support, resting place  
+    virtue”) for PTS *vivaddho* (“without aging”?)
+
+[^21]: *lokavissutakittī*
+
+[^22]: *yasasā vitato*
+
+[^23]: *ākāsasadiso*
+
+[^24]: *asaṅga-citto*
+
+[^25]: *patiṭṭhā,* support, resting place
+
 [^26]: reading *kuvāda°* with BJTS (and PTS alt.) for PTS *kupāda°.* PTS
     reads the second component of the compound as °*kaccha* (“reed,”
     “marshy land”) and BJTS reads it as *gaccha* (“shrub” “small
-    plant”); “undergrowth” attempts to capture both meanings.  
-[^27]: *agado viya*, “counter-poison” “medicine”  
+    plant”); “undergrowth” attempts to capture both meanings.
+
+[^27]: *agado viya*, “counter-poison” “medicine”
+
 [^28]: reading *kilesavisanāsako* with BJTS for PTS *°nāyako* (“he is
-    the Leader of poison of the defilements”)  
-[^29]: *guṇagandhavibhūsito*  
-[^30]: *guṇānaŋ ākaro*  
-[^31]: *narājañño*  
-[^32]: *kilesamalahārako,* or “defilement’s stains”  
-[^33]: *mārasenāpamaddano,* BJTS reads *mārasenappamaddano*  
+    the Leader of poison of the defilements”)
+
+[^29]: *guṇagandhavibhūsito*
+
+[^30]: *guṇānaŋ ākaro*
+
+[^31]: *narājañño*
+
+[^32]: *kilesamalahārako,* or “defilement’s stains”
+
+[^33]: *mārasenāpamaddano,* BJTS reads *mārasenappamaddano*
+
 [^34]: *bojjhaṅgaratan’issaro,* a play on the “seven gems” (the wheel,
-    etc.) of the wheel-turning monarch  
-[^35]: *mahābhisakkasaṅkāso*  
-[^36]: *dosavyādhitikicchako*  
-[^37]: *°viphālako*, lit., “de-fruiter,” BJTS Sinh. gloss *sindunā*  
-[^38]: *diṭṭhigaṇḍa°*  
-[^39]: *lokapajjoto*  
-[^40]: *sanarāmarasakkato*  
-[^41]: *narādicco*  
-[^42]: lit., “in”  
+    etc.) of the wheel-turning monarch
+
+[^35]: *mahābhisakkasaṅkāso*
+
+[^36]: *dosavyādhitikicchako*
+
+[^37]: *°viphālako*, lit., “de-fruiter,” BJTS Sinh. gloss *sindunā*
+
+[^38]: *diṭṭhigaṇḍa°*
+
+[^39]: *lokapajjoto*
+
+[^40]: *sanarāmarasakkato*
+
+[^41]: *narādicco*
+
+[^42]: lit., “in”
+
 [^43]: *sugatūpago,* lit., “approaching well-being”. Could also be read
-    as: through morals approaching the Well-Gone-One  
-[^44]: *nibbāti,* or “he cools off”  
-[^45]: *mahāssādaŋ*  
-[^46]: *mahārasaŋ*  
-[^47]: lit., “to the Well-Gone-One  
+    as: through morals approaching the Well-Gone-One
+
+[^44]: *nibbāti,* or “he cools off”
+
+[^45]: *mahāssādaŋ*
+
+[^46]: *mahārasaŋ*
+
+[^47]: lit., “to the Well-Gone-One
+
 [^48]: reading *māse aṭṭhadinesv-ahaṃ* with BJTS for PTS *māse aṭṭhadine
-    svaha*  
-[^49]: *paṇidhāya,* or “firm resolve”, Sinh. *prārthanāva*  
-[^50]: PTS *yahiŋ tahiŋ;* BJTS *tahiṃ tahiṃ*  
-[^51]: lit., “my mother was fragrant through her body”  
-[^52]: \#389 {392}, above, esp. vv.66-71 \[3648-3653\]  
-[^53]: or “cultivating \[those\] four in the Teaching”  
-[^54]: lit., “destruction of the outflows”  
-[^55]: or “one who had gone forth”: *pabbajito*  
-[^56]: this verse is in a more complex meter, with twelve-syllable feet.  
-[^57]: lit., “here”  
+    svaha*
+
+[^49]: *paṇidhāya,* or “firm resolve”, Sinh. *prārthanāva*
+
+[^50]: PTS *yahiŋ tahiŋ;* BJTS *tahiṃ tahiṃ*
+
+[^51]: lit., “my mother was fragrant through her body”
+
+[^52]: \#389 {392}, above, esp. vv.66-71 \[3648-3653\]
+
+[^53]: or “cultivating \[those\] four in the Teaching”
+
+[^54]: lit., “destruction of the outflows”
+
+[^55]: or “one who had gone forth”: *pabbajito*
+
+[^56]: this verse is in a more complex meter, with twelve-syllable feet.
+
+[^57]: lit., “here”
+
 [^58]: BJTS omits these two concluding lines, because the BJTS recension
     of the *apadāna* does **not** end here, even though BJTS includes
-    these chapter summary verses for an incomplete hundred (*sātakaṃ*).  
+    these chapter summary verses for an incomplete hundred (*sātakaṃ*).
+
 [^59]: BJTS places this statement above the summary, rather than after
     it

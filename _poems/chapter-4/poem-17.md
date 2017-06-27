@@ -944,7 +944,8 @@ With wisdom’s seven parts attained,
 you all should end \[your\] suffering.[^120] (189) \[415\]
 
 Thus indeed Bhikkhunī Mahāpajāpatīgotamī spoke these verses.  
-The legend of Mahāpajāpatīgotamī Therī is finished.  
+The legend of Mahāpajāpatīgotamī Therī is finished.
+
 [^1]: “Female Gotama,” “the Gotamid.” Her full name is given in the
     colophon as Mahāpajāpatī Gotamī, as she is addressed throughout the
     canon. She was a historical nun, the sister of the Buddha’s natural
@@ -953,7 +954,8 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
     his maternal aunt, Sinh. *puñci ammā*), and as his father’s wife
     (hence step-mother). She was the founder and leader of the nuns, who
     convinced Ānanda to beg the Buddha for their order to be
-    established.  
+    established.
+
 [^2]: there are numerous possibilities for translation of this string of
     locatives, because “delightful” (*ramme*) can modify either “city”
     (*pure*) or “nuns’ refuge” (*bhikkhunupassaye*), and the texts
@@ -962,7 +964,8 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
     previously-published translation of this *apadāna.* There is great
     disagreement in the manuscripts about this term: PTS offers
     *petapūre* (“filled with hungry ghosts” ?) and *gate* (“\[to which
-    she had\] gone”); BJTS alt. has *yeva* (“indeed”).  
+    she had\] gone”); BJTS alt. has *yeva* (“indeed”).
+
 [^3]: here the first two feet of the BJTS verse are affixed to the
     previous verse by PTS, causing shuffling in the subsequent verses as
     indicated in my numbering of them. I have followed BJTS in arranging
@@ -974,7 +977,8 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
     going off alone “with” them. I conversely take the terms as
     ablatives, she’s gone off alone *from* the nuns. BJTS gloss takes
     them as instrumentals as well. In either event, she lives *with*
-    them but goes off *from* them; the meaning is really the same.  
+    them but goes off *from* them; the meaning is really the same.
+
 [^4]: or, as my earlier translation has it, “cannot bear”. The term
     (*sakkomi*) carries such connotations in vernacular usage and this
     is how I originally understood the text. However, in keeping with
@@ -983,102 +987,157 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
     life’s constituents (or additionally an expression of maternal
     sentiment) it might be a simple statement of fact, i.e., she
     realizes it’s time to do and that means she’ll die before the Buddha
-    and great followers.  
+    and great followers.
+
 [^5]: PTS reads *paṭihacc’ āyusaṅkhāre*, which I follow here, though
     BJTS *paṭtigacc’* (alt. *paṭikacc’*), = “previous,” in which case
     *āyusaṅkhāre* might be the object of *ossajitvāna*, hence: “letting
-    go of the constituents of my previous life”.  
-[^6]: PTS and BJTS agree in presenting this as a six-footed verse.  
+    go of the constituents of my previous life”.
+
+[^6]: PTS and BJTS agree in presenting this as a six-footed verse.
+
 [^7]: BJTS and PTS alt. read *mittā* (“friendly”) for PTS “all”
-    (*sabbā*)  
-[^8]: lit., “and lamentations”  
-[^9]: *sūyante,* BJTS (and PTS alt.) reads *sūyanti*  
-[^10]: PTS and BJTS agree in presenting this as a six-footed verse.  
-[^11]: *subbate*, also “Compliant One” “Good Vow”  
-[^12]: lit., “who are going to nirvana”  
+    (*sabbā*)
+
+[^8]: lit., “and lamentations”
+
+[^9]: *sūyante,* BJTS (and PTS alt.) reads *sūyanti*
+
+[^10]: PTS and BJTS agree in presenting this as a six-footed verse.
+
+[^11]: *subbate*, also “Compliant One” “Good Vow”
+
+[^12]: lit., “who are going to nirvana”
+
 [^13]: reading *niggacchi bhikkhunīnilayā* with BJTS for PTS *niggañchi
-    bhikkhunīlayanā*  
+    bhikkhunīlayanā*
+
 [^14]: *sugatorasā, “*the \[pl. fem.\] legitimate descendants of the
-    Well-Gone-One,” that is, the goddesses living in the nuns’ residence  
-[^15]: lit., “rivers”  
+    Well-Gone-One,” that is, the goddesses living in the nuns’ residence
+
+[^15]: lit., “rivers”
+
 [^16]: *upāsikā*. Grammatically, this could be plural (as I take it,
     following PTS plural verb *abravuŋ*) or singular (“a faithful
     laywoman”), which seems to be how BJTS takes it (reading the verb as
-    singular, *abraviṃ*)  
+    singular, *abraviṃ*)
+
 [^17]: reading *vajantiṃ taṃ* with BJTS for PTS *vajantīnaŋ*
-    (“them...\[their\] feet”)  
+    (“them...\[their\] feet”)
+
 [^18]: I follow BJTS Sinh gloss in now taking this as a vocative. BJTS
     (and PTS alt) reads *mahābhoge* for *mahābhāge*, but glosses
-    *mahābhāgyavat uttamāvani*  
+    *mahābhāgyavat uttamāvani*
+
 [^19]: or “pleased,” *pasīdassu*. BJTS Sinhala gloss *(apa kerehi*)
-    *pahadinu,* “be satisfied \[or pleased\] (with us)”  
+    *pahadinu,* “be satisfied \[or pleased\] (with us)”
+
 [^20]: lit., “suffering *\[dukkhaŋ\]* is understood by me”. The
     following feet of this verse follow the same grammatical pattern,
-    summarizing her full attainment of the Four Noble Truths.  
-[^21]: PTS omits this classification, found in BJTS  
-[^22]: see *Therāpadāna* above, \#7  
-[^23]: see *Therāpadāna* above, \#10.  
+    summarizing her full attainment of the Four Noble Truths.
+
+[^21]: PTS omits this classification, found in BJTS
+
+[^22]: see *Therāpadāna* above, \#7
+
+[^23]: see *Therāpadāna* above, \#10.
+
 [^24]: see *Therāpadāna* above, \#13; 403 {406}; 542 {545}. lit.,
     “...Nanda, etc.;” the point is not merely that these three monks
-    remain, but that all the monks like them remain.  
+    remain, but that all the monks like them remain.
+
 [^25]: see *Therāpadāna* above, \#16. As the Buddha’s son, by the logic
-    of this text in particular, he was Gotamī’s grandson.  
-[^26]: lit., “of”  
-[^27]: *ussito*  
-[^28]: *Māramaddano*  
-[^29]: *nātha*  
-[^30]: *saddhammasukhado*  
-[^31]: or “through”  
-[^32]: *rūpakāyo..tava*  
-[^33]: or “of the Teaching”: *dhammakāya*  
-[^34]: or “of the Teaching”: *dhammakhīram*  
+    of this text in particular, he was Gotamī’s grandson.
+
+[^26]: lit., “of”
+
+[^27]: *ussito*
+
+[^28]: *Māramaddano*
+
+[^29]: *nātha*
+
+[^30]: *saddhammasukhado*
+
+[^31]: or “through”
+
+[^32]: *rūpakāyo..tava*
+
+[^33]: or “of the Teaching”: *dhammakāya*
+
+[^34]: or “of the Teaching”: *dhammakhīram*
+
 [^35]: PTS reads *puttakāmā thiyo tāva labhantaŋ tādisaŋ sutaŋ!* (lit.,
     “women who desire sons, receiving of you as son” which I formerly
     translated, in retrospect overly loosely, “to get a son like you
     sates all desire for sons.” The present translation follows BJTS
     reading *puttakāmā thiyo yā tā labhantu nādisaṃ sutaṃ* (lit., “those
     women who are desiring sons, they \[want\] to obtain a son such as
-    \[you\])  
-[^36]: *dukkhantakara*  
+    \[you\])
+
+[^36]: *dukkhantakara*
+
 [^37]: reading *puttapemasā* with BJTS for PTS *putta pemasā* (“with
-    love, O son”)  
-[^38]: lit., “\[his\] maternal aunt”  
+    love, O son”)
+
+[^38]: lit., “\[his\] maternal aunt”
+
 [^39]: *bālakkaŋ,* lit., “young sun,” “a pale sun.” BJTS Sinh. gloss
-    *bālārka.* lit., “like a pale sun...”  
-[^40]: lit., “from,” i.e., “emerging from” “coming out from behind”  
-[^41]: *sañjhā-ghanā,* lit., “from an evening cloud”  
-[^42]: *narādiccaŋ*  
-[^43]: *ādiccakulaketunaŋ* (BJTS reads *°kaṃ*)  
-[^44]: lit., “not”  
-[^45]: *itthiyo nāma...sabbadosakarā matā*  
-[^46]: *karuṇākara*  
-[^47]: *khamādhipa*  
+    *bālārka.* lit., “like a pale sun...”
+
+[^40]: lit., “from,” i.e., “emerging from” “coming out from behind”
+
+[^41]: *sañjhā-ghanā,* lit., “from an evening cloud”
+
+[^42]: *narādiccaŋ*
+
+[^43]: *ādiccakulaketunaŋ* (BJTS reads *°kaṃ*)
+
+[^44]: lit., “not”
+
+[^45]: *itthiyo nāma...sabbadosakarā matā*
+
+[^46]: *karuṇākara*
+
+[^47]: *khamādhipa*
+
 [^48]: here I diverge from my earlier translation, following BJTS in
     understanding this rather enigmatic verse, starting with taking it
     as the beginning of the Buddha’s speech rather than the end of
-    Gotamī’s speech, and translating accordingly.  
-[^49]: *vyasanaŋ gahānaŋ disvāna*  
+    Gotamī’s speech, and translating accordingly.
+
+[^49]: *vyasanaŋ gahānaŋ disvāna*
+
 [^50]: This, and the following two verses present in both BJTS and PTS
-    in a different meter with 11-syllable feet. I translate accordingly.  
-[^51]: *narapuṅgava*  
+    in a different meter with 11-syllable feet. I translate accordingly.
+
+[^51]: *narapuṅgava*
+
 [^52]: *raṇantaga,* lit., “O one gone to the end of the battle” or “he
     by whom the battle reaches its end”. BJTS reads *guṇandhara*, “O
-    Virtue-Bearer”  
-[^53]: lit., “doing *pūjā* to”  
+    Virtue-Bearer”
+
+[^53]: lit., “doing *pūjā* to”
+
 [^54]: BJTS reads *suvākyena sirīmato*, “due to the good teaching of the
-    resplendent one”.  
-[^55]: *subbata*  
+    resplendent one”.
+
+[^55]: *subbata*
+
 [^56]: lit., “then she caused to hear” (PTS: *tato sā anusāvetvā*) or
     “then she caused to be admonished/advised/instructed” (BJTS:
     *anusāsetvā*); PTS also gives alts. *anusāmetvā* (“caused to be
     appeased/calmed”) and *anubhāvetvā* (“caused to experience”). Really
     any of these readings would be appropriate to what follows as Gotamī
     proceeds to tell, informs, advise and console while conveying an
-    emotional message to her beloved kinsfolk/co-monastics/co-followers.  
-[^57]: lit., “she said this:”  
+    emotional message to her beloved kinsfolk/co-monastics/co-followers.
+
+[^57]: lit., “she said this:”
+
 [^58]: *nibbiṇṇā*. BJTS (*nibbinnā*) and PTS alts. (*nibbandā,
     nibbindā*) are all forms of the same verb, *nibbindati*), to be
-    wearied of, which regularly (as here) takes the locative.  
+    wearied of, which regularly (as here) takes the locative.
+
 [^59]: reading *dukkhasaṅghāta* with BJTS for the
     metrically-questionable but evocative PTS *dukkhapaṅke* (“\[smeared
     with\] the mud of dis-ease”) and BJTS alt. *dukkhasaṅghāṭe* (which
@@ -1087,100 +1146,161 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
     out one of the term’s literal meanings (physical illness) as well as
     its connotation of psychological unrest and in keeping with the
     other descriptions of the aged body in this verse. My earlier
-    translation, following PTS, gives “suffering’s slime”  
+    translation, following PTS, gives “suffering’s slime”
+
 [^60]: reading *nānākalimalākiṇṇe* with BJTS (and PTS alt.) for PTS
     *nānākalala-m-ākiṇṇe* (“smeared with various mud” -- but note that
     *mala* in the accepted reading can also mean “dirt” or “mud” or any
-    impurity in addition to “flaw” or “fault”)  
+    impurity in addition to “flaw” or “fault”)
+
 [^61]: *nirīhake*, in juxtaposition with the previous adjective
-    *parāyatte*, lit., “activity of others,” hence “dependent on others”  
+    *parāyatte*, lit., “activity of others,” hence “dependent on others”
+
 [^62]: *nidhanaŋ,* lit., “without wealth \[of karma\],” or more
-    literally, “possessionless”  
+    literally, “possessionless”
+
 [^63]: BJTS divides up the adverb taken as “similing” (*hāsantiŋ*) as
-    *hā santiṃ,* “Alas! peacefully...” or “Alas! to peace...”  
-[^64]: lit., “O deep one, O ocean of wisdom”  
+    *hā santiṃ,* “Alas! peacefully...” or “Alas! to peace...”
+
+[^64]: lit., “O deep one, O ocean of wisdom”
+
 [^65]: reading *nibbānaṃ samupāgataṃ* with BJTS for PTS *nibbānattaŋ*
     (“nirvana-ness”) and PTS alt (and BJTS alt.) *nibbānantaŋ,* “the
-    goal of nirvana,” which I followed in my earlier translation.  
-[^66]: *porāṇehi*, or (as in my earlier translation) “elders”  
+    goal of nirvana,” which I followed in my earlier translation.
+
+[^66]: *porāṇehi*, or (as in my earlier translation) “elders”
+
 [^67]: Ānanda is remembered to have remembered a huge quantity of the
-    Buddhist canon, prior to its fixing and ultimate writing down.  
-[^68]: Thig 161  
-[^69]: *tibhavantago*  
-[^70]: *thīnaŋ dhammābhisamaye*  
-[^71]: *tathā*, lit., “thus” “in that way”  
-[^72]: or “went”  
+    Buddhist canon, prior to its fixing and ultimate writing down.
+
+[^68]: Thig 161
+
+[^69]: *tibhavantago*
+
+[^70]: *thīnaŋ dhammābhisamaye*
+
+[^71]: *tathā*, lit., “thus” “in that way”
+
+[^72]: or “went”
+
 [^73]: *tavasāsanakārikā,* “a doer of your dispensation” “one who has
-    performed your teachings”  
-[^74]: or “your”?  
-[^75]: lit., “from the surface of”  
-[^76]: *sā...‘haŋ*  
-[^77]: lit “make” “do”  
-[^78]: or “in existence”: *saŋsāre saŋsārantī ‘haŋ*  
-[^79]: that is, Benares  
+    performed your teachings”
+
+[^74]: or “your”?
+
+[^75]: lit., “from the surface of”
+
+[^76]: *sā...‘haŋ*
+
+[^77]: lit “make” “do”
+
+[^78]: or “in existence”: *saŋsāre saŋsārantī ‘haŋ*
+
+[^79]: that is, Benares
+
 [^80]: BJTS reads *katvā pañcasatakuṭī* (“having made \[them\] five
-    hundred huts” for PTS *pūgā bhavitvā sabbāyo*  
+    hundred huts” for PTS *pūgā bhavitvā sabbāyo*
+
 [^81]: BJTS reads *pasannāmha sasāmikā,* “we were pleased with our
-    husbands”  
-[^82]: “Jet Black”  
-[^83]: i.e., Śākyan, of the Buddha’s clan  
-[^84]: “Well-Marked”  
-[^85]: lit., “the other women born in the Śākyan clan”  
-[^86]: lit., “having gone forth”  
+    husbands”
+
+[^82]: “Jet Black”
+
+[^83]: i.e., Śākyan, of the Buddha’s clan
+
+[^84]: “Well-Marked”
+
+[^85]: lit., “the other women born in the Śākyan clan”
+
+[^86]: lit., “having gone forth”
+
 [^87]: *saha*. I follow the BJTS SInhala gloss (*ek vä*) in giving this
-    sociokarmically more-determined translation.  
-[^88]: pronounce as two syllables when chanting, “diff’rent”  
-[^89]: lit., “of”  
-[^90]: *vādipavaraŋ*  
-[^91]: or “merit,” *puññehi*. “Good deeds” would preserve the plural.  
-[^92]: *āsavakkhayaŋ*  
+    sociokarmically more-determined translation.
+
+[^88]: pronounce as two syllables when chanting, “diff’rent”
+
+[^89]: lit., “of”
+
+[^90]: *vādipavaraŋ*
+
+[^91]: or “merit,” *puññehi*. “Good deeds” would preserve the plural.
+
+[^92]: *āsavakkhayaŋ*
+
 [^93]: reading *agamaŋsu* with BJTS (cf. PTS alt. *agamiṃsu*) for PTS
-    *agamīsu* (“among non-villages” ?)  
+    *agamīsu* (“among non-villages” ?)
+
 [^94]: BJTS here reads *vīro*, “the Hero” for PTS *dhīro*, “the Wise
-    One”  
+    One”
+
 [^95]: *addhapallaṅkam ābhujya* (BJTS read *aḍḍhapallaṅkam ābhujja*),
-    with one leg crossed and one bent hookwise.  
+    with one leg crossed and one bent hookwise.
+
 [^96]: reading the final verb *abravi* (“she spoke”) with BJTS (and PTS
-    alt.) for PTS *abraviŋ* (“I spoke”).  
-[^97]: *mārapāsānuvattinā*  
-[^98]: lit., “ultimate first altered state”  
+    alt.) for PTS *abraviŋ* (“I spoke”).
+
+[^97]: *mārapāsānuvattinā*
+
+[^98]: lit., “ultimate first altered state”
+
 [^99]: PTS reads *tavade*, BJTS (and PTS alt.) reads *taṅkhaṇe* (“in
-    that moment”)  
-[^100]: lit., “dispensation”  
-[^101]: a play on the meaning of his name: *tadā ‘nando nirānando*  
-[^102]: lit., “with a gurgling sound”  
+    that moment”)
+
+[^100]: lit., “dispensation”
+
+[^101]: a play on the meaning of his name: *tadā ‘nando nirānando*
+
+[^102]: lit., “with a gurgling sound”
+
 [^103]: accepting PTS reading *gatāsayaŋ.* BJTS (and PTS alt.) reads
-    *gatāsamaṃ*, “gone to the incomparable \[state?\]”  
-[^104]: lit., “well-Gone-One’s heir”  
+    *gatāsamaṃ*, “gone to the incomparable \[state?\]”
+
+[^104]: lit., “well-Gone-One’s heir”
+
 [^105]: PTS *suttā ‘pi Gotamī*, BJTS *suttāsi Gotamī* (*suttā-āsi
-    Gotamī*)  
-[^106]: BJTS reads *ogatākāsapadumā* (“lotuses rising in the sky”)  
+    Gotamī*)
+
+[^106]: BJTS reads *ogatākāsapadumā* (“lotuses rising in the sky”)
+
 [^107]: pronounce “twinkling” as full three syllables when chanting, to
     keep meter, or amend to “and \[all of\] the stars were twinkling” if
-    contracting it to two syllables.  
-[^108]: lit., “did *pūjā*”  
-[^109]: lit., “is going in order to worship \[his\] mother”  
-[^110]: lit., “at Gotamī’s \[final\] nirvana”  
+    contracting it to two syllables.
+
+[^108]: lit., “did *pūjā*”
+
+[^109]: lit., “is going in order to worship \[his\] mother”
+
+[^110]: lit., “at Gotamī’s \[final\] nirvana”
+
 [^111]: lit., “the remaining portions, the remaining bones.” I formerly
     translated “only her bones remained,” but now believe that was
     incorrect; the fleshy parts (etc.) as well as the bones were
     thoroughly burned; the “relics” referred to below would be tiny
     gem-like fragments remaining in the crematory ash, not bones as
-    such.  
+    such.
+
 [^112]: *saŋvegajanakaŋ vaco,* lit., “emotion-producing word.” *Saṃvega*
     is a profoundly emotional insight into the nature of reality, often
     the spur to religious action, to be juxtaposed with *ubbega,*
-    ordinary emotional responses to death, ordinary grief, sorrow, etc.  
+    ordinary emotional responses to death, ordinary grief, sorrow, etc.
+
 [^113]: *nidhanaŋ,* lit., “without wealth \[of karma\],” or more
-    literally, “possessionless”  
-[^114]: lit., “of the nuns’ Assembly:” *bhikkhunisaṅghassa*  
+    literally, “possessionless”
+
+[^114]: lit., “of the nuns’ Assembly:” *bhikkhunisaṅghassa*
+
 [^115]: *sarīramattasesāya*, lit., “with \[only\] a measure of relics
-    remaining”  
-[^116]: *paṇḍitā’ si*  
-[^117]: lit., “with vast wisdom, with wide wisdom”  
+    remaining”
+
+[^116]: *paṇḍitā’ si*
+
+[^117]: lit., “with vast wisdom, with wide wisdom”
+
 [^118]: lit., “\[her\] state of rebirth (*gati*) is not known”. The
     metaphor is that Gotamī, like the flame that used to be in the iron
-    rod on the forge, has disappeared without a trace, “cooled off”.  
+    rod on the forge, has disappeared without a trace, “cooled off”.
+
 [^119]: *acalaŋ sukhaŋ.* BJTS reads, more consistently with *Apadāna* as
-    a whole, *acalaŋ padaŋ* (“unshaking state”)  
+    a whole, *acalaŋ padaŋ* (“unshaking state”)
+
 [^120]: or “make an end of dis-ease:” *dukkhass’ antaŋ karissathā ti*.

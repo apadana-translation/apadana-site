@@ -53,20 +53,29 @@ Tāla and thus Nāḷikera:
 the verses that are counted here  
 \[number just\] one hundred verses,  
 avoiding \[any\] less or more.[^8]  
-The Kaṇikāra Chapter, the Fifty-First[^9]  
+The Kaṇikāra Chapter, the Fifty-First[^9]
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Coconut Donor”. This same *apadāna* is presented above as \#379
     {382}, and as \#464 {467}, above, with different titles reflecting
     the slight change of the first foot of the second verse from
-    “coconut” to “breadfruit”  
-[^3]: *ārāmiko,* lit., “hermitage attendant” or “hermitage dweller”  
+    “coconut” to “breadfruit”
+
+[^3]: *ārāmiko,* lit., “hermitage attendant” or “hermitage dweller”
+
 [^4]: lit., “from where to there” (*yahiŋ tahiŋ*, PTS) or “from there to
-    there” (*tahiṃ tahiṃ,* BJTS and PTS alt.)  
-[^5]: *samādhikusalo ahaŋ*  
-[^6]: BJTS reads *Vārañca, “*Vāra”  
-[^7]: BJTS read *Amodam eva,* “also Amoda”  
+    there” (*tahiṃ tahiṃ,* BJTS and PTS alt.)
+
+[^5]: *samādhikusalo ahaŋ*
+
+[^6]: BJTS reads *Vārañca, “*Vāra”
+
+[^7]: BJTS read *Amodam eva,* “also Amoda”
+
 [^8]: *ūnādhika-vivajjitaṃ.* BJTS Sinhala gloss adds an asterisked note:
-    “here there are seen 99 verses”  
+    “here there are seen 99 verses”
+
 [^9]: BJTS places this line before, rather than after the summary.

@@ -71,15 +71,21 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (14) \[1032\]
 
 This indeed Venerable Sāgata Thera spoke these verses.  
-The legend of Sāgata Thera is finished.  
+The legend of Sāgata Thera is finished.
+
 [^1]: reading *‘panesi* for *panesi*, and avoiding the alternate reading
-    (and BJTS) *mahesi* (*mahesī*).  
-[^2]: reading *parisāhi* (BJTS) for *parisato* (PTS)  
+    (and BJTS) *mahesi* (*mahesī*).
+
+[^2]: reading *parisāhi* (BJTS) for *parisato* (PTS)
+
 [^3]: there are problems with this verse; many alternate readings in the
     different manuscripts and editions. I follow BJTS Sinhala gloss in
-    taking *niddhāvate* as “*paetireyi*,” “spreads out over.”  
+    taking *niddhāvate* as “*paetireyi*,” “spreads out over.”
+
 [^4]: reading *suriyodāyate* (BJTS) for *suriyo ‘bbhaghane* (“like the
-    sun in a mass of clouds,” PTS).  
+    sun in a mass of clouds,” PTS).
+
 [^5]: reading (with BJTS, PTS alternatives) t*ena kammena sukatena* for
-    PTS *vimbakapasuto hutvā*  
+    PTS *vimbakapasuto hutvā*
+
 [^6]: or “evil:” *pāpaº*

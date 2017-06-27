@@ -45,11 +45,17 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (9) \[1799\]
 
 Thus indeed Venerable Pāyāsadāyaka Thera spoke these verses.  
-The legend of Pāyāsadāyaka Thera is finished.  
-[^1]: “Milk-rice Donor”  
-[^2]: reading *upanesiṃ* (BJTS) for *agamāsi* (“I went,” PTS).  
-[^3]: lit., “the Blessed One”  
+The legend of Pāyāsadāyaka Thera is finished.
+
+[^1]: “Milk-rice Donor”
+
+[^2]: reading *upanesiṃ* (BJTS) for *agamāsi* (“I went,” PTS).
+
+[^3]: lit., “the Blessed One”
+
 [^4]: the cty explains the prefixes that intensify the participle as
-    meaning that he had ascended with some distinction (*visesana*)  
-[^5]: lit., “kṣatriyan”.  
+    meaning that he had ascended with some distinction (*visesana*)
+
+[^5]: lit., “kṣatriyan”.
+
 [^6]: “Awoken”

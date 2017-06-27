@@ -30,18 +30,25 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[5478\]
 
 Thus indeed Venerable Ketakapupphiya Thera spoke these verses.  
-The legend of Ketakapupphiya Thera is finished.  
+The legend of Ketakapupphiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Screw-pine Flower-er”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Screw-pine Flower-er”
+
 [^3]: the BJTS spelling; PTS reads *VItthāya,* alts. *Vittāya, Cittāya.*
     Cf. \#380 {383}, v. 1 = \[3292\], above, where BJTS and PTS agree on
     the spelling accepted from BJTS here; but cf. also \#485 {488}
     above, v. 1 = \[5177\], where I also accept the BJTS reading amidst
-    considerable variation  
-[^4]: *ekaggaŋ*  
-[^5]: *susamāhitaŋ*  
-[^6]: lit., “did *pūjā*”  
+    considerable variation
+
+[^4]: *ekaggaŋ*
+
+[^5]: *susamāhitaŋ*
+
+[^6]: lit., “did *pūjā*”
+
 [^7]: *ketakassa,* Pandanus odoratissima, Sinhala *väṭakē or
     väṭakeyiyā*.

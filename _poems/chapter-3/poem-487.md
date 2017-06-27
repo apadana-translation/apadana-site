@@ -186,75 +186,110 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (37) \[5176\]
 
 Thus indeed Venerable Puḷinuppādaka Thera spoke these verses.  
-The legend of Puḷinuppādaka Thera is finished.  
+The legend of Puḷinuppādaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Sand-Generator”. BTS reads *Pulinº*  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Sand-Generator”. BTS reads *Pulinº*
+
 [^3]: reading *amānussehi māpito* with BJTS for PTS **amānussikamāpito
-    (roughly the same meaning: “non-human-made”)**  
-[^4]: *sahakammāni*  
-[^5]: lit., “did *pūjā*”  
-[^6]: lit., “asked me that meaning”  
-[^7]: reading *no* with BJTS for PTS *me *  
-[^8]: *niddiṭṭhā*  
-[^9]: *no mantapade*  
+    (roughly the same meaning: “non-human-made”)**
+
+[^4]: *sahakammāni*
+
+[^5]: lit., “did *pūjā*”
+
+[^6]: lit., “asked me that meaning”
+
+[^7]: reading *no* with BJTS for PTS *me *
+
+[^8]: *niddiṭṭhā*
+
+[^9]: *no mantapade*
+
 [^10]: or “what caste are they?,” *kathaŋ vaṇṇaº* (BJTS reads, more
-    correctly, *kathaṃ vaṇṇā*)  
+    correctly, *kathaṃ vaṇṇā*)
+
 [^11]: *cattārīsa-ddijāpi ca* ((PTS), *ºdvijāpi ca* (BJTS), following
     BJTS Sinh. gloss in understanding *dvija* as “tooth” (“twice born,”
-    hence the adult teeth).  
+    hence the adult teeth).
+
 [^12]: reading *nettā gopa\[k\]khumā* with BJTS for PTS *gopamukhā*
-    (“face to face with a cow”)  
+    (“face to face with a cow”)
+
 [^13]: *jiñjukaphalasannibhā.* The *jiñjuka* (also known as *guñja* in
     Pāli) shrub, Sinh. *huninda* (BJTS gloss) or *olinda* is Abrus
     pracatorius (*Legum.*). It bears distinctive, small red or black
     berries which serve as the smallest jeweller’s weight and are used
     in a traditional Sri Lankan board game; the present epithet
-    presumably refers to the (very) black berries borne by this plant.  
-[^14]: lit., “going”  
+    presumably refers to the (very) black berries borne by this plant.
+
+[^14]: lit., “going”
+
 [^15]: *yugamattañ ca pekkhare* lit., “looking ahead the extent of a
     plough,” i.e., just a little, keeping their eyes on the ground in
-    front of them  
-[^16]: lit., “there is not to them a person-speaking”  
-[^17]: *sandhisaddo*  
-[^18]: lit., “they go lifting up”  
-[^19]: *chabbikāraŋ* (PTS), *chappakāraṃ* (BJTS)  
-[^20]: *atulyā*  
+    front of them
+
+[^16]: lit., “there is not to them a person-speaking”
+
+[^17]: *sandhisaddo*
+
+[^18]: lit., “they go lifting up”
+
+[^19]: *chabbikāraŋ* (PTS), *chappakāraṃ* (BJTS)
+
+[^20]: *atulyā*
+
 [^21]: *vaṇṇato anatikkantā,* following BJTS Sinhala gloss: *rūpakāya
     sampattiyen no ikmavanu häkkō ya,* “it is not possible to surpass
-    them in good fortune as regards \[their\] form-bodies.  
-[^22]: reading *ca* with BJTS (and PTS alt.) fr PTS *va*  
-[^23]: lit., “are gone”  
-[^24]: reading *salati* with BJTS for PTS *saddati*  
-[^25]: lit., “Sambuddha”  
+    them in good fortune as regards \[their\] form-bodies.
+
+[^22]: reading *ca* with BJTS (and PTS alt.) fr PTS *va*
+
+[^23]: lit., “are gone”
+
+[^24]: reading *salati* with BJTS for PTS *saddati*
+
+[^25]: lit., “Sambuddha”
+
 [^26]: *paramena,* “superior” “best.” BJTS Sinhala gloss: *däḍi,*
-    “strong”  
-[^27]: *kalebaraŋ,* lit., “corpse” or “body”  
-[^28]: *ºpareta*, lit., “overcome by” “afflicted with”  
+    “strong”
+
+[^27]: *kalebaraŋ,* lit., “corpse” or “body”
+
+[^28]: *ºpareta*, lit., “overcome by” “afflicted with”
+
 [^29]: *tesaŋ lālappamānaŋ* (gen. abs. construction). *Lālappati* means
     “lament, wail” as well as “to talk too much,” “to talk silly,” the
     intensive of *lapati,* “to mutter, talk, prattle”. I have
     interpolated “\[uselessly\]” *metri causa,* but in doing so convey
     the connotation of the term (and the subsequent speech by the ghost
-    of the teacher) that their wailing was excessive or pointless.  
+    of the teacher) that their wailing was excessive or pointless.
+
 [^30]: BJTS Sinh gloss: “the birth of a Buddha, which frees \[one\] from
     the eight evil moments \[Sinh dict. i.e., (1) birth in hell, (2)
     birth as an animal, (3) birth as a demon, (4) birth in the two
     Brahma worlds where neither body nor mind exists, (5) birth in a
     foreign country devoid of the Buddha’s Teaching, (6) birth with the
     five senses confused or perverted, (7) birth as a non-religious
-    person, and (8) birth in a Buddha-less age\]”  
+    person, and (8) birth in a Buddha-less age\]”
+
 [^31]: PTS presents this as a six-footed verse, in an apparently
     mistaken (and redundant) repetition of the first two feet (a-b) as
     c-d. BJTS presents a standard four-footed verse, omitting PTS 30c-d
-    (i.e., corresponding to PTS 30a-b and 30e-f).  
+    (i.e., corresponding to PTS 30a-b and 30e-f).
+
 [^32]: *vokiṇṇo* (BJTS and PTS alt. reads *vokiṇṇaŋ*), lit., “mixed”. I
     follow BJTS in taking the term to refer to a mix of births as a god
-    and births as a human.  
+    and births as a human.
+
 [^33]: *uppādassa.* The term (as too in the name ascribed to this monk)
     apparently refers to the “generating” (or “producing”) of the stupa
-    made of sand.  
+    made of sand.
+
 [^34]: the name of a lunar month, Skt. *Kṛttikā,* BSkt *Karthikā,* Sinh.
-    *il,* corresponding to October-November  
+    *il,* corresponding to October-November
+
 [^35]: *viriyam me dhurodhayhaŋ yogakkhemādhivāhanaŋ,* cf. SN 79

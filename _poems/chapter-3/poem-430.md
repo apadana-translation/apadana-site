@@ -75,29 +75,44 @@ Sucintita, Kiṇkhanika,
 and Soṇṇa-Kattarika[^20] too:  
 there are a hundred verses here  
 plus seventy-one \[more verses\]  
-The Sakiŋsammajjaka Chapter, the Forty-Third  
+The Sakiŋsammajjaka Chapter, the Forty-Third
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Golden Scissors” or “Golden Walking-stick-er” or (following BJTS,
     and preferred) “Golden Water-jug-er”. BJTS (and PTS alt) reads the
     name *Soṇṇakontarika,* see below, n. to \[4624\]
 
 [^3]: reading *manobhāvanīyaṃ* with BJTS for PTS *manobhāvaniyaŋ;* BJTS
-    Sinhala gloss *sambhāvanīya vū*  
-[^4]: *attadantaŋ*  
-[^5]: *samāhitaŋ*  
+    Sinhala gloss *sambhāvanīya vū*
+
+[^4]: *attadantaŋ*
+
+[^5]: *samāhitaŋ*
+
 [^6]: *iriyamānam brahmapathe.* RD: “the path to the Br. world or the
-    way to the highest good”  
-[^7]: *citta-vūpasame rataŋ*  
-[^8]: *oghatiṇṇaŋ*  
-[^9]: *jhāyi-jhana-rata*  
-[^10]: *upaviṭṭhaṃ*  
-[^11]: *samāpannaŋ*  
-[^12]: *indīvara-dala-pabhaŋ*  
-[^13]: *alābu* RD: “a long white gourd, Curcurbita Lagenaris”  
-[^14]: reading *alābunā ‘hatvā* with BJTS for PTS *lābun’āhatvā*  
-[^15]: reading *paṇṇarasasu* with BJTS for PTS *pannarasesu*  
+    way to the highest good”
+
+[^7]: *citta-vūpasame rataŋ*
+
+[^8]: *oghatiṇṇaŋ*
+
+[^9]: *jhāyi-jhana-rata*
+
+[^10]: *upaviṭṭhaṃ*
+
+[^11]: *samāpannaŋ*
+
+[^12]: *indīvara-dala-pabhaŋ*
+
+[^13]: *alābu* RD: “a long white gourd, Curcurbita Lagenaris”
+
+[^14]: reading *alābunā ‘hatvā* with BJTS for PTS *lābun’āhatvā*
+
+[^15]: reading *paṇṇarasasu* with BJTS for PTS *pannarasesu*
+
 [^16]: reading *kontaraṃ* with BJTS (and PTS alt.) for PTS *kattara* in
     \[4624\], \[4625\]*. Kattara* is a knife or a walking stick;
     *kattarikā* a pair of scissors; *konta* (RD) “a pennant or
@@ -106,9 +121,13 @@ The Sakiŋsammajjaka Chapter, the Forty-Third
     (see *kontara,* s.v.), but I take the BJTS reading (even though I do
     not find any warrant for it beyond the context), given the
     correspondence between the gift (a water-gourd) and the result (a
-    water-pot made of gold).  
+    water-pot made of gold).
+
 [^17]: *appakampi kataṃ kāraṃ,* lit., “the deed done with little
-    quaking,”  
-[^18]: BJTS reads *Soṇṇakontarika*  
-[^19]: BJTS reads *Soṇṇakontarika*  
+    quaking,”
+
+[^18]: BJTS reads *Soṇṇakontarika*
+
+[^19]: BJTS reads *Soṇṇakontarika*
+
 [^20]: BJTS (and PTS alt.) *Soṇṇakontarika*

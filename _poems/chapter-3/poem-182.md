@@ -30,11 +30,15 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2162\]
 
 Thus indeed Venerable Bandhujīvaka Thera spoke these verses.  
-The legend of Bandhujīvaka Thera is finished.  
+The legend of Bandhujīvaka Thera is finished.
+
 [^1]: the name of a flower, Sinhala *banduvada*, Latin *pentapetes
     phoenicea* aka midday flower, noon flower, scarlet pentapetes,
     scarlet mallow, copper cups, scarlet phoenecian, any of which could
-    appropriately translate the protagonist's name  
-[^2]: I follow BJTS Sinhala gloss in taking *sabhi* as *satpuruṣayen*  
-[^3]: *samādhiṃ so samāpanno*  
+    appropriately translate the protagonist's name
+
+[^2]: I follow BJTS Sinhala gloss in taking *sabhi* as *satpuruṣayen*
+
+[^3]: *samādhiṃ so samāpanno*
+
 [^4]: “Ocean-Aeon”.

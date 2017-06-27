@@ -75,9 +75,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (13) \[437\]
 
 Thus indeed Venerable Anuruddha Thera spoke these verses.  
-The legend of Anuruddha Thera is finished.  
-[^1]: reading *vūpakaṭṭhaṃ* (BJTS, cty) for *vupakaṭṭhaŋ* (PTS)  
-[^2]: lit., “Be compassionate \[toward me\]”  
-[^3]: lit., “expressed forbearance,” “did not object”  
-[^4]: *vadataŋ varo*  
+The legend of Anuruddha Thera is finished.
+
+[^1]: reading *vūpakaṭṭhaṃ* (BJTS, cty) for *vupakaṭṭhaŋ* (PTS)
+
+[^2]: lit., “Be compassionate \[toward me\]”
+
+[^3]: lit., “expressed forbearance,” “did not object”
+
+[^4]: *vadataŋ varo*
+
 [^5]: *satthusāsane*, lit., “in the Teacher’s dispensation”

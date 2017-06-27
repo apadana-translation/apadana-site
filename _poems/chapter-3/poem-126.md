@@ -48,11 +48,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (10) \[1839\]
 
 Thus indeed Venerable Kusumāsaniya Thera spoke these verses.  
-The legend of Kusumāsaniya Thera is finished.  
-[^1]: “Floral Seat-er”  
-[^2]: *keṭubha* = “poetical fiction”  
-[^3]: reading *pīṭhiyaṃ* (BJTS) for *piṭṭhiyaŋ* (“on \[my\] back,” PTS).  
-[^4]: lit., “in association with \[my\] mother and father”  
-[^5]: reading *abhinesiṃ* (BJTS, PTS alt) for *atinesiŋ* (PTS)  
-[^6]: lit., “discerning the time when he became one who had eaten”  
+The legend of Kusumāsaniya Thera is finished.
+
+[^1]: “Floral Seat-er”
+
+[^2]: *keṭubha* = “poetical fiction”
+
+[^3]: reading *pīṭhiyaṃ* (BJTS) for *piṭṭhiyaŋ* (“on \[my\] back,” PTS).
+
+[^4]: lit., “in association with \[my\] mother and father”
+
+[^5]: reading *abhinesiṃ* (BJTS, PTS alt) for *atinesiŋ* (PTS)
+
+[^6]: lit., “discerning the time when he became one who had eaten”
+
 [^7]: “Seeing the Excellent”

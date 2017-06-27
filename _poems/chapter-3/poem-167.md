@@ -25,7 +25,9 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2086\]
 
 Thus indeed Venerable Yūthikapupphiya Thera spoke these verses.  
-The legend of Yūthikapupphiya Thera is finished.  
+The legend of Yūthikapupphiya Thera is finished.
+
 [^1]: “*Yūthika-*Flower-er.” *Yūthikā* is a type of jasmine, jasminium
-    auriculatum, Sinhala *sinidda.*  
+    auriculatum, Sinhala *sinidda.*
+
 [^2]: “Offered Up Together”

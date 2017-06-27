@@ -30,14 +30,20 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[25\]
 
 Thus indeed Bhikkhunī Mekhalādāyikā Therī[^6] spoke these verses.  
-The legend of Mekhalādāyikā Therī is finished.  
+The legend of Mekhalādāyikā Therī is finished.
+
 [^1]: “Waist-Ornament-Giver”. *Mekhala* or *mekhalikā* was an ornament
-    worn by women on the waist, often made of precious metals and gems.  
+    worn by women on the waist, often made of precious metals and gems.
+
 [^2]: reading *kārāpikā* (BJTS, PTS alt) for *kārāpitā* (“was built,”
-    PTS)  
+    PTS)
+
 [^3]: presumably a valuable *mekhala* which was then sold in order to
-    pay for the repairs.  
+    pay for the repairs.
+
 [^4]: lit., “for the sake of repairing of the Teacher.” Here the stupa
-    *is* the Buddha.  
-[^5]: lit., “again I gave a waist-ornament”.  
+    *is* the Buddha.
+
+[^5]: lit., “again I gave a waist-ornament”.
+
 [^6]: BJTS, PTS alt omit *therī.*

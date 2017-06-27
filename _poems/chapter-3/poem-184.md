@@ -30,20 +30,30 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2174\]
 
 Thus indeed Venerable Pañcahatthiya Thera spoke these verses.  
-The legend of Pañcahatthiya Thera is finished.  
-[^1]: “Five-handful-er”  
-[^2]: lit., “honored by \[his\] followers”  
-[^3]: lit., “entered into”  
+The legend of Pañcahatthiya Thera is finished.
+
+[^1]: “Five-handful-er”
+
+[^2]: lit., “honored by \[his\] followers”
+
+[^3]: lit., “entered into”
+
 [^4]: lit., “are picked up,” reading *paggaṇhitaṃ* with BJTS for PTS
-    “*‘haŋ mūgo ‘mhi”* (“I am a deer”)  
+    “*‘haŋ mūgo ‘mhi”* (“I am a deer”)
+
 [^5]: That is, nine handfuls total. BJTS suggests another readings of
     “five or four handfuls,” but the “*ca*” suggests that the reading
-    5+4 is more appropriate. The cty does not take this up.  
+    5+4 is more appropriate. The cty does not take this up.
+
 [^6]: reading *abhituṭṭho* with BJTS for PTS *abhighuṭṭho* (“proclaimed,
-    announced”)  
-[^7]: lit., “I did *pūjā* \[with them\]”  
-[^8]: lit., “going”  
-[^9]: lit., “that flower”  
+    announced”)
+
+[^7]: lit., “I did *pūjā* \[with them\]”
+
+[^8]: lit., “going”
+
+[^9]: lit., “that flower”
+
 [^10]: that is, five men named Subhāsammatā, all of whom were rebirth
     precursors of Rev. Pañcahatthiya. The name means “Well-Approved” or
     “Well Agreed Upon”.

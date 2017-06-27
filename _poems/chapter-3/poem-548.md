@@ -128,96 +128,138 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (26) \[6272\]
 
 Thus indeed Venerable Lomasakaṅgiya Thera spoke these verses.  
-The legend of Lomasakaṅgiya Thera is finished.  
+The legend of Lomasakaṅgiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Hair on his own Body,” a historical monk so-named for the
     delicate hair on the soles of his feet (and general lack of hair
-    elsewhere on his body). See DPPN II: 789-790  
-[^3]: One BJTS alt. reads *gottena,* “by lineage”  
-[^4]: *vadataŋ varo*  
+    elsewhere on his body). See DPPN II: 789-790
+
+[^3]: One BJTS alt. reads *gottena,* “by lineage”
+
+[^4]: *vadataŋ varo*
+
 [^5]: *pabbajitvāna,* lit., “going forth” “having gone forth” “after
-    having gone forth”  
-[^6]: lit., “the rest” “the remainder”  
+    having gone forth”
+
+[^6]: lit., “the rest” “the remainder”
+
 [^7]: i.e., a kinsman of the Buddha’s, born in the same (Sākiya = Śākya)
-    clan as the Buddha  
+    clan as the Buddha
+
 [^8]: that is, Kāḷudāyi, \#543 {546}, above, v. 25 \[6212\]
 
-[^9]: *upesi,* lit., “came up to”  
-[^10]: *jātitthaddhā*  
-[^11]: *anādarā*  
+[^9]: *upesi,* lit., “came up to”
+
+[^10]: *jātitthaddhā*
+
+[^11]: *anādarā*
+
 [^12]: *pajjunno viya,* = Parjanya, Vedic God of Rain (also
-    “rain-cloud”)  
+    “rain-cloud”)
+
 [^13]: *pajjalittha yathā sikhī*, a Vedic name for Agni, the Fire (also
-    “fire”)  
+    “fire”)
+
 [^14]: the bodhisatta’s final human rebirth precursor, prior to being
     born as Siddhattha, recorded in the *Jātaka* or “Book of Past Lives”
     of the Buddha (which parallels and is closely alligned with
     *Apadāna*), recounting how in his boundless generosity, being
     requested, the Bodhisatta gave away his wealth, his kingdom, his
-    children, and his wife.  
-[^15]: the Buddha’s father  
-[^16]: *bhūripañña*  
-[^17]: *samantacakkhu.* or “All-Seeing One” or “Far-Seeing One”  
+    children, and his wife.
+
+[^15]: the Buddha’s father
+
+[^16]: *bhūripañña*
+
+[^17]: *samantacakkhu.* or “All-Seeing One” or “Far-Seeing One”
+
 [^18]: this refers to a moment in the Buddha’s early life when the
     bodhisatta was left beneath a rose-apple (*jambu)* tree during a
     festival. His nurses returned to find him sitting cross-legged,
     having attained the first *jhana,* upon which the shade of the tree
     stood still, shading him as long as he remained there (see DPPN I:
-    789).  
+    789).
+
 [^19]: both BJTS and PTS present this as a verse in the more complex xxx
     meter, with eleven-syllable feet, and both have a (flawed?) third
     foot with twelve syllables, making the verse as it stands
-    11-11-12-11  
-[^20]: *buddhānubhāvan taŋ*  
-[^21]: lit., “had an astonished mind”  
+    11-11-12-11
+
+[^20]: *buddhānubhāvan taŋ*
+
+[^21]: lit., “had an astonished mind”
+
 [^22]: this sets the stage for his mother’s initial reluctance to see
-    him enter the forest life, fearing for his health.  
+    him enter the forest life, fearing for his health.
+
 [^23]: reading *‘upagantvāna pucchatha* with BJTS for PTS *upagantvā
-    ‘nurañjatha* (“having approached lit up \[the place\]”)  
+    ‘nurañjatha* (“having approached lit up \[the place\]”)
+
 [^24]: or *Ānanda-bhaddekaratta-sutta*, M.iii.187ff. Lomasakaṅgiya and
     Candana vowed during their previous life as monks together that in
     the future Candana would ask Lomasakaṅgiya about this particular
     *sutta*, and that Lomasakagiya would then explain it to him. The
     account of this encounter is called
     *Lomasakaṅgiya-Bhaddekaratta-sutta,* M.iii.199ff. See DPPN II:
-    359-360, for details and a summary of the text  
+    359-360, for details and a summary of the text
+
 [^25]: reading *saṅkhepavitthāranayaŋ* with BJTS for PTS *saṅkhepaŋ
-    vitthāraŋ naraŋ* (“the abridged \[and\] extended man”)  
-[^26]: *naranāyakaŋ*  
-[^27]: *saŋviggo*, or “stirred up” “shaken up”  
+    vitthāraŋ naraŋ* (“the abridged \[and\] extended man”)
+
+[^26]: *naranāyakaŋ*
+
+[^27]: *saŋviggo*, or “stirred up” “shaken up”
+
 [^28]: reading *vārayi taṃ* with BJTS (and PTS alt.) for PTS *dhārayiŋ
-    te* (“I carried you”)  
+    te* (“I carried you”)
+
 [^29]: *vivekam anubrūhayam.* BJTS Sinh. gloss says this means doing
     meditation in the three postures of sitting, standing and walking
-    back and forth  
+    back and forth
+
 [^30]: *dabbhaŋ kusaŋ* = the kind of *kusa* grass or “sacrificial grass”
     known as *dabbha*, a sweet-smelling grass, Sinh. *kusa taṇa, kuśa
     tṛṇa* (Bot. Dict. = arrow grass, Paspalum sanguinale *(Gram.);*
     note: Bot. Dict. also gives Sinh. *ītaṇa,* Andropogon contortus
     *(Gram.)* as arrow grass, and says *kuśa* also can mean *iḷuk*,
-    Imperata arundinacea *(Gram.)*)  
+    Imperata arundinacea *(Gram.)*)
+
 [^31]: *poṭakilam =* a kind of grass, Saccharum spontaneum, Sinh.
     *väluk,* “vining sugarcane,” which Bot. Dict. identifies as
     Phragmites karka *(Gram.),* a reed growing in marshes and near
-    rivers which resembles sugar cane.  
+    rivers which resembles sugar cane.
+
 [^32]: *usīraŋ,* RD: the fragrant root of Andropogon Muricatum, Sinh.
     *sävänna, babus taṇa mul,* Bot. Dict. gives Andropogon squarrosus
-    *(Gram.)*, called cuscus grass  
+    *(Gram.)*, called cuscus grass
+
 [^33]: *muñja°,* a kind of grass, Sing. *mudu taṇa* (= *mṛdu taṇa,*
-    “tender grass”)  
+    “tender grass”)
+
 [^34]: *°babbajaŋ,* a sort of coarse grass, *babus taṇa.* RD: used to
-    make slippers, etc.  
-[^35]: *tattha tattha*  
-[^36]: reading *vidvā* with BJTS for PTS *saŋviggam* (“emotion”)  
-[^37]: *anubrūhaye*, or “is devoted” “practices”  
+    make slippers, etc.
+
+[^35]: *tattha tattha*
+
+[^36]: reading *vidvā* with BJTS for PTS *saŋviggam* (“emotion”)
+
+[^37]: *anubrūhaye*, or “is devoted” “practices”
+
 [^38]: *ajjeva,* lit., “even today” or “today itself”, “today” with
-    emphasis.  
+    emphasis.
+
 [^39]: reading *kicca ātappaṃ* with BJTS (and PTS alt.) for PTS *kicca
-    kātabbaŋ* (“what should be done should be done”)  
-[^40]: reading *jaññu* with BJTS for PTS *jaññā*  
+    kātabbaŋ* (“what should be done should be done”)
+
+[^40]: reading *jaññu* with BJTS for PTS *jaññā*
+
 [^41]: reading *na hi no saṅgaraṃ tena* with BJTS for PTS *na hi tosaŋ
-    karontena* (“there is no making satisfaction” ?)  
-[^42]: reading *ācikkhate* with BJTS for PTS *ācikkate*  
+    karontena* (“there is no making satisfaction” ?)
+
+[^42]: reading *ācikkhate* with BJTS for PTS *ācikkate*
+
 [^43]: *santo*

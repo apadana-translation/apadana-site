@@ -35,17 +35,23 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[3099\]
 
 Thus indeed Venerable Dhajadāyaka Thera spoke these verses.  
-The legend of Dhajadāyaka Thera is finished.  
+The legend of Dhajadāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Flag Donor”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Flag Donor”
+
 [^3]: *tayopadhikkhayo* (BJTS reads, a little more cleanly,
     *tassopadhikkhaye*), lit., “the destruction (*khaya*) of his
     foundation (substratum, liability) for rebirth (*upadhi*).” I follow
     the BJTS gloss in understanding this as a reference to his
-    *parinirvāṇa*.  
+    *parinirvāṇa*.
+
 [^4]: lit., “a flag was hoisted (or given, carried, displayed, etc.) by
-    me”  
-[^5]: lit., “in” (*kate,* locative case)  
+    me”
+
+[^5]: lit., “in” (*kate,* locative case)
+
 [^6]: lit., “my deed”

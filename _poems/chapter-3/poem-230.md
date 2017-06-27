@@ -28,6 +28,8 @@ Avyādhi, Aṅkola, Soṇṇa,
 Miñja, Āveḷa, Vandana;  
 fifty-five verses are counted  
 by those ones who know the meaning.  
-The Ālambanadāyaka Chapter, the Twenty-Third  
-[^1]: “One Worship”  
+The Ālambanadāyaka Chapter, the Twenty-Third
+
+[^1]: “One Worship”
+
 [^2]: “Joyful in Deprivation” or “Joyful in Being Gone Away”

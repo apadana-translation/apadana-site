@@ -35,13 +35,19 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[2037\]
 
 Thus indeed Venerable Nāgapupphiya Thera spoke these verses.  
-The legend of Nāgapupphiya Thera is finished.  
-[^1]: “Ironwood-Flower-er”  
-[^2]: “Good Calf” or “Very Young One”  
+The legend of Nāgapupphiya Thera is finished.
+
+[^1]: “Ironwood-Flower-er”
+
+[^2]: “Good Calf” or “Very Young One”
+
 [^3]: reading *dhūpeti jalate* (BJTS) for *dhūpo ‘tijalate* (“as though
-    incense were flaming up,” PTS).  
+    incense were flaming up,” PTS).
+
 [^4]: reading *hāsaṃ mama viditvāna* (lit., “making a smile \[or
     laughter\] known to me”) with BJTS for PTS *ve hāsaŋ mama disvāna*
-    (“surely having seen my smile \[or laughter\]” PTS).  
-[^5]: lit., “on the road he took”.  
+    (“surely having seen my smile \[or laughter\]” PTS).
+
+[^5]: lit., “on the road he took”.
+
 [^6]: “Big Chariot”

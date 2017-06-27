@@ -26,14 +26,22 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2675\]
 
 Thus indeed Venerable Citapūjaka[^7] Thera spoke these verses.  
-The legend of Citapūjaka[^8] Thera is finished.  
-[^1]: BJTS reads Citaka°  
-[^2]: “Pyre-Worshipper;” BJTS reads Citaka°  
-[^3]: “Unconquered”  
+The legend of Citapūjaka[^8] Thera is finished.
+
+[^1]: BJTS reads Citaka°
+
+[^2]: “Pyre-Worshipper;” BJTS reads Citaka°
+
+[^3]: “Unconquered”
+
 [^4]: lit., “desiring to sacrifice a fire sacrifice”: *āhutiŋ
-    yiṭṭhukāma*  
+    yiṭṭhukāma*
+
 [^5]: reading *disvā* with BJTS and PTS alternative for PTS *katvā*,
-    “having made” or “making”  
-[^6]: “Well Lit Up” “Very Brilliant” “Hotly Burning”  
-[^7]: BJTS reads Citaka°  
+    “having made” or “making”
+
+[^6]: “Well Lit Up” “Very Brilliant” “Hotly Burning”
+
+[^7]: BJTS reads Citaka°
+
 [^8]: BJTS reads Citaka°

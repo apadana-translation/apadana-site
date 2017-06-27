@@ -25,7 +25,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1605\]
 
 Thus indeed Venerable Veyyāvaccaka Thera spoke these verses.  
-The legend of Veyyāvaccaka Thera is finished.  
+The legend of Veyyāvaccaka Thera is finished.
+
 [^1]: “Servicer.” Veyyāvacca is service performed for elders and
     superiors (Sinh. *vatāvata*). This is the term translated as
     “service” in v. (3) \[1603\], where it refers not to the “service”
@@ -34,6 +35,8 @@ The legend of Veyyāvaccaka Thera is finished.
     of the latter’s feet. The suffix “ka” functions like “er” in
     English. “Servant” in verse (1) \[1601\] translates
     *veyyāvaccakara*, “doer of service to elders and superiors,” which
-    is close to, but not identical with, this Thera’s name.  
-[^2]: lit., “a group consisting of a vast multitude”.  
+    is close to, but not identical with, this Thera’s name.
+
+[^2]: lit., “a group consisting of a vast multitude”.
+
 [^3]: “Well-Thought”

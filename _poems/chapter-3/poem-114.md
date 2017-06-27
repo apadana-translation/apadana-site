@@ -45,11 +45,17 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (9) \[1715\]
 
 Thus indeed Venerable Ekāsaniya Thera spoke these verses.  
-The legend of Ekāsaniya Thera is finished.  
-[^1]: “One Sitting”  
-[^2]: reading *sammatāḷaº* (BJTS) for *samatāḷaº* (PTS).  
-[^3]: *turiyaŋ sabbaŋ*, musical instruments  
+The legend of Ekāsaniya Thera is finished.
+
+[^1]: “One Sitting”
+
+[^2]: reading *sammatāḷaº* (BJTS) for *samatāḷaº* (PTS).
+
+[^3]: *turiyaŋ sabbaŋ*, musical instruments
+
 [^4]: the cty here explains these as the fires of *rāga* (lust), *dosa*
-    (anger) and *moha* (ignorance, folly)  
-[^5]: lit., "in the Supreme Buddha’s”  
+    (anger) and *moha* (ignorance, folly)
+
+[^5]: lit., "in the Supreme Buddha’s”
+
 [^6]: “Very Many”

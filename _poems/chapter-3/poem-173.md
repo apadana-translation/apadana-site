@@ -25,13 +25,16 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2120\]
 
 Thus indeed Venerable Rattipupphiya Thera spoke these verses.  
-The legend of Rattipupphiya Thera is finished.  
-[^1]: “Red Flower \[Donor\]”  
+The legend of Rattipupphiya Thera is finished.
+
+[^1]: “Red Flower \[Donor\]”
+
 [^2]: *kuṭaja*, Wrightia zeylanica, Sinhala *keḷinda.* Bot. dict.: “a
     tree bearing a medicinal nut or seed used as a remedy for
     diarrhoea;” other names include Conessi bark, Tellicherri bark, for
     the astringent bark which is also used toward this medicinal end;
     arctic snow. However, as its name implies, it bears small white
     flowers, making rather miraculous the appearance of red flowers
-    blooming on it.  
+    blooming on it.
+
 [^3]: “Very Pleased”

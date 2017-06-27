@@ -98,28 +98,37 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! \[2968\]
 
 Thus indeed Venerable Ekadussadāyaka Thera spoke these verses.  
-The legend of Ekadussadāyaka Thera is finished.  
-[^1]: “One-Cloth-Donor”  
+The legend of Ekadussadāyaka Thera is finished.
+
+[^1]: “One-Cloth-Donor”
+
 [^2]: lit., “Master of All Things (*dhamma*)” (or “Master of All
     Teachings”). This *apadāna* is included verbatim as \#419 {422}
     below, ascribed to a monk of the same name. Presumably following the
     colophonic demand for an “Ekadussika” at this point in the text,
     editors in the mss. tradition on which BJTS is based supplied this
     *apadāna* verbatim from a different part of the text, in order to
-    fill the gap.  
+    fill the gap.
+
 [^3]: *niraya-samphassa,* lit., “contact with hell” “touching of hell”
-    “experience of hell”  
+    “experience of hell”
+
 [^4]: amending *kappasatahassāni* to *kappasattasahassāni*, which keeps
-    the meter and makes sense  
-[^5]: *jalajuttamanāmaka*  
+    the meter and makes sense
+
+[^5]: *jalajuttamanāmaka*
+
 [^6]: lit., “footstep after footstep,” or more literally still, “on
     footstep on footstep,” reduplicated to suggest the whole series.
-    This interpretation follows the BJTS Sinhala gloss.  
-[^7]: lit., "having been”  
+    This interpretation follows the BJTS Sinhala gloss.
+
+[^7]: lit., "having been”
+
 [^8]: the repetition of the second foot as the fourth foot does not seem
     to be intentional, as it carries no poetic force and leaves the
     verse in need of a finite verb (which I have supplied in my reading
     of the gerund, see previous note). But if this is an unintended
     mistake, it was made long ago, as all the mss. apparently witness
-    it.  
+    it.
+
 [^9]: lit., “not going up into destruction anywhere”

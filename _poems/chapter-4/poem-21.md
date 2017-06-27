@@ -265,67 +265,105 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (54) \[692\]
 
 Thus indeed Bhikkhunī Bhaddā-Kuṇḍalakesā spoke these verses.  
-The legend of Bhaddā-Kuṇḍalakesā Therī is finished.  
+The legend of Bhaddā-Kuṇḍalakesā Therī is finished.
+
 [^1]: “Lucky one with Tangled Hair,” a historical nun, remembered as
-    foremost among those nuns with quick intuition  
+    foremost among those nuns with quick intuition
+
 [^2]: *bhikkhuniŋ subhaŋ,* lit., “a Buddhist nun who was pure” (or “who
-    was good”)  
-[^3]: *aggatte ṭhapesi,* lit., “fixed in foremostness”  
-[^4]: *khippābhiññānam*  
+    was good”)
+
+[^3]: *aggatte ṭhapesi,* lit., “fixed in foremostness”
+
+[^4]: *khippābhiññānam*
+
 [^5]: “Bhaddā” is her name as well as term of endearment (which is also
     used for those whose name it is not, e.g, *Khemāpadāna,* v. 84
-    \[498\], above)  
-[^6]: reading *hessasi* with BJTS for PTS *hessati* (“she will be”)  
+    \[498\], above)
+
+[^6]: reading *hessasi* with BJTS for PTS *hessati* (“she will be”)
+
 [^7]: Yāma, Tusita, Nimmānarati and Vāsavatti are all heavens in the
-    Buddhist cosmology.  
-[^8]: BJTS reads *nimmāṇaratiṃ*  
-[^9]: *anekakappesu,* lit., “during various aeons”  
-[^10]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”  
-[^11]: “Alms-giver”. Texts read Bhikkhadāyī  
+    Buddhist cosmology.
+
+[^8]: BJTS reads *nimmāṇaratiṃ*
+
+[^9]: *anekakappesu,* lit., “during various aeons”
+
+[^10]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
+
+[^11]: “Alms-giver”. Texts read Bhikkhadāyī
+
 [^12]: *sukhe ṭhitā,* lit., “remaining in comfort.” Pronounce all four
     syllables when chanting to keep the meter or, to chant as a
-    three-syllable word, read “comfortable royal princesses”  
+    three-syllable word, read “comfortable royal princesses”
+
 [^13]: I follow the original (in both recensions) in making this first
     foot a nine-syllable foot through the addition of the (superfluous)
     “and” (*ca*). The comma amplifies its effect, to syncopate the verse
     such that the (respective, exact) parallelism of the following verse
     (in which, however, all four feet contain the expected eight
-    syllables) becomes apparent.  
+    syllables) becomes apparent.
+
 [^14]: given the long names, this foot is unavoidably nine-syllables
-    long, both in Pāli and in English  
+    long, both in Pāli and in English
+
 [^15]: here the text (in both PTS and BJTS editions) substitutes *tehi
     kammehi* (plural instrumental) for the ordinary *tena kammena*
     (singular instrumental) in this *Apadāna* stock phrase. Perhaps
-    “good deeds” would be better here.  
-[^16]: = Rājagaha, Rajgir, in Bihār  
-[^17]: lit., “born in a rich clan of millionaires”  
+    “good deeds” would be better here.
+
+[^16]: = Rājagaha, Rajgir, in Bihār
+
+[^17]: lit., “born in a rich clan of millionaires”
+
 [^18]: *yobbane ṭhitā,* lit., “established in youth” or “when I attained
-    puberty”  
+    puberty”
+
 [^19]: lit., “in order to be executed” (*vadhatthaŋ*). In the era to
-    which *Apadāna* belongs, this would likely have implied beheading.  
-[^20]: *me bhūsanalobhena,* lit., “out of greed for my ornaments”  
+    which *Apadāna* belongs, this would likely have implied beheading.
+
+[^20]: *me bhūsanalobhena,* lit., “out of greed for my ornaments”
+
 [^21]: reading *khalitajjhāsayo diso* (lit., “enemy intent on
     wrong-doing”) with BJTS for PTS *mālapaccāhataŋ diso* (“\[led me\]
-    carrying a garland, the enemy”)  
+    carrying a garland, the enemy”)
+
 [^22]: *corappapātaŋ*, BJTS Sinh. gloss explains “where thieves are
-    killed”  
-[^23]: “Enemy,” but apparently used as a proper name  
-[^24]: *paṇāmetvāna...sukatañjalī*  
-[^25]: “slave” being the seventh of the seven types of wives  
+    killed”
+
+[^23]: “Enemy,” but apparently used as a proper name
+
+[^24]: *paṇāmetvāna...sukatañjalī*
+
+[^25]: “slave” being the seventh of the seven types of wives
+
 [^26]: or “since I reached puberty,” *yato patto ‘smi viññutaŋ,* lit.,
-    “starting from when I reached puberty;”  
-[^27]: *puno*, lit., “again”  
-[^28]: lit., “of me, of you”  
-[^29]: lit., “on”  
-[^30]: lit., “with”  
-[^31]: or “cut”: *chinnaŋ*  
+    “starting from when I reached puberty;”
+
+[^27]: *puno*, lit., “again”
+
+[^28]: lit., “of me, of you”
+
+[^29]: lit., “on”
+
+[^30]: lit., “with”
+
+[^31]: or “cut”: *chinnaŋ*
+
 [^32]: *nimittaŋ alabhiŋ,* lit., “I got it as an object of
-    concentration”  
-[^33]: lit., “I asked for going forth and for higher ordination”  
-[^34]: *sa-udayaŋvyayaŋ*  
-[^35]: *anupādaya* or “with not-clinging”  
+    concentration”
+
+[^33]: lit., “I asked for going forth and for higher ordination”
+
+[^34]: *sa-udayaŋvyayaŋ*
+
+[^35]: *anupādaya* or “with not-clinging”
+
 [^36]: *satthu sāsanakārikā,* lit., “\[I am\] a doer of the Teacher’s
-    dispensation”  
+    dispensation”
+
 [^37]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I
-    became”)  
+    became”)
+
 [^38]: lit., “pure” (*suddhaŋ*)

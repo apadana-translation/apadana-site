@@ -25,7 +25,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2298\]
 
 Thus indeed Venerable Udakadāyaka Thera spoke these verses.  
-The legend of Udakadāyaka Thera is finished.  
-[^1]: “Water Donor”  
-[^2]: *samaṇaŋ*  
+The legend of Udakadāyaka Thera is finished.
+
+[^1]: “Water Donor”
+
+[^2]: *samaṇaŋ*
+
 [^3]: “Stainless”

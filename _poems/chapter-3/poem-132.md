@@ -35,12 +35,17 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[1885\]
 
 Thus indeed Venerable Sudassana Thera spoke these verses.  
-The legend of Sudassana Thera is finished.  
-[^1]: “Good to Look At”  
+The legend of Sudassana Thera is finished.
+
+[^1]: “Good to Look At”
+
 [^2]: PTS reads *vitthatāya nadītire,* “on a wide river bank”. I follow
-    BJTS in the spelling of the proper name.  
+    BJTS in the spelling of the proper name.
+
 [^3]: lit., “*pilakkha* \[tree\]” (Sinh. *pulila*), the wave-leaved fig
-    tree.  
-[^4]: *ketaka* or *ketakī* (Sinhala *väṭakē* or *väṭakeyiyā*)  
+    tree.
+
+[^4]: *ketaka* or *ketakī* (Sinhala *väṭakē* or *väṭakeyiyā*)
+
 [^5]: “Fruit Risen Up.” This is the BJTS spelling; PTS gives Khaluggata,
     “Surely RIsen Up.”

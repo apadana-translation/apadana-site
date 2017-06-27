@@ -100,26 +100,34 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (21) \[3725\]
 
 Thus indeed Venerable Madhudāyaka Thera spoke these verses.  
-The legend of Madhudāyaka Thera is finished.  
+The legend of Madhudāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Honey Donor”  
-[^3]: reading *tattha* with BJTS for PTS *tassa,* “his”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Honey Donor”
+
+[^3]: reading *tattha* with BJTS for PTS *tassa,* “his”
+
 [^4]: *dhammakāmā.* BJTS gloss just gives *dharmakāmī*. I do not
     capitalize “teachings” because I assume the term is used more
-    generically to mean doctrines, rather than *the* Dhamma.  
-[^5]: *vinītā*  
+    generically to mean doctrines, rather than *the* Dhamma.
+
+[^5]: *vinītā*
+
 [^6]: *chalaṅge,* lit., “six branches” of Vedic science. RD, S.V.: “the
     set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2.
     vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (viciti), 6. joti-sattha
     (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D
-    iii.269; Vv 6316; Pv ii.613; Miln 178, 236.”  
+    iii.269; Vv 6316; Pv ii.613; Miln 178, 236.”
+
 [^7]: reading *susāsanaṃ sotukāmā* with BJTS for PTS *sotukāmā pi
     sāsanaŋ,* “also wanting to hear instructions.” BJTS gloss gives
     *anuśāsanaya asanu kämättā,* “desiring to listen to instructions,”
     and I follow suit in the generic translation here, rather than
-    understand the term as *the* “Sasana,” the Buddha’s “dispensation”  
+    understand the term as *the* “Sasana,” the Buddha’s “dispensation”
+
 [^8]: *uppādāgamane,* lit., “coming on of omens (RD: *uppāda* 1, BJTS
     gloss *utpāta*)” or “arrival of omens.” BJTS glosses *ºāgamane* as
     *śāstrayehi*, “traditional learning” (about omens), apparently
@@ -129,33 +137,48 @@ The legend of Madhudāyaka Thera is finished.
     explains this *utpātaśāstra* as “declaring \[omens\] good or bad
     (*śubhāśubha*) having looked at/with an eye toward unnatural changes
     connected with ghosts (*bhūtayan piḷibanda asvābhāvika venasvīm
-    balā*)  
+    balā*)
+
 [^9]: BJTS gloss takes this *lakṣaṇaśāstra* as involving the signs on
-    the body/science of interpreting bodily marks.  
-[^10]: *vināyako*  
-[^11]: *tīṇisantharakaŋ katvā*  
-[^12]: *madhuvasso* (BJTS reads *madhuvassaṃ*) *pavassittha*  
-[^13]: *chādayaŋ madhunā mahiŋ*  
+    the body/science of interpreting bodily marks.
+
+[^10]: *vināyako*
+
+[^11]: *tīṇisantharakaŋ katvā*
+
+[^12]: *madhuvasso* (BJTS reads *madhuvassaṃ*) *pavassittha*
+
+[^13]: *chādayaŋ madhunā mahiŋ*
+
 [^14]: reading *kucchiyā va suduttaraṃ* (lit., “as though very hard to
     cross over from the womb”) with BJTS for PTS *kumbiyā vasuduttaraŋ*
     (“from a pot over the earth” ?). I follow BJTS gloss in translating
-    this BJTS reading.  
-[^15]: lit., “I am a receiver of”  
+    this BJTS reading.
+
+[^15]: lit., “I am a receiver of”
+
 [^16]: lit., “I attained the destruction of the outflows”
     (*āsavakkhayaŋ*). This has to be read as a reference to the much
     later (present) life, for if he had become an arahant in the time of
     Sikhi Buddha he would not have been reborn during the time of the
-    present (Gotama) Buddha.  
-[^17]: lit., “and,” *ca*  
+    present (Gotama) Buddha.
+
+[^17]: lit., “and,” *ca*
+
 [^18]: reading *sañchanne* with BJTS for PTS *ca chappade* (“and with
-    six feet”?)  
-[^19]: reading *sampupphite* with BJTS for PTS *samphīte*  
+    six feet”?)
+
+[^19]: reading *sampupphite* with BJTS for PTS *samphīte*
+
 [^20]: reading *mūlake* with PTS (and BJTS alt.) as preferable to BTJTS
-    *mūle,* which would make this line (only) an eleven-syllable foot.  
+    *mūle,* which would make this line (only) an eleven-syllable foot.
+
 [^21]: PTS treats this as two four-footed verses with six- (rather than
     eight-) syllable feet; BJTS treats it as a singe verse with
     twelve-syllable feet. Except the divergences indicated, the Pāli is
-    the same in both.  
+    the same in both.
+
 [^22]: reading *majjhe mahante hīne* with BJTS for PTS *majjhe mayhaŋ
-    bhāvā,* “my existences in the middle.”  
+    bhāvā,* “my existences in the middle.”
+
 [^23]: here too BJTS and PTS agree in presenting the variant reading

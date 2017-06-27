@@ -31,9 +31,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1354\]
 
 Thus indeed Venerable Sakacittaniya Thera spoke these verses.  
-The legend of Sakacittaniya Thera is finished.  
-[^1]: “Thinking for Himself”  
+The legend of Sakacittaniya Thera is finished.
+
+[^1]: “Thinking for Himself”
+
 [^2]: some PTS alternatives and BJTS read *pūlinaṃ*, “sand,” but PTS
     agrees with the cty in reading *veḷunaṃ*, “bamboo.” so I translate
-    accordingly.  
+    accordingly.
+
 [^3]: “Boundless Fame”

@@ -21,9 +21,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[1944\]
 
 Thus indeed Venerable Adhicchattiya Thera spoke these verses.  
-The legend of Adhicchattiya Thera is finished.  
-[^1]: “Upper Parasol-er”  
-[^2]: lit., “reached nirvana”  
+The legend of Adhicchattiya Thera is finished.
+
+[^1]: “Upper Parasol-er”
+
+[^2]: lit., “reached nirvana”
+
 [^3]: cty explains *chattādhichattaṃ* as an umbrella above another
     umbrella, which were (and in places still are) common ornaments of
     stupas,.

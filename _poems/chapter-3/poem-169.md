@@ -30,15 +30,23 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2098\]
 
 Thus indeed Venerable Samādapaka Thera spoke these verses.  
-The legend of Samādapaka Thera is finished.  
-[^1]: “Instructor”  
-[^2]: see note to v. \[1601\]; this is the same term, *mahāpūgagaṇa.*  
+The legend of Samādapaka Thera is finished.
+
+[^1]: “Instructor”
+
+[^2]: see note to v. \[1601\]; this is the same term, *mahāpūgagaṇa.*
+
 [^3]: this follows BJTS Sinhala gloss. BJTS reads *baddhacarā,*
     “connected farers.” PTS reads paddhacarā, One would prefer
-    *sadācarā,* or perhaps *saddhacarā* (“fellow faithful”).  
-[^4]: lit., “I caused them to undertake meritorious action.”  
-[^5]: lit., “a large, one-peaked building (*māḷa*)”. Cf note to 1915.  
-[^6]: lit., “they who followed under the power of my wishes/iintentions”  
-[^7]: *adamhase,* BJTS glosses *api vipassi budurajunhaṭ eya dunumha*  
+    *sadācarā,* or perhaps *saddhacarā* (“fellow faithful”).
+
+[^4]: lit., “I caused them to undertake meritorious action.”
+
+[^5]: lit., “a large, one-peaked building (*māḷa*)”. Cf note to 1915.
+
+[^6]: lit., “they who followed under the power of my wishes/iintentions”
+
+[^7]: *adamhase,* BJTS glosses *api vipassi budurajunhaṭ eya dunumha*
+
 [^8]: “Seen”? BJTS reads Ādeyya, “That which should be taken,” which is
     not much more satisfactory.

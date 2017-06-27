@@ -30,12 +30,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2207\]
 
 Thus indeed Venerable Ekacāriya Thera spoke these verses.  
-The legend of Ekacāriya Thera is finished.  
-[^1]: “Once Practicer”  
-[^2]: “reached nirvana”  
-[^3]: I follow BJTS in assuming the implied *citta* here  
+The legend of Ekacāriya Thera is finished.
+
+[^1]: “Once Practicer”
+
+[^2]: “reached nirvana”
+
+[^3]: I follow BJTS in assuming the implied *citta* here
+
 [^4]: reading *parinibbāṇakālamhi* with BJTS for PTS
-    *parinibbānākālamhi*  
-[^5]: *duggatiŋ nûpapajj’ ahaŋ*  
+    *parinibbānākālamhi*
+
+[^5]: *duggatiŋ nûpapajj’ ahaŋ*
+
 [^6]: this reading follows BJTS; PTS gives the name as Mahāmallājanā.
     The meaning is “Great Wrestling Men”.

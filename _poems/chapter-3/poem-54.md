@@ -40,8 +40,11 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[1289\]
 
 Thus indeed Venerable Gandhodakiya Thera spoke these verses.  
-The legend of Gandhodaka Thera is finished.  
+The legend of Gandhodaka Thera is finished.
+
 [^1]: “Scented Water.” BJTS spells the name Gandhodakiya; both BJTS and
-    PTS give the latter spelling in the colophon  
-[^2]: lit., “a large sound”  
+    PTS give the latter spelling in the colophon
+
+[^2]: lit., “a large sound”
+
 [^3]: reading *ahum* (BJTS) for *ahu* (“there was,” PTS)

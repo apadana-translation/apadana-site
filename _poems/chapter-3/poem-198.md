@@ -25,14 +25,20 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2259\]
 
 Thus indeed Venerable Muṭṭhipūjaka Thera spoke these verses.  
-The legend of Muṭṭhipūjaka Thera is finished.  
-[^1]: “Offerer of a Handful”  
-[^2]: lit., “exerted \[himself\] in exertion”: *padhānaŋ padahī*  
+The legend of Muṭṭhipūjaka Thera is finished.
+
+[^1]: “Offerer of a Handful”
+
+[^2]: lit., “exerted \[himself\] in exertion”: *padhānaŋ padahī*
+
 [^3]: reading *caṅkamamānassa* with BJTS (and PTS alt.) for PTS
-    *kampamānassa* (“shaking” “trembling" “quaking” “quivering”)  
+    *kampamānassa* (“shaking” “trembling" “quaking” “quivering”)
+
 [^4]: lit., “a handful of flowers of *girinela*.” *Girinela* = Sinh.
     *girinil mal, girinilla;* Sri Sumangala: “a variety of vine used in
-    medicine”  
-[^5]: lit., “kṣatriyan”  
+    medicine”
+
+[^5]: lit., “kṣatriyan”
+
 [^6]: *su* + *nela (*or *neḷa),* without fault, blameless, gentle,
     humane: “Very Faultless One”

@@ -20,8 +20,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[3213\]
 
 Thus indeed Venerable Timirapupphiya Thera spoke these verses.  
-The legend of Timirapupphiya Thera is finished.  
+The legend of Timirapupphiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Dark-Flower-er”. Cf. \#81.

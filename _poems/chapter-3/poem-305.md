@@ -20,7 +20,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2739\]
 
 Thus indeed Venerable Phaladāyaka Thera spoke these verses.  
-The legend of Phaladāyaka Thera is finished.  
-[^1]: “Fruit Donor.” cf. \#87, \#127, \#140, \#282 (more? xxx)  
-[^2]: this is the BJTS spelling; PTS gives *Bhāgīrasī*  
+The legend of Phaladāyaka Thera is finished.
+
+[^1]: “Fruit Donor.” cf. \#87, \#127, \#140, \#282 (more? xxx)
+
+[^2]: this is the BJTS spelling; PTS gives *Bhāgīrasī*
+
 [^3]: *vītaraṃsa*

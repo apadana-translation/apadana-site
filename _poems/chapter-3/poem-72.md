@@ -20,11 +20,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[1430\]
 
 Thus indeed Venerable Padasaññaka Thera spoke these verses.  
-The legend of Padasaññaka Thera is finished.  
-[^1]: “Foot-Perceiver”  
+The legend of Padasaññaka Thera is finished.
+
+[^1]: “Foot-Perceiver”
+
 [^2]: the term here is *akkantam*, which means “stepped upon” or
     “defeated,” but avoiding the implication that someone stepped on the
     Buddha’s foot, the cty explains that it was “stepping upon”
     (*akkamamānaṃ*) and makes the point of the *pāda* simply that he saw
-    the “foot-shrine” (*padacetiyaṃ*) of the Buddha.  
+    the “foot-shrine” (*padacetiyaṃ*) of the Buddha.
+
 [^3]: *ādiccabandhuno*

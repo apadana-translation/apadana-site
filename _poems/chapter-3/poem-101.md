@@ -30,10 +30,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1616\]
 
 Thus indeed Venerable Bhikkhadāyaka Thera spoke these verses.  
-The legend of Bhikkhadāyaka Thera is finished.  
-[^1]: “Giver of Begged Food.” Compare \#56. Saparivārāsana.  
+The legend of Bhikkhadāyaka Thera is finished.
+
+[^1]: “Giver of Begged Food.” Compare \#56. Saparivārāsana.
+
 [^2]: I read *Padenānupadaṃ yantaṃ nibbāpente mahājanaṃ/uḷārā vitti me
     jātā Buddhe’ ādiccabandhuni* (BJTS) for *Padenānupadaŋ yanto
     nibbāpentaŋ mahājanaŋ/vitti me pāhunā tāva Buddhass’ ādiccabandhuno*
-    (PTS); the grammar of the latter is muddled.  
+    (PTS); the grammar of the latter is muddled.
+
 [^3]: “Much Pollen”

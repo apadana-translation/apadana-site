@@ -50,12 +50,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (10) \[5288\]
 
 Thus indeed Venerable Upaḍḍhadussadāyaka Thera spoke these verses.  
-The legend of Upaḍḍhadussadāyaka Thera is finished.  
+The legend of Upaḍḍhadussadāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Half-Cloth Offerer”  
-[^3]: lit., “Blessed One”  
-[^4]: BJTS reads *tadā, “*then”  
-[^5]: BJTS reads *caratī* with the same meaning  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Half-Cloth Offerer”
+
+[^3]: lit., “Blessed One”
+
+[^4]: BJTS reads *tadā, “*then”
+
+[^5]: BJTS reads *caratī* with the same meaning
+
 [^6]: *akutobhayo,* lit., “with fear from nowhere”

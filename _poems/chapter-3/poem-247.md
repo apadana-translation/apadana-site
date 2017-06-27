@@ -20,6 +20,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2487\]
 
 Thus indeed Venerable Dhātupūjaka Thera spoke these verses.  
-The legend of Dhātupūjaka Thera is finished.  
-[^1]: “Relic-Worshipper”  
+The legend of Dhātupūjaka Thera is finished.
+
+[^1]: “Relic-Worshipper”
+
 [^2]: reading *tiṭṭhantaṃ* with BJTS for PTS *tiṭṭhaŋ taŋ*

@@ -33,15 +33,21 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[3231\]
 
 Thus indeed Venerable Pāṭalipupphiya Thera spoke these verses.  
-The legend of Pāṭalipupphiya Thera is finished.  
+The legend of Pāṭalipupphiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Trumpet-Flower-er.”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Trumpet-Flower-er.”
+
 [^3]: *Pāṭali* is Sinh. *paḷol,* Bignonia suaveolens, sterospermum
     suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of
-    Vipassi Buddha. Cf. \#71, \#78, \#96, \#248, \#255.  
+    Vipassi Buddha. Cf. \#71, \#78, \#96, \#248, \#255.
+
 [^4]: *nadītittha,* the “ford” (Sinh. *toṭupola, maṅkaḍa*) fashioned for
-    easy descent into the water to bathe.  
-[^5]: *indīvara, Cassia fistula*  
+    easy descent into the water to bathe.
+
+[^5]: *indīvara, Cassia fistula*
+
 [^6]: *kilesamaladhovana*

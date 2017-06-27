@@ -40,19 +40,25 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[2800\]
 
 Thus indeed Venerable Āsanatthavika Thera spoke these verses.  
-The legend of Āsanatthavika Thera is finished.  
-[^1]: “Throne-praiser”  
+The legend of Āsanatthavika Thera is finished.
+
+[^1]: “Throne-praiser”
+
 [^2]: it is also possible to read “Lion Throne” (metaphorically, Seat of
     Power) as a Buddha-epithet, though given the tangibility of the
     object -- known in royal courts and religious sites throughout South
     Asia, anyway -- I am inclined to read it (as does BJTS gloss) as
     referring to an actual throne or chair (*āsana*). Cty (p. 477)
-    acknowledges both possibilities without resolving the issue.  
+    acknowledges both possibilities without resolving the issue.
+
 [^3]: *divasabhāgaŋ,* lit., “during the daytime \[part of the day, as
-    opposed to the nighttime part of it\]”  
+    opposed to the nighttime part of it\]”
+
 [^4]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of
     *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred
-    horse”  
+    horse”
+
 [^5]: *nimitta-karaṇena* = *nimittagāhiŋ,* lit., “because of outward
-    signs” “following external desires”  
+    signs” “following external desires”
+
 [^6]: “Incomparable” or “Without Equal”

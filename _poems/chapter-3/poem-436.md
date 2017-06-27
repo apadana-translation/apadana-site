@@ -25,17 +25,22 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[4683\]
 
 Thus indeed Venerable Kalambadāyaka Thera spoke these verses.  
-The legend of Kalambadāyaka Thera is finished.  
+The legend of Kalambadāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Stalk of Sugar-Cane-er” BJTS reads *Ucchukhaṇḍika* (“a broken
-    bit/a stick of sugar-cane”)  
+    bit/a stick of sugar-cane”)
+
 [^3]: BJTS takes him as a Lonely (*pacceka,* Sinh. *pasē*) Buddha, even
-    though the text is unambiguous in labelling him a Sambuddha.  
+    though the text is unambiguous in labelling him a Sambuddha.
+
 [^4]: see above, note to \#226, v. 4 (BJTS v. 2404) for a discussion of
     possible meanings and details of the use of this name elsewhere in
-    *Apadāna*.  
+    *Apadāna*.
+
 [^5]: *kalamba,* RD draws attention to Skt. *kalambika, kalambuka, =*
     convulvulus repens*,* bindweed, but there are other possibilities
     including the tree menispermum calumba (but its fruits are

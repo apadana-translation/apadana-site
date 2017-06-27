@@ -30,13 +30,19 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2235\]
 
 Thus indeed Venerable Asokapūjaka Thera spoke these verses.  
-The legend of Asokapūjaka Thera is finished.  
-[^1]: “Offerer of Ashoka \[Blossoms\]”  
+The legend of Asokapūjaka Thera is finished.
+
+[^1]: “Offerer of Ashoka \[Blossoms\]”
+
 [^2]: BJTS reads *baddhacaro.* Cty explains the term: “I was the
-    servant, the employee of the king”  
-[^3]: *sappabho*  
+    servant, the employee of the king”
+
+[^3]: *sappabho*
+
 [^4]: *na jahitaŋ muniŋ*, *taking* *jahita* from *jahati* to abandon,
-    leave, relinquish, quit, give up (Sinh. *at harīma)*  
+    leave, relinquish, quit, give up (Sinh. *at harīma)*
+
 [^5]: Jonesia Asoka, *Saraca asoca;* a large, flowering tree with dense
-    clusters of red flowers  
+    clusters of red flowers
+
 [^6]: “Abandoning the Sun”

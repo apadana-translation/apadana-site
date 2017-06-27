@@ -28,7 +28,10 @@ Sīhāsanī, Maggavada,
 Ekadīpī, Maṇippada,  
 Tikicchaka, Upaṭṭhāka,  
 one less than fifty verses \[here\].  
-The Kumuda Chapter, the Eighteenth.  
-[^1]: “Servant of the Monks’ Assembly”  
-[^2]: lit., “the Blessed One”.  
+The Kumuda Chapter, the Eighteenth.
+
+[^1]: “Servant of the Monks’ Assembly”
+
+[^2]: lit., “the Blessed One”.
+
 [^3]: “Spread Over”

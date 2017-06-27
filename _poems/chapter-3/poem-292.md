@@ -25,11 +25,15 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2680\]
 
 Thus indeed Venerable Pupphadhāraka Thera spoke these verses.  
-The legend of Pupphadhāraka Thera is finished.  
-[^1]: “Flower-Bearer”.  
+The legend of Pupphadhāraka Thera is finished.
+
+[^1]: “Flower-Bearer”.
+
 [^2]: lit., “five special knowledges had been produced.” One was still
     lacking, presumably the sixth and distinctively Buddhist knowledge
     described as certainty of one's own nirvana; the other five can be
-    attained by non-Buddhist (in this case, brahmin) adepts.  
-[^3]: *lokapajjotaŋ*  
+    attained by non-Buddhist (in this case, brahmin) adepts.
+
+[^3]: *lokapajjotaŋ*
+
 [^4]: “Holding up all Sides”

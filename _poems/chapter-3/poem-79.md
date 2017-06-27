@@ -30,9 +30,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1469\]
 
 Thus indeed Venerable Ṭhitañjaliya Thera spoke these verses.  
-The legend of Ṭhitañjaliya Thera is finished.  
-[^1]: “Standing with Hands Pressed Together”  
-[^2]: lit., “bearing the excellent marks”.  
-[^3]: reading *tassa* with BJTS for PTS *tattha* (“there”)  
-[^4]: lit., “at the time of \[my\] death”  
+The legend of Ṭhitañjaliya Thera is finished.
+
+[^1]: “Standing with Hands Pressed Together”
+
+[^2]: lit., “bearing the excellent marks”.
+
+[^3]: reading *tassa* with BJTS for PTS *tattha* (“there”)
+
+[^4]: lit., “at the time of \[my\] death”
+
 [^5]: “Deer-Flag”

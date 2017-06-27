@@ -36,14 +36,21 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[4942\]
 
 Thus indeed Venerable Naḷamāliya Thera spoke these verses.  
-The legend of Naḷamāliya Thera is finished.  
+The legend of Naḷamāliya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Reed-Flower-er”  
-[^3]: lit., “going”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Reed-Flower-er”
+
+[^3]: lit., “going”
+
 [^4]: BJTS Sinh. gloss on “reed” (*naḷa*) is *baṭa* = “reed, a small
-    species of bamboo, *ochlanda stridula”* (Bot. Dict.)  
-[^5]: lit., “did *pūjā*”  
-[^6]: *dakkhineyyaŋ*  
+    species of bamboo, *ochlanda stridula”* (Bot. Dict.)
+
+[^5]: lit., “did *pūjā*”
+
+[^6]: *dakkhineyyaŋ*
+
 [^7]: *sabbalokānukampakaŋ*

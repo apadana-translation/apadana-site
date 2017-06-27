@@ -15,5 +15,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[1541\]
 
 Thus indeed Venerable Saddasaññaka Thera spoke these verses.  
-The legend of Saddasaññaka Thera is finished.  
+The legend of Saddasaññaka Thera is finished.
+
 [^1]: “Sound-Perceiver.” Cf. \#294, \#317, \#348{351}

@@ -40,16 +40,23 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[3111\]
 
 Thus indeed Venerable Nalāgārika Thera spoke these verses.  
-The legend of Nalāgārika Thera is finished.  
+The legend of Nalāgārika Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Reed-Hut-er.” BJTS reads *Naḷāgārika.*  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Reed-Hut-er.” BJTS reads *Naḷāgārika.*
+
 [^3]: perhaps “Charming,” from *hāri*, or “Carrying,” from *harati.* A
     parallel *apdāna* below, of Naḷakuṭika Thera, which begins with the
     same two verses, reads the name as Bhārika (BJTS Bhārita) with
-    *Hārito* and *Hiriko* as alts.  
-[^4]: i.e., birth as a human being and birth as a god  
-[^5]: *sāsane,* lit., “dispensation”  
-[^6]: *upasanto*  
+    *Hārito* and *Hiriko* as alts.
+
+[^4]: i.e., birth as a human being and birth as a god
+
+[^5]: *sāsane,* lit., “dispensation”
+
+[^6]: *upasanto*
+
 [^7]: *nirūpadhi*

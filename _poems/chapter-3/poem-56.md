@@ -35,10 +35,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[1306\]
 
 Thus indeed Venerable Saparivārāsana Thera spoke these verses.  
-The legend of Saparivārāsana Thera is finished.  
-[^1]: “Seat \[for the Buddha\] with Retinue”  
-[^2]: lit., “when \[rain\] is falling”  
-[^3]: lit., “there will be pleasure from the fruit”  
+The legend of Saparivārāsana Thera is finished.
+
+[^1]: “Seat \[for the Buddha\] with Retinue”
+
+[^2]: lit., “when \[rain\] is falling”
+
+[^3]: lit., “there will be pleasure from the fruit”
+
 [^4]: lit., “in the 227 rules recited by monks on full moon days,”
     reading *pātimokkhasmiṃ* (BJTS, cty, PTS alt.) for *pātimokkhasmi*
     (PTS).

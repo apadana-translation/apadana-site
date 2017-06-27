@@ -23,12 +23,17 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2599\]
 
 Thus indeed Venerable Abbhañjanadāyaka Thera spoke these verses.  
-The legend of Abbhañjanadāyaka Thera is finished.  
-[^1]: “Unguent-Donor”  
+The legend of Abbhañjanadāyaka Thera is finished.
+
+[^1]: “Unguent-Donor”
+
 [^2]: *nippapañca,* lit., “One who Lacks the Delays,” i.e., the three
     characteristics (craving, delusion, pride) which delay progress
-    toward nirvana.  
+    toward nirvana.
+
 [^3]: *jyāyī* = practitioner of *jhanas* (levels of meditative
-    achievement).  
-[^4]: *sabbalokahitesino*  
+    achievement).
+
+[^4]: *sabbalokahitesino*
+
 [^5]: “Long and Little” (or something like “Long Drinking”?)

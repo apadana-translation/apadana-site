@@ -30,12 +30,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1960\]
 
 Thus indeed Venerable Saparivāriya Thera spoke these verses.  
-The legend of Saparivāriya Thera is finished.  
-[^1]: “With the Retinue-er”.  
-[^2]: lit., “reached nirvana”  
-[^3]: lit., “reached nirvana”  
-[^4]: lit., “spread out,” “expanded”.  
+The legend of Saparivāriya Thera is finished.
+
+[^1]: “With the Retinue-er”.
+
+[^2]: lit., “reached nirvana”
+
+[^3]: lit., “reached nirvana”
+
+[^4]: lit., “spread out,” “expanded”.
+
 [^5]: reading *ahorattaṃ* (BJTS) for *thūpam rattaŋ* (“the stupa by
-    night,” PTS).  
+    night,” PTS).
+
 [^6]: I follow BJTS and PTS alt in reading the name thus, which means
     “Accomplished” or “Entire”. PTS reads Pamatta (“Negligent”).

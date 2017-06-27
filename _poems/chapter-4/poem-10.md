@@ -85,9 +85,12 @@ Dīpad-Odakadā also;
 the verses here[^8] are counted \[thus:\]  
 one verse and one hundred \[also\]  
 and seventeen added to that.  
-The Sumedhā Chapter, the First  
-[^1]: “Water-Giver”  
-[^2]: lit., “by means of that” or “through that”.  
+The Sumedhā Chapter, the First
+
+[^1]: “Water-Giver”
+
+[^2]: lit., “by means of that” or “through that”.
+
 [^3]: in the *Vinaya* and *Jātaka* this term, *koṭṭhaka,* refers to the
     place where monks kept water for bathing. In *Therāpadāna* (v.
     \[722\]) the term refers to a building in a monastery, and I have
@@ -100,16 +103,21 @@ The Sumedhā Chapter, the First
     to something that contains water, so I have translated it
     “water-tower” even though it may be more akin to “water-room” (as in
     *Vinaya* and *Jātaka*) or “water-stronghold” (as in this
-    *Therāpadāna* usage).  
+    *Therāpadāna* usage).
+
 [^4]: since this was ninety-one aeons ago, the Buddha was presumably
-    Vipassi.  
+    Vipassi.
+
 [^5]: that is, created as a result of the merit of having brought water
-    to the Buddha.  
+    to the Buddha.
+
 [^6]: lit., “in \[all\] ten places”. Reading *dasaṭṭhānehi tā sabbā*
     (BJTS) for *dasaṭṭhāne hitā sabbā* (“all standing in ten places,”
     PTS). For a list of the ten ways of outshining the other women
     (there as *dasa-h-aṅgehi,* lit., “ten parts” or “ten limbs”) see
-    below, v. \[333\]-\[335\] (= *Gotamī-apadāna* v. 107-109).  
+    below, v. \[333\]-\[335\] (= *Gotamī-apadāna* v. 107-109).
+
 [^7]: reading *sarīre me na vijjati* (BJTS, PTS alt) for *atha m’eva na
-    vijjati* (“are not ever seen by me,” PTS).  
+    vijjati* (“are not ever seen by me,” PTS).
+
 [^8]: reading *iha* (BJTS) for *viha* (PTS).

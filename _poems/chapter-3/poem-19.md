@@ -60,18 +60,25 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (12) \[795\]
 
 Thus indeed Venerable Sopāka Thera spoke these verses.  
-The legend of Venerable Sopāka Thera is finished.  
+The legend of Venerable Sopāka Thera is finished.
+
 [^1]: BJTS and cty read *sevantassa* (“serving”) for *sodhayantassa*
     (“washing” “making clean”); either term conveys the meaning,
-    elaborated by the cty, that he was a worker at the retreat.  
+    elaborated by the cty, that he was a worker at the retreat.
+
 [^2]: *pabbhara* is a slope, incline; cty explains that it was a place
     on the mountain where the monks would relax or be separated from
-    others (*vivekaṭṭhānaṃ,,* “leisure spot”)  
+    others (*vivekaṭṭhānaṃ,,* “leisure spot”)
+
 [^3]: PTS gives *pavare,* “most excellent;” BJTS reads *vipine*,
-    “forest\[ed\]” (or “in the forest”).  
-[^4]: BJTS (and PTS alt.) reads *dhīro* (“the wise one”)  
-[^5]: *dve sampatti*. See above, n. to \[702\].  
+    “forest\[ed\]” (or “in the forest”).
+
+[^4]: BJTS (and PTS alt.) reads *dhīro* (“the wise one”)
+
+[^5]: *dve sampatti*. See above, n. to \[702\].
+
 [^6]: i.e., despicable, low people. Lit, “I approached a dog-cooker’s
     womb.” On the semantic range and history of this insulting term, see
-    David White, “Dogs Die.”  
+    David White, “Dogs Die.”
+
 [^7]: lit., “with strenuous effort”

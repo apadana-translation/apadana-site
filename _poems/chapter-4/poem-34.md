@@ -148,58 +148,85 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (30) \[1213\]
 
 Thus indeed the bhikkhunī Sigālaka-mātā spoke these verses.  
-The legend of Sigālaka-mātā Therī[^27] is finished  
+The legend of Sigālaka-mātā Therī[^27] is finished
+
 [^1]: “Sigālaka’s Mother,” an historical nun, remembered as foremost
     among those who attained release through their faith. See DPPN II:
     1133. She was the mother of Sigāla to whom the famous
     *Sigālovādasutta* was preached, upon which she also achieved fruits
-    of the path.  
+    of the path.
+
 [^2]: reading *saddhādhimuttānaṃ* with BJTS for PTS *aṅgavimuttānaŋ*
-    (“freed in/by \[their\] limbs”)  
+    (“freed in/by \[their\] limbs”)
+
 [^3]: *tisso sikkhā*, i.e., training in morality (*sīla*), wisdom
-    *(paññā)* and meditative states *(samādhi*)  
+    *(paññā)* and meditative states *(samādhi*)
+
 [^4]: *karuṇānugatāsayo,* lit., “support for those come into/follow
-    after/depend upon \[his\] pity (or compassion)”  
+    after/depend upon \[his\] pity (or compassion)”
+
 [^5]: PTS presents the following speech of the Buddha in eight four-foot
     verses (6-13). BJTS presents the same speech arranged into seven
     verses (\[1190-1196\], the first and last of which it presents as
     six-footed verses). I follow the BJTS numbering here, indicating
-    corresponding numbering in the PTS edition.  
+    corresponding numbering in the PTS edition.
+
 [^6]: the pronouns here are somewhat jarringly masculine ones, even
-    though the subject is female  
-[^7]: *sīlaŋ ca yassa*  
-[^8]: *pasādo*  
-[^9]: *pasādaŋ*  
-[^10]: *anomo*  
-[^11]: *amito*  
-[^12]: *vināyako*  
+    though the subject is female
+
+[^7]: *sīlaŋ ca yassa*
+
+[^8]: *pasādo*
+
+[^9]: *pasādaŋ*
+
+[^10]: *anomo*
+
+[^11]: *amito*
+
+[^12]: *vināyako*
+
 [^13]: both of these adjectives are in the vocative: “O beautiful one, O
-    you whose pleasure is in the Buddha”  
-[^14]: *paṭipattīhi*  
-[^15]: = Rājagaha, Rajgir, in Bihār  
-[^16]: lit., “born in a rich clan of millionaires”  
-[^17]: *nānādisā,* lit., “various directions” “the different directions”  
+    you whose pleasure is in the Buddha”
+
+[^14]: *paṭipattīhi*
+
+[^15]: = Rājagaha, Rajgir, in Bihār
+
+[^16]: lit., “born in a rich clan of millionaires”
+
+[^17]: *nānādisā,* lit., “various directions” “the different directions”
+
 [^18]: reading *desayato* (gen. abs. constr.) with BJTS (and PTS alt)
-    for PTS *desayito*  
+    for PTS *desayito*
+
 [^19]: BJTS reads *ninādo* for PTS *panādo*, though BJTS alt. agrees
     with PTS. The term is singular so we might imagine some sort of
     shout in unison; I translate as “shrieks” (plural) given the
-    context.  
-[^20]: *dvekoṭi, lit., “* two \[times\] ten million”  
+    context.
+
+[^20]: *dvekoṭi, lit., “* two \[times\] ten million”
+
 [^21]: lit., “there was an \[achieving of\] insight into the *Dhamma* of
     twenty million.” *Dhammâbhisamaya*, “insight into the *Dhamma*” or
     “entry into the *Dhamma*” or “comprehension of the *Dhamma”* or
     “penetration into the *Dhamma”* refers to the achievement of a firm
     grasp on the essentials of the Teaching. It is used as a technical
     term in the account of each Buddha in the *Buddhavaṃsa*, one among
-    many categories of Buddha-achievement enumerated there.  
-[^22]: or “cultivating:” *bhāvetvā*  
-[^23]: reading *vajām’ ahaṃ* with BJTS (cf. PTS alt. *vajām’ ayaŋ*)  
+    many categories of Buddha-achievement enumerated there.
+
+[^22]: or “cultivating:” *bhāvetvā*
+
+[^23]: reading *vajām’ ahaṃ* with BJTS (cf. PTS alt. *vajām’ ayaŋ*)
+
 [^24]: reading *nayananandanaṃ* with BJTS for PTS *yena ‘va nandanaŋ*
-    (“through which there is rejoicing” ?)  
+    (“through which there is rejoicing” ?)
+
 [^25]: reading *vihāram’ ahaṃ* with BJTS for PTS *bhayām’ ahaŋ* (=
-    *bhāyām’ ahaṃ,* “I am fearing” ?)  
+    *bhāyām’ ahaṃ,* “I am fearing” ?)
+
 [^26]: reading *aggā saddhādhimuttikā* with BJTS for PTS *aggā
     saṅgavimuttikā* (“freed from clinging”), alt. *aṅgavimuttikā*
-    (“freed in/by her\] limbs”)  
+    (“freed in/by her\] limbs”)
+
 [^27]: this is the BJTS reading; PTS reads bhikkhunī Sigālaka-mātā

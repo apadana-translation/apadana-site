@@ -48,11 +48,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (10) \[1878\]
 
 Thus indeed Venerable Sobhita Thera spoke these verses.  
-The legend of Sobhita Thera is finished.  
+The legend of Sobhita Thera is finished.
+
 [^1]: PTS presents these lines as two verses with feet of only six
     syllables each; BJTS presents them (I think correctly) as a single
-    verse whose feet measure twelve syllables each.  
+    verse whose feet measure twelve syllables each.
+
 [^2]: note that BJTS and PTS invert verses \[1877\] and \[1876\]/(8) and
     (9). I follow the PTS for consistency even though I suspect BJTS has
-    it right.  
+    it right.
+
 [^3]: “Risen Up Together”

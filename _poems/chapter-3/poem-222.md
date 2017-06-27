@@ -28,8 +28,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2383\]
 
 Thus indeed Venerable Ajinadāyaka Thera spoke these verses.  
-The legend of Ajinadāyaka Thera is finished.  
-[^1]: “Deer-Hide Donor”  
-[^2]: lit., ago, hence  
-[^3]: lit., “Great Perfected Buddha’s”  
+The legend of Ajinadāyaka Thera is finished.
+
+[^1]: “Deer-Hide Donor”
+
+[^2]: lit., ago, hence
+
+[^3]: lit., “Great Perfected Buddha’s”
+
 [^4]: “Good Donor”

@@ -39,14 +39,22 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8)  
 Thus indeed Venerable Pupphachadanīya Thera spoke these verses.  
-The legend of Pupphachadanīya Thera is finished.  
-[^1]: “Flower-Covering-er” or “Flower-Roof-er”  
-[^2]: “Good Joy”  
-[^3]: Skt. *vājapeya,* one of the seven types of *soma* sacrifice  
-[^4]: reading *aphari satte* (BJTS) for *aparisatte* (PTS).  
-[^5]: lit., “as far as the city \[went\]”  
+The legend of Pupphachadanīya Thera is finished.
+
+[^1]: “Flower-Covering-er” or “Flower-Roof-er”
+
+[^2]: “Good Joy”
+
+[^3]: Skt. *vājapeya,* one of the seven types of *soma* sacrifice
+
+[^4]: reading *aphari satte* (BJTS) for *aparisatte* (PTS).
+
+[^5]: lit., “as far as the city \[went\]”
+
 [^6]: lit., “for an entire week they did not depart.” *Vigacchatha* =
-    3rd person plural *attanopada* aorist fr. \*gam  
-[^7]: lit., “kṣatriyans”.  
+    3rd person plural *attanopada* aorist fr. \*gam
+
+[^7]: lit., “kṣatriyans”.
+
 [^8]: “Same as Part of the Sky.” BJTS read *ambaraṃsa sanāma te,* “they
     were named Ambaraṃsa” (Sky-Part”).

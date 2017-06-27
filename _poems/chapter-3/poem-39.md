@@ -30,8 +30,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1109\]
 
 Thus indeed Venerable Dhammacakkika Thera spoke these verses.  
-The legend of Dhammacakkika Thera is finished.  
-[^1]: “*Dhamma*-Wheel-er”  
+The legend of Dhammacakkika Thera is finished.
+
+[^1]: “*Dhamma*-Wheel-er”
+
 [^2]: stone-carved free-standing scultpures of *dhamma-cakkas* (an
     eight-spoked wheel representing the *Dhamma* of the Buddha as well
     as the Law of a “wheel-turning” \[cakka-vatti\] monarchs have been
@@ -40,13 +42,17 @@ The legend of Dhammacakkika Thera is finished.
     appearance. The *Dhamma*-wheel is also a standard emblem carved into
     the base of such thrones, which is often, as the cty stipulates
     here, flanked by images of lions (Dhammacakkika’s was ‘situated in
-    the place between them both”).  
+    the place between them both”).
+
 [^3]: BJTS Sinhala gloss follows the cty, as do I, in understanding
-    “*vaṇṇitaṃ*” as “*varṇatā karaṇalada*.”  
+    “*vaṇṇitaṃ*” as “*varṇatā karaṇalada*.”
+
 [^4]: “or of a charming appearance;” cty seems to read *catuvaṇṇo* for
     *cāruvaṇṇo* (on which BJTS and PTS agree, without alternates in the
     mss.) and therefore interprets this to mean, “\[Among?\] the four
-    castes, I shine”.  
-[^5]: *turiya,* musical instruments  
+    castes, I shine”.
+
+[^5]: *turiya,* musical instruments
+
 [^6]: “Thousand Kings,” perhaps to be understood as the overlord of a
     thousand royal underlords, or the king over thousands of people.

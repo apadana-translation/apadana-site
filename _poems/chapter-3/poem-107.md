@@ -53,11 +53,15 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (11) \[1656\]
 
 Thus indeed Venerable Naḷamāliya Thera spoke these verses.  
-The legend of Naḷamāliya Thera is finished.  
-[^1]: “Reed-Garland-er.” Reading naḷa° (BJTS) for nala° (PTS)  
+The legend of Naḷamāliya Thera is finished.
+
+[^1]: “Reed-Garland-er.” Reading naḷa° (BJTS) for nala° (PTS)
+
 [^2]: It is unclear whether the repetition of “Neutral One” (*tādino*)
     in this string of epithets is intentional (as to emphasize that
     particular quality) or not (perhaps through conflation of other
-    now-lost epithets)  
-[^3]: “Good Vow” or “Compliant One” (as below, as a Buddha epithet)  
+    now-lost epithets)
+
+[^3]: “Good Vow” or “Compliant One” (as below, as a Buddha epithet)
+
 [^4]: “Breeze”

@@ -31,12 +31,14 @@ Campaka, Sattapāṭali,
 Kuṭida, Aggapupphiya[^5]  
 and the verses here are counted  
 as exactly forty plus one.  
-The Thomaka Chapter, the Twenty-Sixth  
+The Thomaka Chapter, the Twenty-Sixth
+
 [^1]: “*Agga*-Flower-er”. BJTS takes *agga (*“first” or “chief”*)* or
     *aggaja* (“first born” or “eldest brother”) as the name of a flower,
     which is reasonable given the context of its usage here, and is also
     the conclusion of the cty: “*Aggajaṃ puppham ādāya* ti
-    aggaja-nāmakaṃ pupphaṃ...”  
+    aggaja-nāmakaṃ pupphaṃ...”
+
 [^2]: one is tempted to take the literal meaning (“first born” etc.) as
     a proper name of the flower and translate accordingly, but I have
     not found the term in dictionaries so that would imply too much
@@ -45,10 +47,13 @@ The Thomaka Chapter, the Twenty-Sixth
     would be the flower's name. It is also possible, contra the BJTS, to
     see this not as the *name* of the flower but rather some
     characteristic of it, e.g., “first blossom” on a plant, or “produced
-    (*jan*) through some chief/top/best method (*agga*).  
+    (*jan*) through some chief/top/best method (*agga*).
+
 [^3]: *sikhī,* a play on the meaning of the Buddha’s name. It can also
-    mean “peacock.”  
-[^4]: “Boundless”  
+    mean “peacock.”
+
+[^4]: “Boundless”
+
 [^5]: omitting *ca* following PTS alternative as well as BJTS. This
     keeps the meter right, in Pāli as much as in English. There are
     anyway already two *ca*s in the following line, which keeps the

@@ -25,11 +25,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[4995\]
 
 Thus indeed Venerable Kusaṭṭhakadāyaka Thera spoke these verses.  
-The legend of Kusaṭṭhakadāyaka Thera is finished.  
+The legend of Kusaṭṭhakadāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Eight Meal Ticket-er”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Eight Meal Ticket-er”
+
 [^3]: *kusa* \[Skt. *kuśa,* i.e. a type of sharp grass\] + *aṭṭhaka*,
     “an octave” “eight in number”. Cone explains this very passage as
     “(food) for eight tickets,” following Cty (p. 487: “the meaning is:
@@ -43,6 +46,7 @@ The legend of Kusaṭṭhakadāyaka Thera is finished.
     read to mean that the gift was of food for eight tickets; I suggest,
     conversely, that the gift was of eight tickets for food. In other
     words, the presentation of the blades of *kusa* grass was an
-    invitation to eight different meals.  
+    invitation to eight different meals.
+
 [^4]: *vusīmato&lt;vusīmant, vusitavant,* perfected or accomplished,
     especially with regard to *brahmacariya* (celibacy)

@@ -101,7 +101,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (20) \[150\]
 
 Thus indeed Bhikkhunī Ekūposathikā spoke these verses.  
-The legend of Ekūposathikā Therī is finished.  
+The legend of Ekūposathikā Therī is finished.
+
 [^1]: “One Full-Moon-Day Observance-er”. *Uposatha* is a technical term
     for the weekly “sabbath” rituals according to the lunar calendar.
     These rites -- on the day of the new moon, the full moon, the waning
@@ -116,14 +117,19 @@ The legend of Ekūposathikā Therī is finished.
     spending the day living as quasi-monastics. This is what King
     Bandhumā is here credited with establishing, and what the rebirth
     precursor of Ekūposathikā did as the foundation of her future
-    arahantship.  
-[^2]: lit., “a kṣatriyan”.  
+    arahantship.
+
+[^2]: lit., “a kṣatriyan”.
+
 [^3]: the wife of this king also planted the seeds for arahantship (as
     Ekapiṇḍadāyikā) in the time of Gotama Buddha. See above,
-    *Therī-apadāna* v. \[46\].  
+    *Therī-apadāna* v. \[46\].
+
 [^4]: lit., “set up,” “arranged for” “produced” “was born in”. The verb
     (*upapajjati*) is used throughout *Apadāna* to mean “rebirth,”
     implying that taking on the Uposatha observance was considered a
-    sort of new birth of the person who did it.  
-[^5]: lit., “he set up the \[observance of\] Uposatha.”  
+    sort of new birth of the person who did it.
+
+[^5]: lit., “he set up the \[observance of\] Uposatha.”
+
 [^6]: lit., “Supreme Buddha’s”

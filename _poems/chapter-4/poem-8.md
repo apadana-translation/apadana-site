@@ -100,23 +100,37 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (20) \[90\]
 
 Thus indeed Bhikkhunī Sattuppalamālikāya spoke these verses.  
-The legend of Sattuppalamālikāya Therī[^14] is finished.  
-[^1]: “Seven Blue Lotus Flower-er.”  
-[^2]: lit., “a kṣatriyan”  
+The legend of Sattuppalamālikāya Therī[^14] is finished.
+
+[^1]: “Seven Blue Lotus Flower-er.”
+
+[^2]: lit., “a kṣatriyan”
+
 [^3]: reading *cārikaṃ cārayām’ ahaṃ* (BJTS) for *na mālaŋ pādayām’
-    ahaŋ* (“I didn’t ? a garland,” PTS).  
-[^4]: lit., “What then for me with these flowers...?”  
-[^5]: *kakudha* = kumbuk, cf. note to *Therāpadāna* v. \[1800\].  
-[^6]: *vedajāto*  
+    ahaŋ* (“I didn’t ? a garland,” PTS).
+
+[^4]: lit., “What then for me with these flowers...?”
+
+[^5]: *kakudha* = kumbuk, cf. note to *Therāpadāna* v. \[1800\].
+
+[^6]: *vedajāto*
+
 [^7]: cf. above, n. to *Therī-apadāna* v. \[51\], on this obscure
-    term*.*  
+    term*.*
+
 [^8]: lit., “as far as my”. Pronounce as two syllables when chanting, to
-    keep the meter.  
+    keep the meter.
+
 [^9]: lit., “one whose words are to be taken,” reading *ādeyyavacanā*
-    (BJTS, PTS alt) for *adeyya°* (PTS).  
-[^10]: see note to *Therāpadāna* v. \[309\].  
-[^11]: See note to *Therāpadāna* v. \[309\].  
-[^12]: see note to *Therāpadāna* v. \[310\].  
-[^13]: see *Therāpadāna* v. \[649\] for these same two feet.  
+    (BJTS, PTS alt) for *adeyya°* (PTS).
+
+[^10]: see note to *Therāpadāna* v. \[309\].
+
+[^11]: See note to *Therāpadāna* v. \[309\].
+
+[^12]: see note to *Therāpadāna* v. \[310\].
+
+[^13]: see *Therāpadāna* v. \[649\] for these same two feet.
+
 [^14]: This is the BJTS reading; PTS reads *Bhikkhunī
     Sattuppalamālikāya*

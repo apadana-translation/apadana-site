@@ -25,7 +25,9 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1987\]
 
 Thus indeed Venerable Vaṭaṃsakiya Thera spoke these verses.  
-The legend of Vaṭaṃsakiya Thera is finished.  
+The legend of Vaṭaṃsakiya Thera is finished.
+
 [^1]: “Chaplet-er” “Hair-wreath-er”. The term refers to flowers and
-    ornaments worn in conjunction with a top-knot or bun of hair.  
+    ornaments worn in conjunction with a top-knot or bun of hair.
+
 [^2]: “Fashioner”

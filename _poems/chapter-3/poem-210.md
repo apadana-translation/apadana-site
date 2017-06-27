@@ -38,10 +38,16 @@ Nigguṇḍipuppha, ‘dakada,
 Salaḷa and Koraṇḍaka,  
 Ādhāraka, Vātātapa:  
 there are eight and forty verses.  
-Kaṇikārapupphiya Chapter, the Twenty-First  
-[^1]: “Shielder from Wind and Heat”  
-[^2]: *pāpaŋ*  
-[^3]: *kusala*  
-[^4]: lit., “They (the gods?) are carrying an umbrella in the sky  
-[^5]: lit., “Great Perfected Buddha’s”  
+Kaṇikārapupphiya Chapter, the Twenty-First
+
+[^1]: “Shielder from Wind and Heat”
+
+[^2]: *pāpaŋ*
+
+[^3]: *kusala*
+
+[^4]: lit., “They (the gods?) are carrying an umbrella in the sky
+
+[^5]: lit., “Great Perfected Buddha’s”
+
 [^6]: “Great Origin (or reason, or cause)”

@@ -25,6 +25,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1949\]
 
 Thus indeed Venerable Thambāropaka Thera spoke these verses.  
-The legend of Thambāropaka Thera is finished.  
-[^1]: “Pillar-Placer”  
+The legend of Thambāropaka Thera is finished.
+
+[^1]: “Pillar-Placer”
+
 [^2]: “Stupa-Pinnacle”

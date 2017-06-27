@@ -130,29 +130,46 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (26) \[3961\]
 
 Thus indeed Venerable Mettagu Thera spoke these verses.  
-The legend of Mettagu Thera is finished.  
+The legend of Mettagu Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Perfected in Loving-kindness”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Perfected in Loving-kindness”
+
 [^3]: “Griefless.” This is the only reference to the mountain recorded
-    in DPPN (I:220)  
-[^4]: Vishwakarma, “the divine architect”  
-[^5]: *aggo*  
-[^6]: *kāruṇiko*  
-[^7]: *muni*  
-[^8]: *upāgataŋ,* lit., “approached”  
-[^9]: *sappitelaŋ,* i.e., ghee  
+    in DPPN (I:220)
+
+[^4]: Vishwakarma, “the divine architect”
+
+[^5]: *aggo*
+
+[^6]: *kāruṇiko*
+
+[^7]: *muni*
+
+[^8]: *upāgataŋ,* lit., “approached”
+
+[^9]: *sappitelaŋ,* i.e., ghee
+
 [^10]: lit., “for,” the expected datives here appear in the locative,
-    presumably *metri causa*  
-[^11]: *vinipātaŋ*  
+    presumably *metri causa*
+
+[^11]: *vinipātaŋ*
+
 [^12]: *tattha cittaŋ paṇidhitvā,* also “having aspired,” “having
-    wished,” “having intended”  
-[^13]: *mettacittavatāya ca*  
-[^14]: *jambusaṇḍa = jambudīpa =* India, the South Asian continent  
+    wished,” “having intended”
+
+[^13]: *mettacittavatāya ca*
+
+[^14]: *jambusaṇḍa = jambudīpa =* India, the South Asian continent
+
 [^15]: *caturanto vijitāvi,* “possessed of conquest of the four
-    quarters,” a supreme imperial overlord  
-[^16]: contract to “immeas’rable” for chanting, to preserve the meter.  
+    quarters,” a supreme imperial overlord
+
+[^16]: contract to “immeas’rable” for chanting, to preserve the meter.
+
 [^17]: *chalaṅgaŋ,* lit., “the six branches.” RD: “the set of six
     Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā,
     3. nirutti, 4. sikkhā, 5. chando (viciti), 6. joti-sattha (thus
@@ -161,17 +178,27 @@ The legend of Mettagu Thera is finished.
     an adjective modifying “\[reading\] marks,” i.e., “the six branches
     of the science (*śāstraya*) of marks,” but given the use of the term
     to refer to the six branches of Vedic science above (\[3605\] = Sela
-    (\#389 {392}), v. 24,  
-[^18]: *andhakāra,* lit., “blinder,” “\[studies\] that blind”  
-[^19]: *etthantare*, lit., “in the interval \[up to\] here”  
+    (\#389 {392}), v. 24,
+
+[^18]: *andhakāra,* lit., “blinder,” “\[studies\] that blind”
+
+[^19]: *etthantare*, lit., “in the interval \[up to\] here”
+
 [^20]: *sappiŋ viññāpitaŋ mayā,* lit., “ghee instructions from me” or
-    (as in BJTS Sinhala gloss,) “not even a word about ghee”  
-[^21]: BJTS reads *phassati*, “would not touch”  
-[^22]: *kalabhāgaŋ,* i.e., a thirty-second part (this follows BJTS)  
-[^23]: *na sammati,* following BJTS gloss *no pohotē= no häki*  
-[^24]: *asaṅkhataŋ ca nibbānaŋ*  
-[^25]: *sati paṭṭhānasayano*  
+    (as in BJTS Sinhala gloss,) “not even a word about ghee”
+
+[^21]: BJTS reads *phassati*, “would not touch”
+
+[^22]: *kalabhāgaŋ,* i.e., a thirty-second part (this follows BJTS)
+
+[^23]: *na sammati,* following BJTS gloss *no pohotē= no häki*
+
+[^24]: *asaṅkhataŋ ca nibbānaŋ*
+
+[^25]: *sati paṭṭhānasayano*
+
 [^26]: lit., “*samādhi* \[and\] *jhāna*,” meditative awareness and
-    higher levels of consciousness”  
+    higher levels of consciousness”
+
 [^27]: reading *bojjhaṅga-bhojano* with BJTS for PTS (typo)
     *bhojjaṅgabhojano*

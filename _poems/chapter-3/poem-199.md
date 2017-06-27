@@ -30,10 +30,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2265\]
 
 Thus indeed Venerable Kiṅkaṇipupphiya[^3] Thera spoke these verses.  
-The legend of Kiṅkaṇipupphiya[^4] Thera is finished.  
+The legend of Kiṅkaṇipupphiya[^4] Thera is finished.
+
 [^1]: “*Kiṅkaṇi* Flower-er.” This is the BJTS reading. PTS reads
-    Tikaṇḍipupphiya*, “*Tikaṇḍi Flower-er”  
+    Tikaṇḍipupphiya*, “*Tikaṇḍi Flower-er”
+
 [^2]: perhaps “Not Sinking,” reading privative *a* + *pilāpiya* taken
-    from \*plu, *plavati, pilavati *  
-[^3]: PTS reads Tikaṇḍipupphiya, “*Tikaṇḍi* Flower-er”  
+    from \*plu, *plavati, pilavati *
+
+[^3]: PTS reads Tikaṇḍipupphiya, “*Tikaṇḍi* Flower-er”
+
 [^4]: PTS reads Tikaṇḍipupphiya, “*Tikaṇḍi* Flower-er”

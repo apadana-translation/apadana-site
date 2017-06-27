@@ -34,12 +34,20 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[1313\]
 
 Thus indeed Venerable Pañcadīpika Thera spoke these verses.  
-The legend of Pañcadīpika Thera is finished.  
-[^1]: “Five-Lamps”  
-[^2]: lit., “made” “did”  
-[^3]: reading *dhārenti* (BJTS) for *dhārento* (“I am carrying,” PTS)  
-[^4]: lit., “having passed over a mountain”  
-[^5]: lit., “I experience seeing”  
-[^6]: lit., “destruction of the āsavas \[defilements, outlfows\]”  
-[^7]: note that BJTS inverts the order of verses (5) and (6)  
+The legend of Pañcadīpika Thera is finished.
+
+[^1]: “Five-Lamps”
+
+[^2]: lit., “made” “did”
+
+[^3]: reading *dhārenti* (BJTS) for *dhārento* (“I am carrying,” PTS)
+
+[^4]: lit., “having passed over a mountain”
+
+[^5]: lit., “I experience seeing”
+
+[^6]: lit., “destruction of the āsavas \[defilements, outlfows\]”
+
+[^7]: note that BJTS inverts the order of verses (5) and (6)
+
 [^8]: “Hundred-Eyes”

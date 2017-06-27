@@ -18,9 +18,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[997\]
 
 Thus indeed Venerable Ekañjalika Thera spoke these verses.  
-The legend of Ekañjalika Thera is finished.  
-[^1]: “One-Salute”  
-[^2]: *vināyakaŋ*  
+The legend of Ekañjalika Thera is finished.
+
+[^1]: “One-Salute”
+
+[^2]: *vināyakaŋ*
+
 [^3]: *adantadamanaŋ,* could mean either “tamer of the untamed” or
     “tamer who is untamed;” I leave the ambiguity open with the hyphen,
     admitting here my preference for “tamer of the untamed” (which is

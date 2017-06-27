@@ -30,7 +30,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2147\]
 
 Thus indeed Venerable Tikicchaka Thera spoke these verses.  
-The legend of Tikicchaka Thera is finished.  
-[^1]: “Doctor”  
-[^2]: “Griefless”  
+The legend of Tikicchaka Thera is finished.
+
+[^1]: “Doctor”
+
+[^2]: “Griefless”
+
 [^3]: “All Medicinal Herbs”

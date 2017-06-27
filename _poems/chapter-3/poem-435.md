@@ -30,16 +30,21 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[4678\]
 
 Thus indeed Venerable Ucchukaṇḍika[^4] Thera spoke these verses.  
-The legend of Ucchukaṇḍika[^5] Thera is finished.  
+The legend of Ucchukaṇḍika[^5] Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Stalk of Sugarcane-er” BJTS reads *Ucchukhaṇḍika* (“Broken
-    Bit/Stick of Sugarcane”)  
+    Bit/Stick of Sugarcane”)
+
 [^3]: *ucchu + kaṇḍika*, fr. *kaṇḍa,* a reed or stalk or arrow shaft (or
     the entire arrow). BJTS reads *ucchu + khaṇḍaka*, with much the same
     meaning. Sugar-cane grows like bamboo, shooting up discrete stalks
     or canes (hence the name) which are then chewed raw, or boiled and
-    processed into granulated sugar.  
-[^4]: BJTS reads Ucchukhaṇḍika°  
+    processed into granulated sugar.
+
+[^4]: BJTS reads Ucchukhaṇḍika°
+
 [^5]: BJTS reads Ucchukhaṇḍikaº

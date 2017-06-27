@@ -28,9 +28,12 @@ Maccha, Java, Salaḷada,
 Rakkhasa, Taraṇa \[makes\] ten  
 and here the verses are counted  
 as exactly forty plus one.  
-The Padumukkhepa Chapter, the Twenty-Seventh  
+The Padumukkhepa Chapter, the Twenty-Seventh
+
 [^1]: “Boatman” or “Ferryman.” cf. \#204, \#280, \#485 {488}. Perhaps in
     this instance better, “Cross-Over-er” since it is not clear just how
-    he performs the deed. Are we to imagine him as a fish?  
-[^2]: lit., Sambuddha  
+    he performs the deed. Are we to imagine him as a fish?
+
+[^2]: lit., Sambuddha
+
 [^3]: lit., “I caused the World’s Leader to cross”

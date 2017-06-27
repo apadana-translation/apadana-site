@@ -35,6 +35,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[165\]
 
 Thus indeed Bhikkhunī Modakadāyikā[^2] spoke these verses.  
-The legend of Modakadāyikā Therī is finished.  
-[^1]: “Sweetmeat Donor”.  
+The legend of Modakadāyikā Therī is finished.
+
+[^1]: “Sweetmeat Donor”.
+
 [^2]: here PTS reads the name Timodakadāyikā, “Three-Sweetmeat-Donor”

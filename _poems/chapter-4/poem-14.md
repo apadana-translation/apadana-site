@@ -120,18 +120,27 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (24) \[189\]
 
 Thus indeed Venerable[^11] Bhikkhunī Ekāsanadāyikā spoke these verses.  
-The legend of Ekāsanadāyikā Therī is finished.  
-[^1]: “One-Chair-Donor”.  
-[^2]: lit., “in the midday sun”  
+The legend of Ekāsanadāyikā Therī is finished.
+
+[^1]: “One-Chair-Donor”.
+
+[^2]: lit., “in the midday sun”
+
 [^3]: lit., “woolen rugs with long fleece \[and\] woolen rugs with
-    ebroidered designs”.  
-[^4]: lit., “the midday sun is fixed \[in the sky\]”  
-[^5]: lit., “this is a suitable time for coming to that \[seat\]”  
+    ebroidered designs”.
+
+[^4]: lit., “the midday sun is fixed \[in the sky\]”
+
+[^5]: lit., “this is a suitable time for coming to that \[seat\]”
+
 [^6]: lit., “according to the \[size of the\] cavity”. Or perhaps we
-    should read, “as much as \[I had\] cooked,” from *randheti*?  
+    should read, “as much as \[I had\] cooked,” from *randheti*?
+
 [^7]: lit., “and \[coverlets of\] fur \[or wool\] sticking up on one
-    end” (*uddhaŋ-ekanta-lomī ca*).  
-[^8]: or families or clans (*kule*).  
+    end” (*uddhaŋ-ekanta-lomī ca*).
+
+[^8]: or families or clans (*kule*).
+
 [^9]: PTS reads *celāvikā* (fr. *cela,* “cloth”? Diaper-washers? The
     tradition itself is unsure, with equally obscure alternates in PTS
     \[velāyikā, veccheyikā\] and BJTS \[*velāpikā, velāyikā*; BJTS
@@ -145,12 +154,14 @@ The legend of Ekāsanadāyikā Therī is finished.
     servant woman has obvious parallels in Sanskrit literature (e.g.,
     Mantharā \[Kūnī\], the hump-backed servant-woman of Queen Kaikeyī
     who convinces the latter to have Rāma banished, in the Hindu epic
-    *Rāmāyana*).  
+    *Rāmāyana*).
+
 [^10]: the same phrase, *rajjaṃ chaḍetvā,* appears above, in
     *Therī-apadāna* v. \[133\], too. It literally means “having
     broken/cut off the kingdom/kingship/rulership/rule.” The meaning is
     that a ruling monarch somehow abandons his (or in this case her) own
     kingship/queenship to take on the religious life. Here we might
     translate, “Even today, having abdicated queenship, I have gone
-    forth...”  
+    forth...”
+
 [^11]: BJTS omits *āyasmā.*

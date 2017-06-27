@@ -90,15 +90,24 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (18) \[4408\]
 
 Thus indeed Venerable Ekadīpiya Thera spoke these verses.  
-The legend of Ekadīpiya Thera is finished.  
+The legend of Ekadīpiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Single-Lamp-er”  
-[^3]: lit., “reached nirvana”  
-[^4]: *pūjenti,* “doing *pūjā*”  
-[^5]: or stupa: *citake,* Sinh. *caitya*  
-[^6]: lit., “having passed over a mountain”  
-[^7]: lit., “gone to”  
-[^8]: *na nimīlati*, lit., “is not shutting”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Single-Lamp-er”
+
+[^3]: lit., “reached nirvana”
+
+[^4]: *pūjenti,* “doing *pūjā*”
+
+[^5]: or stupa: *citake,* Sinh. *caitya*
+
+[^6]: lit., “having passed over a mountain”
+
+[^7]: lit., “gone to”
+
+[^8]: *na nimīlati*, lit., “is not shutting”
+
 [^9]: lit., “having passed over a mountain”

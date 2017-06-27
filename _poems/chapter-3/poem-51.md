@@ -36,6 +36,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[1264\]
 
 Thus indeed Venerable Vidhūpanadāyaka Thera spoke these verses.  
-The legend of Vidhūpanadāyaka Thera is finished.  
-[^1]: “Fanning-Giver”  
+The legend of Vidhūpanadāyaka Thera is finished.
+
+[^1]: “Fanning-Giver”
+
 [^2]: “Fanner”

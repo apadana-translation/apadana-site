@@ -25,9 +25,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2042\]
 
 Thus indeed Venerable Punnāgapupphiya Thera spoke these verses.  
-The legend of Punnāgapupphiya Thera is finished.  
+The legend of Punnāgapupphiya Thera is finished.
+
 [^1]: *Punnāga-*Flower-er,” *punnāga* being a type of flowering tree
-    (Sinhala *domba*), Alexandrian laurel.  
-[^2]: *punnāga*  
-[^3]: lit., “in sand”  
+    (Sinhala *domba*), Alexandrian laurel.
+
+[^2]: *punnāga*
+
+[^3]: lit., “in sand”
+
 [^4]: = *tama* (darkness) plus *ūna-da* (less, reduced)?

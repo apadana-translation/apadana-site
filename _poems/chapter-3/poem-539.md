@@ -152,56 +152,89 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (31) \[5986\]
 
 Thus indeed Venerable Rādha Thera spoke these verses.  
-The legend of Rādha Thera is finished.  
+The legend of Rādha Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: a historical monk, see DPPN II: 730-731  
+    edition dictating the main numbering of this translation.
+
+[^2]: a historical monk, see DPPN II: 730-731
+
 [^3]: this and the following five verses also appear, verbatim, as the
     first six verses of Dabbamalla’s *apadāna* (\#531 {534}, above;
     \[5769\]-\[5774\]), and also of Mahākoṭṭhita’s *apadāna* (\#534
     {537}, above; \[5881\]-\[5886\]), and also of Uruvela-Kassapa’s
-    *apadāna* (\#535 {538}, above; \[5911\]-\[5916\])  
-[^4]: *ovādako*  
-[^5]: *viññāpako*  
-[^6]: *tārako*  
-[^7]: *desanākusalo*  
-[^8]: *anukampako*  
-[^9]: *kāruṇiko*  
-[^10]: *hitesi*  
-[^11]: *nirākulaŋ*  
+    *apadāna* (\#535 {538}, above; \[5911\]-\[5916\])
+
+[^4]: *ovādako*
+
+[^5]: *viññāpako*
+
+[^6]: *tārako*
+
+[^7]: *desanākusalo*
+
+[^8]: *anukampako*
+
+[^9]: *kāruṇiko*
+
+[^10]: *hitesi*
+
+[^11]: *nirākulaŋ*
+
 [^12]: *suñññataŋ,* or “empty \[of ill-will\],” which is BJTS Sinhala
-    gloss reading; I construe the epithet as *su* + *ñata*  
-[^13]: *vicittaŋ*  
+    gloss reading; I construe the epithet as *su* + *ñata*
+
+[^13]: *vicittaŋ*
+
 [^14]: *ratanāna-aṭṭha-paññāsaŋ uggato.* A *ratana* (Sinh. *riyan*) is
     figured as twelve-fingers (*aṅgula*), according to Sinh-Eng
     Dictionary about eighteen inches. The claim here then is that
-    Padumuttara Buddha was 1044 inches (or 87 feet) tall.  
+    Padumuttara Buddha was 1044 inches (or 87 feet) tall.
+
 [^15]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or
-    “like a gold festoon work”  
-[^16]: *naravaraŋ*  
-[^17]: *parisāsu visārado*  
-[^18]: *paññāpentaŋ*  
-[^19]: *paṭtibhāneyyakaŋ bhikkhuŋ*  
-[^20]: or “sound”: *sarena*  
+    “like a gold festoon work”
+
+[^16]: *naravaraŋ*
+
+[^17]: *parisāsu visārado*
+
+[^18]: *paññāpentaŋ*
+
+[^19]: *paṭtibhāneyyakaŋ bhikkhuŋ*
+
+[^20]: or “sound”: *sarena*
+
 [^21]: *siṅgīnikkhasamappabho. ºNikkhaº* can mean gold coins, or a
     particular weight of gold, cf. *nekkha.* “Gold Ingots” similarly
     evokes both the weight of the gold and the \[minted\] coin or bar
-    that contains that weight  
-[^22]: *atīva vipulaŋ*  
-[^23]: lit., “with the Assembly”  
+    that contains that weight
+
+[^22]: *atīva vipulaŋ*
+
+[^23]: lit., “with the Assembly”
+
 [^24]: reading *sa te hetuguṇe tuṭṭho* with BJTS for PTS *sake hetuguṇe
-    tuṭṭho* (which could be “happy by reason of \[his\] own virtue”)  
-[^25]: *paricariŋ,* “waited on” “attended to”  
+    tuṭṭho* (which could be “happy by reason of \[his\] own virtue”)
+
+[^25]: *paricariŋ,* “waited on” “attended to”
+
 [^26]: PTS reads *vippakule n’iddhe;* BJTS reads *vippakule ‘niddhe*;
-    both convey the same meaning.  
+    both convey the same meaning.
+
 [^27]: *giribbajapuruttame.* Giribbaja or Girivraja is another name for
-    Rajgir (also for Vaṅkagiri; see DPPN I:770)  
-[^28]: *pabbajenti,* lit., “giving me the ‘going forth’”  
-[^29]: *dubbalathāmakaŋ,* lit., “of bad strength \[and\] vigor”  
-[^30]: *mahākāruṇiko*  
-[^31]: *hessat’ ājāniyo ayaŋ*  
+    Rajgir (also for Vaṅkagiri; see DPPN I:770)
+
+[^28]: *pabbajenti,* lit., “giving me the ‘going forth’”
+
+[^29]: *dubbalathāmakaŋ,* lit., “of bad strength \[and\] vigor”
+
+[^30]: *mahākāruṇiko*
+
+[^31]: *hessat’ ājāniyo ayaŋ*
+
 [^32]: *kammavācupsampadaŋ,* “higher ordination according to monastic
-    rites”  
+    rites”
+
 [^33]: or of the outflows, *āsavakkhayaŋ,* i.e., “I attained my
     arahantship”

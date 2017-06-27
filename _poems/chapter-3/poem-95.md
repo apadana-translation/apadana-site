@@ -29,9 +29,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1581\]
 
 Thus indeed Venerable Gandhamāliya Thera spoke these verses.  
-The legend of Gandhamāliya Thera is finished.  
+The legend of Gandhamāliya Thera is finished.
+
 [^1]: “Perfumed Garland-er.” Cf. \#332 {BJTS only}, below, which is
     virtually identical save the addition of a verse here (v. 5) and
-    related corruption of v. 4.  
-[^2]: BJTS agrees with PTS in presenting this as a six-footed verse  
+    related corruption of v. 4.
+
+[^2]: BJTS agrees with PTS in presenting this as a six-footed verse
+
 [^3]: “Divine Perfume”

@@ -25,12 +25,16 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[3251\]
 
 Thus indeed Venerable Sattapaṇṇiya Thera spoke these verses.  
-The legend of Sattapaṇṇiya Thera is finished.  
+The legend of Sattapaṇṇiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “*Ruk-attana*-\[Flower\]-er”. I follow BJTS in reading
     *sattapaṇṇi* (lit., “hundred-leaved”) as the *ruk-attana* tree,
-    Alstonia scholaris (*Apocyn.).* RD just identifies it as a tree.  
-[^3]: lit., “did *pūjā* \[with\]”  
+    Alstonia scholaris (*Apocyn.).* RD just identifies it as a tree.
+
+[^3]: lit., “did *pūjā* \[with\]”
+
 [^4]: lit., “did *pūjā* \[with\]”

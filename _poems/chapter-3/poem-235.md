@@ -20,6 +20,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2445\]
 
 Thus indeed Venerable Vediyadāyaka Thera spoke these verses.  
-The legend of Vediyadāyaka Thera is finished.  
-[^1]: “Railing-Donor”. *Vediya* = *vedi, vedika, vetika,* railing  
+The legend of Vediyadāyaka Thera is finished.
+
+[^1]: “Railing-Donor”. *Vediya* = *vedi, vedika, vetika,* railing
+
 [^2]: “Counterpart of the Sun”

@@ -45,17 +45,22 @@ Ambadāyī and Sumana
 and also Puppacaṅgoṭika  
 seventy-one verses counted,  
 were uttered by \[these\] goal-seers.  
-The Sakacittaniya[^5] Chapter, the Seventh,  
-[^1]: “Flower-Casket-er”  
+The Sakacittaniya[^5] Chapter, the Seventh,
+
+[^1]: “Flower-Casket-er”
+
 [^2]: PSI: *Anoja* is a kind of tree which bears yellow-colored flowers.
     RD: a tree or shrub that bears red flowers, unsed in wreaths etc.
     BJTS reads *aneja* in this verse (a typo; *anojaṃ* in \[1418\]) and
-    glosses *kaṭukaraṇḍu* = “a plant, Barberia prionitis (*Acanth.*)”  
+    glosses *kaṭukaraṇḍu* = “a plant, Barberia prionitis (*Acanth.*)”
+
 [^3]: though I have translated the string of epithets in the first two
     verses as though they were nominatives, in fact they are all in the
     accusative case to agree with “Best Buddha”. Thus literally the
     translation should read, “After placing it in a casket, I sprinkled
     a superb *anoja* flower on the Best Buddha who was like a lion with
-    fearless form...Honored by the Assembly of monks.”  
-[^4]: “Produced by Gods” or”Abundant Kings”  
+    fearless form...Honored by the Assembly of monks.”
+
+[^4]: “Produced by Gods” or”Abundant Kings”
+
 [^5]: PTS spells the name Sakacittiya here; BJTS has it right.

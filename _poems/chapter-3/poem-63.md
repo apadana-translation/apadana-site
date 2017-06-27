@@ -35,7 +35,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[1367\]
 
 Thus indeed Venerable Paccāgamanīya Thera spoke these verses.  
-The legend of Paccāgamanīya Thera is finished.  
-[^1]: “Returner”  
-[^2]: lit., “a bad state”  
+The legend of Paccāgamanīya Thera is finished.
+
+[^1]: “Returner”
+
+[^2]: lit., “a bad state”
+
 [^3]: “Very Lovely to Look At”

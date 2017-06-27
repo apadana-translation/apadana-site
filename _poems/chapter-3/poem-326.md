@@ -23,6 +23,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2862\]
 
 Thus indeed Venerable Annasaŋsāvaka Thera spoke these verses.  
-The legend of Annasaŋsāvaka Thera is finished.  
-[^1]: “Food-Streamer”  
+The legend of Annasaŋsāvaka Thera is finished.
+
+[^1]: “Food-Streamer”
+
 [^2]: lit., “to pass time,” to “be bent towards \[me\]”

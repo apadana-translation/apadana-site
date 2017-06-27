@@ -15,7 +15,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[2564\]
 
 Thus indeed Venerable Macchadāyaka Thera spoke these verses.  
-The legend of Macchadāyaka Thera is finished.  
-[^1]: “Fish-Donor”  
-[^2]: *ukkusa*  
+The legend of Macchadāyaka Thera is finished.
+
+[^1]: “Fish-Donor”
+
+[^2]: *ukkusa*
+
 [^3]: lit., “picking up” “taking up” “fishing out”

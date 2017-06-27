@@ -94,31 +94,48 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (20) \[1306\]
 
 Thus indeed the bhikkhunī Puṇṇikā spoke these verses.  
-The legend of Puṇṇikā Therī[^17] is finished  
+The legend of Puṇṇikā Therī[^17] is finished
+
 [^1]: “Complete” “Full”. BJTS reads Puṇṇā; both spellings are correct,
-    see DPPN II: 227-228.  
-[^2]: reading *dhammatthaparipucchikā*  
+    see DPPN II: 227-228.
+
+[^2]: reading *dhammatthaparipucchikā*
+
 [^3]: *pesalā atimaññisaŋ.* Cf. *Pesalā-atimaññanā Sutta* (S. i. 187f.,
-    see DPPN II: 245)  
+    see DPPN II: 245)
+
 [^4]: he was a famous millionaire lay donor devoted to the Buddha. The
     hermitage he provided to the Buddha, in the Jeta Grove in
     Śrāvasti*,* was the site where many of the Buddha’s sermons were
     originally preached. As is clear in the present *apadāna*, too, he
-    was also kind-hearted and generous with his own slaves.  
-[^5]: lit., “the noble ladies’ stick (or punishment)”  
-[^6]: = *Therīgāthā* v. 236  
-[^7]: = *Therīgāthā* v. 237  
+    was also kind-hearted and generous with his own slaves.
+
+[^5]: lit., “the noble ladies’ stick (or punishment)”
+
+[^6]: = *Therīgāthā* v. 236
+
+[^7]: = *Therīgāthā* v. 237
+
 [^8]: reading *paripucchasi* with BJTS for PTS *paripucchiyan* (“you
-    would ask?”)  
+    would ask?”)
+
 [^9]: reading rundhantaṃ with BJTS (and PTS alt) for PTS *niddhantaŋ*
-    (“blown off” “purified” “thrown out”)  
-[^10]: = *Therīgāthā* v. 238  
-[^11]: pronounce as two syllables for chanting  
-[^12]: = *Therīgāthā* v. 239  
-[^13]: or foot, stanza, line, word: *padaŋ*  
+    (“blown off” “purified” “thrown out”)
+
+[^10]: = *Therīgāthā* v. 238
+
+[^11]: pronounce as two syllables for chanting
+
+[^12]: = *Therīgāthā* v. 239
+
+[^13]: or foot, stanza, line, word: *padaŋ*
+
 [^14]: *pūrentī ūnakasataŋ,* lit., “\[I am\] completing (or filling,
     this is one of numerous plays on the meaning of her name) a
-    deficient hundred,” i.e., “I was the 100th slave”  
-[^15]: *puṇṇā ti nāmaŋ*  
-[^16]: PTS reads *panassati,* BJTS *vinassati*  
+    deficient hundred,” i.e., “I was the 100th slave”
+
+[^15]: *puṇṇā ti nāmaŋ*
+
+[^16]: PTS reads *panassati,* BJTS *vinassati*
+
 [^17]: the BJTS reading, for PTS *bhikkhunī Puṇṇikā*

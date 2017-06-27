@@ -20,5 +20,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[1443\]
 
 Thus indeed Venerable Ekasaññaka Thera spoke these verses.  
-The legend of Ekasaññaka Thera is finished.  
+The legend of Ekasaññaka Thera is finished.
+
 [^1]: “One-Perception”

@@ -35,9 +35,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[1645\]
 
 Thus indeed Venerable Udakapūjaka Thera spoke these verses.  
-The legend of Udakapūjaka Thera is finished.  
-[^1]: “Water-Offer-er”  
-[^2]: *ghata-āsana*, presumably where oil oblations are made  
-[^3]: *huta-āsana*, where sacrifices are offered into the fire  
-[^4]: lit., “for the Biped-Lord”  
+The legend of Udakapūjaka Thera is finished.
+
+[^1]: “Water-Offer-er”
+
+[^2]: *ghata-āsana*, presumably where oil oblations are made
+
+[^3]: *huta-āsana*, where sacrifices are offered into the fire
+
+[^4]: lit., “for the Biped-Lord”
+
 [^5]: “Thousand King” “King of Thousands (of people? of kings?)”

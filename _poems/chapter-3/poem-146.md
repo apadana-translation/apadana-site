@@ -30,15 +30,22 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1971\]
 
 Thus indeed Venerable Anulepadāyaka Thera spoke these verses.  
-The legend of Anulepadāyaka Thera is finished.  
+The legend of Anulepadāyaka Thera is finished.
+
 [^1]: “Plastering-Donor.” I follow BJTS, cty, PTS alt, in reading the
-    name as such. PTS gives Anulomadāyaka, “Suitable Donor”.  
-[^2]: that is, the railing around the Bodhi Tree.  
-[^3]: lit., “in the monks’ Assembly”  
+    name as such. PTS gives Anulomadāyaka, “Suitable Donor”.
+
+[^2]: that is, the railing around the Bodhi Tree.
+
+[^3]: lit., “in the monks’ Assembly”
+
 [^4]: reading *cetanā°* (BJTS, PTS alt) for *cetasā* (“by heart,” “with
-    the mind,” PTS)  
-[^5]: lit., “in the Supreme Buddha’s"  
+    the mind,” PTS)
+
+[^5]: lit., “in the Supreme Buddha’s"
+
 [^6]: reading *āsiṃ* (BJTS) for *āsi* (‘there was,” PTS), though the
     text is inconsistent in the use of first or third person verbs in
-    this formulaic phrase.  
+    this formulaic phrase.
+
 [^7]: “All-Valuable-er” or “Worth it All”

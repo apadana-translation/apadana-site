@@ -25,13 +25,19 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2474\]
 
 Thus indeed Venerable Naḷinakesariya Thera spoke these verses.  
-The legend of Naḷinakesariya Thera is finished.  
-[^1]: “Lotus-Lake-er”  
-[^2]: *jalakukkuṭa* = water-fowl, a duck or something similar.  
+The legend of Naḷinakesariya Thera is finished.
+
+[^1]: “Lotus-Lake-er”
+
+[^2]: *jalakukkuṭa* = water-fowl, a duck or something similar.
+
 [^3]: This follows the BJTS gloss, which follows the cty. lit., “living
-    in the center of a self-produced lake”  
-[^4]: lit., “going”  
+    in the center of a self-produced lake”
+
+[^4]: lit., “going”
+
 [^5]: *kesariŋ* = flower pollen (or filaments, “hairs”). BJTS
     understands this to be the pollen of a lotus blossom growing on the
-    lake.  
+    lake.
+
 [^6]: “Lotus Flower”

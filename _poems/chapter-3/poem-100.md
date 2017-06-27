@@ -44,10 +44,14 @@ with Sudhā Chapter they are ten.
 There are fourteen hundred verses  
 plus another fifty-five.  
 The Ten Chapters called Buddha.  
-The First Hundred[^4] is finished.  
-[^1]: reading *catuviise* (BJTS) for *catunavute* (“ninety-four,” PTS)  
-[^2]: “Much Sound”  
-[^3]: BJTS read “Sudhāpiṇḍiya Chapter”.  
+The First Hundred[^4] is finished.
+
+[^1]: reading *catuviise* (BJTS) for *catunavute* (“ninety-four,” PTS)
+
+[^2]: “Much Sound”
+
+[^3]: BJTS read “Sudhāpiṇḍiya Chapter”.
+
 [^4]: *sataka* is a common structure in Sanskrit and Pāli poetry,
     usually referring to one hundred verses, rather than (as here) one
     hundred stories.

@@ -30,7 +30,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1747\]
 
 Thus indeed Venerable Maggasaññaka Thera spoke these verses.  
-The legend of Maggasaññaka Thera is finished.  
-[^1]: “Road-Perceiver”  
-[^2]: the cty explains that he was then reborn as a deity (*devaputta*).  
+The legend of Maggasaññaka Thera is finished.
+
+[^1]: “Road-Perceiver”
+
+[^2]: the cty explains that he was then reborn as a deity (*devaputta*).
+
 [^3]: “With Eyes”

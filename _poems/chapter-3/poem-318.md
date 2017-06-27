@@ -40,14 +40,20 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[2813\]
 
 Thus indeed Venerable Tiraŋsiya Thera spoke these verses.  
-The legend of Tiraŋsiya Thera is finished.  
-[^1]: “Three Rays”  
-[^2]: or “column of fire”  
+The legend of Tiraŋsiya Thera is finished.
+
+[^1]: “Three Rays”
+
+[^2]: or “column of fire”
+
 [^3]: *sāvakuttamaŋ,* which I follow BJTS gloss in treating as a
-    Buddha-epithet.  
+    Buddha-epithet.
+
 [^4]: lit., “dispelling the darkness of the world in the world,”
-    repeating *loka* perhaps for emphasis.  
+    repeating *loka* perhaps for emphasis.
+
 [^5]: lit., “the Great Sage was praised by me,” which creates
     syntactical confusion in English given the grammar of the first
-    foot, whose subject is apparently the narrator.  
+    foot, whose subject is apparently the narrator.
+
 [^6]: “Knowledge-Bearer”

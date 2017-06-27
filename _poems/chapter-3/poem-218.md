@@ -35,7 +35,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[2361\]
 
 Thus indeed Venerable Akkantasaññaka Thera spoke these verses.  
-The legend of Akkantasaññaka Thera is finished.  
-[^1]: “Perceiver of Walking”  
-[^2]: BJTS appropriately explains that he was doing walking meditation  
+The legend of Akkantasaññaka Thera is finished.
+
+[^1]: “Perceiver of Walking”
+
+[^2]: BJTS appropriately explains that he was doing walking meditation
+
 [^3]: “Good Joy”

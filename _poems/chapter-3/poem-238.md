@@ -15,9 +15,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[2455\]
 
 Thus indeed Venerable Ambayāgadāyaka Thera spoke these verses.  
-The legend of Ambayāgadāyaka Thera is finished.  
-[^1]: “Mango-Sacrifice Donor”  
+The legend of Ambayāgadāyaka Thera is finished.
+
+[^1]: “Mango-Sacrifice Donor”
+
 [^2]: here following the cty, “well established in my own craft” “clever
-    in my own art”  
+    in my own art”
+
 [^3]: *yāga* = sacrifice, *mahadāna* or “great gift;” more than just a
     handful, presumably.

@@ -30,10 +30,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2092\]
 
 Thus indeed Venerable Dussadāyaka Thera spoke these verses.  
-The legend of Dussadāyaka Thera is finished.  
-[^1]: “Cloth-Donor”  
+The legend of Dussadāyaka Thera is finished.
+
+[^1]: “Cloth-Donor”
+
 [^2]: one would prefer *paṇṇakāra* to *paṇṇākāra,* but both PTS and BJTS
     give the latter spelling. Still, I treat the term as the former; so
     does the BJTS Sinhala gloss (*paṇḍurak koṭa dun vastrayak*). The cty
-    glosses the term as *vattha*, a cloth.  
+    glosses the term as *vattha*, a cloth.
+
 [^3]: “Very Pure”

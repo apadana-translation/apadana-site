@@ -25,17 +25,23 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[5005\]
 
 Thus indeed Venerable Vallikāraphaladāyaka[^5] Thera spoke these verses.  
-The legend of Vallikāraphaladāyaka[^6] Thera is finished.  
+The legend of Vallikāraphaladāyaka[^6] Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “*Vallikāra-*Fruit Donor.” This is the BJTS spelling; PTS gives
-    *Vallikaraº*  
-[^3]: a city or country, known only from this passage (see DPPN I:981)  
+    *Vallikaraº*
+
+[^3]: a city or country, known only from this passage (see DPPN I:981)
+
 [^4]: = *vallikā* (?)*,* Sinh. *hīrässa, sivräs, sivrässa,* Bot. Dict.:
     “a climbing plant edible when tender, having four winged stems and
     bearing red berries, Vitis quadrangularis *(Ampel.*)” Cf. RD
     *vallī,* s.v., “a climbing plant, a creeper, Vin iii.144; J v.37;
-    vi.536; VvA 147, 335 (here as a root?).”  
-[^5]: PTS reads *Vallikaraº*  
+    vi.536; VvA 147, 335 (here as a root?).”
+
+[^5]: PTS reads *Vallikaraº*
+
 [^6]: PTS reads *Vallikaraº*

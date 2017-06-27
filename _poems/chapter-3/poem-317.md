@@ -25,8 +25,11 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2805\]
 
 Thus indeed Venerable Saddasaññaka Thera spoke these verses.  
-The legend of Saddasaññaka Thera is finished.  
-[^1]: “Sound-Perceiver.” Cf. \#88, \#294, \#347{351}  
-[^2]: *sudassana*  
+The legend of Saddasaññaka Thera is finished.
+
+[^1]: “Sound-Perceiver.” Cf. \#88, \#294, \#347{351}
+
+[^2]: *sudassana*
+
 [^3]: reading *asaṃso devamānuse* with BJTS for PTS *āsi sadevamānusena
     so* (“He was with gods and men”?)

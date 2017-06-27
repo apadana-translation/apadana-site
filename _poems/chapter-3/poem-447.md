@@ -40,16 +40,21 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[4765\]
 
 Thus indeed Venerable Sīhāsanika Thera spoke these verses.  
-The legend of Sīhāsanika Thera is finished.  
+The legend of Sīhāsanika Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Lion-throne-er.” Cf. \#11, \#175, above, for two monks with a
     similar name/seed karma (“Sīhāsanadāyaka”). In addition to those
     two, many additional monks offered lion-thrones as their seed
     karmas, e.g., \#20, \#33, \#39, \#108, \#327, \#328, above, and
-    \#445 {448}, \#450 {453}, below.  
-[^3]: *sabbabhūtahitesino*  
-[^4]: *bahū...pallaṅkā*  
+    \#445 {448}, \#450 {453}, below.
+
+[^3]: *sabbabhūtahitesino*
+
+[^4]: *bahū...pallaṅkā*
+
 [^5]: *aho dhammasudhammatā,* BJTS gloss “the propriety of the Dharma is
     amazing!”

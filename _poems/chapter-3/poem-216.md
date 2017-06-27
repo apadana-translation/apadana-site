@@ -20,8 +20,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2348\]
 
 Thus indeed Venerable Saṇṭhita Thera spoke these verses.  
-The legend of Saṇṭhita Thera is finished.  
-[^1]: “Well-Settled”  
-[^2]: Ficus religiosa, the Bodhi tree of Gotama Buddha.  
-[^3]: lit., “kṣatriyan”  
+The legend of Saṇṭhita Thera is finished.
+
+[^1]: “Well-Settled”
+
+[^2]: Ficus religiosa, the Bodhi tree of Gotama Buddha.
+
+[^3]: lit., “kṣatriyan”
+
 [^4]: name of an asterism, Sinh. *denaṭa*

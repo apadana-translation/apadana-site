@@ -25,9 +25,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2229\]
 
 Thus indeed Venerable Khaṇḍaphulliya Thera spoke these verses.  
-The legend of Khaṇḍaphulliya Thera is finished.  
-[^1]: “Broken Blossoming-er”  
-[^2]: lit., delighted by the virtues  
-[^3]: lit., “making the uneven \[ground\] even”  
-[^4]: lit., “in the seventy-seventh aeon”  
+The legend of Khaṇḍaphulliya Thera is finished.
+
+[^1]: “Broken Blossoming-er”
+
+[^2]: lit., delighted by the virtues
+
+[^3]: lit., “making the uneven \[ground\] even”
+
+[^4]: lit., “in the seventy-seventh aeon”
+
 [^5]: “Victorious Army”

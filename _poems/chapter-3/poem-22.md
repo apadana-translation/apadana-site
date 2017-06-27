@@ -275,49 +275,72 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (51) \[919\]
 
 Thus indeed Venerable Upavāna Thera spoke these verses.  
-The legend of Upavāna Thera is finished.  
-[^1]: *parinibbuto.*  
-[^2]: *citaka*, heap, shrine  
+The legend of Upavāna Thera is finished.
+
+[^1]: *parinibbuto.*
+
+[^2]: *citaka*, heap, shrine
+
 [^3]: the text does not stipulate the first, second, third, fourth,
     fifth, sixth *what,* and the cty. sees no need to explain. Relic
     finds as at Pipphrawa, as well as the context (in which there is
     clearly a single stupa) would suggest that these were reliquaries
     inside reliquaries inside reliquaries, each encasing the former ones
     like Russian nesting dolls, until the whole thing was covered with
-    gold.  
-[^4]: *masāragallassa,* *masāragalla* = Sinh. *maesirigala*  
-[^5]: *nāgā*  
+    gold.
+
+[^4]: *masāragallassa,* *masāragalla* = Sinh. *maesirigala*
+
+[^5]: *nāgā*
+
 [^6]: lit., “with *Indanīla* and *mahānīla”* = “Indra Blue” and “Great
-    Blue”  
+    Blue”
+
 [^7]: see above, n. to \[839\]
 
-[^8]: BJTS reads thirty leagues  
+[^8]: BJTS reads thirty leagues
+
 [^9]: PTS omits the *garuḷas*, and as a result the height of the stupa
     increases from five to seven leagues, skipping six. BJTS includes
     the *garuḷas*, which makes the numbering sequence complete. In PTS
     this is the *kumbhaṇḍa*s rather than the *garuḷas*, but otherwise
-    the text is the same.  
-[^10]: *yakkhā*  
+    the text is the same.
+
+[^10]: *yakkhā*
+
 [^11]: PTS omits *kumbhaṇḍas* from this list, conflating them with
-    *garuḷas*; I follow BJTS in the last two feet.  
-[^12]: PTS reads five, in keeping with its elision of the *garuḷas*  
-[^13]: *gandhabbā*  
-[^14]: BJTS and PTS alt. reads *garuḷā* for *guyhakā*  
+    *garuḷas*; I follow BJTS in the last two feet.
+
+[^12]: PTS reads five, in keeping with its elision of the *garuḷas*
+
+[^13]: *gandhabbā*
+
+[^14]: BJTS and PTS alt. reads *garuḷā* for *guyhakā*
+
 [^15]: an allusion to the practice that seems to have been current at
     the early post-Aśokan stupas, namely climbing the railing attached
     to the sides of the stupa in order to circumambulate and place
-    offerings upon its dome.  
-[^16]: *yakkha*  
-[^17]: *yakkha*  
-[^18]: i.e., stupa.  
-[^19]: lit., “in”.  
-[^20]: lit., “the flag”.  
-[^21]: *turiya*, musical instruments  
-[^22]: *bheri*  
+    offerings upon its dome.
+
+[^16]: *yakkha*
+
+[^17]: *yakkha*
+
+[^18]: i.e., stupa.
+
+[^19]: lit., “in”.
+
+[^20]: lit., “the flag”.
+
+[^21]: *turiya*, musical instruments
+
+[^22]: *bheri*
+
 [^23]: *hasulā* = ? Cf. RD *hasula*, s.v., which following Kern treats
     this as a corrupted reading of *bhamuka*, “eyebrows” or “thick
     eyebrows”, often found in combination with the term for “long
-    eyelashes” (*aḷārapamha*).  
+    eyelashes” (*aḷārapamha*).
+
 [^24]: RD gives “good hips,” referring to this text. I don’t see the
     warrant, and take the term *susaññā* from *saññā*, sense,
     perception, as does BJTS

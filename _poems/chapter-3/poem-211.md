@@ -26,8 +26,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2323\]
 
 Thus indeed Venerable Hatthidāyaka Thera spoke these verses.  
-The legend of Hatthidāyaka Thera is finished.  
-[^1]: “Elephant Donor”  
-[^2]: *sabbalokahitesino*  
-[^3]: lit., kṣatriyans, kings  
+The legend of Hatthidāyaka Thera is finished.
+
+[^1]: “Elephant Donor”
+
+[^2]: *sabbalokahitesino*
+
+[^3]: lit., kṣatriyans, kings
+
 [^4]: “Pleasing on All Sides”

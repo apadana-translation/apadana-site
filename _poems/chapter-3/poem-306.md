@@ -38,11 +38,16 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2747\]
 
 Thus indeed Venerable Sampasādaka Thera spoke these verses.  
-The legend of Sampasādaka Thera is finished.  
-[^1]: “Great Pleasure-er”  
-[^2]: *loke appaṭipuggalo*  
-[^3]: lit., “to him,” *tassa*, from the *tassa me* in the prior verse.  
-[^4]: lit., “in the Assembly (*saṅghe*)”  
+The legend of Sampasādaka Thera is finished.
+
+[^1]: “Great Pleasure-er”
+
+[^2]: *loke appaṭipuggalo*
+
+[^3]: lit., “to him,” *tassa*, from the *tassa me* in the prior verse.
+
+[^4]: lit., “in the Assembly (*saṅghe*)”
+
 [^5]: *anantaphaladāyaka.* In addition to playing on this monk’s name,
     this epithet supplied the Sangha (in the mouth of a previous Buddha)
     fits the (over?-)extended agricultural metaphor at work here: the
@@ -50,5 +55,6 @@ The legend of Sampasādaka Thera is finished.
     ordinary person is itself the seed of future happiness. The term
     used for “field,” *khetta* in the locative, is also evocative of the
     first verse/setting of the roughly contemporaneous (+/-)
-    *Bhagavad-gītā,* which opens, *dharmakṣetre kurukṣetre*  
+    *Bhagavad-gītā,* which opens, *dharmakṣetre kurukṣetre*
+
 [^6]: taking the redundancy (*vehāsam nabham)* as emphatic

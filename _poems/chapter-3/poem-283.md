@@ -23,13 +23,19 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2637\]
 
 Thus indeed Venerable Paccuggamaniya Thera spoke these verses.  
-The legend of Paccuggamaniya Thera is finished.  
-[^1]: “Go and Meet-er”  
+The legend of Paccuggamaniya Thera is finished.
+
+[^1]: “Go and Meet-er”
+
 [^2]: *lokapajjotaŋ;* I sometimes take this as a non-epithet, “lighting
-    up the world”  
-[^3]: *sabbalokatikicchakaŋ*  
-[^4]: lit., “like a lion which wanders about in the forest”  
+    up the world”
+
+[^3]: *sabbalokatikicchakaŋ*
+
+[^4]: lit., “like a lion which wanders about in the forest”
+
 [^5]: *kakudha* (a.k.a. *ajjuṇa,* Sinhala *kumbuk gasa, kubuk,*
     Terminalia arjuna) is an impressively large, shade-giving tree that
-    thrives on the edges of tanks and lakes.  
+    thrives on the edges of tanks and lakes.
+
 [^6]: “Good Retinue”

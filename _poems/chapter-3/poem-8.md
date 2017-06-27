@@ -83,17 +83,26 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (15) \[636\]
 
 Thus indeed Venerable Piṇḍola-Bhāradvāja Thera spoke these verses.  
-The legend of Piṇḍola-Bhāradvāja Thera is finished.  
+The legend of Piṇḍola-Bhāradvāja Thera is finished.
+
 [^1]: a mountain in the Himalayas. DPPN says it is “generally identified
     with Kāmptanāthgiri in Bundelkhand, an isolated hill on the Paisunī
-    or Mandākinī River.”  
-[^2]: reading *‘nadim* (BJTS) or *anadim* (cty) for *adās’* (PTS)  
-[^3]: lit., “recognizing \[that there would be\] speech of the Buddha”  
+    or Mandākinī River.”
+
+[^2]: reading *‘nadim* (BJTS) or *anadim* (cty) for *adās’* (PTS)
+
+[^3]: lit., “recognizing \[that there would be\] speech of the Buddha”
+
 [^4]: I follow the cty and BJTS in taking the number to refer to
-    lifetimes  
+    lifetimes
+
 [^5]: i.e.,” Pink Lotus,” which hearkens both to his formative gift and
-    its recipient.  
-[^6]: *upasanto*  
-[^7]: *nirūpadhi*  
-[^8]: PTS omits this verse  
+    its recipient.
+
+[^6]: *upasanto*
+
+[^7]: *nirūpadhi*
+
+[^8]: PTS omits this verse
+
 [^9]: PTS omits this verse

@@ -20,9 +20,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2184\]
 
 Thus indeed Venerable Bodhiupaṭṭhāyaka Thera spoke these verses.  
-The legend of Bodhiupaṭṭhāyaka Thera is finished.  
+The legend of Bodhiupaṭṭhāyaka Thera is finished.
+
 [^1]: “Attender Upon the Bodhi \[Tree\].” BJTS spells the name
-    Bodhiupaṭṭhāka, which conveys the same meaning.  
-[^2]: the name of a certain kind of drum.  
-[^3]: *duggatiŋ nûpapajj’ ahaŋ*  
+    Bodhiupaṭṭhāka, which conveys the same meaning.
+
+[^2]: the name of a certain kind of drum.
+
+[^3]: *duggatiŋ nûpapajj’ ahaŋ*
+
 [^4]: “Subdoing” or “Self-controlled”

@@ -25,15 +25,22 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[5572\]
 
 Thus indeed Venerable Supaṭadāyaka[^6] Thera spoke these verses.  
-The legend of Supaṭadāyaka[^7] Thera is finished.  
+The legend of Supaṭadāyaka[^7] Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Good-Cloth Donor.” This is the BJTS reading for PTS *pūpapavaŋ*
-    (“wheaten cake \[*pūpa*\] + ?)  
+    (“wheaten cake \[*pūpa*\] + ?)
+
 [^3]: reading *lahuṃ supaṭakaṃ* with BJTS for PTS *lahupūpapavaŋ* (“a
-    light wheaten cake + ?)  
-[^4]: reading *supaṭakaṃ* with BJTS for PTS *pūpapavaŋ*  
-[^5]: reading *supaṭassa* with BJTS for PTS *pūpapavass’*  
-[^6]: PTS reads *Pūpapavadāyaka*  
+    light wheaten cake + ?)
+
+[^4]: reading *supaṭakaṃ* with BJTS for PTS *pūpapavaŋ*
+
+[^5]: reading *supaṭassa* with BJTS for PTS *pūpapavass’*
+
+[^6]: PTS reads *Pūpapavadāyaka*
+
 [^7]: PTS reads *Pūpapavadāyaka*

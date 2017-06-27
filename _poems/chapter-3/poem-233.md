@@ -25,14 +25,20 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2436\]
 
 Thus indeed Venerable Sālapupphiya Thera spoke these verses.  
-The legend of Sālapupphiya Thera is finished.  
-[^1]: “*Sal-*Flower-er” *Sal,* Pāli *sāla*, is shorea robusta  
+The legend of Sālapupphiya Thera is finished.
+
+[^1]: “*Sal-*Flower-er” *Sal,* Pāli *sāla*, is shorea robusta
+
 [^2]: taking *pūvika* from *pūva,* cake (Sinh. *kawum,* oil cakes made
-    of sugar and rice flour)  
-[^3]: lit., “going”  
-[^4]: or “door,” *dvārena*  
+    of sugar and rice flour)
+
+[^3]: lit., “going”
+
+[^4]: or “door,” *dvārena*
+
 [^5]: *khajja,* edible solid food, sweets. This is what one would expect
     the donation from a cake-maker to be, even though the previous verse
-    -- and his name -- emphasize *sal* flowers.  
+    -- and his name -- emphasize *sal* flowers.
+
 [^6]: “Unlimited Salutation,” taking ºañjala from *añjalī*, pressing the
     hands together in reverence.

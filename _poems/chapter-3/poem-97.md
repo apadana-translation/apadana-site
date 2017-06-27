@@ -37,17 +37,25 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[1594\]
 
 Thus indeed Venerable Madhupiṇḍika Thera spoke these verses.  
-The legend of Madhupiṇḍika Thera is finished.  
-[^1]: “Honey-Ball-er”  
-[^2]: reading *seṭṭhaṃ* (BJTS) for *setthaŋ* (PTS)  
+The legend of Madhupiṇḍika Thera is finished.
+
+[^1]: “Honey-Ball-er”
+
+[^2]: reading *seṭṭhaṃ* (BJTS) for *setthaŋ* (PTS)
+
 [^3]: compare *nisabha* with *narasabha*, which I also translate “Bull
-    of Men”.  
+    of Men”.
+
 [^4]: *osadhī*. RD (s.v.) points out that all we really know about this
     star is that it was particularly bright, leading Childers to
-    translate it as “Venus” and others as the morning star.  
-[^5]: reading *pahutā āsi* (BJTS) for *pahunā tāva* (PTS)  
-[^6]: BJTS agrees with PTS in presenting this as a six-footed verse  
-[^7]: “Good to Look At”  
+    translate it as “Venus” and others as the morning star.
+
+[^5]: reading *pahutā āsi* (BJTS) for *pahunā tāva* (PTS)
+
+[^6]: BJTS agrees with PTS in presenting this as a six-footed verse
+
+[^7]: “Good to Look At”
+
 [^8]: PTS does not include the last two feet of this verse, which appear
     only in BJTS. The latter presents it as a six-footed verse, the
     former as a four-footed verse containing the first four feet

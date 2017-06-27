@@ -15,11 +15,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[2517\]
 
 Thus indeed Venerable Sattapāṭaliya Thera spoke these verses.  
-The legend of Sattapāṭaliya Thera is finished.  
-[^1]: “Seven-Trumpet-Flower-er”  
+The legend of Sattapāṭaliya Thera is finished.
+
+[^1]: “Seven-Trumpet-Flower-er”
+
 [^2]: *pāṭali* is Sinh. *paḷol,* Bignonia suaveolens, sterospermum
     suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of
-    Vipassi Buddha. Cf. \#71, \#78, \#96, \#248, \#369{372}.  
+    Vipassi Buddha. Cf. \#71, \#78, \#96, \#248, \#369{372}.
+
 [^3]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum
     acerifolium, produces a brilliant mass of yellow flowers; Engl.
     a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now

@@ -25,17 +25,23 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[5000\]
 
 Thus indeed Venerable Giripunnāgiya Thera spoke these verses.  
-The legend of Giripunnāgiya Thera is finished.  
+The legend of Giripunnāgiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Mountain-Laurel-er”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Mountain-Laurel-er”
+
 [^3]: = Citrakūṭa, a mountain in the Himalayas, one of five said to
     surround Lake Anottata (Anavatapta), composed of all precious metals
     and famed for golden swans living in a golden cave. DPPN I:869: “It
     is generally identified with Kāmptanāthgiri in Bundelkhand, an
-    isolated hill on the Paisunī or Mandākinī River”  
+    isolated hill on the Paisunī or Mandākinī River”
+
 [^4]: *giripunnāga,* “mountain (or wild) *punnāga* (Sinh. domba),
-    presumably a wild fruit to eat.  
-[^5]: lit., “did *pūjā*”  
+    presumably a wild fruit to eat.
+
+[^5]: lit., “did *pūjā*”
+
 [^6]: lit., “did *pūjā*”

@@ -60,12 +60,17 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (12) \[1276\]
 
 Thus indeed Venerable Sataraŋsiya Thera spoke these verses.  
-The legend of Sataraŋsika[^5] Thera is finished.  
-[^1]: “Hundred-Rayed One”  
-[^2]: i.e., who has pressed his hands together in reverence  
+The legend of Sataraŋsika[^5] Thera is finished.
+
+[^1]: “Hundred-Rayed One”
+
+[^2]: i.e., who has pressed his hands together in reverence
+
 [^3]: *vivattacchaddo* = he whose defilements (*klesas*) have been
-    removed  
+    removed
+
 [^4]: *niddhāvate*, could also read, “my light casts out \[the sun’s\],”
-    Sinh: *p*ä*h*ä*ya nika diveyi*  
+    Sinh: *p*ä*h*ä*ya nika diveyi*
+
 [^5]: BJTS and PTS agree in making the two colophonic renditions of the
     name disagree

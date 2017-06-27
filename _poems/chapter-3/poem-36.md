@@ -25,7 +25,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1090\]
 
 Thus indeed Venerable Adhimutta Thera spoke these verses.  
-The legend of Adhimutta Thera is finished.  
-[^1]: lit., “reached nirvana”  
-[^2]: *maṇḍapa*  
+The legend of Adhimutta Thera is finished.
+
+[^1]: lit., “reached nirvana”
+
+[^2]: *maṇḍapa*
+
 [^3]: lit., “to that ultimate Assembly”

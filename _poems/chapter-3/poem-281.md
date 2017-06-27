@@ -19,7 +19,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2626\]
 
 Thus indeed Venerable Paṇṇadāyaka Thera spoke these verses.  
-The legend of Paṇṇadāyaka Thera is finished.  
-[^1]: “Leaf Donor”  
-[^2]: l*okapajjoto*  
+The legend of Paṇṇadāyaka Thera is finished.
+
+[^1]: “Leaf Donor”
+
+[^2]: l*okapajjoto*
+
 [^3]: *sabbalokatikicchako*

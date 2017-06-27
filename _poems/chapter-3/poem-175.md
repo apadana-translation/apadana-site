@@ -25,7 +25,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2128\]
 
 Thus indeed Venerable Sīhāsanadāyaka Thera spoke these verses.  
-The legend of Sīhāsanadāyaka Thera is finished.  
-[^1]: “Lion-Throne-Donor”  
-[^2]: lit., “many people were quenched \[from the fires of grief\]”.  
+The legend of Sīhāsanadāyaka Thera is finished.
+
+[^1]: “Lion-Throne-Donor”
+
+[^2]: lit., “many people were quenched \[from the fires of grief\]”.
+
 [^3]: “Heaps of Morality”

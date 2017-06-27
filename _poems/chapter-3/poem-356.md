@@ -20,10 +20,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[3164\]
 
 Thus indeed Venerable Ambayāgudāyaka Thera spoke these verses.  
-The legend of Ambayāgudāyaka Thera is finished.  
+The legend of Ambayāgudāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Mango-Gruel Donor”  
-[^3]: *sataraŋsi,* i.e., “the Sun”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Mango-Gruel Donor”
+
+[^3]: *sataraŋsi,* i.e., “the Sun”
+
 [^4]: lit., “from *samādhi*”

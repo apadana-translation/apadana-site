@@ -150,46 +150,74 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (30) \[3820\]
 
 Thus indeed Venerable Girimānanda Thera spoke these verses.  
-The legend of Girimānanda Thera is finished.  
+The legend of Girimānanda Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Joy for the Mountains,” a historical monk, the son of King
     Bimbisāra’s chaplain who entered the order at Rajgir. See DPPN I:
-    770-771  
+    770-771
+
 [^3]: *cittakkhepañ ca me āsi,* lit., “there was mental derangement for
-    me”  
-[^4]: reading *aṭṭito* with BJTS for PTS *cakkhumā,* “one with eyes”  
-[^5]: *ºpareto*, lit., “overcome,” “affected”  
+    me”
+
+[^4]: reading *aṭṭito* with BJTS for PTS *cakkhumā,* “one with eyes”
+
+[^5]: *ºpareto*, lit., “overcome,” “affected”
+
 [^6]: reading *ullokesiṃ* with BJTS (and PTS alt.) for PTS *ullokesi,*
-    “he looked upon”  
-[^7]: reading *mahāmuniṃ* with BJTS for PTS *mahāmuni *  
+    “he looked upon”
+
+[^7]: reading *mahāmuniṃ* with BJTS for PTS *mahāmuni *
+
 [^8]: *satiŋ paṭilabhitvāna,* lit., “having received
-    alertness/mindfulness”  
-[^9]: *anavhātā*  
+    alertness/mindfulness”
+
+[^9]: *anavhātā*
+
 [^10]: BJTS Sinhala gloss takes the implied (3rd person plural) subject
-    here to be “the brothers, etc.” who have died  
-[^11]: *āguŋ*  
-[^12]: *ananuññātā*  
+    here to be “the brothers, etc.” who have died
+
+[^11]: *āguŋ*
+
+[^12]: *ananuññātā*
+
 [^13]: *tattha kā paridevanā,* lit., “what is the lamentation there?” RD
-    (*tattha*, s.v.) gives “why sorrow for this?”  
-[^14]: *sattā,* lit., “beings”. BJTS glosses *ºjanayo*, “people”  
-[^15]: *pathikā,* BJTS glosses *magīº*  
-[^16]: *sabhaṇḍā,* lit., “together with their goods”  
+    (*tattha*, s.v.) gives “why sorrow for this?”
+
+[^14]: *sattā,* lit., “beings”. BJTS glosses *ºjanayo*, “people”
+
+[^15]: *pathikā,* BJTS glosses *magīº*
+
+[^16]: *sabhaṇḍā,* lit., “together with their goods”
+
 [^17]: reading *vasse ca te oramite* with BJTS for PTS *vasse ete
-    oramite *  
-[^18]: or proceed, keep going: *sampayanti*  
-[^19]: or “according to their wishes”  
+    oramite *
+
+[^18]: or proceed, keep going: *sampayanti*
+
+[^19]: or “according to their wishes”
+
 [^20]: i.e., they were here for temporary shelter, and now that the rain
     (= their lifespan) has ceased, they’ve continued on in their
-    journey.  
-[^21]: *urago*, “stomach-goer”  
-[^22]: *gacchati,* lit., “goes”  
-[^23]: reading *santacaṃ* with BJTS for PTS *santanuŋ,* “its body”  
-[^24]: the Pāli is singular, *santanuṃ*  
-[^25]: *vivajjayiŋ,* lit., “forsook” “abandoned”  
-[^26]: *mahāgaŋ,* i.e., the Buddha  
-[^27]: lit., “did *pūjā* with”  
+    journey.
+
+[^21]: *urago*, “stomach-goer”
+
+[^22]: *gacchati,* lit., “goes”
+
+[^23]: reading *santacaṃ* with BJTS for PTS *santanuŋ,* “its body”
+
+[^24]: the Pāli is singular, *santanuṃ*
+
+[^25]: *vivajjayiŋ,* lit., “forsook” “abandoned”
+
+[^26]: *mahāgaŋ,* i.e., the Buddha
+
+[^27]: lit., “did *pūjā* with”
+
 [^28]: the text is corrupt as regards the object given, apparently an
     attempt at explaining the “Giri” part of the protagonist’s name. I
     follow BJTS (and PTS alt) in reading *girimañjariṃ apūjayiṃ,* “I did
@@ -201,32 +229,53 @@ The legend of Girimānanda Thera is finished.
     (“pressing together of the hands in honor of his words”?) offering
     alternatives *giramañchira* (?) and *giripañjariŋ* (fr. *pañjara*, a
     cage?), none of which satisfyingly corresponds to the adjective
-    supplied this offering, “endowed with a heavenly scent.”  
-[^29]: lit., “done *pūjā* to”  
-[^30]: reading *nittiṇṇo* with BJTS for PTS *nitthiṇṇo*  
-[^31]: *maggaŋ*  
-[^32]: *siddhipattā*  
+    supplied this offering, “endowed with a heavenly scent.”
+
+[^29]: lit., “done *pūjā* to”
+
+[^30]: reading *nittiṇṇo* with BJTS for PTS *nitthiṇṇo*
+
+[^31]: *maggaŋ*
+
+[^32]: *siddhipattā*
+
 [^33]: *chaḷabhiññā mahiddhikā,* lit., possessors of the six special
-    knowledges who have great (magical, *iddhi*) power.”  
+    knowledges who have great (magical, *iddhi*) power.”
+
 [^34]: *phalaṭṭhā*, lit., “stationed in fruition” (RD), “fixed in the
-    fruits \[of the path\],” i.e., on the way to nirvana  
-[^35]: *paṭipannā*, i.e., arahants  
-[^36]: *sekhā,* i.e., those still in training  
-[^37]: *sūrodaye va padumā*  
-[^38]: reading *yathā samuddo* with BJTS for PTS *mahāsamuddo*  
-[^39]: *lokajinaŋ*  
+    fruits \[of the path\],” i.e., on the way to nirvana
+
+[^35]: *paṭipannā*, i.e., arahants
+
+[^36]: *sekhā,* i.e., those still in training
+
+[^37]: *sūrodaye va padumā*
+
+[^38]: reading *yathā samuddo* with BJTS for PTS *mahāsamuddo*
+
+[^39]: *lokajinaŋ*
+
 [^40]: taking *paṭikuṭiko* (BJTS reads *patiº*) as fr. *paṭikuṭati* “to
     crouch,” “to bend over”. This may mean that he went off still bowing
     in reverence, or else that he went off on all fours. Here BJTS
-    leaves the term unglossed  
-[^41]: where he presumably went after the lifetime just recounted  
-[^42]: *ātāpī,* lit.,. “burning”  
+    leaves the term unglossed
+
+[^41]: where he presumably went after the lifetime just recounted
+
+[^42]: *ātāpī,* lit.,. “burning”
+
 [^43]: *paṭisallāna-gocaro,* “I sustained myself/fed one retirement into
-    solitude for meditation”  
+    solitude for meditation”
+
 [^44]: *padhānaŋ padahitvāna,* lit., “having exerted \[myself\] in
-    exertion  
-[^45]: *cando v’abbhaghanā mutto*  
-[^46]: *vivekaŋ anuyutto*  
-[^47]: *upasanto*  
-[^48]: *nirūpadhi*  
+    exertion
+
+[^45]: *cando v’abbhaghanā mutto*
+
+[^46]: *vivekaŋ anuyutto*
+
+[^47]: *upasanto*
+
+[^48]: *nirūpadhi*
+
 [^49]: lit., “did *pūjā*”

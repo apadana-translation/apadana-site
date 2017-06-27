@@ -21,6 +21,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2427\]
 
 Thus indeed Venerable Udakāsanadāyaka Thera spoke these verses.  
-The legend of Udakāsanadāyaka Thera is finished.  
-[^1]: “Water-and-Seat-er”  
+The legend of Udakāsanadāyaka Thera is finished.
+
+[^1]: “Water-and-Seat-er”
+
 [^2]: “Very Dark Blue” or “Much Conciliation”

@@ -101,8 +101,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (20) \[727\]
 
 Thus indeed Venerable Cullapanthaka Thera spoke these verses.  
-The legend of Cullapanthaka Thera is finished.  
-[^1]: *samādhiṃ*  
+The legend of Cullapanthaka Thera is finished.
+
+[^1]: *samādhiṃ*
+
 [^2]: reading *antarāyam na aham akāsim* with the cty (which BJTS
     Sinhala gloss follows). lit., “I did not make an obstacle.” This
     reading seems more appropriate, even though the Pali in both PTS and
@@ -115,8 +117,10 @@ The legend of Cullapanthaka Thera is finished.
     meditator “had arisen from *samādh*i”), so it is *only* out of
     deference to the cty that I provide this translation, against my
     inclination to take the text as given and translate the final line:
-    “I caused \[him\] an interruption.”  
-[^3]: “Excellent!”  
+    “I caused \[him\] an interruption.”
+
+[^3]: “Excellent!”
+
 [^4]: *anumodissati.* The verb is more properly translated “gave a
     thanksgiving \[speech\],” as *anumodana* is a somewhat formal
     acceptance of a *pūjā,* typically provided at the end of an
@@ -124,13 +128,19 @@ The legend of Cullapanthaka Thera is finished.
     gift, praise of the giver, and commentary on the religious efficacy
     of giving. No English word entirely captures all of these senses,
     and a string of words makes the meter impossible, so albeit with
-    some reluctance I translate it “give thanks”.  
+    some reluctance I translate it “give thanks”.
+
 [^5]: cty (p. 320-321): “Created by the mind” means “produced by the
     mind, the mind in meditation; just as the mind maintains, so does
     the body take shape, making it in the mode \[conceived in\] the
-    mind.”  
-[^6]: lit., “in the Śākyas’ Son’s”  
-[^7]: lit., “Go now to your own house.”  
-[^8]: reading *apekkhavā* (cty, BJTS, PTS alt) for *apekhavā* (PTS)  
-[^9]: lit., desiring the state of a *samana* (*sāmaññasmiŋ*)  
+    mind.”
+
+[^6]: lit., “in the Śākyas’ Son’s”
+
+[^7]: lit., “Go now to your own house.”
+
+[^8]: reading *apekkhavā* (cty, BJTS, PTS alt) for *apekhavā* (PTS)
+
+[^9]: lit., desiring the state of a *samana* (*sāmaññasmiŋ*)
+
 [^10]: lit., “he caused me to enter the monastery”.

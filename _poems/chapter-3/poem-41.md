@@ -122,34 +122,48 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (24) \[1139\]
 
 Thus indeed Venerable Upāli Thera spoke these verses.  
-The legend of Upāli Thera is finished.  
+The legend of Upāli Thera is finished.
+
 [^1]: BJTS, Hew, and cty style him Bhāgineyya-Upāli, “Upāli the Nephew”.
     He is not to be confused with Upāli the top reciter of Vinaya,
-    *Therāpadāna* \#6  
+    *Therāpadāna* \#6
+
 [^2]: reading *paridhārako* (BJTS, cty) or paridhāraNo (PTS alt) for PTS
-    *paricāraṇo*.  
+    *paricāraṇo*.
+
 [^3]: *tidaṇḍam* = three stick, three rod. Cty glosses it as “for the
     sake of keeping pots” (*kuṇḍika-ṭṭhāpanatthāya*), apparently
     understanding it as a pingo or else some sort of tripod. But the
     more likely allusion is to the *triśula* or trident of Shiva and his
-    devotees, given the deer-leather clothes.  
-[^4]: lit., “the monks’ Assembly”.  
+    devotees, given the deer-leather clothes.
+
+[^4]: lit., “the monks’ Assembly”.
+
 [^5]: reading *sabbe antallikkacarā sadā* (BJTS) for *sabbe antallikkhe
-    padesagā* (PTS).  
-[^6]: lit., “having consciousness or not having consciousness”  
+    padesagā* (PTS).
+
+[^6]: lit., “having consciousness or not having consciousness”
+
 [^7]: lit., “...on the ultimate mountain, Himalaya, they all are not fit
-    to \[be\] even a bit of \[the good scent\] in your morality.”  
+    to \[be\] even a bit of \[the good scent\] in your morality.”
+
 [^8]: lit., “is in the party of what causes the darkness of delusion”.
     Cf above vv. \[1072\] and \[1073\] for similar usage in a similar
     context. The BJTS reading *mohandhakārapakkhanto* allows for the
-    plural, which is clear in the subsequent line of verse.  
-[^9]: BJTS (and PTS alt.) reads *dhīro* (“the wise one”)  
-[^10]: reading *samāyutaṃ* (BJTS, PTS alt) for *samāyanaŋ* (PTS)  
+    plural, which is clear in the subsequent line of verse.
+
+[^9]: BJTS (and PTS alt.) reads *dhīro* (“the wise one”)
+
+[^10]: reading *samāyutaṃ* (BJTS, PTS alt) for *samāyanaŋ* (PTS)
+
 [^11]: the texts all read *virājetvāna* or *virajjitvāna*, “to shine;” I
     follow BJTS Sinhala gloss in understanding this -- as context
-    warrants -- as “drive away” (Sinhala *duru koṭa*)  
+    warrants -- as “drive away” (Sinhala *duru koṭa*)
+
 [^12]: it seems that here the text *does* confuse this Upāli with Upāli
-    the chief reciter of *Vinaya.*  
+    the chief reciter of *Vinaya.*
+
 [^13]: lit., “in the Pāṭimokkha,” the 227 main rules which Theravāda
-    Buddhist monks and nuns are required to chant fortnightly.  
+    Buddhist monks and nuns are required to chant fortnightly.
+
 [^14]: lit., Unsurpassed/Unrivaled/Without Better in the World”

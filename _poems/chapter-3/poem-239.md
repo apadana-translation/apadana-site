@@ -15,6 +15,7 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[2458\]
 
 Thus indeed Venerable Jagatikāraka Thera spoke these verses.  
-The legend of Jagatikāraka Thera is finished.  
+The legend of Jagatikāraka Thera is finished.
+
 [^1]: ”Landscaper,” reading *jagatī,* earth, ground + *kāraka,* doer;
     lit., “earth-developer”

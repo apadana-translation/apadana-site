@@ -25,15 +25,22 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2279\]
 
 Thus indeed Venerable Vinelapupphiya[^6] Thera spoke these verses.  
-The legend of Vinelapupphiya[^7] Thera is finished.  
-[^1]: “*Vinela-*Flower-er”. BJTS (and PTS alternate) reads *Minela°*  
-[^2]: *patāpavā&lt;pratāpa-vant,* lit., “Possessor of Cosmic Heat”  
+The legend of Vinelapupphiya[^7] Thera is finished.
+
+[^1]: “*Vinela-*Flower-er”. BJTS (and PTS alternate) reads *Minela°*
+
+[^2]: *patāpavā&lt;pratāpa-vant,* lit., “Possessor of Cosmic Heat”
+
 [^3]: reading *sikhīsabho* with BJTS; PTS gives *sikhīsito* = “White as
-    Fire” or “Fiery-Smiler”  
-[^4]: BJTS reads *minela.*  
+    Fire” or “Fiery-Smiler”
+
+[^4]: BJTS reads *minela.*
+
 [^5]: “Very Cloudy” or “Thick with Rain Clouds”. *Megha* and *ghana*
     both mean “cloud” (as well as other meanings). BJTS reads the name
     as *Sumedhayasa*, "Famous for Wisdom” (or “Famous for Good
-    Sacrifices,” *su* + *medha*)  
-[^6]: BJTS (and PTS alternate) reads *Minela°*  
+    Sacrifices,” *su* + *medha*)
+
+[^6]: BJTS (and PTS alternate) reads *Minela°*
+
 [^7]: BJTS (and PTS alternate) reads *Minela°*

@@ -20,7 +20,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2690\]
 
 Thus indeed Venerable Saddasaññaka Thera spoke these verses.  
-The legend of Saddasaññaka Thera is finished.  
-[^1]: “Sound-Perceiver.” Cf. \#88, \#317, \#347{351}  
-[^2]: or “pleasure,” *pasādo vipulo ahū*  
+The legend of Saddasaññaka Thera is finished.
+
+[^1]: “Sound-Perceiver.” Cf. \#88, \#317, \#347{351}
+
+[^2]: or “pleasure,” *pasādo vipulo ahū*
+
 [^3]: lit., “and,” *ca*

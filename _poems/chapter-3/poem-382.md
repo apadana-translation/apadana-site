@@ -38,18 +38,25 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[3291\]
 
 Thus indeed Venerable Labujaphaladāyaka Thera spoke these verses.  
-The legend of Labujaphaladāyaka Thera is finished.  
+The legend of Labujaphaladāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Breadfruit Fruit Donor.” BJTS omits *phala* from the name.  
-[^3]: *ārāmika,* lit., “hermitage attendant” or “hermitage dweller”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Breadfruit Fruit Donor.” BJTS omits *phala* from the name.
+
+[^3]: *ārāmika,* lit., “hermitage attendant” or “hermitage dweller”
+
 [^4]: Artocarpus lacucha or incisa; Sinh. *del.* The fruit of the tree
-    is cooked and eaten as a starchy vegetable.  
+    is cooked and eaten as a starchy vegetable.
+
 [^5]: perhaps implying a wish-fulfilling gem, or else a gem of great
-    value that could fund all needs (effectively, the same thing)  
+    value that could fund all needs (effectively, the same thing)
+
 [^6]: lit., “from where to there” (*yahiŋ tahiŋ*, PTS) or “from there to
-    there” (*tahiṃ tahiṃ,* BJTS and PTS alt.)  
+    there” (*tahiṃ tahiṃ,* BJTS and PTS alt.)
+
 [^7]: PTS treats these as two verses of six feet each; BJTS treats them
     as three typical four-footed verses. BJTS is presumably correct,
     since the parallel *apadāna, *

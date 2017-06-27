@@ -26,18 +26,26 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[3144\]
 
 Thus indeed Venerable Saddasaññaka Thera spoke these verses.  
-The legend of Saddasaññaka Thera is finished.  
+The legend of Saddasaññaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Sound-Perceiver,” cf. \#88, \#294, \#317  
-[^3]: *devasaṅghapurakkhataŋ*  
-[^4]: lit., “comparable to” or “metaphorically”  
-[^5]: *ruda,* lit., “cry” (of an animal)  
-[^6]: i.e., melodious and clear  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Sound-Perceiver,” cf. \#88, \#294, \#317
+
+[^3]: *devasaṅghapurakkhataŋ*
+
+[^4]: lit., “comparable to” or “metaphorically”
+
+[^5]: *ruda,* lit., “cry” (of an animal)
+
+[^6]: i.e., melodious and clear
+
 [^7]: *brahmassara.* RD explains this as *“*a beautiful and deep voice
     (with 8 fine qualities: see enumd under *bindu*) D ii.211=227; J
-    i.96; v.336.”  
+    i.96; v.336.”
+
 [^8]: lit., “I attained the destruction of the outflows”
     (*āsavakkhayaŋ*). This has to be read as a reference to the much
     later (present) life, for if he had become an arahant in the time of

@@ -25,7 +25,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1206\]
 
 Thus indeed Venerable Sayanadāyaka Thera spoke these verses.  
-The legend of Sayanadāyaka Thera is finished.  
-[^1]: “Bed-Giver”  
-[^2]: lit., “covered with things \[made of\] cloth”  
+The legend of Sayanadāyaka Thera is finished.
+
+[^1]: “Bed-Giver”
+
+[^2]: lit., “covered with things \[made of\] cloth”
+
 [^3]: “King Varuṇa” or “\[King\] Varuṇa God”

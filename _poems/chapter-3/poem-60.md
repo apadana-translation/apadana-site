@@ -83,18 +83,25 @@ Parivāra and Padīpa,
 Dhaja, Paduma-Pūjaka  
 and Bodhi’s said to be the tenth;  
 thus two and ninety verses.  
-The Vījanī Chapter, the Sixth.  
+The Vījanī Chapter, the Sixth.
+
 [^1]: “*Asana* Bodhi Tree-er.” *Asana* is Pentaptera tomentosa, = a.k.a.
     crocodile-bark tree, Indian laurel, silver grey wood, white chuglam.
     The Bodhi tree of Tissa Buddha. BJTS glosses as *piyā, bakmī;*
-    Sarcocephalus cordatus *(Rubi.)*.  
+    Sarcocephalus cordatus *(Rubi.)*.
+
 [^2]: this compound consists of two different words for” tree”:
     *dharaṇī-rūha* (“growing in the earth”) and *pādapa* (“drinking from
     the feet \[or roots\]”). Though awkward in English, I translate
     literally here rather than give the non-descriptive “tree, which was
-    a tree”.  
-[^3]: *upasanto*  
-[^4]: *nirūpadhi*  
-[^5]: “Rod and Army”  
-[^6]: i.e., “I was reborn as”  
+    a tree”.
+
+[^3]: *upasanto*
+
+[^4]: *nirūpadhi*
+
+[^5]: “Rod and Army”
+
+[^6]: i.e., “I was reborn as”
+
 [^7]: “Complete Circumference” “Rim on All Edges”

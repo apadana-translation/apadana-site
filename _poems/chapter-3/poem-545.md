@@ -110,35 +110,61 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (22) \[6186\]
 
 Thus indeed Venerable Nandaka Thera spoke these verses.  
-The legend of Nandaka Thera is finished.  
+The legend of Nandaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: a historical monk, famous as foremost among the exhorters of nuns.
-    See DPPN II: 17-18. His name means “Joyful” or “Joy-er”  
-[^3]: or “observed”: *paṭipanno*  
-[^4]: *yasaggapatto*  
-[^5]: *sirimā*  
+    See DPPN II: 17-18. His name means “Joyful” or “Joy-er”
+
+[^3]: or “observed”: *paṭipanno*
+
+[^4]: *yasaggapatto*
+
+[^5]: *sirimā*
+
 [^6]: *kittivaṇṇabhato,* lit., “Feeding (*°bhato*) on Praise
-    (*kittivaṇṇa°*)”  
-[^7]: lit., “*pūjā-*recipient” *(pūjito)*  
-[^8]: *suvissuto*  
-[^9]: *utiṇṇavicikiccho*  
-[^10]: *vītivatta-kathaŋkatho*  
-[^11]: *paripuṇṇa-mana-saṅkappo*  
-[^12]: *patto sambodhiŋ uttamaŋ*  
-[^13]: *uppādetā*  
-[^14]: *anuppannassa maggassa*  
-[^15]: *maggaññū*  
-[^16]: *maggavidū*  
-[^17]: *maggakkhāyī*  
-[^18]: *kusalo*  
-[^19]: lit., “of”  
-[^20]: *varuttamo*  
-[^21]: *sārathīnaŋ,* lit., “charioteers” “coachmen”  
-[^22]: lit., “appointed”  
-[^23]: lit., “I had an astonished mind”  
+    (*kittivaṇṇa°*)”
+
+[^7]: lit., “*pūjā-*recipient” *(pūjito)*
+
+[^8]: *suvissuto*
+
+[^9]: *utiṇṇavicikiccho*
+
+[^10]: *vītivatta-kathaŋkatho*
+
+[^11]: *paripuṇṇa-mana-saṅkappo*
+
+[^12]: *patto sambodhiŋ uttamaŋ*
+
+[^13]: *uppādetā*
+
+[^14]: *anuppannassa maggassa*
+
+[^15]: *maggaññū*
+
+[^16]: *maggavidū*
+
+[^17]: *maggakkhāyī*
+
+[^18]: *kusalo*
+
+[^19]: lit., “of”
+
+[^20]: *varuttamo*
+
+[^21]: *sārathīnaŋ,* lit., “charioteers” “coachmen”
+
+[^22]: lit., “appointed”
+
+[^23]: lit., “I had an astonished mind”
+
 [^24]: *jetārāmapaṭiggahe*, i.e., when Anāthapiṇḍika gave him the
-    Jetavana grove as his hermitage  
-[^25]: *sabbadassinā*  
+    Jetavana grove as his hermitage
+
+[^25]: *sabbadassinā*
+
 [^26]: *mahāhito*

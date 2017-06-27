@@ -18,13 +18,17 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2700\]
 
 Thus indeed Venerable Padapūjaka Thera spoke these verses.  
-The legend of Padapūjaka Thera is finished.  
-[^1]: “Foot-Worshipper”  
+The legend of Padapūjaka Thera is finished.
+
+[^1]: “Foot-Worshipper”
+
 [^2]: the *kinnara* (Sinh. *kandura*) has a human head and a horse’s
-    body; “centaur”.  
+    body; “centaur”.
+
 [^3]: *vītaraṃsa*; see above, note to \#215, v. 1 \[2339\]. xxx should
     this, and the two sun metaphors in \#215, and again \#305, be
     treated as epithets? The distinction is taken to be the presence (or
     not, in the case of epithets) of comparative enclitics like *va,
-    iva*  
+    iva*
+
 [^4]: a specific type of it, Sinh. *tuvaralā,* frankincense

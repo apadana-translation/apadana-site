@@ -25,9 +25,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2441\]
 
 Thus indeed Venerable Kilañjadāyaka Thera spoke these verses.  
-The legend of Kilañjadāyaka Thera is finished.  
-[^1]: “Mat Donor”  
+The legend of Kilañjadāyaka Thera is finished.
+
+[^1]: “Mat Donor”
+
 [^2]: reading *naḷakāro* with BJTS (and PTS alternate reading) for PTS
-    *nalakāro*  
-[^3]: lit., “doing *pūjā*”  
+    *nalakāro*
+
+[^3]: lit., “doing *pūjā*”
+
 [^4]: “Effulgent One”

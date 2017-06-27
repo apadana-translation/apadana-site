@@ -51,8 +51,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (10) \[1686\]
 
 Thus indeed Venerable Mahāparivāra Thera spoke these verses.  
-The legend of Mahāparivāra Thera is finished.  
-[^1]: “Big Retinue”  
-[^2]: the cty explains this as the place for doing lamp-*pūjā.*  
-[^3]: *yakkhā*  
+The legend of Mahāparivāra Thera is finished.
+
+[^1]: “Big Retinue”
+
+[^2]: the cty explains this as the place for doing lamp-*pūjā.*
+
+[^3]: *yakkhā*
+
 [^4]: “Vehicle”. BJTS reads Suvāhana, “Good Vehicle”.

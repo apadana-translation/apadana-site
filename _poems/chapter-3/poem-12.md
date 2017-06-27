@@ -70,12 +70,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (14) \[699\]
 
 Thus indeed Venerable Ekatthambhika Thera spoke these verses.  
-The legend of Ekatthambhika Thera is finished.  
-[^1]: his name means “One Pillar-er”.  
+The legend of Ekatthambhika Thera is finished.
+
+[^1]: his name means “One Pillar-er”.
+
 [^2]: *māḷa,* a building with one peak in its roof, perhaps Engl.
-    “lean-to” or “A-frame”  
-[^3]: lit “they having not acquired one pillar”.  
+    “lean-to” or “A-frame”
+
+[^3]: lit “they having not acquired one pillar”.
+
 [^4]: reading *paricārem’* (BJTS, PTS alt) for *parivārem’* (“being
-    surrounded,” PTS, but also with the sense of “waiting upon”).  
-[^5]: “Fame-Bearer”  
+    surrounded,” PTS, but also with the sense of “waiting upon”).
+
+[^5]: “Fame-Bearer”
+
 [^6]: lit., “kṣatriyan”.

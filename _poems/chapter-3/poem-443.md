@@ -33,10 +33,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (7) \[4737\]
 
 Thus indeed Venerable Billaphaliya Thera spoke these verses.  
-The legend of Billaphaliya Thera is finished.  
+The legend of Billaphaliya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “*Bel-*Fruit-er”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “*Bel-*Fruit-er”
+
 [^3]: *bellaŋ, billā* = fruit of Aegle marmelos, Sinh. *beli geḍiya,*
     bael, bel, Bengal quince; bilva or vilva tree, = *beluvā*

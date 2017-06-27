@@ -53,22 +53,33 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (11) \[2851\]
 
 Thus indeed Venerable Saññasāmika Thera spoke these verses.  
-The legend of Saññasāmika Thera is finished.  
-[^1]: “Mastered through Perception”  
-[^2]: lit., “seven years from birth”  
+The legend of Saññasāmika Thera is finished.
+
+[^1]: “Mastered through Perception”
+
+[^2]: lit., “seven years from birth”
+
 [^3]: reading *sārathambh-upanītāni* with BJTS for PTS *sārasmiŋ hi
-    upatāni* (“brought on a post”)  
-[^4]: *pahaṭaŋ,* BJTS reads *pahaṭṭhaŋ* with the same meaning.  
+    upatāni* (“brought on a post”)
+
+[^4]: *pahaṭaŋ,* BJTS reads *pahaṭṭhaŋ* with the same meaning.
+
 [^5]: *ukkāmukhaŋ,* the “mouth” (receiving or discharging end) of a
-    furnace or forge, a goldsmith’s smelting pot.  
+    furnace or forge, a goldsmith’s smelting pot.
+
 [^6]: *khadiraṅgārasannibha*. *Khadira* is Sinh. *kihiri,* Acacia
     Sundra, English “red cutch” or “khayer.” The tree produces
     impressive spikes of yellow flowers but is known primarily for its
-    timber and use in making charcoal.  
-[^7]: i.e., when it is full, *puṇṇamāse va candimā*  
-[^8]: *mahita*  
-[^9]: *hito,* lit., “Friendly One”  
+    timber and use in making charcoal.
+
+[^7]: i.e., when it is full, *puṇṇamāse va candimā*
+
+[^8]: *mahita*
+
+[^9]: *hito,* lit., “Friendly One”
+
 [^10]: reading *sabbasattahite* (lit., “in friendliness to all
     creatures”) with BJTS for PTS *sattāsattahite,* “kindness to
-    creatures and non-creatures.”  
+    creatures and non-creatures.”
+
 [^11]: *gato*, lit., “was gone”

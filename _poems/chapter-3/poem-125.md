@@ -120,18 +120,32 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (24) \[1829\]
 
 Thus indeed Venerable Sammukhāthavika Thera spoke these verses.  
-The legend of Sammukhāthavika Thera is finished.  
-[^1]: “Face-to-Face Then-er”  
-[^2]: “Face-to-Face Then”  
-[^3]: “Earth-Drum”  
-[^4]: lit., “the kṣatriyan”  
-[^5]: “Light-Radiating”  
-[^6]: “River-Covering”  
-[^7]: “Fire-Extinguisher”  
-[^8]: “Wind-like King”  
-[^9]: “Covering the Destiny”  
-[^10]: “Flaming Gem”  
-[^11]: “Step-Taker”  
-[^12]: “King Looking Around”  
-[^13]: lit., “the kṣatriyan”  
+The legend of Sammukhāthavika Thera is finished.
+
+[^1]: “Face-to-Face Then-er”
+
+[^2]: “Face-to-Face Then”
+
+[^3]: “Earth-Drum”
+
+[^4]: lit., “the kṣatriyan”
+
+[^5]: “Light-Radiating”
+
+[^6]: “River-Covering”
+
+[^7]: “Fire-Extinguisher”
+
+[^8]: “Wind-like King”
+
+[^9]: “Covering the Destiny”
+
+[^10]: “Flaming Gem”
+
+[^11]: “Step-Taker”
+
+[^12]: “King Looking Around”
+
+[^13]: lit., “the kṣatriyan”
+
 [^14]: “Shame-Essence”

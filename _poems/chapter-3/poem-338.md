@@ -105,46 +105,72 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (21) \[3041\]
 
 Thus indeed Venerable Uttareyyadāyaka Thera spoke these verses.  
-The legend of Uttareyyadāyaka Thera is finished.  
+The legend of Uttareyyadāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Upper Cloak Donor” or “Outer Garment Donor.” *Uttareyya =
-    uttarīya*  
+    uttarīya*
+
 [^3]: *toya-abhisecana-atthāya,* lit., “for the sake of a ritual
-    water-bath by sprinkling”  
+    water-bath by sprinkling”
+
 [^4]: lit., “master of all things (*dhamma*)” (or “Master of All
-    Teachings”)  
+    Teachings”)
+
 [^5]: lit., “with one thousand who had destroyed the outflows”
-    (*khīnāsavasahassehi*), i.e., with one thousand arahants.  
-[^6]: lit., “by arahants”  
-[^7]: *sucārurūpa, “*He whose form is very beautiful”  
-[^8]: *namassitvāna,* lit., “having paid homage to” “having venerated”  
-[^9]: *subbataŋ*  
+    (*khīnāsavasahassehi*), i.e., with one thousand arahants.
+
+[^6]: lit., “by arahants”
+
+[^7]: *sucārurūpa, “*He whose form is very beautiful”
+
+[^8]: *namassitvāna,* lit., “having paid homage to” “having venerated”
+
+[^9]: *subbataŋ*
+
 [^10]: *uttarīya* = the upper or outer of the three robes worn by a
-    Buddhist monk.  
-[^11]: lit., “\[that\] cloak covered”  
-[^12]: *piṇḍacārañ carantassa,* lit., “wandering on its alms-rounds”  
+    Buddhist monk.
+
+[^11]: lit., “\[that\] cloak covered”
+
+[^12]: *piṇḍacārañ carantassa,* lit., “wandering on its alms-rounds”
+
 [^13]: I am uncertain what house this refers to, as the protagonist had
     met Padumuttara Buddha in the city, but the Pāli is unambiguous
-    (*gharato nikkhamantass*a, genitive absolute construction)  
-[^14]: lit., “standing right there on the road”  
-[^15]: lit., “made this expression of thanks for me”  
-[^16]: lit., “meritorious karma”  
-[^17]: lit., “meritorious karma”  
-[^18]: lit., “in existence”  
-[^19]: lit., “will come into existence”  
-[^20]: *koseyya*  
-[^21]: *kambala*  
-[^22]: *kappāsika*  
-[^23]: *dhamma*  
+    (*gharato nikkhamantass*a, genitive absolute construction)
+
+[^14]: lit., “standing right there on the road”
+
+[^15]: lit., “made this expression of thanks for me”
+
+[^16]: lit., “meritorious karma”
+
+[^17]: lit., “meritorious karma”
+
+[^18]: lit., “in existence”
+
+[^19]: lit., “will come into existence”
+
+[^20]: *koseyya*
+
+[^21]: *kambala*
+
+[^22]: *kappāsika*
+
+[^23]: *dhamma*
+
 [^24]: *maṇḍape.* A *maṇḍapa* is an ornamental temporary wall or fence
     or curtain closing off and marking a space in which ritual activity
     occurs. In modern Sri Lanka these are commonly frames of wood,
     something like a room divider, which are then decorated with
     tissue-paper cut-outs, flowers, streamers, cloth, go kola (palm
     fronds prepared ornamentally), etc., and will often be accompanied
-    by a covering canopy (*viyana, chadana*).  
+    by a covering canopy (*viyana, chadana*).
+
 [^25]: reading *aviññataṃ nivāsemi* with BJTS for PTS *aviññatti
-    nisevāmi* (“I indulge in not asking”)  
+    nisevāmi* (“I indulge in not asking”)
+
 [^26]: lit., “I am a receiver of”

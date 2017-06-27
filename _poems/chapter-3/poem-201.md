@@ -21,10 +21,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2274\]
 
 Thus indeed Venerable Kaṇikārapupphiya Thera spoke these verses.  
-The legend of Kaṇikārapupphiya Thera is finished.  
-[^1]: “Dinner-plate Tree Flower-er”  
+The legend of Kaṇikārapupphiya Thera is finished.
+
+[^1]: “Dinner-plate Tree Flower-er”
+
 [^2]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum
     acerifolium, produces a brilliant mass of yellow flowers; Engl.
     a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now
-    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.  
+    archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
+
 [^3]: “Guard of (or Guarded By) the Sun”

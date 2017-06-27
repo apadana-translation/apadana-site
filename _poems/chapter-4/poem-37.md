@@ -78,31 +78,48 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (16) \[1286\]
 
 Thus indeed the bhikkhunī Aḍḍhakāsikā spoke these verses.  
-The legend of Aḍḍhakāsikā Therī[^17] is finished  
+The legend of Aḍḍhakāsikā Therī[^17] is finished
+
 [^1]: “Half a Benares Thousand \[Whore\],” “She \[Whose Daytime Price\]
     is Half a Benares Thousand,” as historical nun, remembered as the
     precedent for the giving of ordination by messenger. See DPPN I:50.
     Here the ordination is specifically called *upasampadā*, “higher
-    ordination”  
-[^2]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”  
+    ordination”
+
+[^2]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
+
 [^3]: *patimokkhamhi,* lit “in \[read “through”?\] the fortnightly
-    recitation/227 rules  
+    recitation/227 rules
+
 [^4]: reading *mataññutnī* (lit., “one who knows the limit”) *ca asane*
     (“in eating”)*,* with BJTS for PTS *mataññū nīca-āsane* (”moderate
-    on a high seat” ?)  
-[^5]: reading *jāgariye pi* with BJTS for PTS *jāgariyesu*  
-[^6]: *vigatāsavaŋ*  
-[^7]: i.e., the people of Benares and the countryside surrounding it  
-[^8]: lit., “as the fruit of” “as the result of”  
-[^9]: *rūpasampadā* (lit., “endowed with beauty”)  
-[^10]: lit., “as the fruit of” “as the result of”  
-[^11]: *tadā...°atthāya,* lit., “then...for the sake of”  
+    on a high seat” ?)
+
+[^5]: reading *jāgariye pi* with BJTS for PTS *jāgariyesu*
+
+[^6]: *vigatāsavaŋ*
+
+[^7]: i.e., the people of Benares and the countryside surrounding it
+
+[^8]: lit., “as the fruit of” “as the result of”
+
+[^9]: *rūpasampadā* (lit., “endowed with beauty”)
+
+[^10]: lit., “as the fruit of” “as the result of”
+
+[^11]: *tadā...°atthāya,* lit., “then...for the sake of”
+
 [^12]: PTS reads *tadā ‘pasampadatthāya,* with incorrect *sandhi*; BJTS
     reads, correctly, *tatopasampadatthāya,* cf. PTS alt. (also correct)
-    *tad’ upa°*  
+    *tad’ upa°*
+
 [^13]: reading *sutvā* with BJTS for PTS *disvā* (“seeing”). Neither
-    edition indicates variance in its reading of the verb.  
-[^14]: *ṭhite,* lit., “were standing on” “remained on”  
-[^15]: lit., “a messenger \[gave me\] ordination”  
-[^16]: or “transmigration,” *°saŋsārā*  
+    edition indicates variance in its reading of the verb.
+
+[^14]: *ṭhite,* lit., “were standing on” “remained on”
+
+[^15]: lit., “a messenger \[gave me\] ordination”
+
+[^16]: or “transmigration,” *°saŋsārā*
+
 [^17]: the BJTS reading for PTS *bhikkhunī Aḍḍhakāsikā*

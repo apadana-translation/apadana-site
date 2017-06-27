@@ -30,5 +30,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1511\]
 
 Thus indeed Venerable Gatasaññaka Thera spoke these verses.  
-The legend of Gatasaññaka Thera is finished.  
+The legend of Gatasaññaka Thera is finished.
+
 [^1]: “Fire-Flame”.

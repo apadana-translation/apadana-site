@@ -15,5 +15,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (3) \[2123\]
 
 Thus indeed Venerable Udapānadāyaka Thera spoke these verses.  
-The legend of Udapānadāyaka Thera is finished.  
+The legend of Udapānadāyaka Thera is finished.
+
 [^1]: “Well-Donor”

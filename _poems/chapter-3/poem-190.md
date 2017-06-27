@@ -38,18 +38,25 @@ Isimugga and \[then\] Bodhī,
 Ekacinti, Tikaṇṇika,  
 Ekacārī and Tivaṇṭī,  
 sixty two[^7] verses are told \[here\].  
-The Kuṭajapupphiya Chapter, the Nineteenth.  
-[^1]: “Three Flower Stalks \[Donor\]”  
+The Kuṭajapupphiya Chapter, the Nineteenth.
+
+[^1]: “Three Flower Stalks \[Donor\]”
+
 [^2]: the cty does not explain the reason he is overwhelmed (or
-    overpowered: *abhibhuŋ*).  
-[^3]: this translation follows the BJTS gloss  
-[^4]: “Good Joy”  
+    overpowered: *abhibhuŋ*).
+
+[^3]: this translation follows the BJTS gloss
+
+[^4]: “Good Joy”
+
 [^5]: *paddhacarā*; BJTS reads *bhaddhacarā.* Elsewhere (see below,
     \#194, v. 1 \[2230\]) cty glosses the term as “servant” which is
     also possible; this reading follows BJTS which glosses it as
-    *sahacarayo,* associates or fellow-wanders.  
+    *sahacarayo,* associates or fellow-wanders.
+
 [^6]: that is, he was reborn eight times as a \[king\] named
     Dhūmaketana. The name means “Having fire \[or smoke\] on \[or as\]
-    \[his\] banner \[or flag\]”  
+    \[his\] banner \[or flag\]”
+
 [^7]: reading *dvāsaṭṭhi* with BJTS for PTS *bāsaṭṭhi* (though *bā-* is
     a common alternative for *dvā-* in compounds)

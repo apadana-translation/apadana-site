@@ -71,37 +71,59 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (14) \[4475\]
 
 Thus indeed Venerable Sakiŋsammajjaka Thera spoke these verses.  
-The legend of Sakiŋsammajjaka Thera is finished.  
+The legend of Sakiŋsammajjaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Once-Sweeper”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Once-Sweeper”
+
 [^3]: *pāṭali*, Sinh. *paḷol,* Bignonia suaveolens, sterospermum
     suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of
-    Vipassi Buddha.  
+    Vipassi Buddha.
+
 [^4]: taking *paṭikuṭim* (BJTS reads *paṭikūṭīº*) as fr. *paṭikuṭati*
     “to crouch,” “to bend over.” BJTS gloss here *(gauravayen nämunem,*
-    “bending over (in reverence)”  
+    “bending over (in reverence)”
+
 [^5]: reading *cārimaggena* with BJTS (and PTS alt) for PTS
-    *cārima-maggena,* which breaks the meter  
-[^6]: lit., “remembering the supreme (or ultimate) Bodhi tree  
-[^7]: *ajagarā.* RD says “a large snake...a Boa Constrictor”  
-[^8]: lit., “the karma done by me”  
+    *cārima-maggena,* which breaks the meter
+
+[^6]: lit., “remembering the supreme (or ultimate) Bodhi tree
+
+[^7]: *ajagarā.* RD says “a large snake...a Boa Constrictor”
+
+[^8]: lit., “the karma done by me”
+
 [^9]: *āsanne*, BJTS gloss *maraṇasannayehi*, which in Sinhala anyway is
-    one of the senses of *āsanna* (lit., “near”)  
-[^10]: *kalebaraŋ* (BJTS *kaḷebaraṃ*) *me*  
-[^11]: *visuddhaŋ paṇḍaraŋ*  
-[^12]: *kaṇḍu.* BJTS reads *kacchu,* with the same meaning.  
-[^13]: *daddu*  
-[^14]: *kuṭṭha*  
-[^15]: *gaṇḍa*  
-[^16]: *kilāsa*  
+    one of the senses of *āsanna* (lit., “near”)
+
+[^10]: *kalebaraŋ* (BJTS *kaḷebaraṃ*) *me*
+
+[^11]: *visuddhaŋ paṇḍaraŋ*
+
+[^12]: *kaṇḍu.* BJTS reads *kacchu,* with the same meaning.
+
+[^13]: *daddu*
+
+[^14]: *kuṭṭha*
+
+[^15]: *gaṇḍa*
+
+[^16]: *kilāsa*
+
 [^17]: *apamāra.* This seems an outlier since the remainder of the
     diseases listed here are all diseases of the skin, but the Pāli is
-    unambiguous.  
-[^18]: *vitacchikā*  
-[^19]: lit., “is,” singular  
+    unambiguous.
+
+[^18]: *vitacchikā*
+
+[^19]: lit., “is,” singular
+
 [^20]: *asattaŋ*. BJTS reads *abhantaṃ,* “not swerving,” “not careening
-    out of control”  
-[^21]: *samādhisu* (reading *samādhsu* with BJTS)  
+    out of control”
+
+[^21]: *samādhisu* (reading *samādhsu* with BJTS)
+
 [^22]: lit., “whichever *samādhi*”

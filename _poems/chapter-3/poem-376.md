@@ -25,17 +25,24 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[3256\]
 
 Thus indeed Venerable Gandhamuṭṭhiya Thera spoke these verses.  
-The legend of Gandhamuṭṭhiya Thera is finished.  
+The legend of Gandhamuṭṭhiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “A Handful of Incense-er”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “A Handful of Incense-er”
+
 [^3]: or more generally, “shrine,” *cita.* I read *citake karīyamāne*
     (locative absolute construction) with BJTS for PTS *citesu
-    kiramānesu*, “when stupas (or shrines) were being scattered”  
-[^4]: *gandha,* lit., “\[good\] smells,” “types of incense”  
-[^5]: lit., “did *pūjā”*  
-[^6]: lit., “did *pūjā”*  
+    kiramānesu*, “when stupas (or shrines) were being scattered”
+
+[^4]: *gandha,* lit., “\[good\] smells,” “types of incense”
+
+[^5]: lit., “did *pūjā”*
+
+[^6]: lit., “did *pūjā”*
+
 [^7]: this slight deviation on the first verse of the standard refrain —
     reading *mama buddhassa* for the more common *buddhaseṭṭhassa*
     (“Best Buddha’s”) — appears to be quite random. Here, PTS has the

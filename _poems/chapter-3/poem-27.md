@@ -20,7 +20,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[982\]
 
 Thus indeed Venerable Puḷinapūjaka Thera spoke these verses.  
-The legend of Puḷinapūjaka Thera is finished.  
-[^1]: “Sand-Giver”  
-[^2]: reading *pādaputtame* (BJTS) for *pādamuttame* (PTS)  
+The legend of Puḷinapūjaka Thera is finished.
+
+[^1]: “Sand-Giver”
+
+[^2]: reading *pādaputtame* (BJTS) for *pādamuttame* (PTS)
+
 [^3]: “Great Sand”

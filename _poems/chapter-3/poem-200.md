@@ -43,15 +43,22 @@ Tamālika, the tenth is done.
 There are six hundred verses here  
 and sixty six more than that too.  
 The Ten Chapters[^6] called Bhikkha.  
-The Second Hundred[^7] is finished.  
+The Second Hundred[^7] is finished.
+
 [^1]: “Jasmine Flower-er”. This spelling follows BJTS; PTS gives
-    Yūthikapupphiya.  
-[^2]: lit., “The Victor named Padumuttara”  
-[^3]: *yūthikā* = Sinh. *sīnidda* = *jasminum auriculatum*  
+    Yūthikapupphiya.
+
+[^2]: lit., “The Victor named Padumuttara”
+
+[^3]: *yūthikā* = Sinh. *sīnidda* = *jasminum auriculatum*
+
 [^4]: “Joyful with Friends”. This is the BJTS reading; PTS gives
-    Samitaŋnandano, “Continuously Joyful”  
-[^5]: PTS reads Tikaṇḍa  
-[^6]: *vaggadasakaŋ*  
+    Samitaŋnandano, “Continuously Joyful”
+
+[^5]: PTS reads Tikaṇḍa
+
+[^6]: *vaggadasakaŋ*
+
 [^7]: *sataka* is a common structure in Sanskrit and Pāli poetry,
     usually referring to one hundred verses, rather than (as here) one
     hundred legends (individual *apadānas*)

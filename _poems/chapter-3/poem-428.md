@@ -167,61 +167,95 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (33) \[4599\]
 
 Thus indeed Venerable Sucintita Thera spoke these verses.  
-The legend of Sucintita Thera is finished.  
+The legend of Sucintita Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Well-Thought-Out.” \#66 and \#92 are *apadānas* of apparently
-    different monks bearing this name.  
-[^3]: lit., “fruited,” *phalitaŋ*  
+    different monks bearing this name.
+
+[^3]: lit., “fruited,” *phalitaŋ*
+
 [^4]: *janantassa guṇāguṇaŋ,* lit., “for who knows virtue and
-    non-virtue”  
-[^5]: *saṅghe,* lit., “for the assembly of monks”  
-[^6]: *asamasamo*  
+    non-virtue”
+
+[^5]: *saṅghe,* lit., “for the assembly of monks”
+
+[^6]: *asamasamo*
+
 [^7]: *pabhāvita*, BJTS gloss *prabhūta*, lit., “become” “produced”
-    “increased” “furthered”  
+    “increased” “furthered”
+
 [^8]: *navasassaŋ pure pure,* BJTS Sinh. gloss *paḷamu
     paḷamu...navaśasyadānaya,”* “a donation of the new crop, the first
-    the first \[fruits\]”  
-[^9]: *haṭṭho pīṇitamānaso*  
-[^10]: PTS and BJTS agree in presenting this as a six-footed verse.  
-[^11]: reading *tvaṃ* with BJTS (and PTS alt.) for PTS *taŋ*  
+    the first \[fruits\]”
+
+[^9]: *haṭṭho pīṇitamānaso*
+
+[^10]: PTS and BJTS agree in presenting this as a six-footed verse.
+
+[^11]: reading *tvaṃ* with BJTS (and PTS alt.) for PTS *taŋ*
+
 [^12]: *āyāgo.* The term can refer to the recipient of sacrificial
     gifts, or to the gifts themselves. PTS seems to assume the latter
-    meaning in reading *taŋ* for *tvaṃ*  
-[^13]: reading *cakkhuma* (voc.) with BJTS for PTS *cakkhumā* (nom.)  
+    meaning in reading *taŋ* for *tvaṃ*
+
+[^13]: reading *cakkhuma* (voc.) with BJTS for PTS *cakkhumā* (nom.)
+
 [^14]: BJTS glosses “stream-enterers, etc.,” that is, the four who have
     entered the path and are established in its fruit are
-    stream-enterers, once-returners, non-returners and arahants.  
-[^15]: or “sacrifices,” *yajantānaŋ manussānaŋ*  
-[^16]: lit., “for the monks’ Assembly,” *saṅghe*  
-[^17]: lit., “for this assembly of monks,” *tasmin saṅghe*  
-[^18]: PTS and BJTS agree in presenting this as a six-footed verse.  
-[^19]: i.e., in the Tāvatiṃsa heaven  
-[^20]: PTS and BJTS agree in presenting this as a six-footed verse.  
-[^21]: *koseyya*  
-[^22]: *kambala*  
-[^23]: *kappāsika*  
+    stream-enterers, once-returners, non-returners and arahants.
+
+[^15]: or “sacrifices,” *yajantānaŋ manussānaŋ*
+
+[^16]: lit., “for the monks’ Assembly,” *saṅghe*
+
+[^17]: lit., “for this assembly of monks,” *tasmin saṅghe*
+
+[^18]: PTS and BJTS agree in presenting this as a six-footed verse.
+
+[^19]: i.e., in the Tāvatiṃsa heaven
+
+[^20]: PTS and BJTS agree in presenting this as a six-footed verse.
+
+[^21]: *koseyya*
+
+[^22]: *kambala*
+
+[^23]: *kappāsika*
+
 [^24]: reading *dukkhaṃ* with BJTS for PTS *dukkaŋ,* an obvious
-    typographical error  
-[^25]: *carimo vattate bhavo*  
+    typographical error
+
+[^25]: *carimo vattate bhavo*
+
 [^26]: reading *deyyadhammo...phalaṃ* with BJTS for PTS
-    *deyyadhamme...phalaŋ* (“the fruit in \[= of?\] my donation”)  
+    *deyyadhamme...phalaŋ* (“the fruit in \[= of?\] my donation”)
+
 [^27]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe
     guṇavaruttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme
-    splendid group”  
+    splendid group”
+
 [^28]: *aṭṭhānisaŋse.* I count the eight here as (1) being handsome, (2)
     be famous, (3) being wealthy, (4) being free from harm, (5) always
     being in the majority, (6) having a united retinue, (7) respected by
-    everyone, (8) always being the first to receive gifts  
-[^29]: *mahābhogo,* lit., “one with many possessions”  
+    everyone, (8) always being the first to receive gifts
+
+[^29]: *mahābhogo,* lit., “one with many possessions”
+
 [^30]: *mahāpakkho, lit.,* “one of the great faction” “one with a
-    powerful party,”  
+    powerful party,”
+
 [^31]: *deyyadhammā,* that is, religious gifts presented to the brahmins
     officiating at a sacrifice, or the monks being honored in an
-    almsgiving, or other religious adepts at a festival, etc.  
-[^32]: *pure pure*  
-[^33]: *bhikkhusaṅghassa...majjhe*  
+    almsgiving, or other religious adepts at a festival, etc.
+
+[^32]: *pure pure*
+
+[^33]: *bhikkhusaṅghassa...majjhe*
+
 [^34]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe
     guṇavaruttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme
     splendid group”

@@ -40,5 +40,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[1214\]
 
 Thus indeed Venerable Cankamadāyaka Thera spoke these verses.  
-The legend of Cankamadāyaka Thera is finished.  
+The legend of Cankamadāyaka Thera is finished.
+
 [^1]: “Walkway-Giver”

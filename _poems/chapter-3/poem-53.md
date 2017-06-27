@@ -25,7 +25,9 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[1281\]
 
 Thus indeed Venerable Sayanadāyaka Thera spoke these verses.  
-The legend of Sayanadāyaka Thera is finished.  
-[^1]: “Bed-Donor”  
+The legend of Sayanadāyaka Thera is finished.
+
+[^1]: “Bed-Donor”
+
 [^2]: “Great Excellent One”. PTS gives the name as Mahāvīra (“Great
     Hero”); I follow BJTS.

@@ -30,12 +30,18 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1933\]
 
 Thus indeed Venerable Sālapupphadāyaka Thera spoke these verses.  
-The legend of Sālapupphadāyaka Thera is finished.  
-[^1]: “*Sal-*Flower-Giver”  
-[^2]: lit., “searching” “forraging”  
-[^3]: lit., “a place on a mountain difficult of access.”  
-[^4]: lit., “he will make many people attain nirvana”.  
+The legend of Sālapupphadāyaka Thera is finished.
+
+[^1]: “*Sal-*Flower-Giver”
+
+[^2]: lit., “searching” “forraging”
+
+[^3]: lit., “a place on a mountain difficult of access.”
+
+[^4]: lit., “he will make many people attain nirvana”.
+
 [^5]: reading *sakosaṃ* (BJTS) for *sakoṭaŋ* (PTS). The cty reads
     *sakeṭaṃ* and glosses it *sakaṇṇikaṃ* (“with a pinnacle”? “with the
-    ears”?)  
+    ears”?)
+
 [^6]: “Shiny”

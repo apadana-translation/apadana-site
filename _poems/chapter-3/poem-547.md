@@ -147,69 +147,108 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (30) \[6246\]
 
 Thus indeed Venerable Abhaya Thera spoke these verses.  
-The legend of Abhaya Thera is finished.  
+The legend of Abhaya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Fearless,” a historical monk, commonly known as Abhayarājakumāra,
     “Abhaya the Royal Prince,” because he was the son of King Bimbisāra
-    of Rajgir. See DPPN I:127-128.  
+    of Rajgir. See DPPN I:127-128.
+
 [^3]: *dasakammapathuttame*: RD: “divided into kusala (meritorious,
     good) and akusala (demeritorious, evil) and classified according to
     the three manifestations” of body (3 *kammapathas*), speech (4
-    *kammapathas*) and mind (3 *kammapathas*), for a total of ten.  
+    *kammapathas*) and mind (3 *kammapathas*), for a total of ten.
+
 [^4]: namely the four *jhanas* and the four formless realms (of infinite
     space, infinite consciousness, nothingness, and neither
-    consciousness nor unconsciousness)  
-[^5]: *naruttamo*  
-[^6]: *padako,* i.e. knowing the lines and feet of the Vedic poems  
-[^7]: *keṭubhavidū*  
-[^8]: *chandovicitikovido*  
+    consciousness nor unconsciousness)
+
+[^5]: *naruttamo*
+
+[^6]: *padako,* i.e. knowing the lines and feet of the Vedic poems
+
+[^7]: *keṭubhavidū*
+
+[^8]: *chandovicitikovido*
+
 [^9]: *haṃsârāmam* appears to be a proper name, though it also could be
-    taken as “the hermitage in \[my hometown\] Haṃsavatī”  
-[^10]: *vadataŋ seṭṭhaŋ*  
-[^11]: *mahājana-purakkhataŋ*  
-[^12]: reading *vā* with BJTS for PTS *ca* (“and”)  
+    taken as “the hermitage in \[my hometown\] Haṃsavatī”
+
+[^10]: *vadataŋ seṭṭhaŋ*
+
+[^11]: *mahājana-purakkhataŋ*
+
+[^12]: reading *vā* with BJTS for PTS *ca* (“and”)
+
 [^13]: *gaṇi°,* lit., “one who has a group \[of followers\],” “a
-    teacher”  
-[^14]: reading *ganthayitvā* with BJTS for PTS *ganthavitvā*  
+    teacher”
+
+[^14]: reading *ganthayitvā* with BJTS for PTS *ganthavitvā*
+
 [^15]: *suvyañjanaŋ* (“with good characteristics” “good in the letter
-    \[as opposed to the meaning\]”)  
-[^16]: *desayissaŋ*  
-[^17]: *viratto*  
-[^18]: reading *mahāvra* (voc.) with BJTS for PTS *mahāvīro* (nom).  
+    \[as opposed to the meaning\]”)
+
+[^16]: *desayissaŋ*
+
+[^17]: *viratto*
+
+[^18]: reading *mahāvra* (voc.) with BJTS for PTS *mahāvīro* (nom).
+
 [^19]: *na nibbāyi,* lit., “did not die” or “did not reach full nirvana
-    (*parinibbāna*)”  
+    (*parinibbāna*)”
+
 [^20]: reading *santo* with BJTS (and PTS alt.) for PTS *satto* (“a
-    creature”)  
-[^21]: *sampajāno*  
-[^22]: *satiyutto*  
+    creature”)
+
+[^21]: *sampajāno*
+
+[^22]: *satiyutto*
+
 [^23]: *sabbalokassa guru* (BJTS reads *garu*, the older form, but
     glosses *guru*). I follow BJTS Sinh. gloss in taking this as
     referring specifically to a Buddha, hence capitalize it as a
-    Buddha-epithet.  
-[^24]: reading *lokcāriyo* with BJTS for PTS *lokacariyā* (sic).  
+    Buddha-epithet.
+
+[^24]: reading *lokcāriyo* with BJTS for PTS *lokacariyā* (sic).
+
 [^25]: reading *sambuddhaṃ* with BJTS for PTS *yaŋ Budhhaŋ* (“which
-    Buddha”)  
-[^26]: PTS *dhammadesakaŋ;* BJTS *dhammadesataṃ*  
-[^27]: *tato cuto,* lit., “fallen from there”  
-[^28]: *gato* *saggaŋ*  
-[^29]: reading *jāyāmi* with BJTS for PTS *jānāmi* (“know”)  
+    Buddha”)
+
+[^26]: PTS *dhammadesakaŋ;* BJTS *dhammadesataṃ*
+
+[^27]: *tato cuto,* lit., “fallen from there”
+
+[^28]: *gato* *saggaŋ*
+
+[^29]: reading *jāyāmi* with BJTS for PTS *jānāmi* (“know”)
+
 [^30]: *giribbajapuruttame.* Giribbaja or Girivraja is another name for
-    Rajgir (also for Vaṅkagiri; see DPPN I:770)  
-[^31]: *°vasaŋ gantvā,* lit., “having gone under the power of”  
+    Rajgir (also for Vaṅkagiri; see DPPN I:770)
+
+[^31]: *°vasaŋ gantvā,* lit., “having gone under the power of”
+
 [^32]: *pāpamitta°*, a friend who enjoins one to evil deeds, as
     contrasted with a “beautiful friend” (*kalyānamitta*) who enjoins
-    one to do good.  
+    one to do good.
+
 [^33]: lit., “sent by Nāṭaputta*,*” the typical Pāli designation of
     Vardhamāna Mahāvīra, the Jina. (BJTS reads *nātaputtena).* For
     details about him as depicted in the Pāli texts see DPPN II: 61-64.
     The protagonist is “sent” by the Jina in order to spy on or refute
-    the Buddha.  
-[^34]: *jinavaraŋ*  
-[^35]: *arahaŋ,* i.e., “the arahant”  
-[^36]: *asamaŋ*  
-[^37]: *sayambhuŋ*  
-[^38]: i.e., for one hundred thousand aeons  
+    the Buddha.
+
+[^34]: *jinavaraŋ*
+
+[^35]: *arahaŋ,* i.e., “the arahant”
+
+[^36]: *asamaŋ*
+
+[^37]: *sayambhuŋ*
+
+[^38]: i.e., for one hundred thousand aeons
+
 [^39]: this verse is in the more complex xxx meter, with eleven-syllable
     feet.

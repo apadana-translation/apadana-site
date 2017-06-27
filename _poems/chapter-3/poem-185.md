@@ -30,9 +30,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2180\]
 
 Thus indeed Venerable Isimuggadāyaka Thera spoke these verses.  
-The legend of Isimuggadāyaka Thera is finished.  
-[^1]: “Sage’s Mung Donor”  
-[^2]: reading *piṃsetvā* with BJTS for PTS *nisandhetvā*  
-[^3]: this translation of *anīḷake* follows BJTS  
-[^4]: *duggatiŋ nûpapajj’ ahaŋ*  
+The legend of Isimuggadāyaka Thera is finished.
+
+[^1]: “Sage’s Mung Donor”
+
+[^2]: reading *piṃsetvā* with BJTS for PTS *nisandhetvā*
+
+[^3]: this translation of *anīḷake* follows BJTS
+
+[^4]: *duggatiŋ nûpapajj’ ahaŋ*
+
 [^5]: “All Around the Earth”

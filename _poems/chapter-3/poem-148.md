@@ -30,9 +30,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1982\]
 
 Thus indeed Venerable Phalakadāyaka Thera spoke these verses.  
-The legend of Phalakadāyaka Thera is finished.  
-[^1]: “Slab-Donor”  
+The legend of Phalakadāyaka Thera is finished.
+
+[^1]: “Slab-Donor”
+
 [^2]: lit., “unshaken”. I take this to mean that when he picks up a
     handful of gravel, it’s all gems. Ordinarily, gemmers must sift
-    through vast amounts of sand and worthless stone to locate gems.  
+    through vast amounts of sand and worthless stone to locate gems.
+
 [^3]: “Existence-Constructors” or “Rebirth-Constructors”

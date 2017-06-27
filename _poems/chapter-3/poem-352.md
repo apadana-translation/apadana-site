@@ -25,11 +25,15 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[3149\]
 
 Thus indeed Venerable Yavakalāpiya Thera spoke these verses.  
-The legend of Yavakalāpiya Thera is finished.  
+The legend of Yavakalāpiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Barley Sheaf-er”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Barley Sheaf-er”
+
 [^3]: *yavasika*, lit., “barley-er,” so the term could also mean a
-    barley merchant, or a barley laborer, etc.  
+    barley merchant, or a barley laborer, etc.
+
 [^4]: lit., “Sambuddha”

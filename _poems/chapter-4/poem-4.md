@@ -30,5 +30,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[36\]
 
 Thus indeed Bhikkhunī Saṅkamanattā spoke these verses.  
-The legend of Saṅkamanattā Therī is finished.  
+The legend of Saṅkamanattā Therī is finished.
+
 [^1]: “Cross-Over-er”.

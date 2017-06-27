@@ -44,10 +44,16 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (9) \[1724\]
 
 Thus indeed Venerable Suvaṇṇapupphiya Thera spoke these verses.  
-The legend of Suvaṇṇapupphiya Thera is finished.  
-[^1]: “Golden Flower-er”  
-[^2]: *Dhamma*  
-[^3]: reading *ca* (BJTS, PTS alt) for *va* (“like,” PTS).  
-[^4]: lit., “Sambuddha”  
-[^5]: *subbataŋ*; also “He of Good Vows”  
+The legend of Suvaṇṇapupphiya Thera is finished.
+
+[^1]: “Golden Flower-er”
+
+[^2]: *Dhamma*
+
+[^3]: reading *ca* (BJTS, PTS alt) for *va* (“like,” PTS).
+
+[^4]: lit., “Sambuddha”
+
+[^5]: *subbataŋ*; also “He of Good Vows”
+
 [^6]: “Complete Circumference”

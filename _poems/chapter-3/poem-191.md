@@ -26,10 +26,13 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2218\]
 
 Thus indeed Venerable Tamālapupphiya Thera spoke these verses.  
-The legend of Tamālapupphiya Thera is finished.  
+The legend of Tamālapupphiya Thera is finished.
+
 [^1]: “Tamāla Flower \[Donor\]”. The flower comes from a tree, Sinh.
     *tamaḷu,* = *kollam* = *raṭa goraka* or Cochin goraka, Garcinia
     Xanthochymus (*Guttif.*); bears greenish-white flowers and a fruit
-    used for jams and curries.  
-[^2]: *devalaṭṭhi = devarukkha*  
+    used for jams and curries.
+
+[^2]: *devalaṭṭhi = devarukkha*
+
 [^3]: “Satisfied by the Moon”

@@ -24,26 +24,35 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[3224\]
 
 Thus indeed Venerable Bodhivandaka Thera spoke these verses.  
-The legend of Bodhivandaka Thera is finished.  
+The legend of Bodhivandaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Bodhi \[Tree\] Worshipper.”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Bodhi \[Tree\] Worshipper.”
+
 [^3]: Sinh. *paḷol,* Bignonia suaveolens, sterospermum suaveolens
     (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
-    Cf. \#71, \#78, \#96, \#248, \#255, \#369{372}.  
+    Cf. \#71, \#78, \#96, \#248, \#255, \#369{372}.
+
 [^4]: The foot consists of two different words for” tree”:
     *dharaṇī-rūha* (“growing in the earth”) and *pādapa* (“drinking from
     the feet \[or roots\]”). Though awkward in English, I translate
     literally here rather than give the non-descriptive “tree, which was
-    a tree”.  
-[^5]: *ekaŋsam,* with certainty, definitively, absolutely.  
-[^6]: lit., “making”  
+    a tree”.
+
+[^5]: *ekaŋsam,* with certainty, definitively, absolutely.
+
+[^6]: lit., “making”
+
 [^7]: *antosuddhaŋ bahiŋ suddhaŋ* (reading *bahisuddhaŋ* with BJTS and
     PTS alt.), lit., “purified inside, purified outside.” I follow BJTS
     Sinhala gloss in taking this as referring to the donor (or perhaps,
     in an adverbial sense, to his worship) rather than -- as is also
     grammatically possible -- as a Buddha-epithet, i.e., He Who is
-    Purified \[Both\] Inside \[and\] Out”  
-[^8]: *sammukhā viya,* lit., “as though face to face with”  
+    Purified \[Both\] Inside \[and\] Out”
+
+[^8]: *sammukhā viya,* lit., “as though face to face with”
+
 [^9]: *anāsava*

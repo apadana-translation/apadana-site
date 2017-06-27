@@ -30,8 +30,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1565\]
 
 Thus indeed Venerable Sucintita Thera spoke these verses.  
-The legend of Sucintita Thera is finished  
+The legend of Sucintita Thera is finished
+
 [^1]: “Well-Thought.” \#66 and \#425 {428} are also ascribed to
-    (apparently different) monks of this name.  
+    (apparently different) monks of this name.
+
 [^2]: reading *suddhāpīṭham* (BJTS, PTS alt.) for *pubbe-pīṭham*
     (“former \[or eastern\] chair,” PTS).

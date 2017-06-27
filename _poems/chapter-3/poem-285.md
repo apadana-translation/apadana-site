@@ -20,6 +20,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2645\]
 
 Thus indeed Venerable Maghavapupphiya Thera spoke these verses.  
-The legend of Maghavapupphiya Thera is finished.  
-[^1]: “*Maghava-*Flower-er”  
+The legend of Maghavapupphiya Thera is finished.
+
+[^1]: “*Maghava-*Flower-er”
+
 [^2]: lit., “did *pūja* to”

@@ -30,11 +30,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[5303\]
 
 Thus indeed Venerable Udakadāyaka Thera spoke these verses.  
-The legend of Udakadāyaka Thera is finished.  
+The legend of Udakadāyaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Water Donor.” See \#206, above, for a (different) *apadāna*
-    ascribed to a monk with this same name.  
+    ascribed to a monk with this same name.
+
 [^3]: *dumagge,* could also be “top of a tree” (as in many *apadānas*
     about rag-robe), but here “bad road" seems more likely to me.

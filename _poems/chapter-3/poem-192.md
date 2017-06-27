@@ -30,15 +30,19 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[2224\]
 
 Thus indeed Venerable Tiṇasantharadāyaka Thera spoke these verses.  
-The legend of Tiṇasantharadāyaka Thera is finished.  
-[^1]: “Grass Mat Donor”  
+The legend of Tiṇasantharadāyaka Thera is finished.
+
+[^1]: “Grass Mat Donor”
+
 [^2]: *padakkhiṇāvattā* (BJTS Sinhala gloss *dakṣiṇāvarta vä*) contains
     a *double entendre* in Pāli (and Sinhala) which I have tried to
     preserve in English: the (physical) turning to the right of the
     leaves (itself auspicious, in the proper “circumambulation” to show
     respect, “keeping the right” to the object of veneration) is
     simultaneously a (metaphorical) turning toward what is right, good,
-    skillful (or even, “turning into religious gifts,” *dakkhiṇā*)  
+    skillful (or even, “turning into religious gifts,” *dakkhiṇā*)
+
 [^3]: the palmyra (*tāla,* Sinh. *tal*) tree or fan palm is Borassus
-    flabelliformis  
+    flabelliformis
+
 [^4]: “Great Wealth”

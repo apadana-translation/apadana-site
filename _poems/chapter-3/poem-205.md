@@ -20,7 +20,10 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (4) \[2293\]
 
 Thus indeed Venerable Nigguṇḍipupphiya Thera spoke these verses.  
-The legend of Nigguṇḍipupphiya Thera is finished.  
-[^1]: “*Nigguṇḍi*-Flower-er”  
-[^2]: a kind of tree, Vitex nigunda*.* Sinh: *nika*  
+The legend of Nigguṇḍipupphiya Thera is finished.
+
+[^1]: “*Nigguṇḍi*-Flower-er”
+
+[^2]: a kind of tree, Vitex nigunda*.* Sinh: *nika*
+
 [^3]: “Great Cosmic Heat” or “Great Austerities”

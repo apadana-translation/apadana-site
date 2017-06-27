@@ -25,10 +25,14 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2400\]
 
 Thus indeed Venerable Avyādhika Thera spoke these verses.  
-The legend of Avyādhika Thera is finished.  
-[^1]: “Undiseased” (or “Healthy”)  
+The legend of Avyādhika Thera is finished.
+
+[^1]: “Undiseased” (or “Healthy”)
+
 [^2]: *aggisāla.* Cf. \#6, v. 23 \[468\]
 
-[^3]: lit., well-created, well-fashioned: *sunimmita*  
-[^4]: *puññakammass’ idaŋ phalaŋ*  
+[^3]: lit., well-created, well-fashioned: *sunimmita*
+
+[^4]: *puññakammass’ idaŋ phalaŋ*
+
 [^5]: “Unconquered”

@@ -25,6 +25,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (5) \[2590\]
 
 Thus indeed Venerable Tilamuṭṭhidāyaka Thera spoke these verses.  
-The legend of Tilamuṭṭhidāyaka Thera is finished.  
-[^1]: “Sesame-handful Donor”  
+The legend of Tilamuṭṭhidāyaka Thera is finished.
+
+[^1]: “Sesame-handful Donor”
+
 [^2]: *iddhi*

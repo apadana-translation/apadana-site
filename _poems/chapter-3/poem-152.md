@@ -39,21 +39,28 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[2006\]
 
 Thus indeed Venerable Tambapupphiya Thera spoke these verses.  
-The legend of Tambapupphiya Thera is finished.  
-[^1]: “Copper-Colored Flower-er”  
+The legend of Tambapupphiya Thera is finished.
+
+[^1]: “Copper-Colored Flower-er”
+
 [^2]: a*parādham akās’ ahaŋ;* given the context, he might have stolen
-    the cargo he was employed to transport for others  
-[^3]: lit “crouching with his legs crossed”  
+    the cargo he was employed to transport for others
+
+[^3]: lit “crouching with his legs crossed”
+
 [^4]: *te,* lit., “they”. The text does not specify to whom this pronoun
     refers, but context would imply that “they” were the authorities or
     the aggrieved party whose arrival represented danger from which the
     protagonist required the protection afforded by remembering the
     Bodhi tree (which in turn presumably succeeded in protecting him
     when “they" arrived in his presence). I follow BJTS Sinhala gloss in
-    this translation.  
-[^5]: BJTS text reads *\[2022\]*, an obvious typographical error  
+    this translation.
+
+[^5]: BJTS text reads *\[2022\]*, an obvious typographical error
+
 [^6]: *tālīsa* = talipot palm (Sinhala *tal)* which provides rope,
     flour, wood, sugar, and an edible fruit. It also grows very tall,
     which seems to be the virtue understood by BJTS Sinhala gloss given
-    its parenthetical addition that the crag was very deep.  
+    its parenthetical addition that the crag was very deep.
+
 [^7]: “With Raindrops”

@@ -249,29 +249,40 @@ of those \[Self-Become Ones,\] the Lonely Buddhas,
 were made known by \[him,\] the Self-Become Lion,  
 for increasing emotion and connection.[^109] (58) \[139\]
 
-The Legend of the Lonely Buddhas is finished.[^110]  
+The Legend of the Lonely Buddhas is finished.[^110]
+
 [^1]: the Sage of Videha is Ānanda, the Buddha’s cousin and personal
-    attendant  
-[^2]: *paccekabuddhā*  
+    attendant
+
+[^2]: *paccekabuddhā*
+
 [^3]: This and the following two verses correspond to the first three
     verses of *Buddhāpadāna,* above, where they are however found only
     in the BJTS edition; here, PTS agrees with BJTS in including them.
     They are in the more elaborate meter, with eleven syllables per
     foot, that characterizes the entire *Paccekabuddhāpadāna* (and the
     *sutta* from which it in turn draws, SN I.3), so I have translated
-    accordingly.  
+    accordingly.
+
 [^4]: reading *pubba°* with BJTS (and PTS alt., and BJTS \[2\], above)
-    for PTS *sabba°* (“all”)  
-[^5]: j*inasāsanesu,* lit., “Victors’ dispensations”  
-[^6]: *vaṇṇa-padesa-mattaŋ*  
+    for PTS *sabba°* (“all”)
+
+[^5]: j*inasāsanesu,* lit., “Victors’ dispensations”
+
+[^6]: *vaṇṇa-padesa-mattaŋ*
+
 [^7]: or, reading *sabbesu pasannacittā,* “with minds pleased in all of
-    those \[Lonely Buddhas\]”  
+    those \[Lonely Buddhas\]”
+
 [^8]: or read *madhuṃ va khuddaṃ* (“sweet like honey”) with BJTS, as
-    below even in PTS (v. 56)  
+    below even in PTS (v. 56)
+
 [^9]: *ādīnavo yañ ca,* BJTS Sinhala gloss *kāmayen*, i.e., “the danger”
-    is (as *ādīnavo* connotes) passion itself  
+    is (as *ādīnavo* connotes) passion itself
+
 [^10]: reading *tath’ eva* with BJTS for PTS *tatth’ eva* (“there
-    indeed”)  
+    indeed”)
+
 [^11]: BJTS adds the Pāli note: *ayaṃ gāthā marammapothake ca
     suttanipāte ca na vijjjati,* “this verse is not found in the Burmese
     edition nor \[lit., “and”\] in *Suttanipāta*,” referring to the
@@ -280,130 +291,229 @@ The Legend of the Lonely Buddhas is finished.[^110]
     (I.3), corresponding as indicated in the footnotes on the following
     verses, this present verse in the *Paccekabuddhāpadāna,* though it
     follows the format of the *Sutta-nipāta sutta*, is not found in that
-    *sutta* (nor, apparently, in Burmese manuscripts of *Apadāna*)*.*  
-[^12]: *kuto*, lit., “how then?” “from where?”  
-[^13]: this is SN, v. 35  
-[^14]: = SN, v. 36  
-[^15]: = SN, v. 37  
-[^16]: = SN, v. 38  
-[^17]: = SN, v. 39  
-[^18]: *anabhijjhitaŋ seritaŋ,* lit., “un-coveted independence”  
-[^19]: = SN, v. 40  
-[^20]: = SN, v. 41  
-[^21]: *catuddiso,* lit., “\[one who belongs to\] the four directions”  
-[^22]: = SN, v. 42  
-[^23]: = SN, v. 43  
-[^24]: *koviḷāra,* a species of ebony, Bauhinia variegata  
-[^25]: = SN, v. 44  
-[^26]: = SN, v. 45  
-[^27]: lit., “like a *mātaṅga* elephant in the woods (or forest)”  
+    *sutta* (nor, apparently, in Burmese manuscripts of *Apadāna*)*.*
+
+[^12]: *kuto*, lit., “how then?” “from where?”
+
+[^13]: this is SN, v. 35
+
+[^14]: = SN, v. 36
+
+[^15]: = SN, v. 37
+
+[^16]: = SN, v. 38
+
+[^17]: = SN, v. 39
+
+[^18]: *anabhijjhitaŋ seritaŋ,* lit., “un-coveted independence”
+
+[^19]: = SN, v. 40
+
+[^20]: = SN, v. 41
+
+[^21]: *catuddiso,* lit., “\[one who belongs to\] the four directions”
+
+[^22]: = SN, v. 42
+
+[^23]: = SN, v. 43
+
+[^24]: *koviḷāra,* a species of ebony, Bauhinia variegata
+
+[^25]: = SN, v. 44
+
+[^26]: = SN, v. 45
+
+[^27]: lit., “like a *mātaṅga* elephant in the woods (or forest)”
+
 [^28]: this corresponds to SN, v. 46 but the latter does not diverge
     from the standard refrain, reading as the fourth foot: “one should
-    wander alone, like a rhino’s horn”  
-[^29]: lit., “companions”  
-[^30]: = SN, v. 47  
+    wander alone, like a rhino’s horn”
+
+[^29]: lit., “companions”
+
+[^30]: = SN, v. 47
+
 [^31]: = SN, v. 48. Clanging bangles is a common image of the throes of
     passion in Sanskrit erotic poetry, one of many levels at which the
     imagery here works to characterize the Lonely Buddha’s aversion to
-    the world  
-[^32]: *dutiyena sahā,* lit., “with a second”  
-[^33]: = SN, v. 49  
-[^34]: = SN, v. 50  
-[^35]: = SN, v. 51  
-[^36]: = SN, v. 52  
-[^37]: = SN, v. 53  
+    the world
+
+[^32]: *dutiyena sahā,* lit., “with a second”
+
+[^33]: = SN, v. 49
+
+[^34]: = SN, v. 50
+
+[^35]: = SN, v. 51
+
+[^36]: = SN, v. 52
+
+[^37]: = SN, v. 53
+
 [^38]: lit., “it is an impossibility (*aṭṭhāna,* for *a-ṭṭhānaṃ,* lit.,
-    “groundless”) that one...would touch”  
+    “groundless”) that one...would touch”
+
 [^39]: *Ādiccabandhussa.* Though elsewhere in *Apadāna* this epithet
     signals Sammāsambuddhas (especially Tissa), here, as BJTS gloss
     makes clear, it refers to the Paccekabuddha to whom the phrase in
-    quotation marks is attributed.  
-[^40]: = SN, v. 54  
-[^41]: = SN, v. 55  
+    quotation marks is attributed.
+
+[^40]: = SN, v. 54
+
+[^41]: = SN, v. 55
+
 [^42]: *niddhanta-kasāva=moho,* lit., “with faults and delusions blown
-    away/purified/cleaned up”  
-[^43]: = SN, v. 56  
-[^44]: lit., “who does not see” “who does not look at”  
-[^45]: = SN, v. 57  
-[^46]: = SN, v. 58  
-[^47]: *ca,* lit., “and”  
+    away/purified/cleaned up”
+
+[^43]: = SN, v. 56
+
+[^44]: lit., “who does not see” “who does not look at”
+
+[^45]: = SN, v. 57
+
+[^46]: = SN, v. 58
+
+[^47]: *ca,* lit., “and”
+
 [^48]: *vibhūsanaṭṭhāṇā,* lit., “from a state of adornment”. The
     *°(ṭ)ṭhāṇā* here is largely superfluous, except in providing the
     ablative required by *virato,* and messes up the meter (13 syllables
     in this foot), but neither PTS nor BJTS indicates any hesitation
     about the reading. Norman, in his SN tr. (p. 9) reads *vibhūsanā*
-    and omits *°ṭṭhāṇā*  
-[^49]: = SN, v. 59  
-[^50]: = SN, v. 60  
-[^51]: *kaṇḍo*, the shaft of an arrow (also an arrow itself, and “lump”)  
-[^52]: = SN, v. 61  
-[^53]: or “fetters,” *saŋyojanāni*  
-[^54]: = SN, v. 62  
-[^55]: *anavassuto,* lit., “not leaking” “not oozing”  
-[^56]: = SN, v. 63  
-[^57]: *pārichatto,* RD: Erythmia Indica, also a tree in Indra’s heaven  
-[^58]: = SN, v. 64  
-[^59]: *akaraŋ,* lit., “not doing”  
-[^60]: *sapadānacārī*  
-[^61]: = SN, v. 65  
-[^62]: = SN, v. 66  
-[^63]: *pubbe va somanassaŋ domanassaŋ,* KRN SN tr. “already”  
-[^64]: = SN, v. 67  
-[^65]: *āraddhaviriyo*  
-[^66]: = SN, v. 68  
-[^67]: = SN, v. 69  
-[^68]: = SN, v. 70  
-[^69]: = SN, v. 71  
-[^70]: = SN, v. 72  
-[^71]: *ca,* lit., “and”  
-[^72]: = SN, v. 73  
-[^73]: or “fetters,” *saŋyojanāni*  
-[^74]: = SN, v. 74  
-[^75]: or “hard to get,” *dullabhā*  
+    and omits *°ṭṭhāṇā*
+
+[^49]: = SN, v. 59
+
+[^50]: = SN, v. 60
+
+[^51]: *kaṇḍo*, the shaft of an arrow (also an arrow itself, and “lump”)
+
+[^52]: = SN, v. 61
+
+[^53]: or “fetters,” *saŋyojanāni*
+
+[^54]: = SN, v. 62
+
+[^55]: *anavassuto,* lit., “not leaking” “not oozing”
+
+[^56]: = SN, v. 63
+
+[^57]: *pārichatto,* RD: Erythmia Indica, also a tree in Indra’s heaven
+
+[^58]: = SN, v. 64
+
+[^59]: *akaraŋ,* lit., “not doing”
+
+[^60]: *sapadānacārī*
+
+[^61]: = SN, v. 65
+
+[^62]: = SN, v. 66
+
+[^63]: *pubbe va somanassaŋ domanassaŋ,* KRN SN tr. “already”
+
+[^64]: = SN, v. 67
+
+[^65]: *āraddhaviriyo*
+
+[^66]: = SN, v. 68
+
+[^67]: = SN, v. 69
+
+[^68]: = SN, v. 70
+
+[^69]: = SN, v. 71
+
+[^70]: = SN, v. 72
+
+[^71]: *ca,* lit., “and”
+
+[^72]: = SN, v. 73
+
+[^73]: or “fetters,” *saŋyojanāni*
+
+[^74]: = SN, v. 74
+
+[^75]: or “hard to get,” *dullabhā*
+
 [^76]: = SN, v. 75. This is the concluding verse of this sermon in SN,
     and the remaining nine verses of this *apadāna* are apparently
-    original to it, as are its first eight verses, above.  
+    original to it, as are its first eight verses, above.
+
 [^77]: lit., “of going in the aspects of path \[and\] the aspects of
-    wisdom (*°bojjhaṅga°*)”  
-[^78]: or predictions: *nimittaŋ*  
-[^79]: *mahantadhammā*  
-[^80]: *bahudhammakāyā*  
-[^81]: *cittissarā*  
-[^82]: *sabbadukkhoghatiṇṇā*  
-[^83]: *udaggacittā*  
-[^84]: *paramatthadassī*  
-[^85]: *sīhopamā*, lit., “with lions as metaphors”  
-[^86]: *khaggavisāṇakappā*  
-[^87]: *santindriyā*  
-[^88]: *santamānā*  
-[^89]: *samādhī*  
-[^90]: *satippacārā*  
-[^91]: lit., “in” “among”  
+    wisdom (*°bojjhaṅga°*)”
+
+[^78]: or predictions: *nimittaŋ*
+
+[^79]: *mahantadhammā*
+
+[^80]: *bahudhammakāyā*
+
+[^81]: *cittissarā*
+
+[^82]: *sabbadukkhoghatiṇṇā*
+
+[^83]: *udaggacittā*
+
+[^84]: *paramatthadassī*
+
+[^85]: *sīhopamā*, lit., “with lions as metaphors”
+
+[^86]: *khaggavisāṇakappā*
+
+[^87]: *santindriyā*
+
+[^88]: *santamānā*
+
+[^89]: *samādhī*
+
+[^90]: *satippacārā*
+
+[^91]: lit., “in” “among”
+
 [^92]: *paccantasattesu satippacārā.* BJTS reads *paccanta
     gambhīra-mata-ppacāra,* “Going About with Deep Thought for
-    Neighboring \[Folks\]” (?)  
-[^93]: *Dīpā*  
+    Neighboring \[Folks\]” (?)
+
+[^93]: *Dīpā*
+
 [^94]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me*
-    (“these...who are constantly friendly”)  
-[^95]: *pahīnasabbāvaraṇā*  
-[^96]: *janindā*  
-[^97]: *lokappadīpā*  
-[^98]: *ghanakañcanābhā*  
-[^99]: *lokasudakkhiṇeyyā*  
+    (“these...who are constantly friendly”)
+
+[^95]: *pahīnasabbāvaraṇā*
+
+[^96]: *janindā*
+
+[^97]: *lokappadīpā*
+
+[^98]: *ghanakañcanābhā*
+
+[^99]: *lokasudakkhiṇeyyā*
+
 [^100]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me*
-    (“these...who are constantly friendly”)  
-[^101]: *subhāsitāni*  
-[^102]: *caranti*  
-[^103]: *subhāsitāni*  
-[^104]: lit., “like”  
+    (“these...who are constantly friendly”)
+
+[^101]: *subhāsitāni*
+
+[^102]: *caranti*
+
+[^103]: *subhāsitāni*
+
+[^104]: lit., “like”
+
 [^105]: BJTS reads *khuddam avassavantaṃ* (“flowing honey”) for PTS
     *khuddam iva ssavantam* (“like \[“as if they were”\] flowing
-    honey”)*, *  
+    honey”)*, *
+
 [^106]: I follow BJTS Sinhala gloss in interpolating “the Four Noble
-    Truths” here, as elsewhere more explicitly throughout *Apadāna.*  
-[^107]: *Śākyasīhena*  
+    Truths” here, as elsewhere more explicitly throughout *Apadāna.*
+
+[^107]: *Śākyasīhena*
+
 [^108]: *vikubbitāni,* lit., “miraculous transformations” (as through
     *iddhi* superpowers); the term seems to agree with *subhāsitāni,*
-    “clever sayings,” in vv. 55-56 = “lofty verses” in v. 57.  
-[^109]: *saŋvegasaṅgāmativaḍḍhanatthaŋ*  
+    “clever sayings,” in vv. 55-56 = “lofty verses” in v. 57.
+
+[^109]: *saŋvegasaṅgāmativaḍḍhanatthaŋ*
+
 [^110]: PTS (only) adds “the second”.

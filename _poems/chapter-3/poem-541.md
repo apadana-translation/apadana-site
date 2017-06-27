@@ -164,55 +164,91 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (33) \[6055\]
 
 Thus indeed Venerable Lakuṇṭakabhaddiya Thera spoke these verses.  
-The legend of Lakuṇṭakabhaddiya Thera is finished.  
+The legend of Lakuṇṭakabhaddiya Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: “Bhaddiya the Dwarf,” a historical monk. “Bhaddiya” means “Lucky
     One,” so the full name could be translated “Lucky, the Dwarf”. See
-    DPPN II: 764-766  
-[^3]: lit., “the Assembly’s hermitage”  
-[^4]: lit., “preached”  
-[^5]: *vināyako*  
-[^6]: *durāsado*  
-[^7]: *duppasaho*  
-[^8]: *sabbalokuttamo*  
-[^9]: *caraṇena sampanno*  
-[^10]: *brahā*  
-[^11]: *ujupatāpavā*  
-[^12]: *hitesi* \[read *hitesī* with BJTS\] *sabbasattānaŋ *  
+    DPPN II: 764-766
+
+[^3]: lit., “the Assembly’s hermitage”
+
+[^4]: lit., “preached”
+
+[^5]: *vināyako*
+
+[^6]: *durāsado*
+
+[^7]: *duppasaho*
+
+[^8]: *sabbalokuttamo*
+
+[^9]: *caraṇena sampanno*
+
+[^10]: *brahā*
+
+[^11]: *ujupatāpavā*
+
+[^12]: *hitesi* \[read *hitesī* with BJTS\] *sabbasattānaŋ *
+
 [^13]: *phussakokilo.* BJTS takes *phussa* (“speckled” “gaily colored”)
     as a proper name, “the cuckoo named Phussa”. While “Phussa” is
     indeed a proper name for the Buddha of the era in question, I follow
     RD in taking it here as a particular type of cuckoo. Be that as it
     may, there is a play on the name of the Buddha in that same age,
-    Phussa  
-[^14]: “Joy”  
+    Phussa
+
+[^14]: “Joy”
+
 [^15]: *gandhakuṭi-samāsanne,* lit., “in the same vicinity as the
-    perfumed hut...”  
-[^16]: *junuttamaŋ*  
-[^17]: *dakkhineyyaŋ*  
+    perfumed hut...”
+
+[^16]: *junuttamaŋ*
+
+[^17]: *dakkhineyyaŋ*
+
 [^18]: reading *upaṭṭhākassa* with BJTS for PTS *uppaṭṭhākassa*
-    (presumably a typographical error)  
-[^19]: lit., “for the Great Sage” (voc)  
-[^20]: *vassanto,* lit., “uttering a bird-cry  
-[^21]: reading *niḷaṃ* with BJTS for PTS *nihhaŋ*  
+    (presumably a typographical error)
+
+[^19]: lit., “for the Great Sage” (voc)
+
+[^20]: *vassanto,* lit., “uttering a bird-cry
+
+[^21]: reading *niḷaṃ* with BJTS for PTS *nihhaŋ*
+
 [^22]: *sakuṇagghi*, a particular kind of hawk (BJTS Sinh. gloss and PSI
     dict. give *ukussā,* Sinh-Eng Dict: kite, hawk, goshawk, harrier.
-    The term lit., means “bird-killer”  
+    The term lit., means “bird-killer”
+
 [^23]: reading *duṭṭhamānaso* with BJTS (and PTS alt.) for PTS
     *duṭṭhamānasā* (instr. would translate the same, “with an evil mind”
-    but would have to function adverbially in the Pāli  
-[^24]: *upagantvā*, lit., “having approached”  
-[^25]: *ºgata°,* lit., “gone”  
-[^26]: *gottena*  
-[^27]: *vadataŋ varo*  
-[^28]: *nibbuto*  
-[^29]: *sasāvako*  
-[^30]: lit., “do *pūjā*”  
-[^31]: *hutvā,* lit., “being”  
-[^32]: i.e., Benares  
-[^33]: lit., “in” “for”  
-[^34]: *naravīrassa*  
-[^35]: lit., “the Well-Gone-One”  
+    but would have to function adverbially in the Pāli
+
+[^24]: *upagantvā*, lit., “having approached”
+
+[^25]: *ºgata°,* lit., “gone”
+
+[^26]: *gottena*
+
+[^27]: *vadataŋ varo*
+
+[^28]: *nibbuto*
+
+[^29]: *sasāvako*
+
+[^30]: lit., “do *pūjā*”
+
+[^31]: *hutvā,* lit., “being”
+
+[^32]: i.e., Benares
+
+[^33]: lit., “in” “for”
+
+[^34]: *naravīrassa*
+
+[^35]: lit., “the Well-Gone-One”
+
 [^36]: lit., “done *pūjā*”

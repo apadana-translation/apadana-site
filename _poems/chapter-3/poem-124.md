@@ -30,12 +30,17 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (6) \[1805\]
 
 Thus indeed Venerable Gandhodakiya Thera spoke these verses.  
-The legend of Gandhodakiya Thera is finished.  
-[^1]: “Perfumed Water-er”  
+The legend of Gandhodakiya Thera is finished.
+
+[^1]: “Perfumed Water-er”
+
 [^2]: *kakudha* (a.k.a. *ajjuṇa,* Sinhala *kumbuk gasa, kubuk,*
     Terminalia arjuna) is an impressively large, shade-giving tree that
-    thrives on the edges of tanks and lakes.  
-[^3]: lit., “went”  
+    thrives on the edges of tanks and lakes.
+
+[^3]: lit., “went”
+
 [^4]: reading *tassa yathā sataraṃsito* with BJTS for PTS *sataraṃsimhi
-    nibbute* (“\[as though” when the sun went out”).  
+    nibbute* (“\[as though” when the sun went out”).
+
 [^5]: “Good Scent”

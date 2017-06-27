@@ -206,10 +206,12 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (42) \[5810\]
 
 Thus indeed Venerable Dabbamallaputta Thera spoke these verses.  
-The legend of Dabbamallaputta Thera is finished.  
+The legend of Dabbamallaputta Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
+    edition dictating the main numbering of this translation.
+
 [^2]: BJTS reads *Dabba*. In the colophon both PTS and BJTS give
     “Dabbamallaputta,” “Dabba the son of the Mallians”. A historical
     monk, famous as the foremost among those who assigned lodgings
@@ -219,93 +221,145 @@ The legend of Dabbamallaputta Thera is finished.
     flames were extinguished, the child was found lying on one of the
     posts of the pyre (*dabbatthambhe*)” I translate this term
     (*dabbapuñjamhi*) more literally as “pile of wood.” The name Dabba
-    means “wood”.  
-[^3]: *ovādako*  
-[^4]: *viññāpako*  
-[^5]: *tārako*  
-[^6]: *desanākusalo*  
-[^7]: *anukampako*  
-[^8]: *kāruṇiko*  
-[^9]: *hitesi*  
-[^10]: *nirākulaŋ*  
+    means “wood”.
+
+[^3]: *ovādako*
+
+[^4]: *viññāpako*
+
+[^5]: *tārako*
+
+[^6]: *desanākusalo*
+
+[^7]: *anukampako*
+
+[^8]: *kāruṇiko*
+
+[^9]: *hitesi*
+
+[^10]: *nirākulaŋ*
+
 [^11]: *suñññataŋ,* or “empty \[of ill-will\],” which is BJTS Sinhala
-    gloss reading; I construe the epithet as *su* + *ñata*  
-[^12]: *vicittaŋ*  
+    gloss reading; I construe the epithet as *su* + *ñata*
+
+[^12]: *vicittaŋ*
+
 [^13]: *ratanāna-aṭṭha-paññāsaŋ uggato.* A *ratana* (Sinh. *riyan*) is
     figured as twelve-fingers (*aṅgula*), according to Sinh-Eng
     Dictionary about eighteen inches. The claim here then is that
-    Padumuttara Buddha was about 1044 inches (or 87 feet) tall.  
+    Padumuttara Buddha was about 1044 inches (or 87 feet) tall.
+
 [^14]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or
-    “like a gold festoon work”  
-[^15]: *lokapajjotaŋ*  
-[^16]: lit., “beds \[and\] chairs” or “beds and food”  
+    “like a gold festoon work”
+
+[^15]: *lokapajjotaŋ*
+
+[^16]: lit., “beds \[and\] chairs” or “beds and food”
+
 [^17]: reading *tadā ‘bhāsi mahāvīro* with BJTS for PTS *tadahaŋ sa
-    mahāvīro*  
-[^18]: *sabbadhammavipassako*  
-[^19]: or “counting sticks:” *salākaŋ*  
-[^20]: *tasseva naravīrassa*  
-[^21]: reading *gottena* with BJTS for PTS *nāmena* (“named” “known as”)  
-[^22]: *vadataŋvaro*  
-[^23]: *nibbuto*  
+    mahāvīro*
+
+[^18]: *sabbadhammavipassako*
+
+[^19]: or “counting sticks:” *salākaŋ*
+
+[^20]: *tasseva naravīrassa*
+
+[^21]: reading *gottena* with BJTS for PTS *nāmena* (“named” “known as”)
+
+[^22]: *vadataŋvaro*
+
+[^23]: *nibbuto*
+
 [^24]: *sasāvako,* or perhaps, taking this as an epithet, “He with
     Followers passed away.” But the following verse reinforces the
     reading that his nirvana was itself a corporate event, occurring
     simultaneously with the nirvana-realizations of his followers
-    (*sāvaka*, “listeners”) or students (*sissa*).  
-[^25]: *entamhi,* fr. *eti*, loc. abs. construction  
+    (*sāvaka*, “listeners”) or students (*sissa*).
+
+[^25]: *entamhi,* fr. *eti*, loc. abs. construction
+
 [^26]: *nibbāyissati dhammakkho* (BJTS reads *ºakho*), lit., “the eye of
-    *Dhamma* will reach nirvana”  
-[^27]: *sāgaro ca sasoko va*  
+    *Dhamma* will reach nirvana”
+
+[^27]: *sāgaro ca sasoko va*
+
 [^28]: reading *phaliṃsu* with BJTS for PTS *patiŋsu*, fell down,
     avoiding the redundancy with the next verse in keeping with the
-    eloquence of this passage.  
-[^29]: lit., “carrying fear to”  
+    eloquence of this passage.
+
+[^29]: lit., “carrying fear to”
+
 [^30]: *ukkā,* “fiery things”. Elsewhere the term more directly refers
     to fire or a firebrand itself, but this meaning of the term is
     appropriate here both because these “fires” fall from the sky and
     because the following miracle, distinguished with an “and” (*ca*),
     specifies fire as such. Cty (p. 506) gives *aggikhandhā*, “great
-    masses of fire”  
-[^31]: *dhūmaketu*, that is, “fire”  
-[^32]: lit., “is”  
-[^33]: *uppāde dāruṇe*  
+    masses of fire”
+
+[^31]: *dhūmaketu*, that is, “fire”
+
+[^32]: lit., “is”
+
+[^33]: *uppāde dāruṇe*
+
 [^34]: *sūvake,* lit., “making manifest” “indicating,” see Buddhadatta
-    *Pāli-Sinhala Akārādiya*, s.v.  
+    *Pāli-Sinhala Akārādiya*, s.v.
+
 [^35]: “setting” as in the setting of the sun, reading
     *sāsanatthagama-suvake* (read *sūvake*) with BJTS for PTS
-    *sāsanatthañ ca sūcakaŋ*  
+    *sāsanatthañ ca sūcakaŋ*
+
 [^36]: reading *sāsanena vināmhākaṃ* with BJTS for PTS *sāsanena vinā
-    sammā*  
-[^37]: reading *nisseṇiyā* with BJTS for PTS *nisseniyā*  
-[^38]: reading *pātayimhase* with BJTS for PTS *pātayiṃhase*  
-[^39]: *thero*  
+    sammā*
+
+[^37]: reading *nisseṇiyā* with BJTS for PTS *nisseniyā*
+
+[^38]: reading *pātayimhase* with BJTS for PTS *pātayiṃhase*
+
+[^39]: *thero*
+
 [^40]: i.e., to nirvana, as opposed (and superior) to heaven or "the
-    gods' world”  
+    gods' world”
+
 [^41]: i.e., the “non-returner” accompanying the arahant (who went
-    nowhere at all, i.e., who had no more rebirth in any abode)  
-[^42]: *nibbuto tiṇṇasaŋsāro*  
+    nowhere at all, i.e., who had no more rebirth in any abode)
+
+[^42]: *nibbuto tiṇṇasaŋsāro*
+
 [^43]: lit., “went up to,” following BJTS Sinh. gloss and reading with
     BJTS *tattha tatthupagā mayaṃ* for PTS *tattha tatth’ upagāmiyaŋ*
-    (“he went up to here and there”)  
+    (“he went up to here and there”)
+
 [^44]: reading *matā mātā* with BJTS (and PTS alt. cited as *mātā
-    mātā?*) for PTS *mātā pitā* (“mother and father”)  
+    mātā?*) for PTS *mātā pitā* (“mother and father”)
+
 [^45]: reading *nippatito* with BJTS (and PTS alt.) for PTS
-    *nibbattito*, “produced” “brought forth”  
-[^46]: lit., “fallen”  
-[^47]: *dabba-puñjamhi*  
-[^48]: “Wood”  
+    *nibbattito*, “produced” “brought forth”
+
+[^46]: lit., “fallen”
+
+[^47]: *dabba-puñjamhi*
+
+[^48]: “Wood”
+
 [^49]: or “of celibacy”, reading *brahmacāribalena* with BJTS (and cf.
     PTS alt. *brahmacara*) for PTS *brahmaceraphalena* (“through the
-    fruit of Brahma-\[\]?”)  
+    fruit of Brahma-\[\]?”)
+
 [^50]: see above, v. 19 \[5797\]; this was a pious act done by the
-    protagonist during the time of Vipassi Buddha  
+    protagonist during the time of Vipassi Buddha
+
 [^51]: *pañcaṅgehi upāgato.* RD, the “five gentlemanly qualities” of a
     king or brahmin are *sujāta* (good birth), *ajjhāyaka* (education,
     learning in the Vedas), *abhirūpa* (handsomeness), *sīlavā* (moral
-    conduct) and *paṇḍita* (wisdom)  
+    conduct) and *paṇḍita* (wisdom)
+
 [^52]: lit., “the one whose defilements are destroyed,” i.e., “the
     arahant”. BJTS reads *khīṇāsavopavādena* for PTS’ misleading
     ungrammatical *khīṇāsavo pavādena* (“because of the arahant
-    reproaching” rather than “because of reproaching the arahant”)  
-[^53]: *pāpehi bahu codito*  
+    reproaching” rather than “because of reproaching the arahant”)
+
+[^53]: *pāpehi bahu codito*
+
 [^54]: lit., “in”

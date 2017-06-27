@@ -197,67 +197,109 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (41) \[4112\]
 
 Thus indeed Venerable Hemaka Thera spoke these verses.  
-The legend of Hemaka Thera is finished.  
+The legend of Hemaka Thera is finished.
+
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the
     BJTS edition, which contains more individual poems than does the PTS
-    edition dictating the main numbering of this translation.  
-[^2]: “Gold-er”  
-[^3]: *tapokammaŋ,* lit., “his ascetic practices”  
-[^4]: *siddhipattto*  
-[^5]: lit., “in”  
+    edition dictating the main numbering of this translation.
+
+[^2]: “Gold-er”
+
+[^3]: *tapokammaŋ,* lit., “his ascetic practices”
+
+[^4]: *siddhipattto*
+
+[^5]: lit., “in”
+
 [^6]: reading *sake bale* with BJTS (and PTS alt.) for PTS *sake phale,*
-    “in his own fruit”  
+    “in his own fruit”
+
 [^7]: *sasamaye,* his own crowd, multitude, assembly; also season,
-    tradition, religion  
-[^8]: *paravāde*  
-[^9]: *paṭṭho*, lit., “established.” BJTS Sinh. gloss here: *prakaṭa*  
-[^10]: *uppādamhi,* BJTS gloss *utpāta śāstrayehi dakṣayeka*  
-[^11]: *alolupo*  
-[^12]: *vītasoko*  
-[^13]: *appāhāro*  
+    tradition, religion
+
+[^8]: *paravāde*
+
+[^9]: *paṭṭho*, lit., “established.” BJTS Sinh. gloss here: *prakaṭa*
+
+[^10]: *uppādamhi,* BJTS gloss *utpāta śāstrayehi dakṣayeka*
+
+[^11]: *alolupo*
+
+[^12]: *vītasoko*
+
+[^13]: *appāhāro*
+
 [^14]: *nirārambho*, lit., “without objects \[of sacrifice\],” one who
-    does not kill animals in sacrifice  
-[^15]: *aggo*  
-[^16]: BJTS gloss: across the ocean of *saṃsāra*  
+    does not kill animals in sacrifice
+
+[^15]: *aggo*
+
+[^16]: BJTS gloss: across the ocean of *saṃsāra*
+
 [^17]: *pharī*, “spread abroad” BJTS Sinh. gloss *pätira vī ya;* the
-    term also means “thrilled \[others\]”  
-[^18]: lit.,”...with compassion at that time”  
+    term also means “thrilled \[others\]”
+
+[^18]: lit.,”...with compassion at that time”
+
 [^19]: or “capable of being enlightened,” *bodhaneyyaŋ pajaŋ,* BJTS
-    reads *bodhaneyyaṃ janaṃ*, “people who could understand”  
+    reads *bodhaneyyaṃ janaṃ*, “people who could understand”
+
 [^20]: *cakkavāḷasahassamhi*, i.e., in a thousand spheres of cosmic
-    mountains that define a world  
-[^21]: lit., “had not formerly seen the Victor”  
-[^22]: *nakkhattapada*, lit., “\[reading\] constellations”  
-[^23]: lit., “I brought pleasure to my heart with regard to that/him”  
+    mountains that define a world
+
+[^21]: lit., “had not formerly seen the Victor”
+
+[^22]: *nakkhattapada*, lit., “\[reading\] constellations”
+
+[^23]: lit., “I brought pleasure to my heart with regard to that/him”
+
 [^24]: reading *sampatte pi* with BJTS (and PTS alt.) for PTS *sampatto
-    pi,* “though I had arrived”  
-[^25]: *sadevake,* lit., “in \[the world together\] with the gods”  
-[^26]: reading *pi* with BJTS (and PTS alt.) for PTS *‘si,* “you are”  
-[^27]: lit., “sit!” (imperative, *nidisa*)  
-[^28]: *ratanāsane*  
-[^29]: this follows the BJTS Sinhala gloss  
-[^30]: *nimminitvāna,* lit., “having created”  
-[^31]: *iddhinimmittaŋ,* lit., “created by *iddhi* powers”  
-[^32]: *jambuphalaŋ*  
+    pi,* “though I had arrived”
+
+[^25]: *sadevake,* lit., “in \[the world together\] with the gods”
+
+[^26]: reading *pi* with BJTS (and PTS alt.) for PTS *‘si,* “you are”
+
+[^27]: lit., “sit!” (imperative, *nidisa*)
+
+[^28]: *ratanāsane*
+
+[^29]: this follows the BJTS Sinhala gloss
+
+[^30]: *nimminitvāna,* lit., “having created”
+
+[^31]: *iddhinimmittaŋ,* lit., “created by *iddhi* powers”
+
+[^32]: *jambuphalaŋ*
+
 [^33]: or “as large as an elephant’s frontal lobe:” *kumbhamattaŋ.*
-    Rose-apple is typically at most only about the size of a golf ball  
-[^34]: or laughter, *hāsaŋ janetvāna*  
-[^35]: *amataŋ*  
+    Rose-apple is typically at most only about the size of a golf ball
+
+[^34]: or laughter, *hāsaŋ janetvāna*
+
+[^35]: *amataŋ*
+
 [^36]: here as elsewhere BJTS corrects PTS *sovaṇṇayaŋ* to
-    *sovaṇṇamayaṃ,* despite breaking meter.  
-[^37]: *rūpimayaŋ = rūpiya-mayaŋ*  
-[^38]: *puñña,* lit., “meritorious”  
-[^39]: *tomaraṅkusapāṇihi*  
+    *sovaṇṇamayaṃ,* despite breaking meter.
+
+[^37]: *rūpimayaŋ = rūpiya-mayaŋ*
+
+[^38]: *puñña,* lit., “meritorious”
+
+[^39]: *tomaraṅkusapāṇihi*
+
 [^40]: *jātiyā, lit.,* “well-born” or simply “excellent,” the term
     connotes lineage, genealogy, caste, breed. Here it seems to
     substitute for “those fast like the wind” (*vātajavā*) in parallel
-    lists (see above, \[1293\], \[2692\], \[3981\])  
+    lists (see above, \[1293\], \[2692\], \[3981\])
+
 [^41]: *gāmaṇīya* usually means elephant-trainers, as in v. 26 \[4097\],
     above, but here the context makes “horse-trainer” a more suitable
     translation, so I have taken the same liberty taken by the poet in
     treating the term that way. PSI indicates that these are trainers of
     “elephants, etc.” (*ätun ādīn puhuṇu karana ācāryyaya*), allowing
-    for the extended meaning in this context.  
+    for the extended meaning in this context.
+
 [^42]: *sannaddhā,* RD: fastened, bound; put on, clothed (with), armed,
     accoutred. The term has a wide enough range to leave open the
     possibility that rather than covered in the hides of these big cats,
@@ -265,14 +307,16 @@ The legend of Hemaka Thera is finished.
     would make sense of the specification below that they are also
     mounted by animal-trainers, in this case perhaps leopard- and
     tiger-trainers, paralleling the elephant-trainers who mount the
-    elephants and the horse-trainers who mount the horses.  
+    elephants and the horse-trainers who mount the horses.
+
 [^43]: *dīpā*, fr. *dīpī*, leopard. Both RD and PSI give cart covered
     with a tiger skin as one of the meanings of *dīpā*, and the same
     (i.e., covered with a tiger skin) for *veyyagghā*, but here the “and
     also too” (*atho pi*) connecting the two terms clearly indicates
     that they are not simple synonyms, but rather two types of decorated
     or armored carts: those covered with leopard skins (*dīpā*) and
-    those covered with tiger skins (*veyyagghā*).  
+    those covered with tiger skins (*veyyagghā*).
+
 [^44]: *gāmaṇīya* usually means elephant-trainers, as in v. 26 \[4097\],
     above, but as noted in the note on v. \[4099\], above, the meaning
     is more elastic to include other animals too. Here I opt for the
@@ -281,18 +325,24 @@ The legend of Hemaka Thera is finished.
     chariots. It is even possible that the poet imagines the chariots as
     pulled by leopards and tigers, rather than merely covered in their
     hides, in which case “big-cat-trainers” would be the best
-    translation here.  
+    translation here.
+
 [^45]: *rohaññā*, a common epithet of cows. BJTS however reads
-    *dohaññā*, apparently fr. *doha,* milking.  
+    *dohaññā*, apparently fr. *doha,* milking.
+
 [^46]: the text reads *puṅgavusabhā,* “bulls among bulls,” which would
     seem odd as an epithet of cows except that both terms are used
     regularly in the sense of “best”. I follow BJTS (*atiśreṣṭha*) in
     this reading, though one is tempted to take the second foot as
     implying that there were (actually male) “bulls” together with the
-    cows.  
-[^47]: hasulā = ?  
+    cows.
+
+[^47]: hasulā = ?
+
 [^48]: RD gives “good hips,” referring to this text. I don’t see the
     warrant, and take the term *susaññā* from *saññā*, sense,
-    perception, as does BJTS  
-[^49]: *viriyam me dhurodhayhaŋ yogakkhemādhivāhanaŋ,* cf. SN 79  
+    perception, as does BJTS
+
+[^49]: *viriyam me dhurodhayhaŋ yogakkhemādhivāhanaŋ,* cf. SN 79
+
 [^50]: *carimo vattate bhavo*

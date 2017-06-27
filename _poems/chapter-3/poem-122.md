@@ -77,26 +77,38 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (15) \[1790\]
 
 Thus indeed Venerable Pupphathūpiya Thera spoke these verses.  
-The legend of Pupphathūpiya Thera is finished.  
-[^1]: “Flower-Stupa-er”  
-[^2]: or “Close to the Himalayan range”  
+The legend of Pupphathūpiya Thera is finished.
+
+[^1]: “Flower-Stupa-er”
+
+[^2]: or “Close to the Himalayan range”
+
 [^3]: perhaps fr. *lambati,* to hand down, “Pendulous”. \#1, \#345{348}
-    also take place on this mountain.  
+    also take place on this mountain.
+
 [^4]: lit., “you \[plural\] should know the fact through us that”. I
     follow the BJTS Sinhala gloss in taking this as a statement made by
     the students to the teacher (i.e., the rebirth precursor of the
     arahant). The second person plural imperative is used as a form of
     respectful address, so the sense is less direct than the command
     appears in English. The Sinhala gloss reads, “it would be good if
-    you were to gain understanding from our words that...”  
-[^5]: PTS and BJTS agree in presenting this as a six-footed verse  
-[^6]: PTS and BJTS agree in presenting this as a six-footed verse  
+    you were to gain understanding from our words that...”
+
+[^5]: PTS and BJTS agree in presenting this as a six-footed verse
+
+[^6]: PTS and BJTS agree in presenting this as a six-footed verse
+
 [^7]: reading *tāhaṃ disaṃ namassissaṃ* (BJTS) for *na hi disvāna
-    passissaŋ* (“not seeing I will look,” PTS).  
+    passissaŋ* (“not seeing I will look,” PTS).
+
 [^8]: BJTS reads this verb as *pūjesiṃ,* past tense “I did *pūjā,”* but
     here, given the context, I prefer the PTS reading *pūjessaŋ,* the
-    future tense (sort of).  
-[^9]: lit., “the Victor’s dispensation”  
-[^10]: reading *sakaccaṃ* (BJTS) for *kukkuṭṭhaŋ* (PTS)  
-[^11]: “Same as Fire”  
+    future tense (sort of).
+
+[^9]: lit., “the Victor’s dispensation”
+
+[^10]: reading *sakaccaṃ* (BJTS) for *kukkuṭṭhaŋ* (PTS)
+
+[^11]: “Same as Fire”
+
 [^12]: “Seated in Ghee” “Ghee-Throned”

@@ -40,5 +40,6 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (8) \[158\]
 
 Thus indeed Bhikkhunī Salalapupphikā spoke these verses.  
-The legend of Salalapupphikā Therī is finished.  
+The legend of Salalapupphikā Therī is finished.
+
 [^1]: “Salala-Flower-er”. PTS reads *saḷala. *
