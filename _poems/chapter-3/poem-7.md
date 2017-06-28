@@ -1,4 +1,12 @@
-*\[7. Aññākoṇḍañña\]*  
+---
+title: Aññākoṇḍañña
+order: 7
+layout: poem
+category: chapter-3
+---
+
+### \[7. Aññākoṇḍañña\]
+
 Sambuddha Padumuttara  
 was the Best in the World, the Guide.[^1]  
 I saw him first, when he had \[just\]  
@@ -77,8 +85,7 @@ in the deer-forest named “Isi”.[^7] (15) \[615\]
 He has now achieved deathlessness,  
 the unsurpassed and peaceful state.  
 Knowing well all the defilements,  
-without defilements I \[now\] live.[]{#BookmarkCopy1 .anchor} (16)
-\[616\]
+without defilements I \[now\] live. (16) \[616\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -95,7 +102,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (17) \[619\]
 
-Thus indeed Venerable Aññākoṇḍañña Thera spoke these verses.  
+Thus indeed Venerable Aññākoṇḍañña Thera spoke these verses.
+
 The legend of Aññākoṇḍañña Thera is finished.
 
 [^1]: *vināyakaŋ*

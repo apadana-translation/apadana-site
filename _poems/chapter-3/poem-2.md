@@ -1,4 +1,12 @@
-\[2. Mahā-Moggallāna\]  
+---
+title: Mahā-Moggallāna
+order: 2
+layout: poem
+category: chapter-3
+---
+
+### \[2. Mahā-Moggallāna\]
+
 Anomadassi, Blessed One,  
 the World’s Best One, the Bull of Men,  
 was living in the Himalayas,  
@@ -92,7 +100,7 @@ a time for getting killed will be. (18) \[391\]
 Binding \[myself\] to solitude,  
 fond of *samādhi*-meditation,  
 knowing well all the defilements,  
-I am \[now\] living, undefiled[]{#BookmarkCopy1 .anchor}. (19) \[392\]
+I am \[now\] living, undefiled. (19) \[392\]
 
 Excelling in superpowers  
 I shake with only my left thumb  
@@ -124,7 +132,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (23) \[398\]
 
-Thus indeed Venerable Mahāmoggallāna Thera spoke these verses.  
+Thus indeed Venerable Mahāmoggallāna Thera spoke these verses.
+
 The legend of Mahāmoggallāna Thera is finished.
 
 [^1]: *nāgarājā*

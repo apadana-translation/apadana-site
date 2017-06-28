@@ -1,16 +1,26 @@
-\[3. Mahākassapa\]  
+---
+title: Mahākassapa
+order: 3
+layout: poem
+category: chapter-3
+---
+
+### \[3. Mahākassapa\]
+
 When the World-Chief had passed away[^1]  
 the people, with exalted minds,  
 intoxicated with delight  
 did *pūjā* for the Neutral One,  
 the Teacher, who was the World’s Best,  
-Blessed One, Padumuttara. (1) \[399, 400a-b\]  
+Blessed One, Padumuttara. (1) \[399, 400a-b\]
+
 When their religious emotion[^2]  
 was born, great joy[^3] arose in me.  
 Gathering my family and friends  
 I spoke these words \[to all of them\]:  
 “the Great Hero has passed away;[^4]  
-surely we should do a *pūjā*!” (2) \[400c-d, 401\]  
+surely we should do a *pūjā*!” (2) \[400c-d, 401\]
+
 They agreed saying, “Excellent!”  
 which made me smile even more.  
 “We’ll make a meritorious pyre  
@@ -74,11 +84,13 @@ deriving from my own karma. (14) \[413\]
 Possessor of the seven jewels  
 I‘m lord of the four continents.  
 And in that place my residence  
-was as tall as the tree of Indra.[^11] (15) \[413-414\]  
+was as tall as the tree of Indra.[^11] (15) \[413-414\]
+
 It was twenty-four \[leagues\][^12] in length,  
 \[and\] in width \[it measured\] twelve \[leagues\].  
 \[My\] city was named Rammaka;  
-it had strong ramparts and gateways. (16) \[414-415\]  
+it had strong ramparts and gateways. (16) \[414-415\]
+
 It was five hundred \[leagues\] in length,  
 in width two hundred fifty \[leagues\].[^13]  
 It was crowded with groups of men  
@@ -119,14 +131,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (22) \[422\]
 
-Thus indeed Venerable Mahākassapa Thera spoke these verses.  
+Thus indeed Venerable Mahākassapa Thera spoke these verses.
+
 The legend of Mahākassapa Thera is finished.
 
 [^1]: *parinibbute*, lit., “when he had fully gone out” “when he reached nirvana”.
 
-[^2]: *saṃvega.*
+[^2]: *saṃvega*.
 
-[^3]: *pīti.*
+[^3]: *pīti*.
 
 [^4]: lit., “reached nirvana”
 
@@ -136,9 +149,9 @@ The legend of Mahākassapa Thera is finished.
 
 [^7]: taking the PTS alternate reading *tattha* for *tesu*, which also follows BJTS
 
-[^8]: *tidasaŋ,* i.e., the thirty-three gods, in Tāvatiṃsa heaven
+[^8]: *tidasaŋ*, i.e., the thirty-three gods, in Tāvatiṃsa heaven
 
-[^9]: *puññakammābhinibbattā,* lit., “produced by meritorious karma”
+[^9]: *puññakammābhinibbattā*, lit., “produced by meritorious karma”
 
 [^10]: lit., “kṣatriya”
 
@@ -150,10 +163,10 @@ The legend of Mahākassapa Thera is finished.
 
 [^14]: following BJTS in reading *sūcighare* and *sūci* for *sucighare* and *suci* (PTS).
 
-[^15]: following the cty in reading *āpaṇa* for *paṇṇu.*
+[^15]: following the cty in reading *āpaṇa* for *paṇṇu*.
 
 [^16]: lit., “there was an accomplished clan for me”.
 
 [^17]: lit., “eighty *koṭis*”
 
-[^18]: following BJTS Sinhala gloss, which takes *’bhiraññassa* as *ran.*
+[^18]: following BJTS Sinhala gloss, which takes *’bhiraññassa* as *ran*.

@@ -1,4 +1,12 @@
-*\[5. Puṇṇa-Mantāniputta\]*  
+---
+title: Puṇṇa-Mantāniputta
+order: 5
+layout: poem
+category: chapter-3
+---
+
+### \[5. Puṇṇa-Mantāniputta\]
+
 I was a learned mantra-knower  
 who had mastered the three Vedas.  
 Heading up \[my group of\] students  
@@ -39,7 +47,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[445\]
 
-Thus indeed Venerable Puṇṇa Mantāṇiputta Thera spoke these verses.  
+Thus indeed Venerable Puṇṇa Mantāṇiputta Thera spoke these verses.
+
 The legend of Puṇṇa Mantāṇiputta Thera is finished.
 
 [^1]: BJTS Sinhala gloss understands “mama” here as the genitive: *my* (Sinh: *māgē*) karma. I take it instead as a dative, “to me”

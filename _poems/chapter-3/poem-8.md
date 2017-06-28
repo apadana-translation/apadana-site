@@ -1,4 +1,12 @@
-*\[8. Piṇḍola-Bhāradvāja\]*  
+---
+title: Piṇḍola-Bhāradvāja
+order: 8
+layout: poem
+category: chapter-3
+---
+
+### \[8. Piṇḍola-Bhāradvāja\]
+
 The Victor Padumuttara  
 the Self-Become One, Best Person,  
 did dwell in Cittakūṭa[^1] then,  
@@ -72,17 +80,20 @@ he’ll reach nirvana, undefiled.” (14) \[633\]
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
-I am living without constraint. \[634\][^8]  
+I am living without constraint. \[634\][^8]
+
 Being in Best Buddha’s presence  
 was a very good thing for me.  
 The three knowledges are attained;  
-\[I have\] done what the Buddha taught! \[635\][^9]  
+\[I have\] done what the Buddha taught! \[635\][^9]
+
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (15) \[636\]
 
-Thus indeed Venerable Piṇḍola-Bhāradvāja Thera spoke these verses.  
+Thus indeed Venerable Piṇḍola-Bhāradvāja Thera spoke these verses.
+
 The legend of Piṇḍola-Bhāradvāja Thera is finished.
 
 [^1]: a mountain in the Himalayas. DPPN says it is “generally identified with Kāmptanāthgiri in Bundelkhand, an isolated hill on the Paisunī or Mandākinī River.”

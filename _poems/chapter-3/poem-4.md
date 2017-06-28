@@ -1,4 +1,12 @@
-*\[4. Anuruddha\]*  
+---
+title: Anuruddha
+order: 4
+layout: poem
+category: chapter-3
+---
+
+### \[4. Anuruddha\]
+
 I caught a glimpse of the World-Chief,  
 the Blessed One \[named\] Sumedha,  
 the World’s Best One, the Bull of Men,  
@@ -74,7 +82,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (13) \[437\]
 
-Thus indeed Venerable Anuruddha Thera spoke these verses.  
+Thus indeed Venerable Anuruddha Thera spoke these verses.
+
 The legend of Anuruddha Thera is finished.
 
 [^1]: reading *vūpakaṭṭhaṃ* (BJTS, cty) for *vupakaṭṭhaŋ* (PTS)

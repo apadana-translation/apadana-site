@@ -1,4 +1,12 @@
-*\[10. Ānanda\]*  
+---
+title: Ānanda
+order: 10
+layout: poem
+category: chapter-3
+---
+
+### \[10. Ānanda\]
+
 Setting out from the ashram’s door  
 the Great Sage Padumuttara  
 was raining the rain of deathlessness  
@@ -66,13 +74,14 @@ he’ll reach nirvana, undefiled.” (13) \[665\]
 
 There are elephants in the woods,  
 tuskers who are sixty years old,  
-*mātaṅga*s[^5] rutting in three ways,[^6]  
+*mātaṅga*\s[^5] rutting in three ways,[^6]  
 chariot-pole tusks, vehicles for kings.[^7] (14) \[666\]
 
 \[Like them\] there are numerous lakhs  
 of wise men with vast superpowers  
 all of whom are not astonished  
-at the Buddha-elephant’s \[might\]. (15) \[667\][^8]  
+at the Buddha-elephant’s \[might\]. (15) \[667\][^8]
+
 I worship in the beginning,  
 in the middle and at the end.  
 With a pleased heart \[and\] happy mind  
@@ -102,9 +111,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (20) \[673\]
 
-Thus indeed Venerable Ānanda Thera spoke these verses.  
-The legend of Ānanda Thera is finished.  
-The Summary:  
+Thus indeed Venerable Ānanda Thera spoke these verses.
+
+The legend of Ānanda Thera is finished.
+
+The Summary:
+
 The Buddha and the Lonely Buddha  
 Sāriputta and Kolita  
 Kassapa and Anuruddha  
@@ -112,7 +124,8 @@ Puṇṇa Thera and Upāli.
 Koṇḍañña and Piṇḍola  
 and Revata, Ānanda the Wise  
 Six hundred and fifty verses[^11]  
-adding them all together.  
+adding them all together.
+
 The Buddha Chapter of the *Apadāna*, the First.
 
 [^1]: lit., “with the six special knowledges”.
@@ -129,7 +142,7 @@ The Buddha Chapter of the *Apadāna*, the First.
 
 [^7]: following cty and BJTS in taking *urūLhavā* as *rājavāhanā*. Check RD. Cf below v \[769\]
 
-[^8]: the analogy seems clear enough, but the final adjective varies from text to text, something is lost here. PTS reads na honti parivimhitā, BJTS and cty read na hontu paNidimhi te. Work on this one.
+[^8]: the analogy seems clear enough, but the final adjective varies from text to text, something is lost here. PTS reads *na honti parivimhitā*, BJTS and cty read *na hontu paNidimhi te*. Work on this one.
 
 [^9]: reading *saddhammam-acalo* (BJTS) for *sangaman-acalo* (PTS).
 

@@ -1,4 +1,12 @@
-*\[9. Khadiravaniya Revata\]*  
+---
+title: Khadiravaniya Revata
+order: 9
+layout: poem
+category: chapter-3
+---
+
+### \[9. Khadiravaniya Revata\]
+
 The River named Bhāgīrathī[^1]  
 is fed by the Himalayas.  
 I, a Boatman on the near bank,  
@@ -79,7 +87,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (14) \[652\]
 
-Thus indeed Venerable Khadiravaniya Revata Thera spoke these verses.  
+Thus indeed Venerable Khadiravaniya Revata Thera spoke these verses.
+
 The legend of Khadiravaniya Revata Thera is finished.
 
 [^1]: this is the BJTS spelling; PTS gives *Bhāgīrasī*
@@ -90,7 +99,7 @@ The legend of Khadiravaniya Revata Thera is finished.
 
 [^4]: lit., “kṣatriyan”.
 
-[^5]: the name of a tree. The *campaka* (Sinh. *sapu*) tree is *Magnolia champaca,* formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
+[^5]: the name of a tree. The *campaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
 [^6]: lit, “from the Thirty \[three gods\]”.
 

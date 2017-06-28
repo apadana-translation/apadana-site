@@ -1,4 +1,12 @@
-*\[6.Upāli\]*  
+---
+title: Upāli
+order: 6
+layout: poem
+category: chapter-3
+---
+
+### \[6.Upāli\]
+
 In the city, Haṃsavatī  
 the brahmin known as Sujāta  
 was very rich, with great vast wealth,  
@@ -393,7 +401,7 @@ I further your dispensation. (78) \[523\]
 I’m without any doubts about  
 the letter as well as the spirit  
 of both *Vibhangas*,[^28] *Khandakas*,[^29]  
-and the *\[Parivāra\]*, the fifth.[^30] (79) \[524\]
+and the \[*Parivāra*\], the fifth.[^30] (79) \[524\]
 
 Skilled in rebuking,[^31] redressing,[^32]  
 in correct and flawed conclusions,  
@@ -528,8 +536,7 @@ where would someone better come from? (105) \[550\]
 Seated in the monks’ Assembly  
 Gotama thus thundered forth \[then\]:  
 “There’s no rival for Upāli  
-in *Vibhangas*[^47][]{#Bookmark .anchor} and *Khandhakas*.” (106)
-\[551\]
+in *Vibhangas*[^47] and *Khandhakas*.” (106) \[551\]
 
 Teacher’s nine-fold dispensation  
 as far as the Buddha’s preached it  
@@ -563,7 +570,7 @@ and pride about my fame and wealth. (112) \[557\]
 
 One hundred thousand elephants  
 decked out in all the ornaments,  
-in rut in three ways,[^50] *mātaṅgas,*[^51]  
+in rut in three ways,[^50] *mātaṅgas*,[^51]  
 waited on me all of the time. (113) \[558\]
 
 Wishing to go to the garden  
@@ -702,7 +709,7 @@ for those after path-fruits it’s a purge;[^62]
 for the fruit-attainers, medicinal herbs.[^63] (140) \[585\]
 
 Those who would oppose the teaching  
-are poisoned as with *haḷāhaḷa:*[^64]  
+are poisoned as with *haḷāhaḷa*:[^64]  
 a snake’s venom, poison eaten,  
 surely is going to harm[^65] that man. (141) \[586\]
 
@@ -741,7 +748,7 @@ and the present and future \[too,\]
 purify themselves with that flag;  
 therefore they ought to be worshipped. (148) \[593\]
 
-With my heart I bear *Vinaya,*  
+With my heart I bear *Vinaya*,  
 almost the same as[^71] the Teacher.  
 I will always live my life \[by\]  
 paying homage to *Vinaya*. (149) \[594\]
@@ -789,15 +796,15 @@ The legend of Upāli Thera is finished.
 
 [^5]: reading *bhavesu samsarissati* (BJTS) for *bhaveussaŋsarissati* (PTS, sic).
 
-[^6]: \#5 of *Therāpadāna,* above
+[^6]: \#5 of *Therāpadāna*, above
 
-[^7]: I follow BJTS and cty in taking this a personal name, which makes especial sense given the further reference to him in v. (78) \[523\] below. But it could also mean “a person on the road,” taking it as der. from *patha,* road.
+[^7]: I follow BJTS and cty in taking this a personal name, which makes especial sense given the further reference to him in v. (78) \[523\] below. But it could also mean “a person on the road,” taking it as der. from *patha*, road.
 
 [^8]: lit., “analogous to the unperturbable ocean”.
 
 [^9]: “beautiful”
 
-[^10]: *sanghārāma*, a Buddhist monastic residence, lit., “grove of/for the Assembly.” The wider connotation of *ārāma* is “garden” or “park,’ not precisely the same as ashram (Pāli *assama*) but closer than any alternative that occurs to me, so I adopt the Anglicized “ashram” to translate both *ārāma* and *assama.* I also sometimes translate these terms “hermitage,” as meter demands. I have tried to reserve the more technical “monastery” for *vihāra.*
+[^10]: *sanghārāma*, a Buddhist monastic residence, lit., “grove of/for the Assembly.” The wider connotation of *ārāma* is “garden” or “park,’ not precisely the same as ashram (Pāli *assama*) but closer than any alternative that occurs to me, so I adopt the Anglicized “ashram” to translate both *ārāma* and *assama*. I also sometimes translate these terms “hermitage,” as meter demands. I have tried to reserve the more technical “monastery” for *vihāra*.
 
 [^11]: lit., “to the monks’ Assembly”.
 
@@ -829,19 +836,19 @@ The legend of Upāli Thera is finished.
 
 [^25]: *paṭisandhi* = conception, reunion, following cty in connecting this with future existence
 
-[^26]: *balāka*, a kind of small crane or *kōkā*. lit., “just as the males are not always found in the vaginas of female *balākas*...”
+[^26]: *balāka*, a kind of small crane or *kōkā*. lit., “just as the males are not always found in the vaginas of female *balākas*…”
 
 [^27]: lit., “for a long time they carry the fetus”
 
-[^28]: lit “of the *Vinaya*;” BJTS and cty understand this to mean the two *Vibhanga*s of the *Vinayapiṭaka*: *Bhikkhu-vibhanga* and *Bhikkhunī-vibhanga.*
+[^28]: lit “of the *Vinaya*;” BJTS and cty understand this to mean the two *Vibhanga*\s of the *Vinayapiṭaka*: *Bhikkhu-vibhanga* and *Bhikkhunī-vibhanga*.
 
-[^29]: that is, the *Mahāvagga* and the *Cūlavagga* of the *Vinayapiṭaka.*
+[^29]: that is, the *Mahāvagga* and the *Cūlavagga* of the *Vinayapiṭaka*.
 
-[^30]: *tikacchede ‘va pañcake*; BJTS: *sanghādisesa tika pācittiyādiyehi da, pasvaeni vu parivarayehi da *
+[^30]: *tikacchede ‘va pañcake*; BJTS: *sanghādisesa tika pācittiyādiyehi da, pasvaeni vu parivarayehi da*
 
 [^31]: *niggahe*: rebuking evil monks
 
-[^32]: *paṭikamma*: cty: of monks who are unattained; a formal act of the *Saṅgha* against guilty *bhikkhus.*
+[^32]: *paṭikamma*: cty: of monks who are unattained; a formal act of the *Saṅgha* against guilty *bhikkhus*.
 
 [^33]: *osāraṇe*
 
@@ -849,7 +856,7 @@ The legend of Upāli Thera is finished.
 
 [^35]: lit everywhere, *sabbaṭṭha*
 
-[^36]: *rasato osāreyy’aham*. *Rasa = kritya*, function, what should be done -- in the abl? \[This section contains a lot of technical material that needs checking in the *Vinaya* texts)
+[^36]: *rasato osāreyy’aham*. *Rasa* = *kritya*, function, what should be done -- in the abl? \[This section contains a lot of technical material that needs checking in the *Vinaya* texts)
 
 [^37]: *niruttiyā*, in knowledge of the original dialect of the holy scriptures, which the BJTS Sinhala gloss explains as knowing the original meaning of words and understanding grammar.
 
@@ -911,14 +918,14 @@ The legend of Upāli Thera is finished.
 
 [^66]: reading *tāreti* (BJTS, cty) for *tarati* (PTS).
 
-[^67]: the term *avirodhiyā* (alt *avirādhiyā*) here and in the next verse is problematic -- to be taken as the optative of *virujjhati&gt;virodhati*?
+[^67]: the term *avirodhiyā* (alt *avirādhiyā*) here and in the next verse is problematic -- to be taken as the optative of *virujjhati*&gt;*virodhati*?
 
 [^68]: reading *na virādhiyā* (cty) or *na virodhiya* (BJTS) for *n’ avirodhiyā* (PTS).
 
 [^69]: the Buddha’s son, *Therāpadāna* \#16, below.
 
-[^70]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as *duma + agge*. It would also be possible to take it as *du+ magge*, “on a bad road”. Here the former reading makes sense of the allusion to “flag” in the fourth foot.
+[^70]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as *duma* + *agge*. It would also be possible to take it as *du* + *magge*, “on a bad road”. Here the former reading makes sense of the allusion to “flag” in the fourth foot.
 
 [^71]: *kappa*, could also translate: “which is the practice of”
 
-[^72]: lit., “the *Vinaya* is*”.*
+[^72]: lit., “the *Vinaya* is”.
