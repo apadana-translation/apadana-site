@@ -9,6 +9,6 @@
 //= require navigation
 //= require progress-bar
 //= require sidenote
-//= require toolbox
+//= require toggle
 //= require share
 //= require timeline
