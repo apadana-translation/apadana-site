@@ -1,4 +1,12 @@
-*\[43. Bhaddiya-Kaḷigodhāya-Putta\]*  
+---
+title: Bhaddiya-Kaḷigodhāya-Putta
+order: 43
+layout: poem
+category: chapter-3
+---
+
+### \[43. Bhaddiya-Kaḷigodhāya-Putta\]
+
 Sambuddha Padumuttara  
 the Loving-Hearted One, Great Sage,  
 the Chief Leader of Every World,[^1]  
@@ -84,7 +92,8 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (16) \[1183\]
 
 Thus indeed Venerable Bhaddiya Kaḷigodhāyaputta Thera spoke these
-verses.  
+verses.
+
 The Legend of Bhaddiya Kaḷigodhāyaputta Thera is finished.
 
 [^1]: *sabbalokagganāyakaŋ*

@@ -1,4 +1,12 @@
-*\[57. Pañcadīpika*[^1]*\]*  
+---
+title: Pañcadīpika
+order: 57
+layout: poem
+category: chapter-3
+---
+
+### \[57. Pañcadīpika[^1]\]
+
 After praising the true Teaching  
 of Buddha Padumuttara  
 who took pity on all creatures,  
@@ -22,7 +30,8 @@ I can see[^5] in all directions
 Through the rest of that \[good\] karma  
 I have attained arahantship.[^6]  
 I’m bearing my last body in  
-the Biped-Lord’s dispensation. (5) \[1312[^7]\]  
+the Biped-Lord’s dispensation. (5) \[1312[^7]\]
+
 Thirty-four hundred aeons \[thence\]  
 I was known as Satacakkhu;[^8]  
 I was a king with great power,  
@@ -33,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[1313\]
 
-Thus indeed Venerable Pañcadīpika Thera spoke these verses.  
+Thus indeed Venerable Pañcadīpika Thera spoke these verses.
+
 The legend of Pañcadīpika Thera is finished.
 
 [^1]: “Five-Lamps”

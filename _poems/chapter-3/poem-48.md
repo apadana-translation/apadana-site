@@ -1,4 +1,12 @@
-*\[48. Cankamadāyaka*[^1]*\]*  
+---
+title: Cankamadāyaka
+order: 48
+layout: poem
+category: chapter-3
+---
+
+### \[48. Cankamadāyaka[^1]\]
+
 Having heaped up \[the ground\] with bricks,  
 I had a walkway constructed  
 for Atthadassi, the \[Great\] Sage,  
@@ -39,7 +47,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[1214\]
 
-Thus indeed Venerable Cankamadāyaka Thera spoke these verses.  
+Thus indeed Venerable Cankamadāyaka Thera spoke these verses.
+
 The legend of Cankamadāyaka Thera is finished.
 
 [^1]: “Walkway-Giver”

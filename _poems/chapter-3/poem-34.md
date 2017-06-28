@@ -1,4 +1,12 @@
-*\[34. Kāḷudāyi*[^1]*\]*  
+---
+title: Kāḷudāyi
+order: 34
+layout: poem
+category: chapter-3
+---
+
+### \[34. Kāḷudāyi[^1]\]
+
 Picking a flowering lotus,  
 and water lily and jasmine,  
 and taking some rice cooked in milk,  
@@ -6,7 +14,8 @@ I gave it to the Teacher \[then\],
 to Buddha Padumuttara  
 the World’s Best One, the Neutral One,  
 who had gone out upon the road,  
-wandering on journeys back then. (1-2) \[1050-1051\]  
+wandering on journeys back then. (1-2) \[1050-1051\]
+
 \[At that time\] the Great Hero ate  
 that milk-rice \[that’s so\] good to eat,  
 and taking up that \[lotus\] flower  
@@ -29,7 +38,8 @@ As the result of his karma,[^3]
 a canopy built in the sky  
 of lily and of lotuses,  
 which in addition will contain  
-\[the white flowers known as\] jasmine. (6-7) \[1055-1056\]  
+\[the white flowers known as\] jasmine. (6-7) \[1055-1056\]
+
 Five and twenty times he will be  
 a king who turns the wheel \[of law\].  
 He will reside upon the earth  
@@ -63,8 +73,7 @@ his name \[will be\] Udāyi \[then\].” (13) \[1062\]
 \[Now\] my heart is liberated;  
 ill-will has fallen from the mind.[^6]  
 Knowing well all the defilements,  
-without defilements I \[now\] live.[]{#BookmarkCopy1 .anchor} (14)
-\[1063\]
+without defilements I \[now\] live. (14) \[1063\]
 
 An ardent striver, intelligent,  
 I satisfied the Sambuddha.  
@@ -76,7 +85,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (16) \[1065\]
 
-Thus indeed Venerable Kāḷudāyi Thera spoke these verses.  
+Thus indeed Venerable Kāḷudāyi Thera spoke these verses.
+
 The legend of Kāḷudāyi Thera is finished.
 
 [^1]: PTS reads Kāludāyi. See \#543 {546}, below, for a second *apadāna* ascribed to this \[same?\] monk.

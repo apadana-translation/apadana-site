@@ -1,4 +1,12 @@
-*\[63. Paccāgamanīya*[^1]*\]*  
+---
+title: Paccāgamanīya
+order: 63
+layout: poem
+category: chapter-3
+---
+
+### \[63. Paccāgamanīya[^1]\]
+
 I was a ruddy goose back then  
 along the Indus River’s bank,  
 subsisting \[only\] on white moss,  
@@ -22,7 +30,7 @@ when I was a bird \[way back then\]. (4) \[1364\]
 In the ninety-one aeons since  
 I presented \[him\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (5) \[1365\]
+that’s the fruit of Buddha-*pūjā*. (5) \[1365\]
 
 There were eight men who had one name  
 which was Sucarudassana.[^3]  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[1367\]
 
-Thus indeed Venerable Paccāgamanīya Thera spoke these verses.  
+Thus indeed Venerable Paccāgamanīya Thera spoke these verses.
+
 The legend of Paccāgamanīya Thera is finished.
 
 [^1]: “Returner”

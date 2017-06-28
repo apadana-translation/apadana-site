@@ -1,4 +1,12 @@
-*\[88. Saddasaññaka*[^1]*\]*  
+---
+title: Saddasaññaka
+order: 88
+layout: poem
+category: chapter-3
+---
+
+### \[88. Saddasaññaka[^1]\]
+
 On a Himalayan mountain,  
 \[while\] dwelling on a mat of leaves,  
 I pleased \[my\] heart over the sound  
@@ -14,7 +22,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (3) \[1541\]
 
-Thus indeed Venerable Saddasaññaka Thera spoke these verses.  
+Thus indeed Venerable Saddasaññaka Thera spoke these verses.
+
 The legend of Saddasaññaka Thera is finished.
 
 [^1]: “Sound-Perceiver.” Cf. \#294, \#317, \#348{351}

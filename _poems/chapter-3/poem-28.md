@@ -1,4 +1,12 @@
-*\[28. Uttiya\]*  
+---
+title: Uttiya
+order: 28
+layout: poem
+category: chapter-3
+---
+
+### \[28. Uttiya\]
+
 On Candabhāgā River’s bank  
 I was a crocodile back then.  
 Being engaged in getting food  
@@ -54,5 +62,6 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[993\]
 
-Thus indeed Venerable Uttiya Thera spoke these verses.  
+Thus indeed Venerable Uttiya Thera spoke these verses.
+
 The legend of Uttiya Thera is finished.

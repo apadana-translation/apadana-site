@@ -1,4 +1,12 @@
-*\[38. Āyāgadāyaka*[^1]*\]*  
+---
+title: Āyāgadāyaka
+order: 38
+layout: poem
+category: chapter-3
+---
+
+### \[38. Āyāgadāyaka[^1]\]
+
 When the World’s Protector had died,  
 Sikhi \[Buddha\], Best Debater,  
 I worshipped his superb stupa,  
@@ -39,12 +47,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[1103\]
 
-Thus indeed Venerable Āyāgadāyaka Thera spoke these verses.  
+Thus indeed Venerable Āyāgadāyaka Thera spoke these verses.
+
 The legend of Āyāgadāyaka Thera is finished.
 
 [^1]: cty defines *āyāga* as a *dighaṃ bhojanasālaṃ* or “long eating-hall,” thus the name would mean “Eating-Hall-Giver”.
 
-[^2]: lit., “root,” *mūla.*
+[^2]: lit., “root,” *mūla*.
 
 [^3]: i.e., in a mixture of human and divine worlds.
 

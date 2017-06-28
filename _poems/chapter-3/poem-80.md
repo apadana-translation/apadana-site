@@ -1,4 +1,12 @@
-*\[80. Tīṇipadumiya*[^1]*\]*  
+---
+title: Tīṇipadumiya
+order: 80
+layout: poem
+category: chapter-3
+---
+
+### \[80. Tīṇipadumiya[^1]\]
+
 The Victor Padumuttara,  
 the One Who Surpassed Everything,  
 the Tame One, with Tamed Retinue,  
@@ -134,15 +142,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (27) \[1496\]
 
-Thus indeed Venerable Tīṇipadumiya Thera spoke these verses.  
-The legend of Tīṇipadumiya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Tīṇipadumiya Thera spoke these verses.
+
+The legend of Tīṇipadumiya Thera is finished.
+
+The Summary:
+
 Samāla and Padasaññī  
 Susañña, Āluvadāyaka,  
 Ekasaññī, Tiṇidada,  
 Sūcī, Pāṭalipupphiya,  
 Ṭhitañjalī, Tipadumī:  
-five and seventy verses.  
+five and seventy verses.
+
 The Nāgasamāla Chapter, the Eighth.
 
 [^1]: “Three-Lotus-er.” BJTS reads Tipadumiya, which has the same meaning.
@@ -161,7 +173,7 @@ The Nāgasamāla Chapter, the Eighth.
 
 [^8]: this follows the BJTS SInhala gloss reading of this odd usage of *patta* (“bowl” or “leaf”)
 
-[^9]: *tuvaṭṭhissanti*, “they will lie together,” Sinhala *turul vey*i.
+[^9]: *tuvaṭṭhissanti*, “they will lie together,” Sinhala *turul veyi*.
 
 [^10]: reading *idha* (“here,” BJTS) for *imaŋ* (“this,” accusative singular, PTS).
 

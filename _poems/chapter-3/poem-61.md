@@ -1,5 +1,14 @@
-*Sakacittaniya Chapter, the Seventh*  
-*\[61. Sakacittaniya*[^1]*\]*  
+---
+title: Sakacittaniya
+order: 61
+layout: poem
+category: chapter-3
+---
+
+## Sakacittaniya Chapter, the Seventh
+
+### \[61. Sakacittaniya[^1]\]
+
 Seeing a grove in the forest,  
 very quiet \[and\] undisturbed,  
 \[a place for\] sages’ practices  
@@ -13,7 +22,7 @@ as though facing the Sambuddha. (2) \[1350\]
 I was king, lord of a country,  
 possessor of the seven gems.  
 I delighted in my karma:  
-that’s the fruit of stupa-*pūjā.* (3) \[1351\]
+that’s the fruit of stupa-*pūjā*. (3) \[1351\]
 
 In the ninety-one aeons since  
 I honored \[him with\] flowers \[then\],  
@@ -30,7 +39,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1354\]
 
-Thus indeed Venerable Sakacittaniya Thera spoke these verses.  
+Thus indeed Venerable Sakacittaniya Thera spoke these verses.
+
 The legend of Sakacittaniya Thera is finished.
 
 [^1]: “Thinking for Himself”

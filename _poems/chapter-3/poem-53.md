@@ -1,4 +1,12 @@
-*\[53. Sayanadāyaka*[^1]*\]*  
+---
+title: Sayanadāyaka
+order: 53
+layout: poem
+category: chapter-3
+---
+
+### \[53. Sayanadāyaka[^1]\]
+
 Padumuttara the Buddha  
 had pity on the whole world.  
 I donated a bed to him,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1281\]
 
-Thus indeed Venerable Sayanadāyaka Thera spoke these verses.  
+Thus indeed Venerable Sayanadāyaka Thera spoke these verses.
+
 The legend of Sayanadāyaka Thera is finished.
 
 [^1]: “Bed-Donor”

@@ -1,4 +1,12 @@
-*\[77. Sūcidāyaka*[^1]*\]*  
+---
+title: Sūcidāyaka
+order: 77
+layout: poem
+category: chapter-3
+---
+
+### \[77. Sūcidāyaka[^1]\]
+
 Thirty thousand aeons \[ago\]  
 the Sambuddha, the World-Leader,  
 Bearing the Thirty-Two Great Marks,[^2]  
@@ -17,7 +25,8 @@ sharp and quick and comfortable. (3) \[1454\]
 I have burnt up \[my\] defilements;  
 all existence is \[now\] destroyed.  
 I am bearing my last body  
-in the Supreme Buddha’s teaching. (4) \[1456\][^3]  
+in the Supreme Buddha’s teaching. (4) \[1456\][^3]
+
 There were four kings \[all\] with the name  
 Dipadādhipati[^4] \[back then\],  
 wheel-turners who had great power,  
@@ -28,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1457\]
 
-Thus indeed Venerable Sūcidāyaka Thera spoke these verses.  
+Thus indeed Venerable Sūcidāyaka Thera spoke these verses.
+
 The legend of Sūcidāyaka Thera is finished.
 
 [^1]: “Needle-Donor”

@@ -1,4 +1,12 @@
-*\[59. Paduma*[^1]*\]*  
+---
+title: Paduma
+order: 59
+layout: poem
+category: chapter-3
+---
+
+### \[59. Paduma[^1]\]
+
 He was declaring the Four Truths  
 \[while\] turning the best *Dhamma*-wheel,  
 raining the rain of deathlessness,  
@@ -54,7 +62,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (11) \[1333\]
 
-Thus indeed Venerable Paduma Thera spoke these verses.  
+Thus indeed Venerable Paduma Thera spoke these verses.
+
 The legend of Paduma Thera is finished.
 
 [^1]: “Pink Lotus”

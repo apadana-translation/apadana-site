@@ -1,4 +1,12 @@
-*\[60. Asanabodhiya*[^1]*\]*  
+---
+title: Asanabodhiya
+order: 60
+layout: poem
+category: chapter-3
+---
+
+### \[60. Asanabodhiya[^1]\]
+
 \[When\] I was \[but\] seven years old  
 I saw the \[Buddha\], World-Chief.  
 Happy, \[and\] with a happy heart  
@@ -74,18 +82,22 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (15) \[1348\]
 
-Thus indeed Venerable Asanabodhiya Thera spoke these verses.  
-The legend of Asanabodhiya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Asanabodhiya Thera spoke these verses.
+
+The legend of Asanabodhiya Thera is finished.
+
+The Summary:
+
 Vījanī and Sataraŋsī  
 Sayan, Odaki, Vāhiya,  
 Parivāra and Padīpa,  
 Dhaja, Paduma-Pūjaka  
 and Bodhi’s said to be the tenth;  
-thus two and ninety verses.  
+thus two and ninety verses.
+
 The Vījanī Chapter, the Sixth.
 
-[^1]: “*Asana* Bodhi Tree-er.” *Asana* is Pentaptera tomentosa, = a.k.a. crocodile-bark tree, Indian laurel, silver grey wood, white chuglam. The Bodhi tree of Tissa Buddha. BJTS glosses as *piyā, bakmī;* Sarcocephalus cordatus *(Rubi.)*.
+[^1]: “*Asana* Bodhi Tree-er.” *Asana* is Pentaptera tomentosa, = a.k.a. crocodile-bark tree, Indian laurel, silver grey wood, white chuglam. The Bodhi tree of Tissa Buddha. BJTS glosses as *piyā, bakmī*; Sarcocephalus cordatus (*Rubi.*).
 
 [^2]: this compound consists of two different words for” tree”: *dharaṇī-rūha* (“growing in the earth”) and *pādapa* (“drinking from the feet \[or roots\]”). Though awkward in English, I translate literally here rather than give the non-descriptive “tree, which was a tree”.
 

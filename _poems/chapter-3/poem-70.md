@@ -1,4 +1,12 @@
-*\[70. Pupphacaṅgoṭiya*[^1]*\]*  
+---
+title: Pupphacaṅgoṭiya
+order: 70
+layout: poem
+category: chapter-3
+---
+
+### \[70. Pupphacaṅgoṭiya[^1]\]
+
 Like a lion with fearless form,  
 like a great harpy with \[strong\] wings,  
 like a superb bull of tigers,  
@@ -22,7 +30,7 @@ beyond \[all\] conquest and defeat. (4) \[1419\]
 In the thirty-one aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (5) \[1420\]
+that’s the fruit of Buddha-*pūjā*. (5) \[1420\]
 
 Throughout the thirtieth aeon \[hence\]  
 there were five wheel-turning monarchs.  
@@ -34,9 +42,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[1422\]
 
-Thus indeed Venerable Pupphacaṅgoṭiya Thera spoke these verses.  
-The legend of Pupphacaṅgoṭiya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Pupphacaṅgoṭiya Thera spoke these verses.
+
+The legend of Pupphacaṅgoṭiya Thera is finished.
+
+The Summary:
+
 Sakacitta, Addhāpupphī,  
 and with Paccābhigamana,  
 Parappasādī, Bhisada,  
@@ -44,7 +55,8 @@ Sucintī, Vatthadāyaka,
 Ambadāyī and Sumana  
 and also Puppacaṅgoṭika  
 seventy-one verses counted,  
-were uttered by \[these\] goal-seers.  
+were uttered by \[these\] goal-seers.
+
 The Sakacittaniya[^5] Chapter, the Seventh,
 
 [^1]: “Flower-Casket-er”

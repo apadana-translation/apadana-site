@@ -1,4 +1,12 @@
-*\[84. Adhopupphiya*[^1]*\]*  
+---
+title: Adhopupphiya
+order: 84
+layout: poem
+category: chapter-3
+---
+
+### \[84. Adhopupphiya[^1]\]
+
 The chief follower of Sikhi  
 was the monk known as Abhibhū,  
 with vast powers, a three-fold knower,  
@@ -39,7 +47,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[1525\]
 
-Thus indeed Venerable Adhopupphiya Thera spoke these verses.  
+Thus indeed Venerable Adhopupphiya Thera spoke these verses.
+
 The legend of Adhopupphiya Thera is finished.
 
 [^1]: “Below-Flower-er”

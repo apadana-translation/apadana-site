@@ -1,4 +1,12 @@
-*\[50. Cunda\]*  
+---
+title: Cunda
+order: 50
+layout: poem
+category: chapter-3
+---
+
+### \[50. Cunda\]
+
 Having had a festoon work[^1] made  
 for the World’s Best, the Neutral One,  
 the Blessed One \[named\] Siddhattha,  
@@ -87,27 +95,31 @@ he praised the top follower \[then\].[^11] (17) \[1255\]
 My mind is now completely freed  
 and faith is established in me.  
 Knowing well all the defilements,  
-I am \[now\] living, undefiled.[]{#BookmarkCopy1 .anchor} (18) \[1256\]
+I am \[now\] living, undefiled. (18) \[1256\]
 
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (19) \[1257\]
 
-Thus indeed Venerable Cunda Thera spoke these verses.  
-The legend of Cunda Thera is finished.  
-The Summary:  
+Thus indeed Venerable Cunda Thera spoke these verses.
+
+The legend of Cunda Thera is finished.
+
+The Summary:
+
 Upāli, Soṇa, Bhaddiya,  
 Sannidhāpaka, Hatthiya,  
 Chadana, Seyya-Cankamaṃ  
 Subhadda, the one named Cunda:  
 one hundred and forty verses  
-and another four besides \[those\].  
+and another four besides \[those\].
+
 The Upāli Chapter, the Fifth.
 
-[^1]: *agghiya,* BJTS Sinh. gloss *ägǟya* (Sinh-Eng dict *ägäva:* candelabrum, festoon work for lamps, lamp canopy or arch)
+[^1]: *agghiya,* BJTS Sinh. gloss *ägǟya* (Sinh-Eng dict *ägäva*: candelabrum, festoon work for lamps, lamp canopy or arch)
 
-[^2]: those who had crossed the flood \[of *samsār*a\], i.e., arahants
+[^2]: those who had crossed the flood \[of *samsāra*\], i.e., arahants
 
 [^3]: reading *vyamhaṃ pātubhavissati puññakammapabhāvitaṃ* (BJTS) for *vyamhā pātubhavissanti puññakammapabhāvitā* (PTS).
 

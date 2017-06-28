@@ -1,4 +1,12 @@
-*\[65. Bhisadāyaka*[^1]*\]*  
+---
+title: Bhisadāyaka
+order: 65
+layout: poem
+category: chapter-3
+---
+
+### \[65. Bhisadāyaka[^1]\]
+
 The \[Sambuddha\] named Vessabhu,  
 the third Sage \[born in that aeon,\][^2]  
 plunging[^3] into a forest grove  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[1383\]
 
-Thus indeed Venerable Bhisadāyaka Thera spoke these verses.  
+Thus indeed Venerable Bhisadāyaka Thera spoke these verses.
+
 The legend of Bhisadāyaka Thera is finished.
 
 [^1]: “Lotus-root Donor”
@@ -43,7 +52,7 @@ The legend of Bhisadāyaka Thera is finished.
 
 [^3]: reading *ogayha* (BJTS) for *oggayha* (PTS). Cty also reads *oggayha*, but glosses it with the proper gerund (*ogahetvā*), which it clarifies to mean “he entered” (*pāvisi*).
 
-[^4]: *bhisa* refers to the lotus root or “potato” (Sinh. *ala*) found under the mud; *muḷāla* refers to the lotus “stem” (Sinh. *daṇḍu,* dictionary gives *däli*). The former is starchy and crunchy; the latter is like a green vegetable. Both are delicious staples of village diets to this day.
+[^4]: *bhisa* refers to the lotus root or “potato” (Sinh. *ala*) found under the mud; *muḷāla* refers to the lotus “stem” (Sinh. *daṇḍu*, dictionary gives *däli*). The former is starchy and crunchy; the latter is like a green vegetable. Both are delicious staples of village diets to this day.
 
 [^5]: the cty explains that he had been born in an elephant’s womb at that time. Cf. v. \[1380\], below.
 

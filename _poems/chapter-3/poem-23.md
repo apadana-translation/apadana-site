@@ -1,4 +1,12 @@
-*\[23. Tīṇisaraṇāgamaniya*[^1]*\]*  
+---
+title: Tīṇisaraṇāgamaniya
+order: 23
+layout: poem
+category: chapter-3
+---
+
+### \[23. Tīṇisaraṇāgamaniya[^1]\]
+
 In the city, Candavatī,[^2]  
 I was waiting on my parents.  
 I constantly provided for  
@@ -139,7 +147,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (28) \[947\]
 
-Thus indeed Venerable Tīṇisaraṇāgamaniya Thera spoke these verses.  
+Thus indeed Venerable Tīṇisaraṇāgamaniya Thera spoke these verses.
+
 The legend of Tīṇisaraṇāgamaniya Thera is finished.
 
 [^1]: “three-Refuge Goer,” cf. \#113, \#298, \#356{359}

@@ -1,4 +1,12 @@
-*\[82. Gatasaññaka\]*  
+---
+title: Gatasaññaka
+order: 82
+layout: poem
+category: chapter-3
+---
+
+### \[82. Gatasaññaka\]
+
 I went forth into homelessness  
 being \[only\] seven years \[old\].  
 With a mind that was very clear  
@@ -17,7 +25,7 @@ then I pressed my hands together
 In the ninety-two aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (4) \[1509\]
+that’s the fruit of Buddha-*pūjā*. (4) \[1509\]
 
 In the eighth aeon after that  
 there were three \[named\] Aggisikha.[^1]  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1511\]
 
-Thus indeed Venerable Gatasaññaka Thera spoke these verses.  
+Thus indeed Venerable Gatasaññaka Thera spoke these verses.
+
 The legend of Gatasaññaka Thera is finished.
 
 [^1]: “Fire-Flame”.

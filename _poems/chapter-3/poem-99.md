@@ -1,4 +1,12 @@
-*\[99. Veyyāvaccaka*[^1]*\]*  
+---
+title: Veyyāvaccaka
+order: 99
+layout: poem
+category: chapter-3
+---
+
+### \[99. Veyyāvaccaka[^1]\]
+
 There was a large group[^2] \[waiting on\]  
 Vipassi, \[then\] the Blessed One.  
 Busy with all sorts of duties,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1605\]
 
-Thus indeed Venerable Veyyāvaccaka Thera spoke these verses.  
+Thus indeed Venerable Veyyāvaccaka Thera spoke these verses.
+
 The legend of Veyyāvaccaka Thera is finished.
 
 [^1]: “Servicer.” Veyyāvacca is service performed for elders and superiors (Sinh. *vatāvata*). This is the term translated as “service” in v. (3) \[1603\], where it refers not to the “service” he performed for his employers but rather the “service” for (or attendance on) the Buddha which he rendered, enacted in his worship of the latter’s feet. The suffix “ka” functions like “er” in English. “Servant” in verse (1) \[1601\] translates *veyyāvaccakara*, “doer of service to elders and superiors,” which is close to, but not identical with, this Thera’s name.

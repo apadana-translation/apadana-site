@@ -1,4 +1,12 @@
-*\[67. Vatthadāyaka*[^1]*\]*  
+---
+title: Vatthadāyaka
+order: 67
+layout: poem
+category: chapter-3
+---
+
+### \[67. Vatthadāyaka[^1]\]
+
 I was born as a bird back then,  
 with good \[strong\] wings,[^2] a harpy-king.  
 I saw the Stainless Buddha go  
@@ -39,7 +47,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[1400\]
 
-Thus indeed Venerable Vatthadāyaka Thera spoke these verses.  
+Thus indeed Venerable Vatthadāyaka Thera spoke these verses.
+
 The legend of Vatthadāyaka Thera is finished.
 
 [^1]: “Cloth-Donor”

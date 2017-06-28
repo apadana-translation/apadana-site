@@ -1,4 +1,12 @@
-*\[25. Annasaṃsāvaka*[^1]\]  
+---
+title: Annasaṃsāvaka
+order: 25
+layout: poem
+category: chapter-3
+---
+
+### \[25. Annasaṃsāvaka[^1]\]
+
 I saw the golden Sambuddha  
 as he traveled through the bazaar,  
 like a rare ornament of gold,  
@@ -6,7 +14,8 @@ Bearing the Thirty-two Great Marks,
 Siddhattha, the Lamp of the World,  
 Ineffable \[and\] Unrivaled,  
 the Tame one, the Brilliant \[Buddha\],  
-and I obtained supreme joy \[there\]. (1-2) \[969-970\]  
+and I obtained supreme joy \[there\]. (1-2) \[969-970\]
+
 Spending that time with him I fed  
 the Sambuddha, the Sage So Great.  
 The Sage, the Kind One, Protector  
@@ -27,7 +36,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[974\]
 
-Thus indeed Venerable Annasamsāvaka Thera spoke these verses.  
+Thus indeed Venerable Annasamsāvaka Thera spoke these verses.
+
 The legend of Annasamsāvaka Thera is finished.
 
 [^1]: “Causer of the Flow of Food”

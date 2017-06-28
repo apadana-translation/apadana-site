@@ -1,4 +1,12 @@
-*\[42. Koliyavessa\]*  
+---
+title: Koliyavessa
+order: 42
+layout: poem
+category: chapter-3
+---
+
+### \[42. Koliyavessa\]
+
 I had a walkway constructed  
 for the Sage, Anomadassi,  
 the World’s Best One, the Neutral One  
@@ -124,7 +132,8 @@ Gotama the Bull of the Śākyas,
 Privileged Knower,[^10] the Great Hero,  
 will place \[him\][^11] in a foremost place.” (25) \[1164\]
 
-\[hiatus?\][^12]  
+\[hiatus?\][^12]
+
 Tamed in the ultimate taming,  
 my heart is \[now\] well-directed,  
 \[and\] my burden has been laid down:  
@@ -140,10 +149,11 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (28) \[1167\]
 
-Thus indeed Venerable Soṇa Koḷiyavessa Thera spoke these verses.  
+Thus indeed Venerable Soṇa Koḷiyavessa Thera spoke these verses.
+
 The legend of Koḷiyavessa Thera is finished.
 
-[^1]: *dakkhineyyo sadevake,* lit “he who is worthy of gifts \[in the world\] with its gods”
+[^1]: *dakkhineyyo sadevake*, lit “he who is worthy of gifts \[in the world\] with its gods”
 
 [^2]: lit., “meritorious”
 

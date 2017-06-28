@@ -1,4 +1,12 @@
-*\[13. Nanda\]*  
+---
+title: Nanda
+order: 13
+layout: poem
+category: chapter-3
+---
+
+### \[13. Nanda\]
+
 Padumuttara’s *khoma* cloth[^1]  
 I gave to the Self-Become One,  
 the Sage So Great, the Blessed One,  
@@ -39,7 +47,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[707\]
 
-Thus indeed Venerable Nanda Thera spoke these verses.  
+Thus indeed Venerable Nanda Thera spoke these verses.
+
 The legend of Nanda Thera is finished.
 
 [^1]: reading *vattham khomam* (BJTS, cty) for *vatthuttaman* (“excellent cloth” PTS)

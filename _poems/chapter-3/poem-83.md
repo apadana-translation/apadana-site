@@ -1,4 +1,12 @@
-*\[83. Nipannañjalika*[^1]*\]*  
+---
+title: Nipannañjalika
+order: 83
+layout: poem
+category: chapter-3
+---
+
+### \[83. Nipannañjalika[^1]\]
+
 Seated at the foot of a tree  
 I became extremely diseased.  
 In the forest grove I attained  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1517\]
 
-Thus indeed Venerable Nipannañjalika Thera spoke these verses.  
+Thus indeed Venerable Nipannañjalika Thera spoke these verses.
+
 The legend of Nipannañjalika Thera is finished.
 
 [^1]: PTS reads Pannañjalika but I follow PTS alt, BJTS and cty in reading the same as Nipannañjalika, “Lying-Down-Hands-Presser”

@@ -1,4 +1,12 @@
-*\[74. Bhisāluvadāyaka*[^1]*\]*  
+---
+title: Bhisāluvadāyaka
+order: 74
+layout: poem
+category: chapter-3
+---
+
+### \[74. Bhisāluvadāyaka[^1]\]
+
 Plunging into a forest grove,  
 I was living in the jungle.  
 I saw the Buddha, Vipassi,  
@@ -24,8 +32,10 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1439\]
 
-Thus indeed Venerable Bhisāluvadāyaka Thera spoke these verses.  
-The legend of Bhisāluvadāyaka Thera is finished.  
+Thus indeed Venerable Bhisāluvadāyaka Thera spoke these verses.
+
+The legend of Bhisāluvadāyaka Thera is finished.
+
 The Sixth Recitation Portion.
 
 [^1]: “Lotus-Root-and-*āluva*-Root-Donor”. RD equates *āluva* with *ālupa* or *āluka*, “edible root of Amorphophallus Campanulatus;” Cone defines *āluva* as “an edible root”

@@ -1,4 +1,12 @@
-*\[46. Padumacchadaniya*[^1]*\]*  
+---
+title: Padumacchadaniya
+order: 46
+layout: poem
+category: chapter-3
+---
+
+### \[46. Padumacchadaniya[^1]\]
+
 When Vipassi, the Chief Person,  
 the World-Lord had reached nirvana,  
 taking a pink lotus in bloom  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1201\]
 
-Thus indeed, Venerable Padumucchadaniya Thera spoke these verses.  
+Thus indeed, Venerable Padumucchadaniya Thera spoke these verses.
+
 The legend of Padumucchadaniya Thera is finished.
 
 [^1]: “Pink-Lotus-Cover-er”

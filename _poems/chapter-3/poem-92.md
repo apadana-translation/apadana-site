@@ -1,4 +1,12 @@
-*\[92. Sucintita*[^1]*\]*  
+---
+title: Sucintita
+order: 92
+layout: poem
+category: chapter-3
+---
+
+### \[92. Sucintita[^1]\]
+
 Happy, \[and\] with a happy heart,  
 I gave a \[new\] auspicious chair[^2]  
 to Tissa the Lord of the World,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1565\]
 
-Thus indeed Venerable Sucintita Thera spoke these verses.  
+Thus indeed Venerable Sucintita Thera spoke these verses.
+
 The legend of Sucintita Thera is finished
 
 [^1]: “Well-Thought.” \#66 and \#425 {428} are also ascribed to (apparently different) monks of this name.

@@ -1,5 +1,14 @@
-*Timirapupphiya Chapter, the Seventh*  
-*\[81. Timirapupphiya*[^1]*\]*  
+---
+title: Timirapupphiya
+order: 81
+layout: poem
+category: chapter-3
+---
+
+## Timirapupphiya Chapter, the Seventh
+
+### \[81. Timirapupphiya[^1]\]
+
 On Candabhāgā River’s bank  
 I was going along the stream  
 \[when\] I saw the Monk sitting \[there,\]  
@@ -33,7 +42,7 @@ right there I fell down \[and I died\]. (6) \[1502\]
 In the ninety-four aeons since  
 I offered that flower \[to him\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (7) \[1503\]
+that’s the fruit of Buddha-*pūjā*. (7) \[1503\]
 
 In the fifty-sixth aeon hence  
 there were seven \[men\], greatly famed,  
@@ -45,7 +54,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1505\]
 
-Thus indeed Venerable Timirapupphiya Thera spoke these verses.  
+Thus indeed Venerable Timirapupphiya Thera spoke these verses.
+
 The legend of Timirapupphiya Thera is finished.
 
 [^1]: “Dark-Flower-er”

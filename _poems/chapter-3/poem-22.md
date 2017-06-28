@@ -1,4 +1,12 @@
-*\[22. Upavāna\]*  
+---
+title: Upavāna
+order: 22
+layout: poem
+category: chapter-3
+---
+
+### \[22. Upavāna\]
+
 The Victor, Padumuttara,  
 Who Had Crossed Over Everything,  
 the Sambuddha went fully out[^1]  
@@ -107,7 +115,7 @@ that Buddha-stupa shined forth \[bright\]. \[885\]
 Then spirits[^10] got together there  
 and counseled one another \[thus\]:  
 “The people, gods, and snake-gods too,  
-the *garūḷa*s and *kumbhaṇḍas* (18)[^11] \[886\]
+the *garūḷas* and *kumbhaṇḍas* (18)[^11] \[886\]
 
 themselves built a superb stupa  
 for the World-Chief, the Neutral One.  
@@ -274,26 +282,27 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (51) \[919\]
 
-Thus indeed Venerable Upavāna Thera spoke these verses.  
+Thus indeed Venerable Upavāna Thera spoke these verses.
+
 The legend of Upavāna Thera is finished.
 
 [^1]: *parinibbuto.*
 
 [^2]: *citaka*, heap, shrine
 
-[^3]: the text does not stipulate the first, second, third, fourth, fifth, sixth *what,* and the cty. sees no need to explain. Relic finds as at Pipphrawa, as well as the context (in which there is clearly a single stupa) would suggest that these were reliquaries inside reliquaries inside reliquaries, each encasing the former ones like Russian nesting dolls, until the whole thing was covered with gold.
+[^3]: the text does not stipulate the first, second, third, fourth, fifth, sixth *what*, and the cty. sees no need to explain. Relic finds as at Pipphrawa, as well as the context (in which there is clearly a single stupa) would suggest that these were reliquaries inside reliquaries inside reliquaries, each encasing the former ones like Russian nesting dolls, until the whole thing was covered with gold.
 
-[^4]: *masāragallassa,* *masāragalla* = Sinh. *maesirigala*
+[^4]: *masāragallassa*, *masāragalla* = Sinh. *maesirigala*
 
 [^5]: *nāgā*
 
-[^6]: lit., “with *Indanīla* and *mahānīla”* = “Indra Blue” and “Great Blue”
+[^6]: lit., “with *Indanīla* and *mahānīla*” = “Indra Blue” and “Great Blue”
 
 [^7]: see above, n. to \[839\]
 
 [^8]: BJTS reads thirty leagues
 
-[^9]: PTS omits the *garuḷas*, and as a result the height of the stupa increases from five to seven leagues, skipping six. BJTS includes the *garuḷas*, which makes the numbering sequence complete. In PTS this is the *kumbhaṇḍa*s rather than the *garuḷas*, but otherwise the text is the same.
+[^9]: PTS omits the *garuḷas*, and as a result the height of the stupa increases from five to seven leagues, skipping six. BJTS includes the *garuḷas*, which makes the numbering sequence complete. In PTS this is the *kumbhaṇḍas* rather than the *garuḷas*, but otherwise the text is the same.
 
 [^10]: *yakkhā*
 

@@ -1,4 +1,12 @@
-*\[47. Sayanadāyaka*[^1]*\]*  
+---
+title: Sayanadāyaka
+order: 47
+layout: poem
+category: chapter-3
+---
+
+### \[47. Sayanadāyaka[^1]\]
+
 I gave an excellent bedstead  
 covered with \[all of the\] bedclothes[^2]  
 to Siddhattha, the Blessed One,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1206\]
 
-Thus indeed Venerable Sayanadāyaka Thera spoke these verses.  
+Thus indeed Venerable Sayanadāyaka Thera spoke these verses.
+
 The legend of Sayanadāyaka Thera is finished.
 
 [^1]: “Bed-Giver”

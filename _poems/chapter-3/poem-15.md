@@ -1,4 +1,12 @@
-*\[15. Pilindavaccha*[^1]*\]*  
+---
+title: Pilindavaccha
+order: 15
+layout: poem
+category: chapter-3
+---
+
+### \[15. Pilindavaccha[^1]\]
+
 When the World-Leader Sumedha,  
 the Best Person, reached nirvana,  
 with a pleased heart \[and\] happy mind  
@@ -64,7 +72,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (13) \[740\]
 
-Thus indeed Venerable Pilindavaccha Thera spoke these verses.  
+Thus indeed Venerable Pilindavaccha Thera spoke these verses.
+
 The legend of Pilindavaccha Thera is finished.
 
 [^1]: BJTS gives Pilindivaccha, which is also an alt reading in cty. As DPPN notes this may be a monk different from the famous Pilindavaccha of whom a much longer *apadāna* appears as \#388 {391}, below.

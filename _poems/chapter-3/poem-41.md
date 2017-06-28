@@ -1,5 +1,14 @@
-*Upāli Chapter, the Fifth*  
-*\[41. Upāli (2)*[^1]*\]*  
+---
+title: Upāli
+order: 41
+layout: poem
+category: chapter-3
+---
+
+## Upāli Chapter, the Fifth
+
+### \[41. Upāli (2)[^1]\]
+
 The World’s Great Lord, surrounded by  
 a thousand \[arahants\] undefiled,  
 being one bound to solitude  
@@ -98,8 +107,7 @@ will place him in that foremost place.”[^12] (19) \[1134\]
 I, after going forth with faith,  
 did \[my duty\], am undefiled.  
 Knowing well all the defilements,  
-without defilements I \[now\] live.[]{#BookmarkCopy1 .anchor} (20)
-\[1135\]
+without defilements I \[now\] live. (20) \[1135\]
 
 The Blessed One did pity me;  
 I am skilled in the *Vinaya*.  
@@ -121,7 +129,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (24) \[1139\]
 
-Thus indeed Venerable Upāli Thera spoke these verses.  
+Thus indeed Venerable Upāli Thera spoke these verses.
+
 The legend of Upāli Thera is finished.
 
 [^1]: BJTS, Hew, and cty style him Bhāgineyya-Upāli, “Upāli the Nephew”. He is not to be confused with Upāli the top reciter of Vinaya, *Therāpadāna* \#6
@@ -136,7 +145,7 @@ The legend of Upāli Thera is finished.
 
 [^6]: lit., “having consciousness or not having consciousness”
 
-[^7]: lit., “...on the ultimate mountain, Himalaya, they all are not fit to \[be\] even a bit of \[the good scent\] in your morality.”
+[^7]: lit., “…on the ultimate mountain, Himalaya, they all are not fit to \[be\] even a bit of \[the good scent\] in your morality.”
 
 [^8]: lit., “is in the party of what causes the darkness of delusion”. Cf above vv. \[1072\] and \[1073\] for similar usage in a similar context. The BJTS reading *mohandhakārapakkhanto* allows for the plural, which is clear in the subsequent line of verse.
 
@@ -146,8 +155,8 @@ The legend of Upāli Thera is finished.
 
 [^11]: the texts all read *virājetvāna* or *virajjitvāna*, “to shine;” I follow BJTS Sinhala gloss in understanding this -- as context warrants -- as “drive away” (Sinhala *duru koṭa*)
 
-[^12]: it seems that here the text *does* confuse this Upāli with Upāli the chief reciter of *Vinaya.*
+[^12]: it seems that here the text *does* confuse this Upāli with Upāli the chief reciter of *Vinaya*.
 
 [^13]: lit., “in the Pāṭimokkha,” the 227 main rules which Theravāda Buddhist monks and nuns are required to chant fortnightly.
 
-[^14]: lit., Unsurpassed/Unrivaled/Without Better in the World”
+[^14]: lit., “Unsurpassed/Unrivaled/Without Better in the World”

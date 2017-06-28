@@ -1,5 +1,14 @@
-*Vījanī Chapter, the Sixth*  
-*\[51. Vidhūpanadāyaka*[^1]*\]*  
+---
+title: Vidhūpanadāyaka
+order: 51
+layout: poem
+category: chapter-3
+---
+
+## Vījanī Chapter, the Sixth
+
+### \[51. Vidhūpanadāyaka[^1]\]
+
 I dedicated a fan to  
 Padumuttara the Buddha,  
 the World’s Best One, the Neutral One,  
@@ -35,7 +44,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[1264\]
 
-Thus indeed Venerable Vidhūpanadāyaka Thera spoke these verses.  
+Thus indeed Venerable Vidhūpanadāyaka Thera spoke these verses.
+
 The legend of Vidhūpanadāyaka Thera is finished.
 
 [^1]: “Fanning-Giver”

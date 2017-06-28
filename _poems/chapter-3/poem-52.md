@@ -1,4 +1,12 @@
-*\[52. Sataraŋsika*[^1]*\]*  
+---
+title: Sataraŋsika
+order: 52
+layout: poem
+category: chapter-3
+---
+
+### \[52. Sataraŋsika[^1]\]
+
 Ascending a rock outcropping,  
 the Ultimate Man sat down \[there\].  
 \[I\], a brahmin mantra-master  
@@ -59,7 +67,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (12) \[1276\]
 
-Thus indeed Venerable Sataraŋsiya Thera spoke these verses.  
+Thus indeed Venerable Sataraŋsiya Thera spoke these verses.
+
 The legend of Sataraŋsika[^5] Thera is finished.
 
 [^1]: “Hundred-Rayed One”
@@ -68,6 +77,6 @@ The legend of Sataraŋsika[^5] Thera is finished.
 
 [^3]: *vivattacchaddo* = he whose defilements (*klesas*) have been removed
 
-[^4]: *niddhāvate*, could also read, “my light casts out \[the sun’s\],” Sinh: *p*ä*h*ä*ya nika diveyi*
+[^4]: *niddhāvate*, could also read, “my light casts out \[the sun’s\],” Sinh: *pähäya nika diveyi*
 
 [^5]: BJTS and PTS agree in making the two colophonic renditions of the name disagree

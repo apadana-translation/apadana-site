@@ -1,4 +1,12 @@
-*\[86. Raṃsisaññaka (2)\]*  
+---
+title: Raṃsisaññaka
+order: 86
+layout: poem
+category: chapter-3
+---
+
+### \[86. Raṃsisaññaka (2)\]
+
 On a Himalayan mountain  
 I was a bark-clothed \[ascetic\].  
 Having ascended the walkway  
@@ -19,5 +27,6 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[1534\]
 
-Thus indeed Venerable Raṃsisaññaka Thera spoke these verses.  
+Thus indeed Venerable Raṃsisaññaka Thera spoke these verses.
+
 The legend of Raṃsisaññaka Thera is finished.

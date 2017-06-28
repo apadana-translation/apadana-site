@@ -1,4 +1,12 @@
-*\[97. Madhupiṇḍika*[^1]*\]*  
+---
+title: Madhupiṇḍika
+order: 97
+layout: poem
+category: chapter-3
+---
+
+### \[97. Madhupiṇḍika[^1]\]
+
 In a quiet and trouble-free  
 forest grove, I \[once\] having seen  
 Siddhattha the Sage, the Supreme,[^2]  
@@ -9,7 +17,8 @@ Bull of Men,[^3] like a thoroughbred,
 shining forth like the morning star,[^4]  
 praised by the assembly of gods,  
 much[^5] happiness arose in me;  
-knowledge came into being then. (2) \[1589\][^6]  
+knowledge came into being then. (2) \[1589\][^6]
+
 Giving honey to the Teacher  
 who’d risen from meditation,  
 \[and\] worshipping the Teacher’s feet,  
@@ -20,7 +29,8 @@ I was the king, Sudassana;[^7]
 sweet honey flowed from lotus roots  
 whenever I was eating \[them\].  
 \[And\] it rained a rain of honey:  
-that’s the fruit of former karma. (4) \[1591\][^8]  
+that’s the fruit of former karma. (4) \[1591\][^8]
+
 In the ninety-four aeons since  
 I gave \[him\] that honey back then,  
 I’ve come to know no bad rebirth:  
@@ -36,7 +46,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[1594\]
 
-Thus indeed Venerable Madhupiṇḍika Thera spoke these verses.  
+Thus indeed Venerable Madhupiṇḍika Thera spoke these verses.
+
 The legend of Madhupiṇḍika Thera is finished.
 
 [^1]: “Honey-Ball-er”

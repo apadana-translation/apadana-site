@@ -1,4 +1,12 @@
-*\[18. Raṭṭhapāla\]*  
+---
+title: Raṭṭhapāla
+order: 18
+layout: poem
+category: chapter-3
+---
+
+### \[18. Raṭṭhapāla\]
+
 A rare elephant, fit for kings,[^1]  
 with chariot-pole tusks was given by me  
 to Blessed Padumuttara,  
@@ -74,12 +82,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (15) \[783\]
 
-Thus indeed Venerable Raṭṭhapāla Thera spoke these verses.  
+Thus indeed Venerable Raṭṭhapāla Thera spoke these verses.
+
 The legend of Raṭṭhapāla Thera is finished.
 
 [^1]: lit., “a vehicle for kings”. See note to \[666\]
 
-[^2]: reading *sakappaṇ*o (“with the trappings for an elephant,” BJTS, alt. in cty) for *sātappaṇ*o (“with a reciter of the *Artharva Veda*,” PTS, also cty though the latter understands the term to mean “decorated with the ornaments of an elephant”).
+[^2]: reading *sakappaṇo* (“with the trappings for an elephant,” BJTS, alt. in cty) for *sātappaṇo* (“with a reciter of the *Artharva Veda*,” PTS, also cty though the latter understands the term to mean “decorated with the ornaments of an elephant”).
 
 [^3]: BJTS, cty read *mahoghaṃ*, “a great flood,” interpreting it as a flood of alms; PTS reads, more straightforwardly, *mahābhattaŋ*, “a huge almsgiving/rice”. The meaning is anyway clear: after giving an almsgiving, Raṭṭhapāla Thera’s rebirth precursor dedicated everything to the Buddha.
 

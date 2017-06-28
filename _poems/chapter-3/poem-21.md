@@ -1,5 +1,14 @@
-*Subhūti Chapter, the Third*  
-*\[21. Subhūti\]*  
+---
+title: Subhūti
+order: 21
+layout: poem
+category: chapter-3
+---
+
+## Subhūti Chapter, the Third
+
+### \[21. Subhūti\]
+
 Close to the Himalayan range  
 \[on\] the mountain called Nisabha  
 my ashram is very well made,  
@@ -102,7 +111,7 @@ you won’t think it \[so\] excellent.”[^8] (20) \[832\]
 
 In that way I carried on there  
 \[whenever\] my mind was defiled.  
-Making varied *Dhamma-*speeches  
+Making varied *Dhamma*-speeches  
 I warded off my evil heart. (21) \[833\]
 
 While I was living in this way  
@@ -260,18 +269,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (52) \[864\]
 
-Thus indeed Venerable Subhūti Thera spoke these verses.  
+Thus indeed Venerable Subhūti Thera spoke these verses.
+
 The legend of Subhūti Thera is finished.
 
 [^1]: I am unclear how to take paṇḍu (“yellowish”) in this compound. The cty understands it to mean leaves that fell from trees by themselves, and this would correspond to the usage of *paṇḍu* as “withered” in some compounds, but I leave it ambiguous, as is the Pali.
 
 [^2]: reading *jahasi* (“giving up,” “abandoning,” BJTS) for *pāhisi* (“sent,” PTS)
 
-[^3]: or “shit,” *asuciṃ* = impurity, excrement. Is “shit” too strong a word for a translation of *Apadān*a? Does “*asuci*” carry that strong a connotation? Does “dirt” carry a strong enough one?
+[^3]: or “shit,” *asuciṃ* = impurity, excrement. Is “shit” too strong a word for a translation of *Apadāna*? Does “*asuci*” carry that strong a connotation? Does “dirt” carry a strong enough one?
 
 [^4]: i.e., showing their rut in their eyes, ears, and genitals. See cty, p. 288.
 
-[^5]: reading *pajjhāyanto pavadheti* (BJTS) for *ojjhāyanto padhāvat*i (PTS).
+[^5]: reading *pajjhāyanto pavadheti* (BJTS) for *ojjhāyanto padhāvati* (PTS).
 
 [^6]: the texts disagree on the reading of this verb, which undergirds the analogy between the failed ascetic and the iron tool (*kūṭaṃ*, a kind of hammer); it is in the 3rd person here, and the 2nd person in the fourth foot. I follow PTS but read the verb *yāyati* rather loosely to mean both “taken out for use” (as in the hammer) and “taken out for a meal” (as in the ascetic); the verb itself just means “go”. In this reading, the beauty (*jātarūpa*) of the tool would be the reason it isn’t taken out/used, and would imply that like that the ascetic looks good but isn’t actually useful. The alternative *jhāyati* (“meditates,” PTS alt.) would compare the failed ascetic to an insentient thing, which is also possible, though it’s not then clear why the text stipulates that it’s a beautiful hammer. The BJTS reading is *jhāpeti*, “set on fire,” “reduce to ashes;” while it is true that the iron hammer wouldn’t burn, it’s not clear what this would mean vis-a-vis the ascetic (who, we’re told in v. \[17\], *will* be burning), unless it be that no one would perform his funeral. The PTS reading *yāyati* is especially to be preferred given the focus on place in *kattha ci* (“anywhere,” repeated in the second and fourth feet).
 
@@ -279,7 +289,7 @@ The legend of Subhūti Thera is finished.
 
 [^8]: lit., “it will not be liked by you as excellent”
 
-[^9]: lit., “radiant with the color of a *Timbarūsaka* \[tree\]”. The tree is *d*iospyros embryopteris, Sinh. *timbiri.* The cty. specifies that the color is that of gold.
+[^9]: lit., “radiant with the color of a *Timbarūsaka* \[tree\]”. The tree is diospyros embryopteris, Sinh. *timbiri*. The cty. specifies that the color is that of gold.
 
 [^10]: *anupamo*
 
@@ -287,7 +297,7 @@ The legend of Subhūti Thera is finished.
 
 [^12]: *rūpen’asadiso*
 
-[^13]: lit., he walked back and forth in the sky at that time.” I have ignored the tadā in most of the instances of this repeated phrase, *metri causa.*
+[^13]: lit., he walked back and forth in the sky at that time.” I have ignored the tadā in most of the instances of this repeated phrase, *metri causa*.
 
 [^14]: *siṅgī-nikkha-suvaṇṇa-ābbho; nikkha* can also be an ornament, or a weight, The thrust, anyway, is that the Buddha was shiny like gold.
 

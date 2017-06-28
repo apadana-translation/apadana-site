@@ -1,4 +1,12 @@
-*\[27. Puḷinapūjaka*[^1]*\]*  
+---
+title: Puḷinapūjaka
+order: 27
+layout: poem
+category: chapter-3
+---
+
+### \[27. Puḷinapūjaka[^1]\]
+
 Digging out the sand which was old  
 I scattered \[pure\] clean sand about  
 the superb tree,[^2] the Bodhi Tree,  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[982\]
 
-Thus indeed Venerable Puḷinapūjaka Thera spoke these verses.  
+Thus indeed Venerable Puḷinapūjaka Thera spoke these verses.
+
 The legend of Puḷinapūjaka Thera is finished.
 
 [^1]: “Sand-Giver”

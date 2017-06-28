@@ -1,4 +1,12 @@
-*\[39. Dhammacakkika*[^1]*\]*  
+---
+title: Dhammacakkika
+order: 39
+layout: poem
+category: chapter-3
+---
+
+### \[39. Dhammacakkika[^1]\]
+
 On the front of the lion-throne  
 of Siddhattha, the Blessed One,  
 a *Dhamma*-wheel[^2] was placed by me,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1109\]
 
-Thus indeed Venerable Dhammacakkika Thera spoke these verses.  
+Thus indeed Venerable Dhammacakkika Thera spoke these verses.
+
 The legend of Dhammacakkika Thera is finished.
 
 [^1]: “*Dhamma*-Wheel-er”
@@ -40,6 +49,6 @@ The legend of Dhammacakkika Thera is finished.
 
 [^4]: “or of a charming appearance;” cty seems to read *catuvaṇṇo* for *cāruvaṇṇo* (on which BJTS and PTS agree, without alternates in the mss.) and therefore interprets this to mean, “\[Among?\] the four castes, I shine”.
 
-[^5]: *turiya,* musical instruments
+[^5]: *turiya*, musical instruments
 
 [^6]: “Thousand Kings,” perhaps to be understood as the overlord of a thousand royal underlords, or the king over thousands of people.

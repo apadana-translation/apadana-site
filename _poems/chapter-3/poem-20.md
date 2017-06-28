@@ -1,4 +1,12 @@
-*\[20. Sumaṅgala\]*  
+---
+title: Sumaṅgala
+order: 20
+layout: poem
+category: chapter-3
+---
+
+### \[20. Sumaṅgala\]
+
 Wishing to make a sacrifice  
 I had a meal prepared \[back then\]  
 \[and\] stood in a large *mālaka*[^1]  
@@ -84,9 +92,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (17) \[812\]
 
-Thus indeed Venerable Sumaṅgala Thera spoke these verses.  
-The legend of Sumaṅgala Thera is finished.  
-The Summary:  
+Thus indeed Venerable Sumaṅgala Thera spoke these verses.
+
+The legend of Sumaṅgala Thera is finished.
+
+The Summary:
+
 Sīhāsani and Ekatthambhi,  
 Nanda and Culla-Panthaka,  
 Pilinda and also Rāhula,  
@@ -94,14 +105,15 @@ Vangata, Raṭṭhapālaka,
 Sopāka and also Maṅgala,  
 ten are in the second chapter  
 and a hundred and thirty-seven  
-verses are related here.  
+verses are related here.
+
 The Sīhāsani Chapter, the Second.
 
 [^1]: see note to \[687\]
 
 [^2]: *sabbalokavinetāraŋ*
 
-[^3]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
+[^3]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
 [^4]: *tiṇṇo*, i.e., one who has gone to the further shore of *samsāra*, one who has reached nirvana
 

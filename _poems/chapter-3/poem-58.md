@@ -1,4 +1,12 @@
-*\[58. Dhajadāyaka*[^1]*\]*  
+---
+title: Dhajadāyaka
+order: 58
+layout: poem
+category: chapter-3
+---
+
+### \[58. Dhajadāyaka[^1]\]
+
 Happy, \[and\] with a happy heart  
 I hoisted up a flag \[back then\]  
 at the stupendous Bodhi Tree[^2]  
@@ -9,7 +17,8 @@ I threw \[them all\] away outside.
 As though facing the Sambuddha,  
 the Fully Free One, Undefiled,  
 I worshipped the superb Bodhi,  
-clean inside \[and\] clean outside \[too\]. (2) \[1315\][^3]  
+clean inside \[and\] clean outside \[too\]. (2) \[1315\][^3]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 standing in the monks’ Assembly  
@@ -20,11 +29,13 @@ this donation of a flag \[here,\]
 for one hundred thousand aeons  
 he will go to no bad rebirth.  
 Among the gods he will enjoy  
-abundant divine happiness. (4) \[1317-1318a-b\][^4]  
+abundant divine happiness. (4) \[1317-1318a-b\][^4]
+
 And various hundreds of times,  
 he’ll be king of a country.  
 He will be a wheel-turning king;  
-his name will \[then\] be Uggata.[^5] (5) \[1318c-f\]  
+his name will \[then\] be Uggata.[^5] (5) \[1318c-f\]
+
 Having enjoyed \[this\] happiness,  
 incited by \[his\] wholesome roots,  
 he will delight in the Teaching  
@@ -45,7 +56,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1322\]
 
-Thus indeed Venerable Dhajadāyaka Thera spoke these verses.  
+Thus indeed Venerable Dhajadāyaka Thera spoke these verses.
+
 The legend of Dhajadāyaka is finished.
 
 [^1]: “Flag-Giver”

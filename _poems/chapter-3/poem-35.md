@@ -1,4 +1,12 @@
-*\[35. Mogharāja\]*  
+---
+title: Mogharāja
+order: 35
+layout: poem
+category: chapter-3
+---
+
+### \[35. Mogharāja\]
+
 The Blessed One Atthadassi  
 the Self-Become One, Unconquered,  
 encompassed by the monks’ Assembly  
@@ -92,20 +100,20 @@ will place him in that foremost place.” (18) \[1083\]
 Abandoning \[my\] human work,  
 severing the bonds of being,  
 knowing well all the defilements,  
-without defilements I \[now\] live.[]{#BookmarkCopy1 .anchor} (19)
-\[1084\]
+without defilements I \[now\] live. (19) \[1084\]
 
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (20) \[1085\]
 
-Thus indeed Venerable Mogharāja Thera spoke these verses.  
+Thus indeed Venerable Mogharāja Thera spoke these verses.
+
 The legend of Mogharāja Thera is finished.
 
 [^1]: reading *samogadhā* (BJTS) for *samāhaṭā* (PTS). The Sinhala gloss in BJTS understands the verse to refer to the beings in Brahmaloka; though the text does not stipulate that, it would make sense of the inclusion here of formless and non-sentient beings (as are found there, along with beings that have form). In any event, the point of the verse is that the Buddha’s knowledge is all-encompassing.
 
-[^2]: lit., that which causes darkness” = ignorance, delusion
+[^2]: lit., “that which causes darkness” = ignorance, delusion
 
 [^3]: reading *sabhattena* (BJTS) for *subhakena* (PTS)
 

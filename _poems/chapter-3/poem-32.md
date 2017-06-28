@@ -1,4 +1,12 @@
-*\[32. Sāgata\]*  
+---
+title: Sāgata
+order: 32
+layout: poem
+category: chapter-3
+---
+
+### \[32. Sāgata\]
+
 Back then I was a brahmin man  
 known by the name of Sobhita.  
 Being honored by my students,  
@@ -62,15 +70,15 @@ he’ll purify his livelihood.” (12) \[1030\]
 I am \[now\] living in that way,  
 skilled in the elements of power.  
 Knowing well all the defilements,  
-without defilements I \[now\] live.[]{#BookmarkCopy1 .anchor} (13)
-\[1031\]
+without defilements I \[now\] live. (13) \[1031\]
 
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (14) \[1032\]
 
-This indeed Venerable Sāgata Thera spoke these verses.  
+This indeed Venerable Sāgata Thera spoke these verses.
+
 The legend of Sāgata Thera is finished.
 
 [^1]: reading *‘panesi* for *panesi*, and avoiding the alternate reading (and BJTS) *mahesi* (*mahesī*).
@@ -81,6 +89,6 @@ The legend of Sāgata Thera is finished.
 
 [^4]: reading *suriyodāyate* (BJTS) for *suriyo ‘bbhaghane* (“like the sun in a mass of clouds,” PTS).
 
-[^5]: reading (with BJTS, PTS alternatives) t*ena kammena sukatena* for PTS *vimbakapasuto hutvā*
+[^5]: reading (with BJTS, PTS alternatives) *tena kammena sukatena* for PTS *vimbakapasuto hutvā*
 
 [^6]: or “evil:” *pāpaº*

@@ -1,4 +1,12 @@
-*\[62. Āvopupphiya\]*  
+---
+title: Āvopupphiya
+order: 62
+layout: poem
+category: chapter-3
+---
+
+### \[62. Āvopupphiya\]
+
 Departing the monastery  
 he came forward on the walkway  
 declaring the Four \[Noble\] Truths,  
@@ -17,7 +25,7 @@ beyond \[all\] conquest and defeat. (3) \[1357\]
 In the thirty-one aeons since  
 I honored \[him\] with flowers \[then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of flower-*pūjā.* (4) \[1358\]
+that’s the fruit of flower-*pūjā*. (4) \[1358\]
 
 Twenty aeons ago \[I was\]  
 Sumedha the Kṣatriyan,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1360\]
 
-Thus indeed Venerable Āvopupphiya Thera spoke these verses.  
+Thus indeed Venerable Āvopupphiya Thera spoke these verses.
+
 The legend of Āvopupphiya Thera is finished.
 
 [^1]: lit., “for the Biped Lord”

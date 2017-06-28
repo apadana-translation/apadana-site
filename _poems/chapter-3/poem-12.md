@@ -1,4 +1,12 @@
-*\[12. Ekatthambhika*[^1]*\]*  
+---
+title: Ekatthambhika
+order: 12
+layout: poem
+category: chapter-3
+---
+
+### \[12. Ekatthambhika[^1]\]
+
 The Blessed One \[named\] Siddhattha  
 had a large group of followers.  
 They had taken \[the lay\] refuge  
@@ -69,7 +77,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (14) \[699\]
 
-Thus indeed Venerable Ekatthambhika Thera spoke these verses.  
+Thus indeed Venerable Ekatthambhika Thera spoke these verses.
+
 The legend of Ekatthambhika Thera is finished.
 
 [^1]: his name means “One Pillar-er”.

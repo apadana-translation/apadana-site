@@ -1,4 +1,12 @@
-*\[85. Raṃsisaññika*[^1]*\]*  
+---
+title: Raṃsisaññika
+order: 85
+layout: poem
+category: chapter-3
+---
+
+### \[85. Raṃsisaññika[^1]\]
+
 On a Himalayan mountain  
 I was residing formerly.  
 Wearing deer-leather outer robes[^2]  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1530\]
 
-Thus indeed Venerable Raṃsisaññaka Thera spoke these verses.  
+Thus indeed Venerable Raṃsisaññaka Thera spoke these verses.
+
 The legend of Raṃsisaññaka Thera is finished.
 
 [^1]: “Ray-Perceiver,” PTS reads Raŋsi°

@@ -1,4 +1,12 @@
-*\[66. Sucintita*[^1]*\]*  
+---
+title: Sucintita
+order: 66
+layout: poem
+category: chapter-3
+---
+
+### \[66. Sucintita[^1]\]
+
 Roaming a mountain hard to reach  
 I was \[then\] a high-born lion.  
 Slaying assemblies of wild beasts  
@@ -44,11 +52,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1392\]
 
-Thus indeed Venerable Sucintita Thera spoke these verses.  
+Thus indeed Venerable Sucintita Thera spoke these verses.
+
 The legend of Sucintita Thera is finished.
 
 [^1]: “Well-Thought-Out.” \#92 and \#425 {428}, below, are ascribed to (apparently different) monks bearing this same name.
 
 [^2]: “Long Life”
 
-[^3]: BJTS reads *saṭṭhimhi* *‘to kappasate* (“six thousand \[sixty hundred\] aeons ago”) with BJTS for PTS *satthimh’ ito kappasate.* The former must be wrong, because this protagonist performed his seed karma during the Buddha Era of Atthadassi Buddha, “only” eighteen hundred aeons ago. In addition to clarifying this particular reading, I take this verse (and others like it, where the math otherwise would not work) as important in establishing that the *ito* in these recurrent verses should be taken as “hence” (“from now”), “ago,” “before today,” as opposed to “thence” (“from then”) “after” “later”
+[^3]: BJTS reads *saṭṭhimhi ‘to kappasate* (“six thousand \[sixty hundred\] aeons ago”) with BJTS for PTS *satthimh’ ito kappasate*. The former must be wrong, because this protagonist performed his seed karma during the Buddha Era of Atthadassi Buddha, “only” eighteen hundred aeons ago. In addition to clarifying this particular reading, I take this verse (and others like it, where the math otherwise would not work) as important in establishing that the *ito* in these recurrent verses should be taken as “hence” (“from now”), “ago,” “before today,” as opposed to “thence” (“from then”) “after” “later”

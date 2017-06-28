@@ -1,4 +1,12 @@
-*\[79. Ṭhitañjaliya*[^1]*\]*  
+---
+title: Ṭhitañjaliya
+order: 79
+layout: poem
+category: chapter-3
+---
+
+### \[79. Ṭhitañjaliya[^1]\]
+
 In the past, in a forest grove,  
 I was a man who hunted deer.  
 There I saw Sambuddha Tissa  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1469\]
 
-Thus indeed Venerable Ṭhitañjaliya Thera spoke these verses.  
+Thus indeed Venerable Ṭhitañjaliya Thera spoke these verses.
+
 The legend of Ṭhitañjaliya Thera is finished.
 
 [^1]: “Standing with Hands Pressed Together”

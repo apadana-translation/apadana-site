@@ -1,4 +1,12 @@
-*\[33. Mahā-Kaccāna*[^1]*\]*  
+---
+title: Mahā-Kaccāna
+order: 33
+layout: poem
+category: chapter-3
+---
+
+### \[33. Mahā-Kaccāna[^1]\]
+
 Covering it over with gold,  
 I had a lion-throne fashioned  
 \[at\] the shrine known as “Paduma”  
@@ -84,12 +92,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (17) \[1049\]
 
-Thus indeed Venerable Mahākaccāna Thera spoke these verses.  
+Thus indeed Venerable Mahākaccāna Thera spoke these verses.
+
 The legend of Mahākaccāna Thera is finshed.
 
 [^1]: “Great Golden One,” a historical monk, and famous follower of the Buddha’s. See DPPN II:468ff., also cf. \#528 {531}, below, which is also ascribed to this monk.
 
-[^2]: BJTS omits *āsana* (“seats”) from the compound, reading *ratanāmayachattānaṃ,* “of umbrellas made of gems”.
+[^2]: BJTS omits *āsana* (“seats”) from the compound, reading *ratanāmayachattānaṃ*, “of umbrellas made of gems”.
 
 [^3]: *sammāsambuddhasāsane*, lit., “in the Supreme (or Great Perfected) Buddha’s dispensation”
 

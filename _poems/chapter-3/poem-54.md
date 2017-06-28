@@ -1,4 +1,12 @@
-*\[54. Gandhodaka*[^1]*\]*  
+---
+title: Gandhodaka
+order: 54
+layout: poem
+category: chapter-3
+---
+
+### \[54. Gandhodaka[^1]\]
+
 There was a Bodhi Tree festival  
 for Padumuttara Buddha.  
 Taking a decorated pot,  
@@ -39,7 +47,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[1289\]
 
-Thus indeed Venerable Gandhodakiya Thera spoke these verses.  
+Thus indeed Venerable Gandhodakiya Thera spoke these verses.
+
 The legend of Gandhodaka Thera is finished.
 
 [^1]: “Scented Water.” BJTS spells the name Gandhodakiya; both BJTS and PTS give the latter spelling in the colophon

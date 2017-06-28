@@ -1,4 +1,12 @@
-*\[30. Khomadāyaka*[^1]*\]*  
+---
+title: Khomadāyaka
+order: 30
+layout: poem
+category: chapter-3
+---
+
+### \[30. Khomadāyaka[^1]\]
+
 In the city Bandhumatī  
 I \[lived as\] a trader back then.  
 In that way supporting \[my\] wife  
@@ -24,9 +32,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1002\]
 
-Thus indeed Venerable Khomadāyaka Thera spoke these verses.  
-The legend of Khomadāyaka Thera is finished.  
-The Summary:  
+Thus indeed Venerable Khomadāyaka Thera spoke these verses.
+
+The legend of Khomadāyaka Thera is finished.
+
+The Summary:
+
 Subhūti and Upavāna,  
 Saraṇa, Sīlagāhaka,  
 Annasansāvaka, Dhūpa,  
@@ -35,7 +46,8 @@ Añjalī and Khomadāyī,
 ten indeed, in the third group.  
 All together one hundred eighty five  
 verses have been spoken.  
-Subhūti Chapter, the Third.  
+Subhūti Chapter, the Third.
+
 The Fourth Recitation Portion.
 
 [^1]: “Giver of *Khoma* Cloth”

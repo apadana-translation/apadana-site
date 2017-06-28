@@ -1,4 +1,12 @@
-*\[72. Padasaññaka*[^1]*\]*  
+---
+title: Padasaññaka
+order: 72
+layout: poem
+category: chapter-3
+---
+
+### \[72. Padasaññaka[^1]\]
+
 As it stepped[^2] I saw the foot of  
 Tissa, the Kinsman of the Sun.[^3]  
 Happy, \[and\] with a happy heart,  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[1430\]
 
-Thus indeed Venerable Padasaññaka Thera spoke these verses.  
+Thus indeed Venerable Padasaññaka Thera spoke these verses.
+
 The legend of Padasaññaka Thera is finished.
 
 [^1]: “Foot-Perceiver”

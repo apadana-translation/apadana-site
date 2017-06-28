@@ -1,4 +1,12 @@
-*\[90. Padumapupphiya*[^1]*\]*  
+---
+title: Padumapupphiya
+order: 90
+layout: poem
+category: chapter-3
+---
+
+### \[90. Padumapupphiya[^1]\]
+
 I lived in a lotus forest  
 eating lotus flowers \[back then\].  
 I saw Phussa, the Sambuddha,  
@@ -29,15 +37,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1552\]
 
-Thus indeed Venerable Padumapupphiya Thera spoke these verses.  
-The legend of Padumapupphiya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Padumapupphiya Thera spoke these verses.
+
+The legend of Padumapupphiya Thera is finished.
+
+The Summary:
+
 Timira, Nangalipupphī,  
 Nipannañjalika, Adha,  
 two Raṃsisaññis, Phalada,  
 Saddasaññī and Sevaka,  
 Padumapupphī and verses  
-fifty-six have been detailed \[here\].  
+fifty-six have been detailed \[here\].
+
 The Timirapupphiya Chapter, the Ninth.
 
 [^1]: “Pink Lotus-Flower-er”

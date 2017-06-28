@@ -1,4 +1,12 @@
-*\[49. Subhadda\]*  
+---
+title: Subhadda
+order: 49
+layout: poem
+category: chapter-3
+---
+
+### \[49. Subhadda\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 Great Famed One, lifting up people  
@@ -83,13 +91,13 @@ unloosed the stream of the Teaching. (16) \[1230\]
 Understanding his Teaching, I  
 lived fond of the dispensation.  
 Knowing well all the defilements,  
-without defilements I \[now\] live.[]{#BookmarkCopy1 .anchor} (17)
-\[1231\]
+without defilements I \[now\] live. (17) \[1231\]
 
 One hundred thousand aeons hence  
 the \[Buddha\] named for a lotus,  
 achieved nirvana, beyond grasp,  
-like a lamp deprived of \[its\] oil. (18) \[1232\][^8]  
+like a lamp deprived of \[its\] oil. (18) \[1232\][^8]
+
 There was a stupa, made of gems,  
 \[rising up\] seven leagues \[in height\],  
 all-auspicious and delightful;  
@@ -120,7 +128,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (24) \[1238\]
 
-Thus indeed Venerable Subhadda Thera spoke these verses.  
+Thus indeed Venerable Subhadda Thera spoke these verses.
+
 The legend of Subhadda Thera is finished.
 
 [^1]: lit., “as the Sambuddha reached nirvana”

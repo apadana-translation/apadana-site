@@ -1,4 +1,12 @@
-*\[14. Culla-Panthaka\]*  
+---
+title: Culla-Panthaka
+order: 14
+layout: poem
+category: chapter-3
+---
+
+### \[14. Culla-Panthaka\]
+
 The Victor Padumuttara,  
 Sacrificial Recipient,  
 leaving the group \[of followers,\]  
@@ -92,24 +100,24 @@ right there my mind was liberated
 In \[my\] mind-created bodies  
 I attained thorough excellence.  
 Knowing well all the defilements,  
-without defilements I \[now\] live.[]{#BookmarkCopy1 .anchor} (19)
-\[726\]
+without defilements I \[now\] live. (19) \[726\]
 
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (20) \[727\]
 
-Thus indeed Venerable Cullapanthaka Thera spoke these verses.  
+Thus indeed Venerable Cullapanthaka Thera spoke these verses.
+
 The legend of Cullapanthaka Thera is finished.
 
 [^1]: *samādhiṃ*
 
-[^2]: reading *antarāyam na aham akāsim* with the cty (which BJTS Sinhala gloss follows). lit., “I did not make an obstacle.” This reading seems more appropriate, even though the Pali in both PTS and BJTS -- and hence in some manuscripts -- is “I did make an obstacle”. However indecorous this would have been of Culla-Panthaka’s rebirth precursor, verse 4 has him giving the floral umbrella to the meditating Buddha without any transition to suggest that the meditation had ended (a transition we might expect from other *Apadāna* texts which specify that such-and-such meditator “had arisen from *samādh*i”), so it is *only* out of deference to the cty that I provide this translation, against my inclination to take the text as given and translate the final line: “I caused \[him\] an interruption.”
+[^2]: reading *antarāyam na aham akāsim* with the cty (which BJTS Sinhala gloss follows). lit., “I did not make an obstacle.” This reading seems more appropriate, even though the Pali in both PTS and BJTS -- and hence in some manuscripts -- is “I did make an obstacle”. However indecorous this would have been of Culla-Panthaka’s rebirth precursor, verse 4 has him giving the floral umbrella to the meditating Buddha without any transition to suggest that the meditation had ended (a transition we might expect from other *Apadāna* texts which specify that such-and-such meditator “had arisen from *samādhi*”), so it is *only* out of deference to the cty that I provide this translation, against my inclination to take the text as given and translate the final line: “I caused \[him\] an interruption.”
 
 [^3]: “Excellent!”
 
-[^4]: *anumodissati.* The verb is more properly translated “gave a thanksgiving \[speech\],” as *anumodana* is a somewhat formal acceptance of a *pūjā,* typically provided at the end of an alms-meal or temple festival, and entailing acknowledgement of the gift, praise of the giver, and commentary on the religious efficacy of giving. No English word entirely captures all of these senses, and a string of words makes the meter impossible, so albeit with some reluctance I translate it “give thanks”.
+[^4]: *anumodissati.* The verb is more properly translated “gave a thanksgiving \[speech\],” as *anumodana* is a somewhat formal acceptance of a *pūjā*, typically provided at the end of an alms-meal or temple festival, and entailing acknowledgement of the gift, praise of the giver, and commentary on the religious efficacy of giving. No English word entirely captures all of these senses, and a string of words makes the meter impossible, so albeit with some reluctance I translate it “give thanks”.
 
 [^5]: cty (p. 320-321): “Created by the mind” means “produced by the mind, the mind in meditation; just as the mind maintains, so does the body take shape, making it in the mode \[conceived in\] the mind.”
 

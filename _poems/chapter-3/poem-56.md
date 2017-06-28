@@ -1,4 +1,12 @@
-*\[56. Saparivārāsana*[^1]*\]*  
+---
+title: Saparivārāsana
+order: 56
+layout: poem
+category: chapter-3
+---
+
+### \[56. Saparivārāsana[^1]\]
+
 I gave alms-food which was begged for  
 to Padumuttara Buddha.  
 Going to the place where he ate,  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[1306\]
 
-Thus indeed Venerable Saparivārāsana Thera spoke these verses.  
+Thus indeed Venerable Saparivārāsana Thera spoke these verses.
+
 The legend of Saparivārāsana Thera is finished.
 
 [^1]: “Seat \[for the Buddha\] with Retinue”

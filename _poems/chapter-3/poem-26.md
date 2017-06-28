@@ -1,4 +1,12 @@
-*\[26. Dhūpadāyaka*[^1]*\]*  
+---
+title: Dhūpadāyaka
+order: 26
+layout: poem
+category: chapter-3
+---
+
+### \[26. Dhūpadāyaka[^1]\]
+
 I gave the incense for the hut  
 of Siddhattha, the World’s Best One,  
 the Blessed One, the Neutral One,  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[978\]
 
-Thus indeed Venerable Dhūpadāyaka Thera spoke these verses.  
+Thus indeed Venerable Dhūpadāyaka Thera spoke these verses.
+
 The legend of Dhūpadāyaka Thera is finished.
 
 [^1]: “Incense-Donor”

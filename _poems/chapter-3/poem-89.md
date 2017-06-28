@@ -1,4 +1,12 @@
-*\[89. Bodhisaññaka*[^1]*\]*  
+---
+title: Bodhisaññaka
+order: 89
+layout: poem
+category: chapter-3
+---
+
+### \[89. Bodhisaññaka[^1]\]
+
 There was a great Bodhi festival  
 for the Blessed One Vipassi.  
 I attended that festival,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1546\]
 
-Thus indeed Venerable Bodhisaññaka Thera spoke these verses.  
+Thus indeed Venerable Bodhisaññaka Thera spoke these verses.
+
 The legend of Bodhisaññaka Thera is finished.
 
 [^1]: “Bodhi-\[Tree\]-Perceiver”

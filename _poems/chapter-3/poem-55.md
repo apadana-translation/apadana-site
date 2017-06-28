@@ -1,4 +1,12 @@
-*\[55. Opavuyha*[^1]*\]*  
+---
+title: Opavuyha
+order: 55
+layout: poem
+category: chapter-3
+---
+
+### \[55. Opavuyha[^1]\]
+
 To Padumuttara Buddha  
 I gave a \[fine\] thoroughbred \[horse\].  
 Assigning it to the Buddha,[^2]  
@@ -49,7 +57,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (10) \[1299\]
 
-Thus indeed Venerable Opavuyha Thera spoke these verses.  
+Thus indeed Venerable Opavuyha Thera spoke these verses.
+
 The legend of Opavuyha Thera is finished.
 
 [^1]: “Fit For Riding”

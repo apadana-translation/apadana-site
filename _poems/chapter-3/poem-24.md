@@ -1,4 +1,12 @@
-*\[24. Pañcasīlasamādāniya*[^1]*\]*  
+---
+title: Pañcasīlasamādāniya
+order: 24
+layout: poem
+category: chapter-3
+---
+
+# \[24. Pañcasīlasamādāniya[^1]\]
+
 In the city, Candavatī,[^2]  
 I was a servant-man back then.  
 Bound in the service of others  
@@ -104,7 +112,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (21) \[968\]
 
-Thus indeed Venerable Pañcasīlasamādāniya Thera spoke these verses.  
+Thus indeed Venerable Pañcasīlasamādāniya Thera spoke these verses.
+
 The legend of Pañcasīlasamādāniya Thera is finished.
 
 [^1]: “Accepter of the FIve Moral Precepts”

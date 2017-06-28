@@ -1,4 +1,12 @@
-*\[45. Pañcahatthiya*[^1]*\]*  
+---
+title: Pañcahatthiya
+order: 45
+layout: poem
+category: chapter-3
+---
+
+### \[45. Pañcahatthiya[^1]\]
+
 The Sambuddha named Sumedha  
 was traveling through the bazaar  
 with downcast eyes,[^2] \[speaking\] few words,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1196\]
 
-Thus indeed Venerable Pañcahatthiya Thera spoke these verses.  
+Thus indeed Venerable Pañcahatthiya Thera spoke these verses.
+
 The legend of Pañcahatthiya Thera is finished.
 
 [^1]: “Five Handfuls”
@@ -40,6 +49,6 @@ The legend of Pañcahatthiya Thera is finished.
 
 [^4]: BJTS gloss: *mudun malkaḍa*
 
-[^5]: *saŋsāviŋsu* fr. *saṃsāveti,* to flow together to
+[^5]: *saŋsāviŋsu* fr. *saṃsāveti*, to flow together to
 
 [^6]: “\[One\] Handful”

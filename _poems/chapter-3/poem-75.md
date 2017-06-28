@@ -1,4 +1,12 @@
-*\[75. Ekasaññaka*[^1]*\]*  
+---
+title: Ekasaññaka
+order: 75
+layout: poem
+category: chapter-3
+---
+
+### \[75. Ekasaññaka[^1]\]
+
 Vipassi’s chief follower was  
 \[the arahant who was\] named Khaṇḍa  
 who got the world’s sacrifices;  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[1443\]
 
-Thus indeed Venerable Ekasaññaka Thera spoke these verses.  
+Thus indeed Venerable Ekasaññaka Thera spoke these verses.
+
 The legend of Ekasaññaka Thera is finished.
 
 [^1]: “One-Perception”

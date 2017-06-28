@@ -1,4 +1,12 @@
-*\[17. Upasena Vaṅgantaputta*[^1]*\]*  
+---
+title: Upasena Vaṅgantaputta
+order: 17
+layout: poem
+category: chapter-3
+---
+
+### \[17. Upasena Vaṅgantaputta[^1]\]
+
 I approached the Ultimate Man  
 the Blessed Padumuttara  
 the World’s Best One, the Bull of Men,  
@@ -49,8 +57,10 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (10) \[768\]
 
-Thus indeed Venerable Upasena Vaṅgantaputta Thera spoke these verses.  
-The legend of Upasena Vaṅgantaputta Thera is finished.  
+Thus indeed Venerable Upasena Vaṅgantaputta Thera spoke these verses.
+
+The legend of Upasena Vaṅgantaputta Thera is finished.
+
 The Third Recitation Portion is Finished.
 
 [^1]: Vaṅganta was his father; the name means “Son of Vaṅganta.” Rūpasāri was his mother.

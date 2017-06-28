@@ -1,4 +1,12 @@
-*\[98. Senāsanadāyaka*[^1]*\]*  
+---
+title: Senāsanadāyaka
+order: 98
+layout: poem
+category: chapter-3
+---
+
+### \[98. Senāsanadāyaka[^1]\]
+
 I gave a mat made out of leaves  
 to Siddhattha, the Blessed One,  
 and served \[that Buddha\] thoroughly,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1600\]
 
-Thus indeed Venerable Senāsanadāyaka[^3] Thera spoke these verses.  
+Thus indeed Venerable Senāsanadāyaka[^3] Thera spoke these verses.
+
 The legend of Senāsanadāyaka Thera is finished.
 
 [^1]: “Lodgings-Donor” (lit., “Giver of Bed-and-Chair” \[or “Bed and Food”\])

@@ -1,4 +1,12 @@
-*\[64. Parappasādaka*[^1]*\]*  
+---
+title: Parappasādaka
+order: 64
+layout: poem
+category: chapter-3
+---
+
+### \[64. Parappasādaka[^1]\]
+
 “Who is not pleased after seeing  
 the Bull, the Best One, the Hero,  
 the Sage So Great, Victorious One,  
@@ -44,7 +52,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1376\]
 
-Thus indeed Venerable Parappasādaka Thera spoke these verses.  
+Thus indeed Venerable Parappasādaka Thera spoke these verses.
+
 The legend of Parappasādaka Thera is finished.
 
 [^1]: “Other-Pleaser”

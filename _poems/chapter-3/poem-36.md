@@ -1,4 +1,12 @@
-*\[36. Adhimutta\]*  
+---
+title: Adhimutta
+order: 36
+layout: poem
+category: chapter-3
+---
+
+### \[36. Adhimutta\]
+
 When the World-Chief Atthadassi,  
 the Ultimate Man, passed away,[^1]  
 with a mind that was very clear  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1090\]
 
-Thus indeed Venerable Adhimutta Thera spoke these verses.  
+Thus indeed Venerable Adhimutta Thera spoke these verses.
+
 The legend of Adhimutta Thera is finished.
 
 [^1]: lit., “reached nirvana”

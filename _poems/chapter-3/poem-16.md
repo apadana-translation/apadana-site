@@ -1,4 +1,12 @@
-*\[16. Rāhula\]*  
+---
+title: Rāhula
+order: 16
+layout: poem
+category: chapter-3
+---
+
+### \[16. Rāhula\]
+
 I gifted a mirrored surface[^1]  
 in the seven-story palace  
 of Blessed Padumuttara  
@@ -82,15 +90,15 @@ and moral did protect \[virtue\]. (16) \[756\]
 Understanding his Teaching, I  
 lived loving \[his\] dispensation.  
 Knowing well all the defilements,  
-without defilements I \[now\] live.[]{#BookmarkCopy1 .anchor} (17)
-\[757\]
+without defilements I \[now\] live. (17) \[757\]
 
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (18) \[758\]
 
-Thus indeed Venerable Rāhula Thera spoke these verses.  
+Thus indeed Venerable Rāhula Thera spoke these verses.
+
 The legend of Venerable Rāhula Thera is finished.
 
 [^1]: *santharaŋ* (PTS) or *santhariṃ* (BJTS, cty) literally means “spread out” or a mat. Cty clarifies that this mirror was a mirrored surface (*ādāsa-talam*), though it reads *santharim* as a gerund (*santaritvā*) meaning “produced” (*nipphādetvā*), “having produced a mirror I gave it”. This seems unnecessary (as well as ungrammatical) if we take the reading *santharaṃ*, “a spread out \[mirror\]”.
@@ -107,7 +115,7 @@ The legend of Venerable Rāhula Thera is finished.
 
 [^7]: Vishwakarma, “the divine architect”
 
-[^8]: v*ijjādhara*° = Skt. vi*dyādhara*°, divine musicians (or here too “spell-knowers,” sorcerers?)
+[^8]: v*ijjādhara*° = Skt. *vidyādhara°*, divine musicians (or here too “spell-knowers,” sorcerers?)
 
 [^9]: lit., the gods’ city, metri causa
 
