@@ -1,4 +1,12 @@
-*\[200. Yūthikāpupphiya*[^1]*\]*  
+---
+title: Yūthikāpupphiya
+order: 200
+layout: poem
+category: chapter-3
+---
+
+### \[200. Yūthikāpupphiya[^1]\]
+
 The Victor Padumuttara[^2]  
 Sacrificial Recipient,  
 leaving the forest goes to the  
@@ -24,25 +32,33 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2270\]
 
-Thus indeed Venerable Yūthikāpupphiya Thera spoke these verses.  
-The legend of Yūthikāpupphiya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Yūthikāpupphiya Thera spoke these verses.
+
+The legend of Yūthikāpupphiya Thera is finished.
+
+The Summary:
+
 Tamālī, Tiṇasanthāra,  
 Khaṇḍaphullī, Asokiya,  
 Aṅkoḷakī, Kisalaya,  
 Tinduka, Nelapupphiya,  
 Kiṅkaṇika[^5] \[and\] Yūthika:  
-\[there are\] fifty verses plus eight.  
-The Tamālapupphiya Chapter, the Twentieth.  
-Then there is the Summary of Chapters:  
+\[there are\] fifty verses plus eight.
+
+The Tamālapupphiya Chapter, the Twentieth.
+
+Then there is the Summary of Chapters:
+
 Bhikkhada and Parivāra,  
 Chatta and Bandhujīvī and  
 also Supāricariya,  
 Kumuda, Kuṭaja as well,  
 Tamālika, the tenth is done.  
 There are six hundred verses here  
-and sixty six more than that too.  
-The Ten Chapters[^6] called Bhikkha.  
+and sixty six more than that too.
+
+The Ten Chapters[^6] called Bhikkha.
+
 The Second Hundred[^7] is finished.
 
 [^1]: “Jasmine Flower-er”. This spelling follows BJTS; PTS gives Yūthikapupphiya.

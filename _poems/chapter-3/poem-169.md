@@ -1,4 +1,12 @@
-*\[169. Samādapaka*[^1]*\]*  
+---
+title: Samādapaka
+order: 169
+layout: poem
+category: chapter-3
+---
+
+### \[169. Samādapaka[^1]\]
+
 In the city, Bandhumatī,  
 there was a large multitude[^2] \[then\].  
 I was most excellent of them,  
@@ -29,14 +37,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2098\]
 
-Thus indeed Venerable Samādapaka Thera spoke these verses.  
+Thus indeed Venerable Samādapaka Thera spoke these verses.
+
 The legend of Samādapaka Thera is finished.
 
 [^1]: “Instructor”
 
-[^2]: see note to v. \[1601\]; this is the same term, *mahāpūgagaṇa.*
+[^2]: see note to v. \[1601\]; this is the same term, *mahāpūgagaṇa*.
 
-[^3]: this follows BJTS Sinhala gloss. BJTS reads *baddhacarā,* “connected farers.” PTS reads paddhacarā, One would prefer *sadācarā,* or perhaps *saddhacarā* (“fellow faithful”).
+[^3]: this follows BJTS Sinhala gloss. BJTS reads *baddhacarā*, “connected farers.” PTS reads paddhacarā, One would prefer *sadācarā*, or perhaps *saddhacarā* (“fellow faithful”).
 
 [^4]: lit., “I caused them to undertake meritorious action.”
 

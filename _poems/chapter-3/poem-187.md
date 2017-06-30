@@ -1,8 +1,17 @@
-*\[187. Ekacintita*[^1]*\]*  
+---
+title: Ekacintita
+order: 187
+layout: poem
+category: chapter-3
+---
+
+### \[187. Ekacintita[^1]\]
+
 When according to \[his\] lifespan,  
 a god falls from the world,[^2]  
 three sayings[^3] get emitted \[then,\]  
-\[in\] the rejoicing of the gods. (1) \[2185\][^4]  
+\[in\] the rejoicing of the gods. (1) \[2185\][^4]
+
 “From here, sir,[^5] go to a good state,  
 in the company of people.  
 Becoming human do obtain  
@@ -40,7 +49,8 @@ realizing that I was moved
 \[and\] desiring to lift me up,  
 did come into my presence then  
 \[and\] stirred me up instructing \[me\]  
-in the meaning and the Teaching.[^13] (8-9) \[2192-2193\]  
+in the meaning and the Teaching.[^13] (8-9) \[2192-2193\]
+
 Having listened to his words, I  
 made my heart pleased in the Buddha.  
 Having saluted that wise \[monk,\]  
@@ -56,7 +66,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (12) \[2196\]
 
-Thus indeed Venerable Ekacintita Thera spoke these verses.  
+Thus indeed Venerable Ekacintita Thera spoke these verses.
+
 The legend of Ekacintita Thera is finished.
 
 [^1]: “Once-Thought-Out.”
@@ -71,7 +82,7 @@ The legend of Ekacintita Thera is finished.
 
 [^6]: *saddhamme*
 
-[^7]: *kusalaŋ,* “wholesome \[karma\]”
+[^7]: *kusalaŋ*, “wholesome \[karma\]”
 
 [^8]: *kusalaŋ*
 

@@ -1,4 +1,12 @@
-*\[174. Udapānadāyaka*[^1]*\]*  
+---
+title: Udapānadāyaka
+order: 174
+layout: poem
+category: chapter-3
+---
+
+### \[174. Udapānadāyaka[^1]\]
+
 For Vipassi, the Blessed One  
 I constructed a \[water\] well.  
 Having given alms-food \[to him\]  
@@ -14,7 +22,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (3) \[2123\]
 
-Thus indeed Venerable Udapānadāyaka Thera spoke these verses.  
+Thus indeed Venerable Udapānadāyaka Thera spoke these verses.
+
 The legend of Udapānadāyaka Thera is finished.
 
 [^1]: “Well-Donor”

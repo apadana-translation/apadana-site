@@ -1,13 +1,21 @@
-*\[109. Biḷālidāyaka*[^1]*\]*  
+---
+title: Biḷālidāyaka
+order: 109
+layout: poem
+category: chapter-3
+---
+
+### \[109. Biḷālidāyaka[^1]\]
+
 In the Himalayan region,  
 I dwelt on a mat made of leaves.  
 Not feeling any greed for food,  
 I was always happy back then. (1) \[1663\]
 
-Digging up roots like *kaḷamba,*[^2]  
+Digging up roots like *kaḷamba*,[^2]  
 *biḷāli* and *takkaḷi*[^3] \[too\]  
 \[I ate them\] prepared by adding  
-jujube,[^4] marking-nut*,*[^5] and bel*.*[^6] (2) \[1664\]
+jujube,[^4] marking-nut,[^5] and bel.[^6] (2) \[1664\]
 
 Padumuttara, World-Knower  
 Sacrificial Recipient,  
@@ -32,7 +40,8 @@ you’ll come to know no bad rebirth.” (6) \[1668\]
 This is my last going around;  
 all \[new\] existence is destroyed.  
 I am bearing my last body  
-in the Buddha’s[^8] dispensation. (7) \[1670\][^9]  
+in the Buddha’s[^8] dispensation. (7) \[1670\][^9]
+
 In the fifty-fourth aeon thence  
 the one known as Sumekhali  
 was a wheel-turner with great strength,  
@@ -43,20 +52,21 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1671\]
 
-Thus indeed Venerable Biḷālidāyaka Thera spoke these verses.  
+Thus indeed Venerable Biḷālidāyaka Thera spoke these verses.
+
 The legend of Biḷālidāyaka Thera is finished.
 
-[^1]: “Wild-potato-Giver,” reading the name thus with BJTS for PTS *Bilā*°
+[^1]: “Wild-potato-Giver,” reading the name thus with BJTS for PTS *Bilā°*
 
 [^2]: a wild potherb, Sinh. *wilpalā*
 
 [^3]: neither of these is in *Pali-Sinhala-Ingirīsi Śabdakoṣaya*; BJTS Sinhala gloss explains them as types of wild potato (Sinh. *ala*), which is clear from the context too.
 
-[^4]: *kolaŋ,* Sinh. *ḍebara*
+[^4]: *kolaŋ*, Sinh. *ḍebara*
 
-[^5]: Sinh. *badulla, semicarpus anacardium*
+[^5]: Sinh. *badulla*, *semicarpus anacardium*
 
-[^6]: *billaŋ* = Aegle marmelos, Sinh. *beli geḍiya,* bael, bel, Bengal quince; bilva or vilva tree; also *billā, beluvā*
+[^6]: *billaŋ* = Aegle marmelos, Sinh. *beli geḍiya*, bael, bel, Bengal quince; bilva or vilva tree; also *billā*, *beluvā*
 
 [^7]: lit., “this *biḷāli*”.
 

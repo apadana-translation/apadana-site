@@ -1,4 +1,12 @@
-*\[176. Maggadattika*[^1]*\]*  
+---
+title: Maggadattika
+order: 176
+layout: poem
+category: chapter-3
+---
+
+### \[176. Maggadattika[^1]\]
+
 Anomadassi, Blessed One,  
 the Biped-Lord, the Bull of Men,  
 bringing happiness to the world,  
@@ -19,13 +27,14 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2132\]
 
-Thus indeed Venerable Maggadattika Thera spoke these verses.  
+Thus indeed Venerable Maggadattika Thera spoke these verses.
+
 The legend of Maggadattika Thera is finished.
 
 [^1]: “Road-Gift-er”
 
-[^2]: reading *abbho°* (BJTS) for *ambho°* (PTS).
+[^2]: reading *abbho*° (BJTS) for *ambho*° (PTS).
 
 [^3]: PTS reads the second line first, and the first line second; I follow BJTS. In the second line, I read *sīsa muddhani* (BJTS) for *lāsaŋ muddhani* (“shining on his head”).
 
-[^4]: “Floral Canopy” or “Covered with Flowers”. PTS reads *Pupphachadaniya.*
+[^4]: “Floral Canopy” or “Covered with Flowers”. PTS reads *Pupphachadaniya*.

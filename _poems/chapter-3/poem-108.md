@@ -1,4 +1,12 @@
-*\[108. Āsanūpaṭṭāyaka*[^1]*\]*  
+---
+title: Āsanūpaṭṭāyaka
+order: 108
+layout: poem
+category: chapter-3
+---
+
+### \[108. Āsanūpaṭṭāyaka[^1]\]
+
 Plunging into a forest grove,  
 very quiet and undisturbed,  
 I gifted a lion-throne to  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1662\]
 
-Thus indeed Venerable Āsanūpaṭṭāyaka Thera spoke these verses.  
+Thus indeed Venerable Āsanūpaṭṭāyaka Thera spoke these verses.
+
 The legend of Āsanūpaṭṭāyaka Thera is finished.
 
 [^1]: “Seat-Attendant”

@@ -1,4 +1,12 @@
-*\[103. Uppalahatthiya*[^1]*\]*  
+---
+title: Uppalahatthiya
+order: 103
+layout: poem
+category: chapter-3
+---
+
+### \[103. Uppalahatthiya[^1]\]
+
 I was living in Tivarā,  
 a garland-maker at that time.  
 I saw the Buddha, Stainless One,  
@@ -29,11 +37,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1628\]
 
-Thus indeed Venerable Uppalahatthiya Thera spoke these verses.  
+Thus indeed Venerable Uppalahatthiya Thera spoke these verses.
+
 The legend of Uppalahatthiya Thera is finished.
 
 [^1]: “Blue Lotus-Handful-er”
 
 [^2]: reading *pupphadānass’* (BJTS) for *sasaññāya* (PTS)
 
-[^3]: = *na* + *ajja* + *upama,* “No Metaphor (for? exists?) Today (?)
+[^3]: = *na* + *ajja* + *upama*, “No Metaphor (for? exists?) Today (?)

@@ -1,4 +1,12 @@
-*\[146. Anulepadāyaka*[^1]*\]*  
+---
+title: Anulepadāyaka
+order: 146
+layout: poem
+category: chapter-3
+---
+
+### \[146. Anulepadāyaka[^1]\]
+
 I made the Bodhi-railing[^2] of  
 the \[Great\] Sage, Anomadassi.  
 After giving balls of plaster,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1971\]
 
-Thus indeed Venerable Anulepadāyaka Thera spoke these verses.  
+Thus indeed Venerable Anulepadāyaka Thera spoke these verses.
+
 The legend of Anulepadāyaka Thera is finished.
 
 [^1]: “Plastering-Donor.” I follow BJTS, cty, PTS alt, in reading the name as such. PTS gives Anulomadāyaka, “Suitable Donor”.
@@ -38,7 +47,7 @@ The legend of Anulepadāyaka Thera is finished.
 
 [^3]: lit., “in the monks’ Assembly”
 
-[^4]: reading *cetanā°* (BJTS, PTS alt) for *cetasā* (“by heart,” “with the mind,” PTS)
+[^4]: reading *cetanā*° (BJTS, PTS alt) for *cetasā* (“by heart,” “with the mind,” PTS)
 
 [^5]: lit., “in the Supreme Buddha’s"
 

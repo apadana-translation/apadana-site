@@ -1,4 +1,12 @@
-*\[180. Saṅghupaṭṭhāka*[^1]*\]*  
+---
+title: Saṅghupaṭṭhāka
+order: 180
+layout: poem
+category: chapter-3
+---
+
+### \[180. Saṅghupaṭṭhāka[^1]\]
+
 When Vessabhu was the Buddha,[^2]  
 I was a forest-dweller \[then\].  
 With a pleased heart \[and\] happy mind,  
@@ -19,15 +27,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2151\]
 
-Thus indeed Venerable Saṅghupaṭṭhāka Thera spoke these verses.  
-The legend of Saṅghupaṭṭhāka Thera is finished.  
-The Summary:  
+Thus indeed Venerable Saṅghupaṭṭhāka Thera spoke these verses.
+
+The legend of Saṅghupaṭṭhāka Thera is finished.
+
+The Summary:
+
 Kumuda, then Nisseṇī,  
 Rattika, Udapānada,  
 Sīhāsanī, Maggavada,  
 Ekadīpī, Maṇippada,  
 Tikicchaka, Upaṭṭhāka,  
-one less than fifty verses \[here\].  
+one less than fifty verses \[here\].
+
 The Kumuda Chapter, the Eighteenth.
 
 [^1]: “Servant of the Monks’ Assembly”

@@ -1,4 +1,12 @@
-*\[114. Ekāsaniya*[^1]*\]*  
+---
+title: Ekāsaniya
+order: 114
+layout: poem
+category: chapter-3
+---
+
+### \[114. Ekāsaniya[^1]\]
+
 Back then I was the king of gods,  
 known by the name of Varuṇa.  
 I attended the Sambuddha,  
@@ -6,7 +14,7 @@ as his vehicle of power. (1) \[1707\]
 
 When Atthadassi, the Best Man,  
 Lord of the World, reached nirvana,  
-supplying all the *turiya*s,  
+supplying all the *turiya*\s,  
 I went to the best Bodhi \[tree\]. (2) \[1708\]
 
 As though facing the Sambuddha  
@@ -44,7 +52,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1715\]
 
-Thus indeed Venerable Ekāsaniya Thera spoke these verses.  
+Thus indeed Venerable Ekāsaniya Thera spoke these verses.
+
 The legend of Ekāsaniya Thera is finished.
 
 [^1]: “One Sitting”

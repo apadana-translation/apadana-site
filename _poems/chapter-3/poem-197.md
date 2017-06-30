@@ -1,4 +1,12 @@
-*\[197. Tindukadāyaka*[^1]*\]*  
+---
+title: Tindukadāyaka
+order: 197
+layout: poem
+category: chapter-3
+---
+
+### \[197. Tindukadāyaka[^1]\]
+
 Traveling a bad mountain road,  
 I was a monkey,[^2] strong and fast.  
 Seeing wild mangosteen[^3] in fruit,  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[2254\]
 
-Thus indeed Venerable Tindukadāyaka Thera spoke these verses.  
+Thus indeed Venerable Tindukadāyaka Thera spoke these verses.
+
 The legend of Tindukadāyaka Thera is finished.
 
 [^1]: “Donor of a Tinduka Tree”. Tinduka = Sinh. *timbiri*, Diaspyros embryopteris; Indian Persimmon, wild mangosteen
@@ -47,8 +56,8 @@ The legend of Tindukadāyaka Thera is finished.
 
 [^5]: *tibhavantaguŋ*
 
-[^6]: that is, *arahants.*
+[^6]: that is, *arahants*.
 
-[^7]: PTS *pāmujjaŋ,* BJTS *pāmojjaṃ *
+[^7]: PTS *pāmujjaŋ*, BJTS *pāmojjaṃ*
 
 [^8]: “Joyful”

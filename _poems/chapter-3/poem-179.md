@@ -1,4 +1,12 @@
-*\[179. Tikicchaka*[^1]*\]*  
+---
+title: Tikicchaka
+order: 179
+layout: poem
+category: chapter-3
+---
+
+### \[179. Tikicchaka[^1]\]
+
 In the city, Bandhumatī,  
 I was a well-trained physician,  
 bringing many folks happiness  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2147\]
 
-Thus indeed Venerable Tikicchaka Thera spoke these verses.  
+Thus indeed Venerable Tikicchaka Thera spoke these verses.
+
 The legend of Tikicchaka Thera is finished.
 
 [^1]: “Doctor”

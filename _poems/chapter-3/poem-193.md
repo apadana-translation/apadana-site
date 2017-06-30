@@ -1,4 +1,12 @@
-*\[193. Khaṇḍaphulliya*[^1]*\]*  
+---
+title: Khaṇḍaphulliya
+order: 193
+layout: poem
+category: chapter-3
+---
+
+### \[193. Khaṇḍaphulliya[^1]\]
+
 In the great woods was a stupa  
 of Phussa, the Blessed \[Buddha\].  
 At that time there was a tree there,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2229\]
 
-Thus indeed Venerable Khaṇḍaphulliya Thera spoke these verses.  
+Thus indeed Venerable Khaṇḍaphulliya Thera spoke these verses.
+
 The legend of Khaṇḍaphulliya Thera is finished.
 
 [^1]: “Broken Blossoming-er”

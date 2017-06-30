@@ -1,8 +1,16 @@
-*\[134. Pupphachadanīya*[^1]*\]*  
+---
+title: Pupphachadanīya
+order: 134
+layout: poem
+category: chapter-3
+---
+
+### \[134. Pupphachadanīya[^1]\]
+
 The brahmin known as Sunanda[^2]  
 who was a master of the mantras,  
 a learned man, fit for begging,  
-sacrificed a *vājapeyya.*[^3] (1) \[1895\]
+sacrificed a *vājapeyya*.[^3] (1) \[1895\]
 
 Padumuttara, World-Knower,  
 the Top, Compassionate, the Sage,  
@@ -37,15 +45,17 @@ wheel-turning kings with great power. (7) \[1901\]
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (8)  
-Thus indeed Venerable Pupphachadanīya Thera spoke these verses.  
+\[I have\] done what the Buddha taught! (8)
+
+Thus indeed Venerable Pupphachadanīya Thera spoke these verses.
+
 The legend of Pupphachadanīya Thera is finished.
 
 [^1]: “Flower-Covering-er” or “Flower-Roof-er”
 
 [^2]: “Good Joy”
 
-[^3]: Skt. *vājapeya,* one of the seven types of *soma* sacrifice
+[^3]: Skt. *vājapeya*, one of the seven types of *soma* sacrifice
 
 [^4]: reading *aphari satte* (BJTS) for *aparisatte* (PTS).
 
@@ -55,4 +65,4 @@ The legend of Pupphachadanīya Thera is finished.
 
 [^7]: lit., “kṣatriyans”.
 
-[^8]: “Same as Part of the Sky.” BJTS read *ambaraṃsa sanāma te,* “they were named Ambaraṃsa” (Sky-Part”).
+[^8]: “Same as Part of the Sky.” BJTS read *ambaraṃsa sanāma te*, “they were named Ambaraṃsa” (Sky-Part”).

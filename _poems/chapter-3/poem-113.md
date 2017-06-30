@@ -1,4 +1,12 @@
-*\[113. Saraṇāgamaniya*[^1]*\]*  
+---
+title: Saraṇāgamaniya
+order: 113
+layout: poem
+category: chapter-3
+---
+
+### \[113. Saraṇāgamaniya[^1]\]
+
 The battle between both god-kings  
 \[had by then\] come into being.  
 A huge crowd was \[gathered for it\],  
@@ -54,7 +62,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (11) \[1706\]
 
-Thus indeed Venerable Saraṇāgamaniya Thera spoke these verses.  
+Thus indeed Venerable Saraṇāgamaniya Thera spoke these verses.
+
 The legend of Saraṇāgamaniya Thera is finished.
 
 [^1]: “Refuge-Goer,” cf. \#23, \#298, \#356{359}
@@ -67,6 +76,6 @@ The legend of Saraṇāgamaniya Thera is finished.
 
 [^5]: reading *senāyo vimhitā* (BJTS) for *senā sāvimhitā* (PTS).
 
-[^6]: I read the term *rathesabhā* as *rathe + usabh*ā, following the BJTS Sinhala gloss: *rājya-dhura-vahanayehi śreṣṭha vu* (“best among those on the vehicle which is the burden of kingship”)
+[^6]: I read the term *rathesabhā* as *rathe* + *usabhā*, following the BJTS Sinhala gloss: *rājya-dhura-vahanayehi śreṣṭha vu* (“best among those on the vehicle which is the burden of kingship”)
 
 [^7]: “Great Drum.” This reading follows BJTS for PTS *Mahāscunda*.

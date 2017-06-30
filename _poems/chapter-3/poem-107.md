@@ -1,4 +1,12 @@
-*\[107. Naḷamāliya*[^1]*\]*  
+---
+title: Naḷamāliya
+order: 107
+layout: poem
+category: chapter-3
+---
+
+### \[107. Naḷamāliya[^1]\]
+
 Taking up a garland of reeds  
 and binding it I \[then\] approached  
 Padumuttara, the Buddha,  
@@ -6,7 +14,8 @@ the World’s Best One, the Neutral One,
 the Tranquil One, the Neutral One,  
 who was seated in the grass \[then,\]  
 \[and there\] I fanned the Biped-Lord,  
-the Buddha, \[he\], the Neutral One.[^2] (1-2) \[1646-1647\]  
+the Buddha, \[he\], the Neutral One.[^2] (1-2) \[1646-1647\]
+
 The Omniscient One received \[it,\]  
 \[then\] the World-Leader fanned \[himself\].  
 Discerning what I was thinking,  
@@ -52,7 +61,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (11) \[1656\]
 
-Thus indeed Venerable Naḷamāliya Thera spoke these verses.  
+Thus indeed Venerable Naḷamāliya Thera spoke these verses.
+
 The legend of Naḷamāliya Thera is finished.
 
 [^1]: “Reed-Garland-er.” Reading naḷa° (BJTS) for nala° (PTS)

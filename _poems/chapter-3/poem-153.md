@@ -1,4 +1,12 @@
-*\[153. Vīthisammajjaka*[^1]*\]*  
+---
+title: Vīthisammajjaka
+order: 153
+layout: poem
+category: chapter-3
+---
+
+### \[153. Vīthisammajjaka[^1]\]
+
 \[I saw\] the World-Chief setting out  
 like the rising hundred-rayed \[sun\],  
 like the \[mid-day\] yellow-rayed sun,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2012\]
 
-Thus indeed Venerable Vīthisammajjaka Thera spoke these verses.  
+Thus indeed Venerable Vīthisammajjaka Thera spoke these verses.
+
 The legend of Vīthisammajjaka Thera is finished.
 
 [^1]: “Road-Sweeper”

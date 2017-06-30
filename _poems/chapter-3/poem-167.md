@@ -1,4 +1,12 @@
-*\[167. Yūthikapupphiya*[^1]*\]*  
+---
+title: Yūthikapupphiya
+order: 167
+layout: poem
+category: chapter-3
+---
+
+### \[167. Yūthikapupphiya[^1]\]
+
 On Candabhāgā River’s bank,  
 while traveling along the stream,  
 I saw the Self-Become-One there,  
@@ -10,9 +18,9 @@ Happy, with pleasure in \[my\] heart,
 I gave the Buddha \[that flower\]. (2) \[2083\]
 
 In the ninety-four aeons since  
-I did that flower-*pūjā* \[then\]*,*  
+I did that flower-*pūjā* \[then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[2084\]
+that’s the fruit of Buddha-*pūjā*. (3) \[2084\]
 
 In the sixty-seventh aeon  
 there was one \[named\] Samuddhara,[^2]  
@@ -24,9 +32,10 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2086\]
 
-Thus indeed Venerable Yūthikapupphiya Thera spoke these verses.  
+Thus indeed Venerable Yūthikapupphiya Thera spoke these verses.
+
 The legend of Yūthikapupphiya Thera is finished.
 
-[^1]: “*Yūthika-*Flower-er.” *Yūthikā* is a type of jasmine, jasminium auriculatum, Sinhala *sinidda.*
+[^1]: “*Yūthika*-Flower-er.” *Yūthikā* is a type of jasmine, jasminium auriculatum, Sinhala *sinidda*.
 
 [^2]: “Offered Up Together”

@@ -1,4 +1,12 @@
-*\[135. Rahosaññaka*[^1]*\]*  
+---
+title: Rahosaññaka
+order: 135
+layout: poem
+category: chapter-3
+---
+
+### \[135. Rahosaññaka[^1]\]
+
 Close to the Himalayan range,  
 there is a mountain called Vasabha.  
 My ashram is made very well  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[1908\]
 
-Thus indeed Venerable Rahosaññaka Thera spoke these verses.  
+Thus indeed Venerable Rahosaññaka Thera spoke these verses.
+
 The legend of Rahosaññaka Thera is finished.
 
 [^1]: “Solitary-Place Perceiver”

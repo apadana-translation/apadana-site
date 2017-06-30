@@ -1,4 +1,12 @@
-*\[166. Sappidāyaka*[^1]*\]*  
+---
+title: Sappidāyaka
+order: 166
+layout: poem
+category: chapter-3
+---
+
+### \[166. Sappidāyaka[^1]\]
+
 The Blessed One then, named Phussa,  
 Sacrificial Recipient,  
 Hero, was going on the road,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2081\]
 
-Thus indeed Venerable Sappidāyaka Thera spoke these verses.  
+Thus indeed Venerable Sappidāyaka Thera spoke these verses.
+
 The legend of Sappidāyaka Thera is finished.
 
 [^1]: “Ghee-Donor”

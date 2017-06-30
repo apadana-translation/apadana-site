@@ -1,4 +1,12 @@
-*\[145. Ummāpupphiya*[^1]*\]*  
+---
+title: Ummāpupphiya
+order: 145
+layout: poem
+category: chapter-3
+---
+
+### \[145. Ummāpupphiya[^1]\]
+
 When Siddhattha, the Blessed One,  
 Sacrificial Recipient,  
 the World-Worshipped One passed away,[^2]  
@@ -12,7 +20,7 @@ I placed \[it\] upon the stupa. (2) \[1962\]
 In the ninety-four aeons since  
 I offered that flower \[there then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of stupa-*pūjā.* (3) \[1963\]
+that’s the fruit of stupa-*pūjā*. (3) \[1963\]
 
 And in the ninth aeon ago  
 there were five and eighty monarchs.  
@@ -24,10 +32,11 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1965\]
 
-Thus indeed Venerable Ummāpupphiya Thera spoke these verses.  
+Thus indeed Venerable Ummāpupphiya Thera spoke these verses.
+
 The legend of Ummāpupphiya Thera is finished.
 
-[^1]: “Blue Flax*-*Flower-er”. cf. \#321. *Ummāpuppha* (Skt. *umāpuṣpa*) refers to the flowers of Linum usitatissimum, Linseed. The small flowers of this fiber-bearing plant are distinctively and deeply blue in color, and the seeds, as the English name implies, bear a useful oil.
+[^1]: “Blue Flax-Flower-er”. cf. \#321. *Ummāpuppha* (Skt. *umāpuṣpa*) refers to the flowers of Linum usitatissimum, Linseed. The small flowers of this fiber-bearing plant are distinctively and deeply blue in color, and the seeds, as the English name implies, bear a useful oil.
 
 [^2]: lit., “reached nirvana”
 

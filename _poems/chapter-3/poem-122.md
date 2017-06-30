@@ -1,4 +1,12 @@
-*\[122. Pupphathūpiya*[^1]*\]*  
+---
+title: Pupphathūpiya
+order: 122
+layout: poem
+category: chapter-3
+---
+
+### \[122. Pupphathūpiya[^1]\]
+
 In the Himalayan region,[^2]  
 there’s a mountain named Lambaka.[^3]  
 I was dwelling at its center,  
@@ -14,13 +22,15 @@ Buddha has been born in the world,
 bearing thirty-two great marks and  
 eighty lesser marks upon him.  
 The aura of the Best Victor,  
-fathom-wide, shines just like the sun.” (3) \[1778\][^5]  
+fathom-wide, shines just like the sun.” (3) \[1778\][^5]
+
 After hearing \[his\] students’ words,  
 the brahmin master of mantras,  
 setting out from \[his own\] ashram,  
 \[then\] asked directions, \[that\] brahmin:  
 “In which region is \[he\] living,  
-the Great Hero, the World-Leader? (4) \[1779\][^6]  
+the Great Hero, the World-Leader? (4) \[1779\][^6]
+
 I will worship that direction[^7]  
 \[and\] the Victor, Without Rival.  
 And happy, with a happy heart,  
@@ -76,16 +86,17 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (15) \[1790\]
 
-Thus indeed Venerable Pupphathūpiya Thera spoke these verses.  
+Thus indeed Venerable Pupphathūpiya Thera spoke these verses.
+
 The legend of Pupphathūpiya Thera is finished.
 
 [^1]: “Flower-Stupa-er”
 
 [^2]: or “Close to the Himalayan range”
 
-[^3]: perhaps fr. *lambati,* to hand down, “Pendulous”. \#1, \#345{348} also take place on this mountain.
+[^3]: perhaps fr. *lambati*, to hand down, “Pendulous”. \#1, \#345{348} also take place on this mountain.
 
-[^4]: lit., “you \[plural\] should know the fact through us that”. I follow the BJTS Sinhala gloss in taking this as a statement made by the students to the teacher (i.e., the rebirth precursor of the arahant). The second person plural imperative is used as a form of respectful address, so the sense is less direct than the command appears in English. The Sinhala gloss reads, “it would be good if you were to gain understanding from our words that...”
+[^4]: lit., “you \[plural\] should know the fact through us that”. I follow the BJTS Sinhala gloss in taking this as a statement made by the students to the teacher (i.e., the rebirth precursor of the arahant). The second person plural imperative is used as a form of respectful address, so the sense is less direct than the command appears in English. The Sinhala gloss reads, “it would be good if you were to gain understanding from our words that…”
 
 [^5]: PTS and BJTS agree in presenting this as a six-footed verse
 
@@ -93,7 +104,7 @@ The legend of Pupphathūpiya Thera is finished.
 
 [^7]: reading *tāhaṃ disaṃ namassissaṃ* (BJTS) for *na hi disvāna passissaŋ* (“not seeing I will look,” PTS).
 
-[^8]: BJTS reads this verb as *pūjesiṃ,* past tense “I did *pūjā,”* but here, given the context, I prefer the PTS reading *pūjessaŋ,* the future tense (sort of).
+[^8]: BJTS reads this verb as *pūjesiṃ,* past tense “I did *pūjā,”* but here, given the context, I prefer the PTS reading *pūjessaŋ*, the future tense (sort of).
 
 [^9]: lit., “the Victor’s dispensation”
 

@@ -1,4 +1,12 @@
-*\[159. Punnāgapupphiya*[^1]*\]*  
+---
+title: Punnāgapupphiya
+order: 159
+layout: poem
+category: chapter-3
+---
+
+### \[159. Punnāgapupphiya[^1]\]
+
 Plunging into a forest grove,  
 I \[lived there as\] a hunter \[then\].  
 Seeing a laurel[^2] tree in bloom,  
@@ -12,7 +20,7 @@ I offered \[it\] to the Buddha. (2) \[2039\]
 In the ninety-two aeons since  
 I did that flower-*pūjā* \[then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[2040\]
+that’s the fruit of Buddha-*pūjā*. (3) \[2040\]
 
 In the ninety-first aeon \[thence\]  
 lived \[a ruler\], Tamonuda,[^4]  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2042\]
 
-Thus indeed Venerable Punnāgapupphiya Thera spoke these verses.  
+Thus indeed Venerable Punnāgapupphiya Thera spoke these verses.
+
 The legend of Punnāgapupphiya Thera is finished.
 
 [^1]: *Punnāga-*Flower-er,” *punnāga* being a type of flowering tree (Sinhala *domba*), Alexandrian laurel.

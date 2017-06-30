@@ -1,4 +1,12 @@
-*\[115. Suvaṇṇapupphiya*[^1]*\]*  
+---
+title: Suvaṇṇapupphiya
+order: 115
+layout: poem
+category: chapter-3
+---
+
+### \[115. Suvaṇṇapupphiya[^1]\]
+
 The Blessed One named Vipassi,  
 the World’s Best One, the Bull of Men,  
 sitting down, preached the deathless state  
@@ -22,7 +30,8 @@ conveying pleasure to the world, (4) \[1719\]
 having invited the Buddha,[^4]  
 worshipping the Compliant One,[^5]  
 experiencing great delight  
-I \[then\] returned to \[my\] own house. (5) \[1720)  
+I \[then\] returned to \[my\] own house. (5) \[1720)
+
 Having entered \[my\] residence,  
 I called to mind the Best Buddha.  
 Due to that pleasure in \[my\] heart,  
@@ -31,7 +40,7 @@ I was reborn in Tusitā. (6) \[1721\]
 In the ninety-one aeons since  
 I offered that flower \[to him,\]  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (7) \[1722\]
+that’s the fruit of Buddha-*pūjā*. (7) \[1722\]
 
 There were sixteen \[different\] kings \[then,\]  
 \[all\] known as Nemisammata,[^6]  
@@ -43,7 +52,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1724\]
 
-Thus indeed Venerable Suvaṇṇapupphiya Thera spoke these verses.  
+Thus indeed Venerable Suvaṇṇapupphiya Thera spoke these verses.
+
 The legend of Suvaṇṇapupphiya Thera is finished.
 
 [^1]: “Golden Flower-er”

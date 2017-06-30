@@ -1,4 +1,12 @@
-*\[172. Nisseṇidāyaka*[^1]*\]*  
+---
+title: Nisseṇidāyaka
+order: 172
+layout: poem
+category: chapter-3
+---
+
+### \[172. Nisseṇidāyaka[^1]\]
+
 I had a stairway constructed  
 for ascending up the palace  
 of Koṇḍañña, the Blessed One,  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2115\]
 
-Thus indeed Venerable Nisseṇidāyaka Thera spoke these verses.  
+Thus indeed Venerable Nisseṇidāyaka Thera spoke these verses.
+
 The legend of Nisseṇidāyaka Thera is finished.
 
 [^1]: “Stairway-Donor”

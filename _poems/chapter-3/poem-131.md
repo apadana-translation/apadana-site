@@ -1,5 +1,14 @@
-*Sobhita Chapter, the Fourteenth*  
-*\[131. Sobhita\]*  
+---
+title: Sobhita
+order: 131
+layout: poem
+category: chapter-3
+---
+
+## Sobhita Chapter, the Fourteenth
+
+### \[131. Sobhita\]
+
 The Victor Padumuttara,  
 the World’s Best One, the Bull of Men,  
 before a large body of folks  
@@ -47,7 +56,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (10) \[1878\]
 
-Thus indeed Venerable Sobhita Thera spoke these verses.  
+Thus indeed Venerable Sobhita Thera spoke these verses.
+
 The legend of Sobhita Thera is finished.
 
 [^1]: PTS presents these lines as two verses with feet of only six syllables each; BJTS presents them (I think correctly) as a single verse whose feet measure twelve syllables each.

@@ -1,4 +1,12 @@
-*\[133. Candanapūjaka*[^1]*\]*  
+---
+title: Candanapūjaka
+order: 133
+layout: poem
+category: chapter-3
+---
+
+### \[133. Candanapūjaka[^1]\]
+
 On Candabhāgā River’s bank,  
 I was a *kinnara*[^2] back then.  
 I lived on flowers as \[my\] food  
@@ -32,7 +40,7 @@ I departed facing the north. (6) \[1891\]
 In the eighteen hundred aeons  
 since I did sandalwood-*pūjā*,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (7) \[1892\]
+that’s the fruit of Buddha-*pūjā*. (7) \[1892\]
 
 In the fourteenth aeon ago  
 there were three people \[who lived then\],  
@@ -44,7 +52,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1894\]
 
-Thus indeed Venerable Candanapūjaka Thera spoke these verses.  
+Thus indeed Venerable Candanapūjaka Thera spoke these verses.
+
 The legend of Candanapūjaka Thera is finished.
 
 [^1]: “Sandalwood-Worshipper”

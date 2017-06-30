@@ -1,5 +1,14 @@
-*Bhikkhadāyī Chapter, the Eleventh*  
-*\[101. Bhikkhadāyī*[^1]*\]*  
+---
+title: Bhikkhadāyī
+order: 101
+layout: poem
+category: chapter-3
+---
+
+## Bhikkhadāyī Chapter, the Eleventh
+
+## \[101. Bhikkhadāyī[^1]\]
+
 \[I saw\] the golden Sambuddha,  
 Sacrificial Recipient,  
 \[who,\] gone forth from the excellent  
@@ -13,7 +22,8 @@ the Wise One, \[he who was\] Tranquil. (2) \[1612\]
 When he made many folks attain  
 nirvana as they followed him,  
 a lofty joy arose in me  
-about the Buddha, Sun’s Kinsman. (3) \[1613\][^2]  
+about the Buddha, Sun’s Kinsman. (3) \[1613\][^2]
+
 In the ninety-four aeons since  
 I gave \[him\] that alms-food back then,  
 I’ve come to know no bad rebirth:  
@@ -29,7 +39,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1616\]
 
-Thus indeed Venerable Bhikkhadāyaka Thera spoke these verses.  
+Thus indeed Venerable Bhikkhadāyaka Thera spoke these verses.
+
 The legend of Bhikkhadāyaka Thera is finished.
 
 [^1]: “Giver of Begged Food.” Compare \#56. Saparivārāsana.

@@ -1,4 +1,12 @@
-*\[170. Pañcaṅguliya*[^1]*\]*  
+---
+title: Pañcaṅguliya
+order: 170
+layout: poem
+category: chapter-3
+---
+
+### \[170. Pañcaṅguliya[^1]\]
+
 The Blessed One known as Tissa,  
 the World’s Best One, the Bull of Men,  
 the Sage, inside his scented hut,[^2]  
@@ -24,15 +32,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2103\]
 
-Thus indeed Venerable Pañcaṅguliya Thera spoke these verses.  
-The legend of Pañcaṅguliya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Pañcaṅguliya Thera spoke these verses.
+
+The legend of Pañcaṅguliya Thera is finished.
+
+The Summary:
+
 Supārī and Kaṇaverī,  
 Khujjaka, Desapūjaka,  
 Kaṇikāra, Sappidada,  
 Yūthika, Dussadāyaka,  
 Māḷa and Pañcaṅgulika,  
-four and fifty verses.  
+four and fifty verses.
+
 The Supāricariya Chapter, the Seventeenth.
 
 [^1]: “Palm-Print-er”

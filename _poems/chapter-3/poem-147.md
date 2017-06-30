@@ -1,4 +1,12 @@
-*\[147. Maggadāyaka*[^1]*\]*  
+---
+title: Maggadāyaka
+order: 147
+layout: poem
+category: chapter-3
+---
+
+### \[147. Maggadāyaka[^1]\]
+
 The Eyeful One went in the forest  
 after \[he had\] crossed a river.  
 I saw Siddhattha,[^2] Sambuddha,  
@@ -24,13 +32,14 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1976\]
 
-Thus indeed Venerable Maggadāyaka Thera spoke these verses.  
+Thus indeed Venerable Maggadāyaka Thera spoke these verses.
+
 The legend of Maggadāyaka Thera is finished.
 
 [^1]: “Road-Donor”
 
 [^2]: PTS has mistakenly made the “t”’s in the name retroflex; I follow BJTS in providing the correct spelling.
 
-[^3]: *kuddāla* is the particularly South Asian version of the hoe, Sinhala *udälla.*
+[^3]: *kuddāla* is the particularly South Asian version of the hoe, Sinhala *udälla*.
 
 [^4]: “Well-Awakened”

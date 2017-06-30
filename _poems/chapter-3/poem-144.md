@@ -1,4 +1,12 @@
-*\[144. Saparivāriya*[^1]*\]*  
+---
+title: Saparivāriya
+order: 144
+layout: poem
+category: chapter-3
+---
+
+### \[144. Saparivāriya[^1]\]
+
 The Victor, Padumuttara,  
 the World’s Best One, the Bull of Men,  
 like a blazing column of fire,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1960\]
 
-Thus indeed Venerable Saparivāriya Thera spoke these verses.  
+Thus indeed Venerable Saparivāriya Thera spoke these verses.
+
 The legend of Saparivāriya Thera is finished.
 
 [^1]: “With the Retinue-er”.

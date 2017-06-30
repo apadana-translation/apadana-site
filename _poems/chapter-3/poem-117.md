@@ -1,4 +1,12 @@
-*\[117. Buddhasaññaka*[^1]*\]*  
+---
+title: Buddhasaññaka
+order: 117
+layout: poem
+category: chapter-3
+---
+
+### \[117. Buddhasaññaka[^1]\]
+
 When Vipassi, Top of the World,  
 abandoned life’s constituents,  
 the land, engirdled in water,  
@@ -44,7 +52,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1741\]
 
-Thus indeed Venerable Buddhasaññaka Thera spoke these verses.  
+Thus indeed Venerable Buddhasaññaka Thera spoke these verses.
+
 The legend of Buddhasaññaka Thera is finished.
 
 [^1]: “Buddha-Perceiver”.

@@ -1,4 +1,12 @@
-*\[175. Sīhāsanadāyaka*[^1]*\]*  
+---
+title: Sīhāsanadāyaka
+order: 175
+layout: poem
+category: chapter-3
+---
+
+### \[175. Sīhāsanadāyaka[^1]\]
+
 When the World’s Lord reached nirvana,  
 Padumuttara, the Leader,  
 I gave a lion-throne \[to him\]  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2128\]
 
-Thus indeed Venerable Sīhāsanadāyaka Thera spoke these verses.  
+Thus indeed Venerable Sīhāsanadāyaka Thera spoke these verses.
+
 The legend of Sīhāsanadāyaka Thera is finished.
 
 [^1]: “Lion-Throne-Donor”

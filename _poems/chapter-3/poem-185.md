@@ -1,4 +1,12 @@
-*\[185. Isimuggadāyaka*[^1]*\]*  
+---
+title: Isimuggadāyaka
+order: 185
+layout: poem
+category: chapter-3
+---
+
+### \[185. Isimuggadāyaka[^1]\]
+
 Like the rising hundred-rayed \[sun\],  
 like the sun \[when it\] had risen,  
 shining like royal ornaments,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2180\]
 
-Thus indeed Venerable Isimuggadāyaka Thera spoke these verses.  
+Thus indeed Venerable Isimuggadāyaka Thera spoke these verses.
+
 The legend of Isimuggadāyaka Thera is finished.
 
 [^1]: “Sage’s Mung Donor”

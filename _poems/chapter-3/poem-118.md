@@ -1,4 +1,12 @@
-*\[118. Maggasaññaka*[^1]*\]*  
+---
+title: Maggasaññaka
+order: 118
+layout: poem
+category: chapter-3
+---
+
+### \[118. Maggasaññaka[^1]\]
+
 Padumuttara Buddha’s \[own\]  
 followers, who were forest-monks,  
 were lost in a giant forest,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1747\]
 
-Thus indeed Venerable Maggasaññaka Thera spoke these verses.  
+Thus indeed Venerable Maggasaññaka Thera spoke these verses.
+
 The legend of Maggasaññaka Thera is finished.
 
 [^1]: “Road-Perceiver”

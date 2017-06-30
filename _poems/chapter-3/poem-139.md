@@ -1,4 +1,12 @@
-*\[139. Sālapupphadāyaka*[^1]*\]*  
+---
+title: Sālapupphadāyaka
+order: 139
+layout: poem
+category: chapter-3
+---
+
+### \[139. Sālapupphadāyaka[^1]\]
+
 I was the king of beasts back then,  
 a \[wild\] lion who was fearless.  
 While hunting[^2] in a mountain crag,[^3]  
@@ -17,7 +25,7 @@ I gave \[him\] those superb flowers. (3) \[1930\]
 In the ninety-one aeons since  
 I offered those flowers \[to him\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of flower-*pūjā.* (4) \[1931\]
+that’s the fruit of flower-*pūjā*. (4) \[1931\]
 
 And in the ninth aeon ago  
 there were three \[different\] kings \[back then\]  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1933\]
 
-Thus indeed Venerable Sālapupphadāyaka Thera spoke these verses.  
+Thus indeed Venerable Sālapupphadāyaka Thera spoke these verses.
+
 The legend of Sālapupphadāyaka Thera is finished.
 
 [^1]: “*Sal-*Flower-Giver”

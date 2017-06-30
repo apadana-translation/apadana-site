@@ -1,4 +1,12 @@
-*\[105. Muṭṭhipupphiya*[^1]*\]*  
+---
+title: Muṭṭhipupphiya
+order: 105
+layout: poem
+category: chapter-3
+---
+
+### \[105. Muṭṭhipupphiya[^1]\]
+
 I was a garland-maker then  
 who was known as Sudassana.[^2]  
 I saw the Buddha, Stainless One,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1638\]
 
-Thus indeed Venerable Muṭṭhipupphiya Thera spoke these verses.  
+Thus indeed Venerable Muṭṭhipupphiya Thera spoke these verses.
+
 The legend of Muṭṭhipupphiya Thera is finished.
 
 [^1]: “A Handful of Flowers-er”

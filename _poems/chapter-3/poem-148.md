@@ -1,4 +1,12 @@
-*\[148. Phalakadāyaka*[^1]*\]*  
+---
+title: Phalakadāyaka
+order: 148
+layout: poem
+category: chapter-3
+---
+
+### \[148. Phalakadāyaka[^1]\]
+
 A carriage-maker in the city,  
 I was skilled in working with wood.  
 Having made a sandalwood plank  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1982\]
 
-Thus indeed Venerable Phalakadāyaka Thera spoke these verses.  
+Thus indeed Venerable Phalakadāyaka Thera spoke these verses.
+
 The legend of Phalakadāyaka Thera is finished.
 
 [^1]: “Slab-Donor”

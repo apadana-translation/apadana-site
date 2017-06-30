@@ -1,4 +1,12 @@
-*\[190. Tivaṇṭipupphiya*[^1]*\]*  
+---
+title: Tivaṇṭipupphiya
+order: 190
+layout: poem
+category: chapter-3
+---
+
+### \[190. Tivaṇṭipupphiya[^1]\]
+
 All of them, gathered together,  
 are looking at me, overwhelmed.[^2]  
 Burning was produced \[in the minds\][^3]  
@@ -29,15 +37,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2213\]
 
-Thus indeed Venerable Tivaṇṭipupphiya Thera spoke these verses.  
-The legend of Tivaṇṭipupphiya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Tivaṇṭipupphiya Thera spoke these verses.
+
+The legend of Tivaṇṭipupphiya Thera is finished.
+
+The Summary:
+
 Kuṭaja and Bandhujīvi,  
 Koṭumbarika, Hatthiya,  
 Isimugga and \[then\] Bodhī,  
 Ekacinti, Tikaṇṇika,  
 Ekacārī and Tivaṇṭī,  
-sixty two[^7] verses are told \[here\].  
+sixty two[^7] verses are told \[here\].
+
 The Kuṭajapupphiya Chapter, the Nineteenth.
 
 [^1]: “Three Flower Stalks \[Donor\]”
@@ -48,7 +60,7 @@ The Kuṭajapupphiya Chapter, the Nineteenth.
 
 [^4]: “Good Joy”
 
-[^5]: *paddhacarā*; BJTS reads *bhaddhacarā.* Elsewhere (see below, \#194, v. 1 \[2230\]) cty glosses the term as “servant” which is also possible; this reading follows BJTS which glosses it as *sahacarayo,* associates or fellow-wanders.
+[^5]: *paddhacarā*; BJTS reads *bhaddhacarā*. Elsewhere (see below, \#194, v. 1 \[2230\]) cty glosses the term as “servant” which is also possible; this reading follows BJTS which glosses it as *sahacarayo*, associates or fellow-wanders.
 
 [^6]: that is, he was reborn eight times as a \[king\] named Dhūmaketana. The name means “Having fire \[or smoke\] on \[or as\] \[his\] banner \[or flag\]”
 

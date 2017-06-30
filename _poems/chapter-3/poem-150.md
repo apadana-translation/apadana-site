@@ -1,4 +1,12 @@
-*\[150. Pallaṅkadāyaka*[^1]*\]*  
+---
+title: Pallaṅkadāyaka
+order: 150
+layout: poem
+category: chapter-3
+---
+
+### \[150. Pallaṅkadāyaka[^1]\]
+
 I gave Sumedha, the World’s Best,  
 the Blessed One, the Neutral One,  
 a \[well-made\] couch \[for him to use,\]  
@@ -24,15 +32,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1992\]
 
-Thus indeed Venerable Pallaṅkadāyaka Thera spoke these verses.  
-The legend of Pallaṅkadāyaka Thera is finished.  
-The Summary:  
+Thus indeed Venerable Pallaṅkadāyaka Thera spoke these verses.
+
+The legend of Pallaṅkadāyaka Thera is finished.
+
+The Summary:
+
 Chatta, Thamba and Vedī,  
 Parivār’, Ummapupphiya,  
 Anulepa, Maggadāyī,  
 Phaladāyī, Vaṭaṃsaka,  
 Pallaṅkadāyī, fifty six  
-verses are \[thus\] declared \[herein\].  
+verses are \[thus\] declared \[herein\].
+
 The Chatta Chapter, the Fifteenth.
 
 [^1]: “Couch-Donor”

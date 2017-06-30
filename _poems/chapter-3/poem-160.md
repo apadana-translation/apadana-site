@@ -1,4 +1,12 @@
-*\[160. Kumudadāyaka*[^1]*\]*  
+---
+title: Kumudadāyaka
+order: 160
+layout: poem
+category: chapter-3
+---
+
+### \[160. Kumudadāyaka[^1]\]
+
 Close to the Himalayan range,  
 there was a large, natural lake  
 covered with pink and blue lotuses,  
@@ -34,22 +42,26 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[2049\]
 
-Thus indeed Venerable Kumudadāyaka Thera spoke these verses.  
-The legend of Kumudadāyaka Thera is finished.  
-The Summary:  
+Thus indeed Venerable Kumudadāyaka Thera spoke these verses.
+
+The legend of Kumudadāyaka Thera is finished.
+
+The Summary:
+
 Bandhujīva, Tambapupphī,  
 Vīthī, Kakkārapupphiya,  
 Mandārava, and Kadambī,  
 Sulika, Nāgapupphiya,  
 Punnāga, \[and\] Komudī:  
 there are six and fifty verses  
-declared \[in this chapter, complete\].  
+declared \[in this chapter, complete\].
+
 The Bandhujīvaka Chapter, the Sixteenth.
 
 [^1]: “White-Lotus-Donor”
 
-[^2]: the three types of lotus here are, respectively, the pinkish or red *paduma* (Sinhala *piyum*), the blueish or purple *uppala* (Sinhala *upul, neḷum, nil mānel*) and the *puṇḍarīka,* or white lotus, identical to the *kumuda* in his name, which is the type of flower he gives to Padumuttara Buddha in v. \[2046\]..
+[^2]: the three types of lotus here are, respectively, the pinkish or red *paduma* (Sinhala *piyum*), the blueish or purple *uppala* (Sinhala *upul*, *neḷum*, *nil mānel*) and the *puṇḍarīka*, or white lotus, identical to the *kumuda* in his name, which is the type of flower he gives to Padumuttara Buddha in v. \[2046\]..
 
-[^3]: “arjuna Tree”. *Kakudha* (a.k.a. *ajjuṇa,* Sinhala *kumbuk gasa, terminalia arjuna*) is an impressively large, shade-giving tree that grows near tanks and lakes. Crataeva Hygrophyla
+[^3]: “arjuna Tree”. *Kakudha* (a.k.a. *ajjuṇa,* Sinhala *kumbuk gasa*, *terminalia arjuna*) is an impressively large, shade-giving tree that grows near tanks and lakes. Crataeva Hygrophyla
 
 [^4]: that is, learned (clever, wise) at distinguishing what is meritorious from what is not (according to the cty: what is *kusala* or wholesome from what is *akusala*, not wholesome).

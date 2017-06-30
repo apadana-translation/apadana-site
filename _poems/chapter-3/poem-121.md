@@ -1,5 +1,14 @@
-*Sereyyaka Chapter, the Thirteenth*  
-*\[121. Sereyyaka*[^1]*\]*  
+---
+title: Sereyyaka
+order: 121
+layout: poem
+category: chapter-3
+---
+
+## Sereyyaka Chapter, the Thirteenth
+
+### \[121. Sereyyaka[^1]\]
+
 I was a learned mantra-knower  
 who had mastered the three Vedas.  
 While standing in the open air  
@@ -8,7 +17,7 @@ I saw the Leader of the World, (1) \[1767\]
 wandering the woods like a lion,  
 untrembling like a tiger-king,  
 the Great Sage, like an elephant,  
-a *mātaṅga*[^2] in three-fold rut*.*[^3] (2) \[1768\]
+a *mātaṅga*[^2] in three-fold rut.[^3] (2) \[1768\]
 
 Picking up \[some\] jasmine[^4] flower\[s,\]  
 I tossed \[them\] up into the air.  
@@ -45,7 +54,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1775\]
 
-Thus indeed Venerable Sereyyaka Thera spoke these verses.  
+Thus indeed Venerable Sereyyaka Thera spoke these verses.
+
 The legend of Sereyyaka Thera is finished.
 
 [^1]: “Jinti-Flower-er.” Sinhala *kaṭukaraṇḍu*. RD: “name of a tree (Berleria cristata)”

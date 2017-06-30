@@ -1,5 +1,14 @@
-*Kumuda Chapter, the Eighteenth*  
-*\[171. Kumudamāliya*[^1]*\]*  
+---
+title: Kumudamāliya
+order: 171
+layout: poem
+category: chapter-3
+---
+
+## Kumuda Chapter, the Eighteenth
+
+### \[171. Kumudamāliya[^1]\]
+
 In the Himalayan Mountains,  
 there was a large, natural lake.  
 I was a *rakkhasa* born there,  
@@ -28,7 +37,7 @@ the Thus-Gone-One did journey forth. (5) \[2108\]
 In the eighteen hundred aeons  
 since I offered \[that\] flower \[to him\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (6) \[2109\]
+that’s the fruit of Buddha-*pūjā*. (6) \[2109\]
 
 In the fifteenth aeon ago,  
 there were seven lords of people,  
@@ -40,7 +49,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[2111\]
 
-Thus indeed Venerable Kumudamāliya Thera spoke these verses.  
+Thus indeed Venerable Kumudamāliya Thera spoke these verses.
+
 The legend of Kumudamāliya Thera is finished.
 
 [^1]: “White-Lotus-Garland-er”

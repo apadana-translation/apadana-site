@@ -1,11 +1,20 @@
-*Supāricariya Chapter, the Seventeenth*  
-*\[161. Supāricariya*[^1]*\]*  
+---
+title: Supāricariya
+order: 161
+layout: poem
+category: chapter-3
+---
+
+## Supāricariya Chapter, the Seventeenth
+
+### \[161. Supāricariya[^1]\]
+
 The one whose name was Paduma,  
 the Bull of Men, the Biped-Lord,  
 Eyeful One, setting out from the  
 forest, was \[then\] preaching *Dhamma*. (1) \[2050\]
 
-There was a spirit[^2]*-*multitude  
+There was a spirit[^2]-multitude  
 \[staying\] close to the Sage so Great.  
 Whatever work they’d arrived for  
 they looked after all of the time. (2) \[2051\]
@@ -30,7 +39,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2055\]
 
-Thus indeed Venerable Supāricariya Thera spoke these verses.  
+Thus indeed Venerable Supāricariya Thera spoke these verses.
+
 The legend of Supāricariya Thera is finished.
 
 [^1]: “Good Service”

@@ -1,4 +1,12 @@
-*\[137. Atthasandassaka*[^1]*\]*  
+---
+title: Atthasandassaka
+order: 137
+layout: poem
+category: chapter-3
+---
+
+### \[137. Atthasandassaka[^1]\]
+
 Sitting in a large, peaked building,[^2]  
 I saw the Leader of the World,  
 Undefiled, Possessing Power,  
@@ -39,7 +47,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[1922\]
 
-Thus indeed Venerable Atthasandassaka Thera spoke these verses.  
+Thus indeed Venerable Atthasandassaka Thera spoke these verses.
+
 The legend of Atthasandassaka Thera is finished.
 
 [^1]: “Instructor of the Meaning”

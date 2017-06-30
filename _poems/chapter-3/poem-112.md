@@ -1,4 +1,12 @@
-*\[112. Sumaṅgala\]*  
+---
+title: Sumaṅgala
+order: 112
+layout: poem
+category: chapter-3
+---
+
+### \[112. Sumaṅgala\]
+
 Atthadassi, the Best Victor,  
 the World’s Best One, the Bull of Men,  
 setting out from the monastery  
@@ -16,7 +24,8 @@ glittering like \[well-crafted\] gold
 \[and\] happy, with a happy heart  
 I then snapped my fingers so to  
 conduct dances and also songs  
-and the five kinds of music \[there\].[^2] (3-4) \[1689-1690\]  
+and the five kinds of music \[there\].[^2] (3-4) \[1689-1690\]
+
 In whichever womb I’m reborn,  
 \[whether\] it’s human or divine,  
 I surpass all \[other\] creatures  
@@ -42,14 +51,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1695\]
 
-Thus indeed Venerable Sumaṅgala Thera spoke these verses.  
+Thus indeed Venerable Sumaṅgala Thera spoke these verses.
+
 The legend of Sumaṅgala Thera is finished.
 
 [^1]: the cty. (and following it, BJTS Sinhala gloss) explains that at that time he had been born as a tree-sprite (*rukkha-devatā*) living near the lake.
 
 [^2]: reading *pañcāṅgaturiyamhi* (BJTS) for *pañcaturiyatamhi* (PTS)
 
-[^3]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to denote a thoroughbred horse”
+[^3]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya*/*ājānīya*, “almost exclusively used to denote a thoroughbred horse”
 
 [^4]: reading *hāsaṃ katvāna* (BJTS) for *bhāsaŋ katvāna* (“spoke,” PTS)
 

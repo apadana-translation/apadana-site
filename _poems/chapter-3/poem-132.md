@@ -1,4 +1,12 @@
-*\[132. Sudassana*[^1]*\]*  
+---
+title: Sudassana
+order: 132
+layout: poem
+category: chapter-3
+---
+
+### \[132. Sudassana[^1]\]
+
 On the Vitattha[^2] River’s bank,  
 \[there\] was a fig tree[^3] bearing fruit.  
 While I was searching for that tree  
@@ -17,12 +25,12 @@ O Best Buddha, O Sage so Great.” (3) \[1881\]
 Doing *pūjā* \[thus\] for knowledge,  
 I \[then\] saw the \[fruiting\] fig tree;  
 I have obtained that perception:  
-that’s the fruit of knowledge-*pūjā.* (4) \[1882\]
+that’s the fruit of knowledge-*pūjā*. (4) \[1882\]
 
 In the thirty-one aeons since  
 I offered that flower \[to him,\]  
 I’ve come to know no bad rebirth:  
-that’s the fruit of knowledge-*pūjā.* (5) \[1883\]
+that’s the fruit of knowledge-*pūjā*. (5) \[1883\]
 
 In the thirteenth aeon ago  
 there were twelve \[named\] Phaluggata,[^5]  
@@ -39,7 +47,7 @@ The legend of Sudassana Thera is finished.
 
 [^1]: “Good to Look At”
 
-[^2]: PTS reads *vitthatāya nadītire,* “on a wide river bank”. I follow BJTS in the spelling of the proper name.
+[^2]: PTS reads *vitthatāya nadītire*, “on a wide river bank”. I follow BJTS in the spelling of the proper name.
 
 [^3]: lit., “*pilakkha* \[tree\]” (Sinh. *pulila*), the wave-leaved fig tree.
 

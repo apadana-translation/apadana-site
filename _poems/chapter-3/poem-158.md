@@ -1,4 +1,12 @@
-*\[158. Nāgapupphiya*[^1]*\]*  
+---
+title: Nāgapupphiya
+order: 158
+layout: poem
+category: chapter-3
+---
+
+### \[158. Nāgapupphiya[^1]\]
+
 There was a man named Suvaccha[^2]  
 a brahmin master of mantras,  
 placed in front by his own students,  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[2037\]
 
-Thus indeed Venerable Nāgapupphiya Thera spoke these verses.  
+Thus indeed Venerable Nāgapupphiya Thera spoke these verses.
+
 The legend of Nāgapupphiya Thera is finished.
 
 [^1]: “Ironwood-Flower-er”

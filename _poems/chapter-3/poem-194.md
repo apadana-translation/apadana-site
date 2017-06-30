@@ -1,4 +1,12 @@
-*\[194. Asokapūjaka*[^1]*\]*  
+---
+title: Asokapūjaka
+order: 194
+layout: poem
+category: chapter-3
+---
+
+### \[194. Asokapūjaka[^1]\]
+
 In lovely Tivarā City,  
 there was a royal garden then.  
 I was a royal attendant,[^2]  
@@ -17,7 +25,7 @@ the excellent-lotus-named Sage. (3) \[2232\]
 In the ninety-four aeons since  
 I offered that flower \[to him,\]  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (4) \[2233\]
+that’s the fruit of Buddha-*pūjā*. (4) \[2233\]
 
 In the seventieth aeon  
 were sixteen Aruṇañjahas,[^6]  
@@ -29,17 +37,18 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2235\]
 
-Thus indeed Venerable Asokapūjaka Thera spoke these verses.  
+Thus indeed Venerable Asokapūjaka Thera spoke these verses.
+
 The legend of Asokapūjaka Thera is finished.
 
 [^1]: “Offerer of Ashoka \[Blossoms\]”
 
-[^2]: BJTS reads *baddhacaro.* Cty explains the term: “I was the servant, the employee of the king”
+[^2]: BJTS reads *baddhacaro*. Cty explains the term: “I was the servant, the employee of the king”
 
 [^3]: *sappabho*
 
-[^4]: *na jahitaŋ muniŋ*, *taking* *jahita* from *jahati* to abandon, leave, relinquish, quit, give up (Sinh. *at harīma)*
+[^4]: *na jahitaŋ muniŋ*, taking *jahita* from *jahati* to abandon, leave, relinquish, quit, give up (Sinh. *at harīma*)
 
-[^5]: Jonesia Asoka, *Saraca asoca;* a large, flowering tree with dense clusters of red flowers
+[^5]: Jonesia Asoka, *Saraca asoca*; a large, flowering tree with dense clusters of red flowers
 
 [^6]: “Abandoning the Sun”

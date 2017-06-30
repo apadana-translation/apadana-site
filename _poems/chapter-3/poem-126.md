@@ -1,4 +1,12 @@
-*\[126. Kusumāsaniya*[^1]*\]*  
+---
+title: Kusumāsaniya
+order: 126
+layout: poem
+category: chapter-3
+---
+
+### \[126. Kusumāsaniya[^1]\]
+
 In the city, Dhaññavatī,  
 I was a brahmin at that time,  
 a master of the three Vedas,  
@@ -6,7 +14,8 @@ well-versed in marks and history,
 the dictionaries and poetry,[^2]  
 \[also\] skilled in \[reading\] omens,  
 an \[erudite\] grammarian;  
-I taught mantras to my students. (1-2) \[1830-1831\]  
+I taught mantras to my students. (1-2) \[1830-1831\]
+
 At that time I’d placed on the road[^3]  
 five handfuls of lotus flowers,  
 wishing to offer sacrifice  
@@ -47,7 +56,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (10) \[1839\]
 
-Thus indeed Venerable Kusumāsaniya Thera spoke these verses.  
+Thus indeed Venerable Kusumāsaniya Thera spoke these verses.
+
 The legend of Kusumāsaniya Thera is finished.
 
 [^1]: “Floral Seat-er”

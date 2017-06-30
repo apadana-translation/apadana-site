@@ -1,4 +1,12 @@
-*\[198. Muṭṭhipūjaka*[^1]*\]*  
+---
+title: Muṭṭhipūjaka
+order: 198
+layout: poem
+category: chapter-3
+---
+
+### \[198. Muṭṭhipūjaka[^1]\]
+
 The Blessed One named Sumedha,  
 the World’s Best, the Bull of Men,  
 the Victor exerted \[himself,\][^2]  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2259\]
 
-Thus indeed Venerable Muṭṭhipūjaka Thera spoke these verses.  
+Thus indeed Venerable Muṭṭhipūjaka Thera spoke these verses.
+
 The legend of Muṭṭhipūjaka Thera is finished.
 
 [^1]: “Offerer of a Handful”
@@ -33,8 +42,8 @@ The legend of Muṭṭhipūjaka Thera is finished.
 
 [^3]: reading *caṅkamamānassa* with BJTS (and PTS alt.) for PTS *kampamānassa* (“shaking” “trembling" “quaking” “quivering”)
 
-[^4]: lit., “a handful of flowers of *girinela*.” *Girinela* = Sinh. *girinil mal, girinilla;* Sri Sumangala: “a variety of vine used in medicine”
+[^4]: lit., “a handful of flowers of *girinela*.” *Girinela* = Sinh. *girinil mal*, *girinilla*; Sri Sumangala: “a variety of vine used in medicine”
 
 [^5]: lit., “kṣatriyan”
 
-[^6]: *su* + *nela (*or *neḷa),* without fault, blameless, gentle, humane: “Very Faultless One”
+[^6]: *su* + *nela* (or *neḷa*), without fault, blameless, gentle, humane: “Very Faultless One”

@@ -1,4 +1,12 @@
-*\[182. Bandhujīvaka*[^1]*\]*  
+---
+title: Bandhujīvaka
+order: 182
+layout: poem
+category: chapter-3
+---
+
+### \[182. Bandhujīvaka[^1]\]
+
 The Sambuddha named Siddhattha,  
 Self-Become, praised by good people,[^2]  
 having entered concentration,[^3]  
@@ -17,7 +25,7 @@ I offered \[them\] to Siddhattha. (3) \[2159\]
 In the ninety-four aeons since  
 I offered \[those\] flower\[s\] \[to him\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of flower-*pūjā.* (4) \[2160\]
+that’s the fruit of flower-*pūjā*. (4) \[2160\]
 
 In the fourteenth aeon ago,  
 there was one ruler of people  

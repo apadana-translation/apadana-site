@@ -1,4 +1,12 @@
-*\[130. Padumapūjaka*[^1]*\]*  
+---
+title: Padumapūjaka
+order: 130
+layout: poem
+category: chapter-3
+---
+
+### \[130. Padumapūjaka[^1]\]
+
 In the Himalayan region,  
 there’s a mountain named Gotama.  
 It’s covered with various trees,  
@@ -32,7 +40,7 @@ I passed away \[there\] at that time. (6) \[1867\]
 In the ninety-one aeons since  
 I offered \[that\] flower \[to him,\]  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (7) \[1868\]
+that’s the fruit of Buddha-*pūjā*. (7) \[1868\]
 
 In the fifty-first aeon \[hence\]  
 there was a king, Jaluttama,  
@@ -42,16 +50,21 @@ possessor of the seven gems. (8) \[1869\]
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (9)  
-Thus indeed Venerable Padumapūjaka Thera spoke these verses.  
-The legend of Padumapūjaka Thera is finished.  
-The Summary:  
+\[I have\] done what the Buddha taught! (9)
+
+Thus indeed Venerable Padumapūjaka Thera spoke these verses.
+
+The legend of Padumapūjaka Thera is finished.
+
+The Summary:
+
 Sereyyaka, Pupphathūpī,  
 Pāyās-Odaki-Thomaka,  
 Āsanī-Phala \[and\] Saññī,  
 Gandha and Padumapupphiya.  
 Five more than a hundred verses  
-preached by knowers of the meaning.  
+preached by knowers of the meaning.
+
 The Sereyyaka Chapter, the Thirteenth.
 
 [^1]: “Pink Lotus-Offerer”

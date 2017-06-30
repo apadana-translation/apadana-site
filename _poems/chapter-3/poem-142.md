@@ -1,4 +1,12 @@
-*\[142. Thambāropaka*[^1]*\]*  
+---
+title: Thambāropaka
+order: 142
+layout: poem
+category: chapter-3
+---
+
+### \[142. Thambāropaka[^1]\]
+
 When the World’s Lord reached nirvana,  
 Dhammadassi, the Bull of Men,  
 I placed a pillar with banners  
@@ -12,7 +20,7 @@ I placed \[it\] on that pillar \[then\]. (2) \[1946\]
 O! the Buddha! O! the Teaching!  
 O! our Teacher’s \[great\] achievement!  
 I’ve come to know no bad rebirth:  
-that’s the fruit of stupa-*pūjā.* (3) \[1947\]
+that’s the fruit of stupa-*pūjā*. (3) \[1947\]
 
 In the ninety-fourth aeon hence  
 there were sixteen \[different\] monarchs  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1949\]
 
-Thus indeed Venerable Thambāropaka Thera spoke these verses.  
+Thus indeed Venerable Thambāropaka Thera spoke these verses.
+
 The legend of Thambāropaka Thera is finished.
 
 [^1]: “Pillar-Placer”

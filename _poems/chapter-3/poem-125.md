@@ -1,4 +1,12 @@
-*\[125. Sammukhāthavika*[^1]*\]*  
+---
+title: Sammukhāthavika
+order: 125
+layout: poem
+category: chapter-3
+---
+
+### \[125. Sammukhāthavika[^1]\]
+
 When Vipassi \[Buddha\] was born,  
 I interpreted the omens:  
 “A Buddha is born in the world;  
@@ -119,7 +127,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (24) \[1829\]
 
-Thus indeed Venerable Sammukhāthavika Thera spoke these verses.  
+Thus indeed Venerable Sammukhāthavika Thera spoke these verses.
+
 The legend of Sammukhāthavika Thera is finished.
 
 [^1]: “Face-to-Face Then-er”

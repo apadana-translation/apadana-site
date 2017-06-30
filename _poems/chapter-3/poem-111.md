@@ -1,5 +1,14 @@
-*Mahāparivāra Chapter, the Twelfth*  
-*\[111. Mahāparivāra*[^1]*\]*  
+---
+title: Mahāparivāra
+order: 111
+layout: poem
+category: chapter-3
+---
+
+## Mahāparivāra Chapter, the Twelfth
+
+### \[111. Mahāparivāra[^1]\]
+
 The Blessed One named Vipassi,  
 the World’s Best One, the Bull of Men,  
 entered Banduma City then  
@@ -38,7 +47,7 @@ went up to \[him to take\] refuge. (7) \[1683\]
 In the ninety-one aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (8) \[1684\]
+that’s the fruit of Buddha-*pūjā*. (8) \[1684\]
 
 In the fifteenth aeon ago  
 there were sixteen \[named\] Vāhana,[^4]  
@@ -50,12 +59,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (10) \[1686\]
 
-Thus indeed Venerable Mahāparivāra Thera spoke these verses.  
+Thus indeed Venerable Mahāparivāra Thera spoke these verses.
+
 The legend of Mahāparivāra Thera is finished.
 
 [^1]: “Big Retinue”
 
-[^2]: the cty explains this as the place for doing lamp-*pūjā.*
+[^2]: the cty explains this as the place for doing lamp-*pūjā*.
 
 [^3]: *yakkhā*
 

@@ -1,4 +1,12 @@
-*\[106. Udakapūjaka*[^1]*\]*  
+---
+title: Udakapūjaka
+order: 106
+layout: poem
+category: chapter-3
+---
+
+### \[106. Udakapūjaka[^1]\]
+
 \[I saw\] the golden Sambuddha  
 going in the path of the wind,  
 glistening like an oil-altar,[^2]  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[1645\]
 
-Thus indeed Venerable Udakapūjaka Thera spoke these verses.  
+Thus indeed Venerable Udakapūjaka Thera spoke these verses.
+
 The legend of Udakapūjaka Thera is finished.
 
 [^1]: “Water-Offer-er”

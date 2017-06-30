@@ -1,4 +1,12 @@
-*\[184. Pañcahatthiya*[^1]*\]*  
+---
+title: Pañcahatthiya
+order: 184
+layout: poem
+category: chapter-3
+---
+
+### \[184. Pañcahatthiya[^1]\]
+
 The Blessed One known as Tissa  
 was the World’s Best, the Bull of Men;  
 Honored by the monks’ Assembly,[^2]  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2174\]
 
-Thus indeed Venerable Pañcahatthiya Thera spoke these verses.  
+Thus indeed Venerable Pañcahatthiya Thera spoke these verses.
+
 The legend of Pañcahatthiya Thera is finished.
 
 [^1]: “Five-handful-er”
@@ -38,7 +47,7 @@ The legend of Pañcahatthiya Thera is finished.
 
 [^3]: lit., “entered into”
 
-[^4]: lit., “are picked up,” reading *paggaṇhitaṃ* with BJTS for PTS “*‘haŋ mūgo ‘mhi”* (“I am a deer”)
+[^4]: lit., “are picked up,” reading *paggaṇhitaṃ* with BJTS for PTS “*‘haŋ mūgo ‘mhi*” (“I am a deer”)
 
 [^5]: That is, nine handfuls total. BJTS suggests another readings of “five or four handfuls,” but the “*ca*” suggests that the reading 5+4 is more appropriate. The cty does not take this up.
 

@@ -1,4 +1,12 @@
-*\[123. Pāyāsadāyaka*[^1]*\]*  
+---
+title: Pāyāsadāyaka
+order: 123
+layout: poem
+category: chapter-3
+---
+
+### \[123. Pāyāsadāyaka[^1]\]
+
 \[I saw\] the Golden Sambuddha,  
 Bearing the Thirty-two Great Marks  
 Honored by the monks’ Assembly,  
@@ -44,7 +52,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1799\]
 
-Thus indeed Venerable Pāyāsadāyaka Thera spoke these verses.  
+Thus indeed Venerable Pāyāsadāyaka Thera spoke these verses.
+
 The legend of Pāyāsadāyaka Thera is finished.
 
 [^1]: “Milk-rice Donor”

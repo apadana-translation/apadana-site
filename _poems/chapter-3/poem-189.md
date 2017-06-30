@@ -1,4 +1,12 @@
-*\[189. Ekacāriya*[^1]*\]*  
+---
+title: Ekacāriya
+order: 189
+layout: poem
+category: chapter-3
+---
+
+### \[189. Ekacāriya[^1]\]
+
 At that time a great din arose  
 among the Tāvatiṃsa gods:  
 “The world’s Buddha has passed away[^2]  
@@ -27,9 +35,10 @@ wheel-turning monarchs with great strength. (5) \[2206\]
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (5) \[2207\]
+\[I have\] done what the Buddha taught! (6) \[2207\]
 
-Thus indeed Venerable Ekacāriya Thera spoke these verses.  
+Thus indeed Venerable Ekacāriya Thera spoke these verses.
+
 The legend of Ekacāriya Thera is finished.
 
 [^1]: “Once Practicer”

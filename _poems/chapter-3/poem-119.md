@@ -1,4 +1,12 @@
-*\[119. Paccupaṭṭhānasaññaka*[^1]*\]*  
+---
+title: Paccupaṭṭhānasaññaka
+order: 119
+layout: poem
+category: chapter-3
+---
+
+### \[119. Paccupaṭṭhānasaññaka[^1]\]
+
 Right when Well-Gone Atthadassi  
 had achieved final nirvana,  
 I was born in a spirit’s[^2] womb;  
@@ -49,7 +57,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (10) \[1757\]
 
-Thus indeed Venerable Paccupaṭṭhānasaññaka Thera spoke these verses.  
+Thus indeed Venerable Paccupaṭṭhānasaññaka Thera spoke these verses.
+
 The legend of Paccupaṭṭhānasaññaka Thera is finished.
 
 [^1]: “Perceiver of Attending”
@@ -64,4 +73,4 @@ The legend of Paccupaṭṭhānasaññaka Thera is finished.
 
 [^6]: lit., “relic” (*dhātuṃ*).
 
-[^7]: “Very WIse”
+[^7]: “Very Wise”

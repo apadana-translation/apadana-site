@@ -1,4 +1,12 @@
-*\[196. Kisalayapūjaka*[^1]*\]*  
+---
+title: Kisalayapūjaka
+order: 196
+layout: poem
+category: chapter-3
+---
+
+### \[196. Kisalayapūjaka[^1]\]
+
 In the city, Dvāravatī,  
 I had a small flowering tree.[^2]  
 There was a well there \[in that place,\]  
@@ -22,7 +30,7 @@ That I, seeing that miracle,
 In the ninety-four aeons since  
 I offered \[the Buddha\] that sprout,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (5) \[2245\]
+that’s the fruit of Buddha-*pūjā*. (5) \[2245\]
 
 In the twenty-seventh aeon  
 ago lived one Ekassara,[^7]  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[2247\]
 
-Thus indeed Venerable Kisalayapūjaka Thera spoke these verses.  
+Thus indeed Venerable Kisalayapūjaka Thera spoke these verses.
+
 The legend of Kisalayapūjaka Thera is finished.
 
 [^1]: “Offerer of a Tender Sprout (or Shoot)”

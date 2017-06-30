@@ -1,4 +1,12 @@
-*\[162. Kaṇaverapupphiya*[^1]*\]*  
+---
+title: Kaṇaverapupphiya
+order: 162
+layout: poem
+category: chapter-3
+---
+
+### \[162. Kaṇaverapupphiya[^1]\]
+
 The Blessed One named Siddhattha,  
 the World’s Best One, the Bull of Men,  
 Honored by the monks’ Assembly,[^2]  
@@ -29,10 +37,11 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2061\]
 
-Thus indeed Venerable Kaṇaverapupphiya Thera spoke these verses.  
+Thus indeed Venerable Kaṇaverapupphiya Thera spoke these verses.
+
 The legend of Kaṇaverapupphiya Thera is finished.
 
-[^1]: “*Kaṇavera-*Flower-er”. *Kaṇavera* is china rose or shoe-flower, Sinhala *banduvada.* Cf. \#151, are these the same flower (both *banduvada* in Sinhala)?
+[^1]: “*Kaṇavera*-Flower-er”. *Kaṇavera* is china rose or shoe-flower, Sinhala *banduvada*. Cf. \#151, are these the same flower (both *banduvada* in Sinhala)?
 
 [^2]: lit., “Honored by his Followers”
 

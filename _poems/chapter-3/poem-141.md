@@ -1,5 +1,14 @@
-*Chatta Chapter, the Fifteenth*  
-*\[141. Adhicchattiya*[^1]*\]*  
+---
+title: Adhicchattiya
+order: 141
+layout: poem
+category: chapter-3
+---
+
+## Chatta Chapter, the Fifteenth
+
+### \[141. Adhicchattiya[^1]\]
+
 When the Blessed One passed away,[^2]  
 Atthadassi, the Ultimate Man,  
 having an upper parasol made,[^3]  
@@ -13,14 +22,15 @@ I placed it on the parasol. (2) \[1942\]
 I exercised divine rule in  
 the seventeenth aeon \[ago\].  
 I didn’t go to the human state:  
-that’s the fruit of stupa-*pūjā.* (3) \[1943\]
+that’s the fruit of stupa-*pūjā*. (3) \[1943\]
 
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[1944\]
 
-Thus indeed Venerable Adhicchattiya Thera spoke these verses.  
+Thus indeed Venerable Adhicchattiya Thera spoke these verses.
+
 The legend of Adhicchattiya Thera is finished.
 
 [^1]: “Upper Parasol-er”

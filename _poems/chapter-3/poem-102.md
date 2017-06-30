@@ -1,4 +1,12 @@
-*\[102. Ñāṇasaññaka*[^1]*\]*  
+---
+title: Ñāṇasaññaka
+order: 102
+layout: poem
+category: chapter-3
+---
+
+### \[102. Ñāṇasaññaka[^1]\]
+
 \[I saw\] the golden Sambuddha,  
 Bull of Men, like a thoroughbred,  
 the Great Sage, like an elephant,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1622\]
 
-Thus indeed Venerable Ñāṇasaññaka Thera spoke these verses.  
+Thus indeed Venerable Ñāṇasaññaka Thera spoke these verses.
+
 The legend of Ñāṇasaññaka Thera is finished.
 
 [^1]: “Knowledge-Perceiver”

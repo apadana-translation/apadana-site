@@ -1,4 +1,12 @@
-*\[127. Phaladāyaka*[^1]*\]*  
+---
+title: Phaladāyaka
+order: 127
+layout: poem
+category: chapter-3
+---
+
+### \[127. Phaladāyaka[^1]\]
+
 I was a learned mantra-knower  
 who had mastered the three Vedas.  
 I lived in an ashram \[back then,\]  
@@ -44,7 +52,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1848\]
 
-Thus indeed Venerable Phaladāyaka Thera spoke these verses.  
+Thus indeed Venerable Phaladāyaka Thera spoke these verses.
+
 The legend of Phaladāyaka Thera is finished.
 
 [^1]: “Fruit Donor”

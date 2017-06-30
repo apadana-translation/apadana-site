@@ -1,4 +1,12 @@
-*\[120. Jātipūjaka*[^1]*\]*  
+---
+title: Jātipūjaka
+order: 120
+layout: poem
+category: chapter-3
+---
+
+### \[120. Jātipūjaka[^1]\]
+
 When Vipassi \[Buddha\] was born,  
 there was a vast effulgence \[there\].  
 The earth itself quaked \[in response\],  
@@ -22,17 +30,17 @@ I passed away \[right\] on the spot. (4) \[1761\]
 In whichever womb I’m reborn,  
 \[whether\] it’s human or divine,  
 I surpass all \[other\] creatures:  
-that is the fruit of birth-*pūjā.* (5) \[1762\]
+that is the fruit of birth-*pūjā*. (5) \[1762\]
 
 The relics \[now\] look after me,  
 through the power of my \[own\] heart.  
 \[Others\] cannot disturb me \[now\]:  
-that is the fruit of birth-*pūjā.* (6) \[1763\]
+that is the fruit of birth-*pūjā*. (6) \[1763\]
 
 In the ninety-one aeons since  
 I performed that *pūjā* back then,  
 I’ve come to know no bad rebirth:  
-that is the fruit of birth-*pūjā.* (7) \[1764\]
+that is the fruit of birth-*pūjā*. (7) \[1764\]
 
 In the thirtieth aeon ago,  
 four and thirty lords of people,  
@@ -44,15 +52,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1766\]
 
-Thus indeed Venerable Jātipūjaka Thera spoke these verses.  
-The legend of Jātipūjaka Thera is finished.  
-The Summary:  
+Thus indeed Venerable Jātipūjaka Thera spoke these verses.
+
+The legend of Jātipūjaka Thera is finished.
+
+The Summary:
+
 Parivāra, Sumaṅgalya,  
 Saraṇ, Āsana, Pupphika,  
 Citapūjī, Buddhasaññī,  
 Magg’, Upaṭṭhāna, Jātina  
 ninety uttered verses are  
-counted clearly \[in this part\].  
+counted clearly \[in this part\].
+
 The Mahāparivāra Chapter, the Twelfth.
 
 [^1]: “Birth-Worshipper”
