@@ -59,7 +59,12 @@ document.addEventListener('DOMContentLoaded', function() {
   var diacriticsKeys = Object.keys(diacriticsMap).join('|');
   var diacritics = new RegExp('\(' + diacriticsKeys + '\)(?!([^<]+)?>)', 'g');
   $("#poem").html(function(_,html){
-      return html.replace(diacritics, '<span class="diacritics" data-state="on">$1</span>')
+      return html.replace(diacritics, function($1, match, key) {
+        var key = $1,
+            swap = diacriticsMap[key] || match;
+        var string = '<span class="diacritics" data-state="on">' + key + '</span><span class="no-diacritics" data-state="off">' + swap + '</span>';
+        return string;
+      });
   });
 });
 
@@ -69,27 +74,29 @@ document.addEventListener('DOMContentLoaded', function() {
 // 1) Chapter Headings
 var toggleChHeadings = document.querySelector('#toggle--ch-headings');
 var elemChHeadings = 'h2.ch-heading';
-toggle(toggleChHeadings, elemChHeadings);
+toggle(toggleChHeadings, elemChHeadings, 'on', 'off');
 
 // 2) Sidenotes
 var toggleNotes = document.querySelector('#toggle--notes');
 var elemNotes = ['aside.sidenote', 'a.footnoteRef'];
-toggle(toggleNotes, elemNotes);
+toggle(toggleNotes, elemNotes, 'on', 'off');
 
 // 3) Brackets
 var toggleBrackets = document.querySelector('#toggle--brackets');
 var elemBrackets = 'span.bracket';
-toggle(toggleBrackets, elemBrackets);
+toggle(toggleBrackets, elemBrackets, 'on', 'off');
 
 // 4) Verse Numbers
 var toggleVerseNumbers = document.querySelector('#toggle--verse-numbers');
 var elemVerseNumbers = 'span.verse-number';
-toggle(toggleVerseNumbers, elemVerseNumbers);
+toggle(toggleVerseNumbers, elemVerseNumbers, 'on', 'off');
 
 // 5) Diacritics
 var toggleDiacritics = document.querySelector('#toggle--diacritics');
 var elemDiacritics = 'span.diacritics';
-toggle(toggleDiacritics, elemDiacritics);
+var elemNoDiacritics = 'span.no-diacritics';
+toggle(toggleDiacritics, elemNoDiacritics, 'off', 'on');
+toggle(toggleDiacritics, elemDiacritics, 'on', 'off');
 
 // 6) Toggle all
 var toggleAll = document.querySelectorAll('.switch__input');
@@ -100,13 +107,13 @@ $(toggleAll[0]).change(function() {
 // ===================================
 // Toggle Functions
 // ===================================
-function toggle(button, feature) {
+function toggle(button, feature, one, two) {
 
   $(button).children(':checkbox').change(function() {
     if (this.checked) {
-      data(feature, 'data-state', 'on');
+      data(feature, 'data-state', one);
     } else {
-      data(feature, 'data-state', 'off');
+      data(feature, 'data-state', two);
     }
   });
 
