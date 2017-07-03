@@ -45,12 +45,12 @@ defaults:
       path: "_poems/chapter-3/"
       type: "poems"
     values:
-      category: "The Legend of the Theras"
+      category: "The Legends of the Theras"
   - scope:
       path: "_poems/chapter-4/"
       type: "poems"
     values:
-      category: "The Legend of the Therīs"
+      category: "The Legends of the Therīs"
   # Pages
   - scope:
       path: _pages
