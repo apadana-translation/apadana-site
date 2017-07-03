@@ -1,4 +1,12 @@
-*\[215. Raŋsisaññaka*[^1]*\]*  
+---
+title: Raŋsisaññaka
+order: 215
+layout: poem
+category: chapter-3
+---
+
+### \[215. Raŋsisaññaka[^1]\]
+
 \[I saw\] the superb Tiger-Bull,  
 Well-Born-One, on a mountainside,  
 like the rising hundred-rayed \[sun\],  
@@ -29,12 +37,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2344\]
 
-Thus indeed Venerable Raŋsisaññaka Thera spoke these verses.  
+Thus indeed Venerable Raŋsisaññaka Thera spoke these verses.
+
 The legend of Raŋsisaññaka Thera is finished.
 
 [^1]: “Ray-Perceiver”
 
-[^2]: *vītaraṃsi/vītaraṃsa.* RD says the metaphor is much attested, but unclear. I take it to refer to sunny days that are not oppressively hot, whether due to light cover, the time of day, or the time of year.
+[^2]: *vītaraṃsi*/*vītaraṃsa*. RD says the metaphor is much attested, but unclear. I take it to refer to sunny days that are not oppressively hot, whether due to light cover, the time of day, or the time of year.
 
 [^3]: lit., remaining, additional
 

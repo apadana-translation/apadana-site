@@ -1,4 +1,12 @@
-*\[256. ‘Pāhanadāyaka*[^1]*\]*  
+---
+title: ‘Pāhanadāyaka
+order: 256
+layout: poem
+category: chapter-3
+---
+
+### \[256. ‘Pāhanadāyaka[^1]\]
+
 Back then I was the Buddha’s son,  
 \[a boy whose\] name was Candana.[^2]  
 I donated one of my shoes  
@@ -14,7 +22,8 @@ and these eight deliverances;
 six special knowledges mastered:  
 \[I have\] done what the Buddha taught! (3) \[2520\]
 
-Thus indeed Venerable ‘Pāhanadāyaka Thera spoke these verses.  
+Thus indeed Venerable ‘Pāhanadāyaka Thera spoke these verses.
+
 The legend of ‘Pāhanadāyaka Thera is finished.
 
 [^1]: that is, Upāhana-dāyaka, supplying (as do some manuscripts) the elided “u”. “Shoe-donor”

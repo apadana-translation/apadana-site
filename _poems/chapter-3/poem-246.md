@@ -1,4 +1,12 @@
-*\[246. Pattadāyaka*[^1]*\]*  
+---
+title: Pattadāyaka
+order: 246
+layout: poem
+category: chapter-3
+---
+
+### \[246. Pattadāyaka[^1]\]
+
 After \[he’d\] superbly tamed \[me\],  
 I made the gift of an alms-bowl  
 to the Great Sage \[named\] Siddhattha,  
@@ -14,7 +22,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (3) \[2483\]
 
-Thus indeed Venerable Pattadāyaka Thera spoke these verses.  
+Thus indeed Venerable Pattadāyaka Thera spoke these verses.
+
 The legend of Pattadāyaka Thera is finished.
 
 [^1]: “Bowl-Donor”

@@ -1,4 +1,12 @@
-*\[222. Ajinadāyaka*[^1]*\]*  
+---
+title: Ajinadāyaka
+order: 222
+layout: poem
+category: chapter-3
+---
+
+### \[222. Ajinadāyaka[^1]\]
+
 Thirty-one aeons in the past,[^2]  
 I \[made\] mats for the multitude.  
 I saw the Buddha, Stainless One,  
@@ -11,7 +19,8 @@ O World’s Best, O Bull of Men,
 experiencing happiness,  
 I destroyed \[my\] defilements.  
 I \[now\] possess my last body  
-in the Buddha’s[^3] dispensation. (2-3) \[2379-2380\]  
+in the Buddha’s[^3] dispensation. (2-3) \[2379-2380\]
+
 In the thirty-one aeons since  
 I gave that deer\[-leather to him\],  
 I’ve come to know no bad rebirth:  
@@ -27,7 +36,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2383\]
 
-Thus indeed Venerable Ajinadāyaka Thera spoke these verses.  
+Thus indeed Venerable Ajinadāyaka Thera spoke these verses.
+
 The legend of Ajinadāyaka Thera is finished.
 
 [^1]: “Deer-Hide Donor”

@@ -1,4 +1,12 @@
-*\[289. Buddhūpaṭṭhāyaka*[^1]*\]*  
+---
+title: Buddhūpaṭṭhāyaka
+order: 289
+layout: poem
+category: chapter-3
+---
+
+### \[289. Buddhūpaṭṭhāyaka[^1]\]
+
 Veṭambari[^2] was the name of  
 \[the man\] who was my father then.  
 Having taken \[me by\] my hand,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2664\]
 
-Thus indeed Venerable Buddhūpaṭṭhāyaka Thera spoke these verses.  
+Thus indeed Venerable Buddhūpaṭṭhāyaka Thera spoke these verses.
+
 The legend of Buddhūpaṭṭhāyaka Thera is finished.
 
 [^1]: “Buddha-Server” or “Attendant on the Buddha”

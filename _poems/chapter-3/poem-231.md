@@ -1,5 +1,14 @@
-*Udakāsanadāyi Chapter, the Twenty-Fourth*  
-*\[231. Udakāsanadāyaka*[^1]*\]*  
+---
+title: Udakāsanadāyaka
+order: 231
+layout: poem
+category: chapter-3
+---
+
+## Udakāsanadāyi Chapter, the Twenty-Fourth
+
+### \[231. Udakāsanadāyaka[^1]\]
+
 Coming out from the ashram gate  
 I spread out a plank \[for sitting\],  
 and I served water in order  
@@ -20,7 +29,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2427\]
 
-Thus indeed Venerable Udakāsanadāyaka Thera spoke these verses.  
+Thus indeed Venerable Udakāsanadāyaka Thera spoke these verses.
+
 The legend of Udakāsanadāyaka Thera is finished.
 
 [^1]: “Water-and-Seat-er”

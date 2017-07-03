@@ -1,4 +1,12 @@
-*\[272. Tilamuṭṭhidāyaka*[^1]*\]*  
+---
+title: Tilamuṭṭhidāyaka
+order: 272
+layout: poem
+category: chapter-3
+---
+
+### \[272. Tilamuṭṭhidāyaka[^1]\]
+
 Discerning what I was thinking,  
 the Teacher, the World’s Chief Leader,  
 by means of his body made of  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2590\]
 
-Thus indeed Venerable Tilamuṭṭhidāyaka Thera spoke these verses.  
+Thus indeed Venerable Tilamuṭṭhidāyaka Thera spoke these verses.
+
 The legend of Tilamuṭṭhidāyaka Thera is finished.
 
 [^1]: “Sesame-handful Donor”

@@ -1,4 +1,12 @@
-*\[229. Sukatāveḷiya*[^1]*\]*  
+---
+title: Sukatāveḷiya
+order: 229
+layout: poem
+category: chapter-3
+---
+
+### \[229. Sukatāveḷiya[^1]\]
+
 Back then \[I\] was named Asita,[^2]  
 \[and\] I was a garland-maker.  
 Picking up a flower-garland,[^3]  
@@ -12,7 +20,7 @@ I offered \[it\] to the Buddha. (2) \[2416\]
 In the thirty-one aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[2417\]
+that’s the fruit of Buddha-*pūjā*. (3) \[2417\]
 
 In the twenty-fifth aeon hence  
 I was a king who had great strength,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2419\]
 
-Thus indeed Venerable Sukatāveḷiya Thera spoke these verses.  
+Thus indeed Venerable Sukatāveḷiya Thera spoke these verses.
+
 The legend of Sukatāveḷiya Thera is finished.
 
 [^1]: “Well-made Flower Garland”

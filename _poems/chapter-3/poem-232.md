@@ -1,4 +1,12 @@
-*\[232. Bhājanadāyaka*[^1]*\]*  
+---
+title: Bhājanadāyaka
+order: 232
+layout: poem
+category: chapter-3
+---
+
+### \[232. Bhājanadāyaka[^1]\]
+
 In the city, Bandumatī,  
 I was a potter at that time.  
 For a long time I protected[^2]  
@@ -19,12 +27,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2431\]
 
-Thus indeed Venerable Bhājanadāyaka Thera spoke these verses.  
+Thus indeed Venerable Bhājanadāyaka Thera spoke these verses.
+
 The legend of Bhājanadāyaka Thera is finished.
 
 [^1]: “Vessel Donor”
 
-[^2]: *anupālesiŋ.* One would prefer the meaning “I made” or “I provided,” but this is the Pāli.
+[^2]: *anupālesiŋ*. One would prefer the meaning “I made” or “I provided,” but this is the Pāli.
 
 [^3]: *bhikkhusaṅgha*
 

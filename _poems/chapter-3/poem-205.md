@@ -1,4 +1,12 @@
-*\[205. Nigguṇḍipupphiya*[^1]*\]*  
+---
+title: Nigguṇḍipupphiya
+order: 205
+layout: poem
+category: chapter-3
+---
+
+### \[205. Nigguṇḍipupphiya[^1]\]
+
 I was dwelling in the ashram  
 of Vipassi, the Blessed One.  
 Gathering *nigguṇḍi*[^2] flowers,  
@@ -7,7 +15,7 @@ I offered \[them\] to the Buddha. (1) \[2290\]
 In the ninety-one aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (2) \[2291\]
+that’s the fruit of Buddha-*pūjā*. (2) \[2291\]
 
 In the thirty-fifth aeon hence  
 there was one lord of the people  
@@ -19,11 +27,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2293\]
 
-Thus indeed Venerable Nigguṇḍipupphiya Thera spoke these verses.  
+Thus indeed Venerable Nigguṇḍipupphiya Thera spoke these verses.
+
 The legend of Nigguṇḍipupphiya Thera is finished.
 
 [^1]: “*Nigguṇḍi*-Flower-er”
 
-[^2]: a kind of tree, Vitex nigunda*.* Sinh: *nika*
+[^2]: a kind of tree, Vitex nigunda. Sinh: *nika*
 
 [^3]: “Great Cosmic Heat” or “Great Austerities”

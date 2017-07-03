@@ -1,5 +1,14 @@
-*Hatthi Chapter, the Twenty-Second*  
-*\[211. Hatthidāyaka*[^1]*\]*  
+---
+title: Hatthidāyaka
+order: 211
+layout: poem
+category: chapter-3
+---
+
+## Hatthi Chapter, the Twenty-Second
+
+### \[211. Hatthidāyaka[^1]\]
+
 I gifted a fine elephant,  
 with tusks like plough-poles, fully grown,  
 to Siddhattha, the Blessed One,  
@@ -25,7 +34,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2323\]
 
-Thus indeed Venerable Hatthidāyaka Thera spoke these verses.  
+Thus indeed Venerable Hatthidāyaka Thera spoke these verses.
+
 The legend of Hatthidāyaka Thera is finished.
 
 [^1]: “Elephant Donor”

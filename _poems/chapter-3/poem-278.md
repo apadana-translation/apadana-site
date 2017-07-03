@@ -1,4 +1,12 @@
-*\[278. Āluvadāyaka*[^1]*\]*  
+---
+title: Āluvadāyaka
+order: 278
+layout: poem
+category: chapter-3
+---
+
+### \[278. Āluvadāyaka[^1]\]
+
 On a Himalayan mountain  
 flows the great Indus, beautiful.  
 There I saw the Passionless One,  
@@ -19,9 +27,10 @@ and these eight deliverances,
 six special knowledges mastered:  
 \[I have\] done what the Buddha taught! (4) \[2615\]
 
-Thus indeed Venerable Āluvadāyaka Thera spoke these verses.  
+Thus indeed Venerable Āluvadāyaka Thera spoke these verses.
+
 The legend of Āluvadāyaka Thera is finished.
 
-[^1]: “Bulbous Root Donor.” BJTS glosses this term as Sinh. *ala,* root, bulbous root, as in *ala-tarpal,* potato. Cty says it was a portion (*khaṇḍa*) of the stuff.
+[^1]: “Bulbous Root Donor.” BJTS glosses this term as Sinh. *ala*, root, bulbous root, as in *ala-tarpal*, potato. Cty says it was a portion (*khaṇḍa*) of the stuff.
 
-[^2]: following cty and BJTS in reading *sappapabhāsa* as = *su-(p)pabhāsa,* “very bright”
+[^2]: following cty and BJTS in reading *sappapabhāsa* as = *su-(p)pabhāsa*, “very bright”

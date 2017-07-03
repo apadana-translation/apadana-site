@@ -1,4 +1,12 @@
-*\[252. Ekāsanadāyaka*[^1]*\]*  
+---
+title: Ekāsanadāyaka
+order: 252
+layout: poem
+category: chapter-3
+---
+
+### \[252. Ekāsanadāyaka[^1]\]
+
 Sloughing off[^2] my godly color,[^3]  
 I came to this place with my wife,  
 desiring to do service to  
@@ -19,14 +27,15 @@ and these eight deliverances,
 six special knowledges mastered:  
 \[I have\] done what the Buddha taught! (4) \[2506\]
 
-Thus indeed Venerable Ekāsanadāyaka Thera spoke these verses.  
+Thus indeed Venerable Ekāsanadāyaka Thera spoke these verses.
+
 The legend of Ekāsanadāyaka Thera is finished.
 
 [^1]: “One-Seat-Donor”
 
 [^2]: or “abandoning,” “giving up”
 
-[^3]: *devavaṇṇaŋ.* Or “royal caste”?
+[^3]: *devavaṇṇaŋ*. Or “royal caste”?
 
 [^4]: *Buddhaseṭṭhassa sāsane*
 

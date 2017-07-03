@@ -1,4 +1,12 @@
-*\[258. Paṇṇadāyaka*[^1]*\]*  
+---
+title: Paṇṇadāyaka
+order: 258
+layout: poem
+category: chapter-3
+---
+
+### \[258. Paṇṇadāyaka[^1]\]
+
 On a Himalayan mountain,  
 I was a bark-clothed \[ascetic\],  
 subsisting on unsalted leaves,  
@@ -24,11 +32,12 @@ and these eight deliverances;
 six special knowledges mastered:  
 \[I have\] done what the Buddha taught! (5) \[2530\]
 
-Thus indeed Venerable Paṇṇadāyaka Thera spoke these verses.  
+Thus indeed Venerable Paṇṇadāyaka Thera spoke these verses.
+
 The legend of Paṇṇadāyaka Thera is finished.
 
 [^1]: “Leaf-Donor”
 
-[^2]: *niyamesu saŋvuta,* lit., “self-controlled with regard to necessities”
+[^2]: *niyamesu saŋvuta*, lit., “self-controlled with regard to necessities”
 
 [^3]: = *yad* + *atthiya*, “Whatever Meaning” (?)

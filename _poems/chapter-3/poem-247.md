@@ -1,4 +1,12 @@
-*\[247. Dhātupūjaka*[^1]*\]*  
+---
+title: Dhātupūjaka
+order: 247
+layout: poem
+category: chapter-3
+---
+
+### \[247. Dhātupūjaka[^1]\]
+
 When Siddhattha, the Best of Men,  
 the World’s Lord, reached nirvana,  
 I received a single relic  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2487\]
 
-Thus indeed Venerable Dhātupūjaka Thera spoke these verses.  
+Thus indeed Venerable Dhātupūjaka Thera spoke these verses.
+
 The legend of Dhātupūjaka Thera is finished.
 
 [^1]: “Relic-Worshipper”

@@ -1,4 +1,12 @@
-*\[216. Saṇṭhita*[^1]*\]*  
+---
+title: Saṇṭhita
+order: 216
+layout: poem
+category: chapter-3
+---
+
+### \[216. Saṇṭhita[^1]\]
+
 I obtained perception of the  
 Mindful One, \[seeing\] a Buddha  
 gone beneath an Aśvattha[^2] tree,  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2348\]
 
-Thus indeed Venerable Saṇṭhita Thera spoke these verses.  
+Thus indeed Venerable Saṇṭhita Thera spoke these verses.
+
 The legend of Saṇṭhita Thera is finished.
 
 [^1]: “Well-Settled”

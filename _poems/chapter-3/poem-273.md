@@ -1,4 +1,12 @@
-*\[273. Caṅgoṭakiya*[^1]*\]*  
+---
+title: Caṅgoṭakiya
+order: 273
+layout: poem
+category: chapter-3
+---
+
+### \[273. Caṅgoṭakiya[^1]\]
+
 While dwelling amidst the mountains,  
 living off of \[food from\] the sea,  
 not wishing to fall backwards I  
@@ -19,9 +27,10 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2594\]
 
-Thus indeed Venerable Caṅgoṭakiya Thera spoke these verses.  
+Thus indeed Venerable Caṅgoṭakiya Thera spoke these verses.
+
 The legend of Caṅgoṭakiya Thera is finished.
 
 [^1]: “Box-er”
 
-[^2]: *caṅgoṭakam*, “box,” glossed here as *goṭuwak,* a cup-shaped container
+[^2]: *caṅgoṭakam*, “box,” glossed here as *goṭuwak*, a cup-shaped container

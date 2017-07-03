@@ -1,4 +1,12 @@
-*\[206. Udakadāyaka*[^1]*\]*  
+---
+title: Udakadāyaka
+order: 206
+layout: poem
+category: chapter-3
+---
+
+### \[206. Udakadāyaka[^1]\]
+
 Seeing the Monk,[^2] who was eating,  
 Extremely Bright and Undisturbed,  
 bringing water in a small pot,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2298\]
 
-Thus indeed Venerable Udakadāyaka Thera spoke these verses.  
+Thus indeed Venerable Udakadāyaka Thera spoke these verses.
+
 The legend of Udakadāyaka Thera is finished.
 
 [^1]: “Water Donor”

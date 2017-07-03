@@ -1,5 +1,14 @@
-*Padumukkhepa Chapter, the Twenty-Seventh*  
-*\[261. Ākāsukkhipiya*[^1]*\]*  
+---
+title: Ākāsukkhipiya
+order: 261
+layout: poem
+category: chapter-3
+---
+
+## Padumukkhepa Chapter, the Twenty-Seventh
+
+### \[261. Ākāsukkhipiya[^1]\]
+
 Taking two water-born flowers,[^2]  
 I approached the Bull Among Men,  
 Siddhattha, gold-colored \[Buddha\],  
@@ -25,12 +34,13 @@ and these eight deliverances;
 six special knowledges mastered:  
 \[I have\] done what the Buddha taught! (5) \[2544\]
 
-Thus indeed Venerable Ākāsukkhipiya Thera spoke these verses.  
+Thus indeed Venerable Ākāsukkhipiya Thera spoke these verses.
+
 The legend of Ākāsukkhipiya Thera is finished.
 
 [^1]: “Sky-Scatterer” or “Thrown Up Into the Sky”. The name of each Chapter usually corresponds to the proper name of the subject of the first *apadāna* in it. The same is only partly true here. While the chapter name, *paduma-ukkhepa* (“Pink Lotus Thrown Upward”), alludes both linguistically and descriptively to the name of the Thera, it is not, in fact, his proper name.
 
-[^2]: *jalajagge* *duve gayhā.* This follows the cty, which explains: *jale udake jāte agge uppalādayo dve pupphe gahetvā* (“taking two flowers such as lotus, the best ones, born in the water”)
+[^2]: *jalajagge duve gayhā*. This follows the cty, which explains: *jale udake jāte agge uppalādayo dve pupphe gahetvā* (“taking two flowers such as lotus, the best ones, born in the water”)
 
 [^3]: lit., “and one”
 

@@ -1,4 +1,12 @@
-*\[224. Ārakkhadāyaka*[^1]*\]*  
+---
+title: Ārakkhadāyaka
+order: 224
+layout: poem
+category: chapter-3
+---
+
+### \[224. Ārakkhadāyaka[^1]\]
+
 I caused an altar[^2] to be made  
 for Siddhattha, the Blessed One,  
 and I \[also\] gave protection  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2395\]
 
-Thus indeed Venerable Ārakkhadāyaka Thera spoke these verses.  
+Thus indeed Venerable Ārakkhadāyaka Thera spoke these verses.
+
 The legend of Ārakkhadāyaka Thera is finished.
 
 [^1]: “Protection-Giver”

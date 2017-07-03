@@ -1,5 +1,13 @@
-*\[287. Apadāniya*[^1]*\]*  
-I praised the *apadāna*s of  
+---
+title: Apadāniya
+order: 287
+layout: poem
+category: chapter-3
+---
+
+### \[287. Apadāniya[^1]\]
+
+I praised the *apadāna*/s of  
 the Great Sages, the Well-Gone Ones,  
 and worshipped them, head on \[their\] feet,  
 \[feeling well-\]pleased by \[my\] own hands. (1) \[2652\]
@@ -14,7 +22,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (3) \[2654\]
 
-Thus indeed Venerable Apadāniya Thera spoke these verses.  
+Thus indeed Venerable Apadāniya Thera spoke these verses.
+
 The legend of Apadāniya Thera is finished.
 
 [^1]: “*Apadāna*-er”

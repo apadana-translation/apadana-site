@@ -1,4 +1,12 @@
-*\[275. Ekañjaliya*[^1]*\]*  
+---
+title: Ekañjaliya
+order: 275
+layout: poem
+category: chapter-3
+---
+
+### \[275. Ekañjaliya[^1]\]
+
 I gave an open dwelling place  
 to the Recluse, the Greatest Sage,  
 dwelling in \[the shade of\] a fig[^2]  
@@ -24,18 +32,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2604\]
 
-Thus indeed Venerable Ekañjaliya Thera spoke these verses.  
+Thus indeed Venerable Ekañjaliya Thera spoke these verses.
+
 The legend of Ekañjaliya Thera is finished.
 
 [^1]: “One Salute”
 
-[^2]: *udumbara,* Sinh. *dimbul*
+[^2]: *udumbara*, Sinh. *dimbul*
 
 [^3]: or “fixed,” “established”
 
 [^4]: lit., “Raising up *añjali*”
 
-[^5]: *manujâdhipo,* lit., “exerciser of power over those born of Manu.”
+[^5]: *manujâdhipo*, lit., “exerciser of power over those born of Manu.”
 
 [^6]: lit., “named,” “by name”
 

@@ -1,4 +1,12 @@
-*\[220. Pāpanivāriya*[^1]*\]*  
+---
+title: Pāpanivāriya
+order: 220
+layout: poem
+category: chapter-3
+---
+
+### \[220. Pāpanivāriya[^1]\]
+
 The Blessed One, Piyadassi’s  
 walkway was purified by me,  
 with a covering made of reeds[^2]  
@@ -19,20 +27,24 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2372\]
 
-Thus indeed Venerable Pāpanivāriya Thera spoke these verses.  
-The legend of Pāpanivāriya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Pāpanivāriya Thera spoke these verses.
+
+The legend of Pāpanivāriya Thera is finished.
+
+The Summary:
+
 Hatthi, Pānadhi, Sacca,  
 Ekasaññi and Raŋsiya,  
 Saṇṭhita and Tālavaṇṭī,  
 likewise Akkantasaññaka;  
 Sappi and Pāpanivārī,  
-\[make\] four plus fifty verses \[here\].  
+\[make\] four plus fifty verses \[here\].
+
 The Hatthi Chapter, the Twenty-Second
 
 [^1]: “Sin-Obstructer”
 
-[^2]: reading *naḷakehi* with BJTS (and PTS alternative reading) for PTS *nalakehi* .
+[^2]: reading *naḷakehi* with BJTS (and PTS alternative reading) for PTS *nalakehi*.
 
 [^3]: *pāpaŋ*
 

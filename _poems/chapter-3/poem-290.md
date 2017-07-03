@@ -1,4 +1,12 @@
-*\[290. Pubbaṅgamaniya*[^1]*\]*  
+---
+title: Pubbaṅgamaniya
+order: 290
+layout: poem
+category: chapter-3
+---
+
+### \[290. Pubbaṅgamaniya[^1]\]
+
 Eighty-four thousand \[great people\]  
 renounced the world, nothing at all.  
 I gave precedence to them \[then,\]  
@@ -29,15 +37,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2670\]
 
-Thus indeed Venerable Pubbaṅgamaniya Thera spoke these verses.  
-The legend of Pubbaṅgamaniya Thera is finished.  
-The summary:  
+Thus indeed Venerable Pubbaṅgamaniya Thera spoke these verses.
+
+The legend of Pubbaṅgamaniya Thera is finished.
+
+The Summary:
+
 Paṇṇa, Phala, Uggamiya,  
 Ekapupphi, and Maghava,  
-Upaṭṭhāka’s *apadāna,*  
+Upaṭṭhāka’s *apadāna*,  
 Pabbajja and Upaṭṭhaha,  
 and Pubbaṅgama; the verses  
-are counted as forty and eight.  
+are counted as forty and eight.
+
 The Paṇṇadāyaka Chapter, the Twenty-Ninth
 
 [^1]: “Precedence-giver”
@@ -46,10 +58,10 @@ The Paṇṇadāyaka Chapter, the Twenty-Ninth
 
 [^3]: *vippasannaŋ*
 
-[^4]: *khīṇâsava,* lit., “whose defilements (*āsava*s, “outflows”) had been destroyed,” that is, they were arahants
+[^4]: *khīṇâsava*, lit., “whose defilements (*āsava*/s, “outflows”) had been destroyed,” that is, they were arahants
 
-[^5]: *vanta-dosa,* lit., “whose defects/anger/bad deeds had been vomited out”
+[^5]: *vanta-dosa*, lit., “whose defects/anger/bad deeds had been vomited out”
 
-[^6]: *anāsava;* the two epithets in the second line are positive statements of the two negative epithets in the first line.
+[^6]: *anāsava*; the two epithets in the second line are positive statements of the two negative epithets in the first line.
 
 [^7]: lit., “fully mindful of the Sambuddha”

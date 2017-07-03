@@ -1,4 +1,12 @@
-*\[263. Aḍḍhacandiya*[^1]*\]*  
+---
+title: Aḍḍhacandiya
+order: 263
+layout: poem
+category: chapter-3
+---
+
+### \[263. Aḍḍhacandiya[^1]\]
+
 A half-moon[^2] was given by me  
 at the tree[^3] rising up from earth,  
 at the feet of Blessed Tissa’s  
@@ -19,14 +27,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2552\]
 
-Thus indeed Venerable Aḍḍhacandiya Thera spoke these verses.  
+Thus indeed Venerable Aḍḍhacandiya Thera spoke these verses.
+
 The legend of Aḍḍhacandiya Thera is finished.
 
 [^1]: “Half-Moon-er”
 
 [^2]: the cty takes the term to be the name of a flower, which seems likely given the reference to “that flower” (or “those flowers”) in v. 2 \[2550\]
 
-[^3]: the term for “tree” used here, *pādape,* lit., means “foot-drinker” and resonates/puns with the superb “feet” of the tree where he gives the “half-moon” (flowers?).
+[^3]: the term for “tree” used here, *pādape*, lit., means “foot-drinker” and resonates/puns with the superb “feet” of the tree where he gives the “half-moon” (flowers?).
 
 [^4]: the Bodhi Tree of Tissa Buddha was *asana*, Pentaptera tomentosa, aka crocodile-bark tree, black murdah, Indian laurel, silver greywood, white chuglam.
 

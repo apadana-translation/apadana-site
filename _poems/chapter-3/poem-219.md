@@ -1,4 +1,12 @@
-*\[219. Sappidāyaka*[^1]*\]*  
+---
+title: Sappidāyaka
+order: 219
+layout: poem
+category: chapter-3
+---
+
+### \[219. Sappidāyaka[^1]\]
+
 Seated in a splendid palace,  
 surrounded by harem women,[^2]  
 having seen a monk who was ill  
@@ -6,7 +14,8 @@ I helped him back[^3] to his own home
 \[where\] the Great Hero had entered,  
 the God of Gods, the Bull of Men.  
 \[Then\] I gave clarified butter  
-to \[him,\] Siddhattha, the Great Sage. (1-2) \[2362-2363\]  
+to \[him,\] Siddhattha, the Great Sage. (1-2) \[2362-2363\]
+
 Seeing him, Quieter of Fear,  
 \[his\] Face and Senses[^4] Very Clear,  
 having worshipped that Teacher’s feet,  
@@ -32,7 +41,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[2368\]
 
-Thus indeed Venerable Sappidāyaka Thera spoke these verses.  
+Thus indeed Venerable Sappidāyaka Thera spoke these verses.
+
 The legend of Sappidāyaka Thera is finished.
 
 [^1]: “Ghee-Giver”

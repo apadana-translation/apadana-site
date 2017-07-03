@@ -1,4 +1,12 @@
-*\[264. Araṇadīpiya*[^1]*\]*  
+---
+title: Araṇadīpiya
+order: 264
+layout: poem
+category: chapter-3
+---
+
+### \[264. Araṇadīpiya[^1]\]
+
 I, being reborn as a god,  
 coming down to the earth back then,  
 made a donation of five lamps,  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2556\]
 
-Thus indeed Venerable Araṇadīpiya Thera spoke these verses.  
+Thus indeed Venerable Araṇadīpiya Thera spoke these verses.
+
 The legend of Araṇadīpiya Thera is finished.
 
 [^1]: “Solitude Illuminator”

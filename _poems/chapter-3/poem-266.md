@@ -1,7 +1,15 @@
-*\[266. Macchadāyaka*[^1]*\]*  
+---
+title: Macchadāyaka
+order: 266
+layout: poem
+category: chapter-3
+---
+
+### \[266. Macchadāyaka[^1]\]
+
 On Candabhāgā River’s bank  
 I was an osprey[^2] at that time.  
-I brought[^3]a big fish and gave it  
+I brought[^3] a big fish and gave it  
 to the Buddha \[named\] Siddhattha. (1) \[2562\]
 
 In the ninety-four aeons since  

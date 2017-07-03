@@ -1,4 +1,12 @@
-*\[292. Pupphadhāraka*[^1]*\]*  
+---
+title: Pupphadhāraka
+order: 292
+layout: poem
+category: chapter-3
+---
+
+### \[292. Pupphadhāraka[^1]\]
+
 I was a bark-clothed \[ascetic\],  
 wearing deer-leather outer robes.  
 \[I\] had five special knowledges;[^2]  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2680\]
 
-Thus indeed Venerable Pupphadhāraka Thera spoke these verses.  
+Thus indeed Venerable Pupphadhāraka Thera spoke these verses.
+
 The legend of Pupphadhāraka Thera is finished.
 
 [^1]: “Flower-Bearer”.

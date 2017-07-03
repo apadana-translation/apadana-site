@@ -1,4 +1,12 @@
-*\[210. Vātātapanivāriya*[^1]*\]*  
+---
+title: Vātātapanivāriya
+order: 210
+layout: poem
+category: chapter-3
+---
+
+### \[210. Vātātapanivāriya[^1]\]
+
 With a mind \[which was\] very clear,  
 I gave a single umbrella  
 to the Blessed One \[named\] Tissa,  
@@ -29,15 +37,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2318\]
 
-Thus indeed Venerable Vātātapanivāriya Thera spoke these verses.  
-The legend of Vātātapanivāriya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Vātātapanivāriya Thera spoke these verses.
+
+The legend of Vātātapanivāriya Thera is finished.
+
+The Summary:
+
 Kaṇikāra and Vinela,  
 and Kiṅkinī with Taraṇa,  
 Nigguṇḍipuppha, ‘dakada,  
 Salaḷa and Koraṇḍaka,  
 Ādhāraka, Vātātapa:  
-there are eight and forty verses.  
+there are eight and forty verses.
+
 Kaṇikārapupphiya Chapter, the Twenty-First
 
 [^1]: “Shielder from Wind and Heat”
@@ -46,7 +58,7 @@ Kaṇikārapupphiya Chapter, the Twenty-First
 
 [^3]: *kusala*
 
-[^4]: lit., “They (the gods?) are carrying an umbrella in the sky
+[^4]: lit., “They (the gods?) are carrying an umbrella in the sky”
 
 [^5]: lit., “Great Perfected Buddha’s”
 

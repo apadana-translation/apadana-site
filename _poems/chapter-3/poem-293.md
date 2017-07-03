@@ -1,4 +1,12 @@
-*\[293. Chattadāyaka*[^1]*\]*  
+---
+title: Chattadāyaka
+order: 293
+layout: poem
+category: chapter-3
+---
+
+### \[293. Chattadāyaka[^1]\]
+
 My son was a renouncer then,  
 wearing a saffron-colored robe.  
 He had realized Buddhahood  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2686\]
 
-Thus indeed Venerable Chattadāyaka Thera spoke these verses.  
+Thus indeed Venerable Chattadāyaka Thera spoke these verses.
+
 The legend of Chattadāyaka Thera is finished.
 
 [^1]: “Umbrella Donor”

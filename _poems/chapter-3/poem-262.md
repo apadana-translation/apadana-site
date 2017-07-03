@@ -1,4 +1,12 @@
-*\[262. Telamakkhiya*[^1]*\]*  
+---
+title: Telamakkhiya
+order: 262
+layout: poem
+category: chapter-3
+---
+
+### \[262. Telamakkhiya[^1]\]
+
 When Siddhattha, the Blessed One,  
 the Bull Among Men passed away,[^2]  
 for all time I smeared oil upon  
@@ -19,7 +27,8 @@ and these eight deliverances;
 six special knowledges mastered:  
 \[I have\] done what the Buddha taught! (4) \[2548\]
 
-Thus indeed Venerable Telamakkhiya Thera spoke these verses.  
+Thus indeed Venerable Telamakkhiya Thera spoke these verses.
+
 The legend of Telamakkhiya Thera is finished.
 
 [^1]: “Oil-Smearer”

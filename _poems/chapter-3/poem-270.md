@@ -1,4 +1,12 @@
-*\[270. Taraṇiya*[^1]*\]*  
+---
+title: Taraṇiya
+order: 270
+layout: poem
+category: chapter-3
+---
+
+### \[270. Taraṇiya[^1]\]
+
 Vipassi Buddha,[^2] Golden One,  
 was standing on a river bank,  
 Worthy of Homage, the Teacher,  
@@ -19,15 +27,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2581\]
 
-Thus indeed Venerable Taraṇiya Thera spoke these verses.  
-The legend of Taraṇiya Thera is finished.  
-The summary:  
+Thus indeed Venerable Taraṇiya Thera spoke these verses.
+
+The legend of Taraṇiya Thera is finished.
+
+The Summary:
+
 Ukkhepi, Tela and Candi,  
 Dipada and Biḷālida,  
 Maccha, Java, Salaḷada,  
 Rakkhasa, Taraṇa \[makes\] ten  
 and here the verses are counted  
-as exactly forty plus one.  
+as exactly forty plus one.
+
 The Padumukkhepa Chapter, the Twenty-Seventh
 
 [^1]: “Boatman” or “Ferryman.” cf. \#204, \#280, \#485 {488}. Perhaps in this instance better, “Cross-Over-er” since it is not clear just how he performs the deed. Are we to imagine him as a fish?

@@ -1,4 +1,12 @@
-*\[217. Tālavaṇṭadāyaka*[^1]*\]*  
+---
+title: Tālavaṇṭadāyaka
+order: 217
+layout: poem
+category: chapter-3
+---
+
+### \[217. Tālavaṇṭadāyaka[^1]\]
+
 I gave a palmyra[^2]-frond fan  
 to Tissa, Kinsman of the Sun,  
 to quench \[him\] in the summer heat,  
@@ -29,12 +37,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2354\]
 
-Thus indeed Venerable Tālavaṇṭadāyaka Thera spoke these verses.  
+Thus indeed Venerable Tālavaṇṭadāyaka Thera spoke these verses.
+
 The legend of Tālavaṇṭadāyaka Thera is finished.
 
 [^1]: “Palmyra-frond Fan Donor”
 
-[^2]: The palmyra (*tāla,* Sinh. *tal*) tree or fan palm is Borassus flabelliformis
+[^2]: The palmyra (*tāla*, Sinh. *tal*) tree or fan palm is Borassus flabelliformis
 
 [^3]: lit., “Great Perfected Buddha’s”
 

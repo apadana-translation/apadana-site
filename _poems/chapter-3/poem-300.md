@@ -1,4 +1,12 @@
-*\[300. Anusaŋsāvaka*[^1]*\]*  
+---
+title: Anusaŋsāvaka
+order: 300
+layout: poem
+category: chapter-3
+---
+
+### \[300. Anusaŋsāvaka[^1]\]
+
 I saw Vipassi, the Victor,  
 wandering about for alms food.  
 I gave an owl’s \[measure of\] food[^2]  
@@ -19,17 +27,23 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2716\]
 
-Thus indeed Venerable Anusaŋsāvaka Thera spoke these verses.  
-The legend of Anusaŋsāvaka Thera is finished.  
-The Summary:  
+Thus indeed Venerable Anusaŋsāvaka Thera spoke these verses.
+
+The legend of Anusaŋsāvaka Thera is finished.
+
+The Summary:
+
 Citaka and Pārichatta,  
 Sadda, Gosīsasanthara,  
 Pada, Padesa, Saraṇa,  
 Amba and Saŋsāvaka too:  
 there are forty-seven verses  
-which are counted by those who know.  
-The Citakapūjaka Chapter, the Thirtieth  
-Then there is the Summary of Chapters:  
+which are counted by those who know.
+
+The Citakapūjaka Chapter, the Thirtieth
+
+Then there is the Summary of Chapters:
+
 Kaṇṇikāra, Hatthidada,  
 Ālamban’, Udakāsana,  
 Tuvara and Thomana too,  
@@ -37,11 +51,13 @@ Ukkhepa, Sīsupadhāna,
 Paṇṇada and Citapūji:  
 in total all the verses here  
 \[do number\] four \[times\] one hundred  
-plus one more than fifty as well.[^3]  
+plus one more than fifty as well.[^3]
+
 Twenty-five hundred \[verses\] all  
 \[plus\] seventy-two more than that:  
 three hundred *apadāna* \[poems\]  
-are counted by those who see truth.  
+are counted by those who see truth.
+
 The Third Hundred[^4] is finished.
 
 [^1]: “Praiser” or more loosely “Singer of Praises”

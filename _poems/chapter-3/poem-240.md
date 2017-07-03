@@ -1,4 +1,12 @@
-*\[240. Vāsidāyaka*[^1]*\]*  
+---
+title: Vāsidāyaka
+order: 240
+layout: poem
+category: chapter-3
+---
+
+### \[240. Vāsidāyaka[^1]\]
+
 In the past I was a blacksmith  
 in Tivarā,[^2] best of cities.  
 One razor was the gift I made  
@@ -14,15 +22,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (3) \[2461\]
 
-Thus indeed Venerable Vāsidāyaka Thera spoke these verses.  
-The legend of Vāsidāyaka Thera is finished.  
-The summary:  
+Thus indeed Venerable Vāsidāyaka Thera spoke these verses.
+
+The legend of Vāsidāyaka Thera is finished.
+
+The Summary:
+
 Udakāsanī, Bhājanada  
 Sālapupphī, Kilañjada,  
 Vedika and Vaṇṇakāra,  
 Piyālam, Ambayāgada,  
 Jagatī and Vāsidāyi:  
-there are thirty verses plus eight.  
+there are thirty verses plus eight.
+
 The Udakāsanadāyi Chapter, the Twenty-Fourth
 
 [^1]: “Razor-donor”

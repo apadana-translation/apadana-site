@@ -1,5 +1,14 @@
-*Ālambanadāyaka Chapter, the Twenty-Third*  
-*\[221. Ālambanadāyaka*[^1]*\]*  
+---
+title: Ālambanadāyaka
+order: 221
+layout: poem
+category: chapter-3
+---
+
+## Ālambanadāyaka Chapter, the Twenty-Third
+
+### \[221. Ālambanadāyaka[^1]\]
+
 I gave a plank for hanging \[things\]  
 to the Biped Lord, Neutral One,  
 the Blessed One, Atthadassi,  
@@ -25,7 +34,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2377\]
 
-Thus indeed Venerable Ālambanadāyaka Thera spoke these verses.  
+Thus indeed Venerable Ālambanadāyaka Thera spoke these verses.
+
 The legend of Ālambanadāyaka Thera is finished.
 
 [^1]: “Donor of a Plank for Hanging \[Things On\]”
@@ -38,4 +48,4 @@ The legend of Ālambanadāyaka Thera is finished.
 
 [^5]: lit., “kṣatriyans”
 
-[^6]: “Leaning on One” -- reading the name as *eka* + *apassita* (RD: fr. apasseti, leaning against, depending on, trusting in), perhaps meant to be resonant with the donated wall-hooks
+[^6]: “Leaning on One” -- reading the name as *eka* + *apassita* (RD: fr. *apasseti*, leaning against, depending on, trusting in), perhaps meant to be resonant with the donated wall-hooks

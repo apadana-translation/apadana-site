@@ -1,5 +1,14 @@
-*Thomaka Chapter, the Twenty-Sixth*  
-*\[251. Thomadāyaka*[^1]*\]*  
+---
+title: Thomadāyaka
+order: 251
+layout: poem
+category: chapter-3
+---
+
+## Thomaka Chapter, the Twenty-Sixth
+
+### \[251. Thomadāyaka[^1]\]
+
 Standing[^2] in the world of the gods,  
 having listened to the Teaching[^3]  
 of Vipassi \[Buddha\], Great Sage,  
@@ -20,7 +29,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2502\]
 
-Thus indeed Venerable Thomadāyaka Thera spoke these verses.  
+Thus indeed Venerable Thomadāyaka Thera spoke these verses.
+
 The legend of Thomadāyaka Thera is finished.
 
 [^1]: “Praise-Giver”
@@ -33,4 +43,4 @@ The legend of Thomadāyaka Thera is finished.
 
 [^5]: lit., “this speech” “this word”
 
-[^6]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
+[^6]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya*/*ājānīya*, “almost exclusively used to donate a thoroughbred horse”

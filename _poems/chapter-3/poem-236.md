@@ -1,4 +1,12 @@
-*\[236. Vaṇṇakāraka*[^1]*\]*  
+---
+title: Vaṇṇakāraka
+order: 236
+layout: poem
+category: chapter-3
+---
+
+### \[236. Vaṇṇakāraka[^1]\]
+
 In Aruṇavatī city  
 I was a dyer at that time.  
 With various colors I dyed  
@@ -19,11 +27,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2449\]
 
-Thus indeed Venerable Vaṇṇakāraka Thera spoke these verses.  
+Thus indeed Venerable Vaṇṇakāraka Thera spoke these verses.
+
 The legend of Vaṇṇakāraka Thera is finished.
 
 [^1]: “Dyer” (*vaṇṇa* = color, hence lit., “color-er;” cf. *vaṇṇaka*, dye, perfume)
 
-[^2]: *cetiye.* These would presumably consist of banners, flags, and/or girdles attached to the stupa. *Cetiya* can also mean any shrine, so it is also possible that we should think of the cloths as curtains, robes on statues, and/or table cloths in an image house, or flags and so forth attached to a Bodhi tree.
+[^2]: *cetiye*. These would presumably consist of banners, flags, and/or girdles attached to the stupa. *Cetiya* can also mean any shrine, so it is also possible that we should think of the cloths as curtains, robes on statues, and/or table cloths in an image house, or flags and so forth attached to a Bodhi tree.
 
 [^3]: “Moon-like” or “Similar to the Moon”

@@ -1,5 +1,14 @@
-*Citapūjaka*[^1] *Chapter, the Thirtieth*  
-*\[291. Citapūjaka*[^2]*\]*  
+---
+title: Citapūjaka
+order: 291
+layout: poem
+category: chapter-3
+---
+
+## Citapūjaka[^1] Chapter, the Thirtieth
+
+### \[291. Citapūjaka[^2]\]
+
 At that time I was a brahmin,  
 known by the name of Ajita.[^3]  
 Wishing to do a sacrifice,[^4]  
@@ -25,7 +34,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2675\]
 
-Thus indeed Venerable Citapūjaka[^7] Thera spoke these verses.  
+Thus indeed Venerable Citapūjaka[^7] Thera spoke these verses.
+
 The legend of Citapūjaka[^8] Thera is finished.
 
 [^1]: BJTS reads Citaka°

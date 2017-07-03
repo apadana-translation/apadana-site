@@ -1,4 +1,12 @@
-*\[245. Kuṭidhūpaka*[^1]*\]*  
+---
+title: Kuṭidhūpaka
+order: 245
+layout: poem
+category: chapter-3
+---
+
+### \[245. Kuṭidhūpaka[^1]\]
+
 I was a watchman at the hut  
 of the Blessed One, Siddhattha.  
 Now and again I perfumed \[it\],  
@@ -14,7 +22,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (3) \[2480\]
 
-Thus indeed Venerable Kuṭidhūpaka Thera spoke these verses.  
+Thus indeed Venerable Kuṭidhūpaka Thera spoke these verses.
+
 The legend of Kuṭidhūpaka Thera is finished.
 
 [^1]: “Hut-perfumer”

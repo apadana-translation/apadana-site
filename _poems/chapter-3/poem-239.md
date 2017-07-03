@@ -1,4 +1,12 @@
-*\[239. Jagatikāraka*[^1]*\]*  
+---
+title: Jagatikāraka
+order: 239
+layout: poem
+category: chapter-3
+---
+
+### \[239. Jagatikāraka[^1]\]
+
 When Atthadassi, the World’s Lord,  
 the Best of Men, reached nirvana,  
 the landscaping was done by me  
@@ -14,7 +22,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (3) \[2458\]
 
-Thus indeed Venerable Jagatikāraka Thera spoke these verses.  
+Thus indeed Venerable Jagatikāraka Thera spoke these verses.
+
 The legend of Jagatikāraka Thera is finished.
 
-[^1]: ”Landscaper,” reading *jagatī,* earth, ground + *kāraka,* doer; lit., “earth-developer”
+[^1]: ”Landscaper,” reading *jagatī*, earth, ground + *kāraka*, doer; lit., “earth-developer”

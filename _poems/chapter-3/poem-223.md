@@ -1,4 +1,12 @@
-*\[223. Dverataniya*[^1]*\]*  
+---
+title: Dverataniya
+order: 223
+layout: poem
+category: chapter-3
+---
+
+### \[223. Dverataniya[^1]\]
+
 I was a deer-hunter back then,  
 within a grove in the forest.  
 I saw the Buddha, Stainless One,  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[2390\]
 
-Thus indeed Venerable Dverataniya Thera spoke these verses.  
+Thus indeed Venerable Dverataniya Thera spoke these verses.
+
 The legend of Dverataniya Thera is finished.
 
 [^1]: “Two-Gem-er.” BJTS reads *Dviratananiya*, which conveys the same meaning. The name is unusual in that it alludes to the reward rather than the original/“seed” karma.

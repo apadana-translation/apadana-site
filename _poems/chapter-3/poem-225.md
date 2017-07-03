@@ -1,4 +1,12 @@
-*\[225. Avyādhika*[^1]*\]*  
+---
+title: Avyādhika
+order: 225
+layout: poem
+category: chapter-3
+---
+
+### \[225. Avyādhika[^1]\]
+
 I gave a heated room[^2] \[back then\]  
 to Vipassi, the Blessed One,  
 and a residence for the ill  
@@ -24,12 +32,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2400\]
 
-Thus indeed Venerable Avyādhika Thera spoke these verses.  
+Thus indeed Venerable Avyādhika Thera spoke these verses.
+
 The legend of Avyādhika Thera is finished.
 
 [^1]: “Undiseased” (or “Healthy”)
 
-[^2]: *aggisāla.* Cf. \#6, v. 23 \[468\]
+[^2]: *aggisāla*. Cf. \#6, v. 23 \[468\]
 
 [^3]: lit., well-created, well-fashioned: *sunimmita*
 

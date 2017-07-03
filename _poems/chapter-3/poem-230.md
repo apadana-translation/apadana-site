@@ -1,4 +1,12 @@
-*\[230. Ekavandiya*[^1]*\]*  
+---
+title: Ekavandiya
+order: 230
+layout: poem
+category: chapter-3
+---
+
+### \[230. Ekavandiya[^1]\]
+
 Cheerful, with pleasure in \[my\] heart,  
 I worshipped the Best of Buddhas,  
 Vessabhu, Victorious One,  
@@ -19,15 +27,18 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2423\]
 
-Thus indeed Venerable Ekavandiya Thera spoke these verses.  
-The legend of Ekavandiya Thera is finished.  
+Thus indeed Venerable Ekavandiya Thera spoke these verses.
+
+The legend of Ekavandiya Thera is finished.
+
 The Summary:  
 Ālambana and Ajina,  
 Maŋsa, Ārakkhadāyaka,  
 Avyādhi, Aṅkola, Soṇṇa,  
 Miñja, Āveḷa, Vandana;  
 fifty-five verses are counted  
-by those ones who know the meaning.  
+by those ones who know the meaning.
+
 The Ālambanadāyaka Chapter, the Twenty-Third
 
 [^1]: “One Worship”

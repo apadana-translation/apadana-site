@@ -1,4 +1,12 @@
-*\[288. Sattāhapabbajita*[^1]*\]*  
+---
+title: Sattāhapabbajita
+order: 288
+layout: poem
+category: chapter-3
+---
+
+### \[288. Sattāhapabbajita[^1]\]
+
 Honored and revered were the monks[^2]  
 of Vipassi, the Blessed One.  
 Calamity’d befallen me;[^3]  
@@ -24,14 +32,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2659\]
 
-Thus indeed Venerable Sattāhapabbajita Thera spoke these verses.  
+Thus indeed Venerable Sattāhapabbajita Thera spoke these verses.
+
 The legend of Sattāhapabbajita Thera is finished.
 
 [^1]: “Renouncer for a Week”
 
 [^2]: lit., “Assembly,” the entire monastic community (*saṅgha*)
 
-[^3]: lit., “calamity (*vyasana)* had arisen/been produced for me”
+[^3]: lit., “calamity (*vyasana*) had arisen/been produced for me”
 
 [^4]: lit., “a division among relatives.” The meaning might also be “I was one who caused a rift in the family” or “I was separated from the family”
 

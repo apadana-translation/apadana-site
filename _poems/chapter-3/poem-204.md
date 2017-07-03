@@ -1,4 +1,12 @@
-*\[204. Taraṇiya*[^1]*\]*  
+---
+title: Taraṇiya
+order: 204
+layout: poem
+category: chapter-3
+---
+
+### \[204. Taraṇiya[^1]\]
+
 Atthadassi, the Blessed One,  
 the Biped Lord, the Bull of Men,  
 honored by his followers \[then\]  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2289\]
 
-Thus indeed Venerable Taraṇiya Thera spoke these verses.  
+Thus indeed Venerable Taraṇiya Thera spoke these verses.
+
 The legend of Taraṇiya Thera is finished.
 
 [^1]: “Crosser” or “Ferry-er” or “Boatman” or “Shipper” or “Ferryman”. Cf. \#270, \#280, \#485 {488}

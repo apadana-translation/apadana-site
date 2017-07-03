@@ -1,4 +1,12 @@
-*\[257. Mañjaripūjaka*[^1]*\]*  
+---
+title: Mañjaripūjaka
+order: 257
+layout: poem
+category: chapter-3
+---
+
+### \[257. Mañjaripūjaka[^1]\]
+
 Fashioning a bunch[^2] \[of flowers,\]  
 I went out onto[^3] the highway.  
 I saw the Monk, Bettered by None,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2525\]
 
-Thus indeed Venerable Mañjaripūjaka Thera spoke these verses.  
+Thus indeed Venerable Mañjaripūjaka Thera spoke these verses.
+
 The legend of Mañjaripūjaka Thera is finished.
 
 [^1]: “Offerer of a Bunch”
@@ -33,4 +42,4 @@ The legend of Mañjaripūjaka Thera is finished.
 
 [^3]: lit., “entered into”
 
-[^4]: fr. *joti,* “Star” or “Light” or “Splendour” or “Glory”
+[^4]: fr. *joti*, “Star” or “Light” or “Splendour” or “Glory”

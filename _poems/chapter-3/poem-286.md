@@ -1,4 +1,12 @@
-*\[286. Upaṭṭhāyaka*[^1]*\]*  
+---
+title: Upaṭṭhāyaka
+order: 286
+layout: poem
+category: chapter-3
+---
+
+### \[286. Upaṭṭhāyaka[^1]\]
+
 After I had invited him --  
 the World’s Best, the Bull of Men,  
 the Best Biped, Great Elephant,  
@@ -6,7 +14,8 @@ Sacrificial Recipient,
 who had entered onto the road --  
 service was provided by me  
 to Siddhattha \[Buddha\], Great Sage,  
-the Well-Wisher of Every World.[^2] (1-2) \[2646-2647\]  
+the Well-Wisher of Every World.[^2] (1-2) \[2646-2647\]
+
 Accepting \[it\], the Sambuddha,  
 the Greatest Sage, \[then\] rose up from  
 that seat \[prepared\] for serving \[him\]  
@@ -27,7 +36,8 @@ and these eight deliverances,
 six special knowledges mastered:  
 \[I have\] done what the Buddha taught! (6) \[2651\]
 
-Thus indeed Venerable Upaṭṭhāyaka Thera spoke these verses.  
+Thus indeed Venerable Upaṭṭhāyaka Thera spoke these verses.
+
 The legend of Upaṭṭhāyaka Thera is finished.
 
 [^1]: “Servant”

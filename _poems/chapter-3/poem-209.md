@@ -1,4 +1,12 @@
-*\[209. Ādhāradāyaka*[^1]*\]*  
+---
+title: Ādhāradāyaka
+order: 209
+layout: poem
+category: chapter-3
+---
+
+### \[209. Ādhāradāyaka[^1]\]
+
 A stool was donated by me  
 to Sikhi, Kinsman of the World.  
 \[Then\] I was[^2] the possessor of  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2312\]
 
-Thus indeed Venerable Ādhāradāyaka Thera spoke these verses.  
+Thus indeed Venerable Ādhāradāyaka Thera spoke these verses.
+
 The legend of Ādhāradāyaka Thera is finished.
 
 [^1]: “Stool Donor”

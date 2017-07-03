@@ -1,4 +1,12 @@
-*\[238. Ambayāgadāyaka*[^1]*\]*  
+---
+title: Ambayāgadāyaka
+order: 238
+layout: poem
+category: chapter-3
+---
+
+### \[238. Ambayāgadāyaka[^1]\]
+
 An expert[^2] in my field back then,  
 I went into a forest grove,  
 and seeing Buddha, the Calm One,  
@@ -14,7 +22,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (3) \[2455\]
 
-Thus indeed Venerable Ambayāgadāyaka Thera spoke these verses.  
+Thus indeed Venerable Ambayāgadāyaka Thera spoke these verses.
+
 The legend of Ambayāgadāyaka Thera is finished.
 
 [^1]: “Mango-Sacrifice Donor”

@@ -1,4 +1,12 @@
-*\[212. Pānadhidāyaka*[^1]*\]*  
+---
+title: Pānadhidāyaka
+order: 212
+layout: poem
+category: chapter-3
+---
+
+### \[212. Pānadhidāyaka[^1]\]
+
 \[One time\] I gave a \[pair of\] shoe\[s\]  
 to a forest-dwelling rishi  
 \[who’d\] long practiced austerities,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2328\]
 
-Thus indeed Venerable Pānadhidāyaka Thera spoke these verses.  
+Thus indeed Venerable Pānadhidāyaka Thera spoke these verses.
+
 The legend of Pānadhidāyaka Thera is finished
 
 [^1]: “Sandal Donor,” taking *panidha* as *pavahanak* following BJTS Sinhala gloss. Cf. below, \#476 {479} for a different *apadāna* of a monk with the same name

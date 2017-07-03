@@ -1,4 +1,12 @@
-*\[269. Upāgatabhāsaniya*[^1]*\]*  
+---
+title: Upāgatabhāsaniya
+order: 269
+layout: poem
+category: chapter-3
+---
+
+### \[269. Upāgatabhāsaniya[^1]\]
+
 Amidst the Himalayan \[mounts,\]  
 there was a well-apportioned lake.  
 I was a demon[^2] in that place,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2577\]
 
-Thus indeed Venerable Upāgatabhāsaniya Thera spoke these verses.  
+Thus indeed Venerable Upāgatabhāsaniya Thera spoke these verses.
+
 The legend of Upāgatabhāsaniya Thera is finished.
 
 [^1]: “Speaker to One who has Arrived”

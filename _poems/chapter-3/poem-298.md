@@ -1,4 +1,12 @@
-*\[298. Saraṇagamaniya*[^1]*\]*  
+---
+title: Saraṇagamaniya
+order: 298
+layout: poem
+category: chapter-3
+---
+
+### \[298. Saraṇagamaniya[^1]\]
+
 On a Himalayan mountain,  
 I was a hunter at that time.  
 I saw the Buddha, Vipassi,  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2709\]
 
-Thus indeed Venerable Saraṇagamaniya Thera spoke these verses.  
+Thus indeed Venerable Saraṇagamaniya Thera spoke these verses.
+
 The legend of Saraṇagamaniya Thera is finished.
 
 [^1]: “Refuge-Goer,” cf. \#23, \#113, \#356{359}.

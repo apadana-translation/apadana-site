@@ -1,4 +1,12 @@
-*\[295. Gosīsanikkhepa*[^1]*\]*  
+---
+title: Gosīsanikkhepa
+order: 295
+layout: poem
+category: chapter-3
+---
+
+### \[295. Gosīsanikkhepa[^1]\]
+
 I laid down golden sandalwood[^2]  
 for exiting the ashram door.  
 I now enjoy my own karma:  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2696\]
 
-Thus indeed Venerable Gosīsanikkhepa Thera spoke these verses.  
+Thus indeed Venerable Gosīsanikkhepa Thera spoke these verses.
+
 The legend of Gosīsanikkhepa Thera is finished.
 
 [^1]: “Laid Down Golden Sandalwood”

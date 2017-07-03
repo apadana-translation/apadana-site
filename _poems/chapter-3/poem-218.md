@@ -1,4 +1,12 @@
-*\[218. Akkantasaññaka*[^1]*\]*  
+---
+title: Akkantasaññaka
+order: 218
+layout: poem
+category: chapter-3
+---
+
+### \[218. Akkantasaññaka[^1]\]
+
 In the past I, having taken  
 a crude cloak to \[my\] preceptor,  
 I am studying a *mantra*  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[2361\]
 
-Thus indeed Venerable Akkantasaññaka Thera spoke these verses.  
+Thus indeed Venerable Akkantasaññaka Thera spoke these verses.
+
 The legend of Akkantasaññaka Thera is finished.
 
 [^1]: “Perceiver of Walking”
