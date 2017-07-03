@@ -10,8 +10,17 @@
   }
 
   @include breakpoint($large) {
-    flex: 0 0 12.5rem;
+    $poem-meta-large-width: 12.5rem;
+
+    position: fixed;
+    flex: 0 0 $poem-meta-large-width;
+    width: $poem-meta-large-width;
+    padding-top: 1rem;
     padding-right: 3rem;
+
+    & + .poem {
+      margin-left: $poem-meta-large-width;
+    }
   }
 }
 
