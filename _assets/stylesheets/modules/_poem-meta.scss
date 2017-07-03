@@ -40,6 +40,42 @@
   }
 }
 
+.progress {
+  position: relative;
+  width: 100px;
+  height: 100px;
+
+  svg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+    & .animated-circle {
+      fill: transparent;
+      stroke-width: 40px;
+      stroke: palette(highlight);
+      stroke-dasharray: 126;
+      stroke-dashoffset: 126;
+    }
+  }
+  circle {
+    fill: rgba(palette(light), 0.8);
+    stroke: rgba(palette(highlight), 0.2);
+  }
+
+  &__count {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    line-height: 100px;
+    color: palette(dark);
+    font-style: italic;
+  }
+}
+
 // Timeline of version history
 .timeline {
   position: relative;

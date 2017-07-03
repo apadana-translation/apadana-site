@@ -1,7 +1,7 @@
 // Reading progress bar for poems
 // based on https://codepen.io/jpod/pen/oqKvw
 
-$(document).on('ready', function() {  
+$(document).on('ready', function() {
   var winHeight = $(window).height(),
       docHeight = $('.poem').height(),
       progressBar = $('progress'),
@@ -9,10 +9,18 @@ $(document).on('ready', function() {
 
   /* Set the max scrollable area */
   max = docHeight - winHeight;
-  progressBar.attr('max', max);
 
   $(document).on('scroll', function(){
-     value = $(window).scrollTop();
-     progressBar.attr('value', value);
+     var value = $(window).scrollTop();
+     var perc = Math.max(0, Math.min(1, value/max));
+     updateProgress(perc);
   });
+
+  function updateProgress(perc) {
+    var circle_offset = 126 * perc;
+    $('.animated-circle').css({
+      "stroke-dashoffset" : 126 - circle_offset
+    });
+    $('.progress__count').html(Math.round(perc * 100) + "%");
+  }
 });
