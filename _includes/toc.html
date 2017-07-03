@@ -1,5 +1,9 @@
 <nav id="text-nav" class="nav nav--toc">
   <ol class="toc__level1">
+    <li class="list-header">
+      <span class="chapter-name">Chapter</span>
+      <span class="chapter-size">№ of Poems</span>
+    </li>
   {% assign chapters = site.poems | group_by: "category" | sort: "name" %}
   {% for chapter in chapters %}
     {% assign category_slug = chapter.name %}

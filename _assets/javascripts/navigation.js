@@ -1,8 +1,8 @@
 // ===================================
-// Uncheck radio inputs in poem navigation
+// Uncheck radio inputs in poem, TOC navigation
 // ===================================
 $(document).ready(function() {
-  $('.tab__label').on('click', function (e) {
+  $('.tab__label, .chapter').on('click', function (e) {
     var inputPressed = $(this).prev('input[type=radio]');
     if(inputPressed.is(':checked')) {
       e.preventDefault();
@@ -36,7 +36,7 @@ var tabState = function (elem, one, two) {
 };
 
 // ===================================
-// Show only one tab group at a time
+// Show only one tab group or TOC chapter at a time
 // ===================================
 $(tabGroupNavigation).children('input[type=radio]').on('click', function (e) {
   $(tabGroupTools).children('input[type=radio]').prop('checked', false );
@@ -44,4 +44,12 @@ $(tabGroupNavigation).children('input[type=radio]').on('click', function (e) {
 
 $(tabGroupTools).children('input[type=radio]').on('click', function (e) {
   $(tabGroupNavigation).children('input[type=radio]').prop('checked', false );
+});
+
+$('label[for=chapter-3]').on('click', function (e) {
+  $('input#chapter-4').prop('checked', false );
+});
+
+$('label[for=chapter-4]').on('click', function (e) {
+  $('input#chapter-3').prop('checked', false );
 });

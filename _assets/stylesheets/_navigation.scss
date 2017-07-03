@@ -439,7 +439,7 @@
     background-color: white;
     border: solid palette(highlight);
     border-width: 5px 0;
-    transition: opacity 0.8s ease, transform 0.8s ease;
+    transition: transform 0.8s ease;
     z-index: -1;
 
     @include breakpoint($large) {
@@ -524,11 +524,9 @@
         }
 
         & ~ .toc__level2 {
-          max-height: 18.75rem;
-          opacity: 1;
+          max-height: 15.75rem;
           overflow-y: auto;
           padding-bottom: 0.5rem;
-          transform: translateY(0);
           z-index: 10;
         }
       }
@@ -554,6 +552,17 @@
         }
       }
 
+      &.list-header {
+        font-weight: bold;
+        font-style: italic;
+        counter-increment: none;
+        border-bottom: none !important;
+
+        &:before {
+          display: none;
+        }
+      }
+
       &:not(:last-child) {
         border-bottom: 2px solid palette(highlight);
       }
@@ -563,10 +572,9 @@
   &__level2 {
     position: relative;
     max-height: 0;
-    opacity: 0;
     overflow-y: hidden;
     font-size: $nav-font-size;
-    transition: all 1s ease;
+    transition: max-height 0.8s ease;
 
     > li {
       padding-bottom: 0.25rem;
@@ -627,6 +635,26 @@
       @include breakpoint($medium) {
         content: "··························";
       }
+
+      li.list-header & {
+        display: none;
+      }
     }
   }
+}
+
+// ===================================
+// Browser scrollbar
+// ===================================
+::-webkit-scrollbar {
+    width: 0.35rem;
+    height: 0.35rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background: palette(highlight);
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
 }
