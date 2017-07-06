@@ -1,4 +1,12 @@
-*\[328.Sumanāveliya*[^1]*\]*  
+---
+title: Sumanāveliya
+order: 328
+layout: poem
+category: chapter-3
+---
+
+### \[328. Sumanāveliya[^1]\]
+
 All the people, come together,  
 were doing a great *pūjā* for  
 Vessabhu \[Buddha\], Blessed One,  
@@ -22,7 +30,7 @@ done well in the past by myself. (4) \[2891\]
 In whichever womb I’m reborn,  
 \[whether\] it’s human or divine,  
 I am dear to all the \[people\]:  
-that’s the fruit of flower-*pūjā.* (5) \[2892\]
+that’s the fruit of flower-*pūjā*. (5) \[2892\]
 
 I’ve come to know no reviling[^4]  
 of self-controlled ascetics done  
@@ -35,9 +43,9 @@ I am honored[^7] by all \[people\]:
 that’s the fruit of not reviling. (7) \[2894\]
 
 In the thirty-one aeons since  
-I did that flower-*pūjā* \[then\]*,*  
+I did that flower-*pūjā* \[then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (8) \[2895\]
+that’s the fruit of Buddha-*pūjā*. (8) \[2895\]
 
 In the eleventh aeon hence  
 there was a king,[^8] Sahassāra,[^9]  
@@ -49,12 +57,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (10) \[2897\]
 
-Thus indeed Venerable Sumanāveliya Thera spoke these verses.  
+Thus indeed Venerable Sumanāveliya Thera spoke these verses.
+
 The legend of Sumanāveliya Thera is finished.
 
 [^1]: “Happy Garland-er”
 
-[^2]: lit., “made a *pūjā, pūjitaŋ*
+[^2]: lit., “made a *pūjā*, *pūjitaŋ*
 
 [^3]: Nirmāṇarati, a heaven wherein, as its name implies, one delights in form.
 

@@ -1,4 +1,12 @@
-*\[396. {399.}*[^1] *Sabbadāyaka*[^2]*\]*  
+---
+title: Sabbadāyaka
+order: 399
+layout: poem
+category: chapter-3
+---
+
+### \[396. {399.}[^1] Sabbadāyaka[^2]\]
+
 Floating in[^3] the great ocean, my  
 palace \[then\] was very well-made.  
 There was a pond, \[also\] well made,  
@@ -17,10 +25,10 @@ noisy with peacocks[^9] \[and\] herons,[^10]
 Pigeons[^12] \[and\] *ravi*-swans[^13] \[as well\],  
 ruddy geese[^14] and *nadīcaras*,  
 lapwings[^15] \[and\] mynah birds[^16] are here,  
-small monkeys,[^17] *jīvajīvakas.*[^18] (4) \[3831\]
+small monkeys,[^17] *jīvajīvakas*.[^18] (4) \[3831\]
 
 \[It\] resounds with swans and herons,  
-owls and many *piṅgalas.*  
+owls and many *piṅgalas*.  
 The sand contains the seven gems,  
 \[strewn with\] jewels \[and costly\] pearls. (5) \[3832\]
 
@@ -139,7 +147,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (28) \[3855\]
 
-Thus indeed Venerable Sabbadāyaka Thera spoke these verses.  
+Thus indeed Venerable Sabbadāyaka Thera spoke these verses.
+
 The legend of Sabbadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -148,13 +157,13 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^3]: *ogayha*, “submerged in” “plunged into.” BJTS normalizes this by glossing “in the vicinity of the great ocean,” but I take it more literally, and assume that the protagonist is a supernatural being for whom this *is* normal.
 
-[^4]: PTS *cakkavākā pakūjitā;* BJTS *cakkavākūpakūjitā*
+[^4]: PTS *cakkavākā pakūjitā*; BJTS *cakkavākūpakūjitā*
 
-[^5]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. No BJTS gloss here. BJTS gloss at \[324\] is “a water-born plant named *Mandālā”.* At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela.* At \[4231\], \[4233\], \[4313\], \[6332\] the (or a) BJTS gloss is *helmällen, heḷmäli* = edible white water-lily, Nymphaea Lotus.
+[^5]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. No BJTS gloss here. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*. At \[4231\], \[4233\], \[4313\], \[6332\] the (or a) BJTS gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus.
 
 [^6]: *maccha-kacchapa-sañchannā*
 
-[^7]: reading *nānādijaº* (“various birds”) with BJTS for PTS *nānāmigaº.* The poem continues by listing types of birds, so the BJTS reading seems preferable, even though the PTS reading is also certainly possible.
+[^7]: reading *nānādijaº* (“various birds”) with BJTS for PTS *nānāmigaº*. The poem continues by listing types of birds, so the BJTS reading seems preferable, even though the PTS reading is also certainly possible.
 
 [^8]: *samotthatā*, lit., “strewn about,” “spread out over”
 
@@ -162,7 +171,7 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^10]: *ºkoñcaº*
 
-[^11]: *kokilādīhi vagguhi,* lit., “and with the lovely \[cries\] of cuckoos, etc.”
+[^11]: *kokilādīhi vagguhi*, lit., “and with the lovely \[cries\] of cuckoos, etc.”
 
 [^12]: *parevatā*
 
@@ -170,11 +179,11 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^14]: *cakkavākā*
 
-[^15]: *dindibhā,* Sinh. gloss *kirallu, kiraḷā =* red-wattled or yellow-wattled lapwing. PSI dictionary gives “bluejay”
+[^15]: *dindibhā*, Sinh. gloss *kirallu*, *kiraḷā* = red-wattled or yellow-wattled lapwing. PSI dictionary gives “bluejay”
 
-[^16]: *sāḷikā,* RD: maina (= mynah) birds
+[^16]: *sāḷikā*, RD: maina (= mynah) birds
 
-[^17]: *pampakā ,* Sinh. gloss *huṇapupulō* (Sorata = *uṇahapuḷuvā*)*,* a small, tailless monkey. Its high-pitched cry, which famously (and frighteningly) resembles that of a cobra, is apparently the reason these have been included in the present list of (mostly) birds known for their cries.
+[^17]: *pampakā*, Sinh. gloss *huṇapupulō* (Sorata = *uṇahapuḷuvā*), a small, tailless monkey. Its high-pitched cry, which famously (and frighteningly) resembles that of a cobra, is apparently the reason these have been included in the present list of (mostly) birds known for their cries.
 
 [^18]: a type of pheasant
 
@@ -188,31 +197,31 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^23]: *parijana* (for *parijjanaṃ*), “the people around there,” “retinue”
 
-[^24]: reading *ye vasāma tavantike* with BJTS for PTS *y ‘esāma tava santike,* “we who come into your presence”
+[^24]: reading *ye vasāma tavantike* with BJTS for PTS *y ‘esāma tava santike*, “we who come into your presence”
 
-[^25]: *vasīsatasahassehi,* that is, masters of the Teaching, arahants.
+[^25]: *vasīsatasahassehi*, that is, masters of the Teaching, arahants.
 
-[^26]: *paccuggaman akās’ ahaŋ,* lit., “I did a going out to meet \[him\].” Here BJTS reads *paccuggamanam akās’ ahaṃ,* breaking meter, but in the repetition of this *apadāna* as \#{551}, below, it agrees with the PTS reading *paccugamam*
+[^26]: *paccuggaman akās’ ahaŋ*, lit., “I did a going out to meet \[him\].” Here BJTS reads *paccuggamanam akās’ ahaṃ*, breaking meter, but in the repetition of this *apadāna* as \#{551}, below, it agrees with the PTS reading *paccugamam*
 
 [^27]: reading *pañcaṅgikehi* (“the five types”) with BJTS for PTS *sataṅgikehi* (“the hundred types”)
 
 [^28]: *purisuttamo*
 
-[^29]: *sabbasovaṇṇaye pīṭhe,* lit., “a chair \[made\] of all gold”. BJTS reads more correctly, but breaking the meter, *sabbasovaṇṇamaye pīṭhe*
+[^29]: *sabbasovaṇṇaye pīṭhe*, lit., “a chair \[made\] of all gold”. BJTS reads more correctly, but breaking the meter, *sabbasovaṇṇamaye pīṭhe*
 
 [^30]: lit., “I made” “I did”
 
-[^31]: PTS reads *uparichannam,* “I made it covered above;” BJTS reads more correctly *uparichadanam, “*a covering (or canopy) above,” but breaks the meter in order to do so. The intent is clear enough in either case.
+[^31]: PTS reads *uparichannam*, “I made it covered above;” BJTS reads more correctly *uparichadanam*, “a covering (or canopy) above,” but breaks the meter in order to do so. The intent is clear enough in either case.
 
-[^32]: *sabbasovaṇṇayaŋ* lit., “\[made\] of all gold”. BJTS reads more correctly, but breaking the meter, *sabbasovaṇṇamayaṃ.*
+[^32]: *sabbasovaṇṇayaŋ* lit., “\[made\] of all gold”. BJTS reads more correctly, but breaking the meter, *sabbasovaṇṇamayaṃ*.
 
-[^33]: reading *vījaniyo pavāyanti* with BJTS for PTS *vījanīyā pavāyanti,* “\[perfumes\] are being diffused by fans”
+[^33]: reading *vījaniyo pavāyanti* with BJTS for PTS *vījanīyā pavāyanti*, “\[perfumes\] are being diffused by fans”
 
 [^34]: *pacceka-dussa-yugale*
 
-[^35]: *lokāhutipaṭiggahaŋ,* lit., “Recipient of the Sacrifices of the World”
+[^35]: *lokāhutipaṭiggahaŋ*, lit., “Recipient of the Sacrifices of the World”
 
-[^36]: *tappayi,* lit., “satisfied,” “regaled,” “entertained.” BJTS reads *sabbe ime ca* (“and all of these \[monks\]”) for PTS *saṅgham etena*
+[^36]: *tappayi*, lit., “satisfied,” “regaled,” “entertained.” BJTS reads *sabbe ime ca* (“and all of these \[monks\]”) for PTS *saṅgham etena*
 
 [^37]: lit., “every day”
 

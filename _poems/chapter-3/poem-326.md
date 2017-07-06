@@ -1,4 +1,12 @@
-*\[326. Annasaŋsāvaka*[^1]*\]*  
+---
+title: Annasaŋsāvaka
+order: 326
+layout: poem
+category: chapter-3
+---
+
+### \[326. Annasaŋsāvaka[^1]\]
+
 Causing the Sambuddha to stay[^2] --  
 the Golden-Colored Sambuddha,  
 like something costly made of gold,  
@@ -6,7 +14,8 @@ Bearing the Thirty-two Great Marks,
 Siddhattha, Goal of All Success,  
 the Lustless One, Unconquered One,  
 who was going through the bazaar --  
-I fed \[that Sambuddha\], Great Sage. (1-2) \[2858-2859\]  
+I fed \[that Sambuddha\], Great Sage. (1-2) \[2858-2859\]
+
 The Sage, Kind \[to creatures\] in the world,  
 blazed forth \[his bright light\] on me then.  
 Pleasing my heart in the Buddha,  
@@ -22,7 +31,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2862\]
 
-Thus indeed Venerable Annasaŋsāvaka Thera spoke these verses.  
+Thus indeed Venerable Annasaŋsāvaka Thera spoke these verses.
+
 The legend of Annasaŋsāvaka Thera is finished.
 
 [^1]: “Food-Streamer”

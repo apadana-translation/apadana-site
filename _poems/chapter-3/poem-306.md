@@ -1,4 +1,12 @@
-*\[306. Sampasādaka*[^1]*\]*  
+---
+title: Sampasādaka
+order: 306
+layout: poem
+category: chapter-3
+---
+
+### \[306. Sampasādaka[^1]\]
+
 “Praise to you, O Buddha-Hero!  
 You are the Clear One everywhere.  
 Calamity’s befallen me;  
@@ -11,7 +19,8 @@ is without measure, unexcelled.
 Bring your heart pleasure in the monks[^4]  
 and plant the seed of happiness  
 there in that field which has no flaws,  
-which provides fruit without limit.”[^5] (2-3) \[2741-2742\]  
+which provides fruit without limit.”[^5] (2-3) \[2741-2742\]
+
 Saying that, the Omniscient One,  
 the World’s Best, the Bull among Men,  
 after instructing me that way,  
@@ -37,7 +46,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2747\]
 
-Thus indeed Venerable Sampasādaka Thera spoke these verses.  
+Thus indeed Venerable Sampasādaka Thera spoke these verses.
+
 The legend of Sampasādaka Thera is finished.
 
 [^1]: “Great Pleasure-er”
@@ -48,6 +58,6 @@ The legend of Sampasādaka Thera is finished.
 
 [^4]: lit., “in the Assembly (*saṅghe*)”
 
-[^5]: *anantaphaladāyaka.* In addition to playing on this monk’s name, this epithet supplied the Sangha (in the mouth of a previous Buddha) fits the (over?-)extended agricultural metaphor at work here: the Sangha is a fertile field in which the mental pleasure of an ordinary person is itself the seed of future happiness. The term used for “field,” *khetta* in the locative, is also evocative of the first verse/setting of the roughly contemporaneous (+/-) *Bhagavad-gītā,* which opens, *dharmakṣetre kurukṣetre*
+[^5]: *anantaphaladāyaka*. In addition to playing on this monk’s name, this epithet supplied the Sangha (in the mouth of a previous Buddha) fits the (over?-)extended agricultural metaphor at work here: the Sangha is a fertile field in which the mental pleasure of an ordinary person is itself the seed of future happiness. The term used for “field,” *khetta* in the locative, is also evocative of the first verse/setting of the roughly contemporaneous (+/-) *Bhagavad-gītā*, which opens, *dharmakṣetre kurukṣetre*
 
-[^6]: taking the redundancy (*vehāsam nabham)* as emphatic
+[^6]: taking the redundancy (*vehāsam nabham*) as emphatic

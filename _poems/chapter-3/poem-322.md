@@ -1,4 +1,12 @@
-*322. Pulinapūjaka*[^1]*\]*  
+---
+title: Pulinapūjaka
+order: 322
+layout: poem
+category: chapter-3
+---
+
+### 322. Pulinapūjaka[^1]\]
+
 Splendid like an arjuna \[tree\],  
 like a bull of the finest breed,  
 shining forth like the morning star,[^2]  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2836\]
 
-Thus indeed Venerable Pulinapūjaka Thera spoke these verses.  
+Thus indeed Venerable Pulinapūjaka Thera spoke these verses.
+
 The legend of Pulinapūjaka Thera is finished.
 
 [^1]: “Sand-Giver,” cf. \#27 (where the name is spelled *Puḷinaº*)

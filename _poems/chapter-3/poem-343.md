@@ -1,4 +1,12 @@
-*\[340. {343.}*[^1] *Dhajadāyaka*[^2]*\]*  
+---
+title: Dhajadāyaka
+order: 343
+layout: poem
+category: chapter-3
+---
+
+### \[340. {343.}[^1] Dhajadāyaka[^2]\]
+
 The Teacher \[then\] was named Tissa,  
 the World’s Best One, the Bull of Men.  
 Having seen his passing away,[^3]  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[3099\]
 
-Thus indeed Venerable Dhajadāyaka Thera spoke these verses.  
+Thus indeed Venerable Dhajadāyaka Thera spoke these verses.
+
 The legend of Dhajadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -45,6 +54,6 @@ The legend of Dhajadāyaka Thera is finished.
 
 [^4]: lit., “a flag was hoisted (or given, carried, displayed, etc.) by me”
 
-[^5]: lit., “in” (*kate,* locative case)
+[^5]: lit., “in” (*kate*, locative case)
 
 [^6]: lit., “my deed”

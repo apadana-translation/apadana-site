@@ -1,5 +1,14 @@
-*Avaṇṭaphala Chapter, the Thirty-Ninth*  
-*\[378. {381.}*[^1] *Avaṇṭaphaladāyaka*[^2]*\]*  
+---
+title: Avaṇṭaphaladāyaka
+order: 381
+layout: poem
+category: chapter-3
+---
+
+## Avaṇṭaphala Chapter, the Thirty-Ninth
+
+### \[378. {381.}[^1] Avaṇṭaphaladāyaka[^2]\]
+
 The Blessed One, Hundred-Rayed One,[^3]  
 the Self-Become, Unconquered One,  
 Seclusion-Lover,[^4] Sambuddha,  
@@ -30,13 +39,14 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[3283\]
 
-Thus indeed Venerable Avaṇṭaphaladāyaka Thera spoke these verses.  
+Thus indeed Venerable Avaṇṭaphaladāyaka Thera spoke these verses.
+
 The legend of Avaṇṭaphaladāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Stemless Fruit Donor.” This same *apadāna*, with only slight changes, is repeated as \#463 {466} and \#501 {504} below, under the same title, and with a different title as \#506 {509}
 
-[^3]: *sataraŋsi,* i.e., “the Sun”
+[^3]: *sataraŋsi*, i.e., “the Sun”
 
 [^4]: *viveka-kāma*

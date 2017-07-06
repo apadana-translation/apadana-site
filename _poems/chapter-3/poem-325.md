@@ -1,4 +1,12 @@
-*\[325. Nimittasaññaka*[^1]*\]*  
+---
+title: Nimittasaññaka
+order: 325
+layout: poem
+category: chapter-3
+---
+
+### \[325. Nimittasaññaka[^1]\]
+
 On Candabhāgā River’s bank,  
 I dwelt in a hermitage \[then\].  
 I saw a golden-colored deer,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2857\]
 
-Thus indeed Venerable Nimittasaññaka Thera spoke these verses.  
+Thus indeed Venerable Nimittasaññaka Thera spoke these verses.
+
 The legend of Nimittasaññaka Thera is finished.
 
 [^1]: “Perceiver of the Signs”

@@ -1,4 +1,12 @@
-*\[342. {345.}*[^1] *Nalāgārika*[^2]*\]*  
+---
+title: Nalāgārika
+order: 345
+layout: poem
+category: chapter-3
+---
+
+### \[342. {345.}[^1] Nalāgārika[^2]\]
+
 Close to the Himalayan range,  
 there’s a mountain named Hārita.[^3]  
 The Self-Become One, Nārada,  
@@ -39,18 +47,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[3111\]
 
-Thus indeed Venerable Nalāgārika Thera spoke these verses.  
+Thus indeed Venerable Nalāgārika Thera spoke these verses.
+
 The legend of Nalāgārika Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Reed-Hut-er.” BJTS reads *Naḷāgārika.*
+[^2]: “Reed-Hut-er.” BJTS reads *Naḷāgārika*.
 
-[^3]: perhaps “Charming,” from *hāri*, or “Carrying,” from *harati.* A parallel *apdāna* below, of Naḷakuṭika Thera, which begins with the same two verses, reads the name as Bhārika (BJTS Bhārita) with *Hārito* and *Hiriko* as alts.
+[^3]: perhaps “Charming,” from *hāri*, or “Carrying,” from *harati*. A parallel *apadāna* below, of Naḷakuṭika Thera, which begins with the same two verses, reads the name as Bhārika (BJTS Bhārita) with *Hārito* and *Hiriko* as alts.
 
 [^4]: i.e., birth as a human being and birth as a god
 
-[^5]: *sāsane,* lit., “dispensation”
+[^5]: *sāsane*, lit., “dispensation”
 
 [^6]: *upasanto*
 

@@ -1,5 +1,14 @@
-*Pilindavaccha Chapter, the Fortieth*  
-*\[388. {391.}*[^1] *Pilindavaccha*[^2]*\]*  
+---
+title: Pilindavaccha
+order: 391
+layout: poem
+category: chapter-3
+---
+
+## Pilindavaccha Chapter, the Fortieth
+
+### \[388. {391.}[^1] Pilindavaccha[^2]\]
+
 In the city, Haṃsavatī,  
 I was a gate-keeper[^3] back then.  
 Undisturbable,[^4] boundless wealth  
@@ -140,7 +149,8 @@ I went up to \[King\] Ānanda.[^110]
 After going up to the king,  
 the father[^111] of the Greatest Sage,[^112]  
 having saluted with \[my\] head,  
-I spoke these words \[to him back then\]: (26c-d, 27-28) \[3400-3401\]  
+I spoke these words \[to him back then\]: (26c-d, 27-28) \[3400-3401\]
+
 \[Protagonist:\][^113]  
 “Together \[we were\] born \[and\] raised;  
 \[we\] are both of a single mind,[^114]  
@@ -311,12 +321,12 @@ is suitable for the Buddha. (57) \[3430\]
 Assembling varied flowers let  
 us make a floral pavilion.[^171]  
 That is what befits the Buddha;  
-there will be everything-*pūjā.”* (58) \[3431\]
+there will be everything-*pūjā*.” (58) \[3431\]
 
 \[Protagonist:\]  
 I made that pavilion \[out of\]  
 blue lotuses,[^172] pink lotuses,[^173]  
-jasmine[^174] and *atimuttaka,*[^175]  
+jasmine[^174] and *atimuttaka*,[^175]  
 champak[^176] and ironwood flowers.[^177] (59) \[3432\]
 
 I spread one hundred thousand seats,  
@@ -378,7 +388,7 @@ this \[most\] excellent offering;
 Tusker, solider, chariot, horse:  
 a four-fold army \[he will get\];  
 they will wait on him[^187] constantly:  
-that’s the fruit of everything-gifts.[^188](71) \[3444\]
+that’s the fruit of everything-gifts.[^188] (71) \[3444\]
 
 Palanquins \[too\], which have been hitched[^189]  
 to elephants \[and\] to horses,  
@@ -443,12 +453,12 @@ of understanding everything.[^200] (83) \[3456\]
 He’ll be the teacher’s follower  
 by the name Pilindavaccha.  
 He’ll be honored[^201] by[^202] \[all\] the gods,  
-the titans[^203] and music-nymphs*.*[^204] (84) \[3457\]
+the titans[^203] and music-nymphs.[^204] (84) \[3457\]
 
 Being beloved by[^205] all of them,  
 the Buddhist monks and Buddhist nuns,  
 and likewise too the laypeople,  
-he will dwell without defilements.”[^206](85) \[3458\]
+he will dwell without defilements.”[^206] (85) \[3458\]
 
 \[Protagonist:\]  
 Karma done a hundred thousand  
@@ -483,7 +493,8 @@ as I transmigrate in the world,[^224]
 one hundred thousand umbrellas  
 with all the ornaments affixed  
 are carried up above my head,  
-as a result[^225] of that karma. (91-92) \[3464-3465\]  
+as a result[^225] of that karma. (91-92) \[3464-3465\]
+
 Why[^226] do I lack in this lifetime[^227]  
 \[such\] bearing of an umbrella?  
 Because by doing all deeds[^228] I’m  
@@ -539,7 +550,8 @@ and likewise the monks’ Assembly,
 numerous well-made \[types\] of knives,[^251]  
 bound with diverse[^252] \[styles of\] binding,  
 I experience eight results,[^253]  
-in accordance with my karma: (103) \[3476\][^254]  
+in accordance with my karma: (103) \[3476\][^254]
+
 I am a god, and do not shake,[^255]  
 perfected in self-confidence,[^256]  
 \[have\][^257] courage[^258] \[and\] virility,[^259]  
@@ -555,13 +567,15 @@ for the Buddha \[and\] for the monks,[^263]
 many scissors[^264] which were not rough[^265]  
 nor uneven,[^266] and were well-washed.[^267]  
 I experience five results,[^268]  
-in accordance with my karma: (106) \[3479, 3480a-b\][^269]  
+in accordance with my karma: (106) \[3479, 3480a-b\][^269]
+
 I receive due to \[giving\] them:  
 a pure heart[^270] \[and\] virility,  
 patience, the loving-kindness sword,[^271]  
 \[and\] the supreme[^272] wisdom-weapon[^273]  
 for breaking the craving-arrow:  
-knowledge as strong[^274] as a diamond.[^275] (107) \[3480c-d, 3481\]  
+knowledge as strong[^274] as a diamond.[^275] (107) \[3480c-d, 3481\]
+
 Giving needles for the Buddha[^276]  
 \[and\] the monks of splendid virtue,[^277]  
 I experience five results,[^278]  
@@ -727,7 +741,8 @@ beautiful, famous and happy,
 free of oppression,[^370] \[also\] safe,[^371]  
 \[and\] I am honored[^372] all the time.  
 I’m not kept apart from loved ones,  
-as a result of \[giving\] that. (140) \[3514\][^373]  
+as a result of \[giving\] that. (140) \[3514\][^373]
+
 Giving shoes[^374] for the Victor \[and\]  
 monks of supreme splendid virtue,  
 I experience three results,[^375]  
@@ -763,7 +778,8 @@ beautiful \[and\] endowed with strength,
 my body is very smooth \[and\]  
 I am not soiled[^391] with dirt \[and\] dust.[^392]  
 I am receiving these virtues  
-as a result of \[giving\] that. (147) \[3521\][^393]  
+as a result of \[giving\] that. (147) \[3521\][^393]
+
 Giving walking-sticks for Buddha[^394]  
 \[and\] the monks of splendid virtue,[^395]  
 I experience six results,[^396]  
@@ -774,7 +790,8 @@ I do not \[ever\] get frightened;[^397]
 there’s[^398] always little to endure,[^399]  
 I’m guarded by all protections.  
 I do not know \[any\] failure;[^400]  
-my mind is not out of control.[^401] (149) \[3523\][^402]  
+my mind is not out of control.[^401] (149) \[3523\][^402]
+
 Having given herbs[^403] \[and\] ointments[^404]  
 for Buddha and the supreme monks,[^405]  
 I experience eight results[^406]  
@@ -811,7 +828,8 @@ I dwell in meditative states;
 I’m in a group without factions,[^425]  
 my words are always taken well.[^426]  
 As I transmigrate in the world,[^427]  
-there’s[^428] great wealth of possessions.[^429] (156) \[3530\][^430]  
+there’s[^428] great wealth of possessions.[^429] (156) \[3530\][^430]
+
 Giving smoke-tubes[^431] for the Victor  
 \[and\] the monks of splendid virtue,[^432]  
 I experience three results,[^433]  
@@ -845,7 +863,7 @@ I’m devoted,[^453] and delicate,[^454]
 I’m a recipient of great[^456]  
 qualities[^457] for my occupation,[^458]  
 of vessels and of baskets \[too\];  
-I’m one whose troubles are removed.[^459](163) \[3537\]
+I’m one whose troubles are removed.[^459] (163) \[3537\]
 
 I’m receiving the four colors  
 of elephants, horses and gems.  
@@ -977,7 +995,8 @@ that is the fruit of a footstool.
 Slave-girls and slaves and \[also\] wives  
 and \[all my\] other dependents  
 do properly[^548] look after me:  
-that is the fruit of a footstool. (189) \[3563\][^549]  
+that is the fruit of a footstool. (189) \[3563\][^549]
+
 Giving oils for anointing[^550]  
 for Buddha and the supreme group,  
 I experience five results,[^551]  
@@ -1016,7 +1035,7 @@ I’m enjoying[^566] ambrosial[^567] things[^568]
 Giving honey with[^570] color, scent  
 \[and\] taste for Buddha[^571] \[and\] the group,  
 I \[now\] drink the juice of freedom,[^572]  
-which is unmatched,[^573] beyond compare.[^574](197) \[3571\]
+which is unmatched,[^573] beyond compare.[^574] (197) \[3571\]
 
 Giving actual[^575] juice for the  
 Buddha and for the supreme group,  
@@ -1033,7 +1052,8 @@ a hero, beautiful, famous
 and happy; a recipient  
 of food and drink, courageous,[^578] smart.[^579]  
 As I transmigrate in the world,[^580]  
-I am receiving these virtues. (200) \[3574\][^581]  
+I am receiving these virtues. (200) \[3574\][^581]
+
 Giving incense[^582] for the Buddha[^583]  
 \[and\] the monks of splendid virtue,[^584]  
 I experience ten results,[^585]  
@@ -1064,22 +1084,23 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (206) \[3580\]
 
-Thus indeed Venerable Pilindavaccha[^594] Thera spoke these verses.  
+Thus indeed Venerable Pilindavaccha[^594] Thera spoke these verses.
+
 The legend of Pilindavaccha[^595] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: cf. \#15, and note, above. BJTS spells the name *Piḷindavaccha.* He seems to have been a historical monk, much-mentioned in the canon and commentaries. “Pilinda” was his given name, “Vaccha” refers to his *gotta* (lineage).
+[^2]: cf. \#15, and note, above. BJTS spells the name *Piḷindavaccha*. He seems to have been a historical monk, much-mentioned in the canon and commentaries. “Pilinda” was his given name, “Vaccha” refers to his *gotta* (lineage).
 
-[^3]: *dovārika* fr. *dvāra.* Cty (p. 480) explains that he was a very rich man (*mahaddhano mahābhogo)* born in a gate-keepers’ clan (*dovārikakule nibbatto*)*,* which might imply that he himself was not engaged in such labor (the term can also mean “janitor). Later however (p. 481) Cty stipulates that he himself was the keeper/protector of the king’s gate (*rañño gehadvāre dvārapālako*), perhaps suggesting that this was a position of some status.
+[^3]: *dovārika* fr. *dvāra*. Cty (p. 480) explains that he was a very rich man (*mahaddhano mahābhogo)* born in a gate-keepers’ clan (*dovārikakule nibbatto*), which might imply that he himself was not engaged in such labor (the term can also mean “janitor). Later however (p. 481) Cty stipulates that he himself was the keeper/protector of the king’s gate (*rañño gehadvāre dvārapālako*), perhaps suggesting that this was a position of some status.
 
-[^4]: *akkhobhaŋ,* lit., “unshaken,” “unperturbed.” BJTS gloss gives *niravul,* unadulterated, unconfused, untroubled, clear. Cty explains that his wealth was such that “it was not able to be disturbed, scattered, by the king nor by the other favorites \[of his\]”
+[^4]: *akkhobhaŋ*, lit., “unshaken,” “unperturbed.” BJTS gloss gives *niravul*, unadulterated, unconfused, untroubled, clear. Cty explains that his wealth was such that “it was not able to be disturbed, scattered, by the king nor by the other favorites \[of his\]”
 
 [^5]: “Joy”
 
 [^6]: BJTS gloss understands this to mean that the king invited the protagonist to come and join in his almsgiving to the Buddha’s foremost monks. But that is not specified in the text. I understand being invited by the king himself to be a more general indication of his high status, paralleling his possession of wealth and of an opulent harem.
 
-[^7]: *adhiccuppattiko,* “the Spontaneously Produced One”
+[^7]: *adhiccuppattiko*, “the Spontaneously Produced One”
 
 [^8]: *muni*
 
@@ -1097,27 +1118,27 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^15]: *saṅgha*
 
-[^16]: *guṇavaruttama.* JPTS reads here and below *gaṇaº,* “the supremely splendid group”
+[^16]: *guṇavaruttama*. JPTS reads here and below *gaṇaº*, “the supremely splendid group”
 
 [^17]: *ādikammika*, lit., “beginning-maker.” *Dāna* to the *saṅgha* regularly -- and especially in this context -- involves enormous expenditures of energy by numerous individuals; the sense here seems to be that the protagonist organizes, oversees and funds the donation.
 
-[^18]: *adiṇṇapubbaŋ,* lit., not given formerly” “not given in the past”
+[^18]: *adiṇṇapubbaŋ*, lit., not given formerly” “not given in the past”
 
 [^19]: *bahuvidhaŋ*
 
-[^20]: *yāge,* sing. *yāga* meaning “sacrifice” (= Skt. *yajñā*) in the non-Buddhist context and “gift” or “charity” or “expenditure” or “almsgiving” in the Buddhist one.
+[^20]: *yāge*, sing. *yāga* meaning “sacrifice” (= Skt. *yajñā*) in the non-Buddhist context and “gift” or “charity” or “expenditure” or “almsgiving” in the Buddhist one.
 
 [^21]: lit., “saw,” *addakkhiŋ*
 
-[^22]: *parikkhāra-dānaŋ*, Sinh. *pirikara dānaya,* i.e., a gift of the “requisites” or *parikkhāra*s of Buddhist monks and nuns, which are variously enumerated (often in an idealized list of eight) and may include the three monastic robes, begging bowl, razor, needle, small knives, girdle, water-strainer, umbrellas, sandals, and so forth.
+[^22]: *parikkhāra-dānaŋ*, Sinh. *pirikara dānaya*, i.e., a gift of the “requisites” or *parikkhāra*/s of Buddhist monks and nuns, which are variously enumerated (often in an idealized list of eight) and may include the three monastic robes, begging bowl, razor, needle, small knives, girdle, water-strainer, umbrellas, sandals, and so forth.
 
-[^23]: reading *parikkhārāni* with BJTS and PTS alt. for PTS *parikkhārāna,* “of the requisites”
+[^23]: reading *parikkhārāni* with BJTS and PTS alt. for PTS *parikkhārāna*, “of the requisites”
 
-[^24]: here as above, *guṇavaruttama,* hence lit., “monks of supremely splendid virtue.” I leave *uttama* untranslated in this case, to keep the meter.
+[^24]: here as above, *guṇavaruttama*, hence lit., “monks of supremely splendid virtue.” I leave *uttama* untranslated in this case, to keep the meter.
 
 [^25]: *ādikammika*, lit., “beginning-maker.” *Dāna* to the *saṅgha* regularly -- and especially in this context -- involves enormous expenditures of energy by numerous individuals; the sense here seems to be that the protagonist organizes, oversees and funds the donation.
 
-[^26]: *adiṇṇapubbaŋ,* lit., not given formerly” “not given in the past”
+[^26]: *adiṇṇapubbaŋ*, lit., not given formerly” “not given in the past”
 
 [^27]: or “reed-workers,” *naḷakakāre*
 
@@ -1131,15 +1152,15 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^32]: *sūciyo*
 
-[^33]: *nakha-cchedane.*
+[^33]: *nakha-cchedane*
 
 [^34]: *vidhūpane*
 
-[^35]: *tālavaṇṭe.* The palmyra (*tāla,* Sinh. *tal*) tree or fan palm is Borassus flabelliformis
+[^35]: *tālavaṇṭe*. The palmyra (*tāla*, Sinh. *tal*) tree or fan palm is Borassus flabelliformis
 
 [^36]: *morahatthe*, lit., “peacock hairs” or “peacock hands.” Here as elsewhere, in keeping with Johnson’s critique of Boswell’s Latin translation, it is necessary to take the Pāli from the meaning, rather than the other way around
 
-[^37]: *camare* \[rea *cāmare*\]*,* RD: a chowrie, the tail of bos grunniens used as a whisk
+[^37]: *camare* \[rea *cāmare*\], RD: a chowrie, the tail of bos grunniens used as a whisk
 
 [^38]: *parissāvane*
 
@@ -1153,23 +1174,23 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^43]: *ādhārake*, also stand, pulpit, desk
 
-[^44]: *vaca.* RD “a kind of root Vin i.201=iv.35” BJTS gives *vadakasā* which is sweet-flag or orris root, Acorus Calamus (*Araceae*), Sinh. also *vadakaha.*
+[^44]: *vaca*. RD “a kind of root Vin i.201=iv.35” BJTS gives *vadakasā* which is sweet-flag or orris root, Acorus Calamus (*Araceae*), Sinh. also *vadakaha*.
 
-[^45]: RD “the fragrant root of Andropogon Muricatum (cp. bīraṇa).” Sinh. *sävänna,* “cuscus grass”
+[^45]: RD “the fragrant root of Andropogon Muricatum (cp. bīraṇa).” Sinh. *sävänna*, “cuscus grass”
 
-[^46]: *laṭṭhimadhu,* “cane-honey,” Abrus precatorius, Sinh. *välmī*
+[^46]: *laṭṭhimadhu*, “cane-honey,” Abrus precatorius, Sinh. *välmī*
 
-[^47]: *pipphalī,* Sinh. *pippali mūl,* the root of the long pepper, Piper longum
+[^47]: *pipphalī*, Sinh. *pippali mūl*, the root of the long pepper, Piper longum
 
-[^48]: *maricāni,* black pepper, allowed as medicine for the monks,
+[^48]: *maricāni*, black pepper, allowed as medicine for the monks
 
-[^49]: *harīṭaka =* Sinhala *araḷu, yellow myrobalan,* terminalia chebula
+[^49]: *harīṭaka* = Sinhala *araḷu*, yellow myrobalan, terminalia chebula
 
-[^50]: *siṅgivera,* Sinh. *hiṅguru* or *iṅguru,* referring to the fresh root rather than the dried or powdered spice
+[^50]: *siṅgivera*, Sinh. *hiṅguru* or *iṅguru*, referring to the fresh root rather than the dried or powdered spice
 
-[^51]: *upāhanā,* Sinh. *vahan*
+[^51]: *upāhanā*, Sinh. *vahan*
 
-[^52]: *pādukā,* Sinh. *miriväḍi*
+[^52]: *pādukā*, Sinh. *miriväḍi*
 
 [^53]: *udakapuñchane*
 
@@ -1189,21 +1210,21 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^61]: *āyoge*
 
-[^62]: *dhūma-nette;* RD: “i. e. a surgical instrument for sniffing up the smoke of medical drugs Vin i.204; ii.120; J iv.363; ThA 14”
+[^62]: *dhūma-nette*; RD: “i. e. a surgical instrument for sniffing up the smoke of medical drugs Vin i.204; ii.120; J iv.363; ThA 14”
 
 [^63]: *dīpadhārake*
 
-[^64]: *tumbake,* made of copper, wood or fruit (gourd, calabash, coconut shell)
+[^64]: *tumbake*, made of copper, wood or fruit (gourd, calabash, coconut shell)
 
 [^65]: or boxes: *karaṇḍe*
 
 [^66]: *saṇḍāse*
 
-[^67]: *pipphala,* taking this as a shortened form of *pipphalaka*, see RD s.v. The term more commonly refers to the fruit of the ficus religiosa (Bodhi Tree of Gotama Buddha). BJTS glosses the term as “scissors” (*katuru*)
+[^67]: *pipphala*, taking this as a shortened form of *pipphalaka*, see RD s.v. The term more commonly refers to the fruit of the ficus religiosa (Bodhi Tree of Gotama Buddha). BJTS glosses the term as “scissors” (*katuru*)
 
 [^68]: *ºthavike*
 
-[^69]: *malahāraka,* lit., “impurity removers,” a tool resembling a tiny spoon, used for removing wax from the ears
+[^69]: *malahāraka*, lit., “impurity removers,” a tool resembling a tiny spoon, used for removing wax from the ears
 
 [^70]: *āsandiyo*
 
@@ -1219,13 +1240,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^76]: *bimbohane*
 
-[^77]: *kuruvinde, kuruvindaka* = Sinh. *kurundu-gal,* a stone used for rubbing the body
+[^77]: *kuruvinde*, *kuruvindaka* = Sinh. *kurundu-gal*, a stone used for rubbing the body
 
 [^78]: or beeswax: *madhu-sitthe*
 
-[^79]: *telahatthappatāpakaŋ,* BJTS reads *telaṃ hatthappatāpakaṃ* which amounts to the same thing, a little more cleanly.
+[^79]: *telahatthappatāpakaŋ*, BJTS reads *telaṃ hatthappatāpakaṃ* which amounts to the same thing, a little more cleanly.
 
-[^80]: *sipāṭī,* cf. *sipāṭikā,* small cases (Sinh. *kopuwa*) or pods (*karaḷa*)*.* Meaning is unclear here. BJTS glosses, “burnt shells (*kabala,* as of coconuts) which are kept having made them rough by drawing lines on them, or else stone planks which have been polished”.
+[^80]: *sipāṭī*, cf. *sipāṭikā*, small cases (Sinh. *kopuwa*) or pods (*karaḷa*). Meaning is unclear here. BJTS glosses, “burnt shells (*kabala*, as of coconuts) which are kept having made them rough by drawing lines on them, or else stone planks which have been polished”.
 
 [^81]: *phalake*
 
@@ -1241,33 +1262,33 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^87]: *dantapoṇe*
 
-[^88]: *āṭali.* I do not find this in the dictionaries. BJTS glosses as *dähäṭi*, sticks used for cleaning the teeth.
+[^88]: *āṭali*. I do not find this in the dictionaries. BJTS glosses as *dähäṭi*, sticks used for cleaning the teeth.
 
 [^89]: *sīsālepanagandhake*
 
 [^90]: *araṇī*
 
-[^91]: *palālapīṭhe,* BJTS reads *phalapīṭhe*, stools made of fruit (gourds?)
+[^91]: *palālapīṭhe*, BJTS reads *phalapīṭhe*, stools made of fruit (gourds?)
 
 [^92]: *pattapidhānathālake*
 
 [^93]: *udakassa kaṭacchu*
 
-[^94]: *cuṇṇakam rajata + ammaṇaṃ.* Chunnam is limestone ground into a paste, mixed with betel and areca nut for chewing. This would then refer to what is called in Sinhala *kiḷoti*, “betel cases”
+[^94]: *cuṇṇakam rajata* + *ammaṇaṃ*. Chunnam is limestone ground into a paste, mixed with betel and areca nut for chewing. This would then refer to what is called in Sinhala *kiḷoti*, “betel cases”
 
 [^95]: *sammajjanaŋ*
 
-[^96]: reading *udapattaṃ* with BJTS. PTS reads *udavatthaŋ,* “an upper cloth” (?)
+[^96]: reading *udapattaṃ* with BJTS. PTS reads *udavatthaŋ*, “an upper cloth” (?)
 
 [^97]: *vassika-sāṭikaŋ*
 
-[^98]: *nisīdanaŋ kaṇḍucchādī,* more commonly *kaṇḍupaṭicchādi*, a cloth allowed in the *Vinaya* to monks suffering from the itch
+[^98]: *nisīdanaŋ kaṇḍucchādī*, more commonly *kaṇḍupaṭicchādi*, a cloth allowed in the *Vinaya* to monks suffering from the itch
 
-[^99]: *atha,* lit., “then”
+[^99]: *atha*, lit., “then”
 
-[^100]: *antaravāsaka,* one of the three robes worn by Buddhist monks and nuns
+[^100]: *antaravāsaka*, one of the three robes worn by Buddhist monks and nuns
 
-[^101]: *uttarāsaṅga-saṅgāṭī, *
+[^101]: *uttarāsaṅga-saṅgāṭī*
 
 [^102]: *natthukaŋ mukhasodhanaŋ*
 
@@ -1275,9 +1296,9 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^104]: *madhu*
 
-[^105]: *dadhi-pānakaŋ. Dadhi* is milk-curd or yoghurt; “for drinking” could imply that it has been blended into a drink like *lassi*, or could refer to drinkable whey that results from souring the milk. In the description of the *ānisaṃsa*s, below (v. 196 \[3570\]) the gift is more straightforwardly just called *dadhi*, though the addition of “well-prepared” (*sampannaŋ*) does imply some sort of processing for consumption.
+[^105]: *dadhi-pānakaŋ*. *Dadhi* is milk-curd or yoghurt; “for drinking” could imply that it has been blended into a drink like *lassi*, or could refer to drinkable whey that results from souring the milk. In the description of the *ānisaṃsa*/s, below (v. 196 \[3570\]) the gift is more straightforwardly just called *dadhi*, though the addition of “well-prepared” (*sampannaŋ*) does imply some sort of processing for consumption.
 
-[^106]: reading *dhūpaṃ* with BJTS for PTS *pupphaŋ,* “flower”
+[^106]: reading *dhūpaṃ* with BJTS for PTS *pupphaŋ*, “flower”
 
 [^107]: *sitthaŋ*
 
@@ -1289,19 +1310,19 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^111]: lit., “progenitor,” BJTS glosses “father”
 
-[^112]: reading *mahesino* with BJTS for PTS *mahāyasaŋ,* “the progenitor of great fame”
+[^112]: reading *mahesino* with BJTS for PTS *mahāyasaŋ*, “the progenitor of great fame”
 
 [^113]: I have puzzled long over this difficult section of the text, and can only make sense of the Pāli by taking it as a dialogue involving multiple different parties: the protagonist (Rev. Pilindavaccha in his previous life), King Ānanda, the judges in a court of law, and the protagonist’s friends and relatives; Padumuttara Buddha also speaks various lines. BJTS does not seem to be aware of this, and glosses literally without apparent understanding of some of the verses. The cty is also silent about this crucial interpretative perspective.
 
-[^114]: lit., “of both there is a single thought”. PTS and BJTS alt. read *yasaŋ, “*of both there is a single fame.”
+[^114]: lit., “of both there is a single thought”. PTS and BJTS alt. read *yasaŋ*, “of both there is a single fame.”
 
 [^115]: BJTS reads *va*, “indeed”
 
-[^116]: *sukhadukkhe;* PTS reads *sukkhadukkhe*
+[^116]: *sukhadukkhe*; PTS reads *sukkhadukkhe*
 
-[^117]: *arindama,* lit., “tamer of enemies.” The term is in the vocative case, addressed to the protagonist.
+[^117]: *arindama*, lit., “tamer of enemies.” The term is in the vocative case, addressed to the protagonist.
 
-[^118]: *dukkhaŋ,* “suffering”
+[^118]: *dukkhaŋ*, “suffering”
 
 [^119]: lit., “your dissatisfaction is my dissatisfaction,” i.e., “when you are troubled in the mind, I am also troubled in the mind”
 
@@ -1311,13 +1332,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^122]: *dukkha*. One would prefer to remain consistent in the translation “dissatisfaction,” but “suffering” is the more commonly known term, is appropriate to this context, and work better for the meter (and rhyme) in English.
 
-[^123]: reading *pahu samāno* (lit., “\[I\], being able”) with BJTS and PTS alt. for PTS *bahussamāno,* “being many”
+[^123]: reading *pahu samāno* (lit., “\[I\], being able”) with BJTS and PTS alt. for PTS *bahussamāno*, “being many”
 
-[^124]: *gajjassu,* 2nd. sing. imperative (*attanopāda*) *of* *gajjati,* lit., “roar” or “sound forth”
+[^124]: *gajjassu*, 2nd. sing. imperative (*attanopāda*) *of* *gajjati*, lit., “roar” or “sound forth”
 
-[^125]: reading *ekaṃ* with BJTS and PTS alt. for PTS *etaŋ,* though the sense in either case is clear: the protagonist will suffer unless he can fulfill the king’s wishes.
+[^125]: reading *ekaṃ* with BJTS and PTS alt. for PTS *etaŋ*, though the sense in either case is clear: the protagonist will suffer unless he can fulfill the king’s wishes.
 
-[^126]: reading *varaṃ* with BJTS and PTS alt. for PTS *dhanaŋ,* “wealth”. *Vara* can also mean “favor” or “blessing”
+[^126]: reading *varaṃ* with BJTS and PTS alt. for PTS *dhanaŋ*, “wealth”. *Vara* can also mean “favor” or “blessing”
 
 [^127]: reading *duccajaṃ* with BJTS for PTS *duccajjaŋ*
 
@@ -1327,39 +1348,39 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^130]: *gajjitaŋ*
 
-[^131]: *deva,* voc.
+[^131]: *deva*, voc.
 
 [^132]: *sabbadhamme patiṭṭhitaŋ*
 
 [^133]: *atibāḷhaŋ*
 
-[^134]: *nipīḷesi,* lit., “oppress,” “press down,” “weigh down heavily,” “subjugate”
+[^134]: *nipīḷesi*, lit., “oppress,” “press down,” “weigh down heavily,” “subjugate”
 
 [^135]: reading *kin te me pīlitena ‘ttho* (lit., “what is the value for me through the stopping of you?”) with BJTS (and PTS alt., correct *piḷite n’attho* as *pīlitena ‘ttho*) for PTS *kin te palapite n’attho*
 
-[^136]: reading *vajjaṃ me māhu* (=mā āhu*) jīvitaṃ* with BJTS and PTS alt. for PTS *vajjaŋ me p’āhu jīvitaŋ,* “life was wasted for me indeed”
+[^136]: reading *vajjaṃ me māhu* (= *mā āhu*) *jīvitaṃ* with BJTS and PTS alt. for PTS *vajjaŋ me p’āhu jīvitaŋ*, “life was wasted for me indeed”
 
-[^137]: *dammi,* lit., “I am giving”
+[^137]: *dammi*, lit., “I am giving”
 
-[^138]: *varaŋ,* boon, favor.
+[^138]: *varaŋ*, boon, favor.
 
-[^139]: BJTS reads this as an imperative: *mā yācittho* for PTS *ayācittho.* In either case the grammar is fuzzy -- the BJTS reading assumes a plural second person imperative (a royal y’all?) while the PYS reading is not a regular form of the verb.
+[^139]: BJTS reads this as an imperative: *mā yācittho* for PTS *ayācittho*. In either case the grammar is fuzzy -- the BJTS reading assumes a plural second person imperative (a royal y’all?) while the PYS reading is not a regular form of the verb.
 
-[^140]: *maṇijotirasa,* a gemstone which fulfills wishes, a particularly valuable gem.
+[^140]: *maṇijotirasa*, a gemstone which fulfills wishes, a particularly valuable gem.
 
 [^141]: here to *gajjitaŋ*
 
-[^142]: reading *attano* with BJTS (and PTS alt.) for PTS *atthikaŋ,* “exists,” though the latter is also possible, “as long as life exists”
+[^142]: reading *attano* with BJTS (and PTS alt.) for PTS *atthikaŋ*, “exists,” though the latter is also possible, “as long as life exists”
 
 [^143]: lit., “the Victor”
 
 [^144]: *varassu*, as second person imperative of *varati*
 
-[^145]: BJTS glosses “the judges (*adhikaraṇa nāyakayo*)*”*
+[^145]: BJTS glosses “the judges (*adhikaraṇa nāyakayo*)”
 
-[^146]: PTS reads *yathāsaṅhaŋ,* BJTS *yathāsannaṃ,* neither of which is sensible. But BJTS is surely correct in glossing the term, based on context, as “the right procedure” (*äti paridi*). Cf. v. 47 \[
+[^146]: PTS reads *yathāsaṅhaŋ*, BJTS *yathāsannaṃ*, neither of which is sensible. But BJTS is surely correct in glossing the term, based on context, as “the right procedure” (*äti paridi*). Cf. v. 47 \[
 
-[^147]: *akkhadassānam,* lit., “of those who examine the die,” by extension umpires or judges
+[^147]: *akkhadassānam*, lit., “of those who examine the die,” by extension umpires or judges
 
 [^148]: BJTS switches the second and fourth feet, reading: “Listen to me, O \[you\] judges:/he promised even \[his own\] life./Without excepting anything/the king did give a boon to me.//
 
@@ -1367,11 +1388,11 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^150]: reading *sossāma* (1st person plural future of *suṇāti*) for PTS *sussāma*
 
-[^151]: *sabbagāhikaŋ,* lit., “taking everything”
+[^151]: *sabbagāhikaŋ*, lit., “taking everything”
 
-[^152]: *kicchapatto va hutvāna,* lit., “being fallen into misery”
+[^152]: *kicchapatto va hutvāna*, lit., “being fallen into misery”
 
-[^153]: *sudukkhitaŋ,* lit., “very much suffering,” “very well dissatisfied”
+[^153]: *sudukkhitaŋ*, lit., “very much suffering,” “very well dissatisfied”
 
 [^154]: *yathāsaṇṭhamhi tiṭṭhatha;* cf. above, n. to v. 40 \[3413\]
 
@@ -1387,21 +1408,21 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^160]: lit., “do *pūjā* to”
 
-[^161]: *jina,* lit., “he who has conquered”
+[^161]: *jina*, lit., “he who has conquered”
 
 [^162]: *appameyya*, lit., “not to be measured”
 
-[^163]: *anupama,* lit., “for whom there is no metaphor”
+[^163]: *anupama*, lit., “for whom there is no metaphor”
 
-[^164]: *appaṭipuggala,* “of whom there is no comparable person”
+[^164]: *appaṭipuggala*, “of whom there is no comparable person”
 
-[^165]: *vīra,* lit., “virile,” “manly.” BJTS reads *dhīro*, “Wise One”
+[^165]: *vīra*, lit., “virile,” “manly.” BJTS reads *dhīro*, “Wise One”
 
 [^166]: *atula*, lit., “not weighable” “having no equal”
 
 [^167]: *asama*, lit., “of whom there is not one the same”
 
-[^168]: *samasama*, lit., “exactly the same” or “evenly even” (or, according to Sinhala usage of the same term, “Equal”). The negative of this compound, *asamasama,* is also used as a Buddha-epithet, meaning “Impartial” (“the same in difference”), below v. 42 of *Sela-apadāna* (no. 389 {392}) = \[3623\])
+[^168]: *samasama*, lit., “exactly the same” or “evenly even” (or, according to Sinhala usage of the same term, “Equal”). The negative of this compound, *asamasama*, is also used as a Buddha-epithet, meaning “Impartial” (“the same in difference”), below v. 42 of *Sela-apadāna* (no. 389 {392}) = \[3623\])
 
 [^169]: *adutiya*
 
@@ -1409,15 +1430,15 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^171]: *maṇḍapa*
 
-[^172]: *uppala,* Sinh. *upul*
+[^172]: *uppala*, Sinh. *upul*
 
-[^173]: *paduma,* Sinh. *piyum*
+[^173]: *paduma*, Sinh. *piyum*
 
 [^174]: *vassikā*, Jasminum Sambac, Sinh. *dǟsaman*
 
-[^175]: Gaertnera Racemosa, Sinh. *yohombu, kōmbu, yon tumba,* an annual creeper, Trichodesma zeylanicum
+[^175]: Gaertnera Racemosa, Sinh. *yohombu*, *kōmbu*, *yon tumba*, an annual creeper, Trichodesma zeylanicum
 
-[^176]: the *campaka* (Sinh. *sapu*) tree is *Magnolia champaca,* formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
+[^176]: the *campaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
 [^177]: *nāga* = Sinhala *nā*, ironwood, Mesua Ferrea Linn, Bodhi tree of Mangala, Sumana, Revata, Sobhita buddhas; national tree of Sri Lanka. It has brilliant, fragrant white flowers containing four petals each, as well as a red fruit eaten by birds.
 
@@ -1427,15 +1448,15 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^180]: reading *bhikkhuno* with BJTS for PTS *bhikkhussa*, a
 
-[^181]: *jahiŋsu,* lit., “abandoned,” “set aside”
+[^181]: *jahiŋsu*, lit., “abandoned,” “set aside”
 
-[^182]: reading *pubbakaṃ pattaṃ* with BJTS (and PTS alt.) for PTS *pupphakaŋ pattaŋ,* “bowl of flowers”
+[^182]: reading *pubbakaṃ pattaṃ* with BJTS (and PTS alt.) for PTS *pupphakaŋ pattaŋ*, “bowl of flowers”
 
 [^183]: *loha*, which can also mean copper or brass
 
 [^184]: *dhammacakkaŋ pavattayi*, that is, he delivered his first sermon (which in the parallel case of Gotama Buddha, anyway, is called “The Sermon that Turned the Wheel of the Teaching” (*Dhammacakkappavattanasutta*)
 
-[^185]: *dhammacakkaŋ pavattento,* lit., “while he was turning the wheel of the Teaching”
+[^185]: *dhammacakkaŋ pavattento*, lit., “while he was turning the wheel of the Teaching”
 
 [^186]: lit., “there was an \[achieving of\] insight into the *Dhamma* of eighty-four thousand.” *Dhammâbhisamaya*, “insight into the *Dhamma*” or “entry into the *Dhamma*” or “comprehension of the *Dhamma”* or “penetration into the *Dhamma”* refers to the achievement of a firm grasp on the essentials of the Teaching. It is used as a technical term in the account of each Buddha in the *Buddhavaṃsa*, one among many categories of Buddha-achievement enumerated there.
 
@@ -1443,11 +1464,11 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^188]: *sabbadānass’ idaŋ phalaŋ*
 
-[^189]: reading *sandamānika* as *sandahamānika,* rather than take it from *sandati,* to flow.
+[^189]: reading *sandamānika* as *sandahamānika*, rather than take it from *sandati*, to flow.
 
-[^190]: *niccaŋ,* lit., constantly, permanently
+[^190]: *niccaŋ*, lit., constantly, permanently
 
-[^191]: *turiya,* that is, musical instruments
+[^191]: *turiya*, that is, musical instruments
 
 [^192]: *bheri*
 
@@ -1491,19 +1512,19 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^212]: *sugate*, lit., “for the Well-Gone-One”
 
-[^213]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṅe* (read this as a typo for *guṇaº* as elsewhere) *varuttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme splendid group”
+[^213]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṅe* (read this as a typo for *guṇaº* as elsewhere) *varuttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
-[^214]: *aṭṭānisaŋse.* I count the eight here as (1) being immune to extremes of temperature, (2) to dirt and dust, and (3) to danger; (4) being safe; (5) being honored (which is symbolized by the umbrella), (6) having soft skin (the umbrella is used for protection from the sun’s harsh rays), (7) having a clear mind and (8) having a permanent umbrella over his head during all lives except this final one.
+[^214]: *aṭṭānisaŋse*. I count the eight here as (1) being immune to extremes of temperature, (2) to dirt and dust, and (3) to danger; (4) being safe; (5) being honored (which is symbolized by the umbrella), (6) having soft skin (the umbrella is used for protection from the sun’s harsh rays), (7) having a clear mind and (8) having a permanent umbrella over his head during all lives except this final one.
 
 [^215]: or “I do not know,” *na jānāmi*
 
-[^216]: BJTS and PTS alt. reads *limpati* (“smeared”) for PTS *lippati* (“get soiled” according to PSI dictionary, Sinh. *gälveyi*; RD reads *lippati* as pass. of *limpati*)*,* but as the former can also mean “soiled” the difference is not significant.
+[^216]: BJTS and PTS alt. reads *limpati* (“smeared”) for PTS *lippati* (“get soiled” according to PSI dictionary, Sinh. *gälveyi*; RD reads *lippati* as pass. of *limpati*), but as the former can also mean “soiled” the difference is not significant.
 
 [^217]: *rajojallaŋ*
 
 [^218]: *anīti*
 
-[^219]: *anupaddava,* also “uninjured,” “safe”
+[^219]: *anupaddava*, also “uninjured,” “safe”
 
 [^220]: *apacita*
 
@@ -1513,11 +1534,11 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^223]: *ṭhapetvāna*, lit., “excepting” “placing aside”
 
-[^224]: *bhave,* lit., “in existence”
+[^224]: *bhave*, lit., “in existence”
 
 [^225]: *vāhasā*
 
-[^226]: reading *kasmā* (lit., “because of what?) with BJTS (and PTS alt.) for PTS *tasmā,* “therefore,” “because of that”
+[^226]: reading *kasmā* (lit., “because of what?) with BJTS (and PTS alt.) for PTS *tasmā*, “therefore,” “because of that”
 
 [^227]: lit., “because of what is there not for me in this birth”
 
@@ -1525,11 +1546,11 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^229]: lit., “because of obtaining the umbrella of liberation” (*vimutti-c-chatta-pattiyā*)
 
-[^230]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme splendid group”
+[^230]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
 [^231]: *aṭṭānisaŋse*. I count the eight here as (1) a great body, plus receipt of seven types of cloth to clothe it: (2) white, (3) yellow and (4) red cloth, (5) silk, (6) wool, (7) *khoma* and (8) cotton.
 
-[^232]: *bhave,* lit., “in existence”
+[^232]: *bhave*, lit., “in existence”
 
 [^233]: *viraja*
 
@@ -1545,15 +1566,15 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^239]: *tesaŋ* is gen. pl., i.e., “as a result of those \[acts of giving cloth in the past\]”
 
-[^240]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme splendid group”
+[^240]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
-[^241]: *dasānisaŋse.* I read the ten here as: (1) eating off fancy plates, (2) being safe, (3) being free from danger, (4) being honored, (5) receiving food and drink, (6) receiving clothes and couches, (7) possessions never run out, (8) steady-hearted, (9) fond of the Teaching (*Dhamma*) and (10) having few flaws and being undefiled.
+[^241]: *dasānisaŋse*. I read the ten here as: (1) eating off fancy plates, (2) being safe, (3) being free from danger, (4) being honored, (5) receiving food and drink, (6) receiving clothes and couches, (7) possessions never run out, (8) steady-hearted, (9) fond of the Teaching (*Dhamma*) and (10) having few flaws and being undefiled.
 
 [^242]: or some other (unspecified) gem: *maṇithāle*
 
 [^243]: *anīti*
 
-[^244]: *anupaddava,* also “uninjured,” “safe”
+[^244]: *anupaddava*, also “uninjured,” “safe”
 
 [^245]: *apacita*
 
@@ -1563,15 +1584,15 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^248]: *anāsava*
 
-[^249]: BJTS (and PTS alt.) read *anubandhā* for PTS *anubaddhā,* with the same meaning
+[^249]: BJTS (and PTS alt.) read *anubandhā* for PTS *anubaddhā*, with the same meaning
 
 [^250]: lit., “shade just like that of a tree is not abandoning me in every place”
 
 [^251]: *vāsī*
 
-[^252]: *cittaº.* I follow BJTS in reading this as *vicitta*, “varied”
+[^252]: *cittaº*. I follow BJTS in reading this as *vicitta*, “varied”
 
-[^253]: *aṭṭānisaŋse.* I read the eight here as: (1) being a god, (2) being unshaken, (3) being self-confident, (4) having courage, (5) being virile, (6) being mentally alert or energetic, (7) receiving defilement-eliminating knowledge and (8) receiving fine and limitless merit.
+[^253]: *aṭṭānisaŋse*. I read the eight here as: (1) being a god, (2) being unshaken, (3) being self-confident, (4) having courage, (5) being virile, (6) being mentally alert or energetic, (7) receiving defilement-eliminating knowledge and (8) receiving fine and limitless merit.
 
 [^254]: PTS and BJTS agree in making this a six-footed, rather than four-footed verse. I suppose that the poets wanted to stipulate that these knives were varied in type and style, as spelled out above, and therefore were unsatisfied with the four-foot template for these statements, which would not allow for anything more than a generic “knives”.
 
@@ -1585,7 +1606,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^259]: *viriyavā*
 
-[^260]: *paggahita-mana,* lit., “vigorously applied mind”
+[^260]: *paggahita-mana*, lit., “vigorously applied mind”
 
 [^261]: reading *tāsaṃ* with PTS alt. for PTS and BJTS *tassa* (“of it”), and taking "them" as "those knives”
 
@@ -1593,7 +1614,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^263]: *saṇgha*
 
-[^264]: *satthake,* a small knife or scissors, here = *pipphala*
+[^264]: *satthake*, a small knife or scissors, here = *pipphala*
 
 [^265]: *a-pharusa*
 
@@ -1601,11 +1622,11 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^267]: reading *sudhote* with BJTS for PTS *adhote* (‘unclean,” “unwashed”)
 
-[^268]: *pañcānisaŋse.* I read the five here as: pure-heartedness, virility, patience, loving-kindness, and wisdom.
+[^268]: *pañcānisaŋse*. I read the five here as: pure-heartedness, virility, patience, loving-kindness, and wisdom.
 
 [^269]: Here PTS gives two six-footed verses, whereas BJTS breaks the text into three four-footed ones. I again adopt the a-b-c-d convention, this time applied to the BJTS numbers, to indicate where the relevant material is found in both texts.
 
-[^270]: *kalyāṇacittaŋ,* pure or beautiful or kindly in heart
+[^270]: *kalyāṇacittaŋ*, pure or beautiful or kindly in heart
 
 [^271]: *metta-satthaka*
 
@@ -1619,7 +1640,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^276]: lit., “for the Well-Gone-One”
 
-[^277]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme splendid group”
+[^277]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
 [^278]: *pañcānisaŋse*. I count the five here as (1) being worshipped, (2) being free of doubt, (3) being very handsome, (4) being very rich and (5) having sharp wisdom.
 
@@ -1627,21 +1648,21 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^280]: *kaṅkhachedo*, \[my\] doubt is removed or cut off
 
-[^281]: lit., “I saw,” *passayiŋ.* PTS alt. *passāmi* (present tense) is preferable for consistency with the use of present tense throughout this passage
+[^281]: lit., “I saw,” *passayiŋ*. PTS alt. *passāmi* (present tense) is preferable for consistency with the use of present tense throughout this passage
 
 [^282]: *gambhīra*, lit., “deep”
 
-[^283]: or diamond, *vajiraggasamaŋ.* Here “thunder-bolt” is preferable given the emphasis on “dispelling darkness,” though a shiny diamond might be said to do the same thing.
+[^283]: or diamond, *vajiraggasamaŋ*. Here “thunder-bolt” is preferable given the emphasis on “dispelling darkness,” though a shiny diamond might be said to do the same thing.
 
 [^284]: lit., “nail-clippers”
 
 [^285]: lit., “for the Well-Gone-One”
 
-[^286]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme splendid group”
+[^286]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
 [^287]: *pañcānisaŋse*. I count the five here as the receipt of (1) slaves, (2) domestic animals, (3) servants/attendants, (4) watchmen/guards and (5) personal attendants (who cut the hair, bring and cook the food)
 
-[^288]: reading *ārakkhake* with BJTS for PTS *ārakkhe,* “protections”
+[^288]: reading *ārakkhake* with BJTS for PTS *ārakkhe*, “protections”
 
 [^289]: reading *bhattake* with BJTS for PTS *bhatake*, “servants,” already stipulated in the second foot of this verse
 
@@ -1655,9 +1676,9 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^294]: *pariḷāho*
 
-[^295]: *darathaŋ,* which can also mean “fever”
+[^295]: *darathaŋ*, which can also mean “fever”
 
-[^296]: *cittasantāpanaŋ,* lit., “burning of the heart,” figurative meaning according to RD is torment, torture
+[^296]: *cittasantāpanaŋ*, lit., “burning of the heart,” figurative meaning according to RD is torment, torture
 
 [^297]: *nibbutā*
 
@@ -1667,7 +1688,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^300]: lit., “the fire of pride (*mānaggī*) and the fire of wrong views (*diṭṭhi-aggī*)”
 
-[^301]: *saṅghe gaṇuttame,* lit., “to the monks’ Assembly, the supreme group”. Note that here PTS reads *gaṇa* (“group”) for *guṇa* (“virtue”) in these recurring compounds, as does BJTS quite consistently.
+[^301]: *saṅghe gaṇuttame*, lit., “to the monks’ Assembly, the supreme group”. Note that here PTS reads *gaṇa* (“group”) for *guṇa* (“virtue”) in these recurring compounds, as does BJTS quite consistently.
 
 [^302]: *parissāvane*
 
@@ -1693,13 +1714,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^313]: lit., “for the Well-Gone-One”
 
-[^314]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme splendid group”
+[^314]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
-[^315]: *pañcānisaŋse.* I count the five here as (1) charming form, (2) good speech, (3) lofty intentions (or mental activity), (4) lack of mental confusion or disturbance and (5) being guarded by all \[forms of\] protection.
+[^315]: *pañcānisaŋse*. I count the five here as (1) charming form, (2) good speech, (3) lofty intentions (or mental activity), (4) lack of mental confusion or disturbance and (5) being guarded by all \[forms of\] protection.
 
 [^316]: reading *mama* (gen.) with BJTS for PTS *mamaŋ* (gen. or acc.)
 
-[^317]: reading *sugado* with BJTS (and PTS alt.) for PTS *sugato,* “well-gone”
+[^317]: reading *sugado* with BJTS (and PTS alt.) for PTS *sugato*, “well-gone”
 
 [^318]: *susamuggata-mānasa*
 
@@ -1707,9 +1728,9 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^320]: lit., “for the Well-Gone-One”
 
-[^321]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme splendid group”
+[^321]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
-[^322]: *tīnānisaŋse.* I count the three here as (1) mental pleasure, (2) bodily pleasure and (3) pleasure born through the senses.
+[^322]: *tīnānisaŋse*. I count the three here as (1) mental pleasure, (2) bodily pleasure and (3) pleasure born through the senses.
 
 [^323]: reading *mama* (gen.) with BJTS (and PTS alt.) for PTS *mamaŋ* (gen. or acc.)
 
@@ -1721,13 +1742,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^327]: lit., “for the Victor” (*jine)*
 
-[^328]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme splendid group”
+[^328]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
-[^329]: *tīnānisaŋse.* I count the three here as (1) deep understanding of the Teaching (or mind-reading), (2) recalling the second lifetime, and (3) having good skin.
+[^329]: *tīnānisaŋse*. I count the three here as (1) deep understanding of the Teaching (or mind-reading), (2) recalling the second lifetime, and (3) having good skin.
 
-[^330]: *sadhamme gādhaŋ vindāmi,* lit., “I know the depth in the Great Teaching.” BJTS (and PTS alt.) read *cetoñanañ ca vindāmi,* “I know the knowledge of mind,” which BJTS glosses as knowing the knowledge in the minds of others, i.e., mind-reading.
+[^330]: *sadhamme gādhaŋ vindāmi*, lit., “I know the depth in the Great Teaching.” BJTS (and PTS alt.) read *cetoñanañ ca vindāmi*, “I know the knowledge of mind,” which BJTS glosses as knowing the knowledge in the minds of others, i.e., mind-reading.
 
-[^331]: *dutiyaŋ bhavaŋ*, BJTS glosses *deveni bhavaya.* I gather this means “I remember as far back as two previous lifetimes.” Or does it refer to the second of the three states of existence (also *bhava*), i.e., the formed (*rūpa*) state of existence?
+[^331]: *dutiyaŋ bhavaŋ*, BJTS glosses *deveni bhavaya*. I gather this means “I remember as far back as two previous lifetimes.” Or does it refer to the second of the three states of existence (also *bhava*), i.e., the formed (*rūpa*) state of existence?
 
 [^332]: *succhavi homi*
 
@@ -1735,25 +1756,25 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^334]: reading *jine* with BJTS (and PTS alt.) for PTS *sugate* (“Well-Gone-One”), which a produces a metrically-unsound sound verse.
 
-[^335]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme splendid group”
+[^335]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
-[^336]: *chānisaŋse.* I count the six here as (1) not shaking in meditative states, (2) dwelling in meditative states, (3) being in groups without factions, (4) speaking words that are always acceptable or pleasant or well-taken, (5) possessing mindfulness (*sati*), and (6) having no fear.
+[^336]: *chānisaŋse*. I count the six here as (1) not shaking in meditative states, (2) dwelling in meditative states, (3) being in groups without factions, (4) speaking words that are always acceptable or pleasant or well-taken, (5) possessing mindfulness (*sati*), and (6) having no fear.
 
 [^337]: *na kampāmi*, lit., “I do not shake (tremble, waver)”
 
-[^338]: *samādhīsu,* lit., “among the *samādhis*. The plural suggests various types of *samādhi* or different sorts of meditative states.
+[^338]: *samādhīsu*, lit., “among the *samādhis*. The plural suggests various types of *samādhi* or different sorts of meditative states.
 
 [^339]: *abhejjapariso homi*
 
 [^340]: *ādeyyavacano sadā*
 
-[^341]: *tāso na mayhaŋ vijjati,* lit., “fear is not found of mine”
+[^341]: *tāso na mayhaŋ vijjati*, lit., “fear is not found of mine”
 
-[^342]: BJTS (and PTS alt.) read *anubandhā* for PTS *anubaddhā,* with the same meaning
+[^342]: BJTS (and PTS alt.) read *anubandhā* for PTS *anubaddhā*, with the same meaning
 
 [^343]: *ādhārake*, also stand, pulpit, desk. BJTS understands this as a stand on which to place the alms-bowl.
 
-[^344]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme splendid group”
+[^344]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
 [^345]: *pancavaṇṇehi dāyādo* is an enigmatic foot, given the wide semantic range of *vaṇṇa* (color, caste, appearance, luster, beauty, expression, kind or sort, timbre, constitution, likeness, property, praise, reason. BJTS SInhala gloss speculates that it could mean “‘an heir with five different sorts’ or else ‘someone who has received five forms of power (*anusas* = *anuhasa*)’”. The ambiguity is preserved in my choice of “kind” as the translation here: not specifying five kinds of *what* leaves the foot open to the widest range of interpretations, though admittedly in and of itself conveys little meaning other than uncertainty.
 
@@ -1761,13 +1782,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^347]: here PTS also reads *gaṇuttame* rather than, as above, *guṇº*
 
-[^348]: *tīṇānisaŋse.* I count the three here as (1)
+[^348]: *tīṇānisaŋse*. I count the three here as (1)
 
-[^349]: here and in the next verse I read *paribhogāni sabbadā* with BJTS (and PTS alt.) for *paribhogādisampadā,* “attainment of things to enjoy etc.” *Paribhoga* could refer to “usefulness” as well as “enjoyableness”
+[^349]: here and in the next verse I read *paribhogāni sabbadā* with BJTS (and PTS alt.) for *paribhogādisampadā*, “attainment of things to enjoy etc.” *Paribhoga* could refer to “usefulness” as well as “enjoyableness”
 
 [^350]: that is, a four-fold army
 
-[^351]: *itthī patibbatā c’eva,* “the women are even devoted wives!”
+[^351]: *itthī patibbatā c’eva*, “the women are even devoted wives!”
 
 [^352]: *nisāmemi*
 
@@ -1779,13 +1800,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^356]: *āgame*
 
-[^357]: *tīṇānisaŋse.* I count the three here as (1) receipt of costly plates, (2) receipt of organic plates and (3) receipt of virtues as stipulated
+[^357]: *tīṇānisaŋse*. I count the three here as (1) receipt of costly plates, (2) receipt of organic plates and (3) receipt of virtues as stipulated
 
-[^358]: *assatthaka,* “of the *aśvattha* \[tree\],” Ficus religiosa, Bodhi Tree of Gotama Buddha
+[^358]: *assatthaka*, “of the *aśvattha* \[tree\],” Ficus religiosa, Bodhi Tree of Gotama Buddha
 
 [^359]: as a sacred tree, it is unlikely that Ficus religiosa wood is intended here. I’m not sure what a plate made of its leaves would be like, but that seems a better interpretation.
 
-[^360]: *phalamaye,* lit., “made of fruits.” I follow BJTS in taking this as a reference to the “fruit” of *labu,* the gourd, *contra* RD, *phalamaye* s.v., who says this is an abbreviated form of *phalikāmaye*, unlikely at least in the present case since plates made of crystal have been mentioned in the previous verse.
+[^360]: *phalamaye*, lit., “made of fruits.” I follow BJTS in taking this as a reference to the “fruit” of *labu*, the gourd, *contra* RD, *phalamaye* s.v., who says this is an abbreviated form of *phalikāmaye*, unlikely at least in the present case since plates made of crystal have been mentioned in the previous verse.
 
 [^361]: *pokkharapattake*
 
@@ -1795,17 +1816,17 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^364]: *vatte guṇe*, BJTS glosses: *vatāvat guṇehi*
 
-[^365]: *ācārakiriyāsu ca,* or “among the forms of right practice”
+[^365]: *ācārakiriyāsu ca*, or “among the forms of right practice”
 
 [^366]: lit., “for the Well-Gone-One”
 
 [^367]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^368]: *dasānisaŋse.* I count the ten here as (1) long life, (2) physical strength, (3) heroism, (4) beauty, (5) fame, (6) happiness, (7) freedom from oppression, (8) safety, (9) honor, and (10) being together with loved ones.
+[^368]: *dasānisaŋse*. I count the ten here as (1) long life, (2) physical strength, (3) heroism, (4) beauty, (5) fame, (6) happiness, (7) freedom from oppression, (8) safety, (9) honor, and (10) being together with loved ones.
 
 [^369]: reading *homi* with BJTS for PTS *bhomi*, which is probably a misreading of *“hoº*”as “*bhoº*” -- an easy mistake given their similarity in the Sinhala script.
 
-[^370]: *anupaddava,* also “uninjured,” “safe”
+[^370]: *anupaddava*, also “uninjured,” “safe”
 
 [^371]: *anīti*
 
@@ -1815,21 +1836,21 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^374]: *upāhane*
 
-[^375]: *tīṇānisaŋse.* I count the three here as (1) waited upon by palanquins (2) arising of costly shoes (3) shoes purify guilty conduct
+[^375]: *tīṇānisaŋse*. I count the three here as (1) waited upon by palanquins (2) arising of costly shoes (3) shoes purify guilty conduct
 
-[^376]: reading *sandamānika* as *sandahamānika,* rather than take it from *sandati,* to flow.
+[^376]: reading *sandamānika* as *sandahamānika*, rather than take it from *sandati*, to flow.
 
-[^377]: *bhave,* lit., “in existence”
+[^377]: *bhave*, lit., “in existence”
 
-[^378]: º*pādukā*,
+[^378]: *ºpādukā*
 
-[^379]: reading *kambalikā* with BJTS for PTS *maṇḍalikā,* “district officers”
+[^379]: reading *kambalikā* with BJTS for PTS *maṇḍalikā*, “district officers”
 
 [^380]: taking *paduddhāre* as *pada* (foot) + *uddhāra* (from the basic meaning of *uddharati*, “lifts up”), though RD says the compound is used in SnA to mean “synopsis of a verse,” lit., “removal of the feet”
 
 [^381]: *paṭidhāvanti (*BJTS read *patiº*)
 
-[^382]: reading *niyāmaṃ* with BJTS (and PTS alt.) for PTS *niyamaŋ,* (“restraint,” “limitation,” “cosmic law”)
+[^382]: reading *niyāmaṃ* with BJTS (and PTS alt.) for PTS *niyamaŋ*, (“restraint,” “limitation,” “cosmic law”)
 
 [^383]: reading *āgu-ācāra-sodhanaṃ* with BJTS for PTS *ācāraguṇasodhanaŋ* (“purifying virtuous conduct”)
 
@@ -1841,13 +1862,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^387]: *iddhipādukam āruyha*, lit., “having stepped onto sandals with *iddhi* \[superpowers\]”
 
-[^388]: *yadicchakaŋ,* lit., “which is \[my\] wish” or perhaps “as I wish”
+[^388]: *yadicchakaŋ*, lit., “which is \[my\] wish” or perhaps “as I wish”
 
-[^389]: *mukha-puñchana-cole,* lit., “napkins (or rags, scraps of cloth, handkerchiefs) for wiping the face”
+[^389]: *mukha-puñchana-cole*, lit., “napkins (or rags, scraps of cloth, handkerchiefs) for wiping the face”
 
-[^390]: *pañcānisaŋse.* I count the five here as (1) golden-colored, unblemished body; (2) beautiful, (3) strong, (4) smooth, (5) not soiled by dirt and dust.
+[^390]: *pañcānisaŋse*. I count the five here as (1) golden-colored, unblemished body; (2) beautiful, (3) strong, (4) smooth, (5) not soiled by dirt and dust.
 
-[^391]: BJTS and PTS alt. reads *limpati* (“smeared”) for PTS *lippati* (“get soiled” according to P-S-E dictionary, Sinh. *gälveyi*; RD reads *lippati* as pass. of *limpati*)*,* but as the former can also mean “soiled” the difference is not significant.
+[^391]: BJTS and PTS alt. reads *limpati* (“smeared”) for PTS *lippati* (“get soiled” according to P-S-E dictionary, Sinh. *gälveyi*; RD reads *lippati* as pass. of *limpati*), but as the former can also mean “soiled” the difference is not significant.
 
 [^392]: *rajojallaŋ*
 
@@ -1857,11 +1878,11 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^395]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^396]: *chānisaŋse.* I count the six here as (1) numerous progeny, (2) lack of fear, (3) little to endure, (4) well-protected, (5) lack of failure, and (6) well-controlled mind (or lack of baldness, etc.)
+[^396]: *chānisaŋse*. I count the six here as (1) numerous progeny, (2) lack of fear, (3) little to endure, (4) well-protected, (5) lack of failure, and (6) well-controlled mind (or lack of baldness, etc.)
 
-[^397]: *tāso mayhaŋ na vijjati,* lit., “fear is not found of mine”
+[^397]: *tāso mayhaŋ na vijjati*, lit., “fear is not found of mine”
 
-[^398]: lit., “I am one who...”
+[^398]: lit., “I am one who…”
 
 [^399]: *appasayha*
 
@@ -1871,15 +1892,15 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^402]: PTS and BJTS agree in presenting this as a six-footed verse.
 
-[^403]: *osadham,* specifically medicinal herbs or herbal ingredients for making medicines
+[^403]: *osadham*, specifically medicinal herbs or herbal ingredients for making medicines
 
 [^404]: *añjanaŋ*
 
 [^405]: *saṅghe gaṇuttame*, lit., “the Assembly of monks which is the supreme group”
 
-[^406]: *aṭṭhānisaŋse.* I count the eight here as (1) large eyes \[whether they are\] (2) white eyes, (3) yellow eyes, \[or\] (4) red eyes; (5) unsullied eyes, (6) clear eyes, (7) disease-free eyes, (8) “divine eye”.
+[^406]: *aṭṭhānisaŋse*. I count the eight here as (1) large eyes \[whether they are\] (2) white eyes, (3) yellow eyes, \[or\] (4) red eyes; (5) unsullied eyes, (6) clear eyes, (7) disease-free eyes, (8) “divine eye”.
 
-[^407]: this follows the BJTS Sinhala gloss. I assume that “white eyes” (or “eyes that have whites)” would refer to humans, “yellow (or “golden”) eyes” would refer to gods, and “red eyes” (cf. *lohitākkha*) refers to snakes or spirits (*yakkha*s). We might also understand these colors as seen very clearly by his large eyes.
+[^407]: this follows the BJTS Sinhala gloss. I assume that “white eyes” (or “eyes that have whites)” would refer to humans, “yellow (or “golden”) eyes” would refer to gods, and “red eyes” (cf. *lohitākkha*) refers to snakes or spirits (*yakkha*/s). We might also understand these colors as seen very clearly by his large eyes.
 
 [^408]: *anāvila-pasanna-akkha*
 
@@ -1889,15 +1910,15 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^411]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^412]: *dhamma-dvāra-vivaraṇaŋ,* lit., “which opens the door of the *Dhamma*.
+[^412]: *dhamma-dvāra-vivaraṇaŋ*, lit., “which opens the door of the *Dhamma*.
 
 [^413]: lit., “for the Well-Gone-One”
 
 [^414]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^415]: *dvānisaŋse.* I count the two here as (1) being one of little anger, and (2) being one without sorrow (or trouble)
+[^415]: *dvānisaŋse*. I count the two here as (1) being one of little anger, and (2) being one without sorrow (or trouble)
 
-[^416]: *bhave,* lit., “in existence”
+[^416]: *bhave*, lit., “in existence”
 
 [^417]: *appakodho*, lit., “I am one of little anger”
 
@@ -1909,17 +1930,17 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^421]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^422]: *pañcānisaŋse.* I count the five here as (1) steadfastness in the *samādhis*, (2) dwelling in the *samādhis,* (3) being in a united group, (4) speaking words which are taken well, and (5) great wealth of possessions.
+[^422]: *pañcānisaŋse*. I count the five here as (1) steadfastness in the *samādhis*, (2) dwelling in the *samādhis*, (3) being in a united group, (4) speaking words which are taken well, and (5) great wealth of possessions.
 
 [^423]: *na kampāmi*, lit., “I do not shake (tremble, waver)”
 
-[^424]: *samādhīsu,* lit., “among the *samādhis*. The plural suggests various types of *samādhi* or different sorts of meditative states.
+[^424]: *samādhīsu*, lit., “among the *samādhis*. The plural suggests various types of *samādhi* or different sorts of meditative states.
 
 [^425]: *abhejjapariso homi*
 
 [^426]: *ādeyyavacano sadā*
 
-[^427]: *bhave,* lit., “in existence”
+[^427]: *bhave*, lit., “in existence”
 
 [^428]: PTS *jāticca*, BJTS *jāyati*
 
@@ -1927,11 +1948,11 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^430]: PTS and BJTS agree in presenting this as a six-footed verse.
 
-[^431]: *dhūmanette.* RD: “i. e. a surgical instru- ment for sniffing up the smoke of medical drugs Vin i.204; ii.120; J iv.363; ThA 14”
+[^431]: *dhūmanette*. RD: “i. e. a surgical instru- ment for sniffing up the smoke of medical drugs Vin i.204; ii.120; J iv.363; ThA 14”
 
 [^432]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^433]: *tīṇānisaŋse.* I count the three here as (1) clean conscience, (2) good muscles and (3) “divine eye”
+[^433]: *tīṇānisaŋse*. I count the three here as (1) clean conscience, (2) good muscles and (3) “divine eye”
 
 [^434]: *sati*, also memory (Skt. *smṛti*) , mindfulness, consciousness, etc.
 
@@ -1941,13 +1962,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^437]: reading *susambandhā* (well-connected, well put together) with BJTS (and PTS alt.) for PTS *susambaddhā* (well-bound together), though the latter also evokes a well-toned body.
 
-[^438]: *dīpathāle.* (BJTS \[and PTS alt.\] read *dpaṭṭhāne,* “places for lamps”). In the description of the actual *dāna* at (18a-b) \[3391\] we have “lamp-holders,” *dīpadhārake*. I take all these terms as referring to a single type of object, which I imagine as a plate-like holder for (probably small clay) lamps.
+[^438]: *dīpathāle*. (BJTS \[and PTS alt.\] read *dpaṭṭhāne*, “places for lamps”). In the description of the actual *dāna* at (18a-b) \[3391\] we have “lamp-holders,” *dīpadhārake*. I take all these terms as referring to a single type of object, which I imagine as a plate-like holder for (probably small clay) lamps.
 
 [^439]: lit., “for the Well-Gone-One”
 
 [^440]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^441]: *tīṇānisaŋse.* I count the three here as (1) good birth, (2) good body*,* and (3) wisdom and intelligence.
+[^441]: *tīṇānisaŋse*. I count the three here as (1) good birth, (2) good body**, and (3) wisdom and intelligence.
 
 [^442]: *jātimā*, lit., “possessor of birth” or “possessor of \[high\] caste”
 
@@ -1957,11 +1978,11 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^445]: reading *buddhi-sammato* with BJTS for PTS *Buddha-sammato* (“revered as \[or by?\] the Buddha”). The latter could also mean “selected by Buddha”.
 
-[^446]: *tumbake,* water-vessels
+[^446]: *tumbake*, water-vessels
 
 [^447]: or “boxes”: *karaṇḍe*
 
-[^448]: *dasānisaŋse.* I count the ten here as (1) well-guarded, (2) possessing happiness, (3) of great fame, (4) in a good state, (5) devoted, (6) delicate, (7) kept from distress, (8) recipient of good job skills, vessels, and baskets, (9) troubles are removed, (10) recipient of inexhaustible elephants, horses and gems of the four colors.
+[^448]: *dasānisaŋse*. I count the ten here as (1) well-guarded, (2) possessing happiness, (3) of great fame, (4) in a good state, (5) devoted, (6) delicate, (7) kept from distress, (8) recipient of good job skills, vessels, and baskets, (9) troubles are removed, (10) recipient of inexhaustible elephants, horses and gems of the four colors.
 
 [^449]: *gutto*
 
@@ -1969,25 +1990,25 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^451]: *sukhasamaṅgī*
 
-[^452]: reading *tathā gatī* with BJTS (and PTS alt.) for PTS *tathāgattī,* “and such-like \[i.e., great\] body”
+[^452]: reading *tathā gatī* with BJTS (and PTS alt.) for PTS *tathāgattī*, “and such-like \[i.e., great\] body”
 
-[^453]: *bhattikato,* “done service,” even “a servant”
+[^453]: *bhattikato*, “done service,” even “a servant”
 
-[^454]: *sukhumālo,* also refined, tender
+[^454]: *sukhumālo*, also refined, tender
 
 [^455]: *sabba-īti-parivajjito*
 
-[^456]: *vipule *
+[^456]: *vipule*
 
 [^457]: *guṇe*
 
-[^458]: reading *samāvacaraṇaṃ mama* with BJTS for PTS *samāvacaraṇā* *mama*
+[^458]: reading *samāvacaraṇaṃ mama* with BJTS for PTS *samāvacaraṇā mama*
 
 [^459]: *suvivajjita-ubbego*
 
-[^460]: here I read *añjana-nāḷiyo* (“ointment stalks” or “ointment tubes”) with BJTS for PTS *hatthī līlaṅgake* (“elephants with sporting bodies” ?). The text is corrupt, and BJTS at least makes sense, though it is out of the sequence of the original *dāna* (not to mention being unrecoverable in meaning) so may be a spurious verse -- perhaps a favored object of some later editor, or simply something no longer part of lived experience at some point in the transmission process? PTS alt. readings include *ºlilaṅgate*, *hatthalīlaṅgane* and *hattho liṅgake* (!), none of which is helpful. In addition to the PTS reading, BJTS cites alt. *malabharaṇiyo,* also of questionable meaning (“women in stained ornaments,” or read *mālaº,* “in flower ornaments?”)
+[^460]: here I read *añjana-nāḷiyo* (“ointment stalks” or “ointment tubes”) with BJTS for PTS *hatthī līlaṅgake* (“elephants with sporting bodies” ?). The text is corrupt, and BJTS at least makes sense, though it is out of the sequence of the original *dāna* (not to mention being unrecoverable in meaning) so may be a spurious verse -- perhaps a favored object of some later editor, or simply something no longer part of lived experience at some point in the transmission process? PTS alt. readings include *ºlilaṅgate*, *hatthalīlaṅgane* and *hattho liṅgake* (!), none of which is helpful. In addition to the PTS reading, BJTS cites alt. *malabharaṇiyo*, also of questionable meaning (“women in stained ornaments,” or read *mālaº*, “in flower ornaments?”)
 
-[^461]: *pañcānisaŋse.* I count the five here as (1) having a \[good\] body, (2) being endowed with all auspicious marks, (3) long life, (4) wisdom, (5) liberation from all sorrows.
+[^461]: *pañcānisaŋse*. I count the five here as (1) having a \[good\] body, (2) being endowed with all auspicious marks, (3) long life, (4) wisdom, (5) liberation from all sorrows.
 
 [^462]: *sabba-lakkhaṇa-sampanno*
 
@@ -2013,13 +2034,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^473]: *atula*, not weighable, immeasurable, not equaled
 
-[^474]: *natthuke.* BJTS reads *tatthuke*. The description of the original *dāna* specifies that the gift was of cleaners (there *sodhanaŋ*) for the mouth (*mukha*) and nose (*natthukaŋ*). Separate *ānisaṃsas* for the mouth-cleaners are given below (v. 194 \[3568\]). The *ānisaṃsa*s in the present verse seem to relate to what in English we’d call “keeping one’s nose clean,” though I do not know whether the same associations would typically be made in Pāli. The *ānisaṃsas* for the mouth-cleaners (in v. 194 \[3468\], below) certainly well-accord with the nature of the original gift.
+[^474]: *natthuke*. BJTS reads *tatthuke*. The description of the original *dāna* specifies that the gift was of cleaners (there *sodhanaŋ*) for the mouth (*mukha*) and nose (*natthukaŋ*). Separate *ānisaṃsas* for the mouth-cleaners are given below (v. 194 \[3568\]). The *ānisaṃsas* in the present verse seem to relate to what in English we’d call “keeping one’s nose clean,” though I do not know whether the same associations would typically be made in Pāli. The *ānisaṃsas* for the mouth-cleaners (in v. 194 \[3468\], below) certainly well-accord with the nature of the original gift.
 
 [^475]: lit., “for the Well-Gone-One”
 
 [^476]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^477]: *aṭṭhānisaŋse.* I count the eight here as (1) faith, (2) morality, (3) shame, (4) fear of wrong-doing, (5) happiness, (6) generosity, (7) patience and (8) wisdom.
+[^477]: *aṭṭhānisaŋse*. I count the eight here as (1) faith, (2) morality, (3) shame, (4) fear of wrong-doing, (5) happiness, (6) generosity, (7) patience and (8) wisdom.
 
 [^478]: *saddhaŋ*
 
@@ -2035,17 +2056,17 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^484]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^485]: *pañcānisaŋse.* I count the five here as (1) eminent birth, (2) very rich, (3) much honored, (4) full of glory, and (5) the constant supply of palanquins with horses
+[^485]: *pañcānisaŋse*. I count the five here as (1) eminent birth, (2) very rich, (3) much honored, (4) full of glory, and (5) the constant supply of palanquins with horses
 
-[^486]: *ucce kule, *
+[^486]: *ucce kule*
 
 [^487]: *mahābhogo bhavāmi*
 
 [^488]: *sabbe maŋ apacāyanti*
 
-[^489]: reading *mama (gen.)* with BJTS for PTS *mamaŋ* (gen. or acc.)
+[^489]: reading *mama* (gen.) with BJTS for PTS *mamaŋ* (gen. or acc.)
 
-[^490]: reading *caturassakā* (“with four horses”) for PTS *caturassarā, “*with four corners,” “rectangular,” though the latter also makes sense in this context.
+[^490]: reading *caturassakā* (“with four horses”) for PTS *caturassarā*, “with four corners,” “rectangular,” though the latter also makes sense in this context.
 
 [^491]: or distributing or sharing them: *saŋvibhāga-rato \[ahaṃ\]*
 
@@ -2055,15 +2076,15 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^494]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^495]: *chānisaŋse.* I count the six here as (1) mattresses, (2) varied coverlets, (3) varied cloaks, (4) varied rugs, (5) not empty or vain, and (6) meditation-minded/achiever of *jhānas*
+[^495]: *chānisaŋse*. I count the six here as (1) mattresses, (2) varied coverlets, (3) varied cloaks, (4) varied rugs, (5) not empty or vain, and (6) meditation-minded/achiever of *jhānas*
 
-[^496]: *samagatto,* lit., “I am one with an even body”
+[^496]: *samagatto*, lit., “I am one with an even body”
 
 [^497]: *apacito*
 
 [^498]: *muduko*
 
-[^499]: *cārudassano,* lit., “pleasant to see”
+[^499]: *cārudassano*, lit., “pleasant to see”
 
 [^500]: *labhāmi ñāṇaparivāraŋ*
 
@@ -2081,15 +2102,15 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^507]: *pāvārike*
 
-[^508]: *maduka-ajina,º* “soft \[ones made of\] antelope-leather
+[^508]: *maduka-ajinaº*, “soft \[ones made of\] antelope-leather
 
 [^509]: *veṇiyo*
 
 [^510]: º*atthāre*
 
-[^511]: *yato sarāmi attānaŋ,* lit., “starting from when I remember myself”
+[^511]: *yato sarāmi attānaŋ*, lit., “starting from when I remember myself”
 
-[^512]: or “since I reached puberty,” *yato patto ‘smi viññuta,* lit., “starting from when I reached puberty;” but following BJTS Sinhala gloss (*näṇavat*, “having knowledge”) I translate the term in its broader meaning, “understanding” or “discretion”
+[^512]: or “since I reached puberty,” *yato patto ‘smi viññuta*, lit., “starting from when I reached puberty;” but following BJTS Sinhala gloss (*näṇavat*, “having knowledge”) I translate the term in its broader meaning, “understanding” or “discretion”
 
 [^513]: or empty: *a-tuccho*
 
@@ -2099,13 +2120,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^516]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^517]: *chānisaŋse.* I count the six here as (1) being cushioned and having a great body, (2) knowledge of the Eightfold Path and the four fruits of monkhood, (3) knowledge of giving, taming, self-control and the forms of boundlessness, (4) knowledge of vows, virtues, practices and good manners, (5) knowledge of walking back and forth, striving, and exertion, and (6) knowledge of morality, meditation, wisdom and unsurpassed freedom.
+[^517]: *chānisaŋse*. I count the six here as (1) being cushioned and having a great body, (2) knowledge of the Eightfold Path and the four fruits of monkhood, (3) knowledge of giving, taming, self-control and the forms of boundlessness, (4) knowledge of vows, virtues, practices and good manners, (5) knowledge of walking back and forth, striving, and exertion, and (6) knowledge of morality, meditation, wisdom and unsurpassed freedom.
 
 [^518]: or “lifted up” “placed upon”: *reading upadhemi* with BJTS for PTS *uppademi*
 
 [^519]: reading *mama* (gen., lit., “to me \[there are\]“) with BJTS (and PTS alt.) for PTS *mamaŋ* (gen. or acc.)
 
-[^520]: *uttamaṅgaŋ,* “supreme limbs”
+[^520]: *uttamaṅgaŋ*, “supreme limbs”
 
 [^521]: *vihāre*
 
@@ -2115,7 +2136,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^524]: *saññame* = alt. spelling of *saṃyame*
 
-[^525]: *appamaññesu* (BJTS reads *appamaññāsu) rūpisu,* that is, the four *brahmā-vihāras* or godly states: love *(mettā*), compassion (*karuṇā*), sympathetic joy (*muditā*) and equanimity (*upekkhā*).
+[^525]: *appamaññesu* (BJTS reads *appamaññāsu*) *rūpisu*, that is, the four *brahmā-vihāras* or godly states: love (*mettā*), compassion (*karuṇā*), sympathetic joy (*muditā*) and equanimity (*upekkhā*).
 
 [^526]: *vihāre*
 
@@ -2125,7 +2146,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^529]: reading *paṭipatti* with BJTS for PTS *pañcame*, “the fifth”
 
-[^530]: *ācārakiriyāsu ca,* or “among the forms of right practice”
+[^530]: *ācārakiriyāsu ca*, or “among the forms of right practice”
 
 [^531]: *vihāre*
 
@@ -2145,11 +2166,11 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^539]: *vihārāmi*
 
-[^540]: *palālapīṭhe,* BJTS reads *phalapīṭhe*, stools made of fruit (gourds?)
+[^540]: *palālapīṭhe*, BJTS reads *phalapīṭhe*, stools made of fruit (gourds?)
 
 [^541]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^542]: BJTS (and PTS alt.) read *dvānisaŋse (*“two results”) for PTS *caturānisaŋse,* “four results.” I count four here so stick with the PTS reading: excellent palanquins made of (1) gold, (2) gems, (3) ivory, and (4) fine wood
+[^542]: BJTS (and PTS alt.) read *dvānisaŋse* (“two results”) for PTS *caturānisaŋse*, “four results.” I count four here so stick with the PTS reading: excellent palanquins made of (1) gold, (2) gems, (3) ivory, and (4) fine wood
 
 [^543]: *danta-sāra-maye*
 
@@ -2157,7 +2178,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^545]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^546]: *dvānisaŋse.* I count the two here as (1) receiving many vehicles, and (2) being properly cared for by slaves, wives and other dependents.
+[^546]: *dvānisaŋse*. I count the two here as (1) receiving many vehicles, and (2) being properly cared for by slaves, wives and other dependents.
 
 [^547]: *yāne*
 
@@ -2165,25 +2186,25 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^549]: PTS and BJTS agree in presenting this as a six-footed verse.
 
-[^550]: *tel’abbhañjane,* BJTS gloss specifies that these are oils for rubbing on the body
+[^550]: *tel’abbhañjane*, BJTS gloss specifies that these are oils for rubbing on the body
 
-[^551]: *pañcānisaŋse.* I count the five here as (1) good health, (2) beauty, (3) quick understanding (or application) of the *Dhamma*, (4) receipt of food and drink, and (5) long life.
+[^551]: *pañcānisaŋse*. I count the five here as (1) good health, (2) beauty, (3) quick understanding (or application) of the *Dhamma*, (4) receipt of food and drink, and (5) long life.
 
 [^552]: *nisantitā*, lit., applying, carefully observing; I follow the BJTS Sinh. gloss (*väṭahena*) in this translation of the term as “grasping” (understanding).
 
 [^553]: *ayu*
 
-[^554]: *sappitela,* “ghee-oil”
+[^554]: *sappitela*, “ghee-oil”
 
-[^555]: *pañcānisaŋse.* I count the five here as (1) strength, (2) beauty, (3) happiness, (4) slenderness, and (5) health and purity.
+[^555]: *pañcānisaŋse*. I count the five here as (1) strength, (2) beauty, (3) happiness, (4) slenderness, and (5) health and purity.
 
 [^556]: *pahaṭṭhaº*
 
 [^557]: º*tanujo*
 
-[^558]: *mukhadhovanakaŋ.* BJTS (and PTS alt.) read *mukhasodhanakaṃ,* with the same meaning.
+[^558]: *mukhadhovanakaŋ*. BJTS (and PTS alt.) read *mukhasodhanakaṃ*, with the same meaning.
 
-[^559]: *pañcānisaŋse.* I count the five here as (1) a clean (or clear) throat, (2) sweet sounding \[voice\], (3) free of coughs, (4) free of asthma, and (5) breath which smells like blue lotuses.
+[^559]: *pañcānisaŋse*. I count the five here as (1) a clean (or clear) throat, (2) sweet sounding \[voice\], (3) free of coughs, (4) free of asthma, and (5) breath which smells like blue lotuses.
 
 [^560]: *visuddhakaṇṭho*
 
@@ -2197,7 +2218,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^565]: *dadhiŋ*
 
-[^566]: *bhuñjāmi.* In this foot the basic meaning “eating” might be preferred, but I take the verb to refer to the “enjoyment” of mindfulness of the body, too, so defer to the more general “enjoying”.
+[^566]: *bhuñjāmi*. In this foot the basic meaning “eating” might be preferred, but I take the verb to refer to the “enjoyment” of mindfulness of the body, too, so defer to the more general “enjoying”.
 
 [^567]: *amataŋ*
 
@@ -2211,21 +2232,21 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^572]: *pive muttirasam ahaŋ*
 
-[^573]: *atuliyaŋ.*
+[^573]: *atuliyaŋ*.
 
 [^574]: *anupamaŋ*
 
 [^575]: *yathābhūtaŋ, also* “original,” “natural”. I take this as connected with the allusion to liberation as juice in the previous verse.
 
-[^576]: *caturo phale*, i.e., the four fruits of monkhood, the four stages of the path: *sotāpatti, sakadāgāmi, anāgāmi, arahattaphala* (stream-enterer, once-returner, non-returner, arahant*)*
+[^576]: *caturo phale*, i.e., the four fruits of monkhood, the four stages of the path: *sotāpatti*, *sakadāgāmi*, *anāgāmi*, *arahattaphala* (stream-enterer, once-returner, non-returner, arahant*)*
 
-[^577]: *dasānisaŋse.* I count the ten here as (1) long-life, (2) strength, (3) heroism, (4) beauty, (5) fame, (6) happiness, (7) receiving food, (8) receiving drink, (9) courage, (10) intelligence.
+[^577]: *dasānisaŋse*. I count the ten here as (1) long-life, (2) strength, (3) heroism, (4) beauty, (5) fame, (6) happiness, (7) receiving food, (8) receiving drink, (9) courage, (10) intelligence.
 
 [^578]: *sūro*
 
 [^579]: *paññāavā*
 
-[^580]: *bhave,* lit., “in existence”
+[^580]: *bhave*, lit., “in existence”
 
 [^581]: PTS and BJTS agree in presenting this as a six-footed verse.
 
@@ -2235,7 +2256,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^584]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^585]: *dasānisaŋse.* I count the ten here as (1)
+[^585]: *dasānisaŋse*. I count the ten here as (1)
 
 [^586]: *sugandhadeho*, lit., “I am one whose body has a pleasant odor”
 
@@ -2245,14 +2266,14 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^589]: *tikkhapañño bhūripañño*, lit., “I’m one with sharp wisdom, I’m one with extensive wisdom”
 
-[^590]: reading *hāsa&lt;hāsuº* with BJTS (and PTS alt.) for PTS *bhāsa-gambhīra-pañño*
+[^590]: reading *hāsa*&lt;*hāsuº* with BJTS (and PTS alt.) for PTS *bhāsa-gambhīra-pañño*
 
-[^591]: *bhave,* lit., “in existence”
+[^591]: *bhave*, lit., “in existence”
 
-[^592]: *vepulla-javana-pañño.* The basic meaning of *javana* is “quick” and it is sometimes taken as equivalent to *sīgha,* already mentioned in the preceding verse.
+[^592]: *vepulla-javana-pañño*. The basic meaning of *javana* is “quick” and it is sometimes taken as equivalent to *sīgha*, already mentioned in the preceding verse.
 
 [^593]: *santisukhaŋ sivaŋ*
 
-[^594]: cf. \#15, and note, above. BJTS spells the name *Piḷindavaccha.* He seems to have been a historical monk, much-mentioned in the canon and commentaries. “Pilinda” was his given name, “Vaccha” refers to his *gotta* (lineage).
+[^594]: cf. \#15, and note, above. BJTS spells the name *Piḷindavaccha*. He seems to have been a historical monk, much-mentioned in the canon and commentaries. “Pilinda” was his given name, “Vaccha” refers to his *gotta* (lineage).
 
-[^595]: BJTS spells the name *Piḷindavaccha.*
+[^595]: BJTS spells the name *Piḷindavaccha*.

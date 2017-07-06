@@ -1,4 +1,12 @@
-*\[390. {393.}*[^1] *Sabbakittika*[^2]*\]*  
+---
+title: Sabbakittika
+order: 393
+layout: poem
+category: chapter-3
+---
+
+### \[390. {393.}[^1] Sabbakittika[^2]\]
+
 I saw the Leader of the World, (3d) \[3679\][^3]  
 shining like a dinner-plate tree,[^4]  
 blazing forth like a tree of lamps,  
@@ -12,7 +20,8 @@ crushing the groups of heretics,[^7] (2) \[3678\]
 
 elevating this \[entire\] world,  
 eliminating every doubt,[^8]  
-roaring[^9] like the king of the beasts. (3a-c) \[3679a-c\][^10]  
+roaring[^9] like the king of the beasts. (3a-c) \[3679a-c\][^10]
+
 With matted hair, wearing a hide,  
 lofty, strong, and powerful, I  
 took[^11] \[my\] robe made out of bark \[and\]  
@@ -143,7 +152,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (29) \[3705\]
 
-Thus indeed Venerable Sabbakittika Thera spoke these verses.  
+Thus indeed Venerable Sabbakittika Thera spoke these verses.
+
 The legend of Sabbakittika Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -152,7 +162,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^3]: I have translated the final foot of (3) \[3679\] as the first line of this poem: “I saw the Leader of the World”. Placing the verb at the end of the string of similes works better in Pāli than it does in English, when presenting a string of descriptors as long as this one.
 
-[^4]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
+[^4]: *kaṇṇikāra*, *kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
 
 [^5]: *osadhī*. RD (s.v.) points out that all we really know about this star is that it was particularly bright, leading Childers to translate it as “Venus” and others as the morning star.
 
@@ -160,9 +170,9 @@ The legend of Sabbakittika Thera is finished.
 
 [^7]: *maddantaŋ titthiye gaṇe*
 
-[^8]: *chindantaŋ, sabbasaŋsayaŋ,* lit., “cutting off all doubt”
+[^8]: *chindantaŋ*, *sabbasaŋsayaŋ*, lit., “cutting off all doubt”
 
-[^9]: reading *gajjantaŋ* with BJTS for PTS *lasantaŋ,* “playing” or “sporting,” also “shining” or “sounding forth”
+[^9]: reading *gajjantaŋ* with BJTS for PTS *lasantaŋ*, “playing” or “sporting,” also “shining” or “sounding forth”
 
 [^10]: I have translated (3d) = \[3679d\] as the first line of this poem: “I saw the Leader of the World”. Placing the verb at the end of the string of epithets works better in Pāli than it does in English, when presenting a string of descriptors as long as this one.
 
@@ -172,9 +182,9 @@ The legend of Sabbakittika Thera is finished.
 
 [^13]: i.e., the Buddha’s, following the BJTS SInhala gloss.
 
-[^14]: reading *kāḷānusāriyaṃ* with BJTS for PTS *kāḷāṇusārikaŋ.* RD (s.v.) takes *Kāḷa+anusāriyaṃ* fr. *kala 1,* “black, (pol- ished?) Anusāri ("a kind of dark, fragrant sandal wood" Vin. Texts ii.51) Vin i.203; S iii.156=v.44= A v.22.” BJTS glosses the term as “black-vine (*kaḷuväl*, an odiferous back creeper often used for binding given its supple and strong texture) or aloe wood (*agil*).” Given the specification of “black” *(kāḷaº*) I take the latter reading, though underline that this is not a type of sandalwood in either event, and find perplexing that BJTS glosses both black-vine and aloe wood as “saffron-colored” (*kasāvat*). The protagonist presumably carries with him a paste made by grinding the wood, of whichever type (in modern South Asia it usually is indeed a variety of sandalwood), into a paste, which is kept on hand for this purpose, i.e., for smearing (on the forehead) of a person in order to bless him or her.
+[^14]: reading *kāḷānusāriyaṃ* with BJTS for PTS *kāḷāṇusārikaŋ*. RD (s.v.) takes *Kāḷa* + *anusāriyaṃ* fr. *kala 1,* “black, (pol- ished?) Anusāri ("a kind of dark, fragrant sandal wood" Vin. Texts ii.51) Vin i.203; S iii.156=v.44= A v.22.” BJTS glosses the term as “black-vine (*kaḷuväl*, an odiferous back creeper often used for binding given its supple and strong texture) or aloe wood (*agil*).” Given the specification of “black” *(kāḷaº*) I take the latter reading, though underline that this is not a type of sandalwood in either event, and find perplexing that BJTS glosses both black-vine and aloe wood as “saffron-colored” (*kasāvat*). The protagonist presumably carries with him a paste made by grinding the wood, of whichever type (in modern South Asia it usually is indeed a variety of sandalwood), into a paste, which is kept on hand for this purpose, i.e., for smearing (on the forehead) of a person in order to bless him or her.
 
-[^15]: *anulimpin,* “smeared on”
+[^15]: *anulimpin*, “smeared on”
 
 [^16]: lit., “the Sambuddha”
 
@@ -184,17 +194,17 @@ The legend of Sabbakittika Thera is finished.
 
 [^19]: *paratitthiye maddase*
 
-[^20]: reading *jitasaṅgamo* with BJTS for PTS *jitasaṅgame.* I following BJTS Sinhala gloss (*dinana lada saṅgrāma äti,* “he who has meetings where he wins”), which seems to take the Pāli as “he whose meetings result in defeating \[others\],” but could also mean, “He who has meetings with the defeated,” “he by whom meetings are defeated,” or, drawing on the “bull” imagery, “he who wins in sexual intercourse”
+[^20]: reading *jitasaṅgamo* with BJTS for PTS *jitasaṅgame*. I following BJTS Sinhala gloss (*dinana lada saṅgrāma äti*, “he who has meetings where he wins”), which seems to take the Pāli as “he whose meetings result in defeating \[others\],” but could also mean, “He who has meetings with the defeated,” “he by whom meetings are defeated,” or, drawing on the “bull” imagery, “he who wins in sexual intercourse”
 
 [^21]: lit., “in just that way,” *tath’ eva*, a filler which translated literally does not add to the clarity of the metaphor.
 
-[^22]: BJTS reads *ºjālena,* (instr.) “by a net,” but I think the PTS reading *ºjāle* (loc.) makes better grammatical sense here, the first two feet forming an extended locative absolute construction.
+[^22]: BJTS reads *ºjālena*, (instr.) “by a net,” but I think the PTS reading *ºjāle* (loc.) makes better grammatical sense here, the first two feet forming an extended locative absolute construction.
 
 [^23]: *sampatānite*, glossed by BJTS as *atuḷa kalhi*, “when it has been spread”
 
 [^24]: lit., “living things,” *pāṇā*; BJTS glosses ”(fish)” (*matsyayō*)
 
-[^25]: *antojālagatā,* lit., “gone to inside the net”
+[^25]: *antojālagatā*, lit., “gone to inside the net”
 
 [^26]: reading *puthupāsaṇḍanissita* with BJTS for PTS *phuṭā saccavinissitā* (“are numerous and ungrounded in truth”?)
 
@@ -208,15 +218,15 @@ The legend of Sabbakittika Thera is finished.
 
 [^31]: *saraṇo*
 
-[^32]: *parāyaṇo,* = final end, support, refuge
+[^32]: *parāyaṇo* = final end, support, refuge
 
-[^33]: *ekavīro*,
+[^33]: *ekavīro*
 
 [^34]: *asādiso*
 
-[^35]: reading *kāruṇāmettāsañcayo* with BJTS for PTS *mettākāruṇādisañcayo,* “heap of love, compassion, etc.” (which breaks meter).
+[^35]: reading *kāruṇāmettāsañcayo* with BJTS for PTS *mettākāruṇādisañcayo*, “heap of love, compassion, etc.” (which breaks meter).
 
-[^36]: *susīlo,* lit., “one who has good moral discipline”
+[^36]: *susīlo*, lit., “one who has good moral discipline”
 
 [^37]: *asamo*
 
@@ -238,7 +248,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^46]: *vusito*
 
-[^47]: *vantadoso,* lit., “who has vomited up hate”
+[^47]: *vantadoso*, lit., “who has vomited up hate”
 
 [^48]: *nimmalo*
 
@@ -250,7 +260,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^52]: reading *hatamado* with BJTS for PTS *gatamado* (“Gone into Conceit” “Intoxicated One”
 
-[^53]: *tevijjo,* “possessor of the three higher knowledges” (recognition of former births, insight into the future destiny of all being, recognition of the origin of misery and of the path to its removal), that is, an *arahant*. The term is also used in a non-Buddhist (Brahmanical) sense, “master of the three Vedas,” but here the Buddhist interpretation would seem most appropriate.
+[^53]: *tevijjo*, “possessor of the three higher knowledges” (recognition of former births, insight into the future destiny of all being, recognition of the origin of misery and of the path to its removal), that is, an *arahant*. The term is also used in a non-Buddhist (Brahmanical) sense, “master of the three Vedas,” but here the Buddhist interpretation would seem most appropriate.
 
 [^54]: *tibhavantago*
 
@@ -258,11 +268,11 @@ The legend of Sabbakittika Thera is finished.
 
 [^56]: *dhammagarū*
 
-[^57]: *katattho,* lit., “he whose goal is done”
+[^57]: *katattho*, lit., “he whose goal is done”
 
 [^58]: *hitadhammato*
 
-[^59]: *tārako,* elsewhere in this translation this epithet is translated “Crosser Over”
+[^59]: *tārako*, elsewhere in this translation this epithet is translated “Crosser Over”
 
 [^60]: *assāsa* (“breathing easily”) + *kārako*
 

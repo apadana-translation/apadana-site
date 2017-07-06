@@ -1,5 +1,14 @@
-*Ummāpupphiya Chapter, the Thirty-Third*  
-*\[321. Ummāpupphiya*[^1]*\]*  
+---
+title: Ummāpupphiya
+order: 321
+layout: poem
+category: chapter-3
+---
+
+## Ummāpupphiya Chapter, the Thirty-Third
+
+### \[321. Ummāpupphiya[^1]\]
+
 I saw the Ultimate Person,  
 Siddhattha, the Unconquered One,  
 Attentive One, He Who Attained,  
@@ -18,7 +27,7 @@ I was reborn in Tusitā. (3) \[2827\]
 In the ninety-four aeons since  
 I did *pūjā* \[with\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (4) \[2828\]
+that’s the fruit of Buddha-*pūjā*. (4) \[2828\]
 
 In the fifty-fifth aeon hence  
 there was one \[man\], lord of the earth,  
@@ -30,7 +39,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2830\]
 
-Thus indeed Venerable Ummāpupphiya Thera spoke these verses.  
+Thus indeed Venerable Ummāpupphiya Thera spoke these verses.
+
 The legend of Ummāpupphiya Thera is finished.
 
 [^1]: “\[Blue\] Flax-Flower-er.” cf. \#145.

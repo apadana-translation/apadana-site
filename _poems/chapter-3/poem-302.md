@@ -1,4 +1,12 @@
-*\[302. Sabbagandhiya*[^1]*\]*  
+---
+title: Sabbagandhiya
+order: 302
+layout: poem
+category: chapter-3
+---
+
+### \[302. Sabbagandhiya[^1]\]
+
 I gave a garland of flowers  
 to Vipassi \[Buddha\], Great Sage,  
 \[and\] I gave to the Upright One  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2724\]
 
-Thus indeed Venerable Sabbagandhiya Thera spoke these verses.  
+Thus indeed Venerable Sabbagandhiya Thera spoke these verses.
+
 The legend of Sabbagandhiya Thera is finished.
 
 [^1]: “Every \[Good\] Scent” or “All-Perfumed”

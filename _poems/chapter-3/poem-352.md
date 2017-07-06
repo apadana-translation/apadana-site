@@ -1,4 +1,12 @@
-*\[349. {352.}*[^1] *Yavakalāpiya*[^2]*\]*  
+---
+title: Yavakalāpiya
+order: 352
+layout: poem
+category: chapter-3
+---
+
+### \[349. {352.}[^1] Yavakalāpiya[^2]\]
+
 In Aruṇavatī City,  
 I was a barley grower[^3] then.  
 Seeing the Buddha[^4] on the road,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[3149\]
 
-Thus indeed Venerable Yavakalāpiya Thera spoke these verses.  
+Thus indeed Venerable Yavakalāpiya Thera spoke these verses.
+
 The legend of Yavakalāpiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

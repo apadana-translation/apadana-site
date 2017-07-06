@@ -1,7 +1,15 @@
-*\[330. Saparivārachattadāyaka*[^1]*\]*  
+---
+title: Saparivārachattadāyaka
+order: 330
+layout: poem
+category: chapter-3
+---
+
+### \[330. Saparivārachattadāyaka[^1]\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
-was raining down the *Dhamma-*rain  
+was raining down the *Dhamma*-rain  
 like the rainwaters from[^2] the sky. (1) \[2907\]
 
 I saw him \[then\], the Sambuddha,  
@@ -101,7 +109,8 @@ Sacrificial Recipient,
 the Self-Become One, Chief Person,  
 did take up in both of his hands  
 the umbrella given by me,  
-all-adorned and decorated. (20-21) \[2926-2927\]  
+all-adorned and decorated. (20-21) \[2926-2927\]
+
 O! the Buddha! O! the Teaching!  
 O! Our Teacher’s accomplishment!  
 Through the gift of one umbrella,  
@@ -110,7 +119,7 @@ I was reborn in no bad state. (22) \[2928\]
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 knowing well all the defilements,  
-without defilements I \[now\] live.[]{#BookmarkCopy1 .anchor} (23)
+without defilements I \[now\] live. (23)
 \[2929\]
 
 The four analytical modes,  
@@ -118,15 +127,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (24) \[2930\]
 
-Thus indeed Venerable Saparivārachattadāyaka Thera spoke these verses.  
-The legend of Saparivārachattadāyaka Thera is finished.  
-The Summary:  
+Thus indeed Venerable Saparivārachattadāyaka Thera spoke these verses.
+
+The legend of Saparivārachattadāyaka Thera is finished.
+
+The Summary:
+
 Ummāpupphi and Pulina,  
 Hāsa, Sañña, Nimittaka,  
 Saŋsāvaka and Nigguṇḍi,[^11]  
 Sumana, Pupphachattaka,  
 and Suparivāracchatta:  
-one hundred plus seven verses.  
+one hundred plus seven verses.
+
 The Ummāpupphiya Chapter, the Thirty-Third
 
 [^1]: “Donor of Umbrella with Retinue”
@@ -137,11 +150,11 @@ The Ummāpupphiya Chapter, the Thirty-Third
 
 [^4]: *bhikkhusaṅghe*
 
-[^5]: *abbhugataŋ *
+[^5]: *abbhugataŋ*
 
 [^6]: lit., “is carried at that time”
 
-[^7]: *tidasaŋ puraŋ,* lit., “the city of the Thirty,” = Tāvatiṃsa
+[^7]: *tidasaŋ puraŋ*, lit., “the city of the Thirty,” = Tāvatiṃsa
 
 [^8]: “Very Joyful”
 

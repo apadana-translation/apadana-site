@@ -1,4 +1,12 @@
-*\[334. {337.}*[^1] *Tiṇakuṭidāyaka*[^2]*\]*  
+---
+title: Tiṇakuṭidāyaka
+order: 337
+layout: poem
+category: chapter-3
+---
+
+### \[334. {337.}[^1] Tiṇakuṭidāyaka[^2]\]
+
 In the city, Bandumatī,  
 I was one who worked for others.  
 \[Though\] bound in service to others,  
@@ -79,7 +87,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (16) \[3020\]
 
-Thus indeed Venerable Tiṇakuṭidāyaka Thera spoke these verses.  
+Thus indeed Venerable Tiṇakuṭidāyaka Thera spoke these verses.
+
 The legend of Tiṇakuṭidāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -100,17 +109,17 @@ The legend of Tiṇakuṭidāyaka Thera is finished.
 
 [^9]: lit., “for the sake of”
 
-[^10]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍa*s (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\]...sacrificial post” .
+[^10]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍa*/s (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\]...sacrificial post” .
 
-[^11]: following BJTS, PTS reads *geṇḍu,* in multiple variations. At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
+[^11]: following BJTS, PTS reads *geṇḍu*, in multiple variations. At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
 
 [^12]: lit., of me, genitive.
 
-[^13]: *acchaº,* Sinh. gloss *valassu*
+[^13]: *acchaº*, Sinh. gloss *valassu*
 
 [^14]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^15]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu,* Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā,* s.v.)
+[^15]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā,* s.v.)
 
 [^16]: *sarpaya*
 

@@ -1,4 +1,12 @@
-*\[392. {395.}*[^1] *Padumakūṭāgāriya*[^2]*\]*  
+---
+title: Padumakūṭāgāriya
+order: 395
+layout: poem
+category: chapter-3
+---
+
+### \[392. {395.}[^1] Padumakūṭāgāriya[^2]\]
+
 Piyadassi, the Blessed One,  
 the Self-Become One, World-Leader,  
 Solitude-Lover, Sambuddha,  
@@ -51,13 +59,14 @@ of Piyadassi, the Teacher,
 surrounded by \[accomplished\] monks  
 \[whose number was\] eighty thousand,  
 he went up to the World-Leader,  
-seated happily in the woods.[^8] (10-11) \[3735-3736\]  
+seated happily in the woods.[^8] (10-11) \[3735-3736\]
+
 All the gods who were residing  
 throughout \[that\] grove in the forest,  
 knowing the thoughts of the Buddha,  
 then assembled together \[there\]. (12) \[3737\]
 
-When the spirits,[^9] the *kumbhaṇḍa*s  
+When the spirits,[^9] the *kumbhaṇḍa*/s  
 and the demons[^10] came together,  
 and the monks’ Assembly arrived,  
 the Victor uttered \[these\] verses: (13) \[3738\]
@@ -77,7 +86,8 @@ exercise rule over the gods.
 They will carry up in the sky  
 a lofty gabled hut for him,  
 \[well-\]covered with lotus flowers:  
-that’s the fruit of former karma. (16) \[3741\][^12]  
+that’s the fruit of former karma. (16) \[3741\][^12]
+
 For twenty-four hundred[^13] aeons  
 he will transmigrate here and there.[^14]  
 A flying mansion[^15] made of blooms[^16]  
@@ -137,12 +147,12 @@ I realized the deathless state. (27) \[3752\]
 Having pleased \[him\], the Sambuddha,  
 Gotama, Bull of the Śākyas,  
 knowing well all the defilements,  
-I am \[now\] living, undefiled. []{#BookmarkCopy1 .anchor}(28) \[3753\]
+I am \[now\] living, undefiled. \[3753\]
 
 In the eighteen hundred aeons  
 since I worshipped[^36] the Buddha \[then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (29) \[3754\]
+that’s the fruit of Buddha-*pūjā*. (29) \[3754\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -159,14 +169,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (32) \[3757\]
 
-Thus indeed Venerable Padumakūṭāgāriya Thera spoke these verses.  
+Thus indeed Venerable Padumakūṭāgāriya Thera spoke these verses.
+
 The legend of Padumakūṭāgāriya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Pink Lotus Gabled-Hut-er”
 
-[^3]: taking *samogayha* as grnd. of *samugaṇhāti*, should be *samuggayha,* BJTS glosses *pavisi*, “he entered,” and I follow suit, unclear how “seized” or “taken” would apply here.
+[^3]: taking *samogayha* as grnd. of *samugaṇhāti*, should be *samuggayha*, BJTS glosses *pavisi*, “he entered,” and I follow suit, unclear how “seized” or “taken” would apply here.
 
 [^4]: reading *vipine* with BJTS for PTS *iriṇe* (‘in the desert”)
 
@@ -176,27 +187,27 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^7]: “Good to Look At.” lit., “the one named Sudassana”
 
-[^8]: *vanante,* “within the forest”
+[^8]: *vanante*, “within the forest”
 
 [^9]: *yakkhesu*
 
 [^10]: *rakkhase*
 
-[^11]: lit., “did *pūjā”*
+[^11]: lit., “did *pūjā*”
 
 [^12]: PTS and BJTS agree in presenting this as a six-footed verse
 
 [^13]: the figure should be eighteen hundred aeons, as Piyadassi is stated below to have lived eighteen hundred aeons ago. I don’t know how to make sense of this prediction of a future of twenty-four hundred aeons for the protagonist, since the point of the poem is that eighteen hundred aeons after Piyadassi he became an arahant (in the dispensation of Gotama Buddha). But the Pāli is clear, so I leave the discrepancy to stand. The protagonist does after all admit that the kalpas he’s lived are “innumerable by counting.”
 
-[^14]: *vokiṇṇaŋ,* lit., “strewn about.” I follow BJTS Sinhala gloss (*oba moba*) in this translation
+[^14]: *vokiṇṇaŋ*, lit., “strewn about.” I follow BJTS Sinhala gloss (*oba moba*) in this translation
 
 [^15]: *vyamham*
 
 [^16]: *pupphamayaŋ*
 
-[^17]: *vivaṭṭetvā, “*causing to be turn away,” “destroying”
+[^17]: *vivaṭṭetvā*, “causing to be turn away,” “destroying”
 
-[^18]: *pañcanivāraṇe.* five obstacles to arahantship. RD: “kāmacchanda, abhijjhā-vyāpāda, thīnamiddha, uddhacca-kukkucca, vicikicchā,” i.e., attraction to sense pleasures, acting badly due to covetousness, sloth and torpor, flurry and worry, doubt.
+[^18]: *pañcanivāraṇe*. five obstacles to arahantship. RD: “kāmacchanda, abhijjhā-vyāpāda, thīnamiddha, uddhacca-kukkucca, vicikicchā,” i.e., attraction to sense pleasures, acting badly due to covetousness, sloth and torpor, flurry and worry, doubt.
 
 [^19]: lit., “thought,” “mind,” *cittaŋ janetvā*
 
@@ -206,7 +217,7 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^22]: *bhikkhusaṅghassa*
 
-[^23]: *caraṇā,* BJTS *caratā*
+[^23]: *caraṇā*, BJTS *caratā*
 
 [^24]: *pabbajjaŋ abhinikkhamiŋ*
 
@@ -220,13 +231,13 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^29]: *rittikā te atikkantā*
 
-[^30]: reading *pamuttā* with BJTS (and PTS alt.) for PTS *pavuttā.* The sense of the verse -- which I admit to finding cryptic -- seems to be, as BJTS gloss gives it, that this vast expanse of time was empty in the absence of Buddhas, who in achieving nirvana let go of (were not present in) the world.
+[^30]: reading *pamuttā* with BJTS (and PTS alt.) for PTS *pavuttā*. The sense of the verse -- which I admit to finding cryptic -- seems to be, as BJTS gloss gives it, that this vast expanse of time was empty in the absence of Buddhas, who in achieving nirvana let go of (were not present in) the world.
 
 [^31]: *tam ahaŋ payirūpāsitvā*
 
 [^32]: reading *idhaº* with BJTS for PTS *tam*
 
-[^33]: *addassāsiŋ,* BJTS reads *addasāsiṃ *
+[^33]: *addassāsiŋ*, BJTS reads *addasāsiṃ*
 
 [^34]: read “Gotama,” as below? Or read *Anomaŋ nāma* as “certainly Supreme/Not Inferior” rather than “named Anoma”? The latter is however the BJTS gloss, and I translate accordingly.
 

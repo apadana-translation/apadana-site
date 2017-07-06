@@ -1,4 +1,12 @@
-*\[397. {400.}*[^1] *Ajita*[^2]*\]*  
+---
+title: Ajita
+order: 300
+layout: poem
+category: chapter-3
+---
+
+### \[397. {400.}[^1] Ajita[^2]\]
+
 The Victor,[^3] Padumuttara,  
 was the Master of Everything.[^4]  
 Plunged into the Himalayas,  
@@ -55,7 +63,7 @@ all of the floral scents produced,[^20]
 assembled into one right then. \[3866\]
 
 Throughout the Himalayas, both  
-the snake-gods and the *garuḷas,*  
+the snake-gods and the *garuḷas*,  
 desiring to hear the Teaching,  
 came into the Buddha’s presence. \[3867\]
 
@@ -84,11 +92,12 @@ he will exercise divine rule.
 Seven hundred \[times\][^22] on the earth,  
 he’ll rule an extensive kingdom,[^23]  
 \[and he will have\] much local rule,  
-innumerable by counting. \[3872\][^24]  
+innumerable by counting. \[3872\][^24]
+
 Because of this lamp-offering,  
 he will develop “divine eye.”  
 This one is always going to see  
-eight *kosa*s[^25] in all directions.[^26] \[3873\]
+eight *kosa*/s[^25] in all directions.[^26] \[3873\]
 
 Fallen from the world of the gods,  
 when this person has been reborn,  
@@ -177,9 +186,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (28) \[3890\]
 
-Thus indeed Venerable Ajita Thera spoke these verses.  
-The legend of Ajita Thera is finished.  
-The summary:  
+Thus indeed Venerable Ajita Thera spoke these verses.
+
+The legend of Ajita Thera is finished.
+
+The summary:
+
 Pilindavaccha[^35] and Sela,  
 Sabbakitti, Madundada,  
 Kūṭāgārī and Bakkula,  
@@ -187,9 +199,12 @@ Giri, Salaḷasavhaya,[^36]
 Sabbada and Ajita too:  
 the verses here are counted at  
 one hundred and five verses and  
-twenty more beyond that \[number\].  
-The Pilindavaccha[^37] Chapter, the Fortieth.  
-Then there is the Summary of Chapters:  
+twenty more beyond that \[number\].
+
+The Pilindavaccha[^37] Chapter, the Fortieth.
+
+Then there is the Summary of Chapters:
+
 Paduma and Ārakkhada,  
 Ummā and Gandhodakena,  
 Ekapadama, Saddasaññi,  
@@ -197,8 +212,10 @@ Mandāraṃ, Bodhiavandaka,
 Avaṇṭa and Pilindi \[too\].  
 And these verses are counted too,  
 seventy-four verses \[beyond\]  
-eleven hundred \[verses here\].  
-The Ten Chapters[^38] called Paduma.  
+eleven hundred \[verses here\].
+
+The Ten Chapters[^38] called Paduma.
+
 The Fourth Hundred[^39] is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -211,7 +228,7 @@ The Fourth Hundred[^39] is finished.
 
 [^5]: on the bodies of those destined to become a wheel-turning monarch or a Buddha
 
-[^6]: *cittam āpajjiŋxi,* lit., “I produced the thought”
+[^6]: *cittam āpajjiŋxi*, lit., “I produced the thought”
 
 [^7]: *ko nāma*
 
@@ -223,21 +240,21 @@ The Fourth Hundred[^39] is finished.
 
 [^11]: *paṇḍitānaŋ*
 
-[^12]: *gatiŋ me sodhayissati,* i.e., “it will clean up my karma;” “it will get me a better rebirth”
+[^12]: *gatiŋ me sodhayissati*, i.e., “it will clean up my karma;” “it will get me a better rebirth”
 
 [^13]: *gahim*
 
-[^14]: reading *madhutelaṃ* (Sinhala gloss: *mītel*) with BJTS for PTS *dumatelaŋ* (“tree oil”). The term could also be read as a compound, “honey and oil;” the PTS reading could be sustained by taking *mītel* as the tree oil of that name, which is produced from the seeds of the *mī* tree, Bassia longifolia (*Sapot.*). Indeed, *madhu* (“honey”) can also refer to this oil. However, buffalo ghee would be a more likely oil for lamp-lighting than *mī* oil (which is used primarily in the making of medicines), so I have followed the BJTS reading here, leaving open these other possibilities.
+[^14]: reading *madhutelaṃ* (Sinhala gloss: *mītel*) with BJTS for PTS *dumatelaŋ* (“tree oil”). The term could also be read as a compound, “honey and oil;” the PTS reading could be sustained by taking *mītel* as the tree oil of that name, which is produced from the seeds of the *mī* tree, Bassia longifolia (*Sapot*.). Indeed, *madhu* (“honey”) can also refer to this oil. However, buffalo ghee would be a more likely oil for lamp-lighting than *mī* oil (which is used primarily in the making of medicines), so I have followed the BJTS reading here, leaving open these other possibilities.
 
 [^15]: reading *narāsabhaṃ* with BJTS for PTS (and BJTS alt.) *vināyakaŋ* (“Guide”)
 
-[^16]: *tindaṇḍake*, lit., “three-sticked”. BJTS glosses *the term as piriväjipuṭuwa*, “the stool (or chair) \[used by\] ascetics”
+[^16]: *tindaṇḍake*, lit., “three-sticked”. BJTS glosses the term as *piriväjipuṭuwa*, “the stool (or chair) \[used by\] ascetics”
 
-[^17]: *ratyā vivasāne,* read *ratyā vivasane,* “at the end of the night,” a stock phrase.
+[^17]: *ratyā vivasāne*, read *ratyā vivasane*, “at the end of the night,” a stock phrase.
 
-[^18]: *sabbe vanā gandhamayā,* lit., “all the forests made of good scents.” I am assuming that despite the Buddha’s magical power, the trees themselves did not come to him, though that is the Pāli (and BJTS glosses in Sinhala accordingly). Rather, I take the meaning to be that the scents of those forests came to him.
+[^18]: *sabbe vanā gandhamayā*, lit., “all the forests made of good scents.” I am assuming that despite the Buddha’s magical power, the trees themselves did not come to him, though that is the Pāli (and BJTS glosses in Sinhala accordingly). Rather, I take the meaning to be that the scents of those forests came to him.
 
-[^19]: *anubhāvena,* BJTS notes that all the texts give *ānubhāvena*
+[^19]: *anubhāvena*, BJTS notes that all the texts give *ānubhāvena*
 
 [^20]: *pupphagandhāse*, following BJTS Sinhala gloss here
 
@@ -245,13 +262,13 @@ The Fourth Hundred[^39] is finished.
 
 [^22]: following BJTS Sinhala gloss: *satsiya varak*
 
-[^23]: *vipulaṃ rajjaṃ karissati,* following BJTS Sinhala gloss
+[^23]: *vipulaṃ rajjaṃ karissati*, following BJTS Sinhala gloss
 
 [^24]: PTS and BJTS agree in presenting this as a six-footed verse.
 
-[^25]: BJTS understands this as a measure of distance, *krōśa* = 500 bow-lengths, 80 bull-lengths, 8000 *riyan* (*Śri Sumaṅgala Śabdakoṣaya,* s.v.)
+[^25]: BJTS understands this as a measure of distance, *krōśa* = 500 bow-lengths, 80 bull-lengths, 8000 *riyan* (*Śri Sumaṅgala Śabdakoṣaya*, s.v.)
 
-[^26]: *samantato,* “on all sides” “everywhere”
+[^26]: *samantato*, “on all sides” “everywhere”
 
 [^27]: *sattassa*, also “being” “creature” (gen. abs. construction)
 
@@ -267,7 +284,7 @@ The Fourth Hundred[^39] is finished.
 
 [^33]: *vināyakaṃ*
 
-[^34]: *nirūpadhi,* i.e., “devoid of the ground for rebirth,” “free of the *upadhis”*
+[^34]: *nirūpadhi*, i.e., “devoid of the ground for rebirth,” “free of the *upadhis*”
 
 [^35]: BJTS: Piḷindavaccha
 

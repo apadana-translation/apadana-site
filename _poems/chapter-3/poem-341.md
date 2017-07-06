@@ -1,5 +1,14 @@
-*Ekapadumiya Chapter, the Thirty-Fifth*  
-*\[338. {341.}*[^1] *Ekapadumiya*[^2]*\]*  
+---
+title: Ekapadumiya
+order: 341
+layout: poem
+category: chapter-3
+---
+
+## Ekapadumiya Chapter, the Thirty-Fifth
+
+### \[338. {341.}[^1] Ekapadumiya[^2]\]
+
 The Victor Padumuttara  
 was the Master of Everything.[^3]  
 Explaining[^4] all existences,[^5]  
@@ -22,7 +31,8 @@ lovely, with a hundred petals --
 \[and\] having broken off the stems,  
 tossing them into the sky, I  
 did *pūjā* to the Best Buddha,  
-pleased by[^7] the Leader of the World. (4-5) \[3077-3078\]  
+pleased by[^7] the Leader of the World. (4-5) \[3077-3078\]
+
 Padumuttara, World-Knower,  
 Sacrificial Recipient,  
 the Teacher, standing in the sky,  
@@ -41,14 +51,15 @@ went according to his wishes. (8) \[3081\]
 In the hundred thousand aeons  
 since I did that \[good\] karma then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (9) \[3082\]
+that’s the fruit of Buddha-*pūjā*. (9) \[3082\]
 
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (10) \[3083\]
 
-Thus indeed Venerable Ekapadumiya Thera spoke these verses.  
+Thus indeed Venerable Ekapadumiya Thera spoke these verses.
+
 The legend of Ekapadumiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -57,9 +68,9 @@ The legend of Ekapadumiya Thera is finished.
 
 [^3]: lit., “master of all things (*dhamma*)” (or “Master of All Teachings”)
 
-[^4]: *vibhāvento,* could also be “understanding” or “annihilating”
+[^4]: *vibhāvento*, could also be “understanding” or “annihilating”
 
-[^5]: *bhavābhave,* lit., “all sorts of existence,” “this and that type of existence”
+[^5]: *bhavābhave*, lit., “all sorts of existence,” “this and that type of existence”
 
 [^6]: lit., “came” or “approached”
 
@@ -69,6 +80,6 @@ The legend of Ekapadumiya Thera is finished.
 
 [^9]: lit., “go”
 
-[^10]: *vinipātaŋ,* lit., “a state of suffering” or “ruination”
+[^10]: *vinipātaŋ*, lit., “a state of suffering” or “ruination”
 
-[^11]: *jalajuttama,* the literal meaning of Padumuttara
+[^11]: *jalajuttama*, the literal meaning of Padumuttara

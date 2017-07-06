@@ -1,4 +1,12 @@
-*\[327. Nigguṇḍipupphiya*[^1]*\]*  
+---
+title: Nigguṇḍipupphiya
+order: 327
+layout: poem
+category: chapter-3
+---
+
+### \[327. Nigguṇḍipupphiya[^1]\]
+
 When according to \[his\] lifespan,  
 a god falls from the world,[^2]  
 three sayings[^3] get emitted \[then,\]  
@@ -40,7 +48,8 @@ realizing that I was moved
 \[and\] desiring to lift me up,  
 did come into my presence then  
 \[and\] stirred me up instructing \[me\]  
-in the meaning and the Teaching.[^11] (8-9) \[2870-2871\]  
+in the meaning and the Teaching.[^11] (8-9) \[2870-2871\]
+
 The Twelfth Recitation Portion[^12]  
 Having listened to his words I  
 made \[my\] heart pleased in the Buddha.  
@@ -89,7 +98,8 @@ was the follower Ānanda,[^22]
 perfectly behaved, resolute,  
 mindful and very learned too.  
 He took charge of the Brilliant One,[^23]  
-bringing pleasure to the king’s heart. (18-19) \[2880-2881\]  
+bringing pleasure to the king’s heart. (18-19) \[2880-2881\]
+
 After having heard his Teaching,  
 I recalled \[my own\] past karma.  
 Standing in that very \[spot\] I  
@@ -120,10 +130,11 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (25) \[2887\]
 
-Thus indeed Venerable Nigguṇḍipupphiya Thera spoke these verses.  
+Thus indeed Venerable Nigguṇḍipupphiya Thera spoke these verses.
+
 The legend of Nigguṇḍipupphiya Thera is finished.
 
-[^1]: “*Nigguṇḍi*-Flower-er.” Cf. \#205, above. Here PTS spells through nearly certain error *Nigguṇṭhiº.* I follow the BJTS reading here. *Nigguṇḍi* is a kind of tree, *Vitex negunda.* Sinh: *nika,* Engl. “chaste tree,” “Chinese chaste tree” “five-leafed chaste tree” “horseshoe vitex”.
+[^1]: “*Nigguṇḍi*-Flower-er.” Cf. \#205, above. Here PTS spells through nearly certain error *Nigguṇṭhiº*. I follow the BJTS reading here. *Nigguṇḍi* is a kind of tree, *Vitex negunda*. Sinh: *nika*, Engl. “chaste tree,” “Chinese chaste tree” “five-leafed chaste tree” “horseshoe vitex”.
 
 [^2]: or body (*kāyā*); this reading follows BJTS
 
@@ -131,7 +142,7 @@ The legend of Nigguṇḍipupphiya Thera is finished.
 
 [^4]: vv\. 1-10 plus the first two feet of v. 11 here precisely parallel the same verses of \#187, above.
 
-[^5]: *bho,* BJTS glosses *pinvata* (“O meritorious one”)
+[^5]: *bho*, BJTS glosses *pinvata* (“O meritorious one”)
 
 [^6]: *saddhamme*
 
@@ -149,19 +160,19 @@ The legend of Nigguṇḍipupphiya Thera is finished.
 
 [^13]: here is the primary divergence, itself quite small, from the parallel passage in \#187
 
-[^14]: accepting the PTS reading *dhāretu* and taking it as the nom. sing. the verbal noun *dhāretar,* “bearer in mind, causer to remember, instructor, teacher” in the range supplied by RD*.* Alternate readings (there are many, the text has obviously puzzled editors) are variant derivatives of the same root, to bear (*dharati*), mostly in this causative sense *(dhāreti,* to carry, possess, put on, hold back, restrain, bear in mind, understand) with the same basic intent that “I was the support of my mother \[rather than the other way around\] even when I was in her womb.”
+[^14]: accepting the PTS reading *dhāretu* and taking it as the nom. sing. the verbal noun *dhāretar*, “bearer in mind, causer to remember, instructor, teacher” in the range supplied by RD*.* Alternate readings (there are many, the text has obviously puzzled editors) are variant derivatives of the same root, to bear (*dharati*), mostly in this causative sense (*dhāreti*, to carry, possess, put on, hold back, restrain, bear in mind, understand) with the same basic intent that “I was the support of my mother \[rather than the other way around\] even when I was in her womb.”
 
 [^15]: Tidasa, the heaven of the (roughly) thirty gods, equivalent to Tāvatiŋsa
 
-[^16]: reading *samokkamiṃ* with BJTS for PTS *samokkamaŋ,* which would be a more impersonal still “there was a coming into a mother’s womb”
+[^16]: reading *samokkamiṃ* with BJTS for PTS *samokkamaŋ*, which would be a more impersonal still “there was a coming into a mother’s womb”
 
-[^17]: *kaṇha+sukka*; “dark and bright” “black and white,” (one of the colorless color-sensations); by extension merit or demerit, *puñña* or *pāpa.* “Black” and “White” carry similar connotations in English, so I have translated accordingly.
+[^17]: *kaṇha* + *sukka*; “dark and bright” “black and white,” (one of the colorless color-sensations); by extension merit or demerit, *puñña* or *pāpa*. “Black” and “White” carry similar connotations in English, so I have translated accordingly.
 
-[^18]: *ārāma,* any of a number of places, so-designated, where the Buddha dwelt (and where many of the *sutta*s were preached). Given the reference to Sāvatthi in the present instance (v. 16) this would likely be the *ārāma* donated by Anāthapiṇḍika*,* in the Jetavāna.
+[^18]: *ārāma*, any of a number of places, so-designated, where the Buddha dwelt (and where many of the *sutta*/s were preached). Given the reference to Sāvatthi in the present instance (v. 16) this would likely be the *ārāma* donated by Anāthapiṇḍika, in the Jetavāna.
 
 [^19]: *pāvacana* = *dhamma*, the “Good Word”
 
-[^20]: *bahujañña,* “of the populace,” “among the multitude”
+[^20]: *bahujañña*, “of the populace,” “among the multitude”
 
 [^21]: *samaya*. Alternately, “I \[too\] went to the festival,” (which may overdetermine it) or (following cty, p. 477) “the gathering” (*samūhaṃ*), “I went to the place of gathering” (*samāgamaṭṭhānaṃ ahaṃ agamāsin ti attho*).
 
@@ -175,4 +186,4 @@ The legend of Nigguṇḍipupphiya Thera is finished.
 
 [^26]: lit., kṣatriyan
 
-[^27]: the text is based on two large numbers, “*abbudas* and *nirabudda*s” of previous/subsequent lives as a kṣatriyan king, apparently within that single aeon (the 25,000th ago). Cty (p. 477) defines *abbuda* and *nirabbuda* based on the unit called *koṭi* (“crore” in Indian English = 100 lakhs \[100,000\] = ten million). A *koṭi* of *koṭi*s (ten million squared = one hundred trillion) is a *pakoṭi*. A *koṭi* of *pakoṭi*s is an *abbuda* (10,000,000 cubed = ten-million-hundred-trillions); a *koṭi* of *abbuda*s is a *nirabudda* (ten million to the fourth power = hundred-trillion-hundred trillions). The text enumerates the previous-life kings in *abbuda*s and *nirabudda*s and is read by cty and BJTS to mean that there were eight of each sort, i.e., eight *abbuda*s and eight *nirabuddas*, = 8 x 10,000,000 cubed plus 8 x 10,000,000 to the fourth
+[^27]: the text is based on two large numbers, “*abbuda*/s and *nirabudda*/s” of previous/subsequent lives as a kṣatriyan king, apparently within that single aeon (the 25,000th ago). Cty (p. 477) defines *abbuda* and *nirabbuda* based on the unit called *koṭi* (“crore” in Indian English = 100 lakhs \[100,000\] = ten million). A *koṭi* of *koṭi*/s (ten million squared = one hundred trillion) is a *pakoṭi*. A *koṭi* of *pakoṭi*/s is an *abbuda* (10,000,000 cubed = ten-million-hundred-trillions); a *koṭi* of *abbuda*/s is a *nirabudda* (ten million to the fourth power = hundred-trillion-hundred trillions). The text enumerates the previous-life kings in *abbuda*/s and *nirabudda*/s and is read by cty and BJTS to mean that there were eight of each sort, i.e., eight *abbuda*/s and eight *nirabudda*/s, = 8 x 10,000,000 cubed plus 8 x 10,000,000 to the fourth

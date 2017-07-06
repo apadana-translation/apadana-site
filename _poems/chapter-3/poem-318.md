@@ -1,4 +1,12 @@
-*\[318. Tiraŋsiya*[^1]*\]*  
+---
+title: Tiraŋsiya
+order: 318
+layout: poem
+category: chapter-3
+---
+
+### \[318. Tiraŋsiya[^1]\]
+
 On a mountainside, Siddhattha,  
 like a lion which is well-born,  
 had lit up all the directions,  
@@ -39,14 +47,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[2813\]
 
-Thus indeed Venerable Tiraŋsiya Thera spoke these verses.  
+Thus indeed Venerable Tiraŋsiya Thera spoke these verses.
+
 The legend of Tiraŋsiya Thera is finished.
 
 [^1]: “Three Rays”
 
 [^2]: or “column of fire”
 
-[^3]: *sāvakuttamaŋ,* which I follow BJTS gloss in treating as a Buddha-epithet.
+[^3]: *sāvakuttamaŋ*, which I follow BJTS gloss in treating as a Buddha-epithet.
 
 [^4]: lit., “dispelling the darkness of the world in the world,” repeating *loka* perhaps for emphasis.
 

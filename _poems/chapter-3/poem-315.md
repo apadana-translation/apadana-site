@@ -1,4 +1,12 @@
-*\[315. Pupphâsaniya*[^1]*\]*  
+---
+title: Pupphâsaniya
+order: 315
+layout: poem
+category: chapter-3
+---
+
+### \[315. Pupphâsaniya[^1]\]
+
 The golden-colored Sambuddha,  
 just like the hundred-raying sun,  
 was traveling near by \[to me\],  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2792\]
 
-Thus indeed Venerable Pupphâsaniya Thera spoke these verses.  
+Thus indeed Venerable Pupphâsaniya Thera spoke these verses.
+
 The legend of Pupphâsaniya Thera is finished.
 
 [^1]: “Flower-Seat-er”

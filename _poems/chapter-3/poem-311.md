@@ -1,5 +1,14 @@
-*Ārakkhadāyaka*[^1] *Chapter, the Thirty-Second*  
-*\[311. Ārakkhadāyaka*[^2]*\]*  
+---
+title: Ārakkhadāyaka
+order: 311
+layout: poem
+category: chapter-3
+---
+
+## Ārakkhadāyaka[^1] Chapter, the Thirty-Second
+
+### \[311. Ārakkhadāyaka[^2]\]
+
 A fence was constructed by me  
 for the Great Sage, Dhammadassi,  
 and I provided protection  
@@ -15,7 +24,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (3) \[2770\]
 
-Thus indeed Venerable Ārakkhadāyaka Thera spoke these verses.  
+Thus indeed Venerable Ārakkhadāyaka Thera spoke these verses.
+
 The legend of Ārakkhadāyaka Thera is finished.
 
 [^1]: This is the BJTS reading throughout, and the PTS reading in the body of this poem; I assume that the PTS reading of the chapter title as *Ārakkhadāya* is a typographical error

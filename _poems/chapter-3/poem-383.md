@@ -1,4 +1,12 @@
-*\[380. {383.}*[^1] *Udumbaraphaladāyaka*[^2]*\]*  
+---
+title: Udumbaraphaladāyaka
+order: 383
+layout: poem
+category: chapter-3
+---
+
+### \[380. {383.}[^1] Udumbaraphaladāyaka[^2]\]
+
 The Ultimate Person dwelt on  
 the banks of Vinatā River.  
 I saw the Buddha, Stainless One,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[3297\]
 
-Thus indeed Venerable Udumbaraphaladāyaka Thera spoke these verses.  
+Thus indeed Venerable Udumbaraphaladāyaka Thera spoke these verses.
+
 The legend of Udumbaraphaladāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

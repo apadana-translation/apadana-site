@@ -1,4 +1,12 @@
-*\[357. {360.}*[^1] *Piṇḍapātika*[^2]*\]*  
+---
+title: Piṇḍapātika
+order: 360
+layout: poem
+category: chapter-3
+---
+
+### \[357. {360.}[^1] Piṇḍapātika[^2]\]
+
 The Sambuddha was named Tissa;  
 he dwelt in the forest back then.  
 Coming here from Tusitā, I  
@@ -19,15 +27,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[3179\]
 
-Thus indeed Venerable Piṇḍapātika Thera spoke these verses.  
-The legend of Piṇḍapātika Thera is finished.  
-The Summary:  
+Thus indeed Venerable Piṇḍapātika Thera spoke these verses.
+
+The legend of Piṇḍapātika Thera is finished.
+
+The Summary:
+
 Saddasañña, Yavasika,  
 Kiŋsuka, ‘Raṇḍapupphiya,  
 Ālamba and Ambayāgu,  
 Supuṭi, Sajjhadāyaka,  
 Saraṇaŋ and Piṇḍapāta  
-\[make\] exactly forty verses.  
+\[make\] exactly forty verses.
+
 The Saddasaññaka Chapter, the Thirty-Sixth
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

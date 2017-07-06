@@ -1,4 +1,12 @@
-*\[336. {339.}*[^1] *Dhammasavaniya*[^2]*\]*  
+---
+title: Dhammasavaniya
+order: 339
+layout: poem
+category: chapter-3
+---
+
+### \[336. {339.}[^1] Dhammasavaniya[^2]\]
+
 The Victor, Padumuttara,  
 was the Master of Everything.[^3]  
 \[While\] preaching the Four Noble Truths,  
@@ -22,7 +30,7 @@ I easily[^11] flew[^12] through the sky. (4) \[3045\]
 “A lofty human being must[^13]  
 be sitting underneath \[me now\].  
 It’s good[^14] for me to search for him;  
-I might obtain something worthwhile.”[^15](5) \[3046\]
+I might obtain something worthwhile.”[^15] (5) \[3046\]
 
 Then descending from the sky, I  
 heard the sound of the Teacher,  
@@ -62,7 +70,8 @@ nirvana, everlasting state. (12) \[3053\]
 “In flux indeed is all that is;  
 things come to be \[and then\] decay.  
 They arise \[and then\] they dissolve;  
-their cessation[^19] is happiness.” (13) \[3054\][^20]  
+their cessation[^19] is happiness.” (13) \[3054\][^20]
+
 After hearing \[him say\] that verse,[^21]  
 I recalled my past perception.  
 Seated in a single sitting,  
@@ -88,7 +97,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (18) \[3059\]
 
-Thus indeed Venerable Dhammasavaniya Thera spoke these verses.  
+Thus indeed Venerable Dhammasavaniya Thera spoke these verses.
+
 The legend of Dhammasavaniya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -97,9 +107,9 @@ The legend of Dhammasavaniya Thera is finished.
 
 [^3]: lit., “Master of All Things (*dhamma*)” (or “Master of All Teachings”)
 
-[^4]: *jaṭila,* an ascetic who wears his hair in a matted braid (*jaṭā*)
+[^4]: *jaṭila*, an ascetic who wears his hair in a matted braid (*jaṭā*)
 
-[^5]: lit., “I was one who practices fierce austerities,” reading *ugga-tāpano* with BJTS (and PTS alternative) for PTS *uggata-āpaṇa,* “rising over the bazaar”
+[^5]: lit., “I was one who practices fierce austerities,” reading *ugga-tāpano* with BJTS (and PTS alternative) for PTS *uggata-āpaṇa*, “rising over the bazaar”
 
 [^6]: lit., “to go”
 
@@ -115,7 +125,7 @@ The legend of Dhammasavaniya Thera is finished.
 
 [^12]: lit., “am going” (“went”)
 
-[^13]: lit., “will” (*bhavissati,* future tense)
+[^13]: lit., “will” (*bhavissati*, future tense)
 
 [^14]: *handa me*, “well then for me”
 
@@ -123,16 +133,16 @@ The legend of Dhammasavaniya Thera is finished.
 
 [^16]: lit., “the perception of”
 
-[^17]: reading *gāthāya* with BJTS (and PTS alt.) for PTS *kathāya,* “through \[his\] speech”
+[^17]: reading *gāthāya* with BJTS (and PTS alt.) for PTS *kathāya*, “through \[his\] speech”
 
-[^18]: BJTS reads, more straightforwardly, “*aniccataṃ udāhari,* “\[then\] spoke about impermanence”
+[^18]: BJTS reads, more straightforwardly, *aniccataṃ udāhari*, “\[then\] spoke about impermanence”
 
 [^19]: reading *vūpasamo* with BJTS for PTS *vupasamo*
 
 [^20]: cf. S iv.28; A i.152, 299
 
-[^21]: *saha gāthaŋ sunitavāna,* lit., “after hearing \[his sermon\] together with that verse” or “in conjunction with that verse”
+[^21]: *saha gāthaŋ sunitavāna*, lit., “after hearing \[his sermon\] together with that verse” or “in conjunction with that verse”
 
 [^22]: lit., “in the dispensation of the Śākyan Son”
 
-[^23]: *saddhammasavane phalaŋ,* lit., “the fruit in the Great Teaching”
+[^23]: *saddhammasavane phalaŋ*, lit., “the fruit in the Great Teaching”

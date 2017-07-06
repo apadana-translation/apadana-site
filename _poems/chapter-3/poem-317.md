@@ -1,4 +1,12 @@
-*\[317. Saddasaññaka*[^1]*\]*  
+---
+title: Saddasaññaka
+order: 317
+layout: poem
+category: chapter-3
+---
+
+### \[317. Saddasaññaka[^1]\]
+
 The Great Hero, Beautiful One,[^2]  
 preaching the path to deathlessness,  
 was dwelling in a superb house,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2805\]
 
-Thus indeed Venerable Saddasaññaka Thera spoke these verses.  
+Thus indeed Venerable Saddasaññaka Thera spoke these verses.
+
 The legend of Saddasaññaka Thera is finished.
 
 [^1]: “Sound-Perceiver.” Cf. \#88, \#294, \#347{351}

@@ -1,4 +1,12 @@
-*\[391. {394.}*[^1] *Madhudāyaka*[^2]*\]*  
+---
+title: Madhudāyaka
+order: 394
+layout: poem
+category: chapter-3
+---
+
+### \[391. {394.}[^1] Madhudāyaka[^2]\]
+
 I had a well-made hermitage,  
 on the banks of River Indus.  
 There[^3] I am instructing students  
@@ -72,8 +80,8 @@ I attained \[my\] arahantship.[^16] (14) \[3719\]
 When the god is raining, I am always living  
 undefiled \[and\] happy, on grass four fingers \[high\],  
 or[^17] covered[^18] by a tree \[bursting forth\] in full bloom,[^19]  
-in an empty house, a pavilion, \[or\] tree root.[^20] (15-16)
-\[3720\][^21]  
+in an empty house, a pavilion, \[or\] tree root.[^20] (15-16) \[3720\][^21]
+
 I’ve overcome all existence,  
 great \[or\] small \[or\] in the middle.[^22]  
 Today I’m free of defilements;  
@@ -99,24 +107,25 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (21) \[3725\]
 
-Thus indeed Venerable Madhudāyaka Thera spoke these verses.  
+Thus indeed Venerable Madhudāyaka Thera spoke these verses.
+
 The legend of Madhudāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Honey Donor”
 
-[^3]: reading *tattha* with BJTS for PTS *tassa,* “his”
+[^3]: reading *tattha* with BJTS for PTS *tassa*, “his”
 
-[^4]: *dhammakāmā.* BJTS gloss just gives *dharmakāmī*. I do not capitalize “teachings” because I assume the term is used more generically to mean doctrines, rather than *the* Dhamma.
+[^4]: *dhammakāmā*. BJTS gloss just gives *dharmakāmī*. I do not capitalize “teachings” because I assume the term is used more generically to mean doctrines, rather than *the* Dhamma.
 
 [^5]: *vinītā*
 
-[^6]: *chalaṅge,* lit., “six branches” of Vedic science. RD, S.V.: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (viciti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.”
+[^6]: *chalaṅge*, lit., “six branches” of Vedic science. RD, S.V.: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (viciti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.”
 
-[^7]: reading *susāsanaṃ sotukāmā* with BJTS for PTS *sotukāmā pi sāsanaŋ,* “also wanting to hear instructions.” BJTS gloss gives *anuśāsanaya asanu kämättā,* “desiring to listen to instructions,” and I follow suit in the generic translation here, rather than understand the term as *the* “Sasana,” the Buddha’s “dispensation”
+[^7]: reading *susāsanaṃ sotukāmā* with BJTS for PTS *sotukāmā pi sāsanaŋ*, “also wanting to hear instructions.” BJTS gloss gives *anuśāsanaya asanu kämättā*, “desiring to listen to instructions,” and I follow suit in the generic translation here, rather than understand the term as *the* “Sasana,” the Buddha’s “dispensation”
 
-[^8]: *uppādāgamane,* lit., “coming on of omens (RD: *uppāda* 1, BJTS gloss *utpāta*)” or “arrival of omens.” BJTS glosses *ºāgamane* as *śāstrayehi*, “traditional learning” (about omens), apparently conflating the term with *āgama*, which can mean the scriptures of manuals of particular religious groups, or more generally “meaning, understanding,” likewise a meaning of the root *ā+gam.* BJTS explains this *utpātaśāstra* as “declaring \[omens\] good or bad (*śubhāśubha*) having looked at/with an eye toward unnatural changes connected with ghosts (*bhūtayan piḷibanda asvābhāvika venasvīm balā*)
+[^8]: *uppādāgamane*, lit., “coming on of omens (RD: *uppāda* 1, BJTS gloss *utpāta*)” or “arrival of omens.” BJTS glosses *ºāgamane* as *śāstrayehi*, “traditional learning” (about omens), apparently conflating the term with *āgama*, which can mean the scriptures of manuals of particular religious groups, or more generally “meaning, understanding,” likewise a meaning of the root *ā* + *gam*. BJTS explains this *utpātaśāstra* as “declaring \[omens\] good or bad (*śubhāśubha*) having looked at/with an eye toward unnatural changes connected with ghosts (*bhūtayan piḷibanda asvābhāvika venasvīm balā*)
 
 [^9]: BJTS gloss takes this *lakṣaṇaśāstra* as involving the signs on the body/science of interpreting bodily marks.
 
@@ -140,10 +149,10 @@ The legend of Madhudāyaka Thera is finished.
 
 [^19]: reading *sampupphite* with BJTS for PTS *samphīte*
 
-[^20]: reading *mūlake* with PTS (and BJTS alt.) as preferable to BTJTS *mūle,* which would make this line (only) an eleven-syllable foot.
+[^20]: reading *mūlake* with PTS (and BJTS alt.) as preferable to BTJTS *mūle*, which would make this line (only) an eleven-syllable foot.
 
 [^21]: PTS treats this as two four-footed verses with six- (rather than eight-) syllable feet; BJTS treats it as a singe verse with twelve-syllable feet. Except the divergences indicated, the Pāli is the same in both.
 
-[^22]: reading *majjhe mahante hīne* with BJTS for PTS *majjhe mayhaŋ bhāvā,* “my existences in the middle.”
+[^22]: reading *majjhe mahante hīne* with BJTS for PTS *majjhe mayhaŋ bhāvā*, “my existences in the middle.”
 
 [^23]: here too BJTS and PTS agree in presenting the variant reading

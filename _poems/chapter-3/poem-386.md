@@ -1,4 +1,12 @@
-*\[383. {386.}*[^1] *Valliphaladāyaka*[^2]*\]*  
+---
+title: Valliphaladāyaka
+order: 386
+layout: poem
+category: chapter-3
+---
+
+### \[383. {386.}[^1] Valliphaladāyaka[^2]\]
+
 All the people, come together,  
 went into the forest back then.  
 Searching for fruit \[growing wild there,\]  
@@ -29,11 +37,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[3313\]
 
-Thus indeed Venerable Valliphaladāyaka Thera spoke these verses.  
+Thus indeed Venerable Valliphaladāyaka Thera spoke these verses.
+
 The legend of Valliphaladāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Creeper-Fruit Donor.”
 
-[^3]: *Valli* is a generic term for any “creeper” or “vine” (Sinh. *väl, liya*), so the donation was some sort of fruit (or vegetable, e.g., *baṭu karavila*) that grows on a creeping vine.
+[^3]: *Valli* is a generic term for any “creeper” or “vine” (Sinh. *väl*, *liya*), so the donation was some sort of fruit (or vegetable, e.g., *baṭu karavila*) that grows on a creeping vine.

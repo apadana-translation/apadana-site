@@ -1,4 +1,12 @@
-*\[333. {336.}*[^1] *Pabhaṅkara*[^2]*\]*  
+---
+title: Pabhaṅkara
+order: 336
+layout: poem
+category: chapter-3
+---
+
+### \[333. {336.}[^1] Pabhaṅkara[^2]\]
+
 In deep forest which was crowded  
 with wild beasts there was a stupa[^3]  
 of Blessed Padumuttara,  
@@ -21,7 +29,8 @@ is abandoned in the forest.
 It’s not meet, not appropriate  
 for one who can tell right from wrong.[^5]  
 \[But\] I engage in other work,  
-not cleaning the Buddha’s stupa.” (4-5) \[2987-2988\]  
+not cleaning the Buddha’s stupa.” (4-5) \[2987-2988\]
+
 Cleaning off the grasses and sticks  
 and vines \[growing\] on the stupa,  
 after worshipping \[it\] eight times,  
@@ -102,24 +111,25 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (21) \[3004\]
 
-Thus indeed Venerable Pabhaṅkara Thera spoke these verses.  
+Thus indeed Venerable Pabhaṅkara Thera spoke these verses.
+
 The legend of Pabhaṅkara Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Light-Maker”
 
-[^3]: *cetiya,* could also be some other sort of shrine but vv. 3-4 makes clear that it is imagined as a stupa.
+[^3]: *cetiya*, could also be some other sort of shrine but vv. 3-4 makes clear that it is imagined as a stupa.
 
 [^4]: lit., “by means of,” “through”. We might say “by birth” or “in the family business”
 
-[^5]: *jānantassa guṇāguṇaŋ,* lit., “for one who know/can distinguish virtue and ignominy”
+[^5]: *jānantassa guṇāguṇaŋ*, lit., “for one who know/can distinguish virtue and ignominy”
 
 [^6]: lit., “on a palanquin or litter on the back of an elephant.” That is, he does not ride bareback but in some sort of ornamented fixture on its back, an image of kingship, power and wealth.
 
 [^7]: lit., “with \[my\] meritorious karma,” *puññakammena*
 
-[^8]: *kaṇḍu.* BJTS reads *kacchu,* with the same meaning.
+[^8]: *kaṇḍu.* BJTS reads *kacchu*, with the same meaning.
 
 [^9]: *daddu*
 
@@ -129,7 +139,7 @@ The legend of Pabhaṅkara Thera is finished.
 
 [^12]: *kilāsa*
 
-[^13]: *apamāra.* This seems an outlier since the remainder of the diseases listed here are all diseases of the skin, but the Pāli is unambiguous.
+[^13]: *apamāra*. This seems an outlier since the remainder of the diseases listed here are all diseases of the skin, but the Pāli is unambiguous.
 
 [^14]: *vitacchikā*
 

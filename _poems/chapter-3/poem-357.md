@@ -1,4 +1,12 @@
-*\[354. {357.}*[^1] *Supuṭakapūjaka*[^2]*\]*  
+---
+title: Supuṭakapūjaka
+order: 357
+layout: poem
+category: chapter-3
+---
+
+### \[354. {357.}[^1] Supuṭakapūjaka[^2]\]
+
 Going out \[after\] his siesta,  
 Vipassi \[Buddha\], World-Leader,  
 wandering about for alms food,  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[3168\]
 
-Thus indeed Venerable Supuṭakapūjaka Thera spoke these verses.  
+Thus indeed Venerable Supuṭakapūjaka Thera spoke these verses.
+
 The legend of Supuṭakapūjaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

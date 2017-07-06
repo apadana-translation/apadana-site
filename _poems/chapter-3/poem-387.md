@@ -1,4 +1,12 @@
-*\[384. {387.}*[^1] *Kadalīphaladāyaka*[^2]*\]*  
+---
+title: Kadalīphaladāyaka
+order: 387
+layout: poem
+category: chapter-3
+---
+
+### \[384. {387.}[^1] Kadalīphaladāyaka[^2]\]
+
 I saw the Leader of the World,  
 shining like a dinner-plate tree,[^3]  
 like the moon on the fifteenth day,[^4]  
@@ -29,13 +37,14 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[3319\]
 
-Thus indeed Venerable Kadalīphaladāyaka Thera spoke these verses.  
+Thus indeed Venerable Kadalīphaladāyaka Thera spoke these verses.
+
 The legend of Kadalīphaladāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Plantain-Fruit Donor.”
 
-[^3]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
+[^3]: *kaṇṇikāra*, *kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
 
 [^4]: i.e., when it is full, *puṇṇamāse va candimā*

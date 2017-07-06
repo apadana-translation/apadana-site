@@ -1,4 +1,12 @@
-*{\*334, BJTS only: Ekadussadāyaka*[^1]*}*  
+---
+title: Ekadussadāyaka
+order: 334
+layout: poem
+category: chapter-3
+---
+
+### {\*334, BJTS only: Ekadussadāyaka[^1]}
+
 In the city, Haṃsavatī,  
 I was a grass-bearer \[back then\].  
 I am living by bearing grass,  
@@ -16,7 +24,8 @@ this is what I thought at that time:
 I \[only\] have this single cloak,  
 I do not have \[my own\] donor.  
 Suffering is a taste of hell;[^3]  
-I will \[now\] plant a donation.” \[2951-2952\]  
+I will \[now\] plant a donation.” \[2951-2952\]
+
 Contemplating \[it\] in this way,  
 I brought pleasure to \[my\] own heart.  
 Taking that single piece of cloth,  
@@ -97,14 +106,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! \[2968\]
 
-Thus indeed Venerable Ekadussadāyaka Thera spoke these verses.  
+Thus indeed Venerable Ekadussadāyaka Thera spoke these verses.
+
 The legend of Ekadussadāyaka Thera is finished.
 
 [^1]: “One-Cloth-Donor”
 
 [^2]: lit., “Master of All Things (*dhamma*)” (or “Master of All Teachings”). This *apadāna* is included verbatim as \#419 {422} below, ascribed to a monk of the same name. Presumably following the colophonic demand for an “Ekadussika” at this point in the text, editors in the mss. tradition on which BJTS is based supplied this *apadāna* verbatim from a different part of the text, in order to fill the gap.
 
-[^3]: *niraya-samphassa,* lit., “contact with hell” “touching of hell” “experience of hell”
+[^3]: *niraya-samphassa*, lit., “contact with hell” “touching of hell” “experience of hell”
 
 [^4]: amending *kappasatahassāni* to *kappasattasahassāni*, which keeps the meter and makes sense
 

@@ -1,4 +1,12 @@
-*\[308. Anulepadāyaka*[^1]*\]*  
+---
+title: Anulepadāyaka
+order: 308
+layout: poem
+category: chapter-3
+---
+
+### \[308. Anulepadāyaka[^1]\]
+
 I saw \[a monk\], a follower,  
 of Atthadassi \[Buddha\], Sage.  
 I approached while he was doing  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2758\]
 
-Thus indeed Venerable Anulepadāyaka Thera spoke these verses.  
+Thus indeed Venerable Anulepadāyaka Thera spoke these verses.
+
 The legend of Anulepadāyaka Thera is finished.
 
 [^1]: “Ointment Donor”

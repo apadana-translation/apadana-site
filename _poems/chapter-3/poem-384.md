@@ -1,4 +1,12 @@
-*\[381. {384.}*[^1] *Pilakkhaphaladāyaka*[^2]*\]*  
+---
+title: Pilakkhaphaladāyaka
+order: 384
+layout: poem
+category: chapter-3
+---
+
+### \[381. {384.}[^1] Pilakkhaphaladāyaka[^2]\]
+
 Seeing Buddha in the forest,[^3]  
 Atthadassi, Greatly Famed One,  
 happy, with pleasure in \[my\] heart,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[3302\]
 
-Thus indeed Venerable Pilakkhaphaladāyaka Thera spoke these verses.  
+Thus indeed Venerable Pilakkhaphaladāyaka Thera spoke these verses.
+
 The legend of Pilakkhaphaladāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -33,4 +42,4 @@ The legend of Pilakkhaphaladāyaka Thera is finished.
 
 [^3]: *vanante*, in the forest or at the edge/border of the forest
 
-[^4]: *pilakkha,* the wave — leaved or wave-leafed fig tree, Ficus infectoria; (Bot. Dict. gives Ficus Arnottiana (*Urti.*), Sinh. *pulila*
+[^4]: *pilakkha*, the wave — leaved or wave-leafed fig tree, Ficus infectoria; (Bot. Dict. gives Ficus Arnottiana (*Urti.*), Sinh. *pulila*

@@ -1,4 +1,12 @@
-*\[313. Gatasaññaka*[^1]*\]*  
+---
+title: Gatasaññaka
+order: 313
+layout: poem
+category: chapter-3
+---
+
+### \[313. Gatasaññaka[^1]\]
+
 There are no footprints in the air;  
 the sky is not marked by the wind.  
 I saw the Victor, Siddhattha  
@@ -19,7 +27,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2780\]
 
-Thus indeed Venerable Gatasaññaka Thera spoke these verses.  
+Thus indeed Venerable Gatasaññaka Thera spoke these verses.
+
 The legend of Gatasaññaka Thera is finished.
 
 [^1]: “Perceived \[Buddha\] Gone”

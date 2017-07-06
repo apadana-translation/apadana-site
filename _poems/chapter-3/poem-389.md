@@ -1,4 +1,12 @@
-*\[386. {389.}*[^1] *Soṇakoṭivīsa*[^2]*\]*  
+---
+title: Soṇakoṭivīsa
+order: 389
+layout: poem
+category: chapter-3
+---
+
+### \[386. {389.}[^1] Soṇakoṭivīsa[^2]\]
+
 When Vipassi’s dispensation[^3]  
 \[arose\], I made a single cave[^4]  
 in Bandhumā, royal city,  
@@ -72,8 +80,10 @@ six special knowledges mastered,
 Soṇa Koṭivisa Thera  
 in front of the monks’ Assembly,  
 being asked questions \[then\] answered  
-on the great Lake Anotatta. \[3340\][^15]  
-Thus indeed Venerable Soṇakoṭivīsa Thera spoke these verses.  
+on the great Lake Anotatta. \[3340\][^15]
+
+Thus indeed Venerable Soṇakoṭivīsa Thera spoke these verses.
+
 The legend of Soṇakoṭivīsa Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -84,11 +94,11 @@ The legend of Soṇakoṭivīsa Thera is finished.
 
 [^4]: lit., “a single cave was made by me”
 
-[^5]: *saṅgha,* lit., “Assembly \[of monks\]”
+[^5]: *saṅgha*, lit., “Assembly \[of monks\]”
 
-[^6]: *santharitvā,* lit., “having spread out on”
+[^6]: *santharitvā*, lit., “having spread out on”
 
-[^7]: *ārdhayeyyan,* please, propitiate
+[^7]: *ārdhayeyyan*, please, propitiate
 
 [^8]: lit., “and were I to receive going forth/renunciation”
 
@@ -102,6 +112,6 @@ The legend of Soṇakoṭivīsa Thera is finished.
 
 [^13]: *aggo āraddhaviriyānaŋ*
 
-[^14]: *chaḷabhiññāmahiddhiko,* lit., possessors of the six special knowledges who have great (magical, *iddhi*) power.”
+[^14]: *chaḷabhiññāmahiddhiko*, lit., possessors of the six special knowledges who have great (magical, *iddhi*) power.”
 
-[^15]: This verse does not appear in the PTS edition, hence only has a BJTS number in this translation. The Pāli is: *thero koṭiviso soṇo/bhikkhusaṅghassa aggato/pañhaṃ puṭṭho viyākāsi/anotatte mahāsare ti//*
+[^15]: This verse does not appear in the PTS edition, hence only has a BJTS number in this translation. The Pāli is: *thero koṭiviso soṇo*/*bhikkhusaṅghassa aggato*/*pañhaṃ puṭṭho viyākāsi*/*anotatte mahāsare ti*//

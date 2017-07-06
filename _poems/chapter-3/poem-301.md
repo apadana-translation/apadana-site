@@ -1,4 +1,12 @@
-*\[301. Padumakesariya*[^1]*\]*  
+---
+title: Padumakesariya
+order: 301
+layout: poem
+category: chapter-3
+---
+
+### \[301. Padumakesariya[^1]\]
+
 \[I lived\][^2] in the Sage-assembly,[^3]  
 a fierce *mātaṅga*[^4] elephant.  
 Feeling pleasure for the Sages[^5]  
@@ -12,14 +20,15 @@ I joyed an aeon in heaven. (2) \[2718\]
 In the ninety-one aeons since  
 I sprinkled that pollen back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of flower-*pūjā.* (3) \[2719\]
+that’s the fruit of flower-*pūjā*. (3) \[2719\]
 
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2720\]
 
-Thus indeed Venerable Padumakesariya Thera spoke these verses.  
+Thus indeed Venerable Padumakesariya Thera spoke these verses.
+
 The legend of Padumakesariya Thera is finished.
 
 [^1]: “Pink Lotus-Pollen-er”
@@ -30,6 +39,6 @@ The legend of Padumakesariya Thera is finished.
 
 [^4]: See \#1, v. 25 \[164\]. Or glossary?
 
-[^5]: *mahesīnaŋ pasādena,* lit., “because of \[my\] pleasure about/for the Great Sages.” xxx Could also read: “at the pleasure of the Great Sages” or “because it would be pleasing to those Great Sages.” Cty only stipulates that the Great Sages are Paccekabuddhas.
+[^5]: *mahesīnaŋ pasādena*, lit., “because of \[my\] pleasure about/for the Great Sages.” xxx Could also read: “at the pleasure of the Great Sages” or “because it would be pleasing to those Great Sages.” Cty only stipulates that the Great Sages are Paccekabuddhas.
 
 [^6]: cty explains that he sprinkled this *reṇu* (pollen, dust) of lotus flowers on the Paccekabuddhas, presumably whilst they were meditating.

@@ -1,6 +1,14 @@
-*\[356. {359.}*[^1] *Saraṇāgamaniya*[^2]*\]*  
+---
+title: Saraṇāgamaniya
+order: 359
+layout: poem
+category: chapter-3
+---
+
+### \[356. {359.}[^1] Saraṇāgamaniya[^2]\]
+
 We boarded a boat at that time,  
-monk and I,[^3] an *ajīvaka.*  
+monk and I,[^3] an *ajīvaka*.  
 When the boat was broken \[to bits,\]  
 that Buddhist monk gave me refuge. (1) \[3173\]
 
@@ -14,7 +22,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (3) \[3175\]
 
-Thus indeed Venerable Saraṇāgamaniya Thera spoke these verses.  
+Thus indeed Venerable Saraṇāgamaniya Thera spoke these verses.
+
 The legend of Saraṇāgamaniya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

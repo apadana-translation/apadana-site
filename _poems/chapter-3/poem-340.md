@@ -1,4 +1,12 @@
-*\[337. {340.}*[^1] *Ukkhittapadumiya*[^2]*\]*  
+---
+title: Ukkhittapadumiya
+order: 340
+layout: poem
+category: chapter-3
+---
+
+### \[337. {340.}[^1] Ukkhittapadumiya[^2]\]
+
 In the city, Haṃsavatī,  
 I was a florist at that time.  
 Plunging into a lotus lake,  
@@ -11,7 +19,8 @@ such-like ones whose minds were peaceful,
 pure ones with defilements destroyed,  
 six special knowledge-possessors,  
 the Ultimate Person approached  
-desirous of my improvement.[^4] (2-3) \[3061-3062\]  
+desirous of my improvement.[^4] (2-3) \[3061-3062\]
+
 Having seen \[him\], the God of Gods,  
 the Self-Become One, World-Leader,  
 breaking off the stems I tossed \[those\]  
@@ -67,9 +76,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (14) \[3073\]
 
-Thus indeed Venerable Ukkhittapadumiya Thera spoke these verses.  
-The legend of Ukkhittapadumiya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Ukkhittapadumiya Thera spoke these verses.
+
+The legend of Ukkhittapadumiya Thera is finished.
+
+The Summary:
+
 Gandhodaka and Pūjani,  
 Punnāga, Ekadussika,  
 Phusita and Pabhaṇkara,  
@@ -77,7 +89,8 @@ Kuṭida, Uttarīyaka,
 Savani, Ekapadumi:  
 the clump of verses there \[numbers\]  
 one hundred verses and also  
-forty-four \[additional ones\].  
+forty-four \[additional ones\].
+
 The Gandhathūpiya Chapter, the Thirty-Fourth
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -86,12 +99,12 @@ The Gandhathūpiya Chapter, the Thirty-Fourth
 
 [^3]: lit., “Master of All Things (*dhamma*)” (or “Master of All Teachings”)
 
-[^4]: *vuddhi,* lit., “increase” or “furtherance”.
+[^4]: *vuddhi*, lit., “increase” or “furtherance”.
 
 [^5]: *ānubhāvena*
 
-[^6]: *vuccati,* lit., “was called”
+[^6]: *vuccati*, lit., “was called”
 
 [^7]: *sattapattan* = “Lotus”
 
-[^8]: lit., “since I did *pūjā”*
+[^8]: lit., “since I did *pūjā*”

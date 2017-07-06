@@ -1,4 +1,12 @@
-*\[343. {346.}*[^1] *Campakapupphiya*[^2]*\]*  
+---
+title: Campakapupphiya
+order: 346
+layout: poem
+category: chapter-3
+---
+
+### \[343. {346.}[^1] Campakapupphiya[^2]\]
+
 In the Himalayan region,  
 there’s a mountain named Cāvala.[^3]  
 The Buddha named Sudassana  
@@ -24,14 +32,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[3116\]
 
-Thus indeed Venerable Campakapupphiya Thera spoke these verses.  
+Thus indeed Venerable Campakapupphiya Thera spoke these verses.
+
 The legend of Campakapupphiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “C*ampaka*-Flower-er”. The *campaka* (Sinh. *sapu*) tree is *Magnolia champaca,* formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
+[^2]: “*Campaka*-Flower-er”. The *campaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
-[^3]: perhaps “Falling Away” or “Disappearing,” from *cavati.*
+[^3]: perhaps “Falling Away” or “Disappearing,” from *cavati*.
 
 [^4]: *oghatiṇṇa*
 

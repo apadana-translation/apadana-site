@@ -1,4 +1,12 @@
-*\[329. Pupphacchattiya*[^1]*\]*  
+---
+title: Pupphacchattiya
+order: 329
+layout: poem
+category: chapter-3
+---
+
+### \[329. Pupphacchattiya[^1]\]
+
 Bringing water-born lotuses,[^2]  
 hundred-leafed, delighting the mind,  
 and making \[it\], I offered a  
@@ -6,7 +14,8 @@ floral umbrella to Buddha,
 the Blessed One, Siddhattha,  
 the World’s Best One, the Neutral One,  
 when he was declaring the truth,  
-giving living beings succor. (1-2) \[2898-2899\]  
+giving living beings succor. (1-2) \[2898-2899\]
+
 And Siddhattha, World-Knower,  
 Sacrificial Recipient,  
 standing in the monks’ Assembly,[^3]  
@@ -42,17 +51,18 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[2906\]
 
-Thus indeed Venerable Pupphacchattiya Thera spoke these verses.  
+Thus indeed Venerable Pupphacchattiya Thera spoke these verses.
+
 The legend of Pupphacchattiya Thera is finished.
 
 [^1]: “Flower-Umbrella-er”
 
-[^2]: here as in so many places, the singular is used in what is almost certainly a plural sense, and I translate accordingly. xxx to the intro...
+[^2]: here as in so many places, the singular is used in what is almost certainly a plural sense, and I translate accordingly. xxx to the intro…
 
 [^3]: *bhikkhusaṅghe ṭhito*
 
-[^4]: here as in \#306 above I take the redundancy (*vehāsam nabham)* as emphatic
+[^4]: here as in \#306 above I take the redundancy (*vehāsam nabham*) as emphatic
 
-[^5]: *naradeva,* “God (or king) among Men”
+[^5]: *naradeva*, “God (or king) among Men”
 
 [^6]: “Crest of the Water”
