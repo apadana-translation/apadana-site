@@ -12,14 +12,15 @@
   @include breakpoint($large) {
     $poem-meta-large-width: 12.5rem;
 
-    position: fixed;
+    position: relative;
     flex: 0 0 $poem-meta-large-width;
     width: $poem-meta-large-width;
-    padding-top: 1rem;
-    padding-right: 3rem;
 
-    & + .poem {
-      margin-left: $poem-meta-large-width;
+    .meta-inner {
+      position: fixed;
+      width: $poem-meta-large-width;
+      padding-top: 1rem;
+      padding-right: 3rem;
     }
   }
 }

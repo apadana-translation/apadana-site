@@ -12,3 +12,4 @@
 //= require toggle
 //= require share
 //= require timeline
+//= require meta-scroll
