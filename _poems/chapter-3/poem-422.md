@@ -1,4 +1,12 @@
-*\[419. {422.}*[^1] *Ekadussadāyaka*[^2]*\]*  
+---
+title: Ekadussadāyaka
+order: 422
+layout: poem
+category: chapter-3
+---
+
+### \[419. {422.}[^1] Ekadussadāyaka[^2]\]
+
 In the City, Haṃsavatī,  
 I was a grass-carrier \[then\].  
 I \[earn my\] living hauling grass,  
@@ -104,7 +112,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (21) \[4496\]
 
-Thus indeed Venerable Ekadussadāyaka Thera spoke these verses.  
+Thus indeed Venerable Ekadussadāyaka Thera spoke these verses.
+
 The legend of Ekadussadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -113,7 +122,7 @@ The legend of Ekadussadāyaka Thera is finished.
 
 [^3]: lit., “master of all things (*dhamma*)” (or “Master of All Teachings”)
 
-[^4]: *niraya-samphassa,* lit., “contact with hell” “touching of hell” “experience of hell”
+[^4]: *niraya-samphassa*, lit., “contact with hell” “touching of hell” “experience of hell”
 
 [^5]: amending *kappasatahassāni* to *kappasatasahassāni*, which keeps the meter.
 

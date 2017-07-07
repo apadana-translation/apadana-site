@@ -1,5 +1,14 @@
-*Vibhīṭaki*[^1] *Chapter, the Forty-Fifth*  
-*\[438. {441.}*[^2] *Vibhīṭakamiñjaya*[^3]*\]*  
+---
+title: Vibhīṭakamiñjaya
+order: 441
+layout: poem
+category: chapter-3
+---
+
+## Vibhīṭaki[^1] Chapter, the Forty-Fifth
+
+### \[438. {441.}[^2] Vibhīṭakamiñjaya[^3]\]
+
 Kakusandha, the Great Hero,  
 was a Master of Everything.  
 Alienated [^4] from the group,  
@@ -35,7 +44,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[4723\]
 
-Thus indeed Venerable Vibhīṭakamiñjaya Thera spoke these verses.  
+Thus indeed Venerable Vibhīṭakamiñjaya Thera spoke these verses.
+
 The legend of Vibhīṭakamiñjaya Thera is finished.
 
 [^1]: BJTS reads *Vibhīṭaka*
@@ -46,4 +56,4 @@ The legend of Vibhīṭakamiñjaya Thera is finished.
 
 [^4]: reading *vūpakaṭṭho* with BJTS for PTS *vupakaṭṭho*
 
-[^5]: *bījabījaŋ,* taking the reduplication as indicative of a large number, “seeds and seeds.” BJTS Sinhala gloss interpolates “*bulu” (bahera*, “bastard myrobolan,” *vibhītaka*), identifying the type of seed on the basis of the protagonist’s name (as it appears in the colophon), even though the Pali does not specify it. Cty (p. 487) eliminates even the clue in the name, calling this monk *Bījabījadāyaka* (“Numerous Seeds Donor”) after this distinctive term in the text. However, cty proceeds to specify, like BJTS, that these were *vibhīṭaka* \[Sinhala *buḷu,* beleric myrobalan, bastard myrobalan, *Terminalia bellirica*\] seeds and even to explain that “the meaning is: ‘having allowed *vibhīṭaka* fruits to mature, taking the seeds \[that is\] the kernels, mixing \[them\] with honey \[and\] sugar, I gave them to Kakusandha, the Blessed One’”
+[^5]: *bījabījaŋ*, taking the reduplication as indicative of a large number, “seeds and seeds.” BJTS Sinhala gloss interpolates “*bulu*” (*bahera*, “bastard myrobolan,” *vibhītaka*), identifying the type of seed on the basis of the protagonist’s name (as it appears in the colophon), even though the Pali does not specify it. Cty (p. 487) eliminates even the clue in the name, calling this monk *Bījabījadāyaka* (“Numerous Seeds Donor”) after this distinctive term in the text. However, cty proceeds to specify, like BJTS, that these were *vibhīṭaka* \[Sinhala *buḷu*, beleric myrobalan, bastard myrobalan, *Terminalia bellirica*\] seeds and even to explain that “the meaning is: ‘having allowed *vibhīṭaka* fruits to mature, taking the seeds \[that is\] the kernels, mixing \[them\] with honey \[and\] sugar, I gave them to Kakusandha, the Blessed One’”

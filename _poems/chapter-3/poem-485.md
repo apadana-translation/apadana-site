@@ -1,4 +1,12 @@
-*\[482. {485.}*[^1] *Candanamāliya*[^2]*\]*  
+---
+title: Candanamāliya
+order: 485
+layout: poem
+category: chapter-3
+---
+
+### \[482. {485.}[^1] Candanamāliya[^2]\]
+
 Giving up the five sense pleasures,[^3]  
 forms which are dear and delightful;  
 giving up eight hundred million,  
@@ -16,7 +24,7 @@ I gave \[him\] a friendly welcome.[^6] (3) \[5107\]
 
 Giving \[him that\] friendly welcome,  
 I \[then\] asked \[him\] his name and clan:  
-“Are you a god, a music-nymph*,*  
+“Are you a god, a music-nymph,  
 or[^7] \[even\] generous Indra? (4) \[5108\]
 
 Or else who are you? Son of whom?  
@@ -29,7 +37,8 @@ are seen on your foot, happy one.[^9]
 Who then are you? The son of whom?  
 How \[then\] can we \[come to\] know that?  
 Please declare \[your\] name and \[your\] clan;  
-please \[do\] relieve \[me\] of my doubts!” (6) \[5110\][^10]  
+please \[do\] relieve \[me\] of my doubts!” (6) \[5110\][^10]
+
 “I’m not a god, a music-nymph,  
 nor \[even\] generous Indra,  
 and I do not exist as God:  
@@ -45,7 +54,8 @@ I spoke these words \[to him back then\]:
 “If you’re a Buddha, O Great Sage,  
 please sit down \[here\], Omniscient One.  
 I am going to worship[^13] you;  
-you’re the Ender of Suffering. (9) \[5113\][^14]  
+you’re the Ender of Suffering. (9) \[5113\][^14]
+
 Spreading out my deer-hide leather,  
 I gave it to the Teacher \[then\].  
 The Blessed One sat down there like  
@@ -59,7 +69,7 @@ a beautiful *sal* flower and
 Quickly taking all of that, I  
 approached the Leader of the World.  
 Giving the fruit to the Buddha,  
-I offered \[him that\] *sal-*flower. (12) \[5116\]
+I offered \[him that\] *sal*-flower. (12) \[5116\]
 
 Anointing \[him with\] sandalwood,[^15]  
 I then worshipped \[him\], the Teacher,  
@@ -76,7 +86,8 @@ causing me to smile[^16] \[about that\]: (14) \[5118\]
 for twenty-five hundred aeons  
 he will delight in the gods’ world.  
 With intentions not lacking thought,[^17]  
-he will be very powerful.[^18] (15) \[5119\][^19]  
+he will be very powerful.[^18] (15) \[5119\][^19]
+
 For twenty-six hundred aeons  
 he will delight in the gods’ world.  
 He’ll be a king who turns the wheel,  
@@ -92,7 +103,8 @@ he’ll transmigrate judiciously.
 Being happy in every place,  
 \[whether\] as a god or human,  
 when he obtains \[his\] last rebirth,  
-he will be \[born as\] a brahmin. (18) \[5122\][^21]  
+he will be \[born as\] a brahmin. (18) \[5122\][^21]
+
 Having departed from the house  
 he will be one without a home.  
 Mastering special knowledges,[^22]  
@@ -106,7 +118,8 @@ while I meditated \[on him,\]
 Due to that karma done very well,  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body,  
-I went to Tāvatiṃsa \[then\]. \[5125\][^23]  
+I went to Tāvatiṃsa \[then\]. \[5125\][^23]
+
 Having fallen from Tusitā,  
 I was born in a mother’s womb.  
 There is no lack of possessions,  
@@ -135,7 +148,7 @@ I’ve attained the unshaking state. (25) \[5130\]
 In the thirty thousand aeons  
 since I worshipped[^26] the Buddha \[then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (26) \[5131\]
+that’s the fruit of Buddha-*pūjā*. (26) \[5131\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -152,14 +165,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (29) \[5134\]
 
-Thus indeed Venerable Candanamāliya Thera spoke these verses.  
+Thus indeed Venerable Candanamāliya Thera spoke these verses.
+
 The legend of Candanamāliya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Sandalwood and Flowers-er”
 
-[^3]: *pañca-kāma-guṇe,* “the five strands of sense pleasure,” namely those obtained through the five senses
+[^3]: *pañca-kāma-guṇe*, “the five strands of sense pleasure,” namely those obtained through the five senses
 
 [^4]: *pāpakammaŋ vivajjayiŋ*
 
@@ -167,11 +181,11 @@ The legend of Candanamāliya Thera is finished.
 
 [^6]: *akāsiŋ paṭisantharaŋ*
 
-[^7]: BJTS (and acc. to PTS note on p. 423 all the mss.) read *ādu,* but I follow PTS in translating the more straightforward *uda* in its stead.
+[^7]: BJTS (and acc. to PTS note on p. 423 all the mss.) read *ādu*, but I follow PTS in translating the more straightforward *uda* in its stead.
 
-[^8]: *mahābrahmā,* “the great Brahmā”. For an argument that “God” is the appropriate translation, see my and Gunapala Dharmasiri’s entry on “God” in Malalasekera et al, eds., *Encyclopedia of Buddhism* (Colombo), Volume 5, Fascicle 2 (1991):345-47
+[^8]: *mahābrahmā*, “the great Brahmā”. For an argument that “God” is the appropriate translation, see my and Gunapala Dharmasiri’s entry on “God” in Malalasekera et al, eds., *Encyclopedia of Buddhism* (Colombo), Volume 5, Fascicle 2 (1991):345-47
 
-[^9]: *mārisa,* BJTS gloss *nidukāṇeni* (“O you without suffering”)
+[^9]: *mārisa*, BJTS gloss *nidukāṇeni* (“O you without suffering”)
 
 [^10]: PTS and BJTS agree in presenting this as a six-footed verse
 
@@ -187,22 +201,22 @@ The legend of Candanamāliya Thera is finished.
 
 [^16]: or “to laugh”
 
-[^17]: reading *anūnamattasaṅkappo,* as above, with BJTS for PTS *anunamanasaṅkappo*
+[^17]: reading *anūnamattasaṅkappo*, as above, with BJTS for PTS *anunamanasaṅkappo*
 
-[^18]: *vasavatti bhavissati.*
+[^18]: *vasavatti bhavissati*.
 
 [^19]: PTS and BJTS agree in presenting this as a six-footed verse
 
-[^20]: *caturanto vijitāvi,* “possessed of conquest of the four quarters,” a supreme imperial overlord
+[^20]: *caturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
 
 [^21]: PTS and BJTS agree in presenting this as a six-footed verse
 
-[^22]: reading *abhiññāpāragū hutvā* with BJTS for PTS *aviññattipaccayo,* “one whose support is not known”
+[^22]: reading *abhiññāpāragū hutvā* with BJTS for PTS *aviññattipaccayo*, “one whose support is not known”
 
 [^23]: this verse does not appear in PTS
 
 [^24]: *orena nâddasaŋ ahaŋ*, following BJTS Sinhala gloss *lamusē no diṭimi*
 
-[^25]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
+[^25]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
 [^26]: lit., “did *pūjā*”

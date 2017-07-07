@@ -1,4 +1,12 @@
-*\[480. {483.}*[^1] *Bhisadāyaka*[^2]*\]*  
+---
+title: Bhisadāyaka
+order: 483
+layout: poem
+category: chapter-3
+---
+
+### \[480. {483.}[^1] Bhisadāyaka[^2]\]
+
 I, having plunged into a pond,  
 served by various elephants,  
 am pulling up lotus root there,  
@@ -11,7 +19,8 @@ is traveling[^5] through the sky \[there\],
 shaking \[his\] robes made out of rags.  
 Then I heard the sound \[of his robes\],  
 \[and\] looking[^6] upward \[at the sky,\]  
-I saw the Leader of the World. (2-3) \[5058-5059\]  
+I saw the Leader of the World. (2-3) \[5058-5059\]
+
 Remaining in that very place,  
 I invited the World-Leader:  
 “Honey is flowing from the roots  
@@ -19,7 +28,8 @@ I invited the World-Leader:
 let the Buddha, the Eyeful One,  
 with pity accept \[some\] from me.”  
 Then the Teacher, Compassionate,  
-the Greatly Famed One, descended. (4-5a-b) \[5060-5061\][^8]  
+the Greatly Famed One, descended. (4-5a-b) \[5060-5061\][^8]
+
 The Eyeful One, with pity then,  
 accepted \[that\] alms food of mine.  
 Accepting \[it\], the Sambuddha  
@@ -90,7 +100,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (18) \[5075\]
 
-Thus indeed Venerable Bhisadāyaka Thera spoke these verses.  
+Thus indeed Venerable Bhisadāyaka Thera spoke these verses.
+
 The legend of Bhisadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -99,13 +110,13 @@ The legend of Bhisadāyaka Thera is finished.
 
 [^3]: lit., “the Blessed One”
 
-[^4]: *rattambaradharo,* lit., “bearing red *ambara*,” the latter referring to a type of cloth as well as an upper garment made out of it.
+[^4]: *rattambaradharo*, lit., “bearing red *ambara*,” the latter referring to a type of cloth as well as an upper garment made out of it.
 
 [^5]: lit., “going,” elsewhere translated as “flying” given the context
 
 [^6]: *nijjhāyamāno*, lit., “meditating” “reflecting” “thinking;” I follow BJTS Sinhala gloss *balannā vu mama*
 
-[^7]: *sappi,* lit., ghee, clarified butter (*gī tel*)
+[^7]: *sappi*, lit., ghee, clarified butter (*gī tel*)
 
 [^8]: PTS treats \[5060-5061a-b\] as a six-footed verse,
 

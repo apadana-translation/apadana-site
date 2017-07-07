@@ -1,6 +1,14 @@
-*\[435. {438.}*[^1] *Harīṭakadāyaka*[^2]*\]*  
+---
+title: Harīṭakadāyaka
+order: 438
+layout: poem
+category: chapter-3
+---
+
+### \[435. {438.}[^1] Harīṭakadāyaka[^2]\]
+
 Myrobalan[^3] and gooseberry,[^4]  
-mango, rose-apple*,*[^5] bahera,[^6]  
+mango, rose-apple,[^5] bahera,[^6]  
 jujube,[^7] markingnut,[^8] bel[^9] --  
 I’m carrying \[that\] by myself. (1) \[4689\]
 
@@ -11,7 +19,8 @@ who was tormented by disease,
 taking a myrobalan, I  
 gave \[it\] to the Self-Become One.  
 When the medicine was eaten,[^10]  
-it allayed \[the Buddha’s\] illness. (2-3) \[4690-4691\]  
+it allayed \[the Buddha’s\] illness. (2-3) \[4690-4691\]
+
 With \[his\] pain eliminated,  
 the Buddha \[then\] expressed \[his\] thanks:[^11]  
 “Due to this gift of medicine  
@@ -19,7 +28,8 @@ and the allaying[^12] of illness,
 being divine or human, or  
 born in another existence,[^13]  
 may you be happy everywhere,  
-and may illness not come to you.” (4-5) \[4692-4693\]  
+and may illness not come to you.” (4-5) \[4692-4693\]
+
 Having said this, the Sambuddha,  
 the Self-Become One, the Great Sage,  
 the Hero,[^14] rose into the sky,  
@@ -55,34 +65,35 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (12) \[4700\]
 
-Thus indeed Venerable Harīṭakadāyaka Thera spoke these verses.  
+Thus indeed Venerable Harīṭakadāyaka Thera spoke these verses.
+
 The legend of Harīṭakadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Myrobalan Donor”
 
-[^3]: *harīṭakaŋ =* Sinhala *araḷu,* yellow myrobalan, terminalia chebula
+[^3]: *harīṭakaŋ* = Sinhala *araḷu*, yellow myrobalan, terminalia chebula
 
-[^4]: *āmalakaŋ* = Sinhala *nelli,* phyllanthus emblica*,* emblic myrobalan, Indian gooseberry
+[^4]: *āmalakaŋ* = Sinhala *nelli*, phyllanthus emblica**, emblic myrobalan, Indian gooseberry
 
 [^5]: fruit of the eugenia, *damba*, *jambu*
 
-[^6]: *vibhīṭakaŋ,* Sinhala *buḷu,* beleric myrobalan, bastard myrobalan, *Terminalia bellirica*
+[^6]: *vibhīṭakaŋ*, Sinhala *buḷu*, beleric myrobalan, bastard myrobalan, *Terminalia bellirica*
 
-[^7]: *kolaŋ*, Sinh. *ḍebara phala,* Ziziphus Mauritania, Zyziphus Jujuba, Indian jujube or Chinese apple.
+[^7]: *kolaŋ*, Sinh. *ḍebara phala*, Ziziphus Mauritania, Zyziphus Jujuba, Indian jujube or Chinese apple.
 
 [^8]: *bhallātakaŋ bhallī, badulla* = semecarpus anacardium, Sinh. *badulu*
 
-[^9]: *bellaŋ, billā* = fruit of Aegle marmelos, Sinh. *beli geḍiya,* bael, bel, Bengal quince; bilva or vilva tree, = *beluvā*
+[^9]: *bellaŋ*, *billā* = fruit of Aegle marmelos, Sinh. *beli geḍiya*, bael, bel, Bengal quince; bilva or vilva tree, = *beluvā*
 
-[^10]: *khādamattamhi bhesajje,* lit., “as soon as the medicine was eaten.” BJTS reads *katamattamhi bhesajje* (“right when the medicine was done \[or made\]”)
+[^10]: *khādamattamhi bhesajje*, lit., “as soon as the medicine was eaten.” BJTS reads *katamattamhi bhesajje* (“right when the medicine was done \[or made\]”)
 
-[^11]: *anumodianiyaŋ akā,* lit., “made an expression of thanks.” Both PTS and BJTS record an alternate reading which is more straightforward: *anumodaŋ akāsi me,* “expressed \[his\] thanks to me”
+[^11]: *anumodianiyaŋ akā*, lit., “made an expression of thanks.” Both PTS and BJTS record an alternate reading which is more straightforward: *anumodaŋ akāsi me*, “expressed \[his\] thanks to me”
 
 [^12]: reading *ºvūpasamena* with BJTS for PTS *ºvupasamena*
 
-[^13]: *jāto vā aññajātiyā,* lit.,(following BJTS gloss) “or born in some other birth-state”
+[^13]: *jāto vā aññajātiyā*, lit.,(following BJTS gloss) “or born in some other birth-state”
 
 [^14]: BJTS (and PTS alt.) reads *dhīro* (“the wise one”)
 

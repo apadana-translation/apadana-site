@@ -1,4 +1,12 @@
-*\[456. {459.}*[^1] *Paṭṭipupphiya*[^2]*\]*  
+---
+title: Paṭṭipupphiya
+order: 459
+layout: poem
+category: chapter-3
+---
+
+### \[456. {459.}[^1] Paṭṭipupphiya[^2]\]
+
 When the relics were carried off,  
 when the drums were being beaten,  
 happy, with pleasure in \[my\] heart,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[4858\]
 
-Thus indeed Venerable Paṭṭipupphiya[^7] Thera spoke these verses.  
+Thus indeed Venerable Paṭṭipupphiya[^7] Thera spoke these verses.
+
 The legend of Paṭṭipupphiya[^8] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -33,7 +42,7 @@ The legend of Paṭṭipupphiya[^8] Thera is finished.
 
 [^3]: lit., “did *pūjā*”
 
-[^4]: *paṭṭipuppham,* Sinh. *rat lot* or *ratu lot gasa*, Engl. red lodh tree, the bark of which is used in dying. PTS reads *sattipuppham* (“a *satti* flower”)
+[^4]: *paṭṭipuppham*, Sinh. *rat lot* or *ratu lot gasa*, Engl. red lodh tree, the bark of which is used in dying. PTS reads *sattipuppham* (“a *satti* flower”)
 
 [^5]: lit., “did *pūjā*”
 

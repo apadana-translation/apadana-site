@@ -1,4 +1,12 @@
-*\[441. {444.}*[^1] *Bhallāṭakadāyaka*[^2]*\]*  
+---
+title: Bhallāṭakadāyaka
+order: 444
+layout: poem
+category: chapter-3
+---
+
+### \[441. {444.}[^1] Bhallāṭakadāyaka[^2]\]
+
 Spreading out a rug made of grass[^3]  
 for the Gold-Colored Sambuddha,  
 Bearing the Thirty-two Great Marks,  
@@ -6,7 +14,8 @@ flying[^4] along the forest[^5] top,
 like a regal *sal* tree in bloom,  
 I asked \[him,\] the Best of Buddhas:  
 “let the Buddha show me mercy;  
-I would like to give \[you\] alms food.” (1-2) \[4738-4739\]  
+I would like to give \[you\] alms food.” (1-2) \[4738-4739\]
+
 Merciful, Compassionate One,  
 Atthadassi, Greatly Famed One,  
 discerning what I was thinking,  
@@ -42,7 +51,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[4746\]
 
-Thus indeed Venerable Bhallāṭakadāyaka Thera spoke these verses.  
+Thus indeed Venerable Bhallāṭakadāyaka Thera spoke these verses.
+
 The legend of Bhallāṭakadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -53,7 +63,7 @@ The legend of Bhallāṭakadāyaka Thera is finished.
 
 [^4]: lit., “going”
 
-[^5]: *pavanaº.* Despite RD’s qualms (*pavana*, s.v.) I follow the tradition in reading this as “forest, woods” rather than “the side of a mountain.” Note BJTS alt. *vipinaº.*
+[^5]: *pavanaº*. Despite RD’s qualms (*pavana*, s.v.) I follow the tradition in reading this as “forest, woods” rather than “the side of a mountain.” Note BJTS alt. *vipinaº*.
 
 [^6]: *paṇṇasanthare*, presumably the “rug made of grass” mentioned in v. 2
 

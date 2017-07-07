@@ -1,4 +1,12 @@
-*\[497. {500.}*[^1] *Piyālaphaladāyaka*[^2]*\]*  
+---
+title: Piyālaphaladāyaka
+order: 500
+layout: poem
+category: chapter-3
+---
+
+### \[497. {500.}[^1] Piyālaphaladāyaka[^2]\]
+
 I was formerly a hunter,  
 wandering in the woods back then.  
 I saw the Buddha, Stainless One,  
@@ -29,8 +37,10 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[5358\]
 
-Thus indeed Venerable Piyālaphaladāyaka Thera spoke these verses.  
-The legend of Piyālaphaladāyaka Thera is finished.  
+Thus indeed Venerable Piyālaphaladāyaka Thera spoke these verses.
+
+The legend of Piyālaphaladāyaka Thera is finished.
+
 The summary:  
 Kiṅkhani[^3] and Paŋsukūla,  
 Koraṇḍapupphi,[^4] Kiŋsuka,  
@@ -39,9 +49,12 @@ Udaka, Thūpakāraka,
 Naḷāgārī is the ninth one,  
 Piyālaphaladāyaka.  
 There are one hundred verses \[here\],  
-and nine \[verses\] more than that \[too\].  
-The Kiṅkhanipupphiya Chapter, the Fiftieth.[^5]  
-Then there is the Summary of Chapters:  
+and nine \[verses\] more than that \[too\].
+
+The Kiṅkhanipupphiya Chapter, the Fiftieth.[^5]
+
+Then there is the Summary of Chapters:
+
 Metteyya Chapter, Bhaddāli,[^6]  
 and Sakiŋsammajjaka too;  
 one chapter \[called\] Vibheṭakī,  
@@ -50,16 +63,17 @@ Naḷamāla, Paŋsukūla,
 and thus[^7] Kiṅkhaṇipupphiya.[^8]  
 There are eighty-two verses \[here\]  
 and also fourteen hundred \[more\].  
-The Ten Chapters[^9] called Metteyya.[^10]  
+The Ten Chapters[^9] called Metteyya.[^10]
+
 The Fifth Hundred[^11] is finished.[^12]
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Piyāla-Fruit-Donor” *Piyāla* (Sinh. *piyal*) is *buchanania latifolia.* PTS omits “Piyāla,” hence reads the name merely as “Fruit-Donor”. Cf. above, \#140, for a (different) *apadāna* ascribed to a monk of this name. Cf. below, \#508 {511} for (virtually) the same *apadāna* ascribed to a monk of a different name. The only difference there is the name of the fruit that is donated, and hence of the donor as well.
+[^2]: “Piyāla-Fruit-Donor” *Piyāla* (Sinh. *piyal*) is *buchanania latifolia*. PTS omits “Piyāla,” hence reads the name merely as “Fruit-Donor”. Cf. above, \#140, for a (different) *apadāna* ascribed to a monk of this name. Cf. below, \#508 {511} for (virtually) the same *apadāna* ascribed to a monk of a different name. The only difference there is the name of the fruit that is donated, and hence of the donor as well.
 
 [^3]: BJTS reads *kiṅkaṇi*
 
-[^4]: BJTS reads *koraṇḍamatha,* “and then Koraṇḍ”
+[^4]: BJTS reads *koraṇḍamatha*, “and then Koraṇḍ”
 
 [^5]: BJTS places this line before, rather than after the summary.
 

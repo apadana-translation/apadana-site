@@ -1,5 +1,14 @@
-*Naḷamāli Chapter, the Forty-Eighth*  
-*\[468. {471.}*[^1] *Naḷamāliya*[^2]*\]*  
+---
+title: Naḷamāliya
+order: 471
+layout: poem
+category: chapter-3
+---
+
+## Naḷamāli Chapter, the Forty-Eighth
+
+### \[468. {471.}[^1] Naḷamāliya[^2]\]
+
 I saw the Leader of the World,  
 the Golden-Colored Sambuddha,  
 Sacrificial Recipient,  
@@ -18,7 +27,7 @@ the Pitier of the Whole World.[^7] (3) \[4938\]
 In the thirty-one aeons since  
 I presented \[him\] that flower,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (4) \[4939\]
+that’s the fruit of Buddha-*pūjā*. (4) \[4939\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -35,7 +44,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[4942\]
 
-Thus indeed Venerable Naḷamāliya Thera spoke these verses.  
+Thus indeed Venerable Naḷamāliya Thera spoke these verses.
+
 The legend of Naḷamāliya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -44,7 +54,7 @@ The legend of Naḷamāliya Thera is finished.
 
 [^3]: lit., “going”
 
-[^4]: BJTS Sinh. gloss on “reed” (*naḷa*) is *baṭa* = “reed, a small species of bamboo, *ochlanda stridula”* (Bot. Dict.)
+[^4]: BJTS Sinh. gloss on “reed” (*naḷa*) is *baṭa* = “reed, a small species of bamboo, *ochlanda stridula*” (Bot. Dict.)
 
 [^5]: lit., “did *pūjā*”
 

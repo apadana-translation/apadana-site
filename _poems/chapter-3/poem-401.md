@@ -1,5 +1,14 @@
-*Metteyya Chapter, the Forty-First*  
-*\[398. {401.}*[^1] *Tissametteyya*[^2]*\]*  
+---
+title: Tissametteyya
+order: 401
+layout: poem
+category: chapter-3
+---
+
+## Metteyya Chapter, the Forty-First
+
+### \[398. {401.}[^1] Tissametteyya[^2]\]
+
 The ascetic named Sobhita  
 was living amidst the mountains,  
 near the top of a mountain slope,  
@@ -150,12 +159,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (28) \[3918\]
 
-Thus indeed Venerable Tissa-metteyya Thera spoke these verses.  
+Thus indeed Venerable Tissa-metteyya Thera spoke these verses.
+
 The legend of Tissa-metteyya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: BJTS reads *Tissa-metteyya.* He was a historical monk to whom the *Tissa-metteyya-sutta* of SN was preached.
+[^2]: BJTS reads *Tissa-metteyya*. He was a historical monk to whom the *Tissa-metteyya-sutta* of SN was preached.
 
 [^3]: *paricare*
 
@@ -171,7 +181,7 @@ The legend of Tissa-metteyya Thera is finished.
 
 [^9]: lit., “kṣatriyan”
 
-[^10]: *sabbaññu,* “Omniscient One”
+[^10]: *sabbaññu*, “Omniscient One”
 
 [^11]: *pabhaṅkara*
 
@@ -183,9 +193,9 @@ The legend of Tissa-metteyya Thera is finished.
 
 [^15]: *khāribhārañ*
 
-[^16]: *tindukaŋ phalaŋ* = *timbiri, diospyros embryopteris,* a.k.a. Indian persimmon, wild mangosteen
+[^16]: *tindukaŋ phalaŋ* = *timbiri*, *diospyros embryopteris*, a.k.a. Indian persimmon, wild mangosteen
 
-[^17]: *puññakammena saŋyuttā,* lit., “with \[his\] meritorious karma”
+[^17]: *puññakammena saŋyuttā*, lit., “with \[his\] meritorious karma”
 
 [^18]: lit., “will become”
 

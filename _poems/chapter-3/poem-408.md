@@ -1,4 +1,12 @@
-*\[405. {408.}*[^1] *Todeyya*[^2]*\]*  
+---
+title: Todeyya
+order: 408
+layout: poem
+category: chapter-3
+---
+
+### \[405. {408.}[^1] Todeyya[^2]\]
+
 In Ketumati, best city,  
 there was a king named Vijaya,[^3]  
 a hero, endowed with great strength,[^4]  
@@ -29,7 +37,7 @@ bowmen and people in armor,
 hunters[^26] and conquering soldiers:[^27]  
 they all assembled at that time. (6) \[4118\]
 
-*Mātaṅga*s[^28] rutting in three ways[^29]  
+*Mātaṅga*/s[^28] rutting in three ways[^29]  
 \[and\] tuskers sixty years of age,  
 adorned with headdresses of gold:  
 they all assembled at that time. (7) \[4119\]
@@ -78,12 +86,13 @@ Disregarding \[all my\] wealth \[and\]
 fighting battles I abandoned  
 \[my\] sixty thousand elephants  
 decked out in all the ornaments,  
-*mātaṅga*s with gold headdresses,  
+*mātaṅga*/s with gold headdresses,  
 clothed in harnessing made of gold,  
 mounted by elephant-trainers  
 with lances and goads in \[their\] hands.[^48]  
 Frightened by \[my\] own \[bad\] karma,  
-I went out into homelessness. (16-18a-b) \[4128-4129\][^49]  
+I went out into homelessness. (16-18a-b) \[4128-4129\][^49]
+
 \[My\] sixty thousand horses \[too\],  
 decked out in all the ornaments,  
 thoroughbreds of good pedigree,[^50]  
@@ -91,13 +100,15 @@ horses from Sindh, fast vehicles,
 mounted by trainers of horses[^51]  
 wearing armor with bows in hand --  
 having abandoned all of them,  
-I went out into homelessness. (18c-d-20a-b) \[4130-4131\]  
+I went out into homelessness. (18c-d-20a-b) \[4130-4131\]
+
 Sixty thousand chariots \[too\],  
 decked out in all the ornaments,  
 covered in[^52] the skins of leopards  
 and likewise tigers,[^53] flags hoisted --  
 having abandoned all of them,  
-I went forth into homelessness. (20c-d-21) \[4132\][^54]  
+I went forth into homelessness. (20c-d-21) \[4132\][^54]
+
 Sixty thousand milch-cows \[as well\],  
 \[and\] all the metal pails for milk[^55] --  
 eliminating even them,  
@@ -110,7 +121,8 @@ and wearing earrings made of gems,
 with long eyelashes, lovely smiles[^56]  
 and slim waists, pleasant to look at[^57] --  
 abandoning them as they wept,  
-I went forth into homelessness. (23-24) \[4134-4135\]  
+I went forth into homelessness. (23-24) \[4134-4135\]
+
 \[And\] sixty thousand villages,  
 completely full in all regards --  
 throwing away that \[whole\] kingship,  
@@ -177,7 +189,7 @@ Hero, with the scent of virtue you
 permeate every[^69] direction. (37) \[4148\]
 
 When the *sal* trees[^70] are flowering,  
-champak,[^71] ironwood,[^72] *vanika,*[^73]  
+champak,[^71] ironwood,[^72] *vanika*,[^73]  
 hiptage vines,[^74] and and \[also\] screw-pine,[^75]  
 \[their scents\] get diffused with the wind. (38) \[4149\]
 
@@ -233,7 +245,8 @@ Gotama, Bull of the Śākyas,
 having asked \[him\] subtle questions,  
 cultivating the straight \[path, he\]  
 knowing well all the defilements,  
-will reach nirvana, undefiled.” (48-49) \[4159-4160\]  
+will reach nirvana, undefiled.” (48-49) \[4159-4160\]
+
 The three fires[^83] are blown out in me;  
 all \[new\] existence is destroyed;  
 knowing well all the defilements,  
@@ -254,7 +267,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (53) \[4164\]
 
-Thus indeed Venerable Todeyya Thera spoke these verses.  
+Thus indeed Venerable Todeyya Thera spoke these verses.
+
 The legend of Todeyya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -267,19 +281,19 @@ The legend of Todeyya Thera is finished.
 
 [^5]: *aṭaviyo*
 
-[^6]: PTS *ocarā,* BJTS (and PTS alt.) *otārā,* both meaning someone who seeks out or investigates in a bad way, people who pry or spy; BJTS gloss = “searching for holes”. The implication is that they violate others, perhaps as thieves who steal what they discover.
+[^6]: PTS *ocarā*, BJTS (and PTS alt.) *otārā*, both meaning someone who seeks out or investigates in a bad way, people who pry or spy; BJTS gloss = “searching for holes”. The implication is that they violate others, perhaps as thieves who steal what they discover.
 
-[^7]: *tuṇḍikā* from *ṭuṇḍa,* “beak,” RD: “peckers” and cf. *ahituṇḍika,* snake charmer. BJTS gloss: *mukharayō,* bold speakers, noisy, foul-mouthed. The implication, whatever the exact meaning, is certainly that they were louts.
+[^7]: *tuṇḍikā* from *ṭuṇḍa*, “beak,” RD: “peckers” and cf. *ahituṇḍika*, snake charmer. BJTS gloss: *mukharayō*, bold speakers, noisy, foul-mouthed. The implication, whatever the exact meaning, is certainly that they were louts.
 
-[^8]: *arindamo,* lit., “tamer of enemies”
+[^8]: *arindamo*, lit., “tamer of enemies”
 
 [^9]: *bhate*
 
-[^10]: all the mss. apparently read *balatthe* for *balaṭṭhe*, military officers, royal guard; BJTS glosses the term as *balasenaṅga,* “the officers’ branch of the army”
+[^10]: all the mss. apparently read *balatthe* for *balaṭṭhe*, military officers, royal guard; BJTS glosses the term as *balasenaṅga*, “the officers’ branch of the army”
 
-[^11]: reading *niggāhayī* with BJTS for PTS *niggāhayiŋ,* “I restrained”. The verb means “to hold back,” “restrain” “control” “censure” “rebuke” or “rebuff”
+[^11]: reading *niggāhayī* with BJTS for PTS *niggāhayiŋ*, “I restrained”. The verb means “to hold back,” “restrain” “control” “censure” “rebuke” or “rebuff”
 
-[^12]: PTS *hatthārūḷhā,* BJTS (and PTS alt.) *hatthārohā*
+[^12]: PTS *hatthārūḷhā*, BJTS (and PTS alt.) *hatthārohā*
 
 [^13]: *anīkaṭṭhā*
 
@@ -303,45 +317,45 @@ The legend of Todeyya Thera is finished.
 
 [^23]: *vijitasaṅgāmā*
 
-[^24]: or “sword-bearers”: *khaggahatthā,* lit., “those with swords in \[their\] hands”
+[^24]: or “sword-bearers”: *khaggahatthā*, lit., “those with swords in \[their\] hands”
 
-[^25]: *purisā.* BJTS takes this with *khaggahatthā,* swordsmen, but the “*ca*” as well as the list-like structure of the whole passage lead me to take these as referring to two different classes of people who assembled, in this case swordsmen and “men,” that is (acc. to RD) attendants or waiters.
+[^25]: *purisā*. BJTS takes this with *khaggahatthā*, swordsmen, but the “*ca*” as well as the list-like structure of the whole passage lead me to take these as referring to two different classes of people who assembled, in this case swordsmen and “men,” that is (acc. to RD) attendants or waiters.
 
-[^26]: or “tribals,” *luddā,* BJTS gloss *väddō*
+[^26]: or “tribals,” *luddā*, BJTS gloss *väddō*
 
-[^27]: *vijitasaṅgāmā.* The repetition of the term opens the possibility that in this verse and the previous one it is used as a qualifier of “hero” and “hunter,” but I follow BJTS Sinhala gloss in treating them as separate classes of people.
+[^27]: *vijitasaṅgāmā*. The repetition of the term opens the possibility that in this verse and the previous one it is used as a qualifier of “hero” and “hunter,” but I follow BJTS Sinhala gloss in treating them as separate classes of people.
 
 [^28]: see n. to \#1, v. 25 \[164\].
 
 [^29]: i.e., showing their rut in their eyes, ears, and genitals. See cty, p. 288.
 
-[^30]: *yodhājīvā,* lit., “those who live as warriors”
+[^30]: *yodhājīvā*, lit., “those who live as warriors”
 
 [^31]: *katakammā*
 
 [^32]: *khamā*
 
-[^33]: PTS *ukkārūharaṇassa,* BJTS *ukkaraharaṇassa*, both with the same meaning. I suppose this refers to latrine duty in army camps, or else those who clean up animal feces, but is open to a variety of interpretations (and livelier translations, e.g., “and even shoveling up shit”)
+[^33]: PTS *ukkārūharaṇassa*, BJTS *ukkaraharaṇassa*, both with the same meaning. I suppose this refers to latrine duty in army camps, or else those who clean up animal feces, but is open to a variety of interpretations (and livelier translations, e.g., “and even shoveling up shit”)
 
-[^34]: PTS *uddhavasaddakaŋ,* “the sound of upper \[pitches?\],” BJTS reads *udhamasaddakaṃ* (?) and glosses the term *kālam haḍa,* “the sound of trumpets,” which I follow here. Cone says this reading is “probably wrong” and suggests the possibility that the correct reading is *uddhaka,* which RD (and *Abhidānappadiīikā*) defines as a sort of drum
+[^34]: PTS *uddhavasaddakaŋ*, “the sound of upper \[pitches?\],” BJTS reads *udhamasaddakaṃ* (?) and glosses the term *kālam haḍa*, “the sound of trumpets,” which I follow here. Cone says this reading is “probably wrong” and suggests the possibility that the correct reading is *uddhaka*, which RD (and *Abhidānappadiīikā*) defines as a sort of drum
 
-[^35]: reading *koṭṭayantā nipātentā* with BJTS for PTS *koṭṭentānaŋ nivattantā,* “turning back of the crushers (?)”?
+[^35]: reading *koṭṭayantā nipātentā* with BJTS for PTS *koṭṭentānaŋ nivattantā*, “turning back of the crushers (?)”?
 
 [^36]: *trisūlaº*
 
 [^37]: *ºkontiº*
 
-[^38]: *ºmantehi.* Cone, following RD (whose uncertain entry would yield “leather shields”), treats *kontimantehi* as a *tatpurusa* rather than *danda* compound, taking the term as “leather-worker’s sharp knife”. I follow BJTS in seeing “mantra” as a kind of injurious weapon, too.
+[^38]: *ºmantehi*. Cone, following RD (whose uncertain entry would yield “leather shields”), treats *kontimantehi* as a *tatpurusa* rather than *danda* compound, taking the term as “leather-worker’s sharp knife”. I follow BJTS in seeing “mantra” as a kind of injurious weapon, too.
 
-[^39]: BJTS reading is considerably different: *kimevāt’ nisāmetvā,* “having observed ‘what now?” (?), a reading it glosses, “having asked, ‘what punishment is appropriate (according to the law)?’”
+[^39]: BJTS reading is considerably different: *kimevāt’ nisāmetvā*, “having observed ‘what now?” (?), a reading it glosses, “having asked, ‘what punishment is appropriate (according to the law)?’”
 
 [^40]: reading *ajitaṃ jino* with BJTS for PTS Ajitañjayo, “that king \[named\] Ajitañjaya,” which as noted in the note to v. 1 \[4113\], above, BJTS rejects (giving Vijaya as the king’s name). But these first two feet are in any event confused and problematic).
 
-[^41]: reading *saddaṃ mānusakā’ kaṃsu* with BJTS (and PTS alt.) for PTS *saddam amānus’ âkāsuŋ, “*non-humans made (*sic,* taking *akāsuŋ* as 3rd pl. aor. of *karoti* on the model of *akāsi,* 3rd sing. aor; it would more likely come fr. *ākāsati,* i.e., “shined”) the sound”
+[^41]: reading *saddaṃ mānusakā’ kaṃsu* with BJTS (and PTS alt.) for PTS *saddam amānus’ âkāsuŋ*, “non-humans made (*sic*, taking *akāsuŋ* as 3rd pl. aor. of *karoti* on the model of *akāsi*, 3rd sing. aor; it would more likely come fr. *ākāsati*, i.e., “shined”) the sound”
 
 [^42]: *niraye paccamānassa*
 
-[^43]: *tuvaṭṭento,* causative, lit., “being made to turn” (as opposed to the indicative sense of the same verb, translated at \[1487\], \[1597\] as “snuggle” and at \[4058\] as “nestle”)
+[^43]: *tuvaṭṭento*, causative, lit., “being made to turn” (as opposed to the indicative sense of the same verb, translated at \[1487\], \[1597\] as “snuggle” and at \[4058\] as “nestle”)
 
 [^44]: this follows the BJTS gloss “(*men*)”
 
@@ -349,17 +363,17 @@ The legend of Todeyya Thera is finished.
 
 [^46]: *vasāmi niraye*
 
-[^47]: lit., “what \[for me\] with...?”
+[^47]: lit., “what \[for me\] with…?”
 
 [^48]: *tomaraṅkusapāṇihi*
 
 [^49]: BJTS presents \[4129\] as a six-footed verses; PTS includes the last two feet of the verse \[4129e-f\] as the first two feet of v. 18 (a-b).
 
-[^50]: *jātiyā, lit.,* “well-born” or simply “excellent,” the term connotes lineage, genealogy, caste, breed. Here it seems to substitute for “those fast like the wind” (*vātajavā*) in parallel lists (see above, \[1293\], \[2692\], \[3981\])
+[^50]: *jātiyā, lit*., “well-born” or simply “excellent,” the term connotes lineage, genealogy, caste, breed. Here it seems to substitute for “those fast like the wind” (*vātajavā*) in parallel lists (see above, \[1293\], \[2692\], \[3981\])
 
 [^51]: *gāmaṇīya* usually means elephant-trainers, as in v. 26 \[4097\], above, but here the context makes “horse-trainer” a more suitable translation, so I have taken the same liberty taken by the poet in treating the term that way. PSI indicates that these are trainers of “elephants, etc.” (*ätun ādīn puhuṇu karana ācāryyaya*), allowing for the extended meaning in this context.
 
-[^52]: *sannaddhā,* RD: fastened, bound; put on, clothed (with), armed, accoutred. The term has a wide enough range to leave open the possibility that rather than covered in the hides of these big cats, the poet imagines the chariots pulled by leopards and tigers, which would make sense of the specification below that they are also mounted by animal-trainers, in this case perhaps leopard- and tiger-trainers, paralleling the elephant-trainers who mount the elephants and the horse-trainers who mount the horses.
+[^52]: *sannaddhā*, RD: fastened, bound; put on, clothed (with), armed, accoutred. The term has a wide enough range to leave open the possibility that rather than covered in the hides of these big cats, the poet imagines the chariots pulled by leopards and tigers, which would make sense of the specification below that they are also mounted by animal-trainers, in this case perhaps leopard- and tiger-trainers, paralleling the elephant-trainers who mount the elephants and the horse-trainers who mount the horses.
 
 [^53]: *dīpā*, fr. *dīpī*, leopard. Both RD and PSI give cart covered with a tiger skin as one of the meanings of *dīpā*, and the same (i.e., covered with a tiger skin) for *veyyagghā*, but here the “and also too” (*atho pi*) connecting the two terms clearly indicates that they are not simple synonyms, but rather two types of decorated or armored carts: those covered with leopard skins (*dīpā*) and those covered with tiger skins (*veyyagghā*).
 
@@ -371,9 +385,9 @@ The legend of Todeyya Thera is finished.
 
 [^57]: RD gives “good hips,” referring to this text. I don’t see the warrant, and take the term *susaññā* from *saññā*, sense, perception, as does BJTS
 
-[^58]: this is the BJTS spelling (here as *Bhāgirathi,* sic). PTS reads *Bhāgirasī*
+[^58]: this is the BJTS spelling (here as *Bhāgirathi*, sic). PTS reads *Bhāgirasī*
 
-[^59]: PTS *agyāgāraŋ,* BJTS *aggyāgāraṃ*
+[^59]: PTS *agyāgāraŋ*, BJTS *aggyāgāraṃ*
 
 [^60]: *āraddhaviriyo*
 
@@ -381,11 +395,11 @@ The legend of Todeyya Thera is finished.
 
 [^62]: *maṇḍape*
 
-[^63]: *yakkho āsi mahiddhiko,* lit., “a spirit with great *iddhi”*
+[^63]: *yakkho āsi mahiddhiko*, lit., “a spirit with great *iddhi*”
 
-[^64]: *āsi,* lit., “there was \[for me\]”
+[^64]: *āsi*, lit., “there was \[for me\]”
 
-[^65]: *saŋviggo,* fr. *saṃvega*
+[^65]: *saŋviggo*, fr. *saṃvega*
 
 [^66]: lit., “making” “placing”
 
@@ -397,15 +411,15 @@ The legend of Todeyya Thera is finished.
 
 [^70]: *sālesu*, shorea robusta
 
-[^71]: the *campaka* (Sinh. *sapu*) tree is *Magnolia champaca,* formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
+[^71]: the *campaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
 [^72]: *nāga* = Sinhala *nā*, ironwood, Mesua Ferrea Linn, Bodhi tree of Mangala, Sumana, Revata, Sobhita buddhas; national tree of Sri Lanka. It has brilliant, fragrant white flowers containing four petals each, as well as a red fruit eaten by birds.
 
-[^73]: *vanike,* Sinh. gloss *kōmbu*. RD: *vanika = vanaka,* of the forest, only in the cpd. *nāgavanika,* = “of the elephant forest,” = a hunter. BJTS glosses *nāgaº* as *nā* (ironwood), so *vanika* here must refer to another kind of flowering plant.
+[^73]: *vanike*, Sinh. gloss *kōmbu*. RD: *vanika = vanaka*, of the forest, only in the cpd. *nāgavanika*, = “of the elephant forest,” = a hunter. BJTS glosses *nāgaº* as *nā* (ironwood), so *vanika* here must refer to another kind of flowering plant.
 
-[^74]: *atimuttaka*. RD: a plant, Gaertnera Racemosa = Hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. BJTS glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba,* an annual creeper, Trichodesma zeylanicum).
+[^74]: *atimuttaka*. RD: a plant, Gaertnera Racemosa = Hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. BJTS glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba*, an annual creeper, Trichodesma zeylanicum).
 
-[^75]: *ketaka,* Pandanus odoratissima, Sinhala *väṭakē or väṭakeyiyā*.
+[^75]: *ketaka*, Pandanus odoratissima, Sinhala *väṭakē* or *väṭakeyiyā*.
 
 [^76]: lit., “I do *pūjā*”
 

@@ -1,4 +1,12 @@
-*\[429. {432.}*[^1] *Ekasaṅkhiya*[^2]*\]*  
+---
+title: Ekasaṅkhiya
+order: 432
+layout: poem
+category: chapter-3
+---
+
+### \[429. {432.}[^1] Ekasaṅkhiya[^2]\]
+
 There was a large festival for  
 Vipassi Buddha’s[^3] Bodhi \[tree\].  
 The populace came together,  
@@ -22,7 +30,7 @@ I delighted in the gods’ world. (4) \[4645\]
 Thrilled, happy, overjoyed, \[playing\][^6]  
 sixty thousand instruments \[they\]  
 give service to me all the time:  
-that’s the fruit of Buddha-*pūjā,* (5) \[4646\]
+that’s the fruit of Buddha-*pūjā*, (5) \[4646\]
 
 I was[^7] seventy one kings \[named\]  
 Sudassana[^8] in this aeon,  
@@ -47,7 +55,7 @@ auspicious, peaceful, unshaking. (9) \[4650\]
 In the ninety-one aeons since  
 I did that karma at that time,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (10) \[4651\]
+that’s the fruit of Buddha-*pūjā*. (10) \[4651\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -64,7 +72,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (13) \[4654\]
 
-Thus indeed Venerable Ekasaṅkhiya Thera spoke these verses.  
+Thus indeed Venerable Ekasaṅkhiya Thera spoke these verses.
+
 The legend of Ekasaṅkhiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -83,9 +92,9 @@ The legend of Ekasaṅkhiya Thera is finished.
 
 [^8]: “Good to Look At”
 
-[^9]: *jambusaṇḍa = jambudīpa =* India, the South Asian Subcontinent
+[^9]: *jambusaṇḍa* = *jambudīpa* = India, the South Asian Subcontinent
 
-[^10]: *caturanto vijitāvi,* “possessed of conquest of the four quarters,” a supreme imperial overlord
+[^10]: *caturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
 
 [^11]: *aṅgasatā*
 

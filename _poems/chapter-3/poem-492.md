@@ -1,4 +1,12 @@
-*\[489. {492.}*[^1] *Paŋsukūlapūjaka*[^2]*\]*  
+---
+title: Paŋsukūlapūjaka
+order: 492
+layout: poem
+category: chapter-3
+---
+
+### \[489. {492.}[^1] Paŋsukūlapūjaka[^2]\]
+
 In the Himalayan region,  
 there’s a mountain named Udaka.[^3]  
 There I saw \[the Buddha’s\] rag-robe,  
@@ -17,7 +25,7 @@ I went to Tāvatiṃsa \[then\]. (3) \[5258\]
 In the ninety-one aeons since  
 I did *pūjā* to \[that\] Buddha,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (4) \[5259\]
+that’s the fruit of Buddha-*pūjā*. (4) \[5259\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[5262\]
 
-Thus indeed Venerable Paŋsukūlapūjaka Thera spoke these verses.  
+Thus indeed Venerable Paŋsukūlapūjaka Thera spoke these verses.
+
 The legend of Paŋsukūlapūjaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -43,6 +52,6 @@ The legend of Paŋsukūlapūjaka Thera is finished.
 
 [^3]: “Water”. BJTS (and PTS alt.) read *Uddhangaṇo* (“High Clearing”), but this breaks the meter so I stick with the PTS reading of this (anyway likely mythical) name
 
-[^4]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as *duma + agge*. It would also be possible to take it as *du+ magge*, “on a bad road”. Cf. v. \[592\] above for a case comparable to the latter. Though I do follow it here, the cty and BJTS reading rather begs the question how the Buddha’s rag robes got up in the tree.
+[^4]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as *duma* + *agge*. It would also be possible to take it as *du* + *magge*, “on a bad road”. Cf. v. \[592\] above for a case comparable to the latter. Though I do follow it here, the cty and BJTS reading rather begs the question how the Buddha’s rag robes got up in the tree.
 
 [^5]: here as elsewhere, BJTS reads *kiṅkaṇiº*

@@ -1,9 +1,18 @@
-*Sālakusumiya Chapter, the Forty-Seventh*  
-*\[458. {461.}*[^1] *Sālakusumiya*[^2]*\]*  
+---
+title: Sālakusumiya
+order: 461
+layout: poem
+category: chapter-3
+---
+
+## Sālakusumiya Chapter, the Forty-Seventh
+
+### \[458. {461.}[^1] Sālakusumiya[^2]\]
+
 When the Blessed One passed away —  
 the one whose name was “Best Lotus” —  
 when the funeral pyre was raised,  
-I offered[^3] a *sal-*flower[^4] there. (1) \[4864\]
+I offered[^3] a *sal*-flower[^4] there. (1) \[4864\]
 
 In the hundred thousand aeons  
 since I presented that flower,  
@@ -25,12 +34,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[4868\]
 
-Thus indeed Venerable Sālakusumiya Thera spoke these verses.  
+Thus indeed Venerable Sālakusumiya Thera spoke these verses.
+
 The legend of Sālakusumiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “*Sal-*Flower-er”
+[^2]: “*Sal*-Flower-er”
 
 [^3]: lit., “did *pūjā*”
 

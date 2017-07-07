@@ -1,4 +1,12 @@
-*\[462. {465.}*[^1] *Sumanatālavaṇṭiya*[^2]*\]*  
+---
+title: Sumanatālavaṇṭiya
+order: 465
+layout: poem
+category: chapter-3
+---
+
+### \[462. {465.}[^1] Sumanatālavaṇṭiya[^2]\]
+
 I gave a fan of palmyra,[^3]  
 covered with jasmine flowers, to  
 Siddhattha, the Blessed One, \[and\]  
@@ -24,11 +32,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[4888\]
 
-Thus indeed Venerable Sumanatālavaṇṭiya Thera spoke these verses.  
+Thus indeed Venerable Sumanatālavaṇṭiya Thera spoke these verses.
+
 The legend of Sumanatālavaṇṭiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Jasmine-Palmyra-Fan-er.” This same *apadāna* (with the slight difference that the third and fourth verses are inverted there) appears above, under the same name, as \#375 \[378\]
 
-[^3]: the palmyra (*tāla,* Sinh. *tal*) tree or fan palm is Borassus flabelliformis
+[^3]: the palmyra (*tāla*, Sinh. *tal*) tree or fan palm is Borassus flabelliformis

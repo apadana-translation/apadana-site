@@ -1,4 +1,12 @@
-*\[470. {473.}*[^1] *Ukkāsatika*[^2]*\]*  
+---
+title: Ukkāsatika
+order: 473
+layout: poem
+category: chapter-3
+---
+
+### \[470. {473.}[^1] Ukkāsatika[^2]\]
+
 The Blessed One named Kosika,  
 Meditator, Trance-Loving One,  
 Buddha, Seclusion-Lover, Sage,  
@@ -79,7 +87,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (16) \[4980\]
 
-Thus indeed Venerable Ukkāsatika Thera spoke these verses.  
+Thus indeed Venerable Ukkāsatika Thera spoke these verses.
+
 The legend of Ukkāsatika Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -92,26 +101,26 @@ The legend of Ukkāsatika Thera is finished.
 
 [^5]: i.e., when it is full, *puṇṇamāse va candimā*
 
-[^6]: *gahetvā,* lit., “taking”
+[^6]: *gahetvā*, lit., “taking”
 
 [^7]: following BJTS in understanding these “flames” as “torches with flames”
 
-[^8]: *agamas’,* lit., “I left” “I went \[away\]”
+[^8]: *agamas’*, lit., “I left” “I went \[away\]”
 
-[^9]: *tusite kāye,* lit., “in a Tusitā body” or “in the Tusitā group”
+[^9]: *tusite kāye*, lit., “in a Tusitā body” or “in the Tusitā group”
 
-[^10]: *jambusaṇḍa = jambudīpa =* India, the South Asian continent
+[^10]: *jambusaṇḍa* = *jambudīpa* = India, the South Asian continent
 
-[^11]: *caturanto vijitāvi,* “possessed of conquest of the four quarters,” a supreme imperial overlord
+[^11]: *caturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
 
 [^12]: “beautiful”
 
-[^13]: reading *dasasadda+a+vivittantaṃ* with BJTS for PTS *dasasaddâvivittan taŋ.*
+[^13]: reading *dasasadda* + *a* + *vivittantaṃ* with BJTS for PTS *dasasaddâvivittan taŋ*.
 
 [^14]: reading *sammatāḷaº* (BJTS) for *samatāḷaº* (PTS).
 
 [^15]: I follow BJTS Sinhala gloss in interpolating “thing” as the subject of the half-verse, which otherwise would mean that sticks, vines and clay were themselves absent from (*n’atthi*, “do not exist”) in that city.
 
-[^16]: *tālapattī,* BJTS gloss *tālapaṅkhatīhu*
+[^16]: *tālapattī*, BJTS gloss *tālapaṅkhatīhu*
 
 [^17]: lit., “that,” but given that the torches numbered one hundred, I translate it as the plural pronoun

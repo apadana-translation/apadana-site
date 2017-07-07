@@ -1,4 +1,12 @@
-*\[479. {482.}*[^1] *Buddhasaññaka*[^2]*\]*  
+---
+title: Buddhasaññaka
+order: 482
+layout: poem
+category: chapter-3
+---
+
+### \[479. {482.}[^1] Buddhasaññaka[^2]\]
+
 In \[reading\] marks[^3] and history,[^4]  
 with glosses[^5] \[and\] ritual law,  
 \[I was\] learned, mantra-knowing,[^6]  
@@ -89,7 +97,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (18) \[5056\]
 
-Thus indeed Venerable Buddhasaññaka Thera spoke these verses.  
+Thus indeed Venerable Buddhasaññaka Thera spoke these verses.
+
 The legend of Buddhasaññaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -106,21 +115,21 @@ The legend of Buddhasaññaka Thera is finished.
 
 [^7]: lit., “to”
 
-[^8]: *lābho amhaŋ na hessati,* lit., “there will not be receiving for us”
+[^8]: *lābho amhaŋ na hessati*, lit., “there will not be receiving for us”
 
 [^9]: pronounce as spontan’yasly (4 syllable) to keep the meter
 
 [^10]: this verse is presumably thought by the protagonist upon hearing the worries of his students.
 
-[^11]: like the deer-leather (*ajina*) and bark-robes (*vākacīraŋ*)*,* the water-pot (*kamaṇḍalu*, a long-spouted jar for carrying water) is a distinctive possession, and signifier of non-Buddhist ascetics
+[^11]: like the deer-leather (*ajina*) and bark-robes (*vākacīraŋ*), the water-pot (*kamaṇḍalu*, a long-spouted jar for carrying water) is a distinctive possession, and signifier of non-Buddhist ascetics
 
-[^12]: *odumbarakapupphaŋ va. Odumbaraka* (BJTS *odumbarika*) means “related to the *udumbara* tree, which is Ficus Gomerata, Sinh. *dimbul.*
+[^12]: *odumbarakapupphaŋ va*. *Odumbaraka* (BJTS *odumbarika*) means “related to the *udumbara* tree, which is Ficus Gomerata, Sinh. *dimbul*.
 
 [^13]: *candamhi sasakaŋ yathā*
 
 [^14]: cty (p. 488) explains, “”as milk is hard to obtain for (or of) crows due to their being oppressed by \[having\] little, day and night”
 
-[^15]: i.e., hearing the Buddha, “a listening” *(savanaŋ*)
+[^15]: i.e., hearing the Buddha, “a listening” (*savanaŋ*)
 
 [^16]: lit., “we will receive eyes/vision our life”. BJTS gloss is weak here:
 
@@ -128,10 +137,10 @@ The legend of Buddhasaññaka Thera is finished.
 
 [^18]: *jaṭābhārabharitā* (PTS), *jaṭābhārena bharitā* (BJTS)
 
-[^19]: *yugamattañ pekkhamānā,* lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
+[^19]: *yugamattañ pekkhamānā*, lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
 
-[^20]: reading *appakiccā aloluppā* with BJTS for PTS *appabhāsā alīlatā,* “saying little and having no playfulness (or very serious),” a possible but unusual reading; both terms of the BJTS reading, unlike those of the PTS reading, have solid witness in other texts.
+[^20]: reading *appakiccā aloluppā* with BJTS for PTS *appabhāsā alīlatā*, “saying little and having no playfulness (or very serious),” a possible but unusual reading; both terms of the BJTS reading, unlike those of the PTS reading, have solid witness in other texts.
 
 [^21]: *uñchāya caramānā*
 
-[^22]: *diyaḍḍhayojane sese,* lit., “when a half less than two leagues remained,” following BJTS Sinhala gloss
+[^22]: *diyaḍḍhayojane sese*, lit., “when a half less than two leagues remained,” following BJTS Sinhala gloss

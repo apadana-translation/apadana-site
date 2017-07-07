@@ -1,4 +1,12 @@
-*\[487. {490.}*[^1] *Sālamaṇḍapiya*[^2]*\]*  
+---
+title: Sālamaṇḍapiya
+order: 490
+layout: poem
+category: chapter-3
+---
+
+### \[487. {490.}[^1] Sālamaṇḍapiya[^2]\]
+
 Plunged into a *sal* \[tree\] forest,  
 I had a well-made hermitage,  
 which was covered with *sal* flowers;  
@@ -7,7 +15,7 @@ I live in the woods at that time. (1) \[5219\]
 The Blessed One, Piyadassi,  
 Self-Become One, the Chief Person,  
 Seclusion-Lover, Sambuddha,  
-came into the *sal-*forest then. (2) \[5220\]
+came into the *sal*-forest then. (2) \[5220\]
 
 Departing from the hermitage,  
 I went into the forest \[then\].  
@@ -87,7 +95,7 @@ will be carried all of the time. (17) \[5235\]
 And here \[too\] dance as well as song,  
 well-accompanied by cymbals,[^11]  
 will attend on him constantly:  
-that’s the fruit of Buddha-*pūjā.* (18) \[5236\]
+that’s the fruit of Buddha*-pūjā*. (18) \[5236\]
 
 Also, when the sun is rising,  
 a downpour of *sal* will rain forth.  
@@ -127,7 +135,8 @@ that’s the fruit of a canopy.[^13] (25) \[5243\]
 This is the final time for me;  
 \[my\] last rebirth is proceeding.[^14]  
 Even here a *sal* canopy  
-exists \[for me\] all of the time. (26)[^15]  
+exists \[for me\] all of the time. (26) [^15]
+
 Having pleased \[him\], the Sage So Great,  
 Gotama, Bull of the Śākyas,  
 I’ve attained the unshaking state,  
@@ -136,7 +145,7 @@ beyond \[all\] conquest and defeat. (27) \[5244\]
 In the eighteen hundred aeons  
 since I worshipped[^16] the Buddha \[then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (28) \[5245\]
+that’s the fruit of Buddha*-pūjā*. (28) \[5245\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -153,9 +162,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (31) \[5248\]
 
-Thus indeed Venerable Sālamaṇḍapiya Thera spoke these verses.  
-The legend of Sālamaṇḍapiya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Sālamaṇḍapiya Thera spoke these verses.
+
+The legend of Sālamaṇḍapiya Thera is finished.
+
+The Summary:
+
 Naḷamālī, Maṇidada,  
 Ukkāsatika, Vījanī,  
 Kummāsa and Kusaṭṭha \[too\],  
@@ -163,28 +175,29 @@ also Giripunnāgiya,
 Vallikāra,[^17] Pānadhida  
 \[and\] then Pulīnacaṅkama:  
 five and ninety are the verses  
-that are counted by those who know.  
+that are counted by those who know.
+
 The Paŋsukūla Chapter, the Forty-Ninth
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “*Sa*l-Pavilion-er”
+[^2]: “*Sal*-Pavilion-er”
 
 [^3]: lit., “from *samādhi*”
 
-[^4]: *yugamattañ pekkhamāno,* lit., “looking ahead the extent of a plough,” i.e., just a little, keeping his eyes on the ground in front of him
+[^4]: *yugamattañ pekkhamāno*, lit., “looking ahead the extent of a plough,” i.e., just a little, keeping his eyes on the ground in front of him
 
 [^5]: i.e., arahants
 
 [^6]: *sitaŋ pātukarī jino*
 
-[^7]: *puñña,* lit., “merit”
+[^7]: *puñña*, lit., “merit”
 
-[^8]: *puññakammaº,* lit., “meritorious-karma”
+[^8]: *puññakammaº*, lit., “meritorious-karma”
 
-[^9]: *puññakammaº,* lit., “meritorious karma”
+[^9]: *puññakammaº*, lit., “meritorious karma”
 
-[^10]: *gandhagandhī,* taking the repetition as intensifying, but this could also be translated “perfumes and incense” or “scents and incense”
+[^10]: *gandhagandhī*, taking the repetition as intensifying, but this could also be translated “perfumes and incense” or “scents and incense”
 
 [^11]: reading *sammatāḷaº* (BJTS) for *samatāḷaº* (PTS).
 
@@ -198,4 +211,4 @@ The Paŋsukūla Chapter, the Forty-Ninth
 
 [^16]: lit., “did *pūjā*”
 
-[^17]: PTS reads *valliṅkara,* I follow BJTS here
+[^17]: PTS reads *valliṅkara*, I follow BJTS here

@@ -1,4 +1,12 @@
-*\[483. {486.}*[^1] *Dhātupūjaka*[^2]*\]*  
+---
+title: Dhātupūjaka
+order: 486
+layout: poem
+category: chapter-3
+---
+
+### \[483. {486.}[^1] Dhātupūjaka[^2]\]
+
 When the World’s Lord reached nirvana,  
 Siddhattha, Leader of the World,  
 having summoned my relatives,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[5139\]
 
-Thus indeed Venerable Dhātupūjaka Thera spoke these verses.  
+Thus indeed Venerable Dhātupūjaka Thera spoke these verses.
+
 The legend of Dhātupūjaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

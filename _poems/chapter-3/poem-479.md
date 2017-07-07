@@ -1,4 +1,12 @@
-*\[476. {479.}*[^1] *Pānadhidāyaka*[^2]*\]*  
+---
+title: Pānadhidāyaka
+order: 479
+layout: poem
+category: chapter-3
+---
+
+### \[476. {479.}[^1] Pānadhidāyaka[^2]\]
+
 Anomadassi, Blessed One,  
 the World’s Best One, the Bull of Men,  
 gone out during the siesta,  
@@ -94,7 +102,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (19) \[5024\]
 
-Thus indeed Venerable Pānadhidāyaka Thera spoke these verses.  
+Thus indeed Venerable Pānadhidāyaka Thera spoke these verses.
+
 The legend of Pānadhidāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -105,7 +114,7 @@ The legend of Pānadhidāyaka Thera is finished.
 
 [^4]: *carudassanaŋ*
 
-[^5]: *nīharitvā,* taking out, throw away, driving out; “taking off?” Should we imagine that he is wearing, rather than carrying, the shoes?
+[^5]: *nīharitvā*, taking out, throw away, driving out; “taking off?” Should we imagine that he is wearing, rather than carrying, the shoes?
 
 [^6]: lit., “ascend onto” “get into”
 

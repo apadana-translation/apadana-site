@@ -1,4 +1,12 @@
-*\[454. {457.}*[^1] *Ekachattiya*[^2]*\]*  
+---
+title: Ekachattiya
+order: 457
+layout: poem
+category: chapter-3
+---
+
+### \[454. {457.}[^1] Ekachattiya[^2]\]
+
 The world had turned to \[burning\] coal,  
 the earth was mixed with hot embers.[^3]  
 Padumuttara, Blessed One,  
@@ -59,7 +67,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (12) \[4844\]
 
-Thus indeed Venerable Ekachattiya Thera spoke these verses.  
+Thus indeed Venerable Ekachattiya Thera spoke these verses.
+
 The legend of Ekachattiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

@@ -1,9 +1,16 @@
-*\[439. {442.}*[^1] *Koladāyaka*[^2]*\]*  
+---
+title: Koladāyaka
+order: 442
+layout: poem
+category: chapter-3
+---
+
+### \[439. {442.}[^1] Koladāyaka[^2]\]
+
 I was dressed in[^3] deer-leather \[then,\]  
 wearing garments made out of bark.  
 Carrying a *khāri* load, I  
-brought jujubes[^4][]{#BookmarkCopy1 .anchor} to the ashram. (1)
-\[4724\]
+brought jujubes[^4] to the ashram. (1) \[4724\]
 
 At that time the Buddha, Sikhi,  
 was alone with nobody else.[^5]  
@@ -35,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[4730\]
 
-Thus indeed Venerable Koladāyaka Thera spoke these verses.  
+Thus indeed Venerable Koladāyaka Thera spoke these verses.
+
 The legend of Koladāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -44,7 +52,7 @@ The legend of Koladāyaka Thera is finished.
 
 [^3]: lit., “with”
 
-[^4]: *kolaŋ*, Sinh. *ḍebara phala,* Ziziphus Mauritania, Zyziphus Jujuba, Indian jujube or Chinese apple.
+[^4]: *kolaŋ*, Sinh. *ḍebara phala*, Ziziphus Mauritania, Zyziphus Jujuba, Indian jujube or Chinese apple.
 
 [^5]: lit., “without a second”
 

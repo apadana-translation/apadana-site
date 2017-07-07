@@ -1,7 +1,15 @@
-*\[477. {480.}*[^1] *Pulinacaṅkamiya*[^2]*\]*  
+---
+title: Pulinacaṅkamiya
+order: 480
+layout: poem
+category: chapter-3
+---
+
+### \[477. {480.}[^1] Pulinacaṅkamiya[^2]\]
+
 In the past, in a forest grove,  
 I was a man who hunted deer.  
-Searching after a *vāta-*deer,[^3]  
+Searching after a *vāta*-deer,[^3]  
 I saw \[the Buddha’s\] walkway \[there\]. (1) \[5025\]
 
 Happy, with pleasure in my heart,  
@@ -29,9 +37,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[5030\]
 
-Thus indeed Venerable Pulinacaṅkamiya Thera spoke these verses.  
-The legend of Pulinacaṅkamiya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Pulinacaṅkamiya Thera spoke these verses.
+
+The legend of Pulinacaṅkamiya Thera is finished.
+
+The Summary:
+
 Naḷamālī, Maṇidada,  
 Ukkāsatika, Vījanī,  
 Kummāsa and Kusaṭṭha \[too\],  
@@ -39,15 +50,16 @@ also Giripunnāgiya,
 Vallikāra,[^5] Pānadhida  
 \[and\] then Pulīnacaṅkama:  
 five and ninety are the verses  
-that are counted by those who know.  
+that are counted by those who know.
+
 The Naḷamāli Chapter, the Forty-Eighth
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Sand Walkway-er”
 
-[^3]: lit., “wind-deer,” *Śrīsumaṅgala-Śabdakoṣaya,* s.v. explains this as “a type of deer with a superabundance of swiftness”
+[^3]: lit., “wind-deer,” *Śrīsumaṅgala-Śabdakoṣaya*, s.v. explains this as “a type of deer with a superabundance of swiftness”
 
 [^4]: *sugatassa sirīmato*
 
-[^5]: PTS reads *valliṅkara,* I follow BJTS here
+[^5]: PTS reads *valliṅkara*, I follow BJTS here

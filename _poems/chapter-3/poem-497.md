@@ -1,4 +1,12 @@
-*\[494. {497.}*[^1] *Udakadāyaka*[^2]*\]*  
+---
+title: Udakadāyaka
+order: 497
+layout: poem
+category: chapter-3
+---
+
+### \[494. {497.}[^1] Udakadāyaka[^2]\]
+
 Happy, with pleasure in \[my\] heart,  
 I filled the drinking-water jug  
 for the superb monks’ Assembly  
@@ -29,11 +37,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[5303\]
 
-Thus indeed Venerable Udakadāyaka Thera spoke these verses.  
+Thus indeed Venerable Udakadāyaka Thera spoke these verses.
+
 The legend of Udakadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Water Donor.” See \#206, above, for a (different) *apadāna* ascribed to a monk with this same name.
 
-[^3]: *dumagge,* could also be “top of a tree” (as in many *apadānas* about rag-robe), but here “bad road" seems more likely to me.
+[^3]: *dumagge*, could also be “top of a tree” (as in many *apadānas* about rag-robe), but here “bad road" seems more likely to me.

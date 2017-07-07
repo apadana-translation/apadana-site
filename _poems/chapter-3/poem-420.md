@@ -1,4 +1,12 @@
-*\[417. {420.}*[^1] *Mañcadāyaka*[^2]*\]*  
+---
+title: Mañcadāyaka
+order: 420
+layout: poem
+category: chapter-3
+---
+
+### \[417. {420.}[^1] Mañcadāyaka[^2]\]
+
 When Siddhattha reached nirvana,  
 Compassionate One, World-Leader,  
 \[and\] spread throughout the \[entire\] world,[^3]  
@@ -64,9 +72,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (13) \[4461\]
 
-Thus indeed Venerable Mañcadāyaka Thera spoke these verses.  
-The legend of Mañcadāyaka Thera is finished.  
-The Summary:  
+Thus indeed Venerable Mañcadāyaka Thera spoke these verses.
+
+The legend of Mañcadāyaka Thera is finished.
+
+The Summary:
+
 Bhaddāli and Ekacchatta,  
 Tiṇasūla and Maŋsada.  
 Nāgapalllavika, Dīpi,  
@@ -74,7 +85,8 @@ Ucchaṅgī, Yāgudāyaka,
 Patthodanī, Mañcadada:  
 the verses that are counted here  
 number two hundred verses and  
-one verse more than \[those two hundred\].  
+one verse more than \[those two hundred\].
+
 The Bhaddāli Chapter, the Forty-Second
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -83,7 +95,7 @@ The Bhaddāli Chapter, the Forty-Second
 
 [^3]: i.e., his corporeal relics had been spread out (in stupas)
 
-[^4]: *caṇḍālo,* a person of low status, an outcaste
+[^4]: *caṇḍālo*, a person of low status, an outcaste
 
 [^5]: or “among the thirty\[-three\] gods,” “in Tāvatiṃsa heaven”
 

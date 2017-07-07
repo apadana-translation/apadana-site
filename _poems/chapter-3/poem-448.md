@@ -1,4 +1,12 @@
-*\[445. {448.}*[^1] *Pādapīṭhiya*[^2]*\]*  
+---
+title: Pādapīṭhiya
+order: 448
+layout: poem
+category: chapter-3
+---
+
+### \[445. {448.}[^1] Pādapīṭhiya[^2]\]
+
 The Sambuddha named Sumedha,  
 the Chief, Compassionate, the Sage,  
 causing many beings to cross,  
@@ -54,22 +62,23 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (11) \[4776\]
 
-Thus indeed Venerable Pādapīṭhiya Thera spoke these verses.  
+Thus indeed Venerable Pādapīṭhiya Thera spoke these verses.
+
 The legend of Pādapīṭhiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Footstool-er”
 
-[^3]: *sukhapākaŋ sukhūdāyaŋ,* ‘whose fruit is happiness, which leads to happiness.” Not that I accept the BJTS reading *sukhūdāyaṃ* (“leading to happiness”) for PTS *sukhindriyaŋ,* “wwith happy senses ith happy senses,” though the latter could appropriately be taken as an adverb qualifying *katvāna,* i.e., “doing wholsesome karma”
+[^3]: *sukhapākaŋ sukhūdāyaŋ*, ‘whose fruit is happiness, which leads to happiness.” Not that I accept the BJTS reading *sukhūdāyaṃ* (“leading to happiness”) for PTS *sukhindriyaŋ*, “wwith happy senses ith happy senses,” though the latter could appropriately be taken as an adverb qualifying *katvāna*, i.e., “doing wholsesome karma”
 
 [^4]: lit., “meritorious”
 
 [^5]: lit., “meritorious”
 
-[^6]: *kāraŋ katvāna,* lit., “doing deeds for”
+[^6]: *kāraŋ katvāna*, lit., “doing deeds for”
 
-[^7]: *nibbute,* lit., “with regard to one who has reached nirvana”
+[^7]: *nibbute*, lit., “with regard to one who has reached nirvana”
 
 [^8]: *pakkāmi*
 

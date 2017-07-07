@@ -1,6 +1,6 @@
 ---
 title: Ajita
-order: 300
+order: 400
 layout: poem
 category: chapter-3
 ---

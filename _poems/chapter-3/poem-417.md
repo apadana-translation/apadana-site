@@ -1,4 +1,12 @@
-*\[414. {417.}*[^1] *Ucchaṅgapupphiya*[^2]*\]*  
+---
+title: Ucchaṅgapupphiya
+order: 417
+layout: poem
+category: chapter-3
+---
+
+### \[414. {417.}[^1] Ucchaṅgapupphiya[^2]\]
+
 In the city, Bandhumatī,  
 I was a gardener back then.  
 Having filled \[my\] lap[^3] \[with flowers,\]  
@@ -17,7 +25,7 @@ I offered[^8] \[it\] to Best Buddha. (3) \[4411\]
 In the ninety-one aeons since  
 I offered[^9] a flower \[back then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (4) \[4412\]
+that’s the fruit of Buddha-*pūjā*. (4) \[4412\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[4415\]
 
-Thus indeed Venerable Ucchaṅgapupphiya Thera spoke these verses.  
+Thus indeed Venerable Ucchaṅgapupphiya Thera spoke these verses.
+
 The legend of Ucchaṅgapupphiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -47,7 +56,7 @@ The legend of Ucchaṅgapupphiya Thera is finished.
 
 [^5]: lit., “the Blessed One”
 
-[^6]: *niyyāti,* or “going out” “getting out”
+[^6]: *niyyāti*, or “going out” “getting out”
 
 [^7]: *mahatā ānubhāvena*
 

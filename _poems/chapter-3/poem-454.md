@@ -1,4 +1,12 @@
-*\[451. {454.}*[^1] *Tiṇukkadhāriya*[^2]*\]*  
+---
+title: Tiṇukkadhāriya
+order: 454
+layout: poem
+category: chapter-3
+---
+
+### \[451. {454.}[^1] Tiṇukkadhāriya[^2]\]
+
 Happy, with pleasure in \[my\] heart,  
 I carried three \[grass\] torches at  
 the foot of the superb Bodhi[^3]  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[4822\]
 
-Thus indeed Venerable Tiṇukkadhāriya Thera spoke these verses.  
+Thus indeed Venerable Tiṇukkadhāriya Thera spoke these verses.
+
 The legend of Tiṇukkadhāriya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

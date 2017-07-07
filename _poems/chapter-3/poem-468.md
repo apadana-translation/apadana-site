@@ -1,4 +1,12 @@
-*\[465. {468.}*[^1] *Pilakkhaphaladāyaka*[^2]*\]*  
+---
+title: Pilakkhaphaladāyaka
+order: 468
+layout: poem
+category: chapter-3
+---
+
+### \[465. {468.}[^1] Pilakkhaphaladāyaka[^2]\]
+
 Seeing Buddha in the forest,[^3]  
 Atthadassi, Greatly Famed One,  
 happy, with pleasure in \[my\] heart,  
@@ -24,13 +32,14 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[4907\]
 
-Thus indeed Venerable Pilakkhaphaladāyaka Thera spoke these verses.  
+Thus indeed Venerable Pilakkhaphaladāyaka Thera spoke these verses.
+
 The legend of Pilakkhaphaladāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Wave-leafed Fig Fruit Donor.” This is the BJTS spelling for PTS *Pilakkhuphaladāyaka.* This same *apadāna* (with the slight difference that the third and fourth verses are inverted there) appears above, with this spelling in both BJTS and PTS, as \#381 \[384\]
+[^2]: “Wave-leafed Fig Fruit Donor.” This is the BJTS spelling for PTS *Pilakkhuphaladāyaka*. This same *apadāna* (with the slight difference that the third and fourth verses are inverted there) appears above, with this spelling in both BJTS and PTS, as \#381 \[384\]
 
 [^3]: *vanante*, in the forest or at the edge/border of the forest
 
-[^4]: *pilakkha*, the wave — leaved or wave-leafed fig tree, Ficus infectoria; (Bot. Dict. gives Ficus Arnottiana (*Urti.*), Sinh. *pulila*
+[^4]: *pilakkha*, the wave — leaved or wave-leafed fig tree, Ficus infectoria; (Bot. Dict. gives Ficus Arnottiana (*Urti*.), Sinh. *pulila*

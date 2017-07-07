@@ -1,4 +1,12 @@
-*\[399. {402.}*[^1] *Puṇṇaka*[^2]*\]*  
+---
+title: Puṇṇaka
+order: 402
+layout: poem
+category: chapter-3
+---
+
+### \[399. {402.}[^1] Puṇṇaka[^2]\]
+
 The Self-Become, Unconquered One,  
 the Buddha, who had an illness,  
 was living amidst the mountains,  
@@ -21,7 +29,8 @@ passed away,[^10] the Unconquered One,
 like a regal *sal* tree in bloom,  
 like the risen hundred-rayed \[sun\],  
 aglow like charcoal \[that’s still hot\],  
-passed away,[^11] the Unconquered One. (4-5) \[3922-3923\]  
+passed away,[^11] the Unconquered One. (4-5) \[3922-3923\]
+
 Making it full of grass and sticks,  
 I \[then\] made a pyre \[for him\] there.  
 Having made \[that\] well-fashioned pyre,  
@@ -65,7 +74,7 @@ the fruit of duties for the corpse. (13) \[3931\]
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Knowing well all the defilements,  
-I am \[now\] living, undefiled.[]{#BookmarkCopy1 .anchor} (14) \[3932\]
+I am \[now\] living, undefiled. (14) \[3932\]
 
 Being in Best Buddha’s presence  
 was a very good thing for me.  
@@ -77,7 +86,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (16) \[3934\]
 
-Thus indeed Venerable Puṇṇaka Thera spoke these verses.  
+Thus indeed Venerable Puṇṇaka Thera spoke these verses.
+
 The legend of Puṇṇaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -86,15 +96,15 @@ The legend of Puṇṇaka Thera is finished.
 
 [^3]: *buddhe nibbāyamānamhi* (loc. abs. construction)
 
-[^4]: *acchaº,* Sinh. gloss *valassu*
+[^4]: *acchaº*, Sinh. gloss *valassu*
 
 [^5]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^6]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu,* Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā,* s.v.)
+[^6]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
 
 [^7]: reading *vyagghā* with BJTS for PTS *vālā* (= *vāḷā*, snakes?)
 
-[^8]: *uppādaŋ taŋ...disvā,* lit., “after seeing that strange omen,” but the plural is obviously implied as three strange omens have been mentioned.
+[^8]: *uppādaŋ taŋ…disvā*, lit., “after seeing that strange omen,” but the plural is obviously implied as three strange omens have been mentioned.
 
 [^9]: lit., “went”
 

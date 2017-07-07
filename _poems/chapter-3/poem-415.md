@@ -1,4 +1,12 @@
-*\[412. {415.}*[^1] *Nāgapallavaka*[^2]*\]*  
+---
+title: Nāgapallavaka
+order: 415
+layout: poem
+category: chapter-3
+---
+
+### \[412. {415.}[^1] Nāgapallavaka[^2]\]
+
 In the city, Bandhumatī,  
 I lived in the royal garden.  
 \[At that time\], near my hermitage,  
@@ -12,7 +20,7 @@ I saluted the Well-Gone-One. (2) \[4386\]
 In the ninety-one aeons since  
 I offered[^3] \[that\] sprout \[at that time\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (3) \[4387\]
+that’s the fruit of Buddha-*pūjā*. (3) \[4387\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[4390\]
 
-Thus indeed Venerable Nāgapallavaka Thera spoke these verses.  
+Thus indeed Venerable Nāgapallavaka Thera spoke these verses.
+
 The legend of Nāgapallavaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

@@ -1,4 +1,12 @@
-*\[466. {469.}*[^1] *Sayampaṭibhāṇiya*[^2]*\]*  
+---
+title: Sayampaṭibhāṇiya
+order: 469
+layout: poem
+category: chapter-3
+---
+
+### \[466. {469.}[^1] Sayampaṭibhāṇiya[^2]\]
+
 “Who is not pleased after seeing  
 the God of Gods, the Bull of Men,  
 shining like a dinner-plate tree,  
@@ -69,26 +77,27 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (14) \[4921\]
 
-Thus indeed Venerable Sayampaṭibhāṇiya Thera spoke these verses.  
+Thus indeed Venerable Sayampaṭibhāṇiya Thera spoke these verses.
+
 The legend of Sayampaṭibhāṇiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Understanding \[or Illumination, Ready Wit, Confident Speech, etc.\] by Himself-er.” Compare \#64, the *apadāna* of Parappasādaka (“Other-Pleaser”)*,* for a different *apadāna* employing a parallel grammatical construction
+[^2]: “Understanding \[or Illumination, Ready Wit, Confident Speech, etc.\] by Himself-er.” Compare \#64, the *apadāna* of Parappasādaka (“Other-Pleaser”), for a different *apadāna* employing a parallel grammatical construction
 
 [^3]: reading *vinadantaṃ* with BJTS (and PTS alt.) for PTS *vinādantaŋ*
 
 [^4]: or “the groups of heretics,” *titthiye gaṇe*
 
-[^5]: *sampavārenti,* lit., “doing service with \[each other\]” or “doing service together”
+[^5]: *sampavārenti*, lit., “doing service with \[each other\]” or “doing service together”
 
 [^6]: BJTS reads this to mean that one who is invited to join in would not hesitate to do so.
 
 [^7]: *sabbabhā*, note the singular verb; I follow BJTS Sinh. gloss in treating this as an epithet referring to the BUddha.
 
-[^8]: *abbhuṇṇatā,* BJTS reads *abbhunnatā,* both spellings are witnessed elsewhere in the Pāli.
+[^8]: *abbhuṇṇatā*, BJTS reads *abbhunnatā*, both spellings are witnessed elsewhere in the Pāli.
 
-[^9]: *vīthiyā;* BJTS (and PTS alt.) read *rathiyā,* both terms means “road” (in the locative, or else the instrumental “along the road”).
+[^9]: *vīthiyā*; BJTS (and PTS alt.) read *rathiyā*, both terms means “road” (in the locative, or else the instrumental “along the road”).
 
 [^10]: lit., “within the universe,” *cakkavāḷamhi*
 

@@ -1,4 +1,12 @@
-*\[437. {440.}*[^1] *Jambuphaliya*[^2]*\]*  
+---
+title: Jambuphaliya
+order: 440
+layout: poem
+category: chapter-3
+---
+
+### \[437. {440.}[^1] Jambuphaliya[^2]\]
+
 When Padumuttara Buddha,  
 the World’s Best One, the Neutral One,  
 was wandering about for alms,  
@@ -34,9 +42,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[4716\]
 
-Thus indeed Venerable Jambuphaliya Thera spoke these verses.  
-The legend of Jambuphaliya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Jambuphaliya Thera spoke these verses.
+
+The legend of Jambuphaliya Thera is finished.
+
+The Summary:
+
 Ekavihārī Thera and  
 Saṅkhika, Pāṭihīraka,  
 Thavika and Ucchukaṇḍī[^5]  
@@ -44,14 +55,15 @@ Kalamb’, Ambāṭakapadā,[^6]
 Harīṭak’, and Ambapiṇḍī,  
 Jambuda goes as the tenth \[poem\].  
 There are eighty-six verses \[here\],  
-which are counted by those who know.  
+which are counted by those who know.
+
 The Ekavihāriya Chapter, the Forty-Fourth
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Rose-apple-Fruit-er.” Virtually the same *apadāna* is repeated below as \#{552} (BJTS only), ascribed to Nadīkassapa Thera. Lacking the name “Rose-apple Fruit-er” there it leaves the type of fruit donated ambiguous, as does the Pāḷi
 
-[^3]: *jambu.* BJTS Sinhala gloss suggests this interpolation, presumably based on the name of the protagonist (which appears in the colophon), but the Pāli of the poem itself does not specify what *kind* of fruit this one was the best of.
+[^3]: *jambu*. BJTS Sinhala gloss suggests this interpolation, presumably based on the name of the protagonist (which appears in the colophon), but the Pāli of the poem itself does not specify what *kind* of fruit this one was the best of.
 
 [^4]: I read this and the following two epithets in the vocative, in keeping with PTS, though BJTS reads them as nominatives, continuing the preceding verse, here and in the repeated version (\#{552}). See the latter for the treatment of them as nominatives.
 

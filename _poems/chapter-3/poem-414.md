@@ -1,4 +1,12 @@
-*\[411. {414.}*[^1] *Madhumaŋsadāyaka*[^2]*\]*  
+---
+title: Madhumaŋsadāyaka
+order: 414
+layout: poem
+category: chapter-3
+---
+
+### \[411. {414.}[^1] Madhumaŋsadāyaka[^2]\]
+
 In the city, Bandhumatī,  
 I was a pork-seller[^3] \[back then\].  
 Having cooked the spleen and lungs,[^4]  
@@ -59,26 +67,27 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (12) \[4384\]
 
-Thus indeed Venerable Madhumaŋsadāyaka Thera spoke these verses.  
+Thus indeed Venerable Madhumaŋsadāyaka Thera spoke these verses.
+
 The legend of Madhumaŋsadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Honey-Meat-Donor”
 
-[^3]: *sūkariko,* Cty: *sūkaramaṃsaṃ vikkiṇitvā jīvitaṃ kappento,* “earning a living by selling hog-flesh”
+[^3]: *sūkariko*, Cty: *sūkaramaṃsaṃ vikkiṇitvā jīvitaṃ kappento*, “earning a living by selling hog-flesh”
 
-[^4]: *ukkoṭakaŋ randhayitvā,* following the cty: *pihaka-papphāsa-maṃsaṃ pacitvā.* BJTS gloss: *kävatū papumas pisa,* ‘having cooked the liver and heart meat.” The intent is clearly “cooking the pig innards” or “cooking the pluck”
+[^4]: *ukkoṭakaŋ randhayitvā*, following the cty: *pihaka-papphāsa-maṃsaṃ pacitvā*. BJTS gloss: *kävatū papumas pisa*, ‘having cooked the liver and heart meat.” The intent is clearly “cooking the pig innards” or “cooking the pluck”
 
-[^5]: reading *madhu maṃsamhi okiriŋ* with BJTS (and PTS alt., and cty.) for PTS: *madhusappimhi ākiriŋ,* “I sprinkled honey on the ghee”
+[^5]: reading *madhu maṃsamhi okiriŋ* with BJTS (and PTS alt., and cty.) for PTS: *madhusappimhi ākiriŋ*, “I sprinkled honey on the ghee”
 
 [^6]: *sannipātam ahaŋ gantvā*
 
-[^7]: reading *niyyādesi* with BJTS for PTS *niyyātesi.* BJTS Sinhala gloss: *maṭa pin dunnē ya*
+[^7]: reading *niyyādesi* with BJTS for PTS *niyyātesi*. BJTS Sinhala gloss: *maṭa pin dunnē ya*
 
-[^8]: *bhutvā,* lit., “becoming”
+[^8]: *bhutvā*, lit., “becoming”
 
-[^9]: *dve sampattiyo,* i.e., birth as a human and birth as a god
+[^9]: *dve sampattiyo*, i.e., birth as a human and birth as a god
 
 [^10]: *carimo vattate bhavo*
 

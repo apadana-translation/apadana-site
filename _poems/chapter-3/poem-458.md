@@ -1,4 +1,12 @@
-*\[455. {458.}*[^1] *Jātipupphiya*[^2]*\]*  
+---
+title: Jātipupphiya
+order: 458
+layout: poem
+category: chapter-3
+---
+
+### \[455. {458.}[^1] Jātipupphiya[^2]\]
+
 When the Blessed One passed away,[^3]  
 Padumuttara, Greatly Famed,  
 putting flowers into a box,[^4]  
@@ -44,7 +52,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[4853\]
 
-Thus indeed Venerable Jātipupphiya Thera spoke these verses.  
+Thus indeed Venerable Jātipupphiya Thera spoke these verses.
+
 The legend of Jātipupphiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -53,7 +62,7 @@ The legend of Jātipupphiya Thera is finished.
 
 [^3]: lit., “reached nirvana”
 
-[^4]: *caṅgoṭake.* BJTS gloss, straying from the text, gives “a flower bouquet (*mal-kaḍak*) of jasmine flowers (*dasamanmalin*) for the top (*mudun,* of the stupa)”
+[^4]: *caṅgoṭake*. BJTS gloss, straying from the text, gives “a flower bouquet (*mal-kaḍak*) of jasmine flowers (*dasamanmalin*) for the top (*mudun*, of the stupa)”
 
 [^5]: or “the body:” *sarīram*
 
@@ -63,7 +72,7 @@ The legend of Jātipupphiya Thera is finished.
 
 [^8]: lit., “meritorious”
 
-[^9]: *saŋsarāmi...ce,* lit., “if I am transmigrating”
+[^9]: *saŋsarāmi…ce*, lit., “if I am transmigrating”
 
 [^10]: lit., “flower-*pūjā*”
 

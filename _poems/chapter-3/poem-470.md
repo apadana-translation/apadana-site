@@ -1,4 +1,12 @@
-*\[467. {470.}*[^1] *Nimittavyākaraṇiya*[^2]*\]*  
+---
+title: Nimittavyākaraṇiya
+order: 470
+layout: poem
+category: chapter-3
+---
+
+### \[467. {470.}[^1] Nimittavyākaraṇiya[^2]\]
+
 Plunged into the Himalayas,  
 I’m reciting mantras back the,  
 \[and\] fifty-four thousand students  
@@ -69,9 +77,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (14) \[4935\]
 
-Thus indeed Venerable Nimittavyākaraṇiya Thera spoke these verses.  
-The legend of Nimittavyākaraṇiya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Nimittavyākaraṇiya Thera spoke these verses.
+
+The legend of Nimittavyākaraṇiya Thera is finished.
+
+The Summary:
+
 Sālakusumiya Thera,[^18]  
 Pūjā and Nibbāpaka \[too\],  
 Setuda and Tālavaṇṭī,  
@@ -79,7 +90,8 @@ Avaṇṭa,[^19] Labuja-ppada,
 Pilakkha[^20] and Paṭibhāṇī,  
 brahmin Veyyakaraṇaka:  
 exactly two hundred verses  
-are counted \[here\] by those who know.  
+are counted \[here\] by those who know.
+
 The Sālakusumiya Chapter, the Forty-Seventh
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -90,29 +102,29 @@ The Sālakusumiya Chapter, the Forty-Seventh
 
 [^4]: *vedagū*, i.e., those who have the higher or highest knowledges (*veda*) *as opposed to* (acc. to RD) those who are masters of “the Vedas”. The protagonist, in this case, is both.
 
-[^5]: *chalaṅgaŋ,* lit., “the six branches.” RD: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (viciti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.” BJTS understand this as an adjective modifying “\[reading\] marks,” i.e., “the six branches of the science (*śāstraya*) of marks,” but given the use of the term to refer to the six branches of Vedic science above (\[3605\] = Sela (\#389 {392}), v. 24,
+[^5]: *chalaṅgaŋ*, lit., “the six branches.” RD: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (viciti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.” BJTS understand this as an adjective modifying “\[reading\] marks,” i.e., “the six branches of the science (*śāstraya*) of marks,” but given the use of the term to refer to the six branches of Vedic science above (\[3605\] = Sela (\#389 {392}), v. 24,
 
 [^6]: *sakavijjāh’*
 
-[^7]: lit., “body,” *kāyā,* i.e., the body he was born in and bore in Tusitā heaven, a “happy body”
+[^7]: lit., “body,” *kāyā*, i.e., the body he was born in and bore in Tusitā heaven, a “happy body”
 
 [^8]: lit., “the Sambuddha”
 
-[^9]: *alatthiŋsu*, PTS alt. *aladdhiŋsu,* BJTS *alabhiṃsu* all to *labhati*
+[^9]: *alatthiŋsu*, PTS alt. *aladdhiŋsu*, BJTS *alabhiṃsu* all to *labhati*
 
 [^10]: or “vision,” *cakkhuŋ*
 
 [^11]: the lit. meaning of the term used here for “earth,” *vasudhā*
 
-[^12]: reading *sabbākāraṃ* with BJTS (and PTS alt as *sabbakāraŋ,* sic) for PTS *chabbikāraŋ,* (“six circumstances”)
+[^12]: reading *sabbākāraṃ* with BJTS (and PTS alt as *sabbakāraŋ*, sic) for PTS *chabbikāraŋ*, (“six circumstances”)
 
-[^13]: PTS *samphassa,* BJTS *samphussa*, “touching on”
+[^13]: PTS *samphassa*, BJTS *samphussa*, “touching on”
 
 [^14]: *pañcasīle*: to practice restraint from taking life, taking what is not given, sexual misconduct, false speech and becoming careless through the use of alcohol.
 
 [^15]: *pañcasīlāni*
 
-[^16]: *ubbegajātā sumanā,* lit., “excitement-born \[and\] good-minded”
+[^16]: *ubbegajātā sumanā*, lit., “excitement-born \[and\] good-minded”
 
 [^17]: *tuṭṭhahaṭṭhā āsiŋsu te*, lit., “they were all horripilating with delight”
 

@@ -1,4 +1,12 @@
-*\[486. {489.}*[^1] *Dhammarucī*[^2]*\]*  
+---
+title: Dhammarucī
+order: 489
+layout: poem
+category: chapter-3
+---
+
+### \[486. {489.}[^1] Dhammarucī[^2]\]
+
 When Dipaṅkara was Buddha,  
 the Victor said of Sumedha:  
 “Aeons beyond measure from now,  
@@ -41,7 +49,8 @@ for Sumedha, \[then\] a great sage,
 cultivating confidence in  
 Sumedha, font[^15] of compassion,  
 \[when\] that hero renounced the world,[^16]  
-I renounced right along with \[him\]. (8-9) \[5200-5201\]  
+I renounced right along with \[him\]. (8-9) \[5200-5201\]
+
 Restrained[^17] in the monastic rules,[^18]  
 and \[also\] in the five senses,  
 he lived pure, mindful, a hero,  
@@ -100,7 +109,8 @@ After that I told the Buddha
 Very long, marked with hundreds of good deeds,[^29]  
 conditions \[then\] gradually[^30] purified.  
 Today I am looking closely indeed,  
-I am seeing your body without compare. (21) \[5213\][^31]  
+I am seeing your body without compare. (21) \[5213\][^31]
+
 Very long, darkness is destroyed by it.[^32]  
 Through guarding[^33] purity, the stream[^34] has been cleansed.  
 Very long, \[now\] purified without fault,  
@@ -109,7 +119,8 @@ is the eye made out of knowledge, O Great Sage. (22) \[5214\]
 A long time, \[now\] come together with you;  
 not destroyed, again the interval was long;  
 today, again come together with you,  
-O Gotama, deeds do not \[just\] disappear. (23) 5215\]  
+O Gotama, deeds do not \[just\] disappear. (23) \[5215\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
@@ -125,7 +136,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (26) \[5218\]
 
-Thus indeed Venerable Dhammarucī Thera spoke these verses.  
+Thus indeed Venerable Dhammarucī Thera spoke these verses.
+
 The legend of Dhammarucī Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -140,11 +152,11 @@ The legend of Dhammarucī Thera is finished.
 
 [^6]: i.e., Mahā-Moggallāna (*Thera-apadāna* \#2)
 
-[^7]: *sāvakā,* “voice-hearers,” accompished arahant monks
+[^7]: *sāvakā*, “voice-hearers,” accompished arahant monks
 
 [^8]: *sāvikā*
 
-[^9]: *upāsakā,* devout laymen who observe eight precepts, more monk-like than ordinary Buddhists who observe the five precepts.
+[^9]: *upāsakā*, devout laymen who observe eight precepts, more monk-like than ordinary Buddhists who observe the five precepts.
 
 [^10]: *upāsikā*
 
@@ -162,7 +174,7 @@ The legend of Dhammarucī Thera is finished.
 
 [^17]: *saŋvuto*
 
-[^18]: lit., “in the recitation,” “in the *Pātimokkha*,*”* the (in the Pāli *vinaya*, 227) rules recited at monthly *uposatha* gatherings of Buddhist monks, ideally encapsulating the whole of monastic law.
+[^18]: lit., “in the recitation,” “in the *Pātimokkha*,” the (in the Pāli *vinaya*, 227) rules recited at monthly *uposatha* gatherings of Buddhist monks, ideally encapsulating the whole of monastic law.
 
 [^19]: *jinasāsanakārako*
 
@@ -170,9 +182,9 @@ The legend of Dhammarucī Thera is finished.
 
 [^21]: or thinking, *vitakka-vasa-go* (BJTS *vitakka-vasīko*)
 
-[^22]: *sāsanato,* lit., “from the dispensation”
+[^22]: *sāsanato*, lit., “from the dispensation”
 
-[^23]: *anantariyañ,* a deed whose result is immediate descent into the lowest Avīci (“no interval”? “no pleasure”?) hell*,* “a deadly sin,” of which there are five: patricide, matricide, killing an arahant, shedding the blood of a Buddha (it is impossible to kill one), and dissension in the Sangha (monks’ Assembly).
+[^23]: *anantariyañ*, a deed whose result is immediate descent into the lowest Avīci (“no interval”? “no pleasure”?) hell, “a deadly sin,” of which there are five: patricide, matricide, killing an arahant, shedding the blood of a Buddha (it is impossible to kill one), and dissension in the Sangha (monks’ Assembly).
 
 [^24]: lit., “into *avīci*, which is particularly gruesome. See DPPN I:199ff.
 
@@ -182,16 +194,16 @@ The legend of Dhammarucī Thera is finished.
 
 [^27]: of mythical proportions, the largest fish in the sea, maybe even “sea monster”
 
-[^28]: the “Jeta Grove” in which Anāthapiṇḍika built the famous hermitage for the Buddha, the location of many of the *sutta*s.
+[^28]: the “Jeta Grove” in which Anāthapiṇḍika built the famous hermitage for the Buddha, the location of many of the *sutta*\s.
 
 [^29]: lit., “merits,” *ºpuññaº*
 
-[^30]: reading *patipubbena* with BJTS for PTS *patipubbe na* (“in the past, not...”)
+[^30]: reading *patipubbena* with BJTS for PTS *patipubbe na* (“in the past, not…”)
 
 [^31]: PTS and BJTS agree in presenting this and the following two verses in a different, more complex meter than the rest of the poem (and indeed, different from the meter in the vast majority of the whole *Apadāna* collection), with 10-11-10-11 syllable counts per quatrain (10-11-10-12 in the present instance, perhaps due to the superfluous *‘haŋ*). I have translated accordingly.
 
 [^32]: reading *tayā* with BJTS (and PTS alts.) for PTS *mayā* (“by me”)
 
-[^33]: *suci-rakkhena*, a play on words that echoes the “very long \[time\]” (*su-ciraṃ*) governing these verses. Or is this *sucira + akkhena,* “by the eye for very long,” picking up the “eye” (*nayana)* reference in the fourth foot?
+[^33]: *suci-rakkhena*, a play on words that echoes the “very long \[time\]” (*su-ciraṃ*) governing these verses. Or is this *sucira* + *akkhena*, “by the eye for very long,” picking up the “eye” (*nayana*) reference in the fourth foot?
 
 [^34]: or river (*nadī*) of existence, or of doubt (as in \#485 {488} above, v. 7 = \[5183\]

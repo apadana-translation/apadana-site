@@ -1,4 +1,12 @@
-*\[449. {452.}*[^1] *Morahatthiya*[^2]*\]*  
+---
+title: Morahatthiya
+order: 452
+layout: poem
+category: chapter-3
+---
+
+### \[449. {452.}[^1] Morahatthiya[^2]\]
+
 Collecting \[some\] peacock feathers,  
 I \[then\] approached the World-Leader.  
 Happy, with pleasure in \[my\] heart,  
@@ -39,7 +47,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[4812\]
 
-Thus indeed Venerable Morahatthiya Thera spoke these verses.  
+Thus indeed Venerable Morahatthiya Thera spoke these verses.
+
 The legend of Morahatthiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

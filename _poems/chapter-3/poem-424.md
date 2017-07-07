@@ -1,4 +1,12 @@
-*\[421. {424.}*[^1] *Sattakadambapupphiya*[^2]*\]*  
+---
+title: Sattakadambapupphiya
+order: 424
+layout: poem
+category: chapter-3
+---
+
+### \[421. {424.}[^1] Sattakadambapupphiya[^2]\]
+
 In the Himalayan region,  
 there’s a mountain named Kadamba.[^3]  
 There were seven Buddhas living  
@@ -17,7 +25,7 @@ I went to Tāvatiṃsa \[then\]. (3) \[4524\]
 In the ninety-four aeons since  
 I did that \[good\] karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (4) \[4525\]
+that’s the fruit of Buddha-*pūjā*. (4) \[4525\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[4528\]
 
-Thus indeed Venerable Sattakadambapupphiya Thera spoke these verses.  
+Thus indeed Venerable Sattakadambapupphiya Thera spoke these verses.
+
 The legend of Sattakadambapupphiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

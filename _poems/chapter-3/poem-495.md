@@ -1,4 +1,12 @@
-*\[492. {495.}*[^1] *Upaḍḍhadussadāyaka*[^2]*\]*  
+---
+title: Upaḍḍhadussadāyaka
+order: 495
+layout: poem
+category: chapter-3
+---
+
+### \[492. {495.}[^1] Upaḍḍhadussadāyaka[^2]\]
+
 Named Sujāta, the follower  
 of Padumuttara Buddha,[^3]  
 searching for a robe made of rags,  
@@ -26,7 +34,7 @@ I rejoice with nothing to fear.[^6] (5) \[5283\]
 
 And today \[if\] I am wishing,  
 \[in\] the woods or \[on\] a mountain,  
-I am covered in *khoma-*cloth:  
+I am covered in *khoma*-cloth:  
 that is the fruit of half a cloth. (6) \[5284\]
 
 In the hundred thousand aeons  
@@ -49,7 +57,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (10) \[5288\]
 
-Thus indeed Venerable Upaḍḍhadussadāyaka Thera spoke these verses.  
+Thus indeed Venerable Upaḍḍhadussadāyaka Thera spoke these verses.
+
 The legend of Upaḍḍhadussadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -58,8 +67,8 @@ The legend of Upaḍḍhadussadāyaka Thera is finished.
 
 [^3]: lit., “Blessed One”
 
-[^4]: BJTS reads *tadā, “*then”
+[^4]: BJTS reads *tadā*, “then”
 
 [^5]: BJTS reads *caratī* with the same meaning
 
-[^6]: *akutobhayo,* lit., “with fear from nowhere”
+[^6]: *akutobhayo*, lit., “with fear from nowhere”

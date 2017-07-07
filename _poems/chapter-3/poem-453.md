@@ -1,4 +1,12 @@
-*\[450. {453.}*[^1] *Sīhāsanavījanīya*[^2]*\]*  
+---
+title: Sīhāsanavījanīya
+order: 453
+layout: poem
+category: chapter-3
+---
+
+### \[450. {453.}[^1] Sīhāsanavījanīya[^2]\]
+
 I worshipped the Bodhi tree of  
 Tissa \[Buddha\], the Blessed One.  
 Having taken up a fan there,  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[4817\]
 
-Thus indeed Venerable Sīhāsanavījanīya Thera spoke these verses.  
+Thus indeed Venerable Sīhāsanavījanīya Thera spoke these verses.
+
 The legend of Sīhāsanavījanīya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

@@ -1,4 +1,12 @@
-*\[440. {443.}*[^1] *Billaphaliya*[^2]*\]*  
+---
+title: Billaphaliya
+order: 443
+layout: poem
+category: chapter-3
+---
+
+### \[440. {443.}[^1] Billaphaliya[^2]\]
+
 On Candabhāgā River’s bank,  
 my well-constructed hermitage  
 was served by varied \[types\] of trees,  
@@ -11,7 +19,8 @@ thrilled, mind \[stirred up\] with emotion,
 having approached Kakusandha,  
 with a mind that was very clear,  
 I gave \[that\] *bel* fruit \[I had brought\]  
-to \[him,\] the Hero, Merit-Field. (2-3) \[4732-4733\]  
+to \[him,\] the Hero, Merit-Field. (2-3) \[4732-4733\]
+
 Within the \[present\] aeon, since  
 I gave that fruit \[to him\] back then,  
 I’ve come to know no bad rebirth:  
@@ -32,11 +41,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[4737\]
 
-Thus indeed Venerable Billaphaliya Thera spoke these verses.  
+Thus indeed Venerable Billaphaliya Thera spoke these verses.
+
 The legend of Billaphaliya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “*Bel-*Fruit-er”
 
-[^3]: *bellaŋ, billā* = fruit of Aegle marmelos, Sinh. *beli geḍiya,* bael, bel, Bengal quince; bilva or vilva tree, = *beluvā*
+[^3]: *bellaŋ, billā* = fruit of Aegle marmelos, Sinh. *beli geḍiya*, bael, bel, Bengal quince; bilva or vilva tree, = *beluvā*

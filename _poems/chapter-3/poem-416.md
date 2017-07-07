@@ -1,4 +1,12 @@
-*\[413. {416.}*[^1] *Ekadīpiya*[^2]*\]*  
+---
+title: Ekadīpiya
+order: 416
+layout: poem
+category: chapter-3
+---
+
+### \[413. {416.}[^1] Ekadīpiya[^2]\]
+
 When the Well-Gone-One passed away,[^3]  
 Siddhattha, Leader of the World,  
 all the gods and human beings  
@@ -89,7 +97,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (18) \[4408\]
 
-Thus indeed Venerable Ekadīpiya Thera spoke these verses.  
+Thus indeed Venerable Ekadīpiya Thera spoke these verses.
+
 The legend of Ekadīpiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -98,9 +107,9 @@ The legend of Ekadīpiya Thera is finished.
 
 [^3]: lit., “reached nirvana”
 
-[^4]: *pūjenti,* “doing *pūjā*”
+[^4]: *pūjenti*, “doing *pūjā*”
 
-[^5]: or stupa: *citake,* Sinh. *caitya*
+[^5]: or stupa: *citake*, Sinh. *caitya*
 
 [^6]: lit., “having passed over a mountain”
 

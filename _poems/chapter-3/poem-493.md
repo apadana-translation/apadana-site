@@ -1,4 +1,12 @@
-*\[490. {493.}*[^1] *Koraṇḍapupphiya*[^2]*\]*  
+---
+title: Koraṇḍapupphiya
+order: 493
+layout: poem
+category: chapter-3
+---
+
+### \[490. {493.}[^1] Koraṇḍapupphiya[^2]\]
+
 I was then a forest-worker,[^3]  
 as were[^4] father and grandfathers.[^5]  
 \[Earning\] my living killing beasts,[^6]  
@@ -26,7 +34,7 @@ I went to Tāvatiṃsa \[then\]. (5) \[5267\]
 
 In whichever womb I’m reborn,  
 \[whether\] it’s human or divine,  
-I have[^11] *koraṇḍa-*colored skin;  
+I have[^11] *koraṇḍa*-colored skin;  
 I’m radiantly beautiful.[^12] (6) \[5268\]
 
 In the ninety-two aeons since  
@@ -49,7 +57,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (10) \[5272\]
 
-Thus indeed Venerable Koraṇḍapupphiya Thera spoke these verses.  
+Thus indeed Venerable Koraṇḍapupphiya Thera spoke these verses.
+
 The legend of Koraṇḍapupphiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -60,7 +69,7 @@ The legend of Koraṇḍapupphiya Thera is finished.
 
 [^4]: lit., “by means of,” “through”. We might say “by birth” or “in the family business”
 
-[^5]: BJTS reads *pitumātumaten’ ahaṃ* (“with the consent of father and mother”) for PTS *pitupetāmahen’ ahaŋ.* I follow the latter reading here, noting that at \[2986\] these same two feet are repeated; there, BJTS agrees with PTS, leading me to suspect that in the present case BJTS’ mss. are corrupt. But both readings make the same point: the protagonist did his work as a hunter/animal killer as a family-approved business, not behind his parents’ backs.
+[^5]: BJTS reads *pitumātumaten’ ahaṃ* (“with the consent of father and mother”) for PTS *pitupetāmahen’ ahaŋ*. I follow the latter reading here, noting that at \[2986\] these same two feet are repeated; there, BJTS agrees with PTS, leading me to suspect that in the present case BJTS’ mss. are corrupt. But both readings make the same point: the protagonist did his work as a hunter/animal killer as a family-approved business, not behind his parents’ backs.
 
 [^6]: reading BJTS *pasumārena* (lit., “by” or “through” killing wild animals) for PTS *pararuhirena* (“through the blood of others”)
 
@@ -68,12 +77,12 @@ The legend of Koraṇḍapupphiya Thera is finished.
 
 [^8]: lit., “named”
 
-[^9]: Sinh. *kaṭukoraṇḍu,* Barberia prionitis *(Acanth.),* cf. *koraṇḍaka, kuraṇḍaka,* a shrub and its flower, J. v.473 (RD)
+[^9]: Sinh. *kaṭukoraṇḍu*, Barberia prionitis (*Acanth.*), cf. *koraṇḍaka*, *kuraṇḍaka*, a shrub and its flower, J. v.473 (RD)
 
 [^10]: this foot consists of two different words for” tree”: *dharaṇī-rūha* (“growing in the earth”) and *pādapa* (“drinking from the feet \[or roots\]”). Though awkward in English, I translate literally here rather than give the non-descriptive “tree, which was a tree”.
 
 [^11]: lit., “I am \[one who has\]”
 
-[^12]: *sappabhāso,* “a shining beauty”
+[^12]: *sappabhāso*, “a shining beauty”
 
 [^13]: lit., “doing *pūjā*”

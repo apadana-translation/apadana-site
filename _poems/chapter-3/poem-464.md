@@ -1,4 +1,12 @@
-*\[461. {464.}*[^1] *Setudāyaka*[^2]*\]*  
+---
+title: Setudāyaka
+order: 464
+layout: poem
+category: chapter-3
+---
+
+### \[461. {464.}[^1] Setudāyaka[^2]\]
+
 Happy, with pleasure in \[my\] heart,  
 I had a causeway constructed,  
 near the \[meditation\] walkway  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[4883\]
 
-Thus indeed Venerable Setudāyaka Thera spoke these verses.  
+Thus indeed Venerable Setudāyaka Thera spoke these verses.
+
 The legend of Setudāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

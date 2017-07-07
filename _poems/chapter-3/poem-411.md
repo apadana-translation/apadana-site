@@ -1,5 +1,14 @@
-*Bhaddāli Chapter, the Forty-Second*  
-*\[408. {411.}*[^1] *Bhaddāli*[^2]*\]*  
+---
+title: Bhaddāli
+order: 411
+layout: poem
+category: chapter-3
+---
+
+## Bhaddāli Chapter, the Forty-Second
+
+### \[408. {411.}[^1] Bhaddāli[^2]\]
+
 The Sambuddha named Sumedha,  
 Chief, Compassionate One, the Sage,  
 the World’s Chief, Seclusion-Lover,  
@@ -46,7 +55,7 @@ seated in the gods’ assembly,
 spoke these verses \[about me then\]: (9) \[4276\]
 
 “Who for a week did bear for me  
-a *sal-*bloom-covered pavilion,  
+a *sal*-bloom-covered pavilion,  
 I shall relate details of him;  
 \[all of\] you listen to my words: (10) \[4277\]
 
@@ -57,7 +66,7 @@ he’ll feast on sensual pleasures.[^13] (11) \[4278\]
 
 \[Then\] sixty thousand elephants,  
 decked out in all the ornaments,  
-*mātaṅga*s with gold headdresses,  
+*mātaṅga*/s with gold headdresses,  
 clothed in harnessing made of gold, (12) \[4279\]
 
 mounted by elephant-trainers  
@@ -65,7 +74,8 @@ with lances and goads in hand,[^14]
 will come to \[be owned by\] this man,  
 and attend him evening and morn.[^15]  
 Surrounded by those elephants,  
-this man will delight \[in the world\]. (13) \[4280\][^16]  
+this man will delight \[in the world\]. (13) \[4280\][^16]
+
 Sixty thousand horses \[as well\],  
 decked out in all the ornaments,  
 thoroughbreds of good pedigree,[^17]  
@@ -74,7 +84,7 @@ horses from Sindh, fast vehicles, (14) \[4281\]
 mounted by trainers of horses[^18]  
 carrying bows and one-edged swords,[^19]  
 will constantly wait on this \[man\]:  
-that’s the fruit of Buddha-*pūjā.* (15) \[4282\]
+that’s the fruit of Buddha-*pūjā*. (15) \[4282\]
 
 Sixty thousand chariots \[too\],  
 decked out in all the ornaments,  
@@ -84,18 +94,18 @@ and likewise tigers,[^21] flags hoisted, (16) \[4283\]
 mounted by animal-trainers[^22]  
 wearing armor with bows in hand,  
 will constantly wait on this \[man\]:  
-that’s the fruit of Buddha-*pūjā.* (17) \[4284\]
+that’s the fruit of Buddha-*pūjā*. (17) \[4284\]
 
 \[And\] sixty thousand villages,  
 completely full in all regards,  
 rich in grain and abundant wealth,[^23]  
 altogether magnificent,[^24]  
 will appear \[for him\] all the time:  
-that’s the fruit of Buddha-*pūjā.* (18) \[4285\][^25]  
+that’s the fruit of Buddha-*pūjā*. (18) \[4285\][^25]  
 The four-part army: elephant,  
 horse, chariot and foot-soldier,  
 will constantly wait on this \[man\]:  
-that’s the fruit of Buddha-*pūjā.* (19) \[4286\]
+that’s the fruit of Buddha-*pūjā*. (19) \[4286\]
 
 For eighteen hundred aeons he  
 will delight in the world of gods.  
@@ -157,20 +167,21 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (31) \[4298\]
 
-Thus indeed Venerable Bhaddāli Thera spoke these verses.  
+Thus indeed Venerable Bhaddāli Thera spoke these verses.
+
 The legend of Bhaddāli Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation. In the printed work, the BJTS numbering “114” for “411” in the Pali text is obvious a typographical error.
 
 [^2]: “Embankment of Good Fortune”. A historical monk, to whom the *Bhaddali-sutta* (M.i.437ff.) was preached after he confessed to avoiding the Buddha for three months in disagreement with the *vinaya* ruling on eating meals after noon. See DPPN II:357
 
-[^3]: *ajjhogahetvā,* lit., “plunging”
+[^3]: *ajjhogahetvā*, lit., “plunging”
 
 [^4]: lit “crouching with \[his\] legs crossed”
 
 [^5]: *samādhiŋ so samāpanno*
 
-[^6]: *khārikājaŋ gahetvāna,* lit., “taking a *khāri* \[a unit of weight, perhaps of grain\] on a carrying pole;” RD: “a *khāri-*load”
+[^6]: *khārikājaŋ gahetvāna*, lit., “taking a *khāri* \[a unit of weight, perhaps of grain\] on a carrying pole;” RD: “a *khāri*-load”
 
 [^7]: lit., “into the middle of the forest”
 
@@ -178,42 +189,42 @@ The legend of Bhaddāli Thera is finished.
 
 [^9]: *bhūripaññaŋ*
 
-[^10]: *sumedhasaŋ,* “he with good intelligence,” a play on the Buddha’s name
+[^10]: *sumedhasaŋ*, “he with good intelligence,” a play on the Buddha’s name
 
 [^11]: lit., “recognizing \[that there would be\] speech of the Buddha”
 
-[^12]: I take *asaŋsayaŋ* adverbially, but it could also be read as an adjective modifying *dhammaŋ,* i.e., “will preaching the Teaching which is without doubt” or “which engenders no doubt”
+[^12]: I take *asaŋsayaŋ* adverbially, but it could also be read as an adjective modifying *dhammaŋ*, i.e., “will preaching the Teaching which is without doubt” or “which engenders no doubt”
 
 [^13]: *kāmabhogī bhavissati*, lit., “he will be one who enjoys/eats/possesses sensual pleasures”
 
 [^14]: *tomaraṅkusapāṇihi*
 
-[^15]: *sāyapāto,* BJTS reads *sāyaṃpāto,* lit., “in the evening and in the morning”
+[^15]: *sāyapāto*, BJTS reads *sāyaṃpāto*, lit., “in the evening and in the morning”
 
 [^16]: PTS and BJTS agree in reading this as a six-footed verse.
 
-[^17]: *jātiyā, lit.,* “well-born” or simply “excellent,” the term connotes lineage, genealogy, caste, breed. Here it seems to substitute for “those fast like the wind” (*vātajavā*) in parallel lists (see above, \[1293\], \[2692\], \[3981\])
+[^17]: *jātiyā*, lit., “well-born” or simply “excellent,” the term connotes lineage, genealogy, caste, breed. Here it seems to substitute for “those fast like the wind” (*vātajavā*) in parallel lists (see above, \[1293\], \[2692\], \[3981\])
 
 [^18]: *gāmaṇīya* usually means elephant-trainers, as in v. 26 \[4097\], above, but here the context makes “horse-trainer” a more suitable translation, so I have taken the same liberty taken by the poet in treating the term that way. PSI indicates that these are trainers of “elephants, etc.” (*ätun ādīn puhuṇu karana ācāryyaya*), allowing for the extended meaning in this context.
 
 [^19]: *illiyā cāpadhārīhi*
 
-[^20]: *sannaddhā,* RD: fastened, bound; put on, clothed (with), armed, accoutred. The term has a wide enough range to leave open the possibility that rather than covered in the hides of these big cats, the poet imagines the chariots pulled by leopards and tigers, which would make sense of the specification below that they are also mounted by animal-trainers, in this case perhaps leopard- and tiger-trainers, paralleling the elephant-trainers who mount the elephants and the horse-trainers who mount the horses.
+[^20]: *sannaddhā*, RD: fastened, bound; put on, clothed (with), armed, accoutred. The term has a wide enough range to leave open the possibility that rather than covered in the hides of these big cats, the poet imagines the chariots pulled by leopards and tigers, which would make sense of the specification below that they are also mounted by animal-trainers, in this case perhaps leopard- and tiger-trainers, paralleling the elephant-trainers who mount the elephants and the horse-trainers who mount the horses.
 
 [^21]: *dīpā*, fr. *dīpī*, leopard. Both RD and PSI give cart covered with a tiger skin as one of the meanings of *dīpā*, and the same (i.e., covered with a tiger skin) for *veyyagghā*, but here the “and also too” (*atho pi*) connecting the two terms clearly indicates that they are not simple synonyms, but rather two types of decorated or armored carts: those covered with leopard skins (*dīpā*) and those covered with tiger skins (*veyyagghā*).
 
 [^22]: *gāmaṇīya* usually means elephant-trainers, as in v. 26 \[4097\], above, but as noted in the note on v. \[4099\], above, the meaning is more elastic to include other animals too. Here I opt for the most open translation, given the possibility that at least horses in addition to elephants would have been imagined pulling the 60,000 chariots. It is even possible that the poet imagines the chariots as pulled by leopards and tigers, rather than merely covered in their hides, in which case “big-cat-trainers” would be the best translation here.
 
-[^23]: *pahūtadhanadhaññāni*, taking the compound as a *dvandva*, see RD, *dhana* s.v. for a discussion of the options here. Because the subject is “villages,” it seems to me appropriate to maintain the underlying meaning of both *dhana* and *dhañña,* namely “grain,” but this is a stock phrase which means “rich in abundant treasures”
+[^23]: *pahūtadhanadhaññāni*, taking the compound as a *dvandva*, see RD, *dhana* s.v. for a discussion of the options here. Because the subject is “villages,” it seems to me appropriate to maintain the underlying meaning of both *dhana* and *dhañña*, namely “grain,” but this is a stock phrase which means “rich in abundant treasures”
 
-[^24]: *susamiddhāni sabbaso,* “thoroughly very magnificent/rich/prosperous
+[^24]: *susamiddhāni sabbaso*, “thoroughly very magnificent/rich/prosperous
 
 [^25]: PTS and BJTS agree in reading this as a six-footed verse.
 
-[^26]: omitting *ca,* “and”
+[^26]: omitting *ca*, “and”
 
-[^27]: *etthantaram upādāya,* lit., “for as long as the interval \[up to\] now (or here)”
+[^27]: *etthantaram upādāya*, lit., “for as long as the interval \[up to\] now (or here)”
 
-[^28]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
+[^28]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
 [^29]: *carimo vattate bhavo*

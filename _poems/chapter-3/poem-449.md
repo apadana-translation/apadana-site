@@ -1,4 +1,12 @@
-*\[446. {449.}*[^1] *Vedikāraka*[^2]*\]*  
+---
+title: Vedikāraka
+order: 449
+layout: poem
+category: chapter-3
+---
+
+### \[446. {449.}[^1] Vedikāraka[^2]\]
+
 Making a well-made railing for  
 the foot of the superb Bodhi[^3]  
 of Padumuttara Buddha,  
@@ -39,7 +47,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[4784\]
 
-Thus indeed Venerable Vedikāraka Thera spoke these verses.  
+Thus indeed Venerable Vedikāraka Thera spoke these verses.
+
 The legend of Vedikāraka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -48,12 +57,12 @@ The legend of Vedikāraka Thera is finished.
 
 [^3]: i.e., at the base of his Bodhi tree, which was a *salala* tree.
 
-[^4]: reading *atolārṇi* (PTS) or *athoḷārāṇni* (BJTS) as *ati-uḷārāṇi,* “excessively lofty” “very superior”
+[^4]: reading *atolārṇi* (PTS) or *athoḷārāṇni* (BJTS) as *ati-uḷārāṇi*, “excessively lofty” “very superior”
 
 [^5]: *bhaṇḍāni*, “things,” “articles,” “stock in trade,” “goods,” “property;” BJTS Sinh. goss *bhāṇḍayō*
 
 [^6]: *katāni akatāni ca*, or “manufactured and natural”
 
-[^7]: *ubhato byūḷhasaṇgame* (BJTS *vyūḷlhasaṅgame)/pakkhadanto bhayānake,* following the first suggestion for interpreting this difficult half-verse in BJTS Sinhala gloss, which takes the first compound as *v\[i\]yūḷha + saṅgame*, lit., “the meeting of a mass of troops” (Sinhala gloss: “being sprung upon from two sides by a frightful army”). The other suggestion, also possible, takes *vyūḷlhasaṅgame* in the sense of “meeting that has arisen” (but also “intention,” “plan,” “design:” *aramuṇak*) to produce “\[when\] springing forward into dangerous situations” (or “an intention to spring forward into imminent danger”)
+[^7]: *ubhato byūḷhasaṇgame* (BJTS *vyūḷlhasaṅgame*)/*pakkhadanto bhayānake*, following the first suggestion for interpreting this difficult half-verse in BJTS Sinhala gloss, which takes the first compound as *v\[i\]yūḷha + saṅgame*, lit., “the meeting of a mass of troops” (Sinhala gloss: “being sprung upon from two sides by a frightful army”). The other suggestion, also possible, takes *vyūḷlhasaṅgame* in the sense of “meeting that has arisen” (but also “intention,” “plan,” “design:” *aramuṇak*) to produce “\[when\] springing forward into dangerous situations” (or “an intention to spring forward into imminent danger”)
 
 [^8]: lit., “is produced” “is born” “comes into existence”

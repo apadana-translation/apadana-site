@@ -1,4 +1,12 @@
-*\[447. {450.}*[^1] *Bodhighariya*[^2]*\]*  
+---
+title: Bodhighariya
+order: 450
+layout: poem
+category: chapter-3
+---
+
+### \[447. {450.}[^1] Bodhighariya[^2]\]
+
 Happy, with pleasure in \[my\] heart,  
 I had a Bodhi-tree shrine[^3] made  
 for Siddhattha, the Blessed One,  
@@ -16,7 +24,8 @@ constructed by Vissakamma,[^6]
 was spread out for ten leagues \[in length,\]  
 \[and it measured\] eight leagues in width.  
 No\[thing\] in that city was \[made  
-of\][^7] sticks \[or of\] vines \[or of\] clay. (3-4) \[4787-4788\]  
+of\][^7] sticks \[or of\] vines \[or of\] clay. (3-4) \[4787-4788\]
+
 \[My\] palace known as Maṅgala,[^8]  
 constructed by Vissakamma,  
 \[measured\] a league across \[in length,\]  
@@ -57,9 +66,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (12) \[4796\]
 
-Thus indeed Venerable Bodhighariya Thera spoke these verses.  
-The legend of Bodhighariya Thera is finished.  
-The Summary:  
+Thus indeed Venerable Bodhighariya Thera spoke these verses.
+
+The legend of Bodhighariya Thera is finished.
+
+The Summary:
+
 Vibhīṭakī,[^11]Kolaphalī,  
 Billa-Bhallāṭakappada,  
 Nigrodha[^12] and Ambāṭakī,  
@@ -67,14 +79,15 @@ Nigrodha[^12] and Ambāṭakī,
 Vedika, Bodhigharika:  
 the verses that are counted here,  
 which are declared in this chapter,  
-all\[-told\] are one less than eighty.  
+all\[-told\] are one less than eighty.
+
 The Vibhīṭaki Chapter, the Forty-Fifth
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Bodhi Tree Shrine-er”
 
-[^3]: *bodhigharam,* lit., “bodhi \[tree\] house,” an enclosure surrounding a Bodhi tree which functions both as shrine and as protection for the tree. Siddhattha Buddha’s Bodhi tree was a *kaṇikāra,* “dinner-plate tree”
+[^3]: *bodhigharam*, lit., “bodhi \[tree\] house,” an enclosure surrounding a Bodhi tree which functions both as shrine and as protection for the tree. Siddhattha Buddha’s Bodhi tree was a *kaṇikāra*, “dinner-plate tree”
 
 [^4]: the heaven of happiness
 

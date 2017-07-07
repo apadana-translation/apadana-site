@@ -1,4 +1,12 @@
-*\[444. {447.}*[^1] *Sīhāsanika*[^2]*\]*  
+---
+title: Sīhāsanika
+order: 447
+layout: poem
+category: chapter-3
+---
+
+### \[444. {447.}[^1] Sīhāsanika[^2]\]
+
 Happy, with pleasure in \[my\] heart,  
 I gave a lion-throne \[to him,\]  
 Padumuttara, Blessed One,  
@@ -39,7 +47,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[4765\]
 
-Thus indeed Venerable Sīhāsanika Thera spoke these verses.  
+Thus indeed Venerable Sīhāsanika Thera spoke these verses.
+
 The legend of Sīhāsanika Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -48,6 +57,6 @@ The legend of Sīhāsanika Thera is finished.
 
 [^3]: *sabbabhūtahitesino*
 
-[^4]: *bahū...pallaṅkā*
+[^4]: *bahū…pallaṅkā*
 
-[^5]: *aho dhammasudhammatā,* BJTS gloss “the propriety of the Dharma is amazing!”
+[^5]: *aho dhammasudhammatā*, BJTS gloss “the propriety of the Dharma is amazing!”

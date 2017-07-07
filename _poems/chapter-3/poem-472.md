@@ -1,4 +1,12 @@
-*\[469. {472.}*[^1] *Maṇipūjaka*[^2]*\]*  
+---
+title: Maṇipūjaka
+order: 472
+layout: poem
+category: chapter-3
+---
+
+### \[469. {472.}[^1] Maṇipūjaka[^2]\]
+
 The Victor, Padumuttara,  
 was a Master of Everything,  
 Seclusion-Lover, the Sambuddha  
@@ -56,7 +64,8 @@ and wearing earrings made of gems,
 with long eyelashes, lovely smiles[^14]  
 and slim waists, pleasant to look at.[^15]  
 \[They’re\] constantly waiting on me:  
-that’s the fruit of offering gems. (11-12) \[4953-4954\]  
+that’s the fruit of offering gems. (11-12) \[4953-4954\]
+
 Well-made[^16] things to adorn \[myself\]  
 are \[coming\] to me as I wish,  
 made of gold and made of gemstones,  
@@ -107,7 +116,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (22) \[4964\]
 
-Thus indeed Venerable Maṇipūjaka Thera spoke these verses.  
+Thus indeed Venerable Maṇipūjaka Thera spoke these verses.
+
 The legend of Maṇipūjaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -122,7 +132,7 @@ The legend of Maṇipūjaka Thera is finished.
 
 [^6]: lit., “do *pūjā*”
 
-[^7]: *vicinaŋ,* lit., “searching,” “investigating”
+[^7]: *vicinaŋ*, lit., “searching,” “investigating”
 
 [^8]: presumably a gem on a turban of some sort
 
@@ -134,7 +144,7 @@ The legend of Maṇipūjaka Thera is finished.
 
 [^12]: lit., “went”
 
-[^13]: *ālokākaraṇo mama* (BJTS reads *mamaŋ,* “providing me light”)
+[^13]: *ālokākaraṇo mama* (BJTS reads *mamaŋ*, “providing me light”)
 
 [^14]: hasulā = ?
 

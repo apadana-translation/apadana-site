@@ -1,4 +1,12 @@
-*\[472. {475.}*[^1] *Kummāsadāyaka*[^2]*\]*  
+---
+title: Kummāsadāyaka
+order: 475
+layout: poem
+category: chapter-3
+---
+
+### \[472. {475.}[^1] Kummāsadāyaka[^2]\]
+
 When Vipassi, the Sage So Great,  
 was going about as \[he\] wished,  
 seeing \[that his\] bowl was empty,  
@@ -24,11 +32,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[4990\]
 
-Thus indeed Venerable Kummāsadāyaka Thera spoke these verses.  
+Thus indeed Venerable Kummāsadāyaka Thera spoke these verses.
+
 The legend of Kummāsadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Barley-Porridge Donor.” This same *apadāna* is repeated below as \#{559}, verbatim. There it is ascribed to the historical monk Sīvaka.
 
-[^3]: *kummāsa,* Skt. *kulmāṣa*, a preparation of barley, either as a soft porridge or jgruel (PSI *yavayen kaḷ aharayak,”*a food made with barley;” BJTS Sinh. gloss *komupiṇḍu,* “soft-boiled alms”), or as an unleavened cake or junket (PSI: Sinh. *roṭiya*). Given the description of “filling” the empty bowl, the former seems more likely and I have translated accordingly. It is at any rate some food made out of barley.
+[^3]: *kummāsa*, Skt. *kulmāṣa*, a preparation of barley, either as a soft porridge or jgruel (PSI *yavayen kaḷ aharayak*,” a food made with barley;” BJTS Sinh. gloss *komupiṇḍu*, “soft-boiled alms”), or as an unleavened cake or junket (PSI: Sinh. *roṭiya*). Given the description of “filling” the empty bowl, the former seems more likely and I have translated accordingly. It is at any rate some food made out of barley.

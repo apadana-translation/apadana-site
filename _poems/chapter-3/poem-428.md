@@ -1,4 +1,12 @@
-*\[425. {428.}*[^1] *Sucintita*[^2]*\]*  
+---
+title: Sucintita
+order: 428
+layout: poem
+category: chapter-3
+---
+
+### \[425. {428.}[^1] Sucintita[^2]\]
+
 In the city, Haṃsavatī,  
 I was a cultivator then.  
 I \[earn my\] living by farming,  
@@ -29,7 +37,8 @@ I went up to the Sambuddha.
 Having approached the Sambuddha,  
 the World’s Best One, the Bull of Men,  
 \[and\] worshipping the Teacher’s feet,  
-I spoke these words \[to the Buddha\]: (6) \[4572\][^10]  
+I spoke these words \[to the Buddha\]: (6) \[4572\][^10]
+
 “The new crop \[of grain\] has prospered;  
 you’re[^11] the Recipient of Gifts.[^12]  
 O Sage, showing \[me\] compassion,  
@@ -55,7 +64,8 @@ is to be given to these monks.[^17]
 Proposing \[it\], lead monks from the  
 Assembly to that house \[of yours\].  
 What has been prepared in your house,  
-give that to the monks’ Assembly.” (11) \[4577\][^18]  
+give that to the monks’ Assembly.” (11) \[4577\][^18]
+
 Proposing \[it\], leading monks, from the  
 Assembly to that house \[of mine\],  
 what had been prepared in my house,  
@@ -82,7 +92,8 @@ exercised divine rule \[back then\],
 and five times in succession I  
 was a monarch who turns the wheel,  
 \[and I enjoyed\] much local rule,  
-innumerable by counting. (16) \[4582\][^20]  
+innumerable by counting. (16) \[4582\][^20]
+
 Transmigrating from birth to birth,  
 I receive unlimited wealth.  
 I have no lack of possessions:  
@@ -135,7 +146,8 @@ my retinue has no factions.
 They all are giving me respect,  
 whomever on earth I mix with.  
 And whatever gifts[^31] there \[may\] be,  
-I \[always\] get the first of each.[^32] (26-27) \[4592-4593\]  
+I \[always\] get the first of each.[^32] (26-27) \[4592-4593\]
+
 In the middle of the monks[^33] or  
 face-to-face with the Best Buddha,  
 passing over all the \[others\],  
@@ -166,7 +178,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (33) \[4599\]
 
-Thus indeed Venerable Sucintita Thera spoke these verses.  
+Thus indeed Venerable Sucintita Thera spoke these verses.
+
 The legend of Sucintita Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -175,15 +188,15 @@ The legend of Sucintita Thera is finished.
 
 [^3]: lit., “fruited,” *phalitaŋ*
 
-[^4]: *janantassa guṇāguṇaŋ,* lit., “for who knows virtue and non-virtue”
+[^4]: *janantassa guṇāguṇaŋ*, lit., “for who knows virtue and non-virtue”
 
-[^5]: *saṅghe,* lit., “for the assembly of monks”
+[^5]: *saṅghe*, lit., “for the assembly of monks”
 
 [^6]: *asamasamo*
 
 [^7]: *pabhāvita*, BJTS gloss *prabhūta*, lit., “become” “produced” “increased” “furthered”
 
-[^8]: *navasassaŋ pure pure,* BJTS Sinh. gloss *paḷamu paḷamu...navaśasyadānaya,”* “a donation of the new crop, the first the first \[fruits\]”
+[^8]: *navasassaŋ pure pure*, BJTS Sinh. gloss *paḷamu paḷamu…navaśasyadānaya*,” “a donation of the new crop, the first the first \[fruits\]”
 
 [^9]: *haṭṭho pīṇitamānaso*
 
@@ -191,7 +204,7 @@ The legend of Sucintita Thera is finished.
 
 [^11]: reading *tvaṃ* with BJTS (and PTS alt.) for PTS *taŋ*
 
-[^12]: *āyāgo.* The term can refer to the recipient of sacrificial gifts, or to the gifts themselves. PTS seems to assume the latter meaning in reading *taŋ* for *tvaṃ*
+[^12]: *āyāgo*. The term can refer to the recipient of sacrificial gifts, or to the gifts themselves. PTS seems to assume the latter meaning in reading *taŋ* for *tvaṃ*
 
 [^13]: reading *cakkhuma* (voc.) with BJTS for PTS *cakkhumā* (nom.)
 
@@ -215,24 +228,24 @@ The legend of Sucintita Thera is finished.
 
 [^23]: *kappāsika*
 
-[^24]: reading *dukkhaṃ* with BJTS for PTS *dukkaŋ,* an obvious typographical error
+[^24]: reading *dukkhaṃ* with BJTS for PTS *dukkaŋ*, an obvious typographical error
 
 [^25]: *carimo vattate bhavo*
 
-[^26]: reading *deyyadhammo...phalaṃ* with BJTS for PTS *deyyadhamme...phalaŋ* (“the fruit in \[= of?\] my donation”)
+[^26]: reading *deyyadhammo…phalaṃ* with BJTS for PTS *deyyadhamme…phalaŋ* (“the fruit in \[= of?\] my donation”)
 
-[^27]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme splendid group”
+[^27]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
-[^28]: *aṭṭhānisaŋse.* I count the eight here as (1) being handsome, (2) be famous, (3) being wealthy, (4) being free from harm, (5) always being in the majority, (6) having a united retinue, (7) respected by everyone, (8) always being the first to receive gifts
+[^28]: *aṭṭhānisaŋse*. I count the eight here as (1) being handsome, (2) be famous, (3) being wealthy, (4) being free from harm, (5) always being in the majority, (6) having a united retinue, (7) respected by everyone, (8) always being the first to receive gifts
 
-[^29]: *mahābhogo,* lit., “one with many possessions”
+[^29]: *mahābhogo*, lit., “one with many possessions”
 
-[^30]: *mahāpakkho, lit.,* “one of the great faction” “one with a powerful party,”
+[^30]: *mahāpakkho*, lit., “one of the great faction” “one with a powerful party,”
 
-[^31]: *deyyadhammā,* that is, religious gifts presented to the brahmins officiating at a sacrifice, or the monks being honored in an almsgiving, or other religious adepts at a festival, etc.
+[^31]: *deyyadhammā*, that is, religious gifts presented to the brahmins officiating at a sacrifice, or the monks being honored in an almsgiving, or other religious adepts at a festival, etc.
 
 [^32]: *pure pure*
 
-[^33]: *bhikkhusaṅghassa...majjhe*
+[^33]: *bhikkhusaṅghassa…majjhe*
 
-[^34]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame.* As elsewhere, BJTS reads *gaṇavaruttame,* “supreme splendid group”
+[^34]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”

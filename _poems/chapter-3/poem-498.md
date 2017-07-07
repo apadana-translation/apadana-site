@@ -1,4 +1,12 @@
-*\[495. {498.}*[^1] *Puḷinathūpiya*[^2]*\]*  
+---
+title: Puḷinathūpiya
+order: 498
+layout: poem
+category: chapter-3
+---
+
+### \[495. {498.}[^1] Puḷinathūpiya[^2]\]
+
 In the Himalayan region,  
 there’s a mountain named Samaṅga.[^3]  
 I had a well-built hermitage  
@@ -111,7 +119,8 @@ he would spring across a large lake,
 so I, depending on this stick,  
 will cross the great sea \[of being\]:  
 through \[his\] effort and energy  
-a man would cross over the sea. (22-23) \[5325-5326\]  
+a man would cross over the sea. (22-23) \[5325-5326\]
+
 And so too the karma I did,  
 which was \[my\] little protection;[^33]  
 depending on \[that\] karma done,  
@@ -177,12 +186,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[5340\]
 
-Thus indeed Venerable Puḷinathūpiya[^44] Thera spoke these verses.  
+Thus indeed Venerable Puḷinathūpiya[^44] Thera spoke these verses.
+
 The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Sand-Stupa-er.” BJTS reads *Pulinaº *
+[^2]: “Sand-Stupa-er.” BJTS reads *Pulinaº*
 
 [^3]: BJTS reads *Yamako*
 
@@ -202,31 +212,31 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^11]: reading *jāyanti* with BJTS for PTS *jhāyanti* (“are meditating”)
 
-[^12]: *vitakkā gehanissitā,* lit., “initial reflections connected with the house,” i.e., domestic concerns, perseveration about things of the lay world; BJTS Sinh. gloss is *kāmaniḥśrita* (“connected with lust/sense-pleasures”)
+[^12]: *vitakkā gehanissitā*, lit., “initial reflections connected with the house,” i.e., domestic concerns, perseveration about things of the lay world; BJTS Sinh. gloss is *kāmaniḥśrita* (“connected with lust/sense-pleasures”)
 
-[^13]: BJTS (and PTS alt.) read *sugataṃ* (“the Well-Gone-One”) for PTS *sukataŋ.* BJTS Sinhala gloss then treats it adjectivally, *sarvajñastupaya* (“the stupa of the Omniscient One”)
+[^13]: BJTS (and PTS alt.) read *sugataṃ* (“the Well-Gone-One”) for PTS *sukataŋ*. BJTS Sinhala gloss then treats it adjectivally, *sarvajñastupaya* (“the stupa of the Omniscient One”)
 
-[^14]: *viharam,* fr. *viharati.*
+[^14]: *viharam*, fr. *viharati*.
 
 [^15]: *sātthavāhaŋ*
 
 [^16]: *vināyakaŋ*
 
-[^17]: *saŋvaseyyāsi,* lit., “were you to live with” or “that you should live with”
+[^17]: *saŋvaseyyāsi*, lit., “were you to live with” or “that you should live with”
 
 [^18]: *mārisa*, BJTS glosses *nidukāṇeni* (“O you without suffering”)
 
 [^19]: reading *kuvitakke* (pl.) with BJTS for PTS *kuvitakkaŋ* (sing., “bad reflection” or, following the translation in the preceeding verse, “bad pre-occupation”)
 
-[^20]: BJTS reads *tuttāṭṭito,* the more correct (acc. to RD) spelling of PTS *ºaddito*
+[^20]: BJTS reads *tuttāṭṭito*, the more correct (acc. to RD) spelling of PTS *ºaddito*
 
 [^21]: *maccurājā* = Māra
 
 [^22]: *vharamānaŋ maŋ*
 
-[^23]: *kālakato santo,* lit., “being passed away”
+[^23]: *kālakato santo*, lit., “being passed away”
 
-[^24]: *yavatāyuŋ,* lit., “for as long as the lifespan \[in the Brahmā world\],” which is very extensive
+[^24]: *yavatāyuŋ*, lit., “for as long as the lifespan \[in the Brahmā world\],” which is very extensive
 
 [^25]: i.e., the thirty\[-three\] gods, in Tāvatiṃsa heaven
 
@@ -250,22 +260,22 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^35]: lit., “in the city, Śrāvasti,”
 
-[^36]: *mahāsāle,* a mark of wealth (which is further emphasized as *su-aḍhake*, “very wealthy” or “very influential”)
+[^36]: *mahāsāle*, a mark of wealth (which is further emphasized as *su-aḍhake*, “very wealthy” or “very influential”)
 
 [^37]: or a sprout: *papaṭikaŋ*
 
-[^38]: *vinīharuŋ,* lit., “they went out of,” “they threw away”. BJTS Sinhala gloss *bähäraṭa gat ha*
+[^38]: *vinīharuŋ*, lit., “they went out of,” “they threw away”. BJTS Sinhala gloss *bähäraṭa gat ha*
 
 [^39]: lit., “on an *uposatha* day”
 
-[^40]: *dhammasenāpat’,* i.e., Sāriputta. Cf. *Sāriputta-apadāna* (\#1), v. 210, v. 229 (= \[349\], \[368\]) and *Upāli-apadāna* (\#6), v. 99 (= \[544\])
+[^40]: *dhammasenāpat’*, i.e., Sāriputta. Cf. *Sāriputta-apadāna* (\#1), v. 210, v. 229 (= \[349\], \[368\]) and *Upāli-apadāna* (\#6), v. 99 (= \[544\])
 
 [^41]: lit., “in the Śākyas’ Son’s”
 
 [^42]: BJTS jumps from \[5334\] to \[5336\] here, inadvertently (I assume) omitting \[5335\] from its numbering.
 
-[^43]: BJTS reads *soṇṇapuphass’idaṃ phalaṃ,* “that is the fruit of a gold-colored flower,” referring back to the *kṅikaṇi* (PTS: *kiṅkhani*) flowers offered to the sand-stupa (see above, v. 10 \[5313\], cf. v. 18 \[5321\])
+[^43]: BJTS reads *soṇṇapuphass’idaṃ phalaṃ*, “that is the fruit of a gold-colored flower,” referring back to the *kṅikaṇi* (PTS: *kiṅkhani*) flowers offered to the sand-stupa (see above, v. 10 \[5313\], cf. v. 18 \[5321\])
 
-[^44]: BJTS reads *Pulinaº *
+[^44]: BJTS reads *Pulinaº*
 
-[^45]: BJTS reads *Pulinaº *
+[^45]: BJTS reads *Pulinaº*

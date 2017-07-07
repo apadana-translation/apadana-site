@@ -1,4 +1,12 @@
-*\[457. {460.}*[^1] *Gandhapūjaka*[^2]*\]*  
+---
+title: Gandhapūjaka
+order: 460
+layout: poem
+category: chapter-3
+---
+
+### \[457. {460.}[^1] Gandhapūjaka[^2]\]
+
 When the pyres were constructed  
 various scents[^3] were \[then\] gathered.  
 Happy, with pleasure in \[my\] heart,  
@@ -24,9 +32,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[4863\]
 
-Thus indeed Venerable Gandhapūjaka Thera spoke these verses.  
-The legend of Gandhapūjaka Thera is finished.  
-The Summary:  
+Thus indeed Venerable Gandhapūjaka Thera spoke these verses.
+
+The legend of Gandhapūjaka Thera is finished.
+
+The Summary:
+
 Jagatī and[^6] Morahatthī,  
 Āsanī, Ukkadhāraka,  
 Akkamī, Vanakoraṇḍī,  
@@ -34,7 +45,8 @@ Chattada, Jātipūjaka,
 and the elder Paṭṭipupphī,[^7]  
 the tenth is Gandhapūjaka.  
 There are sixty-seven verses  
-which are counted by those who know.  
+which are counted by those who know.
+
 The Jagatidāyaka Chapter, the Forty-Sixth
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

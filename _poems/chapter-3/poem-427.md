@@ -1,4 +1,12 @@
-*\[424. {427.}*[^1] *Ekadhammasavanīya*[^2]*\]*  
+---
+title: Ekadhammasavanīya
+order: 427
+layout: poem
+category: chapter-3
+---
+
+### \[424. {427.}[^1] Ekadhammasavanīya[^2]\]
+
 The Victor, Padumuttara,  
 was the Master of Everything.  
 \[While\] preaching the Four Noble Truths,  
@@ -26,7 +34,8 @@ heard the \[sweet\] sound of the Teacher,
 who was preaching impermanence  
 with a voice that was enticing,  
 good to listen to, beautiful.  
-I took up that \[Teaching\] back then. (5-6) \[4552-4553\]  
+I took up that \[Teaching\] back then. (5-6) \[4552-4553\]
+
 Having perceived impermanence,[^8]  
 I went \[back\] to my hermitage.  
 Remaining as long as I lived,  
@@ -37,7 +46,8 @@ I recalled hearing the Teaching.[^9]
 Due to that karma done very well,  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body,  
-I went to Tāvatiṃsa \[then\]. (8) \[4555\][^10]  
+I went to Tāvatiṃsa \[then\]. (8) \[4555\][^10]
+
 For thirty thousand aeons I  
 delighted in the world of gods,  
 and fifty-one times \[while there\], I  
@@ -53,7 +63,8 @@ being happy from birth to birth.
 Recalling that perception, I  
 transmigrated from birth to birth.  
 I do not comprehend the end,[^12]  
-nirvana, the eternal state. (11) \[4558\][^13]  
+nirvana, the eternal state. (11) \[4558\][^13]
+
 Sitting down in my father’s house,  
 a monk with senses \[well-\]controlled  
 was \[then\] explaining this sermon,[^14]  
@@ -94,16 +105,17 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (19) \[4566\]
 
-Thus indeed Venerable Ekadhammasavanīya Thera spoke these verses.  
+Thus indeed Venerable Ekadhammasavanīya Thera spoke these verses.
+
 The legend of Ekadhammasavanīya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “One-Teaching-Hearer.” BJTS spells the name *Ekadammasavaṇīya*
 
-[^3]: *jaṭila,* an ascetic who wears his hair in a matted braid (*jaṭā*)
+[^3]: *jaṭila*, an ascetic who wears his hair in a matted braid (*jaṭā*)
 
-[^4]: lit., “I was one who practices fierce austerities,” reading *ugga-tāpano* with BJTS (and PTS alternative) for PTS *uggata-āpaṇa,* “rising over the bazaar”
+[^4]: lit., “I was one who practices fierce austerities,” reading *ugga-tāpano* with BJTS (and PTS alternative) for PTS *uggata-āpaṇa*, “rising over the bazaar”
 
 [^5]: *na gantuŋ visahām’ ahaŋ*
 
@@ -123,6 +135,6 @@ The legend of Ekadhammasavanīya Thera is finished.
 
 [^13]: PTS and BJTS agree in presenting this as a six-footed verse.
 
-[^14]: *kathāyaŋ* (BJTS reads *kath’ ayaṃ)*
+[^14]: *kathāyaŋ* (BJTS reads *kath’ ayaṃ*)
 
 [^15]: reading *aniccatam udāhari*

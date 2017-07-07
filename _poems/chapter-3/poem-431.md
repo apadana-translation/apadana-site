@@ -1,5 +1,14 @@
-*Ekavihāriya Chapter, the Forty-Fourth*  
-*\[428. {431.}*[^1] *Ekavihāriya*[^2]*\]*  
+---
+title: Ekavihāriya
+order: 431
+layout: poem
+category: chapter-3
+---
+
+## Ekavihāriya Chapter, the Forty-Fourth
+
+### \[428. {431.}[^1] Ekavihāriya[^2]\]
+
 In this \[present\] lucky aeon  
 Brahmā’s Kinsman, Greatly Famed One,  
 named Kassapa through \[his\] lineage,[^3]  
@@ -13,7 +22,7 @@ of Appearances,[^9] the Master,[^10] (2) \[4631\]
 Heart Unattached,[^11] Defilement-Free,[^12]  
 Not Mixing in the clan \[and\] group,[^13]  
 Greatly Compassionate, Hero,  
-Skilled in means of disciplining,[^14](3) \[4632\]
+Skilled in means of disciplining,[^14] (3) \[4632\]
 
 Active in duties to others,[^15]  
 Training \[the whole world\] with \[its\] gods,[^16]  
@@ -22,7 +31,8 @@ road that leads to nirvana --
 undying, supreme enjoyment,[^17]  
 obstacle to old age and death[^18] --  
 the One Who Helps the World Across[^19]  
-was seated amidst a huge crowd. (4-5) \[4633-4634\]  
+was seated amidst a huge crowd. (4-5) \[4633-4634\]
+
 Lord,[^20] with the Voice of a Cuckoo,[^21]  
 the Sound of Brahmā,[^22] Thus-Gone-One,[^23]  
 Lifting \[those on\] very bad roads[^24]  
@@ -58,7 +68,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (12) \[4641\]
 
-Thus indeed Venerable Ekavihāriya Thera spoke these verses.  
+Thus indeed Venerable Ekavihāriya Thera spoke these verses.
+
 The legend of Ekavihāriya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -67,7 +78,7 @@ The legend of Ekavihāriya Thera is finished.
 
 [^3]: *gottena*
 
-[^4]: *nippapañca,* lit., “One who Lacks the Delays,” i.e., the three characteristics (craving, delusion, pride) which delay progress toward nirvana.
+[^4]: *nippapañca*, lit., “One who Lacks the Delays,” i.e., the three characteristics (craving, delusion, pride) which delay progress toward nirvana.
 
 [^5]: *nirālambo*
 
@@ -93,7 +104,7 @@ The legend of Ekavihāriya Thera is finished.
 
 [^16]: *vinayanto sadevake*
 
-[^17]: *param-assāda,* BJTS Sinhala gloss *paramāśvādaya*
+[^17]: *param-assāda*, BJTS Sinhala gloss *paramāśvādaya*
 
 [^18]: *jarāmaccunivāraṇaŋ*
 

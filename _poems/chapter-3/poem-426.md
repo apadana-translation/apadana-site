@@ -1,10 +1,19 @@
-*\[423. {426.}*[^1] *Ghatamaṇḍadāyaka*[^2]*\]*  
+---
+title: Ghatamaṇḍadāyaka
+order: 426
+layout: poem
+category: chapter-3
+---
+
+### \[423. {426.}[^1] Ghatamaṇḍadāyaka[^2]\]
+
 Seeing the Blessed One, Well-Thought,[^3]  
 the World’s Best One, the Bull of Men,  
 entered into the great forest,  
 tormented by internal pain,[^4]  
 bringing pleasure to \[my own\] heart,  
-I presented cream from some ghee.[^5] (1) \[4539\][^6]  
+I presented cream from some ghee.[^5] (1) \[4539\][^6]
+
 From doing and heaping \[that\] up,[^7]  
 the river \[named\] Bhāgīrathī,[^8]  
 \[and\] even the four great oceans  
@@ -25,7 +34,8 @@ I exercised divine rule \[there\].
 And fifty-one times I was \[then\]  
 a king who turns the wheel \[of law\].  
 \[And I enjoyed\] much local rule,  
-innumerable by counting. (5) \[4543\][^12]  
+innumerable by counting. (5) \[4543\][^12]
+
 In the ninety-four aeons since  
 I gave \[him\] that gift at that time,  
 I’ve come to know no bad rebirth:  
@@ -46,7 +56,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[4547\]
 
-Thus indeed Venerable Ghatamaṇḍadāyaka Thera spoke these verses.  
+Thus indeed Venerable Ghatamaṇḍadāyaka Thera spoke these verses.
+
 The legend of Ghatamaṇḍadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -55,7 +66,7 @@ The legend of Ghatamaṇḍadāyaka Thera is finished.
 
 [^3]: *sucintitaŋ*
 
-[^4]: *vātābādhena,* “a disease of the wind,” one of the three humors in classical Indian (including Buddhist) medical traditions.
+[^4]: *vātābādhena*, “a disease of the wind,” one of the three humors in classical Indian (including Buddhist) medical traditions.
 
 [^5]: *ghata* (cream, scum) + *maṇḍa* (clarified butter, ghee), i.e., the best part of the ghee, the purest oil skimmed off the top of a pot of ghee.
 
@@ -69,6 +80,6 @@ The legend of Ghatamaṇḍadāyaka Thera is finished.
 
 [^10]: this foot (as elsewhere) consists of two different words for” tree”: *dharaṇī-rūha* (“growing in the earth”) and *pādapa* (“drinking from the feet \[or roots\]”). Though awkward in English, I translate literally here rather than give the non-descriptive “tree, which was a tree”.
 
-[^11]: *bhavanti,* become
+[^11]: *bhavanti*, become
 
 [^12]: PTS and BJTS agree in presenting this as a six-footed verse.

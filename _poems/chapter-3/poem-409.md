@@ -1,4 +1,12 @@
-*\[406. {409.}*[^1] *Jatukaṇṇika*[^2]*\]*  
+---
+title: Jatukaṇṇika
+order: 409
+layout: poem
+category: chapter-3
+---
+
+### \[406. {409.}[^1] Jatukaṇṇika[^2]\]
+
 In the city, Haṃsavatī,  
 I was the son of a rich man.[^3]  
 I amuse myself all the time,  
@@ -19,13 +27,12 @@ bower-crouchers,[^12] in-the-middlers,[^13]
 leapers[^14] and comedy-dancers[^15]  
 are always entertaining me. (4) \[4168\]
 
-Cymbal-beaters,[^16] *kumbhathūn-*ers,[^17]  
+Cymbal-beaters,[^16] *kumbhathūn*-ers,[^17]  
 many dancers,[^18] puppet-masters;[^19]  
 \[those\] dancers and puppet-masters  
 are always entertaining me. (5) \[4169\]
 
-Bath boys[^20] \[and\] []{#BookmarkCopy1 .anchor}those who dress the
-hair,[^21]  
+Bath boys[^20] \[and\] those who dress the hair,[^21]  
 cooks,[^22] garland-makers,[^23] dice-players,[^24]  
 all the boxers[^25] \[and\] the wrestlers[^26]  
 are always entertaining me. (6) \[4170\]
@@ -45,52 +52,52 @@ the unexcelled fields[^36] for merit,
 working to increase[^37] my merit  
 are \[also\] coming to my house. (9) \[4173\]
 
-All the Jains: the *Padaka*s[^38] the  
-*Laṭakas,*[^39] *Pupphasāṭakas,*[^40]  
-*Tedaṇḍakas,*[^41] *Ekasikhas*[^42]  
+All the Jains: the *Padaka*/s[^38] the  
+*Laṭakas*,[^39] *Pupphasāṭakas*,[^40]  
+*Tedaṇḍakas*,[^41] *Ekasikhas*[^42]  
 are \[also\] coming to my house. (10) \[4174\]
 
-Ājīvikas: the *Godhammas,*[^43]  
-*Viluttāvīs,*[^44] *Devadhammis,*[^45]  
-\[and the\] *Rajojalladharas,*[^46]  
+Ājīvikas: the *Godhammas*,[^43]  
+*Viluttāvīs*,[^44] *Devadhammis*,[^45]  
+\[and the\] *Rajojalladharas*,[^46]  
 are \[also\] coming to my house. (11) \[4175\]
 
 Ascetics and forest dwellers:  
-*Parivattakas,*[^47] *Siddhipattas*[^48]  
-many *Koṇḍas,*[^49] *Puggalikas,*[^50]  
+*Parivattakas*,[^47] *Siddhipattas*[^48]  
+many *Koṇḍas*,[^49] *Puggalikas*,[^50]  
 are \[also\] coming to my house. (12) \[4176\]
 
-*Oḍḍakas,*[^51] also *Damiḷas,*[^52]  
-*Sākulas,*[^53] *Malayāḷakas,*[^54]  
-*Sabaras,*[^55] and *Yonakas*[^56] too  
+*Oḍḍakas*,[^51] also *Damiḷas*,[^52]  
+*Sākulas*,[^53] *Malayāḷakas*,[^54]  
+*Sabaras*,[^55] and *Yonakas*[^56] too  
 are \[also\] coming to my house. (13) \[4177\]
 
-*Andhakas*,[^57] all the *Muṇḍakas,*[^58]  
-*Kolakas,*[^59] *Sānuvindakas,*[^60]  
+*Andhakas*,[^57] all the *Muṇḍakas*,[^58]  
+*Kolakas*,[^59] *Sānuvindakas*,[^60]  
 and *Ārāvacīnaraṭṭhas*[^61]  
 are \[also\] coming to my house. (14) \[4178\]
 
-*Alasandakas,*[^62] *Pallavakas,*[^63]  
-*Babbaras,*[^64] *Bhagga-kārusas,*[^65]  
+*Alasandakas*,[^62] *Pallavakas*,[^63]  
+*Babbaras*,[^64] *Bhagga-kārusas*,[^65]  
 *Rohitas*[^66] and *Cetaputtas*,[^67]  
 are \[also\] coming to my house. (15) \[4179\]
 
-*Madhurakas*,[^68] *Kosalakas,*[^69]  
-*Kāsikas,*[^70] *Hatthiporakas*,[^71]  
-*Isiṇḍas,*[^72] and *Matthalas*[^73] \[too\]  
+*Madhurakas*,[^68] *Kosalakas*,[^69]  
+*Kāsikas*,[^70] *Hatthiporakas*,[^71]  
+*Isiṇḍas*,[^72] and *Matthalas*[^73] \[too\]  
 are \[also\] coming to my house. (16) \[4180\]
 
-*Velāvakas*[^74] and *Arammas,*[^75]  
+*Velāvakas*[^74] and *Arammas*,[^75]  
 *Okkalas*,[^76] many *Mekalas*,[^77]  
 *Khuddakas*[^78] and *Suddakas*[^79] \[too\]  
 are \[also\] coming to my house. (17) \[4181\]
 
-*Rohanas,*[^80] also *Sindhava*s,[^81]  
-*Cittas*[^82] \[and\] *Ekakaṇṇikas,*[^83]  
+*Rohanas*,[^80] also *Sindhava*s,[^81]  
+*Cittas*[^82] \[and\] *Ekakaṇṇikas*,[^83]  
 *Suraṭṭhas*[^84] and *Aparantas*[^85]  
 are \[also\] coming to my house. (18) \[4182\]
 
-*Suppārikas,*[^86] *Kikumāras*[^87]  
+*Suppārikas*,[^86] *Kikumāras*[^87]  
 *Malayas*,[^88] *Soṇṇabhūmakas*,[^89]  
 *Vajjihāras*[^90] too, all of them  
 are \[also\] coming to my house. (19) \[4183\]
@@ -106,7 +113,7 @@ and those who work in tin, they all
 are \[also\] coming to my house. (21) \[4185\]
 
 Fletchers[^101] and the makers of bows,[^102]  
-weavers[^103] and makers of perfumes,[^104][]{#BookmarkCopy12 .anchor}  
+weavers[^103] and makers of perfumes,[^104]  
 as well as tailors,[^105] all of them  
 are \[also\] coming to my house. (22) \[4186\]
 
@@ -128,7 +135,8 @@ with gems of the seven colors. (25) \[4189\]
 I satisfied with gemstones all  
 those people who were praised by me,  
 the multi-colored populace,  
-discerning what they were thinking. (26) \[4190  
+discerning what they were thinking. (26) \[4190\]
+
 When the lovely words were spoken,  
 when the drums were being sounded,  
 when the conch-shells were being blown,  
@@ -269,20 +277,21 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (54) \[4218\]
 
-Thus indeed Venerable Jatukaṇṇika Thera spoke these verses.  
+Thus indeed Venerable Jatukaṇṇika Thera spoke these verses.
+
 The legend of Jatukaṇṇika Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: a historical monk, another of Bāvarī’s students whose questions put to the Buddha, and his answer, are contained in the *Jatukaṇṇi Sutta* (a.k.a. J*atukaṇṇimāṇavapucchā)* of SN (vv. 1096-1100; the eleventh *sutta* of the *Parāyana Vagga*). BJTS reads *Jatukaṇṇi.*
+[^2]: a historical monk, another of Bāvarī’s students whose questions put to the Buddha, and his answer, are contained in the *Jatukaṇṇi Sutta* (a.k.a. J*atukaṇṇimāṇavapucchā)* of SN (vv. 1096-1100; the eleventh *sutta* of the *Parāyana Vagga*). BJTS reads *Jatukaṇṇi*.
 
 [^3]: *seṭṭhiputto*, “a millionaire’s son”
 
 [^4]: reading *tayo* with BJTS (and PTS alt.) for PTS *tato*, “then” “after that” “from that”
 
-[^5]: *ubbiddhā,* Skt. *udviddha,* a rare term outside *Apadāna* (and J) meaning (according to Cone) “high, elevated.” BJTS glosses it as a verb rather than an adjective (which would produce “tall architects”), “constructed \[a building\]” (*goḍanäguha*). I follow BJTS in making sense of this verse.
+[^5]: *ubbiddhā*, Skt. *udviddha*, a rare term outside *Apadāna* (and J) meaning (according to Cone) “high, elevated.” BJTS glosses it as a verb rather than an adjective (which would produce “tall architects”), “constructed \[a building\]” (*goḍanäguha*). I follow BJTS in making sense of this verse.
 
-[^6]: *gehalañchakā,* lit., “those who know \[make, do\] the marks of houses;” BJTS Sinh. gloss is just that: *geval lakuṇu dannō.* Lilley says all the mss give *lañjaka,* but variants are not noted by BJTS (*ºlañchakā)*
+[^6]: *gehalañchakā*, lit., “those who know \[make, do\] the marks of houses;” BJTS Sinh. gloss is just that: *geval lakuṇu dannō*. Lilley says all the mss give *lañjaka*, but variants are not noted by BJTS (*ºlañchakā*)
 
 [^7]: *turiyā*
 
@@ -290,47 +299,47 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^9]: reading *samma-tāla-samāhitā* with BJTS for PTS *sāma-tāla-samāhitā* (“keep up \[be attentive to, stay fixed on, put down\] the same melody”). The difference is slight -- the point is that they are played well -- but BJTS is (like Indian classical music) open to a wider range of “proper” performances (harmonics) than all instruments playing the same melody, so I prefer its reading; in this context “proper” is not necessarily synonymous with “the same.”
 
-[^10]: reading *velāpikā* with BJTS (and PTS alt) for PTS *velāmikā* (RD: “some sort of servants, especially in demand for a noble’s retinue”); BJTS gloss *piḷi hisa sisārannō,* “people who twirl around their heads completely”
+[^10]: reading *velāpikā* with BJTS (and PTS alt) for PTS *velāmikā* (RD: “some sort of servants, especially in demand for a noble’s retinue”); BJTS gloss *piḷi hisa sisārannō*, “people who twirl around their heads completely”
 
-[^11]: *vāmanikā*, read fr. *vāmanaka,* dwarfish, *vāmana,* a dwarf. BJTS (and PTS alt.) read *lāmaṇikā*, BJTS gloss for this is also *aṅguṭumiṭiº* = “extremely small dwarf” + *ºnätum naṭannō,* “-dance-dancers”
+[^11]: *vāmanikā*, read fr. *vāmanaka*, dwarfish, *vāmana*, a dwarf. BJTS (and PTS alt.) read *lāmaṇikā*, BJTS gloss for this is also *aṅguṭumiṭiº* = “extremely small dwarf” + *ºnätum naṭannō*, “-dance-dancers”
 
-[^12]: reading *kuñjavāsī* (“dwelling in a bower,” “living in a place covered with vines”) with BJTS for PTS *kujjā vā sīhi.* BJTS glosses: *kudu vūven men naṭannō,* “those who dance as though they have become small,” crouched up (as though they are under a bower or in a place covered over with vines).
+[^12]: reading *kuñjavāsī* (“dwelling in a bower,” “living in a place covered with vines”) with BJTS for PTS *kujjā vā sīhi*. BJTS glosses: *kudu vūven men naṭannō*, “those who dance as though they have become small,” crouched up (as though they are under a bower or in a place covered over with vines).
 
 [^13]: reading *timajjhikā* (“third in the middle-ers”) with BJTS for PTS *sīhi-majjhikā* (“in the middle of lionnesses”), though BJTS gloss *sihadenakagē men mäda pedesa penvamin naṭannō* (“dancers who put on a show like they are in the area between two lions”) preserves the meaning of the latter
 
-[^14]: *laṅghikā,* lit., “deer-like-\[dancers\]” (fr. *laṅghi*); BJTS gloss *uḍaṭa matuvemin naṭannō* (“dancers who rise upwards”), figuratively “leaping like a deer”
+[^14]: *laṅghikā*, lit., “deer-like-\[dancers\]” (fr. *laṅghi*); BJTS gloss *uḍaṭa matuvemin naṭannō* (“dancers who rise upwards”), figuratively “leaping like a deer”
 
 [^15]: *sokajjhāyī*, lit., “sorrow-destroyers”. BJTS gloss *usuḷu-visuḷu pāmin naṭannō* (“dancers who present absurdities and fooleries”)
 
-[^16]: *vetālino,* according to RD practitioners of a (forbidden) art which was already not understand in the commentaries, Bdgh. def. “cymbal beating which some take to be raising the dead by magic” (cf. *vetāla,* ghost); RD: chanting of bards for a king. BJTS gloss *ghanatālampoṭa gasannō* (“people who play the Tamil cymbal \[Sinh-Eng dict: *tālampaṭaya*, played along with tambourine and dancing\]”)
+[^16]: *vetālino*, according to RD practitioners of a (forbidden) art which was already not understand in the commentaries, Bdgh. def. “cymbal beating which some take to be raising the dead by magic” (cf. *vetāla*, ghost); RD: chanting of bards for a king. BJTS gloss *ghanatālampoṭa gasannō* (“people who play the Tamil cymbal \[Sinh-Eng dict: *tālampaṭaya*, played along with tambourine and dancing\]”)
 
-[^17]: *kumbhathūnī,* BJTS gloss “those who play a certain kind of instrument strapped to the face,” apparently a sort of drum.
+[^17]: *kumbhathūnī*, BJTS gloss “those who play a certain kind of instrument strapped to the face,” apparently a sort of drum.
 
-[^18]: *naccakā,* which like the *naṭa* (see next note) can refer to dancers, mimes, actors, etc.
+[^18]: *naccakā*, which like the *naṭa* (see next note) can refer to dancers, mimes, actors, etc.
 
-[^19]: *naṭā,* BJTS gloss *rūkaḍa naṭavannō* (“people who make puppets dance”)
+[^19]: *naṭā*, BJTS gloss *rūkaḍa naṭavannō* (“people who make puppets dance”)
 
-[^20]: *nahāpakā,* BJTS gloss *diyavaḍannō* (“those who bring the water”)
+[^20]: *nahāpakā*, BJTS gloss *diyavaḍannō* (“those who bring the water”)
 
-[^21]: *kappakā,* RD barber, hairdresser, bath attendant; BJTS gloss *karaṇuvǟmiyo* (“barbers”)
+[^21]: *kappakā*, RD barber, hairdresser, bath attendant; BJTS gloss *karaṇuvǟmiyo* (“barbers”)
 
-[^22]: *sūdā,* BJTS gloss *arakkämiyo* (“cooks”)
+[^22]: *sūdā*, BJTS gloss *arakkämiyo* (“cooks”)
 
 [^23]: *mālakārakā*
 
 [^24]: *sumāpakā*, following BJTS Sinh. gloss *mänavin pasäṭa* (= *pasa äṭaya*) *keḷinnō* (“people who play dice well”)
 
-[^25]: *jallā,* RD: athlete, acrobat; BJTS Sinh. gloss *pora badannō* (“people who box”)
+[^25]: *jallā*, RD: athlete, acrobat; BJTS Sinh. gloss *pora badannō* (“people who box”)
 
 [^26]: reading *mallāni* with BJTS (and PTS alt.) for PTS *mallā ti* (“‘wrestlers’”)
 
 [^27]: *sikkhite*
 
-[^28]: *katupāsane,* lit., “those who have done the practice” (or read, as RD directs, “skilled archers?,” “those who have done archery”? The more general meaning follows BJTS Sinh. gloss *palapurudukam äti*
+[^28]: *katupāsane*, lit., “those who have done the practice” (or read, as RD directs, “skilled archers?,” “those who have done archery”? The more general meaning follows BJTS Sinh. gloss *palapurudukam äti*
 
 [^29]: contract to diff’rent in chanting, *metri causa*
 
-[^30]: *Indo,* king of the gods, = Indra, Sakka, Śakra
+[^30]: *Indo*, king of the gods, = Indra, Sakka, Śakra
 
 [^31]: *tidasa-gaṇe*, lit., “in the company of the thirty \[for thirty-three\] gods,” BJTS Sinh gloss “in the highest heaven of happiness (Tusitā).”
 
@@ -360,15 +369,15 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^44]: “plundered” “robbed” “stripped”
 
-[^45]: texts read *devadhammikā,* “god-teaching-ers” or perhaps“teachings \[for\] the king”
+[^45]: texts read *devadhammikā*, “god-teaching-ers” or perhaps“teachings \[for\] the king”
 
-[^46]: “dust-and-dirt wearers,” BJTS Sinh gloss “(having robes) that are soiled with filth \[*rajo = rajas*\] and sand (*däli*),” RD *rajo* s.v., “dust and (wet) dirt, muddy dirt.” Elsewhere in *Apadāna* \[e.g., 3463, 3521, 5322\] being *not* covered in *rajojalla* is a fruit of previous-life merit.
+[^46]: “dust-and-dirt wearers,” BJTS Sinh gloss “(having robes) that are soiled with filth \[*rajo* = *rajas*\] and sand (*däli*),” RD *rajo* s.v., “dust and (wet) dirt, muddy dirt.” Elsewhere in *Apadāna* \[e.g., 3463, 3521, 5322\] being *not* covered in *rajojalla* is a fruit of previous-life merit.
 
 [^47]: “turning around”
 
 [^48]: “goal-attainers”. Note that both editions of the text -- and the mss. -- give a nine-syllable foot here; I do too, mostly out of necessity: these names of groups of ascetics and forest dwellers do not lend themselves to eight-syllable feet
 
-[^49]: Rd would lead us to look fr. *kuṇḍa*, “bent” “crooked” or *kuṇḍi*, pot? PSI does not give “crooked” as a meaning of *kuṇḍa,* but rather “pot” *(säḷiya*) or “iguana” (*talagoyā*), either of which could evoke something specific about the group in question, is RD is right to derive the word this way. PSI also gives a defn for *koṇḍa* (which I follow in the mock-translation in the fn on v. (10) \[4174\] above), “having a family,” Sinh. “being a family man connected with having a wife”
+[^49]: Rd would lead us to look fr. *kuṇḍa*, “bent” “crooked” or *kuṇḍi*, pot? PSI does not give “crooked” as a meaning of *kuṇḍa*, but rather “pot” *(säḷiya*) or “iguana” (*talagoyā*), either of which could evoke something specific about the group in question, is RD is right to derive the word this way. PSI also gives a defn for *koṇḍa* (which I follow in the mock-translation in the fn on v. (10) \[4174\] above), “having a family,” Sinh. “being a family man connected with having a wife”
 
 [^50]: “Individuals” “private ones”
 
@@ -380,7 +389,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^54]: Malalyalis
 
-[^55]: DPPN II: 1032, 1029, equates with *Sapara* and *Savara,* people from Sabaragamuwa Province in Sri Lanka, Veddas.
+[^55]: DPPN II: 1032, 1029, equates with *Sapara* and *Savara*, people from Sabaragamuwa Province in Sri Lanka, Veddas.
 
 [^56]: Greeks
 
@@ -400,7 +409,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^64]: DPPN II: 268, “Name of a tribe,” citing this list
 
-[^65]: DPPN I:571, cites this text for *Kārusā.* DPPN II:345, *Bhaggā,* s.v.: “The name of a tribe and a country, the capital of which was Suṃsumāraglri (q.v)”
+[^65]: DPPN I:571, cites this text for *Kārusā*. DPPN II:345, *Bhaggā*, s.v.: “The name of a tribe and a country, the capital of which was Suṃsumāraglri (q.v)”
 
 [^66]: reading with BJTS; PTS gives *bahikā*
 
@@ -422,7 +431,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^75]: not in DPPN
 
-[^76]: DPPN I:460: “Okkalā.—The people of Okkalajanapada \[MA ii.894\]; mentioned also in the Apadāna in a list of tribes \[citing this text\].” Cf. I:330: “Ukkalā.—A district (janapada) in the region identified with modern Orissa.’ The merchants Tapassu and Bhalluka were on the way from Ukkalā...Ukkulas are mentioned in lists of people at several points in Mhb”
+[^76]: DPPN I:460: “Okkalā.—The people of Okkalajanapada \[MA ii.894\]; mentioned also in the Apadāna in a list of tribes \[citing this text\].” Cf. I:330: “Ukkalā.—A district (janapada) in the region identified with modern Orissa.’ The merchants Tapassu and Bhalluka were on the way from Ukkalā…Ukkulas are mentioned in lists of people at several points in Mhb”
 
 [^77]: DPPN II:651, mentions only this text, and says the readinig is “very uncertain.”
 
@@ -462,19 +471,19 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^95]: *kammārā*
 
-[^96]: *kumbhakārā,* lit., “wate-jug-makers”
+[^96]: *kumbhakārā*, lit., “wate-jug-makers”
 
 [^97]: *maṇikārā*
 
 [^98]: *lohakārā*
 
-[^99]: *soṇṇakārā.* Could also mean sellers of gold
+[^99]: *soṇṇakārā*. Could also mean sellers of gold
 
 [^100]: *dussikā*
 
-[^101]: *usukārā,* arrow-makers
+[^101]: *usukārā*, arrow-makers
 
-[^102]: *cāpakārā.* BJTS reads *bhamakārā* (?)
+[^102]: *cāpakārā*. BJTS reads *bhamakārā* (?)
 
 [^103]: *pesakārā*
 
@@ -490,19 +499,19 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^109]: *sūpikā*
 
-[^110]: reading *supa\[*read *sūpa* with gloss*\]rakkhā* (“soup-guards”) with BJTS for PTS *rūdasakkā* (?)
+[^110]: reading *supa \[read* sūpa *with gloss\] rakkhā* (“soup-guards”) with BJTS for PTS *rūdasakkā* (?)
 
-[^111]: *dovārika* fr. *dvāra. *
+[^111]: *dovārika* fr. *dvāra*.
 
-[^112]: *anīkaṭṭhā,* BJTS reads *anīkaṭṭhā* and glosses “those who protect the army camp (*bala-äṇi raknō)”*
+[^112]: *anīkaṭṭhā*, BJTS reads *anīkaṭṭhā* and glosses “those who protect the army camp (*bala-äṇi raknō*)”
 
-[^113]: reading *vandikā* with BJTS (gloss *tuti pävasum karaṇa,* “makers of pleasing recitations”) for PTS *sandhikā* (“people who join things together,” welders?)
+[^113]: reading *vandikā* with BJTS (gloss *tuti pävasum karaṇa*, “makers of pleasing recitations”) for PTS *sandhikā* (“people who join things together,” welders?)
 
-[^114]: *hatth’ārūḷhā,* those mounted on elephants
+[^114]: *hatth’ārūḷhā*, those mounted on elephants
 
-[^115]: *hatthipālā,* keepers or guardians or protectors
+[^115]: *hatthipālā*, keepers or guardians or protectors
 
-[^116]: *pūrayām’ ahaŋ,* lit., “I fulfilled,” “I filled in for” “I filled up”
+[^116]: *pūrayām’ ahaŋ*, lit., “I fulfilled,” “I filled in for” “I filled up”
 
 [^117]: lit., “the Blessed One”
 
@@ -510,11 +519,11 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^119]: contract as ev’ry (two syllables) for chanting, to keep the meter
 
-[^120]: *vajjanti,* lit., “sounding”
+[^120]: *vajjanti*, lit., “sounding”
 
 [^121]: lit., “in the inside of”
 
-[^122]: *catuddīpe,* lit., “the four great islands” “all the continents”
+[^122]: *catuddīpe*, lit., “the four great islands” “all the continents”
 
 [^123]: *pañcasīle*: to practice restraint from taking life, taking what is not given, sexual misconduct, false speech and becoming careless through the use of alcohol.
 

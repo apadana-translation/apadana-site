@@ -1,4 +1,12 @@
-*\[471. {474.}*[^1] *Sumanavījaniya*[^2]*\]*  
+---
+title: Sumanavījaniya
+order: 474
+layout: poem
+category: chapter-3
+---
+
+### \[471. {474.}[^1] Sumanavījaniya[^2]\]
+
 With[^3] a fan \[covered in\] jasmine,  
 I fanned the superb Bodhi at  
 the foot of the superb Bodhi[^4]  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[4985\]
 
-Thus indeed Venerable Sumanavījaniya Thera spoke these verses.  
+Thus indeed Venerable Sumanavījaniya Thera spoke these verses.
+
 The legend of Sumanavījaniya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

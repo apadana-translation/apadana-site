@@ -1,4 +1,12 @@
-*\[410. {413.}*[^1] *Tiṇasūlakachādaniya*[^2]*\]*  
+---
+title: Tiṇasūlakachādaniya
+order: 413
+layout: poem
+category: chapter-3
+---
+
+### \[410. {413.}[^1] Tiṇasūlakachādaniya[^2]\]
+
 At that time I contemplated  
 birth and decrepitude \[and\] death.  
 Going out \[from the home\] alone,[^3]  
@@ -108,7 +116,7 @@ I am living all of the time.[^26] (21) \[4366\]
 There’s no deficiency for me  
 in robes and food that I beg for,  
 in requisites \[and\] bed-and-seat:[^27]  
-that’s the fruit of Buddha-*pūjā.* (22) \[4367\]
+that’s the fruit of Buddha*-pūjā*. (22) \[4367\]
 
 Now deathlessness has been attained,  
 the unsurpassed \[great\] state of peace.  
@@ -118,7 +126,7 @@ I am living without constraint.[^28] (23) \[4368\]
 In the ninety-two aeons since  
 I did *pūjā* to the Buddha,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (24) \[4369\]
+that’s the fruit of Buddha*-pūjā*. (24) \[4369\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -135,22 +143,23 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (27) \[4372\]
 
-Thus indeed Venerable Tiṇasūlakachādaniya[^29] Thera spoke these verses.  
+Thus indeed Venerable Tiṇasūlakachādaniya[^29] Thera spoke these verses.
+
 The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Arabian-Jasmine-Flower-Coverer,“ BJTS reads *Tiṇasūlakachadaniya,* with the same meaning. DPPN I:1008 leaves *Tiṇasūla* untranslated; BJTS Sinhala gloss is *bōlidda,* Arabian Jasmine, a fragrant small white flower (*ºidda*) which flowers in ball-like (*bōlº*) clusters.
+[^2]: “Arabian-Jasmine-Flower-Coverer,“ BJTS reads *Tiṇasūlakachadaniya*, with the same meaning. DPPN I:1008 leaves *Tiṇasūla* untranslated; BJTS Sinhala gloss is *bōlidda*, Arabian Jasmine, a fragrant small white flower (*ºidda*) which flowers in ball-like (*bōlº*) clusters.
 
-[^3]: *ekato* is the ablative form of *eka,* the number “one” which also functions as an indefinite article. I am reading it here as though it were *ekatta* (“alone”) following the BJTS Sinh. gloss (*ekalāva* = alone, singly) rather than, as is the more common Pāli usage, “together”.
+[^3]: *ekato* is the ablative form of *eka*, the number “one” which also functions as an indefinite article. I am reading it here as though it were *ekatta* (“alone”) following the BJTS Sinh. gloss (*ekalāva* = alone, singly) rather than, as is the more common Pāli usage, “together”.
 
-[^4]: *upāgamin,* “went up to” “approached”
+[^4]: *upāgamin*, “went up to” “approached”
 
 [^5]: or “the banks of the Ganges,” *gaṅgātīram*
 
-[^6]: *paṭhaviŋ...supaṇṇataŋ*, I suppose “fullness of flora and fauna,” given the subsequent verses.
+[^6]: *paṭhaviŋ…supaṇṇataŋ*, I suppose “fullness of flora and fauna,” given the subsequent verses.
 
-[^7]: º*āyuto*, lit., “connected with” “furnished with” “endowed with” “possessing”
+[^7]: *ºāyuto*, lit., “connected with” “furnished with” “endowed with” “possessing”
 
 [^8]: *ºgaṇaº*, “groups”.
 
@@ -166,21 +175,21 @@ The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
 [^14]: lit., “did *pūjā*”
 
-[^15]: *nāgakesaraŋ,* BJTS gloss specifies that the meaning is “pollen of ironwood (*nā, nāga*) flowers.”
+[^15]: *nāgakesaraŋ*, BJTS gloss specifies that the meaning is “pollen of ironwood (*nā, nāga*) flowers.”
 
 [^16]: *osadhī*. RD (s.v.) points out that all we really know about this star is that it was particularly bright, leading Childers to translate it as “Venus” and others as the morning star.
 
 [^17]: lit., “of,” gen. case, “not-seeing of Buddhas”
 
-[^18]: *patantya&lt;patanti,* note the Sanskritic *sandhi* here
+[^18]: *patantya&lt;patanti*, note the Sanskritic *sandhi* here
 
-[^19]: *avīcinirayaŋ,* a particularly oppressive hell-state
+[^19]: *avīcinirayaŋ*, a particularly oppressive hell-state
 
 [^20]: *phusanti*
 
-[^21]: lit., “did *pūjā”*
+[^21]: lit., “did *pūjā*”
 
-[^22]: *tiṇasūlaŋ,* Sinh. *bōlidda, *
+[^22]: *tiṇasūlaŋ*, Sinh. *bōlidda*
 
 [^23]: lit., “of”
 

@@ -1,4 +1,12 @@
-*\[430. {433.}*[^1] *Pāṭihīrasaññaka*[^2]*\]*  
+---
+title: Pāṭihīrasaññaka
+order: 433
+layout: poem
+category: chapter-3
+---
+
+### \[430. {433.}[^1] Pāṭihīrasaññaka[^2]\]
+
 The Victor, Padumuttara,  
 Sacrificial Recipient,  
 entered the city at that time,  
@@ -44,17 +52,18 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[4663\]
 
-Thus indeed Venerable Pāṭihīrasaññaka Thera spoke these verses.  
+Thus indeed Venerable Pāṭihīrasaññaka Thera spoke these verses.
+
 The legend of Pāṭihīrasaññaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Miracle-Perceiver.” This is the BJTS (and correct) spelling; PTS reads *Pātihīraº*
 
-[^3]: *vasī =* arahants
+[^3]: *vasī* = arahants
 
 [^4]: *ānubhāvena*
 
-[^5]: *vīnā,* the Indian lute, mandolin, veena
+[^5]: *vīnā*, the Indian lute, mandolin, veena
 
-[^6]: *namassāmi,* paying honor to, giving homage to, venerating
+[^6]: *namassāmi*, paying honor to, giving homage to, venerating

@@ -1,4 +1,12 @@
-*\[481. {484.}*[^1] *Ñāṇatthavika*[^2]*\]*  
+---
+title: Ñāṇatthavika
+order: 484
+layout: poem
+category: chapter-3
+---
+
+### \[481. {484.}[^1] Ñāṇatthavika[^2]\]
+
 My well-made hermitage was \[there,\]  
 in the southern Himalayas.  
 Searching for ultimate meaning,  
@@ -145,7 +153,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (29) \[5104\]
 
-Thus indeed Venerable Ñāṇatthavika Thera spoke these verses.  
+Thus indeed Venerable Ñāṇatthavika Thera spoke these verses.
+
 The legend of Ñāṇatthavika Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -156,9 +165,9 @@ The legend of Ñāṇatthavika Thera is finished.
 
 [^4]: lit., “the Sambuddha”
 
-[^5]: *khāribhāraṃ* *gahetvāna*, that is, “all the \[little\] that I owned, borne on my shoulder” or “a *khāri-*load”
+[^5]: *khāribhāraṃ gahetvāna*, that is, “all the \[little\] that I owned, borne on my shoulder” or “a *khāri*-load”
 
-[^6]: *ekarattiŋ vasanto,* lit., “having dwelt \[out somewhere on the road\] for one night \[only\]”
+[^6]: *ekarattiŋ vasanto*, lit., “having dwelt \[out somewhere on the road\] for one night \[only\]”
 
 [^7]: see DPPN I:851; the city is only “known” to have existed during the time of previous Buddhas (and during the previous lives of Gotama Buddha). This present passage is taken there as evidence that “\[i\]t existed also in the time of Sumedha Buddha”
 
@@ -172,21 +181,21 @@ The legend of Ñāṇatthavika Thera is finished.
 
 [^12]: lit., “the unsurpassed ocean,” *sāgaruttamo*
 
-[^13]: *kusaggena,* lit., “with a *kusa-*grass-point,” i.e., with the tip of a blade of *kusa-*grass
+[^13]: *kusaggena*, lit., “with a *kusa*-grass-point,” i.e., with the tip of a blade of *kusa*-grass
 
 [^14]: the name of this Buddha means “very clever” (*su-medha*), so the line could also be translated, “The one whom they call ‘the Wise One’”
 
 [^15]: *bhūripaññaŋ*
 
-[^16]: *sumedhasaŋ,* “he with good intelligence,” a play on the Buddha’s name
+[^16]: *sumedhasaŋ*, “he with good intelligence,” a play on the Buddha’s name
 
 [^17]: lit., “meritorious”
 
 [^18]: lit., “touch,” *phusissati*
 
-[^19]: *yato sarāmi attānaŋ,* lit., “starting from when I remember myself”
+[^19]: *yato sarāmi attānaŋ*, lit., “starting from when I remember myself”
 
-[^20]: or “since I reached puberty,” *yato patto ‘smi viññuta,* lit., “starting from when I reached puberty”
+[^20]: or “since I reached puberty,” *yato patto ‘smi viññuta*, lit., “starting from when I reached puberty”
 
 [^21]: *etthantare*, lit., “in the interval \[up to\] here”
 

@@ -1,4 +1,12 @@
-*\[484. {487.}*[^1] *Puḷinuppādaka*[^2]*\]*  
+---
+title: Puḷinuppādaka
+order: 487
+layout: poem
+category: chapter-3
+---
+
+### \[484. {487.}[^1] Puḷinuppādaka[^2]\]
+
 On a Himalayan mountain,  
 \[I’m\] Devala the ascetic.  
 My meditation walkway there  
@@ -185,14 +193,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (37) \[5176\]
 
-Thus indeed Venerable Puḷinuppādaka Thera spoke these verses.  
+Thus indeed Venerable Puḷinuppādaka Thera spoke these verses.
+
 The legend of Puḷinuppādaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Sand-Generator”. BTS reads *Pulinº*
 
-[^3]: reading *amānussehi māpito* with BJTS for PTS **amānussikamāpito (roughly the same meaning: “non-human-made”)**
+[^3]: reading *amānussehi māpito* with BJTS for PTS *amānussikamāpito* (roughly the same meaning: “non-human-made”)
 
 [^4]: *sahakammāni*
 
@@ -200,7 +209,7 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^6]: lit., “asked me that meaning”
 
-[^7]: reading *no* with BJTS for PTS *me *
+[^7]: reading *no* with BJTS for PTS *me*
 
 [^8]: *niddiṭṭhā*
 
@@ -208,11 +217,11 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^10]: or “what caste are they?,” *kathaŋ vaṇṇaº* (BJTS reads, more correctly, *kathaṃ vaṇṇā*)
 
-[^11]: *cattārīsa-ddijāpi ca* ((PTS), *ºdvijāpi ca* (BJTS), following BJTS Sinh. gloss in understanding *dvija* as “tooth” (“twice born,” hence the adult teeth).
+[^11]: *cattārīsa-ddijāpi ca* (PTS), *ºdvijāpi ca* (BJTS), following BJTS Sinh. gloss in understanding *dvija* as “tooth” (“twice born,” hence the adult teeth).
 
 [^12]: reading *nettā gopa\[k\]khumā* with BJTS for PTS *gopamukhā* (“face to face with a cow”)
 
-[^13]: *jiñjukaphalasannibhā.* The *jiñjuka* (also known as *guñja* in Pāli) shrub, Sinh. *huninda* (BJTS gloss) or *olinda* is Abrus pracatorius (*Legum.*). It bears distinctive, small red or black berries which serve as the smallest jeweller’s weight and are used in a traditional Sri Lankan board game; the present epithet presumably refers to the (very) black berries borne by this plant.
+[^13]: *jiñjukaphalasannibhā*. The *jiñjuka* (also known as *guñja* in Pāli) shrub, Sinh. *huninda* (BJTS gloss) or *olinda* is Abrus pracatorius (*Legum.*). It bears distinctive, small red or black berries which serve as the smallest jeweller’s weight and are used in a traditional Sri Lankan board game; the present epithet presumably refers to the (very) black berries borne by this plant.
 
 [^14]: lit., “going”
 
@@ -228,7 +237,7 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^20]: *atulyā*
 
-[^21]: *vaṇṇato anatikkantā,* following BJTS Sinhala gloss: *rūpakāya sampattiyen no ikmavanu häkkō ya,* “it is not possible to surpass them in good fortune as regards \[their\] form-bodies.
+[^21]: *vaṇṇato anatikkantā*, following BJTS Sinhala gloss: *rūpakāya sampattiyen no ikmavanu häkkō ya*, “it is not possible to surpass them in good fortune as regards \[their\] form-bodies.
 
 [^22]: reading *ca* with BJTS (and PTS alt.) fr PTS *va*
 
@@ -238,13 +247,13 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^25]: lit., “Sambuddha”
 
-[^26]: *paramena,* “superior” “best.” BJTS Sinhala gloss: *däḍi,* “strong”
+[^26]: *paramena*, “superior” “best.” BJTS Sinhala gloss: *däḍi*, “strong”
 
-[^27]: *kalebaraŋ,* lit., “corpse” or “body”
+[^27]: *kalebaraŋ*, lit., “corpse” or “body”
 
 [^28]: *ºpareta*, lit., “overcome by” “afflicted with”
 
-[^29]: *tesaŋ lālappamānaŋ* (gen. abs. construction). *Lālappati* means “lament, wail” as well as “to talk too much,” “to talk silly,” the intensive of *lapati,* “to mutter, talk, prattle”. I have interpolated “\[uselessly\]” *metri causa,* but in doing so convey the connotation of the term (and the subsequent speech by the ghost of the teacher) that their wailing was excessive or pointless.
+[^29]: *tesaŋ lālappamānaŋ* (gen. abs. construction). *Lālappati* means “lament, wail” as well as “to talk too much,” “to talk silly,” the intensive of *lapati*, “to mutter, talk, prattle”. I have interpolated “\[uselessly\]” *metri causa*, but in doing so convey the connotation of the term (and the subsequent speech by the ghost of the teacher) that their wailing was excessive or pointless.
 
 [^30]: BJTS Sinh gloss: “the birth of a Buddha, which frees \[one\] from the eight evil moments \[Sinh dict. i.e., (1) birth in hell, (2) birth as an animal, (3) birth as a demon, (4) birth in the two Brahma worlds where neither body nor mind exists, (5) birth in a foreign country devoid of the Buddha’s Teaching, (6) birth with the five senses confused or perverted, (7) birth as a non-religious person, and (8) birth in a Buddha-less age\]”
 
@@ -252,8 +261,8 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^32]: *vokiṇṇo* (BJTS and PTS alt. reads *vokiṇṇaŋ*), lit., “mixed”. I follow BJTS in taking the term to refer to a mix of births as a god and births as a human.
 
-[^33]: *uppādassa.* The term (as too in the name ascribed to this monk) apparently refers to the “generating” (or “producing”) of the stupa made of sand.
+[^33]: *uppādassa*. The term (as too in the name ascribed to this monk) apparently refers to the “generating” (or “producing”) of the stupa made of sand.
 
-[^34]: the name of a lunar month, Skt. *Kṛttikā,* BSkt *Karthikā,* Sinh. *il,* corresponding to October-November
+[^34]: the name of a lunar month, Skt. *Kṛttikā*, BSkt *Karthikā*, Sinh. *il*, corresponding to October-November
 
-[^35]: *viriyam me dhurodhayhaŋ yogakkhemādhivāhanaŋ,* cf. SN 79
+[^35]: *viriyam me dhurodhayhaŋ yogakkhemādhivāhanaŋ*, cf. SN 79

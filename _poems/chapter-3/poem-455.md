@@ -1,4 +1,12 @@
-*\[452. {455.}*[^1] *Akkamanadāyaka*[^2]*\]*  
+---
+title: Akkamanadāyaka
+order: 455
+layout: poem
+category: chapter-3
+---
+
+### \[452. {455.}[^1] Akkamanadāyaka[^2]\]
+
 I gave a \[plank for\][^3] stepping on  
 to Kakusandha, the \[Great\] Sage,  
 the Brahmin, the Perfected One,[^4]  
@@ -24,13 +32,14 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[4827\]
 
-Thus indeed Venerable Akkamanadāyaka Thera spoke these verses.  
+Thus indeed Venerable Akkamanadāyaka Thera spoke these verses.
+
 The legend of Akkamanadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Foot-Plank Donor”
 
-[^3]: I follow BJTS gloss in taking “a stepping-upon-er” as a “plank for the feet” (*pā - puvaravak* \[*= lälla*\]
+[^3]: I follow BJTS gloss in taking “a stepping-upon-er” as a “plank for the feet” (*pā - puvaravak* \[= *lälla*\]
 
-[^4]: *vusīmato&lt;vusīmant, vusitavant,* perfected or accomplished, especially with regard to *brahmacariya* (celibacy)
+[^4]: *vusīmato&lt;vusīmant*, *vusitavant*. perfected or accomplished, especially with regard to *brahmacariya* (celibacy)

@@ -1,4 +1,12 @@
-*\[420. {423.}*[^1] *Ekâsanadāyaka*[^2]*\]*  
+---
+title: Ekâsanadāyaka
+order: 423
+layout: poem
+category: chapter-3
+---
+
+### \[420. {423.}[^1] Ekâsanadāyaka[^2]\]
+
 In the Himalayan region,  
 there’s a mountain named Kosika.  
 My well-built hermitage \[is there,\]  
@@ -124,7 +132,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (25) \[4521\]
 
-Thus indeed Venerable Ekâsanadāyaka Thera spoke these verses.  
+Thus indeed Venerable Ekâsanadāyaka Thera spoke these verses.
+
 The legend of Ekâsanadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -137,17 +146,17 @@ The legend of Ekâsanadāyaka Thera is finished.
 
 [^5]: *vanagge*, lit., “on the top of the forest”
 
-[^6]: *ajinaŋ,* lit., “deer-leather \[robe\]”
+[^6]: *ajinaŋ*, lit., “deer-leather \[robe\]”
 
-[^7]: BJTS omits PTS *tuvaŋ* and gives *mahāvīra* for PTS *vīra,* keeping the meter. This translation preserves both the *tuvaŋ* of PTS and the *mahāº* of BJTS, but also indicates their absence in the respective other texts by including them in square brackets
+[^7]: BJTS omits PTS *tuvaŋ* and gives *mahāvīra* for PTS *vīra*, keeping the meter. This translation preserves both the *tuvaŋ* of PTS and the *mahāº* of BJTS, but also indicates their absence in the respective other texts by including them in square brackets
 
 [^8]: *sallakatto*, lit., “one who works on the (poison) arrow,” a doctor who does surgery.
 
 [^9]: *tikicchako*
 
-[^10]: reading *kalla-atthikā* with BJTS for PTS *kallaṭṭhikā.* BJTS glosses *kalla* (“what is fitting”) as “nirvana” (*nivan kämmätt yamkenek*
+[^10]: reading *kalla-atthikā* with BJTS for PTS *kallaṭṭhikā*. BJTS glosses *kalla* (“what is fitting”) as “nirvana” (*nivan kämmätt yamkenek*)
 
-[^11]: reading *dhuvatthasiddiŋ* with BJTS for PTS *dhuvaŋ ti siddhiŋ,* “their goal called permanence” or “their goal called nirvana” (following PSI for the latter definition).
+[^11]: reading *dhuvatthasiddiŋ* with BJTS for PTS *dhuvaŋ ti siddhiŋ*, “their goal called permanence” or “their goal called nirvana” (following PSI for the latter definition).
 
 [^12]: *etesaŋ jajjaro bhavo*, following BJTS gloss (= “comes to an end”)
 
@@ -155,7 +164,7 @@ The legend of Ekâsanadāyaka Thera is finished.
 
 [^14]: lit., “go”
 
-[^15]: *vinipātaŋ,* lit., “a state of suffering” or “ruination”
+[^15]: *vinipātaŋ*, lit., “a state of suffering” or “ruination”
 
 [^16]: BJTS reads *dhīro* (“the wise one”)
 

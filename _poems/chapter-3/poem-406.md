@@ -1,4 +1,12 @@
-*\[403. {406.}*[^1] *Nanda*[^2]*\]*  
+---
+title: Nanda
+order: 406
+layout: poem
+category: chapter-3
+---
+
+### \[403. {406.}[^1] Nanda[^2]\]
+
 I was a deer-hunter back then,  
 within a grove in the forest.  
 \[While\] searching after[^3] spotted deer,  
@@ -57,27 +65,27 @@ burning heat is not known by me. (11) \[4060\]
 Fixing perception on the earth,[^14]  
 I cross over the \[great\] ocean.[^15]  
 That’s my well-done karma, the fruit  
-of \[doing\] that Buddha-*pūjā.* (12) \[4061\]
+of \[doing\] that Buddha-*pūjā*. (12) \[4061\]
 
 Making roads, even with no road,  
 I am traveling[^16] in the sky.  
 O! that karma well-done by me:  
-that’s the fruit of Buddha-*pūjā.* (13) \[4062\]
+that’s the fruit of Buddha-*pūjā*. (13) \[4062\]
 
 I know former existences,  
 the “divine eye” is purified,  
 my defilements are \[all\] destroyed:  
-that’s the fruit of Buddha-*pūjā.* (14) \[4063\]
+that’s the fruit of Buddha-*pūjā*. (14) \[4063\]
 
 Buddha’s legitimate offspring,  
 worthy heir to the Great Teaching,  
 I’ve renounced my earlier birth:  
-that’s the fruit of Buddha-*pūjā.* (15) \[4064\]
+that’s the fruit of Buddha-*pūjā*. (15) \[4064\]
 
 I’m one who pleased the Well-Gone-One,  
 Gotama, Bull of the Śākyas,  
-the *Dhamma’*s heir, I bear its flag:[^17]  
-that’s the fruit of Buddha-*pūjā.* (16) \[4065\]
+the *Dhamma*’s heir, I bear its flag:[^17]  
+that’s the fruit of Buddha-*pūjā*. (16) \[4065\]
 
 After serving the Sambuddha,  
 Gotama, Bull of the Śākyas,  
@@ -109,42 +117,43 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (22) \[4071\]
 
-Thus indeed Venerable Nanda Thera spoke these verses.  
+Thus indeed Venerable Nanda Thera spoke these verses.
+
 The legend of Nanda Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Joy”. BJTS reads *Nandaka*
 
-[^3]: PTS reads *pasadamigaŋ gavesanto;* BJTS reads *pasadaṃ migam esanto.* The two readings have virtually the same meaning; unlike the PTS reading, however, the BJTS reading keeps the meter
+[^3]: PTS reads *pasadamigaŋ gavesanto*; BJTS reads *pasadaṃ migam esanto*. The two readings have virtually the same meaning; unlike the PTS reading, however, the BJTS reading keeps the meter
 
-[^4]: PTS and BJTS agree on this reading, even though it breaks meter; following the text, this first foot contains nine syllable. One would prefer “the Buddha named Anuruddha” (*anuruddho nāma buddho,* eight syllables) to keep the meter, but as many of the other Buddhas have three-syllable names, the pattern is “*X nāma Sambuddho”* and here the manuscripts (and the authors?) have followed suit.
+[^4]: PTS and BJTS agree on this reading, even though it breaks meter; following the text, this first foot contains nine syllable. One would prefer “the Buddha named Anuruddha” (*anuruddho nāma buddho*, eight syllables) to keep the meter, but as many of the other Buddhas have three-syllable names, the pattern is “*X nāma Sambuddho*” and here the manuscripts (and the authors?) have followed suit.
 
-[^5]: reading *so dhīro* with BJTS for PTS *so vīro,* “the Hero”
+[^5]: reading *so dhīro* with BJTS for PTS *so vīro*, “the Hero”
 
 [^6]: *vanamajjh’*, lit., “in the middle of the forest”
 
-[^7]: *padumapupphehi,* lit., “with pink lotus flowers”
+[^7]: *padumapupphehi*, lit., “with pink lotus flowers”
 
 [^8]: *vyādhi me udapajjatha* (BJTS reads *upapajjatha*), lit “illness came into existence for me”
 
 [^9]: BJTS reads *sovaṇṇamayaṃ* for PTS *sovaṇṇayaŋ*, thereby breaking meter.
 
-[^10]: BJTS reads *niyamāna* for PTS *niyyamāna,* to the same end (“\[the one\] taking that carriage and going”)
+[^10]: BJTS reads *niyamāna* for PTS *niyyamāna*, to the same end (“\[the one\] taking that carriage and going”)
 
-[^11]: *devabhūtassa me sato,* lit., “when I am being born as a god”
+[^11]: *devabhūtassa me sato*, lit., “when I am being born as a god”
 
 [^12]: reading *tuvaṭṭāmi* with BJTS (and PTS alt.) for PTS *tuvaṭṭhāmi*. The term means to share with, cuddle, snuggle up; BJTS provides the less evocative gloss “I sleep” (*nidimi*)
 
-[^13]: *apāyā,* “hells,” reckoned as four: hell proper (*niraya*) and rebirth as an animal, a ghost (*peta*), or a titan (*asura). *
+[^13]: *apāyā*, “hells,” reckoned as four: hell proper (*niraya*) and rebirth as an animal, a ghost (*peta*), or a titan (*asura*).
 
-[^14]: *mahīsaññam adhiṭṭhāya,* lit., “having fixed \[my\] mind (or concentrating) on perception of the earth”
+[^14]: *mahīsaññam adhiṭṭhāya*, lit., “having fixed \[my\] mind (or concentrating) on perception of the earth”
 
-[^15]: *loṇatoyaŋ,* lit., “the salt water”. This interpretation follows BJTS
+[^15]: *loṇatoyaŋ*, lit., “the salt water”. This interpretation follows BJTS
 
 [^16]: lit., “going”
 
-[^17]: *dhammaddhajo dhammadāyādo,* lit., “\[I am\] one who possesses the flag (or banner) of the Teaching, worthy heir of the Teaching”
+[^17]: *dhammaddhajo dhammadāyādo*, lit., “\[I am\] one who possesses the flag (or banner) of the Teaching, worthy heir of the Teaching”
 
 [^18]: *pāraṅgamaniyaŋ maggaŋ*
 

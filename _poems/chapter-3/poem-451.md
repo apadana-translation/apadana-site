@@ -1,5 +1,14 @@
-*Jagatidāyaka Chapter, the Forty-Sixth*  
-*\[448. {451.}*[^1] *Jagatidāyaka*[^2]*\]*  
+---
+title: Jagatidāyaka
+order: 451
+layout: poem
+category: chapter-3
+---
+
+## Jagatidāyaka Chapter, the Forty-Sixth
+
+### \[448. {451.}[^1] Jagatidāyaka[^2]\]
+
 Happy, with pleasure in \[my\] heart,  
 I had the spot of earth[^3] cleared for  
 the foot of the superb Bodhi[^4]  
@@ -40,17 +49,18 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[4804\]
 
-Thus indeed Venerable Jagatidāyaka Thera spoke these verses.  
+Thus indeed Venerable Jagatidāyaka Thera spoke these verses.
+
 The legend of Jagatidāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Spot of Earth Donor”
 
-[^3]: *jagati,* lit., “earth” “the ground”
+[^3]: *jagati*, lit., “earth” “the ground”
 
 [^4]: i.e., at the base of his Bodhi tree, which was a *bimbijāla* tree, .
 
-[^5]: kṣatriyans*, khattiyo*
+[^5]: kṣatriyans, *khattiyo*
 
 [^6]: *sabbattha pūjito homi*

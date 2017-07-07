@@ -1,5 +1,14 @@
-*Sakiŋsammajjaka Chapter, the Forty-Third*  
-*\[418. {421.}*[^1] *Sakiŋsammajjaka*[^2]*\]*  
+---
+title: Sakiŋsammajjaka
+order: 421
+layout: poem
+category: chapter-3
+---
+
+## Sakiŋsammajjaka Chapter, the Forty-Third
+
+### \[418. {421.}[^1] Sakiŋsammajjaka[^2]\]
+
 Having seen the chief of \[all\] trees,  
 the trumpet-flower[^3] Bodhi tree  
 of Vipassi, the Blessed One,  
@@ -70,22 +79,23 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (14) \[4475\]
 
-Thus indeed Venerable Sakiŋsammajjaka Thera spoke these verses.  
+Thus indeed Venerable Sakiŋsammajjaka Thera spoke these verses.
+
 The legend of Sakiŋsammajjaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Once-Sweeper”
 
-[^3]: *pāṭali*, Sinh. *paḷol,* Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
+[^3]: *pāṭali*, Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon*.), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
 
-[^4]: taking *paṭikuṭim* (BJTS reads *paṭikūṭīº*) as fr. *paṭikuṭati* “to crouch,” “to bend over.” BJTS gloss here *(gauravayen nämunem,* “bending over (in reverence)”
+[^4]: taking *paṭikuṭim* (BJTS reads *paṭikūṭīº*) as fr. *paṭikuṭati* “to crouch,” “to bend over.” BJTS gloss here (*gauravayen nämunem*, “bending over (in reverence)”
 
-[^5]: reading *cārimaggena* with BJTS (and PTS alt) for PTS *cārima-maggena,* which breaks the meter
+[^5]: reading *cārimaggena* with BJTS (and PTS alt) for PTS *cārima-maggena*, which breaks the meter
 
 [^6]: lit., “remembering the supreme (or ultimate) Bodhi tree
 
-[^7]: *ajagarā.* RD says “a large snake...a Boa Constrictor”
+[^7]: *ajagarā*. RD says “a large snake…a Boa Constrictor”
 
 [^8]: lit., “the karma done by me”
 
@@ -95,7 +105,7 @@ The legend of Sakiŋsammajjaka Thera is finished.
 
 [^11]: *visuddhaŋ paṇḍaraŋ*
 
-[^12]: *kaṇḍu.* BJTS reads *kacchu,* with the same meaning.
+[^12]: *kaṇḍu*. BJTS reads *kacchu*, with the same meaning.
 
 [^13]: *daddu*
 
@@ -105,13 +115,13 @@ The legend of Sakiŋsammajjaka Thera is finished.
 
 [^16]: *kilāsa*
 
-[^17]: *apamāra.* This seems an outlier since the remainder of the diseases listed here are all diseases of the skin, but the Pāli is unambiguous.
+[^17]: *apamāra*. This seems an outlier since the remainder of the diseases listed here are all diseases of the skin, but the Pāli is unambiguous.
 
 [^18]: *vitacchikā*
 
 [^19]: lit., “is,” singular
 
-[^20]: *asattaŋ*. BJTS reads *abhantaṃ,* “not swerving,” “not careening out of control”
+[^20]: *asattaŋ*. BJTS reads *abhantaṃ*, “not swerving,” “not careening out of control”
 
 [^21]: *samādhisu* (reading *samādhsu* with BJTS)
 
