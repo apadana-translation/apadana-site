@@ -1,4 +1,12 @@
-*\[529. {532.}*[^1] *Vakkali*[^2]*\]*  
+---
+title: Vakkali
+order: 532
+layout: poem
+category: chapter-3
+---
+
+### \[529. {532.}[^1] Vakkali[^2]\]
+
 One hundred thousand aeons hence  
 a Leader arose \[in the world\],  
 Superior-Named,[^3] Boundless One,[^4]  
@@ -101,7 +109,8 @@ sleeping stretched out flat \[on my back\],
 as tender as fresh butter is,  
 soft like a \[new-\]born lotus sprout.  
 “O Lord, we’re giving you this \[boy\];  
-please support him,[^30] O \[World-\]Leader.” (20-21) \[5708-5709\]  
+please support him,[^30] O \[World-\]Leader.” (20-21) \[5708-5709\]
+
 Refuge for those who are frightened,  
 the \[Great\] Sage then accepted me  
 with his hand, soft as a lotus,  
@@ -120,7 +129,7 @@ I went forth into homelessness. (24) \[5712\]
 Dissatisfied, I’m longing for  
 his form possessing all good \[traits\],[^33]  
 produced by all the perfections,[^34]  
-the highest home of good fortune.[^35](25) \[5713\]
+the highest home of good fortune.[^35] (25) \[5713\]
 
 Knowing my love for Buddha’s form,  
 the Victor then admonished me:  
@@ -154,7 +163,8 @@ hearing the word[^39] of the Victor,
 I leapt right off that mountainside,  
 varied hundreds of man-lengths \[high\],  
 then through the Buddha’s majesty,  
-I reached the ground, comfortably. (31-32) \[5719-5720\]  
+I reached the ground, comfortably. (31-32) \[5719-5720\]
+
 Once again he preached the *Dhamma*,  
 the rising and falling of parts;  
 \[and this time,\] grasping the Teaching,  
@@ -168,7 +178,7 @@ foremost of those intent on faith. (34) \[5722\]
 In the hundred thousand aeons  
 since I did that \[good\] karma then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (35) \[5723\]
+that’s the fruit of Buddha-*pūjā*. (35) \[5723\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -185,7 +195,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (38) \[5726\]
 
-Thus indeed Venerable Vakkali Thera spoke these verses.  
+Thus indeed Venerable Vakkali Thera spoke these verses.
+
 The legend of Vakkali Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -196,13 +207,13 @@ The legend of Vakkali Thera is finished.
 
 [^4]: *amito*
 
-[^5]: *padumākāravadano,* lit., “he whose speech had the attributes of a lotus;” the epithet does not specify which “attributes” (*ākāra*) are shared by his speech and a lotus, but presumably the intention is “beautiful speech” “fragrant speech” “flawless speech,” and so forth. Cty (p. 493): *supuphiyapadumasassirīkamukho*, “having a mouth with the resplendence of a good lotus flower”
+[^5]: *padumākāravadano*, lit., “he whose speech had the attributes of a lotus;” the epithet does not specify which “attributes” (*ākāra*) are shared by his speech and a lotus, but presumably the intention is “beautiful speech” “fragrant speech” “flawless speech,” and so forth. Cty (p. 493): *supuphiyapadumasassirīkamukho*, “having a mouth with the resplendence of a good lotus flower”
 
 [^6]: lit., “good skin”
 
 [^7]: *padumāmalasucchavi*
 
-[^8]: BJTS reads *vīro* for PTS *dhīro,* a common confusion given the similarity of the Sinhala letters “vī” and “dhī,” though typically BJTS reads *dhīro* for PTS *vīro.* It is not clear to me how either epithet relates to lotuses.
+[^8]: BJTS reads *vīro* for PTS *dhīro*, a common confusion given the similarity of the Sinhala letters “vī” and “dhī,” though typically BJTS reads *dhīro* for PTS *vīro*. It is not clear to me how either epithet relates to lotuses.
 
 [^9]: *padumapattakkho*
 
@@ -214,13 +225,13 @@ The legend of Vakkali Thera is finished.
 
 [^13]: *nimmāno*
 
-[^14]: *ºupamo,* lit., “simile” “metaphor” “comparison”
+[^14]: *ºupamo*, lit., “simile” “metaphor” “comparison”
 
 [^15]: *andhānaŋ nayanº*
 
 [^16]: *guṇanidhi*
 
-[^17]: *santaveso,* BJTS Sinh. gloss *śānta veśa äti*
+[^17]: *santaveso*, BJTS Sinh. gloss *śānta veśa äti*
 
 [^18]: *karuṇā-mati-sāgaro*
 
@@ -228,11 +239,11 @@ The legend of Vakkali Thera is finished.
 
 [^20]: *januttamo*
 
-[^21]: *sadevamanujâkiṇṇo.* BJTS notes alt. that reads this as *ºâkiṇṇe* and takes it as modifying *janamajjhe,* but accepts the reading *ºâkiṇṇo* which makes it an epithet of the Buddha.
+[^21]: *sadevamanujâkiṇṇo*. BJTS notes alt. that reads this as *ºâkiṇṇe* and takes it as modifying *janamajjhe*, but accepts the reading *ºâkiṇṇo* which makes it an epithet of the Buddha.
 
-[^22]: *kadāci...janamajjhe,* following BJTS Sinh. gloss
+[^22]: *kadāci…janamajjhe*, following BJTS Sinh. gloss
 
-[^23]: *mama dassanalālaso,* lit., “fervently desirous of my look” or “of a vision (cf. Skt. *darśan*) of me”. PSI *lālasā* = *adhika tṛṣṇāva,* ardent desire, BJTS Sinh. gloss *lol vu* (desiring, attached to, greedy for, eager), fr. *luḷati*, to be stirred up, agitated
+[^23]: *mama dassanalālaso*, lit., “fervently desirous of my look” or “of a vision (cf. Skt. *darśan*) of me”. PSI *lālasā* = *adhika tṛṣṇāva*, ardent desire, BJTS Sinh. gloss *lol vu* (desiring, attached to, greedy for, eager), fr. *luḷati*, to be stirred up, agitated
 
 [^24]: as with Mahākaccāna (see v. \[5670-5671\], above), the protagonist emulates a monk during his past life who has the same name which he will have as a monk in his future life during the time of Gotama Buddha. In other words, the monk named Vakkali referred to by Padumuttara is emulated and imitated by the later follower of Gotama Buddha even to the extent of having the same name.
 
@@ -240,13 +251,13 @@ The legend of Vakkali Thera is finished.
 
 [^26]: reading *hemayaññopavītaṅgaṃ* with BJTS for PTS *hemayaññopacitaṅgaŋ* (“body heaped up with sacrifices of gold”?). The *yaññopavīta* (or more correctly *yaññopanīta*), lit., “sacrificial cord,” is a distinctive accoutrement of brahmin dress; the protagonist’s was gold-colored or made or gold. BJTS Sinh. gloss suggests the latter: *ranvan pūnanūlak därǟ siruru*
 
-[^27]: or “distinction:” *tena kammavisesana,* a variant (and metrical improvement) on the common first foot in parallel verses, i.e., *tena kammena sukatena*
+[^27]: or “distinction:” *tena kammavisesana*, a variant (and metrical improvement) on the common first foot in parallel verses, i.e., *tena kammena sukatena*
 
-[^28]: here as esewhere in *Apadāna,* *aññatare* implies “undistinguished” or even “base”
+[^28]: here as esewhere in *Apadāna*, *aññatare* implies “undistinguished” or even “base”
 
-[^29]: *pisācabhayatajjitā *
+[^29]: *pisācabhayatajjitā*
 
-[^30]: *saraṇaŋ hohi,* lit., “be a refuge”
+[^30]: *saraṇaŋ hohi*, lit., “be a refuge”
 
 [^31]: *tenâhaŋ ārakheyyena rakkhito*
 
@@ -260,8 +271,8 @@ The legend of Vakkali Thera is finished.
 
 [^36]: *khandhānaŋ udayabbayaŋ*
 
-[^37]: *Gijjhakūṭaŋ,* one of the mountains near Rajgir frequented by Gotama Buddha.
+[^37]: *Gijjhakūṭaŋ*, one of the mountains near Rajgir frequented by Gotama Buddha.
 
-[^38]: lit., “in a mountain cave” (or “grotto” “crag”) reading *giri-kandare* with BJTS (and PTS alt.) for PTS *giri-niddare,* alt. *giri-niddhare* (= mountain + ?)
+[^38]: lit., “in a mountain cave” (or “grotto” “crag”) reading *giri-kandare* with BJTS (and PTS alt.) for PTS *giri-niddare*, alt. *giri-niddhare* (= mountain + ?)
 
-[^39]: or “speech,” *vācaŋ; *
+[^39]: or “speech,” *vācaŋ*

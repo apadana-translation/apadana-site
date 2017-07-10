@@ -1,4 +1,12 @@
-*\[509. {512.}*[^1] *Kapitthaphaladāyaka*[^2]*\]*  
+---
+title: Kapitthaphaladāyaka
+order: 512
+layout: poem
+category: chapter-3
+---
+
+### \[509. {512.}[^1] Kapitthaphaladāyaka[^2]\]
+
 I gave a fruit \[called\] wood-apple[^3]  
 to the Gold-Colored Sambuddha,  
 Sacrificial Recipient,  
@@ -24,11 +32,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[5467\]
 
-Thus indeed Venerable Kapitthaphaladāyaka Thera spoke these verses.  
+Thus indeed Venerable Kapitthaphaladāyaka Thera spoke these verses.
+
 The legend of Kapitthaphaladāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Wood-Apple Fruit Donor.” Virtually the same *apadāna* appears above as \#505 {508}, with the slight difference that the name of the fruit in v. 1 is *amora* rather than *kapittha*, and that the name of the donor (*Amoraphaliya*) varies accordingly.
 
-[^3]: *kapitthā,* Feronia elephantum, Sinh. *divul, givul*
+[^3]: *kapitthā*, Feronia elephantum, Sinh. *divul*, *givul*

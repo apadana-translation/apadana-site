@@ -1,5 +1,14 @@
-*Kaṇikāra Chapter, the Fifty-First*  
-*\[498. {501.}*[^1] *Tīṇikaṇikārapupphiya*[^2]*\]*  
+---
+title: Tīṇikaṇikārapupphiya
+order: 501
+layout: poem
+category: chapter-3
+---
+
+## Kaṇikāra Chapter, the Fifty-First
+
+### \[498. {501.}[^1] Tīṇikaṇikārapupphiya[^2]\]
+
 The Sambuddha named Sumedha,  
 Bearing the Thirty-two Great Marks,  
 Seclusion-Lover, Sambuddha,  
@@ -90,53 +99,55 @@ I exercised divine rule \[there\].
 And three hundred \[different\] times,  
 I was a king who turns the wheel.  
 \[And I enjoyed\] much local rule,  
-innumerable by counting. (18) \[5375\][^22]  
+innumerable by counting. (18) \[5375\][^22]
+
 Transmigrating from birth to birth,  
 I receive many possessions.  
 I have no lack of possessions:  
-that’s the fruit of Buddha-*pūjā.* (19) \[5376\]
+that’s the fruit of Buddha-*pūjā*. (19) \[5376\]
 
 I transmigrate in \[just\] two states:  
 that of a god, or of a man.  
 I know no other rebirth \[state\]:  
-that’s the fruit of Buddha-*pūjā.* (20) \[5377\]
+that’s the fruit of Buddha-*pūjā*. (20) \[5377\]
 
 I am born in the two \[high\] clans,  
 kṣatriyan and also brahmin.  
 I don’t get born in lesser clans:  
-that’s the fruit of Buddha-*pūjā.* (21) \[5378\]
+that’s the fruit of Buddha-*pūjā*. (21) \[5378\]
 
 Elephant- \[and\] horse-vehicles,  
 palanquins \[and\] chariots \[too\],  
 I am receiving all of that:  
-that’s the fruit of Buddha-*pūjā.* (22) \[5379\]
+that’s the fruit of Buddha-*pūjā*. (22) \[5379\]
 
 Troops of slaves \[and\] troops of slave-girls,  
 and women who are all decked out,  
 I am receiving all of that:  
-that’s the fruit of Buddha-*pūjā.* (23) \[5380\]
+that’s the fruit of Buddha-*pūjā*. (23) \[5380\]
 
 Silk material, woolen stuff,  
 *khoma* cloth and cotton \[goods too\],  
 I am receiving all of that:  
-that’s the fruit of Buddha-*pūjā.* (24) \[5381\]
+that’s the fruit of Buddha-*pūjā*. (24) \[5381\]
 
 New clothing and fruit which is fresh,  
 pure[^23] food of foremost tastiness,  
 I am receiving all of that:  
-that’s the fruit of Buddha-*pūjā.* (25) \[5382\]
+that’s the fruit of Buddha-*pūjā*. (25) \[5382\]
 
 \[People saying,\] “eat this, enjoy  
 this, please lie down on this \[fine\] bed,”  
 I am receiving all of that:  
-that’s the fruit of Buddha-*pūjā.* (26) \[5383\]
+that’s the fruit of Buddha-*pūjā*. (26) \[5383\]
 
 Everywhere I’m given honor[^24]  
 \[and\] I have very lofty fame,  
 always in the majority,[^25]  
 my retinue has no factions.  
 I’m the best of \[my\] relatives:  
-that’s the fruit of Buddha-*pūjā.* (27) \[5384\][^26]  
+that’s the fruit of Buddha-*pūjā*. (27) \[5384\][^26]
+
 I’m not aware of[^27] cold \[nor\] heat,  
 \[and\] burning fever[^28] is not known.  
 Likewise there is not found in me,  
@@ -145,7 +156,7 @@ suffering of the mind \[or\] heart. (28) \[5385\]
 Having been the color of gold,  
 I transmigrate from birth to birth.  
 I do not know a bad color:  
-that’s the fruit of Buddha-*pūjā.* (29) \[5386\]
+that’s the fruit of Buddha-*pūjā*. (29) \[5386\]
 
 Falling down from the world of gods,  
 incited by \[my\] wholesome roots,  
@@ -160,22 +171,22 @@ I attained \[my\] arahantship. (31) \[5388\]
 Knowing \[my\] virtue, the Buddha,  
 the Eyeful One, \[then\] ordained \[me\].  
 A young boy worthy of honor:  
-that’s the fruit of Buddha-*pūjā.* (32) \[5389\]
+that’s the fruit of Buddha-*pūjā*. (32) \[5389\]
 
 The “divine eye” is purified;  
 I’m skilled in meditative states.[^32]  
 Special knowledges perfected:  
-that’s the fruit of Buddha-*pūjā.* (33) \[5390\]
+that’s the fruit of Buddha-*pūjā*. (33) \[5390\]
 
 Analytical modes attained,  
 skilled in the magical powers,[^33]  
 perfect in special knowledges:  
-that’s the fruit of Buddha-*pūjā.* (34) \[5391\]
+that’s the fruit of Buddha-*pūjā*. (34) \[5391\]
 
 In the thirty thousand aeons  
 since I worshipped[^34] the Buddha \[then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (35) \[5392\]
+that’s the fruit of Buddha-*pūjā*. (35) \[5392\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -192,7 +203,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (38) \[5395\]
 
-Thus indeed Venerable Tīṇikaṇikārapupphiya Thera spoke these verses.  
+Thus indeed Venerable Tīṇikaṇikārapupphiya Thera spoke these verses.
+
 The legend of Tīṇikaṇikārapupphiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -201,7 +213,7 @@ The legend of Tīṇikaṇikārapupphiya Thera is finished.
 
 [^3]: lit “crouching with his legs crossed”
 
-[^4]: *vijjādharo,* “spell-knower”
+[^4]: *vijjādharo*, “spell-knower”
 
 [^5]: i.e., when it is full, *puṇṇamāse va candimā*
 
@@ -209,7 +221,7 @@ The legend of Tīṇikaṇikārapupphiya Thera is finished.
 
 [^7]: lit., “similar to the color of a reed-fire”
 
-[^8]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
+[^8]: *kaṇṇikāra*, *kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
 
 [^9]: lit., “did *pūjā*”
 
@@ -217,13 +229,13 @@ The legend of Tīṇikaṇikārapupphiya Thera is finished.
 
 [^11]: *kaṇikārîti ñāyati*
 
-[^12]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍa*s (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\].” .
+[^12]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍa*/s (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\].” .
 
-[^13]: following BJTS, PTS reads *geṇḍu,* in multiple variations. At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
+[^13]: following BJTS, PTS reads *geṇḍu*, in multiple variations. At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
 
-[^14]: *yenicchakā,* following BJTS Sinhala gloss *kämäti tänaka*
+[^14]: *yenicchakā*, following BJTS Sinhala gloss *kämäti tänaka*
 
-[^15]: *ºvikutīº;* I take this to evoke a mattress (*tūlikāº*) constructed through piling up (“assembling”) of layers of grass or wool (see RD., s.v.)
+[^15]: *ºvikutīº*; I take this to evoke a mattress (*tūlikāº*) constructed through piling up (“assembling”) of layers of grass or wool (see RD., s.v.)
 
 [^16]: reading *uddalomikaº* with BJTS for PTS *uddhalomikā* (which means about the same thing, see RD, s.v)
 
@@ -233,17 +245,17 @@ The legend of Tīṇikaṇikārapupphiya Thera is finished.
 
 [^19]: *khiḍḍāratiyā*
 
-[^20]: *tidase,* i.e., in Tāvatiṃsa heaven
+[^20]: *tidase*, i.e., in Tāvatiṃsa heaven
 
-[^21]: *vyamha-m-uttame,* lit., “in \[my\] ultimate (or superb) mansion”
+[^21]: *vyamha-m-uttame*, lit., “in \[my\] ultimate (or superb) mansion”
 
 [^22]: PTS and BJTS agree in presenting this as a six-footed verse
 
-[^23]: *nava,* the same adjective translated as “new” in the first foot and “fresh” in the second foot
+[^23]: *nava*, the same adjective translated as “new” in the first foot and “fresh” in the second foot
 
 [^24]: lit., “*pūjā*”
 
-[^25]: *mahāpakkho, lit.,* “one of the great faction” “one with a powerful party,”
+[^25]: *mahāpakkho*, lit., “one of the great faction” “one with a powerful party,”
 
 [^26]: PTS and BJTS agree in presenting this as a six-footed verse
 
@@ -253,9 +265,9 @@ The legend of Tīṇikaṇikārapupphiya Thera is finished.
 
 [^29]: lit., “in the city, Śrāvasti,”
 
-[^30]: *mahāsāle,* a mark of wealth (which is further emphasized as *su-aḍhake*, “very wealthy” or “very influential”)
+[^30]: *mahāsāle*, a mark of wealth (which is further emphasized as *su-aḍhake*, “very wealthy” or “very influential”)
 
-[^31]: *pañca-kāma-guṇe,* “the five strands of sense pleasure,” namely those obtained through the five senses
+[^31]: *pañca-kāma-guṇe*, “the five strands of sense pleasure,” namely those obtained through the five senses
 
 [^32]: *samādhikusalo ahaŋ*
 

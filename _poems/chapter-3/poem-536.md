@@ -1,4 +1,12 @@
-*\[533. {536.}*[^1] *Bāhiya*[^2]*\]*  
+---
+title: Bāhiya
+order: 536
+layout: poem
+category: chapter-3
+---
+
+### \[533. {536.}[^1] Bāhiya[^2]\]
+
 One hundred thousand aeons hence  
 the Leader arose \[in the world\],  
 the Great Light,[^3] Chief of the Three Worlds,[^4]  
@@ -11,7 +19,8 @@ doing a deed for the Great Sage,
 having given alms for a week  
 to the Sage with \[his\] students, I  
 saluting \[him\], the Sambuddha,  
-then aspired \[to attain\] that place. (2-3) \[5840-5841\]  
+then aspired \[to attain\] that place. (2-3) \[5840-5841\]
+
 The Buddha[^6] prophesied \[of\] me:  
 “All of you look at this brahmin,  
 fallen down in front of my feet,  
@@ -27,7 +36,8 @@ with a face blossoming in joy,
 wishing for the place of the monk  
 who has instant comprehension.  
 In the future, a Great Hero  
-will come to be, named Gotama. (4-7) \[5842-5845\]  
+will come to be, named Gotama. (4-7) \[5842-5845\]
+
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 the one whose name is Bāhiya  
@@ -75,7 +85,8 @@ Then a man \[there\], delighted, said,
 honoring him[^22] with food \[and\] drink,  
 with clothes and \[also\] with a bed,  
 and \[furthermore\] with medicine,  
-we’ll be happy \[through that karma\].” (16-17) \[5854-5855\]  
+we’ll be happy \[through that karma\].” (16-17) \[5854-5855\]
+
 Receiving \[that\], then going back,  
 \[thus\] honored and worshipped by them,[^23]  
 wrongly I gave rise to the thought  
@@ -94,18 +105,17 @@ I questioned him back \[in this way\]:
 “Of Vast Wisdom,[^27] Greatly Very Wise,[^28] the  
 Victor, in Śrāvasti, in Kosala’s palace,  
 the Śākyas’ Son, the Arahant, Undefiled One  
-is preaching *Dhamma* for reaching arahantship.” (21-22) \[5859\][^29]  
+is preaching *Dhamma* for reaching arahantship.” (21-22) \[5859\][^29]
+
 Then having heard \[that\] word of him \[I was\] well-gladdened,  
 very astonished like a pauper finding treasure,  
 mind thrilled \[for\] ultimate arahantship, \[and\] to  
-know[^30] the Good-Looking One,[^31] the Limitless Pasture.[^32] (23-24)
-\[5860\]
+know[^30] the Good-Looking One,[^31] the Limitless Pasture.[^32] (23-24) \[5860\]
 
 Delighting at that time, departing for the Teacher,[^33]  
 always I see the Victor whose Face is Stainless.[^34]  
 Approaching the delightful grove named Vijita,[^35]  
-I questioned brahmins, “Where is the World’s Delighter?”[^36] (25-26)
-\[5861\]
+I questioned brahmins, “Where is the World’s Delighter?”[^36] (25-26) \[5861\]
 
 Then they replied, “the One Worshipped by Men \[and\] Gods[^37]  
 has entered the city wishing to eat some food;[^38]  
@@ -119,7 +129,8 @@ for alms, without greed or desire,
 bowl in hand, eyes undistracted,  
 as though dividing ambrosia,[^41]  
 like the abode of good fortune,[^42]  
-face bearing the blaze of the sun. (29-30) \[5863-5864\]  
+face bearing the blaze of the sun. (29-30) \[5863-5864\]
+
 Coming together, bowing down,  
 I \[then\] spoke these words to him \[there\]:  
 “O Gotama, be the refuge  
@@ -128,7 +139,7 @@ for one who’s lost on the wrong road.” (31) \[5865\]
 The Seventh Sage said this \[to me\]:  
 “I’m wandering on \[my\] alms-round  
 to help living beings cross; not  
-the time to tell you the *Dhamma.*” (32) \[5866\]
+the time to tell you the *Dhamma*.” (32) \[5866\]
 
 Again \[and\] again I asked the  
 Buddha, being greedy for *Dhamma*.  
@@ -172,7 +183,8 @@ outsider come to the outside,[^51]
 now fallen onto the safe ground,[^52]  
 like the fallen flag of Indra,  
 lifespan gone, defilements gone,[^53] a  
-doer of the Victor’s teachings[^54] — (40-41) \[5874-5875\]  
+doer of the Victor’s teachings[^54] — (40-41) \[5874-5875\]
+
 the Teacher said to followers  
 who delighted in the teachings:[^55]  
 “get, and having taken \[it\] burn,  
@@ -193,7 +205,8 @@ fire and the wind have no footing,
 there the stars are not shining, \[and\]  
 the sun \[remains\] invisible;  
 the moon does not shed light there, \[and\]  
-darkness is not to be found there. (45, 46a-b) \[5879\][^60]  
+darkness is not to be found there. (45, 46a-b) \[5879\][^60]
+
 And when one knows \[that place\] oneself,  
 a sage, a brahmin with wisdom,  
 he’s freed from form and formlessness,  
@@ -201,12 +214,13 @@ from happiness and suffering.”
 Thus \[he\] spoke, \[the Buddha\], the Lord,  
 the Sage, Refuge of the Three Worlds. (46c-d, 47) \[5880\]
 
-Thus indeed Venerable Bāhiya Thera spoke these verses.  
+Thus indeed Venerable Bāhiya Thera spoke these verses.
+
 The legend of Bāhiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Outsider” or “Foreigner,” the literal meaning (fr. *bāhira, “*outside”) of a given name which is played on below (see v. 40 \[5874\]). A historic monk, famous for being foremost among those who immediately comprehend the Dhamma (or quick at the special powers: *khippābhiññā.* “Bāhiya” was his given name; he was called “Bāhiya the Bark-Clad” (see v. 38 \[5872\] below) as a result of his experiences after the shipwreck (see v. 16 \[5854\], below). See DPPN II:281-282
+[^2]: “Outsider” or “Foreigner,” the literal meaning (fr. *bāhira*, “outside”) of a given name which is played on below (see v. 40 \[5874\]). A historic monk, famous for being foremost among those who immediately comprehend the Dhamma (or quick at the special powers: *khippābhiññā*. “Bāhiya” was his given name; he was called “Bāhiya the Bark-Clad” (see v. 38 \[5872\] below) as a result of his experiences after the shipwreck (see v. 16 \[5854\], below). See DPPN II:281-282
 
 [^3]: *mahāppabho*
 
@@ -214,15 +228,15 @@ The legend of Bāhiya Thera is finished.
 
 [^5]: *khippābhiñassa*, lit., “who quickly grasped the special knowledges”
 
-[^6]: lit., “then the Buddha...”
+[^6]: lit., “then the Buddha…”
 
 [^7]: reading *hemayaññopavītaṅgaṃ* with BJTS for PTS *hemayaññopacitaṅgaŋ* (“body heaped up with sacrifices of gold”?). The *yaññopavīta* (or more correctly *yaññopanīta*), lit., “sacrificial cord,” is a distinctive accoutrement of brahmin dress; the protagonist’s was gold-colored or made of gold. In the gloss on this passage BJTS does not venture a guess which, but elsewhere (see the gloss on \[5701\]) prefers the latter reading
 
-[^8]: *palimbaº,* lit., “hanging down”
+[^8]: *palimbaº*, lit., “hanging down”
 
 [^9]: reading *guṇoghāyataībhūtaṃ* with BJTS for PTS *guṇe kāyatanībhūtaŋ* (“in virtue the body \[\]”?)
 
-[^10]: *jinasāsanaŋ,* lit., “the Victor’s dispensation”
+[^10]: *jinasāsanaŋ*, lit., “the Victor’s dispensation”
 
 [^11]: i.e., Bāhiya together with Dabbamalla, Sabhiya, Kumāra-Kassapa and Pukkusāti; see above, v. \[5801\]-\[5802\]. Reading the adjectives in this verse as plurals (to agree with *pañcajanā*) with BJTS, for PTS singulars.
 
@@ -230,31 +244,31 @@ The legend of Bāhiya Thera is finished.
 
 [^13]: = Bharukaccha, a seaport from which merchants traveled abroad, modern Broach in Kathiawar. See DPPN II: 365
 
-[^14]: *appasiddhiyaŋ,* one BJTS alt. reads more correctly *appasiddhikaṃ,* “of little welfare” = “dangerous”
+[^14]: *appasiddhiyaŋ*, one BJTS alt. reads more correctly *appasiddhikaṃ*, “of little welfare” = “dangerous”
 
-[^15]: following BJTS Sinhala gloss, which apparently takes *abhijjhittha* (for PTS *abhijjhiṭṭha*) as aor. of *bhijjati,* passive form if *bhindati*, to break, i.e., be broken up.
+[^15]: following BJTS Sinhala gloss, which apparently takes *abhijjhittha* (for PTS *abhijjhiṭṭha*) as aor. of *bhijjati*, passive form if *bhindati*, to break, i.e., be broken up.
 
 [^16]: lit., “was fallen into”
 
-[^17]: *bhiŋsanake ghore...makarākare*
+[^17]: *bhiŋsanake ghore…makarākare*
 
 [^18]: reading *mandamedhiko* with BJTS (and PTS alt.) for PTS *mandavedhito* (“stupid \[or slow or lazy\] and trembling” “a little trembling” ). BJTS Sinh. gloss *manda vū väṭahīm nuvaṇa ättem*, lit., “with intelligence in application (or intelligibility) that was slow (or lazy, or stupid)” and adds that this was due to the struggling in the ocean
 
-[^19]: *suppārapaṭṭanam varaŋ.* Suppāra or Suppāraka (Skt. Sūrpāraka*)* is identified with the modern town of Sopāra in the Thāna district, to the north of Bombay, and figured in many Pāli texts, especially with regard to sea-crossings. See DPPN II: 1222-1223.
+[^19]: *suppārapaṭṭanam varaŋ*. Suppāra or Suppāraka (Skt. Sūrpāraka) is identified with the modern town of Sopāra in the Thāna district, to the north of Bombay, and figured in many Pāli texts, especially with regard to sea-crossings. See DPPN II: 1222-1223.
 
 [^20]: because he lost his clothes in the shipwreck and subsequent travails
 
-[^21]: *idhâgato,* lit., “who has come here”
+[^21]: *idhâgato*, lit., “who has come here”
 
 [^22]: lit., “this one”
 
 [^23]: *tehi sakkatapūjitaŋ*
 
-[^24]: *pubbadevatā,* lit., “a former god,” which acc. to RD means an *asura,* “a titan,” but I follow BJTS Sinh. gloss in taking this to be the former monastic companion who had become a non-returner, coming down from the world of Brahmā to chastise his former companion, an allusion back to v. \[5800\] and \[5801\] in the parallel *apadāna* of Dabbamalla Thera (\#531 {534}, vv. 32, 33)
+[^24]: *pubbadevatā*, lit., “a former god,” which acc. to RD means an *asura*, “a titan,” but I follow BJTS Sinh. gloss in taking this to be the former monastic companion who had become a non-returner, coming down from the world of Brahmā to chastise his former companion, an allusion back to v. \[5800\] and \[5801\] in the parallel *apadāna* of Dabbamalla Thera (\#531 {534}, vv. 32, 33)
 
 [^25]: lit., “having reproached” “reproaching”
 
-[^26]: or “the path to the method,” or “the path of expedient means” *na tvaŋ upāyamaggaññu,* lit., “you are not a knower of the path, the method.”
+[^26]: or “the path to the method,” or “the path of expedient means” *na tvaŋ upāyamaggaññu*, lit., “you are not a knower of the path, the method.”
 
 [^27]: *pahūtapañño*
 
@@ -264,7 +278,7 @@ The legend of Bāhiya Thera is finished.
 
 [^30]: lit., “see,” etymological cousin of *sudassanaŋ* (“Good-Looking”); “to see the one who’s good to see”. Here I am reading BJTS *daṭṭhum anantagocaraṃ* (and following BJTS Sinh. gloss) for PTS *duṭṭhamanantagocaraŋ* (“pasture at the end of evil minds”)
 
-[^31]: *sudassanaŋ,* i.e “the Buddha”
+[^31]: *sudassanaŋ*, i.e “the Buddha”
 
 [^32]: *anatagocaraŋ*
 
@@ -294,32 +308,32 @@ The legend of Bāhiya Thera is finished.
 
 [^45]: reading *anukampako* with BJTS for PTS *anukampito*
 
-[^46]: This eulogy of Bāhiya, spoken by the Buddha after the former's refrain (and *parinibbāna*) is unusual, though not unique, in *Apadāna;* cf. *Gotamī-therī-apadāna,* below (\#17 of *Therī-apadāna*
+[^46]: This eulogy of Bāhiya, spoken by the Buddha after the former's refrain (and *parinibbāna*) is unusual, though not unique, in *Apadāna*; cf. *Gotamī-therī-apadāna*, below (\#17 of *Therī-apadāna*)
 
 [^47]: “Bāhiya the Bark-Clad” (or “Wood-Clad”)
 
 [^48]: he was searching for a rag-robe at the time
 
-[^49]: reading *bhūtāviṭṭhāya (= ºāviddhāya*) with BJTS for PTS *ºadhiṭṭhāya* (“while standing on”)
+[^49]: reading *bhūtāviṭṭhāya* (= *ºāviddhāya*) with BJTS for PTS *ºadhiṭṭhāya* (“while standing on”)
 
 [^50]: *parinibbāyi*
 
-[^51]: *bāhiyaŋ bāhitāgamaŋ,* or “Bāhiya come from the outside,” or “Bāhiya come to the outside,” a play on the literal meaning of the monk’s name, reduplicating the alliteration of the previous foot (*dārucīradharaŋ dhīraŋ*)
+[^51]: *bāhiyaŋ bāhitāgamaŋ*, or “Bāhiya come from the outside,” or “Bāhiya come to the outside,” a play on the literal meaning of the monk’s name, reduplicating the alliteration of the previous foot (*dārucīradharaŋ dhīraŋ*)
 
-[^52]: reading *bhūmiyan patitaŋ dantaŋ* with BJTS for PTS *bhumiyaŋ. Danta-bhūmi*, “the safe ground” or “the place which is (or for) the tamed,” refers to nirvana; see RD s.v.
+[^52]: reading *bhūmiyan patitaŋ dantaŋ* with BJTS for PTS *bhumiyaŋ*. *Danta-bhūmi*, “the safe ground” or “the place which is (or for) the tamed,” refers to nirvana; see RD s.v.
 
 [^53]: *gatāyusaŋ gataklesaŋ*; note the Skt. spelling of *kilesa*, in both BJTS and PTS
 
-[^54]: *jinasāsanakārakaŋ,* lit., “a doer of the Victor’s dispensation”
+[^54]: *jinasāsanakārakaŋ*, lit., “a doer of the Victor’s dispensation”
 
 [^55]: *sāvake sāsane rate*
 
-[^56]: *sabrahmacārino,* lit., “of he who lived the holy life \[with you\]” or “of your fellow celibate”
+[^56]: *sabrahmacārino*, lit., “of he who lived the holy life \[with you\]” or “of your fellow celibate”
 
 [^57]: lit., “do *pūjā*”
 
-[^58]: lit “of those who possess....”
+[^58]: lit “of those who possess….”
 
-[^59]: or “without profit,” *anatthapadasaŋhitā.* This is *Dhammapada*, v. 101
+[^59]: or “without profit,” *anatthapadasaŋhitā*. This is *Dhammapada*, v. 101
 
 [^60]: the first two feet here = D.1.223 = S. i.15. BJTS treats this and the following as two verses with six feet each (as are the corresponding verses in D. and S.); PTS treats them as three verses with four feet each.

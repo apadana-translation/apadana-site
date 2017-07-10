@@ -1,4 +1,12 @@
-*\[536. {539.}*[^1] *Rādha*[^2]*\]*  
+---
+title: Rādha
+order: 539
+layout: poem
+category: chapter-3
+---
+
+### \[536. {539.}[^1] Rādha[^2]\]
+
 The Victor, Padumuttara,  
 the Sage, Knower of Every World,  
 the One who had \[Five\] Eyes, arose  
@@ -31,7 +39,7 @@ he ferried many folks across. (6) \[5961\]
 I then \[lived\] in Haṃsavatī,  
 brahmin master of the mantras.  
 Approaching the Excellent Man,[^16]  
-I heard the preaching of *Dhamma,* (7) \[5962\]
+I heard the preaching of *Dhamma*, (7) \[5962\]
 
 the Great Hero, the \[World-\]Leader,  
 Confident among Multitudes,[^17]  
@@ -50,7 +58,8 @@ the Blessed One then said to me,
 “May you be happy and long-lived;  
 your intention is accomplished.  
 Hugely[^22] \[fruitful\] for you \[will be\]  
-\[this\] deed done for the monks[^23] and me. (10-11) \[5965-5966\]  
+\[this\] deed done for the monks[^23] and me. (10-11) \[5965-5966\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
@@ -124,7 +133,7 @@ to me \[then\] wandering for alms.” (25) \[5980\]
 Excellent, Excellent, grateful  
 Sāriputta! \[Now\] you ordain  
 this \[man, an\] elderly brahmin;  
-he’s going to be a thoroughbred.[^31](26) \[5981\]
+he’s going to be a thoroughbred.[^31] (26) \[5981\]
 
 Then \[I\] got to go forth \[and got\]  
 ordained with proper ritual.[^32]  
@@ -151,7 +160,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (31) \[5986\]
 
-Thus indeed Venerable Rādha Thera spoke these verses.  
+Thus indeed Venerable Rādha Thera spoke these verses.
+
 The legend of Rādha Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -176,13 +186,13 @@ The legend of Rādha Thera is finished.
 
 [^11]: *nirākulaŋ*
 
-[^12]: *suñññataŋ,* or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
+[^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
 [^13]: *vicittaŋ*
 
-[^14]: *ratanāna-aṭṭha-paññāsaŋ uggato.* A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
+[^14]: *ratanāna-aṭṭha-paññāsaŋ uggato*. A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
 
-[^15]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or “like a gold festoon work”
+[^15]: *kañcanagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^16]: *naravaraŋ*
 
@@ -194,7 +204,7 @@ The legend of Rādha Thera is finished.
 
 [^20]: or “sound”: *sarena*
 
-[^21]: *siṅgīnikkhasamappabho. ºNikkhaº* can mean gold coins, or a particular weight of gold, cf. *nekkha.* “Gold Ingots” similarly evokes both the weight of the gold and the \[minted\] coin or bar that contains that weight
+[^21]: *siṅgīnikkhasamappabho*. *ºNikkhaº* can mean gold coins, or a particular weight of gold, cf. *nekkha*. “Gold Ingots” similarly evokes both the weight of the gold and the \[minted\] coin or bar that contains that weight
 
 [^22]: *atīva vipulaŋ*
 
@@ -202,20 +212,20 @@ The legend of Rādha Thera is finished.
 
 [^24]: reading *sa te hetuguṇe tuṭṭho* with BJTS for PTS *sake hetuguṇe tuṭṭho* (which could be “happy by reason of \[his\] own virtue”)
 
-[^25]: *paricariŋ,* “waited on” “attended to”
+[^25]: *paricariŋ*, “waited on” “attended to”
 
-[^26]: PTS reads *vippakule n’iddhe;* BJTS reads *vippakule ‘niddhe*; both convey the same meaning.
+[^26]: PTS reads *vippakule n’iddhe*; BJTS reads *vippakule ‘niddhe*; both convey the same meaning.
 
-[^27]: *giribbajapuruttame.* Giribbaja or Girivraja is another name for Rajgir (also for Vaṅkagiri; see DPPN I:770)
+[^27]: *giribbajapuruttame*. Giribbaja or Girivraja is another name for Rajgir (also for Vaṅkagiri; see DPPN I:770)
 
-[^28]: *pabbajenti,* lit., “giving me the ‘going forth’”
+[^28]: *pabbajenti*, lit., “giving me the ‘going forth’”
 
-[^29]: *dubbalathāmakaŋ,* lit., “of bad strength \[and\] vigor”
+[^29]: *dubbalathāmakaŋ*, lit., “of bad strength \[and\] vigor”
 
 [^30]: *mahākāruṇiko*
 
 [^31]: *hessat’ ājāniyo ayaŋ*
 
-[^32]: *kammavācupsampadaŋ,* “higher ordination according to monastic rites”
+[^32]: *kammavācupsampadaŋ*, “higher ordination according to monastic rites”
 
-[^33]: or of the outflows, *āsavakkhayaŋ,* i.e., “I attained my arahantship”
+[^33]: or of the outflows, *āsavakkhayaŋ*, i.e., “I attained my arahantship”

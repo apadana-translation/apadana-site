@@ -1,4 +1,12 @@
-*\[541. {544.}*[^1] *Vaṅgīsa*[^2]*\]*  
+---
+title: Vaṅgīsa
+order: 544
+layout: poem
+category: chapter-3
+---
+
+### \[541. {544.}[^1] Vaṅgīsa[^2]\]
+
 The Victor, Padumuttara,  
 the One with Eyes for everything,  
 the Leader \[of the World,\] arose  
@@ -37,7 +45,7 @@ exists who contradicts \[his words\]. (7) \[6124\]
 Preaching the excellent *Dhamma*,  
 ferrying \[the world\] with \[its\] gods,  
 Confident among Multitudes,  
-he’s turning the wheel of *Dhamma.* (8) \[6125\]
+he’s turning the wheel of *Dhamma*. (8) \[6125\]
 
 Praising the lofty virtue of  
 a well-regarded follower,  
@@ -50,7 +58,7 @@ born knowing all of the Vedas,
 lord of speech,[^16] debater-crusher.[^17] (10) \[6127\]
 
 Approaching him, the Great Hero,  
-having heard that *Dhamma-*preaching,  
+having heard that *Dhamma*-preaching,  
 I obtained overwhelming joy,[^18]  
 loving the follower’s virtue. (11) \[6128\]
 
@@ -91,7 +99,8 @@ with followers for a week, and
 uttered praises of my virtue,  
 \[feeling well-\]pleased by \[his\] own hands,  
 is wishing \[to attain\] the place  
-of the monk who’s god of speakers. (18-19) \[6135-6136\]  
+of the monk who’s god of speakers. (18-19) \[6135-6136\]
+
 Very far into the future,  
 he’ll receive that delightful \[place,\]  
 enjoying, with nothing lacking,  
@@ -151,21 +160,25 @@ free of spots of \[mere\] fleeting thoughts.[^42] (30) \[6147\]
 Then he, the wise one, the hero,  
 spoke back \[thus\] to me in response:  
 “The one described my Teacher,  
-the Sambuddha, the World’s Leader.” (31a-b) \[6148\][^43]  
+the Sambuddha, the World’s Leader.” (31a-b) \[6148\][^43]
+
 \[He then\] made an impassioned speech,  
 hard to encounter,[^44] ultimate.  
 Pleased by[^45] \[that\] colorful[^46] speaking  
 by the neutral \[Sāriputta\],  
 bowing with \[my\] head at \[his\] feet,  
-I said, “give me[^47] ordination.” (31c-d, 32) \[6149\][^48]  
+I said, “give me[^47] ordination.” (31c-d, 32) \[6149\][^48]
+
 Then he, the one of great wisdom,  
 led me to the Best of Buddhas.  
 Bowing with \[my\] head at \[his\] feet,  
-I sat in the Teacher’s presence. (33a-b) \[6150\][^49]  
+I sat in the Teacher’s presence. (33a-b) \[6150\][^49]
+
 The Best Debater[^50] said to me,  
 “Vaṅgīsa, do you know any  
 art at all?” I spoke about it  
-and \[then\] I said \[to him\] “I know”. (33c-d) \[6151\][^51]  
+and \[then\] I said \[to him\] “I know”. (33c-d) \[6151\][^51]
+
 “Through your distinction in knowledge,  
 if you can, \[then now\] speak about  
 a dead skull thrown out in the woods,  
@@ -231,38 +244,39 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (46) \[6164\]
 
-Thus indeed Venerable Vaṅgīsa Thera spoke these verses.  
+Thus indeed Venerable Vaṅgīsa Thera spoke these verses.
+
 The legend of Vaṅgīsa Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: a historical monk, famous as a poet and foremost among those with ready expressions (*paṭtibhānavataŋ*). See DPPN II: 802-803. The text understands the meaning of his name as both “Lord froṅm Vaṅga” and “Lord of Speakers” (see v. 27 \[6144\], below)
 
-[^3]: *lokantagū,* lit., “who has gone to the ends of the world” (understood by BJTS to refer to *bhavotpattiya*, the process of rebirth or re-existence itself)
+[^3]: *lokantagū*, lit., “who has gone to the ends of the world” (understood by BJTS to refer to *bhavotpattiya*, the process of rebirth or re-existence itself)
 
 [^4]: or “is coloring”: *anurañjanto*
 
-[^5]: *vibodhento,* BJTS Sinh. gloss *pobayamin,* which refers to the “opening” of both minds (i.e., “enlightening” “teaching”) and of flowers (“en-lightening” like the sun, to whose rays lotuses open)
+[^5]: *vibodhento*, BJTS Sinh. gloss *pobayamin*, which refers to the “opening” of both minds (i.e., “enlightening” “teaching”) and of flowers (“en-lightening” like the sun, to whose rays lotuses open)
 
-[^6]: *veneyyapadumāni,* lit., “lotuses that can be taught” or “lotuses that can be led”. I follow BJTS Sinh. gloss in taking the term to refer to people. I have explored a developed use of this metaphor in the introduction to *Vaṃsatthappakāsini,* in my “Buddhist History: The Sri Lankan Pāli Vaṃsas and their Commentary,” in Inden, Walters and Ali, *Querying the Medieval* (Oxford, 2000):126ff.
+[^6]: *veneyyapadumāni*, lit., “lotuses that can be taught” or “lotuses that can be led”. I follow BJTS Sinh. gloss in taking the term to refer to people. I have explored a developed use of this metaphor in the introduction to *Vaṃsatthappakāsini*, in my “Buddhist History: The Sri Lankan Pāli Vaṃsas and their Commentary,” in Inden, Walters and Ali, *Querying the Medieval* (Oxford, 2000):126ff.
 
 [^7]: *vesārajjehi sampanno catuhi*
 
-[^8]: *pahīna-bhaya-sārajjo,* lit., “with fear and timidity abandoned”
+[^8]: *pahīna-bhaya-sārajjo*, lit., “with fear and timidity abandoned”
 
 [^9]: *visārado*
 
-[^10]: *khemappatto.* BJTS Sinh. gloss takes “peace” to mean nirvana, and its attainment to be the very nature of the confidence of boldness exhibited by the Buddha.
+[^10]: *khemappatto*. BJTS Sinh. gloss takes “peace” to mean nirvana, and its attainment to be the very nature of the confidence of boldness exhibited by the Buddha.
 
 [^11]: *buddhabhumiŋ ca kevalaŋ*
 
-[^12]: *āsabhaŋ pavaraŋ ṭhānaŋ,* i.e., “the excellent best place”
+[^12]: *āsabhaŋ pavaraŋ ṭhānaŋ*, i.e., “the excellent best place”
 
 [^13]: *nadato*
 
 [^14]: *brahmā*
 
-[^15]: *paṭibhānavataŋ,* lit., “possessing ready expression”
+[^15]: *paṭibhānavataŋ*, lit., “possessing ready expression”
 
 [^16]: *vāgīso*
 
@@ -282,19 +296,19 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^24]: *diṭṭhisūdana*
 
-[^25]: *santisukhada,* lit “Giver of Peaceful Comfort” or “Giver of Peace and Comfort” or “Giver of Peace and Happiness”
+[^25]: *santisukhada*, lit “Giver of Peaceful Comfort” or “Giver of Peace and Comfort” or “Giver of Peace and Happiness”
 
-[^26]: *saraṇantaga,* lit., “Gone to the End of Refuge”
+[^26]: *saraṇantaga*, lit., “Gone to the End of Refuge”
 
-[^27]: *bhavan,* BJTS reads *bhavaṃ.* This could be a nom. sing. or a voc. sing.; “The Revered One” or “O Revered One.
+[^27]: *bhavan*, BJTS reads *bhavaṃ*. This could be a nom. sing. or a voc. sing.; “The Revered One” or “O Revered One.
 
 [^28]: *abhayappado*
 
-[^29]: reading *vissāmabhūmi santānaṃ* with BJTS for PTS *vissāna*\[=gift?\]*bhūmisantānam* (“Land of Gifts for the lineage” or “in continuity” ?); BJTS alt. *vissāsabhūmi,* “place of confidence” “place to breathe easy”
+[^29]: reading *vissāmabhūmi santānaṃ* with BJTS for PTS *vissāna* \[=gift?\] *bhūmisantānam* (“Land of Gifts for the lineage” or “in continuity” ?); BJTS alt. *vissāsabhūmi*, “place of confidence” “place to breathe easy”
 
 [^30]: *mahāguṇaŋ*
 
-[^31]: *vādisurassa,* or “God of Debaters”. *Sura* is a word for “god” which invokes the cosmic battle with the titans (“not *sura*s,” *asuras*), “The \[Conquering\] God”
+[^31]: *vādisurassa*, or “God of Debaters”. *Sura* is a word for “god” which invokes the cosmic battle with the titans (“not *sura*\s,” *asuras*), “The \[Conquering\] God”
 
 [^32]: *gatim pappomi*
 
@@ -306,9 +320,9 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^36]: *Vaṅgīsa*, the protagonist’s name.
 
-[^37]: *vacane issaro ti vā,* a second etymology for his name
+[^37]: *vacane issaro ti vā*, a second etymology for his name
 
-[^38]: *ṭhito,* lit., “remaining,” “standing” “fixed”
+[^38]: *ṭhito*, lit., “remaining,” “standing” “fixed”
 
 [^39]: or “prime” or “first bloom”: *paṭhamayobbane*
 
@@ -318,7 +332,7 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^42]: reading *kaṇikaṃ ṭhānaracitaṃ* with BJTS for PTS *kaṇṇikāraparicitaŋ* (“heaping up \[metaphors of?\] dinner-plate \[trees\]”), though it is tempting to read in the latter a mild criticism of the frequency of such metaphors in earlier poems by the appropriately, and especially skilled poet of the present *apadāna*
 
-[^43]: here PTS seems to omit the first two feet of the verse, provided in BJTS: *ācikkhi so me satthāraṃ/Sambuṃddha lokanāyakaṃ.* PTS provides BJTS \[6148c-d\] as its (31a-b); it then makes BJTS \[6149a-b\] into its (30c-d). BJTS presents the subsequent verse as a six-footed one, making up the difference, but the problem recurs below
+[^43]: here PTS seems to omit the first two feet of the verse, provided in BJTS: *ācikkhi so me satthāraṃ/Sambuṃddha lokanāyakaṃ*. PTS provides BJTS \[6148c-d\] as its (31a-b); it then makes BJTS \[6149a-b\] into its (30c-d). BJTS presents the subsequent verse as a six-footed one, making up the difference, but the problem recurs below
 
 [^44]: lit., “hard to see,” reading *duddasaṃ* with BJTS (and PTS alt.) for PTS *uddayaŋ* (“profit” ?)
 
@@ -330,13 +344,13 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^48]: BJTS presents this as a six-footed verse; PTS breaks it into one and a half verses, probably misled by the omitted line (see the note on the previous verse numbers)
 
-[^49]: here too PTS seems to omit a line, which BJTS reads as: *nipacca sirasā pade/nisīdiŋ satthu santike.*
+[^49]: here too PTS seems to omit a line, which BJTS reads as: *nipacca sirasā pade*/*nisīdiŋ satthu santike*.
 
-[^50]: *vadataŋ seṭṭho.* I read *kacci vaṅgīsa jānasi* with BJTS for PTS (and BJTS alt.) *saccaŋ Vaṅgīsa kacci te* (“O Vaṅgīsa, what is the truth”?), though both versions convey a similar sense to the Buddha’s rhetorical question
+[^50]: *vadataŋ seṭṭho*. I read *kacci vaṅgīsa jānasi* with BJTS for PTS (and BJTS alt.) *saccaŋ Vaṅgīsa kacci te* (“O Vaṅgīsa, what is the truth”?), though both versions convey a similar sense to the Buddha’s rhetorical question
 
-[^51]: here too PTS seems to omit a line, which BJTS reads as: *kiñci sippan ti tassāhaṃ/jānāmi ti ca abraviṃ.* I follow BJTS Sinh. gloss in parsing the grammar here.
+[^51]: here too PTS seems to omit a line, which BJTS reads as: *kiñci sippan ti tassāhaṃ/jānāmi ti ca abraviṃ*. I follow BJTS Sinh. gloss in parsing the grammar here.
 
-[^52]: reading *avācayiṃ* with BJTS for PTS *avāvcayi* (“he said”)
+[^52]: reading *avācayiṃ* with BJTS for PTS *avācayi* (“he said”)
 
 [^53]: reading *nara* with BJTS for PTS *atho* (“then”)
 
@@ -352,4 +366,4 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^59]: *saŋviggo*
 
-[^60]: *dhāretha,* lit., “carry” “recall” “remember” “regard”
+[^60]: *dhāretha*, lit., “carry” “recall” “remember” “regard”

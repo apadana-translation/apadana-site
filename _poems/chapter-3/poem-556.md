@@ -1,4 +1,12 @@
-*\[{556.}*[^1] *Uttara*[^2]*\]*  
+---
+title: Uttara
+order: 556
+layout: poem
+category: chapter-3
+---
+
+### \[{556.}[^1] Uttara[^2]\]
+
 The Sambuddha named Sumedha,  
 Bearing the Thirty-two Great Marks,  
 Seclusion-Lover, Blessed One,  
@@ -94,42 +102,42 @@ innumerable by counting. \[6402\]
 Transmigrating from birth to birth,  
 I receive many possessions.  
 I have no lack of possessions:  
-that’s the fruit of Buddha-*pūjā.* \[6403\]
+that’s the fruit of Buddha-*pūjā*. \[6403\]
 
 I transmigrate in \[just\] two states:  
 that of a god, or of a man.  
 I know no other rebirth \[state\]:  
-that’s the fruit of Buddha-*pūjā.* \[6404\]
+that’s the fruit of Buddha-*pūjā*. \[6404\]
 
 I am born in the two \[high\] clans,  
 kṣatriyan and also brahmin.  
 I’m not aware of lesser clans:  
-that’s the fruit of Buddha-*pūjā.* \[6405\]
+that’s the fruit of Buddha-*pūjā*. \[6405\]
 
 Elephant- \[and\] horse-vehicles,  
 palanquins \[and\] chariots \[too\],  
 I am receiving all of that:  
-that’s the fruit of Buddha-*pūjā.* \[6406\]
+that’s the fruit of Buddha-*pūjā*. \[6406\]
 
 Troops of slaves \[and\] troops of slave-girls,  
 and women who are all decked out,  
 I am receiving all of that:  
-that’s the fruit of Buddha-*pūjā.* \[6407\]
+that’s the fruit of Buddha-*pūjā*. \[6407\]
 
 Silk material, woolen stuff,  
 *khoma* cloth and cotton \[goods too\],  
 I am receiving all of that:  
-that’s the fruit of Buddha-*pūjā.* \[6408\]
+that’s the fruit of Buddha-*pūjā*. \[6408\]
 
 New clothing and fruit which is fresh,  
 pure[^22] food of foremost tastiness,  
 I am receiving all of that:  
-that’s the fruit of Buddha-*pūjā.* \[6409\]
+that’s the fruit of Buddha-*pūjā*. \[6409\]
 
 \[People saying,\] “eat this, enjoy  
 this, please lie down on this \[fine\] bed,”  
 I am receiving all of that:  
-that’s the fruit of Buddha-*pūjā.* \[6410\]
+that’s the fruit of Buddha-*pūjā*. \[6410\]
 
 Everywhere I’m given honor[^23]  
 \[and\] I have very lofty fame,  
@@ -144,7 +152,7 @@ suffering of the mind \[or\] heart. \[6412\]
 Having been the color of gold,  
 I transmigrate from birth to birth.  
 I do not know a bad color:  
-that’s the fruit of Buddha-*pūjā.* \[6413\]
+that’s the fruit of Buddha-*pūjā*. \[6413\]
 
 Falling down from the world of gods,  
 incited by \[my\] wholesome roots,  
@@ -159,22 +167,22 @@ I attained \[my\] arahantship. \[6415\]
 Knowing \[my\] virtue, the Buddha,  
 the Eyeful One, \[then\] ordained \[me\].  
 A young boy worthy of honor:  
-that’s the fruit of Buddha-*pūjā.* \[6416\]
+that’s the fruit of Buddha-*pūjā*. \[6416\]
 
 The divine eye is purified;  
 I’m skilled in meditative states.[^30]  
 Special knowledges perfected:  
-that’s the fruit of Buddha-*pūjā.* \[6417\]
+that’s the fruit of Buddha-*pūjā*. \[6417\]
 
 Analytical modes attained,  
 skilled in \[all\] the superpowers,[^31]  
 perfect in special knowledges:  
-that’s the fruit of Buddha-*pūjā.* \[6418\]
+that’s the fruit of Buddha-*pūjā*. \[6418\]
 
 In the thirty thousand aeons  
 since I worshipped[^32] the Buddha \[then\],  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* \[6419\]
+that’s the fruit of Buddha-*pūjā*. \[6419\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -191,18 +199,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! \[6422\]
 
-Thus indeed Venerable Uttara Thera spoke these verses.  
+Thus indeed Venerable Uttara Thera spoke these verses.
+
 The legend of Uttara Thera, the sixth.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: a historical monk, see DPPN I:349. This same *apadāna,* with slight variations, is included above as \#498 {501}, where it is ascribed to a monk named Tīṇikaṇikārapupphiya (“Three *Kaṇikāra* Flowers-er”), based on the nature of the original gift. The slight variations here are: reading *bhagavā* for *sambuddho* in the third foot of v. 1 \[6385\]; reading “well-gone” (*sugataṃ*) for “well-made” in v. 3 \[6387\]; reading *puṇṇamāye* for *puṇṇamāse* in v. 4 \[6388\]; reading “I don’t know” (*na jānāmi*) for “I don’t get born in” (*na jāyāmi*) in v. 21 \[6405\]; eliding the last two feet of v. 27 \[6411\], which \#498 {501} presents as a six-footed verse.
+[^2]: a historical monk, see DPPN I:349. This same *apadāna*, with slight variations, is included above as \#498 {501}, where it is ascribed to a monk named Tīṇikaṇikārapupphiya (“Three *Kaṇikāra* Flowers-er”), based on the nature of the original gift. The slight variations here are: reading *bhagavā* for *sambuddho* in the third foot of v. 1 \[6385\]; reading “well-gone” (*sugataṃ*) for “well-made” in v. 3 \[6387\]; reading *puṇṇamāye* for *puṇṇamāse* in v. 4 \[6388\]; reading “I don’t know” (*na jānāmi*) for “I don’t get born in” (*na jāyāmi*) in v. 21 \[6405\]; eliding the last two feet of v. 27 \[6411\], which \#498 {501} presents as a six-footed verse.
 
-[^3]: lit “crouching with his legs crossed”
+[^3]: lit., “crouching with his legs crossed”
 
-[^4]: *vijjādharo,* “spell-knower”
+[^4]: *vijjādharo*, “spell-knower”
 
-[^5]: *sugataṃ,* perhaps a mistake for *sukataṃ* (“well-made”)
+[^5]: *sugataṃ*, perhaps a mistake for *sukataṃ* (“well-made”)
 
 [^6]: i.e., when it is full, *puṇṇamāye* \[mistake for *puṇṇamāse*?\] *va candimā*
 
@@ -216,11 +225,11 @@ The legend of Uttara Thera, the sixth.
 
 [^11]: *kaṇikārîti ñāyati*
 
-[^12]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍa*s (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\].” .
+[^12]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍa*\s (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\].” .
 
-[^13]: following BJTS, PTS reads *geṇḍu,* in multiple variations. At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
+[^13]: following BJTS, PTS reads *geṇḍu*, in multiple variations. At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
 
-[^14]: *yenicchakā,* following BJTS Sinhala gloss *kämäti tänaka*
+[^14]: *yenicchakā*, following BJTS Sinhala gloss *kämäti tänaka*
 
 [^15]: *ºvikutīº;* I take this to evoke a mattress (*tūlikāº*) constructed through piling up (“assembling”) of layers of grass or wool (see RD., s.v.)
 
@@ -232,15 +241,15 @@ The legend of Uttara Thera, the sixth.
 
 [^19]: *khiḍḍāratiyā*
 
-[^20]: *tidase,* i.e., in Tāvatiṃsa heaven
+[^20]: *tidase*, i.e., in Tāvatiṃsa heaven
 
-[^21]: *vyamha-m-uttame,* lit., “in \[my\] ultimate (or superb) mansion”
+[^21]: *vyamha-m-uttame*, lit., “in \[my\] ultimate (or superb) mansion”
 
-[^22]: *nava,* the same adjective translated as “new” in the first foot and “fresh” in the second foot
+[^22]: *nava*, the same adjective translated as “new” in the first foot and “fresh” in the second foot
 
 [^23]: lit., “*pūjā*”
 
-[^24]: *mahāpakkho, lit.,* “one of the great faction” “one with a powerful party,”
+[^24]: *mahāpakkho*, lit., “one of the great faction” “one with a powerful party,”
 
 [^25]: or “I do not know,” *na jānāmi*
 
@@ -248,9 +257,9 @@ The legend of Uttara Thera, the sixth.
 
 [^27]: lit., “in the city, Śrāvasti,”
 
-[^28]: *mahāsāle,* a mark of wealth (which is further emphasized as *su-aḍhake*, “very wealthy” or “very influential”)
+[^28]: *mahāsāle*, a mark of wealth (which is further emphasized as *su-aḍhake*, “very wealthy” or “very influential”)
 
-[^29]: *pañca-kāma-guṇe,* “the five strands of sense pleasure,” namely those obtained through the five senses
+[^29]: *pañca-kāma-guṇe*, “the five strands of sense pleasure,” namely those obtained through the five senses
 
 [^30]: *samādhikusalo ahaŋ*
 

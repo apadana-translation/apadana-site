@@ -1,4 +1,12 @@
-*\[510. {513.}*[^1] *Kosumbhaphaliya*[^2]*\]*  
+---
+title: Kosumbhaphaliya
+order: 513
+layout: poem
+category: chapter-3
+---
+
+### \[510. {513.}[^1] Kosumbhaphaliya[^2]\]
+
 I gave a margosa[^3] \[fruit\] to  
 the Golden-Colored Sambuddha,  
 the God of Gods, the Bull of Men,  
@@ -24,14 +32,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[5472\]
 
-Thus indeed Venerable Kosumbhaphaliya[^4] Thera spoke these verses.  
+Thus indeed Venerable Kosumbhaphaliya[^4] Thera spoke these verses.
+
 The legend of Kosumbhaphaliya[^5] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “*Kosumba* (PTS *Kosumba*º*)* Fruit-er”. PTS gets the spelling right in v. 1.
+[^2]: “*Kosumba* (PTS *Kosumbaº*) Fruit-er”. PTS gets the spelling right in v. 1.
 
-[^3]: *kosumbhaŋ,* also spelt *kosambhā,* - (acc. to BJTS Sinh. gloss on \[3762\]) Sinh. *kohomba,* neem or margosa tree, Azadirachta indica, though Cone says “a kind of shrub or plant”
+[^3]: *kosumbhaŋ*, also spelt *kosambhā*, - (acc. to BJTS Sinh. gloss on \[3762\]) Sinh. *kohomba*, neem or margosa tree, Azadirachta indica, though Cone says “a kind of shrub or plant”
 
 [^4]: PTS reads *Kosumbaº*
 

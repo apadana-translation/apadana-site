@@ -1,4 +1,12 @@
-*\[545. {548.}*[^1] *Lomasakaṅgiya*[^2]*\]*  
+---
+title: Lomasakaṅgiya
+order: 548
+layout: poem
+category: chapter-3
+---
+
+### \[545. {548.}[^1] Lomasakaṅgiya[^2]\]
+
 In this \[present\] lucky aeon  
 Brahmā’s Kinsman, Greatly Famed One,  
 known by the name of Kassapa,[^3]  
@@ -16,7 +24,8 @@ through dances which were divine, and
 through songs \[and\] through speeches and the  
 ten attainments starting with looks,  
 living \[our\] lifespan’s \[full\] extent,  
-we’re enjoying great happiness. (3-4) \[6249-6250\]  
+we’re enjoying great happiness. (3-4) \[6249-6250\]
+
 Falling from there, Candana was  
 reborn among the thirty \[gods\];  
 I was a son of the Śākyas,[^7]  
@@ -50,7 +59,7 @@ the Sage instructed \[his\] kinsmen. (10) \[6256\]
 A huge cloud four continents\[-wide\]  
 rained forth \[on the world\] all the time.  
 Then the Buddha preached \[to them all\]  
-the *Vessantara Jātaka.*[^14] (11) \[6257\]
+the *Vessantara Jātaka*.[^14] (11) \[6257\]
 
 At that time all those kṣatriyans,  
 having slain \[their\] caste-born conceit,  
@@ -60,8 +69,8 @@ Then \[King\] Suddhodana[^15] said this: (12) \[6258\]
 “O Very Wise One[^16] this is the third time I’m  
 worshipping your feet, One with Eyes on All Sides;[^17]  
 \[the first time was\] when \[your\] birth caused the earth to quake,  
-\[next\] when the rose-apple’s shade did not leave you.”[^18] (13)
-\[6259\][^19]  
+\[next\] when the rose-apple’s shade did not leave you.”[^18] (13) \[6259\][^19]
+
 Seeing the Buddha’s majestic  
 power,[^20] I \[too\] was astonished.[^21]  
 Having gone forth right on that spot,  
@@ -69,7 +78,7 @@ I dwelt, worshipped by \[my\] mother.[^22] (14) \[6260\]
 
 Candana, \[now\] son of a god,  
 approached me, then examined[^23] \[me\]  
-on the *Bhaddekaratta Sutta,*[^24]  
+on the *Bhaddekaratta Sutta*,[^24]  
 in abridged \[and\] extended forms.[^25] (15) \[6261\]
 
 Then being incited by him,  
@@ -89,7 +98,7 @@ cuscus grass,[^32] tender grass,[^33] coarse grass.[^34] (18) \[6264\]
 
 Gone into the woods, recalling  
 the Victor’s dispensation, the  
-advice \[in\] *Bhaddekaratta,*  
+advice \[in\] *Bhaddekaratta*,  
 I attained \[my\] arahantship. (19) \[6265\]
 
 The past is not to be pursued;  
@@ -109,7 +118,7 @@ with the massive army of Death. (22) \[6268\]
 
 “Living thus, making great effort,  
 day and night, without laziness,  
-that indeed’s *Bhaddekaratto,*”  
+that indeed’s *Bhaddekaratto*,”  
 \[so\] says[^42] the Sage, the Peaceful One.”[^43] (23) \[6269\]
 
 My defilements are \[now\] burnt up;  
@@ -127,18 +136,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (26) \[6272\]
 
-Thus indeed Venerable Lomasakaṅgiya Thera spoke these verses.  
+Thus indeed Venerable Lomasakaṅgiya Thera spoke these verses.
+
 The legend of Lomasakaṅgiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Hair on his own Body,” a historical monk so-named for the delicate hair on the soles of his feet (and general lack of hair elsewhere on his body). See DPPN II: 789-790
 
-[^3]: One BJTS alt. reads *gottena,* “by lineage”
+[^3]: One BJTS alt. reads *gottena*, “by lineage”
 
 [^4]: *vadataŋ varo*
 
-[^5]: *pabbajitvāna,* lit., “going forth” “having gone forth” “after having gone forth”
+[^5]: *pabbajitvāna*, lit., “going forth” “having gone forth” “after having gone forth”
 
 [^6]: lit., “the rest” “the remainder”
 
@@ -146,13 +156,13 @@ The legend of Lomasakaṅgiya Thera is finished.
 
 [^8]: that is, Kāḷudāyi, \#543 {546}, above, v. 25 \[6212\]
 
-[^9]: *upesi,* lit., “came up to”
+[^9]: *upesi*, lit., “came up to”
 
 [^10]: *jātitthaddhā*
 
 [^11]: *anādarā*
 
-[^12]: *pajjunno viya,* = Parjanya, Vedic God of Rain (also “rain-cloud”)
+[^12]: *pajjunno viya*, = Parjanya, Vedic God of Rain (also “rain-cloud”)
 
 [^13]: *pajjalittha yathā sikhī*, a Vedic name for Agni, the Fire (also “fire”)
 
@@ -162,9 +172,9 @@ The legend of Lomasakaṅgiya Thera is finished.
 
 [^16]: *bhūripañña*
 
-[^17]: *samantacakkhu.* or “All-Seeing One” or “Far-Seeing One”
+[^17]: *samantacakkhu*. or “All-Seeing One” or “Far-Seeing One”
 
-[^18]: this refers to a moment in the Buddha’s early life when the bodhisatta was left beneath a rose-apple (*jambu)* tree during a festival. His nurses returned to find him sitting cross-legged, having attained the first *jhana,* upon which the shade of the tree stood still, shading him as long as he remained there (see DPPN I: 789).
+[^18]: this refers to a moment in the Buddha’s early life when the bodhisatta was left beneath a rose-apple (*jambu)* tree during a festival. His nurses returned to find him sitting cross-legged, having attained the first *jhana*, upon which the shade of the tree stood still, shading him as long as he remained there (see DPPN I: 789).
 
 [^19]: both BJTS and PTS present this as a verse in the more complex xxx meter, with eleven-syllable feet, and both have a (flawed?) third foot with twelve syllables, making the verse as it stands 11-11-12-11
 
@@ -176,7 +186,7 @@ The legend of Lomasakaṅgiya Thera is finished.
 
 [^23]: reading *‘upagantvāna pucchatha* with BJTS for PTS *upagantvā ‘nurañjatha* (“having approached lit up \[the place\]”)
 
-[^24]: or *Ānanda-bhaddekaratta-sutta*, M.iii.187ff. Lomasakaṅgiya and Candana vowed during their previous life as monks together that in the future Candana would ask Lomasakaṅgiya about this particular *sutta*, and that Lomasakagiya would then explain it to him. The account of this encounter is called *Lomasakaṅgiya-Bhaddekaratta-sutta,* M.iii.199ff. See DPPN II: 359-360, for details and a summary of the text
+[^24]: or *Ānanda-bhaddekaratta-sutta*, M.iii.187ff. Lomasakaṅgiya and Candana vowed during their previous life as monks together that in the future Candana would ask Lomasakaṅgiya about this particular *sutta*, and that Lomasakagiya would then explain it to him. The account of this encounter is called *Lomasakaṅgiya-Bhaddekaratta-sutta*, M.iii.199ff. See DPPN II: 359-360, for details and a summary of the text
 
 [^25]: reading *saṅkhepavitthāranayaŋ* with BJTS for PTS *saṅkhepaŋ vitthāraŋ naraŋ* (“the abridged \[and\] extended man”)
 
@@ -186,17 +196,17 @@ The legend of Lomasakaṅgiya Thera is finished.
 
 [^28]: reading *vārayi taṃ* with BJTS (and PTS alt.) for PTS *dhārayiŋ te* (“I carried you”)
 
-[^29]: *vivekam anubrūhayam.* BJTS Sinh. gloss says this means doing meditation in the three postures of sitting, standing and walking back and forth
+[^29]: *vivekam anubrūhayam*. BJTS Sinh. gloss says this means doing meditation in the three postures of sitting, standing and walking back and forth
 
-[^30]: *dabbhaŋ kusaŋ* = the kind of *kusa* grass or “sacrificial grass” known as *dabbha*, a sweet-smelling grass, Sinh. *kusa taṇa, kuśa tṛṇa* (Bot. Dict. = arrow grass, Paspalum sanguinale *(Gram.);* note: Bot. Dict. also gives Sinh. *ītaṇa,* Andropogon contortus *(Gram.)* as arrow grass, and says *kuśa* also can mean *iḷuk*, Imperata arundinacea *(Gram.)*)
+[^30]: *dabbhaŋ kusaŋ* = the kind of *kusa* grass or “sacrificial grass” known as *dabbha*, a sweet-smelling grass, Sinh. *kusa taṇa*, *kuśa tṛṇa* (Bot. Dict. = arrow grass, Paspalum sanguinale (*Gram.*); note: Bot. Dict. also gives Sinh. *ītaṇa*, Andropogon contortus (*Gram.*) as arrow grass, and says *kuśa* also can mean *iḷuk*, Imperata arundinacea (*Gram.*))
 
-[^31]: *poṭakilam =* a kind of grass, Saccharum spontaneum, Sinh. *väluk,* “vining sugarcane,” which Bot. Dict. identifies as Phragmites karka *(Gram.),* a reed growing in marshes and near rivers which resembles sugar cane.
+[^31]: *poṭakilam =* a kind of grass, Saccharum spontaneum, Sinh. *väluk*, “vining sugarcane,” which Bot. Dict. identifies as Phragmites karka (*Gram.*), a reed growing in marshes and near rivers which resembles sugar cane.
 
-[^32]: *usīraŋ,* RD: the fragrant root of Andropogon Muricatum, Sinh. *sävänna, babus taṇa mul,* Bot. Dict. gives Andropogon squarrosus *(Gram.)*, called cuscus grass
+[^32]: *usīraŋ*, RD: the fragrant root of Andropogon Muricatum, Sinh. *sävänna*, *babus taṇa mul*, Bot. Dict. gives Andropogon squarrosus (*Gram.*), called cuscus grass
 
-[^33]: *muñja°,* a kind of grass, Sing. *mudu taṇa* (= *mṛdu taṇa,* “tender grass”)
+[^33]: *muñja°*, a kind of grass, Sing. *mudu taṇa* (= *mṛdu taṇa*, “tender grass”)
 
-[^34]: *°babbajaŋ,* a sort of coarse grass, *babus taṇa.* RD: used to make slippers, etc.
+[^34]: *°babbajaŋ*, a sort of coarse grass, *babus taṇa*. RD: used to make slippers, etc.
 
 [^35]: *tattha tattha*
 
@@ -204,7 +214,7 @@ The legend of Lomasakaṅgiya Thera is finished.
 
 [^37]: *anubrūhaye*, or “is devoted” “practices”
 
-[^38]: *ajjeva,* lit., “even today” or “today itself”, “today” with emphasis.
+[^38]: *ajjeva*, lit., “even today” or “today itself”, “today” with emphasis.
 
 [^39]: reading *kicca ātappaṃ* with BJTS (and PTS alt.) for PTS *kicca kātabbaŋ* (“what should be done should be done”)
 

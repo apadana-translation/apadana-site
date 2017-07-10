@@ -1,4 +1,12 @@
-*\[547. {550.}*[^1] *Cūlasugandha*[^2]*\]*  
+---
+title: Cūlasugandha
+order: 550
+layout: poem
+category: chapter-3
+---
+
+### \[547. {550.}[^1] Cūlasugandha[^2]\]
+
 In this \[present\] lucky aeon  
 Brahmā’s Kinsman, Greatly Famed One,  
 known by the name of Kassapa,[^3]  
@@ -106,7 +114,8 @@ with the four types of fragrant \[things\],
 out of my wish[^49] for that good smell  
 for \[my own\] odor-free body.  
 Then the Victor prophesied that  
-\[I’d\] attain that fragrant body: (21-22) \[6314-6315\]  
+\[I’d\] attain that fragrant body: (21-22) \[6314-6315\]
+
 “He who covered over the ground  
 of \[my\] own perfumed hut with scents,  
 as the result of that karma,  
@@ -114,7 +123,8 @@ as the result of that karma,
 this man will be one who has a  
 good-smelling body everywhere.  
 Having the fragrance of virtue,  
-he’ll reach nirvana, undefiled.” (23-24) \[6316-6317\]  
+he’ll reach nirvana, undefiled.” (23-24) \[6316-6317\]
+
 Due to that karma done very well,  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body,  
@@ -163,8 +173,8 @@ there was then a good-smelling rain. (33) \[6326\]
 The fragrance of my body is always blowing  
 costly sandalwood, champaka and blue lotus.  
 In just that way, gone here and there I’m perfuming,  
-suppressing \[all\] different scents in every respect. (34)
-\[6327\][^56]  
+suppressing \[all\] different scents in every respect. (34) \[6327\][^56]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
@@ -180,9 +190,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (37) \[6330\]
 
-Thus indeed Venerable Cūlasugandha Thera spoke these verses.  
-The legend of Cūlasugandha Thera is finished.  
-The Summary:  
+Thus indeed Venerable Cūlasugandha Thera spoke these verses.
+
+The legend of Cūlasugandha Thera is finished.
+
+The Summary:
+
 Bhaddiya, Elder Revata,  
 and Sīvalī, the great getter,  
 Vaṅgīsa, also Nandaka,  
@@ -190,8 +203,10 @@ Kāḷudāyi, thus Ābhaya,
 Lomasa and Vanavaccha,  
 and Sugandha done as the tenth.  
 There are three hundred verses \[here,\]  
-and \[also\] sixteen more than that.  
-Then there is the Summary of Chapters:  
+and \[also\] sixteen more than that.
+
+Then there is the Summary of Chapters:
+
 The chapter called Kaṇikāra,  
 Phalada, Tiṇadāyaka,  
 Kaccāna, Bhaddiya chapter;  
@@ -203,16 +218,18 @@ Five \[times\] one hundred \[plus\] fifty
 Along with summary verses  
 these are six thousand \[verses here\]  
 and two hundred verses \[as well\]  
-\[plus\] eighteen \[verses\] more than that.  
+\[plus\] eighteen \[verses\] more than that.
+
 To that extent the *Buddhāpadāna, Paccekabuddhāpadāna and Therāpadāna*
-are finished. Let it be the basis for nirvana![^58]  
+are finished. Let it be the basis for nirvana![^58]
+
 The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Little Good Scent,” perhaps to distinguish him from the Sugandha Thera whose *apadāna* appears above as \#527 {530}, with which the present *apadāna* shares some verses. DPPN I: 904 says he is probably identical with Subhūti Thera
 
-[^3]: One BJTS alt. reads *gottena,* “by lineage”
+[^3]: One BJTS alt. reads *gottena*, “by lineage”
 
 [^4]: *vadataŋ varo*
 
@@ -256,9 +273,9 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^24]: *asaṅga-citto*
 
-[^25]: *patiṭṭhā,* support, resting place
+[^25]: *patiṭṭhā*, support, resting place
 
-[^26]: reading *kuvāda°* with BJTS (and PTS alt.) for PTS *kupāda°.* PTS reads the second component of the compound as °*kaccha* (“reed,” “marshy land”) and BJTS reads it as *gaccha* (“shrub” “small plant”); “undergrowth” attempts to capture both meanings.
+[^26]: reading *kuvāda°* with BJTS (and PTS alt.) for PTS *kupāda°*. PTS reads the second component of the compound as °*kaccha* (“reed,” “marshy land”) and BJTS reads it as *gaccha* (“shrub” “small plant”); “undergrowth” attempts to capture both meanings.
 
 [^27]: *agado viya*, “counter-poison” “medicine”
 
@@ -270,11 +287,11 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^31]: *narājañño*
 
-[^32]: *kilesamalahārako,* or “defilement’s stains”
+[^32]: *kilesamalahārako*, or “defilement’s stains”
 
-[^33]: *mārasenāpamaddano,* BJTS reads *mārasenappamaddano*
+[^33]: *mārasenāpamaddano*, BJTS reads *mārasenappamaddano*
 
-[^34]: *bojjhaṅgaratan’issaro,* a play on the “seven gems” (the wheel, etc.) of the wheel-turning monarch
+[^34]: *bojjhaṅgaratan’issaro*, a play on the “seven gems” (the wheel, etc.) of the wheel-turning monarch
 
 [^35]: *mahābhisakkasaṅkāso*
 
@@ -292,9 +309,9 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^42]: lit., “in”
 
-[^43]: *sugatūpago,* lit., “approaching well-being”. Could also be read as: through morals approaching the Well-Gone-One
+[^43]: *sugatūpago*, lit., “approaching well-being”. Could also be read as: through morals approaching the Well-Gone-One
 
-[^44]: *nibbāti,* or “he cools off”
+[^44]: *nibbāti*, or “he cools off”
 
 [^45]: *mahāssādaŋ*
 
@@ -304,7 +321,7 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^48]: reading *māse aṭṭhadinesv-ahaṃ* with BJTS for PTS *māse aṭṭhadine svaha*
 
-[^49]: *paṇidhāya,* or “firm resolve”, Sinh. *prārthanāva*
+[^49]: *paṇidhāya*, or “firm resolve”, Sinh. *prārthanāva*
 
 [^50]: PTS *yahiŋ tahiŋ;* BJTS *tahiṃ tahiṃ*
 
@@ -322,6 +339,6 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^57]: lit., “here”
 
-[^58]: BJTS omits these two concluding lines, because the BJTS recension of the *apadāna* does **not** end here, even though BJTS includes these chapter summary verses for an incomplete hundred (*sātakaṃ*).
+[^58]: BJTS omits these two concluding lines, because the BJTS recension of the *apadāna* does not end here, even though BJTS includes these chapter summary verses for an incomplete hundred (*sātakaṃ*).
 
 [^59]: BJTS places this statement above the summary, rather than after it

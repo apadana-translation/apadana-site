@@ -1,4 +1,12 @@
-*\[531. {534.}*[^1] *Dabbamalla*[^2]*\]*  
+---
+title: Dabbamalla
+order: 534
+layout: poem
+category: chapter-3
+---
+
+### \[531. {534.}[^1] Dabbamalla[^2]\]
+
 The Victor, Padumuttara,  
 the Sage, Knower of Every World,  
 the One who had \[Five\] Eyes, arose  
@@ -151,7 +159,8 @@ the dispensation’s small remnant.
 Fallen down they’re missing \[their\] chance,  
 in the endless suffering-sea.  
 Therefore strong effort should be made  
-while the Sage’s thought remains.” (30-31) \[5798-5799\]  
+while the Sage’s thought remains.” (30-31) \[5798-5799\]
+
 That elder was an arahant,  
 a non-returner followed him.[^40]  
 Fixed in good morality, the  
@@ -164,7 +173,8 @@ Sabhiya, likewise Bāhiya,
 so too Kumāra-Kassapa,  
 reborn here and there we are \[now\][^43]  
 freed from the bonds of existence,  
-pitied by Gotama \[Buddha\]. (33-34) \[5801-5802\]  
+pitied by Gotama \[Buddha\]. (33-34) \[5801-5802\]
+
 Born a Kusināran Malla,  
 even in the womb I’m conscious.  
 Dead mother[^44] raised up on a pyre;  
@@ -205,12 +215,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (42) \[5810\]
 
-Thus indeed Venerable Dabbamallaputta Thera spoke these verses.  
+Thus indeed Venerable Dabbamallaputta Thera spoke these verses.
+
 The legend of Dabbamallaputta Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: BJTS reads *Dabba*. In the colophon both PTS and BJTS give “Dabbamallaputta,” “Dabba the son of the Mallians”. A historical monk, famous as the foremost among those who assigned lodgings (*senāsanapaññāpakānaṃ,* lit., “beds and chairs”), see DPPN I:1059-1060. “He was called Dabba because he was said to be born of his mother while she was being burnt in the funeral pyre; when the flames were extinguished, the child was found lying on one of the posts of the pyre (*dabbatthambhe*)” I translate this term (*dabbapuñjamhi*) more literally as “pile of wood.” The name Dabba means “wood”.
+[^2]: BJTS reads *Dabba*. In the colophon both PTS and BJTS give “Dabbamallaputta,” “Dabba the son of the Mallians”. A historical monk, famous as the foremost among those who assigned lodgings (*senāsanapaññāpakānaṃ*, lit., “beds and chairs”), see DPPN I:1059-1060. “He was called Dabba because he was said to be born of his mother while she was being burnt in the funeral pyre; when the flames were extinguished, the child was found lying on one of the posts of the pyre (*dabbatthambhe*)” I translate this term (*dabbapuñjamhi*) more literally as “pile of wood.” The name Dabba means “wood”.
 
 [^3]: *ovādako*
 
@@ -228,13 +239,13 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^10]: *nirākulaŋ*
 
-[^11]: *suñññataŋ,* or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
+[^11]: *suñññataŋ*, or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
 [^12]: *vicittaŋ*
 
-[^13]: *ratanāna-aṭṭha-paññāsaŋ uggato.* A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was about 1044 inches (or 87 feet) tall.
+[^13]: *ratanāna-aṭṭha-paññāsaŋ uggato*. A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was about 1044 inches (or 87 feet) tall.
 
-[^14]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or “like a gold festoon work”
+[^14]: *kañcanagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^15]: *lokapajjotaŋ*
 
@@ -254,9 +265,9 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^23]: *nibbuto*
 
-[^24]: *sasāvako,* or perhaps, taking this as an epithet, “He with Followers passed away.” But the following verse reinforces the reading that his nirvana was itself a corporate event, occurring simultaneously with the nirvana-realizations of his followers (*sāvaka*, “listeners”) or students (*sissa*).
+[^24]: *sasāvako*, or perhaps, taking this as an epithet, “He with Followers passed away.” But the following verse reinforces the reading that his nirvana was itself a corporate event, occurring simultaneously with the nirvana-realizations of his followers (*sāvaka*, “listeners”) or students (*sissa*).
 
-[^25]: *entamhi,* fr. *eti*, loc. abs. construction
+[^25]: *entamhi*, fr. *eti*, loc. abs. construction
 
 [^26]: *nibbāyissati dhammakkho* (BJTS reads *ºakho*), lit., “the eye of *Dhamma* will reach nirvana”
 
@@ -266,7 +277,7 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^29]: lit., “carrying fear to”
 
-[^30]: *ukkā,* “fiery things”. Elsewhere the term more directly refers to fire or a firebrand itself, but this meaning of the term is appropriate here both because these “fires” fall from the sky and because the following miracle, distinguished with an “and” (*ca*), specifies fire as such. Cty (p. 506) gives *aggikhandhā*, “great masses of fire”
+[^30]: *ukkā*, “fiery things”. Elsewhere the term more directly refers to fire or a firebrand itself, but this meaning of the term is appropriate here both because these “fires” fall from the sky and because the following miracle, distinguished with an “and” (*ca*), specifies fire as such. Cty (p. 506) gives *aggikhandhā*, “great masses of fire”
 
 [^31]: *dhūmaketu*, that is, “fire”
 
@@ -274,7 +285,7 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^33]: *uppāde dāruṇe*
 
-[^34]: *sūvake,* lit., “making manifest” “indicating,” see Buddhadatta *Pāli-Sinhala Akārādiya*, s.v.
+[^34]: *sūvake*, lit., “making manifest” “indicating,” see Buddhadatta *Pāli-Sinhala Akārādiya*, s.v.
 
 [^35]: “setting” as in the setting of the sun, reading *sāsanatthagama-suvake* (read *sūvake*) with BJTS for PTS *sāsanatthañ ca sūcakaŋ*
 
@@ -294,7 +305,7 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^43]: lit., “went up to,” following BJTS Sinh. gloss and reading with BJTS *tattha tatthupagā mayaṃ* for PTS *tattha tatth’ upagāmiyaŋ* (“he went up to here and there”)
 
-[^44]: reading *matā mātā* with BJTS (and PTS alt. cited as *mātā mātā?*) for PTS *mātā pitā* (“mother and father”)
+[^44]: reading *matā mātā* with BJTS (and PTS alt. cited as *mātā mātā*?) for PTS *mātā pitā* (“mother and father”)
 
 [^45]: reading *nippatito* with BJTS (and PTS alt.) for PTS *nibbattito*, “produced” “brought forth”
 
@@ -308,7 +319,7 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^50]: see above, v. 19 \[5797\]; this was a pious act done by the protagonist during the time of Vipassi Buddha
 
-[^51]: *pañcaṅgehi upāgato.* RD, the “five gentlemanly qualities” of a king or brahmin are *sujāta* (good birth), *ajjhāyaka* (education, learning in the Vedas), *abhirūpa* (handsomeness), *sīlavā* (moral conduct) and *paṇḍita* (wisdom)
+[^51]: *pañcaṅgehi upāgato*. RD, the “five gentlemanly qualities” of a king or brahmin are *sujāta* (good birth), *ajjhāyaka* (education, learning in the Vedas), *abhirūpa* (handsomeness), *sīlavā* (moral conduct) and *paṇḍita* (wisdom)
 
 [^52]: lit., “the one whose defilements are destroyed,” i.e., “the arahant”. BJTS reads *khīṇāsavopavādena* for PTS’ misleading ungrammatical *khīṇāsavo pavādena* (“because of the arahant reproaching” rather than “because of reproaching the arahant”)
 

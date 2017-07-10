@@ -1,4 +1,12 @@
-*\[544. {547.}*[^1] *Abhaya*[^2]*\]*  
+---
+title: Abhaya
+order: 547
+layout: poem
+category: chapter-3
+---
+
+### \[544. {547.}[^1] Abhaya[^2]\]
+
 The Victor, Padumuttara,  
 the One with Eyes for everything,  
 the Leader \[of the World,\] arose  
@@ -31,7 +39,8 @@ revered as a grammarian,
 skillful in etymology,  
 confident in definitions,  
 verse-knower,[^6] ritual-knower,[^7]  
-\[also\] clever at prosody.[^8] (6-7) \[6222-6223\]  
+\[also\] clever at prosody.[^8] (6-7) \[6222-6223\]
+
 \[While\] wandering about on foot,  
 having approached Swan Hermitage,[^9]  
 I saw \[him\], the Best Debater,[^10]  
@@ -78,7 +87,7 @@ he’s thus \[known as\] ‘the World-Teacher’[^24]
 \[and\] the world is following him.” (16) \[6232\]
 
 With \[fine verses\] like those, I praised  
-the Sambuddha,[^25] *Dhamma-*preacher;[^26]  
+the Sambuddha,[^25] *Dhamma*-preacher;[^26]  
 doing so as long as \[I\] lived,  
 after death[^27] I went to heaven.[^28] (17) \[6233\]
 
@@ -95,7 +104,7 @@ and local kingship \[here on earth,\]
 I transmigrate in \[just\] two states:  
 that of a god, or of a man.  
 I do not know other rebirths;  
-that’s the fruit of praising \[Buddha\]*.* (20) \[6236\]
+that’s the fruit of praising \[Buddha\]. (20) \[6236\]
 
 \[When human\] I‘m born in two clans:  
 the kṣatriyan or the brahmin.  
@@ -130,7 +139,8 @@ through the power of that karma. (26) \[6242\]
 With pleasure in \[my\] heart, praising the Worthy,[^35]  
 the Unmatched,[^36] Self-Become[^37] Padumuttara,  
 as the fruit of that, to a place \[full\] of woe,  
-for a \[whole\] lakh[^38] of aeons, I did not go. (27) \[6243\][^39]  
+for a \[whole\] lakh[^38] of aeons, I did not go. (27) \[6243\][^39]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
@@ -146,7 +156,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (30) \[6246\]
 
-Thus indeed Venerable Abhaya Thera spoke these verses.  
+Thus indeed Venerable Abhaya Thera spoke these verses.
+
 The legend of Abhaya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -159,7 +170,7 @@ The legend of Abhaya Thera is finished.
 
 [^5]: *naruttamo*
 
-[^6]: *padako,* i.e. knowing the lines and feet of the Vedic poems
+[^6]: *padako*, i.e. knowing the lines and feet of the Vedic poems
 
 [^7]: *keṭubhavidū*
 
@@ -173,7 +184,7 @@ The legend of Abhaya Thera is finished.
 
 [^12]: reading *vā* with BJTS for PTS *ca* (“and”)
 
-[^13]: *gaṇi°,* lit., “one who has a group \[of followers\],” “a teacher”
+[^13]: *gaṇi°*, lit., “one who has a group \[of followers\],” “a teacher”
 
 [^14]: reading *ganthayitvā* with BJTS for PTS *ganthavitvā*
 
@@ -185,7 +196,7 @@ The legend of Abhaya Thera is finished.
 
 [^18]: reading *mahāvra* (voc.) with BJTS for PTS *mahāvīro* (nom).
 
-[^19]: *na nibbāyi,* lit., “did not die” or “did not reach full nirvana (*parinibbāna*)”
+[^19]: *na nibbāyi*, lit., “did not die” or “did not reach full nirvana (*parinibbāna*)”
 
 [^20]: reading *santo* with BJTS (and PTS alt.) for PTS *satto* (“a creature”)
 
@@ -201,23 +212,23 @@ The legend of Abhaya Thera is finished.
 
 [^26]: PTS *dhammadesakaŋ;* BJTS *dhammadesataṃ*
 
-[^27]: *tato cuto,* lit., “fallen from there”
+[^27]: *tato cuto*, lit., “fallen from there”
 
 [^28]: *gato* *saggaŋ*
 
 [^29]: reading *jāyāmi* with BJTS for PTS *jānāmi* (“know”)
 
-[^30]: *giribbajapuruttame.* Giribbaja or Girivraja is another name for Rajgir (also for Vaṅkagiri; see DPPN I:770)
+[^30]: *giribbajapuruttame*. Giribbaja or Girivraja is another name for Rajgir (also for Vaṅkagiri; see DPPN I:770)
 
-[^31]: *°vasaŋ gantvā,* lit., “having gone under the power of”
+[^31]: *°vasaŋ gantvā*, lit., “having gone under the power of”
 
 [^32]: *pāpamitta°*, a friend who enjoins one to evil deeds, as contrasted with a “beautiful friend” (*kalyānamitta*) who enjoins one to do good.
 
-[^33]: lit., “sent by Nāṭaputta*,*” the typical Pāli designation of Vardhamāna Mahāvīra, the Jina. (BJTS reads *nātaputtena).* For details about him as depicted in the Pāli texts see DPPN II: 61-64. The protagonist is “sent” by the Jina in order to spy on or refute the Buddha.
+[^33]: lit., “sent by Nāṭaputta**,” the typical Pāli designation of Vardhamāna Mahāvīra, the Jina. (BJTS reads *nātaputtena*). For details about him as depicted in the Pāli texts see DPPN II: 61-64. The protagonist is “sent” by the Jina in order to spy on or refute the Buddha.
 
 [^34]: *jinavaraŋ*
 
-[^35]: *arahaŋ,* i.e., “the arahant”
+[^35]: *arahaŋ*, i.e., “the arahant”
 
 [^36]: *asamaŋ*
 

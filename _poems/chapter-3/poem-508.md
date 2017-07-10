@@ -1,4 +1,12 @@
-*\[505. {508.}*[^1] *Amoraphaliya*[^2]*\]*  
+---
+title: Amoraphaliya
+order: 508
+layout: poem
+category: chapter-3
+---
+
+### \[505. {508.}[^1] Amoraphaliya[^2]\]
+
 I gave a fruit \[called\] *amora*[^3]  
 to the Gold-Colored Sambuddha,  
 Sacrificial Recipient,  
@@ -24,15 +32,16 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[5441\]
 
-Thus indeed Venerable Amoraphaliya[^4] Thera spoke these verses.  
+Thus indeed Venerable Amoraphaliya[^4] Thera spoke these verses.
+
 The legend of Amoraphaliya[^5] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “*Amora-*Fruit Donor.” BJTS reads *amodaphalaº.* The same *apadāna* is presented below as \#509 {512} woth the slight difference that the name of the fruit in v. 1, and hence of the donor, is *kapittha/Kapitthaphaladāyaka* rather than *amora/Amoraphaliya*
+[^2]: “*Amora-*Fruit Donor.” BJTS reads *amodaphalaº*. The same *apadāna* is presented below as \#509 {512} woth the slight difference that the name of the fruit in v. 1, and hence of the donor, is *kapittha/Kapitthaphaladāyaka* rather than *amora/Amoraphaliya*
 
 [^3]: BJTS reads *amoda*
 
-[^4]: BJTS reads *amodaphalaº. *
+[^4]: BJTS reads *amodaphalaº*.
 
-[^5]: BJTS reads *amodaphalaº. *
+[^5]: BJTS reads *amodaphalaº*.

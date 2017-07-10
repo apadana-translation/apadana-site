@@ -1,4 +1,12 @@
-*\[543. {546.}*[^1] *Kāḷudāyi*[^2]*\]*  
+---
+title: Kāḷudāyi
+order: 546
+layout: poem
+category: chapter-3
+---
+
+### \[543. {546.}[^1] Kāḷudāyi[^2]\]
+
 The Victor, Padumuttara,  
 the One with Eyes for everything,  
 the Leader \[of the World,\] arose  
@@ -21,7 +29,7 @@ along with the Four \[Noble\] Truths. (4) \[6190\]
 
 Having heard the superb Teaching,  
 pure in beginning, middle, end,  
-there was *Dhamma-*penetration[^12]  
+there was *Dhamma*-penetration[^12]  
 for one hundred thousand beings. (5) \[6191\]
 
 At that time the earth sounded forth  
@@ -54,13 +62,15 @@ spoke these words \[to him at that time\]:
 “O Sage, he who was praised by you,  
 foremost of the pleasers of clans,  
 I will be like him, O Hero,  
-in a Buddha’s[^19] dispensation.” (11) \[6197, 6198a-b\][^20]  
+in a Buddha’s[^19] dispensation.” (11) \[6197, 6198a-b\][^20]
+
 Then the Great Compassionate One  
 said to me as though sprinkling me  
 with ambrosia,[^21] “Son, striving one,  
 you’ll attain that beautiful \[place\].  
 Doing a deed for the Victor,  
-how could it then be without fruit? (12) \[6198c-d, 6199\]  
+how could it then be without fruit? (12) \[6198c-d, 6199\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
@@ -146,7 +156,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (29) \[6216\]
 
-Thus indeed Venerable Kāḷudāyi Thera spoke these verses.  
+Thus indeed Venerable Kāḷudāyi Thera spoke these verses.
+
 The legend of Kāḷudāyi Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -169,21 +180,21 @@ The legend of Kāḷudāyi Thera is finished.
 
 [^10]: *anantaguṇasañcayo*
 
-[^11]: reading *anantajanasaṃsadī* with BJTS (taking it fr. *saṃsandati,* “to flow together” “to associate with;” BJTS Sinh. gloss *anantajanayā gen yut sabamäda,* “in the midst of an assembly made fixed by getting of endless people;”) for PTS *anantajanataŋ sarī* (“remembering an endless populace”). Other alts. include (PTS) *anantajinasaŋsariŋ* (“I transmigrated with the endless Victor \[or endless Victors\]”) and (BJTS) *anantajinasaṃsarī* (“he who Transmigrates with Endless Victors” or “Who Transmigrates As the Endless Victor”) and *anantajanasaṃsudhī* (“Purifier of Limitless People”). The accepted BJTS reading could (should?) also be taken as an epithet, “Assembled with Limitless Folks”
+[^11]: reading *anantajanasaṃsadī* with BJTS (taking it fr. *saṃsandati*, “to flow together” “to associate with;” BJTS Sinh. gloss *anantajanayā gen yut sabamäda*, “in the midst of an assembly made fixed by getting of endless people;”) for PTS *anantajanataŋ sarī* (“remembering an endless populace”). Other alts. include (PTS) *anantajinasaŋsariŋ* (“I transmigrated with the endless Victor \[or endless Victors\]”) and (BJTS) *anantajinasaṃsarī* (“he who Transmigrates with Endless Victors” or “Who Transmigrates As the Endless Victor”) and *anantajanasaṃsudhī* (“Purifier of Limitless People”). The accepted BJTS reading could (should?) also be taken as an epithet, “Assembled with Limitless Folks”
 
 [^12]: *dhammābhisamayo*
 
 [^13]: *pavattiŋsu*
 
-[^14]: *saŋvegajātesu,* lit., “had produced emotion” “were moved”
+[^14]: *saŋvegajātesu*, lit., “had produced emotion” “were moved”
 
-[^15]: *kulappasādakāna*°. *Pasādakas* or “pleasers,” those who produce emotion *(saṃvega*) and pleasure (*pasāda*) by preaching the *Dhamma,* have long been taken (incorrectly, I believe) as “Buddhist missionaries”
+[^15]: *kulappasādakāna°*. *Pasādakas* or “pleasers,” those who produce emotion *(saṃvega*) and pleasure (*pasāda*) by preaching the *Dhamma*, have long been taken (incorrectly, I believe) as “Buddhist missionaries”
 
 [^16]: *pāsādiko*
 
 [^17]: *haṃsârāmam* appears to be a proper name, though it could also be taken as “the hermitage in \[my hometown\] Haṃsavatī”
 
-[^18]: *kāraŋ katvā,* lit., “having done a deed”
+[^18]: *kāraŋ katvā*, lit., “having done a deed”
 
 [^19]: lit., “in a Best Buddha’s”
 
@@ -193,7 +204,7 @@ The legend of Kāḷudāyi Thera is finished.
 
 [^22]: the Buddha’s father
 
-[^23]: *sadevake,* lit., “in \[the world\] with \[its\] gods”
+[^23]: *sadevake*, lit., “in \[the world\] with \[its\] gods”
 
 [^24]: i.e., the Isipatana, an open space near Benares (Sārnāth) which was the home of the Deer Park where he preached the first sermon, the *Dhammacakkappavattanasutta*
 

@@ -1,5 +1,14 @@
-*Kureñjiyaphaladāyaka*[^1] *Chapter, the Fifty-Second*  
-*\[508. {511.}*[^2] *Kureñjiyaphaladāyaka*[^3]*\]*  
+---
+title: Kureñjiyaphaladāyaka
+order: 511
+layout: poem
+category: chapter-3
+---
+
+## Kureñjiyaphaladāyaka[^1] Chapter, the Fifty-Second
+
+### \[508. {511.}[^2] Kureñjiyaphaladāyaka[^3]\]
+
 I was formerly a hunter,  
 wandering in the woods back then.  
 I saw the Buddha, Stainless One,  
@@ -30,14 +39,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[5462\]
 
-Thus indeed Venerable Kureñjiyaphaladāyaka[^5] Thera spoke these verses.  
+Thus indeed Venerable Kureñjiyaphaladāyaka[^5] Thera spoke these verses.
+
 The legend of Kureñjiyaphaladāyaka[^6] Thera is finished.
 
 [^1]: BJTS reads simply *Phaladāyakaº*
 
 [^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^3]: “*Kureñjiya* Fruit Donor”. BJTS reads *Kurañjiya.* Cone, s.v., “the name of a plant or tree,” citingthis passage. This same *apadāna* is presented above as \#497. {500.}, the only difference being the name of the fruit given, in v. 2., and hence the name of the donor.
+[^3]: “*Kureñjiya* Fruit Donor”. BJTS reads *Kurañjiya*. Cone, s.v., “the name of a plant or tree,” citing this passage. This same *apadāna* is presented above as \#497. {500.}, the only difference being the name of the fruit given, in v. 2., and hence the name of the donor.
 
 [^4]: BJTS reads *kurañjiyaphalaṃ*
 

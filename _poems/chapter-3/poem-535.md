@@ -1,4 +1,12 @@
-*\[532. {535.}*[^1] *Kumāra-Kassapa*[^2]*\]*  
+---
+title: Kumāra-Kassapa
+order: 535
+layout: poem
+category: chapter-3
+---
+
+### \[532. {535.}[^1] Kumāra-Kassapa[^2]\]
+
 One hundred thousand aeons hence  
 the Leader arose \[in the world\],  
 the Hero, Friend of Every World,[^3]  
@@ -11,7 +19,8 @@ I saw the Leader of the World,
 explaining the Four \[Noble\] Truths,  
 awakening the world with gods,  
 praising in the multitude the  
-top of those with varied discourse. (2-3) \[5812-5813\]  
+top of those with varied discourse. (2-3) \[5812-5813\]
+
 At that time, with a gladdened heart,  
 inviting \[him\], the Thus-Gone-One,  
 decorating a pavilion  
@@ -23,7 +32,8 @@ diverse, foremost \[and\] tasty food,
 worshipping[^6] \[him\] and followers  
 with flowers of various hues,  
 falling down in front of \[his\] feet,  
-I aspired \[to attain\] that place. (4-6) \[5814-5816\]  
+I aspired \[to attain\] that place. (4-6) \[5814-5816\]
+
 Then the Excellent Sage,[^7] Sole Hoard  
 of the Taste of Compassion,[^8] said:  
 “Look at that excellent brahmin,  
@@ -35,7 +45,8 @@ greedy for my dispensation,
 fallen down in front of my feet,  
 happily turned toward one \[purpose:\][^9]  
 he’s wishing for that \[foremost\] place  
-\[of preachers with\] varied discourse.[^10] (7-9) \[5617-5819\]  
+\[of preachers with\] varied discourse.[^10] (7-9) \[5617-5819\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
@@ -79,8 +90,8 @@ than life in \[the care of\] Sākhā.” (17) \[5827\]
 Instructed by that advice of the deer\[-king\],  
 my mother and I, because of his advice,  
 to the delightful Tusitā heaven came[^17]  
-as though \[we\] had gone abroad, taking \[our\] house. (18-19)
-\[5828\][^18]  
+as though \[we\] had gone abroad, taking \[our\] house. (18-19) \[5828\][^18]
+
 Again, when Hero Kassapa’s  
 dispensation had reached \[its\] goal,  
 ascending to a mountain-top  
@@ -113,7 +124,8 @@ body’s the same as an anthill,[^28]
 because of that my mind was freed  
 from attachment altogether.  
 After taming King Pāyāsi,[^29]  
-I \[then\] attained that foremost place. (25-26) \[5834-5835\]  
+I \[then\] attained that foremost place. (25-26) \[5834-5835\]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 Like elephants with broken chains,  
@@ -129,14 +141,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (29) \[5838\]
 
-Thus indeed Venerable Kumāra-Kassapa Thera spoke these verses.  
+Thus indeed Venerable Kumāra-Kassapa Thera spoke these verses.
+
 The legend of Kumāra-Kassapa Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Boy-Kassapa”
 
-[^3]: *sabbalokahito,* or “Friendly to All Worlds”
+[^3]: *sabbalokahito*, or “Friendly to All Worlds”
 
 [^4]: reading *vissuto* with BJTS for PTS *va sato*
 
@@ -146,7 +159,7 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^7]: *munivaro*
 
-[^8]: *karuṇekarasāsayo,* BJTS Sinhala gloss: *karuṇā rasaṭa eka ma nidhāna vū* (“who was the one \[and only\] treasure-trove for the taste of compassion”)
+[^8]: *karuṇekarasāsayo*, BJTS Sinhala gloss: *karuṇā rasaṭa eka ma nidhāna vū* (“who was the one \[and only\] treasure-trove for the taste of compassion”)
 
 [^9]: *ekāvatta-sumānasaŋ*
 
@@ -156,7 +169,7 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^12]: *raṅgamajjhe yathā naṭo*
 
-[^13]: “Branch”. RD says “branch-deer” (*sākhā-miga*) signifies a monkey at J ii.73; the compound translated here (*sākhāmigatrajo)* thus can also be read to mean “son of a monkey,” but the following lines make clear that the figures here are deer.
+[^13]: “Branch”. RD says “branch-deer” (*sākhā-miga*) signifies a monkey at J ii.73; the compound translated here (*sākhāmigatrajo*) thus can also be read to mean “son of a monkey,” but the following lines make clear that the figures here are deer.
 
 [^14]: reading *vajjhavāro upatiṭṭho* with BJTS (“the turn to die for was looked after ”\[or “was served”\]) for PTS *vajjavāraŋ upatiṭhā* (“she looked after \[etc.\] the time to die”).
 
@@ -164,15 +177,15 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^16]: lit., “one should not keep company with Sākhā
 
-[^17]: *āgamma,* lit., “having come”
+[^17]: *āgamma*, lit., “having come”
 
 [^18]: PTS treats this as two short verses; BJTS as a single verse in more elaborate metre (with 11-syllable feet rather than half-verses); I follow BJTS’s reading.
 
-[^19]: *jinasāsanaŋ,* lit., “the Victor’s dispensation”
+[^19]: *jinasāsanaŋ*, lit., “the Victor’s dispensation”
 
 [^20]: modern Rajgir, in Bihar.
 
-[^21]: *seṭṭhiº,* “a millionaire’s”
+[^21]: *seṭṭhiº*, “a millionaire’s”
 
 [^22]: lit., “went forth.” We are to understand that she did this unintentionally, i.e., unaware she was pregnant
 
@@ -186,6 +199,6 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^27]: or “to the prince,” his own son?
 
-[^28]: in the *Vammikasutta,* M i. 142ff, which is centered on Kumāra-Kassapa. A certain deity appears and tells him a riddle about a burning anthill; he reports this to the Buddha who solves the riddle by equating the anthill with the body. See DPPN II:832-833
+[^28]: in the *Vammikasutta*, M i. 142ff, which is centered on Kumāra-Kassapa. A certain deity appears and tells him a riddle about a burning anthill; he reports this to the Buddha who solves the riddle by equating the anthill with the body. See DPPN II:832-833
 
 [^29]: who maintained that karma bears no fruit. His famous dialogue about rebirth with Kumārakassapa is recounted in the *Pāyāsisutta*, D. ii. 316ff. See DPPN II:187-188

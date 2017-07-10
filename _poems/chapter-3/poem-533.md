@@ -1,4 +1,12 @@
-*\[530. {533.}*[^1] *Mahākappina*[^2]*\]*  
+---
+title: Mahākappina
+order: 533
+layout: poem
+category: chapter-3
+---
+
+### \[530. {533.}[^1] Mahākappina[^2]\]
+
 The Victor, Padumuttara,  
 was a Master of Everything.  
 He rose in the space of the world,[^3]  
@@ -26,7 +34,8 @@ of the one named “Superb Lotus,”[^8]
 who was purifying[^9] my mind  
 \[while\] explaining the virtue of  
 a follower who’d done the deed,[^10]  
-the admonisher of the monks. (5-6) \[5731-5732\]  
+the admonisher of the monks. (5-6) \[5731-5732\]
+
 Delighted,[^11] happy,[^12] having heard,  
 \[then\] inviting the Thus-Gone-One,  
 having fed \[him\] with his students,  
@@ -39,7 +48,8 @@ skilled in examining \[cases\],
 fallen down in front of my feet,  
 his body hair[^14] growing upward,  
 rain-cloud-colored[^15] \[and\] broad-shouldered,[^16]  
-with pleasant\[-looking\] eyes \[and\] face, (8-9) \[5734-5735\]  
+with pleasant\[-looking\] eyes \[and\] face, (8-9) \[5734-5735\]
+
 with an extensive entourage,  
 bound for kingship, very famous.  
 With kindliness[^17] he is wishing  
@@ -117,7 +127,8 @@ full \[of water\] with level banks,
 a little rough, without supports,  
 a rushing current hard to cross --  
 recalling the Buddha’s virtue,  
-I got across \[it\] in safety. (24-25) \[5750-5751\]  
+I got across \[it\] in safety. (24-25) \[5750-5751\]
+
 “If \[he\] Crossed the stream of being,  
 Buddha, Knower, World’s-End-Goer,  
 due to the truthfulness of that,  
@@ -203,7 +214,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (42) \[5768\]
 
-Thus indeed Venerable Mahākappina Thera spoke these verses.  
+Thus indeed Venerable Mahākappina Thera spoke these verses.
+
 The legend of Mahākappina Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -214,7 +226,7 @@ The legend of Mahākappina Thera is finished.
 
 [^4]: see Cone s.v. for *khajjota-ābhā*
 
-[^5]: reading *saccatthābhaṃ pakāseti* for *sabbatthaŋ *
+[^5]: reading *saccatthābhaṃ pakāseti* for *sabbatthaŋ*
 
 [^6]: *akkhadasso*, RD “one who examines the dice, an upmire, a judge” Cone s.v. a judge, a magistrate, very clear in the commentarial passage she cites; “assessor” is Malalasekara’s translation
 
@@ -224,7 +236,7 @@ The legend of Mahākappina Thera is finished.
 
 [^9]: or “perfuming,” “cleaning,” *vāsayantassa*
 
-[^10]: *katāvino,* i.e., an arahant
+[^10]: *katāvino*, i.e., an arahant
 
 [^11]: *patīto*
 
@@ -232,15 +244,15 @@ The legend of Mahākappina Thera is finished.
 
 [^13]: reading BJTS *tadāhāsi mahābhāgo haṃsadundubhisussaro* with BJTS for PTS’ garbled *tadā haŋsasamābhāgo haŋsadundubhinīvaco*
 
-[^14]: *ºtanūruhaŋ,* see Buddhadatta *Pāli-Sinhala Akārādiya*, s.v.
+[^14]: *ºtanūruhaŋ*, see Buddhadatta *Pāli-Sinhala Akārādiya*, s.v.
 
-[^15]: PTS *jimuttavaṇṇaŋ,* BJTS *jīmūtavaṇṇaṃ,* read *jīmutavaṇṇaṃ* and see see Buddhadatta *Pāli-Sinhala Akārādiya*, *jīmuta,* s.v. BJTS Sinhala gloss concurs: *meghavarṇa vū*
+[^15]: PTS *jimuttavaṇṇaŋ*, BJTS *jīmūtavaṇṇaṃ*, read *jīmutavaṇṇaṃ* and see see Buddhadatta *Pāli-Sinhala Akārādiya*, *jīmuta*, s.v. BJTS Sinhala gloss concurs: *meghavarṇa vū*
 
 [^16]: lit., “fat-shoulders”. BJTS reads *pīṇº* but understands the adjective in the same way: “having shoulders whihc are full (covered with meat)
 
-[^17]: *muditāya,* “with disinterested love”
+[^17]: *muditāya*, “with disinterested love”
 
-[^18]: *katāvino,* i.e., arahant.
+[^18]: *katāvino*, i.e., arahant.
 
 [^19]: reading *piṇḍapātena* with BJTS (and PTS alt.) for PTS *paṇipātena* (“because of this prostration” “because of this adoration”)
 
@@ -252,21 +264,21 @@ The legend of Mahākappina Thera is finished.
 
 [^23]: i.e., through the remainder of the good karma
 
-[^24]: *sutaso anusāsiya,* following cty (p. 504: “the meaning is: having commanded righteously with equal words and on the basis of reasons”). BJTS reads *sataso* and takes it (in the gloss) as *siyavarak* (“a hundred times”) though it also includes the commentarial gloss “righteously and slowly” (*dähämin semin*)
+[^24]: *sutaso anusāsiya*, following cty (p. 504: “the meaning is: having commanded righteously with equal words and on the basis of reasons”). BJTS reads *sataso* and takes it (in the gloss) as *siyavarak* (“a hundred times”) though it also includes the commentarial gloss “righteously and slowly” (*dähämin semin*)
 
-[^25]: *jāto keniyajātiyā.* Malalasekera takes this as a mistake for *koliyajātiyā* (in a Koiiyan clan), the corresponding reading in ThagA, but cty. explains the term as *tantavāyajātiyā pesakārakūla* (“in a weaver’s cast, a clan of servants”); BJTS Sinh. gloss and Cone, s.v., adopt the latter reading, though PTS apparently treats this as a proper name (perhaps recalling the use of this as a proper name in \#389 {392}, v. 26 \[3607\] et passim). The context suggests that in this birth he was a king, so this would be an instance of lower caste kingship if the cty. reading is accepted.
+[^25]: *jāto keniyajātiyā*. Malalasekera takes this as a mistake for *koliyajātiyā* (in a Koiiyan clan), the corresponding reading in ThagA, but cty. explains the term as *tantavāyajātiyā pesakārakūla* (“in a weaver’s cast, a clan of servants”); BJTS Sinh. gloss and Cone, s.v., adopt the latter reading, though PTS apparently treats this as a proper name (perhaps recalling the use of this as a proper name in \#389 {392}, v. 26 \[3607\] et passim). The context suggests that in this birth he was a king, so this would be an instance of lower caste kingship if the cty. reading is accepted.
 
 [^26]: *pañcapaccekabuddhānaŋ satāni*
 
 [^27]: reading *adamha* with BJTS for PTS *dammi*
 
-[^28]: *tidasūpagā,* i.e the thirty-three gods, in Tāvatiṃsa heaven
+[^28]: *tidasūpagā*, i.e the thirty-three gods, in Tāvatiṃsa heaven
 
 [^29]: reading *jātā* with BJTS for PTS *jāto* (“I was born”)
 
-[^30]: *mahārajjaŋ,* lit., “of overlordship,” “of powerful kingship” “of being a maharajah”
+[^30]: *mahārajjaŋ*, lit., “of overlordship,” “of powerful kingship” “of being a maharajah”
 
-[^31]: *apāpuṇiŋ.* BJTS reads *ahaṃ suṇiṃ,* “I heard”
+[^31]: *apāpuṇiŋ*. BJTS reads *ahaṃ suṇiṃ*, “I heard”
 
 [^32]: *asamo*
 
@@ -274,22 +286,22 @@ The legend of Mahākappina Thera is finished.
 
 [^34]: reading *pahāya* with BJTS for PTS *vihāya* (“having worked”)
 
-[^35]: *buddhamāmaka,* lit., “taking Buddha as ‘mine’”
+[^35]: *buddhamāmaka*, lit., “taking Buddha as ‘mine’”
 
 [^36]: that is, the Candabhāgā
 
 [^37]: lit., “if the assembly (*saṅgha*)”
 
-[^38]: *saccavare*, “wish \[because of\] truth,” cf. *saccakiriya,* “act of truth”
+[^38]: *saccavare*, “wish \[because of\] truth,” cf. *saccakiriya*, “act of truth”
 
-[^39]: *vāsavaŋ viya,* = Sakka, Indra
+[^39]: *vāsavaŋ viya*, = Sakka, Indra
 
-[^40]: *sotāpaṇṇā ca sāsane,* lit., ”and stream-enterers in the dispensation”
+[^40]: *sotāpaṇṇā ca sāsane*, lit., ”and stream-enterers in the dispensation”
 
 [^41]: lit., “it,” singular, standing in for “the \[group\] of a thousand monks”
 
 [^42]: *te pi āsuŋ anāsavā*
 
-[^43]: *tuṭṭho,* lit “happy” “delighted”
+[^43]: *tuṭṭho*, lit “happy” “delighted”
 
-[^44]: lit .”in”
+[^44]: lit.”in”

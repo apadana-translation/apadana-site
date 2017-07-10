@@ -1,4 +1,12 @@
-*\[516. {519.}*[^1] *Sabbaphaladāyaka*[^2]*\]*  
+---
+title: Sabbaphaladāyaka
+order: 519
+layout: poem
+category: chapter-3
+---
+
+### \[516. {519.}[^1] Sabbaphaladāyaka[^2]\]
+
 \[My\] name \[back then\] was Varuṇa,  
 a brahmin master of mantras.  
 After throwing away[^3] ten sons,[^4]  
@@ -29,7 +37,7 @@ I gave \[him the fruit\] with the bag.[^8]
 The Buddha, with pity for me,  
 spoke these words \[to me at that time\]: (6) \[5510\]
 
-“After bringing a *khārī-*load,[^9]  
+“After bringing a *khārī*-load,[^9]  
 you, come along behind me \[now\],  
 and when the Assembly eats[^10] it,  
 there will be good karma[^11] for you. (7) \[5511\]
@@ -60,7 +68,7 @@ too obey[^15] my authority:
 that is the fruit of giving fruit. (12) \[5516\]
 
 \[All\] the spirits,[^16] ghosts,[^17] and demons,  
-the *kumbhaṇḍa*s and *garuḷa*s,  
+the *kumbhaṇḍa*\s and *garuḷa*\s,  
 throughout \[that\] grove in the forest,  
 approach \[in order to\] serve me. (13) \[5517\]
 
@@ -134,30 +142,31 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (27) \[5531\]
 
-Thus indeed Venerable Sabbaphaladāyaka Thera spoke these verses.  
+Thus indeed Venerable Sabbaphaladāyaka Thera spoke these verses.
+
 The legend of Sabbaphaladāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Every Fruit Donor”
 
-[^3]: *chaḍetvā,* “excreting” “separating”
+[^3]: *chaḍetvā*, “excreting” “separating”
 
-[^4]: note the odd plural *puttāni,* also witnessed (says RD) in Pv, J.
+[^4]: note the odd plural *puttāni*, also witnessed (says RD) in Pv, J.
 
-[^5]: *ānubhāvena,* elsewhere “majesty”
+[^5]: *ānubhāvena*, elsewhere “majesty”
 
 [^6]: reading *taṃ* with BJTS (and PTS alt.) for PTS *ahaŋ* (“I”)
 
-[^7]: *pattapuṭaŋ,* BJTS Sinh. gloss *koḷagoṭuwak*
+[^7]: *pattapuṭaŋ*, BJTS Sinh. gloss *koḷagoṭuwak*
 
 [^8]: reading *sahakhārim* with BJTS (lit., “with the *khārī* \[measure\],” following BJTS Sinh. gloss *koḷa goṭuva sahitava ma* (“together with the satchel made of leaves”) for PTS *sākhārikaŋ* (?)
 
-[^9]: *khāribhāraŋ,* also “shoulder yoke,” perhaps “load in a *khārī*”. BJTS Sinh gloss understands the term to mean the load, a *khārī* heavy, within the satchel made of leaves.
+[^9]: *khāribhāraŋ*, also “shoulder yoke,” perhaps “load in a *khārī*”. BJTS Sinh gloss understands the term to mean the load, a *khārī* heavy, within the satchel made of leaves.
 
-[^10]: *paribhutte,* lit., “uses”
+[^10]: *paribhutte*, lit., “uses”
 
-[^11]: *puññaŋ,* lit., “merit”
+[^11]: *puññaŋ*, lit., “merit”
 
 [^12]: reading *puṭakaṃ taṃ* with BJTS for PTS *puṭikantaŋ* (“pleasant satchel)
 
@@ -165,11 +174,11 @@ The legend of Sabbaphaladāyaka Thera is finished.
 
 [^14]: lit., “having given fruit to the Buddha”
 
-[^15]: *anventi,* lit., “are following” “are looking to”
+[^15]: *anventi*, lit., “are following” “are looking to”
 
 [^16]: *yakkhā*
 
-[^17]: reading *bhūtā* with BJTS for PTS *bhutā,* “become”
+[^17]: reading *bhūtā* with BJTS for PTS *bhutā*, “become”
 
 [^18]: reading *kummā soṇā* with BJTS for PTS *Kumbhasoṇā* (“water-jug \[sized\] dogs”?)
 
@@ -177,20 +186,20 @@ The legend of Sabbaphaladāyaka Thera is finished.
 
 [^20]: *makasā*
 
-[^21]: *anventi,* lit., “are following” “are looking to”
+[^21]: *anventi*, lit., “are following” “are looking to”
 
 [^22]: that is, *garuḷas*
 
-[^23]: *acchaº,* Sinh. gloss *valassu*
+[^23]: *acchaº*, Sinh. gloss *valassu*
 
 [^24]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^25]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu,* Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā,* s.v.)
+[^25]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
 
 [^26]: *osadhī* = *osadha*, (medicinal) herbs, medicinal ingredients, plants
 
-[^27]: *tiṇa.* BJTS takes the compound to imply “in trees, etc.,” i.e., beings who live in plants in general.
+[^27]: *tiṇa*. BJTS takes the compound to imply “in trees, etc.,” i.e., beings who live in plants in general.
 
-[^28]: *sududdasaŋ,* lit., “very hard to see”
+[^28]: *sududdasaŋ*, lit., “very hard to see”
 
-[^29]: *iddhi,* lit., “magical” or “super powers”
+[^29]: *iddhi*, lit., “magical” or “super powers”

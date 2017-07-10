@@ -1,11 +1,19 @@
-*\[502. {505.}*[^1] *Pāraphaliya*[^2]*\]*  
+---
+title: Pāraphaliya
+order: 505
+layout: poem
+category: chapter-3
+---
+
+### \[502. {505.}[^1] Pāraphaliya[^2]\]
+
 I saw the golden Sambuddha,  
 Sacrificial Recipient,  
 who had entered onto the road,  
 shining like a dinner-plate tree. (1) \[5420\]
 
 In the ninety-one aeons since  
-I gave \[him\] *pāra-*fruit[^3] back then,  
+I gave \[him\] *pāra*-fruit[^3] back then,  
 I’ve come to know no bad rebirth:  
 that is the fruit of giving fruit. (2) \[5421\]
 
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[5424\]
 
-Thus indeed Venerable Pāraphaliya[^4] Thera spoke these verses.  
+Thus indeed Venerable Pāraphaliya[^4] Thera spoke these verses.
+
 The legend of Pāraphaliya[^5] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

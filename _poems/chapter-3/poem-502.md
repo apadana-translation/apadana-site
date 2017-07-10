@@ -1,4 +1,12 @@
-*\[499. {502.}*[^1] *Ekapattadāyaka*[^2]*\]*  
+---
+title: Ekapattadāyaka
+order: 502
+layout: poem
+category: chapter-3
+---
+
+### \[499. {502.}[^1] Ekapattadāyaka[^2]\]
+
 In the city, Haṃsavatī,  
 I was a potter \[at that time\].  
 I saw the Buddha, Stainless One,  
@@ -26,7 +34,8 @@ fruit pleases the cultivator;
 so too is this bowl-donation,  
 \[well-\]planted in the Buddha-field:  
 when it rains the joy-bringing \[rain,\][^13]  
-the fruit will be pleasing to me. (5-6) \[5400-5401\]  
+the fruit will be pleasing to me. (5-6) \[5400-5401\]
+
 As far as \[merit-\]fields exist --  
 even the Assemblies[^14] and groups[^15] --  
 the Buddha-field has no equal,[^16]  
@@ -40,7 +49,7 @@ I’ve attained the unshaking state. (8) \[5403\]
 In the ninety-one aeons since  
 I gave \[him\] that bowl at that time,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (9) \[5404\]
+that’s the fruit of Buddha-*pūjā*. (9) \[5404\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -57,7 +66,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (12) \[5407\]
 
-Thus indeed Venerable Ekapattadāyaka Thera spoke these verses.  
+Thus indeed Venerable Ekapattadāyaka Thera spoke these verses.
+
 The legend of Ekapattadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -72,7 +82,7 @@ The legend of Ekapattadāyaka Thera is finished.
 
 [^6]: *taṭṭake*, bowls for eating food, flat bowls, porringers, salvers
 
-[^7]: *pātiyo*, fr. *pātī*, the f. of *patta* (Skt. *pātra, pātrī*)
+[^7]: *pātiyo*, fr. *pātī*, the f. of *patta* (Skt. *pātra*, *pātrī*)
 
 [^8]: lit., “meritorious”
 
@@ -80,7 +90,7 @@ The legend of Ekapattadāyaka Thera is finished.
 
 [^10]: *bhaddake*, or “lucky” “fortunate” etc
 
-[^11]: PTS *pavecchante ,* BJTS *pavacchante* (cf. *pavecchante,* the reading in \[5004\] below, cf. also*pavacchante* as PTS alt. there \[v, 5 of \#499, Ekapattadāyaka\]; RD = “give, bestow,” PSI “\[rainwater\] falls down”)
+[^11]: PTS *pavecchante*, BJTS *pavacchante* (cf. *pavecchante*, the reading in \[5004\] below, cf. also *pavacchante* as PTS alt. there \[v, 5 of \#499, Ekapattadāyaka\]; RD = “give, bestow,” PSI “\[rainwater\] falls down”)
 
 [^12]: *sammādhāre* (loc. abs. construction)
 
@@ -90,10 +100,10 @@ The legend of Ekapattadāyaka Thera is finished.
 
 [^15]: *gaṇāpi*; *gaṇa* is an early structure in Assembly organization, also used interchangeably in *Apadāna* with “guild," an important form of lay social organization for group merit-making activities
 
-[^16]: *buddhakhettasamo n’atthi,* lit., “there is not an equal to the Buddha-field”
+[^16]: *buddhakhettasamo n’atthi*, lit., “there is not an equal to the Buddha-field”
 
-[^17]: reading *sukhado sabbapāṇinaṃ* with BJTS for PTS *sukhadānattha pāṇinaŋ (*“place of giving happiness \[in the voc.?\] to beings”)
+[^17]: reading *sukhado sabbapāṇinaṃ* with BJTS for PTS *sukhadānattha pāṇinaŋ* (“place of giving happiness \[in the voc.?\] to beings”)
 
 [^18]: lit., “to all living beings” “to all that breathe”
 
-[^19]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
+[^19]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”

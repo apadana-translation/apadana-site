@@ -1,4 +1,12 @@
-*\[513. {516.}*[^1] *Ajjunapupphiya*[^2]*\]*  
+---
+title: Ajjunapupphiya
+order: 516
+layout: poem
+category: chapter-3
+---
+
+### \[513. {516.}[^1] Ajjunapupphiya[^2]\]
+
 On Candabhāgā River’s bank,  
 I was a *kinnara*[^3] back then.  
 I saw the Buddha, Stainless One,  
@@ -44,7 +52,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[5492\]
 
-Thus indeed Venerable Ajjunapupphiya Thera spoke these verses.  
+Thus indeed Venerable Ajjunapupphiya Thera spoke these verses.
+
 The legend of Ajjunapupphiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -55,11 +64,11 @@ The legend of Ajjunapupphiya Thera is finished.
 
 [^4]: *vedajāto*
 
-[^5]: *ajjuna* (a.k.a. *kakudha,* Sinhala *kumbuk gasa, kubuk,* Terminalia arjuna) is an impressively large, shade-giving tree that thrives on the edges of tanks and lakes.
+[^5]: *ajjuna* (a.k.a. *kakudha*, Sinhala *kumbuk gasa*, *kubuk*, Terminalia arjuna) is an impressively large, shade-giving tree that thrives on the edges of tanks and lakes.
 
 [^6]: lit., “did *pūjā*”
 
-[^7]: *mahārajjam,* lit., “great sovereignty” or “maharajah-ship”
+[^7]: *mahārajjam*, lit., “great sovereignty” or “maharajah-ship”
 
 [^8]: reading *vapitaṃ* with BJTS for PTS *va phītaŋ* (“like opulent”)
 

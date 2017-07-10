@@ -1,8 +1,17 @@
-*\[527. {530.}*[^1] *Sugandha*[^2]*\]*  
+---
+title: Sugandha
+order: 530
+layout: poem
+category: chapter-3
+---
+
+### \[527. {530.}[^1] Sugandha[^2]\]
+
 In this \[present\] lucky aeon  
 Brahmā’s Kinsman, Greatly Famed One,  
 named Kassapa through \[his\] lineage,[^3]  
-Best Debater,[^4] \[Buddha\] arose. (1) \[5617\][^5]  
+Best Debater,[^4] \[Buddha\] arose. (1) \[5617\][^5]
+
 Possessing Eighty Lesser Marks,  
 Bearing the Thirty-Two Great Marks,  
 Having[^6] a Fathom-Wide Aura,  
@@ -35,7 +44,8 @@ There I saw the such-like Buddha,
 in distinct \[and\] delightful words,  
 with the \[sweet\] tone of a cuckoo,  
 with the noise of a swan \[or\] drum,  
-making the people understand. (7-8) \[5623-5624\]  
+making the people understand. (7-8) \[5623-5624\]
+
 Having seen that God Above Gods,  
 and hearing his honey\[-sweet\] words,  
 having abandoned no small wealth,  
@@ -117,7 +127,7 @@ the powerful have faith in the
 Buddha, Teaching and Assembly.” (24) \[5640\]
 
 By means of virtues such as these,  
-I did \[my\] preaching of *Dhamma,*[^102]  
+I did \[my\] preaching of *Dhamma*,[^102]  
 praising amidst the multitudes  
 the Three Worlds’ Unsurpassed Refuge. (25) \[5641\]
 
@@ -209,7 +219,7 @@ I will realize nirvana. (42) \[5658\]
 Within just this \[present\] aeon  
 since I \[thus\] praised \[him\], the Buddha,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of praising Buddha*s.* (43) \[5659\]
+that’s the fruit of praising Buddha*s*. (43) \[5659\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -226,9 +236,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (46) \[5662\]
 
-Thus indeed Venerable Sugandha Thera spoke these verses.  
-The legend of Sugandha Thera is finished.  
-The Summary:  
+Thus indeed Venerable Sugandha Thera spoke these verses.
+
+The legend of Sugandha Thera is finished.
+
+The Summary:
+
 Tiṇada and Pecchada[^128] too,  
 Saraṇ’, Abbhañjanappada,  
 Pūpatī[^129] and Daṇḍadāyī,  
@@ -236,7 +249,8 @@ and likewise tooNelapūjī,
 Bodhisammajak’,[^130] Āmaṇḍa,  
 and tenth Sugandha, a brahmin.  
 Altogether counted here are  
-one hundred twenty-three verses.  
+one hundred twenty-three verses.
+
 The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -259,7 +273,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^10]: *parisāsu visārado*
 
-[^11]: *pahū,* BJTS Sinh. gloss *prabhū*
+[^11]: *pahū*, BJTS Sinh. gloss *prabhū*
 
 [^12]: PTS and BJTS agree in treating this as a proper name, *Migadāya*
 
@@ -267,7 +281,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^14]: this verse plays on the word “color” (*vaṇṇa*), which also means “beauty” (and caste, appearance, quality, etc.) and is the root of the word translated here as “extolled” (*vaṇṇayiŋ*) and “extolling” (*vaṇṇaº*)
 
-[^15]: *khīṇâsavo,* lit., “He Whose Defilements (or Outflows) are Destroyed”
+[^15]: *khīṇâsavo*, lit., “He Whose Defilements (or Outflows) are Destroyed”
 
 [^16]: *anīgho*
 
@@ -275,9 +289,9 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^18]: *sabbakammakhayan patto*, lit., “attainer of the destruction of all karma”
 
-[^19]: reading *vimuttopadhisaṅkhaye* with BJTS for PTS *vimutto saṭisaṅkhaye. Upadhi* = a condition or ground for rebirth
+[^19]: reading *vimuttopadhisaṅkhaye* with BJTS for PTS *vimutto saṭisaṅkhaye*. *Upadhi* = a condition or ground for rebirth
 
-[^20]: *brahmacakkappavattako.* BJTS and PTS agree on this reading, where one would expect *dhammacakkaº*
+[^20]: *brahmacakkappavattako*. BJTS and PTS agree on this reading, where one would expect *dhammacakkaº*
 
 [^21]: *sametā*, fr. *sameti*
 
@@ -287,17 +301,17 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^24]: *nibbāpetā*
 
-[^25]: *assattho.* Could also be, “The Bodhi (*asvattha*) Tree”
+[^25]: *assattho*. Could also be, “The Bodhi (*asvattha*) Tree”
 
 [^26]: *assāsetā*
 
-[^27]: *apagabbho,* “not returning to the womb”
+[^27]: *apagabbho*, “not returning to the womb”
 
-[^28]: *anālayo,* lit., “lair-less one”
+[^28]: *anālayo*, lit., “lair-less one”
 
 [^29]: *anejo*
 
-[^30]: *dhīmā,* BJTS gloss *nuvanätiyē ya*
+[^30]: *dhīmā*, BJTS gloss *nuvanätiyē ya*
 
 [^31]: *asamo*
 
@@ -335,17 +349,17 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^48]: *bhisakko*
 
-[^49]: *sallakattako,* “the one who works on the (poison) arrow.”
+[^49]: *sallakattako*, “the one who works on the (poison) arrow.”
 
 [^50]: *yodho*
 
-[^51]: or “the Son,” *suto,* Skt. *śruti*
+[^51]: or “the Son,” *suto*, Skt. *śruti*
 
 [^52]: *acalo*
 
 [^53]: *mudito*
 
-[^54]: *asito.* BJTS reads *adito* (?), gloss *utgataya* (?)
+[^54]: *asito*. BJTS reads *adito* (?), gloss *utgataya* (?)
 
 [^55]: reading *dhātā* with BJTS for PTS *tātā* (“the Protector” “the Savior”)
 
@@ -361,7 +375,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^61]: *sampahaŋsitā*
 
-[^62]: *bhottā,* BJTS reads *bhettā* (“the Breaker”)
+[^62]: *bhottā*, BJTS reads *bhettā* (“the Breaker”)
 
 [^63]: *chettā*
 
@@ -371,17 +385,17 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^66]: *akhilo*
 
-[^67]: *visālo.* BJTS reads *visallo* (“Free of Pain”)
+[^67]: *visālo*. BJTS reads *visallo* (“Free of Pain”)
 
 [^68]: *anīgho*
 
-[^69]: *akathaṅkathī,* ilt.“not saying, ‘why’?”
+[^69]: *akathaṅkathī*, ilt.“not saying, ‘why’?”
 
 [^70]: *anejo*
 
 [^71]: *virajo*
 
-[^72]: *khattā.* BJTS reads *khantā* (“Meek” “Docile”)
+[^72]: *khattā*. BJTS reads *khantā* (“Meek” “Docile”)
 
 [^73]: reading *gantā* with BJTS for PTS *gandhā* (“Scented”)
 
@@ -395,13 +409,13 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^78]: *kāretā*
 
-[^79]: *sampadāletā,* BJTS *sampadālitā*
+[^79]: *sampadāletā*, BJTS *sampadālitā*
 
 [^80]: *pāpetā*
 
-[^81]: *sahitā,* or “Endurer”
+[^81]: *sahitā*, or “Endurer”
 
-[^82]: reading *kantā* with BJTS for PTS repetition of *hantā,* which both texts read as the next word in the verse
+[^82]: reading *kantā* with BJTS for PTS repetition of *hantā*, which both texts read as the next word in the verse
 
 [^83]: *hantā*
 
@@ -411,7 +425,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^86]: *samacitto*
 
-[^87]: ‘*samasamo,* (following BJTS Sinh. gloss; the cpd. could also be *samasamo*, “Always the Same”
+[^87]: *‘samasamo*, (following BJTS Sinh. gloss; the cpd. could also be *samasamo*, “Always the Same”
 
 [^88]: *asahāyo*, lit., “Friendless”
 
@@ -419,9 +433,9 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^90]: *accherasanto*
 
-[^91]: *akuho,* lit., “free of deceit” “upright”
+[^91]: *akuho*, lit., “free of deceit” “upright”
 
-[^92]: *katāvī,* i.e. an arahant, one who has done what should be done
+[^92]: *katāvī*, i.e. an arahant, one who has done what should be done
 
 [^93]: *isisattamo*
 
@@ -431,27 +445,27 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^96]: *appameyya*, lit., “not to be measured”
 
-[^97]: *anupama,* lit., “he for whom there is no metaphor”
+[^97]: *anupama*, lit., “he for whom there is no metaphor”
 
-[^98]: *sabbavākyapathātīto,* lit., “he for whom the roads of all sayings are in the past”
+[^98]: *sabbavākyapathātīto*, lit., “he for whom the roads of all sayings are in the past”
 
-[^99]: *saccaneyyantago,* lit., “he who has gone to the end of truths to be understood \[or instructed, led carried, guided (gerund of *neti*)\]”
+[^99]: *saccaneyyantago*, lit., “he who has gone to the end of truths to be understood \[or instructed, led carried, guided (gerund of *neti*)\]”
 
 [^100]: *jino*
 
-[^101]: *sattasāravare.* BJTS construes this as modifying the palace, but the Pāli seems to me more ambiguous than that. Cf. the use of *sattasāraº* as a Buddha-epithet in v. \[5887\] and \[6287\]
+[^101]: *sattasāravare*. BJTS construes this as modifying the palace, but the Pāli seems to me more ambiguous than that. Cf. the use of *sattasāraº* as a Buddha-epithet in v. \[5887\] and \[6287\]
 
-[^102]: reading *akaṃ dhammakathaṃ ahaṃ* with BJTS for PTS *ahaŋ dhammakathaŋ ahaŋ* (“I *Dhamma-*preaching I”)
+[^102]: reading *akaṃ dhammakathaṃ ahaṃ* with BJTS for PTS *ahaŋ dhammakathaŋ ahaŋ* (“I *Dhamma*-preaching I”)
 
-[^103]: *nissāso,* following BJTS gloss *māgē piṭataṭa heḷana vātaya* (“the wind that I throw down/cast away to my exterior”)
+[^103]: *nissāso*, following BJTS gloss *māgē piṭataṭa heḷana vātaya* (“the wind that I throw down/cast away to my exterior”)
 
-[^104]: reading *sabbagandhe ‘tiseti* (= *atisayati*) with BJTS for PTS *sabbagandho* *ti seti* (“it lies down ‘all good scents’ “) and following BJTS SInhala gloss
+[^104]: reading *sabbagandhe ‘tiseti* (= *atisayati*) with BJTS for PTS *sabbagandho ti seti* (“it lies down ‘all good scents’ “) and following BJTS SInhala gloss
 
 [^105]: BJTS reads *ādisanto* (“announcing”) for *atisanto*
 
-[^106]: reading *guṇatthavassa sabbaṃ taṃ phalaṃ tu paramambhūtaṃ* with BJTS for PTS *guṇatthavassapupphan tan phalan tu param abbhutaŋ* (“that fruit which is extremely miraculous flowering in the meaning of virtue” \[?\]), and followed BJTS gloss: *buddha guṇakitiyāge ē siyalu vipāka atiśaya vismayajanaka ya.*
+[^106]: reading *guṇatthavassa sabbaṃ taṃ phalaṃ tu paramambhūtaṃ* with BJTS for PTS *guṇatthavassapupphan tan phalan tu param abbhutaŋ* (“that fruit which is extremely miraculous flowering in the meaning of virtue” \[?\]), and followed BJTS gloss: *buddha guṇakitiyāge ē siyalu vipāka atiśaya vismayajanaka ya*.
 
-[^107]: the fourth (in translation third) foot of the text seems to be corrupt. IPTS reads *rasaddhovisamāyuto,* “bound up with the pure taste.” BJTS reads (typographical error?) *saradvadhanisamāyuto* (= *rasadhvanisaāmyuto* ?). In both cases the alts. are even more uncertain. I translate the BJTS Sinhala gloss, *madhura svaradhvani yukta vūyem (- mihirihaddha ättem*), “i becoming bound with the sweet sound (I have a sweet sound)”
+[^107]: the fourth (in translation third) foot of the text seems to be corrupt. IPTS reads *rasaddhovisamāyuto*, “bound up with the pure taste.” BJTS reads (typographical error?) *saradvadhanisamāyuto* (= *rasadhvanisaāmyuto* ?). In both cases the alts. are even more uncertain. I translate the BJTS Sinhala gloss, *madhura svaradhvani yukta vūyem* (- *mihirihaddha ättem*), “i becoming bound with the sweet sound (I have a sweet sound)”
 
 [^108]: reading *khīṇe ayusi* with BJTS for PTS *khīṇ’ ev’ āyu pi* (“life is certainly destroyed too”)
 
@@ -461,17 +475,17 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^111]: lit., “therefore \[I\] am happy”
 
-[^112]: *dukkhantakaraṇaŋ Buddhaŋ,* lit “the Buddha who makes an end to suffering”
+[^112]: *dukkhantakaraṇaŋ Buddhaŋ*, lit “the Buddha who makes an end to suffering”
 
-[^113]: *dhammaŋ,* or “Teaching”
+[^113]: *dhammaŋ*, or “Teaching”
 
-[^114]: *janayaŋ,* lit., “I produced”
+[^114]: *janayaŋ*, lit., “I produced”
 
 [^115]: or “heretics”: *kutitthiye*
 
 [^116]: reading *titthikākiṇṇe* with BJTS for PTS *titthikâkiṇṇo* (“I am strewn with rivals”)
 
-[^117]: *vadanto,* lit., “saying,” “telling”
+[^117]: *vadanto*, lit., “saying,” “telling”
 
 [^118]: reading *vadaṃ* with BJTS (and PTS alt.) for PTS *varaŋ* (“excellent”)
 

@@ -1,4 +1,12 @@
-*\[542. {545.}*[^1] *Nandaka*[^2]*\]*  
+---
+title: Nandaka
+order: 545
+layout: poem
+category: chapter-3
+---
+
+### \[542. {545.}[^1] Nandaka[^2]\]
+
 The Victor, Padumuttara,  
 the One with Eyes for everything,  
 the Leader \[of the World,\] arose  
@@ -30,7 +38,7 @@ Skilled[^18] on[^19] the road, the Teacher is
 the Ultimate Best[^20] of drivers.[^21] (6) \[6170\]
 
 Then the Great Compassionate One,  
-the Leader is preaching *Dhamma,*  
+the Leader is preaching *Dhamma*,  
 lifting up beings who are stuck  
 on the road \[known as\] delusion. (7) \[6171\]
 
@@ -109,7 +117,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (22) \[6186\]
 
-Thus indeed Venerable Nandaka Thera spoke these verses.  
+Thus indeed Venerable Nandaka Thera spoke these verses.
+
 The legend of Nandaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -122,9 +131,9 @@ The legend of Nandaka Thera is finished.
 
 [^5]: *sirimā*
 
-[^6]: *kittivaṇṇabhato,* lit., “Feeding (*°bhato*) on Praise (*kittivaṇṇa°*)”
+[^6]: *kittivaṇṇabhato*, lit., “Feeding (*°bhato*) on Praise (*kittivaṇṇa°*)”
 
-[^7]: lit., “*pūjā-*recipient” *(pūjito)*
+[^7]: lit., “*pūjā*-recipient” (*pūjito*)
 
 [^8]: *suvissuto*
 
@@ -152,7 +161,7 @@ The legend of Nandaka Thera is finished.
 
 [^20]: *varuttamo*
 
-[^21]: *sārathīnaŋ,* lit., “charioteers” “coachmen”
+[^21]: *sārathīnaŋ*, lit., “charioteers” “coachmen”
 
 [^22]: lit., “appointed”
 

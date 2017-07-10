@@ -1,5 +1,14 @@
-*Kaccāna Chapter, the Fifty-Fourth*  
-*\[528. {531.}*[^1] *Mahākaccāna*[^2]*\]*  
+---
+title: Mahākaccāna
+order: 531
+layout: poem
+category: chapter-3
+---
+
+## Kaccāna Chapter, the Fifty-Fourth
+
+### \[528. {531.}[^1] Mahākaccāna[^2]\]
+
 The Victor, Padumuttara,  
 Lust-less,[^3] Unconquered Vanquisher,[^4]  
 the Leader came into being,  
@@ -22,7 +31,8 @@ Confident among Multitudes,
 is preaching the sweet Teaching \[there\],  
 taking up the Four Noble Truths.[^17]  
 He is lifting up those with breath,  
-when they’re sunk in delusion’s muck. (4-5) \[5666-5667\]  
+when they’re sunk in delusion’s muck. (4-5) \[5666-5667\]
+
 Being an ascetic, alone,  
 \[my\] home was Himalaya then.  
 I saw the Victor, traveling[^18]  
@@ -40,7 +50,8 @@ he gladdens multitudes, and me.
 I see no other follower  
 \[or\] anyone \[preaching\] this way.  
 Thus he’s top, in that foremost place;[^23]  
-so should you consider[^24] \[him\], monks.” (8-9) \[5670-5671\]  
+so should you consider[^24] \[him\], monks.” (8-9) \[5670-5671\]
+
 At that time, being astonished,  
 having heard that lovely speaking,  
 going to the Himalayas,  
@@ -48,7 +59,8 @@ bringing back a heap of flowers,
 having worshipped[^25] the World’s-Refuge,[^26]  
 I aspired \[to attain\] that place.  
 At that time, discerning my wish,  
-the Refuge-less One[^27] prophesied: (10-11) \[5672-5673\]  
+the Refuge-less One[^27] prophesied: (10-11) \[5672-5673\]
+
 “All of you, look at this great sage,[^28]  
 skin the color of polished gold,  
 hair growing upward, broad-shouldered,[^29]  
@@ -56,7 +68,8 @@ standing steadfast,[^30] hands together,[^31]
 with eyes which are full of laughter,  
 at home in praising the Buddha,[^32]  
 grasping the Teaching superbly,[^33]  
-resembling sprinkled ambrosia.[^34] (12-13) \[5673-5674\][^35]  
+resembling sprinkled ambrosia.[^34] (12-13) \[5673-5674\][^35]
+
 Hearing \[of\] Kaccāna’s virtue,  
 he stands \[there\] wishing for that place.  
 When very far in the future,  
@@ -64,7 +77,8 @@ the Sage So Great is Gotama,
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 \[this one\] will be that Teacher’s follower;  
-his name will be Kaccāna \[then\]. (14-15) \[5675-5676\]  
+his name will be Kaccāna \[then\]. (14-15) \[5675-5676\]
+
 Very learned, with great knowledge,  
 clever at conclusions,[^36] a sage,  
 he will attain that \[wished-for\] place,  
@@ -73,12 +87,12 @@ as this has been foretold[^37] by me.” (16) \[5677\]
 In the hundred thousand aeons  
 since I did that karma back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (17) \[5678\]
+that’s the fruit of Buddha-*pūjā*. (17) \[5678\]
 
 I transmigrate in \[just\] two states:  
 that of a god, or of a man.  
 I don’t go to other rebirths:  
-that’s the fruit of Buddha-*pūjā.* (18) \[5679\]
+that’s the fruit of Buddha-*pūjā*. (18) \[5679\]
 
 \[When human\] I‘m born in two clans:  
 the kṣatriyan or the brahmin.  
@@ -92,7 +106,8 @@ the son of Tiriṭivaccha,[^39]
 who was the brahmin counsellor[^40]  
 of the \[king\], Pajjota Caṇḍa;[^41]  
 my mother’s Candapaduma;[^42]  
-\[I’m\] Kaccāna, with superb skin. (20-21) \[5681-5682\]  
+\[I’m\] Kaccāna, with superb skin. (20-21) \[5681-5682\]
+
 Dispatched by the earth’s protector[^43]  
 to \[go and\] invite the Buddha,  
 having seen the Heap of Virtue,  
@@ -100,7 +115,8 @@ Leader, Door to Freedom City,[^44]
 and having heard his flawless speech  
 which cleanses the muck of rebirth,  
 I attained deathless peacefulness,  
-with five hundred \[associates\]. (22-23) \[5683-5684\]  
+with five hundred \[associates\]. (22-23) \[5683-5684\]
+
 Clever at conclusions by birth,  
 very wealthy and good-looking,  
 I was placed in that foremost place  
@@ -121,7 +137,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (27) \[5688\]
 
-Thus indeed Venerable Mahākaccāna Thera spoke these verses.  
+Thus indeed Venerable Mahākaccāna Thera spoke these verses.
+
 The legend of Mahākaccāna Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -136,7 +153,7 @@ The legend of Mahākaccāna Thera is finished.
 
 [^6]: *sasaṅkavimalānano*
 
-[^7]: *kanakācalasaṅkāso,* following BJTS Sinhala gloss *kanakaparvatayak men babalannā*
+[^7]: *kanakācalasaṅkāso*, following BJTS Sinhala gloss *kanakaparvatayak men babalannā*
 
 [^8]: reading *ravi-ditti-samappabho* with BJTS for PTS *ravidittihiruppabho* (“with Sunlight like the Sun when it’s Blazing”)
 
@@ -144,7 +161,7 @@ The legend of Mahākaccāna Thera is finished.
 
 [^10]: *varalakkhaṇabhūsito*
 
-[^11]: *sabbavākyapathātīto,* lit., “he for whom the roads of all sayings are in the past”
+[^11]: *sabbavākyapathātīto*, lit., “he for whom the roads of all sayings are in the past”
 
 [^12]: *manujāmarasakkato*
 
@@ -154,7 +171,7 @@ The legend of Mahākaccāna Thera is finished.
 
 [^15]: *madhurassaro*
 
-[^16]: *karuṇāniḍḍhasantāno.* BJTS reads *karuṇānibaddhasantāno* (“Continuously Fixed on \[stable, bound down to\] Compassion”)*,* and notes alt. reading *ºnibandha* for *niḍḍha*, as does PTS; BJTS Sinh.gloss *karuṇāven bändunu sit attā vū* (“being one whose mind/heart is bound to compassion”). However, the extra syllable in these readings breaks the meter, and PTS alts. also include other attempts at making sense of *niḍḍha* (or *niddha* ?) in the received Pāli. *Niḍḍha* (nest, seat, abode, from *ni* + *sad*, “seat”) not only works best in terms of meter, it also brings out a bird-related reading of the entire birth, likening the Buddha to a song-bird.
+[^16]: *karuṇāniḍḍhasantāno*. BJTS reads *karuṇānibaddhasantāno* (“Continuously Fixed on \[stable, bound down to\] Compassion”), and notes alt. reading *ºnibandha* for *niḍḍha*, as does PTS; BJTS Sinh.gloss *karuṇāven bändunu sit attā vū* (“being one whose mind/heart is bound to compassion”). However, the extra syllable in these readings breaks the meter, and PTS alts. also include other attempts at making sense of *niḍḍha* (or *niddha* ?) in the received Pāli. *Niḍḍha* (nest, seat, abode, from *ni* + *sad*, “seat”) not only works best in terms of meter, it also brings out a bird-related reading of the entire birth, likening the Buddha to a song-bird.
 
 [^17]: *catusaccupasaṅhitaŋ*
 
@@ -170,25 +187,25 @@ The legend of Mahākaccāna Thera is finished.
 
 [^23]: *tadagge es’ aggo*, lit., “he’s top in the top point \[of the category, “explains the Teaching at length”\]
 
-[^24]: *dhāretha,* lit., “carry” “recall” “remember” “regard”
+[^24]: *dhāretha*, lit., “carry” “recall” “remember” “regard”
 
 [^25]: lit., “done *pūjā*”
 
 [^26]: *lokasaraṇaŋ*
 
-[^27]: *saraṇañjaho,* he by whom refuge is abandoned, playing on the epithet “World-Refuge” in the first foot: the Buddha is the refuge for others, but has (relies on, needs) no refuge himself.
+[^27]: *saraṇañjaho*, he by whom refuge is abandoned, playing on the epithet “World-Refuge” in the first foot: the Buddha is the refuge for others, but has (relies on, needs) no refuge himself.
 
-[^28]: *isivaraŋ,* lit., “excellent sage”
+[^28]: *isivaraŋ*, lit., “excellent sage”
 
 [^29]: lit., “fat-shoulders”. BJTS reads *pīṇº* but understands the adjective in the same way: “having shoulders whihc are full (covered with meat)
 
 [^30]: *acalaŋ*
 
-[^31]: that is, doing *añjali,* “hands pressed together”
+[^31]: that is, doing *añjali*, “hands pressed together”
 
 [^32]: *Buddhavaṇṇagatāsayaŋ*
 
-[^33]: *dhammapaṭiggahavaraŋ,* “with an excellent grasp of the *Dhamma*”
+[^33]: *dhammapaṭiggahavaraŋ*, “with an excellent grasp of the *Dhamma*”
 
 [^34]: *amatāsittasannibhaŋ*
 
@@ -208,8 +225,8 @@ The legend of Mahākaccāna Thera is finished.
 
 [^42]: “Sandalwood \[and\] Pink Lotus”
 
-[^43]: *bhūmipālena,* “by the king”
+[^43]: *bhūmipālena*, “by the king”
 
 [^44]: *mokkha-pura-dvāraŋ*
 
-[^45]: *mahāmate (*fr. *mahāmati)*
+[^45]: *mahāmate* (fr. *mahāmati*)

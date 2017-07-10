@@ -1,4 +1,12 @@
-*\[534. {537.}*[^1] *Mahākoṭṭhika*[^2]*\]*  
+---
+title: Mahākoṭṭhika
+order: 537
+layout: poem
+category: chapter-3
+---
+
+### \[534. {537.}[^1] Mahākoṭṭhika[^2]\]
+
 The Victor, Padumuttara,  
 the Sage, Knower of Every World,  
 the One who had \[Five\] Eyes, arose  
@@ -40,7 +48,8 @@ etymology and preaching,
 a hero, in that foremost place.  
 After hearing that, I was thrilled;  
 then for a week I fed \[him\], the  
-Best Victor,[^18] with \[his\] followers. (8-9) \[5888-5889\]  
+Best Victor,[^18] with \[his\] followers. (8-9) \[5888-5889\]
+
 Having covered with \[new\] cloth \[robes\]  
 the Wisdom-Sea[^19] with \[his\] students,  
 bowing down in front of \[his\] feet,  
@@ -58,7 +67,8 @@ and \[his\] hearing of the Teaching,
 he’ll transmigrate from birth to birth,  
 being happy in every place;  
 very far into the future,  
-he’ll receive that delightful \[place\]. (12-13) \[5892-5893\]  
+he’ll receive that delightful \[place\]. (12-13) \[5892-5893\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
@@ -92,7 +102,7 @@ I was happy in every place. (19) \[5899\]
 I transmigrate in \[just\] two states:  
 that of a god, or of a man.  
 I don’t go to other rebirths:  
-that’s the fruit of good practice*.*[^22] (20) \[5900\]
+that’s the fruit of good practice.[^22] (20) \[5900\]
 
 I am born in the two \[high\] clans,  
 kṣatriyan and also brahmin.  
@@ -111,7 +121,8 @@ Buddha instructed my father,
 being pleased with[^25] the Well-Gone-One,  
 I went forth into homelessness.  
 Moggallāna[^26] was my teacher;  
-Sāri’s child[^27] was my preceptor. (23-24) \[5903-5904\]  
+Sāri’s child[^27] was my preceptor. (23-24) \[5903-5904\]
+
 When my hair was being cut off,  
 views were cut off \[too\], with their roots.  
 \[While\] living in the saffron robes,  
@@ -142,7 +153,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (30) \[5910\]
 
-Thus indeed Venerable Mahākoṭṭhika Thera spoke these verses.  
+Thus indeed Venerable Mahākoṭṭhika Thera spoke these verses.
+
 The legend of Mahākoṭṭhika Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -167,17 +179,17 @@ The legend of Mahākoṭṭhika Thera is finished.
 
 [^11]: *nirākulaŋ*
 
-[^12]: *suñññataŋ,* or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
+[^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
 [^13]: *vicittaŋ*
 
-[^14]: *ratanāna-aṭṭha-paññāsaŋ uggato.* A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
+[^14]: *ratanāna-aṭṭha-paññāsaŋ uggato*. A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
 
-[^15]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or “like a gold festoon work”
+[^15]: *kañcanagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^16]: reading *sattasāraggaṃ* with BJTS for PTS *sattapāraṅgaŋ* (“going beyond \[or crossing, surmounting\] beings”)
 
-[^17]: *pabhinnamatigocaraŋ,* lit., "he whose pasturage was developed thought”
+[^17]: *pabhinnamatigocaraŋ*, lit., "he whose pasturage was developed thought”
 
 [^18]: *jinavaraŋ*
 
@@ -185,7 +197,7 @@ The legend of Mahākoṭṭhika Thera is finished.
 
 [^20]: *kamalodarasappabhaŋ*
 
-[^21]: *paricariŋ,* “waited on” “attended to”
+[^21]: *paricariŋ*, “waited on” “attended to”
 
 [^22]: *suciṇṇassa idaŋ phalaŋ*
 
@@ -203,6 +215,6 @@ The legend of Mahākoṭṭhika Thera is finished.
 
 [^29]: i.e., Sāriputta (*Thera-apadāna* \#1)
 
-[^30]: *viyākāsiŋ,* elsewhere “prophesied”
+[^30]: *viyākāsiŋ*, elsewhere “prophesied”
 
 [^31]: lit., “in the dispensation of the Sambuddha”

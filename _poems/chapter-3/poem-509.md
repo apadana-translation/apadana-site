@@ -1,4 +1,12 @@
-*\[506. {509.}*[^1] *Tālaphaliya*[^2]*\]*  
+---
+title: Tālaphaliya
+order: 509
+layout: poem
+category: chapter-3
+---
+
+### \[506. {509.}[^1] Tālaphaliya[^2]\]
+
 The Blessed One, Hundred-Rayed One,[^3]  
 the Self-Become, Unconquered One,  
 rising up from \[his\] solitude,  
@@ -29,11 +37,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[5447\]
 
-Thus indeed Venerable Tālaphaliya Thera spoke these verses.  
+Thus indeed Venerable Tālaphaliya Thera spoke these verses.
+
 The legend of Tālaphaliya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Palmyra-Fruit-er.” the fruit is a purple-colored, and something like a small coconut. When the top of cut off it contains three refreshing bits of fruit which are scooped out with the finger and eaten fresh.
 
-[^3]: *sataraŋsi,* i.e., “the Sun”
+[^3]: *sataraŋsi*, i.e., “the Sun”

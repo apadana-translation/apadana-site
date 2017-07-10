@@ -1,4 +1,12 @@
-*\[515. {518.}*[^1] *Ghosasaññaka*[^2]*\]*  
+---
+title: Ghosasaññaka
+order: 518
+layout: poem
+category: chapter-3
+---
+
+### \[515. {518.}[^1] Ghosasaññaka[^2]\]
+
 I was a deer-hunter back then,  
 within a grove in the forest.  
 I saw the Buddha, Stainless One,  
@@ -32,8 +40,10 @@ The three knowledges are attained;
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
-\[I have\] done what the Buddha taught! (7) \[5504 (5506)\][^5]  
-Thus indeed Venerable Ghosasaññaka Thera spoke these verses.  
+\[I have\] done what the Buddha taught! (7) \[5504 (5506)\][^5]
+
+Thus indeed Venerable Ghosasaññaka Thera spoke these verses.
+
 The legend of Ghosasaññaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

@@ -1,4 +1,12 @@
-*\[535. {538.}*[^1] *Uruvelakassapa*[^2]*\]*  
+---
+title: Uruvelakassapa
+order: 538
+layout: poem
+category: chapter-3
+---
+
+### \[535. {538.}[^1] Uruvelakassapa[^2]\]
+
 The Victor, Padumuttara,  
 the Sage, Knower of Every World,  
 the One who had \[Five\] Eyes, arose  
@@ -60,7 +68,8 @@ spoke to the retinue \[just\] then:
 with big arms, the color of gold,  
 \[with\] face and eyes \[like\] lotuses,  
 \[his\] body hair growing upward,  
-happy, with faith in my virtue.[^23] (12-13) \[5922-5923\]  
+happy, with faith in my virtue.[^23] (12-13) \[5922-5923\]
+
 This one’s aspiring to the place  
 of the monk with a lion’s roar.[^24]  
 Very far into the future,  
@@ -127,12 +136,12 @@ minds engaged in meditation,
 with loving hearts, having waited  
 on the \[World-\]Leader all the time,  
 when the World-Chief reached nirvana,  
-worshipping[^39] with all of \[our\] strength,[^40] (25-27)
-\[5935-5937\]  
+worshipping[^39] with all of \[our\] strength,[^40] (25-27) \[5935-5937\]
+
 fallen from there, gone to heaven,[^41]  
 all \[three\] of us experienced  
 great happiness \[when\] in that place:  
-that’s the fruit of Buddha-*pūjā.* (28) \[5938\]
+that’s the fruit of Buddha-*pūjā*. (28) \[5938\]
 
 Like an illusionist on stage[^42]  
 showing \[himself as\] very large,  
@@ -150,7 +159,8 @@ giving up \[Guṇa’s\] evil views,
 having fulfilled with distinction  
 the[^52] ten \[wholesome\] ways of acting,[^53]  
 abandoning \[my\] body, I  
-went to heaven with a palace. (30-32) \[5940-5942\]  
+went to heaven with a palace. (30-32) \[5940-5942\]
+
 When \[my\] last rebirth was attained,  
 I was a kinsman of Brahmā,  
 born in Benares with great wealth,[^54]  
@@ -216,7 +226,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (45) \[5955\]
 
-Thus indeed Venerable Uruvelakassapa Thera spoke these verses.  
+Thus indeed Venerable Uruvelakassapa Thera spoke these verses.
+
 The legend of Uruvelakassapa Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -241,13 +252,13 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^11]: *nirākulaŋ*
 
-[^12]: *suñññataŋ,* or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
+[^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
 [^13]: *vicittaŋ*
 
-[^14]: *ratanāna-aṭṭha-paññāsaŋ uggato.* A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
+[^14]: *ratanāna-aṭṭha-paññāsaŋ uggato*. A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
 
-[^15]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or “like a gold festoon work”
+[^15]: *kañcanagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^16]: *lokapajjtotaŋ*
 
@@ -255,17 +266,17 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^18]: *mahājinaŋ*
 
-[^19]: following BJTS Sinh gloss in taking *mahatā parivārena* with *saha dānaŋ ahaŋ adaŋ* rather than with *mahāŋjina,* though the latter is also a possible reading.
+[^19]: following BJTS Sinh gloss in taking *mahatā parivārena* with *saha dānaŋ ahaŋ adaŋ* rather than with *mahāŋjina*, though the latter is also a possible reading.
 
-[^20]: *parisā mahatī hotu,* lit., “let there be \[to me\]”. This translation follows BJTS Sinhala gloss (*ē ē tanhi upadinnā vū maṭa mahat vū piris äti wēwā,* “let there be a large retinue for me being reborn in this and that place” ), but the construction is elastic enough to allow for other readings that would better emphasize the “sociokarmic” dimension here, that is, that an entire group of people both make and experience this karma, e.g., “let this retinue be great as \[it\] transmigrates here and there” or even “let this be a great retinue transmigrating here and there”.
+[^20]: *parisā mahatī hotu*, lit., “let there be \[to me\]”. This translation follows BJTS Sinhala gloss (*ē ē tanhi upadinnā vū maṭa mahat vū piris äti wēwā*, “let there be a large retinue for me being reborn in this and that place” ), but the construction is elastic enough to allow for other readings that would better emphasize the “sociokarmic” dimension here, that is, that an entire group of people both make and experience this karma, e.g., “let this retinue be great as \[it\] transmigrates here and there” or even “let this be a great retinue transmigrating here and there”.
 
-[^21]: *karavīkarudo,* “he with the sound of a cuckoo”
+[^21]: *karavīkarudo*, “he with the sound of a cuckoo”
 
 [^22]: *gajagajjitassusaro*
 
 [^23]: reading *saddhāvantaṃ guṇe mama* with BJTS for PTS *sandhāvantaguṇaŋ mamaŋ*
 
-[^24]: *sīhaghosassa,* lit., “of the one who has a lion’s sound”
+[^24]: *sīhaghosassa*, lit., “of the one who has a lion’s sound”
 
 [^25]: *anuttaro*
 
@@ -273,11 +284,11 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^27]: *asadiso*
 
-[^28]: *vijaṭetvā mahājaṭaŋ. Jaṭa* literally means he braid of a “matted hair ascetic” or a tangle of tree branches (a thicket), but figuratively refers to the great tangle of desire. The verb, *vjaṭeti*, means “untangle” but has the connotation, as does the English equivalent, of explaining or unraveling.
+[^28]: *vijaṭetvā mahājaṭaŋ*. *Jaṭa* literally means he braid of a “matted hair ascetic” or a tangle of tree branches (a thicket), but figuratively refers to the great tangle of desire. The verb, *vjaṭeti*, means “untangle” but has the connotation, as does the English equivalent, of explaining or unraveling.
 
 [^29]: reading *rājāpaccā* (lit., “children of the king”) with BJTS for PTS *rājāmaccā* (“royal ministers”)
 
-[^30]: *vīraṅgarūpā,* lit., “with the appearance/form and limbs/body of a hero
+[^30]: *vīraṅgarūpā*, lit., “with the appearance/form and limbs/body of a hero
 
 [^31]: reading *sodhetvā aṭavībalaṃ* with BJTS for PTS *sodhetvā avidhībalaŋ* (“cleaning up that army without a method”). BJTS understands this as a \[rebel\] army which is hiding in the forest; it could also be read to mean “army of forest people,” the so-called “tribals” on the borderlands of India.
 
@@ -299,7 +310,7 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^40]: *yathābalaŋ*, lit., “to the extent of strength”
 
-[^41]: *santusitaŋ gatā,* lit., “gone to Tusitā*” *
+[^41]: *santusitaŋ gatā*, lit., “gone to Tusitā”
 
 [^42]: reading *raṅge* with BJTS for PTS *laddho* (I received”)
 
@@ -329,8 +340,8 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^55]: or “clan”: *vippamahākule*
 
-[^56]: lit., “among the Jaṭilas*, “*matted-hair ascetics”
+[^56]: lit., “among the Jaṭilas, “matted-hair ascetics”
 
 [^57]: reading *uruvelakassapo iti* with BJTS for PTS *Uruvelāsu Kassapo* (“Kassapa among the Uruvelans”)
 
-[^58]: the Nerañjarā River *(nadī*)
+[^58]: the Nerañjarā River (*nadī*)

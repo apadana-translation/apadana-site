@@ -1,4 +1,12 @@
-*\[522. {525.}*[^1] *Supaṭadāyaka*[^2]*\]*  
+---
+title: Supaṭadāyaka
+order: 525
+layout: poem
+category: chapter-3
+---
+
+### \[522. {525.}[^1] Supaṭadāyaka[^2]\]
+
 Vipassi, Leader of the World,  
 was rising from \[his\] siesta.  
 Giving a good piece of light cloth,[^3]  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[5572\]
 
-Thus indeed Venerable Supaṭadāyaka[^6] Thera spoke these verses.  
+Thus indeed Venerable Supaṭadāyaka[^6] Thera spoke these verses.
+
 The legend of Supaṭadāyaka[^7] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.

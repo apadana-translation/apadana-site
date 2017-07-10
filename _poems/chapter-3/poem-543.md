@@ -1,4 +1,12 @@
-*\[540. {543.}*[^1] *Sīvali*[^2]*\]*  
+---
+title: Sīvali
+order: 543
+layout: poem
+category: chapter-3
+---
+
+### \[540. {543.}[^1] Sīvali[^2]\]
+
 The Victor, Padumuttara,  
 the One with Eyes for everything,  
 the Leader \[of the World,\] arose  
@@ -45,7 +53,8 @@ Praise to you, Ultimate Person!
 For a week \[this\] kṣatriyan gave  
 a massive alms-giving to you.[^13]  
 \[We\] wish to hear the fruit for him;  
-prophesy \[that\], O Sage So Great.” (8-10) \[6083-6085\]  
+prophesy \[that\], O Sage So Great.” (8-10) \[6083-6085\]
+
 After that, the Blessed One said,  
 “\[All of\] you listen to my words:  
 Who can tell the \[fruit of the\] gift[^14]  
@@ -53,7 +62,8 @@ well-established for the Buddha
 \[or\] Assembly, beyond measure?  
 It will bear fruit beyond measure.  
 This rich man is truly wishing  
-\[to attain\] that ultimate place. (11-12) \[6086-6087\]  
+\[to attain\] that ultimate place. (11-12) \[6086-6087\]
+
 He’ll be a getter of huge wealth,  
 just like the monk Sudassana,[^15]  
 \[and\] also just like me \[as well\];  
@@ -106,7 +116,8 @@ I thought \[about it\] then like this:
 As far as all these people are  
 honoring \[him\], the Thus-Gone-One,  
 I too will do a \[pious\] deed,  
-for the World-Lord with Assembly.” (22-23) \[6097-6098\]  
+for the World-Lord with Assembly.” (22-23) \[6097-6098\]
+
 Then having thought \[it out\] like that,  
 mixing together the curds and  
 the honey, I gave \[them\] to the  
@@ -134,7 +145,8 @@ my mother was Suppavāsā,[^34]
 father Mahāli Licchavi.[^35]  
 Because of obstructing the gate,  
 I gestated for seven years,  
-suffering in \[my\] mother’s womb. (28-29) \[6103-6104\]  
+suffering in \[my\] mother’s womb. (28-29) \[6103-6104\]
+
 One week breached in the birth canal,[^36]  
 I’m endowed with great suffering.  
 Because she gave approval \[then\],  
@@ -175,7 +187,8 @@ the Buddha’s then served by me with
 requisites the gods bring for me;  
 having gone he saw[^43] Revata,  
 then going to Jetavana,  
-\[he\] placed me in that foremost place. (36-38) \[6111-6113\]  
+\[he\] placed me in that foremost place. (36-38) \[6111-6113\]
+
 The Teacher, Friend of Every World,[^44]  
 praised me amidst the multitude:  
 “O monks, Sīvali’s the foremost  
@@ -196,7 +209,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (42) \[6117\]
 
-Thus indeed Venerable Sīvali Thera spoke these verses.  
+Thus indeed Venerable Sīvali Thera spoke these verses.
+
 The legend of Sīvali Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -205,9 +219,9 @@ The legend of Sīvali Thera is finished.
 
 [^3]: lit., “*samādhi* whose metaphor is lightening”
 
-[^4]: *°varaŋ,* lit., “excellent” “fine”
+[^4]: *°varaŋ*, lit., “excellent” “fine”
 
-[^5]: *anupamo,* lit., “which has no metaphor,” referencing back to the second foot as does the third foot to the first.
+[^5]: *anupamo*, lit., “which has no metaphor,” referencing back to the second foot as does the third foot to the first.
 
 [^6]: *amarā*, or “the immortals”
 
@@ -221,17 +235,17 @@ The legend of Sīvali Thera is finished.
 
 [^11]: reading *brāhmaṇo* with BJTS (and PTS alt.) for PTS *brāhmaṇā* (“the Brahmins”)
 
-[^12]: *purisājañña,* RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
+[^12]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
 [^13]: reading *hi vo* with BJTS for PTS *vibho* (= “the Wise One” ?)
 
-[^14]: reading *dakkhiṇā tāya ko vattā* with BJTS for PTS *dakkhiṇādāya kho-v-attaŋ,* (“the value of giving a gift indeed” ?)
+[^14]: reading *dakkhiṇā tāya ko vattā* with BJTS for PTS *dakkhiṇādāya kho-v-attaŋ*, (“the value of giving a gift indeed” ?)
 
 [^15]: “Good-Looking,” presumably the proper name of the monk who held the foremost place among receivers of gifts during the era of Padumuttara Buddha.
 
-[^16]: *cārunayano,* or “lovely to the eyes” (?)
+[^16]: *cārunayano*, or “lovely to the eyes” (?)
 
-[^17]: *sabbadhammavipassaka,* a play on that Buddha’s name
+[^17]: *sabbadhammavipassaka*, a play on that Buddha’s name
 
 [^18]: the connotation is: “of a certain poor/lowly clan”
 
@@ -267,7 +281,7 @@ The legend of Sīvali Thera is finished.
 
 [^34]: “Good Sojourner”
 
-[^35]: “Big Fish \[*mahā + āli* ?\] the Licchavi”
+[^35]: “Big Fish \[*mahā* + *āli* ?\] the Licchavi”
 
 [^36]: lit., “gone astray at the gate \[to the birth canal\]”
 
@@ -281,7 +295,7 @@ The legend of Sīvali Thera is finished.
 
 [^41]: *mahāmati*
 
-[^42]: *sasagho,* lit., “with the Assembly”
+[^42]: *sasagho*, lit., “with the Assembly”
 
 [^43]: reading *addasa* with BJTS for PTS *addasaŋ* (“I saw”)
 

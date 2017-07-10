@@ -1,4 +1,12 @@
-*\[537. {540.}*[^1] *Mogharāja*[^2]*\]*  
+---
+title: Mogharāja
+order: 540
+layout: poem
+category: chapter-3
+---
+
+### \[537. {540.}[^1] Mogharāja[^2]\]
+
 The Victor, Padumuttara,  
 the Sage, Knower of Every World,  
 the One who had \[Five\] Eyes, arose  
@@ -55,7 +63,8 @@ with bad clothes, a skinny body,
 with joy \[and\] pleasure in \[his\] face,  
 possessing a great wealth of faith,  
 happy, body hair grown upward,  
-steadfast, eating food in a hall.[^21] (11-12) \[5997-5998\]  
+steadfast, eating food in a hall.[^21] (11-12) \[5997-5998\]
+
 He’s wishing to \[attain\] the place  
 of \[this\] monk \[named\] Saccasena;[^22]  
 his hope’s for the appearance of  
@@ -68,7 +77,8 @@ in the Victor’s dispensation,
 due to that karma done very well,  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body,  
-I was gone to Tāvatiṃsa. (14-15) \[6000-6001\]  
+I was gone to Tāvatiṃsa. (14-15) \[6000-6001\]
+
 Through the deed of burning the floor  
 in the storeroom for special seats,  
 for all of a thousand \[years,\] I  
@@ -130,7 +140,8 @@ Mogharāja;[^39] always mindful,
 \[and\] uprooting his own \[false\] views,[^40]  
 \[in this way\] he’d cross beyond death.  
 Thusly looking upon the world,  
-the King of Death does not see \[him\].” (27-28) \[6013-6014\]  
+the King of Death does not see \[him\].” (27-28) \[6013-6014\]
+
 And the conclusion of that verse,  
 cutting off \[my\] hair and \[my\] beard,  
 putting on saffron-colored robes,  
@@ -171,9 +182,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (36) \[6022\]
 
-Thus indeed Venerable Mogharāja Thera spoke these verses.  
-The legend of Mogharāja Thera is finished.  
-The Summary:  
+Thus indeed Venerable Mogharāja Thera spoke these verses.
+
+The legend of Mogharāja Thera is finished.
+
+The Summary:
+
 Kaccāna, Vakkalī Thera,  
 the one named Mahākappina,  
 Dabba, and he named Kumāra,  
@@ -181,7 +195,8 @@ Bāhiya, Master Koṭṭhita,
 Uruvelakassapa, Rādha,  
 and Mogharājā the pundit.  
 There are three hundred verses here,  
-piled on another sixty-two.  
+piled on another sixty-two.
+
 The Kaccāna Chapter, the Fifty-Fourth[^44]
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
@@ -206,23 +221,23 @@ The Kaccāna Chapter, the Fifty-Fourth[^44]
 
 [^11]: *nirākulaŋ*
 
-[^12]: *suñññataŋ,* or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
+[^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
 [^13]: *vicittaŋ*
 
-[^14]: *ratanāna-aṭṭha-paññāsaŋ uggato.* A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
+[^14]: *ratanāna-aṭṭha-paññāsaŋ uggato*. A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
 
-[^15]: *kañcanagghiyasaṅkāso,* lit., “like a gold valuable thing” or “like a gold festoon work”
+[^15]: *kañcanagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^16]: *aññatare* implies “undistinguished” here
 
 [^17]: i.e., an itinerant worker or a servant
 
-[^18]: BJTS Sinh. gloss (*piriyam no kaḷa bimhi*) seems to take the Pāli as *vasanto ‘katabhūmiyaṃ* (“on an unfinished floor”) rather than (as both editions have it), *vasanto katabhūmiyan,* which means the opposite (“on a finished floor”). The reference to “the earth” (*mahī*) in the final foot may be why the BJTS editor reads it this way, and I follow suit, though it is unclear to me why blackening an unfinished floor would be problematic enough to cause the terrible consequences it does for the protagonist.
+[^18]: BJTS Sinh. gloss (*piriyam no kaḷa bimhi*) seems to take the Pāli as *vasanto ‘katabhūmiyaṃ* (“on an unfinished floor”) rather than (as both editions have it), *vasanto katabhūmiyan*, which means the opposite (“on a finished floor”). The reference to “the earth” (*mahī*) in the final foot may be why the BJTS editor reads it this way, and I follow suit, though it is unclear to me why blackening an unfinished floor would be problematic enough to cause the terrible consequences it does for the protagonist.
 
-[^19]: *paṭikkamanasālāyaŋ,* following RD. The sense is of a building whose purpose is keeping the chairs, cushions, mats or what have you that are appointed for distinguished visitors. As the Buddha and monks would have been among the latter, the sooting up of the floor seems to have been especially grave.
+[^19]: *paṭikkamanasālāyaŋ*, following RD. The sense is of a building whose purpose is keeping the chairs, cushions, mats or what have you that are appointed for distinguished visitors. As the Buddha and monks would have been among the latter, the sooting up of the floor seems to have been especially grave.
 
-[^20]: *lūkhacīvaradhārakaŋ. Lūkhaº* refers to rough, inferior cloth discarded by tailors
+[^20]: *lūkhacīvaradhārakaŋ*. *Lūkhaº* refers to rough, inferior cloth discarded by tailors
 
 [^21]: *sālapiṇḍitaŋ*, BJTS Sinh. gloss “who has *sālapiṇḍa* (“a lump of food in a hall” “a lump of *sal* “
 
@@ -238,7 +253,7 @@ The Kaccāna Chapter, the Fifty-Fourth[^44]
 
 [^27]: lit., “the karma”
 
-[^28]: taking BJTS *macchime* (for *pacchime)* as a typographical error
+[^28]: taking BJTS *macchime* (for *pacchime*) as a typographical error
 
 [^29]: lit., “kṣatriyan”
 
@@ -248,11 +263,11 @@ The Kaccāna Chapter, the Fifty-Fourth[^44]
 
 [^32]: *naranāyakaŋ*
 
-[^33]: reading *taṃ vīraṃ vādisūdanaṃ* with BJTS for PTS *vāhisaŋ vādisūdanaŋ* (“Lord of Speech, Debater-Crusher) and following BJTS Sinh. gloss on *sūdanaṃ* (*maḍinnā,* “Crusher”)
+[^33]: reading *taṃ vīraṃ vādisūdanaṃ* with BJTS for PTS *vāhisaŋ vādisūdanaŋ* (“Lord of Speech, Debater-Crusher) and following BJTS Sinh. gloss on *sūdanaṃ* (*maḍinnā*, “Crusher”)
 
 [^34]: reading *diṭṭhiṃ te nābhijānāti* with BJTS for PTS *diṭṭhi no nâbhijānāmi*, and following BJTS Sinh. gloss.
 
-[^35]: or “excellent knowledge,” see under RD *abhikkanta,* s.v. (*ºdassāvin*)
+[^35]: or “excellent knowledge,” see under RD *abhikkanta*, s.v. (*ºdassāvin*)
 
 [^36]: *sabbarogatikicchako*
 

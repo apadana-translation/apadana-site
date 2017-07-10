@@ -1,4 +1,12 @@
-*\[514. {517.}*[^1] *Kuṭajapupphiya*[^2]*\]*  
+---
+title: Kuṭajapupphiya
+order: 517
+layout: poem
+category: chapter-3
+---
+
+### \[514. {517.}[^1] Kuṭajapupphiya[^2]\]
+
 In the Himalayan region,  
 there’s a mountain named Cāvala.[^3]  
 The Buddha named Sudassana  
@@ -34,14 +42,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[5499\]
 
-Thus indeed Venerable Kuṭajapupphiya Thera spoke these verses.  
+Thus indeed Venerable Kuṭajapupphiya Thera spoke these verses.
+
 The legend of Kuṭajapupphiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Arctic-Snow-Flower-er”. Sinhala *keḷinda*, aka Arctic Snow, Winter Cherry, nerium antidysenterica, as its name implies used for dysentery. See above, \#181, for a different *apadāna* ascribed to a monk of the same name. Cf. also \#343 {346}, above, for a very similar *apadāna* ascribed to a monk of a different name.
 
-[^3]: perhaps “Falling Away” or “Disappearing,” from *cavati.* Also appears in v. 1 of \#343 {346}, above.
+[^3]: perhaps “Falling Away” or “Disappearing,” from *cavati*. Also appears in v. 1 of \#343 {346}, above.
 
 [^4]: *oghatiṇṇa*
 
