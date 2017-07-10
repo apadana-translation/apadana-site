@@ -1,5 +1,14 @@
-*Ekūposathikā Chapter, the Second*  
-*\[11. Ekūposathikā*[^1]*\]*  
+---
+title: Ekūposathikā
+order: 11
+layout: poem
+category: chapter-4
+---
+
+## Ekūposathikā Chapter, the Second
+
+### \[11. Ekūposathikā[^1]\]
+
 In the city, Bandhumatī,  
 there was a king[^2] named Bandhuma.[^3]  
 On the day of the full moon, he  
@@ -100,7 +109,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (20) \[150\]
 
-Thus indeed Bhikkhunī Ekūposathikā spoke these verses.  
+Thus indeed Bhikkhunī Ekūposathikā spoke these verses.
+
 The legend of Ekūposathikā Therī is finished.
 
 [^1]: “One Full-Moon-Day Observance-er”. *Uposatha* is a technical term for the weekly “sabbath” rituals according to the lunar calendar. These rites -- on the day of the new moon, the full moon, the waning moon and no moon -- became ubiquitous in the early centuries of the Buddhist era (and these “sabbaths” were observed by non-Buddhist groups as well). Among Buddhists, monks and nuns would meet for chanting of the monastic discipline and other rites of the assembly (*sanghakamma*), and would preach to and perform rituals for laypeople, especially devout *upāsakas* (male) and *upāsikās* (female) who on that day would adopt three more stringent disciplinary precepts in addition to the usual five precepts, spending the day living as quasi-monastics. This is what King Bandhumā is here credited with establishing, and what the rebirth precursor of Ekūposathikā did as the foundation of her future arahantship.

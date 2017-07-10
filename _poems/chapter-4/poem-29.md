@@ -1,4 +1,12 @@
-*\[29. Ten Thousand Buddhist Nuns Headed Up by Yasovatī*[^1]*\]*  
+---
+title: Ten Thousand Buddhist Nuns Headed Up by Yasovatī
+order: 29
+layout: poem
+category: chapter-4
+---
+
+### \[29. Ten Thousand Buddhist Nuns Headed Up by Yasovatī[^1]\]
+
 One hundred thousand aeons \[and\]  
 four incalculable \[aeons\]  
 hence, Dīpaṅkara, the Victor,  
@@ -74,16 +82,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[we have\] done what the Buddha taught! (15) \[1043\]
 
-Thus indeed ten thousand Buddhist nuns headed up by Yasovatī spoke these
-verses face-to-face with the Blessed One.  
-The legend of ten thousand Buddhist nuns headed up by Yasodharā is
-finished
+Thus indeed ten thousand Buddhist nuns headed up by Yasovatī spoke these verses face-to-face with the Blessed One.
+
+The legend of ten thousand Buddhist nuns headed up by Yasodharā is finished
 
 [^1]: BJTS reads “The *Apadāna* of Ten Thousand Buddhist Nuns”
 
 [^2]: reading *hohi* with BJTS for PTS *honti* (they will be/they are)
 
-[^3]: *puññaŋ,* lit., “merit”
+[^3]: *puññaŋ*, lit., “merit”
 
 [^4]: *°putta°* lit., “son”
 
@@ -93,6 +100,6 @@ finished
 
 [^7]: reading *pabbajitvāna* with BJTS (and PTS alt.) for PTS *pabbajiŋ* (“I went forth”)
 
-[^8]: *aṭṭhamāse,* BJTS reads *addhamāse* (“half a month”)
+[^8]: *aṭṭhamāse*, BJTS reads *addhamāse* (“half a month”)
 
 [^9]: PTS just gives *pe* here, suggesting that the concluding refrain remains in the first person singular as elsewhere throughout the collection. BJTS however supplies the full verses, including the readings translated here, corrected for the plural subject.

@@ -1,4 +1,12 @@
-*\[16. Sālamālikā*[^1]*\]*  
+---
+title: Sālamālikā
+order: 16
+layout: poem
+category: chapter-4
+---
+
+### \[16. Sālamālikā[^1]\]
+
 On Candabhāgā River’s bank,  
 I was a *kinnarī* back then.  
 I saw the Stainless One, Buddha,  
@@ -6,7 +14,7 @@ the Self-Become, Unconquered One. (1) \[215\]
 
 Happy, with pleasure in \[my\] heart,  
 awe-struck,[^2] with hands pressed together,  
-taking a *sal*[^3]\[*-*flower\] garland,  
+taking a *sal*[^3]\[-flower\] garland,  
 I worshipped the Self-Become One. (2) \[216\]
 
 Due to that karma done very well,  
@@ -52,19 +60,21 @@ six special knowledges mastered,
 In the ninety-four aeons since  
 I worshipped the Buddha back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of a *sal*[^5]*-*garland. (11) \[222\][^6]  
+that’s the fruit of a *sal*[^5]-garland. (11) \[222\][^6]
+
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 All \[my\] defilements are destroyed;  
 now there will be no more rebirth. (12)  
-Thus indeed Bhikkhunī Sālamālikā[^7] spoke these verses.  
+Thus indeed Bhikkhunī Sālamālikā[^7] spoke these verses.
+
 The legend of Sālamālikā[^8] Therī is finished.
 
 [^1]: “*Sal*-Garland-er.” This follows BJTS. PTS reads Nalamālikā, “Reed-Garland-er”.
 
 [^2]: *vedajāto*
 
-[^3]: PTS reads *nala°.*
+[^3]: PTS reads *nala°*.
 
 [^4]: lit., “Śākyas’ Son’s”
 
@@ -72,6 +82,6 @@ The legend of Sālamālikā[^8] Therī is finished.
 
 [^6]: as will be clear from the numbering, BJTS places this verse before, rather than after, the standard refrain, and omits the final verse (12) found in the PTS version.
 
-[^7]: PTS reads *Nala°.*
+[^7]: PTS reads *Nala°*.
 
-[^8]: PTS reads *Nala°.*
+[^8]: PTS reads *Nala°*.

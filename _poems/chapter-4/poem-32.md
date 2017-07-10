@@ -1,4 +1,12 @@
-*\[32. Eighty-Four Thousand Brahmin Maiden Buddhist Nuns*[^1]*\]*  
+---
+title: Eighty-Four Thousand Brahmin Maiden Buddhist Nuns
+order: 32
+layout: poem
+category: chapter-4
+---
+
+### \[32. Eighty-Four Thousand Brahmin Maiden Buddhist Nuns[^1]\]
+
 O Great Sage,[^2] in your city are  
 eighty-four thousand \[young women,\]  
 with \[very\] tender hands \[and\] feet,  
@@ -7,7 +15,7 @@ who have been born in brahmin clans. (1) \[1116\]
 O Great Sage,[^3] in your city are  
 many maidens from every land,[^4]  
 born in Vaiśya and Śudra clans,  
-and gods, snake\[-gods\] and *kinnaras.* (2) \[1117\]
+and gods, snake\[-gods\] and *kinnaras*. (2) \[1117\]
 
 Some of them \[already\] went forth;  
 many have insight into truth;  
@@ -219,10 +227,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[we have\] done what the Buddha taught! (44) \[1159\]
 
-Thus indeed Eighty-Four Thousand Brahmin Maiden Buddhist Nuns spoke
-these verses.  
-The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is
-finished
+Thus indeed Eighty-Four Thousand Brahmin Maiden Buddhist Nuns spoke these verses.
+
+The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
 [^1]: BJTS reads “The *Apadāna* of Brahmin Maiden Buddhist Nuns”
 
@@ -232,9 +239,9 @@ finished
 
 [^4]: ˆ*catuddīpā*, lit., “from the four continents,” that is, from the entire world
 
-[^5]: here PTS reads *phusissanti,* BJTS *bhujjhissanti;* both read *bhujjhissanti* in the following verse
+[^5]: here PTS reads *phusissanti*, BJTS *bhujjhissanti;* both read *bhujjhissanti* in the following verse
 
-[^6]: *tu,* or “but”
+[^6]: *tu*, or “but”
 
 [^7]: *pekkato no*, perhaps “when we long for \[or see\]”
 
@@ -242,13 +249,13 @@ finished
 
 [^9]: *samādhigocarā sabā*
 
-[^10]: *samāpattī vasī tathā,* lit., “master with the attainments” (especially the eight *jhānas* or “altered states” experienced as states of awareness and/or levels of reality in meditation)
+[^10]: *samāpattī vasī tathā*, lit., “master with the attainments” (especially the eight *jhānas* or “altered states” experienced as states of awareness and/or levels of reality in meditation)
 
 [^11]: *jhānena dhammaratiyā viharissāma no sadā*
 
 [^12]: reading *mamaṃ* with BJTS for PTS *mayaŋ* (“we”)
 
-[^13]: *katvā iddhivikubbanaŋ,* lit., “having done transformations through \[their\] superpowers”
+[^13]: *katvā iddhivikubbanaŋ*, lit., “having done transformations through \[their\] superpowers”
 
 [^14]: in Indra/Śakra’s heaven
 
@@ -262,13 +269,13 @@ finished
 
 [^19]: reading *no* with BJTS (and the parallel instance of this verse below, at \[1063\]) for PTS *tehi* (“by them”)
 
-[^20]: *mahāmuni,* lit., “the Great Sage”
+[^20]: *mahāmuni*, lit., “the Great Sage”
 
 [^21]: lit., “they are not receiving” “they are not getting”
 
 [^22]: lit., “they are not receiving” “they are not getting”
 
-[^23]: *sattasāro,* lit., “essence (or pith) of beings;” I follow BJTS Sinhala gloss in taking this as “bodhisattva”. Jaṭila (a.k.a. Jaṭika) is mentioned as a rebirth precursor of Gotama Buddha in the *nidāna-kathā* (J.i.37) and *Buddhavaṃsa* (xi.11), and called a “provincial governor” (Malalasekera’s understanding of *mahāraṭṭhiya*; in the present *Apadāna* text *raṭṭhika* \[“rustic”\]); see DPPN I: 931
+[^23]: *sattasāro*, lit., “essence (or pith) of beings;” I follow BJTS Sinhala gloss in taking this as “bodhisattva”. Jaṭila (a.k.a. Jaṭika) is mentioned as a rebirth precursor of Gotama Buddha in the *nidāna-kathā* (J.i.37) and *Buddhavaṃsa* (xi.11), and called a “provincial governor” (Malalasekera’s understanding of *mahāraṭṭhiya*; in the present *Apadāna* text *raṭṭhika* \[“rustic”\]); see DPPN I: 931
 
 [^24]: *raṭṭhiko*, lit., “countryman”. Sinh. gloss *rǟṭiyek*, “a guy from the country” (*raṭavāsī*) or a district official;” the Pāli likewise can mean “a man of the country” either in the sense of “someone from the country” or “an official of the country”
 
@@ -282,27 +289,27 @@ finished
 
 [^29]: reading *purisā* with BJTS (and PTS alt.) for PTS *pumā*
 
-[^30]: *kadalī,* lit., “plantains,” see RD s.v., banners in the shape of or made of banana leaves.
+[^30]: *kadalī*, lit., “plantains,” see RD s.v., banners in the shape of or made of banana leaves.
 
 [^31]: reading *puṇṇaghāṭe* with BJTS for PTS *°\[uṇṇakuṭa* (“full huts”)
 
 [^32]: reading *abhipatthayi* with BJTS (and, misspelled, PTS alt.) for PTS *abhipatthayiŋ* (“I aspired”)
 
-[^33]: *sambodhiŋ abhipatthayi,* i.e., he (renewed) his aspiration to become a Buddha, as he is said to have done in the presence of all the Buddhas since Dīpaṅkara.
+[^33]: *sambodhiŋ abhipatthayi*, i.e., he (renewed) his aspiration to become a Buddha, as he is said to have done in the presence of all the Buddhas since Dīpaṅkara.
 
 [^34]: *tārako*
 
-[^35]: reading *anumodaniyaṃ ‘kāsi* with BJTS for PTS *anumodanīyaŋ kāsi-jaṭtilassa* (“I gave thanks to Jaṭila from Benares \[or, Miss Lilley seems to be thinking in her lack of capitalization, “I gave thanks to the matted-hair ascetic (*jaṭilassa)* from Benares”)
+[^35]: reading *anumodaniyaṃ ‘kāsi* with BJTS for PTS *anumodanīyaŋ kāsi-jaṭtilassa* (“I gave thanks to Jaṭila from Benares \[or, Miss Lilley seems to be thinking in her lack of capitalization, “I gave thanks to the matted-hair ascetic (*jaṭilassa*) from Benares”)
 
-[^36]: reading *‘kāsi jaṭilassa* with BJTS for PTS *kāsi-jaṭilassa,* see previous note
+[^36]: reading *‘kāsi jaṭilassa* with BJTS for PTS *kāsi-jaṭilassa*, see previous note
 
 [^37]: reading *ye keci hatthaparikammaṃ* with BJTS for PTS *Keci hatthapadaŋ* (“Some, hand \[and\] foot”)
 
 [^38]: lit., “in the future” (singular)
 
-[^39]: *sammukhā,* i.e. “together”
+[^39]: *sammukhā*, i.e. “together”
 
-[^40]: *tuyham,* presumably addressing the bodhisattva
+[^40]: *tuyham*, presumably addressing the bodhisattva
 
 [^41]: reading anubhontī ciraṃ kālaṃ with BJTS for PTS *tuyhaŋ vo paricāre ca* (“and all of you will attend on you”)
 
@@ -310,7 +317,7 @@ finished
 
 [^43]: *°putta°* lit., “son”
 
-[^44]: lit., “all the time we are not...”
+[^44]: lit., “all the time we are not…”
 
 [^45]: reading *cikkhallabhūmimasuciṃ* with BJTS for PTS *cikkhallabhūmiŋ gamanaŋ* (“going on muddy roads”)
 

@@ -1,4 +1,12 @@
-*\[34. Sigālaka-mātā*[^1]*\]*  
+---
+title: Sigālaka-mātā
+order: 34
+layout: poem
+category: chapter-4
+---
+
+### \[34. Sigālaka-mātā[^1]\]
+
 The Victor, Padumuttara,  
 was a Master of Everything.  
 \[That\] Leader arose in the world  
@@ -29,7 +37,8 @@ foremost among those freed by faith.[^2]
 Aspiring to \[attain\] that place,  
 I then fulfilled the three trainings.[^3]  
 The Rest for Those Seeking Pity,[^4]  
-the Well-Gone-One, thereupon said \[this\]: (6, 7a-b) \[1190\][^5]  
+the Well-Gone-One, thereupon said \[this\]: (6, 7a-b) \[1190\][^5]
+
 “He[^6] whose faith in the Thus-Gone-One  
 is well-established, not shaking,  
 and whose morals[^7] are beautiful,  
@@ -42,7 +51,7 @@ his life’s \[considered\] not useless. (8c-d, 9a-b) \[1192\]
 
 Therefore, wise ones, commit \[yourselves\]  
 to faith and to morality,  
-to *Dhamma-*insight and pleasure;[^9]  
+to *Dhamma*-insight and pleasure;[^9]  
 pith of Buddha’s dispensation.” (9c-d, 10a-b) \[1193\]
 
 Hearing that, being overjoyed,  
@@ -87,7 +96,7 @@ the Guide, advised him, seeing him
 coming toward the city praising  
 the directions[^17] with balls of food. (18) \[1201\]
 
-When he was preaching[^18] the *Dhamma,*  
+When he was preaching[^18] the *Dhamma*,  
 there were amazing shrieks of joy;[^19]  
 twenty million[^20] men \[and\] women  
 gained insight into the Teaching.[^21] (19) \[1202\]
@@ -147,16 +156,17 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (30) \[1213\]
 
-Thus indeed the bhikkhunī Sigālaka-mātā spoke these verses.  
+Thus indeed the bhikkhunī Sigālaka-mātā spoke these verses.
+
 The legend of Sigālaka-mātā Therī[^27] is finished
 
 [^1]: “Sigālaka’s Mother,” an historical nun, remembered as foremost among those who attained release through their faith. See DPPN II: 1133. She was the mother of Sigāla to whom the famous *Sigālovādasutta* was preached, upon which she also achieved fruits of the path.
 
 [^2]: reading *saddhādhimuttānaṃ* with BJTS for PTS *aṅgavimuttānaŋ* (“freed in/by \[their\] limbs”)
 
-[^3]: *tisso sikkhā*, i.e., training in morality (*sīla*), wisdom *(paññā)* and meditative states *(samādhi*)
+[^3]: *tisso sikkhā*, i.e., training in morality (*sīla*), wisdom (*paññā*) and meditative states (*samādhi*)
 
-[^4]: *karuṇānugatāsayo,* lit., “support for those come into/follow after/depend upon \[his\] pity (or compassion)”
+[^4]: *karuṇānugatāsayo*, lit., “support for those come into/follow after/depend upon \[his\] pity (or compassion)”
 
 [^5]: PTS presents the following speech of the Buddha in eight four-foot verses (6-13). BJTS presents the same speech arranged into seven verses (\[1190-1196\], the first and last of which it presents as six-footed verses). I follow the BJTS numbering here, indicating corresponding numbering in the PTS edition.
 
@@ -182,13 +192,13 @@ The legend of Sigālaka-mātā Therī[^27] is finished
 
 [^16]: lit., “born in a rich clan of millionaires”
 
-[^17]: *nānādisā,* lit., “various directions” “the different directions”
+[^17]: *nānādisā*, lit., “various directions” “the different directions”
 
 [^18]: reading *desayato* (gen. abs. constr.) with BJTS (and PTS alt) for PTS *desayito*
 
 [^19]: BJTS reads *ninādo* for PTS *panādo*, though BJTS alt. agrees with PTS. The term is singular so we might imagine some sort of shout in unison; I translate as “shrieks” (plural) given the context.
 
-[^20]: *dvekoṭi, lit., “* two \[times\] ten million”
+[^20]: *dvekoṭi*, lit., “two \[times\] ten million”
 
 [^21]: lit., “there was an \[achieving of\] insight into the *Dhamma* of twenty million.” *Dhammâbhisamaya*, “insight into the *Dhamma*” or “entry into the *Dhamma*” or “comprehension of the *Dhamma”* or “penetration into the *Dhamma”* refers to the achievement of a firm grasp on the essentials of the Teaching. It is used as a technical term in the account of each Buddha in the *Buddhavaṃsa*, one among many categories of Buddha-achievement enumerated there.
 
@@ -198,7 +208,7 @@ The legend of Sigālaka-mātā Therī[^27] is finished
 
 [^24]: reading *nayananandanaṃ* with BJTS for PTS *yena ‘va nandanaŋ* (“through which there is rejoicing” ?)
 
-[^25]: reading *vihāram’ ahaṃ* with BJTS for PTS *bhayām’ ahaŋ* (= *bhāyām’ ahaṃ,* “I am fearing” ?)
+[^25]: reading *vihāram’ ahaṃ* with BJTS for PTS *bhayām’ ahaŋ* (= *bhāyām’ ahaṃ*, “I am fearing” ?)
 
 [^26]: reading *aggā saddhādhimuttikā* with BJTS for PTS *aggā saṅgavimuttikā* (“freed from clinging”), alt. *aṅgavimuttikā* (“freed in/by her\] limbs”)
 

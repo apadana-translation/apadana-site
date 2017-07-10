@@ -1,6 +1,14 @@
-*Khattiyā Chapter,*[^1] *the Fourth*  
-*\[31. Eighteen Thousand Kṣatriyan Maiden Buddhist Nuns *  
-*Headed Up by Yasavatī*[^2]*\]*  
+---
+title: Eighteen Thousand Kṣatriyan Maiden Buddhist Nuns Headed Up by Yasavatī
+order: 31
+layout: poem
+category: chapter-4
+---
+
+## Khattiyā Chapter,[^1] the Fourth
+
+### \[31. Eighteen Thousand Kṣatriyan Maiden Buddhist Nuns Headed Up by Yasavatī[^2]\]
+
 O Great Sage, we are announcing  
 “all existence has been destroyed;”  
 \[we’re\] freed from ties to existence  
@@ -62,7 +70,8 @@ six special knowledges mastered,
 \[we have\] done what the Buddha taught! (11) \[1115\]
 
 Thus indeed Eighteen Thousand Kṣatriyan Maiden Buddhist Nuns  
-Headed Up by Famous (Yasavatī) spoke these verses.  
+Headed Up by Famous (Yasavatī) spoke these verses.
+
 The legend of Eighteen Thousand Kṣatriyan Maiden Buddhist Nuns  
 Headed Up by Famous (Yasavatī) is finished
 
@@ -78,7 +87,7 @@ Headed Up by Famous (Yasavatī) is finished
 
 [^6]: *yaŋ kiñci sabbam patthitaŋ*
 
-[^7]: *sabbaŋ...paribhogaŋ;* BJTS reads *yaṃ kiñci sādhu patthitaṃ* (“whatever excellently wished”)
+[^7]: *sabbaŋ…paribhogaŋ;* BJTS reads *yaṃ kiñci sādhu patthitaṃ* (“whatever excellently wished”)
 
 [^8]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
 
@@ -86,7 +95,7 @@ Headed Up by Famous (Yasavatī) is finished
 
 [^10]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
 
-[^11]: *kat’ amhehi.* BJTS (and PTS alt.) reads *katam etaṃ*
+[^11]: *kat’ amhehi*. BJTS (and PTS alt.) reads *katam etaṃ*
 
 [^12]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
 
@@ -94,7 +103,7 @@ Headed Up by Famous (Yasavatī) is finished
 
 [^14]: reading BJTS (and, partly, PTS alt.) *mānusikam atikkantā* for PTS *mānussikam anikkantā*
 
-[^15]: *jātiyā,* lit., “by birth,” the clear theme of this verse
+[^15]: *jātiyā*, lit., “by birth,” the clear theme of this verse
 
 [^16]: lit., “born in the clan”
 

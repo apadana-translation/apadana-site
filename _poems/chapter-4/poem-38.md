@@ -1,4 +1,12 @@
-*\[38. Puṇṇikā*[^1]*\]*  
+---
+title: Puṇṇikā
+order: 38
+layout: poem
+category: chapter-4
+---
+
+### \[38. Puṇṇikā[^1]\]
+
 Gone forth in the dispensation  
 of the Blessed One, Vipassi,  
 and of Sikhi and Vessabhu,  
@@ -6,7 +14,8 @@ the Sage Kakusandha \[Buddha\],
 Konāgamana, Neutral One,  
 and of the Buddha Kassapa,  
 \[I’m\] a nun endowed with morals,  
-clever, with senses \[well-\]controlled. (1-2) \[1287-1288\]  
+clever, with senses \[well-\]controlled. (1-2) \[1287-1288\]
+
 Learned bearer of the Teaching,  
 asker of the Teaching’s meaning,[^2]  
 studier of, listener to  
@@ -30,19 +39,23 @@ After seeing him I said this: (6) \[1292\]
 “Bearing water I always go  
 down to the water in the cold,  
 scared with fear of the master’s[^5] stick,  
-oppressed by fear of faults called out. (7) \[1293\][^6]  
+oppressed by fear of faults called out. (7) \[1293\][^6]
+
 Of what are you afraid, brahmin?  
 Limbs shivering you always go  
 down to the water, so much cold  
-being experienced by you.” (8) \[1294\][^7]  
+being experienced by you.” (8) \[1294\][^7]
+
 “You certainly know, Puṇṇikā.  
 You are asking[^8] me who’s doing  
 wholesome karma and warding off[^9]  
-karma with evil \[consequence\]. (9) \[1295\][^10]  
+karma with evil \[consequence\]. (9) \[1295\][^10]
+
 Whether he is old is young,  
 one who performs evil karma,  
 just by sprinkling[^11] himself with water,  
-is freed from \[that\] evil karma.” (10) \[1296\][^12]  
+is freed from \[that\] evil karma.” (10) \[1296\][^12]
+
 I spoke a verse[^13] of *Dhamma* to  
 \[him\] coming out of the water.  
 Hearing that \[he\] was very moved;  
@@ -55,7 +68,7 @@ and freed me from \[my\] slavery. (12) \[1298\]
 
 Getting the millionaire’s consent,  
 I went forth into homelessness.  
-*A*fter not a very long time,  
+After not a very long time,  
 I attained \[my\] arahantship. (13) \[1299\]
 
 I’ve mastered the superpowers  
@@ -93,16 +106,17 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (20) \[1306\]
 
-Thus indeed the bhikkhunī Puṇṇikā spoke these verses.  
+Thus indeed the bhikkhunī Puṇṇikā spoke these verses.
+
 The legend of Puṇṇikā Therī[^17] is finished
 
 [^1]: “Complete” “Full”. BJTS reads Puṇṇā; both spellings are correct, see DPPN II: 227-228.
 
 [^2]: reading *dhammatthaparipucchikā*
 
-[^3]: *pesalā atimaññisaŋ.* Cf. *Pesalā-atimaññanā Sutta* (S. i. 187f., see DPPN II: 245)
+[^3]: *pesalā atimaññisaŋ*. Cf. *Pesalā-atimaññanā Sutta* (S. i. 187f., see DPPN II: 245)
 
-[^4]: he was a famous millionaire lay donor devoted to the Buddha. The hermitage he provided to the Buddha, in the Jeta Grove in Śrāvasti*,* was the site where many of the Buddha’s sermons were originally preached. As is clear in the present *apadāna*, too, he was also kind-hearted and generous with his own slaves.
+[^4]: he was a famous millionaire lay donor devoted to the Buddha. The hermitage he provided to the Buddha, in the Jeta Grove in Śrāvasti, was the site where many of the Buddha’s sermons were originally preached. As is clear in the present *apadāna*, too, he was also kind-hearted and generous with his own slaves.
 
 [^5]: lit., “the noble ladies’ stick (or punishment)”
 
@@ -122,10 +136,10 @@ The legend of Puṇṇikā Therī[^17] is finished
 
 [^13]: or foot, stanza, line, word: *padaŋ*
 
-[^14]: *pūrentī ūnakasataŋ,* lit., “\[I am\] completing (or filling, this is one of numerous plays on the meaning of her name) a deficient hundred,” i.e., “I was the 100th slave”
+[^14]: *pūrentī ūnakasataŋ*, lit., “\[I am\] completing (or filling, this is one of numerous plays on the meaning of her name) a deficient hundred,” i.e., “I was the 100th slave”
 
 [^15]: *puṇṇā ti nāmaŋ*
 
-[^16]: PTS reads *panassati,* BJTS *vinassati*
+[^16]: PTS reads *panassati*, BJTS *vinassati*
 
 [^17]: the BJTS reading, for PTS *bhikkhunī Puṇṇikā*

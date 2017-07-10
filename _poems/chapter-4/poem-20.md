@@ -1,4 +1,12 @@
-*\[20. Paṭācārā*[^1]*\]*  
+---
+title: Paṭācārā
+order: 20
+layout: poem
+category: chapter-4
+---
+
+### \[20. Paṭācārā[^1]\]
+
 The Victor, Padumuttara,  
 was a Master of Everything.  
 \[That\] Leader arose in the world  
@@ -10,7 +18,7 @@ glistening with various gems,
 endowed with supreme happiness. (2) \[596\]
 
 Having approached that Great Hero,  
-I heard \[him\] preaching the *Dhamma.*  
+I heard \[him\] preaching the *Dhamma*.  
 Then, pleasure born \[in my heart,\] I  
 approached the Victor for refuge. (3) \[597\]
 
@@ -81,7 +89,8 @@ doing \[our\] practice with vigor
 in virginal celibacy,  
 for twenty times a thousand years,  
 fond of waiting on the Buddha,  
-\[the king’s\] seven joyful daughters. (16-17) \[610-611\]  
+\[the king’s\] seven joyful daughters. (16-17) \[610-611\]
+
 Samaṇī, and Samaṇaguttā,[^8]  
 Bhikkhunī, Bhikkhadāyikā,  
 Dhammā, and also Sudhammā,  
@@ -217,9 +226,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (44) \[638\]
 
-Thus indeed Bhikkhunī Paṭācārā spoke these verses.  
-The legend of Paṭācārā Therī is finished.  
-The Summary:[^27]  
+Thus indeed Bhikkhunī Paṭācārā spoke these verses.
+
+The legend of Paṭācārā Therī is finished.
+
+The Summary:[^27]
+
 Ekūposathikā, and too  
 Salaḷā and Timodakā,  
 Ekāsanappadā, Dīpā,  
@@ -227,22 +239,23 @@ Nalamālī and Gotamī,
 Khemā, Uppalavaṇṇā and  
 Paṭācārā the Buddhist nun.  
 There are four hundred verses \[here,\]  
-also ninety-six \[verses more\].  
+also ninety-six \[verses more\].
+
 The Ekūposathikā Chapter, the Second
 
 [^1]: “Cloak-Wanderer,” apparently a historical nun (see DPPN II: 112-114 for this implicit judgment) though apart from the list in A. of the “best of” monks and nuns (which could have been inserted into A.) the only *canonical* telling of all the details of Paṭācāra’s life, and past lives, are found in this *Apadāna* account, from which ThigA and other commentaries likely draw; remembered as foremost among the nuns who know *Vinaya* or the monastic discipline.
 
-[^2]: *vinayadhārīnaŋ,* lit., “carry the *vinaya*”
+[^2]: *vinayadhārīnaŋ*, lit., “carry the *vinaya*”
 
 [^3]: *dasabalaŋ*
 
-[^4]: *ticīvaraŋ,* lit., “the three monastic robes,” presumably a full set of them to the Buddha and each of those in the Assembly, starting with the nun who had been declared foremost bearer of the *vinaya*
+[^4]: *ticīvaraŋ*, lit., “the three monastic robes,” presumably a full set of them to the Buddha and each of those in the Assembly, starting with the nun who had been declared foremost bearer of the *vinaya*
 
 [^5]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
 
 [^6]: ”Guarded Nun” “Protected Female Renouncer”
 
-[^7]: *sukhe ṭhitā,* lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
+[^7]: *sukhe ṭhitā*, lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
 
 [^8]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*ca*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
 
@@ -254,23 +267,23 @@ The Ekūposathikā Chapter, the Second
 
 [^12]: or “when I had attained puberty:” *yadā ca yobbanupetā*
 
-[^13]: *pati, “*lord”
+[^13]: *pati*, “lord”
 
-[^14]: *niggatā,* lit., “was gone out of”
+[^14]: *niggatā*, lit., “was gone out of”
 
-[^15]: *sāmi,* “master”
+[^15]: *sāmi*, “master”
 
 [^16]: lit., “winds,” *vātā*
 
-[^17]: *dabbatthāya,* lit., “for the sake of *dabba* grass”. Presumably the husband would have sought d*abba* grass to provide shelter, or a mattress, for his gestating wife.
+[^17]: *dabbatthāya*, lit., “for the sake of *dabba* grass”. Presumably the husband would have sought d*abba* grass to provide shelter, or a mattress, for his gestating wife.
 
-[^18]: *vijātadukkhena,* lit., “with the suffering of giving birth”
+[^18]: *vijātadukkhena*, lit., “with the suffering of giving birth”
 
-[^19]: reading *sakulālayaṃ (*“going to the lair of \[her\] own clan,” BJTS gloss *siya nǟ nivasaṭa* = “going to a house of \[her\] own relatives”) for PTS *sakuṇālayaŋ* (“to a bird’s nest”)
+[^19]: reading *sakulālayaṃ* (“going to the lair of \[her\] own clan,” BJTS gloss *siya nǟ nivasaṭa* = “going to a house of \[her\] own relatives”) for PTS *sakuṇālayaŋ* (“to a bird’s nest”)
 
-[^20]: *kunnadiŋ pūritaŋ,* lit., “a bad river filled up.” Perhaps read *kunnadiŋ* as “rough river” rather than “small river” or “rivulet” per RD (whence my “stream”)?
+[^20]: *kunnadiŋ pūritaŋ*, lit., “a bad river filled up.” Perhaps read *kunnadiŋ* as “rough river” rather than “small river” or “rivulet” per RD (whence my “stream”)?
 
-[^21]: *satthu sāsanakārikā,* lit., “\[I am\] a doer of the Teacher’s dispensation”
+[^21]: *satthu sāsanakārikā*, lit., “\[I am\] a doer of the Teacher’s dispensation”
 
 [^22]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I became”)
 
@@ -280,6 +293,6 @@ The Ekūposathikā Chapter, the Second
 
 [^25]: lit., “in the” “in that”
 
-[^26]: *vinayadhārīnaŋ,* lit., “carry the *vinaya*”
+[^26]: *vinayadhārīnaŋ*, lit., “carry the *vinaya*”
 
 [^27]: this appears only in PTS; BJTS omits the summary of the second chapter despite including the other summaries, hence presumably by mistake

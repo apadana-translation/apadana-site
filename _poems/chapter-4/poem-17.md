@@ -1,4 +1,12 @@
-*\[17. Gotamī*[^1]*\]*  
+---
+title: Gotamī
+order: 17
+layout: poem
+category: chapter-4
+---
+
+### \[17. Gotamī[^1]\]
+
 One day the \[Great\] Lamp of the World,  
 the Caravan Leader for men,  
 dwelt in the Mahāvana Hall,  
@@ -34,7 +42,8 @@ the thunder of the gods did roar.
 Weighed down by grief, the goddesses  
 who lived in that refuge \[for nuns,\]  
 piteously weeping \[at that,\]  
-shed \[their\] tears there \[in the refuge\]. (6) \[232\][^6]  
+shed \[their\] tears there \[in the refuge\]. (6) \[232\][^6]
+
 \[And then\] all of[^7] those Buddhist nuns,  
 after approaching Gotamī,  
 placing \[their\] heads upon \[her\] feet,  
@@ -45,7 +54,8 @@ were sprinkled with drops of water.
 The unshaking earth is shaking,  
 the thunder of the gods roaring,  
 lamentations[^8] are being heard:[^9]  
-what then does this mean, Gotamī?” (8) \[234\][^10]  
+what then does this mean, Gotamī?” (8) \[234\][^10]
+
 She then told everything \[to them,\]  
 just as \[she had\] reasoned it out.  
 All of them too told \[Gotamī,\]  
@@ -245,7 +255,8 @@ when you’re going to nirvana? (47) \[273\]
 Those who are desiring escape from the world  
 in my pure \[and\] complete Assembly of monks,  
 are like the fading crescent moon at daybreak  
-after having seen the ruin of its grasps.”[^49] (48) \[274\][^50]  
+after having seen the ruin of its grasps.”[^49] (48) \[274\][^50]
+
 Like the stars and the moon around Mount Meru,  
 the other nuns circumambulated \[him,\]  
 Chief Victor, \[and\] after bowing at \[his\] feet,  
@@ -288,7 +299,8 @@ pasturing in old age and death,
 covered with varied flaws and drool,[^60]  
 dependent on others, actionless.[^61]  
 Therefore I desire nirvana;  
-give \[me your\] permission, children.” (56-57) \[282-283\]  
+give \[me your\] permission, children.” (56-57) \[282-283\]
+
 Nanda and lucky Rāhula,  
 who were griefless, without constraint,  
 wise \[and\] unshakingly steadfast,  
@@ -395,7 +407,7 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (78) \[304\]
 
 “There are fools who doubt that women  
-\[too\] gain *dhamma-*penetration.[^70]  
+\[too\] gain *dhamma*-penetration.[^70]  
 To dispel that \[wrong\] view of theirs,  
 display miracles, Gotamī.” (79) \[305\]
 
@@ -491,7 +503,7 @@ along with a large retinue,
 
 The Victor, like autumnal son,  
 surrounded by garlands of rays,  
-without constraints, that *Dhamma-*cloud  
+without constraints, that *Dhamma*-cloud  
 rained forth like the king of the gods. (98) \[324\]
 
 Seeing \[him\], being pleased at heart,  
@@ -616,7 +628,8 @@ the Sage, and his retinue then,
 having descended from the sky,  
 having worshipped the Seventh Sage,  
 permitted by the Chief of Men,  
-they sat down in that place \[again\]. (122-123) \[348-349\]  
+they sat down in that place \[again\]. (122-123) \[348-349\]
+
 “Hey, Hero, it was Gotamī  
 who showed pity to all of us.  
 Perfumed by your good karma,[^91] \[we\]  
@@ -784,7 +797,8 @@ announced, while choking on \[his\] words,[^102]
 who are residing in the North,  
 \[or\] in the east \[or\] south \[or\] west.  
 Let them \[all\] listen to my words,  
-monks who are the Well-Gone-One’s heirs. (156-157) \[382-383\]  
+monks who are the Well-Gone-One’s heirs. (156-157) \[382-383\]
+
 This Gotamī, who carefully  
 reared up the body of the Sage,  
 has gone to peace, \[no longer seen,\]  
@@ -897,7 +911,8 @@ gigantic timber-bearing tree,
 impermanent, breaks into bits,  
 however massive it may be,  
 so Gotamī, who was a nun,[^114]  
-has reached \[her\] final nirvana. (179-180) \[405-406\]  
+has reached \[her\] final nirvana. (179-180) \[405-406\]
+
 O! it is a marvelous thing!  
 My mother who’s reached nirvana,  
 leaving only relics behind[^115]  
@@ -943,14 +958,15 @@ graze in \[the field of\] mindfulness.
 With wisdom’s seven parts attained,  
 you all should end \[your\] suffering.[^120] (189) \[415\]
 
-Thus indeed Bhikkhunī Mahāpajāpatīgotamī spoke these verses.  
+Thus indeed Bhikkhunī Mahāpajāpatīgotamī spoke these verses.
+
 The legend of Mahāpajāpatīgotamī Therī is finished.
 
-[^1]: “Female Gotama,” “the Gotamid.” Her full name is given in the colophon as Mahāpajāpatī Gotamī, as she is addressed throughout the canon. She was a historical nun, the sister of the Buddha’s natural mother (Mahāmāyā*)* who took over upon the latter’s death, both as the Buddha’s childhood wet-nurse and (surrogate) mother (actually his maternal aunt, Sinh. *puñci ammā*), and as his father’s wife (hence step-mother). She was the founder and leader of the nuns, who convinced Ānanda to beg the Buddha for their order to be established.
+[^1]: “Female Gotama,” “the Gotamid.” Her full name is given in the colophon as Mahāpajāpatī Gotamī, as she is addressed throughout the canon. She was a historical nun, the sister of the Buddha’s natural mother (Mahāmāyā) who took over upon the latter’s death, both as the Buddha’s childhood wet-nurse and (surrogate) mother (actually his maternal aunt, Sinh. *puñci ammā*), and as his father’s wife (hence step-mother). She was the founder and leader of the nuns, who convinced Ānanda to beg the Buddha for their order to be established.
 
-[^2]: there are numerous possibilities for translation of this string of locatives, because “delightful” (*ramme*) can modify either “city” (*pure*) or “nuns’ refuge” (*bhikkhunupassaye*), and the texts disagree on “built” (*kate*), which is the BJTS reading. PTS reads *setapure* (“white city”), which I followed in my previously-published translation of this *apadāna.* There is great disagreement in the manuscripts about this term: PTS offers *petapūre* (“filled with hungry ghosts” ?) and *gate* (“\[to which she had\] gone”); BJTS alt. has *yeva* (“indeed”).
+[^2]: there are numerous possibilities for translation of this string of locatives, because “delightful” (*ramme*) can modify either “city” (*pure*) or “nuns’ refuge” (*bhikkhunupassaye*), and the texts disagree on “built” (*kate*), which is the BJTS reading. PTS reads *setapure* (“white city”), which I followed in my previously-published translation of this *apadāna*. There is great disagreement in the manuscripts about this term: PTS offers *petapūre* (“filled with hungry ghosts” ?) and *gate* (“\[to which she had\] gone”); BJTS alt. has *yeva* (“indeed”).
 
-[^3]: here the first two feet of the BJTS verse are affixed to the previous verse by PTS, causing shuffling in the subsequent verses as indicated in my numbering of them. I have followed BJTS in arranging the verses, which hinges in part on the translation of the third foot here, *bhikhhunīhi vimuttāhi.* PTS seems to take it as an instrumental, as did I in my previous translation, hence its inclusion in the previous verse makes grammatical sense: Gotamī dwells “with” the nuns, rather than (as this reading would have it), going off alone “with” them. I conversely take the terms as ablatives, she’s gone off alone *from* the nuns. BJTS gloss takes them as instrumentals as well. In either event, she lives *with* them but goes off *from* them; the meaning is really the same.
+[^3]: here the first two feet of the BJTS verse are affixed to the previous verse by PTS, causing shuffling in the subsequent verses as indicated in my numbering of them. I have followed BJTS in arranging the verses, which hinges in part on the translation of the third foot here, *bhikhhunīhi vimuttāhi*. PTS seems to take it as an instrumental, as did I in my previous translation, hence its inclusion in the previous verse makes grammatical sense: Gotamī dwells “with” the nuns, rather than (as this reading would have it), going off alone “with” them. I conversely take the terms as ablatives, she’s gone off alone *from* the nuns. BJTS gloss takes them as instrumentals as well. In either event, she lives *with* them but goes off *from* them; the meaning is really the same.
 
 [^4]: or, as my earlier translation has it, “cannot bear”. The term (*sakkomi*) carries such connotations in vernacular usage and this is how I originally understood the text. However, in keeping with BJTS gloss here, I remain more literal and leave it open to varied interpretations: rather than an emotional reason for letting go of life’s constituents (or additionally an expression of maternal sentiment) it might be a simple statement of fact, i.e., she realizes it’s time to do and that means she’ll die before the Buddha and great followers.
 
@@ -962,7 +978,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^8]: lit., “and lamentations”
 
-[^9]: *sūyante,* BJTS (and PTS alt.) reads *sūyanti*
+[^9]: *sūyante*, BJTS (and PTS alt.) reads *sūyanti*
 
 [^10]: PTS and BJTS agree in presenting this as a six-footed verse.
 
@@ -972,19 +988,19 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^13]: reading *niggacchi bhikkhunīnilayā* with BJTS for PTS *niggañchi bhikkhunīlayanā*
 
-[^14]: *sugatorasā, “*the \[pl. fem.\] legitimate descendants of the Well-Gone-One,” that is, the goddesses living in the nuns’ residence
+[^14]: *sugatorasā*, “the \[pl. fem.\] legitimate descendants of the Well-Gone-One,” that is, the goddesses living in the nuns’ residence
 
 [^15]: lit., “rivers”
 
 [^16]: *upāsikā*. Grammatically, this could be plural (as I take it, following PTS plural verb *abravuŋ*) or singular (“a faithful laywoman”), which seems to be how BJTS takes it (reading the verb as singular, *abraviṃ*)
 
-[^17]: reading *vajantiṃ taṃ* with BJTS for PTS *vajantīnaŋ* (“them...\[their\] feet”)
+[^17]: reading *vajantiṃ taṃ* with BJTS for PTS *vajantīnaŋ* (“them…\[their\] feet”)
 
 [^18]: I follow BJTS Sinh gloss in now taking this as a vocative. BJTS (and PTS alt) reads *mahābhoge* for *mahābhāge*, but glosses *mahābhāgyavat uttamāvani*
 
-[^19]: or “pleased,” *pasīdassu*. BJTS Sinhala gloss *(apa kerehi*) *pahadinu,* “be satisfied \[or pleased\] (with us)”
+[^19]: or “pleased,” *pasīdassu*. BJTS Sinhala gloss *(apa kerehi*) *pahadinu*, “be satisfied \[or pleased\] (with us)”
 
-[^20]: lit., “suffering *\[dukkhaŋ\]* is understood by me”. The following feet of this verse follow the same grammatical pattern, summarizing her full attainment of the Four Noble Truths.
+[^20]: lit., “suffering \[*dukkhaŋ*\] is understood by me”. The following feet of this verse follow the same grammatical pattern, summarizing her full attainment of the Four Noble Truths.
 
 [^21]: PTS omits this classification, found in BJTS
 
@@ -992,7 +1008,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^23]: see *Therāpadāna* above, \#10.
 
-[^24]: see *Therāpadāna* above, \#13; 403 {406}; 542 {545}. lit., “...Nanda, etc.;” the point is not merely that these three monks remain, but that all the monks like them remain.
+[^24]: see *Therāpadāna* above, \#13; 403 {406}; 542 {545}. lit., “…Nanda, etc.;” the point is not merely that these three monks remain, but that all the monks like them remain.
 
 [^25]: see *Therāpadāna* above, \#16. As the Buddha’s son, by the logic of this text in particular, he was Gotamī’s grandson.
 
@@ -1008,7 +1024,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^31]: or “through”
 
-[^32]: *rūpakāyo..tava*
+[^32]: *rūpakāyo…tava*
 
 [^33]: or “of the Teaching”: *dhammakāya*
 
@@ -1022,11 +1038,11 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^38]: lit., “\[his\] maternal aunt”
 
-[^39]: *bālakkaŋ,* lit., “young sun,” “a pale sun.” BJTS Sinh. gloss *bālārka.* lit., “like a pale sun...”
+[^39]: *bālakkaŋ*, lit., “young sun,” “a pale sun.” BJTS Sinh. gloss *bālārka*. lit., “like a pale sun…”
 
 [^40]: lit., “from,” i.e., “emerging from” “coming out from behind”
 
-[^41]: *sañjhā-ghanā,* lit., “from an evening cloud”
+[^41]: *sañjhā-ghanā*, lit., “from an evening cloud”
 
 [^42]: *narādiccaŋ*
 
@@ -1034,7 +1050,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^44]: lit., “not”
 
-[^45]: *itthiyo nāma...sabbadosakarā matā*
+[^45]: *itthiyo nāma…sabbadosakarā matā*
 
 [^46]: *karuṇākara*
 
@@ -1048,7 +1064,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^51]: *narapuṅgava*
 
-[^52]: *raṇantaga,* lit., “O one gone to the end of the battle” or “he by whom the battle reaches its end”. BJTS reads *guṇandhara*, “O Virtue-Bearer”
+[^52]: *raṇantaga*, lit., “O one gone to the end of the battle” or “he by whom the battle reaches its end”. BJTS reads *guṇandhara*, “O Virtue-Bearer”
 
 [^53]: lit., “doing *pūjā* to”
 
@@ -1060,7 +1076,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^57]: lit., “she said this:”
 
-[^58]: *nibbiṇṇā*. BJTS (*nibbinnā*) and PTS alts. (*nibbandā, nibbindā*) are all forms of the same verb, *nibbindati*), to be wearied of, which regularly (as here) takes the locative.
+[^58]: *nibbiṇṇā*. BJTS (*nibbinnā*) and PTS alts. (*nibbandā*, *nibbindā*) are all forms of the same verb, *nibbindati*), to be wearied of, which regularly (as here) takes the locative.
 
 [^59]: reading *dukkhasaṅghāta* with BJTS for the metrically-questionable but evocative PTS *dukkhapaṅke* (“\[smeared with\] the mud of dis-ease”) and BJTS alt. *dukkhasaṅghāṭe* (which in addition to “mass” or “heap” \[*saṅghāta*\]) means “tangle” or “web”). “Dis-ease” translates *dukkha*, often “suffering,” following out one of the term’s literal meanings (physical illness) as well as its connotation of psychological unrest and in keeping with the other descriptions of the aged body in this verse. My earlier translation, following PTS, gives “suffering’s slime”
 
@@ -1068,13 +1084,13 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^61]: *nirīhake*, in juxtaposition with the previous adjective *parāyatte*, lit., “activity of others,” hence “dependent on others”
 
-[^62]: *nidhanaŋ,* lit., “without wealth \[of karma\],” or more literally, “possessionless”
+[^62]: *nidhanaŋ*, lit., “without wealth \[of karma\],” or more literally, “possessionless”
 
-[^63]: BJTS divides up the adverb taken as “similing” (*hāsantiŋ*) as *hā santiṃ,* “Alas! peacefully...” or “Alas! to peace...”
+[^63]: BJTS divides up the adverb taken as “similing” (*hāsantiŋ*) as *hā santiṃ*, “Alas! peacefully...” or “Alas! to peace…”
 
 [^64]: lit., “O deep one, O ocean of wisdom”
 
-[^65]: reading *nibbānaṃ samupāgataṃ* with BJTS for PTS *nibbānattaŋ* (“nirvana-ness”) and PTS alt (and BJTS alt.) *nibbānantaŋ,* “the goal of nirvana,” which I followed in my earlier translation.
+[^65]: reading *nibbānaṃ samupāgataṃ* with BJTS for PTS *nibbānattaŋ* (“nirvana-ness”) and PTS alt (and BJTS alt.) *nibbānantaŋ*, “the goal of nirvana,” which I followed in my earlier translation.
 
 [^66]: *porāṇehi*, or (as in my earlier translation) “elders”
 
@@ -1090,13 +1106,13 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^72]: or “went”
 
-[^73]: *tavasāsanakārikā,* “a doer of your dispensation” “one who has performed your teachings”
+[^73]: *tavasāsanakārikā*, “a doer of your dispensation” “one who has performed your teachings”
 
 [^74]: or “your”?
 
 [^75]: lit., “from the surface of”
 
-[^76]: *sā...‘haŋ*
+[^76]: *sā…‘haŋ*
 
 [^77]: lit “make” “do”
 
@@ -1106,7 +1122,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^80]: BJTS reads *katvā pañcasatakuṭī* (“having made \[them\] five hundred huts” for PTS *pūgā bhavitvā sabbāyo*
 
-[^81]: BJTS reads *pasannāmha sasāmikā,* “we were pleased with our husbands”
+[^81]: BJTS reads *pasannāmha sasāmikā*, “we were pleased with our husbands”
 
 [^82]: “Jet Black”
 
@@ -1150,7 +1166,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^102]: lit., “with a gurgling sound”
 
-[^103]: accepting PTS reading *gatāsayaŋ.* BJTS (and PTS alt.) reads *gatāsamaṃ*, “gone to the incomparable \[state?\]”
+[^103]: accepting PTS reading *gatāsayaŋ*. BJTS (and PTS alt.) reads *gatāsamaṃ*, “gone to the incomparable \[state?\]”
 
 [^104]: lit., “well-Gone-One’s heir”
 
@@ -1168,9 +1184,9 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^111]: lit., “the remaining portions, the remaining bones.” I formerly translated “only her bones remained,” but now believe that was incorrect; the fleshy parts (etc.) as well as the bones were thoroughly burned; the “relics” referred to below would be tiny gem-like fragments remaining in the crematory ash, not bones as such.
 
-[^112]: *saŋvegajanakaŋ vaco,* lit., “emotion-producing word.” *Saṃvega* is a profoundly emotional insight into the nature of reality, often the spur to religious action, to be juxtaposed with *ubbega,* ordinary emotional responses to death, ordinary grief, sorrow, etc.
+[^112]: *saŋvegajanakaŋ vaco*, lit., “emotion-producing word.” *Saṃvega* is a profoundly emotional insight into the nature of reality, often the spur to religious action, to be juxtaposed with *ubbega*, ordinary emotional responses to death, ordinary grief, sorrow, etc.
 
-[^113]: *nidhanaŋ,* lit., “without wealth \[of karma\],” or more literally, “possessionless”
+[^113]: *nidhanaŋ*, lit., “without wealth \[of karma\],” or more literally, “possessionless”
 
 [^114]: lit., “of the nuns’ Assembly:” *bhikkhunisaṅghassa*
 
@@ -1182,6 +1198,6 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^118]: lit., “\[her\] state of rebirth (*gati*) is not known”. The metaphor is that Gotamī, like the flame that used to be in the iron rod on the forge, has disappeared without a trace, “cooled off”.
 
-[^119]: *acalaŋ sukhaŋ.* BJTS reads, more consistently with *Apadāna* as a whole, *acalaŋ padaŋ* (“unshaking state”)
+[^119]: *acalaŋ sukhaŋ*. BJTS reads, more consistently with *Apadāna* as a whole, *acalaŋ padaŋ* (“unshaking state”)
 
 [^120]: or “make an end of dis-ease:” *dukkhass’ antaŋ karissathā ti*.

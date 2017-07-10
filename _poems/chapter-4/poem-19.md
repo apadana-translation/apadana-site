@@ -1,4 +1,12 @@
-*\[19. Uppalavaṇṇā*[^1]*\]*  
+---
+title: Uppalavaṇṇā
+order: 19
+layout: poem
+category: chapter-4
+---
+
+### \[19. Uppalavaṇṇā[^1]\]
+
 The nun \[named\] Uppalavaṇṇā,  
 master of the superpowers,  
 having worshipped the Teacher’s feet,  
@@ -135,7 +143,8 @@ a pavilion made out of gems,
 a palanquin made out of gems,  
 things to enjoy made out of gems,  
 strewn with sand that was \[mixed with\] gems,  
-adorned with flags \[covered in\] gems. (26-27) \[537-538\]  
+adorned with flags \[covered in\] gems. (26-27) \[537-538\]
+
 The World’s Leader, surrounded by  
 the multitude, which is fourfold,  
 sat down on an excellent seat  
@@ -158,7 +167,8 @@ and \[my\] mind which was fixed \[on him,\]
 the one whose name was Best Lotus,  
 Greatly Famed All-Knower[^35] in bloom,  
 \[that\] Great Hero, at that moment,  
-showed a nun with superpowers. (31-32) \[542-543\]  
+showed a nun with superpowers. (31-32) \[542-543\]
+
 That Buddhist nun, very skillful,  
 displayed diverse superpowers.  
 Thrilling with delight, \[and\] awe-struck,  
@@ -241,7 +251,8 @@ doing \[our\] practice with vigor
 in virginal celibacy,  
 for twenty times a thousand years,  
 fond of waiting on the Buddha,  
-\[the king’s\] seven joyful daughters. (48-49) \[559-560\]  
+\[the king’s\] seven joyful daughters. (48-49) \[559-560\]
+
 Samaṇī, and Samaṇaguttā,[^50]  
 Bhikkhunī, Bhikkhadāyikā,  
 Dhammā, and also Sudhammā,  
@@ -304,7 +315,8 @@ having seen eight Lonely-Leaders
 going to the village for alms,  
 I remembered \[my former\] sons.  
 Then a stream of milk spurted out  
-from me out of love for \[my\] sons. (61-62) \[572-573\]  
+from me out of love for \[my\] sons. (61-62) \[572-573\]
+
 And then I gave rice gruel to them,  
 \[feeling\] well-pleased by \[my\] own hands.  
 Fallen from there I was reborn  
@@ -322,7 +334,8 @@ I’m born in Śrāvasti city,
 in a wealthy millionaire’s clan,  
 comfortable, decorated,[^72]  
 glistening with various gems,  
-endowed with every sense-pleasure. (65-66) \[576-577\]  
+endowed with every sense-pleasure. (65-66) \[576-577\]
+
 I was respected and worshipped,[^73]  
 revered, likewise \[also\] esteemed.  
 I achieved radiant beauty,  
@@ -346,7 +359,8 @@ Buddha, World’s Lord, Resplendent One.” (70) \[581\]
 “O nun, having approached a tree in full bloom,  
 you remain alone, at \[that\] *sāla* tree’s roots.  
 You have no second in natural beauty.  
-Foolish one, aren’t you afraid of wanton men?” (71) \[582\][^75]  
+Foolish one, aren’t you afraid of wanton men?” (71) \[582\][^75]
+
 “Even if a hundred thousand wanton men  
 come to this place, should behave in such a way,  
 I would not be terrified, not a hair raised:  
@@ -407,7 +421,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (83) \[594\]
 
-Thus indeed Bhikkhunī Uppalavaṇṇā spoke these verses.  
+Thus indeed Bhikkhunī Uppalavaṇṇā spoke these verses.
+
 The legend of Uppalavaṇṇā Therī is finished.
 
 [^1]: “Blue Lotus-Colored,” a historical nun, one of the two chief female followers and designated foremost among those nuns who possess the superpowers. See DPPN I: 418-421.
@@ -422,7 +437,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^6]: this is the Buddha speaking, in response to Uppalavaṇṇā’s request to be forgiven any mistakes
 
-[^7]: *catasso parisā*, I assume the monks, nuns, laymen and laywomen, but it could also be *catasso...kaṅkhā,* fourfold doubt
+[^7]: *catasso parisā*, I assume the monks, nuns, laymen and laywomen, but it could also be *catasso…kaṅkhā*, fourfold doubt
 
 [^8]: *paññāvanta*
 
@@ -432,19 +447,19 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^11]: the Buddha’s biological son
 
-[^12]: *akasmiŋ sambhave,* lit., “in a single coming-to-be-with,” “in a single origin” “in a single production”. Rāhula and Uppalavaṇṇā were born in this present moment together to be (literal and figurative) son and (only figurative) daughter of the Buddha, that is brother and sister (only figuratively), having however experienced many previous lifetimes together -- sometimes as literal brother and sister, or mother and son -- in the *Jātaka* stories. For a mention of some of these, see DPPN I: 421. Because (as in the present birth) these “same origins” are not *always* familial/genealogical/literal, I have preserved the ambiguity of the Pāli (“being together”) in the translation, so the same word can be translated correspondingly in v. 519, below.
+[^12]: *akasmiŋ sambhave*, lit., “in a single coming-to-be-with,” “in a single origin” “in a single production”. Rāhula and Uppalavaṇṇā were born in this present moment together to be (literal and figurative) son and (only figurative) daughter of the Buddha, that is brother and sister (only figuratively), having however experienced many previous lifetimes together -- sometimes as literal brother and sister, or mother and son -- in the *Jātaka* stories. For a mention of some of these, see DPPN I: 421. Because (as in the present birth) these “same origins” are not *always* familial/genealogical/literal, I have preserved the ambiguity of the Pāli (“being together”) in the translation, so the same word can be translated correspondingly in v. 519, below.
 
-[^13]: reading *nānāsambhavā* with BJTS (and PTS alt.) for PTS *nāmasambhavā,* (“Conditions in name” -- to be read as “only figuratively” \[??\])
+[^13]: reading *nānāsambhavā* with BJTS (and PTS alt.) for PTS *nāmasambhavā*, (“Conditions in name” -- to be read as “only figuratively” \[??\])
 
 [^14]: *vejjo komārako*, “a juvenile doctor” or perhaps “a young/inexperienced doctor”? Or a pediatrician, i.e., “a doctor connected with juveniles”? It depends on/shapes the interpretation of this anyway ambiguous (to me) verse.
 
-[^15]: *telaŋ vatthigataŋ c’eva,* i.e., administering an enema? Or *vatthigataŋ* as a second thing being handled (carefully, gingerly), not only oil but also that “gone to \[or from?\] the bladder”?
+[^15]: *telaŋ vatthigataŋ c’eva*, i.e., administering an enema? Or *vatthigataŋ* as a second thing being handled (carefully, gingerly), not only oil but also that “gone to \[or from?\] the bladder”?
 
 [^16]: reading *luñci komārako yuvā* with BJTS for PTS *luñciko mārako yuvā* (“plucky devilish youth”?)
 
 [^17]: or is *cittapunna* the *name* of a flower, i.e., “picks a *cittapunna* flower”
 
-[^18]: *cakkavālasamaŋ,* lit., “the same as the ring of cosmic mountains surrounding the universe”
+[^18]: *cakkavālasamaŋ*, lit., “the same as the ring of cosmic mountains surrounding the universe”
 
 [^19]: lit., “doing” “making”
 
@@ -458,27 +473,27 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^24]: or “wholesome”: *kusalaŋ*
 
-[^25]: *vajjetvā.* Reading BJTS *parivajjentī* (also “avoiding” “abstaining from” “renouncing”) for PTS *paripācento* (“developing”) in the subsequent foot (note both recensions differently present it as a nine-syllable foot), but anyway leaving it untranslated here, lit., “avoiding avoiding”
+[^25]: *vajjetvā*. Reading BJTS *parivajjentī* (also “avoiding” “abstaining from” “renouncing”) for PTS *paripācento* (“developing”) in the subsequent foot (note both recensions differently present it as a nine-syllable foot), but anyway leaving it untranslated here, lit., “avoiding avoiding”
 
-[^26]: reading *anācāraŋ* with BJTS for PTS *anāvaraŋ* (“not mean” = “noble things; PTS alt. *bahuŋ janaŋ,* “many people” \[!\])
+[^26]: reading *anācāraŋ* with BJTS for PTS *anāvaraŋ* (“not mean” = “noble things; PTS alt. *bahuŋ janaŋ*, “many people” \[!\])
 
-[^27]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta,* \#29 of *Dīghanikāya,* section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
+[^27]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta*, \#29 of *Dīghanikāya*, section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
 
 [^28]: or “one hundred billion”
 
-[^29]: this verse does not appear in PTS. BJTS reads: *tadātisaṃhitā sabbā sirasāva katañjalī/ avoc’ ayye kathaṃ āsi atul’iddhiparakkamā//*
+[^29]: this verse does not appear in PTS. BJTS reads: *tadātisaṃhitā sabbā sirasāva katañjalī*/*avoc’ ayye kathaṃ āsi atul’iddhiparakkamā*//
 
 [^30]: “Stainless”
 
 [^31]: “great snake,” *mahā* + *urago*
 
-[^32]: *jina°,* lit., “the Victor’s”
+[^32]: *jina°*, lit., “the Victor’s”
 
-[^33]: *mahātajaŋ,* or “the Hot One”
+[^33]: *mahātajaŋ*, or “the Hot One”
 
-[^34]: reading *paṭiyādesi* with BJTS (and PTS alt.) for PTS *paṭipādesi,* to impart, to offer, to present
+[^34]: reading *paṭiyādesi* with BJTS (and PTS alt.) for PTS *paṭipādesi*, to impart, to offer, to present
 
-[^35]: reading *sabbaññuṃ* with BJTS for PTS *sabbañ ca* (“all...and”)
+[^35]: reading *sabbaññuṃ* with BJTS for PTS *sabbañ ca* (“all…and”)
 
 [^36]: reading *sumanāy’ itarāyapi* with BJTS (and PTS alt.) for PTS *sumitaŋ itarāya pi* (“well-measured by the other to” ?), and following BJTS Sinhala gloss
 
@@ -488,7 +503,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^39]: lit., “and”
 
-[^40]: reading *suvisāradā* with BJTS for PTS *ca visāradā,* as above
+[^40]: reading *suvisāradā* with BJTS for PTS *ca visāradā*, as above
 
 [^41]: reading *annapānena* with BJTS for PTS *mahājanena* (“with the great multitude”)
 
@@ -506,7 +521,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^48]: ”Guarded Nun” “Protected Female Renouncer”
 
-[^49]: *sukhe ṭhitā,* lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
+[^49]: *sukhe ṭhitā*, lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
 
 [^50]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*ca*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
 
@@ -516,17 +531,17 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^53]: here the text (in both PTS and BJTS editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be better here.
 
-[^54]: *pīta-maṭṭha-varaŋ dussaŋ,* BJTS (and PTS alt.) read *pītamaṭṭhaṃ varaṃ dussaṃ*
+[^54]: *pīta-maṭṭha-varaŋ dussaŋ*, BJTS (and PTS alt.) read *pītamaṭṭhaṃ varaṃ dussaṃ*
 
 [^55]: in a brahmin clan
 
-[^56]: *manohara,* lit., “carrying the mind away”
+[^56]: *manohara*, lit., “carrying the mind away”
 
 [^57]: “Maddening” “Intoxicating”
 
-[^58]: *aññatare,* or “a certain”
+[^58]: *aññatare*, or “a certain”
 
-[^59]: *janapade,* lit., “in the country”
+[^59]: *janapade*, lit., “in the country”
 
 [^60]: *lāja*
 
@@ -536,17 +551,17 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^63]: lit., “offered *pūjā*”
 
-[^64]: *yobbanaŋ pattā,* lit., “attained youth,” “went through puberty”
+[^64]: *yobbanaŋ pattā*, lit., “attained youth,” “went through puberty”
 
 [^65]: lit., “they were”
 
-[^66]: *paccekanāyakā,* i.e., Paccekabuddhas, Lonely Buddhas
+[^66]: *paccekanāyakā*, i.e., Paccekabuddhas, Lonely Buddhas
 
-[^67]: *sutavīrehi.* BJTS reads *sutavarehi* (“excellent sons”)
+[^67]: *sutavīrehi*. BJTS reads *sutavarehi* (“excellent sons”)
 
 [^68]: one of the five mountains surrounding Rajagaha (a.k.a. Giribajjapura, now Rajgir in Bihar, India), famous as the long-time home of five hundred Lonely Buddhas
 
-[^69]: *su-tānaka-sakaŋ.* BJTS reads
+[^69]: *su-tānaka-sakaŋ*. BJTS reads
 
 [^70]: *yāguŋ*
 
@@ -560,13 +575,13 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^75]: this and the next verse are presented with feet of eleven syllables each in both PTS and BJTS and I translate accordingly. The present verse has 12 syllables in the first foot, which I take as a mistake (read *pupphitaggaṃ* for *supupphitaggaŋ* ?).
 
-[^76]: *cittasmiŋ vasibhūtasmiŋ,* lit., “when i became master of (or “over”) \[my own\] mind”
+[^76]: *cittasmiŋ vasibhūtasmiŋ*, lit., “when i became master of (or “over”) \[my own\] mind”
 
-[^77]: *subhāvitā,* lit., “\[by me\] well-developed” or “well-cultivated” “well-meditated”
+[^77]: *subhāvitā*, lit., “\[by me\] well-developed” or “well-cultivated” “well-meditated”
 
 [^78]: *sattisūlūpamā kāmā*, lit., “swords \[and\] daggers are like (or “are similes for”) sense pleasures”
 
-[^79]: *khandhā pi adhikuṭṭanā,* lit., “even the aggregates (or dimensions \[of personal existence: name and form, sensation, perception, configuration and consciousness\])
+[^79]: *khandhā pi adhikuṭṭanā*, lit., “even the aggregates (or dimensions \[of personal existence: name and form, sensation, perception, configuration and consciousness\])
 
 [^80]: lit., “is now disliked by me”
 
@@ -576,6 +591,6 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^83]: or assemblies (even four parts of the Assembly), multitudes, retinues
 
-[^84]: *seṭṭhaŋ,* etymologically related to her designation “millionaire;” BJTS, more typical of the whole work, reads *aggaṃ*, “\[she is\] foremost”
+[^84]: *seṭṭhaŋ*, etymologically related to her designation “millionaire;” BJTS, more typical of the whole work, reads *aggaṃ*, “\[she is\] foremost”
 
-[^85]: *°matīnaŋ,* lit., “of those (females) endowed”
+[^85]: *°matīnaŋ*, lit., “of those (females) endowed”

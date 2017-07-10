@@ -1,4 +1,12 @@
-*\[37. Aḍḍhakāsikā*[^1]*\]*  
+---
+title: Aḍḍhakāsikā
+order: 37
+layout: poem
+category: chapter-4
+---
+
+### \[37. Aḍḍhakāsikā[^1]\]
+
 In this \[present\] lucky aeon,  
 Brahma’s Kinsman, Greatly Famed One,  
 \[the Buddha\] known as Kassapa[^2]  
@@ -16,7 +24,8 @@ dwelling fixed on practice. One time
 I slandered an undefiled[^6] nun  
 \[by saying,\] “\[She’s\] a prostitute.”  
 Because of that evil karma,  
-I roasted in a \[fearful\] hell. (3-4) \[1273-1274\]  
+I roasted in a \[fearful\] hell. (3-4) \[1273-1274\]
+
 Due to the rest of that karma,  
 I was born in a clan of whores,  
 repeatedly committing sins;  
@@ -77,16 +86,17 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (16) \[1286\]
 
-Thus indeed the bhikkhunī Aḍḍhakāsikā spoke these verses.  
+Thus indeed the bhikkhunī Aḍḍhakāsikā spoke these verses.
+
 The legend of Aḍḍhakāsikā Therī[^17] is finished
 
 [^1]: “Half a Benares Thousand \[Whore\],” “She \[Whose Daytime Price\] is Half a Benares Thousand,” as historical nun, remembered as the precedent for the giving of ordination by messenger. See DPPN I:50. Here the ordination is specifically called *upasampadā*, “higher ordination”
 
 [^2]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
 
-[^3]: *patimokkhamhi,* lit “in \[read “through”?\] the fortnightly recitation/227 rules
+[^3]: *patimokkhamhi*, lit “in \[read “through”?\] the fortnightly recitation/227 rules
 
-[^4]: reading *mataññutnī* (lit., “one who knows the limit”) *ca asane* (“in eating”)*,* with BJTS for PTS *mataññū nīca-āsane* (”moderate on a high seat” ?)
+[^4]: reading *mataññutnī* (lit., “one who knows the limit”) *ca asane* (“in eating”), with BJTS for PTS *mataññū nīca-āsane* (”moderate on a high seat” ?)
 
 [^5]: reading *jāgariye pi* with BJTS for PTS *jāgariyesu*
 
@@ -100,13 +110,13 @@ The legend of Aḍḍhakāsikā Therī[^17] is finished
 
 [^10]: lit., “as the fruit of” “as the result of”
 
-[^11]: *tadā...°atthāya,* lit., “then...for the sake of”
+[^11]: *tadā…°atthāya*, lit., “then…for the sake of”
 
-[^12]: PTS reads *tadā ‘pasampadatthāya,* with incorrect *sandhi*; BJTS reads, correctly, *tatopasampadatthāya,* cf. PTS alt. (also correct) *tad’ upa°*
+[^12]: PTS reads *tadā ‘pasampadatthāya*, with incorrect *sandhi*; BJTS reads, correctly, *tatopasampadatthāya*, cf. PTS alt. (also correct) *tad’ upa°*
 
 [^13]: reading *sutvā* with BJTS for PTS *disvā* (“seeing”). Neither edition indicates variance in its reading of the verb.
 
-[^14]: *ṭhite,* lit., “were standing on” “remained on”
+[^14]: *ṭhite*, lit., “were standing on” “remained on”
 
 [^15]: lit., “a messenger \[gave me\] ordination”
 

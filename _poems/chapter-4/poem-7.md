@@ -1,4 +1,12 @@
-*\[7. Kaṭacchubhikkhadāyikā*[^1]*\]*  
+---
+title: Kaṭacchubhikkhadāyikā
+order: 7
+layout: poem
+category: chapter-4
+---
+
+### \[7. Kaṭacchubhikkhadāyikā[^1]\]
+
 Taking a spoonful of begged food,  
 I gave it to the Best Buddha,  
 the Teacher, whose name was Tissa,  
@@ -54,7 +62,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (11) \[70\]
 
-Thus indeed Bhikkhunī Kaṭacchubhikkhadāyikā spoke these verses.  
+Thus indeed Bhikkhunī Kaṭacchubhikkhadāyikā spoke these verses.
+
 The legend of Kaṭacchubhikkhadāyikā Therī is finished.
 
 [^1]: “Spoonful of Begged-for-Food Donor”
@@ -63,4 +72,4 @@ The legend of Kaṭacchubhikkhadāyikā Therī is finished.
 
 [^3]: lit., “having nothing”.
 
-[^4]: lit., “sacrificial attainment,” *yāgasampadā.*
+[^4]: lit., “sacrificial attainment,” *yāgasampadā*.

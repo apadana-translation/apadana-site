@@ -1,4 +1,12 @@
-*\[4. Saṅkamanattā*[^1]*\]*  
+---
+title: Saṅkamanattā
+order: 4
+layout: poem
+category: chapter-4
+---
+
+### \[4. Saṅkamanattā[^1]\]
+
 When Koṇḍañña, the Blessed One,  
 the World’s Best One, the Neutral One,  
 was traveling along the road,  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[36\]
 
-Thus indeed Bhikkhunī Saṅkamanattā spoke these verses.  
+Thus indeed Bhikkhunī Saṅkamanattā spoke these verses.
+
 The legend of Saṅkamanattā Therī is finished.
 
 [^1]: “Cross-Over-er”.

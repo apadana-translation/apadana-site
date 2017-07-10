@@ -1,4 +1,12 @@
-*\[35. Sukkā*[^1]*\]*  
+---
+title: Sukkā
+order: 35
+layout: poem
+category: chapter-4
+---
+
+### \[35. Sukkā[^1]\]
+
 Ninety-one aeons ago the  
 Leader, whose name was Vipassi,  
 arose, the One Good to Look At,[^2]  
@@ -14,7 +22,7 @@ good preacher, varied discourser,
 I was a \[nun\] who practiced the  
 dispensation of the Buddha. (3) \[1216\]
 
-Then giving many *Dhamma-*talks  
+Then giving many *Dhamma*-talks  
 with friendship to the populace,  
 fallen from there I was reborn,  
 full of splendor, in Tusitā. (4) \[1217\]
@@ -34,7 +42,7 @@ arose thirty-one aeons hence.
 And then as well I was the same:[^5]  
 \[a Buddhist nun\] with vast knowledge. (7) \[1220\]
 
-Gone forth, a *Dhamma-*bearer, I  
+Gone forth, a *Dhamma*-bearer, I  
 made Buddha’s[^6] dispensation shine.  
 Gone to the lovely gods’ city,  
 I experienced great comfort. (8) \[1221\]
@@ -56,7 +64,7 @@ Ultimate among all beings. (11) \[1224\]
 
 At that time too, going forth in  
 the Neutral One’s dispensation,  
-learned bearer of *Dhamma,* I  
+learned bearer of *Dhamma*, I  
 made Buddha’s[^11] dispensation shine. (12) \[1225\]
 
 Also in this \[lucky\] aeon  
@@ -92,7 +100,8 @@ was praised by the thousand-eyed \[god:\][^21] (18) \[1231\]
 “The Restrained One,[^22] with former ascetics[^23] restrained;  
 the Liberated One,[^24] with those liberated;  
 \[who had\] the same color as a coin[^25] made of gold,  
-the Blessed One entered Rajagaha city.” (19) \[1232\][^26]  
+the Blessed One entered Rajagaha city.” (19) \[1232\][^26]
+
 Seeing the Buddha’s majesty,  
 and hearing him, Heap of Virtues,[^27]  
 pleasing my heart in the Buddha,  
@@ -158,14 +167,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (32) \[1245\]
 
-Thus indeed the bhikkhunī Sukkā spoke these verses.  
+Thus indeed the bhikkhunī Sukkā spoke these verses.
+
 The legend of Sukkā Therī[^35] is finished
 
 [^1]: “White” “Bright” Good,” an historical nun, DPPN II: 1173-1174
 
 [^2]: *carunayano*
 
-[^3]: *sikhī,* a play on the meaning of the Buddha’s name. It can also mean “peacock.” Here *sikhī viya,* lit., “like a heap of fire”.
+[^3]: *sikhī*, a play on the meaning of the Buddha’s name. It can also mean “peacock.” Here *sikhī viya*, lit., “like a heap of fire”.
 
 [^4]: reading *loke* (loc.) with BJTS (and PTS alt.) for PTS *lokaŋ* (acc.)
 
@@ -175,7 +185,7 @@ The legend of Sukkā Therī[^35] is finished
 
 [^7]: *jinuttamo*
 
-[^8]: *varasaddūlo.* BJTS reads *narasaddūlo*, which is also the reading in *Therī-apadāna* \[814\] above; PTS alt. gives *narasaraṇo* (“Refuge for Men”). Cf. the note to *Thera-apadāna* \[6131\] on this rather uncharacteristically loose, and rare but repeated, *Apadāna* Buddha*-*epithet (or epithets). Does the variation suggest a lack of meaning in the epithet itself (in *Apadāna* the leopard \[as *dīpi*\] usually appears as part of a list of wild animals, not \[unlike say the lion, elephant, swan, bull\] as part of a Buddha-epithet)
+[^8]: *varasaddūlo*. BJTS reads *narasaddūlo*, which is also the reading in *Therī-apadāna* \[814\] above; PTS alt. gives *narasaraṇo* (“Refuge for Men”). Cf. the note to *Thera-apadāna* \[6131\] on this rather uncharacteristically loose, and rare but repeated, *Apadāna* Buddha**-epithet (or epithets). Does the variation suggest a lack of meaning in the epithet itself (in *Apadāna* the leopard \[as *dīpi*\] usually appears as part of a list of wild animals, not \[unlike say the lion, elephant, swan, bull\] as part of a Buddha-epithet)
 
 [^9]: reading *yathāyukaṃ* with BJTS for PTS *yathāsukhaŋ* (“as much as comfortable” or perhaps “as I pleased”)
 
@@ -185,11 +195,11 @@ The legend of Sukkā Therī[^35] is finished
 
 [^12]: *lokasaraṇo*
 
-[^13]: *araṇo,* lit., “having no battle,” “not adversarial,” rhymed in the epithets *lokasaraṇo* and *maraṇantago* that also appear in this verse
+[^13]: *araṇo*, lit., “having no battle,” “not adversarial,” rhymed in the epithets *lokasaraṇo* and *maraṇantago* that also appear in this verse
 
-[^14]: *maraṇantago,* lit., “gone to the end of death”
+[^14]: *maraṇantago*, lit., “gone to the end of death”
 
-[^15]: *naravīra,* or “Heroic Man” “Having the Virility of a Man” (“Masculine One”)
+[^15]: *naravīra*, or “Heroic Man” “Having the Virility of a Man” (“Masculine One”)
 
 [^16]: *tisso sikkhā*, i.e., training in morality (*sīla*), wisdom *(paññā)* and meditative states *(samādhi*)
 
@@ -203,17 +213,17 @@ The legend of Sukkā Therī[^35] is finished
 
 [^21]: *sahassakkhena*, i.e., Śakra/Indra, king of the gods
 
-[^22]: *danto,* or “Tamed”
+[^22]: *danto*, or “Tamed”
 
 [^23]: *purāṇajaṭilehi*, lit., “former matted-haired \[ascetics\]”
 
 [^24]: *vimutto*
 
-[^25]: *Siṅgī-nikkha-savaṇṇo,* lit., “having the same color as a golden/”ginger” coin;” *nikkha* can also be an ornament, or a weight, The thrust, anyway, is that the Buddha was shiny like gold.
+[^25]: *Siṅgī-nikkha-savaṇṇo*, lit., “having the same color as a golden/”ginger” coin;” *nikkha* can also be an ornament, or a weight, The thrust, anyway, is that the Buddha was shiny like gold.
 
-[^26]: these lines (41 syllables in PTS, 40 syllables in BJTS \[which omits the *ca* after *purāṇajaṭilehi*\]) are presented by both PTS and BJTS as a single verse, though they break the two-footed lines differently and I am at a loss for how to understand the “verse” metrically. A quote from some prose text? A verse in more complex meter, garbled in transmission? I have translated into the closest approximation of the latter possibility in *Apadāna,* namely a 12-12-12-12 verse (which would suggest the possible loss of seven syllables \[in the case of PTS’ reading\] or eight syllables \[in the case of BJTS’s reading\] sometime comparatively early in the transmission process (since it affects all the extant mss.) In addition to conforming to a verse-form occasionally encountered elsewhere in *Apadāna*, this implicit 12-12-12-12 structure works very nicely for the basic units that then make up the four discrete feet.
+[^26]: these lines (41 syllables in PTS, 40 syllables in BJTS \[which omits the *ca* after *purāṇajaṭilehi*\]) are presented by both PTS and BJTS as a single verse, though they break the two-footed lines differently and I am at a loss for how to understand the “verse” metrically. A quote from some prose text? A verse in more complex meter, garbled in transmission? I have translated into the closest approximation of the latter possibility in *Apadāna*, namely a 12-12-12-12 verse (which would suggest the possible loss of seven syllables \[in the case of PTS’ reading\] or eight syllables \[in the case of BJTS’s reading\] sometime comparatively early in the transmission process (since it affects all the extant mss.) In addition to conforming to a verse-form occasionally encountered elsewhere in *Apadāna*, this implicit 12-12-12-12 structure works very nicely for the basic units that then make up the four discrete feet.
 
-[^27]: *taŋ...guṇasañcayaŋ*
+[^27]: *taŋ…guṇasañcayaŋ*
 
 [^28]: lit., “did *pūjā*”
 
@@ -223,9 +233,9 @@ The legend of Sukkā Therī[^35] is finished
 
 [^31]: *yakkho*
 
-[^32]: *ye...na,* lit., “those who have not”
+[^32]: *ye…na*, lit., “those who have not”
 
-[^33]: PTS *payirupāsanti* breaks the meter; BJTS *upāsanti* does not. The two are essentially the same verb, the former with an additional *pari&lt;payir *
+[^33]: PTS *payirupāsanti* breaks the meter; BJTS *upāsanti* does not. The two are essentially the same verb, the former with an additional *pari&lt;payir*
 
 [^34]: reading *mahāmune* (voc.) with BJTS for PTS *mahāmuni* (nom.)
 

@@ -1,4 +1,12 @@
-*\[3. Maṇḍapadāyikā*[^1]*\]*  
+---
+title: Maṇḍapadāyikā
+order: 3
+layout: poem
+category: chapter-4
+---
+
+### \[3. Maṇḍapadāyikā[^1]\]
+
 A pavilion was built by me  
 for Buddha Koṇāgamana,  
 and I gave robes unceasingly  
@@ -24,7 +32,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[30\]
 
-Thus indeed Bhikkhunī Maṇḍapadāyikā spoke these verses.  
+Thus indeed Bhikkhunī Maṇḍapadāyikā spoke these verses.
+
 The legend of Maṇḍapadāyikā Therī is finished.
 
 [^1]: “Raised-Platform-Donor”.

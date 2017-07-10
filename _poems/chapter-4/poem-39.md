@@ -1,4 +1,12 @@
-*\[39. Ambapālī*[^1]*\]*  
+---
+title: Ambapālī
+order: 39
+layout: poem
+category: chapter-4
+---
+
+### \[39. Ambapālī[^1]\]
+
 The Great Sage was Phussa \[Buddha,\]  
 \[like\] a garland of speckled rays.[^2]  
 I was \[that Buddha’s own\] sister,  
@@ -26,7 +34,8 @@ because of that evil karma,
 I went to a horrific hell,  
 full of terrible suffering.  
 Fallen from there, \[again\] reborn  
-human,[^5] I was an ascetic.[^6] (5-6) \[1311-1312\]  
+human,[^5] I was an ascetic.[^6] (5-6) \[1311-1312\]
+
 For ten thousand \[different\] lifetimes,  
 I was fixed in prostitution;  
 thus I was not freed from evil,  
@@ -77,12 +86,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (16) \[1322\]
 
-Thus indeed the bhikkhunī Ambapālī spoke these verses.  
+Thus indeed the bhikkhunī Ambapālī spoke these verses.
+
 The legend of the bhikkhunī Ambapālī is finished
 
 [^1]: “Mango-Guarded”, an historical nun, see DPPN I: 155-156
 
-[^2]: *raŋsiphusitāvelo,* playing on/explaining the name “Phussa” (= speckled, cf. *°phusita°*)
+[^2]: *raŋsiphusitāvelo*, playing on/explaining the name “Phussa” (= speckled, cf. *°phusita°*)
 
 [^3]: or “ago,” or “hence,” as elsewhere: *ito*
 
@@ -92,11 +102,11 @@ The legend of the bhikkhunī Ambapālī is finished
 
 [^6]: *tapassinī*, lit., “a female practitioner of austerities”
 
-[^7]: *bhuttā...yathā;* BJTS reads *bhutvā*
+[^7]: *bhuttā…yathā;* BJTS reads *bhutvā*
 
-[^8]: *kassape jinasāsane,* lit., “in the dispensation of the Victor, Kassapa \[Buddha\]”
+[^8]: *kassape jinasāsane*, lit., “in the dispensation of the Victor, Kassapa \[Buddha\]”
 
-[^9]: reading *°brahmacariyam* with BJTS for PTS *°brahmaceram,* lit., “the Brahma-life” “the holy life” “celibacy”
+[^9]: reading *°brahmacariyam* with BJTS for PTS *°brahmaceram*, lit., “the Brahma-life” “the holy life” “celibacy”
 
 [^10]: i.e., the thirty-three gods.
 
@@ -104,4 +114,4 @@ The legend of the bhikkhunī Ambapālī is finished
 
 [^12]: it. “I went forth in the Victor’s dispensation”
 
-[^13]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni,* Great Sage.
+[^13]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*, Great Sage.

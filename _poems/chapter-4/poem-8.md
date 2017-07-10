@@ -1,4 +1,12 @@
-*\[8. Sattuppalamālikāya*[^1]*\]*  
+---
+title: Sattuppalamālikāya
+order: 8
+layout: poem
+category: chapter-4
+---
+
+### \[8. Sattuppalamālikāya[^1]\]
+
 In Aruṇavatī City,  
 lived a king[^2] named Aruṇavā.  
 I was \[then\] the wife of that king,  
@@ -62,17 +70,17 @@ I’m one whose words are listened to.[^9] (12) \[82\]
 My color and exuded scent  
 are those of blue lotus flowers;  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (13) \[83\]
+that’s the fruit of Buddha-*pūjā*. (13) \[83\]
 
 Skillful in the superpowers,  
 fond of wisdom’s parts as focus,[^10]  
 special knowledges perfected:  
-that’s the fruit of Buddha-*pūjā.* (14) \[84\]
+that’s the fruit of Buddha-*pūjā*. (14) \[84\]
 
 Skilled in retaining mindfulness,[^11]  
 pastured in calm-meditation,  
 undertaking fit exertion:[^12]  
-that’s the fruit of Buddha-*pūjā.* (15) \[85\]
+that’s the fruit of Buddha-*pūjā*. (15) \[85\]
 
 My effort bearing the burden  
 brought me release from attachments;[^13]  
@@ -82,7 +90,7 @@ now there will be no more rebirth. (16) \[86\]
 In the thirty-one aeons since  
 I worshipped \[him with that\] flower,  
 I’ve come to know no bad rebirth;  
-that’s the fruit of Buddha-*pūjā.* (17) \[87\]
+that’s the fruit of Buddha-*pūjā*. (17) \[87\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -99,7 +107,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (20) \[90\]
 
-Thus indeed Bhikkhunī Sattuppalamālikāya spoke these verses.  
+Thus indeed Bhikkhunī Sattuppalamālikāya spoke these verses.
+
 The legend of Sattuppalamālikāya Therī[^14] is finished.
 
 [^1]: “Seven Blue Lotus Flower-er.”
@@ -108,13 +117,13 @@ The legend of Sattuppalamālikāya Therī[^14] is finished.
 
 [^3]: reading *cārikaṃ cārayām’ ahaṃ* (BJTS) for *na mālaŋ pādayām’ ahaŋ* (“I didn’t ? a garland,” PTS).
 
-[^4]: lit., “What then for me with these flowers...?”
+[^4]: lit., “What then for me with these flowers…?”
 
 [^5]: *kakudha* = kumbuk, cf. note to *Therāpadāna* v. \[1800\].
 
 [^6]: *vedajāto*
 
-[^7]: cf. above, n. to *Therī-apadāna* v. \[51\], on this obscure term*.*
+[^7]: cf. above, n. to *Therī-apadāna* v. \[51\], on this obscure term**.
 
 [^8]: lit., “as far as my”. Pronounce as two syllables when chanting, to keep the meter.
 

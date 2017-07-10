@@ -1,8 +1,17 @@
-*\[28. Yasodharā\]*  
+---
+title: Yasodharā
+order: 28
+layout: poem
+category: chapter-4
+---
+
+### \[28. Yasodharā\]
+
 At one time the Leader of Men  
 was staying in a mountain cave  
 in the city, Rajagaha,  
-\[which was\] lovely and prosperous. \[952\][^1]  
+\[which was\] lovely and prosperous. \[952\][^1]
+
 This is what was reasoned out \[then\]  
 by the nun \[named\] Yasodharā,  
 who was dwelling in that city,  
@@ -111,11 +120,13 @@ other than \[by\] the World’s Leader.” (14) \[973\]
 Speaking \[words\] beginning with these,  
 having risen into the sky,  
 Yasodharā displayed diverse  
-powers,[^15] with Buddha’s permission. \[974\][^16]  
+powers,[^15] with Buddha’s permission. \[974\][^16]
+
 Worshipping[^17] the Sambuddha, she  
 showed the Teacher superpowers.[^18]  
 She displayed great superpowers,  
-diverse, having various forms. (15)[^19]  
+diverse, having various forms. (15)[^19]
+
 Body big as the universe,[^20]  
 she \[made\] the continent[^21] up north  
 her head; eastern, western \[her\] wings;  
@@ -300,7 +311,8 @@ prophesied[^54] \[future Buddhahood\]
 The Great Sage \[named\] Dīpāṅkara  
 \[then\] prophesied that my karma  
 would for numberless aeons hence  
-be exalted, that Sage So Great: (52)[^55]  
+be exalted, that Sage So Great: (52)[^55]
+
 “She will be a like-minded \[wife\],  
 with karma and conduct like \[yours\];  
 through this karma she’ll be loving  
@@ -349,7 +361,8 @@ I have no fear from anything. (61) \[1019\]
 I was appointed to attend  
 on what the Blessed One had said  
 within the harem of the king  
-in the kṣatriyan city then. (62)[^60]  
+in the kṣatriyan city then. (62)[^60]
+
 \[I’m\] a woman who’s a servant,  
 and \[one\] who feels pleasure and pain,  
 a woman[^61] who declares the facts,  
@@ -357,75 +370,93 @@ a woman[^62] who’s compassionate. (63)
 Buddhas \[numbering\] five billion,  
 and \[another\] nine billion \[more\] --  
 I provided vast alms to \[them,\]  
-those \[Buddhas,\] Gods Over the Gods.[^63] (64)  
+those \[Buddhas,\] Gods Over the Gods.[^63] (64)
+
 Listen to my \[words,\] O great king:  
 I’m constantly doing service[^64]  
 to eleven billion \[others,\]  
-and fifty billion \[Buddhas more\]. (65)  
+and fifty billion \[Buddhas more\]. (65)
+
 I provided vast alms to \[them,\]  
 those \[Buddhas,\] Gods Over the Gods;  
 listen to my \[words\], O great king:  
-I’m constantly doing service. (66)  
+I’m constantly doing service. (66)
+
 Twenty billion \[other\] Buddhas  
 and \[another\] thirty billion –  
 I provided vast alms to \[them,\]  
-those \[Buddhas,\] Gods Over the Gods. (67)  
+those \[Buddhas,\] Gods Over the Gods. (67)
+
 Listen to my \[words,\] O great king:  
 I’m constantly doing service  
 to forty billion \[Buddhas more,\]  
-and \[another\] fifty billion. (68)  
+and \[another\] fifty billion. (68)
+
 I provided vast alms to \[them,\]  
 those \[Buddhas,\] Gods Over the Gods;  
 listen to my words, O great king:  
-I’m constantly doing service. (69)  
+I’m constantly doing service. (69)
+
 Sixty billion \[other\] Buddhas,  
 \[another\] seventy billion –  
 I provided vast alms to \[them,\]  
-those \[Buddhas,\] Gods Over the Gods. (70)  
+those \[Buddhas,\] Gods Over the Gods. (70)
+
 Listen to my \[words,\] O great king:  
 I’m constantly doing service  
 to eighty billion \[Buddhas more,\]  
-and \[another\] ninety billion. (71)  
+and \[another\] ninety billion. (71)
+
 I provided vast alms to \[them,\]  
 those \[Buddhas,\] Gods Over the Gods;  
 listen to my \[words,\] O great king:  
-I’m constantly doing service. (72)  
+I’m constantly doing service. (72)
+
 There have been a million million  
 who were Chief Leaders of the World;  
 I provided vast alms to \[them,\]  
-those \[Buddhas,\] Gods Over the Gods. (73)  
+those \[Buddhas,\] Gods Over the Gods. (73)
+
 Listen to my \[words,\] O great king:  
 I’m constantly doing service  
 to another ninety trillion  
-who were Leaders of the World \[too.\] (74)  
+who were Leaders of the World \[too.\] (74)
+
 I provided vast alms to \[them,\]  
 those \[Buddhas,\] Gods Over the Gods;  
 listen to my \[words,\] O great king:  
-I’m constantly doing service (75)  
+I’m constantly doing service (75)
+
 to Great Sages \[whose number was\]  
 eight hundred and fifty trillion,  
 and seven hundred eighty-five  
-billion \[additional Buddhas\]. (76)  
+billion \[additional Buddhas\]. (76)
+
 I provided vast alms to \[them,\]  
 those \[Buddhas,\] Gods Over the Gods;  
 listen to my \[words,\] O great king:  
-I’m constantly doing service. (77)  
+I’m constantly doing service. (77)
+
 Lonely Buddhas, passion removed,  
 six hundred and forty million;  
 listen to my \[words,\] O great king:  
-I’m constantly doing service. (78)  
+I’m constantly doing service. (78)
+
 Countless followers of Buddhas,  
 free of defilements, \[and\] stainless;  
 listen to my \[words,\] O great king:  
-I’m constantly doing service. (79)  
+I’m constantly doing service. (79)
+
 I always practice[^65] the Teaching[^66]  
 of those practiced in the teachings,[^67]  
 at ease practicing the Teaching,  
-in this world and in the other. (80)  
+in this world and in the other. (80)
+
 Well-practiced, the Teaching-practice;  
 that practice is not ill-practiced.  
 \[I’m\] at ease practicing Teaching,  
-in this world and in the other. (81)  
+in this world and in the other. (81)
+
 Disgusted with transmigration,  
 I went forth into homelessness,  
 surrounded by thousands \[of nuns,\]  
@@ -459,7 +490,8 @@ six special knowledges mastered,
 Thus many sorts of suffering  
 and many types of happiness;  
 the pure life \[now\] has been achieved,  
-I have obtained all achievements. \[1026\][^70]  
+I have obtained all achievements. \[1026\][^70]
+
 The woman who’s giving herself  
 for the merit of the Great Sage  
 attains companionship \[with him\],  
@@ -470,14 +502,15 @@ and the present \[and\] the future;
 all of my karma is destroyed:  
 I worship your feet, Eyeful One.” \[1028\]
 
-Thus indeed Bhikkhunī Yasodharā spoke these verses.  
+Thus indeed Bhikkhunī Yasodharā spoke these verses.
+
 The legend of *Yasodharā* Therī[^71] is finished
 
 [^1]: these first six verses appear in BJTS, but not PTS.
 
 [^2]: *mahiddhikā* = possessing great magical powers.
 
-[^3]: reading *satehi satassehi sā* (BJTS) for *satehi saha pañcahi* (“by five hundred,” PTS). As the subsequent three *apadāna*s make clear, these authors believed that Yasodharā approached the Buddha accompanied by considerably more than 500 nuns.
+[^3]: reading *satehi satassehi sā* (BJTS) for *satehi saha pañcahi* (“by five hundred,” PTS). As the subsequent three *apadāna*\s make clear, these authors believed that Yasodharā approached the Buddha accompanied by considerably more than 500 nuns.
 
 [^4]: reading *ettha* with BJTS for PTS *nāma* (“indeed”)
 
@@ -485,7 +518,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^6]: lit., “to/of the Teacher,” “give reverence *to* the Teacher”
 
-[^7]: PTS *khalitaŋ ce tavaŋ mayi,* BJTS *khalitaṃ ce mamaṃ tayi*, both to be construed the same way
+[^7]: PTS *khalitaŋ ce tavaŋ mayi*, BJTS *khalitaṃ ce mamaṃ tayi*, both to be construed the same way
 
 [^8]: *munindo*
 
@@ -497,33 +530,33 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^12]: reading *itthi-y-aṅge* (lit., “in the body of women”) with BJTS for PTS *itthi atho* (“and a woman who is established”)
 
-[^13]: *devatā,* or “deities” “supernaturals” “fairies” “spirits”
+[^13]: *devatā*, or “deities” “supernaturals” “fairies” “spirits”
 
-[^14]: *samānasukhadukkhā tā. *
+[^14]: *samānasukhadukkhā tā*.
 
-[^15]: *iddhi anekā,* lit., “superpowers”
+[^15]: *iddhi anekā*, lit., “superpowers”
 
 [^16]: this verse does not appear in PTS, whereas PTS supplies (15) which does not appear in BJTS. The two verses are sufficiently different to warrant inclusion of both, though it creates some unevenness in the flow of the narrative here. The Pāli is: *evamādīni vatvāna uppatitvāna ambaraṃ/iddhi anekā dassesi buddhānuññā yasodharā*
 
-[^17]: *abhivādetvā,* or “after saluting”
+[^17]: *abhivādetvā*, or “after saluting”
 
 [^18]: *iddhiŋ*
 
 [^19]: this verse does not appear here in BJTS, whereas BJTS supplies \[974\] which does not appear here in PTS. The two verses are sufficiently different to warrant inclusion of both, though it creates some unevenness in the flow of the narrative here. This verse does appear in BJTS below \[1054\], as in PTS, in the reduplication of Yasodharā’s *apadāna* as the *apadāna* of Eighteen Thousand Buddhist Nuns Headed Up by Yasodharā.
 
-[^20]: *cakkavālaŋ samaŋ* (BJTS *cakkavāḷasamaṃ*) *kāyaŋ,* lit., “body the same as the ring surrounding the universe”
+[^20]: *cakkavālaŋ samaŋ* (BJTS *cakkavāḷasamaṃ*) *kāyaŋ*, lit., “body the same as the ring surrounding the universe”
 
 [^21]: or *Uttarakuru* “island” (*dīpa*). This verse presumes knowledge of the ancient Indian understanding of India (here *jambudīpaŋ* \[BJTS *°dīpo*\], “the Island of Rose-Apples”) as one of the four great islands or continents making up the whole world. It lies to the south, with the other three being north, east and west of India.
 
-[^22]: lit., “in the ring surrounding the universe” (*cakkavālagiri°;* BJTS *cakkavāḷagiri°*)
+[^22]: lit., “in the ring surrounding the universe” (*cakkavālagiri°*; BJTS *cakkavāḷagiri°*)
 
-[^23]: *jamburukkha°,* lit., “a rose-apple tree”
+[^23]: *jamburukkha°*, lit., “a rose-apple tree”
 
-[^24]: *°vaṇṇaŋ...dassayi*
+[^24]: *°vaṇṇaŋ…dassayi*
 
 [^25]: reading *phullapadmena* with BJTS for PTS *phullapaccena* (?)
 
-[^26]: *dhammaŋ...puññataŋ,* alt. *suññataṃ* (“emptiness”!)
+[^26]: *dhammaŋ…puññataŋ*, alt. *suññataṃ* (“emptiness”!)
 
 [^27]: reading *buddhānaṃ* with BJTS (or PTS alt. *Buddhāna*) for PTS *pubbānaŋ* (former)
 
@@ -531,7 +564,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^29]: reading *vārayitvā anācaraṃ* with BJTS for PTS *pācayantī anāvaraŋ* (“burning/tormenting ?)
 
-[^30]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta,* \#29 of *Dīghanikāya,* section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
+[^30]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta*, \#29 of *Dīghanikāya*, section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
 
 [^31]: reading *sañcattaṃ* with BJTS (and PTS alt.) for PTS *samattaŋ* (“fulfilled” “completed”)
 
@@ -543,7 +576,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^35]: reading *anubhuttaṃ* with BJTS for PTS *pariccattaŋ* (“are sacrificed,” cf. PTS alt. *anubhontaŋ*)
 
-[^36]: *saṃsāre,* or “wheel of life”
+[^36]: *saṃsāre*, or “wheel of life”
 
 [^37]: lit., “in”
 
@@ -561,7 +594,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^44]: i.e., Sumedha
 
-[^45]: reading *cīrānupari āsīnaṃ* with BJTS for PTS *cirānugataŋ* *dassitaŋ* (“associated for a long time, seen”)
+[^45]: reading *cīrānupari āsīnaṃ* with BJTS for PTS *cirānugataŋ dassitaŋ* (“associated for a long time, seen”)
 
 [^46]: *patikantaŋ*, BJTS *atikantaṃ*
 
@@ -587,7 +620,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^57]: reading *manāpā* with BJTS for PTS *manasā*
 
-[^58]: reading *yathā...anurakkhanti sāmino* with BJTS for PTS *yathā...anurakkhati sāmi no* (“as our master protects”)
+[^58]: reading *yathā…anurakkhanti sāmino* with BJTS for PTS *yathā…anurakkhati sāmi no* (“as our master protects”)
 
 [^59]: lit., “there is no agitation \[to my mind\]”
 
@@ -599,15 +632,15 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^63]: *etesaŋ devadevānaŋ*
 
-[^64]: *adhikāraŋ sadā mayhaŋ,* lit., “my service is constant” “my service is daily”
+[^64]: *adhikāraŋ sadā mayhaŋ*, lit., “my service is constant” “my service is daily”
 
 [^65]: or do: from *carati*
 
-[^66]: *saddhamma°,* lit “good Teaching”
+[^66]: *saddhamma°*, lit “good Teaching”
 
-[^67]: *dhammesu ciṇṇānaŋ sadā saddhamma-carino, *
+[^67]: *dhammesu ciṇṇānaŋ sadā saddhamma-carino*
 
-[^68]: *aṭṭhamāse,* BJTS reads *addhamāse* (“half a month”)
+[^68]: *aṭṭhamāse*, BJTS reads *addhamāse* (“half a month”)
 
 [^69]: reading *bahu ‘neke* with BJTS for PTS *buhun eke*
 

@@ -1,4 +1,12 @@
-*\[27. Bhaddā-Kāpilāni\]*  
+---
+title: Bhaddā-Kāpilāni
+order: 27
+layout: poem
+category: chapter-4
+---
+
+### \[27. Bhaddā-Kāpilāni\]
+
 The Victor Padumuttara  
 was One With Eyes for everything.  
 \[That\] Leader \[of the World\] was born  
@@ -152,7 +160,7 @@ in lovely Benares city. (30) \[911\]
 I was the chief queen of that \[king\],  
 supreme in his troupe of women.  
 I was extremely dear to him,  
-due to past love for \[my\] husband.[^20](31) \[912\]
+due to past love for \[my\] husband.[^20] (31) \[912\]
 
 Having seen eight Lonely Leaders[^21]  
 going about on \[their\] alms-rounds,  
@@ -166,7 +174,8 @@ gathering bowls made by \[gold-\]smiths,
 he then offered to all of them,  
 who’d gotten up on golden seats,[^23]  
 an almsgiving \[most opulent,\]  
-\[feeling well-\] pleased by \[his\] own hands. (33-34) \[914-915\]  
+\[feeling well-\] pleased by \[his\] own hands. (33-34) \[914-915\]
+
 I gave that very almsgiving  
 with the Kāsi[^24] king \[way\] back then.  
 Again I was reborn in a  
@@ -264,7 +273,8 @@ he then did attend upon all
 the five hundred Lonely Sages  
 who were Padumavatīs sons.  
 Dwelling in the royal garden,  
-I \[too\] worshipped[^44] those Gone-Out Ones. (53-54) \[934-935\]  
+I \[too\] worshipped[^44] those Gone-Out Ones. (53-54) \[934-935\]
+
 Both of us having built stupas,  
 going forth \[renouncing the world,\]  
 experienced the boundless states,[^45]  
@@ -345,34 +355,35 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (70) \[951\]
 
-Thus indeed Bhikkhunī Bhaddā-Kāpilāni spoke these verses.  
+Thus indeed Bhikkhunī Bhaddā-Kāpilāni spoke these verses.
+
 The legend of Bhaddā-Kāpilāni Therī[^51] is finished
 
-[^1]: reading *nāyako* (BJTS) for *nāmako* (PTS, “one whose name”). While the phrase *nāma nāmako* (“named with the name...”) is very common in *Apadāna* (I have tended in my translations to reduce the redundancy by taking it simply as “named” or “known as,” but sometimes have given “known by the name,” as meter has allowed)*,* and the PTS reading may therefore be correct, BJTS here follows the *Therīgāthā-Aṭṭhakathā* version of the text which may well bear earlier witness; I anyway like the juxtaposition of the husband as an economic leader with Padumuttara Buddha, the Leader \[of the World\] (also *nāyako*).
+[^1]: reading *nāyako* (BJTS) for *nāmako* (PTS, “one whose name”). While the phrase *nāma nāmako* (“named with the name…”) is very common in *Apadāna* (I have tended in my translations to reduce the redundancy by taking it simply as “named” or “known as,” but sometimes have given “known by the name,” as meter has allowed), and the PTS reading may therefore be correct, BJTS here follows the *Therīgāthā-Aṭṭhakathā* version of the text which may well bear earlier witness; I anyway like the juxtaposition of the husband as an economic leader with Padumuttara Buddha, the Leader \[of the World\] (also *nāyako*).
 
 [^2]: lit., “who was foremost among those who bespeak ascetic \[practices\].”
 
 [^3]: reading *tadā hi* (BJTS) for *tadā āha* (“then he said,” PTS).
 
-[^4]: *veneyye,* lit., “those who were to be instructed”.
+[^4]: *veneyye*, lit., “those who were to be instructed”.
 
-[^5]: *nibbuto,* i.e., attained nirvana.
+[^5]: *nibbuto*, i.e., attained nirvana.
 
 [^6]: lit., “in the middle of eight \[times\] eight large jars (*kumbhi*).”
 
-[^7]: *divākara,* the sun.
+[^7]: *divākara*, the sun.
 
-[^8]: the mss. tradition disagrees on the reading of this term, and this translation is only provisional, going with the PTS (*cittaṃ*, “heart, mind”) but taking it in its rarer meaning of “variegated.” BJTS reads *cetaṃ,* more unambiguously “heart, mind,” but I don’t see how the grammar works with that as an adjective modifying *cetiyaṃ* (shrine, stupa), unless we read it to mean “thought out” or something along those lines. BJTS alternative is *citakaṃ,* “funeral pile,” redundant with *cetiyaṃ,* while PTS alternative is *citaṃ* (“heaped up,” a possibility) or *dhītaṃ* (?).
+[^8]: the mss. tradition disagrees on the reading of this term, and this translation is only provisional, going with the PTS (*cittaṃ*, “heart, mind”) but taking it in its rarer meaning of “variegated.” BJTS reads *cetaṃ*, more unambiguously “heart, mind,” but I don’t see how the grammar works with that as an adjective modifying *cetiyaṃ* (shrine, stupa), unless we read it to mean “thought out” or something along those lines. BJTS alternative is *citakaṃ*, “funeral pile,” redundant with *cetiyaṃ*, while PTS alternative is *citaṃ* (“heaped up,” a possibility) or *dhītaṃ* (?).
 
 [^9]: lit., “day-maker,” as above.
 
-[^10]: *haritāla.*
+[^10]: *haritāla*.
 
-[^11]: *manosilā.*
+[^11]: *manosilā*.
 
-[^12]: *añjana.*
+[^12]: *añjana*.
 
-[^13]: *varadhāri,* lit., “Bearer of Excellence” or “the One Clothed in Excellence”.
+[^13]: *varadhāri*, lit., “Bearer of Excellence” or “the One Clothed in Excellence”.
 
 [^14]: lit., “for as long as he lived”.
 
@@ -388,7 +399,7 @@ The legend of Bhaddā-Kāpilāni Therī[^51] is finished
 
 [^20]: reading *bhattuno* (BJTS) for *uttariŋ* (“besides,” PTS).
 
-[^21]: *paccekanāyake*, i.e., *pacceka-buddhas.*
+[^21]: *paccekanāyake*, i.e., *pacceka-buddhas*.
 
 [^22]: lit., “of gold indeed”.
 
@@ -404,7 +415,7 @@ The legend of Bhaddā-Kāpilāni Therī[^51] is finished
 
 [^28]: the eldest brother’s
 
-[^29]: BJTS (also PTS alt.) reads *duṭṭhā* (angry, wicked) for *ruṭṭhā* (angry, enraged); I follow PTS here in taking the term to refer to her anger in the moment more than the sort of larger bad character implied by *duṭṭhā.* The text does not specify why she becomes so angry (which is the main point of either reading); it assumes that its audience will immediately understand the reason. I imagine something like this: the husband expresses his displeasure in terms that implicate the wife -- “I come home for lunch and there’s nothing for me to eat” -- so she does something unthinkable in the context of *Apadāna* (and Theravāda Buddhist culture), taking alms back from a Buddha so her husband can eat the food himself. When he then turns around and gives the food back to the Buddha again, he reveals that his intention was not to get fed, but rather to earn the merit for himself (and he responds to what may have already been a tense situation, for example if the initial return of the food struck him as an already-angry insult on the part of his wife, perhaps because she made a sarcastic comment such as, “Fear not, *here’s* your lunch”). She -- who presumably cooked the meal in the first place, who has now been chastised for a lapse in her domestic responsibility, who turns a merit-making (*puñña-kamma*) opportunity into an act of demerit (*pāpa-kamma*) in order to rectify that lapse, and who then realizes that the only lapse was in her husband’s greediness for merit even at her expense -- would have had plenty of cause to become enraged, especially if the return of the food had already been a volley in a marital spat.
+[^29]: BJTS (also PTS alt.) reads *duṭṭhā* (angry, wicked) for *ruṭṭhā* (angry, enraged); I follow PTS here in taking the term to refer to her anger in the moment more than the sort of larger bad character implied by *duṭṭhā*. The text does not specify why she becomes so angry (which is the main point of either reading); it assumes that its audience will immediately understand the reason. I imagine something like this: the husband expresses his displeasure in terms that implicate the wife -- “I come home for lunch and there’s nothing for me to eat” -- so she does something unthinkable in the context of *Apadāna* (and Theravāda Buddhist culture), taking alms back from a Buddha so her husband can eat the food himself. When he then turns around and gives the food back to the Buddha again, he reveals that his intention was not to get fed, but rather to earn the merit for himself (and he responds to what may have already been a tense situation, for example if the initial return of the food struck him as an already-angry insult on the part of his wife, perhaps because she made a sarcastic comment such as, “Fear not, *here’s* your lunch”). She -- who presumably cooked the meal in the first place, who has now been chastised for a lapse in her domestic responsibility, who turns a merit-making (*puñña-kamma*) opportunity into an act of demerit (*pāpa-kamma*) in order to rectify that lapse, and who then realizes that the only lapse was in her husband’s greediness for merit even at her expense -- would have had plenty of cause to become enraged, especially if the return of the food had already been a volley in a marital spat.
 
 [^30]: reading *amejjhe* (“impure,” BJTS, PTS alt.) for *apace* (“uncooked,” PTS).
 
@@ -412,13 +423,13 @@ The legend of Bhaddā-Kāpilāni Therī[^51] is finished
 
 [^32]: reading *saṃvijiṃ bhusaṃ* (BJTS, PTS alt) for *mahāsaṅghaŋ cajiŋ bhusan* (“I let loose the many \[in the?\] great community,” PTS).
 
-[^33]: reading *sakkaraŋ* (alt. *sakkāraŋ*) adaŋ, “I gave with proper reverence” “I gave hospitably” with PTS’; BJTS reads *sakkharaṃ adaṃ,* “I gave gravel” (!).
+[^33]: reading *sakkaraŋ* (alt. *sakkāraŋ*) adaŋ, “I gave with proper reverence” “I gave hospitably” with PTS’; BJTS reads *sakkharaṃ adaṃ*, “I gave gravel” (!).
 
 [^34]: lit., “Hero,” but I translate “Buddha” to avoid any confusion of this previous Buddha with Bhaddā-Kāpilāni’s present-life husband Mahā-Kassapa.
 
-[^35]: PTS (and BJTS alt) gives *vaṭṭiṇi,* BJTS *vaṭṭiyo* for the plural of *vaṭṭi,* “wick”.
+[^35]: PTS (and BJTS alt) gives *vaṭṭiṇi*, BJTS *vaṭṭiyo* for the plural of *vaṭṭi*, “wick”.
 
-[^36]: PTS reads *ṭhāpayiŋ* (“I laid out”)*;* BJTS reads *ṭhāpayī*, “laid out.” Following PTS I take the term verbally.
+[^36]: PTS reads *ṭhāpayiŋ* (“I laid out”*);* BJTS reads *ṭhāpayī*, “laid out.” Following PTS I take the term verbally.
 
 [^37]: i.e., people of Benares.
 
@@ -432,20 +443,20 @@ The legend of Bhaddā-Kāpilāni Therī[^51] is finished
 
 [^42]: reading *tappayitvāna* (BJTS) for *vāsayitvāna* (“having perfumed” “having cleaned,” PTS).
 
-[^43]: reading BJTS *adāsi* for PTS *adaŋsu,* “they gave,” though the latter would also be an acceptable reading since the text specifies that the 500 cousins served the Paccekabuddhas together.
+[^43]: reading BJTS *adāsi* for PTS *adaŋsu*, “they gave,” though the latter would also be an acceptable reading since the text specifies that the 500 cousins served the Paccekabuddhas together.
 
 [^44]: BJTS reads *pūjayi*, “he worshipped,” which is certainly possible, but I follow the PTS reading *pūjayiŋ* (“I worshipped”) because otherwise the becoming-Bhaddā-Kāpilāni does not get inserted into this previous life of her husband’s, as she does all the other previous lives.
 
-[^45]: the four boundless states are love of all beings (*mettā),* compassion for those who suffer (*karunā*), joy in others’ joy (*muditā)*, and equanimity *(upekkhā*).
+[^45]: the four boundless states are love of all beings (*mettā*), compassion for those who suffer (*karunā*), joy in others’ joy (*muditā*), and equanimity *(upekkhā*).
 
 [^46]: reading *dhīrassa* (BJTS) for *vīrassa* (“the Hero,” PTS), an epithet used of Kassapa Buddha above \[924\].
 
 [^47]: BJTS read *kamma-anta-pekkhataṃ* for PTS *kamma-anta-pekkhako*; whether we take the term (with BJTS) as an adverb modifying “having gone,” or (with PTS) as an adjective modifying “Kassapa” -- either of which could produce this translation -- the meaning is clear.
 
-[^48]: lit., “attained to being moved (*saṃvega*), the religious experience that (like being overjoyed \[*pasanna\]*) is often a fore-runner to becoming an arahant in these hagiographical and parallel historical texts.
+[^48]: lit., “attained to being moved (*saṃvega*), the religious experience that (like being overjoyed \[*pasanna*\]) is often a fore-runner to becoming an arahant in these hagiographical and parallel historical texts.
 
 [^49]: BJTS reads *paribbājavate* (“in the state of a renouncer”) for *°pathe* (“on the path,” PTS) but both editions include the other reading as alternates and the PTS editor has chosen what I also think is the best syntactically.
 
-[^50]: BJTS (and PTS alt.) reads *suto* for PTS *putto,* but as the synonyms both mean “son” this does not affect the translation.
+[^50]: BJTS (and PTS alt.) reads *suto* for PTS *putto*, but as the synonyms both mean “son” this does not affect the translation.
 
 [^51]: PTS omits Therī, which I supply from BJTS.

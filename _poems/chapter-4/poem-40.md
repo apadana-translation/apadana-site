@@ -1,4 +1,12 @@
-*\[40. Selā*[^1]*\]*  
+---
+title: Selā
+order: 40
+layout: poem
+category: chapter-4
+---
+
+### \[40. Selā[^1]\]
+
 In this \[present\] lucky aeon,  
 Brahma’s Kinsman, Greatly Famed One,  
 \[the Buddha\] known as Kassapa  
@@ -7,7 +15,7 @@ was born, the Best of Debaters. (1) \[1323\]
 I’m born in a lay Buddhist clan,  
 in Śrāvasti, superb city.  
 Having seen that superb Victor,  
-and having heard \[him\] preach \[*Dhamma,*\] (2a-d)[^2] \[1324\]
+and having heard \[him\] preach \[*Dhamma*,\] (2a-d)[^2] \[1324\]
 
 gone to that Hero for refuge,  
 I undertook morality.  
@@ -69,9 +77,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (13) \[1336\]
 
-Thus indeed the bhikkhunī Selā spoke these verses.  
-The legend of Selā Therī[^7] is finished  
-The Summary:  
+Thus indeed the bhikkhunī Selā spoke these verses.
+
+The legend of Selā Therī[^7] is finished
+
+The Summary:
+
 The kṣatriyans and the brahmins,  
 likewise Uppaladāyikā,  
 Sigālamātā and Sukkā,  
@@ -80,9 +91,12 @@ the prostitute, so too Puṇṇā,
 and Ambapālī, Buddhist nun,  
 and Selā \[then makes\] the tenth one.[^8]  
 There are two hundred verses here,  
-plus another forty-two more.[^9]  
-The Kṣatriyan Chapter, the Fourth.[^10]  
-And then there is the Summary of Chapters:  
+plus another forty-two more.[^9]
+
+The Kṣatriyan Chapter, the Fourth.[^10]
+
+And then there is the Summary of Chapters:
+
 Sumedhā, Ekuposathā,  
 Kuṇḍalakesī Khattiyā  
 one thousand three hundred verses  
@@ -90,21 +104,23 @@ mixed in with forty-seven \[more\].
 Along with *Uddāna* verses  
 which are counted by those who know,  
 there are one thousand three hundred  
-verses plus fifty seven \[more\].[^11]  
-The *Therī-apadāna* is Finished[^12]  
+verses plus fifty seven \[more\].[^11]
+
+The *Therī-apadāna* is Finished[^12]
+
 The *Apadāna* is Finished
 
 [^1]: “Stone,” known only here but treated as an historical nun by Malalasekera, DPPN II: 1290. BJTS reads *Pesalā*, here and elsewhere in this *apadāna* (= “Agreeable”)
 
 [^2]: PTS presents this and the following verse as six-footed verses, presenting in a total of three verses the same material in the same order that BJTS presents in four verses.
 
-[^3]: *kassape jinasāsane,* lit., “in the dispensation of the Victor, Kassapa \[Buddha\]”
+[^3]: *kassape jinasāsane*, lit., “in the dispensation of the Victor, Kassapa \[Buddha\]”
 
-[^4]: reading *°brahmacariyam* with BJTS for PTS *°brahmaceram,* lit., “the Brahma-life” “the holy life” “celibacy”
+[^4]: reading *°brahmacariyam* with BJTS for PTS *°brahmaceram*, lit., “the Brahma-life” “the holy life” “celibacy”
 
 [^5]: i.e., the thirty-three gods.
 
-[^6]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni,* Great Sage.
+[^6]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*, Great Sage.
 
 [^7]: this is the BJTS reading for PTS *bhikkhunī Selā*
 

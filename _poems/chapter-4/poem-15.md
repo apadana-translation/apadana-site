@@ -1,4 +1,12 @@
-*\[15. Pañcadīpikā*[^1]*\]*  
+---
+title: Pañcadīpikā
+order: 15
+layout: poem
+category: chapter-4
+---
+
+### \[15. Pañcadīpikā[^1]\]
+
 In the city, Haṃsavatī,  
 I was a wanderer back then.  
 From ashram to monastery,  
@@ -124,7 +132,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (25) \[214\]
 
-Thus indeed Bhikkhunī Pañcadīpikā spoke these verses.  
+Thus indeed Bhikkhunī Pañcadīpikā spoke these verses.
+
 The legend of Pañcadīpikā Therī is finished.
 
 [^1]: “Five-Lamp-er.” With some very minor changes, this is identical to *Therī-apadāna* \#9, above, ascribed to a nun of the same name. I have not repeated all the footnotes here, but have altered the translation slightly to indicate the minor differences between the two texts, and have retained footnotes indicating differences in the BJTS version, as appropriate.

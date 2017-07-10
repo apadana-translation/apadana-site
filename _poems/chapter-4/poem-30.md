@@ -1,4 +1,12 @@
-*\[30. Eighteen Thousand Buddhist Nuns Headed Up by Yasodharā*[^1]*\]*  
+---
+title: Eighteen Thousand Buddhist Nuns Headed Up by Yasodharā
+order: 30
+layout: poem
+category: chapter-4
+---
+
+### \[30. Eighteen Thousand Buddhist Nuns Headed Up by Yasodharā[^1]\]
+
 Buddhist nuns, eighteen thousand \[strong,\]  
 \[who were\] born in the Śākyan \[clan\],  
 headed up by Yasodharā,  
@@ -299,11 +307,12 @@ who are going[^41] to nirvana?
 Pacifying conditioned flaws[^42]  
 you should attain the deathless state.” (60) \[1103\]
 
-Thus indeed Eighteen Thousand Buddhist Nuns Headed Up by Yasodharā spoke
-these verses.  
-The legend of Eighteen Thousand Buddhist Nuns Headed Up by Yasodharā is
-finished  
-The Summary:  
+Thus indeed Eighteen Thousand Buddhist Nuns Headed Up by Yasodharā spoke these verses.
+
+The legend of Eighteen Thousand Buddhist Nuns Headed Up by Yasodharā is finished
+
+The Summary:
+
 Kuṇḍalā, also Gotamī,  
 Dhammadinnā and Sakulā,[^43]  
 Excellent Nandā and Soṇā  
@@ -312,32 +321,33 @@ and the ten thousand Buddhist nuns
 \[also\] the eighteen thousand \[nuns:\][^44]  
 the verses that are counted here  
 \[number\] one hundred and forty  
-and also seventy-eight \[more\].  
+and also seventy-eight \[more\].
+
 The Kuṇḍalakesā Chapter, the Third
 
 [^1]: BJTS reads “The *Apadāna* of EighteenThousand Buddhist Nuns”
 
 [^2]: *te pajāpatī*
 
-[^3]: *devatā,* or “deities” “supernaturals” “fairies” “spirits”
+[^3]: *devatā*, or “deities” “supernaturals” “fairies” “spirits”
 
 [^4]: *yasovatī*, = Yasodharā
 
-[^5]: *abhivādetvā,* or “after saluting”
+[^5]: *abhivādetvā*, or “after saluting”
 
 [^6]: *iddhiŋ*
 
-[^7]: *cakkavālaŋ samaŋ* (BJTS *cakkavāḷasamaṃ*) *kāyaŋ,* lit., “body the same as the ring surrounding the universe”
+[^7]: *cakkavālaŋ samaŋ* (BJTS *cakkavāḷasamaṃ*) *kāyaŋ*, lit., “body the same as the ring surrounding the universe”
 
 [^8]: or “island” (*dīpa*). This verse presumes knowledge of the ancient Indian understanding of India (here *jambudīpaŋ* \[BJTS *°dīpo*\], “the Island of Rose-Apples”) as one of the four great islands or continents making up the whole world. It lies to the south, with the other three being north, east and west of India.
 
-[^9]: lit., “in the ring surrounding the universe” (*cakkavālagiri°;* BJTS *cakkavāḷagiri°*)
+[^9]: lit., “in the ring surrounding the universe” (*cakkavālagiri°*; BJTS *cakkavāḷagiri°*)
 
-[^10]: *jamburukkha°,* lit., “a rose-apple tree”
+[^10]: *jamburukkha°*, lit., “a rose-apple tree”
 
-[^11]: *°vaṇṇaŋ...dassayuŋ*
+[^11]: *°vaṇṇaŋ…dassayuŋ*
 
-[^12]: *yasovaṇṇā,* lit., “we have the the appearance of Yaso” “we are the color (or have the appearance) of fame”
+[^12]: *yasovaṇṇā*, lit., “we have the the appearance of Yaso” “we are the color (or have the appearance) of fame”
 
 [^13]: here as elsewhere, reading the voc. *mahāmunue* with BJTS (and PTS alt.) for PTS *mahāmuni*
 
@@ -345,7 +355,7 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^15]: reading *vārayitvā anācaraṃ* with BJTS for PTS *pācayantī anāvaraŋ* (“burning/tormenting ?)
 
-[^16]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta,* \#29 of *Dīghanikāya,* section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
+[^16]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta*, \#29 of *Dīghanikāya*, section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
 
 [^17]: reading *sañcattaṃ* with BJTS (and PTS alt.) for PTS *samattaŋ* (“fulfilled” “completed”)
 
@@ -357,7 +367,7 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^21]: reading *anubhuttaṃ* with BJTS for PTS *pariccattaŋ* (“are sacrificed”)
 
-[^22]: *saṃsāre,* or “wheel of life”
+[^22]: *saṃsāre*, or “wheel of life”
 
 [^23]: lit., “in”
 
@@ -377,13 +387,13 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^31]: lit., “doing *pūjā*”
 
-[^32]: lit., “*pūjā-*worthy”
+[^32]: lit., “*pūjā*-worthy”
 
 [^33]: lit., “there is no agitation \[to my mind\]”
 
 [^34]: reading *pabbajitvāna* with BJTS (and PTS alt.) for PTS *pabbajiŋ* (“I went forth”)
 
-[^35]: *aṭṭhamāse,* BJTS reads *addhamāse* (“half a month”)
+[^35]: *aṭṭhamāse*, BJTS reads *addhamāse* (“half a month”)
 
 [^36]: reading *bahu ‘neke* with BJTS for PTS *buhun eke*
 

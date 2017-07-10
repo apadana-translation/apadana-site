@@ -1,4 +1,12 @@
-*\[9. Pañcadīpikā*[^1]*\]*  
+---
+title: Pañcadīpikā
+order: 9
+layout: poem
+category: chapter-4
+---
+
+### \[9. Pañcadīpikā[^1]\]
+
 In the city, Haṃsavatī,  
 I was a wanderer back then.  
 From hermitage to hermitage,  
@@ -124,20 +132,21 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (25) \[115\]
 
-Thus indeed Bhikkhunī Pañcadīpikā spoke these verses.  
+Thus indeed Bhikkhunī Pañcadīpikā spoke these verses.
+
 The legend of Pañcadīpikā Therī is finished.
 
 [^1]: “Five-Lamp-er”
 
 [^2]: lit., “for the sake of wholesome \[karma\].”
 
-[^3]: *kālapakkhamhi divase,* lit., “on a day in the waning-moon \[half of the month\],” perhaps to be taken as the moonless fortnight (Sinhala *māse poya*) or the night of the new moon (Sinhala *amāvaka* *poya*).
+[^3]: *kālapakkhamhi divase*, lit., “on a day in the waning-moon \[half of the month\],” perhaps to be taken as the moonless fortnight (Sinhala *māse poya*) or the night of the new moon (Sinhala *amāvaka poya*).
 
 [^4]: lit., “it was”.
 
 [^5]: or “all the color of gold” (*sabbasovaṇṇayā*).
 
-[^6]: *pūjā.*
+[^6]: *pūjā*.
 
 [^7]: “Five Lamps”
 

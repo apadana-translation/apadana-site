@@ -1,4 +1,12 @@
-*\[36. Abhirūpanandā*[^1]*\]*  
+---
+title: Abhirūpanandā
+order: 36
+layout: poem
+category: chapter-4
+---
+
+### \[36. Abhirūpanandā[^1]\]
+
 Ninety-one aeons ago the  
 Leader, whose name was Vipassi,  
 arose, the One Good to Look At,[^2]  
@@ -124,7 +132,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (25) \[1270\]
 
-Thus indeed the bhikkhunī Abhirūpanandā spoke these verses.  
+Thus indeed the bhikkhunī Abhirūpanandā spoke these verses.
+
 The legend of Abhirūpanandā Therī[^19] is finished
 
 [^1]: “Very Beautiful Joy,” an historical nun, DPPN I:143. On these various “Joys” (of whom Malalasekera’s designations may need further work) see above, the first note to *Therī-apadāna* \#25.
@@ -139,7 +148,7 @@ The legend of Abhirūpanandā Therī[^19] is finished
 
 [^6]: lit., “did *pūjā”*
 
-[^7]: *kapilavhaye,* lit., “in the \[city\] named for Kapila”
+[^7]: *kapilavhaye*, lit., “in the \[city\] named for Kapila”
 
 [^8]: reading *upapadaṃ* (in the sense of “epithet”) with BJTS for PTS *uppādaŋ* (“birth” “omen”), which breaks meter.
 
@@ -147,7 +156,7 @@ The legend of Abhirūpanandā Therī[^19] is finished
 
 [^10]: reading *me kantisūcakaṃ* with BJTS for PTS *m’ ekaŋ ti sūcakaŋ* (?)
 
-[^11]: reading *rūpalāvaññabhusitā* with BJTS for PTS *rūpavaṇṇavibhusitā,* which however has much the same meaning.
+[^11]: reading *rūpalāvaññabhusitā* with BJTS for PTS *rūpavaṇṇavibhusitā*, which however has much the same meaning.
 
 [^12]: or debate: *vivādo*
 
@@ -157,10 +166,10 @@ The legend of Abhirūpanandā Therī[^19] is finished
 
 [^15]: reading *rūpadessiṃ naruttamaṃ* with BJTS for PTS *rūpadassiŋ* (alt. *dassana*), “beautiful looking supreme man”
 
-[^16]: *samussayaŋ, “*conglomeration,” i.e., the body
+[^16]: *samussayaŋ*, “conglomeration,” i.e., the body
 
 [^17]: or “dwelling” “practicing” “living” (BJTS: *viharantyā’dha yoniso*)
 
-[^18]: reading *mahāmune* (voc.) with BJTS for PTS *tadā muni* (“Then the Sage \[nom.\];” PTS alt. *tadā mune,* “Then, O Sage”)
+[^18]: reading *mahāmune* (voc.) with BJTS for PTS *tadā muni* (“Then the Sage \[nom.\];” PTS alt. *tadā mune*, “Then, O Sage”)
 
 [^19]: this is the BJTS reading for PTS *bhikkhunī Abhirūpanandā*

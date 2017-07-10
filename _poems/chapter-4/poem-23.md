@@ -1,4 +1,12 @@
-*\[23. Dhammadinnā*[^1]*\]*  
+---
+title: Dhammadinnā
+order: 23
+layout: poem
+category: chapter-4
+---
+
+### \[23. Dhammadinnā[^1]\]
+
 The Victor, Padumuttara,  
 was a Master of Everything.  
 \[That\] Leader arose in the world  
@@ -46,7 +54,8 @@ O servant of the Assembly,
 O hearer of the good Teaching,  
 proper one, mind set[^4] on virtue,  
 O lucky one, be overjoyed:  
-you will attain your wish’s fruit. (9-10) \[741-742\]  
+you will attain your wish’s fruit. (9-10) \[741-742\]
+
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
 the one whose name is Gotama  
@@ -89,7 +98,8 @@ doing \[our\] practice with vigor
 in virginal celibacy,  
 for twenty times a thousand years,  
 fond of waiting on the Buddha,  
-\[the king’s\] seven joyful daughters. (18-19) \[750-751\]  
+\[the king’s\] seven joyful daughters. (18-19) \[750-751\]
+
 Samaṇī, and Samaṇaguttā,[^8]  
 Bhikkhunī, Bhikkhadāyikā,  
 Dhammā, and also Sudhammā,  
@@ -137,7 +147,8 @@ Buddhist nun, preacher of *Dhamma*:
 as wise as is Dhammadinnā;  
 so should you consider[^15] \[her,\] monks.”  
 “I am indeed a wise woman,  
-who was pitied by the Leader. (28-29) \[760-761\]  
+who was pitied by the Leader. (28-29) \[760-761\]
+
 The Teacher’s been worshipped by me;  
 \[I have\] done what the Buddha taught.  
 The heavy load has been laid down,  
@@ -173,22 +184,23 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (36) \[768\]
 
-Thus indeed Bhikkhunī Dhammadinnā spoke these verses.  
+Thus indeed Bhikkhunī Dhammadinnā spoke these verses.
+
 The legend of Dhammadinnā Therī is finished.
 
-[^1]: “*Dhamma*-Given,” an historical nun, remembered as foremost among the nuns who preached *Dhamma.*
+[^1]: “*Dhamma*-Given,” an historical nun, remembered as foremost among the nuns who preached *Dhamma*.
 
 [^2]: *ayyaka*, lit., “grandfather.” I follow BJTS Sinhala gloss in reading him as her “master” (*svāmi teme*), imagining him called “grandfather” in the home where she was a servant.
 
-[^3]: *ghananinādasussaro,* should this be taken as a Buddha epithet, to be capitalized?
+[^3]: *ghananinādasussaro*, should this be taken as a Buddha epithet, to be capitalized?
 
-[^4]: *°āgacchita°,* lit., “come into”
+[^4]: *°āgacchita°*, lit., “come into”
 
 [^5]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
 
 [^6]: ”Good Teaching”
 
-[^7]: *sukhe ṭhitā,* lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
+[^7]: *sukhe ṭhitā*, lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
 
 [^8]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*ca*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
 
@@ -200,12 +212,12 @@ The legend of Dhammadinnā Therī is finished.
 
 [^12]: lit., “going”
 
-[^13]: *subuddhimā,* lit., “through He who Possessed Great Intelligence”
+[^13]: *subuddhimā*, lit., “through He who Possessed Great Intelligence”
 
 [^14]: lit., “in the” “in that”
 
-[^15]: *dhāretha,* lit., “carry” “recall” “remember” “regard”
+[^15]: *dhāretha*, lit., “carry” “recall” “remember” “regard”
 
-[^16]: *satthu sāsanakārikā,* lit., “\[I am\] a doer of the Teacher’s dispensation”
+[^16]: *satthu sāsanakārikā*, lit., “\[I am\] a doer of the Teacher’s dispensation”
 
 [^17]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I became”)

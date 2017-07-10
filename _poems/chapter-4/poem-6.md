@@ -1,4 +1,12 @@
-*\[6. Ekapiṇḍadāyikā*[^1]*\]*  
+---
+title: Ekapiṇḍadāyikā
+order: 6
+layout: poem
+category: chapter-4
+---
+
+### \[6. Ekapiṇḍadāyikā[^1]\]
+
 In the city, Bandhumatī,  
 there was a king[^2] named Bandhuma.[^3]  
 I was \[then\] the wife of that king,  
@@ -69,7 +77,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (14) \[59\]
 
-Thus indeed Bhikkhunī Ekapiṇḍadāyikā spoke these verses.  
+Thus indeed Bhikkhunī Ekapiṇḍadāyikā spoke these verses.
+
 The legend of Ekapiṇḍadāyikā Therī is finished.
 
 [^1]: “One Ball \[of Food\] Donor”. BJTS reads Ekapiṇḍapātadāyikā, “Giver of one begged-for-alms-meal”
@@ -78,12 +87,12 @@ The legend of Ekapiṇḍadāyikā Therī is finished.
 
 [^3]: “Kinsman,” according to my notes (ref?) also the name of the king-father of Vipassi Buddha
 
-[^4]: BJTS reads *ekajjhaṃ,* “together \[with the king\] (?)”.
+[^4]: BJTS reads *ekajjhaṃ*, “together \[with the king\] (?)”.
 
 [^5]: lit., “the ultimate food.” See n. to *Therāpadāna* v. \[28-29\]
 
-[^6]: BJTS reads *vatthayugena,* “with a pair of cloths”. Some PTS alt give *mahācolena*, “a big piece of cloth”. The term *mahānela* is obscure, but used again in *Therī-apadāna* v. \[79\], below, where it more clearly refers to a blue lotus flower (perhaps through conflation with *mahanel,* or *mānel,* one of the Sinhala names for the blue lotus flower \[*uppala*\]). This translation follows the lead of BJTS Sinhala gloss, which in the case of v. \[79\] takes the term to be equivalent to the Sinhala *mahanel.*
+[^6]: BJTS reads *vatthayugena*, “with a pair of cloths”. Some PTS alt give *mahācolena*, “a big piece of cloth”. The term *mahānela* is obscure, but used again in *Therī-apadāna* v. \[79\], below, where it more clearly refers to a blue lotus flower (perhaps through conflation with *mahanel*, or *mānel*, one of the Sinhala names for the blue lotus flower \[*uppala*\]). This translation follows the lead of BJTS Sinhala gloss, which in the case of v. \[79\] takes the term to be equivalent to the Sinhala *mahanel*.
 
 [^7]: lit., “Remembering that as my object of sense.” Buddhist schematics thought one such sense-object (Sinhala *aramuṇu*) and in context, the meaning is clearly that she continued to think about that almsgiving for the rest of her life.
 
-[^8]: *upādikā,* the foundations of defilement (*kilesas). *
+[^8]: *upādikā*, the foundations of defilement (*kilesas*).

@@ -1,4 +1,12 @@
-*\[24. Sakulā*[^1]*\]*  
+---
+title: Sakulā
+order: 24
+layout: poem
+category: chapter-4
+---
+
+### \[24. Sakulā[^1]\]
+
 The Victor, Padumuttara,  
 was a Master of Everything.  
 \[That\] Leader arose in the world  
@@ -30,7 +38,7 @@ Path-Skilled, the Teacher, \[the Buddha,\]
 was the Best of Charioteers.[^19] (6) \[774\]
 
 The Great Compassionate Teacher,  
-the Leader was preaching *Dhamma,*  
+the Leader was preaching *Dhamma*,  
 lifting up \[all\] living beings  
 sunk in the muck of delusion. (7) \[775\]
 
@@ -62,7 +70,7 @@ I aspired for the “divine eye.” (12) \[780\]
 And then the Teacher said to me:  
 “Joyful one, that is well wished-for;  
 you will receive \[as you\] aspire,  
-fruit of alms for the *Dhamma-*Lamp.[^24] (13) \[781\]
+fruit of alms for the *Dhamma*-Lamp.[^24] (13) \[781\]
 
 In one hundred thousand aeons,  
 arising in Okkāka’s clan,  
@@ -126,7 +134,8 @@ I saw the Well-Gone-One at the
 city gate, Blazing Forth through Fame,  
 Honored by Gods and by People,  
 Ornamented with the \[Great\] Marks,  
-Endowed with \[Eighty\] Lesser Marks. (25-26) \[793-794\]  
+Endowed with \[Eighty\] Lesser Marks. (25-26) \[793-794\]
+
 Happy, with a heart that was thrilled,  
 I chose \[to seek\] ordination.  
 After not a very long time,  
@@ -172,7 +181,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (35) \[803\]
 
-Thus indeed Bhikkhunī Sakulā spoke these verses.  
+Thus indeed Bhikkhunī Sakulā spoke these verses.
+
 The legend of Sakulā Therī is finished.
 
 [^1]: a historical nun, remembered as foremost among those who possess the “divine eye” (*dibbacakkhu*)
@@ -183,9 +193,9 @@ The legend of Sakulā Therī is finished.
 
 [^4]: *yasaggappatto*
 
-[^5]: *sirimā,* or “Resplendent One”
+[^5]: *sirimā*, or “Resplendent One”
 
-[^6]: *kittivaṇṇagato,* lit., “gone to beauty through praise;” “colored by praise”
+[^6]: *kittivaṇṇagato*, lit., “gone to beauty through praise;” “colored by praise”
 
 [^7]: *suvissuto*
 
@@ -193,7 +203,7 @@ The legend of Sakulā Therī is finished.
 
 [^9]: *uttiṇṇavicikiccho*, lit., “he by whom doubt is pulled out”
 
-[^10]: *vītivattakathaŋkatho,* lit., “passed over saying ‘how?’”
+[^10]: *vītivattakathaŋkatho*, lit., “passed over saying ‘how?’”
 
 [^11]: *sampuṇṇamanasaṅkappo*
 
@@ -203,7 +213,7 @@ The legend of Sakulā Therī is finished.
 
 [^14]: *uppādetā*
 
-[^15]: *anuppannassa maggassa,* lit., “the unborn path” “the path that had not arisen”. *Uppanna* is from the same root as *uppādetā* (Producer of the unproduced”) hence a resonance between the first and second feet that is echoed in the third foot, and again in the fourth
+[^15]: *anuppannassa maggassa*, lit., “the unborn path” “the path that had not arisen”. *Uppanna* is from the same root as *uppādetā* (Producer of the unproduced”) hence a resonance between the first and second feet that is echoed in the third foot, and again in the fourth
 
 [^16]: *maggaññū*
 
@@ -211,9 +221,9 @@ The legend of Sakulā Therī is finished.
 
 [^18]: *maggakkhāyī*
 
-[^19]: *sārathīnaŋ varuttamo,* lit., “the excellent ultimate of charioteers”
+[^19]: *sārathīnaŋ varuttamo*, lit., “the excellent ultimate of charioteers”
 
-[^20]: *khattiyanandanā *
+[^20]: *khattiyanandanā*
 
 [^21]: *sadhanā ṭhāsiŋ*
 
@@ -225,15 +235,15 @@ The legend of Sakulā Therī is finished.
 
 [^25]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
 
-[^26]: *°mattakaŋ,* lit., “a measure of”
+[^26]: *°mattakaŋ*, lit., “a measure of”
 
 [^27]: or “stupa”: *cetiyaŋ*
 
 [^28]: lit., “given *pūjā*”
 
-[^29]: *sabbaṅgasampannā,* lit., “endowed with all limbs,” i.e., “had a great body”
+[^29]: *sabbaṅgasampannā*, lit., “endowed with all limbs,” i.e., “had a great body”
 
-[^30]: *satthu sāsanakārikā,* lit., “\[I am\] a doer of the Teacher’s dispensation”
+[^30]: *satthu sāsanakārikā*, lit., “\[I am\] a doer of the Teacher’s dispensation”
 
 [^31]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I became”)
 

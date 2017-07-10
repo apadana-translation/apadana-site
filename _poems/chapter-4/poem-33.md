@@ -1,4 +1,12 @@
-*\[33. Uppaladāyikā*[^1]*\]*  
+---
+title: Uppaladāyikā
+order: 33
+layout: poem
+category: chapter-4
+---
+
+### \[33. Uppaladāyikā[^1]\]
+
 In Aruṇavatī City,  
 \[lived\] the kṣatriyan Aruṇa.  
 I was \[then\] the wife of that king;  
@@ -124,8 +132,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (25) \[1184\]
 
-Thus indeed the bhikkhunī Uppaladāyikā spoke these verses face to face
-with the Blessed One.  
+Thus indeed the bhikkhunī Uppaladāyikā spoke these verses face to face with the Blessed One.
+
 The legend of the bhikkhunī Uppaladāyikā is finished
 
 [^1]: “Blue Lotus Giver”
@@ -134,15 +142,15 @@ The legend of the bhikkhunī Uppaladāyikā is finished
 
 [^3]: reading *cārayām’ ahaṃ* with BJTS (and cf. PTS alts. here) for PTS *vādayām’ ahaŋ* (“I am singing” “I am making sound” “I am causing to be said”)
 
-[^4]: *kusalaŋ,* lit., “wholesome deeds”
+[^4]: *kusalaŋ*, lit., “wholesome deeds”
 
-[^5]: PTS *kusalaŋ me kataŋ n’atthi ādāya gamiyam mama;* BJTS *ādāya gamanīyaṃ hi kusalaṃ natthi me kataṃ*
+[^5]: PTS *kusalaŋ me kataŋ n’atthi ādāya gamiyam mama*; BJTS *ādāya gamanīyaṃ hi kusalaṃ natthi me kataṃ*
 
-[^6]: *deva,* or “Lord,” lit., “god”
+[^6]: *deva*, or “Lord,” lit., “god”
 
-[^7]: or “always become victims of men,” reading *purisānugatā sadā* with BJTS for PTS *purisānaŋ bharā mayaŋ* (“we are burdens on men” or “we carry the burden of men,” perhaps playing with the common word for “wife” used in v. 1, *bhariyā*)*.* Given the second half of the verse, in either event she is asking her husband for permission to “adopt” a monk. In the BJTS reading she does this by stating that as a woman she has not been able to do her own good deeds, always following after her men when they do their good deeds (and gain the merit; the whole question of women’s roles in the production of men’s karma peppers the *Therī-apadāna* despite its virtual absence in the corresponding *Thera-apadāna).* In the PTS reading, she sets up her request for the monk to feed either by apologizing for being a burden, or by pointing out that as one accustomed to carrying the burden of men she will be able to carry that of the monk, now requested.
+[^7]: or “always become victims of men,” reading *purisānugatā sadā* with BJTS for PTS *purisānaŋ bharā mayaŋ* (“we are burdens on men” or “we carry the burden of men,” perhaps playing with the common word for “wife” used in v. 1, *bhariyā*). Given the second half of the verse, in either event she is asking her husband for permission to “adopt” a monk. In the BJTS reading she does this by stating that as a woman she has not been able to do her own good deeds, always following after her men when they do their good deeds (and gain the merit; the whole question of women’s roles in the production of men’s karma peppers the *Therī-apadāna* despite its virtual absence in the corresponding *Thera-apadāna*). In the PTS reading, she sets up her request for the monk to feed either by apologizing for being a burden, or by pointing out that as one accustomed to carrying the burden of men she will be able to carry that of the monk, now requested.
 
-[^8]: *parama,* or “supreme” “ultimate” “best” “superior”
+[^8]: *parama*, or “supreme” “ultimate” “best” “superior”
 
 [^9]: this refrain, common in *Thera-apadāna*, appears only here, and obviously lifted, in *Therī-apadāna*
 

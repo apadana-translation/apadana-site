@@ -1,4 +1,12 @@
-*\[13. Modakadāyikā*[^1]*\]*  
+---
+title: Modakadāyikā
+order: 13
+layout: poem
+category: chapter-4
+---
+
+### \[13. Modakadāyikā[^1]\]
+
 In the city, Bandhumatī,  
 I was a water-jug slave-girl.  
 After receiving my wages,  
@@ -34,7 +42,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[165\]
 
-Thus indeed Bhikkhunī Modakadāyikā[^2] spoke these verses.  
+Thus indeed Bhikkhunī Modakadāyikā[^2] spoke these verses.
+
 The legend of Modakadāyikā Therī is finished.
 
 [^1]: “Sweetmeat Donor”.

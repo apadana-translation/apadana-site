@@ -1,4 +1,12 @@
-*\[2. Mekhalādāyikā*[^1]*\]*  
+---
+title: Mekhalādāyikā
+order: 2
+layout: poem
+category: chapter-4
+---
+
+### \[2. Mekhalādāyikā[^1]\]
+
 I had a stupa constructed[^2]  
 for Siddhattha, the Blessed One.  
 I gifted \[my\] waist ornament[^3]  
@@ -29,7 +37,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[25\]
 
-Thus indeed Bhikkhunī Mekhalādāyikā Therī[^6] spoke these verses.  
+Thus indeed Bhikkhunī Mekhalādāyikā Therī[^6] spoke these verses.
+
 The legend of Mekhalādāyikā Therī is finished.
 
 [^1]: “Waist-Ornament-Giver”. *Mekhala* or *mekhalikā* was an ornament worn by women on the waist, often made of precious metals and gems.
@@ -42,4 +51,4 @@ The legend of Mekhalādāyikā Therī is finished.
 
 [^5]: lit., “again I gave a waist-ornament”.
 
-[^6]: BJTS, PTS alt omit *therī.*
+[^6]: BJTS, PTS alt omit *therī*.

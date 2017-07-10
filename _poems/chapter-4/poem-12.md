@@ -1,4 +1,12 @@
-*\[12. Salalapupphikā*[^1]*\]*  
+---
+title: Salalapupphikā
+order: 12
+layout: poem
+category: chapter-4
+---
+
+### \[12. Salalapupphikā[^1]\]
+
 On Candabhāgā River’s bank,  
 I was a *kinnarī* back then.  
 And then I saw the God of Gods,  
@@ -22,7 +30,7 @@ I then ascended the mountain. (4) \[154\]
 In the ninety-one aeons since  
 I gave \[him\] that flower back then,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of Buddha-*pūjā.* (5) \[155\]
+that’s the fruit of Buddha-*pūjā*. (5) \[155\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
@@ -39,7 +47,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[158\]
 
-Thus indeed Bhikkhunī Salalapupphikā spoke these verses.  
+Thus indeed Bhikkhunī Salalapupphikā spoke these verses.
+
 The legend of Salalapupphikā Therī is finished.
 
-[^1]: “Salala-Flower-er”. PTS reads *saḷala. *
+[^1]: “Salala-Flower-er”. PTS reads *saḷala*.

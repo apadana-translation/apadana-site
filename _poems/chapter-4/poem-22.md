@@ -1,4 +1,12 @@
-*\[22. Kisāgotamī*[^1]*\]*  
+---
+title: Kisāgotamī
+order: 22
+layout: poem
+category: chapter-4
+---
+
+### \[22. Kisāgotamī[^1]\]
+
 The Victor, Padumuttara,  
 was a Master of Everything.  
 \[That\] Leader arose in the world  
@@ -9,7 +17,7 @@ born in an undistinguished clan.
 Having approached the Best of Men,[^2]  
 I went to him as \[my\] refuge. (2) \[694\]
 
-And I listened to his *Dhamma,*  
+And I listened to his *Dhamma*,  
 containing the Four \[Noble\] Truths,  
 supremely sweet \[like\] honey, \[which\]  
 brings happiness and mental peace. (3) \[695\]
@@ -71,7 +79,8 @@ doing \[our\] practice with vigor
 in virginal celibacy,  
 for twenty times a thousand years,  
 fond of waiting on the Buddha,  
-\[the king’s\] seven joyful daughters. (14-15) \[706-707\]  
+\[the king’s\] seven joyful daughters. (14-15) \[706-707\]
+
 Samaṇī, and Samaṇaguttā,[^7]  
 Bhikkhunī, Bhikkhadāyikā,  
 Dhammā, and also Sudhammā,  
@@ -135,7 +144,8 @@ seeing \[things\] rising \[and\] falling. (27) \[719\]
 Not the condition[^20] of the village, or the town,  
 and also not the condition of one clan.  
 This is the condition of the entire world  
-with its gods: the impermanence of \[all\] that is.” (28) \[720\][^21]  
+with its gods: the impermanence of \[all\] that is.” (28) \[720\][^21]
+
 Upon hearing those \[two\] verses,  
 I purified \[my\] “*Dhamma* eye,”  
 then learned in the great Teaching,  
@@ -196,7 +206,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (40) \[732\]
 
-Thus indeed Bhikkhunī Kisāgotamī spoke these verses.  
+Thus indeed Bhikkhunī Kisāgotamī spoke these verses.
+
 The legend of Kisāgotamī Therī is finished.
 
 [^1]: “The Lean Gotamī” a historical nun, remembered as foremost among the nuns who wore robes made of coarse cloth.
@@ -209,7 +220,7 @@ The legend of Kisāgotamī Therī is finished.
 
 [^5]: ”Teaching”
 
-[^6]: *sukhe ṭhitā,* lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
+[^6]: *sukhe ṭhitā*, lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
 
 [^7]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*ca*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
 
@@ -217,9 +228,9 @@ The legend of Kisāgotamī Therī is finished.
 
 [^9]: here the text (in both PTS and BJTS editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be better here.
 
-[^10]: *gatā,* lit., “gone to,” perhaps to be read as “given to”
+[^10]: *gatā*, lit., “gone to,” perhaps to be read as “given to”
 
-[^11]: *yadā ca,* lit., “and when”
+[^11]: *yadā ca*, lit., “and when”
 
 [^12]: *sukheṭhito*, lit., “fixed in comfort”
 
@@ -229,21 +240,21 @@ The legend of Kisāgotamī Therī is finished.
 
 [^15]: reading *bhisamuttamaŋ* for PTS *‘Bhisamuttamaŋ* (“the ultimate Abhisa”); BJTS reads *bhisajuttamaṃ*
 
-[^16]: *puttasañjīvanaŋ;* RD cites *this* passage at *sañjīvana,* s.v. (“reviving”)
+[^16]: *puttasañjīvanaŋ;* RD cites *this* passage at *sañjīvana*, s.v. (“reviving”)
 
-[^17]: *vinayopāyakovido,* lit., “skilled in tricks/expedients in the way of speaking”
+[^17]: *vinayopāyakovido*, lit., “skilled in tricks/expedients in the way of speaking”
 
 [^18]: *siddhatthakan*. See RD s.v., again citing *this* passage
 
-[^19]: *madurassaro *
+[^19]: *madurassaro*
 
-[^20]: *dhammo.* The term, usually translated “Teaching” here, has a wide semantic range including teaching, doctrine, truth. destiny, fact, thing. An alternate translation, using the play here on the various “teachings” and “*the* Teaching,” would be: “Not a village-teaching and not a town-teaching, also not a teaching for one family./ *This* Teaching is for the whole world with \[its\] gods: that which is, is impermanent.”
+[^20]: *dhammo*. The term, usually translated “Teaching” here, has a wide semantic range including teaching, doctrine, truth. destiny, fact, thing. An alternate translation, using the play here on the various “teachings” and “*the* Teaching,” would be: “Not a village-teaching and not a town-teaching, also not a teaching for one family./ *This* Teaching is for the whole world with \[its\] gods: that which is, is impermanent.”
 
 [^21]: both PTS and BJTS present this in a more complex, 12-11-11-12 meter, and I translate accordingly.
 
-[^22]: *jinasāsane,* lit., “in the Victor’s dispensation”
+[^22]: *jinasāsane*, lit., “in the Victor’s dispensation”
 
-[^23]: *satthu sāsanakārikā,* lit., “\[I am\] a doer of the Teacher’s dispensation”
+[^23]: *satthu sāsanakārikā*, lit., “\[I am\] a doer of the Teacher’s dispensation”
 
 [^24]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I became”)
 

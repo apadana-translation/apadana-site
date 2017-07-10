@@ -1,5 +1,14 @@
-*Kuṇḍalakesā Chapter, the Third*  
-*\[21. Bhaddā-Kuṇḍalakesā*[^1]*\]*  
+---
+title: Bhaddā-Kuṇḍalakesā
+order: 21
+layout: poem
+category: chapter-4
+---
+
+## Kuṇḍalakesā Chapter, the Third
+
+### \[21. Bhaddā-Kuṇḍalakesā[^1]\]
+
 The Victor, Padumuttara,  
 was a Master of Everything.  
 \[That\] Leader arose in the world  
@@ -11,7 +20,7 @@ glistening with various gems,
 endowed with supreme happiness. (2) \[640\]
 
 Having approached that Great Hero,  
-I heard \[him\] preaching the *Dhamma.*  
+I heard \[him\] preaching the *Dhamma*.  
 Then, pleasure born \[in my heart,\] I  
 approached the Victor for refuge. (3) \[641\]
 
@@ -87,7 +96,8 @@ doing \[our\] practice with vigor
 in virginal celibacy,  
 for twenty times a thousand years,  
 fond of waiting on the Buddha,  
-\[the king’s\] seven joyful daughters. (17-18) \[655-656\]  
+\[the king’s\] seven joyful daughters. (17-18) \[655-656\]
+
 Samaṇī, and Samaṇaguttā,[^13]  
 Bhikkhunī, Bhikkhadāyikā,  
 Dhammā, and also Sudhammā,  
@@ -213,7 +223,8 @@ asked to go forth and be ordained.[^33]
 At that time he said \[this to me:\]  
 “Come, lucky one,” \[said\] the Leader.  
 Then being fully ordained, I  
-saw a little bit of water. (43-44) \[681-682\]  
+saw a little bit of water. (43-44) \[681-682\]
+
 Cleaning \[my\] feet, discerning \[that\]  
 \[some water splashed\] up, \[some spilled\] down,[^34]  
 then at that time I realized,  
@@ -264,18 +275,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (54) \[692\]
 
-Thus indeed Bhikkhunī Bhaddā-Kuṇḍalakesā spoke these verses.  
+Thus indeed Bhikkhunī Bhaddā-Kuṇḍalakesā spoke these verses.
+
 The legend of Bhaddā-Kuṇḍalakesā Therī is finished.
 
 [^1]: “Lucky one with Tangled Hair,” a historical nun, remembered as foremost among those nuns with quick intuition
 
-[^2]: *bhikkhuniŋ subhaŋ,* lit., “a Buddhist nun who was pure” (or “who was good”)
+[^2]: *bhikkhuniŋ subhaŋ*, lit., “a Buddhist nun who was pure” (or “who was good”)
 
-[^3]: *aggatte ṭhapesi,* lit., “fixed in foremostness”
+[^3]: *aggatte ṭhapesi*, lit., “fixed in foremostness”
 
 [^4]: *khippābhiññānam*
 
-[^5]: “Bhaddā” is her name as well as term of endearment (which is also used for those whose name it is not, e.g, *Khemāpadāna,* v. 84 \[498\], above)
+[^5]: “Bhaddā” is her name as well as term of endearment (which is also used for those whose name it is not, e.g, *Khemāpadāna*, v. 84 \[498\], above)
 
 [^6]: reading *hessasi* with BJTS for PTS *hessati* (“she will be”)
 
@@ -283,13 +295,13 @@ The legend of Bhaddā-Kuṇḍalakesā Therī is finished.
 
 [^8]: BJTS reads *nimmāṇaratiṃ*
 
-[^9]: *anekakappesu,* lit., “during various aeons”
+[^9]: *anekakappesu*, lit., “during various aeons”
 
 [^10]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
 
 [^11]: “Alms-giver”. Texts read Bhikkhadāyī
 
-[^12]: *sukhe ṭhitā,* lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
+[^12]: *sukhe ṭhitā*, lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
 
 [^13]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*ca*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
 
@@ -301,11 +313,11 @@ The legend of Bhaddā-Kuṇḍalakesā Therī is finished.
 
 [^17]: lit., “born in a rich clan of millionaires”
 
-[^18]: *yobbane ṭhitā,* lit., “established in youth” or “when I attained puberty”
+[^18]: *yobbane ṭhitā*, lit., “established in youth” or “when I attained puberty”
 
 [^19]: lit., “in order to be executed” (*vadhatthaŋ*). In the era to which *Apadāna* belongs, this would likely have implied beheading.
 
-[^20]: *me bhūsanalobhena,* lit., “out of greed for my ornaments”
+[^20]: *me bhūsanalobhena*, lit., “out of greed for my ornaments”
 
 [^21]: reading *khalitajjhāsayo diso* (lit., “enemy intent on wrong-doing”) with BJTS for PTS *mālapaccāhataŋ diso* (“\[led me\] carrying a garland, the enemy”)
 
@@ -313,11 +325,11 @@ The legend of Bhaddā-Kuṇḍalakesā Therī is finished.
 
 [^23]: “Enemy,” but apparently used as a proper name
 
-[^24]: *paṇāmetvāna...sukatañjalī*
+[^24]: *paṇāmetvāna…sukatañjalī*
 
 [^25]: “slave” being the seventh of the seven types of wives
 
-[^26]: or “since I reached puberty,” *yato patto ‘smi viññutaŋ,* lit., “starting from when I reached puberty;”
+[^26]: or “since I reached puberty,” *yato patto ‘smi viññutaŋ*, lit., “starting from when I reached puberty;”
 
 [^27]: *puno*, lit., “again”
 
@@ -329,7 +341,7 @@ The legend of Bhaddā-Kuṇḍalakesā Therī is finished.
 
 [^31]: or “cut”: *chinnaŋ*
 
-[^32]: *nimittaŋ alabhiŋ,* lit., “I got it as an object of concentration”
+[^32]: *nimittaŋ alabhiŋ*, lit., “I got it as an object of concentration”
 
 [^33]: lit., “I asked for going forth and for higher ordination”
 
@@ -337,7 +349,7 @@ The legend of Bhaddā-Kuṇḍalakesā Therī is finished.
 
 [^35]: *anupādaya* or “with not-clinging”
 
-[^36]: *satthu sāsanakārikā,* lit., “\[I am\] a doer of the Teacher’s dispensation”
+[^36]: *satthu sāsanakārikā*, lit., “\[I am\] a doer of the Teacher’s dispensation”
 
 [^37]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I became”)
 
