@@ -17,30 +17,30 @@ through what causes do they become \[so\], Hero?”[^2] \[1\][^3]
 Then spoke the Omniscient, Outstanding, Great Sage,  
 to lucky Ānanda with \[his\] honeyed voice,  
 “Who performed service among former Buddhas,  
-\[but\] didn’t get freed in those Victors’ teachings,[^4] \[2\]
+\[but\] didn’t get freed in their dispensations,[^4] \[2\]
 
-because that’s the means to awaken, the Wise,  
+because that is the means to awaken, wise,  
+they with sharp knowing, through knowledge and power,  
 because of \[their\] wishes \[and\] also great strength,  
-through knowledge and power, those with sharp knowing  
 do come to attain that state of omniscience. \[3\]
 
-I too among former Buddhas    
+I too among former Buddhas  
 did wish to become a Buddha.[^5]  
 Through \[my\] mind alone there were  
-innumerable *Dhamma*-kings. \[4\]
+innumerable *Dhamma*-kings.” \[4\]
 
-\[Now\] listen, with purified minds  
+\[Now\] listen, with purified minds,  
 to the legends of the Buddhas,  
 innumerable *Dhamma*-kings  
 who fulfilled thirty perfections. (1) \[5\]
 
-I worshipped them \[bowing\] my head  
-with ten fingers pressed having praised  
-those World-Chiefs with \[their\] followers  
-\[and\] the Best Buddhas’ Awakening. (2) \[6\]
+I worshipped them \[bowing\] my head,  
+having praised with ten fingers pressed,  
+those World-Chiefs with followers \[and\]  
+the Best Buddhas’ Awakening. (2) \[6\]
 
 I brought it all forth with my mind:  
-things on the ground and in the sky  
+things on the ground and in the sky,  
 uncountable as are the gems  
 found in the fields of the Buddhas. (3) \[7\]
 
@@ -52,7 +52,7 @@ arose and stretched up toward the sky. (4) \[8\]
 There were varied well-made pillars,  
 well-proportioned, very costly.  
 The central beam was made of gold,  
-the gateway canopy-adorned. (5) \[9\]
+the gate was canopy-adorned. (5) \[9\]
 
 The first floor, lapis lazuli,  
 was lovely as a stainless cloud.  
@@ -101,8 +101,8 @@ fibrous cloth and yellow garments.
 All of these various carpets  
 I laid out \[on them\] with my mind. (14) \[17e-f, 18\]
 
-On this floor and that \[floor\] too  
-ornamented with huts of gems  
+On this floor and that \[floor\] too,  
+ornamented with huts of gems,  
 effulgent torches \[made of\] gems  
 are being carried and fixed well. (15) \[19\]
 
@@ -132,7 +132,7 @@ and those who lived in former times:
 I brought[^12] them all into the world.[^13] (20) \[24\]
 
 Lonely Buddhas, many hundreds,  
-self-dependent, unconquered ones,  
+Self-dependent, Unconquered Ones,  
 and those who lived in former times:  
 I brought them all into the world. (21) \[25\]
 
@@ -154,24 +154,24 @@ with milk-rice,[^14] each one satisfied,
 \[they formed\] an exalted circle. (24) \[28, 29a-b\]
 
 Having entered a jeweled room  
-like a lion its secret cave  
+like a lion its secret cave,  
 they got onto priceless couches  
 in the sleeping-lion posture. (25) \[29c-d, 30a-b\]
 
 Mindfully rising up they \[then\]  
 sat cross-legged on those couches,  
-filled with delight in altered states  
+filled with delight in altered states,  
 the pasturage of all Buddhas. (26) \[30c-f\]
 
-Some are preaching their doctrines \[then\],  
+Some are preaching their doctrines[^15] \[then\],  
 \[while\] others sport in miracles.  
-Others apply special knowledges,[^15]  
+Others apply special knowledges,[^16]  
 masters of special knowledges.  
 Various lakhs of others still  
-transform into various shapes.[^16] (27) \[31\]
+transform into various shapes.[^17] (27) \[31\]
 
 Buddhas are questioning Buddhas  
-about the range of omniscience.[^17]  
+about the range of omniscience.[^18]  
 Understanding deep, abstruse points,  
 they achieve their Awakenings. (28) \[32\]
 
@@ -180,34 +180,34 @@ Buddhas questioning followers.
 Questioning one another they  
 \[then\] provide each other answers. (29) \[33\]
 
-Buddhas and Lonely Buddhas \[too\]  
-followers and the attendants  
-thus delighting in devotions  
+Buddhas and Lonely Buddhas \[too,\]  
+followers and the attendants,  
+thus delighting in devotions,  
 are really enjoying the palace. (30) \[34\]
 
 Let there be carried over head  
 a pearl-net-draped umbrella,  
 combined with \[more\] nets made of gold  
-and also of silver and gems. (31) \[35\][^18]
+and also of silver and gems. (31) \[35\][^19]
 
-Let there be awnings made of cloth  
+Let there be awnings made of cloth,  
 decorated with golden stars  
-and with diverse garlands spread out,  
+and with diverse garlands spread out;  
 let all be carried over head. (32) \[36\]
 
-They are spread out with flowered wreaths,  
+They are spread out with floral wreaths,  
 \[and\] beautified with scented wreaths;  
 studded with wreaths made out of cloth  
 decorated with wreaths of gems. (33) \[37\]
 
 They are strewn with varied flowers,  
 \[and\] scented with fragrant perfumes,  
-marked with special scented palm-prints,[^19]  
+marked with special scented palm-prints,[^20]  
 \[and\] covered with golden covers. (34) \[38\]
 
-Let lotus-ponds in four directions  
-full of lotuses and lilies  
-appear like they were formed of gold  
+Let lotus-ponds in four directions,  
+full of lotuses and lilies,  
+appear like they were formed of gold,  
 exuding dusty lotus-pollen. (35) \[39\]
 
 Let all the trees that are around  
@@ -216,20 +216,20 @@ And in the evening let those flowers
 release sweet scents, sprinkling the realm. (36) \[40\]
 
 Let peacocks there begin to dance  
-to the songs of heavenly swans  
+to the songs of heavenly swans,  
 and let cuckoos make melodies:  
 on all sides \[there’s\] a choir of birds. (37) \[41\]
 
 Let all the drums \[now\] be sounded;  
-let all the stringed instruments[^20] wail.  
+let all the stringed instruments[^21] wail.  
 Let all the choruses commence  
 on every side of the palace. (38) \[42\]
 
-Let there be couches made of gold --  
+Let there be couches made of gold —  
 very large, endowed with brightness,  
-without blemish, fashioned with gems --  
+without blemish, fashioned with gems —  
 throughout the field of the Buddhas,  
-and in the universe beyond.[^21]  
+and in the universe beyond.[^22]  
 Let the stands of lamps be lighted;  
 let a series of ten thousand  
 all burn as though one single flame. (39-40) \[43-44\]
@@ -240,19 +240,19 @@ Let them put on various shows
 on all the sides of the palace. (41) \[45\]
 
 On tree top or mountain top  
-or the crest of Mount Sineru  
-I am raising up all the flags  
+or the crest of Mount Sineru,  
+I am raising up all the flags,  
 decorated \[and\] five-colored. (42) \[46\]
 
-Let people, snake-gods, music-nymphs[^22]  
+Let people, snake-gods, music-nymphs[^23]  
 and all the gods come forth \[as well\];  
-in homage, hands pressed together  
+in homage, hands pressed together,  
 they attended on the palace. (43) \[47\]
 
 Whatever is wholesome karma,  
 which deeds were to be done by me,  
-with body, speech and with my mind  
-\[I\] did them well \[to reach\] heaven.[^23] (44) \[48\]
+with body, speech and with my mind,  
+\[I\] did them well \[to reach\] heaven.[^24] (44) \[48\]
 
 Whichever beings have consciousness  
 and also those who aren’t conscious,  
@@ -266,18 +266,18 @@ to \[all\] those who were unaware. (46) \[50\]
 
 Let all the beings in all worlds  
 whose lives depend on eating food  
-receive by means of my own mind[^24]  
+receive by means of my own mind[^25]  
 all appetizing things to eat! (47) \[51\]
 
 With my mind these alms were given,  
-with my mind the palace was built  
+with my mind the palace was built,  
 and likewise so were worshipped all  
-the Buddhas, Lonelies and disciples. (48) \[52\]
+the Buddhas, Lonelies and followers. (48) \[52\]
 
-Due to that karma so well done[^25]  
+Due to that karma done very well,[^26]  
 with intention and \[firm\] resolve,  
 discarding \[my\] human body  
-I went to Tāvatiṃsa \[then\]. (49) \[53\]
+I went to Tāvatiṃsa[^27] \[then\]. (49) \[53\]
 
 I witness two kinds of rebirth,  
 as a human and as a god.  
@@ -286,7 +286,7 @@ that’s the fruit of mental wishes. (50) \[54\]
 
 Among the gods I am the chief;  
 I am the ruler among men.  
-Endowed with beauty and \[good\] marks  
+Endowed with beauty and \[good\] marks,  
 in knowledge unrivaled \[each\] birth. (51) \[55\]
 
 Savory foods of different types  
@@ -296,47 +296,47 @@ quickly come to me from the sky. (52) \[56\]
 
 On flat earth, so on a mountain,  
 in the air, in water or woods,  
-whenever I stretch out my hand  
+whenever I stretch out my hand,  
 divine foods are coming to me. (53) \[57\]
 
 On flat earth, so on a mountain,  
 in the air, in water or woods,  
-whenever I stretch out my hand  
+whenever I stretch out my hand,  
 all gemstones are coming to me. (54) \[58\]
 
 On flat earth, so on a mountain,  
 in the air, in water or woods,  
-whenever I stretch out my hand  
+whenever I stretch out my hand,  
 all perfumes are coming to me. (55) \[59\]
 
 On flat earth, so on a mountain,  
 in the air, in water or woods,  
-whenever I stretch out my hand  
+whenever I stretch out my hand,  
 all vehicles \[then\] come to me. (56) \[60\]
 
 On flat earth, so on a mountain,  
 in the air, in water or woods,  
-whenever I stretch out my hand  
+whenever I stretch out my hand,  
 all garlands are coming to me. (57) \[61\]
 
 On flat earth, so on a mountain,  
 in the air, in water or woods,  
-whenever I stretch out my hand  
+whenever I stretch out my hand,  
 all ornaments \[then\] come to me. (58) \[62\]
 
 On flat earth, so on a mountain,  
 in the air, in water or woods,  
-whenever I stretch out my hand  
+whenever I stretch out my hand,  
 all maidens are coming to me. (59) \[63\]
 
 On flat earth, so on a mountain,  
 in the air, in water or woods,  
-whenever I stretch out my hand  
+whenever I stretch out my hand,  
 granulated sugar comes to me. (60) \[64\]
 
 On flat earth, so on a mountain,  
 in the air, in water or woods,  
-whenever I stretch out my hand  
+whenever I stretch out my hand,  
 all solid foodstuffs come to me. (61) \[65\]
 
 To attain supreme Awakening  
@@ -346,7 +346,7 @@ to beggars and to travelers. (62) \[66\]
 
 Making the rocky mountains shout  
 and \[likewise\] making dense hills roar,  
-making the world with \[its\] gods smile  
+making the world with \[its\] gods smile,  
 I become Buddha in the world. (63) \[67\]
 
 There’s no end to going about  
@@ -362,7 +362,7 @@ and vast effulgence is produced. (65) \[69\]
 In so many universes  
 let all the people see me \[there\].  
 Let them all be made \[most\] happy  
-and follow me as their model. (66) \[70\][^26]
+and follow me as their model. (66) \[70\][^28]
 
 Beat the drum of deathlessness  
 with its sweet \[and\] distinguished sound.  
@@ -379,14 +379,14 @@ fully fulfilling the precepts.
 Going into perfect disgust,  
 supreme Awakening’s attained. (69) \[73\]
 
-Having inquired of the learned  
-having made extreme exertion  
-going into perfect patience  
+Having inquired of the learned,  
+having made extreme exertion,  
+going into perfect patience,  
 supreme Awakening’s attained. (70) \[74\]
 
-Strengthening my resolution  
+Strengthening my resolution,  
 I fulfilled the truth-perfection.  
-Going into perfect loving  
+Going into perfect loving,  
 supreme Awakening’s attained. (71) \[75\]
 
 In getting and in not getting  
@@ -394,7 +394,7 @@ in pain or pleasure, scorn or fame,
 remaining everywhere the same  
 supreme Awakening’s attained. (72) \[76\]
 
-Looking at laziness with fear  
+Looking at laziness with fear,  
 and with love upon exertion,  
 be those exerting selves with faith;  
 that’s the advice of the Buddhas. (73) \[77\]
@@ -410,43 +410,72 @@ and with love upon attention,
 that’s the advice of the Buddhas. (75) \[79\]
 
 Many Buddhas come together  
-and also all the Arahants.  
+and also all the arahants.  
 Pay homage while you’re worshipping  
-the Buddhas and the Arahants. (76) \[80\]
+the Buddhas and the arahants. (76) \[80\]
 
 Thus the Buddhas can’t be fathomed;  
 unfathomable their Teaching.  
 Unfathomable’s the result  
 of pleasure in what can’t be fathomed. (77) \[81\]
 
-Thus the Blessed One spoke the short discourse on dharma called “The
-Legend of the Buddhas” which was productive of his own Buddha-conduct.
+Thus the Blessed One spoke the short discourse on *Dhamma* called “The
+Legend of the Buddhas” which was productive of his own Buddha-conduct.  
 
 The Legend of the Buddhas is completed.
 
 [^1]: The Sage of Videha is Ānanda, the Buddha’s cousin and personal attendant.
+
 [^2]: BJTS alt. reads *dhīra* (“Wise One”) for *vīra* (“Hero”)
+
 [^3]: The first four verses of BJTS are not found in PTS. The first three verses of BJTS are in the more elaborate meter, with eleven syllables per foot, that characterizes the following *Paccekabuddhāpadāna* (and the *sutta* from which it in turn draws), so I have translated accordingly. Indeed, with very small changes, these first three verses are also the first three verses of *Paccekabuddhāpadāna*, even in the PTS edition.
-[^4]: or “dispensation:” *°sāsanesu*
-[^5]: Lit., “did wish for Buddhahood.”
+
+[^4]: *jinasāsanesu,* lit., “in the Victors’ dispensations”
+
+[^5]: lit., “did wish for Buddhahood.”
+
 [^6]: *indagopaka*
-[^7]: I take *sampītaŋ* (BJTS *suppītaṃ*) from *pīta,* “well-saturated.”
+
+[^7]: I take *sampītaŋ* (BJTS *suppītaṃ*) from *pīta*, “well-saturated.”
+
 [^8]: lit., “various”
-[^9]: jambonadā, a special and much-prized variety of gold
-[^10]: reading *sandhī suvibhattā* (BJTS, Hew) for *sandhīsu vibhattā* (“divided into openings,”PTS)
-[^11]: or “noble diagram,” *ariyamaṇḍalā.*
+
+[^9]: *jambonadā,* a special and much-prized variety of gold
+
+[^10]: reading *sandhī suvibhattā* (BJTS, Hew) for *sandhīsu vibhattā* (“divided into openings,” PTS)
+
+[^11]: or “noble diagram,” *ariyamaṇḍalā*.
+
 [^12]: lit., “were brought”.
+
 [^13]: or “into \[my\] residence” or “into \[that conjured up\] residence.”
-[^14]: lit., “with the ultimate food,” *parama-anna*. The Sinhala tradition understands this to be milk-rice *(kiri-bat*), which in Sri Lanka is typically made by boiling the rice in coconut milk rather than cow’s milk. In ancient India, the latter was more likely the case. The term may also mean, more literally, “outstanding food.”
-[^15]: list these here, first usage
-[^16]: lit., transforming themselves into magical transformations
-[^17]: lit., “about the range of the realm of omniscience.”
-[^18]: here the reading of the Hewawitarne and BJTS editions, echoed in the commentary, is significantly different: “Let there be umbrellas of gems/with gilded handles of scented bamboo//covered in a net of pearls./Let them all be carried out front.”
-[^19]: the palm-print is *pañcaṅguli* or *pañcaṅgulika,* SInhala *pasaṅgul.* Pali-SInhala-English Dictionary gives: “a mark of five fingers made after the hand immersing \[sic\] in a solution of sandalwood.” Here the text specifies that it was scented (*gandha°*).
-[^20]: *vina.*
-[^21]: reading *tato pare* with BJTS for PTS *ca-m-uppari*
-[^22]: *gandhabba = gandharva*
-[^23]: lit., “for \[birth among\] the Thirty\[-Three gods who reside in Tāvatiṃsa heaven\]”. The BJTS Sinhala gloss understands this to imply that the *karma* was *kusala* (“wholesome”) in that it was done for the sake of being reborn in that heaven/among those gods.
-[^24]: BJTS reads *tejasā,* “by means of my power/inner heat”.
-[^25]: *tena kammena sukatena*, a common foot in *Apadāna* which however breaks meter in the Pāli, having nine rather than the expected eight syllables. It could be emended to *tena sukatakammena* in order to keep meter in the verses where it appears, but the Pāli does not witness that. Cf. \[5706\], below, for a variant *tena kammavisesana,* which does keep the meter.
-[^26]: Hewawitarne reads, perhaps preferably: “all the way to Brahma’s home let them follow my example.” BJTS also records mss. that provide this reading, and gives it parenthetically as an additional line.
+
+[^14]: lit., “with the ultimate food,” *parama-anna*. The Sinhala tradition understands this to be milk-rice (*kiri-bat*), which in Sri Lanka is typically made by boiling the rice in coconut milk rather than cow’s milk. In ancient India, the latter was more likely the case. The term may also mean, more generally, “outstanding food.”
+
+[^15]: *dhammāni*
+
+[^16]: *abhiññā,* classically six in number: superpowers or miraculous powers (*iddhi*), “divine ear” (*dibbasotu*), knowing others’ hearts/minds/thoughts, recalling one’s own previous lives, knowing others’ rebirths, certainty of nirvana. The first five are generally accessible religious goals; the sixth is experienced only by Buddhist arahants.
+
+[^17]: lit., transforming themselves into magical transformations
+
+[^18]: lit., “about the range of the realm of omniscience.”
+
+[^19]: here the reading of the Hewawitarne and BJTS editions, echoed in the commentary, is significantly different: “Let there be umbrellas of gems/with gilded handles of scented bamboo//covered in a net of pearls./Let them all be carried out front.”
+
+[^20]: the palm-print is *pañcaṅguli* or *pañcaṅgulika*, Sinhala *pasaṅgul*. Pali-Sinhala-English Dictionary gives: “a mark of five fingers made after the hand immersing \[sic\] in a solution of sandalwood.” Here the text specifies that it was scented (*gandha°*).
+
+[^21]: *vina.*
+
+[^22]: reading *tato pare* with BJTS for PTS *ca-m-uppari*
+
+[^23]: *gandhabba = gandharva*
+
+[^24]: lit., “for \[birth among\] the Thirty\[-Three gods who reside in Tāvatiṃsa heaven\]”. The BJTS Sinhala gloss understands this to imply that the *karma* was *kusala* (“wholesome”) in that it was done for the sake of being reborn in that heaven/among those gods.
+
+[^25]: BJTS reads *tejasā*, “by means of my power/inner heat”.
+
+[^26]: *tena kammena sukatena* is a common foot in *Apadāna* which however breaks meter in the Pāli, having nine rather than the expected eight syllables. It easily could be emended to *tena sukatakammena* in order to keep meter in the numerous verses where it appears, but the Pāli does not witness that. Cf. \[5706\], below, for a variant *tena kammavisesana*, which does keep the meter. While I am tempted to emend the English so that the foot does keep the eight-syllable meter, “Due to that karma done very well,” I have maintained the lack of metricality — might this be somehow intentional, as to call special intention to this repeated verse? — by translating, “due to that karma done very well,” throughout.
+
+[^27]: a heaven of great pleasure, sometimes identified by “the thirty” or “the thirty-three” gods who dwell there.
+
+[^28]: Hewawitarne reads, perhaps preferably: “all the way to Brahma’s home, let them follow my example.” BJTS also records mss. that provide this reading, and gives it parenthetically as an additional line.

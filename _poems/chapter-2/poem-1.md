@@ -1,32 +1,32 @@
 ---
 title: The Legend of the Lonely Buddhas
 layout: poem
-category: chapter-2
+category: chapter-1
 ---
 
 # The Legend of the Lonely Buddhas
 
 Now listen to the legend of the Lonely Buddhas:
 
-The Sage of Vedeha,[^1] his body bent,  
-asked the Thus-Gone-One dwelling in Jetavana,  
+The Sage of Vedeha,[^1] his body bent, asked  
+the Thus-Gone-One dwelling in Jetavana,  
 “Indeed there are those \[called\] the Lonely Buddhas;[^2]  
 through what causes do they become \[so\], Wise One?” (1) \[82\][^3]
 
 Then spoke the Omniscient, Outstanding, Great Sage,  
 to lucky Ānanda with \[his\] honeyed voice,  
 “Who performed service among former[^4] Buddhas,  
-\[but\] didn’t get freed in those Victors’ teachings,[^5] (2) \[83\]
+\[but\] didn’t get freed in their dispensations,[^5] (2) \[83\]
 
-because that’s the means to awaken, the Wise,  
+because that is the means to awaken, wise,  
+they with sharp knowing, through knowledge and power,  
 because of \[their\] wishes \[and\] also great strength,  
-through knowledge and power, those with sharp knowing  
 reach the Awakening of Lonely \[Buddhas\]. (3) \[84\]
 
 In every world, with the exception of me,  
 there is no equal for the Lonely Buddhas.  
 I will describe a piece of the excellent  
-character[^6] of those Buddhas, the Great Sages. (4) \[85\]
+character[^6] of those Buddhas, the Great Sages.” (4) \[85\]
 
 All of you, with well-pleased minds,[^7] aspiring for  
 the unsurpassed medicine, hear, by yourselves,  
@@ -35,7 +35,7 @@ of those Great Sages who were Lonely Buddhas, (5) \[86\]
 
 which are explanations of generations  
 of Lonely Buddhas who gathered together,  
-and a story of dispassion for danger[^9]  
+and a story of dispassion for danger,[^9]  
 and likewise \[how\] they achieved Awakening. (6) \[87\]
 
 With awareness detached from passionate things,  
@@ -100,12 +100,12 @@ one should wander alone, like a rhino’s horn. (18) \[99\][^25]
 
 If one should obtain a clever companion,  
 a co-wanderer who lives well \[and\] is wise,  
-after having overcome every trouble  
+after having overcome every trouble,  
 one would wander with that one, thrilled \[and\] mindful. (19) \[100\][^26]
 
 If one should not get a clever companion,  
 a co-wanderer who lives well \[and\] is wise,  
-\[then\] like a king quitting a conquered kingdom  
+\[then\] like a king quitting a conquered kingdom,  
 one should wander alone, like tuskers in the woods.[^27] (20) \[101\][^28]
 
 Truly we’re praising success with companions;  
@@ -114,7 +114,7 @@ Not getting those, not enjoying sinful things,
 one should wander alone, like a rhino’s horn. (21) \[102\][^30]
 
 Seeing shiny \[bangles made out\] of \[fine\] gold,  
-which have been well-made by the son of a smith,  
+which have been well-made by the son of a smith,\
 banging together when two are on \[one\] arm  
 one should wander alone, like a rhino’s horn. (22) \[103\][^31]
 
@@ -135,7 +135,7 @@ one should wander alone, like a rhino’s horn. (25) \[106\][^35]
 
 \[Freezing\] cold and \[scorching\] heat, hunger and thirst,  
 wind \[and\] hot weather and gadflies \[and\] serpents:  
-having vanquished even all of those \[problems\]  
+having vanquished even all of those \[problems,\]  
 one should wander alone, like a rhino’s horn. (26) \[107\][^36]
 
 Just as a noble elephant with a full-  
@@ -175,7 +175,7 @@ one should wander alone, like a rhino’s horn. (33) \[114\][^49]
 
 Having given up sense pleasures completely,  
 \[including\] sons and wives, father \[and\] mother,  
-wealth and grain and also \[all one’s\] relatives  
+wealth and grain and also \[all one’s\] relatives,  
 one should wander alone, like a rhino’s horn. (34) \[115\][^50]
 
 Mindful, discerning, “this is an attachment;  
@@ -219,7 +219,7 @@ with firm exertion, having strength and power,
 one should wander alone, like a rhino’s horn. (42) \[123\][^66]
 
 Not quitting solitude \[or\] meditation,  
-among things always living by the Teaching,  
+always living among things by the Teaching,  
 grasping the danger within existences,  
 one should wander alone, like a rhino’s horn. (43) \[124\][^67]
 
@@ -256,14 +256,14 @@ One should wander alone, like a rhino’s horn. (49) \[130\][^76]
 With Pure Morals and With Very Pure Wisdom,  
 Attentive, Applying Selves to Mindfulness,  
 Insightful, Seeing the Teaching’s Distinction,  
-knowing the aspects of path \[and\] of wisdom,[^77] (50) \[131\]
+Knowing the Aspects of Path \[and\] of Wisdom,[^77] (50) \[131\]
 
 in a Victor’s dispensation practicing  
 merit, aspiration \[and\] thus \[gaining\] signs,[^78]  
 Wise Ones who don’t go on to have followers  
 become Lonely Victors, \[those\] Self-Become Ones. (51) \[132\]
 
-With Vast *Dhamma,*[^79] \[and\] Many *Dhamma*-Bodies,[^80]  
+With Vast *Dhamma*,[^79] \[and\] Many *Dhamma*-Bodies,[^80]  
 Mind-Lords,[^81] Crossing the Flood of All Suffering,[^82]  
 With Thrilled Minds,[^83] Seers of the Ultimate Goal,[^84]  
 Analogues of Lions,[^85] Like a Rhino’s Horn,[^86] (52) \[133\]
@@ -300,31 +300,31 @@ for increasing emotion and connection.[^109] (58) \[139\]
 
 The Legend of the Lonely Buddhas is finished.[^110]
 
-[^1]: the Sage of Videha is Ānanda, the Buddha’s cousin and personal attendant.
+[^1]: The Sage of Videha is Ānanda, the Buddha’s cousin and personal attendant
 
 [^2]: *paccekabuddhā*
 
-[^3]: This and the following two verses correspond to the first three verses of *Buddhāpadāna,* above, where they are however found only in the BJTS edition; here, PTS agrees with BJTS in including them. They are in the more elaborate meter, with eleven syllables per foot, that characterizes the entire *Paccekabuddhāpadāna* (and the *sutta* from which it in turn draws, SN I.3), so I have translated accordingly.
+[^3]: This and the following two verses correspond to the first three verses of *Buddhāpadāna*, above, where they are however found only in the BJTS edition; here, PTS agrees with BJTS in including them. They are in the more elaborate meter, with eleven syllables per foot, that characterizes the entire *Paccekabuddhāpadāna* (and the *sutta* from which it in turn draws, SN I.3), so I have translated accordingly.
 
 [^4]: reading *pubba°* with BJTS (and PTS alt., and BJTS \[2\], above) for PTS *sabba°* (“all”)
 
-[^5]: or “dispensations:” *°sāsanesu*
+[^5]: j*inasāsanesu,* lit., “Victors’ dispensations”
 
 [^6]: *vaṇṇa-padesa-mattaŋ*
 
-[^7]: or, reading *sabbesu pasannacittā,* “with minds pleased in all of those \[Lonely Buddhas\]”
+[^7]: or, reading *sabbesu pasannacittā*, “with minds pleased in all of those \[Lonely Buddhas\]”
 
-[^8]: or read *madhuṃ va khuddaṃ* (“sweet like honey”) with BJTS, as below even in PTS (v. 56)?
+[^8]: or read *madhuṃ va khuddaṃ* (“sweet like honey”) with BJTS, as below even in PTS (v. 56)
 
-[^9]: *ādīnavo yañ ca*, BJTS Sinhala gloss *kāmayen*, i.e., “the danger” is (as *ādīnavo* connotes) passion itself.
+[^9]: *ādīnavo yañ ca,* BJTS Sinhala gloss *kāmayen*, i.e., “the danger” is (as *ādīnavo* connotes) passion itself
 
 [^10]: reading *tath’ eva* with BJTS for PTS *tatth’ eva* (“there indeed”)
 
-[^11]: BJTS adds the Pāli note: *ayaṃ gāthā marammapothake ca suttanipāte ca na vijjjati,* “this verse is not found in the Burmese edition nor \[lit., “and”\] in *Suttanipāta*,” referring to the remarkable fact that even though the following text is lifted almost verbatim from the “Rhinocerous Horn” *sutta* of the *Sutta-nipāta* (I.3), corresponding as indicated in the footnotes on the following verses, this present verse in the *Paccekabuddhāpadāna*, though it follows the format of the *Sutta-nipāta sutta*, is not found in that *sutta* (nor, apparently, in Burmese manuscripts of *Apadāna*).
+[^11]: BJTS adds the Pāli note: *ayaṃ gāthā marammapothake ca suttanipāte ca na vijjjati*, “this verse is not found in the Burmese edition nor \[lit., “and”\] in *Suttanipāta*,” referring to the remarkable fact that even though the following text is lifted almost verbatim from the “Rhinocerous Horn” *sutta* of the *Sutta-nipāta* (I.3), corresponding as indicated in the footnotes on the following verses, this present verse in the *Paccekabuddhāpadāna*, though it follows the format of the *Sutta-nipāta sutta*, is not found in that *sutta* (nor, apparently, in Burmese manuscripts of *Apadāna*).
 
 [^12]: *kuto*, lit., “how then?” “from where?”
 
-[^13]: This is SN, v. 35
+[^13]: this is SN, v. 35
 
 [^14]: = SN, v. 36
 
@@ -346,7 +346,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^23]: = SN, v. 43
 
-[^24]: *koviḷāra*, species of ebony, Bauhinia variegata
+[^24]: *koviḷāra,* a species of ebony, Bauhinia variegata
 
 [^25]: = SN, v. 44
 
@@ -354,7 +354,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^27]: lit., “like a *mātaṅga* elephant in the woods (or forest)”
 
-[^28]: This corresponds to SN, v. 46 but the latter does not diverge from the standard refrain, reading as the fourth foot: “one should wander alone, like a rhino’s horn.”
+[^28]: this corresponds to SN, v. 46 but the latter does not diverge from the standard refrain, reading as the fourth foot: “one should wander alone, like a rhino’s horn”
 
 [^29]: lit., “companions”
 
@@ -374,7 +374,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^37]: = SN, v. 53
 
-[^38]: lit., “it is an impossibility (*aṭṭhāna*, for *a-ṭṭhānaṃ*, lit., “groundless”) that one...would touch”
+[^38]: lit., “it is an impossibility (*aṭṭhāna*, for *a-ṭṭhānaṃ*, lit., “groundless”) that one…would touch”
 
 [^39]: *Ādiccabandhussa.* Though elsewhere in *Apadāna* this epithet signals Sammāsambuddhas (especially Tissa), here, as BJTS gloss makes clear, it refers to the Paccekabuddha to whom the phrase in quotation marks is attributed.
 
@@ -382,7 +382,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^41]: = SN, v. 55
 
-[^42]: *niddhanta-kasāva=moho*, lit., “with faults and delusions blown away/purified/cleaned up”
+[^42]: *niddhanta-kasāva=moho,* lit., “with faults and delusions blown away/purified/cleaned up”
 
 [^43]: = SN, v. 56
 
@@ -394,7 +394,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^47]: *ca,* lit., “and”
 
-[^48]: *vibhūsanaṭṭhāṇā,* lit., “from a state of adornment”. The *°(ṭ)ṭhāṇā* here is largely superfluous, except in providing the ablative required by *virato,* and messes up the meter (13 syllables in this foot), but neither PTS nor BJTS indicates any hesitation about the reading. Norman, in his SN tr. (p. 9) reads *vibhūsanā* and omits *°ṭṭhāṇā*
+[^48]: *vibhūsanaṭṭhāṇā,* lit., “from a state of adornment”. The *°(ṭ)ṭhāṇā* here is largely superfluous, except in providing the ablative required by *virato*, and messes up the meter (13 syllables in this foot), but neither PTS nor BJTS indicates any hesitation about the reading. Norman, in his SN tr. (p. 9) reads *vibhūsanā* and omits *°ṭṭhāṇā*
 
 [^49]: = SN, v. 59
 
@@ -408,15 +408,15 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^54]: = SN, v. 62
 
-[^55]: *anavassuto*, lit., “not leaking” “not oozing”
+[^55]: *anavassuto,* lit., “not leaking” “not oozing”
 
 [^56]: = SN, v. 63
 
-[^57]: *pārichatto*, RD: Erythmia Indica, also a tree in Indra’s heaven
+[^57]: *pārichatto,* RD: Erythmia Indica, also a tree in Indra’s heaven
 
 [^58]: = SN, v. 64
 
-[^59]: *akaraŋ*, lit., “not doing”
+[^59]: *akaraŋ,* lit., “not doing”
 
 [^60]: *sapadānacārī*
 
@@ -440,7 +440,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^70]: = SN, v. 72
 
-[^71]: *ca*, lit., “and”
+[^71]: *ca,* lit., “and”
 
 [^72]: = SN, v. 73
 
@@ -450,7 +450,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^75]: or “hard to get,” *dullabhā*
 
-[^76]: = SN, v. 75. This is the concluding verse of this sermon in SN, and the remaining verses of this *apadāna* are apparently unique to it.
+[^76]: = SN, v. 75. This is the concluding verse of this sermon in SN, and the remaining nine verses of this *apadāna* are apparently original to it, as are its first eight verses, above.
 
 [^77]: lit., “of going in the aspects of path \[and\] the aspects of wisdom (*°bojjhaṅga°*)”
 
@@ -482,11 +482,11 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^91]: lit., “in” “among”
 
-[^92]: *paccantasattesu satippacārā*. BJTS reads *paccanta gambhīra-mata-ppacāra*, “Going About with Deep Thought for Neighboring \[Folks\]” (?)
+[^92]: *paccantasattesu satippacārā.* BJTS reads *paccanta gambhīra-mata-ppacāra*, “Going About with Deep Thought for Neighboring \[Folks\]” (?)
 
 [^93]: *Dīpā*
 
-[^94]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me* (“these...who are constantly friendly”)
+[^94]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me* (“these…who are constantly friendly”)
 
 [^95]: *pahīnasabbāvaraṇā*
 
@@ -498,7 +498,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^99]: *lokasudakkhiṇeyyā*
 
-[^100]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me* (“these...who are constantly friendly”)
+[^100]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me* (“these…who are constantly friendly”)
 
 [^101]: *subhāsitāni*
 
@@ -508,13 +508,13 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^104]: lit., “like”
 
-[^105]: BJTS reads *khuddam avassavantaṃ* (“flowing honey”) for PTS *khuddam iva ssavantam* (“like \[“as if they were”\] flowing honey”)*, *
+[^105]: BJTS reads *khuddam avassavantaṃ* (“flowing honey”) for PTS *khuddam iva ssavantam* (“like \[“as if they were”\] flowing honey”)
 
 [^106]: I follow BJTS Sinhala gloss in interpolating “the Four Noble Truths” here, as elsewhere more explicitly throughout *Apadāna*.
 
 [^107]: *Śākyasīhena*
 
-[^108]: *vikubbitāni*, lit., “miraculous transformations” (as through *iddhi* superpowers); the terms seems to agree with *subhāsitāni*, “clever sayings,” in vv. 55-56 = “lofty verses” in v. 57.
+[^108]: *vikubbitāni,* lit., “miraculous transformations” (as through *iddhi* superpowers); the term seems to agree with *subhāsitāni*, “clever sayings,” in vv. 55-56 = “lofty verses” in v. 57.
 
 [^109]: *saŋvegasaṅgāmativaḍḍhanatthaŋ*
 
