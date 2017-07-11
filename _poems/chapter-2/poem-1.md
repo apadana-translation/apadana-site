@@ -1,7 +1,7 @@
 ---
 title: The Legend of the Lonely Buddhas
 layout: poem
-category: chapter-1
+category: chapter-2
 ---
 
 # The Legend of the Lonely Buddhas
