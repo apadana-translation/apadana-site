@@ -225,9 +225,9 @@ let all the stringed instruments[^21] wail.
 Let all the choruses commence  
 on every side of the palace. (38) \[42\]
 
-Let there be couches made of gold --  
+Let there be couches made of gold —  
 very large, endowed with brightness,  
-without blemish, fashioned with gems --  
+without blemish, fashioned with gems —  
 throughout the field of the Buddhas,  
 and in the universe beyond.[^22]  
 Let the stands of lamps be lighted;  

@@ -231,7 +231,7 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^29]: *rittikā te atikkantā*
 
-[^30]: reading *pamuttā* with BJTS (and PTS alt.) for PTS *pavuttā*. The sense of the verse -- which I admit to finding cryptic -- seems to be, as BJTS gloss gives it, that this vast expanse of time was empty in the absence of Buddhas, who in achieving nirvana let go of (were not present in) the world.
+[^30]: reading *pamuttā* with BJTS (and PTS alt.) for PTS *pavuttā*. The sense of the verse — which I admit to finding cryptic — seems to be, as BJTS gloss gives it, that this vast expanse of time was empty in the absence of Buddhas, who in achieving nirvana let go of (were not present in) the world.
 
 [^31]: *tam ahaŋ payirūpāsitvā*
 

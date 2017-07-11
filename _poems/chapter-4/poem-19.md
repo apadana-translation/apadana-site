@@ -138,7 +138,7 @@ of Great Power,[^33] with followers. (25) \[536\]
 
 Sounding musical instruments,  
 going out to meet the Sambuddha,  
-he made the Buddha’s road ready[^34] --  
+he made the Buddha’s road ready[^34] —  
 a pavilion made out of gems,  
 a palanquin made out of gems,  
 things to enjoy made out of gems,  
@@ -397,7 +397,7 @@ The heavy load has been laid down,
 the ties to existence severed. (78) \[589\]
 
 The reason for which I went forth  
-from \[my\] home into homelessness --  
+from \[my\] home into homelessness —  
 I have \[now\] achieved that purpose:  
 destruction of all the fetters. (79) \[590\]
 
@@ -447,9 +447,9 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^11]: the Buddha’s biological son
 
-[^12]: *akasmiŋ sambhave*, lit., “in a single coming-to-be-with,” “in a single origin” “in a single production”. Rāhula and Uppalavaṇṇā were born in this present moment together to be (literal and figurative) son and (only figurative) daughter of the Buddha, that is brother and sister (only figuratively), having however experienced many previous lifetimes together -- sometimes as literal brother and sister, or mother and son -- in the *Jātaka* stories. For a mention of some of these, see DPPN I: 421. Because (as in the present birth) these “same origins” are not *always* familial/genealogical/literal, I have preserved the ambiguity of the Pāli (“being together”) in the translation, so the same word can be translated correspondingly in v. 519, below.
+[^12]: *akasmiŋ sambhave*, lit., “in a single coming-to-be-with,” “in a single origin” “in a single production”. Rāhula and Uppalavaṇṇā were born in this present moment together to be (literal and figurative) son and (only figurative) daughter of the Buddha, that is brother and sister (only figuratively), having however experienced many previous lifetimes together — sometimes as literal brother and sister, or mother and son — in the *Jātaka* stories. For a mention of some of these, see DPPN I: 421. Because (as in the present birth) these “same origins” are not *always* familial/genealogical/literal, I have preserved the ambiguity of the Pāli (“being together”) in the translation, so the same word can be translated correspondingly in v. 519, below.
 
-[^13]: reading *nānāsambhavā* with BJTS (and PTS alt.) for PTS *nāmasambhavā*, (“Conditions in name” -- to be read as “only figuratively” \[??\])
+[^13]: reading *nānāsambhavā* with BJTS (and PTS alt.) for PTS *nāmasambhavā*, (“Conditions in name” — to be read as “only figuratively” \[??\])
 
 [^14]: *vejjo komārako*, “a juvenile doctor” or perhaps “a young/inexperienced doctor”? Or a pediatrician, i.e., “a doctor connected with juveniles”? It depends on/shapes the interpretation of this anyway ambiguous (to me) verse.
 

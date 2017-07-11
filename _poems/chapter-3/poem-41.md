@@ -153,7 +153,7 @@ The legend of Upāli Thera is finished.
 
 [^10]: reading *samāyutaṃ* (BJTS, PTS alt) for *samāyanaŋ* (PTS)
 
-[^11]: the texts all read *virājetvāna* or *virajjitvāna*, “to shine;” I follow BJTS Sinhala gloss in understanding this -- as context warrants -- as “drive away” (Sinhala *duru koṭa*)
+[^11]: the texts all read *virājetvāna* or *virajjitvāna*, “to shine;” I follow BJTS Sinhala gloss in understanding this — as context warrants — as “drive away” (Sinhala *duru koṭa*)
 
 [^12]: it seems that here the text *does* confuse this Upāli with Upāli the chief reciter of *Vinaya*.
 

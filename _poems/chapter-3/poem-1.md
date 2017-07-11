@@ -153,7 +153,7 @@ not very far from my ashram. (28) \[167\]
 
 Myrobalan[^100] and gooseberry,[^101]  
 mango, rose-apple,[^102] bahera,[^103]  
-jujube,[^104] markingnut,[^105] bel[^106] --  
+jujube,[^104] markingnut,[^105] bel[^106] —  
 they constantly are bearing fruit. (29) \[168\]
 
 Bindweed,[^107] also titan arum,[^108]  
@@ -392,7 +392,7 @@ placing deer-hide on one shoulder
 I worshipped the Chief of the World. (76) \[215\]
 
 “The knowledge by which the Buddha  
-dwells without \[any\] defilements --  
+dwells without \[any\] defilements —  
 that knowledge I shall now proclaim;  
 \[all of\] you listen to my words! (77) \[216\]
 
@@ -526,8 +526,8 @@ who possessed enormous powers
 wishing to hear the great Teaching  
 also approached the Sambuddha. (103) \[242\]
 
-\[He said\], “The army, with four parts --  
-tusker, soldier, chariot, horse --  
+\[He said\], “The army, with four parts —  
+tusker, soldier, chariot, horse —  
 will ceaselessly wait on this one;  
 that’s the fruit of Buddha-*pūjā*. (104) \[243\]
 
@@ -1415,7 +1415,7 @@ The legend of Sāriputta Thera is finished.
 
 [^117]: lit., “my students were difficult to approach”
 
-[^118]: this follows the cty -- “having gone they bring the fruit from a jambu a hundred yojanas off in the Himalayas.”
+[^118]: this follows the cty — “having gone they bring the fruit from a jambu a hundred yojanas off in the Himalayas.”
 
 [^119]: *khārī*
 
@@ -1577,7 +1577,7 @@ The legend of Sāriputta Thera is finished.
 
 [^198]: lit., “like medicine”
 
-[^199]: *māra-kāyikā* -- those in Mara’s troupe.
+[^199]: *māra-kāyikā* — those in Mara’s troupe.
 
 [^200]: lit., “with the king of beasts”.
 
@@ -1617,7 +1617,7 @@ The legend of Sāriputta Thera is finished.
 
 [^218]: *samādhimhi*.
 
-[^219]: reading *sahassam* (BJTS, PTS alt) for *sahāyam* (“friend,” “companion,” PTS). BJTS Sinhala gloss understands this to mean creating a thousand forms by means of *iddhi* -- the self-multiplication miracle found throughout these texts.
+[^219]: reading *sahassam* (BJTS, PTS alt) for *sahāyam* (“friend,” “companion,” PTS). BJTS Sinhala gloss understands this to mean creating a thousand forms by means of *iddhi* — the self-multiplication miracle found throughout these texts.
 
 [^220]: lit., “my cessation”.
 

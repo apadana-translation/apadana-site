@@ -155,7 +155,7 @@ The heavy load has been laid down,
 the ties to existence severed. (30) \[762\]
 
 The reason for which I went forth,  
-from \[my\] home into homelessness --  
+from \[my\] home into homelessness —  
 I have \[now\] achieved that purpose:  
 destruction of all the fetters. (31) \[763\]
 

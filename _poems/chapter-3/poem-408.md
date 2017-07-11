@@ -98,19 +98,19 @@ decked out in all the ornaments,
 thoroughbreds of good pedigree,[^50]  
 horses from Sindh, fast vehicles,  
 mounted by trainers of horses[^51]  
-wearing armor with bows in hand --  
+wearing armor with bows in hand —  
 having abandoned all of them,  
 I went out into homelessness. (18c-d-20a-b) \[4130-4131\]
 
 Sixty thousand chariots \[too\],  
 decked out in all the ornaments,  
 covered in[^52] the skins of leopards  
-and likewise tigers,[^53] flags hoisted --  
+and likewise tigers,[^53] flags hoisted —  
 having abandoned all of them,  
 I went forth into homelessness. (20c-d-21) \[4132\][^54]
 
 Sixty thousand milch-cows \[as well\],  
-\[and\] all the metal pails for milk[^55] --  
+\[and\] all the metal pails for milk[^55] —  
 eliminating even them,  
 I went forth into homelessness. (22) \[4133\]
 
@@ -119,12 +119,12 @@ decked out in all the ornaments,
 with varied clothes and jewelry  
 and wearing earrings made of gems,  
 with long eyelashes, lovely smiles[^56]  
-and slim waists, pleasant to look at[^57] --  
+and slim waists, pleasant to look at[^57] —  
 abandoning them as they wept,  
 I went forth into homelessness. (23-24) \[4134-4135\]
 
 \[And\] sixty thousand villages,  
-completely full in all regards --  
+completely full in all regards —  
 throwing away that \[whole\] kingship,  
 I went forth into homelessness. (25) \[4136\]
 

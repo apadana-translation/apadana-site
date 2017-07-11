@@ -49,7 +49,7 @@ The legend of Bodhivandaka Thera is finished.
 
 [^6]: lit., “making”
 
-[^7]: *antosuddhaŋ bahiŋ suddhaŋ* (reading *bahisuddhaŋ* with BJTS and PTS alt.), lit., “purified inside, purified outside.” I follow BJTS Sinhala gloss in taking this as referring to the donor (or perhaps, in an adverbial sense, to his worship) rather than -- as is also grammatically possible -- as a Buddha-epithet, i.e., He Who is Purified \[Both\] Inside \[and\] Out”
+[^7]: *antosuddhaŋ bahiŋ suddhaŋ* (reading *bahisuddhaŋ* with BJTS and PTS alt.), lit., “purified inside, purified outside.” I follow BJTS Sinhala gloss in taking this as referring to the donor (or perhaps, in an adverbial sense, to his worship) rather than — as is also grammatically possible — as a Buddha-epithet, i.e., He Who is Purified \[Both\] Inside \[and\] Out”
 
 [^8]: *sammukhā viya*, lit., “as though face to face with”
 

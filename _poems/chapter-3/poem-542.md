@@ -119,7 +119,7 @@ The legend of Kaṅkha-Revata Thera is finished.
 
 [^4]: *brahmagiro*
 
-[^5]: the final component of this compound varies considerably in the texts; all the alternatives seem to indicate “sound” or “noise,” paralleling other forms of this adjective (e.g., \[5624\], \[5734\]) . PTS reads *haŋsadundrabhinisvano*, which is garbled*;* BJTS reads *haṃsadundubhibissaro*. I follow BJTS and BJTS Sinh. gloss *haḍḍa*. Presumably the meaning is that his voice was loud or resonated well. BJTS takes the first two components of the compound, *haṃsa* + *dundubhi*, as the name of a particular type of drum, “Swan-drum” (*hasbera*), though I find no indication of such an instrument in the dictionaries and so find more likely the translation here, that the Buddha’s sound was resounding like that of a swan or a drum -- loud but pleasant.
+[^5]: the final component of this compound varies considerably in the texts; all the alternatives seem to indicate “sound” or “noise,” paralleling other forms of this adjective (e.g., \[5624\], \[5734\]) . PTS reads *haŋsadundrabhinisvano*, which is garbled*;* BJTS reads *haṃsadundubhibissaro*. I follow BJTS and BJTS Sinh. gloss *haḍḍa*. Presumably the meaning is that his voice was loud or resonated well. BJTS takes the first two components of the compound, *haṃsa* + *dundubhi*, as the name of a particular type of drum, “Swan-drum” (*hasbera*), though I find no indication of such an instrument in the dictionaries and so find more likely the translation here, that the Buddha’s sound was resounding like that of a swan or a drum — loud but pleasant.
 
 [^6]: *nāgavikkantagamano*
 

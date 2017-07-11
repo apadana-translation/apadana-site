@@ -182,8 +182,8 @@ a well-made monastic ashram,
 I shall relate details of him;  
 \[all of\] you listen to my words: (35) \[480\]
 
-\[He said\], “The army, with four parts --  
-tusker, soldier, chariot, horse --  
+\[He said\], “The army, with four parts —  
+tusker, soldier, chariot, horse —  
 will ceaselessly wait on this one:  
 fruit of a monastic ashram. (36) \[481\]
 
@@ -362,8 +362,8 @@ found mating with the female cranes[^26]
 \[but only\] when the clouds do rumble  
 do they take them to their wombs, (71) \[516\]
 
-and for much time they stay pregnant[^27] --  
-as long as the clouds don’t thunder --  
+and for much time they stay pregnant[^27] —  
+as long as the clouds don’t thunder —  
 then they are freed from that burden  
 when the clouds are raining \[again\], (72) \[517\]
 
@@ -405,7 +405,7 @@ and the \[*Parivāra*\], the fifth.[^30] (79) \[524\]
 
 Skilled in rebuking,[^31] redressing,[^32]  
 in correct and flawed conclusions,  
-restoration[^33] and expungement[^34] --  
+restoration[^33] and expungement[^34] —  
 I have excelled in all regards.[^35] (80) \[525\]
 
 Citing the relevant sentence  
@@ -738,8 +738,8 @@ passion is never found in them.
 The Buddha’s just the same toward all,  
 a murderer \[or\] his own son. (146) \[591\]
 
-Seeing a robe atop a tree[^70] --  
-discarded, smeared with excrement --  
+Seeing a robe atop a tree[^70] —  
+discarded, smeared with excrement —  
 one should press the hands, head bowed;  
 that sages’ flag should be worshipped. (147) \[592\]
 
@@ -788,7 +788,7 @@ The legend of Upāli Thera is finished.
 
 [^1]: lit., “ascetics who were wandering”
 
-[^2]: all the manuscripts have “followers of Gotama \[some spell it Gautama\] Buddha,” but I follow the cty (which says they were all Jains \[*nigaṇṭhasāvakā*\] spouting varied views) and BJTS, which offers “Rishi Gautama” as the Sinhala gloss. This reading makes sense, given that Gotama Buddha was a hundred thousand aeons off still, and even -- at this point in the legend -- his predecessor Padumuttara Buddha had yet to be born. Indeed, verse 5 points out that there was not even the idea of “Buddha” in the world at that time. It is possible to take the term as referring to their later status as followers of Gotama Buddha, but the former interpretation seems much more fitting to the context.
+[^2]: all the manuscripts have “followers of Gotama \[some spell it Gautama\] Buddha,” but I follow the cty (which says they were all Jains \[*nigaṇṭhasāvakā*\] spouting varied views) and BJTS, which offers “Rishi Gautama” as the Sinhala gloss. This reading makes sense, given that Gotama Buddha was a hundred thousand aeons off still, and even — at this point in the legend — his predecessor Padumuttara Buddha had yet to be born. Indeed, verse 5 points out that there was not even the idea of “Buddha” in the world at that time. It is possible to take the term as referring to their later status as followers of Gotama Buddha, but the former interpretation seems much more fitting to the context.
 
 [^3]: “Good Joy”
 
@@ -856,7 +856,7 @@ The legend of Upāli Thera is finished.
 
 [^35]: lit everywhere, *sabbaṭṭha*
 
-[^36]: *rasato osāreyy’aham*. *Rasa* = *kritya*, function, what should be done -- in the abl? \[This section contains a lot of technical material that needs checking in the *Vinaya* texts)
+[^36]: *rasato osāreyy’aham*. *Rasa* = *kritya*, function, what should be done — in the abl? \[This section contains a lot of technical material that needs checking in the *Vinaya* texts)
 
 [^37]: *niruttiyā*, in knowledge of the original dialect of the holy scriptures, which the BJTS Sinhala gloss explains as knowing the original meaning of words and understanding grammar.
 
@@ -918,7 +918,7 @@ The legend of Upāli Thera is finished.
 
 [^66]: reading *tāreti* (BJTS, cty) for *tarati* (PTS).
 
-[^67]: the term *avirodhiyā* (alt *avirādhiyā*) here and in the next verse is problematic -- to be taken as the optative of *virujjhati*&gt;*virodhati*?
+[^67]: the term *avirodhiyā* (alt *avirādhiyā*) here and in the next verse is problematic — to be taken as the optative of *virujjhati*&gt;*virodhati*?
 
 [^68]: reading *na virādhiyā* (cty) or *na virodhiya* (BJTS) for *n’ avirodhiyā* (PTS).
 

@@ -83,7 +83,7 @@ the Hero[^16] rose into the sky,
 just like a swan-king in the air. (15) \[4511\]
 
 Elephant- \[and\] horse-vehicles,  
-with chariots and palanquins --  
+with chariots and palanquins —  
 I am obtaining all of them:  
 that’s the fruit of a single seat. (16) \[4512\]
 

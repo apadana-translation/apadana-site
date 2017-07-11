@@ -61,8 +61,8 @@ just as \[she had\] reasoned it out.
 All of them too told \[Gotamī,\]  
 just as \[they had\] reasoned it out. (9) \[235\]
 
-“If \[it’s\] desired by you, sister --  
-nirvana, unsurpassed \[and\] pure --  
+“If \[it’s\] desired by you, sister —  
+nirvana, unsurpassed \[and\] pure —  
 we too will all reach nirvana,  
 with Buddha’s consent, Pious One.[^11] (10) \[236\]
 
@@ -108,7 +108,7 @@ bowing down at \[her\] feet said this: (18) \[244\]
 
 “Great-fortuned one,[^18] be satisfied.[^19]  
 Nirvana’s not proper for you,  
-abandoning us, destitute” --  
+abandoning us, destitute” —  
 distraught like that those women wailed. (19) \[245\]
 
 In order to dispel their grief,  
@@ -128,12 +128,12 @@ The heavy load has been laid down,
 the ties to existence removed. (22) \[248\]
 
 The reason for which I went forth  
-from \[my\] home into homelessness --  
+from \[my\] home into homelessness —  
 I have \[now\] achieved that purpose:  
 destruction of all the fetters. (23) \[249\]
 
 While Buddha and his great Teaching  
-are still around, nothing lacking --  
+are still around, nothing lacking —  
 that’s the time for my nirvana;  
 do not grieve about me, children. (24) \[250\]
 
@@ -373,7 +373,7 @@ Being asked, tell \[all\] that to me.” (71) \[297\]
 
 “See \[my\] followers, united,  
 vigorously energetic,  
-constantly firm \[in their\] effort --  
+constantly firm \[in their\] effort —  
 that is worship of the Buddhas.”[^68] (72) \[298\]
 
 Then, going \[back\] to the refuge,  
@@ -442,7 +442,7 @@ As though it were the end of time,
 she garlanded the earth in flames. (85) \[311\]
 
 She took mounts Meru, Mandāra,  
-Daddara, great Muccalinda --  
+Daddara, great Muccalinda —  
 all of them, in a single fist,  
 like they were \[tiny\] mustard seeds. (86) \[312\]
 
@@ -496,8 +496,8 @@ in a clan of ministers then,
 furnished with all \[kinds of\] servants,  
 rich, prosperous, very wealthy. (96) \[322\]
 
-Once, when tagging on with father --  
-attended by a group of slaves --  
+Once, when tagging on with father —  
+attended by a group of slaves —  
 along with a large retinue,  
 \[I\] approached that Bull Among Men. (97) \[323\]
 
@@ -1080,7 +1080,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^59]: reading *dukkhasaṅghāta* with BJTS for the metrically-questionable but evocative PTS *dukkhapaṅke* (“\[smeared with\] the mud of dis-ease”) and BJTS alt. *dukkhasaṅghāṭe* (which in addition to “mass” or “heap” \[*saṅghāta*\]) means “tangle” or “web”). “Dis-ease” translates *dukkha*, often “suffering,” following out one of the term’s literal meanings (physical illness) as well as its connotation of psychological unrest and in keeping with the other descriptions of the aged body in this verse. My earlier translation, following PTS, gives “suffering’s slime”
 
-[^60]: reading *nānākalimalākiṇṇe* with BJTS (and PTS alt.) for PTS *nānākalala-m-ākiṇṇe* (“smeared with various mud” -- but note that *mala* in the accepted reading can also mean “dirt” or “mud” or any impurity in addition to “flaw” or “fault”)
+[^60]: reading *nānākalimalākiṇṇe* with BJTS (and PTS alt.) for PTS *nānākalala-m-ākiṇṇe* (“smeared with various mud” — but note that *mala* in the accepted reading can also mean “dirt” or “mud” or any impurity in addition to “flaw” or “fault”)
 
 [^61]: *nirīhake*, in juxtaposition with the previous adjective *parāyatte*, lit., “activity of others,” hence “dependent on others”
 

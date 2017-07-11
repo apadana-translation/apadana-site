@@ -297,7 +297,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^8]: lit., “beaten,” “struck:” *āhaṭā*
 
-[^9]: reading *samma-tāla-samāhitā* with BJTS for PTS *sāma-tāla-samāhitā* (“keep up \[be attentive to, stay fixed on, put down\] the same melody”). The difference is slight -- the point is that they are played well -- but BJTS is (like Indian classical music) open to a wider range of “proper” performances (harmonics) than all instruments playing the same melody, so I prefer its reading; in this context “proper” is not necessarily synonymous with “the same.”
+[^9]: reading *samma-tāla-samāhitā* with BJTS for PTS *sāma-tāla-samāhitā* (“keep up \[be attentive to, stay fixed on, put down\] the same melody”). The difference is slight — the point is that they are played well — but BJTS is (like Indian classical music) open to a wider range of “proper” performances (harmonics) than all instruments playing the same melody, so I prefer its reading; in this context “proper” is not necessarily synonymous with “the same.”
 
 [^10]: reading *velāpikā* with BJTS (and PTS alt) for PTS *velāmikā* (RD: “some sort of servants, especially in demand for a noble’s retinue”); BJTS gloss *piḷi hisa sisārannō*, “people who twirl around their heads completely”
 
@@ -375,7 +375,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^47]: “turning around”
 
-[^48]: “goal-attainers”. Note that both editions of the text -- and the mss. -- give a nine-syllable foot here; I do too, mostly out of necessity: these names of groups of ascetics and forest dwellers do not lend themselves to eight-syllable feet
+[^48]: “goal-attainers”. Note that both editions of the text — and the mss. — give a nine-syllable foot here; I do too, mostly out of necessity: these names of groups of ascetics and forest dwellers do not lend themselves to eight-syllable feet
 
 [^49]: Rd would lead us to look fr. *kuṇḍa*, “bent” “crooked” or *kuṇḍi*, pot? PSI does not give “crooked” as a meaning of *kuṇḍa*, but rather “pot” *(säḷiya*) or “iguana” (*talagoyā*), either of which could evoke something specific about the group in question, is RD is right to derive the word this way. PSI also gives a defn for *koṇḍa* (which I follow in the mock-translation in the fn on v. (10) \[4174\] above), “having a family,” Sinh. “being a family man connected with having a wife”
 
@@ -405,7 +405,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^62]: Alexandrians
 
-[^63]: = Pallavas? Note that both editions of the text -- and the mss. -- give a nine-syllable foot here; I do too, mostly out of necessity: these names of tribes or peoples do not lend themselves to eight-syllable feet
+[^63]: = Pallavas? Note that both editions of the text — and the mss. — give a nine-syllable foot here; I do too, mostly out of necessity: these names of tribes or peoples do not lend themselves to eight-syllable feet
 
 [^64]: DPPN II: 268, “Name of a tribe,” citing this list
 

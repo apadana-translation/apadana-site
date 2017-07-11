@@ -368,7 +368,7 @@ and \[one\] who feels pleasure and pain,
 a woman[^61] who declares the facts,  
 a woman[^62] who’s compassionate. (63)  
 Buddhas \[numbering\] five billion,  
-and \[another\] nine billion \[more\] --  
+and \[another\] nine billion \[more\] —  
 I provided vast alms to \[them,\]  
 those \[Buddhas,\] Gods Over the Gods.[^63] (64)
 

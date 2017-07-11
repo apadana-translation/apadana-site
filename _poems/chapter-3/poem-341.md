@@ -26,8 +26,8 @@ over that natural lake \[there\]. (3) \[3076\]
 
 I having seen the God of Gods,  
 the Self-Become One, World-Leader,  
-gathered lotuses with my beak --  
-lovely, with a hundred petals --  
+gathered lotuses with my beak —  
+lovely, with a hundred petals —  
 \[and\] having broken off the stems,  
 tossing them into the sky, I  
 did *pūjā* to the Best Buddha,  

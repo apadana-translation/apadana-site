@@ -27,9 +27,9 @@ Skilled in means of disciplining,[^14] (3) \[4632\]
 Active in duties to others,[^15]  
 Training \[the whole world\] with \[its\] gods,[^16]  
 Drying Up the muddiness on  
-road that leads to nirvana --  
+road that leads to nirvana —  
 undying, supreme enjoyment,[^17]  
-obstacle to old age and death[^18] --  
+obstacle to old age and death[^18] —  
 the One Who Helps the World Across[^19]  
 was seated amidst a huge crowd. (4-5) \[4633-4634\]
 

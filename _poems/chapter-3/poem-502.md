@@ -36,8 +36,8 @@ so too is this bowl-donation,
 when it rains the joy-bringing \[rain,\][^13]  
 the fruit will be pleasing to me. (5-6) \[5400-5401\]
 
-As far as \[merit-\]fields exist --  
-even the Assemblies[^14] and groups[^15] --  
+As far as \[merit-\]fields exist —  
+even the Assemblies[^14] and groups[^15] —  
 the Buddha-field has no equal,[^16]  
 giving \[great\] happiness[^17] to all.[^18] (7) \[5402\]
 

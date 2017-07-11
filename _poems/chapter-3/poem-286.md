@@ -7,11 +7,11 @@ category: chapter-3
 
 ### \[286. Upaṭṭhāyaka[^1]\]
 
-After I had invited him --  
+After I had invited him —  
 the World’s Best, the Bull of Men,  
 the Best Biped, Great Elephant,  
 Sacrificial Recipient,  
-who had entered onto the road --  
+who had entered onto the road —  
 service was provided by me  
 to Siddhattha \[Buddha\], Great Sage,  
 the Well-Wisher of Every World.[^2] (1-2) \[2646-2647\]

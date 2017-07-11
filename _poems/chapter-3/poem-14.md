@@ -92,8 +92,8 @@ gave a cloth for wiping the feet.
 In this way he did purify \[me\]  
 as I stood off to one side. (17) \[724\]
 
-Having taken him by the hands --  
-he who was like a red lotus --  
+Having taken him by the hands —  
+he who was like a red lotus —  
 right there my mind was liberated  
 \[and\] I became an arahant. (18) \[725\]
 
@@ -113,7 +113,7 @@ The legend of Cullapanthaka Thera is finished.
 
 [^1]: *samādhiṃ*
 
-[^2]: reading *antarāyam na aham akāsim* with the cty (which BJTS Sinhala gloss follows). lit., “I did not make an obstacle.” This reading seems more appropriate, even though the Pali in both PTS and BJTS -- and hence in some manuscripts -- is “I did make an obstacle”. However indecorous this would have been of Culla-Panthaka’s rebirth precursor, verse 4 has him giving the floral umbrella to the meditating Buddha without any transition to suggest that the meditation had ended (a transition we might expect from other *Apadāna* texts which specify that such-and-such meditator “had arisen from *samādhi*”), so it is *only* out of deference to the cty that I provide this translation, against my inclination to take the text as given and translate the final line: “I caused \[him\] an interruption.”
+[^2]: reading *antarāyam na aham akāsim* with the cty (which BJTS Sinhala gloss follows). lit., “I did not make an obstacle.” This reading seems more appropriate, even though the Pali in both PTS and BJTS — and hence in some manuscripts — is “I did make an obstacle”. However indecorous this would have been of Culla-Panthaka’s rebirth precursor, verse 4 has him giving the floral umbrella to the meditating Buddha without any transition to suggest that the meditation had ended (a transition we might expect from other *Apadāna* texts which specify that such-and-such meditator “had arisen from *samādhi*”), so it is *only* out of deference to the cty that I provide this translation, against my inclination to take the text as given and translate the final line: “I caused \[him\] an interruption.”
 
 [^3]: “Excellent!”
 

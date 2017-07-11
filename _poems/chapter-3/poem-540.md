@@ -149,7 +149,7 @@ I became an arahant monk. (29) \[6015\]
 
 Oppressed by illness I don’t live  
 in Assembly monasteries.  
-“Don’t offend the monastery” --  
+“Don’t offend the monastery” —  
 by that word I’m extra-oppressed. (30) \[6016\]
 
 Taking \[cloth\] atop rubbish heaps,  

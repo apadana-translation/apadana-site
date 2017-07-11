@@ -345,7 +345,7 @@ The legend of Nandā Therī is finished.
 
 [^33]: *tilokaggo*, lit., “Three Worlds’ Chief”
 
-[^34]: *majjhimo*, or BJTS (and PTS alt.) *pacchimo*, “the last” -- BJTS Sinh. gloss *mä kaṇiṭu bǟyā* (“my younger elder brother”)
+[^34]: *majjhimo*, or BJTS (and PTS alt.) *pacchimo*, “the last” — BJTS Sinh. gloss *mä kaṇiṭu bǟyā* (“my younger elder brother”)
 
 [^35]: *arahā*, “worthy” “an arahant”
 

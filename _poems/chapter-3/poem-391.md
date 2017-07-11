@@ -1120,7 +1120,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^16]: *guṇavaruttama*. JPTS reads here and below *gaṇaº*, “the supremely splendid group”
 
-[^17]: *ādikammika*, lit., “beginning-maker.” *Dāna* to the *saṅgha* regularly -- and especially in this context -- involves enormous expenditures of energy by numerous individuals; the sense here seems to be that the protagonist organizes, oversees and funds the donation.
+[^17]: *ādikammika*, lit., “beginning-maker.” *Dāna* to the *saṅgha* regularly — and especially in this context — involves enormous expenditures of energy by numerous individuals; the sense here seems to be that the protagonist organizes, oversees and funds the donation.
 
 [^18]: *adiṇṇapubbaŋ*, lit., not given formerly” “not given in the past”
 
@@ -1136,7 +1136,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^24]: here as above, *guṇavaruttama*, hence lit., “monks of supremely splendid virtue.” I leave *uttama* untranslated in this case, to keep the meter.
 
-[^25]: *ādikammika*, lit., “beginning-maker.” *Dāna* to the *saṅgha* regularly -- and especially in this context -- involves enormous expenditures of energy by numerous individuals; the sense here seems to be that the protagonist organizes, oversees and funds the donation.
+[^25]: *ādikammika*, lit., “beginning-maker.” *Dāna* to the *saṅgha* regularly — and especially in this context — involves enormous expenditures of energy by numerous individuals; the sense here seems to be that the protagonist organizes, oversees and funds the donation.
 
 [^26]: *adiṇṇapubbaŋ*, lit., not given formerly” “not given in the past”
 
@@ -1364,7 +1364,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^138]: *varaŋ*, boon, favor.
 
-[^139]: BJTS reads this as an imperative: *mā yācittho* for PTS *ayācittho*. In either case the grammar is fuzzy -- the BJTS reading assumes a plural second person imperative (a royal y’all?) while the PYS reading is not a regular form of the verb.
+[^139]: BJTS reads this as an imperative: *mā yācittho* for PTS *ayācittho*. In either case the grammar is fuzzy — the BJTS reading assumes a plural second person imperative (a royal y’all?) while the PYS reading is not a regular form of the verb.
 
 [^140]: *maṇijotirasa*, a gemstone which fulfills wishes, a particularly valuable gem.
 
@@ -1578,7 +1578,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^245]: *apacita*
 
-[^246]: reading *homi* with BJTS for PTS *bhomi*, which is probably a misreading of *“hoº*”as “*bhoº*” -- an easy mistake given their similarity in the Sinhala script.
+[^246]: reading *homi* with BJTS for PTS *bhomi*, which is probably a misreading of *“hoº*”as “*bhoº*” — an easy mistake given their similarity in the Sinhala script.
 
 [^247]: *appakilesa*
 
@@ -1824,7 +1824,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^368]: *dasānisaŋse*. I count the ten here as (1) long life, (2) physical strength, (3) heroism, (4) beauty, (5) fame, (6) happiness, (7) freedom from oppression, (8) safety, (9) honor, and (10) being together with loved ones.
 
-[^369]: reading *homi* with BJTS for PTS *bhomi*, which is probably a misreading of *“hoº*”as “*bhoº*” -- an easy mistake given their similarity in the Sinhala script.
+[^369]: reading *homi* with BJTS for PTS *bhomi*, which is probably a misreading of *“hoº*”as “*bhoº*” — an easy mistake given their similarity in the Sinhala script.
 
 [^370]: *anupaddava*, also “uninjured,” “safe”
 
@@ -2006,7 +2006,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^459]: *suvivajjita-ubbego*
 
-[^460]: here I read *añjana-nāḷiyo* (“ointment stalks” or “ointment tubes”) with BJTS for PTS *hatthī līlaṅgake* (“elephants with sporting bodies” ?). The text is corrupt, and BJTS at least makes sense, though it is out of the sequence of the original *dāna* (not to mention being unrecoverable in meaning) so may be a spurious verse -- perhaps a favored object of some later editor, or simply something no longer part of lived experience at some point in the transmission process? PTS alt. readings include *ºlilaṅgate*, *hatthalīlaṅgane* and *hattho liṅgake* (!), none of which is helpful. In addition to the PTS reading, BJTS cites alt. *malabharaṇiyo*, also of questionable meaning (“women in stained ornaments,” or read *mālaº*, “in flower ornaments?”)
+[^460]: here I read *añjana-nāḷiyo* (“ointment stalks” or “ointment tubes”) with BJTS for PTS *hatthī līlaṅgake* (“elephants with sporting bodies” ?). The text is corrupt, and BJTS at least makes sense, though it is out of the sequence of the original *dāna* (not to mention being unrecoverable in meaning) so may be a spurious verse — perhaps a favored object of some later editor, or simply something no longer part of lived experience at some point in the transmission process? PTS alt. readings include *ºlilaṅgate*, *hatthalīlaṅgane* and *hattho liṅgake* (!), none of which is helpful. In addition to the PTS reading, BJTS cites alt. *malabharaṇiyo*, also of questionable meaning (“women in stained ornaments,” or read *mālaº*, “in flower ornaments?”)
 
 [^461]: *pañcānisaŋse*. I count the five here as (1) having a \[good\] body, (2) being endowed with all auspicious marks, (3) long life, (4) wisdom, (5) liberation from all sorrows.
 

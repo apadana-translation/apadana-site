@@ -17,8 +17,8 @@ with the five gemstones piled up \[high\].
 It was a hundred hands in length  
 \[and\] pleasant for meditation. (2) \[1208\]
 
-The Blessed One accepted \[it\] --  
-Atthadassi, the Best of Men --  
+The Blessed One accepted \[it\] —  
+Atthadassi, the Best of Men —  
 \[and\] with his hand sifting \[some\] sand,  
 he uttered these verses \[aloud\]: (3) \[1209\]
 

@@ -60,6 +60,6 @@ The legend of Kimbila Thera, the fourth.
 
 [^7]: lit., “and,” *ca*
 
-[^8]: Kakusandha Buddha lived at an earlier time in the present aeon, one of five Buddhas said to have done so. The author demonstrates awareness of -- and a solution that smoothes out -- the little wrinkle this creates in applying this typical refrain.
+[^8]: Kakusandha Buddha lived at an earlier time in the present aeon, one of five Buddhas said to have done so. The author demonstrates awareness of — and a solution that smoothes out — the little wrinkle this creates in applying this typical refrain.
 
 [^9]: lit., “did *pūjā*”

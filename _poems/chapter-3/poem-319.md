@@ -27,7 +27,7 @@ Attentive to the protocol,
 the Golden-Colored Sambuddha,  
 Wise One, With Senses Well-Controlled,  
 -- Hard to Approach like a tusker,  
-a *mātaṇga* in three-fold rut --  
+a *mātaṇga* in three-fold rut —  
 having pressed my hands together  
 I worshipped \[Buddha\], the Teacher. (4-5) \[2817-2818\]
 

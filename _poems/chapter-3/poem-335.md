@@ -103,7 +103,7 @@ The legend of Phussitakammiya[^20] Thera is finished.
 
 [^9]: Ilt. “with which I did *pūjā*”
 
-[^10]: though this is an almost economic depiction of karmic equivalency -- one might think in terms of bonus points or frequent flyer rules — both in the exactitude by which he “spends” the karma he earned in doing the *pūjā* and the explicit statement that attaining arahantship is the remaining fruit of that karma, this final line is quite enigmatic given that 2500 plus 2500 presumably depletes the original 5000 drops of water. What then is the “remaining karma” with which arahantship is purchased?
+[^10]: though this is an almost economic depiction of karmic equivalency — one might think in terms of bonus points or frequent flyer rules — both in the exactitude by which he “spends” the karma he earned in doing the *pūjā* and the explicit statement that attaining arahantship is the remaining fruit of that karma, this final line is quite enigmatic given that 2500 plus 2500 presumably depletes the original 5000 drops of water. What then is the “remaining karma” with which arahantship is purchased?
 
 [^11]: BJTS *Phusita*; “\[water\] drop”
 

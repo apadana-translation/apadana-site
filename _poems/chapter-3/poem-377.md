@@ -7,8 +7,8 @@ category: chapter-3
 
 ### \[374. {377.}[^1] Citapūjaka[^2]\]
 
-When the Blessed One passed away[^3] --  
-\[the one\] named “Ultimate Lotus”[^4] --  
+When the Blessed One passed away[^3] —  
+\[the one\] named “Ultimate Lotus”[^4] —  
 when the stupa had been raised up,  
 I offered[^5] \[it\] a *sal* flower. (1) \[3257\]
 

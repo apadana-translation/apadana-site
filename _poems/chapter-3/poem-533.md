@@ -122,10 +122,10 @@ paying respect to the merchants, (23) \[5749\]
 
 quitting[^34] kingship, with ministers,  
 I left, devoted to Buddha.[^35]  
-Seeing the great Canda River[^36] --  
+Seeing the great Canda River[^36] —  
 full \[of water\] with level banks,  
 a little rough, without supports,  
-a rushing current hard to cross --  
+a rushing current hard to cross —  
 recalling the Buddha’s virtue,  
 I got across \[it\] in safety. (24-25) \[5750-5751\]
 

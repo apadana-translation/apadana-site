@@ -162,87 +162,87 @@ is invited for tomorrow. (31) \[3612\]
 
 Like beaten[^100] \[gold\] atop a forge[^101]  
 \[burning bright\] like cedar charcoal,[^102]  
-the Great Hero’s like lightening bolts[^103] --  
+the Great Hero’s like lightening bolts[^103] —  
 I’ve invited him, the Buddha.[^104] (32) \[3613\]
 
 Like fire \[burning\] on a mountain,  
 like the moon on the fifteenth day,[^105]  
-the same color as burning reeds --  
+the same color as burning reeds —  
 I’ve invited him, the Buddha. (33) \[3614\]
 
 Fearless, Overcomer of Fear,[^106]  
 the Existence-Ender,[^107] the Sage,  
-The Great Hero’s like a lion --  
+The Great Hero’s like a lion —  
 I’ve invited him, the Buddha. (34) \[3615\]
 
 Skillful in the Buddha’s Teaching,  
 little to endure from others,  
-Great Hero’s like an elephant --  
+Great Hero’s like an elephant —  
 I’ve invited him, the Buddha. (35) \[3616\]
 
 Skilled in doing the Great Teaching,[^108]  
 the Unmatched,[^109] Buddha-elephant,  
-the Great Hero is like a bull --  
+the Great Hero is like a bull —  
 I’ve invited him, the Buddha. (36) \[3617\]
 
 Of Endless Beauty,[^110] Boundless Fame,  
 Bearing all the Various Marks,  
-the Great Hero is like Indra[^111] --  
+the Great Hero is like Indra[^111] —  
 I’ve invited him, the Buddha. (37) \[3618\]
 
 Strong One,[^112] Whose Group is Powerful,[^113]  
 Majestic One,[^114] Hard to Approach,[^115]  
-The Great Hero is like Brahmā[^116] --  
+The Great Hero is like Brahmā[^116] —  
 I’ve invited him, the Buddha. (38) \[3619\]
 
 Teaching-Reacher,[^117] Ten-Powered One,[^118]  
 Master of Surpassing Power,[^119]  
-the Great Hero is like the earth --  
+the Great Hero is like the earth —  
 I’ve invited him, the Buddha. (39) \[3620\]
 
 Full of waves \[called\] morality,  
 churning knowledge of the Teaching,  
-the Great Hero is like the sea --  
+the Great Hero is like the sea —  
 I’ve invited him, the Buddha. (40) \[3621\]
 
 Hard to Approach,[^120] Hard to Subdue,[^121]  
 Unshaken,[^122] Risen Up,[^123] Lofty,[^124]  
-the Great Hero’s like Mt. Meru[^125] --  
+the Great Hero’s like Mt. Meru[^125] —  
 I’ve invited him, the Buddha. (41) \[3622\]
 
 Of Endless Knowledge, Impartial,[^126]  
 Unmeasurable,[^127] Gone to the Top,[^128]  
-the Great Hero is like the sky --  
+the Great Hero is like the sky —  
 I’ve invited him, the Buddha. (42) \[3623\]
 
 Support[^129] for Those with Fears \[and\] Frights,  
 Protection[^130] for Refuge-Seekers,[^131]  
-the Great Hero Provides Comfort[^132] --  
+the Great Hero Provides Comfort[^132] —  
 I’ve invited him, the Buddha. (43) \[3624\]
 
 The Abode[^133] of Wisdom and Spells,[^134]  
 Merit-Field for happiness-Seekers[^135]  
-the Great Hero, the Mine of Gems --  
+the Great Hero, the Mine of Gems —  
 I’ve invited him, the Buddha. (44) \[3625\]
 
 Comforter,[^136] the Awe-Inspirer,[^137]  
 Giver of the Fruit of Monkhood,  
-the Great Hero is like a cloud[^138] --  
+the Great Hero is like a cloud[^138] —  
 I’ve invited him, the Buddha. (45) \[3626\]
 
 The Eye of the World,[^139] the Hero,[^140]  
 Dispeller of Every Darkness,[^141]  
-the Great Hero is like the sun --  
+the Great Hero is like the sun —  
 I’ve invited him, the Buddha. (46) \[3627\]
 
 Sage, Seer of the Nature[^142] of  
 Emancipations from Objects,[^143]  
-the Great Hero is like the moon --  
+the Great Hero is like the moon —  
 I’ve invited him, the Buddha. (47) \[3628\]
 
 Venerable,[^144] Raised up in the World,  
 Adorned with the Auspicious Marks,  
-Unmeasurable, the Great Sage --  
+Unmeasurable, the Great Sage —  
 I’ve invited him, the Buddha. \[3629\][^145]
 
 The One Whose Knowledge is Boundless,[^146]  
@@ -252,17 +252,17 @@ I’ve invited him, the Buddha. (48) \[3630\]
 
 Whose courage[^149] has no parallel,  
 whose firmness is unthinkable,[^150]  
-he whose exertion is the best --  
+he whose exertion is the best —  
 I’ve invited him, the Buddha. (49) \[3631\]
 
 Passion, hatred, stupidity  
 and every poison is destroyed;  
-the Great Hero is like a drug[^151] --  
+the Great Hero is like a drug[^151] —  
 I’ve invited him, the Buddha. (50) \[3632\]
 
 There’s removal of the darkness  
 of all pain, defilement, disease;  
-the Great Hero’s like a doctor --  
+the Great Hero’s like a doctor —  
 I’ve invited him, the Buddha. (51) \[3633\]
 
 “Friend, this sound is hard to obtain,  

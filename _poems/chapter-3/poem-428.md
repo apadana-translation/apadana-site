@@ -100,22 +100,22 @@ I have no lack of possessions:
 that is the fruit of a new crop. (17) \[4583\]
 
 Elephant- \[and\] horse-vehicles,  
-palanquins, also chariots --  
+palanquins, also chariots —  
 I am obtaining all of them:  
 that is the fruit of a new crop. (18) \[4584\]
 
 New clothing \[and likewise\] new fruit,  
-new food which has the best flavor --  
+new food which has the best flavor —  
 I am obtaining all of them:  
 that is the fruit of a new crop. (19) \[4585\]
 
 Silk cloth[^21] and woolen blankets[^22] too,  
-*khoma* and also cotton cloth[^23] --  
+*khoma* and also cotton cloth[^23] —  
 I am obtaining all of them:  
 that is the fruit of a new crop. (20) \[4586\]
 
 Groups of slave-women, groups of slaves,  
-and women who are all decked out --  
+and women who are all decked out —  
 I am obtaining all of them:  
 that is the fruit of a new crop. (21) \[4587\]
 

@@ -99,7 +99,7 @@ for the sake of murdering me.[^16] (18) \[3358\]
 
 Once, while I was on \[my\] tusker,  
 I saw a supreme Lonely Sage,  
-wandering about for alms food --  
+wandering about for alms food —  
 with elephant I attacked him. (19) \[3359\]
 
 As a result of that karma,  
@@ -114,7 +114,7 @@ I roasted in hell a long time. (21) \[3361\]
 
 Through what remained of that karma,  
 the skin on my foot got all cracked  
-and caused me a lot of trouble --  
+and caused me a lot of trouble —  
 karma sure doesn’t just vanish! (22) \[3362\]
 
 I \[once\] lived as a fisher-boy,  
@@ -210,7 +210,7 @@ The Avaṇṭaphala Chapter, the Thirty-Ninth
 
 [^10]: I follow the BJTS spelling of this name, cf. the alt reading in PTS isiṅgīmo; PTS gives Isigaṇo
 
-[^11]: lit., who had the five special knowledges (*abhiññā*) and extensive *iddhi* powers”. The five special knowledges are various magical powers (*iddhi*), divine ear (clairaudience), reading others’ minds, recollection of rebirths, and divine eye (clairvoyance), Note that this (non-Buddhist) sage possesses only five of the special knowledges; the sixth -- awareness and assurance that one has extinguished all *āsasas* -- is only achievable by Buddhists.
+[^11]: lit., who had the five special knowledges (*abhiññā*) and extensive *iddhi* powers”. The five special knowledges are various magical powers (*iddhi*), divine ear (clairaudience), reading others’ minds, recollection of rebirths, and divine eye (clairvoyance), Note that this (non-Buddhist) sage possesses only five of the special knowledges; the sixth — awareness and assurance that one has extinguished all *āsasas* — is only achievable by Buddhists.
 
 [^12]: lit., “said to the great people” *mahājanassa ahaṃsu*
 

@@ -316,7 +316,7 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^43]: reading *bhamanto* with BJTS for PTS *bhavanto* (“existing”)
 
-[^44]: the following story refers -- quite obliquely -- to the *Mahānāradakassapajātaka* (No. 544), told in the context of Uruvela Kassapa’s conversion. See DPPN II: 518-519. In the story, he is born as Aṅgati, king of Mithilā in Videha.
+[^44]: the following story refers — quite obliquely — to the *Mahānāradakassapajātaka* (No. 544), told in the context of Uruvela Kassapa’s conversion. See DPPN II: 518-519. In the story, he is born as Aṅgati, king of Mithilā in Videha.
 
 [^45]: i.e., the naked ascetic
 

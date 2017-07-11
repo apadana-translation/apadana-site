@@ -9,7 +9,7 @@ category: chapter-3
 
 Myrobalan[^3] and gooseberry,[^4]  
 mango, rose-apple,[^5] bahera,[^6]  
-jujube,[^7] markingnut,[^8] bel[^9] --  
+jujube,[^7] markingnut,[^8] bel[^9] —  
 I’m carrying \[that\] by myself. (1) \[4689\]
 
 Seeing a Meditator, Sage,  

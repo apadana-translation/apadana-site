@@ -97,8 +97,8 @@ I brought pleasure to \[my\] own heart.
 Remembering \[my\] past karma,  
 I attained the arahant-state. (18) \[2924\]
 
-Then standing up from \[my\] seat, I --  
-hands pressed together on \[my\] head --  
+Then standing up from \[my\] seat, I —  
+hands pressed together on \[my\] head —  
 saluted \[him,\] the Sambuddha,  
 \[and\] uttered these words \[at that time\]: (19) \[2925\]
 

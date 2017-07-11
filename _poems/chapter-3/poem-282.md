@@ -15,7 +15,7 @@ was like the bearer of the earth.[^5] (1) \[2627\]
 Myrobalan[^6] \[and\] gooseberry,[^7]  
 mango,[^8] rose-apple,[^9] bahera,[^10]  
 jujube,[^11] markingnut,[^12] bel,[^13]  
-and the fruits of *phārusaka*[^14] --  
+and the fruits of *phārusaka*[^14] —  
 all of that was given by me,  
 with a mind that was very clear,  
 to Siddhattha \[Buddha\], Great Sage,  

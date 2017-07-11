@@ -212,8 +212,8 @@ generating \[great\] bliss for me.
 “You always will experience  
 the fruit of \[your gift of\] that flag.” (37) \[905\]
 
-\[He said\], “The army, with four parts --  
-tusker, soldier, chariot, horse --  
+\[He said\], “The army, with four parts —  
+tusker, soldier, chariot, horse —  
 will wait on you permanently;  
 that is the fruit of a flag-gift. (38) \[906\]
 

@@ -7,13 +7,13 @@ category: chapter-3
 
 ### \[326. Annasaŋsāvaka[^1]\]
 
-Causing the Sambuddha to stay[^2] --  
+Causing the Sambuddha to stay[^2] —  
 the Golden-Colored Sambuddha,  
 like something costly made of gold,  
 Bearing the Thirty-two Great Marks,  
 Siddhattha, Goal of All Success,  
 the Lustless One, Unconquered One,  
-who was going through the bazaar --  
+who was going through the bazaar —  
 I fed \[that Sambuddha\], Great Sage. (1-2) \[2858-2859\]
 
 The Sage, Kind \[to creatures\] in the world,  

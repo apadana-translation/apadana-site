@@ -58,7 +58,7 @@ I do not know those things in me:[^12]
 that’s the fruit of grass-hut\[-giving\]. (10) \[3014\]
 
 Lions and tigers and leopards,  
-bears[^13] \[and\] wolves,[^14] *kara bānā* bears[^15] --  
+bears[^13] \[and\] wolves,[^14] *kara bānā* bears[^15] —  
 all of them stay away from me:  
 that’s the fruit of grass-hut\[-giving\]. (11) \[3015\]
 

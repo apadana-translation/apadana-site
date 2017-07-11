@@ -9,8 +9,8 @@ category: chapter-3
 
 ### \[91. Sudhāpiṇḍiya[^1]\]
 
-No one can count the good karma --  
-even, “for this, it is that much” --  
+No one can count the good karma —  
+even, “for this, it is that much” —  
 of one who performs *pūjā* for  
 those who are worthy of *pūjā*,  
 like Buddhas and \[their\] followers,  
