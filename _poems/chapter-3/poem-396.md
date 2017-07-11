@@ -216,11 +216,11 @@ The legend of Bakkula Thera is finished.
 
 [^21]: PTS *kosumbhā*, BJTS *kosambā*, also spelt *kosambhā*; BJTS Sinh. gloss here = *kohomba*, neem or margosa tree, Azadirachta indica
 
-[^22]: PTS *salaḷā*, BJTS *salalā*, BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp*.)” (Bot. dict.)
+[^22]: PTS *salaḷā*, BJTS *salalā*, BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.)
 
 [^23]: *nīpa* = Sinhala *kolom*, *nauclea orientalis*; also called Leichhardt tree
 
-[^24]: *nigrodhā* = Sinh. *nuga*, RD: the banyan or Indian fig-tree, Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti*.)
+[^24]: *nigrodhā* = Sinh. *nuga*, RD: the banyan or Indian fig-tree, Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti.*)
 
 [^25]: *kapitthanā* = *kapittha*, *kapiṭṭha* (already mentioned in v. 2 \[3759\] above), Feronia elephantum, Sinh. *divul*
 

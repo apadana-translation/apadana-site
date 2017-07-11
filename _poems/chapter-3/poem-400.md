@@ -244,7 +244,7 @@ The Fourth Hundred[^39] is finished.
 
 [^13]: *gahim*
 
-[^14]: reading *madhutelaṃ* (Sinhala gloss: *mītel*) with BJTS for PTS *dumatelaŋ* (“tree oil”). The term could also be read as a compound, “honey and oil;” the PTS reading could be sustained by taking *mītel* as the tree oil of that name, which is produced from the seeds of the *mī* tree, Bassia longifolia (*Sapot*.). Indeed, *madhu* (“honey”) can also refer to this oil. However, buffalo ghee would be a more likely oil for lamp-lighting than *mī* oil (which is used primarily in the making of medicines), so I have followed the BJTS reading here, leaving open these other possibilities.
+[^14]: reading *madhutelaṃ* (Sinhala gloss: *mītel*) with BJTS for PTS *dumatelaŋ* (“tree oil”). The term could also be read as a compound, “honey and oil;” the PTS reading could be sustained by taking *mītel* as the tree oil of that name, which is produced from the seeds of the *mī* tree, Bassia longifolia (*Sapot.*). Indeed, *madhu* (“honey”) can also refer to this oil. However, buffalo ghee would be a more likely oil for lamp-lighting than *mī* oil (which is used primarily in the making of medicines), so I have followed the BJTS reading here, leaving open these other possibilities.
 
 [^15]: reading *narāsabhaṃ* with BJTS for PTS (and BJTS alt.) *vināyakaŋ* (“Guide”)
 

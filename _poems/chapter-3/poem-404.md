@@ -196,7 +196,7 @@ The legend of Dhotaka Thera is finished.
 
 [^23]: *māluto*, abl. case
 
-[^24]: *nigrodhā* = Sinh. *nuga*, RD: the banyan or Indian fig-tree, Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti*.)
+[^24]: *nigrodhā* = Sinh. *nuga*, RD: the banyan or Indian fig-tree, Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti.*)
 
 [^25]: lit., “as a banyan…\[is not disturbed\] because of the wind.” Banyan trees drop new roots from their spreading branches, the image invoked in *virūḷha-mūla-santānaŋ*
 

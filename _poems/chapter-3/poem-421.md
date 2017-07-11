@@ -87,7 +87,7 @@ The legend of Sakiŋsammajjaka Thera is finished.
 
 [^2]: “Once-Sweeper”
 
-[^3]: *pāṭali*, Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon*.), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
+[^3]: *pāṭali*, Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
 
 [^4]: taking *paṭikuṭim* (BJTS reads *paṭikūṭī°*) as fr. *paṭikuṭati* “to crouch,” “to bend over.” BJTS gloss here (*gauravayen nämunem*, “bending over (in reverence)”
 

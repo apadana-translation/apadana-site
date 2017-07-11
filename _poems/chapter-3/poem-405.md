@@ -352,7 +352,7 @@ The legend of Upasīva Thera is finished.
 
 [^16]: *shorea robusta*
 
-[^17]: PTS *salaḷā*, BJTS *salalā*, BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp*.)” (Bot. dict.)
+[^17]: PTS *salaḷā*, BJTS *salalā*, BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.)
 
 [^18]: The *campaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
@@ -360,25 +360,25 @@ The legend of Upasīva Thera is finished.
 
 [^20]: *atimutta* = *atimuttaka*? RD: a plant, Gaertnera Racemosa = Hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. BJTS glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba*, an annual creeper, Trichodesma zeylanicum).
 
-[^21]: *mahānāmā*. Following BJTS Sinhala gloss as *uk*, sugarcane, Saccharum officinarum (*Gram*.)
+[^21]: *mahānāmā*. Following BJTS Sinhala gloss as *uk*, sugarcane, Saccharum officinarum (*Gram.*)
 
 [^22]: *asana*, Pentaptera tomentosa, = a.k.a. crocodile-bark tree, Indian laurel, silver grey wood, white chuglam. The Bodhi tree of Tissa Buddha. BJTS glosses as *piyā gasa* = *bakmī* = Sarcocephalus cordatus *(Rubi*.)
 
 [^23]: “honey-scented”
 
-[^24]: or Bimbajāla, a flowering tree, Sinh. *rat karavū*, Phyllanthus indicus (*Euphorb*.), the Bodhi tree of Dhammadassi Buddha
+[^24]: or Bimbajāla, a flowering tree, Sinh. *rat karavū*, Phyllanthus indicus (*Euphorb.*), the Bodhi tree of Dhammadassi Buddha
 
 [^25]: *uddālaka* = Cassia fistula, Sinh. *äsaḷa*
 
-[^26]: *pāṭali* is Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon*.), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha. Cf. \#71, \#78, \#96, \#248, \#369{372}.
+[^26]: *pāṭali* is Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha. Cf. \#71, \#78, \#96, \#248, \#369{372}.
 
 [^27]: *yūthikā* = Sinh. *sīnidda* = *jasminum auriculatum*
 
-[^28]: *piyaṅgukā*. RD: “\[cp. Vedic priyangu\] 1. panic seed, Panicum Italicum Vv 537; J i.39; PvA 283. Mixed with water and made into a kind of gruel (piyangûdaka) it is used as an emetic J i.419. See also kangu. — 2. a medicinal plant, Priyangu J v.420. BJTS glosses it *puvaṅgu*, Botanical dictionary = *priyaṅgu = ruk gasa*, Myristica Hersfieldia (*Myris*.), “a lofty tree…It produces fragrant flowers and seeds from its trunk.”
+[^28]: *piyaṅgukā*. RD: “\[cp. Vedic priyangu\] 1. panic seed, Panicum Italicum Vv 537; J i.39; PvA 283. Mixed with water and made into a kind of gruel (piyangûdaka) it is used as an emetic J i.419. See also kangu. — 2. a medicinal plant, Priyangu J v.420. BJTS glosses it *puvaṅgu*, Botanical dictionary = *priyaṅgu = ruk gasa*, Myristica Hersfieldia (*Myris.*), “a lofty tree…It produces fragrant flowers and seeds from its trunk.”
 
 [^29]: BJTS glosses as *satpeti däsaman* = “hundred-petaled” *saman picca mal*, a fragrant species of jasmine, Jasminum sambac. Note that at \[3432\] BJTS says *vassika* is (regular) *däsaman*.
 
-[^30]: *pāṭali* is Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon*.), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha. Cf. \#71, \#78, \#96, \#248, \#369{372}.
+[^30]: *pāṭali* is Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha. Cf. \#71, \#78, \#96, \#248, \#369{372}.
 
 [^31]: *sindhuvārita*,Vitex negunda, a.k.a. Horshoe vitex, Five-leaved chaste tree, Sinh. *nika*
 
@@ -400,7 +400,7 @@ The legend of Upasīva Thera is finished.
 
 [^40]: *vibhīṭaka*, Sinh. *buḷu*, Terminalia bellirica (sic bellerica), beleric myrobalan or bastard myrobalan. Together with myroblan proper (*araḷu*) and Indian gooseberry (*nelli*), bahera is one of the three myroblans upon which many Ayurvedic and Sinhala medicines are based; the dried nuts are typically pounded into powder which is then used in oils and other decoctions. Here, on the contrary, the reference is likely to the fresh fruit of these trees, which is also used in medicines and eaten (especially gooseberrry).
 
-[^41]: *kola*, Sinh. *debara phala*, Ziziphus Mauritania, Zizyphus Jujuba (*Rham*.), Indian jujube or Chinese apple.
+[^41]: *kola*, Sinh. *debara phala*, Ziziphus Mauritania, Zizyphus Jujuba (*Rham.*), Indian jujube or Chinese apple.
 
 [^42]: *bhallātakā*, *bhallī*, *badulla* = semecarpus anacardium, Sinh. *badulu*
 
@@ -414,11 +414,11 @@ The legend of Upasīva Thera is finished.
 
 [^47]: *madhuka* reading *madhuk’ ekā*; *madhuka* = mī gasa, bassia latifolia
 
-[^48]: BJTS glosses as Sinh. *ät demaṭa*, Bot. Dict: “a small timber tree that bears yellow flowers, Gmelina arborea (*Verb*.)
+[^48]: BJTS glosses as Sinh. *ät demaṭa*, Bot. Dict: “a small timber tree that bears yellow flowers, Gmelina arborea (*Verb.*)
 
 [^49]: *labuja* = Artocarpus lacucha or incisa; Sinh. *del*. The fruit of the tree is cooked and eaten as a starchy vegetable.
 
-[^50]: *panasa* (Sinh. *panā* , *kos*) is the jak-fruit tree, Artocarpus integrifolia (*Urti*.)
+[^50]: *panasa* (Sinh. *panā* , *kos*) is the jak-fruit tree, Artocarpus integrifolia (*Urti.*)
 
 [^51]: *kaḍalī*, Sinh. *kesel*
 
@@ -440,7 +440,7 @@ The legend of Upasīva Thera is finished.
 
 [^60]: *pakkabharitā*
 
-[^61]: *pilakkhā*, the wave-leaved or wave-leafed fig tree, Ficus infectoria; (Bot. Dict. gives Ficus Arnottiana (*Urti*.)), Sinh. *pulila*
+[^61]: *pilakkhā*, the wave-leaved or wave-leafed fig tree, Ficus infectoria; (Bot. Dict. gives Ficus Arnottiana (*Urti.*)), Sinh. *pulila*
 
 [^62]: *udumbara*, the glomerous fig tree, Ficus Glomerata, Sinh. *dimbul*
 
@@ -448,7 +448,7 @@ The legend of Upasīva Thera is finished.
 
 [^64]: *maricā*, black pepper, allowed as medicine for the monks,
 
-[^65]: *nigrodhā* = Sinh. *nuga*, RD: the banyan or Indian fig-tree, Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti*.)
+[^65]: *nigrodhā* = Sinh. *nuga*, RD: the banyan or Indian fig-tree, Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti.*)
 
 [^66]: *kapitthanā* = *kapittha*, *kapiṭṭha* (already mentioned in v. 2 \[3759\] above), Feronia elephantum, Sinh. *divul*
 
@@ -460,7 +460,7 @@ The legend of Upasīva Thera is finished.
 
 [^70]: *avidūre*, lit., “not far from”
 
-[^71]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum*.)\] and says the blossoms fell into the water from overhanging trees. Elsewhere BJTS gives different glosses: BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*. At \[4231\], \[4233\], \[4313\], \[6332\] the (or a) BJTS gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus.
+[^71]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. Elsewhere BJTS gives different glosses: BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*. At \[4231\], \[4233\], \[4313\], \[6332\] the (or a) BJTS gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus.
 
 [^72]: *paduma-kiṇṇikā*
 

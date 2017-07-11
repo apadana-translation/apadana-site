@@ -42,4 +42,4 @@ The legend of Pilakkhaphaladāyaka Thera is finished.
 
 [^3]: *vanante*, in the forest or at the edge/border of the forest
 
-[^4]: *pilakkha*, the wave — leaved or wave-leafed fig tree, Ficus infectoria; (Bot. Dict. gives Ficus Arnottiana (*Urti*.), Sinh. *pulila*
+[^4]: *pilakkha*, the wave — leaved or wave-leafed fig tree, Ficus infectoria; (Bot. Dict. gives Ficus Arnottiana (*Urti.*), Sinh. *pulila*

@@ -54,7 +54,7 @@ The legend of Salaḷamaṇḍapiya Thera is finished.
 
 [^4]: *vusīmati*, loc. of *vusīmant* = *vusitavant*, “one who has reached perfection” “the Master”
 
-[^5]: PTS *salaḷā*, BJTS *salalā*, BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp*.)” (Bot. dict.)
+[^5]: PTS *salaḷā*, BJTS *salalā*, BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.)
 
 [^6]: reading *mālaṃ* with BJTS for PTS *māḷaŋ*, “pavilion” “ritual marker”
 

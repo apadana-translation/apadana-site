@@ -1207,7 +1207,7 @@ The legend of Sāriputta Thera is finished.
 
 [^13]: *tilaka*, BJTS glosses as *madaṭa* cf. botanical dictionary = *madaṭiya*, a tree which yields false yellow sandalwood, and seeds that are used as beads and a jeweler’s weight of about 1.25 troy ounce, *adenanthera pavonina*, coral bean tree a.k.a. saga, sagaseed tree, red-bead tree, kolkriki
 
-[^14]: *pāṭali*, Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon*.), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
+[^14]: *pāṭali*, Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
 
 [^15]: *sindhuvārita*, Vitex negundo**, a.k.a. horshoe vitex, five-leaved chaste tree
 
@@ -1237,7 +1237,7 @@ The legend of Sāriputta Thera is finished.
 
 [^28]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
 
-[^29]: *asana*, Pentaptera tomentosa, = a.k.a. crocodile-bark tree, Indian laurel, silver grey wood, white chuglam. The Bodhi tree of Tissa Buddha. BJTS glosses as *piyā gasa* = *bakmī* = Sarcocephalus cordatus (*Rubi*.)
+[^29]: *asana*, Pentaptera tomentosa, = a.k.a. crocodile-bark tree, Indian laurel, silver grey wood, white chuglam. The Bodhi tree of Tissa Buddha. BJTS glosses as *piyā gasa* = *bakmī* = Sarcocephalus cordatus (*Rubi.*)
 
 [^30]: *añjani, = añjana-rukkha*, black-colored tree, cf. *añjana* black ointment
 
@@ -1371,11 +1371,11 @@ The legend of Sāriputta Thera is finished.
 
 [^95]: *madhuka* reading *madhuk’ ekā*; *madhuka* = mī gasa, bassia latifolia
 
-[^96]: BJTS glosses as Sinh. *ät demaṭa*, Bot. Dict: “a small timber tree that bears yellow flowers, Gmelina arborea (*Verb*.)
+[^96]: BJTS glosses as Sinh. *ät demaṭa*, Bot. Dict: “a small timber tree that bears yellow flowers, Gmelina arborea (*Verb.*)
 
 [^97]: PTS *kosumbhā*, BJTS *kosambā*, also spelt *kosambhā*, - (acc. to BJTS Sinh. gloss on \[3762\]) Sinh. *kohomba*, neem or margosa tree, Azadirachta indica, though Cone says “a kind of shrub or plant”
 
-[^98]: PTS *salaḷā*, BJTS *salalā*, BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp*.)” (Bot. dict.)
+[^98]: PTS *salaḷā*, BJTS *salalā*, BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.)
 
 [^99]: *nīpa* = Sinhala *kolom*, *nauclea orientalis*; also called Leichhardt tree
 
@@ -1393,7 +1393,7 @@ The legend of Sāriputta Thera is finished.
 
 [^106]: *bellā, billā* = fruit of Aegle marmelos, Sinh. *beli geḍiya*, bael, bel, Bengal quince; bilva or vilva tree, = *beluvā*
 
-[^107]: *kalamba*, RD draws attention to Skt. *kalambika*, *kalambuka* = convulvulus repens, bindweed, but there are other possibilities including a tree menispermum calumba (but its fruits are poisonous/only used in controlled medical usages, unlikely?) and (following BJTS Sinh. gloss here) Anthocephalus Cadamba (*Rub*.), Sinh. *kalamba*
+[^107]: *kalamba*, RD draws attention to Skt. *kalambika*, *kalambuka* = convulvulus repens, bindweed, but there are other possibilities including a tree menispermum calumba (but its fruits are poisonous/only used in controlled medical usages, unlikely?) and (following BJTS Sinh. gloss here) Anthocephalus Cadamba (*Rub.*), Sinh. *kalamba*
 
 [^108]: BJTS reads *aluva*. RD: fr. Skt. *ālu*, *āluka*: a bulbous plant, Radix Globosa Esculenta or Amorphophallus (Kern), Arum Campanulatum (Hardy), cognate with alium, good possibility is amorphophallus titanum, “titan arum”
 
@@ -1401,7 +1401,7 @@ The legend of Sāriputta Thera is finished.
 
 [^110]: BJTS reads *sutaka*
 
-[^111]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*. At \[4231\], \[4233\], \[4313\], \[6332\] the (or a) BJTS gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus. At \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum*.)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”.
+[^111]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*. At \[4231\], \[4233\], \[4313\], \[6332\] the (or a) BJTS gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus. At \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”.
 
 [^112]: reading *balapatto* with BJTS for PTS *phalapatto* (“obtaining results”)
 
@@ -1569,7 +1569,7 @@ The legend of Sāriputta Thera is finished.
 
 [^194]: *kumuda*
 
-[^195]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS gloss is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*. At \[4231\], \[4233\], \[4313\], \[6332\] the (or a) BJTS gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus. At \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum*.)\] and says the blossoms fell into the water from overhanging trees.
+[^195]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS gloss is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*. At \[4231\], \[4233\], \[4313\], \[6332\] the (or a) BJTS gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus. At \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees.
 
 [^196]: *paduma*
 

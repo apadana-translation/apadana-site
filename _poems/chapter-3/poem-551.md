@@ -163,7 +163,7 @@ The legend of Yasa Thera, the first.
 
 [^5]: PTS *cakkavākā pakūjitā;* BJTS *cakkavākūpakūjitā*
 
-[^6]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus, also the (or a) gloss at \[4231\], \[4233\], \[4313\]. But elsewhere BJTS gives different glosses: at \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum*.)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
+[^6]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus, also the (or a) gloss at \[4231\], \[4233\], \[4313\]. But elsewhere BJTS gives different glosses: at \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
 
 [^7]: *maccha-kacchapa-sañchannā*
 

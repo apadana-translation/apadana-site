@@ -54,7 +54,7 @@ The legend of Kimbila Thera, the fourth.
 
 [^4]: *vusīmati*, loc. of *vusīmant* = *vusitavant*, “one who has reached perfection” “the Master”
 
-[^5]: BJTS Sinh.gloss = *hora*, Bot. Dict. = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp*.)”
+[^5]: BJTS Sinh.gloss = *hora*, Bot. Dict. = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)”
 
 [^6]: lit., “I caused a pavilion (*maṇḍapa*) to be constructed,” caus. of *karoti*
 

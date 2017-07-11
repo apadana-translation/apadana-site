@@ -295,13 +295,13 @@ The Metteyya Chapter, the Forty-First
 
 [^13]: *jambu*
 
-[^14]: a small tree, Crataeva Roxburghii (*Cappar*.), Sinh. *luṇuvaraṇa*
+[^14]: a small tree, Crataeva Roxburghii (*Cappar.*), Sinh. *luṇuvaraṇa*
 
 [^15]: *tilaka*, BJTS glosses as *madaṭa* cf. botanical dictionary = *madaṭiya*, a tree which yields false yellow sandalwood, and seeds that are used as beads and a jeweler’s weight of about 1.25 troy ounce, *adenanthera pavonina*, coral bean tree a.k.a. Saga, Sagaseed tree, Red-bead tree, kolkriki
 
 [^16]: *uddālaka* = Cassia fistula, Sinh. *äsaḷa*
 
-[^17]: *pāṭali* is Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon*.), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
+[^17]: *pāṭali* is Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
 
 [^18]: reading *aṅkolaka* with BJTS (and PTS alt.) for PTS *Ākolakā*. The plant in question is alangium hexapetalum, a.k.a. sage-leaved alangium, Sinh. *rukaṅguna*
 
@@ -367,7 +367,7 @@ The Metteyya Chapter, the Forty-First
 
 [^49]: *supatitthā*, following BJTS gloss here (elsewhere “good banks”). Should I do the same elsewhere?
 
-[^50]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS Sinh. gloss suggests *helmäliyen* = *heḷmäli*, also the (or a) gloss at \[4231\], \[4313\], \[6332\] = edible white water-lily, Nymphaea Lotus. But elsewhere BJTS gives different glosses: at \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum*.)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
+[^50]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS Sinh. gloss suggests *helmäliyen* = *heḷmäli*, also the (or a) gloss at \[4231\], \[4313\], \[6332\] = edible white water-lily, Nymphaea Lotus. But elsewhere BJTS gives different glosses: at \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
 
 [^51]: read *pāṭhīna*, Silurus Boalis, “a kind of shad” (RD); wikipedia gives “sheatfish,” related to catfish, includes all the siluridae. BJTS glosses *peṭiyō*
 

@@ -286,7 +286,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^20]: the *campaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
-[^21]: *pāṭali*, Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon*.), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
+[^21]: *pāṭali*, Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
 
 [^22]: *sindhuvārita*,Vitex negundo, a.k.a. Horshoe vitex, Five-leaved chaste tree
 
@@ -300,7 +300,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^27]: BJTS glosses as *satpeti däsaman* = “hundred-petaled” *saman picca mal*, a fragrant species of jasmine, Jasminum sambac. Note that at \[3432\] BJTS says *vassika* is (regular) *däsaman*.
 
-[^28]: or Bimbajāla, a flowering tree, Sinh. *rat karavū*, Phyllanthus indicus (*Euphorb*.), the Bodhi tree of Dhammadassi Buddha
+[^28]: or Bimbajāla, a flowering tree, Sinh. *rat karavū*, Phyllanthus indicus (*Euphorb.*), the Bodhi tree of Dhammadassi Buddha
 
 [^29]: *kaṇṇikāra, kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
 
@@ -308,17 +308,17 @@ The legend of Ekachattiya Thera is finished.
 
 [^31]: *sālā*, shorea robusta
 
-[^32]: PTS *salaḷā*, BJTS *saḷalā*, BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp*.)” (Bot. dict.). RD says this is a tree with fragrant blossoms (which was the Bodhi Tree of Padumuttara Buddha, cf. above, \#177, v. 1 \[2133\]). RD notes references to this tree atJ v.420; Bu ii.51= J i.13; Vv 355; VvA 162; Miln 338; M ii.184, and says it is Pinus Longiflis (now more commonly Pinus Longifolia), Indian Pine, indigenous to northern India, Pakistan, Himalayas, bearing brilliant clustered flowers in blue and other colors, with edible seeds.
+[^32]: PTS *salaḷā*, BJTS *saḷalā*, BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.). RD says this is a tree with fragrant blossoms (which was the Bodhi Tree of Padumuttara Buddha, cf. above, \#177, v. 1 \[2133\]). RD notes references to this tree atJ v.420; Bu ii.51= J i.13; Vv 355; VvA 162; Miln 338; M ii.184, and says it is Pinus Longiflis (now more commonly Pinus Longifolia), Indian Pine, indigenous to northern India, Pakistan, Himalayas, bearing brilliant clustered flowers in blue and other colors, with edible seeds.
 
 [^33]: *Ajjuna* (a.k.a. *kakudha*, Sinhala *kumbuk gasa*, *kubuk*, Terminalia arjuna) is an impressively large, shade-giving tree that thrives on the edges of tanks and lakes.
 
 [^34]: *asana*, Pentaptera tomentosa = a.k.a. crocodile-bark tree, Indian Laurel, silver grey wood, white chuglam. The Bodhi tree of Tissa Buddha. BJTS glosses as *piyā gasa* = *bakmī* = Sarcocephalus cordatus *(Rubi*.)
 
-[^35]: *mahānāmā*. Following BJTS Sinhala gloss as *uk*, sugarcane, Saccharum officinarum (*Gram*.)
+[^35]: *mahānāmā*. Following BJTS Sinhala gloss as *uk*, sugarcane, Saccharum officinarum (*Gram.*)
 
 [^36]: *sālā*, shorea robusta
 
-[^37]: BJTS Sinhala gloss = *puwaṅgu* = *rukgasa*, Bot. Dict. “C. En \[Ceylon endemic\], a lofty tree, Myristica Horsfieldia (*Myris*.). It produces fragrant flowers and seeds from its trunk”
+[^37]: BJTS Sinhala gloss = *puwaṅgu* = *rukgasa*, Bot. Dict. “C. En \[Ceylon endemic\], a lofty tree, Myristica Horsfieldia (*Myris.*). It produces fragrant flowers and seeds from its trunk”
 
 [^38]: *ambā*, Magnifera indica
 
@@ -356,7 +356,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^55]: *bellā, billaŋ* = Aegle marmelos, Sinh. *beli geḍiya*, bael, bel, Bengal quince; bilva or vilva tree; also *billā*, *beluvā*
 
-[^56]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS glosses *helmällen nohot diyakandarayen*, “if not *helmälla* then *diyakandara*.” *Helmälla* = *heḷmäli*. This is also the gloss at \[4231\] andt \[4313\]; at \[6332\] the gloss is a straightforward *helmäli* = edible white water-lily, Nymphaea Lotus. But elsewhere BJTS gives different glosses: at \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum*.)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
+[^56]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS glosses *helmällen nohot diyakandarayen*, “if not *helmälla* then *diyakandara*.” *Helmälla* = *heḷmäli*. This is also the gloss at \[4231\] andt \[4313\]; at \[6332\] the gloss is a straightforward *helmäli* = edible white water-lily, Nymphaea Lotus. But elsewhere BJTS gives different glosses: at \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
 
 [^57]: reading *padumuppalakehi ca* with BJTS for PTS *padumapphalakehi ca* (“and with pink lotuses and fruit” or “and with pink lotus fruits”.
 
