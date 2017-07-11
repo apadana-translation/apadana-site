@@ -54,4 +54,4 @@ The Thomaka Chapter, the Twenty-Sixth
 
 [^4]: “Boundless”
 
-[^5]: omitting *ca* following PTS alternative as well as BJTS. This keeps the meter right, in Pāli as much as in English. There are anyway already two *ca*/s in the following line, which keeps the English awkward enough.
+[^5]: omitting *ca* following PTS alternative as well as BJTS. This keeps the meter right, in Pāli as much as in English. There are anyway already two *ca*\s in the following line, which keeps the English awkward enough.

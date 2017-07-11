@@ -37,7 +37,7 @@ bowmen and people in armor,
 hunters[^26] and conquering soldiers:[^27]  
 they all assembled at that time. (6) \[4118\]
 
-*Mātaṅga*/s[^28] rutting in three ways[^29]  
+*Mātaṅga*\s[^28] rutting in three ways[^29]  
 \[and\] tuskers sixty years of age,  
 adorned with headdresses of gold:  
 they all assembled at that time. (7) \[4119\]
@@ -86,7 +86,7 @@ Disregarding \[all my\] wealth \[and\]
 fighting battles I abandoned  
 \[my\] sixty thousand elephants  
 decked out in all the ornaments,  
-*mātaṅga*/s with gold headdresses,  
+*mātaṅga*\s with gold headdresses,  
 clothed in harnessing made of gold,  
 mounted by elephant-trainers  
 with lances and goads in \[their\] hands.[^48]  

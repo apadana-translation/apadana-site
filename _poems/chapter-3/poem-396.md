@@ -15,7 +15,7 @@ was built by \[my\] own students \[there\]. (1) \[3758\]
 There were many canopies there,[^3]  
 and flowering Chinese chaste trees.[^4]  
 There were many wood-apple[^5] trees,[^6]  
-and *jīvajīvaka*/s[^7] in bloom. (2) \[3759\]
+and *jīvajīvaka*\s[^7] in bloom. (2) \[3759\]
 
 There were many *nigguṇḍi*[^8] trees,[^9]  
 jujube,[^10] also gooseberry,[^11]  

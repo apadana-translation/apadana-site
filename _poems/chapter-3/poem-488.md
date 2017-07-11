@@ -92,7 +92,7 @@ The legend of Taraṇiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Ferryman”. Cf. \#204, \#270, \#280 for parallel *apadāna*/s of monks with this name.
+[^2]: “Ferryman”. Cf. \#204, \#270, \#280 for parallel *apadāna*\s of monks with this name.
 
 [^3]: PTS reads *Cinatā*. BJTS reads *Vinakaº*, PTS alt. *Vinatā* is the spelling preferred by DPPN (see II:883), and used without divergence between PTS and BJTS in \#380 {383}, v. 1 = \[3292\]; cf. also \#511 {514} v. 1 = \[5473\], below.. Malalasekera says it was presumably in the Himalayas.
 

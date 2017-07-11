@@ -168,7 +168,7 @@ The legend of Nigguṇḍipupphiya Thera is finished.
 
 [^17]: *kaṇha* + *sukka*; “dark and bright” “black and white,” (one of the colorless color-sensations); by extension merit or demerit, *puñña* or *pāpa*. “Black” and “White” carry similar connotations in English, so I have translated accordingly.
 
-[^18]: *ārāma*, any of a number of places, so-designated, where the Buddha dwelt (and where many of the *sutta*/s were preached). Given the reference to Sāvatthi in the present instance (v. 16) this would likely be the *ārāma* donated by Anāthapiṇḍika, in the Jetavāna.
+[^18]: *ārāma*, any of a number of places, so-designated, where the Buddha dwelt (and where many of the *sutta*\s were preached). Given the reference to Sāvatthi in the present instance (v. 16) this would likely be the *ārāma* donated by Anāthapiṇḍika, in the Jetavāna.
 
 [^19]: *pāvacana* = *dhamma*, the “Good Word”
 
@@ -186,4 +186,4 @@ The legend of Nigguṇḍipupphiya Thera is finished.
 
 [^26]: lit., kṣatriyan
 
-[^27]: the text is based on two large numbers, “*abbuda*/s and *nirabudda*/s” of previous/subsequent lives as a kṣatriyan king, apparently within that single aeon (the 25,000th ago). Cty (p. 477) defines *abbuda* and *nirabbuda* based on the unit called *koṭi* (“crore” in Indian English = 100 lakhs \[100,000\] = ten million). A *koṭi* of *koṭi*/s (ten million squared = one hundred trillion) is a *pakoṭi*. A *koṭi* of *pakoṭi*/s is an *abbuda* (10,000,000 cubed = ten-million-hundred-trillions); a *koṭi* of *abbuda*/s is a *nirabudda* (ten million to the fourth power = hundred-trillion-hundred trillions). The text enumerates the previous-life kings in *abbuda*/s and *nirabudda*/s and is read by cty and BJTS to mean that there were eight of each sort, i.e., eight *abbuda*/s and eight *nirabudda*/s, = 8 x 10,000,000 cubed plus 8 x 10,000,000 to the fourth
+[^27]: the text is based on two large numbers, “*abbuda*\s and *nirabudda*\s” of previous/subsequent lives as a kṣatriyan king, apparently within that single aeon (the 25,000th ago). Cty (p. 477) defines *abbuda* and *nirabbuda* based on the unit called *koṭi* (“crore” in Indian English = 100 lakhs \[100,000\] = ten million). A *koṭi* of *koṭi*\s (ten million squared = one hundred trillion) is a *pakoṭi*. A *koṭi* of *pakoṭi*\s is an *abbuda* (10,000,000 cubed = ten-million-hundred-trillions); a *koṭi* of *abbuda*\s is a *nirabudda* (ten million to the fourth power = hundred-trillion-hundred trillions). The text enumerates the previous-life kings in *abbuda*\s and *nirabudda*\s and is read by cty and BJTS to mean that there were eight of each sort, i.e., eight *abbuda*\s and eight *nirabudda*\s, = 8 x 10,000,000 cubed plus 8 x 10,000,000 to the fourth

@@ -52,7 +52,7 @@ the unexcelled fields[^36] for merit,
 working to increase[^37] my merit  
 are \[also\] coming to my house. (9) \[4173\]
 
-All the Jains: the *Padaka*/s[^38] the  
+All the Jains: the *Padaka*\s[^38] the  
 *Laṭakas*,[^39] *Pupphasāṭakas*,[^40]  
 *Tedaṇḍakas*,[^41] *Ekasikhas*[^42]  
 are \[also\] coming to my house. (10) \[4174\]
