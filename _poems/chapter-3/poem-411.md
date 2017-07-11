@@ -225,6 +225,6 @@ The legend of Bhaddāli Thera is finished.
 
 [^27]: *etthantaram upādāya*, lit., “for as long as the interval \[up to\] now (or here)”
 
-[^28]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
+[^28]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya*/*ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
 [^29]: *carimo vattate bhavo*

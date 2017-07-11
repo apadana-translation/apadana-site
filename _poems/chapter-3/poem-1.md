@@ -91,7 +91,7 @@ the lotus roots[^43] are being cleansed.[^44]
 *Singhāṭi*[^45] leaves are strew about,  
 making that tank so beautiful. (16) \[155\]
 
-Shrubs like *nayita, ambagandhi*,
+Shrubs like *nayita*, *ambagandhi*,
 *uttuli, bandhujīvaka*[^46]  
 all in bloom then in the tank \[there\]  
 are exuding heavenly scents. (17) \[156\]
@@ -1505,7 +1505,7 @@ The legend of Sāriputta Thera is finished.
 
 [^162]: *saṃsārim bhave*
 
-[^163]: *avokiṇṇam/avyākiṇṇam* (cty = *avichinnaṃ, nirantaraṃ*)
+[^163]: *avokiṇṇam*/*avyākiṇṇam* (cty = *avichinnaṃ, nirantaraṃ*)
 
 [^164]: *pabbajjim isipabbajjaṃ*
 

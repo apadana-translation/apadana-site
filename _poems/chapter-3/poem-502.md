@@ -106,4 +106,4 @@ The legend of Ekapattadāyaka Thera is finished.
 
 [^18]: lit., “to all living beings” “to all that breathe”
 
-[^19]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
+[^19]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya*/*ājānīya*, “almost exclusively used to donate a thoroughbred horse”

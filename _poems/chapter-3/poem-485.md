@@ -217,6 +217,6 @@ The legend of Candanamāliya Thera is finished.
 
 [^24]: *orena nâddasaŋ ahaŋ*, following BJTS Sinhala gloss *lamusē no diṭimi*
 
-[^25]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
+[^25]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya*/*ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
 [^26]: lit., “did *pūjā*”

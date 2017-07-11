@@ -113,7 +113,7 @@ The Sīhāsani Chapter, the Second.
 
 [^2]: *sabbalokavinetāraŋ*
 
-[^3]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
+[^3]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya*/*ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
 [^4]: *tiṇṇo*, i.e., one who has gone to the further shore of *samsāra*, one who has reached nirvana
 

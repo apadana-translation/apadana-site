@@ -235,7 +235,7 @@ The legend of Sīvali Thera is finished.
 
 [^11]: reading *brāhmaṇo* with BJTS (and PTS alt.) for PTS *brāhmaṇā* (“the Brahmins”)
 
-[^12]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
+[^12]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya*/*ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
 [^13]: reading *hi vo* with BJTS for PTS *vibho* (= “the Wise One” ?)
 

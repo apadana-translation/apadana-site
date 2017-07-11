@@ -50,7 +50,7 @@ The legend of Ñāṇasaññaka Thera is finished.
 
 [^2]: lit., “neither \[is there an analogy\] for association of \[with\] the Teacher.” My translation of this verse follows the BJTS Sinhala gloss.
 
-[^3]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
+[^3]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya*/*ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
 [^4]: see note to \[1567\].
 

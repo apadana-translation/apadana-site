@@ -181,7 +181,7 @@ The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
 [^17]: lit., “of,” gen. case, “not-seeing of Buddhas”
 
-[^18]: *patantya&lt;patanti*, note the Sanskritic *sandhi* here
+[^18]: *patantya*&lt;*patanti*, note the Sanskritic *sandhi* here
 
 [^19]: *avīcinirayaŋ*, a particularly oppressive hell-state
 

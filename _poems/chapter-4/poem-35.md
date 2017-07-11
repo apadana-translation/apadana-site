@@ -235,7 +235,7 @@ The legend of Sukkā Therī[^35] is finished
 
 [^32]: *ye…na*, lit., “those who have not”
 
-[^33]: PTS *payirupāsanti* breaks the meter; BJTS *upāsanti* does not. The two are essentially the same verb, the former with an additional *pari&lt;payir*
+[^33]: PTS *payirupāsanti* breaks the meter; BJTS *upāsanti* does not. The two are essentially the same verb, the former with an additional *pari*&lt;*payir*
 
 [^34]: reading *mahāmune* (voc.) with BJTS for PTS *mahāmuni* (nom.)
 

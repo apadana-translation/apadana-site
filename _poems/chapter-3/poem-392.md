@@ -565,7 +565,7 @@ The legend of Sela Thera is finished.
 
 [^39]: *bhatakā*
 
-[^40]: *gītakā&lt;gītakārā*. BJTS reads *cetaka*, “boy servants,” “waifs”
+[^40]: *gītakā*&lt;*gītakārā*. BJTS reads *cetaka*, “boy servants,” “waifs”
 
 [^41]: *dāsa-kammakārā bahū*
 

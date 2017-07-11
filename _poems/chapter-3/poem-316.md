@@ -57,7 +57,7 @@ The legend of Āsanatthavika Thera is finished.
 
 [^3]: *divasabhāgaŋ*, lit., “during the daytime \[part of the day, as opposed to the nighttime part of it\]”
 
-[^4]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya/ājānīya*, “almost exclusively used to donate a thoroughbred horse”
+[^4]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya*/*ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
 [^5]: *nimitta-karaṇena* = *nimittagāhiŋ*, lit., “because of outward signs” “following external desires”
 
