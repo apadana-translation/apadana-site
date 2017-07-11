@@ -169,9 +169,9 @@ The legend of Yasa Thera, the first.
 
 [^8]: *samotthatā*, lit., “strewn about,” “spread out over”
 
-[^9]: *mayuraº*
+[^9]: *mayura°*
 
-[^10]: *ºkoñcaº*
+[^10]: *°koñca°*
 
 [^11]: *kokilādīhi vagguhi*, lit., “and with the lovely \[cries\] of cuckoos, etc.”
 

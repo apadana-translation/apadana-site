@@ -63,7 +63,7 @@ The legend of Bhallāṭakadāyaka Thera is finished.
 
 [^4]: lit., “going”
 
-[^5]: *pavanaº*. Despite RD’s qualms (*pavana*, s.v.) I follow the tradition in reading this as “forest, woods” rather than “the side of a mountain.” Note BJTS alt. *vipinaº*.
+[^5]: *pavana°*. Despite RD’s qualms (*pavana*, s.v.) I follow the tradition in reading this as “forest, woods” rather than “the side of a mountain.” Note BJTS alt. *vipina°*.
 
 [^6]: *paṇṇasanthare*, presumably the “rug made of grass” mentioned in v. 2
 

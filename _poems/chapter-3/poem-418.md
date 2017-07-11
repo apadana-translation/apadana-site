@@ -132,7 +132,7 @@ The legend of Yāgudāyaka Thera is finished.
 
 [^8]: *jhāyino*
 
-[^9]: reading *lūkhaº* with BJTS for PTS *lukhaº*
+[^9]: reading *lūkha°* with BJTS for PTS *lukha°*
 
 [^10]: *gatī*, i.e., liability for rebirth
 
@@ -152,7 +152,7 @@ The legend of Yāgudāyaka Thera is finished.
 
 [^18]: lit., “pierced,” “struck” “hit”
 
-[^19]: *sabbasampattiº*, lit., “all the attainments,” i.e., “I reached nirvana, I became an arahant”
+[^19]: *sabbasampatti°*, lit., “all the attainments,” i.e., “I reached nirvana, I became an arahant”
 
 [^20]: omitting *cāpi*, “and also”
 

@@ -163,13 +163,13 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^6]: *maccha-kacchapa-sañchannā*
 
-[^7]: reading *nānādijaº* (“various birds”) with BJTS for PTS *nānāmigaº*. The poem continues by listing types of birds, so the BJTS reading seems preferable, even though the PTS reading is also certainly possible.
+[^7]: reading *nānādija°* (“various birds”) with BJTS for PTS *nānāmiga°*. The poem continues by listing types of birds, so the BJTS reading seems preferable, even though the PTS reading is also certainly possible.
 
 [^8]: *samotthatā*, lit., “strewn about,” “spread out over”
 
-[^9]: *mayuraº*
+[^9]: *mayura°*
 
-[^10]: *ºkoñcaº*
+[^10]: *°koñca°*
 
 [^11]: *kokilādīhi vagguhi*, lit., “and with the lovely \[cries\] of cuckoos, etc.”
 

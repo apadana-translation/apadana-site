@@ -225,7 +225,7 @@ The legend of Lakuṇṭakabhaddiya Thera is finished.
 
 [^24]: *upagantvā*, lit., “having approached”
 
-[^25]: *ºgata°*, lit., “gone”
+[^25]: *°gata°*, lit., “gone”
 
 [^26]: *gottena*
 

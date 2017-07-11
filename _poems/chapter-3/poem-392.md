@@ -687,7 +687,7 @@ The legend of Sela Thera is finished.
 
 [^100]: *pahaṭo*, BJTS reads *pahaṭṭho*, with the same meaning.
 
-[^101]: *ukkāmukhaº*, the “mouth” (receiving or discharging end) of a furnace or forge, a goldsmith’s smelting pot.
+[^101]: *ukkāmukha°*, the “mouth” (receiving or discharging end) of a furnace or forge, a goldsmith’s smelting pot.
 
 [^102]: *khadiraṅgārasannibha*. *Khadira* is Sinh. *kihiri*, Acacia Sundra, English “red cutch” or “khayer.” The tree produces impressive spikes of yellow flowers but is known primarily for its timber and use in making charcoal.
 
@@ -723,7 +723,7 @@ The legend of Sela Thera is finished.
 
 [^118]: *dasabalo*
 
-[^119]: *balātibalapārago* (BJTS reads *ºpāragū*), lit., “one who has gone beyond the power-surpassing power”
+[^119]: *balātibalapārago* (BJTS reads *°pāragū*), lit., “one who has gone beyond the power-surpassing power”
 
 [^120]: *durāsado*
 
@@ -807,7 +807,7 @@ The legend of Sela Thera is finished.
 
 [^160]: *ācāra-upacāraññū*
 
-[^161]: *dhammanucchavasaŋvaraŋ* (BJTS reads *dhammanucchaviº*)
+[^161]: *dhammanucchavasaŋvaraŋ* (BJTS reads *dhammanucchavi°*)
 
 [^162]: *pade padaŋ nikkhipantā*, lit., “carefully placing \[your feet\] step by step”
 

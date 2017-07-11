@@ -38,10 +38,10 @@ The legend of Amoraphaliya[^5] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “*Amora-*Fruit Donor.” BJTS reads *amodaphalaº*. The same *apadāna* is presented below as \#509 {512} woth the slight difference that the name of the fruit in v. 1, and hence of the donor, is *kapittha/Kapitthaphaladāyaka* rather than *amora/Amoraphaliya*
+[^2]: “*Amora-*Fruit Donor.” BJTS reads *amodaphala°*. The same *apadāna* is presented below as \#509 {512} woth the slight difference that the name of the fruit in v. 1, and hence of the donor, is *kapittha/Kapitthaphaladāyaka* rather than *amora/Amoraphaliya*
 
 [^3]: BJTS reads *amoda*
 
-[^4]: BJTS reads *amodaphalaº*.
+[^4]: BJTS reads *amodaphala°*.
 
-[^5]: BJTS reads *amodaphalaº*.
+[^5]: BJTS reads *amodaphala°*.

@@ -91,7 +91,7 @@ The legend of Harīṭakadāyaka Thera is finished.
 
 [^11]: *anumodianiyaŋ akā*, lit., “made an expression of thanks.” Both PTS and BJTS record an alternate reading which is more straightforward: *anumodaŋ akāsi me*, “expressed \[his\] thanks to me”
 
-[^12]: reading *ºvūpasamena* with BJTS for PTS *ºvupasamena*
+[^12]: reading *°vūpasamena* with BJTS for PTS *°vupasamena*
 
 [^13]: *jāto vā aññajātiyā*, lit.,(following BJTS gloss) “or born in some other birth-state”
 

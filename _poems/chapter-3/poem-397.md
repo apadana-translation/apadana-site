@@ -169,7 +169,7 @@ The legend of Girimānanda Thera is finished.
 
 [^4]: reading *aṭṭito* with BJTS for PTS *cakkhumā*, “one with eyes”
 
-[^5]: *ºpareto*, lit., “overcome,” “affected”
+[^5]: *°pareto*, lit., “overcome,” “affected”
 
 [^6]: reading *ullokesiṃ* with BJTS (and PTS alt.) for PTS *ullokesi*, “he looked upon”
 
@@ -187,9 +187,9 @@ The legend of Girimānanda Thera is finished.
 
 [^13]: *tattha kā paridevanā*, lit., “what is the lamentation there?” RD (*tattha*, s.v.) gives “why sorrow for this?”
 
-[^14]: *sattā*, lit., “beings”. BJTS glosses *ºjanayo*, “people”
+[^14]: *sattā*, lit., “beings”. BJTS glosses *°janayo*, “people”
 
-[^15]: *pathikā*, BJTS glosses *magīº*
+[^15]: *pathikā*, BJTS glosses *magī°*
 
 [^16]: *sabhaṇḍā*, lit., “together with their goods”
 
@@ -239,7 +239,7 @@ The legend of Girimānanda Thera is finished.
 
 [^39]: *lokajinaŋ*
 
-[^40]: taking *paṭikuṭiko* (BJTS reads *patiº*) as fr. *paṭikuṭati* “to crouch,” “to bend over”. This may mean that he went off still bowing in reverence, or else that he went off on all fours. Here BJTS leaves the term unglossed
+[^40]: taking *paṭikuṭiko* (BJTS reads *pati°*) as fr. *paṭikuṭati* “to crouch,” “to bend over”. This may mean that he went off still bowing in reverence, or else that he went off on all fours. Here BJTS leaves the term unglossed
 
 [^41]: where he presumably went after the lifetime just recounted
 

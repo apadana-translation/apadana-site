@@ -38,10 +38,10 @@ The legend of Kosumbhaphaliya[^5] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “*Kosumba* (PTS *Kosumbaº*) Fruit-er”. PTS gets the spelling right in v. 1.
+[^2]: “*Kosumba* (PTS *Kosumba°*) Fruit-er”. PTS gets the spelling right in v. 1.
 
 [^3]: *kosumbhaŋ*, also spelt *kosambhā*, - (acc. to BJTS Sinh. gloss on \[3762\]) Sinh. *kohomba*, neem or margosa tree, Azadirachta indica, though Cone says “a kind of shrub or plant”
 
-[^4]: PTS reads *Kosumbaº*
+[^4]: PTS reads *Kosumba°*
 
-[^5]: PTS reads *Kosumbaº*
+[^5]: PTS reads *Kosumba°*

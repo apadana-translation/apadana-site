@@ -192,7 +192,7 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Sand-Stupa-er.” BJTS reads *Pulinaº*
+[^2]: “Sand-Stupa-er.” BJTS reads *Pulina°*
 
 [^3]: BJTS reads *Yamako*
 
@@ -208,7 +208,7 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^9]: lit., “of”
 
-[^10]: BJTS reads *kiṅkaṇiº*
+[^10]: BJTS reads *kiṅkaṇi°*
 
 [^11]: reading *jāyanti* with BJTS for PTS *jhāyanti* (“are meditating”)
 
@@ -228,7 +228,7 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^19]: reading *kuvitakke* (pl.) with BJTS for PTS *kuvitakkaŋ* (sing., “bad reflection” or, following the translation in the preceeding verse, “bad pre-occupation”)
 
-[^20]: BJTS reads *tuttāṭṭito*, the more correct (acc. to RD) spelling of PTS *ºaddito*
+[^20]: BJTS reads *tuttāṭṭito*, the more correct (acc. to RD) spelling of PTS *°addito*
 
 [^21]: *maccurājā* = Māra
 
@@ -276,6 +276,6 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^43]: BJTS reads *soṇṇapuphass’idaṃ phalaṃ*, “that is the fruit of a gold-colored flower,” referring back to the *kṅikaṇi* (PTS: *kiṅkhani*) flowers offered to the sand-stupa (see above, v. 10 \[5313\], cf. v. 18 \[5321\])
 
-[^44]: BJTS reads *Pulinaº*
+[^44]: BJTS reads *Pulina°*
 
-[^45]: BJTS reads *Pulinaº*
+[^45]: BJTS reads *Pulina°*

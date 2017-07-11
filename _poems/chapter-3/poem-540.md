@@ -237,7 +237,7 @@ The Kaccāna Chapter, the Fifty-Fourth[^44]
 
 [^19]: *paṭikkamanasālāyaŋ*, following RD. The sense is of a building whose purpose is keeping the chairs, cushions, mats or what have you that are appointed for distinguished visitors. As the Buddha and monks would have been among the latter, the sooting up of the floor seems to have been especially grave.
 
-[^20]: *lūkhacīvaradhārakaŋ*. *Lūkhaº* refers to rough, inferior cloth discarded by tailors
+[^20]: *lūkhacīvaradhārakaŋ*. *Lūkha°* refers to rough, inferior cloth discarded by tailors
 
 [^21]: *sālapiṇḍitaŋ*, BJTS Sinh. gloss “who has *sālapiṇḍa* (“a lump of food in a hall” “a lump of *sal* “
 
@@ -267,7 +267,7 @@ The Kaccāna Chapter, the Fifty-Fourth[^44]
 
 [^34]: reading *diṭṭhiṃ te nābhijānāti* with BJTS for PTS *diṭṭhi no nâbhijānāmi*, and following BJTS Sinh. gloss.
 
-[^35]: or “excellent knowledge,” see under RD *abhikkanta*, s.v. (*ºdassāvin*)
+[^35]: or “excellent knowledge,” see under RD *abhikkanta*, s.v. (*°dassāvin*)
 
 [^36]: *sabbarogatikicchako*
 

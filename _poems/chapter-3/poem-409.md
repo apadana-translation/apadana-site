@@ -291,7 +291,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^5]: *ubbiddhā*, Skt. *udviddha*, a rare term outside *Apadāna* (and J) meaning (according to Cone) “high, elevated.” BJTS glosses it as a verb rather than an adjective (which would produce “tall architects”), “constructed \[a building\]” (*goḍanäguha*). I follow BJTS in making sense of this verse.
 
-[^6]: *gehalañchakā*, lit., “those who know \[make, do\] the marks of houses;” BJTS Sinh. gloss is just that: *geval lakuṇu dannō*. Lilley says all the mss give *lañjaka*, but variants are not noted by BJTS (*ºlañchakā*)
+[^6]: *gehalañchakā*, lit., “those who know \[make, do\] the marks of houses;” BJTS Sinh. gloss is just that: *geval lakuṇu dannō*. Lilley says all the mss give *lañjaka*, but variants are not noted by BJTS (*°lañchakā*)
 
 [^7]: *turiyā*
 
@@ -301,7 +301,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^10]: reading *velāpikā* with BJTS (and PTS alt) for PTS *velāmikā* (RD: “some sort of servants, especially in demand for a noble’s retinue”); BJTS gloss *piḷi hisa sisārannō*, “people who twirl around their heads completely”
 
-[^11]: *vāmanikā*, read fr. *vāmanaka*, dwarfish, *vāmana*, a dwarf. BJTS (and PTS alt.) read *lāmaṇikā*, BJTS gloss for this is also *aṅguṭumiṭiº* = “extremely small dwarf” + *ºnätum naṭannō*, “-dance-dancers”
+[^11]: *vāmanikā*, read fr. *vāmanaka*, dwarfish, *vāmana*, a dwarf. BJTS (and PTS alt.) read *lāmaṇikā*, BJTS gloss for this is also *aṅguṭumiṭi°* = “extremely small dwarf” + *°nätum naṭannō*, “-dance-dancers”
 
 [^12]: reading *kuñjavāsī* (“dwelling in a bower,” “living in a place covered with vines”) with BJTS for PTS *kujjā vā sīhi*. BJTS glosses: *kudu vūven men naṭannō*, “those who dance as though they have become small,” crouched up (as though they are under a bower or in a place covered over with vines).
 

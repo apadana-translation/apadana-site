@@ -31,7 +31,7 @@ Thus indeed Venerable Ekamandāriya Thera spoke these verses.
 
 The legend of Ekamandāriya Thera is finished.
 
-[^1]: BJTS reads *Mandāravaº*, the preferred Pāli spelling.
+[^1]: BJTS reads *Mandārava°*, the preferred Pāli spelling.
 
 [^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 

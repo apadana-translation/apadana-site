@@ -209,7 +209,7 @@ The legend of Mahākoṭṭhika Thera is finished.
 
 [^26]: i.e., Mahāmoggallāna (*Therāpadāna* \#2)
 
-[^27]: i.e., Sāriputta (*Therāpadāna* \#1), reading *sārisambhavo* with BJTS for PTS *Sariº*
+[^27]: i.e., Sāriputta (*Therāpadāna* \#1), reading *sārisambhavo* with BJTS for PTS *Sari°*
 
 [^28]: lit., “in that foremost place”
 

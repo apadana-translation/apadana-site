@@ -288,7 +288,7 @@ The Fourth Hundred[^39] is finished.
 
 [^35]: BJTS: Piḷindavaccha
 
-[^36]: BJTS: Salalaº
+[^36]: BJTS: Salala°
 
 [^37]: BJTS: Piḷindavaccha
 

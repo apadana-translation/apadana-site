@@ -73,7 +73,7 @@ Thus indeed Venerable Tiṇamuṭṭhidāyaka Thera spoke these verses.
 
 The legend of Tiṇamuṭṭhidāyaka Thera is finished.
 
-[^1]: BJTS reads simply *Phaladāyakaº*
+[^1]: BJTS reads simply *Phaladāyaka°*
 
 [^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 

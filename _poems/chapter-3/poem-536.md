@@ -232,7 +232,7 @@ The legend of Bāhiya Thera is finished.
 
 [^7]: reading *hemayaññopavītaṅgaṃ* with BJTS for PTS *hemayaññopacitaṅgaŋ* (“body heaped up with sacrifices of gold”?). The *yaññopavīta* (or more correctly *yaññopanīta*), lit., “sacrificial cord,” is a distinctive accoutrement of brahmin dress; the protagonist’s was gold-colored or made of gold. In the gloss on this passage BJTS does not venture a guess which, but elsewhere (see the gloss on \[5701\]) prefers the latter reading
 
-[^8]: *palimbaº*, lit., “hanging down”
+[^8]: *palimba°*, lit., “hanging down”
 
 [^9]: reading *guṇoghāyataībhūtaṃ* with BJTS for PTS *guṇe kāyatanībhūtaŋ* (“in virtue the body \[\]”?)
 
@@ -314,7 +314,7 @@ The legend of Bāhiya Thera is finished.
 
 [^48]: he was searching for a rag-robe at the time
 
-[^49]: reading *bhūtāviṭṭhāya* (= *ºāviddhāya*) with BJTS for PTS *ºadhiṭṭhāya* (“while standing on”)
+[^49]: reading *bhūtāviṭṭhāya* (= *°āviddhāya*) with BJTS for PTS *°adhiṭṭhāya* (“while standing on”)
 
 [^50]: *parinibbāyi*
 

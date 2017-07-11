@@ -279,7 +279,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^13]: lit., “again and again”
 
-[^14]: this verse plays on the word “color” (*vaṇṇa*), which also means “beauty” (and caste, appearance, quality, etc.) and is the root of the word translated here as “extolled” (*vaṇṇayiŋ*) and “extolling” (*vaṇṇaº*)
+[^14]: this verse plays on the word “color” (*vaṇṇa*), which also means “beauty” (and caste, appearance, quality, etc.) and is the root of the word translated here as “extolled” (*vaṇṇayiŋ*) and “extolling” (*vaṇṇa°*)
 
 [^15]: *khīṇâsavo*, lit., “He Whose Defilements (or Outflows) are Destroyed”
 
@@ -291,7 +291,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^19]: reading *vimuttopadhisaṅkhaye* with BJTS for PTS *vimutto saṭisaṅkhaye*. *Upadhi* = a condition or ground for rebirth
 
-[^20]: *brahmacakkappavattako*. BJTS and PTS agree on this reading, where one would expect *dhammacakkaº*
+[^20]: *brahmacakkappavattako*. BJTS and PTS agree on this reading, where one would expect *dhammacakka°*
 
 [^21]: *sametā*, fr. *sameti*
 
@@ -453,7 +453,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^100]: *jino*
 
-[^101]: *sattasāravare*. BJTS construes this as modifying the palace, but the Pāli seems to me more ambiguous than that. Cf. the use of *sattasāraº* as a Buddha-epithet in v. \[5887\] and \[6287\]
+[^101]: *sattasāravare*. BJTS construes this as modifying the palace, but the Pāli seems to me more ambiguous than that. Cf. the use of *sattasāra°* as a Buddha-epithet in v. \[5887\] and \[6287\]
 
 [^102]: reading *akaṃ dhammakathaṃ ahaṃ* with BJTS for PTS *ahaŋ dhammakathaŋ ahaŋ* (“I *Dhamma*-preaching I”)
 
@@ -489,7 +489,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^118]: reading *vadaṃ* with BJTS (and PTS alt.) for PTS *varaŋ* (“excellent”)
 
-[^119]: reading *janassa* with BJTS (and PTS alts.) for PTS *ºjinassa* (“of the Victor”)
+[^119]: reading *janassa* with BJTS (and PTS alts.) for PTS *°jinassa* (“of the Victor”)
 
 [^120]: reading *sarado va sasaṅko ‘haṃ* with BJTS for PTS *saraŋ divasasanko ‘haŋ* (“I am the moon in the day for a lake” \[?\])
 

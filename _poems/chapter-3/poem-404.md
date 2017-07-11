@@ -184,7 +184,7 @@ The legend of Dhotaka Thera is finished.
 
 [^17]: lit., doing, *katvā*, BJTS alt. corrects to *datvā*
 
-[^18]: *mahāº*
+[^18]: *mahā°*
 
 [^19]: lit., “from”
 

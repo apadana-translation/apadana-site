@@ -26,7 +26,7 @@ Thus indeed Venerable Viravapupphiya Thera spoke these verses.
 
 The legend of Viravapupphiya Thera is finished.
 
-[^1]: “Virava-Flower-er”. BJTS reads *Viraviº*
+[^1]: “Virava-Flower-er”. BJTS reads *Viravi°*
 
 [^2]: lit., “with one thousand who were free of *āsavas* (outflows, defilements)”
 

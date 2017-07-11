@@ -192,7 +192,7 @@ The Avaṇṭaphala Chapter, the Thirty-Ninth
 
 [^1]: *Pubbakammapiloti*. Though included in *Thera-apadāna*, \#387 is actually in the voice of the Buddha. It has been controversial throughout Theravāda Buddhist history and that may be the reason that it is quietly tucked away here among the monks. On this text and the controversy surrounding it, see my “The Buddha’s Bad Karma: A Problem in the History of Theravāda Buddhism,” *Numen* 37,1 (June, 1990):70-95
 
-[^2]: lit., “the great assembly (*ºsaṅghena*) of monks (*bhikkhuº*)
+[^2]: lit., “the great assembly (*°saṅghena*) of monks (*bhikkhu°*)
 
 [^3]: *pubbakammāni*
 

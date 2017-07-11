@@ -64,6 +64,6 @@ The legend of Tīṇuppalamāliya Thera is finished.
 
 [^4]: *lakkhaṇavyañjanûpetaŋ*, i.e., the thirty-two primary marks and eighty lesser or minor marks that adorn the body of a great man (*mahāpurusa*) who is destined to be either a wheel-turning monarch or a Buddha.
 
-[^5]: taking *paṭikuṭiko* (BJTS reads *patiº*) as fr. *paṭikuṭati* “to crouch,” “to bend over” (as does apparently BJTS, glossing the term *häkiḷī* = *vakuṭu vu*). This may mean that he went off still bowing in reverence, or else that he went off on all fours.
+[^5]: taking *paṭikuṭiko* (BJTS reads *pati°*) as fr. *paṭikuṭati* “to crouch,” “to bend over” (as does apparently BJTS, glossing the term *häkiḷī* = *vakuṭu vu*). This may mean that he went off still bowing in reverence, or else that he went off on all fours.
 
 [^6]: note that this oft-repeated foot has not been modified to indicate that he discarded a simian body, not a human one.

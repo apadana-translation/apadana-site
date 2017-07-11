@@ -43,7 +43,7 @@ Thus indeed Venerable Kureñjiyaphaladāyaka[^5] Thera spoke these verses.
 
 The legend of Kureñjiyaphaladāyaka[^6] Thera is finished.
 
-[^1]: BJTS reads simply *Phaladāyakaº*
+[^1]: BJTS reads simply *Phaladāyaka°*
 
 [^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
@@ -51,6 +51,6 @@ The legend of Kureñjiyaphaladāyaka[^6] Thera is finished.
 
 [^4]: BJTS reads *kurañjiyaphalaṃ*
 
-[^5]: BJTS reads *Kurañjiyaº*
+[^5]: BJTS reads *Kurañjiya°*
 
-[^6]: BJTS reads *Kurañjiyaº*
+[^6]: BJTS reads *Kurañjiya°*

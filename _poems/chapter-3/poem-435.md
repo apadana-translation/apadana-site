@@ -49,4 +49,4 @@ The legend of Ucchukaṇḍika[^5] Thera is finished.
 
 [^4]: BJTS reads Ucchukhaṇḍika°
 
-[^5]: BJTS reads Ucchukhaṇḍikaº
+[^5]: BJTS reads Ucchukhaṇḍika°

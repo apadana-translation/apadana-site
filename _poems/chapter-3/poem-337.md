@@ -115,7 +115,7 @@ The legend of Tiṇakuṭidāyaka Thera is finished.
 
 [^12]: lit., of me, genitive.
 
-[^13]: *acchaº*, Sinh. gloss *valassu*
+[^13]: *accha°*, Sinh. gloss *valassu*
 
 [^14]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 

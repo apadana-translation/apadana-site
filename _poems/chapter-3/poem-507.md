@@ -43,7 +43,7 @@ The legend of Ajelaphaladāyaka[^9] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “*Ajela-*Fruit Donor.” BJTS reads *ageliphalaº*.
+[^2]: “*Ajela-*Fruit Donor.” BJTS reads *ageliphala°*.
 
 [^3]: Arjuna
 
@@ -55,6 +55,6 @@ The legend of Ajelaphaladāyaka[^9] Thera is finished.
 
 [^7]: or, “umbrella-leaf” (plant). Both BJTS and PTS place *ajela* or *ajeli* in apposition to *jīvajīvakaŋ*, which elsewhere in the text refers to a type of jak fruit, and to a type of pheasant, as well as to *chattapaṇṇaŋ* (“leaves \[lit., “leaf”\] for an umbrella”). BJTS Sinh gloss treats these as three separate items and infers “ands” connecting them; I follow its lead here. However, as all three terms are ambiguous (Cone cites only this passage for the term, with a question mark that it is some sort of plant or fruit), the translation must remain so as well, pending better identification of the three terms; the meaning may be “*ajela* \[type of\] *jīvajīvaka* \[jak?\] fruit \[and\] leaves for an umbrella” or “*ajela* fruit and *jīvajīvaka* leaves for an umbrella,” and so forth.
 
-[^8]: BJTS reads *ageliphalaº*.
+[^8]: BJTS reads *ageliphala°*.
 
-[^9]: BJTS reads *ageliphalaº*.
+[^9]: BJTS reads *ageliphala°*.

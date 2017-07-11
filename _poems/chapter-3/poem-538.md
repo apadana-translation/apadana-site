@@ -262,7 +262,7 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^16]: *lokapajjtotaŋ*
 
-[^17]: *mahāpurisaº*
+[^17]: *mahāpurisa°*
 
 [^18]: *mahājinaŋ*
 
@@ -322,7 +322,7 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^46]: “Virtue.” In *Mahānāradakassapajātaka* he is depicted as preaching that there is no future life, and advocating that one therefore should indulge in only pleasures during the present one.
 
-[^47]: lit “gone into dependence on,” reading *ºgatāsayo* with BJTS for PTS *hatāsayo*
+[^47]: lit “gone into dependence on,” reading *°gatāsayo* with BJTS for PTS *hatāsayo*
 
 [^48]: In *Mahānāradakassapajātaka* he proceeds to spend two weeks in the palace, indulging himself.
 

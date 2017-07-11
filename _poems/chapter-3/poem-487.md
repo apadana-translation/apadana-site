@@ -199,7 +199,7 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Sand-Generator”. BTS reads *Pulinº*
+[^2]: “Sand-Generator”. BTS reads *Pulin°*
 
 [^3]: reading *amānussehi māpito* with BJTS for PTS *amānussikamāpito* (roughly the same meaning: “non-human-made”)
 
@@ -215,9 +215,9 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^9]: *no mantapade*
 
-[^10]: or “what caste are they?,” *kathaŋ vaṇṇaº* (BJTS reads, more correctly, *kathaṃ vaṇṇā*)
+[^10]: or “what caste are they?,” *kathaŋ vaṇṇa°* (BJTS reads, more correctly, *kathaṃ vaṇṇā*)
 
-[^11]: *cattārīsa-ddijāpi ca* (PTS), *ºdvijāpi ca* (BJTS), following BJTS Sinh. gloss in understanding *dvija* as “tooth” (“twice born,” hence the adult teeth).
+[^11]: *cattārīsa-ddijāpi ca* (PTS), *°dvijāpi ca* (BJTS), following BJTS Sinh. gloss in understanding *dvija* as “tooth” (“twice born,” hence the adult teeth).
 
 [^12]: reading *nettā gopa\[k\]khumā* with BJTS for PTS *gopamukhā* (“face to face with a cow”)
 
@@ -251,7 +251,7 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^27]: *kalebaraŋ*, lit., “corpse” or “body”
 
-[^28]: *ºpareta*, lit., “overcome by” “afflicted with”
+[^28]: *°pareta*, lit., “overcome by” “afflicted with”
 
 [^29]: *tesaŋ lālappamānaŋ* (gen. abs. construction). *Lālappati* means “lament, wail” as well as “to talk too much,” “to talk silly,” the intensive of *lapati*, “to mutter, talk, prattle”. I have interpolated “\[uselessly\]” *metri causa*, but in doing so convey the connotation of the term (and the subsequent speech by the ghost of the teacher) that their wailing was excessive or pointless.
 

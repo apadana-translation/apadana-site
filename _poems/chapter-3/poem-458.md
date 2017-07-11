@@ -58,7 +58,7 @@ The legend of Jātipupphiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Some Kind (*jātiº*) of Flower-er”
+[^2]: “Some Kind (*jāti°*) of Flower-er”
 
 [^3]: lit., “reached nirvana”
 

@@ -58,7 +58,7 @@ The legend of Ekāsaniya Thera is finished.
 
 [^1]: “One Sitting”
 
-[^2]: reading *sammatāḷaº* (BJTS) for *samatāḷaº* (PTS).
+[^2]: reading *sammatāḷa°* (BJTS) for *samatāḷa°* (PTS).
 
 [^3]: *turiyaŋ sabbaŋ*, musical instruments
 

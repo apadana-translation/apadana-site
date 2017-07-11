@@ -91,4 +91,4 @@ The legend of Sāgata Thera is finished.
 
 [^5]: reading (with BJTS, PTS alternatives) *tena kammena sukatena* for PTS *vimbakapasuto hutvā*
 
-[^6]: or “evil:” *pāpaº*
+[^6]: or “evil:” *pāpa°*

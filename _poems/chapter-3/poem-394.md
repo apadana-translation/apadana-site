@@ -125,7 +125,7 @@ The legend of Madhudāyaka Thera is finished.
 
 [^7]: reading *susāsanaṃ sotukāmā* with BJTS for PTS *sotukāmā pi sāsanaŋ*, “also wanting to hear instructions.” BJTS gloss gives *anuśāsanaya asanu kämättā*, “desiring to listen to instructions,” and I follow suit in the generic translation here, rather than understand the term as *the* “Sasana,” the Buddha’s “dispensation”
 
-[^8]: *uppādāgamane*, lit., “coming on of omens (RD: *uppāda* 1, BJTS gloss *utpāta*)” or “arrival of omens.” BJTS glosses *ºāgamane* as *śāstrayehi*, “traditional learning” (about omens), apparently conflating the term with *āgama*, which can mean the scriptures of manuals of particular religious groups, or more generally “meaning, understanding,” likewise a meaning of the root *ā* + *gam*. BJTS explains this *utpātaśāstra* as “declaring \[omens\] good or bad (*śubhāśubha*) having looked at/with an eye toward unnatural changes connected with ghosts (*bhūtayan piḷibanda asvābhāvika venasvīm balā*)
+[^8]: *uppādāgamane*, lit., “coming on of omens (RD: *uppāda* 1, BJTS gloss *utpāta*)” or “arrival of omens.” BJTS glosses *°āgamane* as *śāstrayehi*, “traditional learning” (about omens), apparently conflating the term with *āgama*, which can mean the scriptures of manuals of particular religious groups, or more generally “meaning, understanding,” likewise a meaning of the root *ā* + *gam*. BJTS explains this *utpātaśāstra* as “declaring \[omens\] good or bad (*śubhāśubha*) having looked at/with an eye toward unnatural changes connected with ghosts (*bhūtayan piḷibanda asvābhāvika venasvīm balā*)
 
 [^9]: BJTS gloss takes this *lakṣaṇaśāstra* as involving the signs on the body/science of interpreting bodily marks.
 

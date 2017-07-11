@@ -201,4 +201,4 @@ The legend of Bodhisammajjaka Thera is finished.
 
 [^30]: lit., “leaf”
 
-[^31]: lit., “limbs” “parts” *ºaṅgehiṅ*
+[^31]: lit., “limbs” “parts” *°aṅgehiṅ*

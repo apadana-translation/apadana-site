@@ -33,7 +33,7 @@ The legend of Tīṇikiṅkhaṇikapūjaka[^8] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Three *Kiṅkhaṇi* Flower-er.” BJTS reads *Tikiṅkiṇiº*
+[^2]: “Three *Kiṅkhaṇi* Flower-er.” BJTS reads *Tikiṅkiṇi°*
 
 [^3]: “Group of Ghosts”
 
@@ -43,6 +43,6 @@ The legend of Tīṇikiṅkhaṇikapūjaka[^8] Thera is finished.
 
 [^6]: BJTS reads *kiṅkiṇi*
 
-[^7]: BJTS reads *Tikiṅkiṇiº*
+[^7]: BJTS reads *Tikiṅkiṇi°*
 
-[^8]: BJTS reads *Tikiṅkiṇiº*
+[^8]: BJTS reads *Tikiṅkiṇi°*

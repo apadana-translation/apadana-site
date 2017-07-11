@@ -96,7 +96,7 @@ The legend of Puṇṇaka Thera is finished.
 
 [^3]: *buddhe nibbāyamānamhi* (loc. abs. construction)
 
-[^4]: *acchaº*, Sinh. gloss *valassu*
+[^4]: *accha°*, Sinh. gloss *valassu*
 
 [^5]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 

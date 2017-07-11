@@ -164,7 +164,7 @@ The legend of Dhammarucī Thera is finished.
 
 [^12]: *asamassa*
 
-[^13]: *ºmarū*, in the more general sense of “gods” (as opposed, I suppose, to the *maruts* of Vedic mythology to which the term most directly applies
+[^13]: *°marū*, in the more general sense of “gods” (as opposed, I suppose, to the *maruts* of Vedic mythology to which the term most directly applies
 
 [^14]: “Cloud”
 
@@ -196,7 +196,7 @@ The legend of Dhammarucī Thera is finished.
 
 [^28]: the “Jeta Grove” in which Anāthapiṇḍika built the famous hermitage for the Buddha, the location of many of the *sutta*\s.
 
-[^29]: lit., “merits,” *ºpuññaº*
+[^29]: lit., “merits,” *°puñña°*
 
 [^30]: reading *patipubbena* with BJTS for PTS *patipubbe na* (“in the past, not…”)
 

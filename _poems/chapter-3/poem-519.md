@@ -190,7 +190,7 @@ The legend of Sabbaphaladāyaka Thera is finished.
 
 [^22]: that is, *garuḷas*
 
-[^23]: *acchaº*, Sinh. gloss *valassu*
+[^23]: *accha°*, Sinh. gloss *valassu*
 
 [^24]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 

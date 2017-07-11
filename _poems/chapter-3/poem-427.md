@@ -125,7 +125,7 @@ The legend of Ekadhammasavanīya Thera is finished.
 
 [^8]: lit., “taking the perception of impermanence”
 
-[^9]: lit., “the Good Teaching,” *saddhammaº*
+[^9]: lit., “the Good Teaching,” *saddhamma°*
 
 [^10]: PTS and BJTS agree in presenting this as a six-footed verse.
 

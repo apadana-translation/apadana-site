@@ -78,7 +78,7 @@ The legend of Ekapattadāyaka Thera is finished.
 
 [^4]: *ujubhūtassa*
 
-[^5]: *ºthāle*
+[^5]: *°thāle*
 
 [^6]: *taṭṭake*, bowls for eating food, flat bowls, porringers, salvers
 

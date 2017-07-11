@@ -51,7 +51,7 @@ The legend of Labujadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Breadfruit Donor.” This same *apadāna* (with the slight difference that the fifth and sixth verses are inverted there) appears above, with the same title in BJTS (PTS gives Labujaphaladāyaka), as \#379 \[382\], above. It also appears below, titled *Nāḷikeradāyakaº*, with the slight change of the first foot of the second verse to read “coconut” rather than “breadfruit”
+[^2]: “Breadfruit Donor.” This same *apadāna* (with the slight difference that the fifth and sixth verses are inverted there) appears above, with the same title in BJTS (PTS gives Labujaphaladāyaka), as \#379 \[382\], above. It also appears below, titled *Nāḷikeradāyaka°*, with the slight change of the first foot of the second verse to read “coconut” rather than “breadfruit”
 
 [^3]: *ārāmika*, lit., “hermitage attendant” or “hermitage dweller”
 

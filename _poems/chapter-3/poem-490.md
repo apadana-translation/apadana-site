@@ -193,13 +193,13 @@ The Paŋsukūla Chapter, the Forty-Ninth
 
 [^7]: *puñña*, lit., “merit”
 
-[^8]: *puññakammaº*, lit., “meritorious-karma”
+[^8]: *puññakamma°*, lit., “meritorious-karma”
 
-[^9]: *puññakammaº*, lit., “meritorious karma”
+[^9]: *puññakamma°*, lit., “meritorious karma”
 
 [^10]: *gandhagandhī*, taking the repetition as intensifying, but this could also be translated “perfumes and incense” or “scents and incense”
 
-[^11]: reading *sammatāḷaº* (BJTS) for *samatāḷaº* (PTS).
+[^11]: reading *sammatāḷa°* (BJTS) for *samatāḷa°* (PTS).
 
 [^12]: lit., “his meritorious karma”
 

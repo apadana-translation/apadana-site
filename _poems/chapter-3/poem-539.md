@@ -204,7 +204,7 @@ The legend of Rādha Thera is finished.
 
 [^20]: or “sound”: *sarena*
 
-[^21]: *siṅgīnikkhasamappabho*. *ºNikkhaº* can mean gold coins, or a particular weight of gold, cf. *nekkha*. “Gold Ingots” similarly evokes both the weight of the gold and the \[minted\] coin or bar that contains that weight
+[^21]: *siṅgīnikkhasamappabho*. *°Nikkha°* can mean gold coins, or a particular weight of gold, cf. *nekkha*. “Gold Ingots” similarly evokes both the weight of the gold and the \[minted\] coin or bar that contains that weight
 
 [^22]: *atīva vipulaŋ*
 

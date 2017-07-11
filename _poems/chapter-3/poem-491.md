@@ -54,7 +54,7 @@ The legend of Tīṇikiṅkhanipupphiya[^7] Thera is finished.
 
 [^3]: “Three *kiṅkhani* Flower-er.” BJTS reads *Tikiṅkaṇipupphiya*. Cf. *\#498*, ascribed to a monk with the same name
 
-[^4]: BJTS reads *kiṅkaṇiº*
+[^4]: BJTS reads *kiṅkaṇi°*
 
 [^5]: lit., “done *pūjā*”
 

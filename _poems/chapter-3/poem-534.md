@@ -269,7 +269,7 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^25]: *entamhi*, fr. *eti*, loc. abs. construction
 
-[^26]: *nibbāyissati dhammakkho* (BJTS reads *ºakho*), lit., “the eye of *Dhamma* will reach nirvana”
+[^26]: *nibbāyissati dhammakkho* (BJTS reads *°akho*), lit., “the eye of *Dhamma* will reach nirvana”
 
 [^27]: *sāgaro ca sasoko va*
 

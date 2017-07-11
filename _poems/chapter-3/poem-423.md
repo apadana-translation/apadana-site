@@ -148,7 +148,7 @@ The legend of Ekâsanadāyaka Thera is finished.
 
 [^6]: *ajinaŋ*, lit., “deer-leather \[robe\]”
 
-[^7]: BJTS omits PTS *tuvaŋ* and gives *mahāvīra* for PTS *vīra*, keeping the meter. This translation preserves both the *tuvaŋ* of PTS and the *mahāº* of BJTS, but also indicates their absence in the respective other texts by including them in square brackets
+[^7]: BJTS omits PTS *tuvaŋ* and gives *mahāvīra* for PTS *vīra*, keeping the meter. This translation preserves both the *tuvaŋ* of PTS and the *mahā°* of BJTS, but also indicates their absence in the respective other texts by including them in square brackets
 
 [^8]: *sallakatto*, lit., “one who works on the (poison) arrow,” a doctor who does surgery.
 

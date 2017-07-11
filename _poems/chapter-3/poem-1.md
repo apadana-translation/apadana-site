@@ -1299,13 +1299,13 @@ The legend of Sāriputta Thera is finished.
 
 [^59]: *kokilā*
 
-[^60]: *sukaº*
+[^60]: *suka°*
 
-[^61]: reading º*sālikā* with BJTS for PTS *ºsāḷi ca*. Sāḷlka* (Skt. *śārika*) = Sinh. *säḷalihiṇiyō*, Indian mynah birds (Hindi *maina*, Skt. *madana*)
+[^61]: reading °*sālikā* with BJTS for PTS *°sāḷi ca*. Sāḷlka* (Skt. *śārika*) = Sinh. *säḷalihiṇiyō*, Indian mynah birds (Hindi *maina*, Skt. *madana*)
 
 [^62]: *kukutthakā*, Sinh. *valikukuḷō*
 
-[^63]: *kulīrakā*, BJTS *kuḷº*, Sinh. *ranvan kakuḷuvō*
+[^63]: *kulīrakā*, BJTS *kuḷ°*, Sinh. *ranvan kakuḷuvō*
 
 [^64]: *pokkharasātakā*, Sinh. gloss *piyum venehi* (lotus-colored) *vil-lihiṇiyō*, lake-swallow or swift. PSI dict. gives: “a type of crane-*ardea siberica*”
 
@@ -1345,7 +1345,7 @@ The legend of Sāriputta Thera is finished.
 
 [^82]: *rohiccā*, RD says “a kind of deer, J.vi.537, fr. *rohita*, red, hence “red deer” (?); Sinh. gloss *rērumuvō*, pl. of *rērumuvā*, = “duck” or “teal” deer.
 
-[^83]: *acchaº*, Sinh. gloss *valassu*
+[^83]: *accha°*, Sinh. gloss *valassu*
 
 [^84]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
@@ -1397,7 +1397,7 @@ The legend of Sāriputta Thera is finished.
 
 [^108]: BJTS reads *aluva*. RD: fr. Skt. *ālu*, *āluka*: a bulbous plant, Radix Globosa Esculenta or Amorphophallus (Kern), Arum Campanulatum (Hardy), cognate with alium, good possibility is amorphophallus titanum, “titan arum”
 
-[^109]: BJTS reads *biḷālīº*
+[^109]: BJTS reads *biḷālī°*
 
 [^110]: BJTS reads *sutaka*
 

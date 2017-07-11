@@ -149,7 +149,7 @@ The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Arabian-Jasmine-Flower-Coverer,“ BJTS reads *Tiṇasūlakachadaniya*, with the same meaning. DPPN I:1008 leaves *Tiṇasūla* untranslated; BJTS Sinhala gloss is *bōlidda*, Arabian Jasmine, a fragrant small white flower (*ºidda*) which flowers in ball-like (*bōlº*) clusters.
+[^2]: “Arabian-Jasmine-Flower-Coverer,“ BJTS reads *Tiṇasūlakachadaniya*, with the same meaning. DPPN I:1008 leaves *Tiṇasūla* untranslated; BJTS Sinhala gloss is *bōlidda*, Arabian Jasmine, a fragrant small white flower (*°idda*) which flowers in ball-like (*bōl°*) clusters.
 
 [^3]: *ekato* is the ablative form of *eka*, the number “one” which also functions as an indefinite article. I am reading it here as though it were *ekatta* (“alone”) following the BJTS Sinh. gloss (*ekalāva* = alone, singly) rather than, as is the more common Pāli usage, “together”.
 
@@ -159,11 +159,11 @@ The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
 [^6]: *paṭhaviŋ…supaṇṇataŋ*, I suppose “fullness of flora and fauna,” given the subsequent verses.
 
-[^7]: *ºāyuto*, lit., “connected with” “furnished with” “endowed with” “possessing”
+[^7]: *°āyuto*, lit., “connected with” “furnished with” “endowed with” “possessing”
 
-[^8]: *ºgaṇaº*, “groups”.
+[^8]: *°gaṇa°*, “groups”.
 
-[^9]: *nānādijaº*
+[^9]: *nānādija°*
 
 [^10]: *kūjanti*
 

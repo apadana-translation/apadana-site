@@ -48,6 +48,6 @@ The legend of Paṭṭipupphiya[^8] Thera is finished.
 
 [^6]: lit., “doing *pūjā* to the body”
 
-[^7]: PTS reads *Sattipaṇṇiyoº*
+[^7]: PTS reads *Sattipaṇṇiyo°*
 
-[^8]: PTS reads *Sattipaṇṇiyoº*
+[^8]: PTS reads *Sattipaṇṇiyo°*

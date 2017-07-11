@@ -231,9 +231,9 @@ The legend of Uttara Thera, the sixth.
 
 [^14]: *yenicchakā*, following BJTS Sinhala gloss *kämäti tänaka*
 
-[^15]: *ºvikutīº;* I take this to evoke a mattress (*tūlikāº*) constructed through piling up (“assembling”) of layers of grass or wool (see RD., s.v.)
+[^15]: *°vikutī°;* I take this to evoke a mattress (*tūlikā°*) constructed through piling up (“assembling”) of layers of grass or wool (see RD., s.v.)
 
-[^16]: reading *uddalomikaº* with BJTS for PTS *uddhalomikā* (which means about the same thing, see RD, s.v)
+[^16]: reading *uddalomika°* with BJTS for PTS *uddhalomikā* (which means about the same thing, see RD, s.v)
 
 [^17]: lit., “on a flower”
 

@@ -185,7 +185,7 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^20]: modern Rajgir, in Bihar.
 
-[^21]: *seṭṭhiº*, “a millionaire’s”
+[^21]: *seṭṭhi°*, “a millionaire’s”
 
 [^22]: lit., “went forth.” We are to understand that she did this unintentionally, i.e., unaware she was pregnant
 

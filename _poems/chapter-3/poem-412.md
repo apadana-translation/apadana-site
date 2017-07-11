@@ -262,15 +262,15 @@ The legend of Ekachattiya Thera is finished.
 
 [^8]: *vakā*, Sinh. gloss *vṛkayō*, cognate with “wolf”
 
-[^9]: *kokaº*, etymological cousin of *vāka*, *vṛka*, above, see RD
+[^9]: *koka°*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^10]: *ºtaracchayo*, BJTS *ºtaracchakā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu, *
+[^10]: *°taracchayo*, BJTS *°taracchakā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu, *
 
 [^11]: *nādenti*, lit., “make sounds”
 
 [^12]: lit., “on a bad mountain road”
 
-[^13]: reading *enimigā* with BJTS for PTS *enī migā* (“those deer/beasts”). PSI dict. defines *eṇi* as “a type of antelope” (Sinh. *muva vargayak*, “a type of deer”); RD, *eṇi*, s.v.: “a kind of antelope,” “ºmiga, the eṇi deer”
+[^13]: reading *enimigā* with BJTS for PTS *enī migā* (“those deer/beasts”). PSI dict. defines *eṇi* as “a type of antelope” (Sinh. *muva vargayak*, “a type of deer”); RD, *eṇi*, s.v.: “a kind of antelope,” “°miga, the eṇi deer”
 
 [^14]: *sarabhā*, RD “a type of deer”
 
@@ -406,7 +406,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^80]: *tuṭṭhahaṭṭho*, horripilating with delight
 
-[^81]: lit., “hoping to go into,” *ºantaragatāsayo*
+[^81]: lit., “hoping to go into,” *°antaragatāsayo*
 
 [^82]: *jaṭābhārabharitā* (PTS), *jaṭābhārena bharitā* (BJTS)
 

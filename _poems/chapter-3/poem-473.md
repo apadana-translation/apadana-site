@@ -117,7 +117,7 @@ The legend of Ukkāsatika Thera is finished.
 
 [^13]: reading *dasasadda* + *a* + *vivittantaṃ* with BJTS for PTS *dasasaddâvivittan taŋ*.
 
-[^14]: reading *sammatāḷaº* (BJTS) for *samatāḷaº* (PTS).
+[^14]: reading *sammatāḷa°* (BJTS) for *samatāḷa°* (PTS).
 
 [^15]: I follow BJTS Sinhala gloss in interpolating “thing” as the subject of the half-verse, which otherwise would mean that sticks, vines and clay were themselves absent from (*n’atthi*, “do not exist”) in that city.
 

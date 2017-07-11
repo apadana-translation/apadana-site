@@ -40,4 +40,4 @@ The legend of Ambāṭaka Thera is finished.
 
 [^2]: “Hog-Plum”
 
-[^3]: *ambāṭakā*, RD: “the hog-plum, Spondias Mangifera (a kind of mango), Vin ii.17 (ºvana), DA i.271 (ºrukkha).” BJTS gloss *ämbarälla*, *ämbärälla*, a small, sour, mango-like fruit which is cooked as a curry.
+[^3]: *ambāṭakā*, RD: “the hog-plum, Spondias Mangifera (a kind of mango), Vin ii.17 (°vana), DA i.271 (°rukkha).” BJTS gloss *ämbarälla*, *ämbärälla*, a small, sour, mango-like fruit which is cooked as a curry.

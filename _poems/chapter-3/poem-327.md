@@ -134,7 +134,7 @@ Thus indeed Venerable Nigguṇḍipupphiya Thera spoke these verses.
 
 The legend of Nigguṇḍipupphiya Thera is finished.
 
-[^1]: “*Nigguṇḍi*-Flower-er.” Cf. \#205, above. Here PTS spells through nearly certain error *Nigguṇṭhiº*. I follow the BJTS reading here. *Nigguṇḍi* is a kind of tree, *Vitex negunda*. Sinh: *nika*, Engl. “chaste tree,” “Chinese chaste tree” “five-leafed chaste tree” “horseshoe vitex”.
+[^1]: “*Nigguṇḍi*-Flower-er.” Cf. \#205, above. Here PTS spells through nearly certain error *Nigguṇṭhi°*. I follow the BJTS reading here. *Nigguṇḍi* is a kind of tree, *Vitex negunda*. Sinh: *nika*, Engl. “chaste tree,” “Chinese chaste tree” “five-leafed chaste tree” “horseshoe vitex”.
 
 [^2]: or body (*kāyā*); this reading follows BJTS
 

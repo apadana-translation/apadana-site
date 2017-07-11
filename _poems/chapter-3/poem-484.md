@@ -173,7 +173,7 @@ The legend of Ñāṇatthavika Thera is finished.
 
 [^8]: lit., “the Blessed One”
 
-[^9]: *jinsāsanaŋ*, lit., “the Victor's dispensation*.”* BJTS (and PTS alt.) offer an alternative reading: *jitasāgaraṃ* (PTS alt. is apparently read as *jinaº*), “He by Whom the Ocean is Conquered” (or “Ocean of the Victor”). BJTS Sinh. gloss explains its reading as “the one who had conquered his senses, who was an ocean of virtue.
+[^9]: *jinsāsanaŋ*, lit., “the Victor's dispensation*.”* BJTS (and PTS alt.) offer an alternative reading: *jitasāgaraṃ* (PTS alt. is apparently read as *jina°*), “He by Whom the Ocean is Conquered” (or “Ocean of the Victor”). BJTS Sinh. gloss explains its reading as “the one who had conquered his senses, who was an ocean of virtue.
 
 [^10]: or “lamp,” *dīpo*
 

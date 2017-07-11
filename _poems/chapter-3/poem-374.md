@@ -43,7 +43,7 @@ The legend of Paṭṭipupphiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “*Paṭṭi* Flower-er.” This is the BJTS spelling; PTS reads *Pattiº*. *Paṭṭi* is Sinh. *rat lot* or *ratu lot gasa*, Engl. red lodh tree, the bark of which is used in dying.
+[^2]: “*Paṭṭi* Flower-er.” This is the BJTS spelling; PTS reads *Patti°*. *Paṭṭi* is Sinh. *rat lot* or *ratu lot gasa*, Engl. red lodh tree, the bark of which is used in dying.
 
 [^3]: *nibbāyi*
 

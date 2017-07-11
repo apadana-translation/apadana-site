@@ -225,9 +225,9 @@ The legend of Vakkali Thera is finished.
 
 [^13]: *nimmāno*
 
-[^14]: *ºupamo*, lit., “simile” “metaphor” “comparison”
+[^14]: *°upamo*, lit., “simile” “metaphor” “comparison”
 
-[^15]: *andhānaŋ nayanº*
+[^15]: *andhānaŋ nayan°*
 
 [^16]: *guṇanidhi*
 
@@ -239,7 +239,7 @@ The legend of Vakkali Thera is finished.
 
 [^20]: *januttamo*
 
-[^21]: *sadevamanujâkiṇṇo*. BJTS notes alt. that reads this as *ºâkiṇṇe* and takes it as modifying *janamajjhe*, but accepts the reading *ºâkiṇṇo* which makes it an epithet of the Buddha.
+[^21]: *sadevamanujâkiṇṇo*. BJTS notes alt. that reads this as *°âkiṇṇe* and takes it as modifying *janamajjhe*, but accepts the reading *°âkiṇṇo* which makes it an epithet of the Buddha.
 
 [^22]: *kadāci…janamajjhe*, following BJTS Sinh. gloss
 

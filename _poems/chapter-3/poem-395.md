@@ -235,7 +235,7 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^31]: *tam ahaŋ payirūpāsitvā*
 
-[^32]: reading *idhaº* with BJTS for PTS *tam*
+[^32]: reading *idha°* with BJTS for PTS *tam*
 
 [^33]: *addassāsiŋ*, BJTS reads *addasāsiṃ*
 

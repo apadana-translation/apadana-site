@@ -341,11 +341,11 @@ The legend of Todeyya Thera is finished.
 
 [^35]: reading *koṭṭayantā nipātentā* with BJTS for PTS *koṭṭentānaŋ nivattantā*, “turning back of the crushers (?)”?
 
-[^36]: *trisūlaº*
+[^36]: *trisūla°*
 
-[^37]: *ºkontiº*
+[^37]: *°konti°*
 
-[^38]: *ºmantehi*. Cone, following RD (whose uncertain entry would yield “leather shields”), treats *kontimantehi* as a *tatpurusa* rather than *danda* compound, taking the term as “leather-worker’s sharp knife”. I follow BJTS in seeing “mantra” as a kind of injurious weapon, too.
+[^38]: *°mantehi*. Cone, following RD (whose uncertain entry would yield “leather shields”), treats *kontimantehi* as a *tatpurusa* rather than *danda* compound, taking the term as “leather-worker’s sharp knife”. I follow BJTS in seeing “mantra” as a kind of injurious weapon, too.
 
 [^39]: BJTS reading is considerably different: *kimevāt’ nisāmetvā*, “having observed ‘what now?” (?), a reading it glosses, “having asked, ‘what punishment is appropriate (according to the law)?’”
 
@@ -415,7 +415,7 @@ The legend of Todeyya Thera is finished.
 
 [^72]: *nāga* = Sinhala *nā*, ironwood, Mesua Ferrea Linn, Bodhi tree of Mangala, Sumana, Revata, Sobhita buddhas; national tree of Sri Lanka. It has brilliant, fragrant white flowers containing four petals each, as well as a red fruit eaten by birds.
 
-[^73]: *vanike*, Sinh. gloss *kōmbu*. RD: *vanika = vanaka*, of the forest, only in the cpd. *nāgavanika*, = “of the elephant forest,” = a hunter. BJTS glosses *nāgaº* as *nā* (ironwood), so *vanika* here must refer to another kind of flowering plant.
+[^73]: *vanike*, Sinh. gloss *kōmbu*. RD: *vanika = vanaka*, of the forest, only in the cpd. *nāgavanika*, = “of the elephant forest,” = a hunter. BJTS glosses *nāga°* as *nā* (ironwood), so *vanika* here must refer to another kind of flowering plant.
 
 [^74]: *atimuttaka*. RD: a plant, Gaertnera Racemosa = Hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. BJTS glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba*, an annual creeper, Trichodesma zeylanicum).
 
@@ -427,12 +427,12 @@ The legend of Todeyya Thera is finished.
 
 [^78]: *brahmā* (III)
 
-[^79]: *ºpatāpavā*
+[^79]: *°patāpavā*
 
 [^80]: *puñña*, lit., “meritorious”
 
 [^81]: i.e., a brahmin by caste
 
-[^82]: lit., “bearing,” *ºdharo*
+[^82]: lit., “bearing,” *°dharo*
 
 [^83]: the cty here explains these as the fires of *rāga* (lust), *dosa* (anger) and *moha* (ignorance, folly)

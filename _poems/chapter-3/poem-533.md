@@ -244,11 +244,11 @@ The legend of Mahākappina Thera is finished.
 
 [^13]: reading BJTS *tadāhāsi mahābhāgo haṃsadundubhisussaro* with BJTS for PTS’ garbled *tadā haŋsasamābhāgo haŋsadundubhinīvaco*
 
-[^14]: *ºtanūruhaŋ*, see Buddhadatta *Pāli-Sinhala Akārādiya*, s.v.
+[^14]: *°tanūruhaŋ*, see Buddhadatta *Pāli-Sinhala Akārādiya*, s.v.
 
 [^15]: PTS *jimuttavaṇṇaŋ*, BJTS *jīmūtavaṇṇaṃ*, read *jīmutavaṇṇaṃ* and see see Buddhadatta *Pāli-Sinhala Akārādiya*, *jīmuta*, s.v. BJTS Sinhala gloss concurs: *meghavarṇa vū*
 
-[^16]: lit., “fat-shoulders”. BJTS reads *pīṇº* but understands the adjective in the same way: “having shoulders whihc are full (covered with meat)
+[^16]: lit., “fat-shoulders”. BJTS reads *pīṇ°* but understands the adjective in the same way: “having shoulders whihc are full (covered with meat)
 
 [^17]: *muditāya*, “with disinterested love”
 

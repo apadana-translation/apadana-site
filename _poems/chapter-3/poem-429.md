@@ -128,4 +128,4 @@ The legend of Sovaṇṇakiṅkhaniya Thera is finished.
 
 [^17]: lit., “a lack…does not exist for me”
 
-[^18]: BJTS reads *ºkiṅkhaṇiº*
+[^18]: BJTS reads *°kiṅkhaṇi°*

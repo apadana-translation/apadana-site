@@ -161,7 +161,7 @@ The legend of Tīṇisaraṇāgamaniya Thera is finished.
 
 [^5]: the cty on \[352\] explains these as the fires of *rāga* (lust), *dosa* (anger) and *moha* (ignorance, folly)
 
-[^6]: lit., “meritorious,” *puññaº*
+[^6]: lit., “meritorious,” *puñña°*
 
 [^7]: lit., “I went for the going for refuge.”
 

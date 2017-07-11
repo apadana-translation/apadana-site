@@ -422,19 +422,19 @@ The legend of Upasīva Thera is finished.
 
 [^51]: *kaḍalī*, Sinh. *kesel*
 
-[^52]: reading *badarī* with BJTS, Sinh. gloss is *ḍebara* (*= kola?* ). PTS reads *candarīº* (?), alt. *mandari* (?)
+[^52]: reading *badarī* with BJTS, Sinh. gloss is *ḍebara* (*= kola?* ). PTS reads *candarī°* (?), alt. *mandari* (?)
 
-[^53]: *ambāṭakā*, RD: “the hog-plum, Spondias Mangifera (a kind of mango), Vin ii.17 (ºvana), DA i.271 (ºrukkha).” BJTS gloss *ämbarälla*, *ämbärälla*, a small, sour, mango-like fruit cooked as a curry.
+[^53]: *ambāṭakā*, RD: “the hog-plum, Spondias Mangifera (a kind of mango), Vin ii.17 (°vana), DA i.271 (°rukkha).” BJTS gloss *ämbarälla*, *ämbärälla*, a small, sour, mango-like fruit cooked as a curry.
 
 [^54]: = *vallikā* (?), Sinh. *hīrässa, sivräs, sivrässa*, Bot. Dict.: “a climbing plant edible when tender, having four winged stems and bearing red berries, Vitis quadrangularis *(Ampel*.)” Cf. RD *vallī*, s.v., “a climbing plant, a creeper, Vin iii.144; J v.37; vi.536; VvA 147, 335 (here as a root?).”
 
-[^55]: reading *bījapuraº* (Sinh. gloss *lapnāraṅga* \[= *lapnāram*\], Bot. Dict. citron, Citrus medica) with BJTS for PTS *viṭapā*, “having branches,” a generic word for “tree”
+[^55]: reading *bījapura°* (Sinh. gloss *lapnāraṅga* \[= *lapnāram*\], Bot. Dict. citron, Citrus medica) with BJTS for PTS *viṭapā*, “having branches,” a generic word for “tree”
 
 [^56]: this is the BJTS reading; PTS reads *sapākā* (RD: “dog-cooker, an outcaste”)
 
 [^57]: BJTS glosses *vanamuŋ* (jungle/wild mung)
 
-[^58]: this is the BJTS reading, for PTS *coraº*. I don’t find either term in the dictionaries.
+[^58]: this is the BJTS reading, for PTS *cora°*. I don’t find either term in the dictionaries.
 
 [^59]: following BJTS reading of *avaṭā* (*hātpasa*, all around)
 
@@ -538,7 +538,7 @@ The legend of Upasīva Thera is finished.
 
 [^109]: this is the BJTS reading for PTS *kāreriyo*
 
-[^110]: *acchaº*, Sinh. gloss *valassu*
+[^110]: *accha°*, Sinh. gloss *valassu*
 
 [^111]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
@@ -548,7 +548,7 @@ The legend of Upasīva Thera is finished.
 
 [^114]: *kinnarā*
 
-[^115]: reading *enimigā* with BJTS for PTS *enī migā* (“those deer/beasts”). PSI dict. defines *eṇi* as “a type of antelope” (Sinh. *muva vargayak*, “a type of deer”); RD, *eṇi*, s.v.: “a kind of antelope,” “ºmiga, the eṇi deer”
+[^115]: reading *enimigā* with BJTS for PTS *enī migā* (“those deer/beasts”). PSI dict. defines *eṇi* as “a type of antelope” (Sinh. *muva vargayak*, “a type of deer”); RD, *eṇi*, s.v.: “a kind of antelope,” “°miga, the eṇi deer”
 
 [^116]: *varāhā*, Sinh. gloss *hūrō* = *ūrō*
 
@@ -564,7 +564,7 @@ The legend of Upasīva Thera is finished.
 
 [^122]: *mayurā*
 
-[^123]: reading *ºsālikā* with BJTS for PTS *ºsahitā*. *Sāḷlka* (Skt. *śārika*) = Sinh. *säḷalihiṇiyō*, Indian mynah birds
+[^123]: reading *°sālikā* with BJTS for PTS *°sahitā*. *Sāḷlka* (Skt. *śārika*) = Sinh. *säḷalihiṇiyō*, Indian mynah birds
 
 [^124]: *kokilā*
 
@@ -606,7 +606,7 @@ The legend of Upasīva Thera is finished.
 
 [^143]: reading *uggatejāna* with BJTS for PTS *uggatejana*
 
-[^144]: *ºsaddena*, lit., “with the sound”
+[^144]: *°saddena*, lit., “with the sound”
 
 [^145]: or “trained:” *vinītā*
 

@@ -87,7 +87,7 @@ The legend of Phussitakammiya[^20] Thera is finished.
 
 [^1]: *Apadāna* numbers henceforth provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation. This invented convention parallels the use in this translation of \[square brackets\] to cross-reference the BJTS numbering of individual verses with that of the PTS edition.
 
-[^2]: “Karmically \[named\] Phussita” or “Karmically \[named\] Drop” (see v. 8). Here probably a \[mis\]spelling of *phusita*, rain-drop, sprinkle, Sinh. *poḍak*, see v. 9; summary of the chapter \[see below\] also gives *Phusita* rather than *Phussita* as here and in the texts; BJTS gives *Phusitaº* throughout, and reads the name *Phusitakampiya*, “Rain Shaker” or “Shaken by Rain”.
+[^2]: “Karmically \[named\] Phussita” or “Karmically \[named\] Drop” (see v. 8). Here probably a \[mis\]spelling of *phusita*, rain-drop, sprinkle, Sinh. *poḍak*, see v. 9; summary of the chapter \[see below\] also gives *Phusita* rather than *Phussita* as here and in the texts; BJTS gives *Phusita°* throughout, and reads the name *Phusitakampiya*, “Rain Shaker” or “Shaken by Rain”.
 
 [^3]: *saṅghārāma*
 

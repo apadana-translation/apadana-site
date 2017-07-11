@@ -171,7 +171,7 @@ The legend of Mahākaccāna Thera is finished.
 
 [^15]: *madhurassaro*
 
-[^16]: *karuṇāniḍḍhasantāno*. BJTS reads *karuṇānibaddhasantāno* (“Continuously Fixed on \[stable, bound down to\] Compassion”), and notes alt. reading *ºnibandha* for *niḍḍha*, as does PTS; BJTS Sinh.gloss *karuṇāven bändunu sit attā vū* (“being one whose mind/heart is bound to compassion”). However, the extra syllable in these readings breaks the meter, and PTS alts. also include other attempts at making sense of *niḍḍha* (or *niddha* ?) in the received Pāli. *Niḍḍha* (nest, seat, abode, from *ni* + *sad*, “seat”) not only works best in terms of meter, it also brings out a bird-related reading of the entire birth, likening the Buddha to a song-bird.
+[^16]: *karuṇāniḍḍhasantāno*. BJTS reads *karuṇānibaddhasantāno* (“Continuously Fixed on \[stable, bound down to\] Compassion”), and notes alt. reading *°nibandha* for *niḍḍha*, as does PTS; BJTS Sinh.gloss *karuṇāven bändunu sit attā vū* (“being one whose mind/heart is bound to compassion”). However, the extra syllable in these readings breaks the meter, and PTS alts. also include other attempts at making sense of *niḍḍha* (or *niddha* ?) in the received Pāli. *Niḍḍha* (nest, seat, abode, from *ni* + *sad*, “seat”) not only works best in terms of meter, it also brings out a bird-related reading of the entire birth, likening the Buddha to a song-bird.
 
 [^17]: *catusaccupasaṅhitaŋ*
 
@@ -197,7 +197,7 @@ The legend of Mahākaccāna Thera is finished.
 
 [^28]: *isivaraŋ*, lit., “excellent sage”
 
-[^29]: lit., “fat-shoulders”. BJTS reads *pīṇº* but understands the adjective in the same way: “having shoulders whihc are full (covered with meat)
+[^29]: lit., “fat-shoulders”. BJTS reads *pīṇ°* but understands the adjective in the same way: “having shoulders whihc are full (covered with meat)
 
 [^30]: *acalaŋ*
 
@@ -219,7 +219,7 @@ The legend of Mahākaccāna Thera is finished.
 
 [^39]: BJTS reads *tiriṭavacchassa*
 
-[^40]: *purohitadijāº*
+[^40]: *purohitadijā°*
 
 [^41]: “Fierce Luster.” BJTS Sinh. gloss Sanskritizes the name as “Caṇḍapradyota”
 

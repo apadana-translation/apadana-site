@@ -345,7 +345,7 @@ The Metteyya Chapter, the Forty-First
 
 [^38]: “round-mass Asoka” (?)
 
-[^39]: this reading follows BJTS for PTS *ca vārī* (alt. *ºbari*) but cf. *setavārī* at v. \[4011\], above.
+[^39]: this reading follows BJTS for PTS *ca vārī* (alt. *°bari*) but cf. *setavārī* at v. \[4011\], above.
 
 [^40]: *nīpa* = Sinhala *kolom*, *nauclea orientalis*; also called Leichhardt tree
 
@@ -401,11 +401,11 @@ The Metteyya Chapter, the Forty-First
 
 [^66]: *dindibhā*, Sinh. gloss *kirallu*, *kiraḷā* = red-wattled or yellow-wattled lapwing. PSI dictionary gives “bluejay”
 
-[^67]: reading *ºsālikā* with BJTS for PTS *ºsāḷi ca*. *Sāḷlka* (Skt. *śārika*) = Sinh. *säḷalihiṇiyō*, Indian mynah birds (Hindi *maina*, Skt. *madana*)
+[^67]: reading *°sālikā* with BJTS for PTS *°sāḷi ca*. *Sāḷlka* (Skt. *śārika*) = Sinh. *säḷalihiṇiyō*, Indian mynah birds (Hindi *maina*, Skt. *madana*)
 
 [^68]: *ketaka*, Pandanus odoratissima, Sinhala *väṭakē* or *väṭakeyiyā*.
 
-[^69]: *acchaº*, Sinh. gloss *valassu*
+[^69]: *accha°*, Sinh. gloss *valassu*
 
 [^70]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 

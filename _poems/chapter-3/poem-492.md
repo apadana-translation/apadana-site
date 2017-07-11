@@ -54,4 +54,4 @@ The legend of Paŋsukūlapūjaka Thera is finished.
 
 [^4]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as *duma* + *agge*. It would also be possible to take it as *du* + *magge*, “on a bad road”. Cf. v. \[592\] above for a case comparable to the latter. Though I do follow it here, the cty and BJTS reading rather begs the question how the Buddha’s rag robes got up in the tree.
 
-[^5]: here as elsewhere, BJTS reads *kiṅkaṇiº*
+[^5]: here as elsewhere, BJTS reads *kiṅkaṇi°*
