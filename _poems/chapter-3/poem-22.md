@@ -135,7 +135,7 @@ that Buddha-stupa shined forth \[bright\]. (21) \[889\]
 Then assembled the music-nymphs[^13]  
 \[who\] counseled one another \[thus\]:  
 “Those born of Manu, and the gods,  
-snake-gods*, kumbhaṇḍa*s*, guyhaka*s[^14] (22) \[890\]
+snake-gods*, *kumbhaṇḍa*\s, *guyhaka*\s[^14] (22) \[890\]
 
 all constructed Buddha’s stupa;  
 we’ve done nothing in that regard.  

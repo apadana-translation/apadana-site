@@ -98,7 +98,7 @@ Free of trembling and fear of ghosts,[^24]
 from every life \[to each new\] life. (18) \[5602\]
 
 Gods \[and\] men \[and\] titans[^25] \[as well\],  
-music-nymph*s*, spirits[^26] \[and\] demons;[^27]  
+music-nymphs, spirits[^26] \[and\] demons;[^27]  
 they are protecting \[me\] always,  
 transmigrating in existence. (19) \[5603\]
 

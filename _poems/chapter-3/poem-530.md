@@ -219,7 +219,7 @@ I will realize nirvana. (42) \[5658\]
 Within just this \[present\] aeon  
 since I \[thus\] praised \[him\], the Buddha,  
 I’ve come to know no bad rebirth:  
-that’s the fruit of praising Buddha*s*. (43) \[5659\]
+that’s the fruit of praising Buddhas. (43) \[5659\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
