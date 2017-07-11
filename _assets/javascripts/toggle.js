@@ -42,6 +42,8 @@ document.addEventListener('DOMContentLoaded', function() {
     "Ṃ":"M",
     "Ŋ":"M",
     "Ḷ":"L",
+    "Ṣ":"S",
+    "Ś":"Sh",
     "ā":"a",
     "ī":"i",
     "ū":"u",

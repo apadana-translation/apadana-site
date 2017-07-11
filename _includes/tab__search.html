@@ -11,7 +11,7 @@
   <p>Search is not case- or diacritic-sensitive (e.g. Ananda = Ānanda).</p>
 </aside>
 
-<ul class="results" id="list">
+<ul class="search__results" id="search-results">
     <!-- results go here -->
 </ul>
 
@@ -20,13 +20,55 @@
 
     const pages = [];
 
+    var diacriticsMap = {
+      "A":"Ā",
+      "I":"Ī",
+      "U":"Ū",
+      "N":"ṄÑ",
+      "T":"Ṭ",
+      "D":"Ḍ",
+      "N":"Ṇ",
+      "M":"ṂŊ",
+      "L":"Ḷ",
+      "S":"ṢŚ",
+      "a":"ā",
+      "i":"ī",
+      "u":"ū",
+      "ṅ":"ṅñ",
+      "t":"ṭ",
+      "d":"ḍ",
+      "n":"ṇ",
+      "m":"ṃŋ",
+      "l":"ḷ",
+      "s":"ṣś"
+    };
+
+    function diacritics_fold(s) {
+      if (!s) {
+        return '';
+      }
+      var ret = '';
+      for (var i = 0; i < s.length; i++) {
+        ret += '[';
+        ret += s.charAt(i);
+        if (diacriticsMap[s.charAt(i)]) {
+          ret += diacriticsMap[s.charAt(i)] || s.charAt(i);
+        };
+        ret += ']';
+      }
+      return ret;
+    }
+
     fetch(endpoint)
         .then(blob => blob.json())
         .then(data => pages.push(...data))
 
     function findResults(termToMatch, pages) {
         return pages.filter(item => {
-            const regex = new RegExp(termToMatch, 'gi');
+            var filteredTerm = diacritics_fold(termToMatch);
+            console.log('Unfiltered: ' + termToMatch);
+            console.log('Filtered: ' + filteredTerm);
+            const regex = new RegExp(filteredTerm, 'gi');
             return item.title.match(regex) || item.content.match(regex);
         });
     }
@@ -34,12 +76,22 @@
     function displayResults() {
         const resultsArray = findResults(this.value, pages);
         const html = resultsArray.map(item => {
-          return `
-              <li class="result">
+          if ( item.order !== null ) {
+            return `
+              <li class="search__result">
                 <article class="article">
-                  <h4><a href="${item.url}" title="Result - ${item.title}">${item.title}</a></h4>
+                  <a href="${item.url}" title="Result — ${item.title}">${item.title}</a>
+                  <p class="small">${item.chapter} / Poem ${item.order}</p>
                 </article>
               </li>`;
+          } else {
+            return `
+              <li class="search__result">
+                <article class="article">
+                  <a href="${item.url}" title="Result — ${item.title}">${item.title}</a>
+                </article>
+              </li>`;
+          };
         }).join('');
         if ((resultsArray.length == 0) || (this.value == '')) {
             resultsList.innerHTML = `<p>Sorry, nothing was found</p>`;
@@ -49,7 +101,7 @@
     }
 
     const field = document.querySelector('#search');
-    const resultsList = document.querySelector('#list');
+    const resultsList = document.querySelector('#search-results');
 
     field.addEventListener('keyup', displayResults);
 

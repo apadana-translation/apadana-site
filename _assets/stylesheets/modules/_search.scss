@@ -1,0 +1,13 @@
+.search {
+
+  &__results {
+    max-height: 70vh;
+    overflow-y: scroll;
+    padding-top: 1rem;
+    padding-left: 0;
+  }
+
+  &__result {
+    margin: 0.5rem;
+  }
+}
