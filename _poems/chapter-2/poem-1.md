@@ -374,7 +374,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^37]: = SN, v. 53
 
-[^38]: lit., “it is an impossibility (*aṭṭhāna*, for *a-ṭṭhānaṃ*, lit., “groundless”) that one...would touch”
+[^38]: lit., “it is an impossibility (*aṭṭhāna*, for *a-ṭṭhānaṃ*, lit., “groundless”) that one…would touch”
 
 [^39]: *Ādiccabandhussa.* Though elsewhere in *Apadāna* this epithet signals Sammāsambuddhas (especially Tissa), here, as BJTS gloss makes clear, it refers to the Paccekabuddha to whom the phrase in quotation marks is attributed.
 
@@ -486,7 +486,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^93]: *Dīpā*
 
-[^94]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me* (“these...who are constantly friendly”)
+[^94]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me* (“these…who are constantly friendly”)
 
 [^95]: *pahīnasabbāvaraṇā*
 
@@ -498,7 +498,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^99]: *lokasudakkhiṇeyyā*
 
-[^100]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me* (“these...who are constantly friendly”)
+[^100]: reading *satataccitā ‘me* with BJTS for PTS *satataŋ hitā ‘me* (“these…who are constantly friendly”)
 
 [^101]: *subhāsitāni*
 

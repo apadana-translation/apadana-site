@@ -149,7 +149,7 @@ The legend of Bodhisammajjaka Thera is finished.
 
 [^4]: *uttattakanakūpamo*, lit., “in a simile to molten gold”
 
-[^5]: lit., “in” or “when”, following BJTS gloss “through the merit of...”
+[^5]: lit., “in” or “when”, following BJTS gloss “through the merit of…”
 
 [^6]: reading *siniddha* (which has a wide range of meanings that could refer to beautiful skin, depending on the standard for or imagination of beauty: wet, moist, oily, greasy, fatty. smooth, glossy, resplendent, charming, pliable) with BJTS for PTs *niddhā* (?)
 

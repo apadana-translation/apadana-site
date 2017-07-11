@@ -391,7 +391,7 @@ The Metteyya Chapter, the Forty-First
 
 [^61]: o*guhā*, fr. *ogāhati*, *ogāhana*, plunging? = watersnakes?
 
-[^62]: *ajagarā*. RD says “a large snake...a Boa Constrictor”
+[^62]: *ajagarā*. RD says “a large snake…a Boa Constrictor”
 
 [^63]: *parevatā*
 

@@ -1086,7 +1086,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^62]: *nidhanaŋ*, lit., “without wealth \[of karma\],” or more literally, “possessionless”
 
-[^63]: BJTS divides up the adverb taken as “similing” (*hāsantiŋ*) as *hā santiṃ*, “Alas! peacefully...” or “Alas! to peace…”
+[^63]: BJTS divides up the adverb taken as “similing” (*hāsantiŋ*) as *hā santiṃ*, “Alas! peacefully…” or “Alas! to peace…”
 
 [^64]: lit., “O deep one, O ocean of wisdom”
 

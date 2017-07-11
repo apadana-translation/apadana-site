@@ -1698,7 +1698,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^305]: *pañcānisaŋse*. I count the five here as (1) divine lifespan, (2) little to endure from thieves and enemies, (3) no trouble from weapons or (4) from poison, and (5) no premature death.
 
-[^306]: lit., “I am one who...”
+[^306]: lit., “I am one who…”
 
 [^307]: *appasayha*
 

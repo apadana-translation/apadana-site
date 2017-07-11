@@ -374,7 +374,7 @@ The legend of Upasīva Thera is finished.
 
 [^27]: *yūthikā* = Sinh. *sīnidda* = *jasminum auriculatum*
 
-[^28]: *piyaṅgukā*. RD: “\[cp. Vedic priyangu\] 1. panic seed, Panicum Italicum Vv 537; J i.39; PvA 283. Mixed with water and made into a kind of gruel (piyangûdaka) it is used as an emetic J i.419. See also kangu. — 2. a medicinal plant, Priyangu J v.420. BJTS glosses it *puvaṅgu*, Botanical dictionary = *priyaṅgu = ruk gasa*, Myristica Hersfieldia (*Myris*.), “a lofty tree...It produces fragrant flowers and seeds from its trunk.”
+[^28]: *piyaṅgukā*. RD: “\[cp. Vedic priyangu\] 1. panic seed, Panicum Italicum Vv 537; J i.39; PvA 283. Mixed with water and made into a kind of gruel (piyangûdaka) it is used as an emetic J i.419. See also kangu. — 2. a medicinal plant, Priyangu J v.420. BJTS glosses it *puvaṅgu*, Botanical dictionary = *priyaṅgu = ruk gasa*, Myristica Hersfieldia (*Myris*.), “a lofty tree…It produces fragrant flowers and seeds from its trunk.”
 
 [^29]: BJTS glosses as *satpeti däsaman* = “hundred-petaled” *saman picca mal*, a fragrant species of jasmine, Jasminum sambac. Note that at \[3432\] BJTS says *vassika* is (regular) *däsaman*.
 

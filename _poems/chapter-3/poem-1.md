@@ -1289,7 +1289,7 @@ The legend of Sāriputta Thera is finished.
 
 [^54]: fr. *ogāhati*, *ogāhana*, plunging? = watersnakes? BJTS reads *oguha*. In v. \[4012\], below, the same (?) term is spelt *uggāhaka*. Cf *gaha*, a demon, a “seizer”
 
-[^55]: *ajagarā*. RD says “a large snake...a Boa Constrictor”
+[^55]: *ajagarā*. RD says “a large snake…a Boa Constrictor”
 
 [^56]: *parevatā*
 

@@ -83,7 +83,7 @@ The legend of Tiṇamuṭṭhidāyaka Thera is finished.
 
 [^9]: lit., “meritorious,” *puññakammâbhinimmita*
 
-[^10]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍa*/s (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\]...sacrificial post” .
+[^10]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍa*/s (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\]…sacrificial post” .
 
 [^11]: following BJTS; PTS reads *geṇḍu*, in multiple variations (could this be related to *geṇḍuka*, a small ball?). At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
 

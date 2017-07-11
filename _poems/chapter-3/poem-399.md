@@ -153,7 +153,7 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Everything Donor.” This same *apadāna* is repeated below as \#{551} (BJTS only), ascribed there to Yasa Thera, with the slight difference that the first verse of the concluding refrain there follows the more typical pattern “Like elephants...”
+[^2]: “Everything Donor.” This same *apadāna* is repeated below as \#{551} (BJTS only), ascribed there to Yasa Thera, with the slight difference that the first verse of the concluding refrain there follows the more typical pattern “Like elephants…”
 
 [^3]: *ogayha*, “submerged in” “plunged into.” BJTS normalizes this by glossing “in the vicinity of the great ocean,” but I take it more literally, and assume that the protagonist is a supernatural being for whom this *is* normal.
 

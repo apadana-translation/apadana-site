@@ -817,7 +817,7 @@ The legend of Sela Thera is finished.
 
 [^165]: *appasaddā*
 
-[^166]: reading *yadā ‘haṃ* with BJTS for PTS *yāvâhaŋ*, “as far as I...”
+[^166]: reading *yadā ‘haṃ* with BJTS for PTS *yāvâhaŋ*, “as far as I…”
 
 [^167]: *munibhūtā va*, i.e., silently
 
