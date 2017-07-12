@@ -4,7 +4,8 @@ layout: poem
 category: chapter-1
 ---
 
-### Buddha Chapter, the First {.ch-heading}
+### Buddha Chapter, the First
+
 # The Legend of the Buddhas
 
 Praise Him, the Blessed One, the Worthy One, the Fully Complete Buddha!

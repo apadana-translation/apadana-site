@@ -73,34 +73,29 @@ document.addEventListener('DOMContentLoaded', function() {
 // ===================================
 // Toggle Events
 // ===================================
-// 1) Chapter Headings
-var toggleChHeadings = document.querySelector('#toggle--ch-headings');
-var elemChHeadings = 'h2.ch-heading';
-toggle(toggleChHeadings, elemChHeadings, 'on', 'off');
-
-// 2) Sidenotes
+// 1) Sidenotes
 var toggleNotes = document.querySelector('#toggle--notes');
 var elemNotes = ['aside.sidenote', 'a.footnoteRef'];
 toggle(toggleNotes, elemNotes, 'on', 'off');
 
-// 3) Brackets
+// 2) Brackets
 var toggleBrackets = document.querySelector('#toggle--brackets');
 var elemBrackets = 'span.bracket';
 toggle(toggleBrackets, elemBrackets, 'on', 'off');
 
-// 4) Verse Numbers
+// 3) Verse Numbers
 var toggleVerseNumbers = document.querySelector('#toggle--verse-numbers');
 var elemVerseNumbers = 'span.verse-number';
 toggle(toggleVerseNumbers, elemVerseNumbers, 'on', 'off');
 
-// 5) Diacritics
+// 4) Diacritics
 var toggleDiacritics = document.querySelector('#toggle--diacritics');
 var elemDiacritics = 'span.diacritics';
 var elemNoDiacritics = 'span.no-diacritics';
 toggle(toggleDiacritics, elemNoDiacritics, 'off', 'on');
 toggle(toggleDiacritics, elemDiacritics, 'on', 'off');
 
-// 6) Toggle all
+// 5) Toggle all
 var toggleAll = document.querySelectorAll('.switch__input');
 $(toggleAll[0]).change(function() {
   $(toggleAll).not(":eq(0)").prop('checked', $(toggleAll).prop('checked')).trigger('change');
