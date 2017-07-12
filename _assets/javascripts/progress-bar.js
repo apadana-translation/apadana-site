@@ -1,7 +1,7 @@
 // Reading progress bar for poems
 // based on https://codepen.io/jpod/pen/oqKvw
 
-$(document).on('ready', function() {
+function progressBar() {
   var winHeight = $(window).height(),
       docHeight = $('.poem').height(),
       progressBar = $('progress'),
@@ -10,7 +10,7 @@ $(document).on('ready', function() {
   /* Set the max scrollable area */
   max = docHeight - winHeight;
 
-  $(document).on('scroll', function(){
+  $(document).on('scroll', function() {
      var value = $(window).scrollTop();
      var perc = Math.max(0, Math.min(1, value/max));
      updateProgress(perc);
@@ -23,4 +23,8 @@ $(document).on('ready', function() {
     });
     $('.progress__count').html(Math.round(perc * 100) + "%");
   }
+}
+
+$(document).on('ready', function() {
+  progressBar();
 });

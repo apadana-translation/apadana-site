@@ -66,8 +66,6 @@
     function findResults(termToMatch, pages) {
         return pages.filter(item => {
             var filteredTerm = diacritics_fold(termToMatch);
-            console.log('Unfiltered: ' + termToMatch);
-            console.log('Filtered: ' + filteredTerm);
             const regex = new RegExp(filteredTerm, 'gi');
             return item.title.match(regex) || item.content.match(regex);
         });
