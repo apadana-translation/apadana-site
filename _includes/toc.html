@@ -27,9 +27,10 @@
           <span class="chapter-size">({{ chapter.size }})</span>
         </label>
         <ol class="toc__level2">
-          {% for item in chapter.items %}
+          {% assign poems = chapter.items | sort: "order" %}
+          {% for poem in poems %}
             <li>
-              <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+              <a href="{{ site.baseurl }}{{ poem.url }}">{{ poem.title }}</a>
             </li>
           {% endfor %}
         </ol>
