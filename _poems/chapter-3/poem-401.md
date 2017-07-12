@@ -59,7 +59,7 @@ the burning up of defilements,
 and giving up anger and hate:  
 those three things are my oblations.” (9) \[3899\]
 
-\[Protagonist:  
+\[Protagonist\]:  
 “What sort are you, O Great Hero?  
 What is your clan, O Happy One?  
 Your procedure for practicing  
