@@ -9,10 +9,10 @@ The following features are toggle-able in the toolbox:
 5) diacritics (switch to non-accented notation)
 *****/
 
-// ===================================
-// Tag DOM features to allow toggle
-// ===================================
-document.addEventListener('DOMContentLoaded', function() {
+function addToggleTags() {
+  // ===================================
+  // Tag DOM features to allow toggle
+  // ===================================
   // Brackets
   // Add <span> tag around all square brackets, preserve text inside
   // https://stackoverflow.com/questions/17750648/add-span-to-specific-words
@@ -61,71 +61,78 @@ document.addEventListener('DOMContentLoaded', function() {
   var diacriticsKeys = Object.keys(diacriticsMap).join('|');
   var diacritics = new RegExp('\(' + diacriticsKeys + '\)(?!([^<]+)?>)', 'g');
   $("#poem").html(function(_,html){
-      return html.replace(diacritics, function($1, match, key) {
-        var key = $1,
-            swap = diacriticsMap[key] || match;
-        var string = '<span class="diacritics" data-state="on">' + key + '</span><span class="no-diacritics" data-state="off">' + swap + '</span>';
-        return string;
-      });
-  });
-});
-
-// ===================================
-// Toggle Events
-// ===================================
-// 1) Sidenotes
-var toggleNotes = document.querySelector('#toggle--notes');
-var elemNotes = ['aside.sidenote', 'a.footnoteRef'];
-toggle(toggleNotes, elemNotes, 'on', 'off');
-
-// 2) Brackets
-var toggleBrackets = document.querySelector('#toggle--brackets');
-var elemBrackets = 'span.bracket';
-toggle(toggleBrackets, elemBrackets, 'on', 'off');
-
-// 3) Verse Numbers
-var toggleVerseNumbers = document.querySelector('#toggle--verse-numbers');
-var elemVerseNumbers = 'span.verse-number';
-toggle(toggleVerseNumbers, elemVerseNumbers, 'on', 'off');
-
-// 4) Diacritics
-var toggleDiacritics = document.querySelector('#toggle--diacritics');
-var elemDiacritics = 'span.diacritics';
-var elemNoDiacritics = 'span.no-diacritics';
-toggle(toggleDiacritics, elemNoDiacritics, 'off', 'on');
-toggle(toggleDiacritics, elemDiacritics, 'on', 'off');
-
-// 5) Toggle all
-var toggleAll = document.querySelectorAll('.switch__input');
-$(toggleAll[0]).change(function() {
-  $(toggleAll).not(":eq(0)").prop('checked', $(toggleAll).prop('checked')).trigger('change');
-});
-
-// ===================================
-// Toggle Functions
-// ===================================
-function toggle(button, feature, one, two) {
-
-  $(button).children(':checkbox').change(function() {
-    if (this.checked) {
-      data(feature, 'data-state', one);
-    } else {
-      data(feature, 'data-state', two);
-    }
+    return html.replace(diacritics, function($1, match, key) {
+      var key = $1,
+          swap = diacriticsMap[key] || match;
+      var string = '<span class="diacritics" data-state="on">' + key + '</span><span class="no-diacritics" data-state="off">' + swap + '</span>';
+      return string;
+    });
   });
 
-  button.onmouseover = function() {
-    data(feature, 'data-hover', 'on');
-  };
+  // ===================================
+  // Toggle Events
+  // ===================================
+  // 1) Sidenotes
+  var toggleNotes = document.querySelector('#toggle--notes');
+  var elemNotes = ['aside.sidenote', 'a.footnoteRef'];
+  toggle(toggleNotes, elemNotes, 'on', 'off');
 
-  button.onmouseout = function() {
-    data(feature, 'data-hover', 'off');
-  };
+  // 2) Brackets
+  var toggleBrackets = document.querySelector('#toggle--brackets');
+  var elemBrackets = 'span.bracket';
+  toggle(toggleBrackets, elemBrackets, 'on', 'off');
 
-  var data = function (element, attribute, state) {
-    var element = document.querySelectorAll(element), i;
-    for (i = 0; i < element.length; ++i) {
-      element[i].setAttribute(attribute, state);
+  // 3) Verse Numbers
+  var toggleVerseNumbers = document.querySelector('#toggle--verse-numbers');
+  var elemVerseNumbers = 'span.verse-number';
+  toggle(toggleVerseNumbers, elemVerseNumbers, 'on', 'off');
+
+  // 4) Diacritics
+  var toggleDiacritics = document.querySelector('#toggle--diacritics');
+  var elemDiacritics = 'span.diacritics';
+  var elemNoDiacritics = 'span.no-diacritics';
+  toggle(toggleDiacritics, elemNoDiacritics, 'off', 'on');
+  toggle(toggleDiacritics, elemDiacritics, 'on', 'off');
+
+  // 5) Toggle all
+  var toggleAll = document.querySelectorAll('.switch__input');
+  $(toggleAll[0]).change(function() {
+    $(toggleAll).not(":eq(0)").prop('checked', $(toggleAll).prop('checked')).trigger('change');
+  });
+
+  // ===================================
+  // Toggle Functions
+  // ===================================
+  function toggle(button, feature, one, two) {
+
+    $(button).children(':checkbox').change(function() {
+      if (this.checked) {
+        data(feature, 'data-state', one);
+      } else {
+        data(feature, 'data-state', two);
+      }
+    });
+
+    button.onmouseover = function() {
+      data(feature, 'data-hover', 'on');
     };
-  };
-}
+
+    button.onmouseout = function() {
+      data(feature, 'data-hover', 'off');
+    };
+
+    var data = function (element, attribute, state) {
+      var element = document.querySelectorAll(element), i;
+      for (i = 0; i < element.length; ++i) {
+        element[i].setAttribute(attribute, state);
+      };
+    };
+  }
+};
+
+// ===================================
+// Fire on Ready
+// ===================================
+$(document).on('ready', function() {
+  addToggleTags();
+});

@@ -21,8 +21,9 @@ $(function(){
         },
         onAfter: function() {
           $('.poem').sidenotes();
-          progressBar();
           navigation();
+          addToggleTags();
+          progressBar();
         }
       },
       smoothState = $page.smoothState(options).data('smoothState');
