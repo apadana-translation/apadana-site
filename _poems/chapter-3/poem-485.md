@@ -1,5 +1,5 @@
 ---
-title: <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanamāliya
+title: Candanamāliya
 order: 485
 layout: poem
 category: chapter-3
