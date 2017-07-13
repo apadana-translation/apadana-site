@@ -7,7 +7,7 @@ category: chapter-3
 
 ### \[28. Uttiya\]
 
-On Candabhāgā River’s bank  
+On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank  
 I was a crocodile back then.  
 Being engaged in getting food  
 I went up to the river bank. (1) \[983\]

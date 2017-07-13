@@ -260,7 +260,7 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^6]: *veneyyapadumāni*, lit., “lotuses that can be taught” or “lotuses that can be led”. I follow BJTS Sinh. gloss in taking the term to refer to people. I have explored a developed use of this metaphor in the introduction to *Vaṃsatthappakāsini*, in my “Buddhist History: The Sri Lankan Pāli Vaṃsas and their Commentary,” in Inden, Walters and Ali, *Querying the Medieval* (Oxford, 2000):126ff.
 
-[^7]: *vesārajjehi sampanno catuhi*
+[^7]: *vesārajjehi sampanno <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuhi*
 
 [^8]: *pahīna-bhaya-sārajjo*, lit., “with fear and timidity abandoned”
 
@@ -268,7 +268,7 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^10]: *khemappatto*. BJTS Sinh. gloss takes “peace” to mean nirvana, and its attainment to be the very nature of the confidence of boldness exhibited by the Buddha.
 
-[^11]: *buddhabhumiŋ ca kevalaŋ*
+[^11]: *buddhabhumiŋ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a kevalaŋ*
 
 [^12]: *āsabhaŋ pavaraŋ ṭhānaŋ*, i.e., “the excellent best place”
 
@@ -320,7 +320,7 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^36]: *Vaṅgīsa*, the protagonist’s name.
 
-[^37]: *vacane issaro ti vā*, a second etymology for his name
+[^37]: *va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ane issaro ti vā*, a second etymology for his name
 
 [^38]: *ṭhito*, lit., “remaining,” “standing” “fixed”
 
@@ -330,27 +330,27 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^41]: *yugamattañ nirikkitaŋ* \[BJTS reads *nirikkhakaṃ*\], both variants on the typical construction with *pekkhati* rather than *ikkhati*), lit., “looking ahead the extent of a plough,” i.e., just a little, keeping his eyes on the ground in front of him
 
-[^42]: reading *kaṇikaṃ ṭhānaracitaṃ* with BJTS for PTS *kaṇṇikāraparicitaŋ* (“heaping up \[metaphors of?\] dinner-plate \[trees\]”), though it is tempting to read in the latter a mild criticism of the frequency of such metaphors in earlier poems by the appropriately, and especially skilled poet of the present *apadāna*
+[^42]: reading *kaṇikaṃ ṭhānara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaṃ* with BJTS for PTS *kaṇṇikārapari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaŋ* (“heaping up \[metaphors of?\] dinner-plate \[trees\]”), though it is tempting to read in the latter a mild criticism of the frequency of such metaphors in earlier poems by the appropriately, and especially skilled poet of the present *apadāna*
 
-[^43]: here PTS seems to omit the first two feet of the verse, provided in BJTS: *ācikkhi so me satthāraṃ/Sambuṃddha lokanāyakaṃ*. PTS provides BJTS \[6148c-d\] as its (31a-b); it then makes BJTS \[6149a-b\] into its (30c-d). BJTS presents the subsequent verse as a six-footed one, making up the difference, but the problem recurs below
+[^43]: here PTS seems to omit the first two feet of the verse, provided in BJTS: *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkhi so me satthāraṃ/Sambuṃddha lokanāyakaṃ*. PTS provides BJTS \[6148c-d\] as its (31a-b); it then makes BJTS \[6149a-b\] into its (30c-d). BJTS presents the subsequent verse as a six-footed one, making up the difference, but the problem recurs below
 
 [^44]: lit., “hard to see,” reading *duddasaṃ* with BJTS (and PTS alt.) for PTS *uddayaŋ* (“profit” ?)
 
 [^45]: lit., “in”
 
-[^46]: or “varied”: *vicitta*
+[^46]: or “varied”: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itta*
 
 [^47]: reading *maṃ* with BJTS for PTS *c’*
 
 [^48]: BJTS presents this as a six-footed verse; PTS breaks it into one and a half verses, probably misled by the omitted line (see the note on the previous verse numbers)
 
-[^49]: here too PTS seems to omit a line, which BJTS reads as: *nipacca sirasā pade*/*nisīdiŋ satthu santike*.
+[^49]: here too PTS seems to omit a line, which BJTS reads as: *nipa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a sirasā pade*/*nisīdiŋ satthu santike*.
 
-[^50]: *vadataŋ seṭṭho*. I read *kacci vaṅgīsa jānasi* with BJTS for PTS (and BJTS alt.) *saccaŋ Vaṅgīsa kacci te* (“O Vaṅgīsa, what is the truth”?), though both versions convey a similar sense to the Buddha’s rhetorical question
+[^50]: *vadataŋ seṭṭho*. I read *ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>i vaṅgīsa jānasi* with BJTS for PTS (and BJTS alt.) *sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aŋ Vaṅgīsa ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>i te* (“O Vaṅgīsa, what is the truth”?), though both versions convey a similar sense to the Buddha’s rhetorical question
 
-[^51]: here too PTS seems to omit a line, which BJTS reads as: *kiñci sippan ti tassāhaṃ/jānāmi ti ca abraviṃ*. I follow BJTS Sinh. gloss in parsing the grammar here.
+[^51]: here too PTS seems to omit a line, which BJTS reads as: *kiñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i sippan ti tassāhaṃ/jānāmi ti <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a abraviṃ*. I follow BJTS Sinh. gloss in parsing the grammar here.
 
-[^52]: reading *avācayiṃ* with BJTS for PTS *avācayi* (“he said”)
+[^52]: reading *avā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayiṃ* with BJTS for PTS *avā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayi* (“he said”)
 
 [^53]: reading *nara* with BJTS for PTS *atho* (“then”)
 

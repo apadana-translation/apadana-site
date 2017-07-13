@@ -59,6 +59,6 @@ The Jagatidāyaka Chapter, the Forty-Sixth
 
 [^5]: lit., “dong *pūjā*”
 
-[^6]: BJTS omits *ca*
+[^6]: BJTS omits *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*
 
 [^7]: PTS reads *Sattipaṇṇī*

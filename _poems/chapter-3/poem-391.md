@@ -5,9 +5,9 @@ layout: poem
 category: chapter-3
 ---
 
-## Pilindavaccha Chapter, the Fortieth
+## Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha Chapter, the Fortieth
 
-### \[388. {391.}[^1] Pilindavaccha[^2]\]
+### \[388. {391.}[^1] Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha[^2]\]
 
 In the city, Haṃsavatī,  
 I was a gate-keeper[^3] back then.  
@@ -451,7 +451,7 @@ will place him in the foremost place
 of understanding everything.[^200] (83) \[3456\]
 
 He’ll be the teacher’s follower  
-by the name Pilindavaccha.  
+by the name Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha.  
 He’ll be honored[^201] by[^202] \[all\] the gods,  
 the titans[^203] and music-nymphs.[^204] (84) \[3457\]
 
@@ -1084,13 +1084,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (206) \[3580\]
 
-Thus indeed Venerable Pilindavaccha[^594] Thera spoke these verses.
+Thus indeed Venerable Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha[^594] Thera spoke these verses.
 
-The legend of Pilindavaccha[^595] Thera is finished.
+The legend of Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha[^595] Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: cf. \#15, and note, above. BJTS spells the name *Piḷindavaccha*. He seems to have been a historical monk, much-mentioned in the canon and commentaries. “Pilinda” was his given name, “Vaccha” refers to his *gotta* (lineage).
+[^2]: cf. \#15, and note, above. BJTS spells the name *Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha*. He seems to have been a historical monk, much-mentioned in the canon and commentaries. “Pilinda” was his given name, “Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha” refers to his *gotta* (lineage).
 
 [^3]: *dovārika* fr. *dvāra*. Cty (p. 480) explains that he was a very rich man (*mahaddhano mahābhogo)* born in a gate-keepers’ clan (*dovārikakule nibbatto*), which might imply that he himself was not engaged in such labor (the term can also mean “janitor). Later however (p. 481) Cty stipulates that he himself was the keeper/protector of the king’s gate (*rañño gehadvāre dvārapālako*), perhaps suggesting that this was a position of some status.
 
@@ -1100,7 +1100,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^6]: BJTS gloss understands this to mean that the king invited the protagonist to come and join in his almsgiving to the Buddha’s foremost monks. But that is not specified in the text. I understand being invited by the king himself to be a more general indication of his high status, paralleling his possession of wealth and of an opulent harem.
 
-[^7]: *adhiccuppattiko*, “the Spontaneously Produced One”
+[^7]: *adhi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>uppattiko*, “the Spontaneously Produced One”
 
 [^8]: *muni*
 
@@ -1150,9 +1150,9 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^31]: *satthake*
 
-[^32]: *sūciyo*
+[^32]: *sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iyo*
 
-[^33]: *nakha-cchedane*
+[^33]: *nakha-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chedane*
 
 [^34]: *vidhūpane*
 
@@ -1160,13 +1160,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^36]: *morahatthe*, lit., “peacock hairs” or “peacock hands.” Here as elsewhere, in keeping with Johnson’s critique of Boswell’s Latin translation, it is necessary to take the Pāli from the meaning, rather than the other way around
 
-[^37]: *camare* \[rea *cāmare*\], RD: a chowrie, the tail of bos grunniens used as a whisk
+[^37]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>amare* \[rea *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āmare*\], RD: a chowrie, the tail of bos grunniens used as a whisk
 
 [^38]: *parissāvane*
 
 [^39]: *teladhare*
 
-[^40]: *sūcighare*
+[^40]: *sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ighare*
 
 [^41]: reading *aṃsabandhe* with JPTS and PTS alt for PTS *aŋsabaddhe* (*baddha* = lucky, arrow or bull)
 
@@ -1174,7 +1174,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^43]: *ādhārake*, also stand, pulpit, desk
 
-[^44]: *vaca*. RD “a kind of root Vin i.201=iv.35” BJTS gives *vadakasā* which is sweet-flag or orris root, Acorus Calamus (*Araceae*), Sinh. also *vadakaha*.
+[^44]: *va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*. RD “a kind of root Vin i.201=iv.35” BJTS gives *vadakasā* which is sweet-flag or orris root, Acorus Calamus (*Araceae*), Sinh. also *vadakaha*.
 
 [^45]: RD “the fragrant root of Andropogon Muricatum (cp. bīraṇa).” Sinh. *sävänna*, “cuscus grass”
 
@@ -1182,7 +1182,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^47]: *pipphalī*, Sinh. *pippali mūl*, the root of the long pepper, Piper longum
 
-[^48]: *maricāni*, black pepper, allowed as medicine for the monks
+[^48]: *mari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āni*, black pepper, allowed as medicine for the monks
 
 [^49]: *harīṭaka* = Sinhala *araḷu*, yellow myrobalan, terminalia chebula
 
@@ -1192,7 +1192,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^52]: *pādukā*, Sinh. *miriväḍi*
 
-[^53]: *udakapuñchane*
+[^53]: *udakapuñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hane*
 
 [^54]: *kattaradaṇḍe*
 
@@ -1204,9 +1204,9 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^58]: *dhamma-kuttarā* = Sinh. *damkoturu*
 
-[^59]: *kuñcikā*
+[^59]: *kuñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikā*
 
-[^60]: *kuñcikāghare*
+[^60]: *kuñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikāghare*
 
 [^61]: *āyoge*
 
@@ -1232,7 +1232,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^72]: *pallaṅke*
 
-[^73]: *caturo-maye*
+[^73]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturo-maye*
 
 [^74]: *uṇṇā-bhisi*
 
@@ -1250,13 +1250,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^81]: *phalake*
 
-[^82]: *sūci* (PTS *suci*)
+[^82]: *sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i* (PTS *suci*)
 
-[^83]: *mañcamattharaṇena*
+[^83]: *mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>amattharaṇena*
 
 [^84]: *senāsane*
 
-[^85]: *pādapuñche*
+[^85]: *pādapuñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>he*
 
 [^86]: *sayanāsanadaṇḍake*
 
@@ -1272,9 +1272,9 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^92]: *pattapidhānathālake*
 
-[^93]: *udakassa kaṭacchu*
+[^93]: *udakassa kaṭa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu*
 
-[^94]: *cuṇṇakam rajata* + *ammaṇaṃ*. Chunnam is limestone ground into a paste, mixed with betel and areca nut for chewing. This would then refer to what is called in Sinhala *kiḷoti*, “betel cases”
+[^94]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>uṇṇakam rajata* + *ammaṇaṃ*. Chunnam is limestone ground into a paste, mixed with betel and areca nut for chewing. This would then refer to what is called in Sinhala *kiḷoti*, “betel cases”
 
 [^95]: *sammajjanaŋ*
 
@@ -1282,7 +1282,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^97]: *vassika-sāṭikaŋ*
 
-[^98]: *nisīdanaŋ kaṇḍucchādī*, more commonly *kaṇḍupaṭicchādi*, a cloth allowed in the *Vinaya* to monks suffering from the itch
+[^98]: *nisīdanaŋ kaṇḍu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chādī*, more commonly *kaṇḍupaṭi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chādi*, a cloth allowed in the *Vinaya* to monks suffering from the itch
 
 [^99]: *atha*, lit., “then”
 
@@ -1302,9 +1302,9 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^107]: *sitthaŋ*
 
-[^108]: *pilotiñca*
+[^108]: *pilotiñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*
 
-[^109]: *mukha-puñchana-suttakaŋ*
+[^109]: *mukha-puñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hana-suttakaŋ*
 
 [^110]: Malalasekera DPPN II:211 reads this passage to imply that the protagonist gave these fabulous gifts to the king himself, but I do not see warrant for that in the text. Indeed, it is clear that these are intended as requisites for the monks; I read v. 63 \[3436\] below to refer to this mega-umbrella as placed atop the Buddha.
 
@@ -1312,7 +1312,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^112]: reading *mahesino* with BJTS for PTS *mahāyasaŋ*, “the progenitor of great fame”
 
-[^113]: I have puzzled long over this difficult section of the text, and can only make sense of the Pāli by taking it as a dialogue involving multiple different parties: the protagonist (Rev. Pilindavaccha in his previous life), King Ānanda, the judges in a court of law, and the protagonist’s friends and relatives; Padumuttara Buddha also speaks various lines. BJTS does not seem to be aware of this, and glosses literally without apparent understanding of some of the verses. The cty is also silent about this crucial interpretative perspective.
+[^113]: I have puzzled long over this difficult section of the text, and can only make sense of the Pāli by taking it as a dialogue involving multiple different parties: the protagonist (Rev. Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha in his previous life), King Ānanda, the judges in a court of law, and the protagonist’s friends and relatives; Padumuttara Buddha also speaks various lines. BJTS does not seem to be aware of this, and glosses literally without apparent understanding of some of the verses. The cty is also silent about this crucial interpretative perspective.
 
 [^114]: lit., “of both there is a single thought”. PTS and BJTS alt. read *yasaŋ*, “of both there is a single fame.”
 
@@ -1340,7 +1340,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^126]: reading *varaṃ* with BJTS and PTS alt. for PTS *dhanaŋ*, “wealth”. *Vara* can also mean “favor” or “blessing”
 
-[^127]: reading *duccajaṃ* with BJTS for PTS *duccajjaŋ*
+[^127]: reading *du<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ajaṃ* with BJTS for PTS *du<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ajjaŋ*
 
 [^128]: lit., “if there is a purpose in it for you”
 
@@ -1364,7 +1364,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^138]: *varaŋ*, boon, favor.
 
-[^139]: BJTS reads this as an imperative: *mā yācittho* for PTS *ayācittho*. In either case the grammar is fuzzy — the BJTS reading assumes a plural second person imperative (a royal y’all?) while the PYS reading is not a regular form of the verb.
+[^139]: BJTS reads this as an imperative: *mā yā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittho* for PTS *ayā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittho*. In either case the grammar is fuzzy — the BJTS reading assumes a plural second person imperative (a royal y’all?) while the PYS reading is not a regular form of the verb.
 
 [^140]: *maṇijotirasa*, a gemstone which fulfills wishes, a particularly valuable gem.
 
@@ -1390,7 +1390,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^151]: *sabbagāhikaŋ*, lit., “taking everything”
 
-[^152]: *kicchapatto va hutvāna*, lit., “being fallen into misery”
+[^152]: *ki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chapatto va hutvāna*, lit., “being fallen into misery”
 
 [^153]: *sudukkhitaŋ*, lit., “very much suffering,” “very well dissatisfied”
 
@@ -1438,7 +1438,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^175]: Gaertnera Racemosa, Sinh. *yohombu*, *kōmbu*, *yon tumba*, an annual creeper, Trichodesma zeylanicum
 
-[^176]: the *campaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
+[^176]: the *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
 [^177]: *nāga* = Sinhala *nā*, ironwood, Mesua Ferrea Linn, Bodhi tree of Mangala, Sumana, Revata, Sobhita buddhas; national tree of Sri Lanka. It has brilliant, fragrant white flowers containing four petals each, as well as a red fruit eaten by birds.
 
@@ -1454,9 +1454,9 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^183]: *loha*, which can also mean copper or brass
 
-[^184]: *dhammacakkaŋ pavattayi*, that is, he delivered his first sermon (which in the parallel case of Gotama Buddha, anyway, is called “The Sermon that Turned the Wheel of the Teaching” (*Dhammacakkappavattanasutta*)
+[^184]: *dhamma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkaŋ pavattayi*, that is, he delivered his first sermon (which in the parallel case of Gotama Buddha, anyway, is called “The Sermon that Turned the Wheel of the Teaching” (*Dhamma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkappavattanasutta*)
 
-[^185]: *dhammacakkaŋ pavattento*, lit., “while he was turning the wheel of the Teaching”
+[^185]: *dhamma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkaŋ pavattento*, lit., “while he was turning the wheel of the Teaching”
 
 [^186]: lit., “there was an \[achieving of\] insight into the *Dhamma* of eighty-four thousand.” *Dhammâbhisamaya*, “insight into the *Dhamma*” or “entry into the *Dhamma*” or “comprehension of the *Dhamma”* or “penetration into the *Dhamma”* refers to the achievement of a firm grasp on the essentials of the Teaching. It is used as a technical term in the account of each Buddha in the *Buddhavaṃsa*, one among many categories of Buddha-achievement enumerated there.
 
@@ -1466,7 +1466,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^189]: reading *sandamānika* as *sandahamānika*, rather than take it from *sandati*, to flow.
 
-[^190]: *niccaŋ*, lit., constantly, permanently
+[^190]: *ni<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aŋ*, lit., constantly, permanently
 
 [^191]: *turiya*, that is, musical instruments
 
@@ -1478,9 +1478,9 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^195]: lit., “meritorious karma”
 
-[^196]: reading *chāyaṃ* with BJTS for PTS *câyaŋ*
+[^196]: reading *chāyaṃ* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>âyaŋ*
 
-[^197]: *cittaŋ*, lit., “thoughts” or “mind”
+[^197]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*, lit., “thoughts” or “mind”
 
 [^198]: *puññakammena*, lit., “with his meritorious karma”
 
@@ -1504,7 +1504,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^208]: *yattha*
 
-[^209]: *acalaŋ padaŋ*
+[^209]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alaŋ padaŋ*
 
 [^210]: *dānavaram*
 
@@ -1526,9 +1526,9 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^219]: *anupaddava*, also “uninjured,” “safe”
 
-[^220]: *apacita*
+[^220]: *apa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ita*
 
-[^221]: *sukhuma-c-chavika*
+[^221]: *sukhuma-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>-chavika*
 
 [^222]: *visadaŋ hoti mānasaŋ*
 
@@ -1544,7 +1544,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^228]: *mama sabbaŋ kataŋ kammaŋ*
 
-[^229]: lit., “because of obtaining the umbrella of liberation” (*vimutti-c-chatta-pattiyā*)
+[^229]: lit., “because of obtaining the umbrella of liberation” (*vimutti-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>-chatta-pattiyā*)
 
 [^230]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
@@ -1576,7 +1576,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^244]: *anupaddava*, also “uninjured,” “safe”
 
-[^245]: *apacita*
+[^245]: *apa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ita*
 
 [^246]: reading *homi* with BJTS for PTS *bhomi*, which is probably a misreading of *“ho°*”as “*bho°*” — an easy mistake given their similarity in the Sinhala script.
 
@@ -1590,7 +1590,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^251]: *vāsī*
 
-[^252]: *citta°*. I follow BJTS in reading this as *vicitta*, “varied”
+[^252]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itta°*. I follow BJTS in reading this as *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itta*, “varied”
 
 [^253]: *aṭṭānisaŋse*. I read the eight here as: (1) being a god, (2) being unshaken, (3) being self-confident, (4) having courage, (5) being virile, (6) being mentally alert or energetic, (7) receiving defilement-eliminating knowledge and (8) receiving fine and limitless merit.
 
@@ -1622,11 +1622,11 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^267]: reading *sudhote* with BJTS for PTS *adhote* (‘unclean,” “unwashed”)
 
-[^268]: *pañcānisaŋse*. I read the five here as: pure-heartedness, virility, patience, loving-kindness, and wisdom.
+[^268]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I read the five here as: pure-heartedness, virility, patience, loving-kindness, and wisdom.
 
 [^269]: Here PTS gives two six-footed verses, whereas BJTS breaks the text into three four-footed ones. I again adopt the a-b-c-d convention, this time applied to the BJTS numbers, to indicate where the relevant material is found in both texts.
 
-[^270]: *kalyāṇacittaŋ*, pure or beautiful or kindly in heart
+[^270]: *kalyāṇa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*, pure or beautiful or kindly in heart
 
 [^271]: *metta-satthaka*
 
@@ -1642,7 +1642,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^277]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
-[^278]: *pañcānisaŋse*. I count the five here as (1) being worshipped, (2) being free of doubt, (3) being very handsome, (4) being very rich and (5) having sharp wisdom.
+[^278]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) being worshipped, (2) being free of doubt, (3) being very handsome, (4) being very rich and (5) having sharp wisdom.
 
 [^279]: *namassiyo*
 
@@ -1660,7 +1660,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^286]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
-[^287]: *pañcānisaŋse*. I count the five here as the receipt of (1) slaves, (2) domestic animals, (3) servants/attendants, (4) watchmen/guards and (5) personal attendants (who cut the hair, bring and cook the food)
+[^287]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as the receipt of (1) slaves, (2) domestic animals, (3) servants/attendants, (4) watchmen/guards and (5) personal attendants (who cut the hair, bring and cook the food)
 
 [^288]: reading *ārakkhake* with BJTS for PTS *ārakkhe*, “protections”
 
@@ -1678,7 +1678,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^295]: *darathaŋ*, which can also mean “fever”
 
-[^296]: *cittasantāpanaŋ*, lit., “burning of the heart,” figurative meaning according to RD is torment, torture
+[^296]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittasantāpanaŋ*, lit., “burning of the heart,” figurative meaning according to RD is torment, torture
 
 [^297]: *nibbutā*
 
@@ -1696,13 +1696,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^304]: reading *dhammakaruttame* (lit., “supreme doers of the Teaching”) with BJTS (and PTS alt.) for PTS *gaṇuttame* (“supreme group”)
 
-[^305]: *pañcānisaŋse*. I count the five here as (1) divine lifespan, (2) little to endure from thieves and enemies, (3) no trouble from weapons or (4) from poison, and (5) no premature death.
+[^305]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) divine lifespan, (2) little to endure from thieves and enemies, (3) no trouble from weapons or (4) from poison, and (5) no premature death.
 
 [^306]: lit., “I am one who…”
 
 [^307]: *appasayha*
 
-[^308]: *cora-paccatthikehi vā*
+[^308]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ora-pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>atthikehi vā*
 
 [^309]: lit., “by poison”
 
@@ -1716,7 +1716,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^314]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
-[^315]: *pañcānisaŋse*. I count the five here as (1) charming form, (2) good speech, (3) lofty intentions (or mental activity), (4) lack of mental confusion or disturbance and (5) being guarded by all \[forms of\] protection.
+[^315]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) charming form, (2) good speech, (3) lofty intentions (or mental activity), (4) lack of mental confusion or disturbance and (5) being guarded by all \[forms of\] protection.
 
 [^316]: reading *mama* (gen.) with BJTS for PTS *mamaŋ* (gen. or acc.)
 
@@ -1724,7 +1724,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^318]: *susamuggata-mānasa*
 
-[^319]: *sūcighare*
+[^319]: *sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ighare*
 
 [^320]: lit., “for the Well-Gone-One”
 
@@ -1746,11 +1746,11 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^329]: *tīnānisaŋse*. I count the three here as (1) deep understanding of the Teaching (or mind-reading), (2) recalling the second lifetime, and (3) having good skin.
 
-[^330]: *sadhamme gādhaŋ vindāmi*, lit., “I know the depth in the Great Teaching.” BJTS (and PTS alt.) read *cetoñanañ ca vindāmi*, “I know the knowledge of mind,” which BJTS glosses as knowing the knowledge in the minds of others, i.e., mind-reading.
+[^330]: *sadhamme gādhaŋ vindāmi*, lit., “I know the depth in the Great Teaching.” BJTS (and PTS alt.) read *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etoñanañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vindāmi*, “I know the knowledge of mind,” which BJTS glosses as knowing the knowledge in the minds of others, i.e., mind-reading.
 
 [^331]: *dutiyaŋ bhavaŋ*, BJTS glosses *deveni bhavaya*. I gather this means “I remember as far back as two previous lifetimes.” Or does it refer to the second of the three states of existence (also *bhava*), i.e., the formed (*rūpa*) state of existence?
 
-[^332]: *succhavi homi*
+[^332]: *su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavi homi*
 
 [^333]: *kāyabandhane*
 
@@ -1766,7 +1766,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^339]: *abhejjapariso homi*
 
-[^340]: *ādeyyavacano sadā*
+[^340]: *ādeyyava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ano sadā*
 
 [^341]: *tāso na mayhaŋ vijjati*, lit., “fear is not found of mine”
 
@@ -1776,7 +1776,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^344]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
 
-[^345]: *pancavaṇṇehi dāyādo* is an enigmatic foot, given the wide semantic range of *vaṇṇa* (color, caste, appearance, luster, beauty, expression, kind or sort, timbre, constitution, likeness, property, praise, reason. BJTS SInhala gloss speculates that it could mean “‘an heir with five different sorts’ or else ‘someone who has received five forms of power (*anusas* = *anuhasa*)’”. The ambiguity is preserved in my choice of “kind” as the translation here: not specifying five kinds of *what* leaves the foot open to the widest range of interpretations, though admittedly in and of itself conveys little meaning other than uncertainty.
+[^345]: *pan<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>avaṇṇehi dāyādo* is an enigmatic foot, given the wide semantic range of *vaṇṇa* (color, caste, appearance, luster, beauty, expression, kind or sort, timbre, constitution, likeness, property, praise, reason. BJTS SInhala gloss speculates that it could mean “‘an heir with five different sorts’ or else ‘someone who has received five forms of power (*anusas* = *anuhasa*)’”. The ambiguity is preserved in my choice of “kind” as the translation here: not specifying five kinds of *what* leaves the foot open to the widest range of interpretations, though admittedly in and of itself conveys little meaning other than uncertainty.
 
 [^346]: reading *dhatā* with BJTS (and PTS alt.) for PTS *vatā*, “vows,” i.e., “my vows do not perish”
 
@@ -1816,7 +1816,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^364]: *vatte guṇe*, BJTS glosses: *vatāvat guṇehi*
 
-[^365]: *ācārakiriyāsu ca*, or “among the forms of right practice”
+[^365]: *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārakiriyāsu <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, or “among the forms of right practice”
 
 [^366]: lit., “for the Well-Gone-One”
 
@@ -1830,7 +1830,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^371]: *anīti*
 
-[^372]: *apacita*
+[^372]: *apa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ita*
 
 [^373]: PTS and BJTS agree in presenting this as a six-footed verse.
 
@@ -1852,7 +1852,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^382]: reading *niyāmaṃ* with BJTS (and PTS alt.) for PTS *niyamaŋ*, (“restraint,” “limitation,” “cosmic law”)
 
-[^383]: reading *āgu-ācāra-sodhanaṃ* with BJTS for PTS *ācāraguṇasodhanaŋ* (“purifying virtuous conduct”)
+[^383]: reading *āgu-ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āra-sodhanaṃ* with BJTS for PTS *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āraguṇasodhanaŋ* (“purifying virtuous conduct”)
 
 [^384]: *pāduka*
 
@@ -1862,11 +1862,11 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^387]: *iddhipādukam āruyha*, lit., “having stepped onto sandals with *iddhi* \[superpowers\]”
 
-[^388]: *yadicchakaŋ*, lit., “which is \[my\] wish” or perhaps “as I wish”
+[^388]: *yadi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakaŋ*, lit., “which is \[my\] wish” or perhaps “as I wish”
 
-[^389]: *mukha-puñchana-cole*, lit., “napkins (or rags, scraps of cloth, handkerchiefs) for wiping the face”
+[^389]: *mukha-puñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hana-cole*, lit., “napkins (or rags, scraps of cloth, handkerchiefs) for wiping the face”
 
-[^390]: *pañcānisaŋse*. I count the five here as (1) golden-colored, unblemished body; (2) beautiful, (3) strong, (4) smooth, (5) not soiled by dirt and dust.
+[^390]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) golden-colored, unblemished body; (2) beautiful, (3) strong, (4) smooth, (5) not soiled by dirt and dust.
 
 [^391]: BJTS and PTS alt. reads *limpati* (“smeared”) for PTS *lippati* (“get soiled” according to P-S-E dictionary, Sinh. *gälveyi*; RD reads *lippati* as pass. of *limpati*), but as the former can also mean “soiled” the difference is not significant.
 
@@ -1886,7 +1886,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^399]: *appasayha*
 
-[^400]: reading *khalitampi na jānāmi* with BJTS (and PTS alt.) for PTS *calitaŋ maŋ na jānāmi* (“I don’t experience shaking me”). In addition to failure (wrong-doing, faltering, stumbling, being disturbed or treated badly), *khalitaṃ* can also mean “baldness”. Not having any of those qualities would be a positive result of merit.
+[^400]: reading *khalitampi na jānāmi* with BJTS (and PTS alt.) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alitaŋ maŋ na jānāmi* (“I don’t experience shaking me”). In addition to failure (wrong-doing, faltering, stumbling, being disturbed or treated badly), *khalitaṃ* can also mean “baldness”. Not having any of those qualities would be a positive result of merit.
 
 [^401]: reading *abhantaṃ mānasaṃ mama* with BJTS (*bhanta* = swerving, wavering, unsteady, used of a cart that is out of control) for PTS *āgataŋ mānasaŋ mamaŋ* (alt. *mama*), “my mind is come”. PTS also gives *asantaŋ* (lacking peace, disturbed) as an alternate reading, which would be preferable to *āgataŋ*
 
@@ -1906,7 +1906,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^409]: *sabba-roga-vivajjita*
 
-[^410]: *kuñcike*
+[^410]: *kuñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ike*
 
 [^411]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
@@ -1930,7 +1930,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^421]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^422]: *pañcānisaŋse*. I count the five here as (1) steadfastness in the *samādhis*, (2) dwelling in the *samādhis*, (3) being in a united group, (4) speaking words which are taken well, and (5) great wealth of possessions.
+[^422]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) steadfastness in the *samādhis*, (2) dwelling in the *samādhis*, (3) being in a united group, (4) speaking words which are taken well, and (5) great wealth of possessions.
 
 [^423]: *na kampāmi*, lit., “I do not shake (tremble, waver)”
 
@@ -1938,11 +1938,11 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^425]: *abhejjapariso homi*
 
-[^426]: *ādeyyavacano sadā*
+[^426]: *ādeyyava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ano sadā*
 
 [^427]: *bhave*, lit., “in existence”
 
-[^428]: PTS *jāticca*, BJTS *jāyati*
+[^428]: PTS *jāti<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a*, BJTS *jāyati*
 
 [^429]: *bhogasampatti*
 
@@ -2002,13 +2002,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^457]: *guṇe*
 
-[^458]: reading *samāvacaraṇaṃ mama* with BJTS for PTS *samāvacaraṇā mama*
+[^458]: reading *samāva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṇaṃ mama* with BJTS for PTS *samāva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṇā mama*
 
 [^459]: *suvivajjita-ubbego*
 
 [^460]: here I read *añjana-nāḷiyo* (“ointment stalks” or “ointment tubes”) with BJTS for PTS *hatthī līlaṅgake* (“elephants with sporting bodies” ?). The text is corrupt, and BJTS at least makes sense, though it is out of the sequence of the original *dāna* (not to mention being unrecoverable in meaning) so may be a spurious verse — perhaps a favored object of some later editor, or simply something no longer part of lived experience at some point in the transmission process? PTS alt. readings include *°lilaṅgate*, *hatthalīlaṅgane* and *hattho liṅgake* (!), none of which is helpful. In addition to the PTS reading, BJTS cites alt. *malabharaṇiyo*, also of questionable meaning (“women in stained ornaments,” or read *māla°*, “in flower ornaments?”)
 
-[^461]: *pañcānisaŋse*. I count the five here as (1) having a \[good\] body, (2) being endowed with all auspicious marks, (3) long life, (4) wisdom, (5) liberation from all sorrows.
+[^461]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) having a \[good\] body, (2) being endowed with all auspicious marks, (3) long life, (4) wisdom, (5) liberation from all sorrows.
 
 [^462]: *sabba-lakkhaṇa-sampanno*
 
@@ -2056,17 +2056,17 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^484]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^485]: *pañcānisaŋse*. I count the five here as (1) eminent birth, (2) very rich, (3) much honored, (4) full of glory, and (5) the constant supply of palanquins with horses
+[^485]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) eminent birth, (2) very rich, (3) much honored, (4) full of glory, and (5) the constant supply of palanquins with horses
 
-[^486]: *ucce kule*
+[^486]: *u<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>e kule*
 
 [^487]: *mahābhogo bhavāmi*
 
-[^488]: *sabbe maŋ apacāyanti*
+[^488]: *sabbe maŋ apa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āyanti*
 
 [^489]: reading *mama* (gen.) with BJTS for PTS *mamaŋ* (gen. or acc.)
 
-[^490]: reading *caturassakā* (“with four horses”) for PTS *caturassarā*, “with four corners,” “rectangular,” though the latter also makes sense in this context.
+[^490]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturassakā* (“with four horses”) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturassarā*, “with four corners,” “rectangular,” though the latter also makes sense in this context.
 
 [^491]: or distributing or sharing them: *saŋvibhāga-rato \[ahaṃ\]*
 
@@ -2080,17 +2080,17 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^496]: *samagatto*, lit., “I am one with an even body”
 
-[^497]: *apacito*
+[^497]: *apa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ito*
 
 [^498]: *muduko*
 
-[^499]: *cārudassano*, lit., “pleasant to see”
+[^499]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārudassano*, lit., “pleasant to see”
 
 [^500]: *labhāmi ñāṇaparivāraŋ*
 
 [^501]: *tūlikā*
 
-[^502]: reading *cittakā* with BJTS for PTS *cittikā*
+[^502]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittakā* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittikā*
 
 [^503]: *vikatikāyo*
 
@@ -2112,9 +2112,9 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^512]: or “since I reached puberty,” *yato patto ‘smi viññuta*, lit., “starting from when I reached puberty;” but following BJTS Sinhala gloss (*näṇavat*, “having knowledge”) I translate the term in its broader meaning, “understanding” or “discretion”
 
-[^513]: or empty: *a-tuccho*
+[^513]: or empty: *a-tu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cho*
 
-[^514]: reading *atuccho jhāna-mañco* (lit., “I am one whose bed is *dhyāna*, meditative achievement) with BJTS (and PTS alt.) for PTS *atucchojjhānamañño*
+[^514]: reading *atu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cho jhāna-mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>o* (lit., “I am one whose bed is *dhyāna*, meditative achievement) with BJTS (and PTS alt.) for PTS *atu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chojjhānamañño*
 
 [^515]: *bimbohane*
 
@@ -2144,13 +2144,13 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^528]: *guṇe*
 
-[^529]: reading *paṭipatti* with BJTS for PTS *pañcame*, “the fifth”
+[^529]: reading *paṭipatti* with BJTS for PTS *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ame*, “the fifth”
 
-[^530]: *ācārakiriyāsu ca*, or “among the forms of right practice”
+[^530]: *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārakiriyāsu <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, or “among the forms of right practice”
 
 [^531]: *vihāre*
 
-[^532]: *caṅkame*
+[^532]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅkame*
 
 [^533]: or “to Englightenment” or “to Awakening”: *bodha-pakkhike*
 
@@ -2162,7 +2162,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^537]: *paññā*
 
-[^538]: *vimutti ca anuttarā*
+[^538]: *vimutti <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a anuttarā*
 
 [^539]: *vihārāmi*
 
@@ -2170,7 +2170,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^541]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
 
-[^542]: BJTS (and PTS alt.) read *dvānisaŋse* (“two results”) for PTS *caturānisaŋse*, “four results.” I count four here so stick with the PTS reading: excellent palanquins made of (1) gold, (2) gems, (3) ivory, and (4) fine wood
+[^542]: BJTS (and PTS alt.) read *dvānisaŋse* (“two results”) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturānisaŋse*, “four results.” I count four here so stick with the PTS reading: excellent palanquins made of (1) gold, (2) gems, (3) ivory, and (4) fine wood
 
 [^543]: *danta-sāra-maye*
 
@@ -2188,7 +2188,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^550]: *tel’abbhañjane*, BJTS gloss specifies that these are oils for rubbing on the body
 
-[^551]: *pañcānisaŋse*. I count the five here as (1) good health, (2) beauty, (3) quick understanding (or application) of the *Dhamma*, (4) receipt of food and drink, and (5) long life.
+[^551]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) good health, (2) beauty, (3) quick understanding (or application) of the *Dhamma*, (4) receipt of food and drink, and (5) long life.
 
 [^552]: *nisantitā*, lit., applying, carefully observing; I follow the BJTS Sinh. gloss (*väṭahena*) in this translation of the term as “grasping” (understanding).
 
@@ -2196,7 +2196,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^554]: *sappitela*, “ghee-oil”
 
-[^555]: *pañcānisaŋse*. I count the five here as (1) strength, (2) beauty, (3) happiness, (4) slenderness, and (5) health and purity.
+[^555]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) strength, (2) beauty, (3) happiness, (4) slenderness, and (5) health and purity.
 
 [^556]: *pahaṭṭha°*
 
@@ -2204,7 +2204,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^558]: *mukhadhovanakaŋ*. BJTS (and PTS alt.) read *mukhasodhanakaṃ*, with the same meaning.
 
-[^559]: *pañcānisaŋse*. I count the five here as (1) a clean (or clear) throat, (2) sweet sounding \[voice\], (3) free of coughs, (4) free of asthma, and (5) breath which smells like blue lotuses.
+[^559]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) a clean (or clear) throat, (2) sweet sounding \[voice\], (3) free of coughs, (4) free of asthma, and (5) breath which smells like blue lotuses.
 
 [^560]: *visuddhakaṇṭho*
 
@@ -2222,7 +2222,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^567]: *amataŋ*
 
-[^568]: reading *vittaṃ* (possessions, wealth) with BJTS for PTS *cittaŋ* (“heart”), though BJTS alt. *bhattaṃ* (“rice”) would provide the cleanest reading.
+[^568]: reading *vittaṃ* (possessions, wealth) with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ* (“heart”), though BJTS alt. *bhattaṃ* (“rice”) would provide the cleanest reading.
 
 [^569]: lit., “excellent (*varaŋ*) mindfulness of body (*kāyagataŋ satiŋ*); BJTS reads *varaṃ kayāgatāsatiṃ*, with the same meaning.
 
@@ -2238,7 +2238,7 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^575]: *yathābhūtaŋ, also* “original,” “natural”. I take this as connected with the allusion to liberation as juice in the previous verse.
 
-[^576]: *caturo phale*, i.e., the four fruits of monkhood, the four stages of the path: *sotāpatti*, *sakadāgāmi*, *anāgāmi*, *arahattaphala* (stream-enterer, once-returner, non-returner, arahant*)*
+[^576]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturo phale*, i.e., the four fruits of monkhood, the four stages of the path: *sotāpatti*, *sakadāgāmi*, *anāgāmi*, *arahattaphala* (stream-enterer, once-returner, non-returner, arahant*)*
 
 [^577]: *dasānisaŋse*. I count the ten here as (1) long-life, (2) strength, (3) heroism, (4) beauty, (5) fame, (6) happiness, (7) receiving food, (8) receiving drink, (9) courage, (10) intelligence.
 
@@ -2274,6 +2274,6 @@ The legend of Pilindavaccha[^595] Thera is finished.
 
 [^593]: *santisukhaŋ sivaŋ*
 
-[^594]: cf. \#15, and note, above. BJTS spells the name *Piḷindavaccha*. He seems to have been a historical monk, much-mentioned in the canon and commentaries. “Pilinda” was his given name, “Vaccha” refers to his *gotta* (lineage).
+[^594]: cf. \#15, and note, above. BJTS spells the name *Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha*. He seems to have been a historical monk, much-mentioned in the canon and commentaries. “Pilinda” was his given name, “Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha” refers to his *gotta* (lineage).
 
-[^595]: BJTS spells the name *Piḷindavaccha*.
+[^595]: BJTS spells the name *Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha*.

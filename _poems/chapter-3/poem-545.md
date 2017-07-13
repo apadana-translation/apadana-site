@@ -137,7 +137,7 @@ The legend of Nandaka Thera is finished.
 
 [^8]: *suvissuto*
 
-[^9]: *utiṇṇavicikiccho*
+[^9]: *utiṇṇavi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cho*
 
 [^10]: *vītivatta-kathaŋkatho*
 

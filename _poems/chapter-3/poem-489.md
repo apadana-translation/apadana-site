@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[486. {489.}[^1] Dhammarucī[^2]\]
+### \[486. {489.}[^1] Dhammaru<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ī[^2]\]
 
 When Dipaṅkara was Buddha,  
 the Victor said of Sumedha:  
@@ -29,7 +29,7 @@ will attend upon this Victor. (4) \[5196\]
 
 Khemā and Uppalavaṇṇā  
 will be chief female followers;[^8]  
-Citta and Ālavaka will  
+<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itta and Ālavaka will  
 be the chief pious laymen.[^9] (5) \[5197\]
 
 Khujjuttarā, Nandamātā  
@@ -91,7 +91,7 @@ I passed away \[right\] on the spot.
 I was reborn in Śrāvasti,  
 a brahmin in a high-ranked clan. (17) \[5209\]
 
-My name was Dhammarucī \[then\],  
+My name was Dhammaru<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ī \[then\],  
 a loather of every evil.  
 Having seen the Lamp of the World,  
 being \[only\] seven years old, (18) \[5210\]
@@ -102,7 +102,7 @@ I approach the Buddha three times
 \[every\] night, also \[every\] day. (19) \[5211\]
 
 Seeing \[me\], seeing \[me,\] the Sage  
-called \[me\] “long time Dhammarucī.”  
+called \[me\] “long time Dhammaru<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ī.”  
 After that I told the Buddha  
 \[how my\] past karma had progressed: (20) \[5212\]
 
@@ -136,9 +136,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (26) \[5218\]
 
-Thus indeed Venerable Dhammarucī Thera spoke these verses.
+Thus indeed Venerable Dhammaru<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ī Thera spoke these verses.
 
-The legend of Dhammarucī Thera is finished.
+The legend of Dhammaru<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ī Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
@@ -184,9 +184,9 @@ The legend of Dhammarucī Thera is finished.
 
 [^22]: *sāsanato*, lit., “from the dispensation”
 
-[^23]: *anantariyañ*, a deed whose result is immediate descent into the lowest Avīci (“no interval”? “no pleasure”?) hell, “a deadly sin,” of which there are five: patricide, matricide, killing an arahant, shedding the blood of a Buddha (it is impossible to kill one), and dissension in the Sangha (monks’ Assembly).
+[^23]: *anantariyañ*, a deed whose result is immediate descent into the lowest Avī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i (“no interval”? “no pleasure”?) hell, “a deadly sin,” of which there are five: patricide, matricide, killing an arahant, shedding the blood of a Buddha (it is impossible to kill one), and dissension in the Sangha (monks’ Assembly).
 
-[^24]: lit., “into *avīci*, which is particularly gruesome. See DPPN I:199ff.
+[^24]: lit., “into *avī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i*, which is particularly gruesome. See DPPN I:199ff.
 
 [^25]: or “suffering,” *vinīpatagato*
 
@@ -204,6 +204,6 @@ The legend of Dhammarucī Thera is finished.
 
 [^32]: reading *tayā* with BJTS (and PTS alts.) for PTS *mayā* (“by me”)
 
-[^33]: *suci-rakkhena*, a play on words that echoes the “very long \[time\]” (*su-ciraṃ*) governing these verses. Or is this *sucira* + *akkhena*, “by the eye for very long,” picking up the “eye” (*nayana*) reference in the fourth foot?
+[^33]: *suci-rakkhena*, a play on words that echoes the “very long \[time\]” (*su-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iraṃ*) governing these verses. Or is this *su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ira* + *akkhena*, “by the eye for very long,” picking up the “eye” (*nayana*) reference in the fourth foot?
 
 [^34]: or river (*nadī*) of existence, or of doubt (as in \#485 {488} above, v. 7 = \[5183\]

@@ -99,6 +99,6 @@ The legend of Sayampaṭibhāṇiya Thera is finished.
 
 [^9]: *vīthiyā*; BJTS (and PTS alt.) read *rathiyā*, both terms means “road” (in the locative, or else the instrumental “along the road”).
 
-[^10]: lit., “within the universe,” *cakkavāḷamhi*
+[^10]: lit., “within the universe,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷamhi*
 
 [^11]: lit., “the Buddha”

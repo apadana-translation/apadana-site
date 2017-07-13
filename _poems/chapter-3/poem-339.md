@@ -135,7 +135,7 @@ The legend of Dhammasavaniya Thera is finished.
 
 [^17]: reading *gāthāya* with BJTS (and PTS alt.) for PTS *kathāya*, “through \[his\] speech”
 
-[^18]: BJTS reads, more straightforwardly, *aniccataṃ udāhari*, “\[then\] spoke about impermanence”
+[^18]: BJTS reads, more straightforwardly, *ani<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ataṃ udāhari*, “\[then\] spoke about impermanence”
 
 [^19]: reading *vūpasamo* with BJTS for PTS *vupasamo*
 

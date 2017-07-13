@@ -45,7 +45,7 @@ The legend of Panasaphaladāyaka Thera is finished.
 
 [^2]: “Jak-Fruit Donor.”
 
-[^3]: *caraṇena sampanno*
+[^3]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṇena sampanno*
 
 [^4]: *samādhikusalo*
 

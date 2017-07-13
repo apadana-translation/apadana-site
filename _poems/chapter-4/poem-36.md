@@ -138,13 +138,13 @@ The legend of Abhirūpanandā Therī[^19] is finished
 
 [^1]: “Very Beautiful Joy,” an historical nun, DPPN I:143. On these various “Joys” (of whom Malalasekera’s designations may need further work) see above, the first note to *Therī-apadāna* \#25.
 
-[^2]: *carunayano*
+[^2]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arunayano*
 
 [^3]: reading *pūjanīyā* with BJTS for PTS sajanassā
 
 [^4]: lit., of (gen. pl.), lit., “the people’s object to be worshipped”
 
-[^5]: *nibbute ca naruttame*
+[^5]: *nibbute <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a naruttame*
 
 [^6]: lit., “did *pūjā”*
 
@@ -154,7 +154,7 @@ The legend of Abhirūpanandā Therī[^19] is finished
 
 [^9]: *abhirūpaŋ*
 
-[^10]: reading *me kantisūcakaṃ* with BJTS for PTS *m’ ekaŋ ti sūcakaŋ* (?)
+[^10]: reading *me kantisū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akaṃ* with BJTS for PTS *m’ ekaŋ ti sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akaŋ* (?)
 
 [^11]: reading *rūpalāvaññabhusitā* with BJTS for PTS *rūpavaṇṇavibhusitā*, which however has much the same meaning.
 

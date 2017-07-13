@@ -28,7 +28,7 @@ I’ve come to know no bad rebirth:
 that’s the fruit of a wishing-tree. (4) \[1113\]
 
 In the seventh aeon ago  
-eight kṣatriyans named Sucela[^5]  
+eight kṣatriyans named Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ela[^5]  
 were wheel-turners who had great strength,  
 possessors of the seven gems. (5) \[1114\]
 
@@ -43,10 +43,10 @@ The legend of Kapparukkhiya Thera is finished.
 
 The Summary:
 
-Kuṇḍa, Sāgata, Kaccāna  
+Kuṇḍa, Sāgata, Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna  
 Udāyi, Rājasavhaya,  
 Adhimutta, Lasuṇada,  
-Āyāgī, Dhammacakkhika.  
+Āyāgī, Dhamma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhika.  
 Kapparukkhi is the tenth;  
 verses one hundred twelve.
 

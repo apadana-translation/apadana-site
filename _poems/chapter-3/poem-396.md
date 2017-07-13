@@ -208,7 +208,7 @@ The legend of Bakkula Thera is finished.
 
 [^17]: *mātuluṅgakā*, elsewhere *mātuluṅgiya*
 
-[^18]: *mahānāmā*. Following BJTS Sinhala gloss as *uk*, sugarcane, Saccharum officinarum (*Gram.*)
+[^18]: *mahānāmā*. Following BJTS Sinhala gloss as *uk*, sugarcane, Sa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>charum officinarum (*Gram.*)
 
 [^19]: *ajjuṇā* (a.k.a. *kakudha*, Sinhala *kumbuk gasa*, *kubuk*, Terminalia arjuna) is an impressively large, shade-giving tree that thrives on the edges of tanks and lakes. PTS spells the term *ajjunā*.
 
@@ -224,13 +224,13 @@ The legend of Bakkula Thera is finished.
 
 [^25]: *kapitthanā* = *kapittha*, *kapiṭṭha* (already mentioned in v. 2 \[3759\] above), Feronia elephantum, Sinh. *divul*
 
-[^26]: reading *upetamhi mahāvīre anomadassimahāyase*, gen. abs. construction, with BJTS, for PTS *upetañca mahāvīram Anomadassi-mahāyasaŋ* (accusatives, unclear how the grammar would then work unless we assume an accusative absolute construction)
+[^26]: reading *upetamhi mahāvīre anomadassimahāyase*, gen. abs. construction, with BJTS, for PTS *upetañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a mahāvīram Anomadassi-mahāyasaŋ* (accusatives, unclear how the grammar would then work unless we assume an accusative absolute construction)
 
 [^27]: *vātābādho*, “a disease of the wind,” one of the three humors in classical Indian (including Buddhist) medical traditions.
 
-[^28]: *iriyañ cāpi disvāna*
+[^28]: *iriyañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āpi disvāna*
 
-[^29]: *khippam assamam āgacchiŋ*, lit., “quickly I came to the hermitage”
+[^29]: *khippam assamam āga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiŋ*, lit., “quickly I came to the hermitage”
 
 [^30]: reading *ahās’ ahaṃ* (“ I fetched, gathered, took, killed,” *ahāsi* =1st person sing. aorist of *harati*) with BJTS for PTS *akās’ ahaŋ*, “I did,” “I made”
 
@@ -254,7 +254,7 @@ The legend of Bakkula Thera is finished.
 
 [^40]: *jambusaṇḍa* = *jambudīpa* = India, the South Asian continent
 
-[^41]: *caturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
+[^41]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
 
 [^42]: reading *tāvatiṃse pi khobetvā* (lit., “having shaken the thirty-three gods/\[those in\] the *tāvatiṃsa* heaven”) with BJTS for PTS *tāvatiŋse ‘to khobetvā* (having shaken from \[a starting point?\] in Tāvatiŋsa”)
 

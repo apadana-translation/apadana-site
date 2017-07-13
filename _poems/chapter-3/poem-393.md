@@ -206,7 +206,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^25]: *antojālagatā*, lit., “gone to inside the net”
 
-[^26]: reading *puthupāsaṇḍanissita* with BJTS for PTS *phuṭā saccavinissitā* (“are numerous and ungrounded in truth”?)
+[^26]: reading *puthupāsaṇḍanissita* with BJTS for PTS *phuṭā sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>avinissitā* (“are numerous and ungrounded in truth”?)
 
 [^27]: *mārisa*, in the voc.
 
@@ -224,7 +224,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^34]: *asādiso*
 
-[^35]: reading *kāruṇāmettāsañcayo* with BJTS for PTS *mettākāruṇādisañcayo*, “heap of love, compassion, etc.” (which breaks meter).
+[^35]: reading *kāruṇāmettāsañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayo* with BJTS for PTS *mettākāruṇādisañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayo*, “heap of love, compassion, etc.” (which breaks meter).
 
 [^36]: *susīlo*, lit., “one who has good moral discipline”
 
@@ -254,7 +254,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^49]: *payato*
 
-[^50]: reading *sucī* with BJTS for PTS *suci*
+[^50]: reading *su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ī* with BJTS for PTS *suci*
 
 [^51]: reading *sangâtigo* with BJTS for PTS *sangh’âtīto*
 
@@ -288,7 +288,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^66]: in the BJTS reading which guides me here, the last two feet of this verse have an implied, 3rd person plural subject.
 
-[^67]: reading *aññātañca vijāneyyuṃ* with BJTS for PTS *aññātañca vijāneyyaŋ* (“I should learn”)
+[^67]: reading *aññātañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vijāneyyuṃ* with BJTS for PTS *aññātañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vijāneyyaŋ* (“I should learn”)
 
 [^68]: reading *phuseyyuṃ amataṃ padaṃ* for PTS *phasseyyam amataŋ padaŋ* (“I should touch the deathless path”). *Phassati* is related to *phuseti* and in fact can stand for it, but the latter carries the applied meaning “reach” or “achieve” (an exalted religious state), and the first person makes no sense in context.
 

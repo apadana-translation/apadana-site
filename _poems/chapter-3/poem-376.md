@@ -40,7 +40,7 @@ The legend of Gandhamuṭṭhiya Thera is finished.
 
 [^2]: “A Handful of Incense-er”
 
-[^3]: or more generally, “shrine,” *cita*. I read *citake karīyamāne* (locative absolute construction) with BJTS for PTS *citesu kiramānesu*, “when stupas (or shrines) were being scattered”
+[^3]: or more generally, “shrine,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ita*. I read *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itake karīyamāne* (locative absolute construction) with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itesu kiramānesu*, “when stupas (or shrines) were being scattered”
 
 [^4]: *gandha*, lit., “\[good\] smells,” “types of incense”
 

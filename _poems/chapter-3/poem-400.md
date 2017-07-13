@@ -192,7 +192,7 @@ The legend of Ajita Thera is finished.
 
 The summary:
 
-Pilindavaccha[^35] and Sela,  
+Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha[^35] and Sela,  
 Sabbakitti, Madundada,  
 Kūṭāgārī and Bakkula,  
 Giri, Salaḷasavhaya,[^36]  
@@ -201,7 +201,7 @@ the verses here are counted at
 one hundred and five verses and  
 twenty more beyond that \[number\].
 
-The Pilindavaccha[^37] Chapter, the Fortieth.
+The Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha[^37] Chapter, the Fortieth.
 
 Then there is the Summary of Chapters:
 
@@ -228,7 +228,7 @@ The Fourth Hundred[^39] is finished.
 
 [^5]: on the bodies of those destined to become a wheel-turning monarch or a Buddha
 
-[^6]: *cittam āpajjiŋxi*, lit., “I produced the thought”
+[^6]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittam āpajjiŋxi*, lit., “I produced the thought”
 
 [^7]: *ko nāma*
 
@@ -286,11 +286,11 @@ The Fourth Hundred[^39] is finished.
 
 [^34]: *nirūpadhi*, i.e., “devoid of the ground for rebirth,” “free of the *upadhis*”
 
-[^35]: BJTS: Piḷindavaccha
+[^35]: BJTS: Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha
 
 [^36]: BJTS: Salala°
 
-[^37]: BJTS: Piḷindavaccha
+[^37]: BJTS: Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha
 
 [^38]: *vaggadasakaŋ*
 

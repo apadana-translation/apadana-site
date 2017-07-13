@@ -49,8 +49,8 @@ The legend of Piyālaphaladāyaka Thera is finished.
 The Summary:
 
 Sobhī and Sudassana too,  
-Candana, Pupphachadana,  
-Raho and Campakapupphī  
+<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andana, Pupphachadana,  
+Raho and <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampakapupphī  
 and with Atthasandassaka,  
 Ekadussī, Sāladada  
 \[and\] Phaladāyaka, the tenth.  

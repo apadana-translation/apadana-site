@@ -38,6 +38,6 @@ The legend of Tikaṇṇipupphiya Thera is finished.
 
 [^1]: “Three-*kaṇṇi*-Flower-er.” BJTS glosses *kaṇṇi* flowers as “thin grape flowers”.
 
-[^2]: *accharā* = *apsarā*
+[^2]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>charā* = *apsarā*
 
 [^3]: “Ultimate Men,” BJTS reads *Ramuttamā*, “Ultimate Delight”

@@ -95,7 +95,7 @@ The legend of Phussitakammiya[^20] Thera is finished.
 
 [^5]: *khīṇâsavehi*, i.e., arahants.
 
-[^6]: *kusumbha* + *odaka*, water infused with safflower, Carthamus tinctorius, used for dying things red. Sinh. *vanuk mal*. There is some slippage from this water (dyed red, and presumably scented of safflower) to rain in a future life which smells like sandalwood, to the description in v. 14 of the original offering as “sandalwood-*pūjā*,” *candanam abhipūjayin*, unless we imagine sandalwood to have been part of (and the scent of) the safflower-\[dyed\]-water that Phusita originally offered. A modern parallel would be *kiri handun pän*, “milk-sandal-water”.
+[^6]: *kusumbha* + *odaka*, water infused with safflower, Carthamus tinctorius, used for dying things red. Sinh. *vanuk mal*. There is some slippage from this water (dyed red, and presumably scented of safflower) to rain in a future life which smells like sandalwood, to the description in v. 14 of the original offering as “sandalwood-*pūjā*,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andanam abhipūjayin*, unless we imagine sandalwood to have been part of (and the scent of) the safflower-\[dyed\]-water that Phusita originally offered. A modern parallel would be *kiri handun pän*, “milk-sandal-water”.
 
 [^7]: I suspect this repetition of the prior foot, too, is in error. The transmission of these pages of the text is especially fraught, it seems. I have chosen the alternate translation of the verb to maintain the narrative flow.
 

@@ -64,7 +64,7 @@ The legend of Ghatamaṇḍadāyaka Thera is finished.
 
 [^2]: “Cream-of-Ghee Donor.” This *apadāna* is repeated verbatim below, with the same name, as \#493 {496}.
 
-[^3]: *sucintitaŋ*
+[^3]: *su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intitaŋ*
 
 [^4]: *vātābādhena*, “a disease of the wind,” one of the three humors in classical Indian (including Buddhist) medical traditions.
 
@@ -72,7 +72,7 @@ The legend of Ghatamaṇḍadāyaka Thera is finished.
 
 [^6]: PTS and BJTS agree in presenting this as a six-footed verse.
 
-[^7]: *katattā ācitattā ca*, lit., “because of the doing, and because of the heaping up \[of that karma\]”
+[^7]: *katattā ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itattā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., “because of the doing, and because of the heaping up \[of that karma\]”
 
 [^8]: This is the BJTS spelling; PTS gives *Bhāgīrasī*
 

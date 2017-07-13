@@ -43,7 +43,7 @@ The legend of Vīthisammajjaka Thera is finished.
 
 [^1]: “Road-Sweeper”
 
-[^2]: reading *candaṃ* (BJTS) for *tad-āhu* (“that was,” PTS)
+[^2]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andaṃ* (BJTS) for *tad-āhu* (“that was,” PTS)
 
 [^3]: the fifteenth day of the lunar month, when it is full.
 

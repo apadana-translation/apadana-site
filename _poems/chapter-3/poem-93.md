@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[93. Aḍḍhacelaka[^1]\]
+### \[93. Aḍḍha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>elaka[^1]\]
 
 I gave a half \[a piece\] of cloth  
 to Tissa, the Blessed One \[then\].  
@@ -32,12 +32,12 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1570\]
 
-Thus indeed Venerable Aḍḍhacelaka Thera spoke these verses.
+Thus indeed Venerable Aḍḍha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>elaka Thera spoke these verses.
 
-The legend of Aḍḍhacelaka Thera is finished.
+The legend of Aḍḍha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>elaka Thera is finished.
 
 [^1]: “Half-Cloth-er”
 
 [^2]: lit., “That wholesomeness \[kusala\] was finished by me”. The meaning is that the good effects of the deed were not exhausted by the aeon in heaven; in the subsequent aeons too he experienced good results from it.
 
-[^3]: “Boiled Rice on All Sides.” BJTS read Samantā-c-Chadana, “Covered on All Sides,” which would better fit the nature of the original good deed, and is perhaps to be preferred here.
+[^3]: “Boiled Rice on All Sides.” BJTS read Samantā-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>-Chadana, “Covered on All Sides,” which would better fit the nature of the original good deed, and is perhaps to be preferred here.

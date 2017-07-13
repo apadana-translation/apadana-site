@@ -18,7 +18,7 @@ I’ve come to know no bad rebirth:
 that is the fruit of smearing \[oil\]. (2) \[2546\]
 
 In the twenty-fourth aeon hence  
-I’m the ruler[^3] named Succhavi,[^4]  
+I’m the ruler[^3] named Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavi,[^4]  
 a wheel-turning king with great strength,  
 possessor of the seven gems. (3) \[2547\]
 

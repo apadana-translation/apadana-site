@@ -190,9 +190,9 @@ The legend of Dhotaka Thera is finished.
 
 [^20]: reading *darito* with BJTS for PTS *dalito* “broken off” (but cf. RD, *darī* s.v., *dal* is alt. for *dar* in derivatives of this noun.
 
-[^21]: *cuto*, which literally means “fallen” as well, paralleling the actual “falling” (*patito*) governing the first two feet of the verse with a metaphorical one (“fallen from life”) governing the third foot.
+[^21]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>uto*, which literally means “fallen” as well, paralleling the actual “falling” (*patito*) governing the first two feet of the verse with a metaphorical one (“fallen from life”) governing the third foot.
 
-[^22]: *lacchati ṭṭhānaŋ*, lit., “he will receive a support/place/stand
+[^22]: *la<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chati ṭṭhānaŋ*, lit., “he will receive a support/place/stand
 
 [^23]: *māluto*, abl. case
 

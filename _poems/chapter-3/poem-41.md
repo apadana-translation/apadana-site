@@ -135,13 +135,13 @@ The legend of Upāli Thera is finished.
 
 [^1]: BJTS, Hew, and cty style him Bhāgineyya-Upāli, “Upāli the Nephew”. He is not to be confused with Upāli the top reciter of Vinaya, *Therāpadāna* \#6
 
-[^2]: reading *paridhārako* (BJTS, cty) or paridhāraNo (PTS alt) for PTS *paricāraṇo*.
+[^2]: reading *paridhārako* (BJTS, cty) or paridhāraNo (PTS alt) for PTS *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āraṇo*.
 
 [^3]: *tidaṇḍam* = three stick, three rod. Cty glosses it as “for the sake of keeping pots” (*kuṇḍika-ṭṭhāpanatthāya*), apparently understanding it as a pingo or else some sort of tripod. But the more likely allusion is to the *triśula* or trident of Shiva and his devotees, given the deer-leather clothes.
 
 [^4]: lit., “the monks’ Assembly”.
 
-[^5]: reading *sabbe antallikkacarā sadā* (BJTS) for *sabbe antallikkhe padesagā* (PTS).
+[^5]: reading *sabbe antallikka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā sadā* (BJTS) for *sabbe antallikkhe padesagā* (PTS).
 
 [^6]: lit., “having consciousness or not having consciousness”
 

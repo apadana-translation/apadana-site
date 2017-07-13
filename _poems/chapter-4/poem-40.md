@@ -116,7 +116,7 @@ The *Apadāna* is Finished
 
 [^3]: *kassape jinasāsane*, lit., “in the dispensation of the Victor, Kassapa \[Buddha\]”
 
-[^4]: reading *°brahmacariyam* with BJTS for PTS *°brahmaceram*, lit., “the Brahma-life” “the holy life” “celibacy”
+[^4]: reading *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyam* with BJTS for PTS *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eram*, lit., “the Brahma-life” “the holy life” “celibacy”
 
 [^5]: i.e., the thirty-three gods.
 

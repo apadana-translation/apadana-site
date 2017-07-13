@@ -1,11 +1,11 @@
 ---
-title: Paṭācārā
+title: Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā
 order: 20
 layout: poem
 category: chapter-4
 ---
 
-### \[20. Paṭācārā[^1]\]
+### \[20. Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā[^1]\]
 
 The Victor, Padumuttara,  
 was a Master of Everything.  
@@ -54,7 +54,7 @@ will be the Teacher in the world. (9) \[603\]
 
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
-the one known as Paṭācārā  
+the one known as Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā  
 will be the Teacher’s follower.” (10) \[604\]
 
 At that time being overjoyed,  
@@ -198,7 +198,7 @@ correctly in every detail. (38) \[632\]
 
 The Victor, pleased by \[my\][^25] virtue,  
 \[then\] placed me in that foremost place:  
-“Paṭācārā’s alone, foremost  
+“Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā’s alone, foremost  
 of those who follow discipline.”[^26] (39) \[633\]
 
 The Teacher’s been worshipped by me;  
@@ -226,9 +226,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (44) \[638\]
 
-Thus indeed Bhikkhunī Paṭācārā spoke these verses.
+Thus indeed Bhikkhunī Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā spoke these verses.
 
-The legend of Paṭācārā Therī is finished.
+The legend of Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā Therī is finished.
 
 The Summary:[^27]
 
@@ -237,19 +237,19 @@ Salaḷā and Timodakā,
 Ekāsanappadā, Dīpā,  
 Nalamālī and Gotamī,  
 Khemā, Uppalavaṇṇā and  
-Paṭācārā the Buddhist nun.  
+Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā the Buddhist nun.  
 There are four hundred verses \[here,\]  
 also ninety-six \[verses more\].
 
 The Ekūposathikā Chapter, the Second
 
-[^1]: “Cloak-Wanderer,” apparently a historical nun (see DPPN II: 112-114 for this implicit judgment) though apart from the list in A. of the “best of” monks and nuns (which could have been inserted into A.) the only *canonical* telling of all the details of Paṭācāra’s life, and past lives, are found in this *Apadāna* account, from which ThigA and other commentaries likely draw; remembered as foremost among the nuns who know *Vinaya* or the monastic discipline.
+[^1]: “Cloak-Wanderer,” apparently a historical nun (see DPPN II: 112-114 for this implicit judgment) though apart from the list in A. of the “best of” monks and nuns (which could have been inserted into A.) the only *canonical* telling of all the details of Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āra’s life, and past lives, are found in this *Apadāna* account, from which ThigA and other commentaries likely draw; remembered as foremost among the nuns who know *Vinaya* or the monastic discipline.
 
 [^2]: *vinayadhārīnaŋ*, lit., “carry the *vinaya*”
 
 [^3]: *dasabalaŋ*
 
-[^4]: *ticīvaraŋ*, lit., “the three monastic robes,” presumably a full set of them to the Buddha and each of those in the Assembly, starting with the nun who had been declared foremost bearer of the *vinaya*
+[^4]: *ti<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īvaraŋ*, lit., “the three monastic robes,” presumably a full set of them to the Buddha and each of those in the Assembly, starting with the nun who had been declared foremost bearer of the *vinaya*
 
 [^5]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
 
@@ -257,7 +257,7 @@ The Ekūposathikā Chapter, the Second
 
 [^7]: *sukhe ṭhitā*, lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
 
-[^8]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*ca*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
+[^8]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
 
 [^9]: = Bhaddā Kuṇḍalakesī
 
@@ -265,7 +265,7 @@ The Ekūposathikā Chapter, the Second
 
 [^11]: here the text (in both PTS and BJTS editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be better here.
 
-[^12]: or “when I had attained puberty:” *yadā ca yobbanupetā*
+[^12]: or “when I had attained puberty:” *yadā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a yobbanupetā*
 
 [^13]: *pati*, “lord”
 

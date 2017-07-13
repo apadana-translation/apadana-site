@@ -120,7 +120,7 @@ The legend of Bhaddajī Thera, the eighth.
 
 [^8]: lit., “went”
 
-[^9]: reading *sañcālesi* with BJTS for PTS *sañjālesi*
+[^9]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ālesi* with BJTS for PTS *sañjālesi*
 
 [^10]: lit., “fell down”
 

@@ -75,7 +75,7 @@ The legend of Sataraŋsika[^5] Thera is finished.
 
 [^2]: i.e., who has pressed his hands together in reverence
 
-[^3]: *vivattacchaddo* = he whose defilements (*klesas*) have been removed
+[^3]: *vivatta<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaddo* = he whose defilements (*klesas*) have been removed
 
 [^4]: *niddhāvate*, could also read, “my light casts out \[the sun’s\],” Sinh: *pähäya nika diveyi*
 

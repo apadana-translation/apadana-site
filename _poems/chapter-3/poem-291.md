@@ -1,13 +1,13 @@
 ---
-title: Citapūjaka
+title: <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka
 order: 291
 layout: poem
 category: chapter-3
 ---
 
-## Citapūjaka[^1] Chapter, the Thirtieth
+## <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka[^1] Chapter, the Thirtieth
 
-### \[291. Citapūjaka[^2]\]
+### \[291. <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka[^2]\]
 
 At that time I was a brahmin,  
 known by the name of Ajita.[^3]  
@@ -34,13 +34,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2675\]
 
-Thus indeed Venerable Citapūjaka[^7] Thera spoke these verses.
+Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka[^7] Thera spoke these verses.
 
-The legend of Citapūjaka[^8] Thera is finished.
+The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka[^8] Thera is finished.
 
-[^1]: BJTS reads Citaka°
+[^1]: BJTS reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
 
-[^2]: “Pyre-Worshipper;” BJTS reads Citaka°
+[^2]: “Pyre-Worshipper;” BJTS reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
 
 [^3]: “Unconquered”
 
@@ -50,6 +50,6 @@ The legend of Citapūjaka[^8] Thera is finished.
 
 [^6]: “Well Lit Up” “Very Brilliant” “Hotly Burning”
 
-[^7]: BJTS reads Citaka°
+[^7]: BJTS reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
 
-[^8]: BJTS reads Citaka°
+[^8]: BJTS reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°

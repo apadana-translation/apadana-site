@@ -55,7 +55,7 @@ they’re liberated from rebirth. (9) \[4354\]
 Omniscient One, through not seeing  
 the[^17] Buddhas who see everything,  
 those obstructed by lust \[and\] hate  
-descend[^18] into *avīci* hell.[^19] (10) \[4355\]
+descend[^18] into *avī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i* hell.[^19] (10) \[4355\]
 
 Coming to take a look at you,  
 Omniscient One, O World-Leader,  
@@ -169,7 +169,7 @@ The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
 [^11]: reading *ramamāno* with BJTS for PTS *ramamāṇo*
 
-[^12]: I take the 3rd sing. *so* (and the declension of the verb, *gajji*, “it roared”) apposite “four kinds” (*catukamo*), so translate in the plural even though the pronoun and verb are singular.
+[^12]: I take the 3rd sing. *so* (and the declension of the verb, *gajji*, “it roared”) apposite “four kinds” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atukamo*), so translate in the plural even though the pronoun and verb are singular.
 
 [^13]: lit., “for those wild beasts”
 
@@ -183,7 +183,7 @@ The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
 [^18]: *patantya*&lt;*patanti*, note the Sanskritic *sandhi* here
 
-[^19]: *avīcinirayaŋ*, a particularly oppressive hell-state
+[^19]: *avī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>inirayaŋ*, a particularly oppressive hell-state
 
 [^20]: *phusanti*
 

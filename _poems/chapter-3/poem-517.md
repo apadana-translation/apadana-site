@@ -8,7 +8,7 @@ category: chapter-3
 ### \[514. {517.}[^1] Kuṭajapupphiya[^2]\]
 
 In the Himalayan region,  
-there’s a mountain named Cāvala.[^3]  
+there’s a mountain named <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>āvala.[^3]  
 The Buddha named Sudassana  
 was living on the mountainside. (1) \[5493\]
 
@@ -50,7 +50,7 @@ The legend of Kuṭajapupphiya Thera is finished.
 
 [^2]: “Arctic-Snow-Flower-er”. Sinhala *keḷinda*, aka Arctic Snow, Winter Cherry, nerium antidysenterica, as its name implies used for dysentery. See above, \#181, for a different *apadāna* ascribed to a monk of the same name. Cf. also \#343 {346}, above, for a very similar *apadāna* ascribed to a monk of a different name.
 
-[^3]: perhaps “Falling Away” or “Disappearing,” from *cavati*. Also appears in v. 1 of \#343 {346}, above.
+[^3]: perhaps “Falling Away” or “Disappearing,” from *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>avati*. Also appears in v. 1 of \#343 {346}, above.
 
 [^4]: *oghatiṇṇa*
 

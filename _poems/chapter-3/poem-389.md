@@ -30,7 +30,7 @@ I shined, a doer of merit. (4) \[3329\]
 As the remainder of that deed,  
 here in this final existence,  
 I was born as the only son  
-of Campa’s foremost millionaire. (5) \[3330\]
+of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampa’s foremost millionaire. (5) \[3330\]
 
 Having heard that I had been born,[^9]  
 this was the wish of my father:  
@@ -90,7 +90,7 @@ The legend of Soṇakoṭivīsa Thera is finished.
 
 [^2]: “Golden One \[Worth\] Two Hundred Million.” Apparently identical with Soṇa Koḷivisa, “the Golden Koḷiyan,” a.k.a. Koḷiyavessa, “the Koḷiyan vaiśya,” see DPPN, II:1293-1294.
 
-[^3]: *pāvacane*, lit., “word”
+[^3]: *pāva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ane*, lit., “word”
 
 [^4]: lit., “a single cave was made by me”
 
@@ -106,7 +106,7 @@ The legend of Soṇakoṭivīsa Thera is finished.
 
 [^10]: lit., “twenty *koṭis*.”
 
-[^11]: reading *tūlapicusamā subhā* with BJTS
+[^11]: reading *tūlapi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>usamā subhā* with BJTS
 
 [^12]: lit., “I am cooled off, nirvana-ed (or gone out, *nibbuto*)”
 

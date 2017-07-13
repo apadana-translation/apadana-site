@@ -163,7 +163,7 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^9]: *ekāvatta-sumānasaŋ*
 
-[^10]: reading *vicittakathikattanaṃ* (lit., “varied-discourse-ness”) with BJTS for PTS *vicittakathikatthadaŋ* (“of giving meaning through varied discourse”)
+[^10]: reading *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittakathikattanaṃ* (lit., “varied-discourse-ness”) with BJTS for PTS *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittakathikatthadaŋ* (“of giving meaning through varied discourse”)
 
 [^11]: *paribbhamaŋ bhavākāse*
 
@@ -173,7 +173,7 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^14]: reading *vajjhavāro upatiṭṭho* with BJTS (“the turn to die for was looked after ”\[or “was served”\]) for PTS *vajjavāraŋ upatiṭhā* (“she looked after \[etc.\] the time to die”).
 
-[^15]: reading *vattā* with BJTS for PTS *cattā*
+[^15]: reading *vattā* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attā*
 
 [^16]: lit., “one should not keep company with Sākhā
 
@@ -189,7 +189,7 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^22]: lit., “went forth.” We are to understand that she did this unintentionally, i.e., unaware she was pregnant
 
-[^23]: the Buddha’s cousin, who tries to rival the Buddha with increasing virulence and hatred until he is finally sucked into *avīci* hell. See \#387 {390}, above.
+[^23]: the Buddha’s cousin, who tries to rival the Buddha with increasing virulence and hatred until he is finally sucked into *avī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i* hell. See \#387 {390}, above.
 
 [^24]: *vināsetha*, 2nd pers. pl., also “destroy” “ruin” “kill”
 

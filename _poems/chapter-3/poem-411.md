@@ -205,9 +205,9 @@ The legend of Bhaddāli Thera is finished.
 
 [^17]: *jātiyā*, lit., “well-born” or simply “excellent,” the term connotes lineage, genealogy, caste, breed. Here it seems to substitute for “those fast like the wind” (*vātajavā*) in parallel lists (see above, \[1293\], \[2692\], \[3981\])
 
-[^18]: *gāmaṇīya* usually means elephant-trainers, as in v. 26 \[4097\], above, but here the context makes “horse-trainer” a more suitable translation, so I have taken the same liberty taken by the poet in treating the term that way. PSI indicates that these are trainers of “elephants, etc.” (*ätun ādīn puhuṇu karana ācāryyaya*), allowing for the extended meaning in this context.
+[^18]: *gāmaṇīya* usually means elephant-trainers, as in v. 26 \[4097\], above, but here the context makes “horse-trainer” a more suitable translation, so I have taken the same liberty taken by the poet in treating the term that way. PSI indicates that these are trainers of “elephants, etc.” (*ätun ādīn puhuṇu karana ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āryyaya*), allowing for the extended meaning in this context.
 
-[^19]: *illiyā cāpadhārīhi*
+[^19]: *illiyā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āpadhārīhi*
 
 [^20]: *sannaddhā*, RD: fastened, bound; put on, clothed (with), armed, accoutred. The term has a wide enough range to leave open the possibility that rather than covered in the hides of these big cats, the poet imagines the chariots pulled by leopards and tigers, which would make sense of the specification below that they are also mounted by animal-trainers, in this case perhaps leopard- and tiger-trainers, paralleling the elephant-trainers who mount the elephants and the horse-trainers who mount the horses.
 
@@ -221,10 +221,10 @@ The legend of Bhaddāli Thera is finished.
 
 [^25]: PTS and BJTS agree in reading this as a six-footed verse.
 
-[^26]: omitting *ca*, “and”
+[^26]: omitting *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, “and”
 
 [^27]: *etthantaram upādāya*, lit., “for as long as the interval \[up to\] now (or here)”
 
 [^28]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya*/*ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 
-[^29]: *carimo vattate bhavo*
+[^29]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*

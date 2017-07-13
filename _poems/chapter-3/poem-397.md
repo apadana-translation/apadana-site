@@ -165,9 +165,9 @@ The legend of Girimānanda Thera is finished.
 
 [^2]: “Joy for the Mountains,” a historical monk, the son of King Bimbisāra’s chaplain who entered the order at Rajgir. See DPPN I: 770-771
 
-[^3]: *cittakkhepañ ca me āsi*, lit., “there was mental derangement for me”
+[^3]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittakkhepañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a me āsi*, lit., “there was mental derangement for me”
 
-[^4]: reading *aṭṭito* with BJTS for PTS *cakkhumā*, “one with eyes”
+[^4]: reading *aṭṭito* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhumā*, “one with eyes”
 
 [^5]: *°pareto*, lit., “overcome,” “affected”
 
@@ -193,7 +193,7 @@ The legend of Girimānanda Thera is finished.
 
 [^16]: *sabhaṇḍā*, lit., “together with their goods”
 
-[^17]: reading *vasse ca te oramite* with BJTS for PTS *vasse ete oramite*
+[^17]: reading *vasse <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a te oramite* with BJTS for PTS *vasse ete oramite*
 
 [^18]: or proceed, keep going: *sampayanti*
 
@@ -203,9 +203,9 @@ The legend of Girimānanda Thera is finished.
 
 [^21]: *urago*, “stomach-goer”
 
-[^22]: *gacchati*, lit., “goes”
+[^22]: *ga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chati*, lit., “goes”
 
-[^23]: reading *santacaṃ* with BJTS for PTS *santanuŋ*, “its body”
+[^23]: reading *santa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṃ* with BJTS for PTS *santanuŋ*, “its body”
 
 [^24]: the Pāli is singular, *santanuṃ*
 
@@ -215,7 +215,7 @@ The legend of Girimānanda Thera is finished.
 
 [^27]: lit., “did *pūjā* with”
 
-[^28]: the text is corrupt as regards the object given, apparently an attempt at explaining the “Giri” part of the protagonist’s name. I follow BJTS (and PTS alt) in reading *girimañjariṃ apūjayiṃ*, “I did *pūjā* with a stalk of *giri* \[flowers\],” even though it breaks meter (BJTS corrects to *pūjayiṃ girimañjariṃ*). BJTS glosses *giri* as *girinil mal*, on which see note to \[2256\]. *Giri* means “mountain,” so perhaps the reference is to a stalk of flowers (*mañjarī*) growing on a mountain? PTS reads *girapañjaliŋ* (“pressing together of the hands in honor of his words”?) offering alternatives *giramañchira* (?) and *giripañjariŋ* (fr. *pañjara*, a cage?), none of which satisfyingly corresponds to the adjective supplied this offering, “endowed with a heavenly scent.”
+[^28]: the text is corrupt as regards the object given, apparently an attempt at explaining the “Giri” part of the protagonist’s name. I follow BJTS (and PTS alt) in reading *girimañjariṃ apūjayiṃ*, “I did *pūjā* with a stalk of *giri* \[flowers\],” even though it breaks meter (BJTS corrects to *pūjayiṃ girimañjariṃ*). BJTS glosses *giri* as *girinil mal*, on which see note to \[2256\]. *Giri* means “mountain,” so perhaps the reference is to a stalk of flowers (*mañjarī*) growing on a mountain? PTS reads *girapañjaliŋ* (“pressing together of the hands in honor of his words”?) offering alternatives *giramañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hira* (?) and *giripañjariŋ* (fr. *pañjara*, a cage?), none of which satisfyingly corresponds to the adjective supplied this offering, “endowed with a heavenly scent.”
 
 [^29]: lit., “done *pūjā* to”
 
@@ -249,7 +249,7 @@ The legend of Girimānanda Thera is finished.
 
 [^44]: *padhānaŋ padahitvāna*, lit., “having exerted \[myself\] in exertion
 
-[^45]: *cando v’abbhaghanā mutto*
+[^45]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ando v’abbhaghanā mutto*
 
 [^46]: *vivekaŋ anuyutto*
 

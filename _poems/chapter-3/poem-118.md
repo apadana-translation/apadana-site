@@ -29,7 +29,7 @@ I attained \[my\] arahantship. (4) \[1745\]
 
 In the five hundredth aeon hence,  
 there were twelve wheel-turning monarchs  
-known by the name of Sacakkhu[^3]  
+known by the name of Sa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu[^3]  
 possessors of the seven gems. (5) \[1746\]
 
 The four analytical modes,  

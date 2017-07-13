@@ -52,7 +52,7 @@ are flowering in my hermitage.
 Wafting divine fragrances, they’re  
 beautifying my hermitage. (9) \[4227\]
 
-*Asokapiṇḍī*,[^38] *cavarī*,[^39]  
+*Asokapiṇḍī*,[^38] *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>avarī*,[^39]  
 and yellow cheesewood[^40] \[trees\] in bloom,  
 are wafting divine fragrances,  
 beautifying my hermitage. (10) \[4228\]
@@ -93,7 +93,7 @@ tortoises and \[other\] fierce beasts,[^60]
 beautifying my hermitage. (17) \[4235\]
 
 Pigeons[^63] and *ravi*-swans[^64] as well,  
-ruddy geese[^65] and *nadīcara*\s,  
+ruddy geese[^65] and *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara*\s,  
 lapwings,[^66] \[also\] mynah birds[^67] are  
 beautifying my hermitage. (18) \[4236\]
 
@@ -289,7 +289,7 @@ The Metteyya Chapter, the Forty-First
 
 [^10]: *vahanti* (“proceeding,” “carrying \[them in the current\],” PTS alt. is savanti (“flowing”)
 
-[^11]: *sañchannā*, lit., “covered;” the f. pl. presumably fixes these as modifiers of “the rivers,” the unspecified “they” which is the subject of the first foot.
+[^11]: *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hannā*, lit., “covered;” the f. pl. presumably fixes these as modifiers of “the rivers,” the unspecified “they” which is the subject of the first foot.
 
 [^12]: *amba*
 
@@ -307,11 +307,11 @@ The Metteyya Chapter, the Forty-First
 
 [^19]: *bimbijāla*, the Bodhi tree of the previous Buddha, Dhammadassi Buddha, Sinh. *rat karavū*, momordica monadelpha
 
-[^20]: this is the BJTS spelling, PTS reads *māyācārā*. Cf. *māyākāra*, “magician, conjuror”?
+[^20]: this is the BJTS spelling, PTS reads *māyā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā*. Cf. *māyākāra*, “magician, conjuror”?
 
 [^21]: *atimuttaka*. RD: a plant, Gaertnera Racemosa = Hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. BJTS glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba*, an annual creeper, Trichodesma zeylanicum).
 
-[^22]: BJTS glosses as *satpeti däsaman* = “hundred-petaled” *saman picca mal*, a fragrant species of jasmine, Jasminum sambac. Note that at \[3432\] BJTS says *vassika* is (regular) *däsaman*.
+[^22]: BJTS glosses as *satpeti däsaman* = “hundred-petaled” *saman pi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a mal*, a fragrant species of jasmine, Jasminum sambac. Note that at \[3432\] BJTS says *vassika* is (regular) *däsaman*.
 
 [^23]: *nāgā*
 
@@ -345,7 +345,7 @@ The Metteyya Chapter, the Forty-First
 
 [^38]: “round-mass Asoka” (?)
 
-[^39]: this reading follows BJTS for PTS *ca vārī* (alt. *°bari*) but cf. *setavārī* at v. \[4011\], above.
+[^39]: this reading follows BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vārī* (alt. *°bari*) but cf. *setavārī* at v. \[4011\], above.
 
 [^40]: *nīpa* = Sinhala *kolom*, *nauclea orientalis*; also called Leichhardt tree
 
@@ -357,13 +357,13 @@ The Metteyya Chapter, the Forty-First
 
 [^44]: = “resplendent *nigguṇḍi*,” Sinh. gloss *sirinika*
 
-[^45]: *camparukkh’ ettha*. The *campa* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
+[^45]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>amparukkh’ ettha*. The *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampa* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
-[^46]: *cakkavākā*, BJTS Sinh. gloss *sakvālihiṇiyō* = *cakravākayā*, an aquatic bird, brahminy goose, brahmany kite, haliastur indus
+[^46]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā*, BJTS Sinh. gloss *sakvālihiṇiyō* = *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akravākayā*, an aquatic bird, brahminy goose, brahmany kite, haliastur indus
 
 [^47]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here (and at \[4233\], \[4313\]) BJTS glosses *helmällen nohot diyakandarayen*, “if not *helmälla* then *diyakandara*.” *Heḷmäli* = edible white water-lily, Nymphaea Lotus. I don’t find *diyakandaraya* in the dictionaries. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*. At \[4313\], \[6332\] BJTS gloss is likewise *helmällen* (= *heḷmäli*)
 
-[^48]: reading *padumuppalakehi ca* with BJTS for PTS *padumapphalakehi ca* (“and with pink lotuses and fruit” or “and with pink lotus fruits”.
+[^48]: reading *padumuppalakehi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with BJTS for PTS *padumapphalakehi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and with pink lotuses and fruit” or “and with pink lotus fruits”.
 
 [^49]: *supatitthā*, following BJTS gloss here (elsewhere “good banks”). Should I do the same elsewhere?
 
@@ -379,7 +379,7 @@ The Metteyya Chapter, the Forty-First
 
 [^55]: *rohita*, BJTS glosses *reheru*
 
-[^56]: *vicarantā*, moving around, traveling about
+[^56]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arantā*, moving around, traveling about
 
 [^57]: *tattha*, lit., “there”
 
@@ -397,23 +397,23 @@ The Metteyya Chapter, the Forty-First
 
 [^64]: *ravihaŋsā*
 
-[^65]: *cakkavākā*, BJTS Sinh. gloss *sakvālihiṇiyō* = *cakravākayā*, an aquatic bird, brahminy goose, btahmany kite, haliastur indus
+[^65]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā*, BJTS Sinh. gloss *sakvālihiṇiyō* = *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akravākayā*, an aquatic bird, brahminy goose, btahmany kite, haliastur indus
 
 [^66]: *dindibhā*, Sinh. gloss *kirallu*, *kiraḷā* = red-wattled or yellow-wattled lapwing. PSI dictionary gives “bluejay”
 
-[^67]: reading *°sālikā* with BJTS for PTS *°sāḷi ca*. *Sāḷlka* (Skt. *śārika*) = Sinh. *säḷalihiṇiyō*, Indian mynah birds (Hindi *maina*, Skt. *madana*)
+[^67]: reading *°sālikā* with BJTS for PTS *°sāḷi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*. *Sāḷlka* (Skt. *śārika*) = Sinh. *säḷalihiṇiyō*, Indian mynah birds (Hindi *maina*, Skt. *madana*)
 
 [^68]: *ketaka*, Pandanus odoratissima, Sinhala *väṭakē* or *väṭakeyiyā*.
 
-[^69]: *accha°*, Sinh. gloss *valassu*
+[^69]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha°*, Sinh. gloss *valassu*
 
 [^70]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^71]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in specifying this particular type of bear (cf. Sorata, *kara bāna valasā*, s.v.)
+[^71]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara bāna valasā*, s.v.)
 
 [^72]: *jaṭābhārabharitā* (PTS), *jaṭābhārena bharitā* (BJTS)
 
-[^73]: that is, ascetics, who carry around all their possessions, limited to the basic necessities they require. Cty: *khāribhāran ti : udañcanakamaṇḍalu-ādikam tāpasaparikkharabhāram*.
+[^73]: that is, ascetics, who carry around all their possessions, limited to the basic necessities they require. Cty: *khāribhāran ti : udañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anakamaṇḍalu-ādikam tāpasaparikkharabhāram*.
 
 [^74]: *khāribhāriŋ* (BJTS reads *khāribhāraṃ*) *gahetvāna*. These are specified as ascetics who carry all their requisites, which are few, on their persons.
 
@@ -423,11 +423,11 @@ The Metteyya Chapter, the Forty-First
 
 [^77]: *jhāyino*
 
-[^78]: or “exhorting,” “questioning,” “criticizing,” “reprimanding,” “accusing,” reading *codentā* with BJTS for PTS *codito*, “reproved” (etc.)
+[^78]: or “exhorting,” “questioning,” “criticizing,” “reprimanding,” “accusing,” reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>odentā* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>odito*, “reproved” (etc.)
 
 [^79]: *appanā* \[BJTS reads *appaṇā*\] *vate*, Sinh. gloss *arpaṇāvratayehi yodunā vu*. *Appanā* is fixing the mind on its object (the *samādhis* or the Path), that conception itself, ecstasy. In Sinhala this implies “giving up,” “renunciation,” of other objects of thought
 
-[^80]: *ambarā +avacarā*, lit., “\[people who are\] possessed of wandering in the sky”
+[^80]: *ambarā +ava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*, lit., “\[people who are\] possessed of wandering in the sky”
 
 [^81]: *pakkamanti disāmukhā*, lit., “they are going out with faces toward a direction,” i.e., they went according to their inclinations
 
@@ -445,7 +445,7 @@ The Metteyya Chapter, the Forty-First
 
 [^88]: *saṃsāmetvāna*, “smooth out,” “roll up \[one’s bed mat\]” “leave”
 
-[^89]: *cele* (BJTS *ceḷe*) *va ḍayhamānamhi*, BJTS gloss, “like at the time when \[one’s\] clothes were burning.” This seems to be idiomatic, and to express haste, cf. “pants on fire”
+[^89]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ele* (BJTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eḷe*) *va ḍayhamānamhi*, BJTS gloss, “like at the time when \[one’s\] clothes were burning.” This seems to be idiomatic, and to express haste, cf. “pants on fire”
 
 [^90]: *ekarattiŋ vasitvā*, lit., “having dwelt \[out somewhere on the road\] for one night \[only\]”
 
@@ -469,7 +469,7 @@ The Metteyya Chapter, the Forty-First
 
 [^100]: *nirayaŋ*
 
-[^101]: *tiracchayoniŋ*, i.e., rebirth as an animal
+[^101]: *tira<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chayoniŋ*, i.e., rebirth as an animal
 
 [^102]: lit., “did *pūjā*”
 

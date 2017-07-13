@@ -7,7 +7,7 @@ category: chapter-3
 
 ### \[409. {412.}[^1] Ekachattiya[^2]\]
 
-On Candabhāgā River’s bank,  
+On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
 I had a well-made hermitage.  
 It was strewn with very white sand,  
 \[and\] furnished with halls made of leaves. (1) \[4299\]
@@ -264,7 +264,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^9]: *koka°*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^10]: *°taracchayo*, BJTS *°taracchakā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu, *
+[^10]: *°tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chayo*, BJTS *°tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu, *
 
 [^11]: *nādenti*, lit., “make sounds”
 
@@ -284,7 +284,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^19]: *Uddālaka* = Cassia fistula, Sinh. *äsaḷa*
 
-[^20]: the *campaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
+[^20]: the *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
 [^21]: *pāṭali*, Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
 
@@ -298,7 +298,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^26]: *yūthikā* = Sinh. *sīnidda* = *jasminum auriculatum*
 
-[^27]: BJTS glosses as *satpeti däsaman* = “hundred-petaled” *saman picca mal*, a fragrant species of jasmine, Jasminum sambac. Note that at \[3432\] BJTS says *vassika* is (regular) *däsaman*.
+[^27]: BJTS glosses as *satpeti däsaman* = “hundred-petaled” *saman pi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a mal*, a fragrant species of jasmine, Jasminum sambac. Note that at \[3432\] BJTS says *vassika* is (regular) *däsaman*.
 
 [^28]: or Bimbajāla, a flowering tree, Sinh. *rat karavū*, Phyllanthus indicus (*Euphorb.*), the Bodhi tree of Dhammadassi Buddha
 
@@ -314,7 +314,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^34]: *asana*, Pentaptera tomentosa = a.k.a. crocodile-bark tree, Indian Laurel, silver grey wood, white chuglam. The Bodhi tree of Tissa Buddha. BJTS glosses as *piyā gasa* = *bakmī* = Sarcocephalus cordatus *(Rubi*.)
 
-[^35]: *mahānāmā*. Following BJTS Sinhala gloss as *uk*, sugarcane, Saccharum officinarum (*Gram.*)
+[^35]: *mahānāmā*. Following BJTS Sinhala gloss as *uk*, sugarcane, Sa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>charum officinarum (*Gram.*)
 
 [^36]: *sālā*, shorea robusta
 
@@ -358,7 +358,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^56]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS glosses *helmällen nohot diyakandarayen*, “if not *helmälla* then *diyakandara*.” *Helmälla* = *heḷmäli*. This is also the gloss at \[4231\] andt \[4313\]; at \[6332\] the gloss is a straightforward *helmäli* = edible white water-lily, Nymphaea Lotus. But elsewhere BJTS gives different glosses: at \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
 
-[^57]: reading *padumuppalakehi ca* with BJTS for PTS *padumapphalakehi ca* (“and with pink lotuses and fruit” or “and with pink lotus fruits”.
+[^57]: reading *padumuppalakehi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with BJTS for PTS *padumapphalakehi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and with pink lotuses and fruit” or “and with pink lotus fruits”.
 
 [^58]: *opatta-kaṇṇikā*
 
@@ -372,7 +372,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^63]: *rohita*, BJTS glosses *reheru*
 
-[^64]: *vicaraŋ*, moving around, traveling about
+[^64]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araŋ*, moving around, traveling about
 
 [^65]: *ketaka*, Pandanus odoratissima, Sinhala *väṭakē* or *väṭakeyiyā*.
 
@@ -386,7 +386,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^70]: *jaṭābhārabharitā* (PTS), *jaṭābhārena bharitā* (BJTS)
 
-[^71]: *yugamattañ ca pekkhantā*, lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
+[^71]: *yugamattañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a pekkhantā*, lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
 
 [^72]: reading *kāmabhoge anapekhā* with BJTS (and PTS alt.) for PTS *kāmagedhe anapekhā*, “not looking at craving lust”
 
@@ -414,4 +414,4 @@ The legend of Ekachattiya Thera is finished.
 
 [^84]: lit., “umbrella”
 
-[^85]: *carimo vattate bhavo*
+[^85]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*

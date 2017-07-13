@@ -82,7 +82,7 @@ Sakiŋsammajjaka Thera,
 Ekadussī, thus Āsanī,  
 then Kadamba \[and\] Koraṇḍa,  
 Ghataŋ, also Savanika,  
-Sucintita, Kiṇkhanika,  
+Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita, Kiṇkhanika,  
 and Soṇṇa-Kattarika[^20] too:  
 there are a hundred verses here  
 plus seventy-one \[more verses\]
@@ -101,7 +101,7 @@ The Sakiŋsammajjaka Chapter, the Forty-Third
 
 [^6]: *iriyamānam brahmapathe*. RD: “the path to the Br. world or the way to the highest good”
 
-[^7]: *citta-vūpasame rataŋ*
+[^7]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itta-vūpasame rataŋ*
 
 [^8]: *oghatiṇṇaŋ*
 

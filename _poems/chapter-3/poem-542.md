@@ -149,7 +149,7 @@ The legend of Kaṅkha-Revata Thera is finished.
 
 [^19]: *idha vā huraŋ vā*, cf. RD, s.v. and his references to re-use of the phrase in poetry: S.i.12; DH 20; Sn 224 = J. i.96.
 
-[^20]: or “wandering in celibacy”: *brahmacariyan carantā*
+[^20]: or “wandering in celibacy”: *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyan <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arantā*
 
 [^21]: pronounce all six syllables when chanting, or else read “\[most\] energetically,” to keep the meter.
 

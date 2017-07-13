@@ -185,7 +185,7 @@ Thus indeed Bhikkhunī Sakulā spoke these verses.
 
 The legend of Sakulā Therī is finished.
 
-[^1]: a historical nun, remembered as foremost among those who possess the “divine eye” (*dibbacakkhu*)
+[^1]: a historical nun, remembered as foremost among those who possess the “divine eye” (*dibba<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu*)
 
 [^2]: *purisājañño*
 
@@ -201,7 +201,7 @@ The legend of Sakulā Therī is finished.
 
 [^8]: lit., “from,” abl.
 
-[^9]: *uttiṇṇavicikiccho*, lit., “he by whom doubt is pulled out”
+[^9]: *uttiṇṇavi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cho*, lit., “he by whom doubt is pulled out”
 
 [^10]: *vītivattakathaŋkatho*, lit., “passed over saying ‘how?’”
 
@@ -237,7 +237,7 @@ The legend of Sakulā Therī is finished.
 
 [^26]: *°mattakaŋ*, lit., “a measure of”
 
-[^27]: or “stupa”: *cetiyaŋ*
+[^27]: or “stupa”: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etiyaŋ*
 
 [^28]: lit., “given *pūjā*”
 

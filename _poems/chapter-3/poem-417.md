@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[414. {417.}[^1] Ucchaṅgapupphiya[^2]\]
+### \[414. {417.}[^1] U<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaṅgapupphiya[^2]\]
 
 In the city, Bandhumatī,  
 I was a gardener back then.  
@@ -42,9 +42,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[4415\]
 
-Thus indeed Venerable Ucchaṅgapupphiya Thera spoke these verses.
+Thus indeed Venerable U<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaṅgapupphiya Thera spoke these verses.
 
-The legend of Ucchaṅgapupphiya Thera is finished.
+The legend of U<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaṅgapupphiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 

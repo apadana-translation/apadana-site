@@ -35,7 +35,7 @@ I set out from the forest \[then\]. (5) \[5080\]
 Staying over a single night[^6]  
 in villages and \[also\] towns,  
 little by little I approached  
-the \[city named\] Candavatī.[^7] (6) \[5081\]
+the \[city named\] <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andavatī.[^7] (6) \[5081\]
 
 The Buddha[^8] in that period  
 was Sumedha, the World-Leader.  
@@ -161,7 +161,7 @@ The legend of Ñāṇatthavika Thera is finished.
 
 [^2]: “Knowledge-Praiser”
 
-[^3]: reading *anvesanto ācariyaṃ* with BJTS for PTS *anomasanto cariyaŋ* (“being perfect \[in my\] wanderings”)
+[^3]: reading *anvesanto ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyaṃ* with BJTS for PTS *anomasanto <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyaŋ* (“being perfect \[in my\] wanderings”)
 
 [^4]: lit., “the Sambuddha”
 

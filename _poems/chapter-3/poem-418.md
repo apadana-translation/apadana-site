@@ -122,7 +122,7 @@ The legend of Yāgudāyaka Thera is finished.
 
 [^3]: *atithiŋ me gahetvā*, lit., “taking \[someone who was\] a stranger to me” or “taking a stranger with me.” Cone, s.v., reads this usage of *atithiŋ* within the common meaning of that term, “stranger” or “newcomer,” and I follow suit. BJTS says an *atithi* is some sort of “instrument for the road,” presumably a type of vehicle, or a walking stick, or what have you; that would result in a translation like “taking my *aitithi*, I…” As becomes clear below (v. 11; \[4426\]), the protagonist is a merchant, traveling for the purpose of trade. Thus *atithi* might also refer to the merchandise he takes to sell or exchange.
 
-[^4]: reading *agacchiṃ* with BJTS for PTS *āgacchiŋ*, “I came”
+[^4]: reading *aga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiṃ* with BJTS for PTS *āga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiŋ*, “I came”
 
 [^5]: *saṅghārāmam upāgamiŋ*, lit., “I approached a residence \[or “garden”\] for the Sangha \[or “assembly of monks”\]”
 
@@ -142,7 +142,7 @@ The legend of Yāgudāyaka Thera is finished.
 
 [^13]: lit., “of mine”
 
-[^14]: *pacannaŋ yāguŋ datvāna*, lit., “having given the fifth gruel\[-donation\]”
+[^14]: *pa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>annaŋ yāguŋ datvāna*, lit., “having given the fifth gruel\[-donation\]”
 
 [^15]: *tidase gaṇe*, i.e. “among the thirty\[-three\] gods,” “in Tāvatiṃsa heaven”
 
@@ -154,7 +154,7 @@ The legend of Yāgudāyaka Thera is finished.
 
 [^19]: *sabbasampatti°*, lit., “all the attainments,” i.e., “I reached nirvana, I became an arahant”
 
-[^20]: omitting *cāpi*, “and also”
+[^20]: omitting *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āpi*, “and also”
 
 [^21]: *sammasanto* (fr. *sammasati*), “thinking about” “meditating upon” “thoroughly understanding”
 
@@ -168,7 +168,7 @@ The legend of Yāgudāyaka Thera is finished.
 
 [^26]: *nâbhijānāmi uppanna*, lit., “I do not know through experience the arising \[of\]” or “I am not conscious of the arising \[of\]”
 
-[^27]: *imāni pañcaṭhānāni*, lit., “these five conditions” “these five states of being”
+[^27]: *imāni pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṭhānāni*, lit., “these five conditions” “these five states of being”
 
 [^28]: *bhavā ugghāṭitā mayā*, lit., “rebirths have been eliminated by me”
 

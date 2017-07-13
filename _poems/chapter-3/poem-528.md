@@ -155,7 +155,7 @@ The legend of Bodhisammajjaka Thera is finished.
 
 [^7]: BJTS reads *sukumārikā* (“like a very young girl’s) for PTS *sukumārakā*
 
-[^8]: reading *yato kutoci gatisu* with BJTS for PTS *yato kuto ca*, and following BJTS Sinhala gloss *yamkisi gatiyaka*
+[^8]: reading *yato kuto<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i gatisu* with BJTS for PTS *yato kuto <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, and following BJTS Sinhala gloss *yamkisi gatiyaka*
 
 [^9]: lit., “dirt and dust are not smeared \[on me\]”
 

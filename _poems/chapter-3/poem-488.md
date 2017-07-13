@@ -94,9 +94,9 @@ The legend of Taraṇiya Thera is finished.
 
 [^2]: “Ferryman”. Cf. \#204, \#270, \#280 for parallel *apadāna*\s of monks with this name.
 
-[^3]: PTS reads *Cinatā*. BJTS reads *Vinaka°*, PTS alt. *Vinatā* is the spelling preferred by DPPN (see II:883), and used without divergence between PTS and BJTS in \#380 {383}, v. 1 = \[3292\]; cf. also \#511 {514} v. 1 = \[5473\], below.. Malalasekera says it was presumably in the Himalayas.
+[^3]: PTS reads *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>inatā*. BJTS reads *Vinaka°*, PTS alt. *Vinatā* is the spelling preferred by DPPN (see II:883), and used without divergence between PTS and BJTS in \#380 {383}, v. 1 = \[3292\]; cf. also \#511 {514} v. 1 = \[5473\], below.. Malalasekera says it was presumably in the Himalayas.
 
-[^4]: *kacchapo vārigocaro*
+[^4]: *ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chapo vārigo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aro*
 
 [^5]: *yato sarāmi attānaŋ*, lit., “starting from when I remember myself”
 
@@ -106,11 +106,11 @@ The legend of Taraṇiya Thera is finished.
 
 [^8]: *bhaddake*, or “lucky” “fortunate” etc
 
-[^9]: BJTS *pavacchante* (cf. *pavecchante*, the reading in \[5004\] below, note *pavacchante* as PTS alt. there \[v, 5 of \#499, Ekapattadāyaka\]; RD = “give, bestow,” PSI “\[rainwater\] falls down”) for PTS *pavassante*, more straightforwardly “when raining”
+[^9]: BJTS *pava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante* (cf. *pave<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante*, the reading in \[5004\] below, note *pava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante* as PTS alt. there \[v, 5 of \#499, Ekapattadāyaka\]; RD = “give, bestow,” PSI “\[rainwater\] falls down”) for PTS *pavassante*, more straightforwardly “when raining”
 
 [^10]: *sammādhāre* (loc. abs. construction)
 
-[^11]: here PTS also reads *pavecchante*, which may exploit the more literal meaning of that term (acc. to RD), give, bestow; “when proper support is provided”. However, in the parallel verses below (5-6 of \#499, Ekapattadāyaka, PTS reads *pavassante*). “Raining” is a frequent metaphor for *Dhamma*-preaching, and it would be possible to construe the second *pāda* that way, “when it rains the preaching of the Sammāsambuddha, with proper support…”
+[^11]: here PTS also reads *pave<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante*, which may exploit the more literal meaning of that term (acc. to RD), give, bestow; “when proper support is provided”. However, in the parallel verses below (5-6 of \#499, Ekapattadāyaka, PTS reads *pavassante*). “Raining” is a frequent metaphor for *Dhamma*-preaching, and it would be possible to construe the second *pāda* that way, “when it rains the preaching of the Sammāsambuddha, with proper support…”
 
 [^12]: *upasanto*
 

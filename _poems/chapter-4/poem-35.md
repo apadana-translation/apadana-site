@@ -173,13 +173,13 @@ The legend of Sukkā Therī[^35] is finished
 
 [^1]: “White” “Bright” Good,” an historical nun, DPPN II: 1173-1174
 
-[^2]: *carunayano*
+[^2]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arunayano*
 
 [^3]: *sikhī*, a play on the meaning of the Buddha’s name. It can also mean “peacock.” Here *sikhī viya*, lit., “like a heap of fire”.
 
 [^4]: reading *loke* (loc.) with BJTS (and PTS alt.) for PTS *lokaŋ* (acc.)
 
-[^5]: *tadā pi ca tath’ ev’ ahaŋ*
+[^5]: *tadā pi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a tath’ ev’ ahaŋ*
 
 [^6]: lit., “the Victor’s”
 
@@ -221,9 +221,9 @@ The legend of Sukkā Therī[^35] is finished
 
 [^25]: *Siṅgī-nikkha-savaṇṇo*, lit., “having the same color as a golden/”ginger” coin;” *nikkha* can also be an ornament, or a weight, The thrust, anyway, is that the Buddha was shiny like gold.
 
-[^26]: these lines (41 syllables in PTS, 40 syllables in BJTS \[which omits the *ca* after *purāṇajaṭilehi*\]) are presented by both PTS and BJTS as a single verse, though they break the two-footed lines differently and I am at a loss for how to understand the “verse” metrically. A quote from some prose text? A verse in more complex meter, garbled in transmission? I have translated into the closest approximation of the latter possibility in *Apadāna*, namely a 12-12-12-12 verse (which would suggest the possible loss of seven syllables \[in the case of PTS’ reading\] or eight syllables \[in the case of BJTS’s reading\] sometime comparatively early in the transmission process (since it affects all the extant mss.) In addition to conforming to a verse-form occasionally encountered elsewhere in *Apadāna*, this implicit 12-12-12-12 structure works very nicely for the basic units that then make up the four discrete feet.
+[^26]: these lines (41 syllables in PTS, 40 syllables in BJTS \[which omits the *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* after *purāṇajaṭilehi*\]) are presented by both PTS and BJTS as a single verse, though they break the two-footed lines differently and I am at a loss for how to understand the “verse” metrically. A quote from some prose text? A verse in more complex meter, garbled in transmission? I have translated into the closest approximation of the latter possibility in *Apadāna*, namely a 12-12-12-12 verse (which would suggest the possible loss of seven syllables \[in the case of PTS’ reading\] or eight syllables \[in the case of BJTS’s reading\] sometime comparatively early in the transmission process (since it affects all the extant mss.) In addition to conforming to a verse-form occasionally encountered elsewhere in *Apadāna*, this implicit 12-12-12-12 structure works very nicely for the basic units that then make up the four discrete feet.
 
-[^27]: *taŋ…guṇasañcayaŋ*
+[^27]: *taŋ…guṇasañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayaŋ*
 
 [^28]: lit., “did *pūjā*”
 

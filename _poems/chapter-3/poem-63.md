@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[63. Paccāgamanīya[^1]\]
+### \[63. Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āgamanīya[^1]\]
 
 I was a ruddy goose back then  
 along the Indus River’s bank,  
@@ -33,7 +33,7 @@ I’ve come to know no bad rebirth:
 that’s the fruit of Buddha-*pūjā*. (5) \[1365\]
 
 There were eight men who had one name  
-which was Sucarudassana.[^3]  
+which was Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arudassana.[^3]  
 They were wheel-turners with great strength  
 \[full\] seventeen aeons ago. (6) \[1366\]
 
@@ -42,9 +42,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[1367\]
 
-Thus indeed Venerable Paccāgamanīya Thera spoke these verses.
+Thus indeed Venerable Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āgamanīya Thera spoke these verses.
 
-The legend of Paccāgamanīya Thera is finished.
+The legend of Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āgamanīya Thera is finished.
 
 [^1]: “Returner”
 

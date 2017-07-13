@@ -259,7 +259,7 @@ Dhammā, and also Sudhammā,
 and seventh Saṅghadāyikā, (50) \[561\]
 
 \[now\] I, and \[the nun named\] Khemā,  
-Paṭācārā and Kuṇḍalā,[^51]  
+Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā and Kuṇḍalā,[^51]  
 Kisāgotamī, Dhammadinnā,[^52]  
 and Visākhā is the seventh. (51) \[562\]
 
@@ -275,7 +275,7 @@ of costly saffron-colored silk.[^54] (53) \[564\]
 
 Fallen from there, reborn among  
 brahmins[^55] in Ariṭṭhapura,  
-daughter of Tirīṭavaccha,  
+daughter of Tirīṭava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha,  
 I was charming[^56] Ummādantī.[^57] (54) \[565\]
 
 Fallen from there, I \[was born\] in  
@@ -437,7 +437,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^6]: this is the Buddha speaking, in response to Uppalavaṇṇā’s request to be forgiven any mistakes
 
-[^7]: *catasso parisā*, I assume the monks, nuns, laymen and laywomen, but it could also be *catasso…kaṅkhā*, fourfold doubt
+[^7]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atasso parisā*, I assume the monks, nuns, laymen and laywomen, but it could also be *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atasso…kaṅkhā*, fourfold doubt
 
 [^8]: *paññāvanta*
 
@@ -455,11 +455,11 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^15]: *telaŋ vatthigataŋ c’eva*, i.e., administering an enema? Or *vatthigataŋ* as a second thing being handled (carefully, gingerly), not only oil but also that “gone to \[or from?\] the bladder”?
 
-[^16]: reading *luñci komārako yuvā* with BJTS for PTS *luñciko mārako yuvā* (“plucky devilish youth”?)
+[^16]: reading *luñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i komārako yuvā* with BJTS for PTS *luñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iko mārako yuvā* (“plucky devilish youth”?)
 
-[^17]: or is *cittapunna* the *name* of a flower, i.e., “picks a *cittapunna* flower”
+[^17]: or is *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittapunna* the *name* of a flower, i.e., “picks a *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittapunna* flower”
 
-[^18]: *cakkavālasamaŋ*, lit., “the same as the ring of cosmic mountains surrounding the universe”
+[^18]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālasamaŋ*, lit., “the same as the ring of cosmic mountains surrounding the universe”
 
 [^19]: lit., “doing” “making”
 
@@ -467,15 +467,15 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^21]: lit., “pure” (*suddhaŋ*)
 
-[^22]: reading *sammukhā ca parammukhā* with BJTS (and PTS alts.) for PTS *saṅkamante nidassitaŋ* (“pointed out when transmigrating” ?)
+[^22]: reading *sammukhā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a parammukhā* with BJTS (and PTS alts.) for PTS *saṅkamante nidassitaŋ* (“pointed out when transmigrating” ?)
 
 [^23]: that is, for the sake of meeting you, in order to be part of your future dispensation, cf. how contemporary Buddhists perform service in the hopes of meeting Maitreya or some even further-into-the-future Buddha.
 
 [^24]: or “wholesome”: *kusalaŋ*
 
-[^25]: *vajjetvā*. Reading BJTS *parivajjentī* (also “avoiding” “abstaining from” “renouncing”) for PTS *paripācento* (“developing”) in the subsequent foot (note both recensions differently present it as a nine-syllable foot), but anyway leaving it untranslated here, lit., “avoiding avoiding”
+[^25]: *vajjetvā*. Reading BJTS *parivajjentī* (also “avoiding” “abstaining from” “renouncing”) for PTS *paripā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ento* (“developing”) in the subsequent foot (note both recensions differently present it as a nine-syllable foot), but anyway leaving it untranslated here, lit., “avoiding avoiding”
 
-[^26]: reading *anācāraŋ* with BJTS for PTS *anāvaraŋ* (“not mean” = “noble things; PTS alt. *bahuŋ janaŋ*, “many people” \[!\])
+[^26]: reading *anā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āraŋ* with BJTS for PTS *anāvaraŋ* (“not mean” = “noble things; PTS alt. *bahuŋ janaŋ*, “many people” \[!\])
 
 [^27]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta*, \#29 of *Dīghanikāya*, section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
 
@@ -493,23 +493,23 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^34]: reading *paṭiyādesi* with BJTS (and PTS alt.) for PTS *paṭipādesi*, to impart, to offer, to present
 
-[^35]: reading *sabbaññuṃ* with BJTS for PTS *sabbañ ca* (“all…and”)
+[^35]: reading *sabbaññuṃ* with BJTS for PTS *sabbañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“all…and”)
 
 [^36]: reading *sumanāy’ itarāyapi* with BJTS (and PTS alt.) for PTS *sumitaŋ itarāya pi* (“well-measured by the other to” ?), and following BJTS Sinhala gloss
 
-[^37]: reading *suvisāradā* with BJTS (and subsequent verses here) for PTS *ca visāradā* (“and skillful”)
+[^37]: reading *suvisāradā* with BJTS (and subsequent verses here) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a visāradā* (“and skillful”)
 
 [^38]: *orasāmukhato jātā*
 
 [^39]: lit., “and”
 
-[^40]: reading *suvisāradā* with BJTS for PTS *ca visāradā*, as above
+[^40]: reading *suvisāradā* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a visāradā*, as above
 
 [^41]: reading *annapānena* with BJTS for PTS *mahājanena* (“with the great multitude”)
 
 [^42]: “sun”
 
-[^43]: *carunayano*
+[^43]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arunayano*
 
 [^44]: reading *vināyakaṃ* with BJTS (and PTS alts.) for PTS *vimissitaŋ* (“mixed”)
 
@@ -523,7 +523,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^49]: *sukhe ṭhitā*, lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
 
-[^50]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*ca*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
+[^50]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
 
 [^51]: = Bhaddā Kuṇḍalakesī
 
@@ -545,7 +545,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^60]: *lāja*
 
-[^61]: BJTS reads *pañcaputtasatāni pi* (“and also \[my\] five hundred sons”), in keeping with its variant reading of the first foot of the following verse
+[^61]: BJTS reads *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aputtasatāni pi* (“and also \[my\] five hundred sons”), in keeping with its variant reading of the first foot of the following verse
 
 [^62]: BJTS reads *te pi* *patthesuṃ* (“and they \[the five hundred sons posited as already-existing in the BJTS variant of the prior verse\] wished”) for PTS *tesu patthesu*, “with those wishes”
 
@@ -555,7 +555,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^65]: lit., “they were”
 
-[^66]: *paccekanāyakā*, i.e., Paccekabuddhas, Lonely Buddhas
+[^66]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekanāyakā*, i.e., Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhas, Lonely Buddhas
 
 [^67]: *sutavīrehi*. BJTS reads *sutavarehi* (“excellent sons”)
 
@@ -575,7 +575,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^75]: this and the next verse are presented with feet of eleven syllables each in both PTS and BJTS and I translate accordingly. The present verse has 12 syllables in the first foot, which I take as a mistake (read *pupphitaggaṃ* for *supupphitaggaŋ* ?).
 
-[^76]: *cittasmiŋ vasibhūtasmiŋ*, lit., “when i became master of (or “over”) \[my own\] mind”
+[^76]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittasmiŋ vasibhūtasmiŋ*, lit., “when i became master of (or “over”) \[my own\] mind”
 
 [^77]: *subhāvitā*, lit., “\[by me\] well-developed” or “well-cultivated” “well-meditated”
 

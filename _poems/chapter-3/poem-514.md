@@ -45,7 +45,7 @@ The legend of Ketakapupphiya Thera is finished.
 
 [^2]: “Screw-pine Flower-er”
 
-[^3]: the BJTS spelling; PTS reads *VItthāya*, alts. *Vittāya*, *Cittāya*. Cf. \#380 {383}, v. 1 = \[3292\], above, where BJTS and PTS agree on the spelling accepted from BJTS here; but cf. also \#485 {488} above, v. 1 = \[5177\], where I also accept the BJTS reading amidst considerable variation
+[^3]: the BJTS spelling; PTS reads *VItthāya*, alts. *Vittāya*, *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ittāya*. Cf. \#380 {383}, v. 1 = \[3292\], above, where BJTS and PTS agree on the spelling accepted from BJTS here; but cf. also \#485 {488} above, v. 1 = \[5177\], where I also accept the BJTS reading amidst considerable variation
 
 [^4]: *ekaggaŋ*
 

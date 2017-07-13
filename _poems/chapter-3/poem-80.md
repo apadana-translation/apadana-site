@@ -151,7 +151,7 @@ The Summary:
 Samāla and Padasaññī  
 Susañña, Āluvadāyaka,  
 Ekasaññī, Tiṇidada,  
-Sūcī, Pāṭalipupphiya,  
+Sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ī, Pāṭalipupphiya,  
 Ṭhitañjalī, Tipadumī:  
 five and seventy verses.
 

@@ -213,7 +213,7 @@ The legend of Uttara Thera, the sixth.
 
 [^5]: *sugataṃ*, perhaps a mistake for *sukataṃ* (“well-made”)
 
-[^6]: i.e., when it is full, *puṇṇamāye* \[mistake for *puṇṇamāse*?\] *va candimā*
+[^6]: i.e., when it is full, *puṇṇamāye* \[mistake for *puṇṇamāse*?\] *va <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andimā*
 
 [^7]: lit., “similar to the color of a reed-fire”
 
@@ -229,7 +229,7 @@ The legend of Uttara Thera, the sixth.
 
 [^13]: following BJTS, PTS reads *geṇḍu*, in multiple variations. At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
 
-[^14]: *yenicchakā*, following BJTS Sinhala gloss *kämäti tänaka*
+[^14]: *yeni<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakā*, following BJTS Sinhala gloss *kämäti tänaka*
 
 [^15]: *°vikutī°;* I take this to evoke a mattress (*tūlikā°*) constructed through piling up (“assembling”) of layers of grass or wool (see RD., s.v.)
 
@@ -259,7 +259,7 @@ The legend of Uttara Thera, the sixth.
 
 [^28]: *mahāsāle*, a mark of wealth (which is further emphasized as *su-aḍhake*, “very wealthy” or “very influential”)
 
-[^29]: *pañca-kāma-guṇe*, “the five strands of sense pleasure,” namely those obtained through the five senses
+[^29]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a-kāma-guṇe*, “the five strands of sense pleasure,” namely those obtained through the five senses
 
 [^30]: *samādhikusalo ahaŋ*
 

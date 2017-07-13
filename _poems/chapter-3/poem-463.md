@@ -1,11 +1,11 @@
 ---
-title: Citakanibbāpaka
+title: <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itakanibbāpaka
 order: 463
 layout: poem
 category: chapter-3
 ---
 
-### \[460. {463.}[^1] Citakanibbāpaka[^2]\]
+### \[460. {463.}[^1] <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itakanibbāpaka[^2]\]
 
 When the corpse was being burnt of  
 Vessabhu \[Buddha\], the Great Sage,  
@@ -32,9 +32,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[4878\]
 
-Thus indeed Venerable Citakanibbāpaka Thera spoke these verses.
+Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itakanibbāpaka Thera spoke these verses.
 
-The legend of Citakanibbāpaka Thera is finished.
+The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itakanibbāpaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 

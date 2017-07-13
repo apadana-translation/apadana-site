@@ -7,7 +7,7 @@ category: chapter-3
 
 ### \[440. {443.}[^1] Billaphaliya[^2]\]
 
-On Candabhāgā River’s bank,  
+On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
 my well-constructed hermitage  
 was served by varied \[types\] of trees,  
 \[and\] strewn with *bel* trees \[full of fruit.\] (1) \[4731\]

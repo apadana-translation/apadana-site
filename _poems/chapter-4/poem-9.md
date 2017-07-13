@@ -5,7 +5,7 @@ layout: poem
 category: chapter-4
 ---
 
-### \[9. Pañcadīpikā[^1]\]
+### \[9. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpikā[^1]\]
 
 In the city, Haṃsavatī,  
 I was a wanderer back then.  
@@ -48,7 +48,7 @@ discarding \[my\] human body,
 I went to Tāvatiṃsa \[then\]. (8) \[98\]
 
 There my well-made divine mansion  
-was known as “Pañcadīpī”[^7] then.  
+was known as “Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpī”[^7] then.  
 It was a hundred leagues in height,  
 \[and\] sixty leagues in width back then.[^8] (9) \[99\]
 
@@ -132,9 +132,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (25) \[115\]
 
-Thus indeed Bhikkhunī Pañcadīpikā spoke these verses.
+Thus indeed Bhikkhunī Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpikā spoke these verses.
 
-The legend of Pañcadīpikā Therī is finished.
+The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpikā Therī is finished.
 
 [^1]: “Five-Lamp-er”
 

@@ -62,7 +62,7 @@ The legend of Paŋsukūlasaññika Thera is finished.
 
 [^5]: reading *vitataṃ* with BJTS for PTS *tiyantaŋ* (‘with three strings” \[?\])
 
-[^6]: reading *bhakkhatthāaya cariṃ ahaṃ* with BJTS for PTS *akkhitto yamaliŋ ahaŋ* (“struck by a pair”)
+[^6]: reading *bhakkhatthāaya <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariṃ ahaṃ* with BJTS for PTS *akkhitto yamaliŋ ahaŋ* (“struck by a pair”)
 
 [^7]: *gahetvāna*, lit., “taking”
 

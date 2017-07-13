@@ -442,7 +442,7 @@ As though it were the end of time,
 she garlanded the earth in flames. (85) \[311\]
 
 She took mounts Meru, Mandāra,  
-Daddara, great Muccalinda —  
+Daddara, great Mu<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>alinda —  
 all of them, in a single fist,  
 like they were \[tiny\] mustard seeds. (86) \[312\]
 
@@ -962,7 +962,7 @@ Thus indeed Bhikkhunī Mahāpajāpatīgotamī spoke these verses.
 
 The legend of Mahāpajāpatīgotamī Therī is finished.
 
-[^1]: “Female Gotama,” “the Gotamid.” Her full name is given in the colophon as Mahāpajāpatī Gotamī, as she is addressed throughout the canon. She was a historical nun, the sister of the Buddha’s natural mother (Mahāmāyā) who took over upon the latter’s death, both as the Buddha’s childhood wet-nurse and (surrogate) mother (actually his maternal aunt, Sinh. *puñci ammā*), and as his father’s wife (hence step-mother). She was the founder and leader of the nuns, who convinced Ānanda to beg the Buddha for their order to be established.
+[^1]: “Female Gotama,” “the Gotamid.” Her full name is given in the colophon as Mahāpajāpatī Gotamī, as she is addressed throughout the canon. She was a historical nun, the sister of the Buddha’s natural mother (Mahāmāyā) who took over upon the latter’s death, both as the Buddha’s childhood wet-nurse and (surrogate) mother (actually his maternal aunt, Sinh. *puñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i ammā*), and as his father’s wife (hence step-mother). She was the founder and leader of the nuns, who convinced Ānanda to beg the Buddha for their order to be established.
 
 [^2]: there are numerous possibilities for translation of this string of locatives, because “delightful” (*ramme*) can modify either “city” (*pure*) or “nuns’ refuge” (*bhikkhunupassaye*), and the texts disagree on “built” (*kate*), which is the BJTS reading. PTS reads *setapure* (“white city”), which I followed in my previously-published translation of this *apadāna*. There is great disagreement in the manuscripts about this term: PTS offers *petapūre* (“filled with hungry ghosts” ?) and *gate* (“\[to which she had\] gone”); BJTS alt. has *yeva* (“indeed”).
 
@@ -970,7 +970,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^4]: or, as my earlier translation has it, “cannot bear”. The term (*sakkomi*) carries such connotations in vernacular usage and this is how I originally understood the text. However, in keeping with BJTS gloss here, I remain more literal and leave it open to varied interpretations: rather than an emotional reason for letting go of life’s constituents (or additionally an expression of maternal sentiment) it might be a simple statement of fact, i.e., she realizes it’s time to do and that means she’ll die before the Buddha and great followers.
 
-[^5]: PTS reads *paṭihacc’ āyusaṅkhāre*, which I follow here, though BJTS *paṭtigacc’* (alt. *paṭikacc’*), = “previous,” in which case *āyusaṅkhāre* might be the object of *ossajitvāna*, hence: “letting go of the constituents of my previous life”.
+[^5]: PTS reads *paṭiha<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>’ āyusaṅkhāre*, which I follow here, though BJTS *paṭtiga<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>’* (alt. *paṭika<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>’*), = “previous,” in which case *āyusaṅkhāre* might be the object of *ossajitvāna*, hence: “letting go of the constituents of my previous life”.
 
 [^6]: PTS and BJTS agree in presenting this as a six-footed verse.
 
@@ -986,7 +986,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^12]: lit., “who are going to nirvana”
 
-[^13]: reading *niggacchi bhikkhunīnilayā* with BJTS for PTS *niggañchi bhikkhunīlayanā*
+[^13]: reading *nigga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chi bhikkhunīnilayā* with BJTS for PTS *niggañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hi bhikkhunīlayanā*
 
 [^14]: *sugatorasā*, “the \[pl. fem.\] legitimate descendants of the Well-Gone-One,” that is, the goddesses living in the nuns’ residence
 
@@ -1044,9 +1044,9 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^41]: *sañjhā-ghanā*, lit., “from an evening cloud”
 
-[^42]: *narādiccaŋ*
+[^42]: *narādi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aŋ*
 
-[^43]: *ādiccakulaketunaŋ* (BJTS reads *°kaṃ*)
+[^43]: *ādi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>akulaketunaŋ* (BJTS reads *°kaṃ*)
 
 [^44]: lit., “not”
 
@@ -1120,7 +1120,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^79]: that is, Benares
 
-[^80]: BJTS reads *katvā pañcasatakuṭī* (“having made \[them\] five hundred huts” for PTS *pūgā bhavitvā sabbāyo*
+[^80]: BJTS reads *katvā pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asatakuṭī* (“having made \[them\] five hundred huts” for PTS *pūgā bhavitvā sabbāyo*
 
 [^81]: BJTS reads *pasannāmha sasāmikā*, “we were pleased with our husbands”
 
@@ -1198,6 +1198,6 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^118]: lit., “\[her\] state of rebirth (*gati*) is not known”. The metaphor is that Gotamī, like the flame that used to be in the iron rod on the forge, has disappeared without a trace, “cooled off”.
 
-[^119]: *acalaŋ sukhaŋ*. BJTS reads, more consistently with *Apadāna* as a whole, *acalaŋ padaŋ* (“unshaking state”)
+[^119]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alaŋ sukhaŋ*. BJTS reads, more consistently with *Apadāna* as a whole, *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alaŋ padaŋ* (“unshaking state”)
 
 [^120]: or “make an end of dis-ease:” *dukkhass’ antaŋ karissathā ti*.

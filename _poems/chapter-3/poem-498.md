@@ -196,9 +196,9 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^3]: BJTS reads *Yamako*
 
-[^4]: reading *catuddasasahassāni* with BJTS (and PTS alt.) for PTS *catuddasaŋ sahassānaŋ* (“of fourteenth thousand”)
+[^4]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuddasasahassāni* with BJTS (and PTS alt.) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuddasaŋ sahassānaŋ* (“of fourteenth thousand”)
 
-[^5]: *paricaranti*
+[^5]: *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aranti*
 
 [^6]: lit., “do *pūjā*”
 
@@ -230,7 +230,7 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^20]: BJTS reads *tuttāṭṭito*, the more correct (acc. to RD) spelling of PTS *°addito*
 
-[^21]: *maccurājā* = Māra
+[^21]: *ma<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>urājā* = Māra
 
 [^22]: *vharamānaŋ maŋ*
 
@@ -242,7 +242,7 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^26]: BJTS reads *kiṅkaṇi*
 
-[^27]: *pariciṇṇattā*
+[^27]: *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iṇṇattā*
 
 [^28]: lit., “dirt and dust are not smeared \[on me\]”
 
@@ -254,7 +254,7 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^32]: or “flood,” *aṇṇavaŋ*
 
-[^33]: reading *thokakañ ca yaṃ* with BJTS for PTS *thokakañcanaŋ* (“a little gold”)
+[^33]: reading *thokakañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a yaṃ* with BJTS for PTS *thokakañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anaŋ* (“a little gold”)
 
 [^34]: *saŋsāraŋ*, frequently described as “an ocean”
 

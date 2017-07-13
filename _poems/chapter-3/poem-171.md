@@ -63,10 +63,10 @@ The legend of Kumudamāliya Thera is finished.
 
 [^5]: *Samiti*, which BJTS Sinhala gloss takes to mean the Assembly of monks, i.e., the Buddha and his monastic followers
 
-[^6]: reading *samocitaṃ* (BJTS) for *saṅkocitaŋ* (PTS).
+[^6]: reading *samo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaṃ* (BJTS) for *saṅko<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaŋ* (PTS).
 
 [^7]: reading *yāvatā himavantantā parisā sā tadā ahu* (BJTS) for *yāvatā himavantato yāva samantato ahu* (“as far as the ends of the Himalayas, on all sides there was,” PTS)
 
-[^8]: reading *tācchadanasampanno* ("endowed with a canopy \[on top of\] him”) with BJTS for PTS *aggacchadanasampanno* (“with a canopy on top \[on top of him\]”)
+[^8]: reading *tā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadanasampanno* ("endowed with a canopy \[on top of\] him”) with BJTS for PTS *agga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadanasampanno* (“with a canopy on top \[on top of him\]”)
 
 [^9]: “Thousand Chariots”.

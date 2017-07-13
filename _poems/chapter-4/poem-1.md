@@ -116,7 +116,7 @@ Thus indeed Venerable[^21] Bhikkhunī Sumedhā spoke these verses.
 
 [^1]: BJTS places the *namaskāra* after the title *Therī-apadāna*.
 
-[^2]: this command (in the second person imperative plural) is omitted by BJTS even though it gives the parallel commands in verse (1) \[5\] of *Buddha-apadāna* and at the beginning of *Paccekabuddha-apadāna* and *Thera-apadāna*. The cty omits the Therīs altogether, despite having defined *Apadāna*, in its *nidāna*, as constituted by Buddha, Paccekabuddha, Thera and Therī sections.
+[^2]: this command (in the second person imperative plural) is omitted by BJTS even though it gives the parallel commands in verse (1) \[5\] of *Buddha-apadāna* and at the beginning of *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha-apadāna* and *Thera-apadāna*. The cty omits the Therīs altogether, despite having defined *Apadāna*, in its *nidāna*, as constituted by Buddha, Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha, Thera and Therī sections.
 
 [^3]: “Very Wise Woman”
 
@@ -126,11 +126,11 @@ Thus indeed Venerable[^21] Bhikkhunī Sumedhā spoke these verses.
 
 [^6]: BJTS reads a 14-syllable first foot and an 8-syllable second one, lit., “ten times, hundred times, thousand times, hundred times hundred times”. It also reads *mānusake* for *mānuse* (PTS) to produce a nine-syllable fourth foot. Both texts provide nine-syllable first, third and fourth feet in the following verse (3), before finally settling in to the standard 8-8-8-8. See n. 4 above. Are these problems with the transmission, or experiments with (or heedlessness about) meter?
 
-[^7]: here the possession of “seven gems” (*sattaratana*) by a wheel-turning (*cakkavatti*) monarch has become here a free-standing designation of the latter (perhaps better translated as “chief queen of a possessor of the seven gems” \[or, metrically, “a seven-gem-holder’s chief queen”\]). Note that she herself is one of those seven gems, as stated in the next foot.
+[^7]: here the possession of “seven gems” (*sattaratana*) by a wheel-turning (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavatti*) monarch has become here a free-standing designation of the latter (perhaps better translated as “chief queen of a possessor of the seven gems” \[or, metrically, “a seven-gem-holder’s chief queen”\]). Note that she herself is one of those seven gems, as stated in the next foot.
 
 [^8]: reading *āsiṃ* (BJTS) for *bhaviŋ* (PTS).
 
-[^9]: reading *sañcitakusalā* (BJTS) for *sañcitā kusalaŋ* (PTS), though they amount to the same thing.
+[^9]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itakusalā* (BJTS) for *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itā kusalaŋ* (PTS), though they amount to the same thing.
 
 [^10]: lit., “to the Assembly (*saṅgha*, the monks’ Assembly) headed up by the Buddha.
 
@@ -138,13 +138,13 @@ Thus indeed Venerable[^21] Bhikkhunī Sumedhā spoke these verses.
 
 [^12]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
 
-[^13]: lit., “they fared according to the Brahma-faring,” i.e., they led a celibate (*brahmacariya*) existence.
+[^13]: lit., “they fared according to the Brahma-faring,” i.e., they led a celibate (*brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariya*) existence.
 
 [^14]: Yāma, Tusita, Nimmānarati and Vāsavatti are all classes of deities = heavens in the Buddhist cosmology.
 
 [^15]: lit., “meritorious (*puñña*) karma”.
 
-[^16]: *maṇḍalīnañ ca rājūnaṃ*, lit., “of kings who \[ruled\] circles \[of kings\]”
+[^16]: *maṇḍalīnañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a rājūnaṃ*, lit., “of kings who \[ruled\] circles \[of kings\]”
 
 [^17]: or “I transmigrated,” *saṃsāriṃ*.
 

@@ -115,11 +115,11 @@ The legend of Tiṇakuṭidāyaka Thera is finished.
 
 [^12]: lit., of me, genitive.
 
-[^13]: *accha°*, Sinh. gloss *valassu*
+[^13]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha°*, Sinh. gloss *valassu*
 
 [^14]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^15]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā,* s.v.)
+[^15]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā,* s.v.)
 
 [^16]: *sarpaya*
 

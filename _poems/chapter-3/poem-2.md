@@ -144,7 +144,7 @@ The legend of Mahāmoggallāna Thera is finished.
 
 [^4]: lit., “established the turiya”
 
-[^5]: *accharā*, Skt. *apsarā*
+[^5]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>charā*, Skt. *apsarā*
 
 [^6]: lit., “with one thousand who were free of *āsavas* (outflows, defilements)”
 
@@ -162,7 +162,7 @@ The legend of Mahāmoggallāna Thera is finished.
 
 [^13]: reading, with BJTS and PTS alt, *marām’ ahaṃ* for PTS *bhavām’ ahaŋ*
 
-[^14]: *carimo vattate bhavo*
+[^14]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
 
 [^15]: lit., “in an aeon immeasurably \[past\].”
 

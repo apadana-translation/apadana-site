@@ -5,7 +5,7 @@ layout: poem
 category: chapter-4
 ---
 
-### \[7. Kaṭacchubhikkhadāyikā[^1]\]
+### \[7. Kaṭa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chubhikkhadāyikā[^1]\]
 
 Taking a spoonful of begged food,  
 I gave it to the Best Buddha,  
@@ -62,9 +62,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (11) \[70\]
 
-Thus indeed Bhikkhunī Kaṭacchubhikkhadāyikā spoke these verses.
+Thus indeed Bhikkhunī Kaṭa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chubhikkhadāyikā spoke these verses.
 
-The legend of Kaṭacchubhikkhadāyikā Therī is finished.
+The legend of Kaṭa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chubhikkhadāyikā Therī is finished.
 
 [^1]: “Spoonful of Begged-for-Food Donor”
 

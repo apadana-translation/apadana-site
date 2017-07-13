@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[119. Paccupaṭṭhānasaññaka[^1]\]
+### \[119. Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>upaṭṭhānasaññaka[^1]\]
 
 Right when Well-Gone Atthadassi  
 had achieved final nirvana,  
@@ -57,9 +57,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (10) \[1757\]
 
-Thus indeed Venerable Paccupaṭṭhānasaññaka Thera spoke these verses.
+Thus indeed Venerable Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>upaṭṭhānasaññaka Thera spoke these verses.
 
-The legend of Paccupaṭṭhānasaññaka Thera is finished.
+The legend of Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>upaṭṭhānasaññaka Thera is finished.
 
 [^1]: “Perceiver of Attending”
 

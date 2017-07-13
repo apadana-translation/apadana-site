@@ -91,7 +91,7 @@ The legend of Kāḷudāyi Thera is finished.
 
 [^1]: PTS reads Kāludāyi. See \#543 {546}, below, for a second *apadāna* ascribed to this \[same?\] monk.
 
-[^2]: reading *piyaṃ* (BJTS) for *ciraŋ* (“a long time,” PTS)
+[^2]: reading *piyaṃ* (BJTS) for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iraŋ* (“a long time,” PTS)
 
 [^3]: lit. “merit”
 

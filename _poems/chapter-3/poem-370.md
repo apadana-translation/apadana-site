@@ -7,7 +7,7 @@ category: chapter-3
 
 ### \[367. {370.}[^1] Salaḷapupphiya[^2]\]
 
-On Candabhāgā River’s bank  
+On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank  
 I was a *kinnara*[^3] back then.  
 And then I saw the God of Gods,  
 Bull of Men, walking back and forth. (1) \[3214\]
@@ -46,7 +46,7 @@ The Summary:
 Mandārava and Kekkhāru,  
 Bhisa, Kesarapupphiya,  
 Aṅkolaka and Kadambi,  
-Uddāli, Ekacampaka,  
+Uddāli, Eka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampaka,  
 Timira, Salaḷa as well:  
 and exactly forty verses.
 

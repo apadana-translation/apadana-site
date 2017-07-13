@@ -115,7 +115,7 @@ The legend of Sattuppalamālikāya Therī[^14] is finished.
 
 [^2]: lit., “a kṣatriyan”
 
-[^3]: reading *cārikaṃ cārayām’ ahaṃ* (BJTS) for *na mālaŋ pādayām’ ahaŋ* (“I didn’t ? a garland,” PTS).
+[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārikaṃ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārayām’ ahaṃ* (BJTS) for *na mālaŋ pādayām’ ahaŋ* (“I didn’t ? a garland,” PTS).
 
 [^4]: lit., “What then for me with these flowers…?”
 
@@ -127,7 +127,7 @@ The legend of Sattuppalamālikāya Therī[^14] is finished.
 
 [^8]: lit., “as far as my”. Pronounce as two syllables when chanting, to keep the meter.
 
-[^9]: lit., “one whose words are to be taken,” reading *ādeyyavacanā* (BJTS, PTS alt) for *adeyya°* (PTS).
+[^9]: lit., “one whose words are to be taken,” reading *ādeyyava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anā* (BJTS, PTS alt) for *adeyya°* (PTS).
 
 [^10]: see note to *Therāpadāna* v. \[309\].
 

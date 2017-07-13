@@ -51,7 +51,7 @@ Then there is the Summary of Chapters:
 
 Bhikkhada and Parivāra,  
 Chatta and Bandhujīvī and  
-also Supāricariya,  
+also Supāri<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariya,  
 Kumuda, Kuṭaja as well,  
 Tamālika, the tenth is done.  
 There are six hundred verses here  

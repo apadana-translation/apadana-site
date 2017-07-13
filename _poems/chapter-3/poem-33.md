@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[33. Mahā-Kaccāna[^1]\]
+### \[33. Mahā-Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna[^1]\]
 
 Covering it over with gold,  
 I had a lion-throne fashioned  
@@ -60,7 +60,7 @@ will be the Teacher in the world. (10) \[1042\]
 Falling from Tusitā heaven,  
 incited by \[his\] wholesome roots,  
 he’ll be \[born as\] Brahma’s kinsman;  
-his name \[will then be\] Kaccāna. (11) \[1043\]
+his name \[will then be\] Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna. (11) \[1043\]
 
 After he renounces \[the world,\]  
 he’ll be an arahant, undefiled.  
@@ -92,9 +92,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (17) \[1049\]
 
-Thus indeed Venerable Mahākaccāna Thera spoke these verses.
+Thus indeed Venerable Mahāka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna Thera spoke these verses.
 
-The legend of Mahākaccāna Thera is finshed.
+The legend of Mahāka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna Thera is finshed.
 
 [^1]: “Great Golden One,” a historical monk, and famous follower of the Buddha’s. See DPPN II:468ff., also cf. \#528 {531}, below, which is also ascribed to this monk.
 

@@ -26,7 +26,7 @@ that’s the fruit of giving flowers. (3) \[2542\]
 
 In the thirty-second aeon  
 ago lived one lord of the earth  
-known as Antalikkhacara,[^4]  
+known as Antalikkha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara,[^4]  
 a wheel-turning king with great strength. (4) \[2543\]
 
 The four analytical modes,  

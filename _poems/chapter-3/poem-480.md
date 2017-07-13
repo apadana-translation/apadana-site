@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[477. {480.}[^1] Pulinacaṅkamiya[^2]\]
+### \[477. {480.}[^1] Pulina<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅkamiya[^2]\]
 
 In the past, in a forest grove,  
 I was a man who hunted deer.  
@@ -37,9 +37,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[5030\]
 
-Thus indeed Venerable Pulinacaṅkamiya Thera spoke these verses.
+Thus indeed Venerable Pulina<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅkamiya Thera spoke these verses.
 
-The legend of Pulinacaṅkamiya Thera is finished.
+The legend of Pulina<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅkamiya Thera is finished.
 
 The Summary:
 
@@ -48,7 +48,7 @@ Ukkāsatika, Vījanī,
 Kummāsa and Kusaṭṭha \[too\],  
 also Giripunnāgiya,  
 Vallikāra,[^5] Pānadhida  
-\[and\] then Pulīnacaṅkama:  
+\[and\] then Pulīna<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅkama:  
 five and ninety are the verses  
 that are counted by those who know.
 

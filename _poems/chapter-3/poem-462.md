@@ -1,11 +1,11 @@
 ---
-title: Citapūjaka
+title: <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka
 order: 462
 layout: poem
 category: chapter-3
 ---
 
-### \[459. {462.}[^1] Citapūjaka[^2]\]
+### \[459. {462.}[^1] <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka[^2]\]
 
 When the Buddha[^3] was being burned,  
 Sikhi, the Kinsman of the World,  
@@ -32,9 +32,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[4873\]
 
-Thus indeed Venerable Citapūjaka Thera spoke these verses.
+Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka Thera spoke these verses.
 
-The legend of Citapūjaka Thera is finished.
+The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 

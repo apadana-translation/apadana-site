@@ -7,7 +7,7 @@ category: chapter-3
 
 ### \[268. Saḷalapupphiya[^1]\]
 
-On Candabhāgā River’s bank  
+On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank  
 I was a *kinnara*[^2] back then.  
 I saw the Buddha, Vipassi,  
 Surrounded by[^3] a Net of Rays. (1) \[2569\]

@@ -7,7 +7,7 @@ category: chapter-3
 
 ### \[325. Nimittasaññaka[^1]\]
 
-On Candabhāgā River’s bank,  
+On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
 I dwelt in a hermitage \[then\].  
 I saw a golden-colored deer,  
 \[which\] was wandering through the woods. (1) \[2852\]

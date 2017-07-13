@@ -144,7 +144,7 @@ The Buddha Chapter of the *Apadāna*, the First.
 
 [^8]: the analogy seems clear enough, but the final adjective varies from text to text, something is lost here. PTS reads *na honti parivimhitā*, BJTS and cty read *na hontu paNidimhi te*. Work on this one.
 
-[^9]: reading *saddhammam-acalo* (BJTS) for *sangaman-acalo* (PTS).
+[^9]: reading *saddhammam-a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo* (BJTS) for *sangaman-a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo* (PTS).
 
 [^10]: this verse only appears in BJTS
 

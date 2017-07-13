@@ -254,11 +254,11 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
-[^13]: *vicittaŋ*
+[^13]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*
 
 [^14]: *ratanāna-aṭṭha-paññāsaŋ uggato*. A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
 
-[^15]: *kañcanagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
+[^15]: *kañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^16]: *lokapajjtotaŋ*
 
@@ -286,7 +286,7 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^28]: *vijaṭetvā mahājaṭaŋ*. *Jaṭa* literally means he braid of a “matted hair ascetic” or a tangle of tree branches (a thicket), but figuratively refers to the great tangle of desire. The verb, *vjaṭeti*, means “untangle” but has the connotation, as does the English equivalent, of explaining or unraveling.
 
-[^29]: reading *rājāpaccā* (lit., “children of the king”) with BJTS for PTS *rājāmaccā* (“royal ministers”)
+[^29]: reading *rājāpa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ā* (lit., “children of the king”) with BJTS for PTS *rājāma<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ā* (“royal ministers”)
 
 [^30]: *vīraṅgarūpā*, lit., “with the appearance/form and limbs/body of a hero
 

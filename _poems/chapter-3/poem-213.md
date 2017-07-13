@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[213. Saccasaññaka[^1]\]
+### \[213. Sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>asaññaka[^1]\]
 
 In that period Vessabhu  
 Honored by the monks’ Assembly,[^2]  
@@ -37,14 +37,14 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2334\]
 
-Thus indeed Venerable Saccasaññaka Thera spoke these verses.
+Thus indeed Venerable Sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>asaññaka Thera spoke these verses.
 
-The legend of Saccasaññaka Thera is finished.
+The legend of Sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>asaññaka Thera is finished.
 
 [^1]: “Perception of the Truths”
 
 [^2]: *bhikkhusaṅghapurakkhato*
 
-[^3]: *ariyasaccāniˆ*: suffering, craving, release and the Path
+[^3]: *ariyasa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āniˆ*: suffering, craving, release and the Path
 
 [^4]: “One Attaining”

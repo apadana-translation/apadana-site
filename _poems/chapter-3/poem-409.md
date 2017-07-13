@@ -74,12 +74,12 @@ are \[also\] coming to my house. (13) \[4177\]
 
 *Andhakas*,[^57] all the *Muṇḍakas*,[^58]  
 *Kolakas*,[^59] *Sānuvindakas*,[^60]  
-and *Ārāvacīnaraṭṭhas*[^61]  
+and *Ārāva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īnaraṭṭhas*[^61]  
 are \[also\] coming to my house. (14) \[4178\]
 
 *Alasandakas*,[^62] *Pallavakas*,[^63]  
 *Babbaras*,[^64] *Bhagga-kārusas*,[^65]  
-*Rohitas*[^66] and *Cetaputtas*,[^67]  
+*Rohitas*[^66] and *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>etaputtas*,[^67]  
 are \[also\] coming to my house. (15) \[4179\]
 
 *Madhurakas*,[^68] *Kosalakas*,[^69]  
@@ -93,7 +93,7 @@ are \[also\] coming to my house. (16) \[4180\]
 are \[also\] coming to my house. (17) \[4181\]
 
 *Rohanas*,[^80] also *Sindhava*s,[^81]  
-*Cittas*[^82] \[and\] *Ekakaṇṇikas*,[^83]  
+*<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ittas*[^82] \[and\] *Ekakaṇṇikas*,[^83]  
 *Suraṭṭhas*[^84] and *Aparantas*[^85]  
 are \[also\] coming to my house. (18) \[4182\]
 
@@ -283,7 +283,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: a historical monk, another of Bāvarī’s students whose questions put to the Buddha, and his answer, are contained in the *Jatukaṇṇi Sutta* (a.k.a. J*atukaṇṇimāṇavapucchā)* of SN (vv. 1096-1100; the eleventh *sutta* of the *Parāyana Vagga*). BJTS reads *Jatukaṇṇi*.
+[^2]: a historical monk, another of Bāvarī’s students whose questions put to the Buddha, and his answer, are contained in the *Jatukaṇṇi Sutta* (a.k.a. J*atukaṇṇimāṇavapu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā)* of SN (vv. 1096-1100; the eleventh *sutta* of the *Parāyana Vagga*). BJTS reads *Jatukaṇṇi*.
 
 [^3]: *seṭṭhiputto*, “a millionaire’s son”
 
@@ -291,7 +291,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^5]: *ubbiddhā*, Skt. *udviddha*, a rare term outside *Apadāna* (and J) meaning (according to Cone) “high, elevated.” BJTS glosses it as a verb rather than an adjective (which would produce “tall architects”), “constructed \[a building\]” (*goḍanäguha*). I follow BJTS in making sense of this verse.
 
-[^6]: *gehalañchakā*, lit., “those who know \[make, do\] the marks of houses;” BJTS Sinh. gloss is just that: *geval lakuṇu dannō*. Lilley says all the mss give *lañjaka*, but variants are not noted by BJTS (*°lañchakā*)
+[^6]: *gehalañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hakā*, lit., “those who know \[make, do\] the marks of houses;” BJTS Sinh. gloss is just that: *geval lakuṇu dannō*. Lilley says all the mss give *lañjaka*, but variants are not noted by BJTS (*°lañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hakā*)
 
 [^7]: *turiyā*
 
@@ -315,7 +315,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^17]: *kumbhathūnī*, BJTS gloss “those who play a certain kind of instrument strapped to the face,” apparently a sort of drum.
 
-[^18]: *naccakā*, which like the *naṭa* (see next note) can refer to dancers, mimes, actors, etc.
+[^18]: *na<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>akā*, which like the *naṭa* (see next note) can refer to dancers, mimes, actors, etc.
 
 [^19]: *naṭā*, BJTS gloss *rūkaḍa naṭavannō* (“people who make puppets dance”)
 
@@ -347,9 +347,9 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^33]: *pathikā*
 
-[^34]: *yācaka*
+[^34]: *yā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aka*
 
-[^35]: *carakā*
+[^35]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arakā*
 
 [^36]: pronounce as two syllables to keep meter when chanting
 
@@ -401,7 +401,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^60]: cf. *Sānupabbata*, in the Himalayas (DPPN II: 1096)
 
-[^61]: PTS treats this as two separate groups: *Āras* and *Cīnaraṭṭhas*, Chinese-countries
+[^61]: PTS treats this as two separate groups: *Āras* and *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>īnaraṭṭhas*, Chinese-countries
 
 [^62]: Alexandrians
 
@@ -413,7 +413,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^66]: reading with BJTS; PTS gives *bahikā*
 
-[^67]: DPPN I:910: “The name of a tribe given in a nominal list \[citing this text\]; probably the inhabitants of Ceta.”
+[^67]: DPPN I:910: “The name of a tribe given in a nominal list \[citing this text\]; probably the inhabitants of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>eta.”
 
 [^68]: people from Madhura
 
@@ -465,9 +465,9 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^92]: *pesakārā*
 
-[^93]: *cammikā*
+[^93]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ammikā*
 
-[^94]: *tacchakārā*
+[^94]: *ta<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakārā*
 
 [^95]: *kammārā*
 
@@ -483,7 +483,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^101]: *usukārā*, arrow-makers
 
-[^102]: *cāpakārā*. BJTS reads *bhamakārā* (?)
+[^102]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āpakārā*. BJTS reads *bhamakārā* (?)
 
 [^103]: *pesakārā*
 
@@ -523,9 +523,9 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^121]: lit., “in the inside of”
 
-[^122]: *catuddīpe*, lit., “the four great islands” “all the continents”
+[^122]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuddīpe*, lit., “the four great islands” “all the continents”
 
-[^123]: *pañcasīle*: to practice restraint from taking life, taking what is not given, sexual misconduct, false speech and becoming careless through the use of alcohol.
+[^123]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīle*: to practice restraint from taking life, taking what is not given, sexual misconduct, false speech and becoming careless through the use of alcohol.
 
 [^124]: *dasakammapathe*: RD: “divided into kusala (meritorious, good) and akusala (demeritorious, evil) and classified according to the three manifestations” of body (3 *kammapathas*), speech (4 *kammapathas*) and mind (3 *kammapathas*), for a total of ten.
 

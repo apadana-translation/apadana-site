@@ -9,7 +9,7 @@ category: chapter-3
 
 The Victor Padumuttara  
 the Self-Become One, Best Person,  
-did dwell in Cittakūṭa[^1] then,  
+did dwell in <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ittakūṭa[^1] then,  
 in front of the Himalayas. (1) \[620\]
 
 I was \[then\] the king of beasts there,  

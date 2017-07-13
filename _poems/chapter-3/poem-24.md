@@ -5,9 +5,9 @@ layout: poem
 category: chapter-3
 ---
 
-# \[24. Pañcasīlasamādāniya[^1]\]
+# \[24. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīlasamādāniya[^1]\]
 
-In the city, Candavatī,[^2]  
+In the city, <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andavatī,[^2]  
 I was a servant-man back then.  
 Bound in the service of others  
 I could not renounce the world \[yet\]: (1) \[948\]
@@ -112,9 +112,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (21) \[968\]
 
-Thus indeed Venerable Pañcasīlasamādāniya Thera spoke these verses.
+Thus indeed Venerable Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīlasamādāniya Thera spoke these verses.
 
-The legend of Pañcasīlasamādāniya Thera is finished.
+The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīlasamādāniya Thera is finished.
 
 [^1]: “Accepter of the FIve Moral Precepts”
 
@@ -132,8 +132,8 @@ The legend of Pañcasīlasamādāniya Thera is finished.
 
 [^8]: lit., “I obtain those places”.
 
-[^9]: *pañcasīlān’*:
+[^9]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīlān’*:
 
-[^10]: reading *mocayiṃ* (BJTS) for *poṭhayiŋ* (PTS).
+[^10]: reading *mo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayiṃ* (BJTS) for *poṭhayiŋ* (PTS).
 
-[^11]: *pañcasīle*: to practice restraint from taking life, taking what is not given, sexual misconduct, false speech and becoming careless through the use of alcohol.
+[^11]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīle*: to practice restraint from taking life, taking what is not given, sexual misconduct, false speech and becoming careless through the use of alcohol.

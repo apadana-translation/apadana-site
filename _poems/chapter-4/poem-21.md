@@ -104,7 +104,7 @@ Dhammā, and also Sudhammā,
 and seventh Saṅghadāyikā, (19) \[657\]
 
 \[now\] Uppalavaṇṇā, Khemā  
-\[also\] Paṭācārā and I,  
+\[also\] Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā and I,  
 Kisāgotamī, Dhammadinnā,[^14]  
 and Visākhā is the seventh. (20) \[658\]
 
@@ -303,7 +303,7 @@ The legend of Bhaddā-Kuṇḍalakesā Therī is finished.
 
 [^12]: *sukhe ṭhitā*, lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
 
-[^13]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*ca*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
+[^13]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
 
 [^14]: given the long names, this foot is unavoidably nine-syllables long, both in Pāli and in English
 
@@ -319,9 +319,9 @@ The legend of Bhaddā-Kuṇḍalakesā Therī is finished.
 
 [^20]: *me bhūsanalobhena*, lit., “out of greed for my ornaments”
 
-[^21]: reading *khalitajjhāsayo diso* (lit., “enemy intent on wrong-doing”) with BJTS for PTS *mālapaccāhataŋ diso* (“\[led me\] carrying a garland, the enemy”)
+[^21]: reading *khalitajjhāsayo diso* (lit., “enemy intent on wrong-doing”) with BJTS for PTS *mālapa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āhataŋ diso* (“\[led me\] carrying a garland, the enemy”)
 
-[^22]: *corappapātaŋ*, BJTS Sinh. gloss explains “where thieves are killed”
+[^22]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>orappapātaŋ*, BJTS Sinh. gloss explains “where thieves are killed”
 
 [^23]: “Enemy,” but apparently used as a proper name
 

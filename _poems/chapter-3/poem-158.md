@@ -7,7 +7,7 @@ category: chapter-3
 
 ### \[158. Nāgapupphiya[^1]\]
 
-There was a man named Suvaccha[^2]  
+There was a man named Suva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha[^2]  
 a brahmin master of mantras,  
 placed in front by his own students,  
 residing upon a mountain. (1) \[2031\]

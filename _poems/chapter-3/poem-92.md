@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[92. Sucintita[^1]\]
+### \[92. Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita[^1]\]
 
 Happy, \[and\] with a happy heart,  
 I gave a \[new\] auspicious chair[^2]  
@@ -13,7 +13,7 @@ to Tissa the Lord of the World,
 the Buddha, Kinsman of the Sun. (1) \[1560\]
 
 Eight and thirty aeons ago  
-I was the king, Mahāruci.  
+I was the king, Mahāru<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i.  
 There were lots of riches \[for me\]  
 and many beds \[to sit upon\]. (2) \[1561\]
 
@@ -30,16 +30,16 @@ that is the fruit of a chair-gift. (4) \[1563\]
 Eight and thirty aeons ago  
 there were three wheel-turning monarchs:  
 Ruci and Uparuci too,  
-\[and\] Mahāruci was the third. (5) \[1564\]
+\[and\] Mahāru<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i was the third. (5) \[1564\]
 
 The four analytical modes,  
 and these eight deliverances,  
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1565\]
 
-Thus indeed Venerable Sucintita Thera spoke these verses.
+Thus indeed Venerable Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita Thera spoke these verses.
 
-The legend of Sucintita Thera is finished
+The legend of Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita Thera is finished
 
 [^1]: “Well-Thought.” \#66 and \#425 {428} are also ascribed to (apparently different) monks of this name.
 

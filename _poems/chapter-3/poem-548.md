@@ -12,7 +12,7 @@ Brahmā’s Kinsman, Greatly Famed One,
 known by the name of Kassapa,[^3]  
 Best Debater,[^4] \[Buddha,\] arose. (1) \[6247\]
 
-Back then \[both\] Candana and I,  
+Back then \[both\] <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andana and I,  
 gone forth[^5] in the dispensation,  
 fulfilling *Dhamma* to the end  
 of life in the dispensation, (2) \[6248\]
@@ -26,7 +26,7 @@ ten attainments starting with looks,
 living \[our\] lifespan’s \[full\] extent,  
 we’re enjoying great happiness. (3-4) \[6249-6250\]
 
-Falling from there, Candana was  
+Falling from there, <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andana was  
 reborn among the thirty \[gods\];  
 I was a son of the Śākyas,[^7]  
 in Kapilavastu city. (5) \[6251\]
@@ -76,7 +76,7 @@ power,[^20] I \[too\] was astonished.[^21]
 Having gone forth right on that spot,  
 I dwelt, worshipped by \[my\] mother.[^22] (14) \[6260\]
 
-Candana, \[now\] son of a god,  
+<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andana, \[now\] son of a god,  
 approached me, then examined[^23] \[me\]  
 on the *Bhaddekaratta Sutta*,[^24]  
 in abridged \[and\] extended forms.[^25] (15) \[6261\]
@@ -172,7 +172,7 @@ The legend of Lomasakaṅgiya Thera is finished.
 
 [^16]: *bhūripañña*
 
-[^17]: *samantacakkhu*. or “All-Seeing One” or “Far-Seeing One”
+[^17]: *samanta<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu*. or “All-Seeing One” or “Far-Seeing One”
 
 [^18]: this refers to a moment in the Buddha’s early life when the bodhisatta was left beneath a rose-apple (*jambu)* tree during a festival. His nurses returned to find him sitting cross-legged, having attained the first *jhana*, upon which the shade of the tree stood still, shading him as long as he remained there (see DPPN I: 789).
 
@@ -184,9 +184,9 @@ The legend of Lomasakaṅgiya Thera is finished.
 
 [^22]: this sets the stage for his mother’s initial reluctance to see him enter the forest life, fearing for his health.
 
-[^23]: reading *‘upagantvāna pucchatha* with BJTS for PTS *upagantvā ‘nurañjatha* (“having approached lit up \[the place\]”)
+[^23]: reading *‘upagantvāna pu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chatha* with BJTS for PTS *upagantvā ‘nurañjatha* (“having approached lit up \[the place\]”)
 
-[^24]: or *Ānanda-bhaddekaratta-sutta*, M.iii.187ff. Lomasakaṅgiya and Candana vowed during their previous life as monks together that in the future Candana would ask Lomasakaṅgiya about this particular *sutta*, and that Lomasakagiya would then explain it to him. The account of this encounter is called *Lomasakaṅgiya-Bhaddekaratta-sutta*, M.iii.199ff. See DPPN II: 359-360, for details and a summary of the text
+[^24]: or *Ānanda-bhaddekaratta-sutta*, M.iii.187ff. Lomasakaṅgiya and <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andana vowed during their previous life as monks together that in the future <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andana would ask Lomasakaṅgiya about this particular *sutta*, and that Lomasakagiya would then explain it to him. The account of this encounter is called *Lomasakaṅgiya-Bhaddekaratta-sutta*, M.iii.199ff. See DPPN II: 359-360, for details and a summary of the text
 
 [^25]: reading *saṅkhepavitthāranayaŋ* with BJTS for PTS *saṅkhepaŋ vitthāraŋ naraŋ* (“the abridged \[and\] extended man”)
 
@@ -200,7 +200,7 @@ The legend of Lomasakaṅgiya Thera is finished.
 
 [^30]: *dabbhaŋ kusaŋ* = the kind of *kusa* grass or “sacrificial grass” known as *dabbha*, a sweet-smelling grass, Sinh. *kusa taṇa*, *kuśa tṛṇa* (Bot. Dict. = arrow grass, Paspalum sanguinale (*Gram.*); note: Bot. Dict. also gives Sinh. *ītaṇa*, Andropogon contortus (*Gram.*) as arrow grass, and says *kuśa* also can mean *iḷuk*, Imperata arundinacea (*Gram.*))
 
-[^31]: *poṭakilam =* a kind of grass, Saccharum spontaneum, Sinh. *väluk*, “vining sugarcane,” which Bot. Dict. identifies as Phragmites karka (*Gram.*), a reed growing in marshes and near rivers which resembles sugar cane.
+[^31]: *poṭakilam =* a kind of grass, Sa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>charum spontaneum, Sinh. *väluk*, “vining sugarcane,” which Bot. Dict. identifies as Phragmites karka (*Gram.*), a reed growing in marshes and near rivers which resembles sugar cane.
 
 [^32]: *usīraŋ*, RD: the fragrant root of Andropogon Muricatum, Sinh. *sävänna*, *babus taṇa mul*, Bot. Dict. gives Andropogon squarrosus (*Gram.*), called cuscus grass
 
@@ -216,12 +216,12 @@ The legend of Lomasakaṅgiya Thera is finished.
 
 [^38]: *ajjeva*, lit., “even today” or “today itself”, “today” with emphasis.
 
-[^39]: reading *kicca ātappaṃ* with BJTS (and PTS alt.) for PTS *kicca kātabbaŋ* (“what should be done should be done”)
+[^39]: reading *ki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a ātappaṃ* with BJTS (and PTS alt.) for PTS *ki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a kātabbaŋ* (“what should be done should be done”)
 
 [^40]: reading *jaññu* with BJTS for PTS *jaññā*
 
 [^41]: reading *na hi no saṅgaraṃ tena* with BJTS for PTS *na hi tosaŋ karontena* (“there is no making satisfaction” ?)
 
-[^42]: reading *ācikkhate* with BJTS for PTS *ācikkate*
+[^42]: reading *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkhate* with BJTS for PTS *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkate*
 
 [^43]: *santo*

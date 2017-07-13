@@ -25,7 +25,7 @@ the fruit of Bodhi-perception. (3) \[1544\]
 When thirty-three aeons had passed  
 there were eight wheel-turning kings,  
 lords over men who were \[all then\]  
-known as Udakāsecana.[^2] (4) \[1545\]
+known as Udakāse<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ana.[^2] (4) \[1545\]
 
 The four analytical modes,  
 and these eight deliverances,  

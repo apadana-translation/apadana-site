@@ -429,7 +429,7 @@ The Legend of the Buddhas is completed.
 
 [^2]: BJTS alt. reads *dhīra* (“Wise One”) for *vīra* (“Hero”)
 
-[^3]: The first four verses of BJTS are not found in PTS. The first three verses of BJTS are in the more elaborate meter, with eleven syllables per foot, that characterizes the following *Paccekabuddhāpadāna* (and the *sutta* from which it in turn draws), so I have translated accordingly. Indeed, with very small changes, these first three verses are also the first three verses of *Paccekabuddhāpadāna*, even in the PTS edition.
+[^3]: The first four verses of BJTS are not found in PTS. The first three verses of BJTS are in the more elaborate meter, with eleven syllables per foot, that characterizes the following *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhāpadāna* (and the *sutta* from which it in turn draws), so I have translated accordingly. Indeed, with very small changes, these first three verses are also the first three verses of *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhāpadāna*, even in the PTS edition.
 
 [^4]: *jinasāsanesu,* lit., “in the Victors’ dispensations”
 
@@ -463,11 +463,11 @@ The Legend of the Buddhas is completed.
 
 [^19]: here the reading of the Hewawitarne and BJTS editions, echoed in the commentary, is significantly different: “Let there be umbrellas of gems/with gilded handles of scented bamboo//covered in a net of pearls./Let them all be carried out front.”
 
-[^20]: the palm-print is *pañcaṅguli* or *pañcaṅgulika*, Sinhala *pasaṅgul*. Pali-Sinhala-English Dictionary gives: “a mark of five fingers made after the hand immersing \[sic\] in a solution of sandalwood.” Here the text specifies that it was scented (*gandha°*).
+[^20]: the palm-print is *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅguli* or *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgulika*, Sinhala *pasaṅgul*. Pali-Sinhala-English Dictionary gives: “a mark of five fingers made after the hand immersing \[sic\] in a solution of sandalwood.” Here the text specifies that it was scented (*gandha°*).
 
 [^21]: *vina.*
 
-[^22]: reading *tato pare* with BJTS for PTS *ca-m-uppari*
+[^22]: reading *tato pare* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a-m-uppari*
 
 [^23]: *gandhabba = gandharva*
 

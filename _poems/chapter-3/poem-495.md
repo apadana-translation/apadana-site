@@ -69,6 +69,6 @@ The legend of Upaḍḍhadussadāyaka Thera is finished.
 
 [^4]: BJTS reads *tadā*, “then”
 
-[^5]: BJTS reads *caratī* with the same meaning
+[^5]: BJTS reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aratī* with the same meaning
 
 [^6]: *akutobhayo*, lit., “with fear from nowhere”

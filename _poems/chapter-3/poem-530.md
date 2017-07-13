@@ -242,7 +242,7 @@ The legend of Sugandha Thera is finished.
 
 The Summary:
 
-Tiṇada and Pecchada[^128] too,  
+Tiṇada and Pe<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chada[^128] too,  
 Saraṇ’, Abbhañjanappada,  
 Pūpatī[^129] and Daṇḍadāyī,  
 and likewise tooNelapūjī,  
@@ -291,7 +291,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^19]: reading *vimuttopadhisaṅkhaye* with BJTS for PTS *vimutto saṭisaṅkhaye*. *Upadhi* = a condition or ground for rebirth
 
-[^20]: *brahmacakkappavattako*. BJTS and PTS agree on this reading, where one would expect *dhammacakka°*
+[^20]: *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkappavattako*. BJTS and PTS agree on this reading, where one would expect *dhamma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akka°*
 
 [^21]: *sametā*, fr. *sameti*
 
@@ -355,7 +355,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^51]: or “the Son,” *suto*, Skt. *śruti*
 
-[^52]: *acalo*
+[^52]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo*
 
 [^53]: *mudito*
 
@@ -423,7 +423,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^85]: *tāpaso*, this makes nine syllables in the line, which needs to be chanted as eight by contracting “slayer” into “slair”
 
-[^86]: *samacitto*
+[^86]: *sama<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itto*
 
 [^87]: *‘samasamo*, (following BJTS Sinh. gloss; the cpd. could also be *samasamo*, “Always the Same”
 
@@ -431,7 +431,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^89]: reading *dayāsayo* (and following gloss) with BJTS for PTS *dayāyaso* (“famous for kindness” “kind-famed”)
 
-[^90]: *accherasanto*
+[^90]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cherasanto*
 
 [^91]: *akuho*, lit., “free of deceit” “upright”
 
@@ -449,7 +449,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^98]: *sabbavākyapathātīto*, lit., “he for whom the roads of all sayings are in the past”
 
-[^99]: *saccaneyyantago*, lit., “he who has gone to the end of truths to be understood \[or instructed, led carried, guided (gerund of *neti*)\]”
+[^99]: *sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aneyyantago*, lit., “he who has gone to the end of truths to be understood \[or instructed, led carried, guided (gerund of *neti*)\]”
 
 [^100]: *jino*
 
@@ -507,7 +507,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^127]: *tiṇṇasamsārasāgaro*
 
-[^128]: BJTS reads *mañcado* (“Mañcada”)
+[^128]: BJTS reads *mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ado* (“Mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ada”)
 
 [^129]: BJTS reads *supaṭo* (“Supaṭa”)
 

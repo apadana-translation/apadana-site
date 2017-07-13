@@ -510,7 +510,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^2]: *mahiddhikā* = possessing great magical powers.
 
-[^3]: reading *satehi satassehi sā* (BJTS) for *satehi saha pañcahi* (“by five hundred,” PTS). As the subsequent three *apadāna*\s make clear, these authors believed that Yasodharā approached the Buddha accompanied by considerably more than 500 nuns.
+[^3]: reading *satehi satassehi sā* (BJTS) for *satehi saha pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahi* (“by five hundred,” PTS). As the subsequent three *apadāna*\s make clear, these authors believed that Yasodharā approached the Buddha accompanied by considerably more than 500 nuns.
 
 [^4]: reading *ettha* with BJTS for PTS *nāma* (“indeed”)
 
@@ -518,7 +518,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^6]: lit., “to/of the Teacher,” “give reverence *to* the Teacher”
 
-[^7]: PTS *khalitaŋ ce tavaŋ mayi*, BJTS *khalitaṃ ce mamaṃ tayi*, both to be construed the same way
+[^7]: PTS *khalitaŋ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>e tavaŋ mayi*, BJTS *khalitaṃ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>e mamaṃ tayi*, both to be construed the same way
 
 [^8]: *munindo*
 
@@ -544,17 +544,17 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^19]: this verse does not appear here in BJTS, whereas BJTS supplies \[974\] which does not appear here in PTS. The two verses are sufficiently different to warrant inclusion of both, though it creates some unevenness in the flow of the narrative here. This verse does appear in BJTS below \[1054\], as in PTS, in the reduplication of Yasodharā’s *apadāna* as the *apadāna* of Eighteen Thousand Buddhist Nuns Headed Up by Yasodharā.
 
-[^20]: *cakkavālaŋ samaŋ* (BJTS *cakkavāḷasamaṃ*) *kāyaŋ*, lit., “body the same as the ring surrounding the universe”
+[^20]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālaŋ samaŋ* (BJTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷasamaṃ*) *kāyaŋ*, lit., “body the same as the ring surrounding the universe”
 
 [^21]: or *Uttarakuru* “island” (*dīpa*). This verse presumes knowledge of the ancient Indian understanding of India (here *jambudīpaŋ* \[BJTS *°dīpo*\], “the Island of Rose-Apples”) as one of the four great islands or continents making up the whole world. It lies to the south, with the other three being north, east and west of India.
 
-[^22]: lit., “in the ring surrounding the universe” (*cakkavālagiri°*; BJTS *cakkavāḷagiri°*)
+[^22]: lit., “in the ring surrounding the universe” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālagiri°*; BJTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷagiri°*)
 
 [^23]: *jamburukkha°*, lit., “a rose-apple tree”
 
 [^24]: *°vaṇṇaŋ…dassayi*
 
-[^25]: reading *phullapadmena* with BJTS for PTS *phullapaccena* (?)
+[^25]: reading *phullapadmena* with BJTS for PTS *phullapa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ena* (?)
 
 [^26]: *dhammaŋ…puññataŋ*, alt. *suññataṃ* (“emptiness”!)
 
@@ -562,11 +562,11 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^28]: *saṅgaman te su-dassitaŋ* allows for a wide range of meanings; here I follow the BJTS in a fairly modest one. The half-verse could be taken more provocatively to mean, e.g., “when the Buddhas were World-Lords (or “during the time of the former World-Lords”) meeting (or “intercourse”) with you was well seen \[by me\]”
 
-[^29]: reading *vārayitvā anācaraṃ* with BJTS for PTS *pācayantī anāvaraŋ* (“burning/tormenting ?)
+[^29]: reading *vārayitvā anā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṃ* with BJTS for PTS *pā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayantī anāvaraŋ* (“burning/tormenting ?)
 
 [^30]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta*, \#29 of *Dīghanikāya*, section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
 
-[^31]: reading *sañcattaṃ* with BJTS (and PTS alt.) for PTS *samattaŋ* (“fulfilled” “completed”)
+[^31]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attaṃ* with BJTS (and PTS alt.) for PTS *samattaŋ* (“fulfilled” “completed”)
 
 [^32]: reading *°bhaṇḍe na gūhāmi* with BJTS for PTS *bhaṇḍena gūhāmi* (“I conceal with a thing”)
 
@@ -574,7 +574,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^34]: lit., “see,” fig. “know”
 
-[^35]: reading *anubhuttaṃ* with BJTS for PTS *pariccattaŋ* (“are sacrificed,” cf. PTS alt. *anubhontaŋ*)
+[^35]: reading *anubhuttaṃ* with BJTS for PTS *pari<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>attaŋ* (“are sacrificed,” cf. PTS alt. *anubhontaŋ*)
 
 [^36]: *saṃsāre*, or “wheel of life”
 
@@ -594,7 +594,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^44]: i.e., Sumedha
 
-[^45]: reading *cīrānupari āsīnaṃ* with BJTS for PTS *cirānugataŋ dassitaŋ* (“associated for a long time, seen”)
+[^45]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īrānupari āsīnaṃ* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>irānugataŋ dassitaŋ* (“associated for a long time, seen”)
 
 [^46]: *patikantaŋ*, BJTS *atikantaṃ*
 
@@ -634,11 +634,11 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^64]: *adhikāraŋ sadā mayhaŋ*, lit., “my service is constant” “my service is daily”
 
-[^65]: or do: from *carati*
+[^65]: or do: from *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arati*
 
 [^66]: *saddhamma°*, lit “good Teaching”
 
-[^67]: *dhammesu ciṇṇānaŋ sadā saddhamma-carino*
+[^67]: *dhammesu <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iṇṇānaŋ sadā saddhamma-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arino*
 
 [^68]: *aṭṭhamāse*, BJTS reads *addhamāse* (“half a month”)
 

@@ -120,7 +120,7 @@ The legend of Uttareyyadāyaka Thera is finished.
 
 [^2]: “Upper Cloak Donor” or “Outer Garment Donor.” *Uttareyya* = *uttarīya*
 
-[^3]: *toya-abhisecana-atthāya*, lit., “for the sake of a ritual water-bath by sprinkling”
+[^3]: *toya-abhise<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ana-atthāya*, lit., “for the sake of a ritual water-bath by sprinkling”
 
 [^4]: lit., “master of all things (*dhamma*)” (or “Master of All Teachings”)
 
@@ -128,7 +128,7 @@ The legend of Uttareyyadāyaka Thera is finished.
 
 [^6]: lit., “by arahants”
 
-[^7]: *sucārurūpa*, “He whose form is very beautiful”
+[^7]: *su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārurūpa*, “He whose form is very beautiful”
 
 [^8]: *namassitvāna*, lit., “having paid homage to” “having venerated”
 
@@ -138,7 +138,7 @@ The legend of Uttareyyadāyaka Thera is finished.
 
 [^11]: lit., “\[that\] cloak covered”
 
-[^12]: *piṇḍacārañ carantassa*, lit., “wandering on its alms-rounds”
+[^12]: *piṇḍa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arantassa*, lit., “wandering on its alms-rounds”
 
 [^13]: I am uncertain what house this refers to, as the protagonist had met Padumuttara Buddha in the city, but the Pāli is unambiguous (*gharato nikkhamantassa*, genitive absolute construction)
 

@@ -91,7 +91,7 @@ The Summary:
 Sumedhā, Mekhalādadā,  
 Maṇḍapa, Saṅkamaṇḍalā,  
 Nalamālī, Piṇḍadadā,  
-Kaṭacchu, Uppalappadā,  
+Kaṭa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu, Uppalappadā,  
 Dīpad-Odakadā also;  
 the verses here[^8] are counted \[thus:\]  
 one verse and one hundred \[also\]  

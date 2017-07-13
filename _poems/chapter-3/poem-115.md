@@ -60,7 +60,7 @@ The legend of Suvaṇṇapupphiya Thera is finished.
 
 [^2]: *Dhamma*
 
-[^3]: reading *ca* (BJTS, PTS alt) for *va* (“like,” PTS).
+[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (BJTS, PTS alt) for *va* (“like,” PTS).
 
 [^4]: lit., “Sambuddha”
 

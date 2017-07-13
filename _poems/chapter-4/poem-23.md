@@ -106,7 +106,7 @@ Dhammā, and also Sudhammā,
 and seventh Saṅghadāyikā, (20) \[752\]
 
 \[now\] Khemā Uppalavaṇṇā,  
-Paṭācārā and Kuṇḍalā,[^9]  
+Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā and Kuṇḍalā,[^9]  
 \[Kisā\]gotamī, also I,  
 and Visākhā is the seventh. (21) \[753\]
 
@@ -194,7 +194,7 @@ The legend of Dhammadinnā Therī is finished.
 
 [^3]: *ghananinādasussaro*, should this be taken as a Buddha epithet, to be capitalized?
 
-[^4]: *°āgacchita°*, lit., “come into”
+[^4]: *°āga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chita°*, lit., “come into”
 
 [^5]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
 
@@ -202,7 +202,7 @@ The legend of Dhammadinnā Therī is finished.
 
 [^7]: *sukhe ṭhitā*, lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
 
-[^8]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*ca*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
+[^8]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
 
 [^9]: = Bhaddā Kuṇḍalakesī
 

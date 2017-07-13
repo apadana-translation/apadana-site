@@ -10,7 +10,7 @@ category: chapter-3
 The Blessed One named Kosika,  
 Meditator, Trance-Loving One,  
 Buddha, Seclusion-Lover, Sage,  
-lived on Cittakūṭa[^3] back then. (1) \[4965\]
+lived on <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ittakūṭa[^3] back then. (1) \[4965\]
 
 Plunged[^4] into the Himalayas,  
 attended by troops of women,  
@@ -95,11 +95,11 @@ The legend of Ukkāsatika Thera is finished.
 
 [^2]: “Hundred-Flame-er”
 
-[^3]: = Citrakūṭa, a mountain in the Himalayas, one of five said to surround Lake Anottata (Anavatapta), composed of all precious metals and famed for golden swans living in a golden cave. DPPN I:869: “It is generally identified with Kāmptanāthgiri in Bundelkhand, an isolated hill on the Paisunī or Mandākinī River”
+[^3]: = <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itrakūṭa, a mountain in the Himalayas, one of five said to surround Lake Anottata (Anavatapta), composed of all precious metals and famed for golden swans living in a golden cave. DPPN I:869: “It is generally identified with Kāmptanāthgiri in Bundelkhand, an isolated hill on the Paisunī or Mandākinī River”
 
 [^4]: lit., “plunging”
 
-[^5]: i.e., when it is full, *puṇṇamāse va candimā*
+[^5]: i.e., when it is full, *puṇṇamāse va <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andimā*
 
 [^6]: *gahetvā*, lit., “taking”
 
@@ -111,7 +111,7 @@ The legend of Ukkāsatika Thera is finished.
 
 [^10]: *jambusaṇḍa* = *jambudīpa* = India, the South Asian continent
 
-[^11]: *caturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
+[^11]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
 
 [^12]: “beautiful”
 

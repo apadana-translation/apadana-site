@@ -175,7 +175,7 @@ The legend of Tissa-metteyya Thera is finished.
 
 [^6]: reading *devate* with BJTS for PTS *deva te*
 
-[^7]: *paricara*
+[^7]: *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara*
 
 [^8]: lit., “he did not burn”
 

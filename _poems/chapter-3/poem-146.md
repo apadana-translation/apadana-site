@@ -47,7 +47,7 @@ The legend of Anulepadāyaka Thera is finished.
 
 [^3]: lit., “in the monks’ Assembly”
 
-[^4]: reading *cetanā*° (BJTS, PTS alt) for *cetasā* (“by heart,” “with the mind,” PTS)
+[^4]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etanā*° (BJTS, PTS alt) for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etasā* (“by heart,” “with the mind,” PTS)
 
 [^5]: lit., “in the Supreme Buddha’s"
 

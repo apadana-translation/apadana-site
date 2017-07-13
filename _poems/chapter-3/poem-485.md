@@ -1,11 +1,11 @@
 ---
-title: Candanamāliya
+title: <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanamāliya
 order: 485
 layout: poem
 category: chapter-3
 ---
 
-### \[482. {485.}[^1] Candanamāliya[^2]\]
+### \[482. {485.}[^1] <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanamāliya[^2]\]
 
 Giving up the five sense pleasures,[^3]  
 forms which are dear and delightful;  
@@ -165,15 +165,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (29) \[5134\]
 
-Thus indeed Venerable Candanamāliya Thera spoke these verses.
+Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanamāliya Thera spoke these verses.
 
-The legend of Candanamāliya Thera is finished.
+The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanamāliya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
 [^2]: “Sandalwood and Flowers-er”
 
-[^3]: *pañca-kāma-guṇe*, “the five strands of sense pleasure,” namely those obtained through the five senses
+[^3]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a-kāma-guṇe*, “the five strands of sense pleasure,” namely those obtained through the five senses
 
 [^4]: *pāpakammaŋ vivajjayiŋ*
 
@@ -207,11 +207,11 @@ The legend of Candanamāliya Thera is finished.
 
 [^19]: PTS and BJTS agree in presenting this as a six-footed verse
 
-[^20]: *caturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
+[^20]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
 
 [^21]: PTS and BJTS agree in presenting this as a six-footed verse
 
-[^22]: reading *abhiññāpāragū hutvā* with BJTS for PTS *aviññattipaccayo*, “one whose support is not known”
+[^22]: reading *abhiññāpāragū hutvā* with BJTS for PTS *aviññattipa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ayo*, “one whose support is not known”
 
 [^23]: this verse does not appear in PTS
 

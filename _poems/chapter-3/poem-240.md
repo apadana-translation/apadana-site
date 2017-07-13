@@ -39,4 +39,4 @@ The Udakāsanadāyi Chapter, the Twenty-Fourth
 
 [^1]: “Razor-donor”
 
-[^2]: DPPN: the name given to the inhabitants of Mount Vepulla, then known as Pācinavamsa, near Rājagaha, in the time of Kakusandha Buddha. Their term of life was forty thousand years. S.ii.190.
+[^2]: DPPN: the name given to the inhabitants of Mount Vepulla, then known as Pā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>inavamsa, near Rājagaha, in the time of Kakusandha Buddha. Their term of life was forty thousand years. S.ii.190.

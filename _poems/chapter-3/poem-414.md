@@ -77,7 +77,7 @@ The legend of Madhumaŋsadāyaka Thera is finished.
 
 [^3]: *sūkariko*, Cty: *sūkaramaṃsaṃ vikkiṇitvā jīvitaṃ kappento*, “earning a living by selling hog-flesh”
 
-[^4]: *ukkoṭakaŋ randhayitvā*, following the cty: *pihaka-papphāsa-maṃsaṃ pacitvā*. BJTS gloss: *kävatū papumas pisa*, ‘having cooked the liver and heart meat.” The intent is clearly “cooking the pig innards” or “cooking the pluck”
+[^4]: *ukkoṭakaŋ randhayitvā*, following the cty: *pihaka-papphāsa-maṃsaṃ pa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itvā*. BJTS gloss: *kävatū papumas pisa*, ‘having cooked the liver and heart meat.” The intent is clearly “cooking the pig innards” or “cooking the pluck”
 
 [^5]: reading *madhu maṃsamhi okiriŋ* with BJTS (and PTS alt., and cty.) for PTS: *madhusappimhi ākiriŋ*, “I sprinkled honey on the ghee”
 
@@ -89,7 +89,7 @@ The legend of Madhumaŋsadāyaka Thera is finished.
 
 [^9]: *dve sampattiyo*, i.e., birth as a human and birth as a god
 
-[^10]: *carimo vattate bhavo*
+[^10]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
 
 [^11]: lit., “is,” with “food-and-drink” being taken as a singular noun.
 

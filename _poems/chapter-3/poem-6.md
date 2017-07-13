@@ -564,7 +564,7 @@ of boundless might and measureless fame,
 king of the earth, and very rich. (111) \[556\]
 
 I was \[then\] the son of that king,  
-the Kṣatriyan named Candana.  
+the Kṣatriyan named <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andana.  
 I was puffed up with pride of clan  
 and pride about my fame and wealth. (112) \[557\]
 
@@ -820,7 +820,7 @@ The legend of Upāli Thera is finished.
 
 [^17]: RD gives “good hips,” referring to this text. I don’t see the warrant, and take the term *susaññā* from *saññā*, sense, perception, as does BJTS
 
-[^18]: *thānāṭhāne ca kovido*. This is one of the ten powers of a Buddha.
+[^18]: *thānāṭhāne <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a kovido*. This is one of the ten powers of a Buddha.
 
 [^19]: cty here explains these as the fires of *rāga* (lust), *dosa* (anger) and *moha* (ignorance, folly)
 
@@ -832,7 +832,7 @@ The legend of Upāli Thera is finished.
 
 [^23]: *saṃsāra-sotaŋ*
 
-[^24]: lit, in the forest of the Cittalatā, the name of one of Indra’s gardens
+[^24]: lit, in the forest of the <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ittalatā, the name of one of Indra’s gardens
 
 [^25]: *paṭisandhi* = conception, reunion, following cty in connecting this with future existence
 
@@ -842,9 +842,9 @@ The legend of Upāli Thera is finished.
 
 [^28]: lit “of the *Vinaya*;” BJTS and cty understand this to mean the two *Vibhanga*\s of the *Vinayapiṭaka*: *Bhikkhu-vibhanga* and *Bhikkhunī-vibhanga*.
 
-[^29]: that is, the *Mahāvagga* and the *Cūlavagga* of the *Vinayapiṭaka*.
+[^29]: that is, the *Mahāvagga* and the *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ūlavagga* of the *Vinayapiṭaka*.
 
-[^30]: *tikacchede ‘va pañcake*; BJTS: *sanghādisesa tika pācittiyādiyehi da, pasvaeni vu parivarayehi da*
+[^30]: *tika<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chede ‘va pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ake*; BJTS: *sanghādisesa tika pā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittiyādiyehi da, pasvaeni vu parivarayehi da*
 
 [^31]: *niggahe*: rebuking evil monks
 
@@ -870,7 +870,7 @@ The legend of Upāli Thera is finished.
 
 [^42]: *satipaṭṭhāna*
 
-[^43]: *catūpapātakovido*. What are these?
+[^43]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atūpapātakovido*. What are these?
 
 [^44]: lit., “of everything in the dispensation”.
 
@@ -900,7 +900,7 @@ The legend of Upāli Thera is finished.
 
 [^57]: cty stipulates that this refers to his former occupation as the barber of the Śākyas.
 
-[^58]: my translation here follows the BJTS Sinhala gloss on this grammatically-ambiguous verse, and the BJTS (and PTS alt.) reading of the final verb as *khamāpayi* (third person) for PTS *khamāpayiŋ* (first person); the ambiguity revolves around the term translated here as “Self-Become,” *sayambhuñ* (*sayambhuṃ*), which as a nominative (as in the BJTS gloss, and corresponding to the third person verb), should be *sayambhū* (would -*ū* ever become -*uñ* in *sandhi* with *ca*?), rather than this form which appears to be an accusative (*sayambhuṃ*, which would accord with the first person verb of PTS, but leaves the text asserting that the protagonist forgave the Buddha rather than the other way around); the -*uṃ* could also be read as a vocative form, but then the verse lacks a subject, since the first reference to the (present) Buddha is clearly in the vocative.
+[^58]: my translation here follows the BJTS Sinhala gloss on this grammatically-ambiguous verse, and the BJTS (and PTS alt.) reading of the final verb as *khamāpayi* (third person) for PTS *khamāpayiŋ* (first person); the ambiguity revolves around the term translated here as “Self-Become,” *sayambhuñ* (*sayambhuṃ*), which as a nominative (as in the BJTS gloss, and corresponding to the third person verb), should be *sayambhū* (would -*ū* ever become -*uñ* in *sandhi* with *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*?), rather than this form which appears to be an accusative (*sayambhuṃ*, which would accord with the first person verb of PTS, but leaves the text asserting that the protagonist forgave the Buddha rather than the other way around); the -*uṃ* could also be read as a vocative form, but then the verse lacks a subject, since the first reference to the (present) Buddha is clearly in the vocative.
 
 [^59]: cty here explains these as the fires of *rāga* (lust), *dosa* (anger) and *moha* (ignorance, folly)
 

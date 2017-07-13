@@ -25,7 +25,7 @@ noisy with peacocks[^9] \[and\] herons,[^10]
 \[and\] the \[calls of birds\] like cuckoos.[^11] \[6333\]
 
 Pigeons[^12] \[and\] *ravi*-swans[^13] \[as well\],  
-ruddy geese[^14] and *nadīcaras*,  
+ruddy geese[^14] and *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aras*,  
 lapwings[^15] \[and\] mynah birds[^16] are here,  
 small monkeys,[^17] *jīvajīvakas*.[^18] \[6334\]
 
@@ -161,17 +161,17 @@ The legend of Yasa Thera, the first.
 
 [^4]: *ogayha*, “submerged in” “plunged into.” BJTS normalizes this by glossing “in the vicinity of the great ocean,” but I take it more literally, and assume that the protagonist is a supernatural being for whom this *is* normal.
 
-[^5]: PTS *cakkavākā pakūjitā;* BJTS *cakkavākūpakūjitā*
+[^5]: PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā pakūjitā;* BJTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākūpakūjitā*
 
 [^6]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus, also the (or a) gloss at \[4231\], \[4233\], \[4313\]. But elsewhere BJTS gives different glosses: at \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
 
-[^7]: *maccha-kacchapa-sañchannā*
+[^7]: *ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha-ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chapa-sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hannā*
 
 [^8]: *samotthatā*, lit., “strewn about,” “spread out over”
 
 [^9]: *mayura°*
 
-[^10]: *°koñca°*
+[^10]: *°koñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a°*
 
 [^11]: *kokilādīhi vagguhi*, lit., “and with the lovely \[cries\] of cuckoos, etc.”
 
@@ -179,7 +179,7 @@ The legend of Yasa Thera, the first.
 
 [^13]: *ravihaŋsā*
 
-[^14]: *cakkavākā*
+[^14]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā*
 
 [^15]: *dindibhā*, Sinh. gloss *kirallu*, *kiraḷā* = red-wattled or yellow-wattled lapwing. PSI dictionary gives “bluejay”
 
@@ -201,11 +201,11 @@ The legend of Yasa Thera, the first.
 
 [^24]: lit., “I made” “I did”
 
-[^25]: *pacceka-dussa-yugale*
+[^25]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>eka-dussa-yugale*
 
 [^26]: *āhutīnaṃ paṭiggaho*
 
-[^27]: *tappayi*, lit., “satisfied,” “regaled,” “entertained.” BJTS reads *sabbe ime ca* (“and all of these \[monks\]”) for PTS *saṅgham etena*
+[^27]: *tappayi*, lit., “satisfied,” “regaled,” “entertained.” BJTS reads *sabbe ime <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and all of these \[monks\]”) for PTS *saṅgham etena*
 
 [^28]: lit., “every day”
 

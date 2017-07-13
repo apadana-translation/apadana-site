@@ -299,11 +299,11 @@ The legend of Nandā Therī is finished.
 
 [^10]: *suñññataŋ*, or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
-[^11]: *vicittaŋ*
+[^11]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*
 
 [^12]: *ratanāna-aṭṭha-paññāsaŋ uggato*. A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
 
-[^13]: *kañcanagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
+[^13]: *kañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^14]: *paramassādaŋ*, or “having the ultimate taste”
 
@@ -331,11 +331,11 @@ The legend of Nandā Therī is finished.
 
 [^26]: *kapilavhaye*, lit., “in the \[city\] named for Kapila”
 
-[^27]: reading *siriṃ ca* with BJTS for PTS (and BJTS alt.) *siriyā*, “with splendor”
+[^27]: reading *siriṃ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with BJTS for PTS (and BJTS alt.) *siriyā*, “with splendor”
 
 [^28]: *nanditaŋ*
 
-[^29]: *ca*, lit., “and \[I was\]”
+[^29]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., “and \[I was\]”
 
 [^30]: *kalyāṇi ti*
 
@@ -345,17 +345,17 @@ The legend of Nandā Therī is finished.
 
 [^33]: *tilokaggo*, lit., “Three Worlds’ Chief”
 
-[^34]: *majjhimo*, or BJTS (and PTS alt.) *pacchimo*, “the last” — BJTS Sinh. gloss *mä kaṇiṭu bǟyā* (“my younger elder brother”)
+[^34]: *majjhimo*, or BJTS (and PTS alt.) *pa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chimo*, “the last” — BJTS Sinh. gloss *mä kaṇiṭu bǟyā* (“my younger elder brother”)
 
 [^35]: *arahā*, “worthy” “an arahant”
 
 [^36]: that is, by Mahāpajāpatī Gotamī, founder and leader of the Assembly of Nuns (*bhikkhunīsaṅgha*)
 
-[^37]: reading *kinnu v’ acchasi* with BJTS for PTS *kiŋ na acchasi*, (“why don’t you sit”)
+[^37]: reading *kinnu v’ a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chasi* with BJTS for PTS *kiŋ na a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chasi*, (“why don’t you sit”)
 
 [^38]: *nandena pi vinā bhūtā*, a play on the nun’s name
 
-[^39]: *asucisammataŋ*, or “not considered pure” (depending on whether the compound is understood as *asuci-sammataŋ* or *a-sucisammataŋ*)
+[^39]: *asu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>isammataŋ*, or “not considered pure” (depending on whether the compound is understood as *asuci-sammataŋ* or *a-su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>isammataŋ*)
 
 [^40]: *rūpaŋ*
 
@@ -373,7 +373,7 @@ The legend of Nandā Therī is finished.
 
 [^47]: *puññānaŋ*, lit., “for merit\[orious deed\]s,” i.e., plural
 
-[^48]: PTS *vara*. BJTS reads *cara*, “wander”
+[^48]: PTS *vara*. BJTS reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara*, “wander”
 
 [^49]: *dehena*, lit., “with”
 
@@ -383,7 +383,7 @@ The legend of Nandā Therī is finished.
 
 [^52]: *jhān’ajjhena*
 
-[^53]: *na câhaŋ tatra ussukā*, omitting “and” in the translation
+[^53]: *na <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>âhaŋ tatra ussukā*, omitting “and” in the translation
 
 [^54]: *disvā*, lit., “seeing”
 
@@ -391,9 +391,9 @@ The legend of Nandā Therī is finished.
 
 [^56]: or “form”: *rūpasmiŋ*
 
-[^57]: *dassanīyaŋ*, lit., “to be looked at,” “eye-candy”
+[^57]: *dassanīyaŋ*, lit., “to be looked at,” “eye-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andy”
 
-[^58]: *suruciraŋ*
+[^58]: *suru<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iraŋ*
 
 [^59]: lit., “her, seeing \[her\] very”
 
@@ -407,13 +407,13 @@ The legend of Nandā Therī is finished.
 
 [^64]: reading *lūtā* (Sinh. gloss *makuḷuvek*) with BJTS (and PTS alt., sort of \[*lutā*, sic\]) for PTS *luddā* (“hunters” \[or “disgusting/gruesome thing” ?\])
 
-[^65]: reading *vipubbañca* (“festering”) with BJTS for PTS *sabbañca* (“all” “entire”), though the latter is also a reasonable enough reading.
+[^65]: reading *vipubbañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“festering”) with BJTS for PTS *sabbañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“all” “entire”), though the latter is also a reasonable enough reading.
 
 [^66]: reading *nissasantī* (lit., “gasping for breath \[or “panting” or “sighing” or “exhaling”\]) with BJTS (and PTS alt.) for PTS *nissayanti* (“they are pursuing” “leaning on”)
 
 [^67]: or “suffering with suffering” “ill at ease with dis-ease” etc.: *dukkhena dukkhitā homi*
 
-[^68]: reading *dolālālā* (lit., “swing-aquiver”) with BJTS for PTS *dolālocā* (“swing” + ?) and alts. *dolālolā* “swing unwavering/undisturbed,” *dolātulā*, ”swing” + ?) which seem to emulate the alliteration of BJTS’ *dolālālā* even at the expense of apparent meaning
+[^68]: reading *dolālālā* (lit., “swing-aquiver”) with BJTS for PTS *dolālo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ā* (“swing” + ?) and alts. *dolālolā* “swing unwavering/undisturbed,” *dolātulā*, ”swing” + ?) which seem to emulate the alliteration of BJTS’ *dolālālā* even at the expense of apparent meaning
 
 [^69]: especially the buds of *mimusops elengi* (says RD quoting Hardy, see *makuḷa* s.v.), = Spanish Cherry, Pāli *vakula*. This accepts the PTS reading here, *makul\[ḷ\]a-khārak’-ākārā*, recognizing that there is a lot of variation (BJTS reads *makuḷamburuhākārā* \[“resembling the buds of trees in water” (?)\])
 
@@ -423,7 +423,7 @@ The legend of Nandā Therī is finished.
 
 [^72]: reading *sūnā vaṇitakibbisā* with BJTS (and PTS alt.) for PTS *sūnā ‘va nītakibbisā* (“like a slaughterhouse leading to sin” ?)
 
-[^73]: *jegucchaŋ*; BJTS reads *bībhacchaṃ*, with similar range of meaning (disgusting, horrible, dreadful)
+[^73]: *jegu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaŋ*; BJTS reads *bībha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaṃ*, with similar range of meaning (disgusting, horrible, dreadful)
 
 [^74]: or, reading *vipassantī* with BJTS, “investigating” “applying insight”
 

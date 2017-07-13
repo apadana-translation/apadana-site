@@ -27,7 +27,7 @@ Who is not pleased after seeing
 explaining[^5] the *Dhamma*-body  
 \[which no one\] can ever injure?” (4) \[1918\]
 
-Nārada Saragacchiya  
+Nārada Saraga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiya  
 by \[saying\] these three verses \[then\]  
 praised[^6] \[Buddha\] Padumuttara,  
 the Unconquered, the Sambuddha. (5) \[1919\]

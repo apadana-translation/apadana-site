@@ -132,7 +132,7 @@ The legend of Maṇipūjaka Thera is finished.
 
 [^6]: lit., “do *pūjā*”
 
-[^7]: *vicinaŋ*, lit., “searching,” “investigating”
+[^7]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>inaŋ*, lit., “searching,” “investigating”
 
 [^8]: presumably a gem on a turban of some sort
 

@@ -1,11 +1,11 @@
 ---
-title: Ekacāriya
+title: Eka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āriya
 order: 189
 layout: poem
 category: chapter-3
 ---
 
-### \[189. Ekacāriya[^1]\]
+### \[189. Eka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āriya[^1]\]
 
 At that time a great din arose  
 among the Tāvatiṃsa gods:  
@@ -37,15 +37,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2207\]
 
-Thus indeed Venerable Ekacāriya Thera spoke these verses.
+Thus indeed Venerable Eka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āriya Thera spoke these verses.
 
-The legend of Ekacāriya Thera is finished.
+The legend of Eka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āriya Thera is finished.
 
 [^1]: “Once Practicer”
 
 [^2]: “reached nirvana”
 
-[^3]: I follow BJTS in assuming the implied *citta* here
+[^3]: I follow BJTS in assuming the implied *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itta* here
 
 [^4]: reading *parinibbāṇakālamhi* with BJTS for PTS *parinibbānākālamhi*
 

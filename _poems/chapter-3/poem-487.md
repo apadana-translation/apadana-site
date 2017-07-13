@@ -217,7 +217,7 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^10]: or “what caste are they?,” *kathaŋ vaṇṇa°* (BJTS reads, more correctly, *kathaṃ vaṇṇā*)
 
-[^11]: *cattārīsa-ddijāpi ca* (PTS), *°dvijāpi ca* (BJTS), following BJTS Sinh. gloss in understanding *dvija* as “tooth” (“twice born,” hence the adult teeth).
+[^11]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attārīsa-ddijāpi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (PTS), *°dvijāpi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (BJTS), following BJTS Sinh. gloss in understanding *dvija* as “tooth” (“twice born,” hence the adult teeth).
 
 [^12]: reading *nettā gopa\[k\]khumā* with BJTS for PTS *gopamukhā* (“face to face with a cow”)
 
@@ -225,7 +225,7 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^14]: lit., “going”
 
-[^15]: *yugamattañ ca pekkhare* lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
+[^15]: *yugamattañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a pekkhare* lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
 
 [^16]: lit., “there is not to them a person-speaking”
 
@@ -239,7 +239,7 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^21]: *vaṇṇato anatikkantā*, following BJTS Sinhala gloss: *rūpakāya sampattiyen no ikmavanu häkkō ya*, “it is not possible to surpass them in good fortune as regards \[their\] form-bodies.
 
-[^22]: reading *ca* with BJTS (and PTS alt.) fr PTS *va*
+[^22]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with BJTS (and PTS alt.) fr PTS *va*
 
 [^23]: lit., “are gone”
 

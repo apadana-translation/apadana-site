@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[547. {550.}[^1] Cūlasugandha[^2]\]
+### \[547. {550.}[^1] <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ūlasugandha[^2]\]
 
 In this \[present\] lucky aeon  
 Brahmā’s Kinsman, Greatly Famed One,  
@@ -190,9 +190,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (37) \[6330\]
 
-Thus indeed Venerable Cūlasugandha Thera spoke these verses.
+Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ūlasugandha Thera spoke these verses.
 
-The legend of Cūlasugandha Thera is finished.
+The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ūlasugandha Thera is finished.
 
 The Summary:
 
@@ -200,7 +200,7 @@ Bhaddiya, Elder Revata,
 and Sīvalī, the great getter,  
 Vaṅgīsa, also Nandaka,  
 Kāḷudāyi, thus Ābhaya,  
-Lomasa and Vanavaccha,  
+Lomasa and Vanava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha,  
 and Sugandha done as the tenth.  
 There are three hundred verses \[here,\]  
 and \[also\] sixteen more than that.
@@ -209,7 +209,7 @@ Then there is the Summary of Chapters:
 
 The chapter called Kaṇikāra,  
 Phalada, Tiṇadāyaka,  
-Kaccāna, Bhaddiya chapter;  
+Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna, Bhaddiya chapter;  
 the verses that are counted here  
 are nine hundred in this[^57] \[grouping\]  
 and exactly eighty-four \[more\].  
@@ -220,7 +220,7 @@ these are six thousand \[verses here\]
 and two hundred verses \[as well\]  
 \[plus\] eighteen \[verses\] more than that.
 
-To that extent the *Buddhāpadāna, Paccekabuddhāpadāna and Therāpadāna*
+To that extent the *Buddhāpadāna, Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhāpadāna and Therāpadāna*
 are finished. Let it be the basis for nirvana![^58]
 
 The Bhaddiya Chapter, the Fifty-Fifth[^59]
@@ -247,7 +247,7 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^11]: *pahūtadhanadhaññasmiŋ* taking the compound as a *dvandva*, see RD, *dhana* s.v. for a discussion of the options here. This is a stock phrase which means “rich in abundant treasures”
 
-[^12]: *amataŋ ca manoharaŋ*
+[^12]: *amataŋ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a manoharaŋ*
 
 [^13]: *dvattiŋsalakkhaṇadharo*
 
@@ -255,7 +255,7 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^15]: *raŋsijālaparikkhitto*
 
-[^16]: *ditto va kanakācalo*
+[^16]: *ditto va kanakā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo*
 
 [^17]: lit., “Surrounded by”
 
@@ -271,11 +271,11 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^23]: *ākāsasadiso*
 
-[^24]: *asaṅga-citto*
+[^24]: *asaṅga-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itto*
 
 [^25]: *patiṭṭhā*, support, resting place
 
-[^26]: reading *kuvāda°* with BJTS (and PTS alt.) for PTS *kupāda°*. PTS reads the second component of the compound as °*kaccha* (“reed,” “marshy land”) and BJTS reads it as *gaccha* (“shrub” “small plant”); “undergrowth” attempts to capture both meanings.
+[^26]: reading *kuvāda°* with BJTS (and PTS alt.) for PTS *kupāda°*. PTS reads the second component of the compound as °*ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha* (“reed,” “marshy land”) and BJTS reads it as *ga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha* (“shrub” “small plant”); “undergrowth” attempts to capture both meanings.
 
 [^27]: *agado viya*, “counter-poison” “medicine”
 
@@ -295,7 +295,7 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^35]: *mahābhisakkasaṅkāso*
 
-[^36]: *dosavyādhitikicchako*
+[^36]: *dosavyādhitiki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chako*
 
 [^37]: *°viphālako*, lit., “de-fruiter,” BJTS Sinh. gloss *sindunā*
 
@@ -305,7 +305,7 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^40]: *sanarāmarasakkato*
 
-[^41]: *narādicco*
+[^41]: *narādi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>o*
 
 [^42]: lit., “in”
 

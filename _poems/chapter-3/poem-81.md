@@ -9,7 +9,7 @@ category: chapter-3
 
 ### \[81. Timirapupphiya[^1]\]
 
-On Candabhāgā River’s bank  
+On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank  
 I was going along the stream  
 \[when\] I saw the Monk sitting \[there,\]  
 the Brilliant One, the Unperturbed. (1) \[1497\]

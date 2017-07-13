@@ -74,13 +74,13 @@ The legend of Ñāṇathavika Thera is finished.
 
 [^9]: *sabbāvantaŋ*, fr. *sabbāvant*, “all, entire;” BJTS gloss *siyalu sattvayan sahita* (“with all its creatures”)
 
-[^10]: *yāvatā ca gato gati*, lit., “as far as going goes,” BJTS Sinh. gloss *yāmtāk da ētāk* (“however far, to that extent”)
+[^10]: *yāvatā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a gato gati*, lit., “as far as going goes,” BJTS Sinh. gloss *yāmtāk da ētāk* (“however far, to that extent”)
 
 [^11]: *upamā n’atthi*, “analogy” “metaphor” “likeness”
 
 [^12]: reading *buddho* with BJTS for PTS *bhotvā* (= *hutvā* ?)
 
-[^13]: *pavuccati*, lit., “is called” “is said to be” “is pronounced”
+[^13]: *pavu<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ati*, lit., “is called” “is said to be” “is pronounced”
 
 [^14]: *sabbaññū ti*
 

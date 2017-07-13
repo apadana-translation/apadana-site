@@ -7,7 +7,7 @@ category: chapter-4
 
 ### \[5. Tīṇinaḷamālikā[^1]\]
 
-On Candabhāgā River’s bank,  
+On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
 I was a *kinnarī* back then.[^2]  
 I saw the Stainless Buddha \[there\],  
 Self-Become, the Unconquered One. (1) \[37\]
@@ -64,7 +64,7 @@ The legend of Tīṇinaḷamālikā Therī is finished.
 
 [^4]: lit., “I went to the Group of Thirty-Three”. BJTS reads “Due to that karma \[so\] well done, with intention and \[firm\] resolve, leaving \[my\] *kinnarī* body, I was born \[with\] the Thirty-Three,” and places the last two feet of the verse at the beginning of the next one.
 
-[^5]: reading *saṃvejetvāna me cittaṃ* (BJTS, PTS alt) for *saṃvedayitvā kusalaṃ* (“having felt/experienced \[my\] wholesome \[karma\],” PTS).
+[^5]: reading *saṃvejetvāna me <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaṃ* (BJTS, PTS alt) for *saṃvedayitvā kusalaṃ* (“having felt/experienced \[my\] wholesome \[karma\],” PTS).
 
 [^6]: BJTS reads “all \[new\] existence is destroyed.”
 

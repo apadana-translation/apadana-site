@@ -138,9 +138,9 @@ The legend of the bhikkhunī Uppaladāyikā is finished
 
 [^1]: “Blue Lotus Giver”
 
-[^2]: reading *ekajjhaṃ* with BJTS (and PTS alt.) for PTS *ekaccaŋ* (“certain,” “definite”)
+[^2]: reading *ekajjhaṃ* with BJTS (and PTS alt.) for PTS *eka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aŋ* (“certain,” “definite”)
 
-[^3]: reading *cārayām’ ahaṃ* with BJTS (and cf. PTS alts. here) for PTS *vādayām’ ahaŋ* (“I am singing” “I am making sound” “I am causing to be said”)
+[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārayām’ ahaṃ* with BJTS (and cf. PTS alts. here) for PTS *vādayām’ ahaŋ* (“I am singing” “I am making sound” “I am causing to be said”)
 
 [^4]: *kusalaŋ*, lit., “wholesome deeds”
 

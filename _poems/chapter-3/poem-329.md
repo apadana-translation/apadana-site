@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[329. Pupphacchattiya[^1]\]
+### \[329. Puppha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chattiya[^1]\]
 
 Bringing water-born lotuses,[^2]  
 hundred-leafed, delighting the mind,  
@@ -51,9 +51,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[2906\]
 
-Thus indeed Venerable Pupphacchattiya Thera spoke these verses.
+Thus indeed Venerable Puppha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chattiya Thera spoke these verses.
 
-The legend of Pupphacchattiya Thera is finished.
+The legend of Puppha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chattiya Thera is finished.
 
 [^1]: “Flower-Umbrella-er”
 

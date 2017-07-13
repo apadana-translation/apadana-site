@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[45. Pañcahatthiya[^1]\]
+### \[45. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahatthiya[^1]\]
 
 The Sambuddha named Sumedha  
 was traveling through the bazaar  
@@ -37,13 +37,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1196\]
 
-Thus indeed Venerable Pañcahatthiya Thera spoke these verses.
+Thus indeed Venerable Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahatthiya Thera spoke these verses.
 
-The legend of Pañcahatthiya Thera is finished.
+The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahatthiya Thera is finished.
 
 [^1]: “Five Handfuls”
 
-[^2]: reading *okhitta-cakkhu* (BJTS, cty) for *khitta-cakkhu* (“thrown eyes,” PTS).
+[^2]: reading *okhitta-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu* (BJTS, cty) for *khitta-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu* (“thrown eyes,” PTS).
 
 [^3]: reading *ahamsu* (BJTS) for *akāsi* (PTS)
 

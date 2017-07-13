@@ -43,7 +43,7 @@ victorious on \[all\] four sides
 a Kṣatriyan named Tāraṇa.[^3] (7) \[643\]
 
 In the fifty-seventh aeon  
-he’ll be the king[^4] named Campaka.[^5]  
+he’ll be the king[^4] named <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampaka.[^5]  
 With mighty power, he will shine  
 just like the sun \[when it\] rises. (8) \[644\]
 
@@ -99,7 +99,7 @@ The legend of Khadiravaniya Revata Thera is finished.
 
 [^4]: lit., “kṣatriyan”.
 
-[^5]: the name of a tree. The *campaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
+[^5]: the name of a tree. The *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
 [^6]: lit, “from the Thirty \[three gods\]”.
 

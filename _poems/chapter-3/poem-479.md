@@ -112,7 +112,7 @@ The legend of Pānadhidāyaka Thera is finished.
 
 [^3]: *pattikañ*
 
-[^4]: *carudassanaŋ*
+[^4]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arudassanaŋ*
 
 [^5]: *nīharitvā*, taking out, throw away, driving out; “taking off?” Should we imagine that he is wearing, rather than carrying, the shoes?
 

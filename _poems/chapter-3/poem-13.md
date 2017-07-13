@@ -33,12 +33,12 @@ knowing well all the defilements.
 you’ll reach nirvana, undefiled.” (5) \[704\]
 
 In the seven-thousandth[^4] aeon  
-there were four with the name Cela;[^5]  
+there were four with the name <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ela;[^5]  
 sixty thousand aeons \[ago\]  
-there were four named Upacela;[^6] (6) \[705\]
+there were four named Upa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ela;[^6] (6) \[705\]
 
 in the five-thousandth aeon ago  
-there were four people \[named\] Cela;  
+there were four people \[named\] <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ela;  
 they were rulers of the four continents  
 possessors of the seven gems. (7) \[706\]
 

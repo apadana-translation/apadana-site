@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[136. Campakapupphiya[^1]\]
+### \[136. <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampakapupphiya[^1]\]
 
 \[I saw Buddha\], the Morning Star,[^2]  
 shining like a dinner-plate tree,[^3]  
@@ -37,11 +37,11 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1914\]
 
-Thus indeed Venerable Campakapupphiya Thera spoke these verses.
+Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampakapupphiya Thera spoke these verses.
 
-The legend of Campakapupphiya Thera is finished.
+The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampakapupphiya Thera is finished.
 
-[^1]: “Campaka-Flower-er”. The *campaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
+[^1]: “<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampaka-Flower-er”. The *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
 [^2]: *osadhī*. RD (s.v.) points out that all we really know about this star is that it was particularly bright, leading Childers to translate it as “Venus” and others as the morning star.
 

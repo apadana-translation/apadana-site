@@ -91,7 +91,7 @@ The legend of Ekapiṇḍadāyikā Therī is finished.
 
 [^5]: lit., “the ultimate food.” See n. to *Therāpadāna* v. \[28-29\]
 
-[^6]: BJTS reads *vatthayugena*, “with a pair of cloths”. Some PTS alt give *mahācolena*, “a big piece of cloth”. The term *mahānela* is obscure, but used again in *Therī-apadāna* v. \[79\], below, where it more clearly refers to a blue lotus flower (perhaps through conflation with *mahanel*, or *mānel*, one of the Sinhala names for the blue lotus flower \[*uppala*\]). This translation follows the lead of BJTS Sinhala gloss, which in the case of v. \[79\] takes the term to be equivalent to the Sinhala *mahanel*.
+[^6]: BJTS reads *vatthayugena*, “with a pair of cloths”. Some PTS alt give *mahā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>olena*, “a big piece of cloth”. The term *mahānela* is obscure, but used again in *Therī-apadāna* v. \[79\], below, where it more clearly refers to a blue lotus flower (perhaps through conflation with *mahanel*, or *mānel*, one of the Sinhala names for the blue lotus flower \[*uppala*\]). This translation follows the lead of BJTS Sinhala gloss, which in the case of v. \[79\] takes the term to be equivalent to the Sinhala *mahanel*.
 
 [^7]: lit., “Remembering that as my object of sense.” Buddhist schematics thought one such sense-object (Sinhala *aramuṇu*) and in context, the meaning is clearly that she continued to think about that almsgiving for the rest of her life.
 

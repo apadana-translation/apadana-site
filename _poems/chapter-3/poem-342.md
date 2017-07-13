@@ -7,7 +7,7 @@ category: chapter-3
 
 ### \[339. {342.}[^1] Tīṇuppalamāliya[^2]\]
 
-On Candabhāgā River’s bank,  
+On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
 I was a monkey[^3] at that time.  
 I saw the Stainless Buddha \[who\]  
 was seated on a mountainside. (1) \[3084\]

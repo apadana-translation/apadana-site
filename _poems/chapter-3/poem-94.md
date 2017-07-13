@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[94. Sucidāyaka[^1]\]
+### \[94. Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>idāyaka[^1]\]
 
 I was formerly a blacksmith  
 in the fine city Bandhumā.  
@@ -32,9 +32,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1575\]
 
-Thus indeed Venerable Sucidāyaka Thera spoke these verses.
+Thus indeed Venerable Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>idāyaka Thera spoke these verses.
 
-The legend of Sucidāyaka Thera is finished.
+The legend of Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>idāyaka Thera is finished.
 
 [^1]: “Needle-Donor”
 

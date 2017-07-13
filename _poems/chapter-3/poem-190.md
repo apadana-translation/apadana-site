@@ -46,8 +46,8 @@ The Summary:
 Kuṭaja and Bandhujīvi,  
 Koṭumbarika, Hatthiya,  
 Isimugga and \[then\] Bodhī,  
-Ekacinti, Tikaṇṇika,  
-Ekacārī and Tivaṇṭī,  
+Eka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>inti, Tikaṇṇika,  
+Eka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārī and Tivaṇṭī,  
 sixty two[^7] verses are told \[here\].
 
 The Kuṭajapupphiya Chapter, the Nineteenth.
@@ -60,7 +60,7 @@ The Kuṭajapupphiya Chapter, the Nineteenth.
 
 [^4]: “Good Joy”
 
-[^5]: *paddhacarā*; BJTS reads *bhaddhacarā*. Elsewhere (see below, \#194, v. 1 \[2230\]) cty glosses the term as “servant” which is also possible; this reading follows BJTS which glosses it as *sahacarayo*, associates or fellow-wanders.
+[^5]: *paddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*; BJTS reads *bhaddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*. Elsewhere (see below, \#194, v. 1 \[2230\]) cty glosses the term as “servant” which is also possible; this reading follows BJTS which glosses it as *saha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arayo*, associates or fellow-wanders.
 
 [^6]: that is, he was reborn eight times as a \[king\] named Dhūmaketana. The name means “Having fire \[or smoke\] on \[or as\] \[his\] banner \[or flag\]”
 

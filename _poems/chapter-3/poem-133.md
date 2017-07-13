@@ -1,13 +1,13 @@
 ---
-title: Candanapūjaka
+title: <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanapūjaka
 order: 133
 layout: poem
 category: chapter-3
 ---
 
-### \[133. Candanapūjaka[^1]\]
+### \[133. <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanapūjaka[^1]\]
 
-On Candabhāgā River’s bank,  
+On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
 I was a *kinnara*[^2] back then.  
 I lived on flowers as \[my\] food  
 and dressed in clothes[^3] made of flowers. (1) \[1886\]
@@ -52,9 +52,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1894\]
 
-Thus indeed Venerable Candanapūjaka Thera spoke these verses.
+Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanapūjaka Thera spoke these verses.
 
-The legend of Candanapūjaka Thera is finished.
+The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanapūjaka Thera is finished.
 
 [^1]: “Sandalwood-Worshipper”
 

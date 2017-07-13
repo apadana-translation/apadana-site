@@ -537,7 +537,7 @@ The legend of Sela Thera is finished.
 
 [^25]: *pesakārā*
 
-[^26]: *cammakārā*
+[^26]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ammakārā*
 
 [^27]: *nhāpikā*
 
@@ -547,9 +547,9 @@ The legend of Sela Thera is finished.
 
 [^30]: *usukārā*, arrow-makers
 
-[^31]: *cammikā*
+[^31]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ammikā*
 
-[^32]: *tacchakārā*
+[^32]: *ta<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakārā*
 
 [^33]: *soṇṇakārā*
 
@@ -565,7 +565,7 @@ The legend of Sela Thera is finished.
 
 [^39]: *bhatakā*
 
-[^40]: *gītakā*&lt;*gītakārā*. BJTS reads *cetaka*, “boy servants,” “waifs”
+[^40]: *gītakā*&lt;*gītakārā*. BJTS reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etaka*, “boy servants,” “waifs”
 
 [^41]: *dāsa-kammakārā bahū*
 
@@ -607,7 +607,7 @@ The legend of Sela Thera is finished.
 
 [^60]: *kumbhadāsī*, lit., “slave-girls with water pots”
 
-[^61]: reading *pūvikā macchakā pi ca* (lit., “women who sell cakes and also women who sell fish”) with BJTS for PTS *pūvikā macchakāyikā* (“women who sell cakes and women with bodies of fish”
+[^61]: reading *pūvikā ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakā pi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (lit., “women who sell cakes and also women who sell fish”) with BJTS for PTS *pūvikā ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakāyikā* (“women who sell cakes and women with bodies of fish”
 
 [^62]: *yathā sakena thāmena*, “as far as their own power”
 
@@ -633,7 +633,7 @@ The legend of Sela Thera is finished.
 
 [^73]: *bhikkhusaṅghassa purato*
 
-[^74]: i.e., the protagonist, acting as the *ādikammika* (“instigator”) of the offering; cf. *Pilindavaccha-apadāna* (\#388 {391}), vv. 6, 8 \[3379, 3381\]
+[^74]: i.e., the protagonist, acting as the *ādikammika* (“instigator”) of the offering; cf. *Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha-apadāna* (\#388 {391}), vv. 6, 8 \[3379, 3381\]
 
 [^75]: *anuvattiŋsu*
 
@@ -655,11 +655,11 @@ The legend of Sela Thera is finished.
 
 [^84]: lit., “there was a brahmin named Vāseṭṭha”
 
-[^85]: lit., “with eighty ten-millions (*asīti-koṭi*) in wealth (*nicayo*, “heaped up”)”
+[^85]: lit., “with eighty ten-millions (*asīti-koṭi*) in wealth (*ni<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayo*, “heaped up”)”
 
-[^86]: *chalaṅge pāramiṇgato*, lit., “one who has reached perfection in the six branches.” RD: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (viciti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.”
+[^86]: *chalaṅge pāramiṇgato*, lit., “one who has reached perfection in the six branches.” RD: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.”
 
-[^87]: *jaṅghāvihāraŋ vicarantaŋ*, lit., “wandering while living on the legs”. BJTS understands this to refer to walking back and forth (Sinh. *sakman*), as in walking meditation, but these terms do not necessarily imply that.
+[^87]: *jaṅghāvihāraŋ vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arantaŋ*, lit., “wandering while living on the legs”. BJTS understands this to refer to walking back and forth (Sinh. *sakman*), as in walking meditation, but these terms do not necessarily imply that.
 
 [^88]: or “honored”
 
@@ -695,13 +695,13 @@ The legend of Sela Thera is finished.
 
 [^104]: lit., “he, the Buddha, is the one invited by me”
 
-[^105]: i.e., when it is full, *puṇṇamāse va candimā*
+[^105]: i.e., when it is full, *puṇṇamāse va <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andimā*
 
 [^106]: *bhayātīto = bhaya + atīta*, lit., “he in whom fear is overcome/surpassed/int he past” or “the one free of fear”
 
 [^107]: *bhavantakaraṇo*, “he who makes an end of existence”
 
-[^108]: *Saddhammācārakusalo*
+[^108]: *Saddhammā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārakusalo*
 
 [^109]: *asādiso*
 
@@ -729,7 +729,7 @@ The legend of Sela Thera is finished.
 
 [^121]: *duppasaho*
 
-[^122]: *acalo*
+[^122]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo*
 
 [^123]: *uggato*
 
@@ -737,7 +737,7 @@ The legend of Sela Thera is finished.
 
 [^125]: *nerūpamo*, i.e., “is like the cosmic mountain.”
 
-[^126]: *asamasamo*, “the same \[even\] in difference*.”* This epithet could be read as the grammatical negative of the compound *samasama*, lit., “exactly the same” or “evenly even” (or, according to Sinhala usage of the same term, “Equal”), which is also used as a Buddha-epithet above, v. 57 of \#388 {391} (*Pilindavaccha-apadāna*) = \[3430\]. *Asama* also means “stone,” a synonym for Sela’s own name, so we could read this as meaning “The Same as Stone,” though the relationship of that quality to the nature of the sky would then prove problematic. A better alt. reading, suggested to me by H.M. Wijerathna, is “the Same as the Unmatched Ones,” (“the same as those of whom no one is an equal”), i.e., the previous Buddhas.
+[^126]: *asamasamo*, “the same \[even\] in difference*.”* This epithet could be read as the grammatical negative of the compound *samasama*, lit., “exactly the same” or “evenly even” (or, according to Sinhala usage of the same term, “Equal”), which is also used as a Buddha-epithet above, v. 57 of \#388 {391} (*Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha-apadāna*) = \[3430\]. *Asama* also means “stone,” a synonym for Sela’s own name, so we could read this as meaning “The Same as Stone,” though the relationship of that quality to the nature of the sky would then prove problematic. A better alt. reading, suggested to me by H.M. Wijerathna, is “the Same as the Unmatched Ones,” (“the same as those of whom no one is an equal”), i.e., the previous Buddhas.
 
 [^127]: *atulo*. Pronounce as contraction “unmeas’rable to preserve meter
 
@@ -763,7 +763,7 @@ The legend of Sela Thera is finished.
 
 [^138]: *meghūpamo*, especially a storm-cloud
 
-[^139]: reading *lokacakkhu* with BJTS for PTS *loke samussito* (“elevated in the world,” also a reasonable epithet for both the Buddha and the sun)
+[^139]: reading *loka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu* with BJTS for PTS *loke samussito* (“elevated in the world,” also a reasonable epithet for both the Buddha and the sun)
 
 [^140]: *vīro*
 
@@ -785,7 +785,7 @@ The legend of Sela Thera is finished.
 
 [^149]: BJTS (and PTS alt., *diti* \[sic?\]) reading *yassa dhiti* (‘whose energy/steadfastness/courage”) for PTS *yassa pīti* (whose joy”), also a likable epithet for both the Buddha
 
-[^150]: *thāmo yas”sa acintiyo*
+[^150]: *thāmo yas”sa a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intiyo*
 
 [^151]: reading *agadūpama*, “like a medicine” with BJTS for PTS *agarūpama* (“like \[something which is\] not heavy”?)
 
@@ -805,9 +805,9 @@ The legend of Sela Thera is finished.
 
 [^159]: *bodhento bodhapakkhiye*, which BJTS glosses as the (37) aspects or qualities of Awakening or Enlightenment (*bodha*, here = *bodhi*, see RD s.v.)
 
-[^160]: *ācāra-upacāraññū*
+[^160]: *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āra-upa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āraññū*
 
-[^161]: *dhammanucchavasaŋvaraŋ* (BJTS reads *dhammanucchavi°*)
+[^161]: *dhammanu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavasaŋvaraŋ* (BJTS reads *dhammanu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavi°*)
 
 [^162]: *pade padaŋ nikkhipantā*, lit., “carefully placing \[your feet\] step by step”
 
@@ -875,11 +875,11 @@ The legend of Sela Thera is finished.
 
 [^194]: *paṭisambhidā*, i.e., mastery of the (four) analytical modes, a mark of arahantship
 
-[^195]: lit., “and”. The *ca* here connects the two separate *ānisaṃsas* into one, referred to in the final foot with the singular pronoun *etaŋ*
+[^195]: lit., “and”. The *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* here connects the two separate *ānisaṃsas* into one, referred to in the final foot with the singular pronoun *etaŋ*
 
 [^196]: *sabbavositavosāno*, lit., “being one who has accomplished all accomplishments,” “being an arahant”
 
-[^197]: *katakicco*, i.e., “being an arahant”
+[^197]: *kataki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>o*, i.e., “being an arahant”
 
 [^198]: *anāsavo*, i.e., “being an arahant”
 
@@ -895,11 +895,11 @@ The legend of Sela Thera is finished.
 
 [^204]: *hetu*, lit., causes; I follow BJTS in understanding these as *ānisaṃsas* (Sinh. *anusas pahak labami*). I count the five here as: (1) unshaken by love, (2) wealthy, (3) one whose words are taken well, causing no offense, (4) mind not out of control, unshaken, and (5) arahantship (unstained, respectful, obedient, duties complete, undefiled follower of the Buddha).
 
-[^205]: *acalo homi mettāya*
+[^205]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo homi mettāya*
 
 [^206]: *anūnabhogavā*
 
-[^207]: *adeyyavacano homi*
+[^207]: *adeyyava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ano homi*
 
 [^208]: *na dhaŋsemi yathā ahaŋ*
 
@@ -911,7 +911,7 @@ The legend of Sela Thera is finished.
 
 [^212]: *sappaṭisso*
 
-[^213]: *katakicco*, i.e., “being an arahant”
+[^213]: *kataki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>o*, i.e., “being an arahant”
 
 [^214]: *anāsavo*, i.e., “being an arahant”
 
@@ -921,7 +921,7 @@ The legend of Sela Thera is finished.
 
 [^217]: *hetu*, lit., causes; I follow BJTS in understanding these as *ānisaṃsas* (Sinh. *anusas pahak labami*). I count the five here as: (1) good birth, (2) great wealth, (3) all success, (4) lack of stinginess or greed, (5) magic palanquin.
 
-[^218]: *ucce kule*
+[^218]: *u<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>e kule*
 
 [^219]: *mahābhogo bhavāmi*
 
@@ -929,7 +929,7 @@ The legend of Sela Thera is finished.
 
 [^221]: lit., “not found for me” “I do not know” “I do not experience”
 
-[^222]: *maccheraŋ* = *macchariyaŋ2*
+[^222]: *ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cheraŋ* = *ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chariyaŋ2*
 
 [^223]: *upatiṭṭhati*, lit., “stands \[there\],” “comes to stand fast”
 
@@ -937,7 +937,7 @@ The legend of Sela Thera is finished.
 
 [^225]: *sabbâbhiññā-balapatto*
 
-[^226]: *para-kiccatta-kiccāni*, “duties which are to be done by others”. I follow BJTS gloss in reading the compound accordingly; it could also be read to mean that he performed his own duties including duties involving service *to* others.
+[^226]: *para-ki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>atta-ki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āni*, “duties which are to be done by others”. I follow BJTS gloss in reading the compound accordingly; it could also be read to mean that he performed his own duties including duties involving service *to* others.
 
 [^227]: *pāvisim abhayaŋ puraŋ*, that is, nirvana.
 

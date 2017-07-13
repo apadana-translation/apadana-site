@@ -108,7 +108,7 @@ The legend of Pupphathūpiya Thera is finished.
 
 [^9]: lit., “the Victor’s dispensation”
 
-[^10]: reading *sakaccaṃ* (BJTS) for *kukkuṭṭhaŋ* (PTS)
+[^10]: reading *saka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aṃ* (BJTS) for *kukkuṭṭhaŋ* (PTS)
 
 [^11]: “Same as Fire”
 

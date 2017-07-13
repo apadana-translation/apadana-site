@@ -119,7 +119,7 @@ The legend of Pabhaṅkara Thera is finished.
 
 [^2]: “Light-Maker”
 
-[^3]: *cetiya*, could also be some other sort of shrine but vv. 3-4 makes clear that it is imagined as a stupa.
+[^3]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etiya*, could also be some other sort of shrine but vv. 3-4 makes clear that it is imagined as a stupa.
 
 [^4]: lit., “by means of,” “through”. We might say “by birth” or “in the family business”
 
@@ -129,7 +129,7 @@ The legend of Pabhaṅkara Thera is finished.
 
 [^7]: lit., “with \[my\] meritorious karma,” *puññakammena*
 
-[^8]: *kaṇḍu.* BJTS reads *kacchu*, with the same meaning.
+[^8]: *kaṇḍu.* BJTS reads *ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu*, with the same meaning.
 
 [^9]: *daddu*
 
@@ -141,7 +141,7 @@ The legend of Pabhaṅkara Thera is finished.
 
 [^13]: *apamāra*. This seems an outlier since the remainder of the diseases listed here are all diseases of the skin, but the Pāli is unambiguous.
 
-[^14]: *vitacchikā*
+[^14]: *vita<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chikā*
 
 [^15]: I take the PTS *idhaŋ* here as a typographical error, following BJTS in reading the expected *idaŋ*
 

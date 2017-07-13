@@ -69,9 +69,9 @@ The legend of Opavuyha Thera is finished.
 
 [^4]: reading *khamanīyam* (BJTS, cty, PTS alternative) for *ājānīyaŋ* (“thoroughbred,” PTS)
 
-[^5]: reading *devattam atha mānusam* (BJTS) for *bhavane sabbadā mama* (“in my residence all the time,” PTS). PTS alt (also noticed by BJTS) is *deve ca mānuse bhave* (in a divine and human existences,” paralleling the (BJTS) reading I accept and intimating how the (PTS) one I reject might have evolved through corruption.
+[^5]: reading *devattam atha mānusam* (BJTS) for *bhavane sabbadā mama* (“in my residence all the time,” PTS). PTS alt (also noticed by BJTS) is *deve <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a mānuse bhave* (in a divine and human existences,” paralleling the (BJTS) reading I accept and intimating how the (PTS) one I reject might have evolved through corruption.
 
-[^6]: reading *cittā* (BJTS) for *citte* (“in \[my\] heart,” PTS)
+[^6]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittā* (BJTS) for *citte* (“in \[my\] heart,” PTS)
 
 [^7]: here I follow BJTS in understanding *vātajavā* (“\[creatures\] quick as the wind”) as horses of the type originally (mis)gifted to Padumuttara Buddha. The same term is used as an adjective (there *vātajavaṃ*) in the previous verse.
 
@@ -79,9 +79,9 @@ The legend of Opavuyha Thera is finished.
 
 [^9]: *jambusaṇḍa = jambudīpa =* India, the South Asian Subcontinent
 
-[^10]: *caturanto vijitāvi,* “possessed of conquest of the four quarters,” a supreme imperial overlord
+[^10]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturanto vijitāvi,* “possessed of conquest of the four quarters,” a supreme imperial overlord
 
-[^11]: *carimo vattate bhavo*
+[^11]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
 
 [^12]: lit., “having abandoned”
 

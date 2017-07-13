@@ -64,7 +64,7 @@ fallen from there, \[we\] five people,[^11]
 \[then\] went to the world of the gods. (12) \[5850\]
 
 Then I was born as Bāhiya,[^12]  
-in Bhārukaccha,[^13] best city.  
+in Bhāruka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha,[^13] best city.  
 From there by boat I venture forth  
 on the ocean full of danger.[^14] (13) \[5851\]
 
@@ -167,7 +167,7 @@ six special knowledges mastered,
 \[I have\] done what the Buddha taught! (37) \[5871\]
 
 Thus[^46] prophesied the elder \[named\]  
-Bāhiya Dārucīriya.[^47]  
+Bāhiya Dāru<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īriya.[^47]  
 He fell down on a garbage heap[^48]  
 when he had been gored[^49] by a cow. (38) \[5872\]
 
@@ -230,7 +230,7 @@ The legend of Bāhiya Thera is finished.
 
 [^6]: lit., “then the Buddha…”
 
-[^7]: reading *hemayaññopavītaṅgaṃ* with BJTS for PTS *hemayaññopacitaṅgaŋ* (“body heaped up with sacrifices of gold”?). The *yaññopavīta* (or more correctly *yaññopanīta*), lit., “sacrificial cord,” is a distinctive accoutrement of brahmin dress; the protagonist’s was gold-colored or made of gold. In the gloss on this passage BJTS does not venture a guess which, but elsewhere (see the gloss on \[5701\]) prefers the latter reading
+[^7]: reading *hemayaññopavītaṅgaṃ* with BJTS for PTS *hemayaññopa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaṅgaŋ* (“body heaped up with sacrifices of gold”?). The *yaññopavīta* (or more correctly *yaññopanīta*), lit., “sacrificial cord,” is a distinctive accoutrement of brahmin dress; the protagonist’s was gold-colored or made of gold. In the gloss on this passage BJTS does not venture a guess which, but elsewhere (see the gloss on \[5701\]) prefers the latter reading
 
 [^8]: *palimba°*, lit., “hanging down”
 
@@ -238,11 +238,11 @@ The legend of Bāhiya Thera is finished.
 
 [^10]: *jinasāsanaŋ*, lit., “the Victor’s dispensation”
 
-[^11]: i.e., Bāhiya together with Dabbamalla, Sabhiya, Kumāra-Kassapa and Pukkusāti; see above, v. \[5801\]-\[5802\]. Reading the adjectives in this verse as plurals (to agree with *pañcajanā*) with BJTS, for PTS singulars.
+[^11]: i.e., Bāhiya together with Dabbamalla, Sabhiya, Kumāra-Kassapa and Pukkusāti; see above, v. \[5801\]-\[5802\]. Reading the adjectives in this verse as plurals (to agree with *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ajanā*) with BJTS, for PTS singulars.
 
 [^12]: reading *bāhiyo* with BJTS for PTS *bāhiko*
 
-[^13]: = Bharukaccha, a seaport from which merchants traveled abroad, modern Broach in Kathiawar. See DPPN II: 365
+[^13]: = Bharuka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha, a seaport from which merchants traveled abroad, modern Broach in Kathiawar. See DPPN II: 365
 
 [^14]: *appasiddhiyaŋ*, one BJTS alt. reads more correctly *appasiddhikaṃ*, “of little welfare” = “dangerous”
 
@@ -276,11 +276,11 @@ The legend of Bāhiya Thera is finished.
 
 [^29]: PTS construes (and numbers) the deity’s answer and subsequent reflection by the protagonist and his inquiring of Brahmins the location of the Buddha as eight verses with feet of six syllables; BJTS (correctly I think) construes (and numbers) this passage as four verses with feet of twelve syllables, recognizing that they are composed in a more elaborate and noticeably different meter, which I’ve tried to emulate here.
 
-[^30]: lit., “see,” etymological cousin of *sudassanaŋ* (“Good-Looking”); “to see the one who’s good to see”. Here I am reading BJTS *daṭṭhum anantagocaraṃ* (and following BJTS Sinh. gloss) for PTS *duṭṭhamanantagocaraŋ* (“pasture at the end of evil minds”)
+[^30]: lit., “see,” etymological cousin of *sudassanaŋ* (“Good-Looking”); “to see the one who’s good to see”. Here I am reading BJTS *daṭṭhum anantago<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṃ* (and following BJTS Sinh. gloss) for PTS *duṭṭhamanantago<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araŋ* (“pasture at the end of evil minds”)
 
 [^31]: *sudassanaŋ*, i.e “the Buddha”
 
-[^32]: *anatagocaraŋ*
+[^32]: *anatago<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araŋ*
 
 [^33]: PTS *satthuno* (dative), BJTS *sattharaṃ* (accusative)
 
@@ -318,7 +318,7 @@ The legend of Bāhiya Thera is finished.
 
 [^50]: *parinibbāyi*
 
-[^51]: *bāhiyaŋ bāhitāgamaŋ*, or “Bāhiya come from the outside,” or “Bāhiya come to the outside,” a play on the literal meaning of the monk’s name, reduplicating the alliteration of the previous foot (*dārucīradharaŋ dhīraŋ*)
+[^51]: *bāhiyaŋ bāhitāgamaŋ*, or “Bāhiya come from the outside,” or “Bāhiya come to the outside,” a play on the literal meaning of the monk’s name, reduplicating the alliteration of the previous foot (*dāru<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īradharaŋ dhīraŋ*)
 
 [^52]: reading *bhūmiyan patitaŋ dantaŋ* with BJTS for PTS *bhumiyaŋ*. *Danta-bhūmi*, “the safe ground” or “the place which is (or for) the tamed,” refers to nirvana; see RD s.v.
 
@@ -328,7 +328,7 @@ The legend of Bāhiya Thera is finished.
 
 [^55]: *sāvake sāsane rate*
 
-[^56]: *sabrahmacārino*, lit., “of he who lived the holy life \[with you\]” or “of your fellow celibate”
+[^56]: *sabrahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārino*, lit., “of he who lived the holy life \[with you\]” or “of your fellow celibate”
 
 [^57]: lit., “do *pūjā*”
 

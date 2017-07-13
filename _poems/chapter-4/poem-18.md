@@ -167,7 +167,7 @@ Dhammā, and also Sudhammā,
 and seventh Saṅghadāyikā, (32) \[447\]
 
 \[now\] I, and Uppalavaṇṇā,  
-Paṭācārā and Kuṇḍalā,[^20]  
+Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā and Kuṇḍalā,[^20]  
 Kisāgotamī, Dhammadinnā,[^21]  
 and Visākhā is the seventh. (33) \[448\]
 
@@ -497,13 +497,13 @@ The legend of Khemā Therī is finished.
 
 [^6]: *anekakappesu*, lit., “during various aeons”
 
-[^7]: *cārunayano*, or “lovely to the eyes” (?) xxx
+[^7]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārunayano*, or “lovely to the eyes” (?) xxx
 
 [^8]: *sabbadhammavipassaka*, a play on that Buddha’s name
 
-[^9]: *brahmacariyaŋ caritvāna*, lit., “conducting \[myself\] in the conduct of {God} Brahmā;’ or else, “having preserved celibacy”
+[^9]: *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyaŋ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aritvāna*, lit., “conducting \[myself\] in the conduct of {God} Brahmā;’ or else, “having preserved celibacy”
 
-[^10]: *paccayākāra°*, or “modes of causes,” i.e., Abhidhammic analysis of the causes of the continuity between the links in the twelve-fold chain of causation (*paṭiccasamuppāda*)
+[^10]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ayākāra°*, or “modes of causes,” i.e., Abhidhammic analysis of the causes of the continuity between the links in the twelve-fold chain of causation (*paṭi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>asamuppāda*)
 
 [^11]: or “due to loving celibately”
 
@@ -521,7 +521,7 @@ The legend of Khemā Therī is finished.
 
 [^18]: *sukhe ṭhitā*, lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
 
-[^19]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*ca*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
+[^19]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
 
 [^20]: = Bhaddā Kuṇḍalakesī
 
@@ -635,7 +635,7 @@ The legend of Khemā Therī is finished.
 
 [^75]: *nibbanatho*, Skt. *nivanathaḥ*
 
-[^76]: *paccayākāra°*, or “modes of causes,” i.e., Abhidhammic analysis of the causes of the continuity between the links in the twelve-fold chain of causation (*paṭiccasamuppāda*)
+[^76]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ayākāra°*, or “modes of causes,” i.e., Abhidhammic analysis of the causes of the continuity between the links in the twelve-fold chain of causation (*paṭi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>asamuppāda*)
 
 [^77]: this and the next two verses almost exactly parallel *Gotamī-apadāna*, vv. 184-186 \[410-412\], above, and *Uppalavaṇṇā* vv. 17-19 \[527-529\], below. That *Gotamī-apadāna* was composed earlier, and *Khemā-apadāna later*, is perhaps evident in the slippage within this verse, where the past tense verbs (appropriate to the context in *Gotamī-apadāna*, but not here) have not been corrected, even though the pronouns have been corrected from third to first person. Pronouns and verb tenses are corrected in the next two verses and more tellingly, in the corresponding verse of *Uppalavaṇṇā-apadāna*, v. 17 \[527\], which reads *homi* for *āsiŋ*
 
@@ -643,7 +643,7 @@ The legend of Khemā Therī is finished.
 
 [^79]: one of the books of the Abhidhamma, believed in tradition to have been uttered by Moggaliputtatissa in refutation of heretical views expressed at the Third Great Recitation during the time of Aśoka Maurya, an important piece of evidence that *Apadāna* is a post-Aśokan text.
 
-[^80]: *abhidhammanayaññū ca vasī*, lit., “\[I am a\] master of the knowledge of Abhidhammic method”
+[^80]: *abhidhammanayaññū <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vasī*, lit., “\[I am a\] master of the knowledge of Abhidhammic method”
 
 [^81]: see DPPN I:1039, a locality in Kosala, between Śrāvasti and Sāketa. King Pasenadi once stopped there to visit Khemā, who lived there (S. iv. 374)
 

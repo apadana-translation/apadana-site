@@ -83,6 +83,6 @@ The legend of Ekachattiya Thera is finished.
 
 [^6]: reading *vihanantaṃ* with BJTS for PTS *viharanti* (“they are dwelling”)
 
-[^7]: *carimo vattate bhavo*
+[^7]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
 
 [^8]: lit., “even today”

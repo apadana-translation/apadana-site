@@ -22,7 +22,7 @@ I’ve come to know no bad rebirth:
 the fruit of \[giving\] unguent. (3) \[2597\]
 
 In the fifteenth aeon ago  
-there was a ruler, Cirappa,[^5]  
+there was a ruler, <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>irappa,[^5]  
 a wheel-turning king with great strength,  
 possessor of the seven gems. (4) \[2598\]
 
@@ -37,7 +37,7 @@ The legend of Abbhañjanadāyaka Thera is finished.
 
 [^1]: “Unguent-Donor”
 
-[^2]: *nippapañca*, lit., “One who Lacks the Delays,” i.e., the three characteristics (craving, delusion, pride) which delay progress toward nirvana.
+[^2]: *nippapañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., “One who Lacks the Delays,” i.e., the three characteristics (craving, delusion, pride) which delay progress toward nirvana.
 
 [^3]: *jyāyī* = practitioner of *jhanas* (levels of meditative achievement).
 

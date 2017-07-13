@@ -8,7 +8,7 @@ category: chapter-3
 ### \[474. {477.}[^1] Giripunnāgiya[^2]\]
 
 The Blessed One named Sobhita  
-lived on Cittakūṭa[^3] back then.  
+lived on <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ittakūṭa[^3] back then.  
 Taking \[some\] mountain laurel[^4] \[fruit,\]  
 I worshipped[^5] the Self-Become One. (1) \[4996\]
 
@@ -40,7 +40,7 @@ The legend of Giripunnāgiya Thera is finished.
 
 [^2]: “Mountain-Laurel-er”
 
-[^3]: = Citrakūṭa, a mountain in the Himalayas, one of five said to surround Lake Anottata (Anavatapta), composed of all precious metals and famed for golden swans living in a golden cave. DPPN I:869: “It is generally identified with Kāmptanāthgiri in Bundelkhand, an isolated hill on the Paisunī or Mandākinī River”
+[^3]: = <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itrakūṭa, a mountain in the Himalayas, one of five said to surround Lake Anottata (Anavatapta), composed of all precious metals and famed for golden swans living in a golden cave. DPPN I:869: “It is generally identified with Kāmptanāthgiri in Bundelkhand, an isolated hill on the Paisunī or Mandākinī River”
 
 [^4]: *giripunnāga*, “mountain (or wild) *punnāga* (Sinh. domba), presumably a wild fruit to eat.
 

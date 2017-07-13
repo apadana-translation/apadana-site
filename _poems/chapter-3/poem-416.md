@@ -109,7 +109,7 @@ The legend of Ekadīpiya Thera is finished.
 
 [^4]: *pūjenti*, “doing *pūjā*”
 
-[^5]: or stupa: *citake*, Sinh. *caitya*
+[^5]: or stupa: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itake*, Sinh. *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aitya*
 
 [^6]: lit., “having passed over a mountain”
 

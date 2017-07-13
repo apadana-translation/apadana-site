@@ -37,8 +37,8 @@ The legend of Aggapupphiya Thera is finished.
 
 The summary:
 
-Thomaka, Bhikkha, Citaka,  
-Campaka, Sattapāṭali,  
+Thomaka, Bhikkha, <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka,  
+<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampaka, Sattapāṭali,  
 ‘pāhana, Mañjari, Paṇṇa,  
 Kuṭida, Aggapupphiya[^5]  
 and the verses here are counted  
@@ -54,4 +54,4 @@ The Thomaka Chapter, the Twenty-Sixth
 
 [^4]: “Boundless”
 
-[^5]: omitting *ca* following PTS alternative as well as BJTS. This keeps the meter right, in Pāli as much as in English. There are anyway already two *ca*\s in the following line, which keeps the English awkward enough.
+[^5]: omitting *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* following PTS alternative as well as BJTS. This keeps the meter right, in Pāli as much as in English. There are anyway already two *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*\s in the following line, which keeps the English awkward enough.

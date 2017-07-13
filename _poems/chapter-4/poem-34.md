@@ -172,7 +172,7 @@ The legend of Sigālaka-mātā Therī[^27] is finished
 
 [^6]: the pronouns here are somewhat jarringly masculine ones, even though the subject is female
 
-[^7]: *sīlaŋ ca yassa*
+[^7]: *sīlaŋ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a yassa*
 
 [^8]: *pasādo*
 

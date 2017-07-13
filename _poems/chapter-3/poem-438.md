@@ -97,4 +97,4 @@ The legend of Harīṭakadāyaka Thera is finished.
 
 [^14]: BJTS (and PTS alt.) reads *dhīro* (“the wise one”)
 
-[^15]: *carimo vattate bhavo*
+[^15]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*

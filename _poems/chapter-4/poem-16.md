@@ -7,7 +7,7 @@ category: chapter-4
 
 ### \[16. Sālamālikā[^1]\]
 
-On Candabhāgā River’s bank,  
+On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
 I was a *kinnarī* back then.  
 I saw the Stainless One, Buddha,  
 the Self-Become, Unconquered One. (1) \[215\]

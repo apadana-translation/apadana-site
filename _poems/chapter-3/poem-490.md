@@ -173,7 +173,7 @@ Ukkāsatika, Vījanī,
 Kummāsa and Kusaṭṭha \[too\],  
 also Giripunnāgiya,  
 Vallikāra,[^17] Pānadhida  
-\[and\] then Pulīnacaṅkama:  
+\[and\] then Pulīna<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅkama:  
 five and ninety are the verses  
 that are counted by those who know.
 
@@ -205,7 +205,7 @@ The Paŋsukūla Chapter, the Forty-Ninth
 
 [^13]: BJTS reads *hessati sabbakālikaŋ* (“it will be all the time” “exists \[for me\] all the time”), a foot which PTS includes in the following verse, absent from BJTS
 
-[^14]: *carimo vattate bhavo*
+[^14]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
 
 [^15]: This verse does not appear in BJTS
 

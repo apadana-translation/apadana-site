@@ -287,7 +287,7 @@ father: brahmin Kosigotta. (56) \[937\]
 
 In the Madda country I, was  
 daughter of brahmin Kapila;  
-mother was Sucīmatī in  
+mother was Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īmatī in  
 Sāgalā the best of cities. (57) \[938\]
 
 My father having adorned me  
@@ -373,7 +373,7 @@ The legend of Bhaddā-Kāpilāni Therī[^51] is finished
 
 [^7]: *divākara*, the sun.
 
-[^8]: the mss. tradition disagrees on the reading of this term, and this translation is only provisional, going with the PTS (*cittaṃ*, “heart, mind”) but taking it in its rarer meaning of “variegated.” BJTS reads *cetaṃ*, more unambiguously “heart, mind,” but I don’t see how the grammar works with that as an adjective modifying *cetiyaṃ* (shrine, stupa), unless we read it to mean “thought out” or something along those lines. BJTS alternative is *citakaṃ*, “funeral pile,” redundant with *cetiyaṃ*, while PTS alternative is *citaṃ* (“heaped up,” a possibility) or *dhītaṃ* (?).
+[^8]: the mss. tradition disagrees on the reading of this term, and this translation is only provisional, going with the PTS (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaṃ*, “heart, mind”) but taking it in its rarer meaning of “variegated.” BJTS reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etaṃ*, more unambiguously “heart, mind,” but I don’t see how the grammar works with that as an adjective modifying *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etiyaṃ* (shrine, stupa), unless we read it to mean “thought out” or something along those lines. BJTS alternative is *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itakaṃ*, “funeral pile,” redundant with *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etiyaṃ*, while PTS alternative is *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaṃ* (“heaped up,” a possibility) or *dhītaṃ* (?).
 
 [^9]: lit., “day-maker,” as above.
 
@@ -399,7 +399,7 @@ The legend of Bhaddā-Kāpilāni Therī[^51] is finished
 
 [^20]: reading *bhattuno* (BJTS) for *uttariŋ* (“besides,” PTS).
 
-[^21]: *paccekanāyake*, i.e., *pacceka-buddhas*.
+[^21]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekanāyake*, i.e., *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>eka-buddhas*.
 
 [^22]: lit., “of gold indeed”.
 
@@ -419,9 +419,9 @@ The legend of Bhaddā-Kāpilāni Therī[^51] is finished
 
 [^30]: reading *amejjhe* (“impure,” BJTS, PTS alt.) for *apace* (“uncooked,” PTS).
 
-[^31]: BJTS reads *samacittamukhaṃ* (“his face \[showed\] the same mind”) for PTS *samacittasukhaŋ*, the reading I prefer here even though both readings amount to the same thing: the Paccekabuddha shows no change of face, no difference of opinion, whether receiving a bowl of mud or a nice home-cooked meal. This equanimity, of course, is characteristic of Buddhas and other Awakened beings.
+[^31]: BJTS reads *sama<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittamukhaṃ* (“his face \[showed\] the same mind”) for PTS *sama<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittasukhaŋ*, the reading I prefer here even though both readings amount to the same thing: the Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha shows no change of face, no difference of opinion, whether receiving a bowl of mud or a nice home-cooked meal. This equanimity, of course, is characteristic of Buddhas and other Awakened beings.
 
-[^32]: reading *saṃvijiṃ bhusaṃ* (BJTS, PTS alt) for *mahāsaṅghaŋ cajiŋ bhusan* (“I let loose the many \[in the?\] great community,” PTS).
+[^32]: reading *saṃvijiṃ bhusaṃ* (BJTS, PTS alt) for *mahāsaṅghaŋ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ajiŋ bhusan* (“I let loose the many \[in the?\] great community,” PTS).
 
 [^33]: reading *sakkaraŋ* (alt. *sakkāraŋ*) adaŋ, “I gave with proper reverence” “I gave hospitably” with PTS’; BJTS reads *sakkharaṃ adaṃ*, “I gave gravel” (!).
 
@@ -443,7 +443,7 @@ The legend of Bhaddā-Kāpilāni Therī[^51] is finished
 
 [^42]: reading *tappayitvāna* (BJTS) for *vāsayitvāna* (“having perfumed” “having cleaned,” PTS).
 
-[^43]: reading BJTS *adāsi* for PTS *adaŋsu*, “they gave,” though the latter would also be an acceptable reading since the text specifies that the 500 cousins served the Paccekabuddhas together.
+[^43]: reading BJTS *adāsi* for PTS *adaŋsu*, “they gave,” though the latter would also be an acceptable reading since the text specifies that the 500 cousins served the Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhas together.
 
 [^44]: BJTS reads *pūjayi*, “he worshipped,” which is certainly possible, but I follow the PTS reading *pūjayiŋ* (“I worshipped”) because otherwise the becoming-Bhaddā-Kāpilāni does not get inserted into this previous life of her husband’s, as she does all the other previous lives.
 

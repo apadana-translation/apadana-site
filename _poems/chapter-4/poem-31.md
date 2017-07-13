@@ -81,13 +81,13 @@ Headed Up by Famous (Yasavatī) is finished
 
 [^3]: or “defilements” *sabbāsavā*
 
-[^4]: reading *ca no n’atthi* with BJTS for PTS *sabbāsavāmano n’atthi* (“there is no mind with all outflows”)
+[^4]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a no n’atthi* with BJTS for PTS *sabbāsavāmano n’atthi* (“there is no mind with all outflows”)
 
 [^5]: or “wholesome”
 
-[^6]: *yaŋ kiñci sabbam patthitaŋ*
+[^6]: *yaŋ kiñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i sabbam patthitaŋ*
 
-[^7]: *sabbaŋ…paribhogaŋ;* BJTS reads *yaṃ kiñci sādhu patthitaṃ* (“whatever excellently wished”)
+[^7]: *sabbaŋ…paribhogaŋ;* BJTS reads *yaṃ kiñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i sādhu patthitaṃ* (“whatever excellently wished”)
 
 [^8]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
 

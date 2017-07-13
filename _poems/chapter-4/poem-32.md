@@ -237,7 +237,7 @@ The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
 [^3]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
 
-[^4]: ˆ*catuddīpā*, lit., “from the four continents,” that is, from the entire world
+[^4]: ˆ*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuddīpā*, lit., “from the four continents,” that is, from the entire world
 
 [^5]: here PTS reads *phusissanti*, BJTS *bhujjhissanti;* both read *bhujjhissanti* in the following verse
 
@@ -247,7 +247,7 @@ The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
 [^8]: *upāgatā bhavā sabbe*
 
-[^9]: *samādhigocarā sabā*
+[^9]: *samādhigo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā sabā*
 
 [^10]: *samāpattī vasī tathā*, lit., “master with the attainments” (especially the eight *jhānas* or “altered states” experienced as states of awareness and/or levels of reality in meditation)
 
@@ -311,7 +311,7 @@ The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
 [^40]: *tuyham*, presumably addressing the bodhisattva
 
-[^41]: reading anubhontī ciraṃ kālaṃ with BJTS for PTS *tuyhaŋ vo paricāre ca* (“and all of you will attend on you”)
+[^41]: reading anubhontī <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iraṃ kālaṃ with BJTS for PTS *tuyhaŋ vo pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āre <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and all of you will attend on you”)
 
 [^42]: reading *jātāmha* with BJTS for PTS *ajātā* (“\[we are\] unborn;” worse is alt. *ajāto* “he is unborn”)
 
@@ -319,7 +319,7 @@ The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
 [^44]: lit., “all the time we are not…”
 
-[^45]: reading *cikkhallabhūmimasuciṃ* with BJTS for PTS *cikkhallabhūmiŋ gamanaŋ* (“going on muddy roads”)
+[^45]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkhallabhūmimasu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iṃ* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkhallabhūmiŋ gamanaŋ* (“going on muddy roads”)
 
 [^46]: reading *pubbakammabalena no* with BJTS for PTS *pubbakammaphalan tato* (“after the fruit of previous karma”)
 

@@ -66,7 +66,7 @@ happy, body hair grown upward,
 steadfast, eating food in a hall.[^21] (11-12) \[5997-5998\]
 
 He’s wishing to \[attain\] the place  
-of \[this\] monk \[named\] Saccasena;[^22]  
+of \[this\] monk \[named\] Sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>asena;[^22]  
 his hope’s for the appearance of  
 this \[monk\] wearing robes of rough cloth.” (13) \[5999\]
 
@@ -188,7 +188,7 @@ The legend of Mogharāja Thera is finished.
 
 The Summary:
 
-Kaccāna, Vakkalī Thera,  
+Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna, Vakkalī Thera,  
 the one named Mahākappina,  
 Dabba, and he named Kumāra,  
 Bāhiya, Master Koṭṭhita,  
@@ -197,7 +197,7 @@ and Mogharājā the pundit.
 There are three hundred verses here,  
 piled on another sixty-two.
 
-The Kaccāna Chapter, the Fifty-Fourth[^44]
+The Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna Chapter, the Fifty-Fourth[^44]
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
@@ -223,11 +223,11 @@ The Kaccāna Chapter, the Fifty-Fourth[^44]
 
 [^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
-[^13]: *vicittaŋ*
+[^13]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*
 
 [^14]: *ratanāna-aṭṭha-paññāsaŋ uggato*. A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
 
-[^15]: *kañcanagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
+[^15]: *kañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^16]: *aññatare* implies “undistinguished” here
 
@@ -237,7 +237,7 @@ The Kaccāna Chapter, the Fifty-Fourth[^44]
 
 [^19]: *paṭikkamanasālāyaŋ*, following RD. The sense is of a building whose purpose is keeping the chairs, cushions, mats or what have you that are appointed for distinguished visitors. As the Buddha and monks would have been among the latter, the sooting up of the floor seems to have been especially grave.
 
-[^20]: *lūkhacīvaradhārakaŋ*. *Lūkha°* refers to rough, inferior cloth discarded by tailors
+[^20]: *lūkha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īvaradhārakaŋ*. *Lūkha°* refers to rough, inferior cloth discarded by tailors
 
 [^21]: *sālapiṇḍitaŋ*, BJTS Sinh. gloss “who has *sālapiṇḍa* (“a lump of food in a hall” “a lump of *sal* “
 
@@ -249,11 +249,11 @@ The Kaccāna Chapter, the Fifty-Fourth[^44]
 
 [^25]: reading *jātiyā lakkhaṇaṅkito* with BJTS for PTS *tatiyākāraṇ’ aṅkita* (“marked in the third mine”?)
 
-[^26]: BJTS gloss explains that he was a *paccekabuddha* or “Lonely Buddha” who realizes nirvana without teaching the path (as does a Sammāsambuddha). Reading *upariṭṭhaṃ yasassinaṃ* with BJTS for PTS *upaṭṭhitaŋ yasassinaŋ* (“I waited on the famous”)
+[^26]: BJTS gloss explains that he was a *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha* or “Lonely Buddha” who realizes nirvana without teaching the path (as does a Sammāsambuddha). Reading *upariṭṭhaṃ yasassinaṃ* with BJTS for PTS *upaṭṭhitaŋ yasassinaŋ* (“I waited on the famous”)
 
 [^27]: lit., “the karma”
 
-[^28]: taking BJTS *macchime* (for *pacchime*) as a typographical error
+[^28]: taking BJTS *ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chime* (for *pa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chime*) as a typographical error
 
 [^29]: lit., “kṣatriyan”
 
@@ -269,7 +269,7 @@ The Kaccāna Chapter, the Fifty-Fourth[^44]
 
 [^35]: or “excellent knowledge,” see under RD *abhikkanta*, s.v. (*°dassāvin*)
 
-[^36]: *sabbarogatikicchako*
+[^36]: *sabbarogatiki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chako*
 
 [^37]: *abhaṇī* lit., “said”
 
@@ -277,7 +277,7 @@ The Kaccāna Chapter, the Fifty-Fourth[^44]
 
 [^39]: reading *mogharāja* (voc.) with BJTS for PTS *Mogharājā* (nom.)
 
-[^40]: *attānudiṭṭhiŋ uhacca*
+[^40]: *attānudiṭṭhiŋ uha<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a*
 
 [^41]: reading *katvā* with BJTS for PTS *hutvā* (“having become”)
 

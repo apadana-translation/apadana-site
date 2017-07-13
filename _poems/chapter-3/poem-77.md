@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[77. Sūcidāyaka[^1]\]
+### \[77. Sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>idāyaka[^1]\]
 
 Thirty thousand aeons \[ago\]  
 the Sambuddha, the World-Leader,  
@@ -37,9 +37,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1457\]
 
-Thus indeed Venerable Sūcidāyaka Thera spoke these verses.
+Thus indeed Venerable Sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>idāyaka Thera spoke these verses.
 
-The legend of Sūcidāyaka Thera is finished.
+The legend of Sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>idāyaka Thera is finished.
 
 [^1]: “Needle-Donor”
 

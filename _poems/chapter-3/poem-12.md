@@ -87,7 +87,7 @@ The legend of Ekatthambhika Thera is finished.
 
 [^3]: lit “they having not acquired one pillar”.
 
-[^4]: reading *paricārem’* (BJTS, PTS alt) for *parivārem’* (“being surrounded,” PTS, but also with the sense of “waiting upon”).
+[^4]: reading *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārem’* (BJTS, PTS alt) for *parivārem’* (“being surrounded,” PTS, but also with the sense of “waiting upon”).
 
 [^5]: “Fame-Bearer”
 

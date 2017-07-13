@@ -5,9 +5,9 @@ layout: poem
 category: chapter-3
 ---
 
-## Supāricariya Chapter, the Seventeenth
+## Supāri<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariya Chapter, the Seventeenth
 
-### \[161. Supāricariya[^1]\]
+### \[161. Supāri<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariya[^1]\]
 
 The one whose name was Paduma,  
 the Bull of Men, the Biped-Lord,  
@@ -39,9 +39,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2055\]
 
-Thus indeed Venerable Supāricariya Thera spoke these verses.
+Thus indeed Venerable Supāri<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariya Thera spoke these verses.
 
-The legend of Supāricariya Thera is finished.
+The legend of Supāri<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariya Thera is finished.
 
 [^1]: “Good Service”
 

@@ -5,9 +5,9 @@ layout: poem
 category: chapter-3
 ---
 
-## Sakacittaniya Chapter, the Seventh
+## Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaniya Chapter, the Seventh
 
-### \[61. Sakacittaniya[^1]\]
+### \[61. Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaniya[^1]\]
 
 Seeing a grove in the forest,  
 very quiet \[and\] undisturbed,  
@@ -39,9 +39,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1354\]
 
-Thus indeed Venerable Sakacittaniya Thera spoke these verses.
+Thus indeed Venerable Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaniya Thera spoke these verses.
 
-The legend of Sakacittaniya Thera is finished.
+The legend of Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaniya Thera is finished.
 
 [^1]: “Thinking for Himself”
 

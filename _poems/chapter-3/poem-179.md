@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[179. Tikicchaka[^1]\]
+### \[179. Tiki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaka[^1]\]
 
 In the city, Bandhumatī,  
 I was a well-trained physician,  
@@ -37,9 +37,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2147\]
 
-Thus indeed Venerable Tikicchaka Thera spoke these verses.
+Thus indeed Venerable Tiki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaka Thera spoke these verses.
 
-The legend of Tikicchaka Thera is finished.
+The legend of Tiki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaka Thera is finished.
 
 [^1]: “Doctor”
 

@@ -163,17 +163,17 @@ The legend of Mettagu Thera is finished.
 
 [^11]: *vinipātaŋ*
 
-[^12]: *tattha cittaŋ paṇidhitvā*, also “having aspired,” “having wished,” “having intended”
+[^12]: *tattha <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ paṇidhitvā*, also “having aspired,” “having wished,” “having intended”
 
-[^13]: *mettacittavatāya ca*
+[^13]: *metta<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittavatāya <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*
 
 [^14]: *jambusaṇḍa = jambudīpa =* India, the South Asian continent
 
-[^15]: *caturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
+[^15]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
 
 [^16]: contract to “immeas’rable” for chanting, to preserve the meter.
 
-[^17]: *chalaṅgaŋ*, lit., “the six branches.” RD: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (viciti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.” BJTS understand this as an adjective modifying “\[reading\] marks,” i.e., “the six branches of the science (*śāstraya*) of marks,” but given the use of the term to refer to the six branches of Vedic science above (\[3605\] = Sela (\#389 {392}), v. 24,
+[^17]: *chalaṅgaŋ*, lit., “the six branches.” RD: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.” BJTS understand this as an adjective modifying “\[reading\] marks,” i.e., “the six branches of the science (*śāstraya*) of marks,” but given the use of the term to refer to the six branches of Vedic science above (\[3605\] = Sela (\#389 {392}), v. 24,
 
 [^18]: *andhakāra*, lit., “blinder,” “\[studies\] that blind”
 
@@ -187,7 +187,7 @@ The legend of Mettagu Thera is finished.
 
 [^23]: *na sammati*, following BJTS gloss *no pohotē* = *no häki*
 
-[^24]: *asaṅkhataŋ ca nibbānaŋ*
+[^24]: *asaṅkhataŋ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a nibbānaŋ*
 
 [^25]: *sati paṭṭhānasayano*
 

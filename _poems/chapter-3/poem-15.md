@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[15. Pilindavaccha[^1]\]
+### \[15. Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha[^1]\]
 
 When the World-Leader Sumedha,  
 the Best Person, reached nirvana,  
@@ -72,11 +72,11 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (13) \[740\]
 
-Thus indeed Venerable Pilindavaccha Thera spoke these verses.
+Thus indeed Venerable Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha Thera spoke these verses.
 
-The legend of Pilindavaccha Thera is finished.
+The legend of Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha Thera is finished.
 
-[^1]: BJTS gives Pilindivaccha, which is also an alt reading in cty. As DPPN notes this may be a monk different from the famous Pilindavaccha of whom a much longer *apadāna* appears as \#388 {391}, below.
+[^1]: BJTS gives Pilindiva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha, which is also an alt reading in cty. As DPPN notes this may be a monk different from the famous Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha of whom a much longer *apadāna* appears as \#388 {391}, below.
 
 [^2]: i.e., *apsaras*
 

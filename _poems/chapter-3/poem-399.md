@@ -23,7 +23,7 @@ noisy with peacocks[^9] \[and\] herons,[^10]
 \[and\] the \[calls of birds\] like cuckoos.[^11] (3) \[3830\]
 
 Pigeons[^12] \[and\] *ravi*-swans[^13] \[as well\],  
-ruddy geese[^14] and *nadīcaras*,  
+ruddy geese[^14] and *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aras*,  
 lapwings[^15] \[and\] mynah birds[^16] are here,  
 small monkeys,[^17] *jīvajīvakas*.[^18] (4) \[3831\]
 
@@ -157,11 +157,11 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^3]: *ogayha*, “submerged in” “plunged into.” BJTS normalizes this by glossing “in the vicinity of the great ocean,” but I take it more literally, and assume that the protagonist is a supernatural being for whom this *is* normal.
 
-[^4]: PTS *cakkavākā pakūjitā*; BJTS *cakkavākūpakūjitā*
+[^4]: PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā pakūjitā*; BJTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākūpakūjitā*
 
 [^5]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. No BJTS gloss here. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*. At \[4231\], \[4233\], \[4313\], \[6332\] the (or a) BJTS gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus.
 
-[^6]: *maccha-kacchapa-sañchannā*
+[^6]: *ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha-ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chapa-sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hannā*
 
 [^7]: reading *nānādija°* (“various birds”) with BJTS for PTS *nānāmiga°*. The poem continues by listing types of birds, so the BJTS reading seems preferable, even though the PTS reading is also certainly possible.
 
@@ -169,7 +169,7 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^9]: *mayura°*
 
-[^10]: *°koñca°*
+[^10]: *°koñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a°*
 
 [^11]: *kokilādīhi vagguhi*, lit., “and with the lovely \[cries\] of cuckoos, etc.”
 
@@ -177,7 +177,7 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^13]: *ravihaŋsā*
 
-[^14]: *cakkavākā*
+[^14]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā*
 
 [^15]: *dindibhā*, Sinh. gloss *kirallu*, *kiraḷā* = red-wattled or yellow-wattled lapwing. PSI dictionary gives “bluejay”
 
@@ -201,9 +201,9 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^25]: *vasīsatasahassehi*, that is, masters of the Teaching, arahants.
 
-[^26]: *paccuggaman akās’ ahaŋ*, lit., “I did a going out to meet \[him\].” Here BJTS reads *paccuggamanam akās’ ahaṃ*, breaking meter, but in the repetition of this *apadāna* as \#{551}, below, it agrees with the PTS reading *paccugamam*
+[^26]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>uggaman akās’ ahaŋ*, lit., “I did a going out to meet \[him\].” Here BJTS reads *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>uggamanam akās’ ahaṃ*, breaking meter, but in the repetition of this *apadāna* as \#{551}, below, it agrees with the PTS reading *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ugamam*
 
-[^27]: reading *pañcaṅgikehi* (“the five types”) with BJTS for PTS *sataṅgikehi* (“the hundred types”)
+[^27]: reading *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgikehi* (“the five types”) with BJTS for PTS *sataṅgikehi* (“the hundred types”)
 
 [^28]: *purisuttamo*
 
@@ -217,11 +217,11 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^33]: reading *vījaniyo pavāyanti* with BJTS for PTS *vījanīyā pavāyanti*, “\[perfumes\] are being diffused by fans”
 
-[^34]: *pacceka-dussa-yugale*
+[^34]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>eka-dussa-yugale*
 
 [^35]: *lokāhutipaṭiggahaŋ*, lit., “Recipient of the Sacrifices of the World”
 
-[^36]: *tappayi*, lit., “satisfied,” “regaled,” “entertained.” BJTS reads *sabbe ime ca* (“and all of these \[monks\]”) for PTS *saṅgham etena*
+[^36]: *tappayi*, lit., “satisfied,” “regaled,” “entertained.” BJTS reads *sabbe ime <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and all of these \[monks\]”) for PTS *saṅgham etena*
 
 [^37]: lit., “every day”
 

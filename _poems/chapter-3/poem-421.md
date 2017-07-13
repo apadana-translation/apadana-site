@@ -91,7 +91,7 @@ The legend of Sakiŋsammajjaka Thera is finished.
 
 [^4]: taking *paṭikuṭim* (BJTS reads *paṭikūṭī°*) as fr. *paṭikuṭati* “to crouch,” “to bend over.” BJTS gloss here (*gauravayen nämunem*, “bending over (in reverence)”
 
-[^5]: reading *cārimaggena* with BJTS (and PTS alt) for PTS *cārima-maggena*, which breaks the meter
+[^5]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārimaggena* with BJTS (and PTS alt) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārima-maggena*, which breaks the meter
 
 [^6]: lit., “remembering the supreme (or ultimate) Bodhi tree
 
@@ -105,7 +105,7 @@ The legend of Sakiŋsammajjaka Thera is finished.
 
 [^11]: *visuddhaŋ paṇḍaraŋ*
 
-[^12]: *kaṇḍu*. BJTS reads *kacchu*, with the same meaning.
+[^12]: *kaṇḍu*. BJTS reads *ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu*, with the same meaning.
 
 [^13]: *daddu*
 
@@ -117,7 +117,7 @@ The legend of Sakiŋsammajjaka Thera is finished.
 
 [^17]: *apamāra*. This seems an outlier since the remainder of the diseases listed here are all diseases of the skin, but the Pāli is unambiguous.
 
-[^18]: *vitacchikā*
+[^18]: *vita<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chikā*
 
 [^19]: lit., “is,” singular
 

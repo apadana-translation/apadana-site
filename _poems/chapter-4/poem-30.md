@@ -337,11 +337,11 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^6]: *iddhiŋ*
 
-[^7]: *cakkavālaŋ samaŋ* (BJTS *cakkavāḷasamaṃ*) *kāyaŋ*, lit., “body the same as the ring surrounding the universe”
+[^7]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālaŋ samaŋ* (BJTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷasamaṃ*) *kāyaŋ*, lit., “body the same as the ring surrounding the universe”
 
 [^8]: or “island” (*dīpa*). This verse presumes knowledge of the ancient Indian understanding of India (here *jambudīpaŋ* \[BJTS *°dīpo*\], “the Island of Rose-Apples”) as one of the four great islands or continents making up the whole world. It lies to the south, with the other three being north, east and west of India.
 
-[^9]: lit., “in the ring surrounding the universe” (*cakkavālagiri°*; BJTS *cakkavāḷagiri°*)
+[^9]: lit., “in the ring surrounding the universe” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālagiri°*; BJTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷagiri°*)
 
 [^10]: *jamburukkha°*, lit., “a rose-apple tree”
 
@@ -353,11 +353,11 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^14]: reading *buddhānaṃ* with BJTS (or PTS alt. *Buddhāna*) for PTS *pubbānaŋ* (former); but cf. below \[1133\] where BJTS and PTS both give *pubbānaṃ* in a repetition of this verse (and several around it)
 
-[^15]: reading *vārayitvā anācaraṃ* with BJTS for PTS *pācayantī anāvaraŋ* (“burning/tormenting ?)
+[^15]: reading *vārayitvā anā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṃ* with BJTS for PTS *pā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayantī anāvaraŋ* (“burning/tormenting ?)
 
 [^16]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta*, \#29 of *Dīghanikāya*, section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
 
-[^17]: reading *sañcattaṃ* with BJTS (and PTS alt.) for PTS *samattaŋ* (“fulfilled” “completed”)
+[^17]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attaṃ* with BJTS (and PTS alt.) for PTS *samattaŋ* (“fulfilled” “completed”)
 
 [^18]: reading *°bhaṇḍe na gūhāma* with BJTS for PTS *bhaṇḍena gūhāmi* (“I conceal with a thing”)
 
@@ -365,7 +365,7 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^20]: lit., “see,” fig. “know”
 
-[^21]: reading *anubhuttaṃ* with BJTS for PTS *pariccattaŋ* (“are sacrificed”)
+[^21]: reading *anubhuttaṃ* with BJTS for PTS *pari<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>attaŋ* (“are sacrificed”)
 
 [^22]: *saṃsāre*, or “wheel of life”
 
@@ -401,7 +401,7 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^38]: reading *nibbānapadam asaṅkhataṃ* with BJTS for PTS *nibbān’-amat’-asaṅkhataŋ* (“unconditioned, deathless nirvana”)
 
-[^39]: reading *sabbaṃ* with BJTS for PTS *saccaŋ* (“the truth of”)
+[^39]: reading *sabbaṃ* with BJTS for PTS *sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aŋ* (“the truth of”)
 
 [^40]: reading *vandāma* with BJTS for PTS *vandāmi* (as in v. \[1028\], above)
 

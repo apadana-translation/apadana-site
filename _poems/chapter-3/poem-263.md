@@ -1,11 +1,11 @@
 ---
-title: Aḍḍhacandiya
+title: Aḍḍha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andiya
 order: 263
 layout: poem
 category: chapter-3
 ---
 
-### \[263. Aḍḍhacandiya[^1]\]
+### \[263. Aḍḍha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andiya[^1]\]
 
 A half-moon[^2] was given by me  
 at the tree[^3] rising up from earth,  
@@ -27,9 +27,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2552\]
 
-Thus indeed Venerable Aḍḍhacandiya Thera spoke these verses.
+Thus indeed Venerable Aḍḍha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andiya Thera spoke these verses.
 
-The legend of Aḍḍhacandiya Thera is finished.
+The legend of Aḍḍha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andiya Thera is finished.
 
 [^1]: “Half-Moon-er”
 

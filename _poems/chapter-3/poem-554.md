@@ -58,7 +58,7 @@ The legend of Kimbila Thera, the fourth.
 
 [^6]: lit., “I caused a pavilion (*maṇḍapa*) to be constructed,” caus. of *karoti*
 
-[^7]: lit., “and,” *ca*
+[^7]: lit., “and,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*
 
 [^8]: Kakusandha Buddha lived at an earlier time in the present aeon, one of five Buddhas said to have done so. The author demonstrates awareness of — and a solution that smoothes out — the little wrinkle this creates in applying this typical refrain.
 

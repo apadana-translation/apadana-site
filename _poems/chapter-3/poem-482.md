@@ -121,11 +121,11 @@ The legend of Buddhasaññaka Thera is finished.
 
 [^10]: this verse is presumably thought by the protagonist upon hearing the worries of his students.
 
-[^11]: like the deer-leather (*ajina*) and bark-robes (*vākacīraŋ*), the water-pot (*kamaṇḍalu*, a long-spouted jar for carrying water) is a distinctive possession, and signifier of non-Buddhist ascetics
+[^11]: like the deer-leather (*ajina*) and bark-robes (*vāka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īraŋ*), the water-pot (*kamaṇḍalu*, a long-spouted jar for carrying water) is a distinctive possession, and signifier of non-Buddhist ascetics
 
 [^12]: *odumbarakapupphaŋ va*. *Odumbaraka* (BJTS *odumbarika*) means “related to the *udumbara* tree, which is Ficus Gomerata, Sinh. *dimbul*.
 
-[^13]: *candamhi sasakaŋ yathā*
+[^13]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andamhi sasakaŋ yathā*
 
 [^14]: cty (p. 488) explains, “”as milk is hard to obtain for (or of) crows due to their being oppressed by \[having\] little, day and night”
 
@@ -139,8 +139,8 @@ The legend of Buddhasaññaka Thera is finished.
 
 [^19]: *yugamattañ pekkhamānā*, lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
 
-[^20]: reading *appakiccā aloluppā* with BJTS for PTS *appabhāsā alīlatā*, “saying little and having no playfulness (or very serious),” a possible but unusual reading; both terms of the BJTS reading, unlike those of the PTS reading, have solid witness in other texts.
+[^20]: reading *appaki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ā aloluppā* with BJTS for PTS *appabhāsā alīlatā*, “saying little and having no playfulness (or very serious),” a possible but unusual reading; both terms of the BJTS reading, unlike those of the PTS reading, have solid witness in other texts.
 
-[^21]: *uñchāya caramānā*
+[^21]: *uñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hāya <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aramānā*
 
 [^22]: *diyaḍḍhayojane sese*, lit., “when a half less than two leagues remained,” following BJTS Sinhala gloss

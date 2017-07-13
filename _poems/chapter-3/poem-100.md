@@ -38,10 +38,10 @@ The legend of Buddhūpaṭṭhāka Thera is finished.
 
 The Summary:
 
-Sudhāpiṇḍa and Cela too,  
+Sudhāpiṇḍa and <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ela too,  
 Kammāra, Gandhamāliya,  
 Tipupphiya, Madhu, Senā,  
-Veyyāvacca and Dhammaka:  
+Veyyāva<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a and Dhammaka:  
 exactly sixty verses are  
 related in this chapter.
 
@@ -52,7 +52,7 @@ Then there is the Summary of Chapters:
 Buddha Chapter is the first,  
 Sīhāsani, Subhūti,  
 Kuṇḍa-Dhāna and Upāli,  
-Vījani and Sakacittani,  
+Vījani and Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittani,  
 Nāgasamāla, Timira,  
 with Sudhā Chapter they are ten.  
 There are fourteen hundred verses  
@@ -62,7 +62,7 @@ The Ten Chapters called Buddha.
 
 The First Hundred[^4] is finished.
 
-[^1]: reading *catuviise* (BJTS) for *catunavute* (“ninety-four,” PTS)
+[^1]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuviise* (BJTS) for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atunavute* (“ninety-four,” PTS)
 
 [^2]: “Much Sound”
 

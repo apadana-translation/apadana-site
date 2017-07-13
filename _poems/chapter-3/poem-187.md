@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[187. Ekacintita[^1]\]
+### \[187. Eka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita[^1]\]
 
 When according to \[his\] lifespan,  
 a god falls from the world,[^2]  
@@ -66,9 +66,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (12) \[2196\]
 
-Thus indeed Venerable Ekacintita Thera spoke these verses.
+Thus indeed Venerable Eka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita Thera spoke these verses.
 
-The legend of Ekacintita Thera is finished.
+The legend of Eka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita Thera is finished.
 
 [^1]: “Once-Thought-Out.”
 
@@ -90,7 +90,7 @@ The legend of Ekacintita Thera is finished.
 
 [^10]: lit., “\[be a person\] who is not one with ill-will, \[one who is\] free of attachment.”
 
-[^11]: reading *devā devaṃ yadā vidū cavantaṃ* with BJTS for PTS *devadevaŋ yathāvidū bhavantaŋ*
+[^11]: reading *devā devaṃ yadā vidū <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>avantaṃ* with BJTS for PTS *devadevaŋ yathāvidū bhavantaŋ*
 
 [^12]: “Cheerful” or “Good-Minded”
 

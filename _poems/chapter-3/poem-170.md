@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[170. Pañcaṅguliya[^1]\]
+### \[170. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅguliya[^1]\]
 
 The Blessed One known as Tissa,  
 the World’s Best One, the Bull of Men,  
@@ -32,9 +32,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2103\]
 
-Thus indeed Venerable Pañcaṅguliya Thera spoke these verses.
+Thus indeed Venerable Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅguliya Thera spoke these verses.
 
-The legend of Pañcaṅguliya Thera is finished.
+The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅguliya Thera is finished.
 
 The Summary:
 
@@ -42,10 +42,10 @@ Supārī and Kaṇaverī,
 Khujjaka, Desapūjaka,  
 Kaṇikāra, Sappidada,  
 Yūthika, Dussadāyaka,  
-Māḷa and Pañcaṅgulika,  
+Māḷa and Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgulika,  
 four and fifty verses.
 
-The Supāricariya Chapter, the Seventeenth.
+The Supāri<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariya Chapter, the Seventeenth.
 
 [^1]: “Palm-Print-er”
 

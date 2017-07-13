@@ -5,7 +5,7 @@ layout: poem
 category: chapter-3
 ---
 
-### \[425. {428.}[^1] Sucintita[^2]\]
+### \[425. {428.}[^1] Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita[^2]\]
 
 In the city, Haṃsavatī,  
 I was a cultivator then.  
@@ -178,9 +178,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (33) \[4599\]
 
-Thus indeed Venerable Sucintita Thera spoke these verses.
+Thus indeed Venerable Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita Thera spoke these verses.
 
-The legend of Sucintita Thera is finished.
+The legend of Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
@@ -206,7 +206,7 @@ The legend of Sucintita Thera is finished.
 
 [^12]: *āyāgo*. The term can refer to the recipient of sacrificial gifts, or to the gifts themselves. PTS seems to assume the latter meaning in reading *taŋ* for *tvaṃ*
 
-[^13]: reading *cakkhuma* (voc.) with BJTS for PTS *cakkhumā* (nom.)
+[^13]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhuma* (voc.) with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhumā* (nom.)
 
 [^14]: BJTS glosses “stream-enterers, etc.,” that is, the four who have entered the path and are established in its fruit are stream-enterers, once-returners, non-returners and arahants.
 
@@ -230,7 +230,7 @@ The legend of Sucintita Thera is finished.
 
 [^24]: reading *dukkhaṃ* with BJTS for PTS *dukkaŋ*, an obvious typographical error
 
-[^25]: *carimo vattate bhavo*
+[^25]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
 
 [^26]: reading *deyyadhammo…phalaṃ* with BJTS for PTS *deyyadhamme…phalaŋ* (“the fruit in \[= of?\] my donation”)
 

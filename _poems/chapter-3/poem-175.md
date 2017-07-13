@@ -25,7 +25,7 @@ I’ve come to know no bad rebirth. (3) \[2126\]
 In the fifteen-thousandth aeon  
 there were eight \[different people\],  
 monarchs who turned the wheel \[of law\],  
-\[all\] known by the name Sīluccaya.[^3] (4) \[2127\]
+\[all\] known by the name Sīlu<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aya.[^3] (4) \[2127\]
 
 The four analytical modes,  
 and these eight deliverances,  

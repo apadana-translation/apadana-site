@@ -106,7 +106,7 @@ The legend of the bhikkhunī Ambapālī is finished
 
 [^8]: *kassape jinasāsane*, lit., “in the dispensation of the Victor, Kassapa \[Buddha\]”
 
-[^9]: reading *°brahmacariyam* with BJTS for PTS *°brahmaceram*, lit., “the Brahma-life” “the holy life” “celibacy”
+[^9]: reading *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyam* with BJTS for PTS *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eram*, lit., “the Brahma-life” “the holy life” “celibacy”
 
 [^10]: i.e., the thirty-three gods.
 

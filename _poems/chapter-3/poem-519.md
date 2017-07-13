@@ -190,11 +190,11 @@ The legend of Sabbaphaladāyaka Thera is finished.
 
 [^22]: that is, *garuḷas*
 
-[^23]: *accha°*, Sinh. gloss *valassu*
+[^23]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha°*, Sinh. gloss *valassu*
 
 [^24]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^25]: *taracchā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *taracchā* (i.e., *kokataracchā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
+[^25]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
 
 [^26]: *osadhī* = *osadha*, (medicinal) herbs, medicinal ingredients, plants
 

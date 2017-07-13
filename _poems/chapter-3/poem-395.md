@@ -207,9 +207,9 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^17]: *vivaṭṭetvā*, “causing to be turn away,” “destroying”
 
-[^18]: *pañcanivāraṇe*. five obstacles to arahantship. RD: “kāmacchanda, abhijjhā-vyāpāda, thīnamiddha, uddhacca-kukkucca, vicikicchā,” i.e., attraction to sense pleasures, acting badly due to covetousness, sloth and torpor, flurry and worry, doubt.
+[^18]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anivāraṇe*. five obstacles to arahantship. RD: “kāma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chanda, abhijjhā-vyāpāda, thīnamiddha, uddha<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a-kukku<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a, vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā,” i.e., attraction to sense pleasures, acting badly due to covetousness, sloth and torpor, flurry and worry, doubt.
 
-[^19]: lit., “thought,” “mind,” *cittaŋ janetvā*
+[^19]: lit., “thought,” “mind,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ janetvā*
 
 [^20]: PTS connects the first two feet of this verse with the previous one, which it (unlike BJTS) presents as six-footed, BJTS makes these the first two feet of the present, six-footed verse. I follow BJTS here.
 
@@ -217,11 +217,11 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^22]: *bhikkhusaṅghassa*
 
-[^23]: *caraṇā*, BJTS *caratā*
+[^23]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṇā*, BJTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aratā*
 
 [^24]: *pabbajjaŋ abhinikkhamiŋ*
 
-[^25]: lit., “and,” *ca*
+[^25]: lit., “and,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*
 
 [^26]: lit., “with \[my\] meritorious karma”
 

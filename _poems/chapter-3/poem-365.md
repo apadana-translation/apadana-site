@@ -8,7 +8,7 @@ category: chapter-3
 ### \[362. {365.}[^1] Aṅkolapupphiya[^2]\]
 
 The Sambuddha named Paduma  
-dwelt on Cittakūṭa[^3] back then.  
+dwelt on <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ittakūṭa[^3] back then.  
 Having seen him I \[then\] approached  
 the Buddha, the Self-Become One. (1) \[3195\]
 

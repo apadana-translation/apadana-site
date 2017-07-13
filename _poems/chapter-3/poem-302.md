@@ -18,7 +18,7 @@ I’ve come to know no bad rebirth:
 that’s the fruit of giving perfumes. (2) \[2722\]
 
 In the fifteenth aeon ago  
-\[lived\] a ruler[^2] named Sucela,[^3]  
+\[lived\] a ruler[^2] named Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ela,[^3]  
 a wheel-turning king with great strength,  
 possessor of the seven gems. (3) \[2723\]
 

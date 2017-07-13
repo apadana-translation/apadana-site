@@ -62,7 +62,7 @@ The legend of Jātipupphiya Thera is finished.
 
 [^3]: lit., “reached nirvana”
 
-[^4]: *caṅgoṭake*. BJTS gloss, straying from the text, gives “a flower bouquet (*mal-kaḍak*) of jasmine flowers (*dasamanmalin*) for the top (*mudun*, of the stupa)”
+[^4]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgoṭake*. BJTS gloss, straying from the text, gives “a flower bouquet (*mal-kaḍak*) of jasmine flowers (*dasamanmalin*) for the top (*mudun*, of the stupa)”
 
 [^5]: or “the body:” *sarīram*
 
@@ -72,10 +72,10 @@ The legend of Jātipupphiya Thera is finished.
 
 [^8]: lit., “meritorious”
 
-[^9]: *saŋsarāmi…ce*, lit., “if I am transmigrating”
+[^9]: *saŋsarāmi…<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>e*, lit., “if I am transmigrating”
 
 [^10]: lit., “flower-*pūjā*”
 
-[^11]: *carimo vattate bhavo*
+[^11]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
 
 [^12]: lit., “doing *pūjā* to the body”

@@ -87,7 +87,7 @@ The legend of Tiṇamuṭṭhidāyaka Thera is finished.
 
 [^7]: *anāsava*
 
-[^8]: reading *va* with BJTS (and PTS alternative) for PTS *ca*, “and”
+[^8]: reading *va* with BJTS (and PTS alternative) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, “and”
 
 [^9]: *yūpa*. The description which proceeds in the next verse seems to refer to the whole palace, not just the sacrificial post.
 

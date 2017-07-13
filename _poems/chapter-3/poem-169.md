@@ -45,7 +45,7 @@ The legend of Samādapaka Thera is finished.
 
 [^2]: see note to v. \[1601\]; this is the same term, *mahāpūgagaṇa*.
 
-[^3]: this follows BJTS Sinhala gloss. BJTS reads *baddhacarā*, “connected farers.” PTS reads paddhacarā, One would prefer *sadācarā*, or perhaps *saddhacarā* (“fellow faithful”).
+[^3]: this follows BJTS Sinhala gloss. BJTS reads *baddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*, “connected farers.” PTS reads paddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā, One would prefer *sadā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*, or perhaps *saddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā* (“fellow faithful”).
 
 [^4]: lit., “I caused them to undertake meritorious action.”
 

@@ -78,7 +78,7 @@ The Kaṇikāra Chapter, the Fifty-First[^9]
 
 [^5]: *samādhikusalo ahaŋ*
 
-[^6]: BJTS reads *Vārañca*, “*Vāra*”
+[^6]: BJTS reads *Vārañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, “*Vāra*”
 
 [^7]: BJTS read *Amodam eva*, “also Amoda”
 

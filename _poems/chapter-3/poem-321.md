@@ -31,7 +31,7 @@ that’s the fruit of Buddha-*pūjā*. (4) \[2828\]
 
 In the fifty-fifth aeon hence  
 there was one \[man\], lord of the earth,  
-known as Samantacchadana,[^4]  
+known as Samanta<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadana,[^4]  
 a wheel-turning king with great strength. (5) \[2829\]
 
 The four analytical modes,  

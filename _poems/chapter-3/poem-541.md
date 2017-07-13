@@ -193,7 +193,7 @@ The legend of Lakuṇṭakabhaddiya Thera is finished.
 
 [^8]: *sabbalokuttamo*
 
-[^9]: *caraṇena sampanno*
+[^9]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṇena sampanno*
 
 [^10]: *brahā*
 

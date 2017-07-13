@@ -152,7 +152,7 @@ The legend of Ekâsanadāyaka Thera is finished.
 
 [^8]: *sallakatto*, lit., “one who works on the (poison) arrow,” a doctor who does surgery.
 
-[^9]: *tikicchako*
+[^9]: *tiki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chako*
 
 [^10]: reading *kalla-atthikā* with BJTS for PTS *kallaṭṭhikā*. BJTS glosses *kalla* (“what is fitting”) as “nirvana” (*nivan kämmätt yamkenek*)
 

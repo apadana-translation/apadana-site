@@ -174,7 +174,7 @@ The legend of Abhaya Thera is finished.
 
 [^7]: *keṭubhavidū*
 
-[^8]: *chandovicitikovido*
+[^8]: *chandovi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itikovido*
 
 [^9]: *haṃsârāmam* appears to be a proper name, though it also could be taken as “the hermitage in \[my hometown\] Haṃsavatī”
 
@@ -182,7 +182,7 @@ The legend of Abhaya Thera is finished.
 
 [^11]: *mahājana-purakkhataŋ*
 
-[^12]: reading *vā* with BJTS for PTS *ca* (“and”)
+[^12]: reading *vā* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and”)
 
 [^13]: *gaṇi°*, lit., “one who has a group \[of followers\],” “a teacher”
 
@@ -206,13 +206,13 @@ The legend of Abhaya Thera is finished.
 
 [^23]: *sabbalokassa guru* (BJTS reads *garu*, the older form, but glosses *guru*). I follow BJTS Sinh. gloss in taking this as referring specifically to a Buddha, hence capitalize it as a Buddha-epithet.
 
-[^24]: reading *lokcāriyo* with BJTS for PTS *lokacariyā* (sic).
+[^24]: reading *lok<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āriyo* with BJTS for PTS *loka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyā* (sic).
 
 [^25]: reading *sambuddhaṃ* with BJTS for PTS *yaŋ Budhhaŋ* (“which Buddha”)
 
 [^26]: PTS *dhammadesakaŋ;* BJTS *dhammadesataṃ*
 
-[^27]: *tato cuto*, lit., “fallen from there”
+[^27]: *tato <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>uto*, lit., “fallen from there”
 
 [^28]: *gato* *saggaŋ*
 

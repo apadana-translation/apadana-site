@@ -87,7 +87,7 @@ Dhammā, and also Sudhammā,
 and seventh Saṅghadāyikā, (16) \[708\]
 
 \[now\] Khemā, Uppalavaṇṇā,  
-Paṭācārā and Kuṇḍalā,[^8]  
+Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā and Kuṇḍalā,[^8]  
 \[the nun\] Dhammadinnā and I  
 and Visākhā is the seventh. (17) \[709\]
 
@@ -214,7 +214,7 @@ The legend of Kisāgotamī Therī is finished.
 
 [^2]: *varanaraŋ*
 
-[^3]: *lūkhacīvaradhārikaŋ*
+[^3]: *lūkha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īvaradhārikaŋ*
 
 [^4]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
 
@@ -222,7 +222,7 @@ The legend of Kisāgotamī Therī is finished.
 
 [^6]: *sukhe ṭhitā*, lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
 
-[^7]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*ca*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
+[^7]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
 
 [^8]: = Bhaddā Kuṇḍalakesī
 
@@ -230,7 +230,7 @@ The legend of Kisāgotamī Therī is finished.
 
 [^10]: *gatā*, lit., “gone to,” perhaps to be read as “given to”
 
-[^11]: *yadā ca*, lit., “and when”
+[^11]: *yadā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., “and when”
 
 [^12]: *sukheṭhito*, lit., “fixed in comfort”
 

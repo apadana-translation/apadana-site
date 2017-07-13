@@ -19,7 +19,7 @@ that is the fruit of a lamp-gift. (2) \[2134\]
 
 In the sixteen-thousandth aeon  
 there were these four \[different\] men \[then\],  
-\[all\] known by the name Candābha,[^3]  
+\[all\] known by the name <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andābha,[^3]  
 wheel-turning kings with great power. (3) \[2135\]
 
 The four analytical modes,  

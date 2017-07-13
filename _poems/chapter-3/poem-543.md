@@ -142,7 +142,7 @@ And now in \[my\] final rebirth,
 due to the kṣatriyan’s good deeds,[^33]  
 I’m born in Koliya city;  
 my mother was Suppavāsā,[^34]  
-father Mahāli Licchavi.[^35]  
+father Mahāli Li<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavi.[^35]  
 Because of obstructing the gate,  
 I gestated for seven years,  
 suffering in \[my\] mother’s womb. (28-29) \[6103-6104\]
@@ -243,7 +243,7 @@ The legend of Sīvali Thera is finished.
 
 [^15]: “Good-Looking,” presumably the proper name of the monk who held the foremost place among receivers of gifts during the era of Padumuttara Buddha.
 
-[^16]: *cārunayano*, or “lovely to the eyes” (?)
+[^16]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārunayano*, or “lovely to the eyes” (?)
 
 [^17]: *sabbadhammavipassaka*, a play on that Buddha’s name
 
@@ -281,7 +281,7 @@ The legend of Sīvali Thera is finished.
 
 [^34]: “Good Sojourner”
 
-[^35]: “Big Fish \[*mahā* + *āli* ?\] the Licchavi”
+[^35]: “Big Fish \[*mahā* + *āli* ?\] the Li<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavi”
 
 [^36]: lit., “gone astray at the gate \[to the birth canal\]”
 

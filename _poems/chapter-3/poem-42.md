@@ -157,11 +157,11 @@ The legend of Koḷiyavessa Thera is finished.
 
 [^2]: lit., “meritorious”
 
-[^3]: reading *cinitvā* (BJTS, PTS alt) for *vinditvā* (PTS), even though the latter, in the sense of “gains,” amounts to much the same thing.
+[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>initvā* (BJTS, PTS alt) for *vinditvā* (PTS), even though the latter, in the sense of “gains,” amounts to much the same thing.
 
 [^4]: See above,v. \[749\] and n.
 
-[^5]: reading *ca sā* (BJTS) for *mayā* (PTS).
+[^5]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a sā* (BJTS) for *mayā* (PTS).
 
 [^6]: lit., “will go to the ultimate mountain” (*naguttamaṃ*, cf. v. \[1121\] and n.)
 

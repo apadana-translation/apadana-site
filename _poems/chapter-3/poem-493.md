@@ -63,7 +63,7 @@ The legend of Koraṇḍapupphiya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
 
-[^2]: “Koraṇḍa-Flower-er.” See \#208 for a (different) *apadāna* ascribed to a monk of this name. \#422 {425} is likewise ascribed to a monk of this name, and save a slight difference in v. 6 \[5268\], substituting “*°cchavī* (“skin”) for *vaṇṇo* (“color”), it is identical to this one.
+[^2]: “Koraṇḍa-Flower-er.” See \#208 for a (different) *apadāna* ascribed to a monk of this name. \#422 {425} is likewise ascribed to a monk of this name, and save a slight difference in v. 6 \[5268\], substituting “*°<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavī* (“skin”) for *vaṇṇo* (“color”), it is identical to this one.
 
 [^3]: BJTS gloss: a hunter
 
