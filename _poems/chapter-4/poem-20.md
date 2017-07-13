@@ -1,5 +1,5 @@
 ---
-title: Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā
+title: Paṭācārā
 order: 20
 layout: poem
 category: chapter-4

@@ -1,5 +1,5 @@
 ---
-title: Mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adāyaka
+title: Mañcadāyaka
 order: 420
 layout: poem
 category: chapter-3

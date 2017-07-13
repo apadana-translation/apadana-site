@@ -1,5 +1,5 @@
 ---
-title: Aḍḍha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andiya
+title: Aḍḍhacandiya
 order: 263
 layout: poem
 category: chapter-3

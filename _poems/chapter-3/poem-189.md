@@ -1,5 +1,5 @@
 ---
-title: Eka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āriya
+title: Ekacāriya
 order: 189
 layout: poem
 category: chapter-3
