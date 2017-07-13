@@ -454,17 +454,18 @@
   &__primary-content {
 
     @include breakpoint($large) {
-      flex: 2;
+      flex: 1;
+      align-self: center;
     }
   }
 
   &__desc {
     flex: 1;
-    margin-top: 1.5rem;
+    margin-top: 1rem;
     font-family: "skolar-sans-latin", sans-serif;
 
     @include breakpoint($large) {
-      margin-top: 0.5rem;
+      margin-top: 0;
       margin-left: 1rem;
     }
 

@@ -1,8 +1,7 @@
 input[type=text],
 input[type=search] {
-  width: 90%;
-  max-width: 25rem;
-  padding: 0.5rem 1rem;
+  width: 100%;
+  padding: 0.5rem 2.5rem 0.5rem 1rem;
   background: palette(gray);
   border: none;
   outline: none;
@@ -11,13 +10,15 @@ input[type=search] {
   font-family: "skolar-sans-latin-extended", sans-serif;
 
   & + label {
-    margin-left: 0.5rem;
+    position: absolute;
+    right: 0.75rem;
   }
 }
 
 .input-group {
   display: flex;
   align-items: center;
+  position: relative;
 
   @include breakpoint($large) {
     flex-basis: 100%;

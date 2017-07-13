@@ -3,11 +3,15 @@
   &__results {
     max-height: 70vh;
     overflow-y: scroll;
-    padding-top: 1rem;
+    margin-top: 1rem;
     padding-left: 0;
   }
 
   &__result {
     margin: 0.5rem;
+
+    a {
+      font-weight: bold;
+    }
   }
 }

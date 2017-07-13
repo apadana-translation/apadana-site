@@ -79,5 +79,9 @@ $switchBar: (
 
   &:first-child {
     font-weight: 700;
+
+		label {
+			margin-top: 0;
+		}
   }
 }
