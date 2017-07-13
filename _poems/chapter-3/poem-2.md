@@ -156,7 +156,7 @@ The legend of Mahāmoggallāna Thera is finished.
 
 [^10]: *pahittato*. RD “of resolute will.” Cty (following Buddhaghosa) explains the term as derived from: *peseti*, “sent:” “having a mind that is sent forth to nirvana;” RD dismisses this as false etymology.
 
-[^11]: *āraddhaviriyā,* lit., “with strenuous effort”
+[^11]: *āraddhaviriyā*, lit., “with strenuous effort”
 
 [^12]: following BJTS in reading *samanginnā* (sing. abl) for PTS *samangīnaŋ* (pl. dat/gen)
 

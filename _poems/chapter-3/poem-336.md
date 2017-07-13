@@ -129,7 +129,7 @@ The legend of Pabhaṅkara Thera is finished.
 
 [^7]: lit., “with \[my\] meritorious karma,” *puññakammena*
 
-[^8]: *kaṇḍu.* BJTS reads *ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu*, with the same meaning.
+[^8]: *kaṇḍu*. BJTS reads *ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu*, with the same meaning.
 
 [^9]: *daddu*
 

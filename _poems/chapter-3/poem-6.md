@@ -812,7 +812,7 @@ The legend of Upāli Thera is finished.
 
 [^13]: lit., “and was built with such a large amount”
 
-[^14]: *turiya,* musical instruments
+[^14]: *turiya*, musical instruments
 
 [^15]: *bheri*
 

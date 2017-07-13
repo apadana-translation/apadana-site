@@ -44,6 +44,6 @@ The legend of Sālapupphiya Thera is finished.
 
 [^4]: or “door,” *dvārena*
 
-[^5]: *khajja,* edible solid food, sweets. This is what one would expect the donation from a cake-maker to be, even though the previous verse — and his name — emphasize *sal* flowers.
+[^5]: *khajja*, edible solid food, sweets. This is what one would expect the donation from a cake-maker to be, even though the previous verse — and his name — emphasize *sal* flowers.
 
 [^6]: “Unlimited Salutation,” taking *°añjala* from *añjalī*, pressing the hands together in reverence.

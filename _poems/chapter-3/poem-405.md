@@ -580,7 +580,7 @@ The legend of Upasīva Thera is finished.
 
 [^130]: *kumbhaṇḍā*
 
-[^131]: *rakkhasā = rākṣasā*
+[^131]: *rakkhasā* = *rākṣasā*
 
 [^132]: *pannagā*
 

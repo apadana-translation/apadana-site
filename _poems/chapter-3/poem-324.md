@@ -71,7 +71,7 @@ The legend of Saññasāmika Thera is finished.
 
 [^3]: reading *sārathambh-upanītāni* with BJTS for PTS *sārasmiŋ hi upatāni* (“brought on a post”)
 
-[^4]: *pahaṭaŋ,* BJTS reads *pahaṭṭhaŋ* with the same meaning.
+[^4]: *pahaṭaŋ*, BJTS reads *pahaṭṭhaŋ* with the same meaning.
 
 [^5]: *ukkāmukhaŋ*, the “mouth” (receiving or discharging end) of a furnace or forge, a goldsmith’s smelting pot.
 

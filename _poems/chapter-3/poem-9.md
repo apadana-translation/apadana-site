@@ -105,4 +105,4 @@ The legend of Khadiravaniya Revata Thera is finished.
 
 [^7]: *brahmabandhu*, i.e., a brahmin
 
-[^8]: *Sammāsambuddhasāsane,* lit., “in the dispensation of the Fully Awakened One”.
+[^8]: *Sammāsambuddhasāsane*, lit., “in the dispensation of the Fully Awakened One”.

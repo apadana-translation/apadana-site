@@ -121,7 +121,7 @@ The legend of Dhammasavaniya Thera is finished.
 
 [^10]: reading *dake yathā ummujjitvā* with BJTS for PTS *dake yathā ummisitvā* (“as though opening one’s eyes in the water”)
 
-[^11]: *evaŋ,* lit., “thus,” “in this way”
+[^11]: *evaŋ*, lit., “thus,” “in this way”
 
 [^12]: lit., “am going” (“went”)
 

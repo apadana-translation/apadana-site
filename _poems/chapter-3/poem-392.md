@@ -697,7 +697,7 @@ The legend of Sela Thera is finished.
 
 [^105]: i.e., when it is full, *puṇṇamāse va <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andimā*
 
-[^106]: *bhayātīto = bhaya + atīta*, lit., “he in whom fear is overcome/surpassed/int he past” or “the one free of fear”
+[^106]: *bhayātīto* = *bhaya* + *atīta*, lit., “he in whom fear is overcome/surpassed/int he past” or “the one free of fear”
 
 [^107]: *bhavantakaraṇo*, “he who makes an end of existence”
 

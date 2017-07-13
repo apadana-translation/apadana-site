@@ -183,7 +183,7 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^5]: reading *āhiṇḍāmi* with BJTS for PTS *ahiṇḍāmi*, “not wandering about”
 
-[^6]: *pasadaŋ = pasataŋ* (RD *pasata* 1)
+[^6]: *pasadaŋ* = *pasataŋ* (RD *pasata* 1)
 
 [^7]: “Good to Look At.” lit., “the one named Sudassana”
 

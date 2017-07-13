@@ -35,6 +35,6 @@ The legend of Ambayāgudāyaka Thera is finished.
 
 [^2]: “Mango-Gruel Donor”
 
-[^3]: *sataraŋsi,* i.e., “the Sun”
+[^3]: *sataraŋsi*, i.e., “the Sun”
 
 [^4]: lit., “from *samādhi*”

@@ -178,11 +178,11 @@ The legend of Sabbakittika Thera is finished.
 
 [^11]: lit., “having taken,” *gahetvāna*
 
-[^12]: *apatthariŋ.* BJTS reads *avatthariṃ* (and cf. PTS alt. *avattari*), with the same meaning.
+[^12]: *apatthariŋ*. BJTS reads *avatthariṃ* (and cf. PTS alt. *avattari*), with the same meaning.
 
 [^13]: i.e., the Buddha’s, following the BJTS SInhala gloss.
 
-[^14]: reading *kāḷānusāriyaṃ* with BJTS for PTS *kāḷāṇusārikaŋ*. RD (s.v.) takes *Kāḷa* + *anusāriyaṃ* fr. *kala 1,* “black, (pol- ished?) Anusāri ("a kind of dark, fragrant sandal wood" Vin. Texts ii.51) Vin i.203; S iii.156=v.44= A v.22.” BJTS glosses the term as “black-vine (*kaḷuväl*, an odiferous back creeper often used for binding given its supple and strong texture) or aloe wood (*agil*).” Given the specification of “black” *(kāḷa°*) I take the latter reading, though underline that this is not a type of sandalwood in either event, and find perplexing that BJTS glosses both black-vine and aloe wood as “saffron-colored” (*kasāvat*). The protagonist presumably carries with him a paste made by grinding the wood, of whichever type (in modern South Asia it usually is indeed a variety of sandalwood), into a paste, which is kept on hand for this purpose, i.e., for smearing (on the forehead) of a person in order to bless him or her.
+[^14]: reading *kāḷānusāriyaṃ* with BJTS for PTS *kāḷāṇusārikaŋ*. RD (s.v.) takes *Kāḷa* + *anusāriyaṃ* fr. *kala 1*, “black, (pol- ished?) Anusāri ("a kind of dark, fragrant sandal wood" Vin. Texts ii.51) Vin i.203; S iii.156=v.44= A v.22.” BJTS glosses the term as “black-vine (*kaḷuväl*, an odiferous back creeper often used for binding given its supple and strong texture) or aloe wood (*agil*).” Given the specification of “black” *(kāḷa°*) I take the latter reading, though underline that this is not a type of sandalwood in either event, and find perplexing that BJTS glosses both black-vine and aloe wood as “saffron-colored” (*kasāvat*). The protagonist presumably carries with him a paste made by grinding the wood, of whichever type (in modern South Asia it usually is indeed a variety of sandalwood), into a paste, which is kept on hand for this purpose, i.e., for smearing (on the forehead) of a person in order to bless him or her.
 
 [^15]: *anulimpin*, “smeared on”
 
@@ -244,7 +244,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^44]: *anejo*
 
-[^45]: *akathaŋ kathī.* BJTS reads this as a compound, *akathaṅkathī*
+[^45]: *akathaŋ kathī*. BJTS reads this as a compound, *akathaṅkathī*
 
 [^46]: *vusito*
 

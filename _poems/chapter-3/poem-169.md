@@ -53,6 +53,6 @@ The legend of Samādapaka Thera is finished.
 
 [^6]: lit., “they who followed under the power of my wishes/iintentions”
 
-[^7]: *adamhase,* BJTS glosses *api vipassi budurajunhaṭ eya dunumha*
+[^7]: *adamhase*, BJTS glosses *api vipassi budurajunhaṭ eya dunumha*
 
 [^8]: “Seen”? BJTS reads Ādeyya, “That which should be taken,” which is not much more satisfactory.

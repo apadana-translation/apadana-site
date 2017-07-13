@@ -301,7 +301,7 @@ The legend of Subhūti Thera is finished.
 
 [^14]: *siṅgī-nikkha-suvaṇṇa-ābbho; nikkha* can also be an ornament, or a weight, The thrust, anyway, is that the Buddha was shiny like gold.
 
-[^15]: *jotirasa,* Pali-Sinhala-Ingirīsi dictionary calls it a wishing jewel, *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intāmāṇikyaya*, i.e., a gem that grants wishes.
+[^15]: *jotirasa*, Pali-Sinhala-Ingirīsi dictionary calls it a wishing jewel, *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intāmāṇikyaya*, i.e., a gem that grants wishes.
 
 [^16]: reading *visuddha-kelāsa-nibho* (BJTS) for *visuddha-kelāsa-ṇ-ṇibho* (PTS).
 

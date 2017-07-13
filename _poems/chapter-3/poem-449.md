@@ -63,6 +63,6 @@ The legend of Vedikāraka Thera is finished.
 
 [^6]: *katāni akatāni <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, or “manufactured and natural”
 
-[^7]: *ubhato byūḷhasaṇgame* (BJTS *vyūḷlhasaṅgame*)/*pakkhadanto bhayānake*, following the first suggestion for interpreting this difficult half-verse in BJTS Sinhala gloss, which takes the first compound as *v\[i\]yūḷha + saṅgame*, lit., “the meeting of a mass of troops” (Sinhala gloss: “being sprung upon from two sides by a frightful army”). The other suggestion, also possible, takes *vyūḷlhasaṅgame* in the sense of “meeting that has arisen” (but also “intention,” “plan,” “design:” *aramuṇak*) to produce “\[when\] springing forward into dangerous situations” (or “an intention to spring forward into imminent danger”)
+[^7]: *ubhato byūḷhasaṇgame* (BJTS *vyūḷlhasaṅgame*)/*pakkhadanto bhayānake*, following the first suggestion for interpreting this difficult half-verse in BJTS Sinhala gloss, which takes the first compound as *v\[i\]yūḷha* + *saṅgame*, lit., “the meeting of a mass of troops” (Sinhala gloss: “being sprung upon from two sides by a frightful army”). The other suggestion, also possible, takes *vyūḷlhasaṅgame* in the sense of “meeting that has arisen” (but also “intention,” “plan,” “design:” *aramuṇak*) to produce “\[when\] springing forward into dangerous situations” (or “an intention to spring forward into imminent danger”)
 
 [^8]: lit., “is produced” “is born” “comes into existence”

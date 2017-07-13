@@ -117,7 +117,7 @@ and another four besides \[those\].
 
 The Upāli Chapter, the Fifth.
 
-[^1]: *agghiya,* BJTS Sinh. gloss *ägǟya* (Sinh-Eng dict *ägäva*: <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andelabrum, festoon work for lamps, lamp canopy or arch)
+[^1]: *agghiya*, BJTS Sinh. gloss *ägǟya* (Sinh-Eng dict *ägäva*: <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andelabrum, festoon work for lamps, lamp canopy or arch)
 
 [^2]: those who had crossed the flood \[of *samsāra*\], i.e., arahants
 

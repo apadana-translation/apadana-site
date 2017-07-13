@@ -78,7 +78,7 @@ The legend of Eka<span class="diacritics" data-state="on">c</span><span class="n
 
 [^4]: verses 1-10 plus the first two feet of v. 11 here are repeated almost verbatim as the same verses of \#327, below.
 
-[^5]: *bho,* BJTS glosses *pinvata* (“O meritorious one”)
+[^5]: *bho*, BJTS glosses *pinvata* (“O meritorious one”)
 
 [^6]: *saddhamme*
 

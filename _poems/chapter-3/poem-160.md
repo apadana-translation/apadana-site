@@ -62,6 +62,6 @@ The Bandhujīvaka Chapter, the Sixteenth.
 
 [^2]: the three types of lotus here are, respectively, the pinkish or red *paduma* (Sinhala *piyum*), the blueish or purple *uppala* (Sinhala *upul*, *neḷum*, *nil mānel*) and the *puṇḍarīka*, or white lotus, identical to the *kumuda* in his name, which is the type of flower he gives to Padumuttara Buddha in v. \[2046\]..
 
-[^3]: “arjuna Tree”. *Kakudha* (a.k.a. *ajjuṇa,* Sinhala *kumbuk gasa*, *terminalia arjuna*) is an impressively large, shade-giving tree that grows near tanks and lakes. Crataeva Hygrophyla
+[^3]: “arjuna Tree”. *Kakudha* (a.k.a. *ajjuṇa*, Sinhala *kumbuk gasa*, *terminalia arjuna*) is an impressively large, shade-giving tree that grows near tanks and lakes. Crataeva Hygrophyla
 
 [^4]: that is, learned (clever, wise) at distinguishing what is meritorious from what is not (according to the cty: what is *kusala* or wholesome from what is *akusala*, not wholesome).

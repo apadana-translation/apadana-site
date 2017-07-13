@@ -30,6 +30,6 @@ The legend of Kekkhārupupphiya Thera is finished.
 
 [^2]: “*Kekkhāra* Flower-er.” Here the BJTS reading *Kakkāru°* is to be preferred. According to RD, *kakkāru* is the pumpkin gourd, Beninkasa Cerifera; BJTS glosses *käkiri mal*, “cucumber flowers.” *Kakkāru* is also the name of a heavenly flower, which given the context is probably the intention here. As a result I leave the term untranslated, and given that, have retained the PTS (mis)spelling of the term.
 
-[^3]: *yāmā devā,* a class of deities, perhaps derived from God Yama (the Lord of the Dead).
+[^3]: *yāmā devā*, a class of deities, perhaps derived from God Yama (the Lord of the Dead).
 
 [^4]: *siri-va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chasaŋ*. Taking *va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chasaŋ* as *va<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>asaṃ* (“splendor”) the literal meaning would be a more emphattic, “He of Resplendent Splendor”

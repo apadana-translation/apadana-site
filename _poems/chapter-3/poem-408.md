@@ -415,7 +415,7 @@ The legend of Todeyya Thera is finished.
 
 [^72]: *nāga* = Sinhala *nā*, ironwood, Mesua Ferrea Linn, Bodhi tree of Mangala, Sumana, Revata, Sobhita buddhas; national tree of Sri Lanka. It has brilliant, fragrant white flowers containing four petals each, as well as a red fruit eaten by birds.
 
-[^73]: *vanike*, Sinh. gloss *kōmbu*. RD: *vanika = vanaka*, of the forest, only in the cpd. *nāgavanika*, = “of the elephant forest,” = a hunter. BJTS glosses *nāga°* as *nā* (ironwood), so *vanika* here must refer to another kind of flowering plant.
+[^73]: *vanike*, Sinh. gloss *kōmbu*. RD: *vanika* = *vanaka*, of the forest, only in the cpd. *nāgavanika*, = “of the elephant forest,” = a hunter. BJTS glosses *nāga°* as *nā* (ironwood), so *vanika* here must refer to another kind of flowering plant.
 
 [^74]: *atimuttaka*. RD: a plant, Gaertnera Racemosa = Hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. BJTS glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba*, an annual creeper, Trichodesma zeylanicum).
 

@@ -25,7 +25,7 @@ that’s the fruit of giving flowers.[^2] (3) \[1625\]
 In the ninety-four aeons since  
 I offered that flower \[to him\],  
 I’ve come to know no bad rebirth:  
-the fruit of Buddha-*pūjā.* (4) \[1626\]
+the fruit of Buddha-*pūjā*. (4) \[1626\]
 
 Starting ninety-four \[aeons\] hence,  
 \[and\] excepting the present time,  

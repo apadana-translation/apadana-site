@@ -117,7 +117,7 @@ The legend of <span class="diacritics" data-state="on">C</span><span class="no-d
 
 [^3]: “Excellent!”
 
-[^4]: *anumodissati.* The verb is more properly translated “gave a thanksgiving \[speech\],” as *anumodana* is a somewhat formal acceptance of a *pūjā*, typically provided at the end of an alms-meal or temple festival, and entailing acknowledgement of the gift, praise of the giver, and commentary on the religious efficacy of giving. No English word entirely captures all of these senses, and a string of words makes the meter impossible, so albeit with some reluctance I translate it “give thanks”.
+[^4]: *anumodissati*. The verb is more properly translated “gave a thanksgiving \[speech\],” as *anumodana* is a somewhat formal acceptance of a *pūjā*, typically provided at the end of an alms-meal or temple festival, and entailing acknowledgement of the gift, praise of the giver, and commentary on the religious efficacy of giving. No English word entirely captures all of these senses, and a string of words makes the meter impossible, so albeit with some reluctance I translate it “give thanks”.
 
 [^5]: cty (p. 320-321): “Created by the mind” means “produced by the mind, the mind in meditation; just as the mind maintains, so does the body take shape, making it in the mode \[conceived in\] the mind.”
 

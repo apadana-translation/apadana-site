@@ -308,7 +308,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^4]: reading *pubba°* with BJTS (and PTS alt., and BJTS \[2\], above) for PTS *sabba°* (“all”)
 
-[^5]: j*inasāsanesu,* lit., “Victors’ dispensations”
+[^5]: j*inasāsanesu*, lit., “Victors’ dispensations”
 
 [^6]: *vaṇṇa-padesa-mattaŋ*
 
@@ -346,7 +346,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^23]: = SN, v. 43
 
-[^24]: *koviḷāra,* a species of ebony, Bauhinia variegata
+[^24]: *koviḷāra*, a species of ebony, Bauhinia variegata
 
 [^25]: = SN, v. 44
 
@@ -362,7 +362,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^31]: = SN, v. 48. Clanging bangles is a common image of the throes of passion in Sanskrit erotic poetry, one of many levels at which the imagery here works to characterize the Lonely Buddha’s aversion to the world
 
-[^32]: *dutiyena sahā,* lit., “with a second”
+[^32]: *dutiyena sahā*, lit., “with a second”
 
 [^33]: = SN, v. 49
 
@@ -382,7 +382,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^41]: = SN, v. 55
 
-[^42]: *niddhanta-kasāva=moho,* lit., “with faults and delusions blown away/purified/cleaned up”
+[^42]: *niddhanta-kasāva=moho*, lit., “with faults and delusions blown away/purified/cleaned up”
 
 [^43]: = SN, v. 56
 
@@ -394,7 +394,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^47]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., “and”
 
-[^48]: *vibhūsanaṭṭhāṇā,* lit., “from a state of adornment”. The *°(ṭ)ṭhāṇā* here is largely superfluous, except in providing the ablative required by *virato*, and messes up the meter (13 syllables in this foot), but neither PTS nor BJTS indicates any hesitation about the reading. Norman, in his SN tr. (p. 9) reads *vibhūsanā* and omits *°ṭṭhāṇā*
+[^48]: *vibhūsanaṭṭhāṇā*, lit., “from a state of adornment”. The *°(ṭ)ṭhāṇā* here is largely superfluous, except in providing the ablative required by *virato*, and messes up the meter (13 syllables in this foot), but neither PTS nor BJTS indicates any hesitation about the reading. Norman, in his SN tr. (p. 9) reads *vibhūsanā* and omits *°ṭṭhāṇā*
 
 [^49]: = SN, v. 59
 
@@ -408,15 +408,15 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^54]: = SN, v. 62
 
-[^55]: *anavassuto,* lit., “not leaking” “not oozing”
+[^55]: *anavassuto*, lit., “not leaking” “not oozing”
 
 [^56]: = SN, v. 63
 
-[^57]: *pārichatto,* RD: Erythmia Indica, also a tree in Indra’s heaven
+[^57]: *pārichatto*, RD: Erythmia Indica, also a tree in Indra’s heaven
 
 [^58]: = SN, v. 64
 
-[^59]: *akaraŋ,* lit., “not doing”
+[^59]: *akaraŋ*, lit., “not doing”
 
 [^60]: *sapadāna<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārī*
 
@@ -424,7 +424,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^62]: = SN, v. 66
 
-[^63]: *pubbe va somanassaŋ domanassaŋ,* KRN SN tr. “already”
+[^63]: *pubbe va somanassaŋ domanassaŋ*, KRN SN tr. “already”
 
 [^64]: = SN, v. 67
 
@@ -440,7 +440,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^70]: = SN, v. 72
 
-[^71]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a,* lit., “and”
+[^71]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., “and”
 
 [^72]: = SN, v. 73
 
@@ -514,7 +514,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^107]: *Śākyasīhena*
 
-[^108]: *vikubbitāni,* lit., “miraculous transformations” (as through *iddhi* superpowers); the term seems to agree with *subhāsitāni*, “clever sayings,” in vv. 55-56 = “lofty verses” in v. 57.
+[^108]: *vikubbitāni*, lit., “miraculous transformations” (as through *iddhi* superpowers); the term seems to agree with *subhāsitāni*, “clever sayings,” in vv. 55-56 = “lofty verses” in v. 57.
 
 [^109]: *saŋvegasaṅgāmativaḍḍhanatthaŋ*
 

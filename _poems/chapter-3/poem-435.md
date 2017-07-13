@@ -45,7 +45,7 @@ The legend of U<span class="diacritics" data-state="on">c</span><span class="no-
 
 [^2]: “Stalk of Sugarcane-er” BJTS reads *U<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chukhaṇḍika* (“Broken Bit/Stick of Sugarcane”)
 
-[^3]: *u<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu + kaṇḍika*, fr. *kaṇḍa*, a reed or stalk or arrow shaft (or the entire arrow). BJTS reads *u<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu + khaṇḍaka*, with much the same meaning. Sugar-cane grows like bamboo, shooting up discrete stalks or canes (hence the name) which are then chewed raw, or boiled and processed into granulated sugar.
+[^3]: *u<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu* + *kaṇḍika*, fr. *kaṇḍa*, a reed or stalk or arrow shaft (or the entire arrow). BJTS reads *u<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu* + *khaṇḍaka*, with much the same meaning. Sugar-cane grows like bamboo, shooting up discrete stalks or canes (hence the name) which are then chewed raw, or boiled and processed into granulated sugar.
 
 [^4]: BJTS reads U<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chukhaṇḍika°
 

@@ -34,4 +34,4 @@ The legend of Potthadāyaka Thera is finished.
 
 [^4]: more lit., “with reference to,” “concerning,” *ārabbha*
 
-[^5]: *satthā (= Buddha), dhamma and saṅgha,* i.e., the Triple Gem.
+[^5]: *satthā (= Buddha), dhamma and saṅgha*, i.e., the Triple Gem.

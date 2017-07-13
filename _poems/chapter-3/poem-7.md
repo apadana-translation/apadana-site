@@ -110,7 +110,7 @@ The legend of Aññākoṇḍañña Thera is finished.
 
 [^2]: *yakkhā*
 
-[^3]: *andhakāra-tamo-nudo,* lit., “Dispeller of the Darkness of the Darkness-maker”
+[^3]: *andhakāra-tamo-nudo*, lit., “Dispeller of the Darkness of the Darkness-maker”
 
 [^4]: *hāsa-paretānam*
 

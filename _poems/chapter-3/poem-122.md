@@ -104,7 +104,7 @@ The legend of Pupphathūpiya Thera is finished.
 
 [^7]: reading *tāhaṃ disaṃ namassissaṃ* (BJTS) for *na hi disvāna passissaŋ* (“not seeing I will look,” PTS).
 
-[^8]: BJTS reads this verb as *pūjesiṃ,* past tense “I did *pūjā,”* but here, given the context, I prefer the PTS reading *pūjessaŋ*, the future tense (sort of).
+[^8]: BJTS reads this verb as *pūjesiṃ*, past tense “I did *pūjā,”* but here, given the context, I prefer the PTS reading *pūjessaŋ*, the future tense (sort of).
 
 [^9]: lit., “the Victor’s dispensation”
 

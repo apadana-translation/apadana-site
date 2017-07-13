@@ -54,6 +54,6 @@ The legend of Rahosaññaka Thera is finished.
 
 [^4]: reading *īdiṃ* (BJTS) for *nisīdi* (“he sat,” PTS)
 
-[^5]: *pallaṅkam ābhujitvāna,* lit., “crouching with legs crossed”
+[^5]: *pallaṅkam ābhujitvāna*, lit., “crouching with legs crossed”
 
 [^6]: “Glory-Bearer”

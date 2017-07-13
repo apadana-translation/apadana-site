@@ -1221,7 +1221,7 @@ The legend of Sāriputta Thera is finished.
 
 [^20]: *ketaka*, Pandanus odoratissima, Sinhala *väṭakē or väṭakeyiyā*.
 
-[^21]: *atimutta = atimuttaka*? RD: a plant, Gaertnera Racemosa = hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. BJTS glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba*, an annual creeper, Trichodesma zeylanicum).
+[^21]: *atimutta* = *atimuttaka*? RD: a plant, Gaertnera Racemosa = hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. BJTS glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba*, an annual creeper, Trichodesma zeylanicum).
 
 [^22]: Jonesia Asoka, Saraca asoca
 
@@ -1331,7 +1331,7 @@ The legend of Sāriputta Thera is finished.
 
 [^75]: BJTS treats this as a type of bird
 
-[^76]: *senakā = sena*, Sinh. gloss = *kaburässō*
+[^76]: *senakā* = *sena*, Sinh. gloss = *kaburässō*
 
 [^77]: *kurarā*, Sinh. gloss *ukussō* PSI dict. = *kaburässō*
 
@@ -1429,7 +1429,7 @@ The legend of Sāriputta Thera is finished.
 
 [^124]: *gandhabbā*
 
-[^125]: *rakkhasā = rākṣasā*
+[^125]: *rakkhasā* = *rākṣasā*
 
 [^126]: *kumbhaṇḍā*
 

@@ -42,7 +42,7 @@ The legend of Nāgakesariya Thera is finished.
 
 [^3]: PTS reads *osaraŋ*, BJTS and cty read *osaṭaṃ*; both terms mean “gathered” but it is not clear to me in what sense that term is used; the implication could be that many flowers were gathered together in that lake, or perhaps that many streams were gathered together to form it.
 
-[^4]: *sabbamaṭaŋ.* BJTS reads *satapattaṃ*, “a lotus”.
+[^4]: *sabbamaṭaŋ*. BJTS reads *satapattaṃ*, “a lotus”.
 
 [^5]: *supupphitaŋ*, lit., “well in bloom.” BJTS reads *samuṭṭhitaṃ*, “risen up,” and the gloss understands him to have seen a lotus flower which had risen up to the surface of the water in the small lake. Cty does not comment on the fourth foot. I have followed PTS here.
 

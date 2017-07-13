@@ -79,7 +79,7 @@ The legend of Opavuyha Thera is finished.
 
 [^9]: *jambusaṇḍa = jambudīpa =* India, the South Asian Subcontinent
 
-[^10]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturanto vijitāvi,* “possessed of conquest of the four quarters,” a supreme imperial overlord
+[^10]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
 
 [^11]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
 

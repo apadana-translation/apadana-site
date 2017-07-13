@@ -52,7 +52,7 @@ The Padumakesariya Chapter, the Thirty-First
 
 [^3]: following BJTS; PTS reads *geṇḍu*, in multiple variations (could this be related to *geṇḍuka*, a small ball?). At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
 
-[^4]: *yūpa,* a “sacrificial post” symbolizing religious, political, economic power.
+[^4]: *yūpa*, a “sacrificial post” symbolizing religious, political, economic power.
 
 [^5]: lit., “having given a mountain-cave gift”
 

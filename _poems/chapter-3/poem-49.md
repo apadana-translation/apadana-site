@@ -101,7 +101,7 @@ like a lamp deprived of \[its\] oil. (18) \[1232\][^8]
 There was a stupa, made of gems,  
 \[rising up\] seven leagues \[in height\],  
 all-auspicious and delightful;  
-there I performed a flag-*pūjā.* (19) \[1233\]
+there I performed a flag-*pūjā*. (19) \[1233\]
 
 Tissa, the foremost follower  
 of the Sambuddha, Kassapa,  

@@ -286,7 +286,7 @@ Thus indeed Venerable Upavāna Thera spoke these verses.
 
 The legend of Upavāna Thera is finished.
 
-[^1]: *parinibbuto.*
+[^1]: *parinibbuto*.
 
 [^2]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaka*, heap, shrine
 
