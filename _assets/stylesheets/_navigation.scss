@@ -28,6 +28,21 @@
       color: palette(highlight);
     }
   }
+
+  // show/hide on scroll for mobile
+  @include breakpoint($small-only) {
+    &-up {
+      transform: translateY(-100%);
+    }
+
+    &-show {
+      transform: translateY(0px);
+    }
+
+    &-below {
+      transform: translateY(100%);
+    }
+  }
 }
 
 // ===================================
@@ -40,7 +55,6 @@
     top: 0;
     height: $header-height;
     background-color: transparent;
-    transform: translateY(0px);
     transition: transform 0.5s ease 0.75s;
     z-index: 1;
 

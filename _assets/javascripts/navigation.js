@@ -57,3 +57,47 @@ function navigation() {
 $(document).on('ready', function() {
   navigation();
 });
+
+// ===================================
+// Hide mobile poem header and pagination on scroll down
+// based on https://medium.com/@mariusc23/hide-header-on-scroll-down-show-on-scroll-up-67bbaae9a78c
+// ===================================
+var didScroll,
+    lastScrollTop = 0,
+    delta = 5,
+    navBar = $('.header--poem'),
+    navbarHeight = navBar.outerHeight(),
+    paginationBar = $('.mobile-pagination');
+
+$(window).scroll(function(event){
+  didScroll = true;
+});
+
+setInterval(function() {
+  if (didScroll) {
+    hasScrolled();
+    didScroll = false;
+  }
+}, 125);
+
+function hasScrolled() {
+  var st = $(this).scrollTop();
+
+  // Make sure they scroll more than delta
+  if(Math.abs(lastScrollTop - st) <= delta)
+    return;
+
+  if (st > lastScrollTop && st > navbarHeight){
+    // Scroll Down
+    $('.header--poem').removeClass('nav-show').addClass('nav-up');
+    $('.mobile-pagination').removeClass('nav-show').addClass('nav-below');
+  } else {
+    // Scroll Up
+    if (st + $(window).height() < $(document).height()) {
+      $('.header--poem').removeClass('nav-up').addClass('nav-show');
+      $('.mobile-pagination').removeClass('nav-below').addClass('nav-show');
+    }
+  }
+
+  lastScrollTop = st;
+}
