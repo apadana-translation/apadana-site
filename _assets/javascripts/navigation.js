@@ -89,12 +89,10 @@ function hasScrolled() {
 
   if (st > lastScrollTop && st > navbarHeight){
     // Scroll Down
-    $('.header--poem').removeClass('nav-show').addClass('nav-up');
     $('.mobile-pagination').removeClass('nav-show').addClass('nav-below');
   } else {
     // Scroll Up
     if (st + $(window).height() < $(document).height()) {
-      $('.header--poem').removeClass('nav-up').addClass('nav-show');
       $('.mobile-pagination').removeClass('nav-below').addClass('nav-show');
     }
   }
