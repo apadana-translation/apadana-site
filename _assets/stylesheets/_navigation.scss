@@ -28,6 +28,17 @@
       color: palette(highlight);
     }
   }
+
+  // show/hide on scroll for mobile
+  @include breakpoint($small-only) {
+    &-show {
+      transform: translateY(0px);
+    }
+
+    &-below {
+      transform: translateY(100%);
+    }
+  }
 }
 
 // ===================================
