@@ -1,4 +1,9 @@
 .poem__meta {
+  display: none;
+
+  @include breakpoint($medium-large) {
+    display: block;
+  }
 
   h5 {
     margin-bottom: 0.25rem;

@@ -1,0 +1,39 @@
+.mobile-pagination {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: $header-height;
+  color: palette(dark);
+  background-color: white;
+  box-shadow: 0 0px 5px 0px rgba(50,43,26,0.30);
+  text-align: center;
+  font-family: "skolar-sans-latin-extended", sans-serif;
+  font-size: $nav-font-size;
+  transform: translateY(0px);
+  transition: transform 0.5s ease 0.75s;
+  z-index: 1;
+
+  .wf-loading & {
+    transform: translateY(100%);
+  }
+
+  & > a {
+    @include reset-link();
+    flex: 1;
+    height: 100%;
+    padding: 1rem;
+    color: inherit;
+
+    &:hover {
+      color: palette(light);
+      background-color: palette(highlight);
+    }
+  }
+
+  @include breakpoint($medium-large) {
+    display: none;
+  }
+}

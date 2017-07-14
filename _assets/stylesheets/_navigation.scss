@@ -645,17 +645,20 @@
 }
 
 // ===================================
-// Browser scrollbar
+// Scrollbar
 // ===================================
-::-webkit-scrollbar {
-    width: 0.35rem;
-    height: 0.35rem;
-}
+.nav--toc {
 
-::-webkit-scrollbar-thumb {
-    background: palette(highlight);
-}
+  ::-webkit-scrollbar {
+      width: 0.35rem;
+      height: 0.35rem;
+  }
 
-::-webkit-scrollbar-track {
-    background: transparent;
+  ::-webkit-scrollbar-thumb {
+      background: palette(highlight);
+  }
+
+  ::-webkit-scrollbar-track {
+      background: transparent;
+  }
 }

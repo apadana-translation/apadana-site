@@ -1,0 +1,32 @@
+// ===================================
+// Horizontal Progress Bar for mobile displays
+// ===================================
+progress {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 0.35rem;
+  -webkit-appearance: none;
+  appearance: none;
+  color: palette(highlight);
+  background-color: transparent;
+  border: none;
+  z-index: 102;
+
+  &::-webkit-progress-bar {
+    background-color: transparent;
+  }
+
+  &::-webkit-progress-value {
+    background-color: palette(highlight);
+  }
+
+  &::-moz-progress-bar {
+    background-color: palette(highlight);
+  }
+
+  @include breakpoint($medium-large) {
+    display: none;
+  }
+}
