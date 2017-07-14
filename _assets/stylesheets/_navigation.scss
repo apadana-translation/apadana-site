@@ -340,6 +340,7 @@
   left: 0;
   width: 100%;
   color: palette(dark);
+  background-color: palette(light);
   z-index: -1;
   transform: translateY(-100%);
   transition: transform 0.3s ease;
@@ -348,6 +349,7 @@
     position: relative;
     opacity: 1;
     top: 0;
+    box-shadow: 0 0px 5px 0px rgba(50,43,26,0.30);
     transform: translateY(0px);
     z-index: 100;
   }
