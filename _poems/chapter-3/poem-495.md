@@ -1,7 +1,6 @@
 ---
 title: Upaḍḍhadussadāyaka
 order: 495
-layout: poem
 category: chapter-3
 ---
 
@@ -61,14 +60,14 @@ Thus indeed Venerable Upaḍḍhadussadāyaka Thera spoke these verses.
 
 The legend of Upaḍḍhadussadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Half-Cloth Offerer”
 
 [^3]: lit., “Blessed One”
 
-[^4]: BJTS reads *tadā*, “then”
+[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *tadā*, “then”
 
-[^5]: BJTS reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aratī* with the same meaning
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aratī* with the same meaning
 
 [^6]: *akutobhayo*, lit., “with fear from nowhere”

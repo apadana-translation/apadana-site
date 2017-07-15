@@ -1,7 +1,6 @@
 ---
 title: Buddhūpaṭṭhāka
 order: 100
-layout: poem
 category: chapter-3
 ---
 
@@ -62,10 +61,10 @@ The Ten Chapters called Buddha.
 
 The First Hundred[^4] is finished.
 
-[^1]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuviise* (BJTS) for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atunavute* (“ninety-four,” PTS)
+[^1]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuviise* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atunavute* (“ninety-four,” <abbr title="Pali Text Society">PTS</abbr>)
 
 [^2]: “Much Sound”
 
-[^3]: BJTS read “Sudhāpiṇḍiya Chapter”.
+[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> read “Sudhāpiṇḍiya Chapter”.
 
 [^4]: *sataka* is a common structure in Sanskrit and Pāli poetry, usually referring to one hundred verses, rather than (as here) one hundred stories.

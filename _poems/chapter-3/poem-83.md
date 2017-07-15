@@ -1,7 +1,6 @@
 ---
 title: Nipannañjalika
 order: 83
-layout: poem
 category: chapter-3
 ---
 
@@ -41,7 +40,7 @@ Thus indeed Venerable Nipannañjalika Thera spoke these verses.
 
 The legend of Nipannañjalika Thera is finished.
 
-[^1]: PTS reads Pannañjalika but I follow PTS alt, BJTS and cty in reading the same as Nipannañjalika, “Lying-Down-Hands-Presser”
+[^1]: <abbr title="Pali Text Society">PTS</abbr> reads Pannañjalika but I follow <abbr title="Pali Text Society">PTS</abbr> alt, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and cty in reading the same as Nipannañjalika, “Lying-Down-Hands-Presser”
 
 [^2]: *abhivāetvā*
 

@@ -1,7 +1,6 @@
 ---
 title: Sālapupphiya
 order: 233
-layout: poem
 category: chapter-3
 ---
 

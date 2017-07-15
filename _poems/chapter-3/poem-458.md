@@ -1,7 +1,6 @@
 ---
 title: Jātipupphiya
 order: 458
-layout: poem
 category: chapter-3
 ---
 
@@ -56,13 +55,13 @@ Thus indeed Venerable Jātipupphiya Thera spoke these verses.
 
 The legend of Jātipupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Some Kind (*jāti°*) of Flower-er”
 
 [^3]: lit., “reached nirvana”
 
-[^4]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgoṭake*. BJTS gloss, straying from the text, gives “a flower bouquet (*mal-kaḍak*) of jasmine flowers (*dasamanmalin*) for the top (*mudun*, of the stupa)”
+[^4]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgoṭake*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss, straying from the text, gives “a flower bouquet (*mal-kaḍak*) of jasmine flowers (*dasamanmalin*) for the top (*mudun*, of the stupa)”
 
 [^5]: or “the body:” *sarīram*
 

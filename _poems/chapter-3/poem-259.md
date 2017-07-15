@@ -1,7 +1,6 @@
 ---
 title: Kuṭidāyaka
 order: 259
-layout: poem
 category: chapter-3
 ---
 

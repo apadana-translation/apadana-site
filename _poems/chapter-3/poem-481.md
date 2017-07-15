@@ -1,7 +1,6 @@
 ---
 title: Paŋsukūlasaññika
 order: 481
-layout: poem
 category: chapter-3
 ---
 
@@ -52,7 +51,7 @@ Thus indeed Venerable Paŋsukūlasaññika Thera spoke these verses.
 
 The legend of Paŋsukūlasaññika Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Rag-robe Perceiver”
 
@@ -60,14 +59,14 @@ The legend of Paŋsukūlasaññika Thera is finished.
 
 [^4]: or, “the monastery”: *vihāraŋ*
 
-[^5]: reading *vitataṃ* with BJTS for PTS *tiyantaŋ* (‘with three strings” \[?\])
+[^5]: reading *vitataṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tiyantaŋ* (‘with three strings” \[?\])
 
-[^6]: reading *bhakkhatthāaya <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariṃ ahaṃ* with BJTS for PTS *akkhitto yamaliŋ ahaŋ* (“struck by a pair”)
+[^6]: reading *bhakkhatthāaya <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariṃ ahaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *akkhitto yamaliŋ ahaŋ* (“struck by a pair”)
 
 [^7]: *gahetvāna*, lit., “taking”
 
 [^8]: *maṇḍalaggaŋ*
 
-[^9]: I follow the cty and BJTS Sinhala gloss in taking *dumagge* as *duma* + *agge*. It would also be possible to take it as *du* + *magge*, “on a bad road”. Cf. v. \[592\] above for a case comparable to the latter. Though I do follow it here, the cty and BJTS reading rather begs the question how the Buddha’s rag robes got up in the tree.
+[^9]: I follow the cty and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss in taking *dumagge* as *duma* + *agge*. It would also be possible to take it as *du* + *magge*, “on a bad road”. Cf. v. \[592\] above for a case comparable to the latter. Though I do follow it here, the cty and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading rather begs the question how the Buddha’s rag robes got up in the tree.
 
-[^10]: PTS omits the first two feet of \[5035\] (“In the ninety-two aeons since/I worshipped that rag-robe \[back then,”) and adds the second two feet of it to \[5034\], treating its v. 4 as a six-footed verse.
+[^10]: <abbr title="Pali Text Society">PTS</abbr> omits the first two feet of \[5035\] (“In the ninety-two aeons since/I worshipped that rag-robe \[back then,”) and adds the second two feet of it to \[5034\], treating its v. 4 as a six-footed verse.

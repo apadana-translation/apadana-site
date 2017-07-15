@@ -1,7 +1,6 @@
 ---
 title: Puḷinapūjaka
 order: 27
-layout: poem
 category: chapter-3
 ---
 
@@ -33,6 +32,6 @@ The legend of Puḷinapūjaka Thera is finished.
 
 [^1]: “Sand-Giver”
 
-[^2]: reading *pādaputtame* (BJTS) for *pādamuttame* (PTS)
+[^2]: reading *pādaputtame* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *pādamuttame* (<abbr title="Pali Text Society">PTS</abbr>)
 
 [^3]: “Great Sand”

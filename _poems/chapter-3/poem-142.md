@@ -1,7 +1,6 @@
 ---
 title: Thambāropaka
 order: 142
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Jātipūjaka
 order: 120
-layout: poem
 category: chapter-3
 ---
 
@@ -71,6 +70,6 @@ The Mahāparivāra Chapter, the Twelfth.
 
 [^2]: lit., “will \[have\] become”
 
-[^3]: reading *saṃvaritvāna* (BJTS) for *saṃsaritvāna* (“transmigrating,” PTS).
+[^3]: reading *saṃvaritvāna* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *saṃsaritvāna* (“transmigrating,” <abbr title="Pali Text Society">PTS</abbr>).
 
 [^4]: “Good Serving” “Waiting on Well”

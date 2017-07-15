@@ -1,7 +1,6 @@
 ---
 title: Vanavaccha
 order: 549
-layout: poem
 category: chapter-3
 ---
 
@@ -115,19 +114,19 @@ Thus indeed Venerable Vanava<span class="diacritics" data-state="on">c</span><sp
 
 The legend of Vanava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Forest Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha,” a historical monk (and one of many from the Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha clan). See DPPN II: 828
 
-[^3]: One BJTS alt. reads *gottena*, “by lineage”
+[^3]: One <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. reads *gottena*, “by lineage”
 
 [^4]: *vadataŋ varo*
 
-[^5]: or “in celibacy”: reading *bhrama<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyaṃ* with BJTS (PTS alt. *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārī*, “being celibate”) for PTS *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eraŋ* (“brahmā-\[\]?)
+[^5]: or “in celibacy”: reading *bhrama<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (<abbr title="Pali Text Society">PTS</abbr> alt. *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārī*, “being celibate”) for <abbr title="Pali Text Society">PTS</abbr> *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eraŋ* (“brahmā-\[\]?)
 
 [^6]: or “died,” “passed away”
 
-[^7]: or dove, *kapoto*, BJTS Sinh. gloss *paraviyak*
+[^7]: or dove, *kapoto*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *paraviyak*
 
 [^8]: *bhikkhu*
 
@@ -135,9 +134,9 @@ The legend of Vanava<span class="diacritics" data-state="on">c</span><span class
 
 [^10]: *pamuditānano*. The Pāli is unambiguous and neither edition provides alt. readings, but one would expect a reading involving *muditā* (“sympathetic joy” or “joy in the joy of others,” the third of the four “boundless states”) given the reference to them in the final foot, and given that the other three are clearly designated here. Perhaps “always having a greatly pleased face” is to be taken as indicative of being characterized by sympathetic joy (*muditā*).
 
-[^11]: also known as *brahmavihāras*: love, pity or compassion, sympathetic joy and even-mindedness or equanimity. I follow BJTS Sinh. gloss in understanding “boundless” (*appamaññāsu kovido*) in this way, and in construing v. \[6277\] as a continuation of \[6276\].
+[^11]: also known as *brahmavihāras*: love, pity or compassion, sympathetic joy and even-mindedness or equanimity. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss in understanding “boundless” (*appamaññāsu kovido*) in this way, and in construing v. \[6277\] as a continuation of \[6276\].
 
-[^12]: *vissattho na<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>irenāsiṃ tasmiṃ sugatasāvake*, lit., “I was trusting in \[that\] follower of the Well-Gone-One” (reading *°āsiṃ* with BJTS for PTS *asmiŋ*, “in that”)
+[^12]: *vissattho na<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>irenāsiṃ tasmiṃ sugatasāvake*, lit., “I was trusting in \[that\] follower of the Well-Gone-One” (reading *°āsiṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *asmiŋ*, “in that”)
 
 [^13]: lit., “having approached”
 
@@ -145,17 +144,17 @@ The legend of Vanava<span class="diacritics" data-state="on">c</span><span class
 
 [^15]: *gato*, lit., “am gone”
 
-[^16]: BJTS reads *pavāsā* for PTS (and BJTS alt.) *pavāso*; accepting that reading, and taking it as an ablative, “after” would not require the square brackets
+[^16]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pavāsā* for <abbr title="Pali Text Society">PTS</abbr> (and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt.) *pavāso*; accepting that reading, and taking it as an ablative, “after” would not require the square brackets
 
-[^17]: *bahuso*. BJTS reads *lahuso* (“quickly”). Especially given the following verse, I see no reason to change, and indeed prefer the PTS reading
+[^17]: *bahuso*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *lahuso* (“quickly”). Especially given the following verse, I see no reason to change, and indeed prefer the <abbr title="Pali Text Society">PTS</abbr> reading
 
-[^18]: reading *va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chagotta dvijo tassa jāyāya* for PTS *Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chagotto ti Jotissa jāyāya* (“‘Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chagotta’ with \[my\] wife \[named\] Jotissa”)
+[^18]: reading *va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chagotta dvijo tassa jāyāya* for <abbr title="Pali Text Society">PTS</abbr> *Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chagotto ti Jotissa jāyāya* (“‘Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chagotta’ with \[my\] wife \[named\] Jotissa”)
 
 [^19]: *kāsāyena*, or more specifically, “in a saffron \[monk’s robe\]”. Saffron robes (whose origin is in the turmeric-soaked shrouds of ancient Indian corpses) were and are used by renouncers of various stripes, though for Buddhist hearers the word certainly invokes (and means) a specifically Buddhist monk’s robe.
 
 [^20]: *śākyakuladdhajo*
 
-[^21]: reading *sattasāre hi nikkhante* (loc. abs. construction) with BJTS (and PTS alt , reading *°sāre hi* for *sārebhi*, sic) for PTS *sārehi nikkhanto* (“departed with hardwoods”)
+[^21]: reading *sattasāre hi nikkhante* (loc. abs. construction) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt , reading *°sāre hi* for *sārebhi*, sic) for <abbr title="Pali Text Society">PTS</abbr> *sārehi nikkhanto* (“departed with hardwoods”)
 
 [^22]: lit., “in a haunt in the woods”
 

@@ -1,7 +1,6 @@
 ---
 title: Samādapaka
 order: 169
-layout: poem
 category: chapter-3
 ---
 
@@ -45,7 +44,7 @@ The legend of Samādapaka Thera is finished.
 
 [^2]: see note to v. \[1601\]; this is the same term, *mahāpūgagaṇa*.
 
-[^3]: this follows BJTS Sinhala gloss. BJTS reads *baddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*, “connected farers.” PTS reads paddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā, One would prefer *sadā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*, or perhaps *saddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā* (“fellow faithful”).
+[^3]: this follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *baddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*, “connected farers.” <abbr title="Pali Text Society">PTS</abbr> reads paddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā, One would prefer *sadā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*, or perhaps *saddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā* (“fellow faithful”).
 
 [^4]: lit., “I caused them to undertake meritorious action.”
 
@@ -53,6 +52,6 @@ The legend of Samādapaka Thera is finished.
 
 [^6]: lit., “they who followed under the power of my wishes/iintentions”
 
-[^7]: *adamhase*, BJTS glosses *api vipassi budurajunhaṭ eya dunumha*
+[^7]: *adamhase*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *api vipassi budurajunhaṭ eya dunumha*
 
-[^8]: “Seen”? BJTS reads Ādeyya, “That which should be taken,” which is not much more satisfactory.
+[^8]: “Seen”? <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads Ādeyya, “That which should be taken,” which is not much more satisfactory.

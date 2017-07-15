@@ -1,7 +1,6 @@
 ---
 title: Gatasaññaka
 order: 82
-layout: poem
 category: chapter-3
 ---
 

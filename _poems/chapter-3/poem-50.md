@@ -1,7 +1,6 @@
 ---
 title: Cunda
 order: 50
-layout: poem
 category: chapter-3
 ---
 
@@ -117,15 +116,15 @@ and another four besides \[those\].
 
 The Upāli Chapter, the Fifth.
 
-[^1]: *agghiya*, BJTS Sinh. gloss *ägǟya* (Sinh-Eng dict *ägäva*: <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andelabrum, festoon work for lamps, lamp canopy or arch)
+[^1]: *agghiya*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *ägǟya* (Sinh-Eng dict *ägäva*: <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andelabrum, festoon work for lamps, lamp canopy or arch)
 
 [^2]: those who had crossed the flood \[of *samsāra*\], i.e., arahants
 
-[^3]: reading *vyamhaṃ pātubhavissati puññakammapabhāvitaṃ* (BJTS) for *vyamhā pātubhavissanti puññakammapabhāvitā* (PTS).
+[^3]: reading *vyamhaṃ pātubhavissati puññakammapabhāvitaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *vyamhā pātubhavissanti puññakammapabhāvitā* (<abbr title="Pali Text Society">PTS</abbr>).
 
 [^4]: “Difficult to Conquer”.
 
-[^5]: reading *agantvāna* (BJTS) for *āgantvāna* (“come into,” PTS).
+[^5]: reading *agantvāna* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *āgantvāna* (“come into,” <abbr title="Pali Text Society">PTS</abbr>).
 
 [^6]: i.e., the Buddha’s dispensation. See above, n. to \[1166\]
 

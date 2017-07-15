@@ -1,7 +1,6 @@
 ---
 title: Saparivāriya
 order: 144
-layout: poem
 category: chapter-3
 ---
 
@@ -49,6 +48,6 @@ The legend of Saparivāriya Thera is finished.
 
 [^4]: lit., “spread out,” “expanded”.
 
-[^5]: reading *ahorattaṃ* (BJTS) for *thūpam rattaŋ* (“the stupa by night,” PTS).
+[^5]: reading *ahorattaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *thūpam rattaŋ* (“the stupa by night,” <abbr title="Pali Text Society">PTS</abbr>).
 
-[^6]: I follow BJTS and PTS alt in reading the name thus, which means “Accomplished” or “Entire”. PTS reads Pamatta (“Negligent”).
+[^6]: I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt in reading the name thus, which means “Accomplished” or “Entire”. <abbr title="Pali Text Society">PTS</abbr> reads Pamatta (“Negligent”).

@@ -1,7 +1,6 @@
 ---
 title: Ekāsanadāyaka
 order: 252
-layout: poem
 category: chapter-3
 ---
 

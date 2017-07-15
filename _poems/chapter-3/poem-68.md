@@ -1,7 +1,6 @@
 ---
 title: Ambadāyaka
 order: 68
-layout: poem
 category: chapter-3
 ---
 
@@ -60,7 +59,7 @@ The legend of Ambadāyaka Thera is finished.
 
 [^2]: see note to v. \[1098\]
 
-[^3]: reading *damena uttamena* (BJTS, PTS alt) for *dhammena yuttamena* (PTS, corrupt).
+[^3]: reading *damena uttamena* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *dhammena yuttamena* (<abbr title="Pali Text Society">PTS</abbr>, corrupt).
 
 [^4]: lit., “in the seventy-seventh aeon”
 

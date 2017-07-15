@@ -1,7 +1,6 @@
 ---
 title: Uddāladāyaka
 order: 250
-layout: poem
 category: chapter-3
 ---
 
@@ -44,8 +43,8 @@ The Tuvaradāya Chapter, the Twenty-Fifth
 
 [^1]: “Golden Shower Flower Donor”
 
-[^2]: PTS reads Kakuddha
+[^2]: <abbr title="Pali Text Society">PTS</abbr> reads Kakuddha
 
 [^3]: Cassia fistula, Sinh. *äsaḷa*, a.k.a. golden rain tree and native to Southern Asia, ranging from Peninsular SE Asia (national tree of Thailand) to southern Pakistan, indigenous in India, Burma, as far south as Sri Lanka
 
-[^4]: reading *ujubhūtassa* with BJTS (and PTS alternative) for PTS *ujjubhūtassa*
+[^4]: reading *ujubhūtassa* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternative) for <abbr title="Pali Text Society">PTS</abbr> *ujjubhūtassa*

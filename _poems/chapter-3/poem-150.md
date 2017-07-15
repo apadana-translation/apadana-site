@@ -1,7 +1,6 @@
 ---
 title: Pallaṅkadāyaka
 order: 150
-layout: poem
 category: chapter-3
 ---
 
@@ -49,6 +48,6 @@ The Chatta Chapter, the Fifteenth.
 
 [^1]: “Couch-Donor”
 
-[^2]: I.e., in each rebirth such a couch appears for him, according to the BJTS Sinhala gloss.
+[^2]: I.e., in each rebirth such a couch appears for him, according to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss.
 
 [^3]: “Radiance of Gold”

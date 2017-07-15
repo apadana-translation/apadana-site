@@ -1,7 +1,6 @@
 ---
 title: Pabhaṅkara
 order: 336
-layout: poem
 category: chapter-3
 ---
 
@@ -115,7 +114,7 @@ Thus indeed Venerable Pabhaṅkara Thera spoke these verses.
 
 The legend of Pabhaṅkara Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Light-Maker”
 
@@ -129,7 +128,7 @@ The legend of Pabhaṅkara Thera is finished.
 
 [^7]: lit., “with \[my\] meritorious karma,” *puññakammena*
 
-[^8]: *kaṇḍu*. BJTS reads *ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu*, with the same meaning.
+[^8]: *kaṇḍu*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu*, with the same meaning.
 
 [^9]: *daddu*
 
@@ -143,9 +142,9 @@ The legend of Pabhaṅkara Thera is finished.
 
 [^14]: *vita<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chikā*
 
-[^15]: I take the PTS *idhaŋ* here as a typographical error, following BJTS in reading the expected *idaŋ*
+[^15]: I take the <abbr title="Pali Text Society">PTS</abbr> *idhaŋ* here as a typographical error, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in reading the expected *idaŋ*
 
-[^16]: reading *sodhite* with BJTS (and PTS alt, and the subsequent verses here in the same form) for PTS (and BJTS alt) *sodhane*, “cleaning”
+[^16]: reading *sodhite* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt, and the subsequent verses here in the same form) for <abbr title="Pali Text Society">PTS</abbr> (and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt) *sodhane*, “cleaning”
 
 [^17]: lit., “when I had cleaned the Buddha’s stupa”
 

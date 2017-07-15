@@ -1,7 +1,6 @@
 ---
 title: Mettagu
 order: 403
-layout: poem
 category: chapter-3
 ---
 
@@ -141,7 +140,7 @@ Thus indeed Venerable Mettagu Thera spoke these verses.
 
 The legend of Mettagu Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Perfected in Loving-kindness”
 
@@ -173,19 +172,19 @@ The legend of Mettagu Thera is finished.
 
 [^16]: contract to “immeas’rable” for chanting, to preserve the meter.
 
-[^17]: *chalaṅgaŋ*, lit., “the six branches.” RD: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.” BJTS understand this as an adjective modifying “\[reading\] marks,” i.e., “the six branches of the science (*śāstraya*) of marks,” but given the use of the term to refer to the six branches of Vedic science above (\[3605\] = Sela (\#389 {392}), v. 24,
+[^17]: *chalaṅgaŋ*, lit., “the six branches.” RD: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> understand this as an adjective modifying “\[reading\] marks,” i.e., “the six branches of the science (*śāstraya*) of marks,” but given the use of the term to refer to the six branches of Vedic science above (\[3605\] = Sela (\#389 {392}), v. 24,
 
 [^18]: *andhakāra*, lit., “blinder,” “\[studies\] that blind”
 
 [^19]: *etthantare*, lit., “in the interval \[up to\] here”
 
-[^20]: *sappiŋ viññāpitaŋ mayā*, lit., “ghee instructions from me” or (as in BJTS Sinhala gloss,) “not even a word about ghee”
+[^20]: *sappiŋ viññāpitaŋ mayā*, lit., “ghee instructions from me” or (as in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss,) “not even a word about ghee”
 
-[^21]: BJTS reads *phassati*, “would not touch”
+[^21]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *phassati*, “would not touch”
 
-[^22]: *kalabhāgaŋ*, i.e., a thirty-second part (this follows BJTS)
+[^22]: *kalabhāgaŋ*, i.e., a thirty-second part (this follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>)
 
-[^23]: *na sammati*, following BJTS gloss *no pohotē* = *no häki*
+[^23]: *na sammati*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *no pohotē* = *no häki*
 
 [^24]: *asaṅkhataŋ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a nibbānaŋ*
 
@@ -193,4 +192,4 @@ The legend of Mettagu Thera is finished.
 
 [^26]: lit., “*samādhi* \[and\] *jhāna*,” meditative awareness and higher levels of consciousness”
 
-[^27]: reading *bojjhaṅga-bhojano* with BJTS for PTS (typo) *bhojjaṅgabhojano*
+[^27]: reading *bojjhaṅga-bhojano* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> (typo) *bhojjaṅgabhojano*

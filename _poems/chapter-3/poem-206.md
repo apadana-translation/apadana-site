@@ -1,7 +1,6 @@
 ---
 title: Udakadāyaka
 order: 206
-layout: poem
 category: chapter-3
 ---
 

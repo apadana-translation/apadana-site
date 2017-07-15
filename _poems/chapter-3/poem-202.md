@@ -1,7 +1,6 @@
 ---
 title: Vinelapupphiya
 order: 202
-layout: poem
 category: chapter-3
 ---
 
@@ -36,16 +35,16 @@ Thus indeed Venerable Vinelapupphiya[^6] Thera spoke these verses.
 
 The legend of Vinelapupphiya[^7] Thera is finished.
 
-[^1]: “*Vinela-*Flower-er”. BJTS (and PTS alternate) reads *Minela*°
+[^1]: “*Vinela-*Flower-er”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternate) reads *Minela*°
 
 [^2]: *patāpavā*&lt;*pratāpa-vant*, lit., “Possessor of Cosmic Heat”
 
-[^3]: reading *sikhīsabho* with BJTS; PTS gives *sikhīsito* = “White as Fire” or “Fiery-Smiler”
+[^3]: reading *sikhīsabho* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>; <abbr title="Pali Text Society">PTS</abbr> gives *sikhīsito* = “White as Fire” or “Fiery-Smiler”
 
-[^4]: BJTS reads *minela*.
+[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *minela*.
 
-[^5]: “Very Cloudy” or “Thick with Rain Clouds”. *Megha* and *ghana* both mean “cloud” (as well as other meanings). BJTS reads the name as *Sumedhayasa*, "Famous for Wisdom” (or “Famous for Good Sacrifices,” *su* + *medha*)
+[^5]: “Very Cloudy” or “Thick with Rain Clouds”. *Megha* and *ghana* both mean “cloud” (as well as other meanings). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads the name as *Sumedhayasa*, "Famous for Wisdom” (or “Famous for Good Sacrifices,” *su* + *medha*)
 
-[^6]: BJTS (and PTS alternate) reads *Minela°*
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternate) reads *Minela°*
 
-[^7]: BJTS (and PTS alternate) reads *Minela°*
+[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternate) reads *Minela°*

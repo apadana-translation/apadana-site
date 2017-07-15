@@ -1,7 +1,6 @@
 ---
 title: Parappasādaka
 order: 64
-layout: poem
 category: chapter-3
 ---
 

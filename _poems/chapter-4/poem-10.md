@@ -1,7 +1,6 @@
 ---
 title: Udakadāyikā
 order: 10
-layout: poem
 category: chapter-4
 ---
 
@@ -109,8 +108,8 @@ The Sumedhā Chapter, the First
 
 [^5]: that is, created as a result of the merit of having brought water to the Buddha.
 
-[^6]: lit., “in \[all\] ten places”. Reading *dasaṭṭhānehi tā sabbā* (BJTS) for *dasaṭṭhāne hitā sabbā* (“all standing in ten places,” PTS). For a list of the ten ways of outshining the other women (there as *dasa-h-aṅgehi*, lit., “ten parts” or “ten limbs”) see below, v. \[333\]-\[335\] (= *Gotamī-apadāna* v. 107-109).
+[^6]: lit., “in \[all\] ten places”. Reading *dasaṭṭhānehi tā sabbā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *dasaṭṭhāne hitā sabbā* (“all standing in ten places,” <abbr title="Pali Text Society">PTS</abbr>). For a list of the ten ways of outshining the other women (there as *dasa-h-aṅgehi*, lit., “ten parts” or “ten limbs”) see below, v. \[333\]-\[335\] (= *Gotamī-apadāna* v. 107-109).
 
-[^7]: reading *sarīre me na vijjati* (BJTS, PTS alt) for *atha m’eva na vijjati* (“are not ever seen by me,” PTS).
+[^7]: reading *sarīre me na vijjati* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *atha m’eva na vijjati* (“are not ever seen by me,” <abbr title="Pali Text Society">PTS</abbr>).
 
-[^8]: reading *iha* (BJTS) for *viha* (PTS).
+[^8]: reading *iha* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *viha* (<abbr title="Pali Text Society">PTS</abbr>).

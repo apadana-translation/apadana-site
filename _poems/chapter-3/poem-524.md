@@ -1,7 +1,6 @@
 ---
 title: Abbhañjanadāyaka
 order: 524
-layout: poem
 category: chapter-3
 ---
 
@@ -45,14 +44,14 @@ Thus indeed Venerable Abbhañjanadāyaka Thera spoke these verses.
 
 The legend of Abbhañjanadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Unguent Donor.” Cf. \#274, above, for a different *apadāna* ascribed to a monk with the same name.
 
-[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ammavāsī* with BJTS (and PTS alt.) for PTS *dhammavādī* (“a speaker of the truth” or “a speaker of the Teaching” \[or perhaps, more appropriately, “a debater of doctrines”?\]). The latter — or the alt. reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ammavāsī* — is preferable given the other epithet applied to the protagonist here, “carrier of a water-pot (*kamaṇḍaludharo*),” which like the deer-leather robe is a distinctive mark of non-Buddhist adepts.
+[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ammavāsī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *dhammavādī* (“a speaker of the truth” or “a speaker of the Teaching” \[or perhaps, more appropriately, “a debater of doctrines”?\]). The latter — or the alt. reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ammavāsī* — is preferable given the other epithet applied to the protagonist here, “carrier of a water-pot (*kamaṇḍaludharo*),” which like the deer-leather robe is a distinctive mark of non-Buddhist adepts.
 
 [^4]: *padhānapahitattaŋ*
 
 [^5]: *vasiŋ*
 
-[^6]: *abbhañjanam*, BJTS Sinh. gloss *äṅga galvana telak* (“an oil for rubbing on the body”)
+[^6]: *abbhañjanam*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *äṅga galvana telak* (“an oil for rubbing on the body”)

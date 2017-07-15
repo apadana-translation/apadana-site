@@ -1,7 +1,6 @@
 ---
 title: Raṃsisaññaka
 order: 86
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Pañcasīlasamādāniya
 order: 24
-layout: poem
 category: chapter-3
 ---
 
@@ -128,12 +127,12 @@ The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="
 
 [^6]: I follow the cty in understaṇḍing *desaka* (ordinarily teacher, lecturer) as “only one part” (*ekakoṭṭhāsam eva*).
 
-[^7]: lit., “causes” or bases for good or bad action. The BJTS Sinhala gloss is *anusas* (karmic results)
+[^7]: lit., “causes” or bases for good or bad action. The <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss is *anusas* (karmic results)
 
 [^8]: lit., “I obtain those places”.
 
 [^9]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīlān’*:
 
-[^10]: reading *mo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayiṃ* (BJTS) for *poṭhayiŋ* (PTS).
+[^10]: reading *mo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayiṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *poṭhayiŋ* (<abbr title="Pali Text Society">PTS</abbr>).
 
 [^11]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīle*: to practice restraint from taking life, taking what is not given, sexual misconduct, false speech and becoming careless through the use of alcohol.

@@ -1,7 +1,6 @@
 ---
 title: Āvopupphiya
 order: 62
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Ekapiṇḍadāyikā
 order: 6
-layout: poem
 category: chapter-4
 ---
 
@@ -81,17 +80,17 @@ Thus indeed Bhikkhunī Ekapiṇḍadāyikā spoke these verses.
 
 The legend of Ekapiṇḍadāyikā Therī is finished.
 
-[^1]: “One Ball \[of Food\] Donor”. BJTS reads Ekapiṇḍapātadāyikā, “Giver of one begged-for-alms-meal”
+[^1]: “One Ball \[of Food\] Donor”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads Ekapiṇḍapātadāyikā, “Giver of one begged-for-alms-meal”
 
 [^2]: lit., “a kṣatriyan”.
 
 [^3]: “Kinsman,” according to my notes (ref?) also the name of the king-father of Vipassi Buddha
 
-[^4]: BJTS reads *ekajjhaṃ*, “together \[with the king\] (?)”.
+[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *ekajjhaṃ*, “together \[with the king\] (?)”.
 
 [^5]: lit., “the ultimate food.” See n. to *Therāpadāna* v. \[28-29\]
 
-[^6]: BJTS reads *vatthayugena*, “with a pair of cloths”. Some PTS alt give *mahā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>olena*, “a big piece of cloth”. The term *mahānela* is obscure, but used again in *Therī-apadāna* v. \[79\], below, where it more clearly refers to a blue lotus flower (perhaps through conflation with *mahanel*, or *mānel*, one of the Sinhala names for the blue lotus flower \[*uppala*\]). This translation follows the lead of BJTS Sinhala gloss, which in the case of v. \[79\] takes the term to be equivalent to the Sinhala *mahanel*.
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *vatthayugena*, “with a pair of cloths”. Some <abbr title="Pali Text Society">PTS</abbr> alt give *mahā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>olena*, “a big piece of cloth”. The term *mahānela* is obscure, but used again in *Therī-apadāna* v. \[79\], below, where it more clearly refers to a blue lotus flower (perhaps through conflation with *mahanel*, or *mānel*, one of the Sinhala names for the blue lotus flower \[*uppala*\]). This translation follows the lead of <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss, which in the case of v. \[79\] takes the term to be equivalent to the Sinhala *mahanel*.
 
 [^7]: lit., “Remembering that as my object of sense.” Buddhist schematics thought one such sense-object (Sinhala *aramuṇu*) and in context, the meaning is clearly that she continued to think about that almsgiving for the rest of her life.
 

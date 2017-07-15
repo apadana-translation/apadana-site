@@ -1,7 +1,6 @@
 ---
 title: Bhojanadāyaka
 order: 312
-layout: poem
 category: chapter-3
 ---
 

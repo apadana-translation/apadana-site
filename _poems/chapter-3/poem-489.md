@@ -1,7 +1,6 @@
 ---
 title: Dhammarucī
 order: 489
-layout: poem
 category: chapter-3
 ---
 
@@ -140,7 +139,7 @@ Thus indeed Venerable Dhammaru<span class="diacritics" data-state="on">c</span><
 
 The legend of Dhammaru<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ī Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Splendor of the Teaching”.
 
@@ -180,7 +179,7 @@ The legend of Dhammaru<span class="diacritics" data-state="on">c</span><span cla
 
 [^20]: or “was lost,” *paridhaŋsito*
 
-[^21]: or thinking, *vitakka-vasa-go* (BJTS *vitakka-vasīko*)
+[^21]: or thinking, *vitakka-vasa-go* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *vitakka-vasīko*)
 
 [^22]: *sāsanato*, lit., “from the dispensation”
 
@@ -198,11 +197,11 @@ The legend of Dhammaru<span class="diacritics" data-state="on">c</span><span cla
 
 [^29]: lit., “merits,” *°puñña°*
 
-[^30]: reading *patipubbena* with BJTS for PTS *patipubbe na* (“in the past, not…”)
+[^30]: reading *patipubbena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *patipubbe na* (“in the past, not…”)
 
-[^31]: PTS and BJTS agree in presenting this and the following two verses in a different, more complex meter than the rest of the poem (and indeed, different from the meter in the vast majority of the whole *Apadāna* collection), with 10-11-10-11 syllable counts per quatrain (10-11-10-12 in the present instance, perhaps due to the superfluous *‘haŋ*). I have translated accordingly.
+[^31]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this and the following two verses in a different, more complex meter than the rest of the poem (and indeed, different from the meter in the vast majority of the whole *Apadāna* collection), with 10-11-10-11 syllable counts per quatrain (10-11-10-12 in the present instance, perhaps due to the superfluous *‘haŋ*). I have translated accordingly.
 
-[^32]: reading *tayā* with BJTS (and PTS alts.) for PTS *mayā* (“by me”)
+[^32]: reading *tayā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alts.) for <abbr title="Pali Text Society">PTS</abbr> *mayā* (“by me”)
 
 [^33]: *suci-rakkhena*, a play on words that echoes the “very long \[time\]” (*su-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iraṃ*) governing these verses. Or is this *su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ira* + *akkhena*, “by the eye for very long,” picking up the “eye” (*nayana*) reference in the fourth foot?
 

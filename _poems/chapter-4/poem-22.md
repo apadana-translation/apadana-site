@@ -1,7 +1,6 @@
 ---
 title: Kisāgotamī
 order: 22
-layout: poem
 category: chapter-4
 ---
 
@@ -216,7 +215,7 @@ The legend of Kisāgotamī Therī is finished.
 
 [^3]: *lūkha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īvaradhārikaŋ*
 
-[^4]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
+[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “Named Kassapa according to his Lineage (*gottena*)”
 
 [^5]: ”Teaching”
 
@@ -226,7 +225,7 @@ The legend of Kisāgotamī Therī is finished.
 
 [^8]: = Bhaddā Kuṇḍalakesī
 
-[^9]: here the text (in both PTS and BJTS editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be better here.
+[^9]: here the text (in both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be better here.
 
 [^10]: *gatā*, lit., “gone to,” perhaps to be read as “given to”
 
@@ -234,11 +233,11 @@ The legend of Kisāgotamī Therī is finished.
 
 [^12]: *sukheṭhito*, lit., “fixed in comfort”
 
-[^13]: that is, “died,” reading *yamavasaṃ gato* with BJTS for PTS *parasaṅgato* (“associated with the other \[world?\]”)
+[^13]: that is, “died,” reading *yamavasaṃ gato* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *parasaṅgato* (“associated with the other \[world?\]”)
 
-[^14]: reading *mataṃ* with BJTS (and PTS alt.) for PTS *evaŋ* (“thus”)
+[^14]: reading *mataṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *evaŋ* (“thus”)
 
-[^15]: reading *bhisamuttamaŋ* for PTS *‘Bhisamuttamaŋ* (“the ultimate Abhisa”); BJTS reads *bhisajuttamaṃ*
+[^15]: reading *bhisamuttamaŋ* for <abbr title="Pali Text Society">PTS</abbr> *‘Bhisamuttamaŋ* (“the ultimate Abhisa”); <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *bhisajuttamaṃ*
 
 [^16]: *puttasañjīvanaŋ;* RD cites *this* passage at *sañjīvana*, s.v. (“reviving”)
 
@@ -250,13 +249,13 @@ The legend of Kisāgotamī Therī is finished.
 
 [^20]: *dhammo*. The term, usually translated “Teaching” here, has a wide semantic range including teaching, doctrine, truth. destiny, fact, thing. An alternate translation, using the play here on the various “teachings” and “*the* Teaching,” would be: “Not a village-teaching and not a town-teaching, also not a teaching for one family./ *This* Teaching is for the whole world with \[its\] gods: that which is, is impermanent.”
 
-[^21]: both PTS and BJTS present this in a more complex, 12-11-11-12 meter, and I translate accordingly.
+[^21]: both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> present this in a more complex, 12-11-11-12 meter, and I translate accordingly.
 
 [^22]: *jinasāsane*, lit., “in the Victor’s dispensation”
 
 [^23]: *satthu sāsanakārikā*, lit., “\[I am\] a doer of the Teacher’s dispensation”
 
-[^24]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I became”)
+[^24]: reading *amhi* (“I am”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *āsiŋ* (“I was” “I became”)
 
 [^25]: lit., “pure” (*suddhaŋ*)
 

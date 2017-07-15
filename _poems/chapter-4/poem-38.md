@@ -1,7 +1,6 @@
 ---
 title: Puṇṇikā
 order: 38
-layout: poem
 category: chapter-4
 ---
 
@@ -110,7 +109,7 @@ Thus indeed the bhikkhunī Puṇṇikā spoke these verses.
 
 The legend of Puṇṇikā Therī[^17] is finished
 
-[^1]: “Complete” “Full”. BJTS reads Puṇṇā; both spellings are correct, see DPPN II: 227-228.
+[^1]: “Complete” “Full”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads Puṇṇā; both spellings are correct, see DPPN II: 227-228.
 
 [^2]: reading *dhammatthaparipu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chikā*
 
@@ -124,9 +123,9 @@ The legend of Puṇṇikā Therī[^17] is finished
 
 [^7]: = *Therīgāthā* v. 237
 
-[^8]: reading *paripu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chasi* with BJTS for PTS *paripu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiyan* (“you would ask?”)
+[^8]: reading *paripu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chasi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *paripu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiyan* (“you would ask?”)
 
-[^9]: reading rundhantaṃ with BJTS (and PTS alt) for PTS *niddhantaŋ* (“blown off” “purified” “thrown out”)
+[^9]: reading rundhantaṃ with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt) for <abbr title="Pali Text Society">PTS</abbr> *niddhantaŋ* (“blown off” “purified” “thrown out”)
 
 [^10]: = *Therīgāthā* v. 238
 
@@ -140,6 +139,6 @@ The legend of Puṇṇikā Therī[^17] is finished
 
 [^15]: *puṇṇā ti nāmaŋ*
 
-[^16]: PTS reads *panassati*, BJTS *vinassati*
+[^16]: <abbr title="Pali Text Society">PTS</abbr> reads *panassati*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *vinassati*
 
-[^17]: the BJTS reading, for PTS *bhikkhunī Puṇṇikā*
+[^17]: the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading, for <abbr title="Pali Text Society">PTS</abbr> *bhikkhunī Puṇṇikā*

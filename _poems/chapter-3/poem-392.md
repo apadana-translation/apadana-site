@@ -1,7 +1,6 @@
 ---
 title: Sela
 order: 392
-layout: poem
 category: chapter-3
 ---
 
@@ -487,11 +486,11 @@ Thus indeed Venerable Sela Thera spoke these verses.
 
 The legend of Sela Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation. Here BJTS reads 391, a typo.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation. Here <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads 391, a typo.
 
 [^2]: “Stone,” a historical monk much-mentioned in the canon and commentaries.
 
-[^3]: *vīthisāmi*, could also be imagined as an “owner” of roads, or “master” of roads; BJTS seems to prefer the latter, glossing, “I was the foremost person on a particular road.”
+[^3]: *vīthisāmi*, could also be imagined as an “owner” of roads, or “master” of roads; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> seems to prefer the latter, glossing, “I was the foremost person on a particular road.”
 
 [^4]: as v. 91 \[3673\], below, specifies that this occurred 100,000 aeons ago, the Buddha in question presumably would be Padumuttara Buddha.
 
@@ -561,11 +560,11 @@ The legend of Sela Thera is finished.
 
 [^37]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a guild”
 
-[^38]: here, PTS and BJTS diverge. The latter presents in two verses all the material, plus some more, that appears in this one verse in PTS. BJTS \[3588\] reads: The fletchers, the *bhamakāras* (?)/leather workers and carpenters/happy, with pleasure in \[their\] hearts/have formed themselves into a guild.// BJTS \[3589\] reads: “The metal-smiths (*kammāro*), workers in gold/and likewise those who work in tin/happy, with pleasure in \[their\] hearts, have formed themselves into a guild.//” I prefer the BJTS reading here, but stick the PTS as my base text.
+[^38]: here, <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> diverge. The latter presents in two verses all the material, plus some more, that appears in this one verse in <abbr title="Pali Text Society">PTS</abbr>. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> \[3588\] reads: The fletchers, the *bhamakāras* (?)/leather workers and carpenters/happy, with pleasure in \[their\] hearts/have formed themselves into a guild.// <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> \[3589\] reads: “The metal-smiths (*kammāro*), workers in gold/and likewise those who work in tin/happy, with pleasure in \[their\] hearts, have formed themselves into a guild.//” I prefer the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading here, but stick the <abbr title="Pali Text Society">PTS</abbr> as my base text.
 
 [^39]: *bhatakā*
 
-[^40]: *gītakā*&lt;*gītakārā*. BJTS reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etaka*, “boy servants,” “waifs”
+[^40]: *gītakā*&lt;*gītakārā*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etaka*, “boy servants,” “waifs”
 
 [^41]: *dāsa-kammakārā bahū*
 
@@ -579,7 +578,7 @@ The legend of Sela Thera is finished.
 
 [^46]: *kaṭṭhahārā*
 
-[^47]: *kasikā*, BJTS reads *kassakā*, “cultivators”
+[^47]: *kasikā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kassakā*, “cultivators”
 
 [^48]: *tiṇahārā*
 
@@ -595,7 +594,7 @@ The legend of Sela Thera is finished.
 
 [^54]: *paṇṇikā*, dealers in leaves
 
-[^55]: *phalahārikā* (= females?); BJTS read *phalahārakā* (= males?)
+[^55]: *phalahārikā* (= females?); <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> read *phalahārakā* (= males?)
 
 [^56]: *yathā sakena thāmena*, “as far as their own power”
 
@@ -607,7 +606,7 @@ The legend of Sela Thera is finished.
 
 [^60]: *kumbhadāsī*, lit., “slave-girls with water pots”
 
-[^61]: reading *pūvikā ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakā pi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (lit., “women who sell cakes and also women who sell fish”) with BJTS for PTS *pūvikā ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakāyikā* (“women who sell cakes and women with bodies of fish”
+[^61]: reading *pūvikā ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakā pi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (lit., “women who sell cakes and also women who sell fish”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pūvikā ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakāyikā* (“women who sell cakes and women with bodies of fish”
 
 [^62]: *yathā sakena thāmena*, “as far as their own power”
 
@@ -615,7 +614,7 @@ The legend of Sela Thera is finished.
 
 [^64]: *pūgadhammaŋ akaŋsu te*, lit., “they did an act incorporating a guild”
 
-[^65]: reading *etha* with BJTS for PTS *ete*, “they”
+[^65]: reading *etha* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ete*, “they”
 
 [^66]: *gaṇaŋ*
 
@@ -659,15 +658,15 @@ The legend of Sela Thera is finished.
 
 [^86]: *chalaṅge pāramiṇgato*, lit., “one who has reached perfection in the six branches.” RD: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.”
 
-[^87]: *jaṅghāvihāraŋ vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arantaŋ*, lit., “wandering while living on the legs”. BJTS understands this to refer to walking back and forth (Sinh. *sakman*), as in walking meditation, but these terms do not necessarily imply that.
+[^87]: *jaṅghāvihāraŋ vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arantaŋ*, lit., “wandering while living on the legs”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> understands this to refer to walking back and forth (Sinh. *sakman*), as in walking meditation, but these terms do not necessarily imply that.
 
 [^88]: or “honored”
 
 [^89]: lit., “having seen,” *disvā*
 
-[^90]: BJTS: Keṇiya. He is known in the canonical and commentarial texts, as is this meeting with Sela which resulted in the latter discovering the Buddha’s presence in Āpaṇa and subsequently converting along with the 300 who had been his relatives at the time of the original act, co-transmigrating up to and including the final result of that act, namely arahantship. See DPPN I:663-664
+[^90]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>: Keṇiya. He is known in the canonical and commentarial texts, as is this meeting with Sela which resulted in the latter discovering the Buddha’s presence in Āpaṇa and subsequently converting along with the 300 who had been his relatives at the time of the original act, co-transmigrating up to and including the final result of that act, namely arahantship. See DPPN I:663-664
 
-[^91]: reading *jaṭā-khārika-bharitam* (lit., “hair-braided \[and\] filled with ashes”) with BJTS for PTS *jaṭābhābhārabharitaŋ*, “heavy with the weight of the light of dread-locks,” but both are probably mistakes for the recurring *jaṭābhārabharitaŋ* (PTS) or *jaṭābhārena bharitaṃ* (BJTS) elsewhere in the text, translated as “bearing a weight of matted hair”
+[^91]: reading *jaṭā-khārika-bharitam* (lit., “hair-braided \[and\] filled with ashes”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *jaṭābhābhārabharitaŋ*, “heavy with the weight of the light of dread-locks,” but both are probably mistakes for the recurring *jaṭābhārabharitaŋ* (<abbr title="Pali Text Society">PTS</abbr>) or *jaṭābhārena bharitaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) elsewhere in the text, translated as “bearing a weight of matted hair”
 
 [^92]: *paṭiyattāhutaŋ*
 
@@ -685,7 +684,7 @@ The legend of Sela Thera is finished.
 
 [^99]: lit., “radiant with the color of a *Timbarūsaka* \[tree\]”. The tree is diospyros embryopteris, Sinh. *timbiri*. The cty. specifies that the color is that of gold.
 
-[^100]: *pahaṭo*, BJTS reads *pahaṭṭho*, with the same meaning.
+[^100]: *pahaṭo*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pahaṭṭho*, with the same meaning.
 
 [^101]: *ukkāmukha°*, the “mouth” (receiving or discharging end) of a furnace or forge, a goldsmith’s smelting pot.
 
@@ -713,17 +712,17 @@ The legend of Sela Thera is finished.
 
 [^113]: *vasīgaṇī*
 
-[^114]: *tejasī* (BJTS reads *tejassī*)
+[^114]: *tejasī* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *tejassī*)
 
 [^115]: *durāsado*
 
 [^116]: “God,” the creator deity, the lord of all (*sahampatī*)
 
-[^117]: reading *pattadhammo* with BJTS for PTS *mahantadhammo*, “he who had a big Teaching”
+[^117]: reading *pattadhammo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mahantadhammo*, “he who had a big Teaching”
 
 [^118]: *dasabalo*
 
-[^119]: *balātibalapārago* (BJTS reads *°pāragū*), lit., “one who has gone beyond the power-surpassing power”
+[^119]: *balātibalapārago* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *°pāragū*), lit., “one who has gone beyond the power-surpassing power”
 
 [^120]: *durāsado*
 
@@ -757,25 +756,25 @@ The legend of Sela Thera is finished.
 
 [^135]: happiness need to be contracted “happ’ness” in recitation, to preserve meter.
 
-[^136]: *assāsaka*, “breathing,” “having breath,” by extension “breathing easily,” or “he who makes others breath easily”. I follow BJTS Sinhala gloss in thus translating the epithet (Sinh. äsväsillak
+[^136]: *assāsaka*, “breathing,” “having breath,” by extension “breathing easily,” or “he who makes others breath easily”. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss in thus translating the epithet (Sinh. äsväsillak
 
 [^137]: *veda-kara*, “the one who makes religious feeling, religious joy, enthusiasm, emotion.” *Veda* is a wide-ranging term derived from \*vid (hence also “knowledge,” “science,” cf. *vijjā*), and of course designates the revealed poetry of the brahmins. In that latter context (whereby we could read the term, “Doer of the Veda” or even Maker of the Veda,” another possible meaning) , the literal meaning of *assāsaka* (see previous note) is especially interesting, for “Breathing” or even “the Breath” similarly evokes a theme very dear to Brahmanical thought and scripture.
 
 [^138]: *meghūpamo*, especially a storm-cloud
 
-[^139]: reading *loka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu* with BJTS for PTS *loke samussito* (“elevated in the world,” also a reasonable epithet for both the Buddha and the sun)
+[^139]: reading *loka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *loke samussito* (“elevated in the world,” also a reasonable epithet for both the Buddha and the sun)
 
 [^140]: *vīro*
 
-[^141]: reading *sabbatamavinodano* with BJTS for PTS *sabbantamavinodano*
+[^141]: reading *sabbatamavinodano* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sabbantamavinodano*
 
-[^142]: reading *sabhāva-dassano* with BJTS for PTS *sabhāva rasako*, “the Original Taste”
+[^142]: reading *sabhāva-dassano* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sabhāva rasako*, “the Original Taste”
 
 [^143]: *ārammaṇa-vimuttīsu*, the (multiple) forms of release from the objects of the world and of the senses, including mental objects
 
 [^144]: contract to “ven’rable” for recitation, to keep the meter
 
-[^145]: this verse does not appear in PTS. BJTS reads: *Vuddho samussito loke*/*lakkhaṇehi alaṅkato*/*appameyyo mahāvīro*/*so me Buddho nimantito//
+[^145]: this verse does not appear in <abbr title="Pali Text Society">PTS</abbr>. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads: *Vuddho samussito loke*/*lakkhaṇehi alaṅkato*/*appameyyo mahāvīro*/*so me Buddho nimantito//
 
 [^146]: *Yassa ñāṇam appameyyaŋ*, lit., “of whom knowledge is without end/limit/measure”
 
@@ -783,13 +782,13 @@ The legend of Sela Thera is finished.
 
 [^148]: *vimutti asadisā*
 
-[^149]: BJTS (and PTS alt., *diti* \[sic?\]) reading *yassa dhiti* (‘whose energy/steadfastness/courage”) for PTS *yassa pīti* (whose joy”), also a likable epithet for both the Buddha
+[^149]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt., *diti* \[sic?\]) reading *yassa dhiti* (‘whose energy/steadfastness/courage”) for <abbr title="Pali Text Society">PTS</abbr> *yassa pīti* (whose joy”), also a likable epithet for both the Buddha
 
 [^150]: *thāmo yas”sa a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intiyo*
 
-[^151]: reading *agadūpama*, “like a medicine” with BJTS for PTS *agarūpama* (“like \[something which is\] not heavy”?)
+[^151]: reading *agadūpama*, “like a medicine” with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *agarūpama* (“like \[something which is\] not heavy”?)
 
-[^152]: lit., “you all should produce joy with me: BJTS gloss prefers to read the *me* as modifying the saying of “Buddha,” i.e., “my saying of…” I take it, instead, as an instrumental connected with the second person plural imperative, a subtle reminder that though Sela is addressed as a singular “you” in the first two feet of this verse, he is surrounded by a large group of three hundred followers. The meaning could also be “you all should produce joy for me”.
+[^152]: lit., “you all should produce joy with me: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss prefers to read the *me* as modifying the saying of “Buddha,” i.e., “my saying of…” I take it, instead, as an instrumental connected with the second person plural imperative, a subtle reminder that though Sela is addressed as a singular “you” in the first two feet of this verse, he is surrounded by a large group of three hundred followers. The meaning could also be “you all should produce joy for me”.
 
 [^153]: *pītimato santo*
 
@@ -797,17 +796,17 @@ The legend of Sela Thera is finished.
 
 [^155]: *dhhamarājaŋ*
 
-[^156]: reading *passas’ etaṃ* with BJTS for *passass’ etaŋ*
+[^156]: reading *passas’ etaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for *passass’ etaŋ*
 
 [^157]: *sāgaraŋ viya dissantaŋ*
 
-[^158]: *adantadamako* could mean either “tamer of the untamed” or “tamer who is untamed;” I leave the ambiguity open with the hyphen, admitting here my preference for “tamer of the untamed” (which is also the BJTS reading, cf RD on *dametar*), and recommend pronunciation in chanting which through stress on the first term in the compound, and tone, can emphasize that the Buddha is one who tames those who are untamed/feral.
+[^158]: *adantadamako* could mean either “tamer of the untamed” or “tamer who is untamed;” I leave the ambiguity open with the hyphen, admitting here my preference for “tamer of the untamed” (which is also the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading, cf RD on *dametar*), and recommend pronunciation in chanting which through stress on the first term in the compound, and tone, can emphasize that the Buddha is one who tames those who are untamed/feral.
 
-[^159]: *bodhento bodhapakkhiye*, which BJTS glosses as the (37) aspects or qualities of Awakening or Enlightenment (*bodha*, here = *bodhi*, see RD s.v.)
+[^159]: *bodhento bodhapakkhiye*, which <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses as the (37) aspects or qualities of Awakening or Enlightenment (*bodha*, here = *bodhi*, see RD s.v.)
 
 [^160]: *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āra-upa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āraññū*
 
-[^161]: *dhammanu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavasaŋvaraŋ* (BJTS reads *dhammanu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavi°*)
+[^161]: *dhammanu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavasaŋvaraŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *dhammanu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavi°*)
 
 [^162]: *pade padaŋ nikkhipantā*, lit., “carefully placing \[your feet\] step by step”
 
@@ -817,11 +816,11 @@ The legend of Sela Thera is finished.
 
 [^165]: *appasaddā*
 
-[^166]: reading *yadā ‘haṃ* with BJTS for PTS *yāvâhaŋ*, “as far as I…”
+[^166]: reading *yadā ‘haṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *yāvâhaŋ*, “as far as I…”
 
 [^167]: *munibhūtā va*, i.e., silently
 
-[^168]: reading *deseti* with BJTS for PTS *desesi*, “you preach”
+[^168]: reading *deseti* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *desesi*, “you preach”
 
 [^169]: *nisāmetha*
 
@@ -831,13 +830,13 @@ The legend of Sela Thera is finished.
 
 [^172]: i.e., the thirty-two auspicious marks on the body of a *mahāpurusa*, which signal that he will either be a Buddha or a wheel-turning monarch.
 
-[^173]: *reading *iddhiyā* with BJTS for PTS *itthiyā* (“to a woman,” sic!)*
+[^173]: *reading *iddhiyā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *itthiyā* (“to a woman,” sic!)*
 
-[^174]: *kosohitaŋ vatthaguyhaŋ*, BJTS reads *kosohitavatthaguyhaŋ*
+[^174]: *kosohitaŋ vatthaguyhaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kosohitavatthaguyhaŋ*
 
 [^175]: *kaṇṇasote*, “on his auditory organ”
 
-[^176]: reading *patamasi nalāṭantaṃ* with BJTS for PTS *paṭtimasanalāṭaŋ taŋ*
+[^176]: reading *patamasi nalāṭantaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *paṭtimasanalāṭaŋ taŋ*
 
 [^177]: *niṭṭhaŋ gantvā*, lit., “having gone (come) to the conclusion”
 
@@ -847,17 +846,17 @@ The legend of Sela Thera is finished.
 
 [^180]: lit., “having given”
 
-[^181]: reading *gopānasīyo* with BJTS for PTS *gopānasī*
+[^181]: reading *gopānasīyo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *gopānasī*
 
-[^182]: reading *vasī* with BJTS (and PTS alt.) for PTS *vasiŋ*
+[^182]: reading *vasī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *vasiŋ*
 
 [^183]: *pūgadhamme*
 
-[^184]: *hetu*, lit., causes; I follow BJTS gloss in understanding these as *ānisaṃsas* (Sinh. *anusas aṭak labami*). BJTS explains the use of *hetu* (which may be *metri causa*) as “making that good deed, \[that is\] that karma, the reason.” I count the eight here as: (1) worshipped everywhere, (2) ambrosial food, (3) supported by everyone, (4) no terrors, (5) no diseases, (6) long life, (7) fine skin, (8) chosen or wished-for residences.
+[^184]: *hetu*, lit., causes; I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss in understanding these as *ānisaṃsas* (Sinh. *anusas aṭak labami*). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> explains the use of *hetu* (which may be *metri causa*) as “making that good deed, \[that is\] that karma, the reason.” I count the eight here as: (1) worshipped everywhere, (2) ambrosial food, (3) supported by everyone, (4) no terrors, (5) no diseases, (6) long life, (7) fine skin, (8) chosen or wished-for residences.
 
 [^185]: *pūjito*
 
-[^186]: reading *patiṭṭhā homi sabbesaṃ* with BJTS (and PTS alt.) for PTS *patiṭṭhā bhosiŋ sabbesaŋ*
+[^186]: reading *patiṭṭhā homi sabbesaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *patiṭṭhā bhosiŋ sabbesaŋ*
 
 [^187]: lit., “have,” “find”
 
@@ -865,7 +864,7 @@ The legend of Sela Thera is finished.
 
 [^189]: *āvāse patthite vase*
 
-[^190]: reading *vasī* with BJTS (and PTS alt.) for PTS *vasiŋ*
+[^190]: reading *vasī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *vasiŋ*
 
 [^191]: *pūgadhamme*
 
@@ -885,7 +884,7 @@ The legend of Sela Thera is finished.
 
 [^199]: *aṭṭhagopānasī nāma*
 
-[^200]: reading *vasī* with BJTS (and PTS alt.) for PTS *vasiŋ*
+[^200]: reading *vasī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *vasiŋ*
 
 [^201]: *pūgadhamme*
 
@@ -893,7 +892,7 @@ The legend of Sela Thera is finished.
 
 [^203]: lit., “having given”
 
-[^204]: *hetu*, lit., causes; I follow BJTS in understanding these as *ānisaṃsas* (Sinh. *anusas pahak labami*). I count the five here as: (1) unshaken by love, (2) wealthy, (3) one whose words are taken well, causing no offense, (4) mind not out of control, unshaken, and (5) arahantship (unstained, respectful, obedient, duties complete, undefiled follower of the Buddha).
+[^204]: *hetu*, lit., causes; I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in understanding these as *ānisaṃsas* (Sinh. *anusas pahak labami*). I count the five here as: (1) unshaken by love, (2) wealthy, (3) one whose words are taken well, causing no offense, (4) mind not out of control, unshaken, and (5) arahantship (unstained, respectful, obedient, duties complete, undefiled follower of the Buddha).
 
 [^205]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo homi mettāya*
 
@@ -903,7 +902,7 @@ The legend of Sela Thera is finished.
 
 [^208]: *na dhaŋsemi yathā ahaŋ*
 
-[^209]: reading *abhantaṃ mānasaṃ mama* with BJTS (*bhanta* = swerving, wavering, unsteady, used of a cart that is out of control) for PTS *āgataŋ mānasaŋ mamaŋ* (alt. *mama*), “my mind is come”. PTS also gives *asantaŋ* (lacking peace, disturbed) as an alternate reading, which would be preferable to *āgataŋ*
+[^209]: reading *abhantaṃ mānasaṃ mama* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (*bhanta* = swerving, wavering, unsteady, used of a cart that is out of control) for <abbr title="Pali Text Society">PTS</abbr> *āgataŋ mānasaŋ mamaŋ* (alt. *mama*), “my mind is come”. <abbr title="Pali Text Society">PTS</abbr> also gives *asantaŋ* (lacking peace, disturbed) as an alternate reading, which would be preferable to *āgataŋ*
 
 [^210]: *vimalo homi sāsane*
 
@@ -919,13 +918,13 @@ The legend of Sela Thera is finished.
 
 [^216]: *paññapes’ ahaŋ*
 
-[^217]: *hetu*, lit., causes; I follow BJTS in understanding these as *ānisaṃsas* (Sinh. *anusas pahak labami*). I count the five here as: (1) good birth, (2) great wealth, (3) all success, (4) lack of stinginess or greed, (5) magic palanquin.
+[^217]: *hetu*, lit., causes; I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in understanding these as *ānisaṃsas* (Sinh. *anusas pahak labami*). I count the five here as: (1) good birth, (2) great wealth, (3) all success, (4) lack of stinginess or greed, (5) magic palanquin.
 
 [^218]: *u<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>e kule*
 
 [^219]: *mahābhogo bhavāmi*
 
-[^220]: reading *sabbasampattiko homi* with BJTS for PTS *sabbasampāttiko*
+[^220]: reading *sabbasampattiko homi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sabbasampāttiko*
 
 [^221]: lit., “not found for me” “I do not know” “I do not experience”
 
@@ -937,17 +936,17 @@ The legend of Sela Thera is finished.
 
 [^225]: *sabbâbhiññā-balapatto*
 
-[^226]: *para-ki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>atta-ki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āni*, “duties which are to be done by others”. I follow BJTS gloss in reading the compound accordingly; it could also be read to mean that he performed his own duties including duties involving service *to* others.
+[^226]: *para-ki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>atta-ki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āni*, “duties which are to be done by others”. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss in reading the compound accordingly; it could also be read to mean that he performed his own duties including duties involving service *to* others.
 
 [^227]: *pāvisim abhayaŋ puraŋ*, that is, nirvana.
 
-[^228]: Reading *seṭṭhattaṃ* (lit., “bestness”) with BJTS (and PTS alt.) for PTS *seṭṭhan taŋ*
+[^228]: Reading *seṭṭhattaṃ* (lit., “bestness”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *seṭṭhan taŋ*
 
-[^229]: *karetvā* (BJTS reads *karitvā*) *kāraṇā nānā*
+[^229]: *karetvā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *karitvā*) *kāraṇā nānā*
 
-[^230]: reading *dāruṇena damenti te* with BJTS for PTS *dārune na damenti te*, “they do not tame the cruel ones.”
+[^230]: reading *dāruṇena damenti te* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dārune na damenti te*, “they do not tame the cruel ones.”
 
-[^231]: reading *na h’evaṃ* with BJTS for PTS *na heva*
+[^231]: reading *na h’evaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *na heva*
 
 [^232]: *adaṇḍena*
 
@@ -955,9 +954,9 @@ The legend of Sela Thera is finished.
 
 [^234]: *uttame dame*
 
-[^235]: reading *vaṇṇe kittento* with BJTS for PTS *vaṇṇaŋ kittento*, “praising the virtue”
+[^235]: reading *vaṇṇe kittento* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vaṇṇaŋ kittento*, “praising the virtue”
 
-[^236]: reading *ekapañhaṃ* with BJTS for PTS *ekapañhe*, “single questions”
+[^236]: reading *ekapañhaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ekapañhe*, “single questions”
 
 [^237]: *sārathinā*. *Sārathī*, coachman or charioteer, also connotes a trainer of horses, one who keeps the horses under control.
 
@@ -969,4 +968,4 @@ The legend of Sela Thera is finished.
 
 [^241]: *upadhikkhaye*, i.e., “in the destruction of the substratum of rebirth,.” *Upadhi* (clinging to rebirth, the reason for rebirth, the obstacle to nirvana) is classified in various lists of *upadhis* (plural), such as clinging, wrong views, defilements, karma, bad conduct, etc.
 
-[^242]: BJTS agrees with PTS here in presenting this variant on the standard refrain verse
+[^242]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agrees with <abbr title="Pali Text Society">PTS</abbr> here in presenting this variant on the standard refrain verse

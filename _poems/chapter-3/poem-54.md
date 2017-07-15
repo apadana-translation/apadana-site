@@ -1,7 +1,6 @@
 ---
 title: Gandhodaka
 order: 54
-layout: poem
 category: chapter-3
 ---
 
@@ -51,8 +50,8 @@ Thus indeed Venerable Gandhodakiya Thera spoke these verses.
 
 The legend of Gandhodaka Thera is finished.
 
-[^1]: “Scented Water.” BJTS spells the name Gandhodakiya; both BJTS and PTS give the latter spelling in the colophon
+[^1]: “Scented Water.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spells the name Gandhodakiya; both <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> give the latter spelling in the colophon
 
 [^2]: lit., “a large sound”
 
-[^3]: reading *ahum* (BJTS) for *ahu* (“there was,” PTS)
+[^3]: reading *ahum* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *ahu* (“there was,” <abbr title="Pali Text Society">PTS</abbr>)

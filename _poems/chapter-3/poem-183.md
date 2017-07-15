@@ -1,7 +1,6 @@
 ---
 title: Koṭumbariya
 order: 183
-layout: poem
 category: chapter-3
 ---
 
@@ -40,20 +39,20 @@ Thus indeed Venerable Koṭumbariya[^8] Thera spoke these verses.
 
 The legend of Koṭumbariya[^9] Thera is finished.
 
-[^1]: *koṭumbariya* is a kind of cloth; the name would mean “\[That Kind of Cloth\]-er”. This spelling follows BJTS; PTS gives *Kotumbariya*.
+[^1]: *koṭumbariya* is a kind of cloth; the name would mean “\[That Kind of Cloth\]-er”. This spelling follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>; <abbr title="Pali Text Society">PTS</abbr> gives *Kotumbariya*.
 
 [^2]: *kaṇṇikāra*, *kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
 
-[^3]: reading *vitthataṃ* with BJTS for PTS *uddhataŋ* (“risen up”)
+[^3]: reading *vitthataṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *uddhataŋ* (“risen up”)
 
-[^4]: reading *pūjitaṃ* with BJTS for PTS *paretaŋ* (“dead,” “oppressed”)
+[^4]: reading *pūjitaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *paretaŋ* (“dead,” “oppressed”)
 
 [^5]: *devasanghena*
 
 [^6]: lit., “a *koṭumbara*”
 
-[^7]: BJTS reads Mahānela, meaning = ?
+[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads Mahānela, meaning = ?
 
-[^8]: PTS reads Kotumbariya
+[^8]: <abbr title="Pali Text Society">PTS</abbr> reads Kotumbariya
 
-[^9]: PTS reads Kotumbariya
+[^9]: <abbr title="Pali Text Society">PTS</abbr> reads Kotumbariya

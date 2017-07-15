@@ -1,7 +1,6 @@
 ---
 title: Mahākaccāna
 order: 531
-layout: poem
 category: chapter-3
 ---
 
@@ -141,7 +140,7 @@ Thus indeed Venerable Mahāka<span class="diacritics" data-state="on">cc</span><
 
 The legend of Mahāka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “The Great Golden One” = Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āyana, a historical monk, one of the chief followers of the Buddha. See DPPN II: 468ff. Cf. also \#33, above, another *apadāna* with varying details which is ascribed to this famous monk.
 
@@ -153,9 +152,9 @@ The legend of Mahāka<span class="diacritics" data-state="on">cc</span><span cla
 
 [^6]: *sasaṅkavimalānano*
 
-[^7]: *kanakā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alasaṅkāso*, following BJTS Sinhala gloss *kanakaparvatayak men babalannā*
+[^7]: *kanakā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alasaṅkāso*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *kanakaparvatayak men babalannā*
 
-[^8]: reading *ravi-ditti-samappabho* with BJTS for PTS *ravidittihiruppabho* (“with Sunlight like the Sun when it’s Blazing”)
+[^8]: reading *ravi-ditti-samappabho* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ravidittihiruppabho* (“with Sunlight like the Sun when it’s Blazing”)
 
 [^9]: *sattanettamanohārī*
 
@@ -171,7 +170,7 @@ The legend of Mahāka<span class="diacritics" data-state="on">cc</span><span cla
 
 [^15]: *madhurassaro*
 
-[^16]: *karuṇāniḍḍhasantāno*. BJTS reads *karuṇānibaddhasantāno* (“Continuously Fixed on \[stable, bound down to\] Compassion”), and notes alt. reading *°nibandha* for *niḍḍha*, as does PTS; BJTS Sinh.gloss *karuṇāven bändunu sit attā vū* (“being one whose mind/heart is bound to compassion”). However, the extra syllable in these readings breaks the meter, and PTS alts. also include other attempts at making sense of *niḍḍha* (or *niddha* ?) in the received Pāli. *Niḍḍha* (nest, seat, abode, from *ni* + *sad*, “seat”) not only works best in terms of meter, it also brings out a bird-related reading of the entire birth, likening the Buddha to a song-bird.
+[^16]: *karuṇāniḍḍhasantāno*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *karuṇānibaddhasantāno* (“Continuously Fixed on \[stable, bound down to\] Compassion”), and notes alt. reading *°nibandha* for *niḍḍha*, as does <abbr title="Pali Text Society">PTS</abbr>; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh.gloss *karuṇāven bändunu sit attā vū* (“being one whose mind/heart is bound to compassion”). However, the extra syllable in these readings breaks the meter, and <abbr title="Pali Text Society">PTS</abbr> alts. also include other attempts at making sense of *niḍḍha* (or *niddha* ?) in the received Pāli. *Niḍḍha* (nest, seat, abode, from *ni* + *sad*, “seat”) not only works best in terms of meter, it also brings out a bird-related reading of the entire birth, likening the Buddha to a song-bird.
 
 [^17]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atusa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>upasaṅhitaŋ*
 
@@ -197,7 +196,7 @@ The legend of Mahāka<span class="diacritics" data-state="on">cc</span><span cla
 
 [^28]: *isivaraŋ*, lit., “excellent sage”
 
-[^29]: lit., “fat-shoulders”. BJTS reads *pīṇ°* but understands the adjective in the same way: “having shoulders whihc are full (covered with meat)
+[^29]: lit., “fat-shoulders”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pīṇ°* but understands the adjective in the same way: “having shoulders whihc are full (covered with meat)
 
 [^30]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alaŋ*
 
@@ -209,7 +208,7 @@ The legend of Mahāka<span class="diacritics" data-state="on">cc</span><span cla
 
 [^34]: *amatāsittasannibhaŋ*
 
-[^35]: here BJTS uses \[5673\] to number two verses
+[^35]: here <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> uses \[5673\] to number two verses
 
 [^36]: *adhippāyavidū*
 
@@ -217,11 +216,11 @@ The legend of Mahāka<span class="diacritics" data-state="on">cc</span><span cla
 
 [^38]: *ujjeniye pure*
 
-[^39]: BJTS reads *tiriṭava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chassa*
+[^39]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *tiriṭava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chassa*
 
 [^40]: *purohitadijā°*
 
-[^41]: “Fierce Luster.” BJTS Sinh. gloss Sanskritizes the name as “<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṇḍapradyota”
+[^41]: “Fierce Luster.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss Sanskritizes the name as “<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṇḍapradyota”
 
 [^42]: “Sandalwood \[and\] Pink Lotus”
 

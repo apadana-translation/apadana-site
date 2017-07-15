@@ -1,7 +1,6 @@
 ---
 title: Cankamadāyaka
 order: 48
-layout: poem
 category: chapter-3
 ---
 

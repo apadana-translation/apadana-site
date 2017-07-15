@@ -1,7 +1,6 @@
 ---
 title: Pubbaṅgamaniya
 order: 290
-layout: poem
 category: chapter-3
 ---
 

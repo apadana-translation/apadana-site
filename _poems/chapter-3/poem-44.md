@@ -1,7 +1,6 @@
 ---
 title: Sannidhāpaka
 order: 44
-layout: poem
 category: chapter-3
 ---
 
@@ -46,20 +45,20 @@ Thus indeed Venerable Sannidhāpaka[^8] Thera spoke these verses.
 
 The legend of Sannidhāpaka[^9] Thera is finished.
 
-[^1]: “Putter-Down;” BJTS, cty read *Sanniṭṭhāpaka*, “Readier” “Preparer”
+[^1]: “Putter-Down;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty read *Sanniṭṭhāpaka*, “Readier” “Preparer”
 
 [^2]: *yasena ayasena <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., "with glory as with dishonor”
 
 [^3]: lit “with a hundred thousand who had the power to subdue others (*vasī*),” namely arahants
 
-[^4]: *āmaṇḍaṃ*, which PSI defines as “a kind of plant, *Palma Christi*,” Sinhala *eraṇḍu*. The latter (also *ēraṇḍu*, Pāli *eraṇḍa*) = *datti*, croton, i.e., (see Cone, s.v.) the castor oil plant (Ricinus communis, the seeds of which are used to make an oil). BJTS gloss on this verse gives *kaekiri*, which is something like a cucumber (genera Cucumis), which I suspect is wrong, but the main point is clear, that the hermit gave the Buddha something to eat, presumably whatever fruit he himself was used to eating.
+[^4]: *āmaṇḍaṃ*, which PSI defines as “a kind of plant, *Palma Christi*,” Sinhala *eraṇḍu*. The latter (also *ēraṇḍu*, Pāli *eraṇḍa*) = *datti*, croton, i.e., (see Cone, s.v.) the castor oil plant (Ricinus communis, the seeds of which are used to make an oil). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss on this verse gives *kaekiri*, which is something like a cucumber (genera Cucumis), which I suspect is wrong, but the main point is clear, that the hermit gave the Buddha something to eat, presumably whatever fruit he himself was used to eating.
 
-[^5]: see previous note; some kind of food, BJTS gloss is *käkiri*
+[^5]: see previous note; some kind of food, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss is *käkiri*
 
 [^6]: “Enemy-Tamer”
 
 [^7]: text misreads as \[1789\]
 
-[^8]: BJTS reads *Sanniṭṭhāpaka*
+[^8]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Sanniṭṭhāpaka*
 
-[^9]: BJTS reads *Sanniṭṭhāpaka*
+[^9]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Sanniṭṭhāpaka*

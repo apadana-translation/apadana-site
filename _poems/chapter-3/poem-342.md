@@ -1,7 +1,6 @@
 ---
 title: Tīṇuppalamāliya
 order: 342
-layout: poem
 category: chapter-3
 ---
 
@@ -56,14 +55,14 @@ Thus indeed Venerable Tīṇuppalamāliya Thera spoke these verses.
 
 The legend of Tīṇuppalamāliya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Three Blue Lotus-er” or “Three Waterlily-er”. BJTS reads *Tiuppalamāliya*
+[^2]: “Three Blue Lotus-er” or “Three Waterlily-er”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Tiuppalamāliya*
 
 [^3]: *vānara*. This is the elegant grey langur (Sinh. *vandurā*) as opposed to the cruder rhesus monkey (Sinh. *rilavā*)
 
 [^4]: *lakkhaṇavyañjanûpetaŋ*, i.e., the thirty-two primary marks and eighty lesser or minor marks that adorn the body of a great man (*mahāpurusa*) who is destined to be either a wheel-turning monarch or a Buddha.
 
-[^5]: taking *paṭikuṭiko* (BJTS reads *pati°*) as fr. *paṭikuṭati* “to crouch,” “to bend over” (as does apparently BJTS, glossing the term *häkiḷī* = *vakuṭu vu*). This may mean that he went off still bowing in reverence, or else that he went off on all fours.
+[^5]: taking *paṭikuṭiko* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pati°*) as fr. *paṭikuṭati* “to crouch,” “to bend over” (as does apparently <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, glossing the term *häkiḷī* = *vakuṭu vu*). This may mean that he went off still bowing in reverence, or else that he went off on all fours.
 
 [^6]: note that this oft-repeated foot has not been modified to indicate that he discarded a simian body, not a human one.

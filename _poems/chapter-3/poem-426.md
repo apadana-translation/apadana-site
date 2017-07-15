@@ -1,7 +1,6 @@
 ---
 title: Ghatamaṇḍadāyaka
 order: 426
-layout: poem
 category: chapter-3
 ---
 
@@ -60,7 +59,7 @@ Thus indeed Venerable Ghatamaṇḍadāyaka Thera spoke these verses.
 
 The legend of Ghatamaṇḍadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Cream-of-Ghee Donor.” This *apadāna* is repeated verbatim below, with the same name, as \#493 {496}.
 
@@ -70,11 +69,11 @@ The legend of Ghatamaṇḍadāyaka Thera is finished.
 
 [^5]: *ghata* (cream, scum) + *maṇḍa* (clarified butter, ghee), i.e., the best part of the ghee, the purest oil skimmed off the top of a pot of ghee.
 
-[^6]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^6]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
 [^7]: *katattā ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itattā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., “because of the doing, and because of the heaping up \[of that karma\]”
 
-[^8]: This is the BJTS spelling; PTS gives *Bhāgīrasī*
+[^8]: This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling; <abbr title="Pali Text Society">PTS</abbr> gives *Bhāgīrasī*
 
 [^9]: *bhavate madhusakkarā*
 
@@ -82,4 +81,4 @@ The legend of Ghatamaṇḍadāyaka Thera is finished.
 
 [^11]: *bhavanti*, become
 
-[^12]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^12]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.

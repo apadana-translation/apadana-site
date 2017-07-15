@@ -1,7 +1,6 @@
 ---
 title: Sīhāsanadāyaka
 order: 175
-layout: poem
 category: chapter-3
 ---
 

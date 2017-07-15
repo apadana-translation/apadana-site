@@ -1,7 +1,6 @@
 ---
 title: Tīṇikiṅkhanipupphiya
 order: 491
-layout: poem
 category: chapter-3
 ---
 
@@ -48,16 +47,16 @@ Thus indeed Venerable Tīṇikiṅkhanipupphiya[^6] Thera spoke these verses.
 
 The legend of Tīṇikiṅkhanipupphiya[^7] Thera is finished.
 
-[^1]: BJTS reads *Tikiṅkaṇipupphiya*
+[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Tikiṅkaṇipupphiya*
 
-[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^3]: “Three *kiṅkhani* Flower-er.” BJTS reads *Tikiṅkaṇipupphiya*. Cf. *\#498*, ascribed to a monk with the same name
+[^3]: “Three *kiṅkhani* Flower-er.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Tikiṅkaṇipupphiya*. Cf. *\#498*, ascribed to a monk with the same name
 
-[^4]: BJTS reads *kiṅkaṇi°*
+[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kiṅkaṇi°*
 
 [^5]: lit., “done *pūjā*”
 
-[^6]: “ BJTS reads *Tikiṅkaṇipupphiya*.
+[^6]: “ <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Tikiṅkaṇipupphiya*.
 
-[^7]: BJTS reads *Tikiṅkaṇipupphiya*.
+[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Tikiṅkaṇipupphiya*.

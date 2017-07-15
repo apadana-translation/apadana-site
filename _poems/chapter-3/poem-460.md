@@ -1,7 +1,6 @@
 ---
 title: Gandhapūjaka
 order: 460
-layout: poem
 category: chapter-3
 ---
 
@@ -49,7 +48,7 @@ which are counted by those who know.
 
 The Jagatidāyaka Chapter, the Forty-Sixth
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Scent-Offerer”
 
@@ -59,6 +58,6 @@ The Jagatidāyaka Chapter, the Forty-Sixth
 
 [^5]: lit., “dong *pūjā*”
 
-[^6]: BJTS omits *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*
 
-[^7]: PTS reads *Sattipaṇṇī*
+[^7]: <abbr title="Pali Text Society">PTS</abbr> reads *Sattipaṇṇī*

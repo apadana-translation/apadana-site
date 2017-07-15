@@ -1,7 +1,6 @@
 ---
 title: Puṇṇaka
 order: 402
-layout: poem
 category: chapter-3
 ---
 
@@ -90,7 +89,7 @@ Thus indeed Venerable Puṇṇaka Thera spoke these verses.
 
 The legend of Puṇṇaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Full One,” a historical monk, to whom the *Puṇṇovāda Sutta* (M. iii. 267ff.;S. iv. 60 ff) was preached. Cty (p. 484) says he was the leader of an army of yakkhas, but I do not see that detail in the extant text.
 
@@ -100,9 +99,9 @@ The legend of Puṇṇaka Thera is finished.
 
 [^5]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^6]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
+[^6]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
 
-[^7]: reading *vyagghā* with BJTS for PTS *vālā* (= *vāḷā*, snakes?)
+[^7]: reading *vyagghā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vālā* (= *vāḷā*, snakes?)
 
 [^8]: *uppādaŋ taŋ…disvā*, lit., “after seeing that strange omen,” but the plural is obviously implied as three strange omens have been mentioned.
 
@@ -114,11 +113,11 @@ The legend of Puṇṇaka Thera is finished.
 
 [^12]: *yakkho*
 
-[^13]: BJTS reads *yaṃ* (“which”) for PTS (and BJTS alt.) *taŋ*
+[^13]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *yaṃ* (“which”) for <abbr title="Pali Text Society">PTS</abbr> (and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt.) *taŋ*
 
 [^14]: *puṇṇako*
 
-[^15]: *divyamayo* (BJTS and PTS alt. read *dibbamayo*) *gandho*
+[^15]: *divyamayo* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt. read *dibbamayo*) *gandho*
 
 [^16]: *puṇṇako*
 

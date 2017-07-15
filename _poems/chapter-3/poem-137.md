@@ -1,7 +1,6 @@
 ---
 title: Atthasandassaka
 order: 137
-layout: poem
 category: chapter-3
 ---
 
@@ -53,13 +52,13 @@ The legend of Atthasandassaka Thera is finished.
 
 [^1]: “Instructor of the Meaning”
 
-[^2]: BJTS Sinhala gloss takes this as a flowering garden or grove, but I don’t find that usage of *māḷa* with the retroflex “l,” and cty gives no warrant for such a reading.
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss takes this as a flowering garden or grove, but I don’t find that usage of *māḷa* with the retroflex “l,” and cty gives no warrant for such a reading.
 
 [^3]: lit., “six special knowledges” (see Glossary).
 
 [^4]: *kevala* is a technical term for attainers of the supreme Jain goal, especially Jinas. Here it may be read as an adjective attached to “mine of gems,” but I suspect the polemical context would have been in the mind of the *Apadāna* compilers so I translate it as a separate epithet. Indeed, many of the epithets used of the Buddha (including “Buddha” itself, but also Great Hero, Great Sage, Victor \[= Jina\], etc.) were also used of the Jina, such that in ancient India one would have had to specify *which* Buddha or Jina was being referred to.
 
-[^5]: reading *dīpentaṃ* (BJTS) for *dīpenti* (“they explain,” PTS)
+[^5]: reading *dīpentaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *dīpenti* (“they explain,” <abbr title="Pali Text Society">PTS</abbr>)
 
 [^6]: lit., “having praised”. The verse does not contain a finite verb, only the gerund, but the latter is clearly to be understood as the former.
 

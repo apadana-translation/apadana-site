@@ -1,7 +1,6 @@
 ---
 title: Sīhāsanadāyaka
 order: 11
-layout: poem
 category: chapter-3
 ---
 
@@ -77,9 +76,9 @@ The legend of Sīhāsanadāyaka Thera is finished.
 
 [^2]: *pādapīṭha*
 
-[^3]: alternates including cty and BJTS read *satam* or *sata* (“one hundred”) for *satta* (“seven”) in PTS; in that reading the total number of virgins in that heavenly mansion would have been one hundred thousand.
+[^3]: alternates including cty and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> read *satam* or *sata* (“one hundred”) for *satta* (“seven”) in <abbr title="Pali Text Society">PTS</abbr>; in that reading the total number of virgins in that heavenly mansion would have been one hundred thousand.
 
-[^4]: *sivikā* = *siv geya* (dictionary), *doolā* (BJTS Sinhala gloss)
+[^4]: *sivikā* = *siv geya* (dictionary), *doolā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss)
 
 [^5]: “Lord,” = Indra, Śakra, king of the Vedic gods
 

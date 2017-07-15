@@ -1,7 +1,6 @@
 ---
 title: Udapānadāyaka
 order: 174
-layout: poem
 category: chapter-3
 ---
 

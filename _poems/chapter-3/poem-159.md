@@ -1,7 +1,6 @@
 ---
 title: Punnāgapupphiya
 order: 159
-layout: poem
 category: chapter-3
 ---
 

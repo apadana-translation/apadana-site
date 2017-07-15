@@ -1,7 +1,6 @@
 ---
 title: Tuvaradāyaka
 order: 241
-layout: poem
 category: chapter-3
 ---
 
@@ -32,8 +31,8 @@ The legend of Tuvaradāyaka Thera is finished.
 
 [^2]: *saṅghassa*
 
-[^3]: reading *bharitvā* with BJTS and cty (and PTS alternative) for PTS *haritvā*
+[^3]: reading *bharitvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and cty (and <abbr title="Pali Text Society">PTS</abbr> alternative) for <abbr title="Pali Text Society">PTS</abbr> *haritvā*
 
-[^4]: this reading follows the BJTS gloss, and also the cty, which explains: “having filled \[it\] with a handful of *tuvara*, like a small amount of *mung*, a little bit of *tuvara*, I gave \[it\] in a vessel to the *saṅgha* which had entered/was living in the forest.” *Tuvara* (Sinh. *tōra*) is a tree whose seeds are boiled and eaten like lentils.
+[^4]: this reading follows the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss, and also the cty, which explains: “having filled \[it\] with a handful of *tuvara*, like a small amount of *mung*, a little bit of *tuvara*, I gave \[it\] in a vessel to the *saṅgha* which had entered/was living in the forest.” *Tuvara* (Sinh. *tōra*) is a tree whose seeds are boiled and eaten like lentils.
 
 [^5]: lit., “I gave \[it\]”

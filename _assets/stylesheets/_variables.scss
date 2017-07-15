@@ -26,11 +26,13 @@ $link-color: palette(highlight);
 // Skolar Sans added through Typekit
 
 $root-font-family: "Skolar PE", Georgia, serif;
-$root-font-size: 16px;
+$root-font-size: 14px;
 $root-line-height: 1.5;
 
+$medium-font-size: 16px;
+$x-large-font-size: 18px;
+
 $nav-font-size: 0.875rem;
-$large-font-size: 20px;
 
 // ===================================
 // Links
@@ -47,7 +49,8 @@ $header-height: 3.5rem;
 // ===================================
 // Breakpoints
 // ===================================
-$medium: 44rem;
-$medium-large: 55rem;
-$large: 70rem;
+$medium: 44em;
+$medium-large: 55em;
+$large: 70em;
+$x-large: 80em;
 $small-only: 0 $medium;

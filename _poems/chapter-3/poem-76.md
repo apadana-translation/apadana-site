@@ -1,7 +1,6 @@
 ---
 title: Tiṇasanthāradāyaka
 order: 76
-layout: poem
 category: chapter-3
 ---
 
@@ -55,7 +54,7 @@ The legend of Tiṇasanthāradāyaka Thera is finished.
 
 [^2]: *lokanāyakaŋ*
 
-[^3]: taking *paṭikuṭiko* (BJTS reads *pati°*) as fr. *paṭikuṭati* “to crouch,” “to bend over” (as does apparently BJTS, glossing the term *häkiḷī* = *vakuṭu vu*). This may mean that he went off still bowing in reverence, or else that he went off on all fours.
+[^3]: taking *paṭikuṭiko* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pati°*) as fr. *paṭikuṭati* “to crouch,” “to bend over” (as does apparently <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, glossing the term *häkiḷī* = *vakuṭu vu*). This may mean that he went off still bowing in reverence, or else that he went off on all fours.
 
 [^4]: Nirmāṇarati is a heaven wherein, as its name implies, one delights in form.
 
@@ -63,4 +62,4 @@ The legend of Tiṇasanthāradāyaka Thera is finished.
 
 [^6]: “Same as a Wild Animal” (especially a deer, antelope, gazelle)
 
-[^7]: PTS accepts this inconsistent reading even though one of its alts., like BJTS, give the name here as expected (Tiṇasanthāradāyaka)
+[^7]: <abbr title="Pali Text Society">PTS</abbr> accepts this inconsistent reading even though one of its alts., like <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, give the name here as expected (Tiṇasanthāradāyaka)

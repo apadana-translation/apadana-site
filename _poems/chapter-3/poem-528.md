@@ -1,7 +1,6 @@
 ---
 title: Bodhisammajjaka
 order: 528
-layout: poem
 category: chapter-3
 ---
 
@@ -141,7 +140,7 @@ Thus indeed Venerable Bodhisammajjaka Thera spoke these verses.
 
 The legend of Bodhisammajjaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Bodhi \[Tree\] Sweeper”
 
@@ -149,13 +148,13 @@ The legend of Bodhisammajjaka Thera is finished.
 
 [^4]: *uttattakanakūpamo*, lit., “in a simile to molten gold”
 
-[^5]: lit., “in” or “when”, following BJTS gloss “through the merit of…”
+[^5]: lit., “in” or “when”, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss “through the merit of…”
 
-[^6]: reading *siniddha* (which has a wide range of meanings that could refer to beautiful skin, depending on the standard for or imagination of beauty: wet, moist, oily, greasy, fatty. smooth, glossy, resplendent, charming, pliable) with BJTS for PTs *niddhā* (?)
+[^6]: reading *siniddha* (which has a wide range of meanings that could refer to beautiful skin, depending on the standard for or imagination of beauty: wet, moist, oily, greasy, fatty. smooth, glossy, resplendent, charming, pliable) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for PTs *niddhā* (?)
 
-[^7]: BJTS reads *sukumārikā* (“like a very young girl’s) for PTS *sukumārakā*
+[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *sukumārikā* (“like a very young girl’s) for <abbr title="Pali Text Society">PTS</abbr> *sukumārakā*
 
-[^8]: reading *yato kuto<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i gatisu* with BJTS for PTS *yato kuto <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, and following BJTS Sinhala gloss *yamkisi gatiyaka*
+[^8]: reading *yato kuto<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i gatisu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *yato kuto <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, and following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *yamkisi gatiyaka*
 
 [^9]: lit., “dirt and dust are not smeared \[on me\]”
 
@@ -197,7 +196,7 @@ The legend of Bodhisammajjaka Thera is finished.
 
 [^28]: *pasave*, lit., “who would produce” “who is begetting”
 
-[^29]: PTS omits this verse. BJTS reads *sabuddhamuddisitvāna*/*bodhiṃ vā tassa satthuno*/*yo puññaṃ pasave poso*/*tassa kiṃ nāma dullabhaṃ*//
+[^29]: <abbr title="Pali Text Society">PTS</abbr> omits this verse. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *sabuddhamuddisitvāna*/*bodhiṃ vā tassa satthuno*/*yo puññaṃ pasave poso*/*tassa kiṃ nāma dullabhaṃ*//
 
 [^30]: lit., “leaf”
 

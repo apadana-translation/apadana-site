@@ -1,7 +1,6 @@
 ---
 title: Kaṇikāracchadaniya
 order: 165
-layout: poem
 category: chapter-3
 ---
 

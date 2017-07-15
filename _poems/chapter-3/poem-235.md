@@ -1,7 +1,6 @@
 ---
 title: Vediyadāyaka
 order: 235
-layout: poem
 category: chapter-3
 ---
 

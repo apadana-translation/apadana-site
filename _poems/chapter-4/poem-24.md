@@ -1,7 +1,6 @@
 ---
 title: Sakulā
 order: 24
-layout: poem
 category: chapter-4
 ---
 
@@ -233,7 +232,7 @@ The legend of Sakulā Therī is finished.
 
 [^24]: *dhammapadīpadānānaŋ phalaŋ*
 
-[^25]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
+[^25]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “Named Kassapa according to his Lineage (*gottena*)”
 
 [^26]: *°mattakaŋ*, lit., “a measure of”
 
@@ -245,6 +244,6 @@ The legend of Sakulā Therī is finished.
 
 [^30]: *satthu sāsanakārikā*, lit., “\[I am\] a doer of the Teacher’s dispensation”
 
-[^31]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I became”)
+[^31]: reading *amhi* (“I am”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *āsiŋ* (“I was” “I became”)
 
 [^32]: *naruttamo*

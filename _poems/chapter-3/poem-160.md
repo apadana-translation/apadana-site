@@ -1,7 +1,6 @@
 ---
 title: Kumudadāyaka
 order: 160
-layout: poem
 category: chapter-3
 ---
 

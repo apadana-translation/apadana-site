@@ -1,7 +1,6 @@
 ---
 title: Vidhūpanadāyaka
 order: 51
-layout: poem
 category: chapter-3
 ---
 

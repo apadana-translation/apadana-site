@@ -1,7 +1,6 @@
 ---
 title: Yāgudāyaka
 order: 418
-layout: poem
 category: chapter-3
 ---
 
@@ -116,13 +115,13 @@ Thus indeed Venerable Yāgudāyaka Thera spoke these verses.
 
 The legend of Yāgudāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Gruel Donor”
 
-[^3]: *atithiŋ me gahetvā*, lit., “taking \[someone who was\] a stranger to me” or “taking a stranger with me.” Cone, s.v., reads this usage of *atithiŋ* within the common meaning of that term, “stranger” or “newcomer,” and I follow suit. BJTS says an *atithi* is some sort of “instrument for the road,” presumably a type of vehicle, or a walking stick, or what have you; that would result in a translation like “taking my *aitithi*, I…” As becomes clear below (v. 11; \[4426\]), the protagonist is a merchant, traveling for the purpose of trade. Thus *atithi* might also refer to the merchandise he takes to sell or exchange.
+[^3]: *atithiŋ me gahetvā*, lit., “taking \[someone who was\] a stranger to me” or “taking a stranger with me.” Cone, s.v., reads this usage of *atithiŋ* within the common meaning of that term, “stranger” or “newcomer,” and I follow suit. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> says an *atithi* is some sort of “instrument for the road,” presumably a type of vehicle, or a walking stick, or what have you; that would result in a translation like “taking my *aitithi*, I…” As becomes clear below (v. 11; \[4426\]), the protagonist is a merchant, traveling for the purpose of trade. Thus *atithi* might also refer to the merchandise he takes to sell or exchange.
 
-[^4]: reading *aga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiṃ* with BJTS for PTS *āga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiŋ*, “I came”
+[^4]: reading *aga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *āga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiŋ*, “I came”
 
 [^5]: *saṅghārāmam upāgamiŋ*, lit., “I approached a residence \[or “garden”\] for the Sangha \[or “assembly of monks”\]”
 
@@ -132,11 +131,11 @@ The legend of Yāgudāyaka Thera is finished.
 
 [^8]: *jhāyino*
 
-[^9]: reading *lūkha°* with BJTS for PTS *lukha°*
+[^9]: reading *lūkha°* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *lukha°*
 
 [^10]: *gatī*, i.e., liability for rebirth
 
-[^11]: *oruddhanadikā yadi*. BJTS reads *oruddhanadikāya hi*, “because of the river obstructing \[them\]”
+[^11]: *oruddhanadikā yadi*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *oruddhanadikāya hi*, “because of the river obstructing \[them\]”
 
 [^12]: *vedajāto*
 
@@ -160,9 +159,9 @@ The legend of Yāgudāyaka Thera is finished.
 
 [^22]: *kalebaraŋ*, “body,” especially “dead body”.
 
-[^23]: reading *pure sikkhāpadā dānā* with BJTS for PTS *pure sikkhāpadādāne*; lit., “before the training rules were given”
+[^23]: reading *pure sikkhāpadā dānā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pure sikkhāpadādāne*; lit., “before the training rules were given”
 
-[^24]: reading *vāṇijjaṃ* (trade, trading, i.e., his work as a traveling merchant) with BJTS for PTS *vānijjaŋ*
+[^24]: reading *vāṇijjaṃ* (trade, trading, i.e., his work as a traveling merchant) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vānijjaŋ*
 
 [^25]: or, “was a very good business” or “was well-directed:” *suppayojitaŋ*
 
@@ -172,6 +171,6 @@ The legend of Yāgudāyaka Thera is finished.
 
 [^28]: *bhavā ugghāṭitā mayā*, lit., “rebirths have been eliminated by me”
 
-[^29]: this verse does not appear in BJTS
+[^29]: this verse does not appear in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 
-[^30]: this verse does not appear in BJTS
+[^30]: this verse does not appear in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>

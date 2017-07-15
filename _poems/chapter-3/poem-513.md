@@ -1,7 +1,6 @@
 ---
 title: Kosumbhaphaliya
 order: 513
-layout: poem
 category: chapter-3
 ---
 
@@ -36,12 +35,12 @@ Thus indeed Venerable Kosumbhaphaliya[^4] Thera spoke these verses.
 
 The legend of Kosumbhaphaliya[^5] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “*Kosumba* (PTS *Kosumba°*) Fruit-er”. PTS gets the spelling right in v. 1.
+[^2]: “*Kosumba* (<abbr title="Pali Text Society">PTS</abbr> *Kosumba°*) Fruit-er”. <abbr title="Pali Text Society">PTS</abbr> gets the spelling right in v. 1.
 
-[^3]: *kosumbhaŋ*, also spelt *kosambhā*, - (acc. to BJTS Sinh. gloss on \[3762\]) Sinh. *kohomba*, neem or margosa tree, Azadirachta indica, though Cone says “a kind of shrub or plant”
+[^3]: *kosumbhaŋ*, also spelt *kosambhā*, - (acc. to <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss on \[3762\]) Sinh. *kohomba*, neem or margosa tree, Azadirachta indica, though Cone says “a kind of shrub or plant”
 
-[^4]: PTS reads *Kosumba°*
+[^4]: <abbr title="Pali Text Society">PTS</abbr> reads *Kosumba°*
 
-[^5]: PTS reads *Kosumba°*
+[^5]: <abbr title="Pali Text Society">PTS</abbr> reads *Kosumba°*

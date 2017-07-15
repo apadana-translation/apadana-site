@@ -1,7 +1,6 @@
 ---
 title: Bhisadāyaka
 order: 65
-layout: poem
 category: chapter-3
 ---
 
@@ -48,9 +47,9 @@ The legend of Bhisadāyaka Thera is finished.
 
 [^1]: “Lotus-root Donor”
 
-[^2]: this follows BJTS Sinhala gloss and the cty, which explains that Vessabhu was born in that aeon \[thirty-one aeons ago\] after Vipassi and then Sikhi
+[^2]: this follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss and the cty, which explains that Vessabhu was born in that aeon \[thirty-one aeons ago\] after Vipassi and then Sikhi
 
-[^3]: reading *ogayha* (BJTS) for *oggayha* (PTS). Cty also reads *oggayha*, but glosses it with the proper gerund (*ogahetvā*), which it clarifies to mean “he entered” (*pāvisi*).
+[^3]: reading *ogayha* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *oggayha* (<abbr title="Pali Text Society">PTS</abbr>). Cty also reads *oggayha*, but glosses it with the proper gerund (*ogahetvā*), which it clarifies to mean “he entered” (*pāvisi*).
 
 [^4]: *bhisa* refers to the lotus root or “potato” (Sinh. *ala*) found under the mud; *muḷāla* refers to the lotus “stem” (Sinh. *daṇḍu*, dictionary gives *däli*). The former is starchy and crunchy; the latter is like a green vegetable. Both are delicious staples of village diets to this day.
 

@@ -1,7 +1,6 @@
 ---
 title: Uruvelakassapa
 order: 538
-layout: poem
 category: chapter-3
 ---
 
@@ -230,7 +229,7 @@ Thus indeed Venerable Uruvelakassapa Thera spoke these verses.
 
 The legend of Uruvelakassapa Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Kassapa of Uruvela,” a historical monk famous for having the foremost place among monks with large retinues. See DPPN 1:432-434
 
@@ -252,7 +251,7 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^11]: *nirākulaŋ*
 
-[^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
+[^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
 [^13]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*
 
@@ -266,15 +265,15 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^18]: *mahājinaŋ*
 
-[^19]: following BJTS Sinh gloss in taking *mahatā parivārena* with *saha dānaŋ ahaŋ adaŋ* rather than with *mahāŋjina*, though the latter is also a possible reading.
+[^19]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh gloss in taking *mahatā parivārena* with *saha dānaŋ ahaŋ adaŋ* rather than with *mahāŋjina*, though the latter is also a possible reading.
 
-[^20]: *parisā mahatī hotu*, lit., “let there be \[to me\]”. This translation follows BJTS Sinhala gloss (*ē ē tanhi upadinnā vū maṭa mahat vū piris äti wēwā*, “let there be a large retinue for me being reborn in this and that place” ), but the construction is elastic enough to allow for other readings that would better emphasize the “sociokarmic” dimension here, that is, that an entire group of people both make and experience this karma, e.g., “let this retinue be great as \[it\] transmigrates here and there” or even “let this be a great retinue transmigrating here and there”.
+[^20]: *parisā mahatī hotu*, lit., “let there be \[to me\]”. This translation follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss (*ē ē tanhi upadinnā vū maṭa mahat vū piris äti wēwā*, “let there be a large retinue for me being reborn in this and that place” ), but the construction is elastic enough to allow for other readings that would better emphasize the “sociokarmic” dimension here, that is, that an entire group of people both make and experience this karma, e.g., “let this retinue be great as \[it\] transmigrates here and there” or even “let this be a great retinue transmigrating here and there”.
 
 [^21]: *karavīkarudo*, “he with the sound of a cuckoo”
 
 [^22]: *gajagajjitassusaro*
 
-[^23]: reading *saddhāvantaṃ guṇe mama* with BJTS for PTS *sandhāvantaguṇaŋ mamaŋ*
+[^23]: reading *saddhāvantaṃ guṇe mama* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sandhāvantaguṇaŋ mamaŋ*
 
 [^24]: *sīhaghosassa*, lit., “of the one who has a lion’s sound”
 
@@ -286,17 +285,17 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^28]: *vijaṭetvā mahājaṭaŋ*. *Jaṭa* literally means he braid of a “matted hair ascetic” or a tangle of tree branches (a thicket), but figuratively refers to the great tangle of desire. The verb, *vjaṭeti*, means “untangle” but has the connotation, as does the English equivalent, of explaining or unraveling.
 
-[^29]: reading *rājāpa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ā* (lit., “children of the king”) with BJTS for PTS *rājāma<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ā* (“royal ministers”)
+[^29]: reading *rājāpa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ā* (lit., “children of the king”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *rājāma<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ā* (“royal ministers”)
 
 [^30]: *vīraṅgarūpā*, lit., “with the appearance/form and limbs/body of a hero
 
-[^31]: reading *sodhetvā aṭavībalaṃ* with BJTS for PTS *sodhetvā avidhībalaŋ* (“cleaning up that army without a method”). BJTS understands this as a \[rebel\] army which is hiding in the forest; it could also be read to mean “army of forest people,” the so-called “tribals” on the borderlands of India.
+[^31]: reading *sodhetvā aṭavībalaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sodhetvā avidhībalaŋ* (“cleaning up that army without a method”). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> understands this as a \[rebel\] army which is hiding in the forest; it could also be read to mean “army of forest people,” the so-called “tribals” on the borderlands of India.
 
-[^32]: BJTS reads *vo* (pl) for PTS *te* (sing.), perhaps assuming a “royal we”?
+[^32]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *vo* (pl) for <abbr title="Pali Text Society">PTS</abbr> *te* (sing.), perhaps assuming a “royal we”?
 
 [^33]: *munivaraŋ*
 
-[^34]: reading *yajimha* with BJTS for PTS *adimha* (“we gave”)
+[^34]: reading *yajimha* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *adimha* (“we gave”)
 
 [^35]: *paṇītāni*
 
@@ -312,9 +311,9 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^41]: *santusitaŋ gatā*, lit., “gone to Tusitā”
 
-[^42]: reading *raṅge* with BJTS for PTS *laddho* (I received”)
+[^42]: reading *raṅge* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *laddho* (I received”)
 
-[^43]: reading *bhamanto* with BJTS for PTS *bhavanto* (“existing”)
+[^43]: reading *bhamanto* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *bhavanto* (“existing”)
 
 [^44]: the following story refers — quite obliquely — to the *Mahānāradakassapajātaka* (No. 544), told in the context of Uruvela Kassapa’s conversion. See DPPN II: 518-519. In the story, he is born as Aṅgati, king of Mithilā in Videha.
 
@@ -322,7 +321,7 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^46]: “Virtue.” In *Mahānāradakassapajātaka* he is depicted as preaching that there is no future life, and advocating that one therefore should indulge in only pleasures during the present one.
 
-[^47]: lit “gone into dependence on,” reading *°gatāsayo* with BJTS for PTS *hatāsayo*
+[^47]: lit “gone into dependence on,” reading *°gatāsayo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *hatāsayo*
 
 [^48]: In *Mahānāradakassapajātaka* he proceeds to spend two weeks in the palace, indulging himself.
 
@@ -334,14 +333,14 @@ The legend of Uruvelakassapa Thera is finished.
 
 [^52]: lit., “of the”
 
-[^53]: reading *dasakammapathāna* (gen.) with BJTS for PTS *dasakammapathena* (acc.); these are three ways of acting in body, four ways of acting in speech, and three ways of acting in mind, totaling ten.
+[^53]: reading *dasakammapathāna* (gen.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dasakammapathena* (acc.); these are three ways of acting in body, four ways of acting in speech, and three ways of acting in mind, totaling ten.
 
-[^54]: reading *phītāyaṃ* with BJTS for PTS *pi tāyaŋ*
+[^54]: reading *phītāyaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pi tāyaŋ*
 
 [^55]: or “clan”: *vippamahākule*
 
 [^56]: lit., “among the Jaṭilas, “matted-hair ascetics”
 
-[^57]: reading *uruvelakassapo iti* with BJTS for PTS *Uruvelāsu Kassapo* (“Kassapa among the Uruvelans”)
+[^57]: reading *uruvelakassapo iti* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Uruvelāsu Kassapo* (“Kassapa among the Uruvelans”)
 
 [^58]: the Nerañjarā River (*nadī*)

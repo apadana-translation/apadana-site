@@ -1,7 +1,6 @@
 ---
 title: Mahākappina
 order: 533
-layout: poem
 category: chapter-3
 ---
 
@@ -218,11 +217,11 @@ Thus indeed Venerable Mahākappina Thera spoke these verses.
 
 The legend of Mahākappina Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: A historical monk, foremost among those who instruct (admonish, teach) the monks *(bhikkhuovādakānaṃ*) (and the nuns: see DPPN II:473-475, which uncharacteristically does not mention *Apadāna*).
 
-[^3]: reading *jagadākāse* with BJTS (and PTS alt.) for PTS *jaladākāse* (“in the space of a rain-cloud”)
+[^3]: reading *jagadākāse* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *jaladākāse* (“in the space of a rain-cloud”)
 
 [^4]: see Cone s.v. for *khajjota-ābhā*
 
@@ -242,49 +241,49 @@ The legend of Mahākappina Thera is finished.
 
 [^12]: *sumano*
 
-[^13]: reading BJTS *tadāhāsi mahābhāgo haṃsadundubhisussaro* with BJTS for PTS’ garbled *tadā haŋsasamābhāgo haŋsadundubhinīva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>o*
+[^13]: reading <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *tadāhāsi mahābhāgo haṃsadundubhisussaro* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr>’ garbled *tadā haŋsasamābhāgo haŋsadundubhinīva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>o*
 
 [^14]: *°tanūruhaŋ*, see Buddhadatta *Pāli-Sinhala Akārādiya*, s.v.
 
-[^15]: PTS *jimuttavaṇṇaŋ*, BJTS *jīmūtavaṇṇaṃ*, read *jīmutavaṇṇaṃ* and see see Buddhadatta *Pāli-Sinhala Akārādiya*, *jīmuta*, s.v. BJTS Sinhala gloss concurs: *meghavarṇa vū*
+[^15]: <abbr title="Pali Text Society">PTS</abbr> *jimuttavaṇṇaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *jīmūtavaṇṇaṃ*, read *jīmutavaṇṇaṃ* and see see Buddhadatta *Pāli-Sinhala Akārādiya*, *jīmuta*, s.v. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss concurs: *meghavarṇa vū*
 
-[^16]: lit., “fat-shoulders”. BJTS reads *pīṇ°* but understands the adjective in the same way: “having shoulders whihc are full (covered with meat)
+[^16]: lit., “fat-shoulders”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pīṇ°* but understands the adjective in the same way: “having shoulders whihc are full (covered with meat)
 
 [^17]: *muditāya*, “with disinterested love”
 
 [^18]: *katāvino*, i.e., arahant.
 
-[^19]: reading *piṇḍapātena* with BJTS (and PTS alt.) for PTS *paṇipātena* (“because of this prostration” “because of this adoration”)
+[^19]: reading *piṇḍapātena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *paṇipātena* (“because of this prostration” “because of this adoration”)
 
-[^20]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etanāpaṇidhīhi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with BJTS (and this is a recurring foot throughout *Apadāna*) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āgena paṇidhīhi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“with generosity and resolve”)
+[^20]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etanāpaṇidhīhi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and this is a recurring foot throughout *Apadāna*) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āgena paṇidhīhi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“with generosity and resolve”)
 
 [^21]: or “he won’t be reborn in a bad rebirth” (*n’upapajjati duggatiŋ*)
 
-[^22]: PTS *sobhāgyaŋ*, BJTS *sobhaggaṃ*
+[^22]: <abbr title="Pali Text Society">PTS</abbr> *sobhāgyaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *sobhaggaṃ*
 
 [^23]: i.e., through the remainder of the good karma
 
-[^24]: *sutaso anusāsiya*, following cty (p. 504: “the meaning is: having commanded righteously with equal words and on the basis of reasons”). BJTS reads *sataso* and takes it (in the gloss) as *siyavarak* (“a hundred times”) though it also includes the commentarial gloss “righteously and slowly” (*dähämin semin*)
+[^24]: *sutaso anusāsiya*, following cty (p. 504: “the meaning is: having commanded righteously with equal words and on the basis of reasons”). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *sataso* and takes it (in the gloss) as *siyavarak* (“a hundred times”) though it also includes the commentarial gloss “righteously and slowly” (*dähämin semin*)
 
-[^25]: *jāto keniyajātiyā*. Malalasekera takes this as a mistake for *koliyajātiyā* (in a Koiiyan clan), the corresponding reading in ThagA, but cty. explains the term as *tantavāyajātiyā pesakārakūla* (“in a weaver’s cast, a clan of servants”); BJTS Sinh. gloss and Cone, s.v., adopt the latter reading, though PTS apparently treats this as a proper name (perhaps recalling the use of this as a proper name in \#389 {392}, v. 26 \[3607\] et passim). The context suggests that in this birth he was a king, so this would be an instance of lower caste kingship if the cty. reading is accepted.
+[^25]: *jāto keniyajātiyā*. Malalasekera takes this as a mistake for *koliyajātiyā* (in a Koiiyan clan), the corresponding reading in ThagA, but cty. explains the term as *tantavāyajātiyā pesakārakūla* (“in a weaver’s cast, a clan of servants”); <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss and Cone, s.v., adopt the latter reading, though <abbr title="Pali Text Society">PTS</abbr> apparently treats this as a proper name (perhaps recalling the use of this as a proper name in \#389 {392}, v. 26 \[3607\] et passim). The context suggests that in this birth he was a king, so this would be an instance of lower caste kingship if the cty. reading is accepted.
 
 [^26]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>apa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhānaŋ satāni*
 
-[^27]: reading *adamha* with BJTS for PTS *dammi*
+[^27]: reading *adamha* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dammi*
 
 [^28]: *tidasūpagā*, i.e the thirty-three gods, in Tāvatiṃsa heaven
 
-[^29]: reading *jātā* with BJTS for PTS *jāto* (“I was born”)
+[^29]: reading *jātā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *jāto* (“I was born”)
 
 [^30]: *mahārajjaŋ*, lit., “of overlordship,” “of powerful kingship” “of being a maharajah”
 
-[^31]: *apāpuṇiŋ*. BJTS reads *ahaṃ suṇiṃ*, “I heard”
+[^31]: *apāpuṇiŋ*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *ahaṃ suṇiṃ*, “I heard”
 
 [^32]: *asamo*
 
 [^33]: *ekapuggalo*
 
-[^34]: reading *pahāya* with BJTS for PTS *vihāya* (“having worked”)
+[^34]: reading *pahāya* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vihāya* (“having worked”)
 
 [^35]: *buddhamāmaka*, lit., “taking Buddha as ‘mine’”
 

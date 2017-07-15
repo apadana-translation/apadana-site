@@ -1,7 +1,6 @@
 ---
 title: Kumudamāliya
 order: 171
-layout: poem
 category: chapter-3
 ---
 
@@ -55,18 +54,18 @@ The legend of Kumudamāliya Thera is finished.
 
 [^1]: “White-Lotus-Garland-er”
 
-[^2]: BJTS Sinhala gloss takes this measure to be that of a chariot wheel (*riya-sak*), in which case they were very large lotuses indeed.
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss takes this measure to be that of a chariot wheel (*riya-sak*), in which case they were very large lotuses indeed.
 
-[^3]: reading *taṃ* (BJTS) for *ahaŋ* (“I,” PTS).
+[^3]: reading *taṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *ahaŋ* (“I,” <abbr title="Pali Text Society">PTS</abbr>).
 
-[^4]: I follow BJTS in reading *balino* for *phalino* (“of the one bearing fruit,” PTS), though neither *balī* nor *phalī* is one of the regular Buddha-epithets in *Apadāna*, so the choice is somewhat arbitrary: the Buddha might as well be “the Fruitful One” as “the Strong One”.
+[^4]: I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in reading *balino* for *phalino* (“of the one bearing fruit,” <abbr title="Pali Text Society">PTS</abbr>), though neither *balī* nor *phalī* is one of the regular Buddha-epithets in *Apadāna*, so the choice is somewhat arbitrary: the Buddha might as well be “the Fruitful One” as “the Strong One”.
 
-[^5]: *Samiti*, which BJTS Sinhala gloss takes to mean the Assembly of monks, i.e., the Buddha and his monastic followers
+[^5]: *Samiti*, which <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss takes to mean the Assembly of monks, i.e., the Buddha and his monastic followers
 
-[^6]: reading *samo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaṃ* (BJTS) for *saṅko<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaŋ* (PTS).
+[^6]: reading *samo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *saṅko<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaŋ* (<abbr title="Pali Text Society">PTS</abbr>).
 
-[^7]: reading *yāvatā himavantantā parisā sā tadā ahu* (BJTS) for *yāvatā himavantato yāva samantato ahu* (“as far as the ends of the Himalayas, on all sides there was,” PTS)
+[^7]: reading *yāvatā himavantantā parisā sā tadā ahu* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *yāvatā himavantato yāva samantato ahu* (“as far as the ends of the Himalayas, on all sides there was,” <abbr title="Pali Text Society">PTS</abbr>)
 
-[^8]: reading *tā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadanasampanno* ("endowed with a canopy \[on top of\] him”) with BJTS for PTS *agga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadanasampanno* (“with a canopy on top \[on top of him\]”)
+[^8]: reading *tā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadanasampanno* ("endowed with a canopy \[on top of\] him”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *agga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadanasampanno* (“with a canopy on top \[on top of him\]”)
 
 [^9]: “Thousand Chariots”.

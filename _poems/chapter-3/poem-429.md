@@ -1,7 +1,6 @@
 ---
 title: Sovaṇṇakiṅkhaniya
 order: 429
-layout: poem
 category: chapter-3
 ---
 
@@ -94,15 +93,15 @@ Thus indeed Venerable Sovaṇṇakiṅkhaniya Thera spoke these verses.
 
 The legend of Sovaṇṇakiṅkhaniya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Gold *Kiṅkhani* Flower-er.” BJTS spells the name “Soṇṇakiṅkhaṇiya”
+[^2]: “Gold *Kiṅkhani* Flower-er.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spells the name “Soṇṇakiṅkhaṇiya”
 
 [^3]: *tapokammaŋ apassito*.
 
-[^4]: *paramena*, “superior” “best.” BJTS Sinhala gloss: *däḍi*, “strong”
+[^4]: *paramena*, “superior” “best.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss: *däḍi*, “strong”
 
-[^5]: reading *udaggamānaso* (“thrilled mind”) with BJTS for PTS *uddaggamānaso* (“a mind on top of water”)
+[^5]: reading *udaggamānaso* (“thrilled mind”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *uddaggamānaso* (“a mind on top of water”)
 
 [^6]: or “face to face with”
 
@@ -110,13 +109,13 @@ The legend of Sovaṇṇakiṅkhaniya Thera is finished.
 
 [^8]: *samalaṇkatā*, lit., “well-ornamented,” “together with their ornaments,” “all decked out”
 
-[^9]: *bheriyo*, “kettle-drums,” BJTS Sinh. gloss *gäṭabera*
+[^9]: *bheriyo*, “kettle-drums,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *gäṭabera*
 
-[^10]: *paṇavāni*, “a kind of small drum or cymbal,” BJTS Sinh. gloss *paṇā* \[read *panā*\] *bera*
+[^10]: *paṇavāni*, “a kind of small drum or cymbal,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *paṇā* \[read *panā*\] *bera*
 
 [^11]: *deṇḍimā*, “a kind of kettle-drum”
 
-[^12]: *vaggu* \[BJTS *vagguṃ*\] *vadati dundubhi* (BJTS, “speaking beautifully the sound of drums”)
+[^12]: *vaggu* \[<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *vagguṃ*\] *vadati dundubhi* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, “speaking beautifully the sound of drums”)
 
 [^13]: see n. to \#1, v. 25 \[164\]. Or glossary?
 
@@ -128,4 +127,4 @@ The legend of Sovaṇṇakiṅkhaniya Thera is finished.
 
 [^17]: lit., “a lack…does not exist for me”
 
-[^18]: BJTS reads *°kiṅkhaṇi°*
+[^18]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *°kiṅkhaṇi°*

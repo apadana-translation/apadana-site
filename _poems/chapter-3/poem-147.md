@@ -1,7 +1,6 @@
 ---
 title: Maggadāyaka
 order: 147
-layout: poem
 category: chapter-3
 ---
 
@@ -38,7 +37,7 @@ The legend of Maggadāyaka Thera is finished.
 
 [^1]: “Road-Donor”
 
-[^2]: PTS has mistakenly made the “t”’s in the name retroflex; I follow BJTS in providing the correct spelling.
+[^2]: <abbr title="Pali Text Society">PTS</abbr> has mistakenly made the “t”’s in the name retroflex; I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in providing the correct spelling.
 
 [^3]: *kuddāla* is the particularly South Asian version of the hoe, Sinhala *udälla*.
 

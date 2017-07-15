@@ -1,7 +1,6 @@
 ---
 title: Ambapiṇḍiya
 order: 299
-layout: poem
 category: chapter-3
 ---
 

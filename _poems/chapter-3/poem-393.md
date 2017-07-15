@@ -1,7 +1,6 @@
 ---
 title: Sabbakittika
 order: 393
-layout: poem
 category: chapter-3
 ---
 
@@ -156,7 +155,7 @@ Thus indeed Venerable Sabbakittika Thera spoke these verses.
 
 The legend of Sabbakittika Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Every-Praiser”
 
@@ -172,17 +171,17 @@ The legend of Sabbakittika Thera is finished.
 
 [^8]: *chindantaŋ*, *sabbasaŋsayaŋ*, lit., “cutting off all doubt”
 
-[^9]: reading *gajjantaŋ* with BJTS for PTS *lasantaŋ*, “playing” or “sporting,” also “shining” or “sounding forth”
+[^9]: reading *gajjantaŋ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *lasantaŋ*, “playing” or “sporting,” also “shining” or “sounding forth”
 
 [^10]: I have translated (3d) = \[3679d\] as the first line of this poem: “I saw the Leader of the World”. Placing the verb at the end of the string of epithets works better in Pāli than it does in English, when presenting a string of descriptors as long as this one.
 
 [^11]: lit., “having taken,” *gahetvāna*
 
-[^12]: *apatthariŋ*. BJTS reads *avatthariṃ* (and cf. PTS alt. *avattari*), with the same meaning.
+[^12]: *apatthariŋ*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *avatthariṃ* (and cf. <abbr title="Pali Text Society">PTS</abbr> alt. *avattari*), with the same meaning.
 
-[^13]: i.e., the Buddha’s, following the BJTS SInhala gloss.
+[^13]: i.e., the Buddha’s, following the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> SInhala gloss.
 
-[^14]: reading *kāḷānusāriyaṃ* with BJTS for PTS *kāḷāṇusārikaŋ*. RD (s.v.) takes *Kāḷa* + *anusāriyaṃ* fr. *kala 1*, “black, (pol- ished?) Anusāri ("a kind of dark, fragrant sandal wood" Vin. Texts ii.51) Vin i.203; S iii.156=v.44= A v.22.” BJTS glosses the term as “black-vine (*kaḷuväl*, an odiferous back creeper often used for binding given its supple and strong texture) or aloe wood (*agil*).” Given the specification of “black” *(kāḷa°*) I take the latter reading, though underline that this is not a type of sandalwood in either event, and find perplexing that BJTS glosses both black-vine and aloe wood as “saffron-colored” (*kasāvat*). The protagonist presumably carries with him a paste made by grinding the wood, of whichever type (in modern South Asia it usually is indeed a variety of sandalwood), into a paste, which is kept on hand for this purpose, i.e., for smearing (on the forehead) of a person in order to bless him or her.
+[^14]: reading *kāḷānusāriyaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *kāḷāṇusārikaŋ*. RD (s.v.) takes *Kāḷa* + *anusāriyaṃ* fr. *kala 1*, “black, (pol- ished?) Anusāri ("a kind of dark, fragrant sandal wood" Vin. Texts ii.51) Vin i.203; S iii.156=v.44= A v.22.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses the term as “black-vine (*kaḷuväl*, an odiferous back creeper often used for binding given its supple and strong texture) or aloe wood (*agil*).” Given the specification of “black” *(kāḷa°*) I take the latter reading, though underline that this is not a type of sandalwood in either event, and find perplexing that <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses both black-vine and aloe wood as “saffron-colored” (*kasāvat*). The protagonist presumably carries with him a paste made by grinding the wood, of whichever type (in modern South Asia it usually is indeed a variety of sandalwood), into a paste, which is kept on hand for this purpose, i.e., for smearing (on the forehead) of a person in order to bless him or her.
 
 [^15]: *anulimpin*, “smeared on”
 
@@ -194,19 +193,19 @@ The legend of Sabbakittika Thera is finished.
 
 [^19]: *paratitthiye maddase*
 
-[^20]: reading *jitasaṅgamo* with BJTS for PTS *jitasaṅgame*. I following BJTS Sinhala gloss (*dinana lada saṅgrāma äti*, “he who has meetings where he wins”), which seems to take the Pāli as “he whose meetings result in defeating \[others\],” but could also mean, “He who has meetings with the defeated,” “he by whom meetings are defeated,” or, drawing on the “bull” imagery, “he who wins in sexual intercourse”
+[^20]: reading *jitasaṅgamo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *jitasaṅgame*. I following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss (*dinana lada saṅgrāma äti*, “he who has meetings where he wins”), which seems to take the Pāli as “he whose meetings result in defeating \[others\],” but could also mean, “He who has meetings with the defeated,” “he by whom meetings are defeated,” or, drawing on the “bull” imagery, “he who wins in sexual intercourse”
 
 [^21]: lit., “in just that way,” *tath’ eva*, a filler which translated literally does not add to the clarity of the metaphor.
 
-[^22]: BJTS reads *°jālena*, (instr.) “by a net,” but I think the PTS reading *°jāle* (loc.) makes better grammatical sense here, the first two feet forming an extended locative absolute construction.
+[^22]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *°jālena*, (instr.) “by a net,” but I think the <abbr title="Pali Text Society">PTS</abbr> reading *°jāle* (loc.) makes better grammatical sense here, the first two feet forming an extended locative absolute construction.
 
-[^23]: *sampatānite*, glossed by BJTS as *atuḷa kalhi*, “when it has been spread”
+[^23]: *sampatānite*, glossed by <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> as *atuḷa kalhi*, “when it has been spread”
 
-[^24]: lit., “living things,” *pāṇā*; BJTS glosses ”(fish)” (*matsyayō*)
+[^24]: lit., “living things,” *pāṇā*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses ”(fish)” (*matsyayō*)
 
 [^25]: *antojālagatā*, lit., “gone to inside the net”
 
-[^26]: reading *puthupāsaṇḍanissita* with BJTS for PTS *phuṭā sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>avinissitā* (“are numerous and ungrounded in truth”?)
+[^26]: reading *puthupāsaṇḍanissita* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *phuṭā sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>avinissitā* (“are numerous and ungrounded in truth”?)
 
 [^27]: *mārisa*, in the voc.
 
@@ -224,7 +223,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^34]: *asādiso*
 
-[^35]: reading *kāruṇāmettāsañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayo* with BJTS for PTS *mettākāruṇādisañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayo*, “heap of love, compassion, etc.” (which breaks meter).
+[^35]: reading *kāruṇāmettāsañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mettākāruṇādisañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayo*, “heap of love, compassion, etc.” (which breaks meter).
 
 [^36]: *susīlo*, lit., “one who has good moral discipline”
 
@@ -236,7 +235,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^40]: *tādī*
 
-[^41]: *jitāñjaso*, following BJTS gloss. I read this foot *vasī tadī jitāñjaso* with PTS *vasitavijitañjayo*
+[^41]: *jitāñjaso*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss. I read this foot *vasī tadī jitāñjaso* with <abbr title="Pali Text Society">PTS</abbr> *vasitavijitañjayo*
 
 [^42]: *dhīro*
 
@@ -244,7 +243,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^44]: *anejo*
 
-[^45]: *akathaŋ kathī*. BJTS reads this as a compound, *akathaṅkathī*
+[^45]: *akathaŋ kathī*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads this as a compound, *akathaṅkathī*
 
 [^46]: *vusito*
 
@@ -254,11 +253,11 @@ The legend of Sabbakittika Thera is finished.
 
 [^49]: *payato*
 
-[^50]: reading *su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ī* with BJTS for PTS *suci*
+[^50]: reading *su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *suci*
 
-[^51]: reading *sangâtigo* with BJTS for PTS *sangh’âtīto*
+[^51]: reading *sangâtigo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sangh’âtīto*
 
-[^52]: reading *hatamado* with BJTS for PTS *gatamado* (“Gone into Conceit” “Intoxicated One”
+[^52]: reading *hatamado* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *gatamado* (“Gone into Conceit” “Intoxicated One”
 
 [^53]: *tevijjo*, “possessor of the three higher knowledges” (recognition of former births, insight into the future destiny of all being, recognition of the origin of misery and of the path to its removal), that is, an *arahant*. The term is also used in a non-Buddhist (Brahmanical) sense, “master of the three Vedas,” but here the Buddhist interpretation would seem most appropriate.
 
@@ -280,16 +279,16 @@ The legend of Sabbakittika Thera is finished.
 
 [^62]: *asambhito*
 
-[^63]: reading *dappito* with BJTS for PTS *dammito*, “Tamed”
+[^63]: reading *dappito* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dammito*, “Tamed”
 
 [^64]: *pāpakammaŋ*
 
 [^65]: *nibbāyissati*
 
-[^66]: in the BJTS reading which guides me here, the last two feet of this verse have an implied, 3rd person plural subject.
+[^66]: in the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading which guides me here, the last two feet of this verse have an implied, 3rd person plural subject.
 
-[^67]: reading *aññātañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vijāneyyuṃ* with BJTS for PTS *aññātañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vijāneyyaŋ* (“I should learn”)
+[^67]: reading *aññātañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vijāneyyuṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *aññātañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vijāneyyaŋ* (“I should learn”)
 
-[^68]: reading *phuseyyuṃ amataṃ padaṃ* for PTS *phasseyyam amataŋ padaŋ* (“I should touch the deathless path”). *Phassati* is related to *phuseti* and in fact can stand for it, but the latter carries the applied meaning “reach” or “achieve” (an exalted religious state), and the first person makes no sense in context.
+[^68]: reading *phuseyyuṃ amataṃ padaṃ* for <abbr title="Pali Text Society">PTS</abbr> *phasseyyam amataŋ padaŋ* (“I should touch the deathless path”). *Phassati* is related to *phuseti* and in fact can stand for it, but the latter carries the applied meaning “reach” or “achieve” (an exalted religious state), and the first person makes no sense in context.
 
-[^69]: here too BJTS agrees with the PTS variant reading of this foot
+[^69]: here too <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agrees with the <abbr title="Pali Text Society">PTS</abbr> variant reading of this foot

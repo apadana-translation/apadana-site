@@ -1,7 +1,6 @@
 ---
 title: The Rags of Previous Karma
 order: 390
-layout: poem
 category: chapter-3
 ---
 
@@ -196,9 +195,9 @@ The Avaṇṭaphala Chapter, the Thirty-Ninth
 
 [^3]: *pubbakammāni*
 
-[^4]: I follow BJTS in reading *pilotikassa* for PTS *pilotiyassa*, and likewise BJTS *buddhatte pi* for PTS *buddhatthe pi*.
+[^4]: I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in reading *pilotikassa* for <abbr title="Pali Text Society">PTS</abbr> *pilotiyassa*, and likewise <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *buddhatte pi* for <abbr title="Pali Text Society">PTS</abbr> *buddhatthe pi*.
 
-[^5]: I follow BJTS on the name; PTS (only) gives Surabhi
+[^5]: I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> on the name; <abbr title="Pali Text Society">PTS</abbr> (only) gives Surabhi
 
 [^6]: lit., I experienced *saṃsāra* in hell
 
@@ -208,7 +207,7 @@ The Avaṇṭaphala Chapter, the Thirty-Ninth
 
 [^9]: *abhūtena*, lit., “through \[what was\] not produced/actual/become.” Like Sundarīkā, <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>iñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a was employed by “the heretics” to discredit the Buddha. She placed padding beneath her garment and proceeded to tell people that the Buddha, having fathered her child, was now neglecting his paternal obligations. The gods, enraged at the unrighteousness of the accusation, contrived her literal undoing: a mouse gnawed the strings holding the padding in place and it fell out for all to see, exposing her lie.
 
-[^10]: I follow the BJTS spelling of this name, cf. the alt reading in PTS isiṅgīmo; PTS gives Isigaṇo
+[^10]: I follow the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling of this name, cf. the alt reading in <abbr title="Pali Text Society">PTS</abbr> isiṅgīmo; <abbr title="Pali Text Society">PTS</abbr> gives Isigaṇo
 
 [^11]: lit., who had the five special knowledges (*abhiññā*) and extensive *iddhi* powers”. The five special knowledges are various magical powers (*iddhi*), divine ear (clairaudience), reading others’ minds, recollection of rebirths, and divine eye (clairvoyance), Note that this (non-Buddhist) sage possesses only five of the special knowledges; the sixth — awareness and assurance that one has extinguished all *āsasas* — is only achievable by Buddhists.
 
@@ -226,7 +225,7 @@ The Avaṇṭaphala Chapter, the Thirty-Ninth
 
 [^18]: lit., “I produced mental pleasure”
 
-[^19]: reading *sabbe sakkā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a haññiṃsu* with BJTS over PTS *Sakkesu haññamānesu*, but in either event the text is suspect. In this BJTS reading, presumably, the Śākyans were the fishermen in the village.
+[^19]: reading *sabbe sakkā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a haññiṃsu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> over <abbr title="Pali Text Society">PTS</abbr> *Sakkesu haññamānesu*, but in either event the text is suspect. In this <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading, presumably, the Śākyans were the fishermen in the village.
 
 [^20]: the slaying of the Buddha’s whole clan was the result, according to the *Jātaka*, of enmity that developed over many lifetimes due to their group evil deeds.
 

@@ -1,7 +1,6 @@
 ---
 title: Ñāṇasaññaka
 order: 128
-layout: poem
 category: chapter-3
 ---
 
@@ -48,7 +47,7 @@ The legend of Ñāṇasaññaka Thera is finished.
 
 [^1]: “Knowledge-Perceiver”
 
-[^2]: lit., “neither \[is there an analogy\] for association of \[with\] the Teacher.” My translation of this verse follows the BJTS Sinhala gloss.
+[^2]: lit., “neither \[is there an analogy\] for association of \[with\] the Teacher.” My translation of this verse follows the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss.
 
 [^3]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya*/*ājānīya*, “almost exclusively used to donate a thoroughbred horse”
 

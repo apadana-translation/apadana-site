@@ -1,7 +1,6 @@
 ---
 title: Saṅghupaṭṭhāka
 order: 180
-layout: poem
 category: chapter-3
 ---
 

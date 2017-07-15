@@ -1,7 +1,6 @@
 ---
 title: Upaṭṭhāyaka
 order: 286
-layout: poem
 category: chapter-3
 ---
 

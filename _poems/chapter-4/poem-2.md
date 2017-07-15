@@ -1,7 +1,6 @@
 ---
 title: Mekhalādāyikā
 order: 2
-layout: poem
 category: chapter-4
 ---
 
@@ -43,7 +42,7 @@ The legend of Mekhalādāyikā Therī is finished.
 
 [^1]: “Waist-Ornament-Giver”. *Mekhala* or *mekhalikā* was an ornament worn by women on the waist, often made of precious metals and gems.
 
-[^2]: reading *kārāpikā* (BJTS, PTS alt) for *kārāpitā* (“was built,” PTS)
+[^2]: reading *kārāpikā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *kārāpitā* (“was built,” <abbr title="Pali Text Society">PTS</abbr>)
 
 [^3]: presumably a valuable *mekhala* which was then sold in order to pay for the repairs.
 
@@ -51,4 +50,4 @@ The legend of Mekhalādāyikā Therī is finished.
 
 [^5]: lit., “again I gave a waist-ornament”.
 
-[^6]: BJTS, PTS alt omit *therī*.
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt omit *therī*.

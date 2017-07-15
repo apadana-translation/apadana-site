@@ -1,7 +1,6 @@
 ---
 title: Ajelaphaladāyaka
 order: 507
-layout: poem
 category: chapter-3
 ---
 
@@ -41,9 +40,9 @@ Thus indeed Venerable Ajelaphaladāyaka[^8] Thera spoke these verses.
 
 The legend of Ajelaphaladāyaka[^9] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “*Ajela-*Fruit Donor.” BJTS reads *ageliphala°*.
+[^2]: “*Ajela-*Fruit Donor.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *ageliphala°*.
 
 [^3]: Arjuna
 
@@ -51,10 +50,10 @@ The legend of Ajelaphaladāyaka[^9] Thera is finished.
 
 [^5]: or “as large as an elephant’s frontal lobe:” *kumbhamattaŋ*
 
-[^6]: BJTS reads *ajeliṃ*
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *ajeliṃ*
 
-[^7]: or, “umbrella-leaf” (plant). Both BJTS and PTS place *ajela* or *ajeli* in apposition to *jīvajīvakaŋ*, which elsewhere in the text refers to a type of jak fruit, and to a type of pheasant, as well as to *chattapaṇṇaŋ* (“leaves \[lit., “leaf”\] for an umbrella”). BJTS Sinh gloss treats these as three separate items and infers “ands” connecting them; I follow its lead here. However, as all three terms are ambiguous (Cone cites only this passage for the term, with a question mark that it is some sort of plant or fruit), the translation must remain so as well, pending better identification of the three terms; the meaning may be “*ajela* \[type of\] *jīvajīvaka* \[jak?\] fruit \[and\] leaves for an umbrella” or “*ajela* fruit and *jīvajīvaka* leaves for an umbrella,” and so forth.
+[^7]: or, “umbrella-leaf” (plant). Both <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> place *ajela* or *ajeli* in apposition to *jīvajīvakaŋ*, which elsewhere in the text refers to a type of jak fruit, and to a type of pheasant, as well as to *chattapaṇṇaŋ* (“leaves \[lit., “leaf”\] for an umbrella”). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh gloss treats these as three separate items and infers “ands” connecting them; I follow its lead here. However, as all three terms are ambiguous (Cone cites only this passage for the term, with a question mark that it is some sort of plant or fruit), the translation must remain so as well, pending better identification of the three terms; the meaning may be “*ajela* \[type of\] *jīvajīvaka* \[jak?\] fruit \[and\] leaves for an umbrella” or “*ajela* fruit and *jīvajīvaka* leaves for an umbrella,” and so forth.
 
-[^8]: BJTS reads *ageliphala°*.
+[^8]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *ageliphala°*.
 
-[^9]: BJTS reads *ageliphala°*.
+[^9]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *ageliphala°*.

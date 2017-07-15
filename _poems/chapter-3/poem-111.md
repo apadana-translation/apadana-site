@@ -1,7 +1,6 @@
 ---
 title: Mahāparivāra
 order: 111
-layout: poem
 category: chapter-3
 ---
 
@@ -69,4 +68,4 @@ The legend of Mahāparivāra Thera is finished.
 
 [^3]: *yakkhā*
 
-[^4]: “Vehicle”. BJTS reads Suvāhana, “Good Vehicle”.
+[^4]: “Vehicle”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads Suvāhana, “Good Vehicle”.

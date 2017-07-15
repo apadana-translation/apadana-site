@@ -1,7 +1,6 @@
 ---
 title: Ambayāgadāyaka
 order: 238
-layout: poem
 category: chapter-3
 ---
 

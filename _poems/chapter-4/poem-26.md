@@ -1,7 +1,6 @@
 ---
 title: Soṇā
 order: 26
-layout: poem
 category: chapter-4
 ---
 
@@ -133,7 +132,7 @@ The legend of Soṇā Therī is finished.
 
 [^1]: “Dog,” or a kind of tree, Bodhi Tree of Paduma and Nārada Buddhas, according to BV. An historical nun, remembered as foremost among those who make energetic effort.
 
-[^2]: reaidng *pūjitā* with BJTS (and PTS alt.) for PTS *sajjitā*, which however approximates the same meaning.
+[^2]: reaidng *pūjitā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *sajjitā*, which however approximates the same meaning.
 
 [^3]: *munivaraŋ*
 
@@ -155,9 +154,9 @@ The legend of Soṇā Therī is finished.
 
 [^12]: or “I’m fed up with this existence:” *jīvitenâlam atthu me*, lit., “Let it be enough with life for me”
 
-[^13]: *jīnāya*, BJTS reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attāya* (with much the same meaning)
+[^13]: *jīnāya*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attāya* (with much the same meaning)
 
-[^14]: reading *sampatto* with BJTS for PTS *pasuto* (“pursuing”)
+[^14]: reading *sampatto* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pasuto* (“pursuing”)
 
 [^15]: *kumbhiyā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ulle*, lit., “into a small *kumbhi*-pot”
 

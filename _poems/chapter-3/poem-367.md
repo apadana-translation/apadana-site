@@ -1,7 +1,6 @@
 ---
 title: Uddālapupphiya
 order: 367
-layout: poem
 category: chapter-3
 ---
 
@@ -26,7 +25,7 @@ Thus indeed Venerable Uddālapupphiya Thera spoke these verses.
 
 The legend of Uddālapupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Golden Shower-Flower-er.” Cf. \#250. *Uddāla* (Sinh. *äsaḷa*) is Cassia fistula, a.k.a. Golden Rain tree and native to Southern Asia, ranging from Peninsular SE Asia (national tree of Thailand) to southern Pakistan, indigenous in India, Burma, as far south as Sri Lanka.
 

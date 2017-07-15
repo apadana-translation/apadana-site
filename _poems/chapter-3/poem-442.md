@@ -1,7 +1,6 @@
 ---
 title: Koladāyaka
 order: 442
-layout: poem
 category: chapter-3
 ---
 
@@ -46,7 +45,7 @@ Thus indeed Venerable Koladāyaka Thera spoke these verses.
 
 The legend of Koladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Jujube Donor.” Virtually the same *apadāna* is repeated below as \#{553}, where it is ascribed to the historical monk Gayākassapa.
 

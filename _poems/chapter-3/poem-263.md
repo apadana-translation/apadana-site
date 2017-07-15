@@ -1,7 +1,6 @@
 ---
 title: Aḍḍhacandiya
 order: 263
-layout: poem
 category: chapter-3
 ---
 

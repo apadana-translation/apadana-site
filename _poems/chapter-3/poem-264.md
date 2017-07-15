@@ -1,7 +1,6 @@
 ---
 title: Araṇadīpiya
 order: 264
-layout: poem
 category: chapter-3
 ---
 

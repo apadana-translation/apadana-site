@@ -1,7 +1,6 @@
 ---
 title: Ambāṭakiya
 order: 446
-layout: poem
 category: chapter-3
 ---
 
@@ -41,7 +40,7 @@ Thus indeed Venerable Ambāṭakiya Thera spoke these verses.
 
 The legend of Ambāṭakiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Hog-Plum-er”
 
@@ -49,7 +48,7 @@ The legend of Ambāṭakiya Thera is finished.
 
 [^4]: lit., “did *pūjā* to”
 
-[^5]: *ambāṭakā*, RD: “the hog-plum, Spondias Mangifera (a kind of mango).” BJTS gloss *ämbarälla*, *ämbärälla*, a small, sour, mango-like fruit which is cooked as a curry. Here the protagonist apparently offered hog-plum flowers rather than fruits (see v. 3, below)
+[^5]: *ambāṭakā*, RD: “the hog-plum, Spondias Mangifera (a kind of mango).” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *ämbarälla*, *ämbärälla*, a small, sour, mango-like fruit which is cooked as a curry. Here the protagonist apparently offered hog-plum flowers rather than fruits (see v. 3, below)
 
 [^6]: *abhiropayiŋ*
 

@@ -1,7 +1,6 @@
 ---
 title: Tikicchaka
 order: 179
-layout: poem
 category: chapter-3
 ---
 

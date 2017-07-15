@@ -1,7 +1,6 @@
 ---
 title: Bimbijāliya
 order: 249
-layout: poem
 category: chapter-3
 ---
 

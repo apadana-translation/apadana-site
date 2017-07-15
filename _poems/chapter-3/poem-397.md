@@ -1,7 +1,6 @@
 ---
 title: Girimānanda
 order: 397
-layout: poem
 category: chapter-3
 ---
 
@@ -161,25 +160,25 @@ Thus indeed Venerable Girimānanda Thera spoke these verses.
 
 The legend of Girimānanda Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Joy for the Mountains,” a historical monk, the son of King Bimbisāra’s chaplain who entered the order at Rajgir. See DPPN I: 770-771
 
 [^3]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittakkhepañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a me āsi*, lit., “there was mental derangement for me”
 
-[^4]: reading *aṭṭito* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhumā*, “one with eyes”
+[^4]: reading *aṭṭito* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhumā*, “one with eyes”
 
 [^5]: *°pareto*, lit., “overcome,” “affected”
 
-[^6]: reading *ullokesiṃ* with BJTS (and PTS alt.) for PTS *ullokesi*, “he looked upon”
+[^6]: reading *ullokesiṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *ullokesi*, “he looked upon”
 
-[^7]: reading *mahāmuniṃ* with BJTS for PTS *mahāmuni*
+[^7]: reading *mahāmuniṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mahāmuni*
 
 [^8]: *satiŋ paṭilabhitvāna*, lit., “having received alertness/mindfulness”
 
 [^9]: *anavhātā*
 
-[^10]: BJTS Sinhala gloss takes the implied (3rd person plural) subject here to be “the brothers, etc.” who have died
+[^10]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss takes the implied (3rd person plural) subject here to be “the brothers, etc.” who have died
 
 [^11]: *āguŋ*
 
@@ -187,13 +186,13 @@ The legend of Girimānanda Thera is finished.
 
 [^13]: *tattha kā paridevanā*, lit., “what is the lamentation there?” RD (*tattha*, s.v.) gives “why sorrow for this?”
 
-[^14]: *sattā*, lit., “beings”. BJTS glosses *°janayo*, “people”
+[^14]: *sattā*, lit., “beings”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *°janayo*, “people”
 
-[^15]: *pathikā*, BJTS glosses *magī°*
+[^15]: *pathikā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *magī°*
 
 [^16]: *sabhaṇḍā*, lit., “together with their goods”
 
-[^17]: reading *vasse <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a te oramite* with BJTS for PTS *vasse ete oramite*
+[^17]: reading *vasse <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a te oramite* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vasse ete oramite*
 
 [^18]: or proceed, keep going: *sampayanti*
 
@@ -205,7 +204,7 @@ The legend of Girimānanda Thera is finished.
 
 [^22]: *ga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chati*, lit., “goes”
 
-[^23]: reading *santa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṃ* with BJTS for PTS *santanuŋ*, “its body”
+[^23]: reading *santa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *santanuŋ*, “its body”
 
 [^24]: the Pāli is singular, *santanuṃ*
 
@@ -215,11 +214,11 @@ The legend of Girimānanda Thera is finished.
 
 [^27]: lit., “did *pūjā* with”
 
-[^28]: the text is corrupt as regards the object given, apparently an attempt at explaining the “Giri” part of the protagonist’s name. I follow BJTS (and PTS alt) in reading *girimañjariṃ apūjayiṃ*, “I did *pūjā* with a stalk of *giri* \[flowers\],” even though it breaks meter (BJTS corrects to *pūjayiṃ girimañjariṃ*). BJTS glosses *giri* as *girinil mal*, on which see note to \[2256\]. *Giri* means “mountain,” so perhaps the reference is to a stalk of flowers (*mañjarī*) growing on a mountain? PTS reads *girapañjaliŋ* (“pressing together of the hands in honor of his words”?) offering alternatives *giramañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hira* (?) and *giripañjariŋ* (fr. *pañjara*, a cage?), none of which satisfyingly corresponds to the adjective supplied this offering, “endowed with a heavenly scent.”
+[^28]: the text is corrupt as regards the object given, apparently an attempt at explaining the “Giri” part of the protagonist’s name. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt) in reading *girimañjariṃ apūjayiṃ*, “I did *pūjā* with a stalk of *giri* \[flowers\],” even though it breaks meter (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> corrects to *pūjayiṃ girimañjariṃ*). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *giri* as *girinil mal*, on which see note to \[2256\]. *Giri* means “mountain,” so perhaps the reference is to a stalk of flowers (*mañjarī*) growing on a mountain? <abbr title="Pali Text Society">PTS</abbr> reads *girapañjaliŋ* (“pressing together of the hands in honor of his words”?) offering alternatives *giramañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hira* (?) and *giripañjariŋ* (fr. *pañjara*, a cage?), none of which satisfyingly corresponds to the adjective supplied this offering, “endowed with a heavenly scent.”
 
 [^29]: lit., “done *pūjā* to”
 
-[^30]: reading *nittiṇṇo* with BJTS for PTS *nitthiṇṇo*
+[^30]: reading *nittiṇṇo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *nitthiṇṇo*
 
 [^31]: *maggaŋ*
 
@@ -235,11 +234,11 @@ The legend of Girimānanda Thera is finished.
 
 [^37]: *sūrodaye va padumā*
 
-[^38]: reading *yathā samuddo* with BJTS for PTS *mahāsamuddo*
+[^38]: reading *yathā samuddo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mahāsamuddo*
 
 [^39]: *lokajinaŋ*
 
-[^40]: taking *paṭikuṭiko* (BJTS reads *pati°*) as fr. *paṭikuṭati* “to crouch,” “to bend over”. This may mean that he went off still bowing in reverence, or else that he went off on all fours. Here BJTS leaves the term unglossed
+[^40]: taking *paṭikuṭiko* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pati°*) as fr. *paṭikuṭati* “to crouch,” “to bend over”. This may mean that he went off still bowing in reverence, or else that he went off on all fours. Here <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> leaves the term unglossed
 
 [^41]: where he presumably went after the lifetime just recounted
 

@@ -1,7 +1,6 @@
 ---
 title: Sattāhapabbajita
 order: 288
-layout: poem
 category: chapter-3
 ---
 

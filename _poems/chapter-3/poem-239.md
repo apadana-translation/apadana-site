@@ -1,7 +1,6 @@
 ---
 title: Jagatikāraka
 order: 239
-layout: poem
 category: chapter-3
 ---
 

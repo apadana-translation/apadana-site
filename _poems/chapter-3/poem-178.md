@@ -1,7 +1,6 @@
 ---
 title: Maṇipūjaka
 order: 178
-layout: poem
 category: chapter-3
 ---
 
@@ -40,6 +39,6 @@ The legend of Maṇipūjaka Thera is finished.
 
 [^2]: I follow the cty in this reading of the somewhat cryptic first two feet.
 
-[^3]: The BJTS Sinhala gloss takes this to be Padumuttara, but the reference to ninety-four aeons in v. \[2139\] would suggest instead that it was Siddhattha.
+[^3]: The <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss takes this to be Padumuttara, but the reference to ninety-four aeons in v. \[2139\] would suggest instead that it was Siddhattha.
 
 [^4]: “Hundred-Rayed” or “Sun”

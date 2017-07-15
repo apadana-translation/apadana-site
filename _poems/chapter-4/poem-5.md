@@ -1,7 +1,6 @@
 ---
 title: Tīṇinaḷamālikā
 order: 5
-layout: poem
 category: chapter-4
 ---
 
@@ -56,16 +55,16 @@ Thus indeed Bhikkhunī Tīṇinaḷamālikā spoke these verses.
 
 The legend of Tīṇinaḷamālikā Therī is finished.
 
-[^1]: BJTS omits *Tīṇī°*. The name means “\[Three\] (or perhaps we should read *tiṇī*, \[Grass\]) Reed Garland-er”.
+[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits *Tīṇī°*. The name means “\[Three\] (or perhaps we should read *tiṇī*, \[Grass\]) Reed Garland-er”.
 
 [^2]: see note to *Therāpadāna* v. \[1886\]
 
 [^3]: *vedajāto*
 
-[^4]: lit., “I went to the Group of Thirty-Three”. BJTS reads “Due to that karma \[so\] well done, with intention and \[firm\] resolve, leaving \[my\] *kinnarī* body, I was born \[with\] the Thirty-Three,” and places the last two feet of the verse at the beginning of the next one.
+[^4]: lit., “I went to the Group of Thirty-Three”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “Due to that karma \[so\] well done, with intention and \[firm\] resolve, leaving \[my\] *kinnarī* body, I was born \[with\] the Thirty-Three,” and places the last two feet of the verse at the beginning of the next one.
 
-[^5]: reading *saṃvejetvāna me <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaṃ* (BJTS, PTS alt) for *saṃvedayitvā kusalaṃ* (“having felt/experienced \[my\] wholesome \[karma\],” PTS).
+[^5]: reading *saṃvejetvāna me <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *saṃvedayitvā kusalaṃ* (“having felt/experienced \[my\] wholesome \[karma\],” <abbr title="Pali Text Society">PTS</abbr>).
 
-[^6]: BJTS reads “all \[new\] existence is destroyed.”
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “all \[new\] existence is destroyed.”
 
-[^7]: BJTS inverts the order of verses (5) and (6).
+[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> inverts the order of verses (5) and (6).

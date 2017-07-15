@@ -1,7 +1,6 @@
 ---
 title: Ucchaṅgapupphiya
 order: 417
-layout: poem
 category: chapter-3
 ---
 
@@ -46,13 +45,13 @@ Thus indeed Venerable U<span class="diacritics" data-state="on">c</span><span cl
 
 The legend of U<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaṅgapupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Lapful-of-Flowers-er”
 
-[^3]: BJTS Sinhala gloss suggests the meaning is “\[my\] lap-pocket (*Oḍokkuwa*), formed in the fold in the waist-garment (e.g., sarong, dhoti).
+[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss suggests the meaning is “\[my\] lap-pocket (*Oḍokkuwa*), formed in the fold in the waist-garment (e.g., sarong, dhoti).
 
-[^4]: reading *agamaŋ* with BJTS (and PTS alt.) for PTS *āgamaŋ* (“I came”)
+[^4]: reading *agamaŋ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *āgamaŋ* (“I came”)
 
 [^5]: lit., “the Blessed One”
 

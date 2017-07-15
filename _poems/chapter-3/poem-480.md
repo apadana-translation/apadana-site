@@ -1,7 +1,6 @@
 ---
 title: Pulinacaṅkamiya
 order: 480
-layout: poem
 category: chapter-3
 ---
 
@@ -54,7 +53,7 @@ that are counted by those who know.
 
 The Naḷamāli Chapter, the Forty-Eighth
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Sand Walkway-er”
 
@@ -62,4 +61,4 @@ The Naḷamāli Chapter, the Forty-Eighth
 
 [^4]: *sugatassa sirīmato*
 
-[^5]: PTS reads *valliṅkara*, I follow BJTS here
+[^5]: <abbr title="Pali Text Society">PTS</abbr> reads *valliṅkara*, I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> here

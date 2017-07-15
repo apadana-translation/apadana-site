@@ -1,7 +1,6 @@
 ---
 title: Uttareyyadāyaka
 order: 338
-layout: poem
 category: chapter-3
 ---
 
@@ -116,7 +115,7 @@ Thus indeed Venerable Uttareyyadāyaka Thera spoke these verses.
 
 The legend of Uttareyyadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Upper Cloak Donor” or “Outer Garment Donor.” *Uttareyya* = *uttarīya*
 
@@ -164,6 +163,6 @@ The legend of Uttareyyadāyaka Thera is finished.
 
 [^24]: *maṇḍape*. A *maṇḍapa* is an ornamental temporary wall or fence or curtain closing off and marking a space in which ritual activity occurs. In modern Sri Lanka these are commonly frames of wood, something like a room divider, which are then decorated with tissue-paper cut-outs, flowers, streamers, cloth, go kola (palm fronds prepared ornamentally), etc., and will often be accompanied by a covering canopy (*viyana*, *chadana*).
 
-[^25]: reading *aviññataṃ nivāsemi* with BJTS for PTS *aviññatti nisevāmi* (“I indulge in not asking”)
+[^25]: reading *aviññataṃ nivāsemi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *aviññatti nisevāmi* (“I indulge in not asking”)
 
 [^26]: lit., “I am a receiver of”

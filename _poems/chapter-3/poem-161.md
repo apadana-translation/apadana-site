@@ -1,7 +1,6 @@
 ---
 title: Supāricariya
 order: 161
-layout: poem
 category: chapter-3
 ---
 

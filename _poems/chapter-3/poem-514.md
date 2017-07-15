@@ -1,7 +1,6 @@
 ---
 title: Ketakapupphiya
 order: 514
-layout: poem
 category: chapter-3
 ---
 
@@ -41,11 +40,11 @@ Thus indeed Venerable Ketakapupphiya Thera spoke these verses.
 
 The legend of Ketakapupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Screw-pine Flower-er”
 
-[^3]: the BJTS spelling; PTS reads *VItthāya*, alts. *Vittāya*, *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ittāya*. Cf. \#380 {383}, v. 1 = \[3292\], above, where BJTS and PTS agree on the spelling accepted from BJTS here; but cf. also \#485 {488} above, v. 1 = \[5177\], where I also accept the BJTS reading amidst considerable variation
+[^3]: the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling; <abbr title="Pali Text Society">PTS</abbr> reads *VItthāya*, alts. *Vittāya*, *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ittāya*. Cf. \#380 {383}, v. 1 = \[3292\], above, where <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> agree on the spelling accepted from <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> here; but cf. also \#485 {488} above, v. 1 = \[5177\], where I also accept the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading amidst considerable variation
 
 [^4]: *ekaggaŋ*
 

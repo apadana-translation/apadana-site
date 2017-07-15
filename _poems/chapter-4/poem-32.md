@@ -1,7 +1,6 @@
 ---
 title: Eighty-Four Thousand Brahmin Maiden Buddhist Nuns
 order: 32
-layout: poem
 category: chapter-4
 ---
 
@@ -231,15 +230,15 @@ Thus indeed Eighty-Four Thousand Brahmin Maiden Buddhist Nuns spoke these verses
 
 The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
-[^1]: BJTS reads “The *Apadāna* of Brahmin Maiden Buddhist Nuns”
+[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “The *Apadāna* of Brahmin Maiden Buddhist Nuns”
 
-[^2]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
+[^2]: reading *mahāmune* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mahāmuni*
 
-[^3]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
+[^3]: reading *mahāmune* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mahāmuni*
 
 [^4]: ˆ*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuddīpā*, lit., “from the four continents,” that is, from the entire world
 
-[^5]: here PTS reads *phusissanti*, BJTS *bhujjhissanti;* both read *bhujjhissanti* in the following verse
+[^5]: here <abbr title="Pali Text Society">PTS</abbr> reads *phusissanti*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *bhujjhissanti;* both read *bhujjhissanti* in the following verse
 
 [^6]: *tu*, or “but”
 
@@ -253,7 +252,7 @@ The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
 [^11]: *jhānena dhammaratiyā viharissāma no sadā*
 
-[^12]: reading *mamaṃ* with BJTS for PTS *mayaŋ* (“we”)
+[^12]: reading *mamaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mayaŋ* (“we”)
 
 [^13]: *katvā iddhivikubbanaŋ*, lit., “having done transformations through \[their\] superpowers”
 
@@ -265,9 +264,9 @@ The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
 [^17]: lit., “to the Teacher”
 
-[^18]: here as elsewhere, reading the voc. *mahāmunue* with BJTS (and PTS alt.) for PTS *mahāmuni*
+[^18]: here as elsewhere, reading the voc. *mahāmunue* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mahāmuni*
 
-[^19]: reading *no* with BJTS (and the parallel instance of this verse below, at \[1063\]) for PTS *tehi* (“by them”)
+[^19]: reading *no* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and the parallel instance of this verse below, at \[1063\]) for <abbr title="Pali Text Society">PTS</abbr> *tehi* (“by them”)
 
 [^20]: *mahāmuni*, lit., “the Great Sage”
 
@@ -275,35 +274,35 @@ The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
 [^22]: lit., “they are not receiving” “they are not getting”
 
-[^23]: *sattasāro*, lit., “essence (or pith) of beings;” I follow BJTS Sinhala gloss in taking this as “bodhisattva”. Jaṭila (a.k.a. Jaṭika) is mentioned as a rebirth precursor of Gotama Buddha in the *nidāna-kathā* (J.i.37) and *Buddhavaṃsa* (xi.11), and called a “provincial governor” (Malalasekera’s understanding of *mahāraṭṭhiya*; in the present *Apadāna* text *raṭṭhika* \[“rustic”\]); see DPPN I: 931
+[^23]: *sattasāro*, lit., “essence (or pith) of beings;” I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss in taking this as “bodhisattva”. Jaṭila (a.k.a. Jaṭika) is mentioned as a rebirth precursor of Gotama Buddha in the *nidāna-kathā* (J.i.37) and *Buddhavaṃsa* (xi.11), and called a “provincial governor” (Malalasekera’s understanding of *mahāraṭṭhiya*; in the present *Apadāna* text *raṭṭhika* \[“rustic”\]); see DPPN I: 931
 
 [^24]: *raṭṭhiko*, lit., “countryman”. Sinh. gloss *rǟṭiyek*, “a guy from the country” (*raṭavāsī*) or a district official;” the Pāli likewise can mean “a man of the country” either in the sense of “someone from the country” or “an official of the country”
 
 [^25]: *kārayi*, lit., “he caused to be built”
 
-[^26]: reading *setuṃ gaṅgāya* with BJTS for PTS *setuno satta* (?)
+[^26]: reading *setuṃ gaṅgāya* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *setuno satta* (?)
 
-[^27]: reading *kārayi* with BJTS for PTS *\[a\]kārayiŋ* (“I made”)
+[^27]: reading *kārayi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *\[a\]kārayiŋ* (“I made”)
 
 [^28]: lit., “did”
 
-[^29]: reading *purisā* with BJTS (and PTS alt.) for PTS *pumā*
+[^29]: reading *purisā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *pumā*
 
 [^30]: *kadalī*, lit., “plantains,” see RD s.v., banners in the shape of or made of banana leaves.
 
-[^31]: reading *puṇṇaghāṭe* with BJTS for PTS *°\[uṇṇakuṭa* (“full huts”)
+[^31]: reading *puṇṇaghāṭe* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *°\[uṇṇakuṭa* (“full huts”)
 
-[^32]: reading *abhipatthayi* with BJTS (and, misspelled, PTS alt.) for PTS *abhipatthayiŋ* (“I aspired”)
+[^32]: reading *abhipatthayi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and, misspelled, <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *abhipatthayiŋ* (“I aspired”)
 
 [^33]: *sambodhiŋ abhipatthayi*, i.e., he (renewed) his aspiration to become a Buddha, as he is said to have done in the presence of all the Buddhas since Dīpaṅkara.
 
 [^34]: *tārako*
 
-[^35]: reading *anumodaniyaṃ ‘kāsi* with BJTS for PTS *anumodanīyaŋ kāsi-jaṭtilassa* (“I gave thanks to Jaṭila from Benares \[or, Miss Lilley seems to be thinking in her lack of capitalization, “I gave thanks to the matted-hair ascetic (*jaṭilassa*) from Benares”)
+[^35]: reading *anumodaniyaṃ ‘kāsi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *anumodanīyaŋ kāsi-jaṭtilassa* (“I gave thanks to Jaṭila from Benares \[or, Miss Lilley seems to be thinking in her lack of capitalization, “I gave thanks to the matted-hair ascetic (*jaṭilassa*) from Benares”)
 
-[^36]: reading *‘kāsi jaṭilassa* with BJTS for PTS *kāsi-jaṭilassa*, see previous note
+[^36]: reading *‘kāsi jaṭilassa* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *kāsi-jaṭilassa*, see previous note
 
-[^37]: reading *ye keci hatthaparikammaṃ* with BJTS for PTS *Keci hatthapadaŋ* (“Some, hand \[and\] foot”)
+[^37]: reading *ye keci hatthaparikammaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Keci hatthapadaŋ* (“Some, hand \[and\] foot”)
 
 [^38]: lit., “in the future” (singular)
 
@@ -311,20 +310,20 @@ The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
 [^40]: *tuyham*, presumably addressing the bodhisattva
 
-[^41]: reading anubhontī <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iraṃ kālaṃ with BJTS for PTS *tuyhaŋ vo pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āre <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and all of you will attend on you”)
+[^41]: reading anubhontī <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iraṃ kālaṃ with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tuyhaŋ vo pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āre <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and all of you will attend on you”)
 
-[^42]: reading *jātāmha* with BJTS for PTS *ajātā* (“\[we are\] unborn;” worse is alt. *ajāto* “he is unborn”)
+[^42]: reading *jātāmha* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ajātā* (“\[we are\] unborn;” worse is alt. *ajāto* “he is unborn”)
 
 [^43]: *°putta°* lit., “son”
 
 [^44]: lit., “all the time we are not…”
 
-[^45]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkhallabhūmimasu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iṃ* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkhallabhūmiŋ gamanaŋ* (“going on muddy roads”)
+[^45]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkhallabhūmimasu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkhallabhūmiŋ gamanaŋ* (“going on muddy roads”)
 
-[^46]: reading *pubbakammabalena no* with BJTS for PTS *pubbakammaphalan tato* (“after the fruit of previous karma”)
+[^46]: reading *pubbakammabalena no* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pubbakammaphalan tato* (“after the fruit of previous karma”)
 
 [^47]: *saŋsārapatha-nittiṇṇā*
 
-[^48]: reading *vītarāgā bhavāmase* with BJTS (and PTS alt.) for PTS *n’atthi dāni punabbhavo* (“now there will be no more rebirth”)
+[^48]: reading *vītarāgā bhavāmase* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *n’atthi dāni punabbhavo* (“now there will be no more rebirth”)
 
 [^49]: *tato tato*

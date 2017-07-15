@@ -1,7 +1,6 @@
 ---
 title: Saccasaññaka
 order: 213
-layout: poem
 category: chapter-3
 ---
 

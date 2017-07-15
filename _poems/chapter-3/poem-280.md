@@ -1,7 +1,6 @@
 ---
 title: Taraṇiya
 order: 280
-layout: poem
 category: chapter-3
 ---
 
@@ -46,4 +45,4 @@ The Suvaṇṇabimbohana Chapter, the Twenty-Eighth
 
 [^2]: “Fully Immersed”
 
-[^3]: probably a typographical error; BJTS reads *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṅgot’*
+[^3]: probably a typographical error; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṅgot’*

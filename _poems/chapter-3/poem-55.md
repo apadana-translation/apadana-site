@@ -1,7 +1,6 @@
 ---
 title: Opavuyha
 order: 55
-layout: poem
 category: chapter-3
 ---
 
@@ -67,13 +66,13 @@ The legend of Opavuyha Thera is finished.
 
 [^3]: cf. below, \#252, v. 2 \[2504\]
 
-[^4]: reading *khamanīyam* (BJTS, cty, PTS alternative) for *ājānīyaŋ* (“thoroughbred,” PTS)
+[^4]: reading *khamanīyam* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty, <abbr title="Pali Text Society">PTS</abbr> alternative) for *ājānīyaŋ* (“thoroughbred,” <abbr title="Pali Text Society">PTS</abbr>)
 
-[^5]: reading *devattam atha mānusam* (BJTS) for *bhavane sabbadā mama* (“in my residence all the time,” PTS). PTS alt (also noticed by BJTS) is *deve <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a mānuse bhave* (in a divine and human existences,” paralleling the (BJTS) reading I accept and intimating how the (PTS) one I reject might have evolved through corruption.
+[^5]: reading *devattam atha mānusam* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *bhavane sabbadā mama* (“in my residence all the time,” <abbr title="Pali Text Society">PTS</abbr>). <abbr title="Pali Text Society">PTS</abbr> alt (also noticed by <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) is *deve <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a mānuse bhave* (in a divine and human existences,” paralleling the (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) reading I accept and intimating how the (<abbr title="Pali Text Society">PTS</abbr>) one I reject might have evolved through corruption.
 
-[^6]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittā* (BJTS) for *citte* (“in \[my\] heart,” PTS)
+[^6]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *citte* (“in \[my\] heart,” <abbr title="Pali Text Society">PTS</abbr>)
 
-[^7]: here I follow BJTS in understanding *vātajavā* (“\[creatures\] quick as the wind”) as horses of the type originally (mis)gifted to Padumuttara Buddha. The same term is used as an adjective (there *vātajavaṃ*) in the previous verse.
+[^7]: here I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in understanding *vātajavā* (“\[creatures\] quick as the wind”) as horses of the type originally (mis)gifted to Padumuttara Buddha. The same term is used as an adjective (there *vātajavaṃ*) in the previous verse.
 
 [^8]: lit., “higher ordination,” *upasampadā*.
 

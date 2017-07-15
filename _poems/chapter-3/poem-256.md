@@ -1,7 +1,6 @@
 ---
 title: ‘Pāhanadāyaka
 order: 256
-layout: poem
 category: chapter-3
 ---
 

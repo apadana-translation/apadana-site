@@ -1,7 +1,6 @@
 ---
 title: Dhajadāyaka
 order: 343
-layout: poem
 category: chapter-3
 ---
 
@@ -46,11 +45,11 @@ Thus indeed Venerable Dhajadāyaka Thera spoke these verses.
 
 The legend of Dhajadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Flag Donor”
 
-[^3]: *tayopadhikkhayo* (BJTS reads, a little more cleanly, *tassopadhikkhaye*), lit., “the destruction (*khaya*) of his foundation (substratum, liability) for rebirth (*upadhi*).” I follow the BJTS gloss in understanding this as a reference to his *parinirvāṇa*.
+[^3]: *tayopadhikkhayo* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads, a little more cleanly, *tassopadhikkhaye*), lit., “the destruction (*khaya*) of his foundation (substratum, liability) for rebirth (*upadhi*).” I follow the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss in understanding this as a reference to his *parinirvāṇa*.
 
 [^4]: lit., “a flag was hoisted (or given, carried, displayed, etc.) by me”
 

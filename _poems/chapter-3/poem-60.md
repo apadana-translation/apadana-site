@@ -1,7 +1,6 @@
 ---
 title: Asanabodhiya
 order: 60
-layout: poem
 category: chapter-3
 ---
 
@@ -97,7 +96,7 @@ thus two and ninety verses.
 
 The Vījanī Chapter, the Sixth.
 
-[^1]: “*Asana* Bodhi Tree-er.” *Asana* is Pentaptera tomentosa, = a.k.a. crocodile-bark tree, Indian laurel, silver grey wood, white chuglam. The Bodhi tree of Tissa Buddha. BJTS glosses as *piyā, bakmī*; Sarcocephalus cordatus (*Rubi.*).
+[^1]: “*Asana* Bodhi Tree-er.” *Asana* is Pentaptera tomentosa, = a.k.a. crocodile-bark tree, Indian laurel, silver grey wood, white chuglam. The Bodhi tree of Tissa Buddha. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses as *piyā, bakmī*; Sarcocephalus cordatus (*Rubi.*).
 
 [^2]: this compound consists of two different words for” tree”: *dharaṇī-rūha* (“growing in the earth”) and *pādapa* (“drinking from the feet \[or roots\]”). Though awkward in English, I translate literally here rather than give the non-descriptive “tree, which was a tree”.
 

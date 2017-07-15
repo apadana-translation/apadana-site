@@ -1,7 +1,6 @@
 ---
 title: Paṭṭipupphiya
 order: 459
-layout: poem
 category: chapter-3
 ---
 
@@ -36,18 +35,18 @@ Thus indeed Venerable Paṭṭipupphiya[^7] Thera spoke these verses.
 
 The legend of Paṭṭipupphiya[^8] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Red Lodh Flower-er.” This is the BJTS reading for PTS *Sattipaṇṇiya*, “Satti-Leaf-er”. I do not find *satti* in the dictionaries as the name of a type of flower. BJTS chapter summary confirms its reading, but so does the PTS summary (see below), leaving the correct reading something of a mystery. I take the BJTS reading here because at least it has a meaning.
+[^2]: “Red Lodh Flower-er.” This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading for <abbr title="Pali Text Society">PTS</abbr> *Sattipaṇṇiya*, “Satti-Leaf-er”. I do not find *satti* in the dictionaries as the name of a type of flower. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> chapter summary confirms its reading, but so does the <abbr title="Pali Text Society">PTS</abbr> summary (see below), leaving the correct reading something of a mystery. I take the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading here because at least it has a meaning.
 
 [^3]: lit., “did *pūjā*”
 
-[^4]: *paṭṭipuppham*, Sinh. *rat lot* or *ratu lot gasa*, Engl. red lodh tree, the bark of which is used in dying. PTS reads *sattipuppham* (“a *satti* flower”)
+[^4]: *paṭṭipuppham*, Sinh. *rat lot* or *ratu lot gasa*, Engl. red lodh tree, the bark of which is used in dying. <abbr title="Pali Text Society">PTS</abbr> reads *sattipuppham* (“a *satti* flower”)
 
 [^5]: lit., “did *pūjā*”
 
 [^6]: lit., “doing *pūjā* to the body”
 
-[^7]: PTS reads *Sattipaṇṇiyo°*
+[^7]: <abbr title="Pali Text Society">PTS</abbr> reads *Sattipaṇṇiyo°*
 
-[^8]: PTS reads *Sattipaṇṇiyo°*
+[^8]: <abbr title="Pali Text Society">PTS</abbr> reads *Sattipaṇṇiyo°*

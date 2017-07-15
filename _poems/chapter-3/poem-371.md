@@ -1,7 +1,6 @@
 ---
 title: Bodhivandaka
 order: 371
-layout: poem
 category: chapter-3
 ---
 
@@ -37,7 +36,7 @@ Thus indeed Venerable Bodhivandaka Thera spoke these verses.
 
 The legend of Bodhivandaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Bodhi \[Tree\] Worshipper.”
 
@@ -49,7 +48,7 @@ The legend of Bodhivandaka Thera is finished.
 
 [^6]: lit., “making”
 
-[^7]: *antosuddhaŋ bahiŋ suddhaŋ* (reading *bahisuddhaŋ* with BJTS and PTS alt.), lit., “purified inside, purified outside.” I follow BJTS Sinhala gloss in taking this as referring to the donor (or perhaps, in an adverbial sense, to his worship) rather than — as is also grammatically possible — as a Buddha-epithet, i.e., He Who is Purified \[Both\] Inside \[and\] Out”
+[^7]: *antosuddhaŋ bahiŋ suddhaŋ* (reading *bahisuddhaŋ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt.), lit., “purified inside, purified outside.” I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss in taking this as referring to the donor (or perhaps, in an adverbial sense, to his worship) rather than — as is also grammatically possible — as a Buddha-epithet, i.e., He Who is Purified \[Both\] Inside \[and\] Out”
 
 [^8]: *sammukhā viya*, lit., “as though face to face with”
 

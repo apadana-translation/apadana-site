@@ -1,7 +1,6 @@
 ---
 title: Rattipupphiya
 order: 173
-layout: poem
 category: chapter-3
 ---
 

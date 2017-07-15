@@ -1,7 +1,6 @@
 ---
 title: Timirapupphiya
 order: 81
-layout: poem
 category: chapter-3
 ---
 

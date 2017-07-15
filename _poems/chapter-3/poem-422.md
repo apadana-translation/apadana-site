@@ -1,7 +1,6 @@
 ---
 title: Ekadussadāyaka
 order: 422
-layout: poem
 category: chapter-3
 ---
 
@@ -116,9 +115,9 @@ Thus indeed Venerable Ekadussadāyaka Thera spoke these verses.
 
 The legend of Ekadussadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “One-Cloth-Donor” This same *apadāna* appears as \#{334}, above (BJTS only), presumably (as I speculate in the notes there) in order to fill a gap in the mss. tradition.
+[^2]: “One-Cloth-Donor” This same *apadāna* appears as \#{334}, above (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> only), presumably (as I speculate in the notes there) in order to fill a gap in the mss. tradition.
 
 [^3]: lit., “master of all things (*dhamma*)” (or “Master of All Teachings”)
 
@@ -128,9 +127,9 @@ The legend of Ekadussadāyaka Thera is finished.
 
 [^6]: *jalajuttamanāmaka*
 
-[^7]: BJTS (and PTS alt.) reads *dhīro* (“the wise one”)
+[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) reads *dhīro* (“the wise one”)
 
-[^8]: lit., “footstep after footstep,” or more literally still, “on footstep on footstep,” reduplicated to suggest the whole series. This interpretation follows the BJTS Sinhala gloss.
+[^8]: lit., “footstep after footstep,” or more literally still, “on footstep on footstep,” reduplicated to suggest the whole series. This interpretation follows the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss.
 
 [^9]: lit., “having been”
 

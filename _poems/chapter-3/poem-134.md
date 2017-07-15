@@ -1,7 +1,6 @@
 ---
 title: Pupphachadanīya
 order: 134
-layout: poem
 category: chapter-3
 ---
 
@@ -57,7 +56,7 @@ The legend of Pupphachadanīya Thera is finished.
 
 [^3]: Skt. *vājapeya*, one of the seven types of *soma* sacrifice
 
-[^4]: reading *aphari satte* (BJTS) for *aparisatte* (PTS).
+[^4]: reading *aphari satte* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *aparisatte* (<abbr title="Pali Text Society">PTS</abbr>).
 
 [^5]: lit., “as far as the city \[went\]”
 
@@ -65,4 +64,4 @@ The legend of Pupphachadanīya Thera is finished.
 
 [^7]: lit., “kṣatriyans”.
 
-[^8]: “Same as Part of the Sky.” BJTS read *ambaraṃsa sanāma te*, “they were named Ambaraṃsa” (Sky-Part”).
+[^8]: “Same as Part of the Sky.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> read *ambaraṃsa sanāma te*, “they were named Ambaraṃsa” (Sky-Part”).

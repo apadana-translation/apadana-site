@@ -1,7 +1,6 @@
 ---
 title: Sakiŋsammajjaka
 order: 421
-layout: poem
 category: chapter-3
 ---
 
@@ -83,15 +82,15 @@ Thus indeed Venerable Sakiŋsammajjaka Thera spoke these verses.
 
 The legend of Sakiŋsammajjaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Once-Sweeper”
 
 [^3]: *pāṭali*, Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
 
-[^4]: taking *paṭikuṭim* (BJTS reads *paṭikūṭī°*) as fr. *paṭikuṭati* “to crouch,” “to bend over.” BJTS gloss here (*gauravayen nämunem*, “bending over (in reverence)”
+[^4]: taking *paṭikuṭim* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *paṭikūṭī°*) as fr. *paṭikuṭati* “to crouch,” “to bend over.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss here (*gauravayen nämunem*, “bending over (in reverence)”
 
-[^5]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārimaggena* with BJTS (and PTS alt) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārima-maggena*, which breaks the meter
+[^5]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārimaggena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārima-maggena*, which breaks the meter
 
 [^6]: lit., “remembering the supreme (or ultimate) Bodhi tree
 
@@ -99,13 +98,13 @@ The legend of Sakiŋsammajjaka Thera is finished.
 
 [^8]: lit., “the karma done by me”
 
-[^9]: *āsanne*, BJTS gloss *maraṇasannayehi*, which in Sinhala anyway is one of the senses of *āsanna* (lit., “near”)
+[^9]: *āsanne*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *maraṇasannayehi*, which in Sinhala anyway is one of the senses of *āsanna* (lit., “near”)
 
-[^10]: *kalebaraŋ* (BJTS *kaḷebaraṃ*) *me*
+[^10]: *kalebaraŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *kaḷebaraṃ*) *me*
 
 [^11]: *visuddhaŋ paṇḍaraŋ*
 
-[^12]: *kaṇḍu*. BJTS reads *ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu*, with the same meaning.
+[^12]: *kaṇḍu*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu*, with the same meaning.
 
 [^13]: *daddu*
 
@@ -121,8 +120,8 @@ The legend of Sakiŋsammajjaka Thera is finished.
 
 [^19]: lit., “is,” singular
 
-[^20]: *asattaŋ*. BJTS reads *abhantaṃ*, “not swerving,” “not careening out of control”
+[^20]: *asattaŋ*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *abhantaṃ*, “not swerving,” “not careening out of control”
 
-[^21]: *samādhisu* (reading *samādhsu* with BJTS)
+[^21]: *samādhisu* (reading *samādhsu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>)
 
 [^22]: lit., “whichever *samādhi*”

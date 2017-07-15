@@ -1,7 +1,6 @@
 ---
 title: Uppalahatthiya
 order: 103
-layout: poem
 category: chapter-3
 ---
 
@@ -43,6 +42,6 @@ The legend of Uppalahatthiya Thera is finished.
 
 [^1]: “Blue Lotus-Handful-er”
 
-[^2]: reading *pupphadānass’* (BJTS) for *sasaññāya* (PTS)
+[^2]: reading *pupphadānass’* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *sasaññāya* (<abbr title="Pali Text Society">PTS</abbr>)
 
 [^3]: = *na* + *ajja* + *upama*, “No Metaphor (for? exists?) Today (?)

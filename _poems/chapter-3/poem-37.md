@@ -1,7 +1,6 @@
 ---
 title: Lasuṇadāyaka
 order: 37
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Sumanāveliya
 order: 328
-layout: poem
 category: chapter-3
 ---
 
@@ -67,7 +66,7 @@ The legend of Sumanāveliya Thera is finished.
 
 [^3]: Nirmāṇarati, a heaven wherein, as its name implies, one delights in form.
 
-[^4]: reading *akkositaṃ* with BJTS for PTS *uṭṭhāhitaŋ* (“exertion”)
+[^4]: reading *akkositaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *uṭṭhāhitaŋ* (“exertion”)
 
 [^5]: *uda* as enclitic, “or”
 

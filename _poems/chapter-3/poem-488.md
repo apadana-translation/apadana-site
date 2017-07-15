@@ -1,7 +1,6 @@
 ---
 title: Taraṇiya
 order: 488
-layout: poem
 category: chapter-3
 ---
 
@@ -90,11 +89,11 @@ Thus indeed Venerable Taraṇiya Thera spoke these verses.
 
 The legend of Taraṇiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Ferryman”. Cf. \#204, \#270, \#280 for parallel *apadāna*\s of monks with this name.
 
-[^3]: PTS reads *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>inatā*. BJTS reads *Vinaka°*, PTS alt. *Vinatā* is the spelling preferred by DPPN (see II:883), and used without divergence between PTS and BJTS in \#380 {383}, v. 1 = \[3292\]; cf. also \#511 {514} v. 1 = \[5473\], below.. Malalasekera says it was presumably in the Himalayas.
+[^3]: <abbr title="Pali Text Society">PTS</abbr> reads *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>inatā*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Vinaka°*, <abbr title="Pali Text Society">PTS</abbr> alt. *Vinatā* is the spelling preferred by DPPN (see II:883), and used without divergence between <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in \#380 {383}, v. 1 = \[3292\]; cf. also \#511 {514} v. 1 = \[5473\], below.. Malalasekera says it was presumably in the Himalayas.
 
 [^4]: *ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chapo vārigo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aro*
 
@@ -102,15 +101,15 @@ The legend of Taraṇiya Thera is finished.
 
 [^6]: or “since I reached puberty,” *yato patto ‘smi viññuta*, lit., “starting from when I reached puberty;”
 
-[^7]: reading *phuṭṭhe pādatale yathā* with BJTS for PTS *yathā pādatale muni*
+[^7]: reading *phuṭṭhe pādatale yathā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *yathā pādatale muni*
 
 [^8]: *bhaddake*, or “lucky” “fortunate” etc
 
-[^9]: BJTS *pava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante* (cf. *pave<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante*, the reading in \[5004\] below, note *pava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante* as PTS alt. there \[v, 5 of \#499, Ekapattadāyaka\]; RD = “give, bestow,” PSI “\[rainwater\] falls down”) for PTS *pavassante*, more straightforwardly “when raining”
+[^9]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *pava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante* (cf. *pave<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante*, the reading in \[5004\] below, note *pava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante* as <abbr title="Pali Text Society">PTS</abbr> alt. there \[v, 5 of \#499, Ekapattadāyaka\]; RD = “give, bestow,” PSI “\[rainwater\] falls down”) for <abbr title="Pali Text Society">PTS</abbr> *pavassante*, more straightforwardly “when raining”
 
 [^10]: *sammādhāre* (loc. abs. construction)
 
-[^11]: here PTS also reads *pave<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante*, which may exploit the more literal meaning of that term (acc. to RD), give, bestow; “when proper support is provided”. However, in the parallel verses below (5-6 of \#499, Ekapattadāyaka, PTS reads *pavassante*). “Raining” is a frequent metaphor for *Dhamma*-preaching, and it would be possible to construe the second *pāda* that way, “when it rains the preaching of the Sammāsambuddha, with proper support…”
+[^11]: here <abbr title="Pali Text Society">PTS</abbr> also reads *pave<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante*, which may exploit the more literal meaning of that term (acc. to RD), give, bestow; “when proper support is provided”. However, in the parallel verses below (5-6 of \#499, Ekapattadāyaka, <abbr title="Pali Text Society">PTS</abbr> reads *pavassante*). “Raining” is a frequent metaphor for *Dhamma*-preaching, and it would be possible to construe the second *pāda* that way, “when it rains the preaching of the Sammāsambuddha, with proper support…”
 
 [^12]: *upasanto*
 

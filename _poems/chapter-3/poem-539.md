@@ -1,7 +1,6 @@
 ---
 title: Rādha
 order: 539
-layout: poem
 category: chapter-3
 ---
 
@@ -164,7 +163,7 @@ Thus indeed Venerable Rādha Thera spoke these verses.
 
 The legend of Rādha Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: a historical monk, see DPPN II: 730-731
 
@@ -186,7 +185,7 @@ The legend of Rādha Thera is finished.
 
 [^11]: *nirākulaŋ*
 
-[^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
+[^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
 [^13]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*
 
@@ -210,11 +209,11 @@ The legend of Rādha Thera is finished.
 
 [^23]: lit., “with the Assembly”
 
-[^24]: reading *sa te hetuguṇe tuṭṭho* with BJTS for PTS *sake hetuguṇe tuṭṭho* (which could be “happy by reason of \[his\] own virtue”)
+[^24]: reading *sa te hetuguṇe tuṭṭho* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sake hetuguṇe tuṭṭho* (which could be “happy by reason of \[his\] own virtue”)
 
 [^25]: *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariŋ*, “waited on” “attended to”
 
-[^26]: PTS reads *vippakule n’iddhe*; BJTS reads *vippakule ‘niddhe*; both convey the same meaning.
+[^26]: <abbr title="Pali Text Society">PTS</abbr> reads *vippakule n’iddhe*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *vippakule ‘niddhe*; both convey the same meaning.
 
 [^27]: *giribbajapuruttame*. Giribbaja or Girivraja is another name for Rajgir (also for Vaṅkagiri; see DPPN I:770)
 

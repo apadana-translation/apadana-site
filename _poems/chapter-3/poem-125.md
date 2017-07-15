@@ -1,7 +1,6 @@
 ---
 title: Sammukhāthavika
 order: 125
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Tiṇamuṭhidāyaka
 order: 521
-layout: poem
 category: chapter-3
 ---
 
@@ -73,9 +72,9 @@ Thus indeed Venerable Tiṇamuṭṭhidāyaka Thera spoke these verses.
 
 The legend of Tiṇamuṭṭhidāyaka Thera is finished.
 
-[^1]: BJTS reads simply *Phaladāyaka°*
+[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads simply *Phaladāyaka°*
 
-[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^3]: “Handful of Grass Donor.” Virtually the same *apadāna* (with four extra feet among the first verses, and eliding the first two verses of the three-verse concluding refrain), with the same title, is presented above as \#345 {348}
 
@@ -87,7 +86,7 @@ The legend of Tiṇamuṭṭhidāyaka Thera is finished.
 
 [^7]: *anāsava*
 
-[^8]: reading *va* with BJTS (and PTS alternative) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, “and”
+[^8]: reading *va* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternative) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, “and”
 
 [^9]: *yūpa*. The description which proceeds in the next verse seems to refer to the whole palace, not just the sacrificial post.
 
@@ -95,6 +94,6 @@ The legend of Tiṇamuṭṭhidāyaka Thera is finished.
 
 [^11]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍa*\s (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\]…sacrificial post” .
 
-[^12]: following BJTS; PTS reads *geṇḍu*, in multiple variations (could this be related to *geṇḍuka*, a small ball?). At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
+[^12]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>; <abbr title="Pali Text Society">PTS</abbr> reads *geṇḍu*, in multiple variations (could this be related to *geṇḍuka*, a small ball?). At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
 
 [^13]: lit., “I attained the destruction of the outflows” (*āsavakkhayaŋ*)

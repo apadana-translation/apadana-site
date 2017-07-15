@@ -1,7 +1,6 @@
 ---
 title: Sudhāpiṇḍiya
 order: 91
-layout: poem
 category: chapter-3
 ---
 

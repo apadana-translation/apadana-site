@@ -1,7 +1,6 @@
 ---
 title: Ekapupphiya
 order: 284
-layout: poem
 category: chapter-3
 ---
 

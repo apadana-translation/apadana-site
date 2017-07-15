@@ -1,7 +1,6 @@
 ---
 title: Ṭhitañjaliya
 order: 79
-layout: poem
 category: chapter-3
 ---
 
@@ -45,7 +44,7 @@ The legend of Ṭhitañjaliya Thera is finished.
 
 [^2]: lit., “bearing the excellent marks”.
 
-[^3]: reading *tassa* with BJTS for PTS *tattha* (“there”)
+[^3]: reading *tassa* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tattha* (“there”)
 
 [^4]: lit., “at the time of \[my\] death”
 

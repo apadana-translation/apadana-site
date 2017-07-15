@@ -1,7 +1,6 @@
 ---
 title: Kaṅkha-Revata
 order: 542
-layout: poem
 category: chapter-3
 ---
 
@@ -111,31 +110,31 @@ Thus indeed Venerable Kaṅkha-Revata Thera spoke these verses.
 
 The legend of Kaṅkha-Revata Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Troubled Revata,” a historical monk so-named due to his scrupulosity about the Vinaya rules prior to attaining his arahantship. He was known as the foremost among those who are proficient in the trance-like meditative states called *jhanas*. See DPPN I: 474-475
 
-[^3]: *sīhahanu*. BJTS Sinh. gloss on this curious epithet is *siṃhayakugē haṇu banda piruṇu haṇu ättē ya* (“he has a full jaw like the jaw of a lion”)
+[^3]: *sīhahanu*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss on this curious epithet is *siṃhayakugē haṇu banda piruṇu haṇu ättē ya* (“he has a full jaw like the jaw of a lion”)
 
 [^4]: *brahmagiro*
 
-[^5]: the final component of this compound varies considerably in the texts; all the alternatives seem to indicate “sound” or “noise,” paralleling other forms of this adjective (e.g., \[5624\], \[5734\]) . PTS reads *haŋsadundrabhinisvano*, which is garbled*;* BJTS reads *haṃsadundubhibissaro*. I follow BJTS and BJTS Sinh. gloss *haḍḍa*. Presumably the meaning is that his voice was loud or resonated well. BJTS takes the first two components of the compound, *haṃsa* + *dundubhi*, as the name of a particular type of drum, “Swan-drum” (*hasbera*), though I find no indication of such an instrument in the dictionaries and so find more likely the translation here, that the Buddha’s sound was resounding like that of a swan or a drum — loud but pleasant.
+[^5]: the final component of this compound varies considerably in the texts; all the alternatives seem to indicate “sound” or “noise,” paralleling other forms of this adjective (e.g., \[5624\], \[5734\]) . <abbr title="Pali Text Society">PTS</abbr> reads *haŋsadundrabhinisvano*, which is garbled*;* <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *haṃsadundubhibissaro*. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *haḍḍa*. Presumably the meaning is that his voice was loud or resonated well. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> takes the first two components of the compound, *haṃsa* + *dundubhi*, as the name of a particular type of drum, “Swan-drum” (*hasbera*), though I find no indication of such an instrument in the dictionaries and so find more likely the translation here, that the Buddha’s sound was resounding like that of a swan or a drum — loud but pleasant.
 
 [^6]: *nāgavikkantagamano*
 
 [^7]: *mahāmati*
 
-[^8]: *mahāhito*. BJTS reads *mahābalo* (“Very Strong”)
+[^8]: *mahāhito*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *mahābalo* (“Very Strong”)
 
 [^9]: *mahākāruṇiko*
 
-[^10]: *mahātamanisūdano* (BJTS reads, more coherently, *mahātamapanūdano*)
+[^10]: *mahātamanisūdano* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads, more coherently, *mahātamapanūdano*)
 
 [^11]: *tilokaggo*
 
 [^12]: *sattâsayavidū*
 
-[^13]: *veneyyavinayaŋ bahuŋ*; BJTS tries to clean up the grammar with *vineyye vinayaṃ bahuṃ*
+[^13]: *veneyyavinayaŋ bahuŋ*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> tries to clean up the grammar with *vineyye vinayaṃ bahuṃ*
 
 [^14]: *toseti*, lit., “is delighting”
 
@@ -153,6 +152,6 @@ The legend of Kaṅkha-Revata Thera is finished.
 
 [^21]: pronounce all six syllables when chanting, or else read “\[most\] energetically,” to keep the meter.
 
-[^22]: This verse is in a more complex 11-12-11-12 meter named xxx (reading *ye jhāyino tā* with BJTS for PTS *jhāyino tā* in the third foot, thereby preserving both meter and grammar.
+[^22]: This verse is in a more complex 11-12-11-12 meter named xxx (reading *ye jhāyino tā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *jhāyino tā* in the third foot, thereby preserving both meter and grammar.
 
-[^23]: *lokantagū*, lit., “who has gone to the ends of the world” (understood by BJTS to refer to *bhavotpattiya*, the process of rebirth or re-existence itself)
+[^23]: *lokantagū*, lit., “who has gone to the ends of the world” (understood by <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> to refer to *bhavotpattiya*, the process of rebirth or re-existence itself)

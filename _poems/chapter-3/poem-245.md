@@ -1,7 +1,6 @@
 ---
 title: Kuṭidhūpaka
 order: 245
-layout: poem
 category: chapter-3
 ---
 

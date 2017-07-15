@@ -2,7 +2,7 @@
 Toggle "scholarly" features on & off on poems.
 
 The following features are toggle-able in the toolbox:
-1) chapter headings
+1) ALL FEATURES
 2) sidenotes
 3) content in square brackets
 4) verse numbers
@@ -19,6 +19,10 @@ function addToggleTags() {
   var brackets = /(\[)([a-zA-Z\s]+)(\])/g;
   $("#poem").html(function(_,html){
       return html.replace(brackets, '<span class="bracket" data-state="on">$1</span>$2<span class="bracket" data-state="on">$3</span>')
+  });
+  var bracketTitles = /(<h3[^>]*>)(\[)(.*?)(\])(<\/h3>)/g;
+  $("#poem").html(function(_,html){
+      return html.replace(bracketTitles, '$1<span class="bracket" data-state="on">$2</span>$3<span class="bracket" data-state="on">$4</span>$5')
   });
 
   // Verse Numbers
@@ -95,9 +99,13 @@ function addToggleTags() {
   toggle(toggleDiacritics, elemDiacritics, 'on', 'off');
 
   // 5) Toggle all
-  var toggleAll = document.querySelectorAll('.switch__input');
-  $(toggleAll[0]).change(function() {
-    $(toggleAll).not(":eq(0)").prop('checked', $(toggleAll).prop('checked')).trigger('change');
+  var toggleAll = document.querySelectorAll('.switch');
+  var toggleAllInputs = $(toggleAll).children(':checkbox');
+  $(toggleAll[0]).on('mouseover mouseout', function(e) {
+    $(toggleAll).not(":eq(0)").trigger(e.type);
+  });
+  $(toggleAllInputs[0]).change(function() {
+    $(toggleAllInputs).not(":eq(0)").prop('checked', $(toggleAllInputs).prop('checked')).trigger('change');
   });
 
   // ===================================

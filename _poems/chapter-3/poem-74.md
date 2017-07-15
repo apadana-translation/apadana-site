@@ -1,7 +1,6 @@
 ---
 title: Bhisāluvadāyaka
 order: 74
-layout: poem
 category: chapter-3
 ---
 

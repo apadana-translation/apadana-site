@@ -1,7 +1,6 @@
 ---
 title: Muṭṭhipupphiya
 order: 105
-layout: poem
 category: chapter-3
 ---
 

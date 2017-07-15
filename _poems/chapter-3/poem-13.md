@@ -1,7 +1,6 @@
 ---
 title: Nanda
 order: 13
-layout: poem
 category: chapter-3
 ---
 
@@ -51,13 +50,13 @@ Thus indeed Venerable Nanda Thera spoke these verses.
 
 The legend of Nanda Thera is finished.
 
-[^1]: reading *vattham khomam* (BJTS, cty) for *vatthuttaman* (“excellent cloth” PTS)
+[^1]: reading *vattham khomam* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty) for *vatthuttaman* (“excellent cloth” <abbr title="Pali Text Society">PTS</abbr>)
 
-[^2]: PTS reads *jalajuttamanāyako*, “Ultimate Lord of Water-Born Beings;” I follow BJTS and cty in reading *jalajuttamanāmako*, “named for the ultimate thing born of the water \[i.e., a lotus\].” This Buddha’s name, “Padumuttara,” means “Supreme Lotus”.
+[^2]: <abbr title="Pali Text Society">PTS</abbr> reads *jalajuttamanāyako*, “Ultimate Lord of Water-Born Beings;” I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and cty in reading *jalajuttamanāmako*, “named for the ultimate thing born of the water \[i.e., a lotus\].” This Buddha’s name, “Padumuttara,” means “Supreme Lotus”.
 
 [^3]: as a god, and as a man
 
-[^4]: BJTS reads “in the hundred-thousandth”.
+[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “in the hundred-thousandth”.
 
 [^5]: “Cloth”
 

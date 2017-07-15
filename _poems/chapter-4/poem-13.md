@@ -1,7 +1,6 @@
 ---
 title: Modakadāyikā
 order: 13
-layout: poem
 category: chapter-4
 ---
 
@@ -48,4 +47,4 @@ The legend of Modakadāyikā Therī is finished.
 
 [^1]: “Sweetmeat Donor”.
 
-[^2]: here PTS reads the name Timodakadāyikā, “Three-Sweetmeat-Donor”
+[^2]: here <abbr title="Pali Text Society">PTS</abbr> reads the name Timodakadāyikā, “Three-Sweetmeat-Donor”

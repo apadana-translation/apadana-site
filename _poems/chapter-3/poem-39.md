@@ -1,7 +1,6 @@
 ---
 title: Dhammacakkika
 order: 39
-layout: poem
 category: chapter-3
 ---
 
@@ -45,9 +44,9 @@ The legend of Dhammacakkika Thera is finished.
 
 [^2]: stone-carved free-standing scultpures of *dhamma-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkas* (an eight-spoked wheel representing the *Dhamma* of the Buddha as well as the Law of a “wheel-turning” \[<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akka-vatti\] monarchs have been discovered in the ruins of the stupas of the day. For references see SSE, fn XX. See also above, n. XX, ON THE <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>AKKAVATTI, first appearance. The *Dhamma*-wheel is also a standard emblem carved into the base of such thrones, which is often, as the cty stipulates here, flanked by images of lions (Dhammacakkika’s was ‘situated in the place between them both”).
 
-[^3]: BJTS Sinhala gloss follows the cty, as do I, in understanding “*vaṇṇitaṃ*” as “*varṇatā karaṇalada*.”
+[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss follows the cty, as do I, in understanding “*vaṇṇitaṃ*” as “*varṇatā karaṇalada*.”
 
-[^4]: “or of a charming appearance;” cty seems to read *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuvaṇṇo* for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āruvaṇṇo* (on which BJTS and PTS agree, without alternates in the mss.) and therefore interprets this to mean, “\[Among?\] the four castes, I shine”.
+[^4]: “or of a charming appearance;” cty seems to read *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuvaṇṇo* for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āruvaṇṇo* (on which <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> agree, without alternates in the mss.) and therefore interprets this to mean, “\[Among?\] the four castes, I shine”.
 
 [^5]: *turiya*, musical instruments
 

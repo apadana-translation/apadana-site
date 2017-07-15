@@ -1,7 +1,6 @@
 ---
 title: Padapūjaka
 order: 104
-layout: poem
 category: chapter-3
 ---
 
@@ -38,7 +37,7 @@ The legend of Padapūjaka Thera is finished.
 
 [^1]: “Foot-worshipper”.
 
-[^2]: reading *hāsenokīritāni* (BJTS) for *hasena-kāritāni* (“with laughter caused to be built,” PTS).
+[^2]: reading *hāsenokīritāni* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *hasena-kāritāni* (“with laughter caused to be built,” <abbr title="Pali Text Society">PTS</abbr>).
 
 [^3]: lit. "in the Supreme Buddha’s"
 

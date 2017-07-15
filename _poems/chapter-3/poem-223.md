@@ -1,7 +1,6 @@
 ---
 title: Dverataniya
 order: 223
-layout: poem
 category: chapter-3
 ---
 
@@ -46,7 +45,7 @@ Thus indeed Venerable Dverataniya Thera spoke these verses.
 
 The legend of Dverataniya Thera is finished.
 
-[^1]: “Two-Gem-er.” BJTS reads *Dviratananiya*, which conveys the same meaning. The name is unusual in that it alludes to the reward rather than the original/“seed” karma.
+[^1]: “Two-Gem-er.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Dviratananiya*, which conveys the same meaning. The name is unusual in that it alludes to the reward rather than the original/“seed” karma.
 
 [^2]: lit., “a gem”
 

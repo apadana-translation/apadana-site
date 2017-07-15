@@ -1,7 +1,6 @@
 ---
 title: Sayanadāyaka
 order: 47
-layout: poem
 category: chapter-3
 ---
 

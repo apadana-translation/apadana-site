@@ -1,7 +1,6 @@
 ---
 title: Uttara
 order: 556
-layout: poem
 category: chapter-3
 ---
 
@@ -203,7 +202,7 @@ Thus indeed Venerable Uttara Thera spoke these verses.
 
 The legend of Uttara Thera, the sixth.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: a historical monk, see DPPN I:349. This same *apadāna*, with slight variations, is included above as \#498 {501}, where it is ascribed to a monk named Tīṇikaṇikārapupphiya (“Three *Kaṇikāra* Flowers-er”), based on the nature of the original gift. The slight variations here are: reading *bhagavā* for *sambuddho* in the third foot of v. 1 \[6385\]; reading “well-gone” (*sugataṃ*) for “well-made” in v. 3 \[6387\]; reading *puṇṇamāye* for *puṇṇamāse* in v. 4 \[6388\]; reading “I don’t know” (*na jānāmi*) for “I don’t get born in” (*na jāyāmi*) in v. 21 \[6405\]; eliding the last two feet of v. 27 \[6411\], which \#498 {501} presents as a six-footed verse.
 
@@ -227,13 +226,13 @@ The legend of Uttara Thera, the sixth.
 
 [^12]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍa*\s (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\].” .
 
-[^13]: following BJTS, PTS reads *geṇḍu*, in multiple variations. At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
+[^13]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> reads *geṇḍu*, in multiple variations. At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
 
-[^14]: *yeni<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakā*, following BJTS Sinhala gloss *kämäti tänaka*
+[^14]: *yeni<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakā*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *kämäti tänaka*
 
 [^15]: *°vikutī°;* I take this to evoke a mattress (*tūlikā°*) constructed through piling up (“assembling”) of layers of grass or wool (see RD., s.v.)
 
-[^16]: reading *uddalomika°* with BJTS for PTS *uddhalomikā* (which means about the same thing, see RD, s.v)
+[^16]: reading *uddalomika°* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *uddhalomikā* (which means about the same thing, see RD, s.v)
 
 [^17]: lit., “on a flower”
 

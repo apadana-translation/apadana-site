@@ -1,7 +1,6 @@
 ---
 title: Ekatthambhika
 order: 12
-layout: poem
 category: chapter-3
 ---
 
@@ -87,7 +86,7 @@ The legend of Ekatthambhika Thera is finished.
 
 [^3]: lit “they having not acquired one pillar”.
 
-[^4]: reading *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārem’* (BJTS, PTS alt) for *parivārem’* (“being surrounded,” PTS, but also with the sense of “waiting upon”).
+[^4]: reading *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārem’* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *parivārem’* (“being surrounded,” <abbr title="Pali Text Society">PTS</abbr>, but also with the sense of “waiting upon”).
 
 [^5]: “Fame-Bearer”
 

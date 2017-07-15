@@ -20,10 +20,11 @@ $(function(){
           }
         },
         onAfter: function() {
-          $('.poem').sidenotes();
+          sidenoteFire();
           navigation();
           addToggleTags();
           progressBar();
+          metaScroll();
         }
       },
       smoothState = $page.smoothState(options).data('smoothState');

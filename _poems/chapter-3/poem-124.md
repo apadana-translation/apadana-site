@@ -1,7 +1,6 @@
 ---
 title: Gandhodakiya
 order: 124
-layout: poem
 category: chapter-3
 ---
 
@@ -47,6 +46,6 @@ The legend of Gandhodakiya Thera is finished.
 
 [^3]: lit., “went”
 
-[^4]: reading *tassa yathā sataraṃsito* with BJTS for PTS *sataraṃsimhi nibbute* (“\[as though” when the sun went out”).
+[^4]: reading *tassa yathā sataraṃsito* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sataraṃsimhi nibbute* (“\[as though” when the sun went out”).
 
 [^5]: “Good Scent”

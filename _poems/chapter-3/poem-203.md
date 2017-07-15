@@ -1,7 +1,6 @@
 ---
 title: Kiṅkaṇikapupphiya
 order: 203
-layout: poem
 category: chapter-3
 ---
 
@@ -36,16 +35,16 @@ Thus indeed Venerable Kiṅkaṇikapupphiya[^6] Thera spoke these verses.
 
 The legend of Kiṅkaṇikapupphiya[^7] Thera is finished.
 
-[^1]: BJTS reads Kiṅkiṇikapupphiya
+[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads Kiṅkiṇikapupphiya
 
 [^2]: *kañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
-[^3]: BJTS reads *kiṅkhiṇi* here
+[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kiṅkhiṇi* here
 
 [^4]: lit., “in the seventy-seventh aeon”
 
-[^5]: “Cruel Chariot”. PTS reads *bhimaratha*.
+[^5]: “Cruel Chariot”. <abbr title="Pali Text Society">PTS</abbr> reads *bhimaratha*.
 
-[^6]: BJTS reads Kiṅkiṇikapupphiya
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads Kiṅkiṇikapupphiya
 
-[^7]: BJTS reads Kiṅkiṇikapupphiya
+[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads Kiṅkiṇikapupphiya

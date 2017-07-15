@@ -1,7 +1,6 @@
 ---
 title: Buddhūpaṭṭhāyaka
 order: 289
-layout: poem
 category: chapter-3
 ---
 

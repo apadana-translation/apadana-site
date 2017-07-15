@@ -1,7 +1,6 @@
 ---
 title: Vanakoraṇḍiya
 order: 456
-layout: poem
 category: chapter-3
 ---
 
@@ -36,8 +35,8 @@ Thus indeed Venerable Vanakoraṇḍiya Thera spoke these verses.
 
 The legend of Vanakoraṇḍiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Wild *Koraṇḍa*-er”
 
-[^3]: *vanakoraṇḍam*, presumably a wild-growing (lit., “forest”) variety of *koraṇḍa*, Sinh. *kaṭukoraṇḍu*, Barberia prionitis (*Acanth.*), cf. *koraṇḍaka*, *kuraṇḍaka*, a shrub and its flower, J. v.473 (RD); here BJTS gloss is *vanakaraṇḍa*, which I do not find in the dictionaries (a different species from *kaṭukoraṇḍa*?)
+[^3]: *vanakoraṇḍam*, presumably a wild-growing (lit., “forest”) variety of *koraṇḍa*, Sinh. *kaṭukoraṇḍu*, Barberia prionitis (*Acanth.*), cf. *koraṇḍaka*, *kuraṇḍaka*, a shrub and its flower, J. v.473 (RD); here <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss is *vanakaraṇḍa*, which I do not find in the dictionaries (a different species from *kaṭukoraṇḍa*?)

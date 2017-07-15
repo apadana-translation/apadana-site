@@ -1,7 +1,6 @@
 ---
 title: Uppalavaṇṇā
 order: 19
-layout: poem
 category: chapter-4
 ---
 
@@ -449,13 +448,13 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^12]: *akasmiŋ sambhave*, lit., “in a single coming-to-be-with,” “in a single origin” “in a single production”. Rāhula and Uppalavaṇṇā were born in this present moment together to be (literal and figurative) son and (only figurative) daughter of the Buddha, that is brother and sister (only figuratively), having however experienced many previous lifetimes together — sometimes as literal brother and sister, or mother and son — in the *Jātaka* stories. For a mention of some of these, see DPPN I: 421. Because (as in the present birth) these “same origins” are not *always* familial/genealogical/literal, I have preserved the ambiguity of the Pāli (“being together”) in the translation, so the same word can be translated correspondingly in v. 519, below.
 
-[^13]: reading *nānāsambhavā* with BJTS (and PTS alt.) for PTS *nāmasambhavā*, (“Conditions in name” — to be read as “only figuratively” \[??\])
+[^13]: reading *nānāsambhavā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *nāmasambhavā*, (“Conditions in name” — to be read as “only figuratively” \[??\])
 
 [^14]: *vejjo komārako*, “a juvenile doctor” or perhaps “a young/inexperienced doctor”? Or a pediatrician, i.e., “a doctor connected with juveniles”? It depends on/shapes the interpretation of this anyway ambiguous (to me) verse.
 
 [^15]: *telaŋ vatthigataŋ c’eva*, i.e., administering an enema? Or *vatthigataŋ* as a second thing being handled (carefully, gingerly), not only oil but also that “gone to \[or from?\] the bladder”?
 
-[^16]: reading *luñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i komārako yuvā* with BJTS for PTS *luñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iko mārako yuvā* (“plucky devilish youth”?)
+[^16]: reading *luñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i komārako yuvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *luñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iko mārako yuvā* (“plucky devilish youth”?)
 
 [^17]: or is *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittapunna* the *name* of a flower, i.e., “picks a *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittapunna* flower”
 
@@ -467,21 +466,21 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^21]: lit., “pure” (*suddhaŋ*)
 
-[^22]: reading *sammukhā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a parammukhā* with BJTS (and PTS alts.) for PTS *saṅkamante nidassitaŋ* (“pointed out when transmigrating” ?)
+[^22]: reading *sammukhā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a parammukhā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alts.) for <abbr title="Pali Text Society">PTS</abbr> *saṅkamante nidassitaŋ* (“pointed out when transmigrating” ?)
 
 [^23]: that is, for the sake of meeting you, in order to be part of your future dispensation, cf. how contemporary Buddhists perform service in the hopes of meeting Maitreya or some even further-into-the-future Buddha.
 
 [^24]: or “wholesome”: *kusalaŋ*
 
-[^25]: *vajjetvā*. Reading BJTS *parivajjentī* (also “avoiding” “abstaining from” “renouncing”) for PTS *paripā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ento* (“developing”) in the subsequent foot (note both recensions differently present it as a nine-syllable foot), but anyway leaving it untranslated here, lit., “avoiding avoiding”
+[^25]: *vajjetvā*. Reading <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *parivajjentī* (also “avoiding” “abstaining from” “renouncing”) for <abbr title="Pali Text Society">PTS</abbr> *paripā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ento* (“developing”) in the subsequent foot (note both recensions differently present it as a nine-syllable foot), but anyway leaving it untranslated here, lit., “avoiding avoiding”
 
-[^26]: reading *anā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āraŋ* with BJTS for PTS *anāvaraŋ* (“not mean” = “noble things; PTS alt. *bahuŋ janaŋ*, “many people” \[!\])
+[^26]: reading *anā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āraŋ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *anāvaraŋ* (“not mean” = “noble things; <abbr title="Pali Text Society">PTS</abbr> alt. *bahuŋ janaŋ*, “many people” \[!\])
 
 [^27]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta*, \#29 of *Dīghanikāya*, section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
 
 [^28]: or “one hundred billion”
 
-[^29]: this verse does not appear in PTS. BJTS reads: *tadātisaṃhitā sabbā sirasāva katañjalī*/*avoc’ ayye kathaṃ āsi atul’iddhiparakkamā*//
+[^29]: this verse does not appear in <abbr title="Pali Text Society">PTS</abbr>. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads: *tadātisaṃhitā sabbā sirasāva katañjalī*/*avoc’ ayye kathaṃ āsi atul’iddhiparakkamā*//
 
 [^30]: “Stainless”
 
@@ -491,33 +490,33 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^33]: *mahātajaŋ*, or “the Hot One”
 
-[^34]: reading *paṭiyādesi* with BJTS (and PTS alt.) for PTS *paṭipādesi*, to impart, to offer, to present
+[^34]: reading *paṭiyādesi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *paṭipādesi*, to impart, to offer, to present
 
-[^35]: reading *sabbaññuṃ* with BJTS for PTS *sabbañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“all…and”)
+[^35]: reading *sabbaññuṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sabbañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“all…and”)
 
-[^36]: reading *sumanāy’ itarāyapi* with BJTS (and PTS alt.) for PTS *sumitaŋ itarāya pi* (“well-measured by the other to” ?), and following BJTS Sinhala gloss
+[^36]: reading *sumanāy’ itarāyapi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *sumitaŋ itarāya pi* (“well-measured by the other to” ?), and following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss
 
-[^37]: reading *suvisāradā* with BJTS (and subsequent verses here) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a visāradā* (“and skillful”)
+[^37]: reading *suvisāradā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and subsequent verses here) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a visāradā* (“and skillful”)
 
 [^38]: *orasāmukhato jātā*
 
 [^39]: lit., “and”
 
-[^40]: reading *suvisāradā* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a visāradā*, as above
+[^40]: reading *suvisāradā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a visāradā*, as above
 
-[^41]: reading *annapānena* with BJTS for PTS *mahājanena* (“with the great multitude”)
+[^41]: reading *annapānena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mahājanena* (“with the great multitude”)
 
 [^42]: “sun”
 
 [^43]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arunayano*
 
-[^44]: reading *vināyakaṃ* with BJTS (and PTS alts.) for PTS *vimissitaŋ* (“mixed”)
+[^44]: reading *vināyakaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alts.) for <abbr title="Pali Text Society">PTS</abbr> *vimissitaŋ* (“mixed”)
 
 [^45]: lit., “doing *pūjā*”
 
-[^46]: reading *vaṇṇasobhaṃ* with BJTS (and PTS alt.) for PTS *vaṇṇasetaŋ* (“white color” ?)
+[^46]: reading *vaṇṇasobhaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *vaṇṇasetaŋ* (“white color” ?)
 
-[^47]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
+[^47]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “Named Kassapa according to his Lineage (*gottena*)”
 
 [^48]: ”Guarded Nun” “Protected Female Renouncer”
 
@@ -529,9 +528,9 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^52]: given the long names, this foot is unavoidably nine-syllables long, both in Pāli and in English
 
-[^53]: here the text (in both PTS and BJTS editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be better here.
+[^53]: here the text (in both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be better here.
 
-[^54]: *pīta-maṭṭha-varaŋ dussaŋ*, BJTS (and PTS alt.) read *pītamaṭṭhaṃ varaṃ dussaṃ*
+[^54]: *pīta-maṭṭha-varaŋ dussaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) read *pītamaṭṭhaṃ varaṃ dussaṃ*
 
 [^55]: in a brahmin clan
 
@@ -545,9 +544,9 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^60]: *lāja*
 
-[^61]: BJTS reads *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aputtasatāni pi* (“and also \[my\] five hundred sons”), in keeping with its variant reading of the first foot of the following verse
+[^61]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aputtasatāni pi* (“and also \[my\] five hundred sons”), in keeping with its variant reading of the first foot of the following verse
 
-[^62]: BJTS reads *te pi* *patthesuṃ* (“and they \[the five hundred sons posited as already-existing in the BJTS variant of the prior verse\] wished”) for PTS *tesu patthesu*, “with those wishes”
+[^62]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *te pi* *patthesuṃ* (“and they \[the five hundred sons posited as already-existing in the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> variant of the prior verse\] wished”) for <abbr title="Pali Text Society">PTS</abbr> *tesu patthesu*, “with those wishes”
 
 [^63]: lit., “offered *pūjā*”
 
@@ -557,11 +556,11 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^66]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekanāyakā*, i.e., Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhas, Lonely Buddhas
 
-[^67]: *sutavīrehi*. BJTS reads *sutavarehi* (“excellent sons”)
+[^67]: *sutavīrehi*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *sutavarehi* (“excellent sons”)
 
 [^68]: one of the five mountains surrounding Rajagaha (a.k.a. Giribajjapura, now Rajgir in Bihar, India), famous as the long-time home of five hundred Lonely Buddhas
 
-[^69]: *su-tānaka-sakaŋ*. BJTS reads
+[^69]: *su-tānaka-sakaŋ*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads
 
 [^70]: *yāguŋ*
 
@@ -573,7 +572,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^74]: this and the following five verses seem to be a dialogue between the nun and Death (*Māra*) or “the Evil One” (*Pāpimant*) personified; this first verse is thought by her, v. 71 is spoken by Death, v. 72-76 contain her response, addressed to him in the second person, while v. 77 suggests that the Buddha witnesses the scene.
 
-[^75]: this and the next verse are presented with feet of eleven syllables each in both PTS and BJTS and I translate accordingly. The present verse has 12 syllables in the first foot, which I take as a mistake (read *pupphitaggaṃ* for *supupphitaggaŋ* ?).
+[^75]: this and the next verse are presented with feet of eleven syllables each in both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and I translate accordingly. The present verse has 12 syllables in the first foot, which I take as a mistake (read *pupphitaggaṃ* for *supupphitaggaŋ* ?).
 
 [^76]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittasmiŋ vasibhūtasmiŋ*, lit., “when i became master of (or “over”) \[my own\] mind”
 
@@ -591,6 +590,6 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^83]: or assemblies (even four parts of the Assembly), multitudes, retinues
 
-[^84]: *seṭṭhaŋ*, etymologically related to her designation “millionaire;” BJTS, more typical of the whole work, reads *aggaṃ*, “\[she is\] foremost”
+[^84]: *seṭṭhaŋ*, etymologically related to her designation “millionaire;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, more typical of the whole work, reads *aggaṃ*, “\[she is\] foremost”
 
 [^85]: *°matīnaŋ*, lit., “of those (females) endowed”

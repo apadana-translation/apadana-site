@@ -1,7 +1,6 @@
 ---
 title: Udakapūjaka
 order: 106
-layout: poem
 category: chapter-3
 ---
 

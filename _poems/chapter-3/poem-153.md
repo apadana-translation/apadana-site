@@ -1,7 +1,6 @@
 ---
 title: Vīthisammajjaka
 order: 153
-layout: poem
 category: chapter-3
 ---
 
@@ -43,8 +42,8 @@ The legend of Vīthisammajjaka Thera is finished.
 
 [^1]: “Road-Sweeper”
 
-[^2]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andaṃ* (BJTS) for *tad-āhu* (“that was,” PTS)
+[^2]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *tad-āhu* (“that was,” <abbr title="Pali Text Society">PTS</abbr>)
 
 [^3]: the fifteenth day of the lunar month, when it is full.
 
-[^4]: “Good Banner.” This reading of the name follows BJTS. PTS reads “by the name Vissuta”.
+[^4]: “Good Banner.” This reading of the name follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>. <abbr title="Pali Text Society">PTS</abbr> reads “by the name Vissuta”.

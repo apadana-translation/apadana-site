@@ -1,7 +1,6 @@
 ---
 title: Desakittiya
 order: 297
-layout: poem
 category: chapter-3
 ---
 

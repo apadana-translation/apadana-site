@@ -1,7 +1,6 @@
 ---
 title: Kapparukkhiya
 order: 40
-layout: poem
 category: chapter-3
 ---
 
@@ -54,7 +53,7 @@ Kuṇḍadhāna Chapter, the Fourth.
 
 [^1]: “Wish-Fulfilling-Tree-er”
 
-[^2]: reading *laggetvā* (BJTS, cty) for *langhetvā* (PTS)
+[^2]: reading *laggetvā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty) for *langhetvā* (<abbr title="Pali Text Society">PTS</abbr>)
 
 [^3]: *kapparukkha* (lit., “aeon tree”) typically refers to a tree in heaven that grants all wishes. Especially given the reference to affixing a decorated cloth, this may allude to a picture of such a tree painted on cloth, rather than being a claim that an actual wish-fulfilling tree was donated at the stupa. Alternately, in contemporary Sri Lanka, a *kapruk pūjā* is one in which a “tree” or stand, constructed of sticks or metal, is set up and donors are encouraged to hang money and objects as gifts on it. Given the allusion in v. (3) \[1112\] to getting cloth from the *kapparukkha*, this may be the best interpretation of the term in this context, but for a metaphorical usage of the term cf. v. \[26\], above
 

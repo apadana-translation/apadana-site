@@ -1,7 +1,6 @@
 ---
 title: Vedikāraka
 order: 143
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Bhaddā-Kuṇḍalakesā
 order: 21
-layout: poem
 category: chapter-4
 ---
 
@@ -289,15 +288,15 @@ The legend of Bhaddā-Kuṇḍalakesā Therī is finished.
 
 [^5]: “Bhaddā” is her name as well as term of endearment (which is also used for those whose name it is not, e.g, *Khemāpadāna*, v. 84 \[498\], above)
 
-[^6]: reading *hessasi* with BJTS for PTS *hessati* (“she will be”)
+[^6]: reading *hessasi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *hessati* (“she will be”)
 
 [^7]: Yāma, Tusita, Nimmānarati and Vāsavatti are all heavens in the Buddhist cosmology.
 
-[^8]: BJTS reads *nimmāṇaratiṃ*
+[^8]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *nimmāṇaratiṃ*
 
 [^9]: *anekakappesu*, lit., “during various aeons”
 
-[^10]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
+[^10]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “Named Kassapa according to his Lineage (*gottena*)”
 
 [^11]: “Alms-giver”. Texts read Bhikkhadāyī
 
@@ -307,7 +306,7 @@ The legend of Bhaddā-Kuṇḍalakesā Therī is finished.
 
 [^14]: given the long names, this foot is unavoidably nine-syllables long, both in Pāli and in English
 
-[^15]: here the text (in both PTS and BJTS editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be better here.
+[^15]: here the text (in both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be better here.
 
 [^16]: = Rājagaha, Rajgir, in Bihār
 
@@ -319,9 +318,9 @@ The legend of Bhaddā-Kuṇḍalakesā Therī is finished.
 
 [^20]: *me bhūsanalobhena*, lit., “out of greed for my ornaments”
 
-[^21]: reading *khalitajjhāsayo diso* (lit., “enemy intent on wrong-doing”) with BJTS for PTS *mālapa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āhataŋ diso* (“\[led me\] carrying a garland, the enemy”)
+[^21]: reading *khalitajjhāsayo diso* (lit., “enemy intent on wrong-doing”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mālapa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āhataŋ diso* (“\[led me\] carrying a garland, the enemy”)
 
-[^22]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>orappapātaŋ*, BJTS Sinh. gloss explains “where thieves are killed”
+[^22]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>orappapātaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss explains “where thieves are killed”
 
 [^23]: “Enemy,” but apparently used as a proper name
 
@@ -351,6 +350,6 @@ The legend of Bhaddā-Kuṇḍalakesā Therī is finished.
 
 [^36]: *satthu sāsanakārikā*, lit., “\[I am\] a doer of the Teacher’s dispensation”
 
-[^37]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I became”)
+[^37]: reading *amhi* (“I am”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *āsiŋ* (“I was” “I became”)
 
 [^38]: lit., “pure” (*suddhaŋ*)

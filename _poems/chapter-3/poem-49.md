@@ -1,7 +1,6 @@
 ---
 title: Subhadda
 order: 49
-layout: poem
 category: chapter-3
 ---
 

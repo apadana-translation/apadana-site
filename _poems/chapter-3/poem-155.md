@@ -1,7 +1,6 @@
 ---
 title: Mandāravapūjaka
 order: 155
-layout: poem
 category: chapter-3
 ---
 

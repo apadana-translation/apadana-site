@@ -1,7 +1,6 @@
 ---
 title: Piyālaphaladāyaka
 order: 140
-layout: poem
 category: chapter-3
 ---
 
@@ -59,8 +58,8 @@ seventy verses plus two \[more\].
 
 The Sobhita Chapter, the Fourteenth.
 
-[^1]: “Piyāla-Fruit-Donor” *Piyāla* (Sinh. *piyal*) is buchanania latifolia. PTS omits “Piyāla,” hence reads the name merely as “Fruit-Donor”. Cf. below, \#497 {500}, for a (different) *apadāna* ascribed to a monk of this name.
+[^1]: “Piyāla-Fruit-Donor” *Piyāla* (Sinh. *piyal*) is buchanania latifolia. <abbr title="Pali Text Society">PTS</abbr> omits “Piyāla,” hence reads the name merely as “Fruit-Donor”. Cf. below, \#497 {500}, for a (different) *apadāna* ascribed to a monk of this name.
 
-[^2]: *pārādhaka*/*parādhaka* (BJTS) or *parodhaka* (PTS, cty) seems to be a neologism. The cty glosses it as *para-satta-rodhaka* (“harmer of other beings”) and as *vihesaka*, “vexer”. The BJTS Sinhala gloss gives “a destroyer of others’ breaths/other beings, a *vädda* (Sri Lankan aborigine, hunter)”. I read *parapāṇu°* (“other beings \[lit., “ones with breath”\],” BJTS) for *paramāṇu* (“atoms,” PTS) in the compound in the second foot.
+[^2]: *pārādhaka*/*parādhaka* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) or *parodhaka* (<abbr title="Pali Text Society">PTS</abbr>, cty) seems to be a neologism. The cty glosses it as *para-satta-rodhaka* (“harmer of other beings”) and as *vihesaka*, “vexer”. The <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss gives “a destroyer of others’ breaths/other beings, a *vädda* (Sri Lankan aborigine, hunter)”. I read *parapāṇu°* (“other beings \[lit., “ones with breath”\],” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *paramāṇu* (“atoms,” <abbr title="Pali Text Society">PTS</abbr>) in the compound in the second foot.
 
 [^3]: *vināyakaŋ*

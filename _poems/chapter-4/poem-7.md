@@ -1,7 +1,6 @@
 ---
 title: Kaṭacchubhikkhadāyikā
 order: 7
-layout: poem
 category: chapter-4
 ---
 

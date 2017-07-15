@@ -1,7 +1,6 @@
 ---
 title: Sālamālikā
 order: 16
-layout: poem
 category: chapter-4
 ---
 
@@ -70,18 +69,18 @@ Thus indeed Bhikkhunī Sālamālikā[^7] spoke these verses.
 
 The legend of Sālamālikā[^8] Therī is finished.
 
-[^1]: “*Sal*-Garland-er.” This follows BJTS. PTS reads Nalamālikā, “Reed-Garland-er”.
+[^1]: “*Sal*-Garland-er.” This follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>. <abbr title="Pali Text Society">PTS</abbr> reads Nalamālikā, “Reed-Garland-er”.
 
 [^2]: *vedajāto*
 
-[^3]: PTS reads *nala°*.
+[^3]: <abbr title="Pali Text Society">PTS</abbr> reads *nala°*.
 
 [^4]: lit., “Śākyas’ Son’s”
 
-[^5]: PTS reads *nala°*
+[^5]: <abbr title="Pali Text Society">PTS</abbr> reads *nala°*
 
-[^6]: as will be clear from the numbering, BJTS places this verse before, rather than after, the standard refrain, and omits the final verse (12) found in the PTS version.
+[^6]: as will be clear from the numbering, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> places this verse before, rather than after, the standard refrain, and omits the final verse (12) found in the <abbr title="Pali Text Society">PTS</abbr> version.
 
-[^7]: PTS reads *Nala°*.
+[^7]: <abbr title="Pali Text Society">PTS</abbr> reads *Nala°*.
 
-[^8]: PTS reads *Nala°*.
+[^8]: <abbr title="Pali Text Society">PTS</abbr> reads *Nala°*.

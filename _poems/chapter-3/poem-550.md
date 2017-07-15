@@ -1,7 +1,6 @@
 ---
 title: Cūlasugandha
 order: 550
-layout: poem
 category: chapter-3
 ---
 
@@ -225,11 +224,11 @@ are finished. Let it be the basis for nirvana![^58]
 
 The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Little Good Scent,” perhaps to distinguish him from the Sugandha Thera whose *apadāna* appears above as \#527 {530}, with which the present *apadāna* shares some verses. DPPN I: 904 says he is probably identical with Subhūti Thera
 
-[^3]: One BJTS alt. reads *gottena*, “by lineage”
+[^3]: One <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. reads *gottena*, “by lineage”
 
 [^4]: *vadataŋ varo*
 
@@ -263,7 +262,7 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^19]: *karuṇāpuṇṇahadayo*
 
-[^20]: reading *guṇena* with BJTS (and PTS alt., also alt. *guṇe*, “in virtue”) for PTS *vivaddho* (“without aging”?)
+[^20]: reading *guṇena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt., also alt. *guṇe*, “in virtue”) for <abbr title="Pali Text Society">PTS</abbr> *vivaddho* (“without aging”?)
 
 [^21]: *lokavissutakittī*
 
@@ -275,11 +274,11 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^25]: *patiṭṭhā*, support, resting place
 
-[^26]: reading *kuvāda°* with BJTS (and PTS alt.) for PTS *kupāda°*. PTS reads the second component of the compound as °*ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha* (“reed,” “marshy land”) and BJTS reads it as *ga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha* (“shrub” “small plant”); “undergrowth” attempts to capture both meanings.
+[^26]: reading *kuvāda°* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *kupāda°*. <abbr title="Pali Text Society">PTS</abbr> reads the second component of the compound as °*ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha* (“reed,” “marshy land”) and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads it as *ga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha* (“shrub” “small plant”); “undergrowth” attempts to capture both meanings.
 
 [^27]: *agado viya*, “counter-poison” “medicine”
 
-[^28]: reading *kilesavisanāsako* with BJTS for PTS *°nāyako* (“he is the Leader of poison of the defilements”)
+[^28]: reading *kilesavisanāsako* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *°nāyako* (“he is the Leader of poison of the defilements”)
 
 [^29]: *guṇagandhavibhūsito*
 
@@ -289,7 +288,7 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^32]: *kilesamalahārako*, or “defilement’s stains”
 
-[^33]: *mārasenāpamaddano*, BJTS reads *mārasenappamaddano*
+[^33]: *mārasenāpamaddano*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *mārasenappamaddano*
 
 [^34]: *bojjhaṅgaratan’issaro*, a play on the “seven gems” (the wheel, etc.) of the wheel-turning monarch
 
@@ -297,7 +296,7 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^36]: *dosavyādhitiki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chako*
 
-[^37]: *°viphālako*, lit., “de-fruiter,” BJTS Sinh. gloss *sindunā*
+[^37]: *°viphālako*, lit., “de-fruiter,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *sindunā*
 
 [^38]: *diṭṭhigaṇḍa°*
 
@@ -319,11 +318,11 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^47]: lit., “to the Well-Gone-One
 
-[^48]: reading *māse aṭṭhadinesv-ahaṃ* with BJTS for PTS *māse aṭṭhadine svaha*
+[^48]: reading *māse aṭṭhadinesv-ahaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *māse aṭṭhadine svaha*
 
 [^49]: *paṇidhāya*, or “firm resolve”, Sinh. *prārthanāva*
 
-[^50]: PTS *yahiŋ tahiŋ;* BJTS *tahiṃ tahiṃ*
+[^50]: <abbr title="Pali Text Society">PTS</abbr> *yahiŋ tahiŋ;* <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *tahiṃ tahiṃ*
 
 [^51]: lit., “my mother was fragrant through her body”
 
@@ -339,6 +338,6 @@ The Bhaddiya Chapter, the Fifty-Fifth[^59]
 
 [^57]: lit., “here”
 
-[^58]: BJTS omits these two concluding lines, because the BJTS recension of the *apadāna* does not end here, even though BJTS includes these chapter summary verses for an incomplete hundred (*sātakaṃ*).
+[^58]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits these two concluding lines, because the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> recension of the *apadāna* does not end here, even though <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> includes these chapter summary verses for an incomplete hundred (*sātakaṃ*).
 
-[^59]: BJTS places this statement above the summary, rather than after it
+[^59]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> places this statement above the summary, rather than after it

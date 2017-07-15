@@ -1,7 +1,6 @@
 ---
 title: Kāsumāriphaladāyaka
 order: 503
-layout: poem
 category: chapter-3
 ---
 
@@ -41,7 +40,7 @@ Thus indeed Venerable Kāsumāriphaladāyaka Thera spoke these verses.
 
 The legend of Kāsumāriphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Kāsumāri (Sinh. *ät dämaṭa*) Fruit Donor” The same *apadāna*, with the same name, appears verbatim as \#377 {380} above, with the slight difference that the first and second verses of the standard three-verse concluding refrain are inverted (second first, first second)
 

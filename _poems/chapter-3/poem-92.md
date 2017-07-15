@@ -1,7 +1,6 @@
 ---
 title: Sucintita
 order: 92
-layout: poem
 category: chapter-3
 ---
 
@@ -43,4 +42,4 @@ The legend of Su<span class="diacritics" data-state="on">c</span><span class="no
 
 [^1]: “Well-Thought.” \#66 and \#425 {428} are also ascribed to (apparently different) monks of this name.
 
-[^2]: reading *suddhāpīṭham* (BJTS, PTS alt.) for *pubbe-pīṭham* (“former \[or eastern\] chair,” PTS).
+[^2]: reading *suddhāpīṭham* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt.) for *pubbe-pīṭham* (“former \[or eastern\] chair,” <abbr title="Pali Text Society">PTS</abbr>).

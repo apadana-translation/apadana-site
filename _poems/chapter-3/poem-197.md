@@ -1,7 +1,6 @@
 ---
 title: Tindukadāyaka
 order: 197
-layout: poem
 category: chapter-3
 ---
 
@@ -52,12 +51,12 @@ The legend of Tindukadāyaka Thera is finished.
 
 [^3]: *tinduka* = Sinh. *timbiri*, Diaspyros embryopteris; Indian Persimmon
 
-[^4]: reading *nikkhamitvā* with BJTS (and also alternate reading in PTS) for PTS *nikkhipitvā* (“laying down”)
+[^4]: reading *nikkhamitvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and also alternate reading in <abbr title="Pali Text Society">PTS</abbr>) for <abbr title="Pali Text Society">PTS</abbr> *nikkhipitvā* (“laying down”)
 
 [^5]: *tibhavantaguŋ*
 
 [^6]: that is, *arahants*.
 
-[^7]: PTS *pāmujjaŋ*, BJTS *pāmojjaṃ*
+[^7]: <abbr title="Pali Text Society">PTS</abbr> *pāmujjaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *pāmojjaṃ*
 
 [^8]: “Joyful”

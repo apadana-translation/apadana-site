@@ -1,7 +1,6 @@
 ---
 title: Ummāpupphiya
 order: 321
-layout: poem
 category: chapter-3
 ---
 
@@ -45,7 +44,7 @@ The legend of Ummāpupphiya Thera is finished.
 
 [^1]: “\[Blue\] Flax-Flower-er.” cf. \#145.
 
-[^2]: *samādhinā upaviṭṭham* fr *upavisati* (reading BJTS for PTS *upāviṭṭham*)
+[^2]: *samādhinā upaviṭṭham* fr *upavisati* (reading <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *upāviṭṭham*)
 
 [^3]: *ummāpuppha* (Skt. *umāpuṣpa*), Linum usitatissimum, Linseed. The small flowers of this fiber-bearing plant are distinctively and deeply blue in color, and the seeds, as the English name implies, bear a useful oil.
 

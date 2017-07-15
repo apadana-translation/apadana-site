@@ -1,7 +1,6 @@
 ---
 title: Salaḷapupphiya
 order: 370
-layout: poem
 category: chapter-3
 ---
 
@@ -52,16 +51,16 @@ and exactly forty verses.
 
 The Mandārapupphiya[^7] Chapter, the Thirty-Seventh
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Salaḷa Flower-er”. BJTS reads *salala°*. BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.)
+[^2]: “Salaḷa Flower-er”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *salala°*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.)
 
 [^3]: the *kinnara* (Sinh. *kandura*) has a human head and a horse’s body; “centaur”.
 
 [^4]: lit., “divinely-scented *salaḷa* \[flower\]”
 
-[^5]: reading *sato* with BJTS for PTS *sadā*, “always”
+[^5]: reading *sato* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sadā*, “always”
 
 [^6]: lit., “conscious of me who was wishing,” or, taking it as a genitive absolute construction, “conscious/aware when I was wishing \[for it\]”
 
-[^7]: BJTS reads *Mandārava*, the preferred Pāli spelling
+[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Mandārava*, the preferred Pāli spelling

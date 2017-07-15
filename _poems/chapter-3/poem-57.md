@@ -1,7 +1,6 @@
 ---
 title: Pañcadīpika
 order: 57
-layout: poem
 category: chapter-3
 ---
 
@@ -50,7 +49,7 @@ The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="
 
 [^2]: lit., “made” “did”
 
-[^3]: reading *dhārenti* (BJTS) for *dhārento* (“I am carrying,” PTS)
+[^3]: reading *dhārenti* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *dhārento* (“I am carrying,” <abbr title="Pali Text Society">PTS</abbr>)
 
 [^4]: lit., “having passed over a mountain”
 
@@ -58,6 +57,6 @@ The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="
 
 [^6]: lit., “destruction of the āsavas \[defilements, outlfows\]”
 
-[^7]: note that BJTS inverts the order of verses (5) and (6)
+[^7]: note that <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> inverts the order of verses (5) and (6)
 
 [^8]: “Hundred-Eyes”

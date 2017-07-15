@@ -1,7 +1,6 @@
 ---
 title: Paccuggamaniya
 order: 283
-layout: poem
 category: chapter-3
 ---
 

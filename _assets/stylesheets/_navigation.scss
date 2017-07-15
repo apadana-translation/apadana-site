@@ -41,6 +41,15 @@
   }
 }
 
+.button {
+  @include reset-link();
+  margin-right: 1rem;
+  padding: 0.2rem 0;
+  color: palette(dark);
+  font-weight: bold;
+  box-shadow: inset 0 -3px 0 palette(highlight);
+}
+
 // ===================================
 // Base Header Navigation
 // ===================================
@@ -500,7 +509,12 @@
 .nav {
 
   &--toc {
+    width: 100%;
     font-family: $root-font-family;
+
+    @include breakpoint($large) {
+      float: left;
+    }
 
     ol {
       margin-bottom: 0;

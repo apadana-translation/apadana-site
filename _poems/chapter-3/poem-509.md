@@ -1,7 +1,6 @@
 ---
 title: Tālaphaliya
 order: 509
-layout: poem
 category: chapter-3
 ---
 
@@ -41,7 +40,7 @@ Thus indeed Venerable Tālaphaliya Thera spoke these verses.
 
 The legend of Tālaphaliya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Palmyra-Fruit-er.” the fruit is a purple-colored, and something like a small coconut. When the top of cut off it contains three refreshing bits of fruit which are scooped out with the finger and eaten fresh.
 

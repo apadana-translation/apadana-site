@@ -1,7 +1,6 @@
 ---
 title: Kilañjadāyaka
 order: 235
-layout: poem
 category: chapter-3
 ---
 
@@ -38,7 +37,7 @@ The legend of Kilañjadāyaka Thera is finished.
 
 [^1]: “Mat Donor”
 
-[^2]: reading *naḷakāro* with BJTS (and PTS alternate reading) for PTS *nalakāro*
+[^2]: reading *naḷakāro* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternate reading) for <abbr title="Pali Text Society">PTS</abbr> *nalakāro*
 
 [^3]: lit., “doing *pūjā*”
 

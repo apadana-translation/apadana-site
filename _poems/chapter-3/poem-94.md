@@ -1,7 +1,6 @@
 ---
 title: Sucidāyaka
 order: 94
-layout: poem
 category: chapter-3
 ---
 

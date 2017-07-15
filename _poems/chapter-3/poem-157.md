@@ -1,7 +1,6 @@
 ---
 title: Tiṇasulaka
 order: 157
-layout: poem
 category: chapter-3
 ---
 
@@ -35,6 +34,6 @@ The legend of Tiṇasulaka Thera is finished.
 
 [^2]: “Group of Ghosts”
 
-[^3]: the text abbreviates the standard claim of not having experienced any ill-state, but that still seems to be the sense here: for 99,999 aeons he did not fall back into hell or animal births. This is also how BJTS Sinhala gloss understands the term *avinipātaka*.
+[^3]: the text abbreviates the standard claim of not having experienced any ill-state, but that still seems to be the sense here: for 99,999 aeons he did not fall back into hell or animal births. This is also how <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss understands the term *avinipātaka*.
 
 [^4]: “Growing from the Earth,” “Tree”.

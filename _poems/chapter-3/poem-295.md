@@ -1,7 +1,6 @@
 ---
 title: Gosīsanikkhepa
 order: 295
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Anusaŋsāvaka
 order: 300
-layout: poem
 category: chapter-3
 ---
 
@@ -62,8 +61,8 @@ The Third Hundred[^4] is finished.
 
 [^1]: “Praiser” or more loosely “Singer of Praises”
 
-[^2]: BJTS Sinhala gloss takes *uluṅkabhikkhaṃ* to mean a small amount and I follow suit; cf. “eat like a bird.” But the term — which I do not find documented in the dictionaries — could also refer to something that owls typically eat, or even the flesh of owls. Cty provides no explanation.
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss takes *uluṅkabhikkhaṃ* to mean a small amount and I follow suit; cf. “eat like a bird.” But the term — which I do not find documented in the dictionaries — could also refer to something that owls typically eat, or even the flesh of owls. Cty provides no explanation.
 
-[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attāri <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a satānîha* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attārīsa satānîha* (“forty hundred”); I take the total to be 451 for this century of legends
+[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attāri <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a satānîha* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attārīsa satānîha* (“forty hundred”); I take the total to be 451 for this century of legends
 
 [^4]: *sataka* is a common structure in Sanskrit and Pāli poetry, usually referring to one hundred verses, rather than (as here) one hundred stories.

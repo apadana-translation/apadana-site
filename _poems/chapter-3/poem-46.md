@@ -1,7 +1,6 @@
 ---
 title: Padumacchadaniya
 order: 46
-layout: poem
 category: chapter-3
 ---
 
@@ -38,8 +37,8 @@ The legend of Padumu<span class="diacritics" data-state="on">c</span><span class
 
 [^1]: “Pink-Lotus-Cover-er”
 
-[^2]: reading *uggamī* with BJTS (and PTS alt.) for PTS *uggamiŋ* (“I rose”)
+[^2]: reading *uggamī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *uggamiŋ* (“I rose”)
 
-[^3]: BJTS agrees in reading the verb in the first person, though BJTS alt. gives a reading in third person, which would be better here
+[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agrees in reading the verb in the first person, though <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. gives a reading in third person, which would be better here
 
 [^4]: “Lord of Lotuses”

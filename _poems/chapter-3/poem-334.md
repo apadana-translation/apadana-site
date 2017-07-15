@@ -1,11 +1,10 @@
 ---
 title: Ekadussadāyaka
 order: 334
-layout: poem
 category: chapter-3
 ---
 
-### {\*334, BJTS only: Ekadussadāyaka[^1]}
+### {\*334, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> only: Ekadussadāyaka[^1]}
 
 In the city, Haṃsavatī,  
 I was a grass-bearer \[back then\].  
@@ -112,7 +111,7 @@ The legend of Ekadussadāyaka Thera is finished.
 
 [^1]: “One-Cloth-Donor”
 
-[^2]: lit., “Master of All Things (*dhamma*)” (or “Master of All Teachings”). This *apadāna* is included verbatim as \#419 {422} below, ascribed to a monk of the same name. Presumably following the colophonic demand for an “Ekadussika” at this point in the text, editors in the mss. tradition on which BJTS is based supplied this *apadāna* verbatim from a different part of the text, in order to fill the gap.
+[^2]: lit., “Master of All Things (*dhamma*)” (or “Master of All Teachings”). This *apadāna* is included verbatim as \#419 {422} below, ascribed to a monk of the same name. Presumably following the colophonic demand for an “Ekadussika” at this point in the text, editors in the mss. tradition on which <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> is based supplied this *apadāna* verbatim from a different part of the text, in order to fill the gap.
 
 [^3]: *niraya-samphassa*, lit., “contact with hell” “touching of hell” “experience of hell”
 
@@ -120,7 +119,7 @@ The legend of Ekadussadāyaka Thera is finished.
 
 [^5]: *jalajuttamanāmaka*
 
-[^6]: lit., “footstep after footstep,” or more literally still, “on footstep on footstep,” reduplicated to suggest the whole series. This interpretation follows the BJTS Sinhala gloss.
+[^6]: lit., “footstep after footstep,” or more literally still, “on footstep on footstep,” reduplicated to suggest the whole series. This interpretation follows the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss.
 
 [^7]: lit., "having been”
 

@@ -1,7 +1,6 @@
 ---
 title: Hatthidāyaka
 order: 211
-layout: poem
 category: chapter-3
 ---
 

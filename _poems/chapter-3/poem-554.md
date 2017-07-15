@@ -1,7 +1,6 @@
 ---
 title: Kimbila
 order: 554
-layout: poem
 category: chapter-3
 ---
 
@@ -46,7 +45,7 @@ Thus indeed Venerable Kimbila Thera spoke these verses.
 
 The legend of Kimbila Thera, the fourth.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: the personal name of a historical monk, well known in the early texts. See DPPN I: 604-605 for details. This same *apadāna*, almost verbatim (the only difference is in the first verse of the concluding refrain; there “All defilements…” replaces the more common “Like elephant…” found here), is included above as \#395 {398}. There it is ascribed to a monk named Salaḷamaṇḍapiya (“*Salaḷa*-Pavilion-er”), apparently reflecting the nature of the formative gift described in this *apadāna*.
 
@@ -54,7 +53,7 @@ The legend of Kimbila Thera, the fourth.
 
 [^4]: *vusīmati*, loc. of *vusīmant* = *vusitavant*, “one who has reached perfection” “the Master”
 
-[^5]: BJTS Sinh.gloss = *hora*, Bot. Dict. = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)”
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh.gloss = *hora*, Bot. Dict. = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)”
 
 [^6]: lit., “I caused a pavilion (*maṇḍapa*) to be constructed,” caus. of *karoti*
 

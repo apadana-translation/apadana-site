@@ -1,7 +1,6 @@
 ---
 title: Pāṭalipupphiya
 order: 78
-layout: poem
 category: chapter-3
 ---
 

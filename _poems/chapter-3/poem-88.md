@@ -1,7 +1,6 @@
 ---
 title: Saddasaññaka
 order: 88
-layout: poem
 category: chapter-3
 ---
 

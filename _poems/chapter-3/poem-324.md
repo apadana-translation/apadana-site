@@ -1,7 +1,6 @@
 ---
 title: Saññasāmika
 order: 324
-layout: poem
 category: chapter-3
 ---
 
@@ -69,9 +68,9 @@ The legend of Saññasāmika Thera is finished.
 
 [^2]: lit., “seven years from birth”
 
-[^3]: reading *sārathambh-upanītāni* with BJTS for PTS *sārasmiŋ hi upatāni* (“brought on a post”)
+[^3]: reading *sārathambh-upanītāni* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sārasmiŋ hi upatāni* (“brought on a post”)
 
-[^4]: *pahaṭaŋ*, BJTS reads *pahaṭṭhaŋ* with the same meaning.
+[^4]: *pahaṭaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pahaṭṭhaŋ* with the same meaning.
 
 [^5]: *ukkāmukhaŋ*, the “mouth” (receiving or discharging end) of a furnace or forge, a goldsmith’s smelting pot.
 
@@ -83,6 +82,6 @@ The legend of Saññasāmika Thera is finished.
 
 [^9]: *hito*, lit., “Friendly One”
 
-[^10]: reading *sabbasattahite* (lit., “in friendliness to all creatures”) with BJTS for PTS *sattāsattahite*, “kindness to creatures and non-creatures.”
+[^10]: reading *sabbasattahite* (lit., “in friendliness to all creatures”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sattāsattahite*, “kindness to creatures and non-creatures.”
 
 [^11]: *gato*, lit., “was gone”

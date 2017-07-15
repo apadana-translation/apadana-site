@@ -32,7 +32,7 @@
     }
   }
 
-  @include breakpoint($medium-large) {
+  @include breakpoint($large) {
     display: none;
   }
 }

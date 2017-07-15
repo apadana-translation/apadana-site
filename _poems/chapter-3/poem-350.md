@@ -1,7 +1,6 @@
 ---
 title: Ekañjaliya
 order: 350
-layout: poem
 category: chapter-3
 ---
 
@@ -41,15 +40,15 @@ which are counted by those who know.
 
 The Ekapadumiya Chapter, the Thirty-Fifth
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “One Salute.” Cf. \#29, \#275.
 
-[^3]: PTS and BJTS alt. read *Romasa* (cf. \#279). I follow BJTS in reading *Revata* (also a PTS alt.)
+[^3]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. read *Romasa* (cf. \#279). I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in reading *Revata* (also a <abbr title="Pali Text Society">PTS</abbr> alt.)
 
-[^4]: reading *pītaraṃsiṃ va* with BJTS for PTS *vītaraŋsîva* (“devoid of rays” or “woven rays”). PTS alt. *sataraŋsîva* (“hundred-rayed”) is perhaps better than either of these readings, and consistent with *Apadāna* usage elsewhere (cf. \#33, \#85, \#112, \#153, \#178, \#181, \#185, \#202, \#215, \#309, \#345{348})
+[^4]: reading *pītaraṃsiṃ va* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vītaraŋsîva* (“devoid of rays” or “woven rays”). <abbr title="Pali Text Society">PTS</abbr> alt. *sataraŋsîva* (“hundred-rayed”) is perhaps better than either of these readings, and consistent with *Apadāna* usage elsewhere (cf. \#33, \#85, \#112, \#153, \#178, \#181, \#185, \#202, \#215, \#309, \#345{348})
 
-[^5]: *pahaṭaŋ*, BJTS reads *pahaṭṭhaŋ* with the same meaning.
+[^5]: *pahaṭaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pahaṭṭhaŋ* with the same meaning.
 
 [^6]: or bronze, iron, etc.
 

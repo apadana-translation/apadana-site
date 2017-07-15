@@ -1,7 +1,6 @@
 ---
 title: Telamakkhiya
 order: 262
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Buddhasaññaka
 order: 117
-layout: poem
 category: chapter-3
 ---
 
@@ -58,4 +57,4 @@ The legend of Buddhasaññaka Thera is finished.
 
 [^1]: “Buddha-Perceiver”.
 
-[^2]: PTS reads Vessavaṇṇa.
+[^2]: <abbr title="Pali Text Society">PTS</abbr> reads Vessavaṇṇa.

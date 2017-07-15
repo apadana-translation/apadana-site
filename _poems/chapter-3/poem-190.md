@@ -1,7 +1,6 @@
 ---
 title: Tivaṇṭipupphiya
 order: 190
-layout: poem
 category: chapter-3
 ---
 
@@ -56,12 +55,12 @@ The Kuṭajapupphiya Chapter, the Nineteenth.
 
 [^2]: the cty does not explain the reason he is overwhelmed (or overpowered: *abhibhuŋ*).
 
-[^3]: this translation follows the BJTS gloss
+[^3]: this translation follows the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss
 
 [^4]: “Good Joy”
 
-[^5]: *paddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*; BJTS reads *bhaddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*. Elsewhere (see below, \#194, v. 1 \[2230\]) cty glosses the term as “servant” which is also possible; this reading follows BJTS which glosses it as *saha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arayo*, associates or fellow-wanders.
+[^5]: *paddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *bhaddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*. Elsewhere (see below, \#194, v. 1 \[2230\]) cty glosses the term as “servant” which is also possible; this reading follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> which glosses it as *saha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arayo*, associates or fellow-wanders.
 
 [^6]: that is, he was reborn eight times as a \[king\] named Dhūmaketana. The name means “Having fire \[or smoke\] on \[or as\] \[his\] banner \[or flag\]”
 
-[^7]: reading *dvāsaṭṭhi* with BJTS for PTS *bāsaṭṭhi* (though *bā-* is a common alternative for *dvā-* in compounds)
+[^7]: reading *dvāsaṭṭhi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *bāsaṭṭhi* (though *bā-* is a common alternative for *dvā-* in compounds)

@@ -1,7 +1,6 @@
 ---
 title: Ñāṇathavika
 order: 434
-layout: poem
 category: chapter-3
 ---
 
@@ -56,7 +55,7 @@ Thus indeed Venerable Ñāṇathavika Thera spoke these verses.
 
 The legend of Ñāṇathavika Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Knowledge-Praiser”
 
@@ -68,22 +67,22 @@ The legend of Ñāṇathavika Thera is finished.
 
 [^6]: *dassayitvā*, lit., “having shown” “havig displayed” “having diffused”
 
-[^7]: reading *ñāṇālokaṃ* with BJTS for PTS *ñāṇalokaŋ* (“the world of knowledge”)
+[^7]: reading *ñāṇālokaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ñāṇalokaŋ* (“the world of knowledge”)
 
-[^8]: reading *anuttara* (voc.) with BJTS for PTS *anuttaraŋ* (acc.). The BJTS reading has the adjective modify “you” (Buddha); the PTS reading has it modify “world”
+[^8]: reading *anuttara* (voc.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *anuttaraŋ* (acc.). The <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading has the adjective modify “you” (Buddha); the <abbr title="Pali Text Society">PTS</abbr> reading has it modify “world”
 
-[^9]: *sabbāvantaŋ*, fr. *sabbāvant*, “all, entire;” BJTS gloss *siyalu sattvayan sahita* (“with all its creatures”)
+[^9]: *sabbāvantaŋ*, fr. *sabbāvant*, “all, entire;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *siyalu sattvayan sahita* (“with all its creatures”)
 
-[^10]: *yāvatā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a gato gati*, lit., “as far as going goes,” BJTS Sinh. gloss *yāmtāk da ētāk* (“however far, to that extent”)
+[^10]: *yāvatā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a gato gati*, lit., “as far as going goes,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *yāmtāk da ētāk* (“however far, to that extent”)
 
 [^11]: *upamā n’atthi*, “analogy” “metaphor” “likeness”
 
-[^12]: reading *buddho* with BJTS for PTS *bhotvā* (= *hutvā* ?)
+[^12]: reading *buddho* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *bhotvā* (= *hutvā* ?)
 
 [^13]: *pavu<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ati*, lit., “is called” “is said to be” “is pronounced”
 
 [^14]: *sabbaññū ti*
 
-[^15]: reading *anāvaraṃ* with BJTS (and PTS alt.) for PTS *anāsavaŋ* (“Undefiled”)
+[^15]: reading *anāvaraṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *anāsavaŋ* (“Undefiled”)
 
 [^16]: *sabbaññutaŋ*

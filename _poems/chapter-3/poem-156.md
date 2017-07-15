@@ -1,7 +1,6 @@
 ---
 title: Kadambapupphiya
 order: 156
-layout: poem
 category: chapter-3
 ---
 
@@ -40,7 +39,7 @@ The legend of Kadambapupphiya Thera is finished.
 
 [^2]: “Fowl”.
 
-[^3]: reading *vasanti te* (BJTS) for *vasantike* (“in the middle of the house,” PTS)
+[^3]: reading *vasanti te* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *vasantike* (“in the middle of the house,” <abbr title="Pali Text Society">PTS</abbr>)
 
 [^4]: i.e., according to the cty, the moon.
 

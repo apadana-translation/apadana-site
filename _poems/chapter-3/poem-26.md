@@ -1,7 +1,6 @@
 ---
 title: Dhūpadāyaka
 order: 26
-layout: poem
 category: chapter-3
 ---
 

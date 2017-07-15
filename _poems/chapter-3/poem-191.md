@@ -1,7 +1,6 @@
 ---
 title: Tamālapupphiya
 order: 191
-layout: poem
 category: chapter-3
 ---
 

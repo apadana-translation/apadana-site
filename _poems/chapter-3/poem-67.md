@@ -1,7 +1,6 @@
 ---
 title: Vatthadāyaka
 order: 67
-layout: poem
 category: chapter-3
 ---
 
@@ -53,4 +52,4 @@ The legend of Vatthadāyaka Thera is finished.
 
 [^1]: “Cloth-Donor”
 
-[^2]: BJTS (and some PTS alt) reads suvaṇṇo (“with good color” or “golden”) for supaṇṇo (PTS, lit., “good leaves”) but the cty agrees with PTS and glosses *supaṇṇo* as *supatto* (“good wings”), so I translate accordingly.
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and some <abbr title="Pali Text Society">PTS</abbr> alt) reads suvaṇṇo (“with good color” or “golden”) for supaṇṇo (<abbr title="Pali Text Society">PTS</abbr>, lit., “good leaves”) but the cty agrees with <abbr title="Pali Text Society">PTS</abbr> and glosses *supaṇṇo* as *supatto* (“good wings”), so I translate accordingly.

@@ -1,7 +1,6 @@
 ---
 title: Vakkali
 order: 532
-layout: poem
 category: chapter-3
 ---
 
@@ -199,11 +198,11 @@ Thus indeed Venerable Vakkali Thera spoke these verses.
 
 The legend of Vakkali Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Bark-Clad”. A historical monk, foremost among those intention upon faith (*saddhādhimuttānaṃ*), famous for never tiring of looking at the Buddha. See DPPN II:799ff.
 
-[^3]: reading *anomanāmo* (lit., “having a name which was not inferior”) with BJTS for PTS *Anomā nāmo* (named “Anomā”)
+[^3]: reading *anomanāmo* (lit., “having a name which was not inferior”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Anomā nāmo* (named “Anomā”)
 
 [^4]: *amito*
 
@@ -213,7 +212,7 @@ The legend of Vakkali Thera is finished.
 
 [^7]: *padumāmalasu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavi*
 
-[^8]: BJTS reads *vīro* for PTS *dhīro*, a common confusion given the similarity of the Sinhala letters “vī” and “dhī,” though typically BJTS reads *dhīro* for PTS *vīro*. It is not clear to me how either epithet relates to lotuses.
+[^8]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *vīro* for <abbr title="Pali Text Society">PTS</abbr> *dhīro*, a common confusion given the similarity of the Sinhala letters “vī” and “dhī,” though typically <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *dhīro* for <abbr title="Pali Text Society">PTS</abbr> *vīro*. It is not clear to me how either epithet relates to lotuses.
 
 [^9]: *padumapattakkho*
 
@@ -231,25 +230,25 @@ The legend of Vakkali Thera is finished.
 
 [^16]: *guṇanidhi*
 
-[^17]: *santaveso*, BJTS Sinh. gloss *śānta veśa äti*
+[^17]: *santaveso*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *śānta veśa äti*
 
 [^18]: *karuṇā-mati-sāgaro*
 
-[^19]: reading *brahmāsuresurac<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ito* with BJTS (and PTS alt.) for PTS *brahmāmarasurac<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ito* (“Praised by Brahmā and the Deathless Gods” or “Praised by Brahmā the God and the Gods”
+[^19]: reading *brahmāsuresurac<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ito* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *brahmāmarasurac<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ito* (“Praised by Brahmā and the Deathless Gods” or “Praised by Brahmā the God and the Gods”
 
 [^20]: *januttamo*
 
-[^21]: *sadevamanujâkiṇṇo*. BJTS notes alt. that reads this as *°âkiṇṇe* and takes it as modifying *janamajjhe*, but accepts the reading *°âkiṇṇo* which makes it an epithet of the Buddha.
+[^21]: *sadevamanujâkiṇṇo*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> notes alt. that reads this as *°âkiṇṇe* and takes it as modifying *janamajjhe*, but accepts the reading *°âkiṇṇo* which makes it an epithet of the Buddha.
 
-[^22]: *kadā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i…janamajjhe*, following BJTS Sinh. gloss
+[^22]: *kadā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i…janamajjhe*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss
 
-[^23]: *mama dassanalālaso*, lit., “fervently desirous of my look” or “of a vision (cf. Skt. *darśan*) of me”. PSI *lālasā* = *adhika tṛṣṇāva*, ardent desire, BJTS Sinh. gloss *lol vu* (desiring, attached to, greedy for, eager), fr. *luḷati*, to be stirred up, agitated
+[^23]: *mama dassanalālaso*, lit., “fervently desirous of my look” or “of a vision (cf. Skt. *darśan*) of me”. PSI *lālasā* = *adhika tṛṣṇāva*, ardent desire, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *lol vu* (desiring, attached to, greedy for, eager), fr. *luḷati*, to be stirred up, agitated
 
 [^24]: as with Mahāka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna (see v. \[5670-5671\], above), the protagonist emulates a monk during his past life who has the same name which he will have as a monk in his future life during the time of Gotama Buddha. In other words, the monk named Vakkali referred to by Padumuttara is emulated and imitated by the later follower of Gotama Buddha even to the extent of having the same name.
 
-[^25]: or “whose clothes are (or whose dwelling place is) made of gold.” I follow BJTS Sinh. gloss *kahavat handanā vū* (“dressed in yellow cloth”)
+[^25]: or “whose clothes are (or whose dwelling place is) made of gold.” I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *kahavat handanā vū* (“dressed in yellow cloth”)
 
-[^26]: reading *hemayaññopavītaṅgaṃ* with BJTS for PTS *hemayaññopa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaṅgaŋ* (“body heaped up with sacrifices of gold”?). The *yaññopavīta* (or more correctly *yaññopanīta*), lit., “sacrificial cord,” is a distinctive accoutrement of brahmin dress; the protagonist’s was gold-colored or made or gold. BJTS Sinh. gloss suggests the latter: *ranvan pūnanūlak därǟ siruru*
+[^26]: reading *hemayaññopavītaṅgaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *hemayaññopa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaṅgaŋ* (“body heaped up with sacrifices of gold”?). The *yaññopavīta* (or more correctly *yaññopanīta*), lit., “sacrificial cord,” is a distinctive accoutrement of brahmin dress; the protagonist’s was gold-colored or made or gold. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss suggests the latter: *ranvan pūnanūlak därǟ siruru*
 
 [^27]: or “distinction:” *tena kammavisesana*, a variant (and metrical improvement) on the common first foot in parallel verses, i.e., *tena kammena sukatena*
 
@@ -267,12 +266,12 @@ The legend of Vakkali Thera is finished.
 
 [^34]: *sabbapārami-sambhūtaŋ*
 
-[^35]: reading *lakkhīnilayanaṃ paraṃ* with BJTS (and PTS alt.) for PTS *nīlakkhinayanaŋ* (having eyes which are blue eyes”)
+[^35]: reading *lakkhīnilayanaṃ paraṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *nīlakkhinayanaŋ* (having eyes which are blue eyes”)
 
 [^36]: *khandhānaŋ udayabbayaŋ*
 
 [^37]: *Gijjhakūṭaŋ*, one of the mountains near Rajgir frequented by Gotama Buddha.
 
-[^38]: lit., “in a mountain cave” (or “grotto” “crag”) reading *giri-kandare* with BJTS (and PTS alt.) for PTS *giri-niddare*, alt. *giri-niddhare* (= mountain + ?)
+[^38]: lit., “in a mountain cave” (or “grotto” “crag”) reading *giri-kandare* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *giri-niddare*, alt. *giri-niddhare* (= mountain + ?)
 
 [^39]: or “speech,” *vā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aŋ*

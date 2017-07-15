@@ -1,7 +1,6 @@
 ---
 title: Saṅkamanattā
 order: 4
-layout: poem
 category: chapter-4
 ---
 

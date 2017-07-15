@@ -1,7 +1,6 @@
 ---
 title: Hemaka
 order: 407
-layout: poem
 category: chapter-3
 ---
 
@@ -212,7 +211,7 @@ Thus indeed Venerable Hemaka Thera spoke these verses.
 
 The legend of Hemaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Gold-er”
 
@@ -222,15 +221,15 @@ The legend of Hemaka Thera is finished.
 
 [^5]: lit., “in”
 
-[^6]: reading *sake bale* with BJTS (and PTS alt.) for PTS *sake phale*, “in his own fruit”
+[^6]: reading *sake bale* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *sake phale*, “in his own fruit”
 
 [^7]: *sasamaye*, his own crowd, multitude, assembly; also season, tradition, religion
 
 [^8]: *paravāde*
 
-[^9]: *paṭṭho*, lit., “established.” BJTS Sinh. gloss here: *prakaṭa*
+[^9]: *paṭṭho*, lit., “established.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss here: *prakaṭa*
 
-[^10]: *uppādamhi*, BJTS gloss *utpāta śāstrayehi dakṣayeka*
+[^10]: *uppādamhi*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *utpāta śāstrayehi dakṣayeka*
 
 [^11]: *alolupo*
 
@@ -242,13 +241,13 @@ The legend of Hemaka Thera is finished.
 
 [^15]: *aggo*
 
-[^16]: BJTS gloss: across the ocean of *saṃsāra*
+[^16]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss: across the ocean of *saṃsāra*
 
-[^17]: *pharī*, “spread abroad” BJTS Sinh. gloss *pätira vī ya*; the term also means “thrilled \[others\]”
+[^17]: *pharī*, “spread abroad” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *pätira vī ya*; the term also means “thrilled \[others\]”
 
 [^18]: lit., “…with compassion at that time”
 
-[^19]: or “capable of being enlightened,” *bodhaneyyaŋ pajaŋ*, BJTS reads *bodhaneyyaṃ janaṃ*, “people who could understand”
+[^19]: or “capable of being enlightened,” *bodhaneyyaŋ pajaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *bodhaneyyaṃ janaṃ*, “people who could understand”
 
 [^20]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷasahassamhi*, i.e., in a thousand spheres of cosmic mountains that define a world
 
@@ -258,17 +257,17 @@ The legend of Hemaka Thera is finished.
 
 [^23]: lit., “I brought pleasure to my heart with regard to that/him”
 
-[^24]: reading *sampatte pi* with BJTS (and PTS alt.) for PTS *sampatto pi*, “though I had arrived”
+[^24]: reading *sampatte pi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *sampatto pi*, “though I had arrived”
 
 [^25]: *sadevake*, lit., “in \[the world together\] with the gods”
 
-[^26]: reading *pi* with BJTS (and PTS alt.) for PTS *‘si*, “you are”
+[^26]: reading *pi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *‘si*, “you are”
 
 [^27]: lit., “sit!” (imperative, *nidisa*)
 
 [^28]: *ratanāsane*
 
-[^29]: this follows the BJTS Sinhala gloss
+[^29]: this follows the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss
 
 [^30]: *nimminitvāna*, lit., “having created”
 
@@ -282,7 +281,7 @@ The legend of Hemaka Thera is finished.
 
 [^35]: *amataŋ*
 
-[^36]: here as elsewhere BJTS corrects PTS *sovaṇṇayaŋ* to *sovaṇṇamayaṃ*, despite breaking meter.
+[^36]: here as elsewhere <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> corrects <abbr title="Pali Text Society">PTS</abbr> *sovaṇṇayaŋ* to *sovaṇṇamayaṃ*, despite breaking meter.
 
 [^37]: *rūpimayaŋ = rūpiya-mayaŋ*
 
@@ -300,13 +299,13 @@ The legend of Hemaka Thera is finished.
 
 [^44]: *gāmaṇīya* usually means elephant-trainers, as in v. 26 \[4097\], above, but as noted in the note on v. \[4099\], above, the meaning is more elastic to include other animals too. Here I opt for the most open translation, given the possibility that at least horses in addition to elephants would have been imagined pulling the 60,000 chariots. It is even possible that the poet imagines the chariots as pulled by leopards and tigers, rather than merely covered in their hides, in which case “big-cat-trainers” would be the best translation here.
 
-[^45]: *rohaññā*, a common epithet of cows. BJTS however reads *dohaññā*, apparently fr. *doha*, milking.
+[^45]: *rohaññā*, a common epithet of cows. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> however reads *dohaññā*, apparently fr. *doha*, milking.
 
-[^46]: the text reads *puṅgavusabhā*, “bulls among bulls,” which would seem odd as an epithet of cows except that both terms are used regularly in the sense of “best”. I follow BJTS (*atiśreṣṭha*) in this reading, though one is tempted to take the second foot as implying that there were (actually male) “bulls” together with the cows.
+[^46]: the text reads *puṅgavusabhā*, “bulls among bulls,” which would seem odd as an epithet of cows except that both terms are used regularly in the sense of “best”. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (*atiśreṣṭha*) in this reading, though one is tempted to take the second foot as implying that there were (actually male) “bulls” together with the cows.
 
 [^47]: hasulā = ?
 
-[^48]: RD gives “good hips,” referring to this text. I don’t see the warrant, and take the term *susaññā* from *saññā*, sense, perception, as does BJTS
+[^48]: RD gives “good hips,” referring to this text. I don’t see the warrant, and take the term *susaññā* from *saññā*, sense, perception, as does <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 
 [^49]: *viriyam me dhurodhayhaŋ yogakkhemādhivāhanaŋ*, cf. SN 79
 

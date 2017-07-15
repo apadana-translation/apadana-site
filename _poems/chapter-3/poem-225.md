@@ -1,7 +1,6 @@
 ---
 title: Avyādhika
 order: 225
-layout: poem
 category: chapter-3
 ---
 

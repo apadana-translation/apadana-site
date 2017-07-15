@@ -1,7 +1,6 @@
 ---
 title: Pupphadhāraka
 order: 292
-layout: poem
 category: chapter-3
 ---
 

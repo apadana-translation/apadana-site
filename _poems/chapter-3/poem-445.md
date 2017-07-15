@@ -1,7 +1,6 @@
 ---
 title: Utuḷhipupphiya
 order: 445
-layout: poem
 category: chapter-3
 ---
 
@@ -36,14 +35,14 @@ Thus indeed Venerable Utuḷhipupphiya[^5] Thera spoke these verses.
 
 The legend of Utuḷhipupphiya[^6] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “*Utuḷhi*-Flower-er.” BJTS reads *Uttalipupphiya*, “*Uttali*-Flower-er.”
+[^2]: “*Utuḷhi*-Flower-er.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Uttalipupphiya*, “*Uttali*-Flower-er.”
 
 [^3]: *nigrodhe, nigrodha =* Sinh. *nuga*, RD: the banyan or Indian fig-tree, Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti.*) The banyan was the Bodhi tree only of Kassapa Buddha, the twenty-third Buddha of *Buddhavaṃsa* and third of the five Buddhas of the present “auspicious” or “lucky” (*bhadda*) aeon (Gotama is the fourth, Maitreya will be the fifth); thus the text inadvertently indicates that this offering was made in the Kassapa Buddha-era.
 
-[^4]: I take *haritobhāsa* as *haritā* + *obhāsa*, but it could also be *harita* + *obhāsa* = splendorous pale green, modifying the tree, which seems to be BJTS’ preferred reading (gloss: *nil-pähä äti*, “having blue color”). I also take the string of locatives as an absolute construction (“when…”) whereas BJTS treats them as straightforward locatives, with the protagonist taking a flower *on* the banyan tree. BJTS seems to misunderstand *nigrodha*, glossing it *nāgabodhirukṣayehi*, “on the ironwood bodhi tree.” Ironwood was the Bodhi tree of four previous Buddhas (Maṅgala, Sumana, Revata and Sobhita) but all of them lived before the present aeon.
+[^4]: I take *haritobhāsa* as *haritā* + *obhāsa*, but it could also be *harita* + *obhāsa* = splendorous pale green, modifying the tree, which seems to be <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>’ preferred reading (gloss: *nil-pähä äti*, “having blue color”). I also take the string of locatives as an absolute construction (“when…”) whereas <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> treats them as straightforward locatives, with the protagonist taking a flower *on* the banyan tree. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> seems to misunderstand *nigrodha*, glossing it *nāgabodhirukṣayehi*, “on the ironwood bodhi tree.” Ironwood was the Bodhi tree of four previous Buddhas (Maṅgala, Sumana, Revata and Sobhita) but all of them lived before the present aeon.
 
-[^5]: BJTS reads *Uttalipupphiya*, “*Uttali*-Flower-er.”
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Uttalipupphiya*, “*Uttali*-Flower-er.”
 
-[^6]: BJTS reads *Uttalipupphiya*, “*Uttali*-Flower-er.”
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Uttalipupphiya*, “*Uttali*-Flower-er.”

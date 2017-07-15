@@ -1,7 +1,6 @@
 ---
 title: Nimittasaññaka
 order: 325
-layout: poem
 category: chapter-3
 ---
 

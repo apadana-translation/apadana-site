@@ -1,7 +1,6 @@
 ---
 title: Madhudāyaka
 order: 394
-layout: poem
 category: chapter-3
 ---
 
@@ -111,33 +110,33 @@ Thus indeed Venerable Madhudāyaka Thera spoke these verses.
 
 The legend of Madhudāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Honey Donor”
 
-[^3]: reading *tattha* with BJTS for PTS *tassa*, “his”
+[^3]: reading *tattha* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tassa*, “his”
 
-[^4]: *dhammakāmā*. BJTS gloss just gives *dharmakāmī*. I do not capitalize “teachings” because I assume the term is used more generically to mean doctrines, rather than *the* Dhamma.
+[^4]: *dhammakāmā*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss just gives *dharmakāmī*. I do not capitalize “teachings” because I assume the term is used more generically to mean doctrines, rather than *the* Dhamma.
 
 [^5]: *vinītā*
 
 [^6]: *chalaṅge*, lit., “six branches” of Vedic science. RD, S.V.: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.”
 
-[^7]: reading *susāsanaṃ sotukāmā* with BJTS for PTS *sotukāmā pi sāsanaŋ*, “also wanting to hear instructions.” BJTS gloss gives *anuśāsanaya asanu kämättā*, “desiring to listen to instructions,” and I follow suit in the generic translation here, rather than understand the term as *the* “Sasana,” the Buddha’s “dispensation”
+[^7]: reading *susāsanaṃ sotukāmā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sotukāmā pi sāsanaŋ*, “also wanting to hear instructions.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss gives *anuśāsanaya asanu kämättā*, “desiring to listen to instructions,” and I follow suit in the generic translation here, rather than understand the term as *the* “Sasana,” the Buddha’s “dispensation”
 
-[^8]: *uppādāgamane*, lit., “coming on of omens (RD: *uppāda* 1, BJTS gloss *utpāta*)” or “arrival of omens.” BJTS glosses *°āgamane* as *śāstrayehi*, “traditional learning” (about omens), apparently conflating the term with *āgama*, which can mean the scriptures of manuals of particular religious groups, or more generally “meaning, understanding,” likewise a meaning of the root *ā* + *gam*. BJTS explains this *utpātaśāstra* as “declaring \[omens\] good or bad (*śubhāśubha*) having looked at/with an eye toward unnatural changes connected with ghosts (*bhūtayan piḷibanda asvābhāvika venasvīm balā*)
+[^8]: *uppādāgamane*, lit., “coming on of omens (RD: *uppāda* 1, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *utpāta*)” or “arrival of omens.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *°āgamane* as *śāstrayehi*, “traditional learning” (about omens), apparently conflating the term with *āgama*, which can mean the scriptures of manuals of particular religious groups, or more generally “meaning, understanding,” likewise a meaning of the root *ā* + *gam*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> explains this *utpātaśāstra* as “declaring \[omens\] good or bad (*śubhāśubha*) having looked at/with an eye toward unnatural changes connected with ghosts (*bhūtayan piḷibanda asvābhāvika venasvīm balā*)
 
-[^9]: BJTS gloss takes this *lakṣaṇaśāstra* as involving the signs on the body/science of interpreting bodily marks.
+[^9]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss takes this *lakṣaṇaśāstra* as involving the signs on the body/science of interpreting bodily marks.
 
 [^10]: *vināyako*
 
 [^11]: *tīṇisantharakaŋ katvā*
 
-[^12]: *madhuvasso* (BJTS reads *madhuvassaṃ*) *pavassittha*
+[^12]: *madhuvasso* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *madhuvassaṃ*) *pavassittha*
 
 [^13]: *chādayaŋ madhunā mahiŋ*
 
-[^14]: reading *ku<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiyā va suduttaraṃ* (lit., “as though very hard to cross over from the womb”) with BJTS for PTS *kumbiyā vasuduttaraŋ* (“from a pot over the earth” ?). I follow BJTS gloss in translating this BJTS reading.
+[^14]: reading *ku<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiyā va suduttaraṃ* (lit., “as though very hard to cross over from the womb”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *kumbiyā vasuduttaraŋ* (“from a pot over the earth” ?). I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss in translating this <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading.
 
 [^15]: lit., “I am a receiver of”
 
@@ -145,14 +144,14 @@ The legend of Madhudāyaka Thera is finished.
 
 [^17]: lit., “and,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*
 
-[^18]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hanne* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a chappade* (“and with six feet”?)
+[^18]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hanne* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a chappade* (“and with six feet”?)
 
-[^19]: reading *sampupphite* with BJTS for PTS *samphīte*
+[^19]: reading *sampupphite* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *samphīte*
 
-[^20]: reading *mūlake* with PTS (and BJTS alt.) as preferable to BTJTS *mūle*, which would make this line (only) an eleven-syllable foot.
+[^20]: reading *mūlake* with <abbr title="Pali Text Society">PTS</abbr> (and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt.) as preferable to BTJTS *mūle*, which would make this line (only) an eleven-syllable foot.
 
-[^21]: PTS treats this as two four-footed verses with six- (rather than eight-) syllable feet; BJTS treats it as a singe verse with twelve-syllable feet. Except the divergences indicated, the Pāli is the same in both.
+[^21]: <abbr title="Pali Text Society">PTS</abbr> treats this as two four-footed verses with six- (rather than eight-) syllable feet; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> treats it as a singe verse with twelve-syllable feet. Except the divergences indicated, the Pāli is the same in both.
 
-[^22]: reading *majjhe mahante hīne* with BJTS for PTS *majjhe mayhaŋ bhāvā*, “my existences in the middle.”
+[^22]: reading *majjhe mahante hīne* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *majjhe mayhaŋ bhāvā*, “my existences in the middle.”
 
-[^23]: here too BJTS and PTS agree in presenting the variant reading
+[^23]: here too <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> agree in presenting the variant reading

@@ -1,7 +1,6 @@
 ---
 title: Upāli
 order: 41
-layout: poem
 category: chapter-3
 ---
 
@@ -133,27 +132,27 @@ Thus indeed Venerable Upāli Thera spoke these verses.
 
 The legend of Upāli Thera is finished.
 
-[^1]: BJTS, Hew, and cty style him Bhāgineyya-Upāli, “Upāli the Nephew”. He is not to be confused with Upāli the top reciter of Vinaya, *Therāpadāna* \#6
+[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, Hew, and cty style him Bhāgineyya-Upāli, “Upāli the Nephew”. He is not to be confused with Upāli the top reciter of Vinaya, *Therāpadāna* \#6
 
-[^2]: reading *paridhārako* (BJTS, cty) or paridhāraNo (PTS alt) for PTS *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āraṇo*.
+[^2]: reading *paridhārako* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty) or paridhāraNo (<abbr title="Pali Text Society">PTS</abbr> alt) for <abbr title="Pali Text Society">PTS</abbr> *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āraṇo*.
 
 [^3]: *tidaṇḍam* = three stick, three rod. Cty glosses it as “for the sake of keeping pots” (*kuṇḍika-ṭṭhāpanatthāya*), apparently understanding it as a pingo or else some sort of tripod. But the more likely allusion is to the *triśula* or trident of Shiva and his devotees, given the deer-leather clothes.
 
 [^4]: lit., “the monks’ Assembly”.
 
-[^5]: reading *sabbe antallikka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā sadā* (BJTS) for *sabbe antallikkhe padesagā* (PTS).
+[^5]: reading *sabbe antallikka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā sadā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *sabbe antallikkhe padesagā* (<abbr title="Pali Text Society">PTS</abbr>).
 
 [^6]: lit., “having consciousness or not having consciousness”
 
 [^7]: lit., “…on the ultimate mountain, Himalaya, they all are not fit to \[be\] even a bit of \[the good scent\] in your morality.”
 
-[^8]: lit., “is in the party of what causes the darkness of delusion”. Cf above vv. \[1072\] and \[1073\] for similar usage in a similar context. The BJTS reading *mohandhakārapakkhanto* allows for the plural, which is clear in the subsequent line of verse.
+[^8]: lit., “is in the party of what causes the darkness of delusion”. Cf above vv. \[1072\] and \[1073\] for similar usage in a similar context. The <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading *mohandhakārapakkhanto* allows for the plural, which is clear in the subsequent line of verse.
 
-[^9]: BJTS (and PTS alt.) reads *dhīro* (“the wise one”)
+[^9]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) reads *dhīro* (“the wise one”)
 
-[^10]: reading *samāyutaṃ* (BJTS, PTS alt) for *samāyanaŋ* (PTS)
+[^10]: reading *samāyutaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *samāyanaŋ* (<abbr title="Pali Text Society">PTS</abbr>)
 
-[^11]: the texts all read *virājetvāna* or *virajjitvāna*, “to shine;” I follow BJTS Sinhala gloss in understanding this — as context warrants — as “drive away” (Sinhala *duru koṭa*)
+[^11]: the texts all read *virājetvāna* or *virajjitvāna*, “to shine;” I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss in understanding this — as context warrants — as “drive away” (Sinhala *duru koṭa*)
 
 [^12]: it seems that here the text *does* confuse this Upāli with Upāli the chief reciter of *Vinaya*.
 

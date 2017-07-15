@@ -1,7 +1,6 @@
 ---
 title: Phussitakammiya
 order: 335
-layout: poem
 category: chapter-3
 ---
 
@@ -85,9 +84,9 @@ Thus indeed Venerable Phussitakammiya[^19] Thera spoke these verses.
 
 The legend of Phussitakammiya[^20] Thera is finished.
 
-[^1]: *Apadāna* numbers henceforth provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation. This invented convention parallels the use in this translation of \[square brackets\] to cross-reference the BJTS numbering of individual verses with that of the PTS edition.
+[^1]: *Apadāna* numbers henceforth provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation. This invented convention parallels the use in this translation of \[square brackets\] to cross-reference the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> numbering of individual verses with that of the <abbr title="Pali Text Society">PTS</abbr> edition.
 
-[^2]: “Karmically \[named\] Phussita” or “Karmically \[named\] Drop” (see v. 8). Here probably a \[mis\]spelling of *phusita*, rain-drop, sprinkle, Sinh. *poḍak*, see v. 9; summary of the chapter \[see below\] also gives *Phusita* rather than *Phussita* as here and in the texts; BJTS gives *Phusita°* throughout, and reads the name *Phusitakampiya*, “Rain Shaker” or “Shaken by Rain”.
+[^2]: “Karmically \[named\] Phussita” or “Karmically \[named\] Drop” (see v. 8). Here probably a \[mis\]spelling of *phusita*, rain-drop, sprinkle, Sinh. *poḍak*, see v. 9; summary of the chapter \[see below\] also gives *Phusita* rather than *Phussita* as here and in the texts; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gives *Phusita°* throughout, and reads the name *Phusitakampiya*, “Rain Shaker” or “Shaken by Rain”.
 
 [^3]: *saṅghārāma*
 
@@ -105,7 +104,7 @@ The legend of Phussitakammiya[^20] Thera is finished.
 
 [^10]: though this is an almost economic depiction of karmic equivalency — one might think in terms of bonus points or frequent flyer rules — both in the exactitude by which he “spends” the karma he earned in doing the *pūjā* and the explicit statement that attaining arahantship is the remaining fruit of that karma, this final line is quite enigmatic given that 2500 plus 2500 presumably depletes the original 5000 drops of water. What then is the “remaining karma” with which arahantship is purchased?
 
-[^11]: BJTS *Phusita*; “\[water\] drop”
+[^11]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *Phusita*; “\[water\] drop”
 
 [^12]: lit., “it’s as though a drop is”
 
@@ -117,10 +116,10 @@ The legend of Phussitakammiya[^20] Thera is finished.
 
 [^16]: lit., “meritorious karma” or “meritorious deeds,” *puññakamma-samaṅginaŋ*
 
-[^17]: *ghatvāna*. I follow BJTS Sinhala gloss (and the obvious context) in this translation.
+[^17]: *ghatvāna*. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss (and the obvious context) in this translation.
 
-[^18]: BJTS *Phusita*
+[^18]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *Phusita*
 
-[^19]: BJTS reads *Phusitakampiya*
+[^19]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Phusitakampiya*
 
-[^20]: BJTS reads *Phusitakampiya*
+[^20]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Phusitakampiya*

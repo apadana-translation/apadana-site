@@ -1,7 +1,6 @@
 ---
 title: Sereyyaka
 order: 121
-layout: poem
 category: chapter-3
 ---
 

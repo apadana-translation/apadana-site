@@ -1,7 +1,6 @@
 ---
 title: Lomasakaṅgiya
 order: 548
-layout: poem
 category: chapter-3
 ---
 
@@ -140,11 +139,11 @@ Thus indeed Venerable Lomasakaṅgiya Thera spoke these verses.
 
 The legend of Lomasakaṅgiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Hair on his own Body,” a historical monk so-named for the delicate hair on the soles of his feet (and general lack of hair elsewhere on his body). See DPPN II: 789-790
 
-[^3]: One BJTS alt. reads *gottena*, “by lineage”
+[^3]: One <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. reads *gottena*, “by lineage”
 
 [^4]: *vadataŋ varo*
 
@@ -176,7 +175,7 @@ The legend of Lomasakaṅgiya Thera is finished.
 
 [^18]: this refers to a moment in the Buddha’s early life when the bodhisatta was left beneath a rose-apple (*jambu)* tree during a festival. His nurses returned to find him sitting cross-legged, having attained the first *jhana*, upon which the shade of the tree stood still, shading him as long as he remained there (see DPPN I: 789).
 
-[^19]: both BJTS and PTS present this as a verse in the more complex xxx meter, with eleven-syllable feet, and both have a (flawed?) third foot with twelve syllables, making the verse as it stands 11-11-12-11
+[^19]: both <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> present this as a verse in the more complex xxx meter, with eleven-syllable feet, and both have a (flawed?) third foot with twelve syllables, making the verse as it stands 11-11-12-11
 
 [^20]: *buddhānubhāvan taŋ*
 
@@ -184,19 +183,19 @@ The legend of Lomasakaṅgiya Thera is finished.
 
 [^22]: this sets the stage for his mother’s initial reluctance to see him enter the forest life, fearing for his health.
 
-[^23]: reading *‘upagantvāna pu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chatha* with BJTS for PTS *upagantvā ‘nurañjatha* (“having approached lit up \[the place\]”)
+[^23]: reading *‘upagantvāna pu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chatha* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *upagantvā ‘nurañjatha* (“having approached lit up \[the place\]”)
 
 [^24]: or *Ānanda-bhaddekaratta-sutta*, M.iii.187ff. Lomasakaṅgiya and <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andana vowed during their previous life as monks together that in the future <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andana would ask Lomasakaṅgiya about this particular *sutta*, and that Lomasakagiya would then explain it to him. The account of this encounter is called *Lomasakaṅgiya-Bhaddekaratta-sutta*, M.iii.199ff. See DPPN II: 359-360, for details and a summary of the text
 
-[^25]: reading *saṅkhepavitthāranayaŋ* with BJTS for PTS *saṅkhepaŋ vitthāraŋ naraŋ* (“the abridged \[and\] extended man”)
+[^25]: reading *saṅkhepavitthāranayaŋ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *saṅkhepaŋ vitthāraŋ naraŋ* (“the abridged \[and\] extended man”)
 
 [^26]: *naranāyakaŋ*
 
 [^27]: *saŋviggo*, or “stirred up” “shaken up”
 
-[^28]: reading *vārayi taṃ* with BJTS (and PTS alt.) for PTS *dhārayiŋ te* (“I carried you”)
+[^28]: reading *vārayi taṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *dhārayiŋ te* (“I carried you”)
 
-[^29]: *vivekam anubrūhayam*. BJTS Sinh. gloss says this means doing meditation in the three postures of sitting, standing and walking back and forth
+[^29]: *vivekam anubrūhayam*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss says this means doing meditation in the three postures of sitting, standing and walking back and forth
 
 [^30]: *dabbhaŋ kusaŋ* = the kind of *kusa* grass or “sacrificial grass” known as *dabbha*, a sweet-smelling grass, Sinh. *kusa taṇa*, *kuśa tṛṇa* (Bot. Dict. = arrow grass, Paspalum sanguinale (*Gram.*); note: Bot. Dict. also gives Sinh. *ītaṇa*, Andropogon contortus (*Gram.*) as arrow grass, and says *kuśa* also can mean *iḷuk*, Imperata arundinacea (*Gram.*))
 
@@ -210,18 +209,18 @@ The legend of Lomasakaṅgiya Thera is finished.
 
 [^35]: *tattha tattha*
 
-[^36]: reading *vidvā* with BJTS for PTS *saŋviggam* (“emotion”)
+[^36]: reading *vidvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *saŋviggam* (“emotion”)
 
 [^37]: *anubrūhaye*, or “is devoted” “practices”
 
 [^38]: *ajjeva*, lit., “even today” or “today itself”, “today” with emphasis.
 
-[^39]: reading *ki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a ātappaṃ* with BJTS (and PTS alt.) for PTS *ki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a kātabbaŋ* (“what should be done should be done”)
+[^39]: reading *ki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a ātappaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *ki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a kātabbaŋ* (“what should be done should be done”)
 
-[^40]: reading *jaññu* with BJTS for PTS *jaññā*
+[^40]: reading *jaññu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *jaññā*
 
-[^41]: reading *na hi no saṅgaraṃ tena* with BJTS for PTS *na hi tosaŋ karontena* (“there is no making satisfaction” ?)
+[^41]: reading *na hi no saṅgaraṃ tena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *na hi tosaŋ karontena* (“there is no making satisfaction” ?)
 
-[^42]: reading *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkhate* with BJTS for PTS *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkate*
+[^42]: reading *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkhate* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkate*
 
 [^43]: *santo*

@@ -1,7 +1,6 @@
 ---
 title: Ekapuṇḍarīka
 order: 279
-layout: poem
 category: chapter-3
 ---
 

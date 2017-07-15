@@ -1,7 +1,6 @@
 ---
 title: Sumana
 order: 69
-layout: poem
 category: chapter-3
 ---
 

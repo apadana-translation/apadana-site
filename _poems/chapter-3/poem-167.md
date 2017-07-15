@@ -1,7 +1,6 @@
 ---
 title: Yūthikapupphiya
 order: 167
-layout: poem
 category: chapter-3
 ---
 

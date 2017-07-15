@@ -1,7 +1,6 @@
 ---
 title: Sumanavījaniya
 order: 474
-layout: poem
 category: chapter-3
 ---
 
@@ -36,7 +35,7 @@ Thus indeed Venerable Sumanavījaniya Thera spoke these verses.
 
 The legend of Sumanavījaniya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Jasmine-Fan-er”. Cf. \#375 {378} and \#462 {465} above for *apadānas* ascribed to monks with a similar name (in translation then name is the same, but in Pāli it is altogether different, and these are separate *apadānas*)
 

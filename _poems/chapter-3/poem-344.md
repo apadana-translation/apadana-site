@@ -1,7 +1,6 @@
 ---
 title: Tīṇikiṅkhaṇikapūjaka
 order: 344
-layout: poem
 category: chapter-3
 ---
 
@@ -31,18 +30,18 @@ Thus indeed Venerable Tīṇikiṅkhaṇikapūjaka[^7] Thera spoke these verses.
 
 The legend of Tīṇikiṅkhaṇikapūjaka[^8] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Three *Kiṅkhaṇi* Flower-er.” BJTS reads *Tikiṅkiṇi°*
+[^2]: “Three *Kiṅkhaṇi* Flower-er.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Tikiṅkiṇi°*
 
 [^3]: “Group of Ghosts”
 
 [^4]: Or, “robe of rags”. The Pamsukūla robe was typically a filthy shroud picked up in a cremation grounds. Cf. above, v. \[592\]
 
-[^5]: I follow the cty and BJTS Sinhala gloss in taking *dumaggamhi* as *duma* + *aggamhi*. It would also be possible to take it as *du* + *maggamhi*, “on a bad road”.
+[^5]: I follow the cty and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss in taking *dumaggamhi* as *duma* + *aggamhi*. It would also be possible to take it as *du* + *maggamhi*, “on a bad road”.
 
-[^6]: BJTS reads *kiṅkiṇi*
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kiṅkiṇi*
 
-[^7]: BJTS reads *Tikiṅkiṇi°*
+[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Tikiṅkiṇi°*
 
-[^8]: BJTS reads *Tikiṅkiṇi°*
+[^8]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Tikiṅkiṇi°*

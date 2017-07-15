@@ -1,7 +1,6 @@
 ---
 title: Ekasaññaka
 order: 75
-layout: poem
 category: chapter-3
 ---
 

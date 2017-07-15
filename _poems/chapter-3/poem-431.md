@@ -1,7 +1,6 @@
 ---
 title: Ekavihāriya
 order: 431
-layout: poem
 category: chapter-3
 ---
 
@@ -72,7 +71,7 @@ Thus indeed Venerable Ekavihāriya Thera spoke these verses.
 
 The legend of Ekavihāriya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “”One Condition-er”
 
@@ -82,9 +81,9 @@ The legend of Ekavihāriya Thera is finished.
 
 [^5]: *nirālambo*
 
-[^6]: *ākāsa-sama-mānaso*, following BJTS gloss (*no gäṭena*)
+[^6]: *ākāsa-sama-mānaso*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss (*no gäṭena*)
 
-[^7]: lit., “possessing much emptiness,” reading *suññatā* with BJTS (and PTS alt.) for PTS *puññatā* (“much merit-ness,” *sic*)
+[^7]: lit., “possessing much emptiness,” reading *suññatā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *puññatā* (“much merit-ness,” *sic*)
 
 [^8]: *tadī*
 
@@ -104,7 +103,7 @@ The legend of Ekavihāriya Thera is finished.
 
 [^16]: *vinayanto sadevake*
 
-[^17]: *param-assāda*, BJTS Sinhala gloss *paramāśvādaya*
+[^17]: *param-assāda*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *paramāśvādaya*
 
 [^18]: *jarāma<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>univāraṇaŋ*
 
@@ -112,18 +111,18 @@ The legend of Ekavihāriya Thera is finished.
 
 [^20]: *nātho*
 
-[^21]: *karavīikarudo* (BJTS \[and PTS alt.\] corrects to *karavīika-ruto*). RD *Karavīika* = the Indian cuckoo
+[^21]: *karavīikarudo* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> \[and <abbr title="Pali Text Society">PTS</abbr> alt.\] corrects to *karavīika-ruto*). RD *Karavīika* = the Indian cuckoo
 
 [^22]: *brahmaghoso*
 
 [^23]: *tathāgato*
 
-[^24]: *uddharanto mahāduggā*; I follow BJTS gloss in supplying “people” as the object of the verbal noun.
+[^24]: *uddharanto mahāduggā*; I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss in supplying “people” as the object of the verbal noun.
 
-[^25]: *vipannaṭṭhe* (PTS), *vipannaddhe* (BJTS)
+[^25]: *vipannaṭṭhe* (<abbr title="Pali Text Society">PTS</abbr>), *vipannaddhe* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>)
 
 [^26]: *anāyake*
 
 [^27]: *hetubhūto*, i.e., the condition suitable to his attaining arahantship
 
-[^28]: reading *sakāyavūpakasso* \[corrected in BJTS alt. to *vūpakāso*\] *me hetubhūto mahābhavi* with BJTS for PTS *svakāūpakaṭṭho me hetubhūto mam āgami* (“physical solitude came to me become the condition for me”)
+[^28]: reading *sakāyavūpakasso* \[corrected in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. to *vūpakāso*\] *me hetubhūto mahābhavi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *svakāūpakaṭṭho me hetubhūto mam āgami* (“physical solitude came to me become the condition for me”)

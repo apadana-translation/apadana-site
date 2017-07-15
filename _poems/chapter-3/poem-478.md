@@ -1,7 +1,6 @@
 ---
 title: Vallikāraphaladāyaka
 order: 478
-layout: poem
 category: chapter-3
 ---
 
@@ -36,14 +35,14 @@ Thus indeed Venerable Vallikāraphaladāyaka[^5] Thera spoke these verses.
 
 The legend of Vallikāraphaladāyaka[^6] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “*Vallikāra*-Fruit Donor.” This is the BJTS spelling; PTS gives *Vallikara°*
+[^2]: “*Vallikāra*-Fruit Donor.” This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling; <abbr title="Pali Text Society">PTS</abbr> gives *Vallikara°*
 
 [^3]: a city or country, known only from this passage (see DPPN I:981)
 
 [^4]: = *vallikā* (?), Sinh. *hīrässa*, *sivräs*, *sivrässa*, Bot. Dict.: “a climbing plant edible when tender, having four winged stems and bearing red berries, Vitis quadrangularis (*Ampel.*)” Cf. RD *vallī*, s.v., “a climbing plant, a creeper, Vin iii.144; J v.37; vi.536; VvA 147, 335 (here as a root?).”
 
-[^5]: PTS reads *Vallikara°*
+[^5]: <abbr title="Pali Text Society">PTS</abbr> reads *Vallikara°*
 
-[^6]: PTS reads *Vallikara°*
+[^6]: <abbr title="Pali Text Society">PTS</abbr> reads *Vallikara°*

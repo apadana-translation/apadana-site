@@ -1,7 +1,6 @@
 ---
 title: Salaḷamāliya
 order: 207
-layout: poem
 category: chapter-3
 ---
 
@@ -36,7 +35,7 @@ Thus indeed Venerable Salaḷamāliya Thera spoke these verses.
 
 The legend of Salaḷamāliya Thera is finished.
 
-[^1]: “Salaḷa-Garland-er.” BJTS reads *salala°*. BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.).
+[^1]: “Salaḷa-Garland-er.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *salala°*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.).
 
 [^2]: lit., “Trainer of Men” or “Charioteer of Men,” *narasārathiŋ*. I adopt the shorter form here *metri causa*.
 

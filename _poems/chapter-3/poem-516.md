@@ -1,7 +1,6 @@
 ---
 title: Ajjunapupphiya
 order: 516
-layout: poem
 category: chapter-3
 ---
 
@@ -56,11 +55,11 @@ Thus indeed Venerable Ajjunapupphiya Thera spoke these verses.
 
 The legend of Ajjunapupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Arjuna Flower-er”
 
-[^3]: reading BJTS for the correct spelling for *kiṇṇara* (PTS). The *kinnara* (Sinh. *kandura*) has a human head and a horse’s body; “centaur”.
+[^3]: reading <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for the correct spelling for *kiṇṇara* (<abbr title="Pali Text Society">PTS</abbr>). The *kinnara* (Sinh. *kandura*) has a human head and a horse’s body; “centaur”.
 
 [^4]: *vedajāto*
 
@@ -70,6 +69,6 @@ The legend of Ajjunapupphiya Thera is finished.
 
 [^7]: *mahārajjam*, lit., “great sovereignty” or “maharajah-ship”
 
-[^8]: reading *vapitaṃ* with BJTS for PTS *va phītaŋ* (“like opulent”)
+[^8]: reading *vapitaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *va phītaŋ* (“like opulent”)
 
 [^9]: lit., “in the Śākyas’ Son’s”

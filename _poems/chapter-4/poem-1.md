@@ -1,7 +1,6 @@
 ---
 title: Sumedhā
 order: 1
-layout: poem
 category: chapter-4
 ---
 
@@ -114,9 +113,9 @@ Thus indeed Venerable[^21] Bhikkhunī Sumedhā spoke these verses.
 
 \[The legend of Sumedhā Therī is finished.\][^22]
 
-[^1]: BJTS places the *namaskāra* after the title *Therī-apadāna*.
+[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> places the *namaskāra* after the title *Therī-apadāna*.
 
-[^2]: this command (in the second person imperative plural) is omitted by BJTS even though it gives the parallel commands in verse (1) \[5\] of *Buddha-apadāna* and at the beginning of *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha-apadāna* and *Thera-apadāna*. The cty omits the Therīs altogether, despite having defined *Apadāna*, in its *nidāna*, as constituted by Buddha, Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha, Thera and Therī sections.
+[^2]: this command (in the second person imperative plural) is omitted by <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> even though it gives the parallel commands in verse (1) \[5\] of *Buddha-apadāna* and at the beginning of *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha-apadāna* and *Thera-apadāna*. The cty omits the Therīs altogether, despite having defined *Apadāna*, in its *nidāna*, as constituted by Buddha, Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha, Thera and Therī sections.
 
 [^3]: “Very Wise Woman”
 
@@ -124,19 +123,19 @@ Thus indeed Venerable[^21] Bhikkhunī Sumedhā spoke these verses.
 
 [^5]: lit., “gave a *vihāra*-*dāna* \[=monastery-gift\]”.
 
-[^6]: BJTS reads a 14-syllable first foot and an 8-syllable second one, lit., “ten times, hundred times, thousand times, hundred times hundred times”. It also reads *mānusake* for *mānuse* (PTS) to produce a nine-syllable fourth foot. Both texts provide nine-syllable first, third and fourth feet in the following verse (3), before finally settling in to the standard 8-8-8-8. See n. 4 above. Are these problems with the transmission, or experiments with (or heedlessness about) meter?
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads a 14-syllable first foot and an 8-syllable second one, lit., “ten times, hundred times, thousand times, hundred times hundred times”. It also reads *mānusake* for *mānuse* (<abbr title="Pali Text Society">PTS</abbr>) to produce a nine-syllable fourth foot. Both texts provide nine-syllable first, third and fourth feet in the following verse (3), before finally settling in to the standard 8-8-8-8. See n. 4 above. Are these problems with the transmission, or experiments with (or heedlessness about) meter?
 
 [^7]: here the possession of “seven gems” (*sattaratana*) by a wheel-turning (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavatti*) monarch has become here a free-standing designation of the latter (perhaps better translated as “chief queen of a possessor of the seven gems” \[or, metrically, “a seven-gem-holder’s chief queen”\]). Note that she herself is one of those seven gems, as stated in the next foot.
 
-[^8]: reading *āsiṃ* (BJTS) for *bhaviŋ* (PTS).
+[^8]: reading *āsiṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *bhaviŋ* (<abbr title="Pali Text Society">PTS</abbr>).
 
-[^9]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itakusalā* (BJTS) for *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itā kusalaŋ* (PTS), though they amount to the same thing.
+[^9]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itakusalā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itā kusalaŋ* (<abbr title="Pali Text Society">PTS</abbr>), though they amount to the same thing.
 
 [^10]: lit., “to the Assembly (*saṅgha*, the monks’ Assembly) headed up by the Buddha.
 
-[^11]: reading *vāhasā* (BJTS) for *vahasā* (PTS).
+[^11]: reading *vāhasā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *vahasā* (<abbr title="Pali Text Society">PTS</abbr>).
 
-[^12]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
+[^12]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “Named Kassapa according to his Lineage (*gottena*)”
 
 [^13]: lit., “they fared according to the Brahma-faring,” i.e., they led a celibate (*brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariya*) existence.
 
@@ -148,12 +147,12 @@ Thus indeed Venerable[^21] Bhikkhunī Sumedhā spoke these verses.
 
 [^17]: or “I transmigrated,” *saṃsāriṃ*.
 
-[^18]: this follows the lead of the BJTS SInhala gloss, which understands the string of “that” pronouns to refer to the foundational gift of a *vihāra* that led to the aforementioned bliss in heavenly and human states.
+[^18]: this follows the lead of the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> SInhala gloss, which understands the string of “that” pronouns to refer to the foundational gift of a *vihāra* that led to the aforementioned bliss in heavenly and human states.
 
 [^19]: *samodhānaṃ*, the term used in the *Jātaka* for the “identifications” the Buddha makes there between characters in the story and characters in his own present-day. Here, then, the claim seems to be that the gift of the *vihāra* is the first/earliest act of merit that Sumedhā is identified with/by. But I find this verse quite difficult, and this translation is at best provisional.
 
 [^20]: this verse has nine syllables in the second and fourth foot, rather than the expected eight, so I have translated accordingly.
 
-[^21]: BJTS omits *āyasmā*.
+[^21]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits *āyasmā*.
 
-[^22]: PTS omits this concluding line from the present *apadāna* but includes it in the subsequent ones. BJTS reading of the concluding line numbers each *apadāna* according to its place in the ten-poem “chapter,” hence this one reads, “The legend of Sumedhā Therī, the first”. I follow the PTS style.
+[^22]: <abbr title="Pali Text Society">PTS</abbr> omits this concluding line from the present *apadāna* but includes it in the subsequent ones. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading of the concluding line numbers each *apadāna* according to its place in the ten-poem “chapter,” hence this one reads, “The legend of Sumedhā Therī, the first”. I follow the <abbr title="Pali Text Society">PTS</abbr> style.

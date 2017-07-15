@@ -1,7 +1,6 @@
 ---
 title: Senāsanadāyaka
 order: 98
-layout: poem
 category: chapter-3
 ---
 
@@ -45,4 +44,4 @@ The legend of Senāsanadāyaka Thera is finished.
 
 [^2]: “Mat-Placer”
 
-[^3]: reading Senāsanadāyaka with PTS alt and BJTS for Senādāyaka (“Army-Giver,” PTS)
+[^3]: reading Senāsanadāyaka with <abbr title="Pali Text Society">PTS</abbr> alt and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for Senādāyaka (“Army-Giver,” <abbr title="Pali Text Society">PTS</abbr>)

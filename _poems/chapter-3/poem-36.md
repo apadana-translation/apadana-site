@@ -1,7 +1,6 @@
 ---
 title: Adhimutta
 order: 36
-layout: poem
 category: chapter-3
 ---
 

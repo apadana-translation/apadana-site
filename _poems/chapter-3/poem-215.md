@@ -1,7 +1,6 @@
 ---
 title: Raŋsisaññaka
 order: 215
-layout: poem
 category: chapter-3
 ---
 

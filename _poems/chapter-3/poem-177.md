@@ -1,7 +1,6 @@
 ---
 title: Ekadīpiya
 order: 177
-layout: poem
 category: chapter-3
 ---
 
@@ -33,6 +32,6 @@ The legend of Ekadīpiya Thera is finished.
 
 [^1]: “One-Lamp-er”.
 
-[^2]: PTS reads *salaḷa*, BJTS reads *salala*°. BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.)
+[^2]: <abbr title="Pali Text Society">PTS</abbr> reads *salaḷa*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *salala*°. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.)
 
 [^3]: “Moon-Light”

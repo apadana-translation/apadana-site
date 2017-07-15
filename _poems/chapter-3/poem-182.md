@@ -1,7 +1,6 @@
 ---
 title: Bandhujīvaka
 order: 182
-layout: poem
 category: chapter-3
 ---
 
@@ -42,7 +41,7 @@ The legend of Bandhujīvaka Thera is finished.
 
 [^1]: the name of a flower, Sinhala *banduvada*, Latin *pentapetes phoenicea* aka midday flower, noon flower, scarlet pentapetes, scarlet mallow, copper cups, scarlet phoenecian, any of which could appropriately translate the protagonist's name
 
-[^2]: I follow BJTS Sinhala gloss in taking *sabhi* as *satpuruṣayen*
+[^2]: I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss in taking *sabhi* as *satpuruṣayen*
 
 [^3]: *samādhiṃ so samāpanno*
 

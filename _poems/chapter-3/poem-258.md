@@ -1,7 +1,6 @@
 ---
 title: Paṇṇadāyaka
 order: 258
-layout: poem
 category: chapter-3
 ---
 

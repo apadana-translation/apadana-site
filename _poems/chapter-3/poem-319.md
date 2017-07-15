@@ -1,7 +1,6 @@
 ---
 title: Kandalīpupphiya
 order: 319
-layout: poem
 category: chapter-3
 ---
 
@@ -45,8 +44,8 @@ Thus indeed Venerable Kandalīpupphiya Thera spoke these verses.
 
 The legend of Kandalīpupphiya Thera is finished.
 
-[^1]: “*Kandalī*-Flower-er.” BJTS takes *kandalī* as *kadalī*, plantain, which has other witness in the tradition (cf. Cone, sv) and which is specified in v. 3. Hence, “Plantain-Flower-er”.
+[^1]: “*Kandalī*-Flower-er.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> takes *kandalī* as *kadalī*, plantain, which has other witness in the tradition (cf. Cone, sv) and which is specified in v. 3. Hence, “Plantain-Flower-er”.
 
-[^2]: i.e., I was self-sufficient, I earned my own keep. This follows the reading of BJTS Sinhala gloss.
+[^2]: i.e., I was self-sufficient, I earned my own keep. This follows the reading of <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss.
 
 [^3]: lit., “seated with *samādhi*

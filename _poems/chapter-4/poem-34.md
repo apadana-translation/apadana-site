@@ -1,7 +1,6 @@
 ---
 title: Sigālaka-mātā
 order: 34
-layout: poem
 category: chapter-4
 ---
 
@@ -162,13 +161,13 @@ The legend of Sigālaka-mātā Therī[^27] is finished
 
 [^1]: “Sigālaka’s Mother,” an historical nun, remembered as foremost among those who attained release through their faith. See DPPN II: 1133. She was the mother of Sigāla to whom the famous *Sigālovādasutta* was preached, upon which she also achieved fruits of the path.
 
-[^2]: reading *saddhādhimuttānaṃ* with BJTS for PTS *aṅgavimuttānaŋ* (“freed in/by \[their\] limbs”)
+[^2]: reading *saddhādhimuttānaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *aṅgavimuttānaŋ* (“freed in/by \[their\] limbs”)
 
 [^3]: *tisso sikkhā*, i.e., training in morality (*sīla*), wisdom (*paññā*) and meditative states (*samādhi*)
 
 [^4]: *karuṇānugatāsayo*, lit., “support for those come into/follow after/depend upon \[his\] pity (or compassion)”
 
-[^5]: PTS presents the following speech of the Buddha in eight four-foot verses (6-13). BJTS presents the same speech arranged into seven verses (\[1190-1196\], the first and last of which it presents as six-footed verses). I follow the BJTS numbering here, indicating corresponding numbering in the PTS edition.
+[^5]: <abbr title="Pali Text Society">PTS</abbr> presents the following speech of the Buddha in eight four-foot verses (6-13). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> presents the same speech arranged into seven verses (\[1190-1196\], the first and last of which it presents as six-footed verses). I follow the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> numbering here, indicating corresponding numbering in the <abbr title="Pali Text Society">PTS</abbr> edition.
 
 [^6]: the pronouns here are somewhat jarringly masculine ones, even though the subject is female
 
@@ -194,9 +193,9 @@ The legend of Sigālaka-mātā Therī[^27] is finished
 
 [^17]: *nānādisā*, lit., “various directions” “the different directions”
 
-[^18]: reading *desayato* (gen. abs. constr.) with BJTS (and PTS alt) for PTS *desayito*
+[^18]: reading *desayato* (gen. abs. constr.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt) for <abbr title="Pali Text Society">PTS</abbr> *desayito*
 
-[^19]: BJTS reads *ninādo* for PTS *panādo*, though BJTS alt. agrees with PTS. The term is singular so we might imagine some sort of shout in unison; I translate as “shrieks” (plural) given the context.
+[^19]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *ninādo* for <abbr title="Pali Text Society">PTS</abbr> *panādo*, though <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. agrees with <abbr title="Pali Text Society">PTS</abbr>. The term is singular so we might imagine some sort of shout in unison; I translate as “shrieks” (plural) given the context.
 
 [^20]: *dvekoṭi*, lit., “two \[times\] ten million”
 
@@ -204,12 +203,12 @@ The legend of Sigālaka-mātā Therī[^27] is finished
 
 [^22]: or “cultivating:” *bhāvetvā*
 
-[^23]: reading *vajām’ ahaṃ* with BJTS (cf. PTS alt. *vajām’ ayaŋ*)
+[^23]: reading *vajām’ ahaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (cf. <abbr title="Pali Text Society">PTS</abbr> alt. *vajām’ ayaŋ*)
 
-[^24]: reading *nayananandanaṃ* with BJTS for PTS *yena ‘va nandanaŋ* (“through which there is rejoicing” ?)
+[^24]: reading *nayananandanaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *yena ‘va nandanaŋ* (“through which there is rejoicing” ?)
 
-[^25]: reading *vihāram’ ahaṃ* with BJTS for PTS *bhayām’ ahaŋ* (= *bhāyām’ ahaṃ*, “I am fearing” ?)
+[^25]: reading *vihāram’ ahaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *bhayām’ ahaŋ* (= *bhāyām’ ahaṃ*, “I am fearing” ?)
 
-[^26]: reading *aggā saddhādhimuttikā* with BJTS for PTS *aggā saṅgavimuttikā* (“freed from clinging”), alt. *aṅgavimuttikā* (“freed in/by her\] limbs”)
+[^26]: reading *aggā saddhādhimuttikā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *aggā saṅgavimuttikā* (“freed from clinging”), alt. *aṅgavimuttikā* (“freed in/by her\] limbs”)
 
-[^27]: this is the BJTS reading; PTS reads bhikkhunī Sigālaka-mātā
+[^27]: this is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading; <abbr title="Pali Text Society">PTS</abbr> reads bhikkhunī Sigālaka-mātā

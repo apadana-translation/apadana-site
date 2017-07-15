@@ -1,7 +1,6 @@
 ---
 title: Phaladāyaka
 order: 282
-layout: poem
 category: chapter-3
 ---
 
@@ -50,7 +49,7 @@ The legend of Phaladāyaka Thera is finished.
 
 [^5]: this extends the prior simile: “being the same as Mt. Meru” implies that he “upholds the earth,” a quality of the cosmic mountain.
 
-[^6]: Sinh. *araḷu*, myrobalan, black- or chebulic myrobalan; Terminalia chebula. The list of fruits in this verse closely parallels that in TherAp \#1, v. 33 \[BJTS 168\] above, but there the focus is on their flowers, not their fruits.
+[^6]: Sinh. *araḷu*, myrobalan, black- or chebulic myrobalan; Terminalia chebula. The list of fruits in this verse closely parallels that in TherAp \#1, v. 33 \[<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> 168\] above, but there the focus is on their flowers, not their fruits.
 
 [^7]: Sinh. *nelli*, emblic myrobalan, Indian gooseberry, a.k.a. Malacca tree, or amla; Phyllanthus emblica
 

@@ -1,7 +1,6 @@
 ---
 title: Bhisamuḷāladāyaka
 order: 363
-layout: poem
 category: chapter-3
 ---
 
@@ -31,11 +30,11 @@ Thus indeed Venerable Bhisamuḷāladāyaka Thera spoke these verses.
 
 The legend of Bhisamuḷāladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Lotus Root and Stem Donor.” *Bhisa* refers to the lotus “potato” (Sinh. *ala*) found under the mud; *muḷāla* refers to the lotus “stem” (Sinh. *daṇḍu*, dictionary gives *däli*). The former is starchy and crunchy; the latter is like a green vegetable. Both are delicious staples of village diets to this day. Cf. \#65.
 
-[^3]: reading *nāmāsi* with BJTS (and PTS alt.) for PTS *nāmā ti*
+[^3]: reading *nāmāsi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *nāmā ti*
 
 [^4]: lit., “master of all things (*dhamma*)” (or “Master of All Teachings”)
 

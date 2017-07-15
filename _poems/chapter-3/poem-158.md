@@ -1,7 +1,6 @@
 ---
 title: Nāgapupphiya
 order: 158
-layout: poem
 category: chapter-3
 ---
 
@@ -50,9 +49,9 @@ The legend of Nāgapupphiya Thera is finished.
 
 [^2]: “Good Calf” or “Very Young One”
 
-[^3]: reading *dhūpeti jalate* (BJTS) for *dhūpo ‘tijalate* (“as though incense were flaming up,” PTS).
+[^3]: reading *dhūpeti jalate* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *dhūpo ‘tijalate* (“as though incense were flaming up,” <abbr title="Pali Text Society">PTS</abbr>).
 
-[^4]: reading *hāsaṃ mama viditvāna* (lit., “making a smile \[or laughter\] known to me”) with BJTS for PTS *ve hāsaŋ mama disvāna* (“surely having seen my smile \[or laughter\]” PTS).
+[^4]: reading *hāsaṃ mama viditvāna* (lit., “making a smile \[or laughter\] known to me”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ve hāsaŋ mama disvāna* (“surely having seen my smile \[or laughter\]” <abbr title="Pali Text Society">PTS</abbr>).
 
 [^5]: lit., “on the road he took”.
 

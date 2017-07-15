@@ -1,7 +1,6 @@
 ---
 title: Dhammasaññaka
 order: 304
-layout: poem
 category: chapter-3
 ---
 
@@ -48,14 +47,14 @@ The legend of Dhammasaññaka Thera is finished.
 
 [^1]: “Perceiver of the Teaching”
 
-[^2]: I take the BJTS vocatives here as typos
+[^2]: I take the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> vocatives here as typos
 
-[^3]: *vā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ā* + *āsabhim*&gt;*āsabhī*, a reading both PTS and BJTS accept despite Lilley’s n. to PTS here that the mss. *always* give the (mis)reading “*vā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asabbam*,” “whole speech” or “all \[his\] words”
+[^3]: *vā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ā* + *āsabhim*&gt;*āsabhī*, a reading both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> accept despite Lilley’s n. to <abbr title="Pali Text Society">PTS</abbr> here that the mss. *always* give the (mis)reading “*vā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asabbam*,” “whole speech” or “all \[his\] words”
 
 [^4]: *vivatta-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chada*, lit., “removed covering,” perhaps He who Removes the Coverings or He Whose Covers are Removed or One who is Freed of All Coverings (see RD s.v.). The epithet is especially appropriate here for evoking the “open-fisted” method of the Buddha, where nothing is secret or for initiates only.
 
 [^5]: *nibbāpesi*, could also be “extinguished,” “quenched”
 
-[^6]: following BJTS in reading *dhamma-saññā* for PTS *dhamma-dāna*, “giving the Teaching.” Though the latter comes to label important forms of practice, here it would be odd, since the protagonist is the recipent rather than the agent of the Teaching.
+[^6]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in reading *dhamma-saññā* for <abbr title="Pali Text Society">PTS</abbr> *dhamma-dāna*, “giving the Teaching.” Though the latter comes to label important forms of practice, here it would be odd, since the protagonist is the recipent rather than the agent of the Teaching.
 
 [^7]: “Hearer”

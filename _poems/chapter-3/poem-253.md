@@ -1,7 +1,6 @@
 ---
 title: Citapūjaka
 order: 253
-layout: poem
 category: chapter-3
 ---
 
@@ -31,7 +30,7 @@ Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span cla
 
 The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka Thera is finished.
 
-[^1]: “Pyre-Worshipper”. BJTS reads *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itakapūjaka*. which gets the proper word for pyre (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ita*) even though BJTS retains in v. 2 \[2508\] the form *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaṃ*
+[^1]: “Pyre-Worshipper”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itakapūjaka*. which gets the proper word for pyre (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ita*) even though <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> retains in v. 2 \[2508\] the form *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaṃ*
 
 [^2]: “reached nirvana”
 

@@ -1,7 +1,6 @@
 ---
 title: Bodhighariya
 order: 450
-layout: poem
 category: chapter-3
 ---
 
@@ -83,7 +82,7 @@ all\[-told\] are one less than eighty.
 
 The Vibhīṭaki Chapter, the Forty-Fifth
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Bodhi Tree Shrine-er”
 
@@ -95,7 +94,7 @@ The Vibhīṭaki Chapter, the Forty-Fifth
 
 [^6]: Vishwakarma, “the divine architect”
 
-[^7]: I follow BJTS Sinhala gloss in interpolating “thing” as the subject of the half-verse, which otherwise would mean that sticks, vines and clay were themselves absent from (*n’atthi*, “do not exist”) in that city.
+[^7]: I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss in interpolating “thing” as the subject of the half-verse, which otherwise would mean that sticks, vines and clay were themselves absent from (*n’atthi*, “do not exist”) in that city.
 
 [^8]: “Auspicious” “Festival”
 
@@ -103,6 +102,6 @@ The Vibhīṭaki Chapter, the Forty-Fifth
 
 [^10]: or “state” “existence”: *bhave* rather than *loke*
 
-[^11]: BJTS *Viṭabhīkī* is an obvious typographical error here
+[^11]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *Viṭabhīkī* is an obvious typographical error here
 
-[^12]: BJTS reads Uttal’
+[^12]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads Uttal’

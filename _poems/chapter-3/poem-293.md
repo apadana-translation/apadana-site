@@ -1,7 +1,6 @@
 ---
 title: Chattadāyaka
 order: 293
-layout: poem
 category: chapter-3
 ---
 

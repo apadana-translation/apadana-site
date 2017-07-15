@@ -1,7 +1,6 @@
 ---
 title: Khajjakadāyaka
 order: 163
-layout: poem
 category: chapter-3
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: Punnāgapupphiya
 order: 333
-layout: poem
 category: chapter-3
 ---
 
-### {\*333, BJTS only: Punnāgapupphiya[^1]}
+### {\*333, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> only: Punnāgapupphiya[^1]}
 
 Plunging into a forest grove,  
 I \[lived there as\] a hunter \[then\].  

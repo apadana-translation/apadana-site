@@ -1,7 +1,6 @@
 ---
 title: Paduma
 order: 59
-layout: poem
 category: chapter-3
 ---
 
@@ -70,12 +69,12 @@ The legend of Paduma Thera is finished.
 
 [^2]: lit., “making many people achieve nirvana.” I am tempted to use a neologism like “nirvan-izing” to get the verbal usage of *nibbāpento*, but refrain.
 
-[^3]: BJTS and some PTS alternatives read *sadaṇḍaṃ* (“with the stem”) for *sadhajaŋ*, but as cty agrees with PTS in reading *sadhajaŋ* I translate “with a flag” despite the evocative appeal of “with the stem.”
+[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and some <abbr title="Pali Text Society">PTS</abbr> alternatives read *sadaṇḍaṃ* (“with the stem”) for *sadhajaŋ*, but as cty agrees with <abbr title="Pali Text Society">PTS</abbr> in reading *sadhajaŋ* I translate “with a flag” despite the evocative appeal of “with the stem.”
 
 [^4]: a *kosa* is 500 bow lengths, so he would have been standing 250 bow lengths away.
 
 [^5]: lit., “One Without Outflows,” “Undefiled One,” i.e., the Buddha
 
-[^6]: this follows the BJTS Sinhala gloss. Cty offers no comment. Could *pattaŋ gahetvā* also be, “taking appointment”?
+[^6]: this follows the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss. Cty offers no comment. Could *pattaŋ gahetvā* also be, “taking appointment”?
 
 [^7]: lit., “being five years from birth”

@@ -1,7 +1,6 @@
 ---
 title: Dhātupūjaka
 order: 247
-layout: poem
 category: chapter-3
 ---
 
@@ -33,4 +32,4 @@ The legend of Dhātupūjaka Thera is finished.
 
 [^1]: “Relic-Worshipper”
 
-[^2]: reading *tiṭṭhantaṃ* with BJTS for PTS *tiṭṭhaŋ taŋ*
+[^2]: reading *tiṭṭhantaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tiṭṭhaŋ taŋ*
