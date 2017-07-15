@@ -5,7 +5,6 @@
 
   &__header {
     padding-top: 3rem;
-    text-align: center;
 
     @include breakpoint($large) {
       padding-top: 0;
@@ -17,19 +16,15 @@
   }
 
   &__content {
+    max-width: 40rem;
+  }
+}
 
-    &.single {
-      max-width: 35rem;
-      margin: 0 auto;
-    }
+.columns {
 
-    &.columns {
-
-      @include breakpoint($medium) {
-        column-count: 2;
-        column-gap: 2.5rem;
-      }
-    }
+  @include breakpoint($medium) {
+    column-count: 2;
+    column-gap: 2.5rem;
   }
 }
 
@@ -78,7 +73,7 @@
 
 // Resources Page
 .bibliography {
-  @extend .page__content.columns;
+  @extend .columns;
   padding-left: 1rem;
   break-inside: avoid;
 

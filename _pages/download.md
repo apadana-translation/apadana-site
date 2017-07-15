@@ -1,7 +1,7 @@
 ---
 title: Download
 permalink: /text/download/
-layout: page-two-column
+layout: page
 ---
 
 Evam me sutam. Tatra, bhikkhave, ye te samanabrahmana amaravikkhepika tattha tattha panham puttha samana vacavikkhepam apajjanti amaravikkhepam catuhi vatthuhi. Atthi kho, bho, anno atta dibbo rupi kamavacaro kabalikaraharabhakkho. Ye kho te bhonto deva na manopadosika.

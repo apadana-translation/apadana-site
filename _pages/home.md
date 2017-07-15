@@ -19,14 +19,28 @@ permalink: /
 
 <section class="home__section">
 ## The Text
-The Apadāna is a collection of moral biographies contained in the Pāli Canon’s “Miscellaneous Division” (*Khuddaka-nikāya*). It was composed in India during about the last two centuries <abbr>B.C.E.</abbr> Most of it consists of autobiographies ascribed to about forty early Buddhist nuns (*Therī-apadāna*) and about five hundred and fifty early Buddhist monks (*Therāpadāna*).
+*Legends of the Buddhist Saints* (*Apadāna*) is a collection of about
+six hundred autobiographical poems ascribed to the accomplished Buddhas
+and Arahants of the early Buddhist community. Composed in India in the
+Pāli language around the second century, <abbr>B.C.E.</abbr>, the collection has
+been preserved for more than two thousand years. *Apadāna* is
+the source of many of the best-loved stories of the saints in the
+Buddhist world. It is also a particularly rich and
+colorful source for the social and religious history of ancient India.
 
 [Read the Introduction](/text/introduction/){.button}
 </section>
 
 <section class="home__section">
 ## About the Project
-This is the first complete translation of the Apadāna into English. Evam me sutam. Adhiccasamuppannavado. Candimasuriyanam pathagamanam bhavissati, candimasuriyanam uppathagamanam bhavissati. Ekam samayam bhagava antara ca rajagaham antara ca nalandam addhanamaggappatipanno hoti mahata bhikkhusanghena saddhim pancamattehi bhikkhusatehi.
+This is the first-ever complete translation of *Apadāna* into a Western
+language. It has been a daunting undertaking, traversing the
+translator’s entirely professional career, yet it admittedly remains an
+imperfect work in progress. Motivated by a sense that scholars,
+students, Buddhists and even the general public might enjoy and benefit
+from access to this beautiful collection of ancient poetry, he has
+pushed ahead, in fits and starts, to produce the present translation,
+and to offer it for free to the world in this innovative online format.
 
 [Learn More](/about/){.button}
 </section>

@@ -1,1 +1,1 @@
-$('.poem').sidenotes();
+$('.poem, .page').sidenotes();
