@@ -44,7 +44,7 @@ The legend of Tipupphiya Thera is finished.
 
 [^2]: the *pāṭali* or trumpet-flower tree (Sinh. *paḷol gasa*) was the tree under which Vipassi Buddha attained Bodhi or Awakening, hence it is his “Bodhi Tree” even though it is a species different from the “Bodhi Tree” of Gotama Buddha, the *ficus religiosa* (Skt. *Aśvattha*).
 
-[^3]: reading *patita* (BJTS alt) for *satta* (“seven,” PTS, BJTS, though BJTS Sinhala gloss takes it as meaning “fallen” \[Sinhala *väṭunu*).
+[^3]: reading *patita* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt) for *satta* (“seven,” <abbr title="Pali Text Society">PTS</abbr>, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, though <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss takes it as meaning “fallen” \[Sinhala *väṭunu*).
 
 [^4]: “Sambuddha, Vipassi, World Lord, well-liberated, undefiled” are all accusatives which, in addition to explicating the phrase “facing the Sambuddha”, therefore stand in grammatical apposition with *pāṭali*. He worships the tree “as though facing the Sambuddha” because, in this reading, the tree *is* the Buddha.
 

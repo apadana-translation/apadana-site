@@ -43,7 +43,7 @@ Thus indeed Venerable Avaṇṭaphaladāyaka Thera spoke these verses.
 
 The legend of Avaṇṭaphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Stemless Fruit Donor.” This same *apadāna*, with only slight changes, is repeated as \#463 {466} and \#501 {504} below, under the same title, and with a different title as \#506 {509}
 

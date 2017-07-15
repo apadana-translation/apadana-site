@@ -65,7 +65,7 @@ Thus indeed Venerable Naḷamāliya Thera spoke these verses.
 
 The legend of Naḷamāliya Thera is finished.
 
-[^1]: “Reed-Garland-er.” Reading naḷa° (BJTS) for nala° (PTS)
+[^1]: “Reed-Garland-er.” Reading naḷa° (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for nala° (<abbr title="Pali Text Society">PTS</abbr>)
 
 [^2]: It is unclear whether the repetition of “Neutral One” (*tādino*) in this string of epithets is intentional (as to emphasize that particular quality) or not (perhaps through conflation of other now-lost epithets)
 

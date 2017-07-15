@@ -300,19 +300,19 @@ The legend of Upavāna Thera is finished.
 
 [^7]: see above, n. to \[839\]
 
-[^8]: BJTS reads thirty leagues
+[^8]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads thirty leagues
 
-[^9]: PTS omits the *garuḷas*, and as a result the height of the stupa increases from five to seven leagues, skipping six. BJTS includes the *garuḷas*, which makes the numbering sequence complete. In PTS this is the *kumbhaṇḍas* rather than the *garuḷas*, but otherwise the text is the same.
+[^9]: <abbr title="Pali Text Society">PTS</abbr> omits the *garuḷas*, and as a result the height of the stupa increases from five to seven leagues, skipping six. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> includes the *garuḷas*, which makes the numbering sequence complete. In <abbr title="Pali Text Society">PTS</abbr> this is the *kumbhaṇḍas* rather than the *garuḷas*, but otherwise the text is the same.
 
 [^10]: *yakkhā*
 
-[^11]: PTS omits *kumbhaṇḍas* from this list, conflating them with *garuḷas*; I follow BJTS in the last two feet.
+[^11]: <abbr title="Pali Text Society">PTS</abbr> omits *kumbhaṇḍas* from this list, conflating them with *garuḷas*; I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in the last two feet.
 
-[^12]: PTS reads five, in keeping with its elision of the *garuḷas*
+[^12]: <abbr title="Pali Text Society">PTS</abbr> reads five, in keeping with its elision of the *garuḷas*
 
 [^13]: *gandhabbā*
 
-[^14]: BJTS and PTS alt. reads *garuḷā* for *guyhakā*
+[^14]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt. reads *garuḷā* for *guyhakā*
 
 [^15]: an allusion to the practice that seems to have been current at the early post-Aśokan stupas, namely climbing the railing attached to the sides of the stupa in order to circumambulate and place offerings upon its dome.
 
@@ -332,4 +332,4 @@ The legend of Upavāna Thera is finished.
 
 [^23]: *hasulā* = ? Cf. RD *hasula*, s.v., which following Kern treats this as a corrupted reading of *bhamuka*, “eyebrows” or “thick eyebrows”, often found in combination with the term for “long eyelashes” (*aḷārapamha*).
 
-[^24]: RD gives “good hips,” referring to this text. I don’t see the warrant, and take the term *susaññā* from *saññā*, sense, perception, as does BJTS
+[^24]: RD gives “good hips,” referring to this text. I don’t see the warrant, and take the term *susaññā* from *saññā*, sense, perception, as does <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>

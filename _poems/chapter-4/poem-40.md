@@ -110,26 +110,26 @@ The *Therī-apadāna* is Finished[^12]
 
 The *Apadāna* is Finished
 
-[^1]: “Stone,” known only here but treated as an historical nun by Malalasekera, DPPN II: 1290. BJTS reads *Pesalā*, here and elsewhere in this *apadāna* (= “Agreeable”)
+[^1]: “Stone,” known only here but treated as an historical nun by Malalasekera, DPPN II: 1290. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Pesalā*, here and elsewhere in this *apadāna* (= “Agreeable”)
 
-[^2]: PTS presents this and the following verse as six-footed verses, presenting in a total of three verses the same material in the same order that BJTS presents in four verses.
+[^2]: <abbr title="Pali Text Society">PTS</abbr> presents this and the following verse as six-footed verses, presenting in a total of three verses the same material in the same order that <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> presents in four verses.
 
 [^3]: *kassape jinasāsane*, lit., “in the dispensation of the Victor, Kassapa \[Buddha\]”
 
-[^4]: reading *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyam* with BJTS for PTS *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eram*, lit., “the Brahma-life” “the holy life” “celibacy”
+[^4]: reading *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyam* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eram*, lit., “the Brahma-life” “the holy life” “celibacy”
 
 [^5]: i.e., the thirty-three gods.
 
-[^6]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*, Great Sage.
+[^6]: reading *mahāmune* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mahāmuni*, Great Sage.
 
-[^7]: this is the BJTS reading for PTS *bhikkhunī Selā*
+[^7]: this is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading for <abbr title="Pali Text Society">PTS</abbr> *bhikkhunī Selā*
 
-[^8]: this line only in BJTS, which reads *Pesalā* here as elsewhere
+[^8]: this line only in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, which reads *Pesalā* here as elsewhere
 
-[^9]: these final two feet enumerating the verses in the chapter, like most of the expected chapter summary, appears in BJTS but not in PTS.
+[^9]: these final two feet enumerating the verses in the chapter, like most of the expected chapter summary, appears in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> but not in <abbr title="Pali Text Society">PTS</abbr>.
 
-[^10]: this appears only in BJTS, and appears before rather than after the chapter summary.
+[^10]: this appears only in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, and appears before rather than after the chapter summary.
 
-[^11]: this colophonic verse appears in BJTS only; PTS omits it
+[^11]: this colophonic verse appears in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> only; <abbr title="Pali Text Society">PTS</abbr> omits it
 
-[^12]: this appears only in BJTS; PTS omits it
+[^12]: this appears only in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>; <abbr title="Pali Text Society">PTS</abbr> omits it

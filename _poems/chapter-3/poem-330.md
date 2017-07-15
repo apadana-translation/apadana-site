@@ -146,7 +146,7 @@ The Ummāpupphiya Chapter, the Thirty-Third
 
 [^2]: lit., “in”
 
-[^3]: reading *susaṅghahita* with BJTS for PTS *susaṅghahīta* (“very friendly to the assembly”), and following BJTS gloss here.
+[^3]: reading *susaṅghahita* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *susaṅghahīta* (“very friendly to the assembly”), and following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss here.
 
 [^4]: *bhikkhusaṅghe*
 
@@ -158,8 +158,8 @@ The Ummāpupphiya Chapter, the Thirty-Third
 
 [^8]: “Very Joyful”
 
-[^9]: reading *phalikaṃ* with BJTS and PTS alternative for PTS *phalitaŋ*, “in fruit” (maybe “decorated with fruit”?)
+[^9]: reading *phalikaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alternative for <abbr title="Pali Text Society">PTS</abbr> *phalitaŋ*, “in fruit” (maybe “decorated with fruit”?)
 
 [^10]: *anumodi*
 
-[^11]: PTS reads *Nigguṇṭhi*
+[^11]: <abbr title="Pali Text Society">PTS</abbr> reads *Nigguṇṭhi*

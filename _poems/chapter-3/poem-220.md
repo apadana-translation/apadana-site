@@ -44,7 +44,7 @@ The Hatthi Chapter, the Twenty-Second
 
 [^1]: “Sin-Obstructer”
 
-[^2]: reading *naḷakehi* with BJTS (and PTS alternative reading) for PTS *nalakehi*.
+[^2]: reading *naḷakehi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternative reading) for <abbr title="Pali Text Society">PTS</abbr> *nalakehi*.
 
 [^3]: *pāpaŋ*
 

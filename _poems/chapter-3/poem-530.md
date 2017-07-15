@@ -253,7 +253,7 @@ one hundred twenty-three verses.
 
 The Tiṇadāyaka Chapter, the Fifty-Third
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Good Smell”
 
@@ -261,7 +261,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^4]: *vadataŋ varo*
 
-[^5]: Here BJTS inadvertently repeats the number 5617, so that there are two verses numbered as such
+[^5]: Here <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> inadvertently repeats the number 5617, so that there are two verses numbered as such
 
 [^6]: lit., “Surrounded by”
 
@@ -273,9 +273,9 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^10]: *parisāsu visārado*
 
-[^11]: *pahū*, BJTS Sinh. gloss *prabhū*
+[^11]: *pahū*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *prabhū*
 
-[^12]: PTS and BJTS agree in treating this as a proper name, *Migadāya*
+[^12]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in treating this as a proper name, *Migadāya*
 
 [^13]: lit., “again and again”
 
@@ -289,9 +289,9 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^18]: *sabbakammakhayan patto*, lit., “attainer of the destruction of all karma”
 
-[^19]: reading *vimuttopadhisaṅkhaye* with BJTS for PTS *vimutto saṭisaṅkhaye*. *Upadhi* = a condition or ground for rebirth
+[^19]: reading *vimuttopadhisaṅkhaye* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vimutto saṭisaṅkhaye*. *Upadhi* = a condition or ground for rebirth
 
-[^20]: *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkappavattako*. BJTS and PTS agree on this reading, where one would expect *dhamma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akka°*
+[^20]: *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkappavattako*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> agree on this reading, where one would expect *dhamma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akka°*
 
 [^21]: *sametā*, fr. *sameti*
 
@@ -311,7 +311,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^29]: *anejo*
 
-[^30]: *dhīmā*, BJTS gloss *nuvanätiyē ya*
+[^30]: *dhīmā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *nuvanätiyē ya*
 
 [^31]: *asamo*
 
@@ -359,11 +359,11 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^53]: *mudito*
 
-[^54]: *asito*. BJTS reads *adito* (?), gloss *utgataya* (?)
+[^54]: *asito*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *adito* (?), gloss *utgataya* (?)
 
-[^55]: reading *dhātā* with BJTS for PTS *tātā* (“the Protector” “the Savior”)
+[^55]: reading *dhātā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tātā* (“the Protector” “the Savior”)
 
-[^56]: reading *dhatā* with BJTS for PTS *tantā* (“the Thread”)
+[^56]: reading *dhatā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tantā* (“the Thread”)
 
 [^57]: *hantā*
 
@@ -375,7 +375,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^61]: *sampahaŋsitā*
 
-[^62]: *bhottā*, BJTS reads *bhettā* (“the Breaker”)
+[^62]: *bhottā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *bhettā* (“the Breaker”)
 
 [^63]: *chettā*
 
@@ -385,7 +385,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^66]: *akhilo*
 
-[^67]: *visālo*. BJTS reads *visallo* (“Free of Pain”)
+[^67]: *visālo*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *visallo* (“Free of Pain”)
 
 [^68]: *anīgho*
 
@@ -395,41 +395,41 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^71]: *virajo*
 
-[^72]: *khattā*. BJTS reads *khantā* (“Meek” “Docile”)
+[^72]: *khattā*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *khantā* (“Meek” “Docile”)
 
-[^73]: reading *gantā* with BJTS for PTS *gandhā* (“Scented”)
+[^73]: reading *gantā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *gandhā* (“Scented”)
 
-[^74]: reading *vattā* with BJTS for PTS *mettā* (“Love”)
+[^74]: reading *vattā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mettā* (“Love”)
 
 [^75]: *pakāsitā*
 
 [^76]: *tāretā*
 
-[^77]: reading *atthakāretā* with BJTS (and PTS alt.) for PTS repetition of *tāretā* (“the Crosser”)
+[^77]: reading *atthakāretā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> repetition of *tāretā* (“the Crosser”)
 
 [^78]: *kāretā*
 
-[^79]: *sampadāletā*, BJTS *sampadālitā*
+[^79]: *sampadāletā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *sampadālitā*
 
 [^80]: *pāpetā*
 
 [^81]: *sahitā*, or “Endurer”
 
-[^82]: reading *kantā* with BJTS for PTS repetition of *hantā*, which both texts read as the next word in the verse
+[^82]: reading *kantā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> repetition of *hantā*, which both texts read as the next word in the verse
 
 [^83]: *hantā*
 
-[^84]: reading *ātāpī* with BJTS for PTS *tātâpi* (“also the Protector”)
+[^84]: reading *ātāpī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tātâpi* (“also the Protector”)
 
 [^85]: *tāpaso*, this makes nine syllables in the line, which needs to be chanted as eight by contracting “slayer” into “slair”
 
 [^86]: *sama<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itto*
 
-[^87]: *‘samasamo*, (following BJTS Sinh. gloss; the cpd. could also be *samasamo*, “Always the Same”
+[^87]: *‘samasamo*, (following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss; the cpd. could also be *samasamo*, “Always the Same”
 
 [^88]: *asahāyo*, lit., “Friendless”
 
-[^89]: reading *dayāsayo* (and following gloss) with BJTS for PTS *dayāyaso* (“famous for kindness” “kind-famed”)
+[^89]: reading *dayāsayo* (and following gloss) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dayāyaso* (“famous for kindness” “kind-famed”)
 
 [^90]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cherasanto*
 
@@ -453,21 +453,21 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^100]: *jino*
 
-[^101]: *sattasāravare*. BJTS construes this as modifying the palace, but the Pāli seems to me more ambiguous than that. Cf. the use of *sattasāra°* as a Buddha-epithet in v. \[5887\] and \[6287\]
+[^101]: *sattasāravare*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> construes this as modifying the palace, but the Pāli seems to me more ambiguous than that. Cf. the use of *sattasāra°* as a Buddha-epithet in v. \[5887\] and \[6287\]
 
-[^102]: reading *akaṃ dhammakathaṃ ahaṃ* with BJTS for PTS *ahaŋ dhammakathaŋ ahaŋ* (“I *Dhamma*-preaching I”)
+[^102]: reading *akaṃ dhammakathaṃ ahaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ahaŋ dhammakathaŋ ahaŋ* (“I *Dhamma*-preaching I”)
 
-[^103]: *nissāso*, following BJTS gloss *māgē piṭataṭa heḷana vātaya* (“the wind that I throw down/cast away to my exterior”)
+[^103]: *nissāso*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *māgē piṭataṭa heḷana vātaya* (“the wind that I throw down/cast away to my exterior”)
 
-[^104]: reading *sabbagandhe ‘tiseti* (= *atisayati*) with BJTS for PTS *sabbagandho ti seti* (“it lies down ‘all good scents’ “) and following BJTS SInhala gloss
+[^104]: reading *sabbagandhe ‘tiseti* (= *atisayati*) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sabbagandho ti seti* (“it lies down ‘all good scents’ “) and following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> SInhala gloss
 
-[^105]: BJTS reads *ādisanto* (“announcing”) for *atisanto*
+[^105]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *ādisanto* (“announcing”) for *atisanto*
 
-[^106]: reading *guṇatthavassa sabbaṃ taṃ phalaṃ tu paramambhūtaṃ* with BJTS for PTS *guṇatthavassapupphan tan phalan tu param abbhutaŋ* (“that fruit which is extremely miraculous flowering in the meaning of virtue” \[?\]), and followed BJTS gloss: *buddha guṇakitiyāge ē siyalu vipāka atiśaya vismayajanaka ya*.
+[^106]: reading *guṇatthavassa sabbaṃ taṃ phalaṃ tu paramambhūtaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *guṇatthavassapupphan tan phalan tu param abbhutaŋ* (“that fruit which is extremely miraculous flowering in the meaning of virtue” \[?\]), and followed <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss: *buddha guṇakitiyāge ē siyalu vipāka atiśaya vismayajanaka ya*.
 
-[^107]: the fourth (in translation third) foot of the text seems to be corrupt. IPTS reads *rasaddhovisamāyuto*, “bound up with the pure taste.” BJTS reads (typographical error?) *saradvadhanisamāyuto* (= *rasadhvanisaāmyuto* ?). In both cases the alts. are even more uncertain. I translate the BJTS Sinhala gloss, *madhura svaradhvani yukta vūyem* (- *mihirihaddha ättem*), “i becoming bound with the sweet sound (I have a sweet sound)”
+[^107]: the fourth (in translation third) foot of the text seems to be corrupt. I<abbr title="Pali Text Society">PTS</abbr> reads *rasaddhovisamāyuto*, “bound up with the pure taste.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads (typographical error?) *saradvadhanisamāyuto* (= *rasadhvanisaāmyuto* ?). In both cases the alts. are even more uncertain. I translate the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss, *madhura svaradhvani yukta vūyem* (- *mihirihaddha ättem*), “i becoming bound with the sweet sound (I have a sweet sound)”
 
-[^108]: reading *khīṇe ayusi* with BJTS for PTS *khīṇ’ ev’ āyu pi* (“life is certainly destroyed too”)
+[^108]: reading *khīṇe ayusi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *khīṇ’ ev’ āyu pi* (“life is certainly destroyed too”)
 
 [^109]: lit., “all of you listen to that” (2nd pers. pl. imp.)
 
@@ -483,15 +483,15 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^115]: or “heretics”: *kutitthiye*
 
-[^116]: reading *titthikākiṇṇe* with BJTS for PTS *titthikâkiṇṇo* (“I am strewn with rivals”)
+[^116]: reading *titthikākiṇṇe* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *titthikâkiṇṇo* (“I am strewn with rivals”)
 
 [^117]: *vadanto*, lit., “saying,” “telling”
 
-[^118]: reading *vadaṃ* with BJTS (and PTS alt.) for PTS *varaŋ* (“excellent”)
+[^118]: reading *vadaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *varaŋ* (“excellent”)
 
-[^119]: reading *janassa* with BJTS (and PTS alts.) for PTS *°jinassa* (“of the Victor”)
+[^119]: reading *janassa* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alts.) for <abbr title="Pali Text Society">PTS</abbr> *°jinassa* (“of the Victor”)
 
-[^120]: reading *sarado va sasaṅko ‘haṃ* with BJTS for PTS *saraŋ divasasanko ‘haŋ* (“I am the moon in the day for a lake” \[?\])
+[^120]: reading *sarado va sasaṅko ‘haṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *saraŋ divasasanko ‘haŋ* (“I am the moon in the day for a lake” \[?\])
 
 [^121]: lit., “I was”
 
@@ -501,14 +501,14 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^124]: *vāgīso*, “\[I am one\] with mastery of speech”
 
-[^125]: reading *vimatippattā* with BJTS for PTS *vimatiŋ pattā*, though the latter conveys (somewhat ungrammatically) the same sense
+[^125]: reading *vimatippattā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vimatiŋ pattā*, though the latter conveys (somewhat ungrammatically) the same sense
 
-[^126]: reading *apades’ ahaṃ* with BJTS (and PTS alt.) for PTS *apaniŋ* (same meaning, fr. *apaneti*)
+[^126]: reading *apades’ ahaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *apaniŋ* (same meaning, fr. *apaneti*)
 
 [^127]: *tiṇṇasamsārasāgaro*
 
-[^128]: BJTS reads *mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ado* (“Mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ada”)
+[^128]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ado* (“Mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ada”)
 
-[^129]: BJTS reads *supaṭo* (“Supaṭa”)
+[^129]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *supaṭo* (“Supaṭa”)
 
-[^130]: this is the BJTS reading for PTS *bodhisammajako* (“Bodhisammajaka”)
+[^130]: this is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading for <abbr title="Pali Text Society">PTS</abbr> *bodhisammajako* (“Bodhisammajaka”)

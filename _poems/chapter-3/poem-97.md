@@ -52,16 +52,16 @@ The legend of Madhupiṇḍika Thera is finished.
 
 [^1]: “Honey-Ball-er”
 
-[^2]: reading *seṭṭhaṃ* (BJTS) for *setthaŋ* (PTS)
+[^2]: reading *seṭṭhaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *setthaŋ* (<abbr title="Pali Text Society">PTS</abbr>)
 
 [^3]: compare *nisabha* with *narasabha*, which I also translate “Bull of Men”.
 
 [^4]: *osadhī*. RD (s.v.) points out that all we really know about this star is that it was particularly bright, leading Childers to translate it as “Venus” and others as the morning star.
 
-[^5]: reading *pahutā āsi* (BJTS) for *pahunā tāva* (PTS)
+[^5]: reading *pahutā āsi* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *pahunā tāva* (<abbr title="Pali Text Society">PTS</abbr>)
 
-[^6]: BJTS agrees with PTS in presenting this as a six-footed verse
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agrees with <abbr title="Pali Text Society">PTS</abbr> in presenting this as a six-footed verse
 
 [^7]: “Good to Look At”
 
-[^8]: PTS does not include the last two feet of this verse, which appear only in BJTS. The latter presents it as a six-footed verse, the former as a four-footed verse containing the first four feet translated here.
+[^8]: <abbr title="Pali Text Society">PTS</abbr> does not include the last two feet of this verse, which appear only in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>. The latter presents it as a six-footed verse, the former as a four-footed verse containing the first four feet translated here.

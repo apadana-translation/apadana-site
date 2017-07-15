@@ -190,13 +190,13 @@ Thus indeed Venerable Puḷinathūpiya[^44] Thera spoke these verses.
 
 The legend of Puḷinathūpiya[^45] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Sand-Stupa-er.” BJTS reads *Pulina°*
+[^2]: “Sand-Stupa-er.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Pulina°*
 
-[^3]: BJTS reads *Yamako*
+[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Yamako*
 
-[^4]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuddasasahassāni* with BJTS (and PTS alt.) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuddasaŋ sahassānaŋ* (“of fourteenth thousand”)
+[^4]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuddasasahassāni* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuddasaŋ sahassānaŋ* (“of fourteenth thousand”)
 
 [^5]: *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aranti*
 
@@ -208,13 +208,13 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^9]: lit., “of”
 
-[^10]: BJTS reads *kiṅkaṇi°*
+[^10]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kiṅkaṇi°*
 
-[^11]: reading *jāyanti* with BJTS for PTS *jhāyanti* (“are meditating”)
+[^11]: reading *jāyanti* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *jhāyanti* (“are meditating”)
 
-[^12]: *vitakkā gehanissitā*, lit., “initial reflections connected with the house,” i.e., domestic concerns, perseveration about things of the lay world; BJTS Sinh. gloss is *kāmaniḥśrita* (“connected with lust/sense-pleasures”)
+[^12]: *vitakkā gehanissitā*, lit., “initial reflections connected with the house,” i.e., domestic concerns, perseveration about things of the lay world; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss is *kāmaniḥśrita* (“connected with lust/sense-pleasures”)
 
-[^13]: BJTS (and PTS alt.) read *sugataṃ* (“the Well-Gone-One”) for PTS *sukataŋ*. BJTS Sinhala gloss then treats it adjectivally, *sarvajñastupaya* (“the stupa of the Omniscient One”)
+[^13]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) read *sugataṃ* (“the Well-Gone-One”) for <abbr title="Pali Text Society">PTS</abbr> *sukataŋ*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss then treats it adjectivally, *sarvajñastupaya* (“the stupa of the Omniscient One”)
 
 [^14]: *viharam*, fr. *viharati*.
 
@@ -224,11 +224,11 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^17]: *saŋvaseyyāsi*, lit., “were you to live with” or “that you should live with”
 
-[^18]: *mārisa*, BJTS glosses *nidukāṇeni* (“O you without suffering”)
+[^18]: *mārisa*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *nidukāṇeni* (“O you without suffering”)
 
-[^19]: reading *kuvitakke* (pl.) with BJTS for PTS *kuvitakkaŋ* (sing., “bad reflection” or, following the translation in the preceeding verse, “bad pre-occupation”)
+[^19]: reading *kuvitakke* (pl.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *kuvitakkaŋ* (sing., “bad reflection” or, following the translation in the preceeding verse, “bad pre-occupation”)
 
-[^20]: BJTS reads *tuttāṭṭito*, the more correct (acc. to RD) spelling of PTS *°addito*
+[^20]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *tuttāṭṭito*, the more correct (acc. to RD) spelling of <abbr title="Pali Text Society">PTS</abbr> *°addito*
 
 [^21]: *ma<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>urājā* = Māra
 
@@ -240,7 +240,7 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^25]: i.e., the thirty\[-three\] gods, in Tāvatiṃsa heaven
 
-[^26]: BJTS reads *kiṅkaṇi*
+[^26]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kiṅkaṇi*
 
 [^27]: *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iṇṇattā*
 
@@ -248,13 +248,13 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^29]: lit., “in”
 
-[^30]: reading *sāragāhinā* (BJTS understands *sāra*, “the pith,” as nirvana) for PTS *pāragāminā* (“who has gone to the opposite shore), though the meaning of the latter is close to that of the former.
+[^30]: reading *sāragāhinā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> understands *sāra*, “the pith,” as nirvana) for <abbr title="Pali Text Society">PTS</abbr> *pāragāminā* (“who has gone to the opposite shore), though the meaning of the latter is close to that of the former.
 
-[^31]: reading *sādhaka* with BJTS for PTS *sārikā* (= “pithy”? PTS alt. are *sāraṇā* \[“remembered”\] and *sārakā* \[”pithy”\] )
+[^31]: reading *sādhaka* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sārikā* (= “pithy”? <abbr title="Pali Text Society">PTS</abbr> alt. are *sāraṇā* \[“remembered”\] and *sārakā* \[”pithy”\] )
 
 [^32]: or “flood,” *aṇṇavaŋ*
 
-[^33]: reading *thokakañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a yaṃ* with BJTS for PTS *thokakañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anaŋ* (“a little gold”)
+[^33]: reading *thokakañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a yaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *thokakañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anaŋ* (“a little gold”)
 
 [^34]: *saŋsāraŋ*, frequently described as “an ocean”
 
@@ -264,7 +264,7 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^37]: or a sprout: *papaṭikaŋ*
 
-[^38]: *vinīharuŋ*, lit., “they went out of,” “they threw away”. BJTS Sinhala gloss *bähäraṭa gat ha*
+[^38]: *vinīharuŋ*, lit., “they went out of,” “they threw away”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *bähäraṭa gat ha*
 
 [^39]: lit., “on an *uposatha* day”
 
@@ -272,10 +272,10 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^41]: lit., “in the Śākyas’ Son’s”
 
-[^42]: BJTS jumps from \[5334\] to \[5336\] here, inadvertently (I assume) omitting \[5335\] from its numbering.
+[^42]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> jumps from \[5334\] to \[5336\] here, inadvertently (I assume) omitting \[5335\] from its numbering.
 
-[^43]: BJTS reads *soṇṇapuphass’idaṃ phalaṃ*, “that is the fruit of a gold-colored flower,” referring back to the *kṅikaṇi* (PTS: *kiṅkhani*) flowers offered to the sand-stupa (see above, v. 10 \[5313\], cf. v. 18 \[5321\])
+[^43]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *soṇṇapuphass’idaṃ phalaṃ*, “that is the fruit of a gold-colored flower,” referring back to the *kṅikaṇi* (<abbr title="Pali Text Society">PTS</abbr>: *kiṅkhani*) flowers offered to the sand-stupa (see above, v. 10 \[5313\], cf. v. 18 \[5321\])
 
-[^44]: BJTS reads *Pulina°*
+[^44]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Pulina°*
 
-[^45]: BJTS reads *Pulina°*
+[^45]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Pulina°*

@@ -104,7 +104,7 @@ Thus indeed Venerable Bhaddajī Thera spoke these verses.
 
 The legend of Bhaddajī Thera, the eighth.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Honorable Lucky One,” a historical monk, see DPPN II:349-350. This same *apadāna* is included above as \#480 {483}, where it is ascribed to a monk named Bhisadāyaka (“Lotus-Root Donor”), with slight variations in the formatting of the individual verses and reading *bhisaṃ* (“lotus root”) for *bhikkhaṃ* (“alms food”) in v. 15 \[6442\].
 
@@ -114,13 +114,13 @@ The legend of Bhaddajī Thera, the eighth.
 
 [^5]: lit., “going,” elsewhere translated as “flying” given the context
 
-[^6]: *nijjhāyamāno*, lit., “meditating” “reflecting” “thinking;” I follow BJTS Sinhala gloss *balannā vu mama*
+[^6]: *nijjhāyamāno*, lit., “meditating” “reflecting” “thinking;” I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *balannā vu mama*
 
 [^7]: *sappi*, lit., ghee, clarified butter (*gī tel*)
 
 [^8]: lit., “went”
 
-[^9]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ālesi* with BJTS for PTS *sañjālesi*
+[^9]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ālesi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sañjālesi*
 
 [^10]: lit., “fell down”
 

@@ -36,7 +36,7 @@ Thus indeed Venerable Apara Uttara Thera spoke these verses.
 
 The legend of Apara Uttara Thera, the seventh.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “A Different Uttara,” likewise a historical monk, see DPPN I:350. This same *apadāna* appears above, verbatim, as \#483 {486}, where it is ascribed to a monk named Dhātupūjaka (“Relic-Worshipper”)
 

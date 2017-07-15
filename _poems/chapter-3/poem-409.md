@@ -281,69 +281,69 @@ Thus indeed Venerable Jatukaṇṇika Thera spoke these verses.
 
 The legend of Jatukaṇṇika Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: a historical monk, another of Bāvarī’s students whose questions put to the Buddha, and his answer, are contained in the *Jatukaṇṇi Sutta* (a.k.a. J*atukaṇṇimāṇavapu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā)* of SN (vv. 1096-1100; the eleventh *sutta* of the *Parāyana Vagga*). BJTS reads *Jatukaṇṇi*.
+[^2]: a historical monk, another of Bāvarī’s students whose questions put to the Buddha, and his answer, are contained in the *Jatukaṇṇi Sutta* (a.k.a. J*atukaṇṇimāṇavapu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā)* of SN (vv. 1096-1100; the eleventh *sutta* of the *Parāyana Vagga*). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Jatukaṇṇi*.
 
 [^3]: *seṭṭhiputto*, “a millionaire’s son”
 
-[^4]: reading *tayo* with BJTS (and PTS alt.) for PTS *tato*, “then” “after that” “from that”
+[^4]: reading *tayo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *tato*, “then” “after that” “from that”
 
-[^5]: *ubbiddhā*, Skt. *udviddha*, a rare term outside *Apadāna* (and J) meaning (according to Cone) “high, elevated.” BJTS glosses it as a verb rather than an adjective (which would produce “tall architects”), “constructed \[a building\]” (*goḍanäguha*). I follow BJTS in making sense of this verse.
+[^5]: *ubbiddhā*, Skt. *udviddha*, a rare term outside *Apadāna* (and J) meaning (according to Cone) “high, elevated.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses it as a verb rather than an adjective (which would produce “tall architects”), “constructed \[a building\]” (*goḍanäguha*). I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in making sense of this verse.
 
-[^6]: *gehalañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hakā*, lit., “those who know \[make, do\] the marks of houses;” BJTS Sinh. gloss is just that: *geval lakuṇu dannō*. Lilley says all the mss give *lañjaka*, but variants are not noted by BJTS (*°lañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hakā*)
+[^6]: *gehalañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hakā*, lit., “those who know \[make, do\] the marks of houses;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss is just that: *geval lakuṇu dannō*. Lilley says all the mss give *lañjaka*, but variants are not noted by <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (*°lañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hakā*)
 
 [^7]: *turiyā*
 
 [^8]: lit., “beaten,” “struck:” *āhaṭā*
 
-[^9]: reading *samma-tāla-samāhitā* with BJTS for PTS *sāma-tāla-samāhitā* (“keep up \[be attentive to, stay fixed on, put down\] the same melody”). The difference is slight — the point is that they are played well — but BJTS is (like Indian classical music) open to a wider range of “proper” performances (harmonics) than all instruments playing the same melody, so I prefer its reading; in this context “proper” is not necessarily synonymous with “the same.”
+[^9]: reading *samma-tāla-samāhitā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sāma-tāla-samāhitā* (“keep up \[be attentive to, stay fixed on, put down\] the same melody”). The difference is slight — the point is that they are played well — but <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> is (like Indian classical music) open to a wider range of “proper” performances (harmonics) than all instruments playing the same melody, so I prefer its reading; in this context “proper” is not necessarily synonymous with “the same.”
 
-[^10]: reading *velāpikā* with BJTS (and PTS alt) for PTS *velāmikā* (RD: “some sort of servants, especially in demand for a noble’s retinue”); BJTS gloss *piḷi hisa sisārannō*, “people who twirl around their heads completely”
+[^10]: reading *velāpikā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt) for <abbr title="Pali Text Society">PTS</abbr> *velāmikā* (RD: “some sort of servants, especially in demand for a noble’s retinue”); <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *piḷi hisa sisārannō*, “people who twirl around their heads completely”
 
-[^11]: *vāmanikā*, read fr. *vāmanaka*, dwarfish, *vāmana*, a dwarf. BJTS (and PTS alt.) read *lāmaṇikā*, BJTS gloss for this is also *aṅguṭumiṭi°* = “extremely small dwarf” + *°nätum naṭannō*, “-dance-dancers”
+[^11]: *vāmanikā*, read fr. *vāmanaka*, dwarfish, *vāmana*, a dwarf. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) read *lāmaṇikā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss for this is also *aṅguṭumiṭi°* = “extremely small dwarf” + *°nätum naṭannō*, “-dance-dancers”
 
-[^12]: reading *kuñjavāsī* (“dwelling in a bower,” “living in a place covered with vines”) with BJTS for PTS *kujjā vā sīhi*. BJTS glosses: *kudu vūven men naṭannō*, “those who dance as though they have become small,” crouched up (as though they are under a bower or in a place covered over with vines).
+[^12]: reading *kuñjavāsī* (“dwelling in a bower,” “living in a place covered with vines”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *kujjā vā sīhi*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses: *kudu vūven men naṭannō*, “those who dance as though they have become small,” crouched up (as though they are under a bower or in a place covered over with vines).
 
-[^13]: reading *timajjhikā* (“third in the middle-ers”) with BJTS for PTS *sīhi-majjhikā* (“in the middle of lionnesses”), though BJTS gloss *sihadenakagē men mäda pedesa penvamin naṭannō* (“dancers who put on a show like they are in the area between two lions”) preserves the meaning of the latter
+[^13]: reading *timajjhikā* (“third in the middle-ers”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sīhi-majjhikā* (“in the middle of lionnesses”), though <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *sihadenakagē men mäda pedesa penvamin naṭannō* (“dancers who put on a show like they are in the area between two lions”) preserves the meaning of the latter
 
-[^14]: *laṅghikā*, lit., “deer-like-\[dancers\]” (fr. *laṅghi*); BJTS gloss *uḍaṭa matuvemin naṭannō* (“dancers who rise upwards”), figuratively “leaping like a deer”
+[^14]: *laṅghikā*, lit., “deer-like-\[dancers\]” (fr. *laṅghi*); <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *uḍaṭa matuvemin naṭannō* (“dancers who rise upwards”), figuratively “leaping like a deer”
 
-[^15]: *sokajjhāyī*, lit., “sorrow-destroyers”. BJTS gloss *usuḷu-visuḷu pāmin naṭannō* (“dancers who present absurdities and fooleries”)
+[^15]: *sokajjhāyī*, lit., “sorrow-destroyers”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *usuḷu-visuḷu pāmin naṭannō* (“dancers who present absurdities and fooleries”)
 
-[^16]: *vetālino*, according to RD practitioners of a (forbidden) art which was already not understand in the commentaries, Bdgh. def. “cymbal beating which some take to be raising the dead by magic” (cf. *vetāla*, ghost); RD: chanting of bards for a king. BJTS gloss *ghanatālampoṭa gasannō* (“people who play the Tamil cymbal \[Sinh-Eng dict: *tālampaṭaya*, played along with tambourine and dancing\]”)
+[^16]: *vetālino*, according to RD practitioners of a (forbidden) art which was already not understand in the commentaries, Bdgh. def. “cymbal beating which some take to be raising the dead by magic” (cf. *vetāla*, ghost); RD: chanting of bards for a king. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *ghanatālampoṭa gasannō* (“people who play the Tamil cymbal \[Sinh-Eng dict: *tālampaṭaya*, played along with tambourine and dancing\]”)
 
-[^17]: *kumbhathūnī*, BJTS gloss “those who play a certain kind of instrument strapped to the face,” apparently a sort of drum.
+[^17]: *kumbhathūnī*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss “those who play a certain kind of instrument strapped to the face,” apparently a sort of drum.
 
 [^18]: *na<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>akā*, which like the *naṭa* (see next note) can refer to dancers, mimes, actors, etc.
 
-[^19]: *naṭā*, BJTS gloss *rūkaḍa naṭavannō* (“people who make puppets dance”)
+[^19]: *naṭā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *rūkaḍa naṭavannō* (“people who make puppets dance”)
 
-[^20]: *nahāpakā*, BJTS gloss *diyavaḍannō* (“those who bring the water”)
+[^20]: *nahāpakā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *diyavaḍannō* (“those who bring the water”)
 
-[^21]: *kappakā*, RD barber, hairdresser, bath attendant; BJTS gloss *karaṇuvǟmiyo* (“barbers”)
+[^21]: *kappakā*, RD barber, hairdresser, bath attendant; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *karaṇuvǟmiyo* (“barbers”)
 
-[^22]: *sūdā*, BJTS gloss *arakkämiyo* (“cooks”)
+[^22]: *sūdā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *arakkämiyo* (“cooks”)
 
 [^23]: *mālakārakā*
 
-[^24]: *sumāpakā*, following BJTS Sinh. gloss *mänavin pasäṭa* (= *pasa äṭaya*) *keḷinnō* (“people who play dice well”)
+[^24]: *sumāpakā*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *mänavin pasäṭa* (= *pasa äṭaya*) *keḷinnō* (“people who play dice well”)
 
-[^25]: *jallā*, RD: athlete, acrobat; BJTS Sinh. gloss *pora badannō* (“people who box”)
+[^25]: *jallā*, RD: athlete, acrobat; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *pora badannō* (“people who box”)
 
-[^26]: reading *mallāni* with BJTS (and PTS alt.) for PTS *mallā ti* (“‘wrestlers’”)
+[^26]: reading *mallāni* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mallā ti* (“‘wrestlers’”)
 
 [^27]: *sikkhite*
 
-[^28]: *katupāsane*, lit., “those who have done the practice” (or read, as RD directs, “skilled archers?,” “those who have done archery”? The more general meaning follows BJTS Sinh. gloss *palapurudukam äti*
+[^28]: *katupāsane*, lit., “those who have done the practice” (or read, as RD directs, “skilled archers?,” “those who have done archery”? The more general meaning follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *palapurudukam äti*
 
 [^29]: contract to diff’rent in chanting, *metri causa*
 
 [^30]: *Indo*, king of the gods, = Indra, Sakka, Śakra
 
-[^31]: *tidasa-gaṇe*, lit., “in the company of the thirty \[for thirty-three\] gods,” BJTS Sinh gloss “in the highest heaven of happiness (Tusitā).”
+[^31]: *tidasa-gaṇe*, lit., “in the company of the thirty \[for thirty-three\] gods,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh gloss “in the highest heaven of happiness (Tusitā).”
 
-[^32]: reading *addhikā* with BJTS (and PTS alt.) for PTS *aṭṭhikā* (“those with bones” or “those with kernels” or “eightfold”?)
+[^32]: reading *addhikā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *aṭṭhikā* (“those with bones” or “those with kernels” or “eightfold”?)
 
 [^33]: *pathikā*
 
@@ -355,9 +355,9 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^37]: *vaḍḍhayantā*
 
-[^38]: BJTS reads *paṭakas* (“clothed”?). I follow BJTS in treating the following list as a series of designations of specific groups of ascetics, though most of these names/descriptors have intelligible meanings which could be construed as so many characteristics of the groups mentioned. For example: “All of the Jains who wear clothing/are dressed in vines \[or just\] flowers/\[who\] own three sticks and their top-knots/are coming to my house//\[4174\] The Ājīvikas, taught by cows/plundered, with teachings \[based on\] gods/dressed in \[robes smeared with\] muddy dirt/are \[also\] coming to my house.” \[4175\] Ascetics and forest dwellers/who whirl ‘round \[then say\] that’s the goal/lots with fam’lies \[and\] private \[things\]/are \[also\] coming to my house// \[4176\].” The context might support such a reading. Each verse is structured around a large designation of an actual group (e.g., “Jains”), and the verses which follow these (i.e., (13-19) \[4177-4183\]) certainly refer to actual (political, geographical) groups of people. However, the verse which precedes those in question (i.e., (9) \[4173\]) is similarly-structured but includes (only) a series of epithets that are certainly descriptive of all Buddhists and brahmins, rather than being names of separate groups. Similarly, *rajojalladharā* (see 4175\]) is used below \[4321\], and elsewhere in the early texts, as a general adjective rather than the name of a specific group. While I find the possibilities here intriguing and worthy of further thought, given these reservations I have adopted the BJTS readings and followed the BJTS gloss here.
+[^38]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *paṭakas* (“clothed”?). I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in treating the following list as a series of designations of specific groups of ascetics, though most of these names/descriptors have intelligible meanings which could be construed as so many characteristics of the groups mentioned. For example: “All of the Jains who wear clothing/are dressed in vines \[or just\] flowers/\[who\] own three sticks and their top-knots/are coming to my house//\[4174\] The Ājīvikas, taught by cows/plundered, with teachings \[based on\] gods/dressed in \[robes smeared with\] muddy dirt/are \[also\] coming to my house.” \[4175\] Ascetics and forest dwellers/who whirl ‘round \[then say\] that’s the goal/lots with fam’lies \[and\] private \[things\]/are \[also\] coming to my house// \[4176\].” The context might support such a reading. Each verse is structured around a large designation of an actual group (e.g., “Jains”), and the verses which follow these (i.e., (13-19) \[4177-4183\]) certainly refer to actual (political, geographical) groups of people. However, the verse which precedes those in question (i.e., (9) \[4173\]) is similarly-structured but includes (only) a series of epithets that are certainly descriptive of all Buddhists and brahmins, rather than being names of separate groups. Similarly, *rajojalladharā* (see 4175\]) is used below \[4321\], and elsewhere in the early texts, as a general adjective rather than the name of a specific group. While I find the possibilities here intriguing and worthy of further thought, given these reservations I have adopted the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> readings and followed the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss here.
 
-[^39]: BJTS reads *laṭakas* (“\[dressed\] in creepers,” fr. *latā*?)
+[^39]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *laṭakas* (“\[dressed\] in creepers,” fr. *latā*?)
 
 [^40]: “flower-robed,” i.e. naked, a play on the Jain distinction of “sky clad” (*digambara*) from “wearing white” (*śvetambara*)?
 
@@ -365,13 +365,13 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^42]: “one top-knot” (or “one peacock crest” “one flame” etc.). Might calling the Jains “people who own \[only\] three sticks and their top-knots” poke fun at specific aspects of Jain practice? Jain renunciants can use walking sticks, and have whisks to gently clear their paths; what might the third “stick” be”? They famously rip out their hair with their own hands, making rather ironic the reference to their top-knots. Or perhaps they are pointing to Jain non-renouncers wearing top-knots like brahmins, a different kind of poke at a different segment of the Jain population?
 
-[^43]: “cow-teachings”. This is the BJTS reading; PTS reads *Gotamā* (= Gautamas?)
+[^43]: “cow-teachings”. This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading; <abbr title="Pali Text Society">PTS</abbr> reads *Gotamā* (= Gautamas?)
 
 [^44]: “plundered” “robbed” “stripped”
 
 [^45]: texts read *devadhammikā*, “god-teaching-ers” or perhaps“teachings \[for\] the king”
 
-[^46]: “dust-and-dirt wearers,” BJTS Sinh gloss “(having robes) that are soiled with filth \[*rajo* = *rajas*\] and sand (*däli*),” RD *rajo* s.v., “dust and (wet) dirt, muddy dirt.” Elsewhere in *Apadāna* \[e.g., 3463, 3521, 5322\] being *not* covered in *rajojalla* is a fruit of previous-life merit.
+[^46]: “dust-and-dirt wearers,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh gloss “(having robes) that are soiled with filth \[*rajo* = *rajas*\] and sand (*däli*),” RD *rajo* s.v., “dust and (wet) dirt, muddy dirt.” Elsewhere in *Apadāna* \[e.g., 3463, 3521, 5322\] being *not* covered in *rajojalla* is a fruit of previous-life merit.
 
 [^47]: “turning around”
 
@@ -401,7 +401,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^60]: cf. *Sānupabbata*, in the Himalayas (DPPN II: 1096)
 
-[^61]: PTS treats this as two separate groups: *Āras* and *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>īnaraṭṭhas*, Chinese-countries
+[^61]: <abbr title="Pali Text Society">PTS</abbr> treats this as two separate groups: *Āras* and *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>īnaraṭṭhas*, Chinese-countries
 
 [^62]: Alexandrians
 
@@ -411,7 +411,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^65]: DPPN I:571, cites this text for *Kārusā*. DPPN II:345, *Bhaggā*, s.v.: “The name of a tribe and a country, the capital of which was Suṃsumāraglri (q.v)”
 
-[^66]: reading with BJTS; PTS gives *bahikā*
+[^66]: reading with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>; <abbr title="Pali Text Society">PTS</abbr> gives *bahikā*
 
 [^67]: DPPN I:910: “The name of a tribe given in a nominal list \[citing this text\]; probably the inhabitants of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>eta.”
 
@@ -461,7 +461,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^90]: DPPN II:813, citing only this text, but should it be connected with Vajji, s.v. (II:813-815)?
 
-[^91]: reading *naḷakārā* with BJTS (and PTS alternate reading) for PTS *nalakārā*
+[^91]: reading *naḷakārā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternate reading) for <abbr title="Pali Text Society">PTS</abbr> *nalakārā*
 
 [^92]: *pesakārā*
 
@@ -483,7 +483,7 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^101]: *usukārā*, arrow-makers
 
-[^102]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āpakārā*. BJTS reads *bhamakārā* (?)
+[^102]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āpakārā*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *bhamakārā* (?)
 
 [^103]: *pesakārā*
 
@@ -499,13 +499,13 @@ The legend of Jatukaṇṇika Thera is finished.
 
 [^109]: *sūpikā*
 
-[^110]: reading *supa \[read* sūpa *with gloss\] rakkhā* (“soup-guards”) with BJTS for PTS *rūdasakkā* (?)
+[^110]: reading *supa \[read* sūpa *with gloss\] rakkhā* (“soup-guards”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *rūdasakkā* (?)
 
 [^111]: *dovārika* fr. *dvāra*.
 
-[^112]: *anīkaṭṭhā*, BJTS reads *anīkaṭṭhā* and glosses “those who protect the army camp (*bala-äṇi raknō*)”
+[^112]: *anīkaṭṭhā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *anīkaṭṭhā* and glosses “those who protect the army camp (*bala-äṇi raknō*)”
 
-[^113]: reading *vandikā* with BJTS (gloss *tuti pävasum karaṇa*, “makers of pleasing recitations”) for PTS *sandhikā* (“people who join things together,” welders?)
+[^113]: reading *vandikā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (gloss *tuti pävasum karaṇa*, “makers of pleasing recitations”) for <abbr title="Pali Text Society">PTS</abbr> *sandhikā* (“people who join things together,” welders?)
 
 [^114]: *hatth’ārūḷhā*, those mounted on elephants
 

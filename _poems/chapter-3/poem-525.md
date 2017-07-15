@@ -36,16 +36,16 @@ Thus indeed Venerable Supaṭadāyaka[^6] Thera spoke these verses.
 
 The legend of Supaṭadāyaka[^7] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Good-Cloth Donor.” This is the BJTS reading for PTS *pūpapavaŋ* (“wheaten cake \[*pūpa*\] + ?)
+[^2]: “Good-Cloth Donor.” This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading for <abbr title="Pali Text Society">PTS</abbr> *pūpapavaŋ* (“wheaten cake \[*pūpa*\] + ?)
 
-[^3]: reading *lahuṃ supaṭakaṃ* with BJTS for PTS *lahupūpapavaŋ* (“a light wheaten cake + ?)
+[^3]: reading *lahuṃ supaṭakaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *lahupūpapavaŋ* (“a light wheaten cake + ?)
 
-[^4]: reading *supaṭakaṃ* with BJTS for PTS *pūpapavaŋ*
+[^4]: reading *supaṭakaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pūpapavaŋ*
 
-[^5]: reading *supaṭassa* with BJTS for PTS *pūpapavass’*
+[^5]: reading *supaṭassa* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pūpapavass’*
 
-[^6]: PTS reads *Pūpapavadāyaka*
+[^6]: <abbr title="Pali Text Society">PTS</abbr> reads *Pūpapavadāyaka*
 
-[^7]: PTS reads *Pūpapavadāyaka*
+[^7]: <abbr title="Pali Text Society">PTS</abbr> reads *Pūpapavadāyaka*

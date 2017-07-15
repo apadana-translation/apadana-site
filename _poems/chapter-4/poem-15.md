@@ -136,7 +136,7 @@ Thus indeed Bhikkhunī Pañ<span class="diacritics" data-state="on">c</span><spa
 
 The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpikā Therī is finished.
 
-[^1]: “Five-Lamp-er.” With some very minor changes, this is identical to *Therī-apadāna* \#9, above, ascribed to a nun of the same name. I have not repeated all the footnotes here, but have altered the translation slightly to indicate the minor differences between the two texts, and have retained footnotes indicating differences in the BJTS version, as appropriate.
+[^1]: “Five-Lamp-er.” With some very minor changes, this is identical to *Therī-apadāna* \#9, above, ascribed to a nun of the same name. I have not repeated all the footnotes here, but have altered the translation slightly to indicate the minor differences between the two texts, and have retained footnotes indicating differences in the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> version, as appropriate.
 
 [^2]: lit., “it was”.
 
@@ -144,9 +144,9 @@ The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="
 
 [^4]: lit., “as far as \[its extent\]”.
 
-[^5]: BJTS reads “good rebirths and bad rebirths”.
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “good rebirths and bad rebirths”.
 
-[^6]: both PTS and BJTS read *sūtikāgehe* for *sūtighare* in the parallel verse in \#9, but I take the meaning to be the same so have not altered the translation.
+[^6]: both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> read *sūtikāgehe* for *sūtighare* in the parallel verse in \#9, but I take the meaning to be the same so have not altered the translation.
 
 [^7]: or “pavilion”
 

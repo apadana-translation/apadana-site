@@ -36,9 +36,9 @@ Thus indeed Venerable Pilakkhaphaladāyaka Thera spoke these verses.
 
 The legend of Pilakkhaphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Wave-leafed Fig Fruit Donor.” This is the BJTS spelling for PTS *Pilakkhuphaladāyaka*. This same *apadāna* (with the slight difference that the third and fourth verses are inverted there) appears above, with this spelling in both BJTS and PTS, as \#381 \[384\]
+[^2]: “Wave-leafed Fig Fruit Donor.” This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling for <abbr title="Pali Text Society">PTS</abbr> *Pilakkhuphaladāyaka*. This same *apadāna* (with the slight difference that the third and fourth verses are inverted there) appears above, with this spelling in both <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr>, as \#381 \[384\]
 
 [^3]: *vanante*, in the forest or at the edge/border of the forest
 

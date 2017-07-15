@@ -145,13 +145,13 @@ Thus indeed Venerable Kumāra-Kassapa Thera spoke these verses.
 
 The legend of Kumāra-Kassapa Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Boy-Kassapa”
 
 [^3]: *sabbalokahito*, or “Friendly to All Worlds”
 
-[^4]: reading *vissuto* with BJTS for PTS *va sato*
+[^4]: reading *vissuto* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *va sato*
 
 [^5]: *sasaṅghaŋ*, lit., “with the assembly \[of monks\]”
 
@@ -159,11 +159,11 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^7]: *munivaro*
 
-[^8]: *karuṇekarasāsayo*, BJTS Sinhala gloss: *karuṇā rasaṭa eka ma nidhāna vū* (“who was the one \[and only\] treasure-trove for the taste of compassion”)
+[^8]: *karuṇekarasāsayo*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss: *karuṇā rasaṭa eka ma nidhāna vū* (“who was the one \[and only\] treasure-trove for the taste of compassion”)
 
 [^9]: *ekāvatta-sumānasaŋ*
 
-[^10]: reading *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittakathikattanaṃ* (lit., “varied-discourse-ness”) with BJTS for PTS *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittakathikatthadaŋ* (“of giving meaning through varied discourse”)
+[^10]: reading *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittakathikattanaṃ* (lit., “varied-discourse-ness”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittakathikatthadaŋ* (“of giving meaning through varied discourse”)
 
 [^11]: *paribbhamaŋ bhavākāse*
 
@@ -171,15 +171,15 @@ The legend of Kumāra-Kassapa Thera is finished.
 
 [^13]: “Branch”. RD says “branch-deer” (*sākhā-miga*) signifies a monkey at J ii.73; the compound translated here (*sākhāmigatrajo*) thus can also be read to mean “son of a monkey,” but the following lines make clear that the figures here are deer.
 
-[^14]: reading *vajjhavāro upatiṭṭho* with BJTS (“the turn to die for was looked after ”\[or “was served”\]) for PTS *vajjavāraŋ upatiṭhā* (“she looked after \[etc.\] the time to die”).
+[^14]: reading *vajjhavāro upatiṭṭho* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (“the turn to die for was looked after ”\[or “was served”\]) for <abbr title="Pali Text Society">PTS</abbr> *vajjavāraŋ upatiṭhā* (“she looked after \[etc.\] the time to die”).
 
-[^15]: reading *vattā* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attā*
+[^15]: reading *vattā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attā*
 
 [^16]: lit., “one should not keep company with Sākhā
 
 [^17]: *āgamma*, lit., “having come”
 
-[^18]: PTS treats this as two short verses; BJTS as a single verse in more elaborate metre (with 11-syllable feet rather than half-verses); I follow BJTS’s reading.
+[^18]: <abbr title="Pali Text Society">PTS</abbr> treats this as two short verses; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> as a single verse in more elaborate metre (with 11-syllable feet rather than half-verses); I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>’s reading.
 
 [^19]: *jinasāsanaŋ*, lit., “the Victor’s dispensation”
 

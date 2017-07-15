@@ -160,7 +160,7 @@ Thus indeed Venerable Abhaya Thera spoke these verses.
 
 The legend of Abhaya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Fearless,” a historical monk, commonly known as Abhayarājakumāra, “Abhaya the Royal Prince,” because he was the son of King Bimbisāra of Rajgir. See DPPN I:127-128.
 
@@ -182,11 +182,11 @@ The legend of Abhaya Thera is finished.
 
 [^11]: *mahājana-purakkhataŋ*
 
-[^12]: reading *vā* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and”)
+[^12]: reading *vā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and”)
 
 [^13]: *gaṇi°*, lit., “one who has a group \[of followers\],” “a teacher”
 
-[^14]: reading *ganthayitvā* with BJTS for PTS *ganthavitvā*
+[^14]: reading *ganthayitvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ganthavitvā*
 
 [^15]: *suvyañjanaŋ* (“with good characteristics” “good in the letter \[as opposed to the meaning\]”)
 
@@ -194,29 +194,29 @@ The legend of Abhaya Thera is finished.
 
 [^17]: *viratto*
 
-[^18]: reading *mahāvra* (voc.) with BJTS for PTS *mahāvīro* (nom).
+[^18]: reading *mahāvra* (voc.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mahāvīro* (nom).
 
 [^19]: *na nibbāyi*, lit., “did not die” or “did not reach full nirvana (*parinibbāna*)”
 
-[^20]: reading *santo* with BJTS (and PTS alt.) for PTS *satto* (“a creature”)
+[^20]: reading *santo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *satto* (“a creature”)
 
 [^21]: *sampajāno*
 
 [^22]: *satiyutto*
 
-[^23]: *sabbalokassa guru* (BJTS reads *garu*, the older form, but glosses *guru*). I follow BJTS Sinh. gloss in taking this as referring specifically to a Buddha, hence capitalize it as a Buddha-epithet.
+[^23]: *sabbalokassa guru* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *garu*, the older form, but glosses *guru*). I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss in taking this as referring specifically to a Buddha, hence capitalize it as a Buddha-epithet.
 
-[^24]: reading *lok<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āriyo* with BJTS for PTS *loka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyā* (sic).
+[^24]: reading *lok<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āriyo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *loka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyā* (sic).
 
-[^25]: reading *sambuddhaṃ* with BJTS for PTS *yaŋ Budhhaŋ* (“which Buddha”)
+[^25]: reading *sambuddhaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *yaŋ Budhhaŋ* (“which Buddha”)
 
-[^26]: PTS *dhammadesakaŋ;* BJTS *dhammadesataṃ*
+[^26]: <abbr title="Pali Text Society">PTS</abbr> *dhammadesakaŋ;* <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *dhammadesataṃ*
 
 [^27]: *tato <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>uto*, lit., “fallen from there”
 
 [^28]: *gato* *saggaŋ*
 
-[^29]: reading *jāyāmi* with BJTS for PTS *jānāmi* (“know”)
+[^29]: reading *jāyāmi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *jānāmi* (“know”)
 
 [^30]: *giribbajapuruttame*. Giribbaja or Girivraja is another name for Rajgir (also for Vaṅkagiri; see DPPN I:770)
 
@@ -224,7 +224,7 @@ The legend of Abhaya Thera is finished.
 
 [^32]: *pāpamitta°*, a friend who enjoins one to evil deeds, as contrasted with a “beautiful friend” (*kalyānamitta*) who enjoins one to do good.
 
-[^33]: lit., “sent by Nāṭaputta**,” the typical Pāli designation of Vardhamāna Mahāvīra, the Jina. (BJTS reads *nātaputtena*). For details about him as depicted in the Pāli texts see DPPN II: 61-64. The protagonist is “sent” by the Jina in order to spy on or refute the Buddha.
+[^33]: lit., “sent by Nāṭaputta**,” the typical Pāli designation of Vardhamāna Mahāvīra, the Jina. (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *nātaputtena*). For details about him as depicted in the Pāli texts see DPPN II: 61-64. The protagonist is “sent” by the Jina in order to spy on or refute the Buddha.
 
 [^34]: *jinavaraŋ*
 

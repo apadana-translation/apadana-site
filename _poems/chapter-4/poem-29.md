@@ -86,9 +86,9 @@ Thus indeed ten thousand Buddhist nuns headed up by Yasovatī spoke these verses
 
 The legend of ten thousand Buddhist nuns headed up by Yasodharā is finished
 
-[^1]: BJTS reads “The *Apadāna* of Ten Thousand Buddhist Nuns”
+[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “The *Apadāna* of Ten Thousand Buddhist Nuns”
 
-[^2]: reading *hohi* with BJTS for PTS *honti* (they will be/they are)
+[^2]: reading *hohi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *honti* (they will be/they are)
 
 [^3]: *puññaŋ*, lit., “merit”
 
@@ -98,8 +98,8 @@ The legend of ten thousand Buddhist nuns headed up by Yasodharā is finished
 
 [^6]: lit., “offered *pūjā*”
 
-[^7]: reading *pabbajitvāna* with BJTS (and PTS alt.) for PTS *pabbajiŋ* (“I went forth”)
+[^7]: reading *pabbajitvāna* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *pabbajiŋ* (“I went forth”)
 
-[^8]: *aṭṭhamāse*, BJTS reads *addhamāse* (“half a month”)
+[^8]: *aṭṭhamāse*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *addhamāse* (“half a month”)
 
-[^9]: PTS just gives *pe* here, suggesting that the concluding refrain remains in the first person singular as elsewhere throughout the collection. BJTS however supplies the full verses, including the readings translated here, corrected for the plural subject.
+[^9]: <abbr title="Pali Text Society">PTS</abbr> just gives *pe* here, suggesting that the concluding refrain remains in the first person singular as elsewhere throughout the collection. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> however supplies the full verses, including the readings translated here, corrected for the plural subject.

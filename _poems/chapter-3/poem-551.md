@@ -153,17 +153,17 @@ Thus indeed Venerable Yasa Thera spoke these verses.
 
 The legend of Yasa Thera, the first.
 
-[^1]: PTS ends with its \#547 (BJTS {550}), and contains only fifty-five chapters. BJTS concludes with an additional nine *apadānas*, numbered {551} - {559}, and comprising this fifty-sixth chapter.
+[^1]: <abbr title="Pali Text Society">PTS</abbr> ends with its \#547 (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> {550}), and contains only fifty-five chapters. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> concludes with an additional nine *apadānas*, numbered {551} - {559}, and comprising this fifty-sixth chapter.
 
-[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^3]: “Famous,” a historical monk, who was truly famous for being among the first sixty arahant monks with the Buddha at the first *pavāraṇā* ceremony when the Buddha sent them wandering with his so-called “Great Commission” (which I call “the Great Dismissal”). On Yasa, see DPPN II: 685-687. This same *apadāna* appears above as \#396 {399}, ascribed to a monk named “Sabbadāyaka” (in keeping with v. \[6355\] = \[3852\]), verbatim except for a slight change in the first verse of the three-verse concluding refrain,a minor variation in the epithet “Sacrificial Recipient” at \[6347\] (cf. \[3844\]), and consistency with BJTS rather than PTS readings in \#396. This and the following eight *apadānas* are all ascribed to historical monks seemingly not included in the earlier parts of the text, who thereby are revealed to be in the earlier parts of the text after all, named for their original pious deeds rather than by their own names.
+[^3]: “Famous,” a historical monk, who was truly famous for being among the first sixty arahant monks with the Buddha at the first *pavāraṇā* ceremony when the Buddha sent them wandering with his so-called “Great Commission” (which I call “the Great Dismissal”). On Yasa, see DPPN II: 685-687. This same *apadāna* appears above as \#396 {399}, ascribed to a monk named “Sabbadāyaka” (in keeping with v. \[6355\] = \[3852\]), verbatim except for a slight change in the first verse of the three-verse concluding refrain,a minor variation in the epithet “Sacrificial Recipient” at \[6347\] (cf. \[3844\]), and consistency with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> rather than <abbr title="Pali Text Society">PTS</abbr> readings in \#396. This and the following eight *apadānas* are all ascribed to historical monks seemingly not included in the earlier parts of the text, who thereby are revealed to be in the earlier parts of the text after all, named for their original pious deeds rather than by their own names.
 
-[^4]: *ogayha*, “submerged in” “plunged into.” BJTS normalizes this by glossing “in the vicinity of the great ocean,” but I take it more literally, and assume that the protagonist is a supernatural being for whom this *is* normal.
+[^4]: *ogayha*, “submerged in” “plunged into.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> normalizes this by glossing “in the vicinity of the great ocean,” but I take it more literally, and assume that the protagonist is a supernatural being for whom this *is* normal.
 
-[^5]: PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā pakūjitā;* BJTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākūpakūjitā*
+[^5]: <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā pakūjitā;* <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākūpakūjitā*
 
-[^6]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus, also the (or a) gloss at \[4231\], \[4233\], \[4313\]. But elsewhere BJTS gives different glosses: at \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
+[^6]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus, also the (or a) gloss at \[4231\], \[4233\], \[4313\]. But elsewhere <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gives different glosses: at \[4007\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
 
 [^7]: *ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha-ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chapa-sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hannā*
 
@@ -189,7 +189,7 @@ The legend of Yasa Thera, the first.
 
 [^18]: a type of pheasant
 
-[^19]: reading *sabbasovaṇṇamayā* with BJTS for PTS *sabbe sovaṇṇayā*
+[^19]: reading *sabbasovaṇṇamayā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sabbe sovaṇṇayā*
 
 [^20]: lit., “having done a *dhamma*-talk for me”
 
@@ -205,7 +205,7 @@ The legend of Yasa Thera, the first.
 
 [^26]: *āhutīnaṃ paṭiggaho*
 
-[^27]: *tappayi*, lit., “satisfied,” “regaled,” “entertained.” BJTS reads *sabbe ime <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and all of these \[monks\]”) for PTS *saṅgham etena*
+[^27]: *tappayi*, lit., “satisfied,” “regaled,” “entertained.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *sabbe ime <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and all of these \[monks\]”) for <abbr title="Pali Text Society">PTS</abbr> *saṅgham etena*
 
 [^28]: lit., “every day”
 

@@ -31,7 +31,7 @@ Thus indeed Venerable Sakoṭakakoraṇḍadāyaka Thera spoke these verses.
 
 The legend of Sakoṭakakoraṇḍadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “*Koraṇḍa*-Sprig Donor.” *Koraṇḍa* is Sinh. *kaṭukoraṇḍu*, Barberia prionitis *(Acanth.)*, cf. *koraṇḍaka*, *kuraṇḍaka*, a shrub and its flower, J. v.473 (RD)
 
@@ -39,7 +39,7 @@ The legend of Sakoṭakakoraṇḍadāyaka Thera is finished.
 
 [^4]: lit., “of,” genitive case
 
-[^5]: reading *padaseṭṭhaṃ* (lit., “best footprint”) with BJTS (and PTS alt.) for PTS *padaseyyaŋ*, though it amounts to the same thing.
+[^5]: reading *padaseṭṭhaṃ* (lit., “best footprint”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *padaseyyaŋ*, though it amounts to the same thing.
 
 [^6]: the foot consists of two different words for” tree”: *dharaṇī-rūha* (“growing in the earth”) and *pādapa* (“drinking from the feet \[or roots\]”). Though awkward in English, I translate literally here rather than give the non-descriptive “tree, which was a tree”.
 

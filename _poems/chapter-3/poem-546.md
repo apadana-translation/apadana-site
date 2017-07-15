@@ -160,13 +160,13 @@ Thus indeed Venerable Kāḷudāyi Thera spoke these verses.
 
 The legend of Kāḷudāyi Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: a historical monk, famous as foremost among the pleasers of clans, and also for bringing the Buddha back to Kapilavastu after his Awakening. See DPPN I: 589-590
 
 [^3]: *nāyakānaŋ varo satthā*
 
-[^4]: or “virtue from ignomy”: reading *guṇāguṇavidū* with BJTS for PTS *guṇāguṇe vidū*
+[^4]: or “virtue from ignomy”: reading *guṇāguṇavidū* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *guṇāguṇe vidū*
 
 [^5]: *kataññū*
 
@@ -180,7 +180,7 @@ The legend of Kāḷudāyi Thera is finished.
 
 [^10]: *anantaguṇasañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayo*
 
-[^11]: reading *anantajanasaṃsadī* with BJTS (taking it fr. *saṃsandati*, “to flow together” “to associate with;” BJTS Sinh. gloss *anantajanayā gen yut sabamäda*, “in the midst of an assembly made fixed by getting of endless people;”) for PTS *anantajanataŋ sarī* (“remembering an endless populace”). Other alts. include (PTS) *anantajinasaŋsariŋ* (“I transmigrated with the endless Victor \[or endless Victors\]”) and (BJTS) *anantajinasaṃsarī* (“he who Transmigrates with Endless Victors” or “Who Transmigrates As the Endless Victor”) and *anantajanasaṃsudhī* (“Purifier of Limitless People”). The accepted BJTS reading could (should?) also be taken as an epithet, “Assembled with Limitless Folks”
+[^11]: reading *anantajanasaṃsadī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (taking it fr. *saṃsandati*, “to flow together” “to associate with;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *anantajanayā gen yut sabamäda*, “in the midst of an assembly made fixed by getting of endless people;”) for <abbr title="Pali Text Society">PTS</abbr> *anantajanataŋ sarī* (“remembering an endless populace”). Other alts. include (<abbr title="Pali Text Society">PTS</abbr>) *anantajinasaŋsariŋ* (“I transmigrated with the endless Victor \[or endless Victors\]”) and (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) *anantajinasaṃsarī* (“he who Transmigrates with Endless Victors” or “Who Transmigrates As the Endless Victor”) and *anantajanasaṃsudhī* (“Purifier of Limitless People”). The accepted <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading could (should?) also be taken as an epithet, “Assembled with Limitless Folks”
 
 [^12]: *dhammābhisamayo*
 
@@ -198,7 +198,7 @@ The legend of Kāḷudāyi Thera is finished.
 
 [^19]: lit., “in a Best Buddha’s”
 
-[^20]: here PTS presents as two six-footed verses material that BJTS presents as three four-footed ones. The PTS reading seems on the mark here, as it contains the two speeches in single verses. Indeed, BJTS Sinh. gloss has to take all three verses \[6197-6199\] as a single unit in order to convey the grammar correctly.
+[^20]: here <abbr title="Pali Text Society">PTS</abbr> presents as two six-footed verses material that <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> presents as three four-footed ones. The <abbr title="Pali Text Society">PTS</abbr> reading seems on the mark here, as it contains the two speeches in single verses. Indeed, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss has to take all three verses \[6197-6199\] as a single unit in order to convey the grammar correctly.
 
 [^21]: *siñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anto vāmatena maŋ*
 

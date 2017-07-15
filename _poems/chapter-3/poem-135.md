@@ -48,11 +48,11 @@ The legend of Rahosaññaka Thera is finished.
 
 [^1]: “Solitary-Place Perceiver”
 
-[^2]: reading *saṃhāritvāna* (BJTS) for *saṃsāvetvāna* (“Having kept well,” PTS)
+[^2]: reading *saṃhāritvāna* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *saṃsāvetvāna* (“Having kept well,” <abbr title="Pali Text Society">PTS</abbr>)
 
-[^3]: reading *buddhavedaṃ* (BJTS) for *buddhavesaŋ* (“the appearance of the Buddha,” PTS).
+[^3]: reading *buddhavedaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *buddhavesaŋ* (“the appearance of the Buddha,” <abbr title="Pali Text Society">PTS</abbr>).
 
-[^4]: reading *īdiṃ* (BJTS) for *nisīdi* (“he sat,” PTS)
+[^4]: reading *īdiṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *nisīdi* (“he sat,” <abbr title="Pali Text Society">PTS</abbr>)
 
 [^5]: *pallaṅkam ābhujitvāna*, lit., “crouching with legs crossed”
 

@@ -47,7 +47,7 @@ The legend of Kaṇaverapupphiya Thera is finished.
 
 [^3]: or harem
 
-[^4]: BJTS gloss says, “trusted (authorized) by the king”.
+[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss says, “trusted (authorized) by the king”.
 
 [^5]: lit., “on/in the monks’ Assembly”
 

@@ -45,10 +45,10 @@ The legend of Eka<span class="diacritics" data-state="on">c</span><span class="n
 
 [^2]: “reached nirvana”
 
-[^3]: I follow BJTS in assuming the implied *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itta* here
+[^3]: I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in assuming the implied *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itta* here
 
-[^4]: reading *parinibbāṇakālamhi* with BJTS for PTS *parinibbānākālamhi*
+[^4]: reading *parinibbāṇakālamhi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *parinibbānākālamhi*
 
 [^5]: *duggatiŋ nûpapajj’ ahaŋ*
 
-[^6]: this reading follows BJTS; PTS gives the name as Mahāmallājanā. The meaning is “Great Wrestling Men”.
+[^6]: this reading follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>; <abbr title="Pali Text Society">PTS</abbr> gives the name as Mahāmallājanā. The meaning is “Great Wrestling Men”.

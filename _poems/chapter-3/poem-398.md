@@ -46,17 +46,17 @@ Thus indeed Venerable Salaḷamaṇḍapiya Thera spoke these verses.
 
 The legend of Salaḷamaṇḍapiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “*Salaḷa*-Pavilion-er”. BJTS spells the name (and the term, a type of flower) *salala*. This same *apadāna* is presented below, almost verbatim (there the more typical form of the first verse of the concluding refrain “Like elephants…” replaces the less typical “All defilements are….” found here), as \#{554}. There it is ascribed to Kimbila Thera, a historical monk.
+[^2]: “*Salaḷa*-Pavilion-er”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spells the name (and the term, a type of flower) *salala*. This same *apadāna* is presented below, almost verbatim (there the more typical form of the first verse of the concluding refrain “Like elephants…” replaces the less typical “All defilements are….” found here), as \#{554}. There it is ascribed to Kimbila Thera, a historical monk.
 
 [^3]: lit., “reached nirvana”
 
 [^4]: *vusīmati*, loc. of *vusīmant* = *vusitavant*, “one who has reached perfection” “the Master”
 
-[^5]: PTS *salaḷā*, BJTS *salalā*, BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.)
+[^5]: <abbr title="Pali Text Society">PTS</abbr> *salaḷā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *salalā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.)
 
-[^6]: reading *mālaṃ* with BJTS for PTS *māḷaŋ*, “pavilion” “ritual marker”
+[^6]: reading *mālaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *māḷaŋ*, “pavilion” “ritual marker”
 
 [^7]: lit., “I caused a pavilion (*maṇḍapa*) to be constructed,” caus. of *karoti*
 

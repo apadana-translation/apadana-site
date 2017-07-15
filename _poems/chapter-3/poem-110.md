@@ -55,4 +55,4 @@ The Bhikkhadāyī Chapter, the Eleventh.
 
 [^4]: “Pollen”
 
-[^5]: here too I follow the BJTS spelling, as above.
+[^5]: here too I follow the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling, as above.

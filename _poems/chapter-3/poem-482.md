@@ -101,7 +101,7 @@ Thus indeed Venerable Buddhasaññaka Thera spoke these verses.
 
 The legend of Buddhasaññaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Buddha Perceiver”
 
@@ -123,7 +123,7 @@ The legend of Buddhasaññaka Thera is finished.
 
 [^11]: like the deer-leather (*ajina*) and bark-robes (*vāka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īraŋ*), the water-pot (*kamaṇḍalu*, a long-spouted jar for carrying water) is a distinctive possession, and signifier of non-Buddhist ascetics
 
-[^12]: *odumbarakapupphaŋ va*. *Odumbaraka* (BJTS *odumbarika*) means “related to the *udumbara* tree, which is Ficus Gomerata, Sinh. *dimbul*.
+[^12]: *odumbarakapupphaŋ va*. *Odumbaraka* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *odumbarika*) means “related to the *udumbara* tree, which is Ficus Gomerata, Sinh. *dimbul*.
 
 [^13]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andamhi sasakaŋ yathā*
 
@@ -131,16 +131,16 @@ The legend of Buddhasaññaka Thera is finished.
 
 [^15]: i.e., hearing the Buddha, “a listening” (*savanaŋ*)
 
-[^16]: lit., “we will receive eyes/vision our life”. BJTS gloss is weak here:
+[^16]: lit., “we will receive eyes/vision our life”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss is weak here:
 
-[^17]: PTS *Je* is obviously a typographical mistake for *Te* (BJTS’ reading)
+[^17]: <abbr title="Pali Text Society">PTS</abbr> *Je* is obviously a typographical mistake for *Te* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>’ reading)
 
-[^18]: *jaṭābhārabharitā* (PTS), *jaṭābhārena bharitā* (BJTS)
+[^18]: *jaṭābhārabharitā* (<abbr title="Pali Text Society">PTS</abbr>), *jaṭābhārena bharitā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>)
 
 [^19]: *yugamattañ pekkhamānā*, lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
 
-[^20]: reading *appaki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ā aloluppā* with BJTS for PTS *appabhāsā alīlatā*, “saying little and having no playfulness (or very serious),” a possible but unusual reading; both terms of the BJTS reading, unlike those of the PTS reading, have solid witness in other texts.
+[^20]: reading *appaki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ā aloluppā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *appabhāsā alīlatā*, “saying little and having no playfulness (or very serious),” a possible but unusual reading; both terms of the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading, unlike those of the <abbr title="Pali Text Society">PTS</abbr> reading, have solid witness in other texts.
 
 [^21]: *uñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hāya <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aramānā*
 
-[^22]: *diyaḍḍhayojane sese*, lit., “when a half less than two leagues remained,” following BJTS Sinhala gloss
+[^22]: *diyaḍḍhayojane sese*, lit., “when a half less than two leagues remained,” following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss

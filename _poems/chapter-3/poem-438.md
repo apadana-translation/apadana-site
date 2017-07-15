@@ -69,7 +69,7 @@ Thus indeed Venerable Harīṭakadāyaka Thera spoke these verses.
 
 The legend of Harīṭakadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Myrobalan Donor”
 
@@ -87,14 +87,14 @@ The legend of Harīṭakadāyaka Thera is finished.
 
 [^9]: *bellaŋ*, *billā* = fruit of Aegle marmelos, Sinh. *beli geḍiya*, bael, bel, Bengal quince; bilva or vilva tree, = *beluvā*
 
-[^10]: *khādamattamhi bhesajje*, lit., “as soon as the medicine was eaten.” BJTS reads *katamattamhi bhesajje* (“right when the medicine was done \[or made\]”)
+[^10]: *khādamattamhi bhesajje*, lit., “as soon as the medicine was eaten.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *katamattamhi bhesajje* (“right when the medicine was done \[or made\]”)
 
-[^11]: *anumodianiyaŋ akā*, lit., “made an expression of thanks.” Both PTS and BJTS record an alternate reading which is more straightforward: *anumodaŋ akāsi me*, “expressed \[his\] thanks to me”
+[^11]: *anumodianiyaŋ akā*, lit., “made an expression of thanks.” Both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> record an alternate reading which is more straightforward: *anumodaŋ akāsi me*, “expressed \[his\] thanks to me”
 
-[^12]: reading *°vūpasamena* with BJTS for PTS *°vupasamena*
+[^12]: reading *°vūpasamena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *°vupasamena*
 
-[^13]: *jāto vā aññajātiyā*, lit.,(following BJTS gloss) “or born in some other birth-state”
+[^13]: *jāto vā aññajātiyā*, lit.,(following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss) “or born in some other birth-state”
 
-[^14]: BJTS (and PTS alt.) reads *dhīro* (“the wise one”)
+[^14]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) reads *dhīro* (“the wise one”)
 
 [^15]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*

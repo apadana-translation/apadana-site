@@ -36,7 +36,7 @@ Thus indeed Venerable Nāgapupphiya Thera spoke these verses.
 
 The legend of Nāgapupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Ironwood Flower-er” For a different *apadāna* ascribed to a monk of the same name, see \#158, above.
 

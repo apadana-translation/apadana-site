@@ -271,29 +271,29 @@ Thus indeed Venerable Todeyya Thera spoke these verses.
 
 The legend of Todeyya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: a historical monk, follower of Bāvarī whose questions to the Buddha, and his answers, are recorded as the *Todeyya-māṇava-pu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*. See SN v. 1006, 1088-1091; cf. DPPN I:1038 (read SN. for S. in the references)
 
-[^3]: “Conqueror,” reading the name with BJTS (and PTS alt., and Cty) for PTS Ajitañjaya, “Unconquered Vanquisher”.
+[^3]: “Conqueror,” reading the name with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt., and Cty) for <abbr title="Pali Text Society">PTS</abbr> Ajitañjaya, “Unconquered Vanquisher”.
 
 [^4]: *sūro vikkamasampanno*
 
 [^5]: *aṭaviyo*
 
-[^6]: PTS *o<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*, BJTS (and PTS alt.) *otārā*, both meaning someone who seeks out or investigates in a bad way, people who pry or spy; BJTS gloss = “searching for holes”. The implication is that they violate others, perhaps as thieves who steal what they discover.
+[^6]: <abbr title="Pali Text Society">PTS</abbr> *o<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) *otārā*, both meaning someone who seeks out or investigates in a bad way, people who pry or spy; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss = “searching for holes”. The implication is that they violate others, perhaps as thieves who steal what they discover.
 
-[^7]: *tuṇḍikā* from *ṭuṇḍa*, “beak,” RD: “peckers” and cf. *ahituṇḍika*, snake charmer. BJTS gloss: *mukharayō*, bold speakers, noisy, foul-mouthed. The implication, whatever the exact meaning, is certainly that they were louts.
+[^7]: *tuṇḍikā* from *ṭuṇḍa*, “beak,” RD: “peckers” and cf. *ahituṇḍika*, snake charmer. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss: *mukharayō*, bold speakers, noisy, foul-mouthed. The implication, whatever the exact meaning, is certainly that they were louts.
 
 [^8]: *arindamo*, lit., “tamer of enemies”
 
 [^9]: *bhate*
 
-[^10]: all the mss. apparently read *balatthe* for *balaṭṭhe*, military officers, royal guard; BJTS glosses the term as *balasenaṅga*, “the officers’ branch of the army”
+[^10]: all the mss. apparently read *balatthe* for *balaṭṭhe*, military officers, royal guard; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses the term as *balasenaṅga*, “the officers’ branch of the army”
 
-[^11]: reading *niggāhayī* with BJTS for PTS *niggāhayiŋ*, “I restrained”. The verb means “to hold back,” “restrain” “control” “censure” “rebuke” or “rebuff”
+[^11]: reading *niggāhayī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *niggāhayiŋ*, “I restrained”. The verb means “to hold back,” “restrain” “control” “censure” “rebuke” or “rebuff”
 
-[^12]: PTS *hatthārūḷhā*, BJTS (and PTS alt.) *hatthārohā*
+[^12]: <abbr title="Pali Text Society">PTS</abbr> *hatthārūḷhā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) *hatthārohā*
 
 [^13]: *anīkaṭṭhā*
 
@@ -319,11 +319,11 @@ The legend of Todeyya Thera is finished.
 
 [^24]: or “sword-bearers”: *khaggahatthā*, lit., “those with swords in \[their\] hands”
 
-[^25]: *purisā*. BJTS takes this with *khaggahatthā*, swordsmen, but the “*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*” as well as the list-like structure of the whole passage lead me to take these as referring to two different classes of people who assembled, in this case swordsmen and “men,” that is (acc. to RD) attendants or waiters.
+[^25]: *purisā*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> takes this with *khaggahatthā*, swordsmen, but the “*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*” as well as the list-like structure of the whole passage lead me to take these as referring to two different classes of people who assembled, in this case swordsmen and “men,” that is (acc. to RD) attendants or waiters.
 
-[^26]: or “tribals,” *luddā*, BJTS gloss *väddō*
+[^26]: or “tribals,” *luddā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *väddō*
 
-[^27]: *vijitasaṅgāmā*. The repetition of the term opens the possibility that in this verse and the previous one it is used as a qualifier of “hero” and “hunter,” but I follow BJTS Sinhala gloss in treating them as separate classes of people.
+[^27]: *vijitasaṅgāmā*. The repetition of the term opens the possibility that in this verse and the previous one it is used as a qualifier of “hero” and “hunter,” but I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss in treating them as separate classes of people.
 
 [^28]: see n. to \#1, v. 25 \[164\].
 
@@ -335,31 +335,31 @@ The legend of Todeyya Thera is finished.
 
 [^32]: *khamā*
 
-[^33]: PTS *ukkārūharaṇassa*, BJTS *ukkaraharaṇassa*, both with the same meaning. I suppose this refers to latrine duty in army camps, or else those who clean up animal feces, but is open to a variety of interpretations (and livelier translations, e.g., “and even shoveling up shit”)
+[^33]: <abbr title="Pali Text Society">PTS</abbr> *ukkārūharaṇassa*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *ukkaraharaṇassa*, both with the same meaning. I suppose this refers to latrine duty in army camps, or else those who clean up animal feces, but is open to a variety of interpretations (and livelier translations, e.g., “and even shoveling up shit”)
 
-[^34]: PTS *uddhavasaddakaŋ*, “the sound of upper \[pitches?\],” BJTS reads *udhamasaddakaṃ* (?) and glosses the term *kālam haḍa*, “the sound of trumpets,” which I follow here. Cone says this reading is “probably wrong” and suggests the possibility that the correct reading is *uddhaka*, which RD (and *Abhidānappadiīikā*) defines as a sort of drum
+[^34]: <abbr title="Pali Text Society">PTS</abbr> *uddhavasaddakaŋ*, “the sound of upper \[pitches?\],” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *udhamasaddakaṃ* (?) and glosses the term *kālam haḍa*, “the sound of trumpets,” which I follow here. Cone says this reading is “probably wrong” and suggests the possibility that the correct reading is *uddhaka*, which RD (and *Abhidānappadiīikā*) defines as a sort of drum
 
-[^35]: reading *koṭṭayantā nipātentā* with BJTS for PTS *koṭṭentānaŋ nivattantā*, “turning back of the crushers (?)”?
+[^35]: reading *koṭṭayantā nipātentā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *koṭṭentānaŋ nivattantā*, “turning back of the crushers (?)”?
 
 [^36]: *trisūla°*
 
 [^37]: *°konti°*
 
-[^38]: *°mantehi*. Cone, following RD (whose uncertain entry would yield “leather shields”), treats *kontimantehi* as a *tatpurusa* rather than *danda* compound, taking the term as “leather-worker’s sharp knife”. I follow BJTS in seeing “mantra” as a kind of injurious weapon, too.
+[^38]: *°mantehi*. Cone, following RD (whose uncertain entry would yield “leather shields”), treats *kontimantehi* as a *tatpurusa* rather than *danda* compound, taking the term as “leather-worker’s sharp knife”. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in seeing “mantra” as a kind of injurious weapon, too.
 
-[^39]: BJTS reading is considerably different: *kimevāt’ nisāmetvā*, “having observed ‘what now?” (?), a reading it glosses, “having asked, ‘what punishment is appropriate (according to the law)?’”
+[^39]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading is considerably different: *kimevāt’ nisāmetvā*, “having observed ‘what now?” (?), a reading it glosses, “having asked, ‘what punishment is appropriate (according to the law)?’”
 
-[^40]: reading *ajitaṃ jino* with BJTS for PTS Ajitañjayo, “that king \[named\] Ajitañjaya,” which as noted in the note to v. 1 \[4113\], above, BJTS rejects (giving Vijaya as the king’s name). But these first two feet are in any event confused and problematic).
+[^40]: reading *ajitaṃ jino* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> Ajitañjayo, “that king \[named\] Ajitañjaya,” which as noted in the note to v. 1 \[4113\], above, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> rejects (giving Vijaya as the king’s name). But these first two feet are in any event confused and problematic).
 
-[^41]: reading *saddaṃ mānusakā’ kaṃsu* with BJTS (and PTS alt.) for PTS *saddam amānus’ âkāsuŋ*, “non-humans made (*sic*, taking *akāsuŋ* as 3rd pl. aor. of *karoti* on the model of *akāsi*, 3rd sing. aor; it would more likely come fr. *ākāsati*, i.e., “shined”) the sound”
+[^41]: reading *saddaṃ mānusakā’ kaṃsu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *saddam amānus’ âkāsuŋ*, “non-humans made (*sic*, taking *akāsuŋ* as 3rd pl. aor. of *karoti* on the model of *akāsi*, 3rd sing. aor; it would more likely come fr. *ākāsati*, i.e., “shined”) the sound”
 
 [^42]: *niraye pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>amānassa*
 
 [^43]: *tuvaṭṭento*, causative, lit., “being made to turn” (as opposed to the indicative sense of the same verb, translated at \[1487\], \[1597\] as “snuggle” and at \[4058\] as “nestle”)
 
-[^44]: this follows the BJTS gloss “(*men*)”
+[^44]: this follows the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss “(*men*)”
 
-[^45]: reading *sayāmi* (“I lie down”) with BJTS (and PTS alt.) for PTS *vasāmi* (“I am living”). PTS also offers *passāmi* (“I am seeing”) as another alt.
+[^45]: reading *sayāmi* (“I lie down”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *vasāmi* (“I am living”). <abbr title="Pali Text Society">PTS</abbr> also offers *passāmi* (“I am seeing”) as another alt.
 
 [^46]: *vasāmi niraye*
 
@@ -367,7 +367,7 @@ The legend of Todeyya Thera is finished.
 
 [^48]: *tomaraṅkusapāṇihi*
 
-[^49]: BJTS presents \[4129\] as a six-footed verses; PTS includes the last two feet of the verse \[4129e-f\] as the first two feet of v. 18 (a-b).
+[^49]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> presents \[4129\] as a six-footed verses; <abbr title="Pali Text Society">PTS</abbr> includes the last two feet of the verse \[4129e-f\] as the first two feet of v. 18 (a-b).
 
 [^50]: *jātiyā, lit*., “well-born” or simply “excellent,” the term connotes lineage, genealogy, caste, breed. Here it seems to substitute for “those fast like the wind” (*vātajavā*) in parallel lists (see above, \[1293\], \[2692\], \[3981\])
 
@@ -377,17 +377,17 @@ The legend of Todeyya Thera is finished.
 
 [^53]: *dīpā*, fr. *dīpī*, leopard. Both RD and PSI give cart covered with a tiger skin as one of the meanings of *dīpā*, and the same (i.e., covered with a tiger skin) for *veyyagghā*, but here the “and also too” (*atho pi*) connecting the two terms clearly indicates that they are not simple synonyms, but rather two types of decorated or armored carts: those covered with leopard skins (*dīpā*) and those covered with tiger skins (*veyyagghā*).
 
-[^54]: BJTS presents this as a six-footed verse; it spans two verses in BJTS
+[^54]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> presents this as a six-footed verse; it spans two verses in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 
 [^55]: *sabbā kaŋsūpadhāraṇā*
 
 [^56]: hasulā = ?
 
-[^57]: RD gives “good hips,” referring to this text. I don’t see the warrant, and take the term *susaññā* from *saññā*, sense, perception, as does BJTS
+[^57]: RD gives “good hips,” referring to this text. I don’t see the warrant, and take the term *susaññā* from *saññā*, sense, perception, as does <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 
-[^58]: this is the BJTS spelling (here as *Bhāgirathi*, sic). PTS reads *Bhāgirasī*
+[^58]: this is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling (here as *Bhāgirathi*, sic). <abbr title="Pali Text Society">PTS</abbr> reads *Bhāgirasī*
 
-[^59]: PTS *agyāgāraŋ*, BJTS *aggyāgāraṃ*
+[^59]: <abbr title="Pali Text Society">PTS</abbr> *agyāgāraŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *aggyāgāraṃ*
 
 [^60]: *āraddhaviriyo*
 
@@ -415,9 +415,9 @@ The legend of Todeyya Thera is finished.
 
 [^72]: *nāga* = Sinhala *nā*, ironwood, Mesua Ferrea Linn, Bodhi tree of Mangala, Sumana, Revata, Sobhita buddhas; national tree of Sri Lanka. It has brilliant, fragrant white flowers containing four petals each, as well as a red fruit eaten by birds.
 
-[^73]: *vanike*, Sinh. gloss *kōmbu*. RD: *vanika* = *vanaka*, of the forest, only in the cpd. *nāgavanika*, = “of the elephant forest,” = a hunter. BJTS glosses *nāga°* as *nā* (ironwood), so *vanika* here must refer to another kind of flowering plant.
+[^73]: *vanike*, Sinh. gloss *kōmbu*. RD: *vanika* = *vanaka*, of the forest, only in the cpd. *nāgavanika*, = “of the elephant forest,” = a hunter. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *nāga°* as *nā* (ironwood), so *vanika* here must refer to another kind of flowering plant.
 
-[^74]: *atimuttaka*. RD: a plant, Gaertnera Racemosa = Hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. BJTS glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba*, an annual creeper, Trichodesma zeylanicum).
+[^74]: *atimuttaka*. RD: a plant, Gaertnera Racemosa = Hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba*, an annual creeper, Trichodesma zeylanicum).
 
 [^75]: *ketaka*, Pandanus odoratissima, Sinhala *väṭakē* or *väṭakeyiyā*.
 

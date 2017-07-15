@@ -36,7 +36,7 @@ Thus indeed Venerable Ekapasādaniya Thera spoke these verses.
 
 The legend of Ekapasādaniya Thera is finished.
 
-[^1]: “One-Pleasing”. This is the BJTS reading. PTS reads the name as Ekadaŋsaniya; cty reads Ekapadāsaniya. The chapter summary below leads one to expect here an *Ekadussī-apadāna*, witnessed in none of the mss. which nevertheless maintain the chapter summary. There is a parallel case in the chapter summary for Chapter 33, below, which calls for an *Ekadussika-apadāna* absent in PTS; there, BJTS supplies one (as \#{334}, *Ekadussadāyaka-apadāna*, see below)
+[^1]: “One-Pleasing”. This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading. <abbr title="Pali Text Society">PTS</abbr> reads the name as Ekadaŋsaniya; cty reads Ekapadāsaniya. The chapter summary below leads one to expect here an *Ekadussī-apadāna*, witnessed in none of the mss. which nevertheless maintain the chapter summary. There is a parallel case in the chapter summary for Chapter 33, below, which calls for an *Ekadussika-apadāna* absent in <abbr title="Pali Text Society">PTS</abbr>; there, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> supplies one (as \#{334}, *Ekadussadāyaka-apadāna*, see below)
 
 [^2]: “Maned-One” “Lion”
 

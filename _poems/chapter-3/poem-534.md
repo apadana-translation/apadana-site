@@ -219,9 +219,9 @@ Thus indeed Venerable Dabbamallaputta Thera spoke these verses.
 
 The legend of Dabbamallaputta Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: BJTS reads *Dabba*. In the colophon both PTS and BJTS give “Dabbamallaputta,” “Dabba the son of the Mallians”. A historical monk, famous as the foremost among those who assigned lodgings (*senāsanapaññāpakānaṃ*, lit., “beds and chairs”), see DPPN I:1059-1060. “He was called Dabba because he was said to be born of his mother while she was being burnt in the funeral pyre; when the flames were extinguished, the child was found lying on one of the posts of the pyre (*dabbatthambhe*)” I translate this term (*dabbapuñjamhi*) more literally as “pile of wood.” The name Dabba means “wood”.
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Dabba*. In the colophon both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> give “Dabbamallaputta,” “Dabba the son of the Mallians”. A historical monk, famous as the foremost among those who assigned lodgings (*senāsanapaññāpakānaṃ*, lit., “beds and chairs”), see DPPN I:1059-1060. “He was called Dabba because he was said to be born of his mother while she was being burnt in the funeral pyre; when the flames were extinguished, the child was found lying on one of the posts of the pyre (*dabbatthambhe*)” I translate this term (*dabbapuñjamhi*) more literally as “pile of wood.” The name Dabba means “wood”.
 
 [^3]: *ovādako*
 
@@ -239,7 +239,7 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^10]: *nirākulaŋ*
 
-[^11]: *suñññataŋ*, or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
+[^11]: *suñññataŋ*, or “empty \[of ill-will\],” which is <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
 [^12]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*
 
@@ -251,7 +251,7 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^16]: lit., “beds \[and\] chairs” or “beds and food”
 
-[^17]: reading *tadā ‘bhāsi mahāvīro* with BJTS for PTS *tadahaŋ sa mahāvīro*
+[^17]: reading *tadā ‘bhāsi mahāvīro* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tadahaŋ sa mahāvīro*
 
 [^18]: *sabbadhammavipassako*
 
@@ -259,7 +259,7 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^20]: *tasseva naravīrassa*
 
-[^21]: reading *gottena* with BJTS for PTS *nāmena* (“named” “known as”)
+[^21]: reading *gottena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *nāmena* (“named” “known as”)
 
 [^22]: *vadataŋvaro*
 
@@ -269,11 +269,11 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^25]: *entamhi*, fr. *eti*, loc. abs. construction
 
-[^26]: *nibbāyissati dhammakkho* (BJTS reads *°akho*), lit., “the eye of *Dhamma* will reach nirvana”
+[^26]: *nibbāyissati dhammakkho* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *°akho*), lit., “the eye of *Dhamma* will reach nirvana”
 
 [^27]: *sāgaro <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a sasoko va*
 
-[^28]: reading *phaliṃsu* with BJTS for PTS *patiŋsu*, fell down, avoiding the redundancy with the next verse in keeping with the eloquence of this passage.
+[^28]: reading *phaliṃsu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *patiŋsu*, fell down, avoiding the redundancy with the next verse in keeping with the eloquence of this passage.
 
 [^29]: lit., “carrying fear to”
 
@@ -287,13 +287,13 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^34]: *sūvake*, lit., “making manifest” “indicating,” see Buddhadatta *Pāli-Sinhala Akārādiya*, s.v.
 
-[^35]: “setting” as in the setting of the sun, reading *sāsanatthagama-suvake* (read *sūvake*) with BJTS for PTS *sāsanatthañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akaŋ*
+[^35]: “setting” as in the setting of the sun, reading *sāsanatthagama-suvake* (read *sūvake*) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sāsanatthañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akaŋ*
 
-[^36]: reading *sāsanena vināmhākaṃ* with BJTS for PTS *sāsanena vinā sammā*
+[^36]: reading *sāsanena vināmhākaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sāsanena vinā sammā*
 
-[^37]: reading *nisseṇiyā* with BJTS for PTS *nisseniyā*
+[^37]: reading *nisseṇiyā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *nisseniyā*
 
-[^38]: reading *pātayimhase* with BJTS for PTS *pātayiṃhase*
+[^38]: reading *pātayimhase* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pātayiṃhase*
 
 [^39]: *thero*
 
@@ -303,11 +303,11 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^42]: *nibbuto tiṇṇasaŋsāro*
 
-[^43]: lit., “went up to,” following BJTS Sinh. gloss and reading with BJTS *tattha tatthupagā mayaṃ* for PTS *tattha tatth’ upagāmiyaŋ* (“he went up to here and there”)
+[^43]: lit., “went up to,” following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss and reading with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *tattha tatthupagā mayaṃ* for <abbr title="Pali Text Society">PTS</abbr> *tattha tatth’ upagāmiyaŋ* (“he went up to here and there”)
 
-[^44]: reading *matā mātā* with BJTS (and PTS alt. cited as *mātā mātā*?) for PTS *mātā pitā* (“mother and father”)
+[^44]: reading *matā mātā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt. cited as *mātā mātā*?) for <abbr title="Pali Text Society">PTS</abbr> *mātā pitā* (“mother and father”)
 
-[^45]: reading *nippatito* with BJTS (and PTS alt.) for PTS *nibbattito*, “produced” “brought forth”
+[^45]: reading *nippatito* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *nibbattito*, “produced” “brought forth”
 
 [^46]: lit., “fallen”
 
@@ -315,13 +315,13 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^48]: “Wood”
 
-[^49]: or “of celibacy”, reading *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āribalena* with BJTS (and cf. PTS alt. *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara*) for PTS *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eraphalena* (“through the fruit of Brahma-\[\]?”)
+[^49]: or “of celibacy”, reading *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āribalena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and cf. <abbr title="Pali Text Society">PTS</abbr> alt. *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara*) for <abbr title="Pali Text Society">PTS</abbr> *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eraphalena* (“through the fruit of Brahma-\[\]?”)
 
 [^50]: see above, v. 19 \[5797\]; this was a pious act done by the protagonist during the time of Vipassi Buddha
 
 [^51]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgehi upāgato*. RD, the “five gentlemanly qualities” of a king or brahmin are *sujāta* (good birth), *ajjhāyaka* (education, learning in the Vedas), *abhirūpa* (handsomeness), *sīlavā* (moral conduct) and *paṇḍita* (wisdom)
 
-[^52]: lit., “the one whose defilements are destroyed,” i.e., “the arahant”. BJTS reads *khīṇāsavopavādena* for PTS’ misleading ungrammatical *khīṇāsavo pavādena* (“because of the arahant reproaching” rather than “because of reproaching the arahant”)
+[^52]: lit., “the one whose defilements are destroyed,” i.e., “the arahant”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *khīṇāsavopavādena* for <abbr title="Pali Text Society">PTS</abbr>’ misleading ungrammatical *khīṇāsavo pavādena* (“because of the arahant reproaching” rather than “because of reproaching the arahant”)
 
 [^53]: *pāpehi bahu <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>odito*
 

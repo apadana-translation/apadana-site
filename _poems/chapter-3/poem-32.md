@@ -81,14 +81,14 @@ This indeed Venerable Sāgata Thera spoke these verses.
 
 The legend of Sāgata Thera is finished.
 
-[^1]: reading *‘panesi* for *panesi*, and avoiding the alternate reading (and BJTS) *mahesi* (*mahesī*).
+[^1]: reading *‘panesi* for *panesi*, and avoiding the alternate reading (and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) *mahesi* (*mahesī*).
 
-[^2]: reading *parisāhi* (BJTS) for *parisato* (PTS)
+[^2]: reading *parisāhi* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *parisato* (<abbr title="Pali Text Society">PTS</abbr>)
 
-[^3]: there are problems with this verse; many alternate readings in the different manuscripts and editions. I follow BJTS Sinhala gloss in taking *niddhāvate* as “*paetireyi*,” “spreads out over.”
+[^3]: there are problems with this verse; many alternate readings in the different manuscripts and editions. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss in taking *niddhāvate* as “*paetireyi*,” “spreads out over.”
 
-[^4]: reading *suriyodāyate* (BJTS) for *suriyo ‘bbhaghane* (“like the sun in a mass of clouds,” PTS).
+[^4]: reading *suriyodāyate* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *suriyo ‘bbhaghane* (“like the sun in a mass of clouds,” <abbr title="Pali Text Society">PTS</abbr>).
 
-[^5]: reading (with BJTS, PTS alternatives) *tena kammena sukatena* for PTS *vimbakapasuto hutvā*
+[^5]: reading (with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alternatives) *tena kammena sukatena* for <abbr title="Pali Text Society">PTS</abbr> *vimbakapasuto hutvā*
 
 [^6]: or “evil:” *pāpa°*

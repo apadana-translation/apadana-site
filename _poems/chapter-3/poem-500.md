@@ -67,26 +67,26 @@ The Ten Chapters[^9] called Metteyya.[^10]
 
 The Fifth Hundred[^11] is finished.[^12]
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Piyāla-Fruit-Donor” *Piyāla* (Sinh. *piyal*) is *buchanania latifolia*. PTS omits “Piyāla,” hence reads the name merely as “Fruit-Donor”. Cf. above, \#140, for a (different) *apadāna* ascribed to a monk of this name. Cf. below, \#508 {511} for (virtually) the same *apadāna* ascribed to a monk of a different name. The only difference there is the name of the fruit that is donated, and hence of the donor as well.
+[^2]: “Piyāla-Fruit-Donor” *Piyāla* (Sinh. *piyal*) is *buchanania latifolia*. <abbr title="Pali Text Society">PTS</abbr> omits “Piyāla,” hence reads the name merely as “Fruit-Donor”. Cf. above, \#140, for a (different) *apadāna* ascribed to a monk of this name. Cf. below, \#508 {511} for (virtually) the same *apadāna* ascribed to a monk of a different name. The only difference there is the name of the fruit that is donated, and hence of the donor as well.
 
-[^3]: BJTS reads *kiṅkaṇi*
+[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kiṅkaṇi*
 
-[^4]: BJTS reads *koraṇḍamatha*, “and then Koraṇḍ”
+[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *koraṇḍamatha*, “and then Koraṇḍ”
 
-[^5]: BJTS places this line before, rather than after the summary.
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> places this line before, rather than after the summary.
 
-[^6]: this is the BJTS reading for PTS “Metteyya, Bhaddāli Chapter”
+[^6]: this is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading for <abbr title="Pali Text Society">PTS</abbr> “Metteyya, Bhaddāli Chapter”
 
-[^7]: reading *tathā* with BJTS (and PTS alts.) for PTS *tadā* (“then” “back then” “at that time”)
+[^7]: reading *tathā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alts.) for <abbr title="Pali Text Society">PTS</abbr> *tadā* (“then” “back then” “at that time”)
 
-[^8]: BJTS reads *kiṅkaṇi*
+[^8]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kiṅkaṇi*
 
 [^9]: *vaggadasakaŋ*
 
-[^10]: not in PTS
+[^10]: not in <abbr title="Pali Text Society">PTS</abbr>
 
 [^11]: *sataka* is a common structure in Sanskrit and Pāli poetry, usually referring to one hundred verses, rather than (as here) one hundred stories.
 
-[^12]: not in PTS
+[^12]: not in <abbr title="Pali Text Society">PTS</abbr>

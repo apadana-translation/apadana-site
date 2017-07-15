@@ -26,8 +26,8 @@ Thus indeed Venerable Viravapupphiya Thera spoke these verses.
 
 The legend of Viravapupphiya Thera is finished.
 
-[^1]: “Virava-Flower-er”. BJTS reads *Viravi°*
+[^1]: “Virava-Flower-er”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Viravi°*
 
 [^2]: lit., “with one thousand who were free of *āsavas* (outflows, defilements)”
 
-[^3]: BJTS reads *viravi*
+[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *viravi*

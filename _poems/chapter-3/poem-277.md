@@ -33,7 +33,7 @@ The legend of <span class="diacritics" data-state="on">C</span><span class="no-d
 
 [^1]: “Shrine-Worshipper”
 
-[^2]: RD explains this as a “long creeper,” which is common enough in similes to be noticed in JPTS 1907, p. 123.
+[^2]: RD explains this as a “long creeper,” which is common enough in similes to be noticed in J<abbr title="Pali Text Society">PTS</abbr> 1907, p. 123.
 
 [^3]: cty stipulates that he first constructed the shrine of sand, then worshipped it using the flowers in his *pūjā*.
 

@@ -325,7 +325,7 @@ and also seventy-eight \[more\].
 
 The Kuṇḍalakesā Chapter, the Third
 
-[^1]: BJTS reads “The *Apadāna* of EighteenThousand Buddhist Nuns”
+[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “The *Apadāna* of EighteenThousand Buddhist Nuns”
 
 [^2]: *te pajāpatī*
 
@@ -337,11 +337,11 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^6]: *iddhiŋ*
 
-[^7]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālaŋ samaŋ* (BJTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷasamaṃ*) *kāyaŋ*, lit., “body the same as the ring surrounding the universe”
+[^7]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālaŋ samaŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷasamaṃ*) *kāyaŋ*, lit., “body the same as the ring surrounding the universe”
 
-[^8]: or “island” (*dīpa*). This verse presumes knowledge of the ancient Indian understanding of India (here *jambudīpaŋ* \[BJTS *°dīpo*\], “the Island of Rose-Apples”) as one of the four great islands or continents making up the whole world. It lies to the south, with the other three being north, east and west of India.
+[^8]: or “island” (*dīpa*). This verse presumes knowledge of the ancient Indian understanding of India (here *jambudīpaŋ* \[<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *°dīpo*\], “the Island of Rose-Apples”) as one of the four great islands or continents making up the whole world. It lies to the south, with the other three being north, east and west of India.
 
-[^9]: lit., “in the ring surrounding the universe” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālagiri°*; BJTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷagiri°*)
+[^9]: lit., “in the ring surrounding the universe” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālagiri°*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷagiri°*)
 
 [^10]: *jamburukkha°*, lit., “a rose-apple tree”
 
@@ -349,23 +349,23 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^12]: *yasovaṇṇā*, lit., “we have the the appearance of Yaso” “we are the color (or have the appearance) of fame”
 
-[^13]: here as elsewhere, reading the voc. *mahāmunue* with BJTS (and PTS alt.) for PTS *mahāmuni*
+[^13]: here as elsewhere, reading the voc. *mahāmunue* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mahāmuni*
 
-[^14]: reading *buddhānaṃ* with BJTS (or PTS alt. *Buddhāna*) for PTS *pubbānaŋ* (former); but cf. below \[1133\] where BJTS and PTS both give *pubbānaṃ* in a repetition of this verse (and several around it)
+[^14]: reading *buddhānaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (or <abbr title="Pali Text Society">PTS</abbr> alt. *Buddhāna*) for <abbr title="Pali Text Society">PTS</abbr> *pubbānaŋ* (former); but cf. below \[1133\] where <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> both give *pubbānaṃ* in a repetition of this verse (and several around it)
 
-[^15]: reading *vārayitvā anā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṃ* with BJTS for PTS *pā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayantī anāvaraŋ* (“burning/tormenting ?)
+[^15]: reading *vārayitvā anā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayantī anāvaraŋ* (“burning/tormenting ?)
 
 [^16]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta*, \#29 of *Dīghanikāya*, section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
 
-[^17]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attaṃ* with BJTS (and PTS alt.) for PTS *samattaŋ* (“fulfilled” “completed”)
+[^17]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *samattaŋ* (“fulfilled” “completed”)
 
-[^18]: reading *°bhaṇḍe na gūhāma* with BJTS for PTS *bhaṇḍena gūhāmi* (“I conceal with a thing”)
+[^18]: reading *°bhaṇḍe na gūhāma* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *bhaṇḍena gūhāmi* (“I conceal with a thing”)
 
 [^19]: lit., “gone to”
 
 [^20]: lit., “see,” fig. “know”
 
-[^21]: reading *anubhuttaṃ* with BJTS for PTS *pari<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>attaŋ* (“are sacrificed”)
+[^21]: reading *anubhuttaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pari<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>attaŋ* (“are sacrificed”)
 
 [^22]: *saṃsāre*, or “wheel of life”
 
@@ -379,9 +379,9 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^27]: lit., “Sambuddha,” paralleling the usage in the previous verse
 
-[^28]: reading *gavesato buddhadhamme* with BJTS for PTS *gavesantā buddhadhammaŋ* (“We, searching for the Buddha’s Teaching)
+[^28]: reading *gavesato buddhadhamme* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *gavesantā buddhadhammaŋ* (“We, searching for the Buddha’s Teaching)
 
-[^29]: reading *thaludajāni* with BJTS for PTS *phaludakajāti* (“born in fruit-juice”)
+[^29]: reading *thaludajāni* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *phaludakajāti* (“born in fruit-juice”)
 
 [^30]: lit., “the Great Hero prophesied”
 
@@ -391,24 +391,24 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^33]: lit., “there is no agitation \[to my mind\]”
 
-[^34]: reading *pabbajitvāna* with BJTS (and PTS alt.) for PTS *pabbajiŋ* (“I went forth”)
+[^34]: reading *pabbajitvāna* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *pabbajiŋ* (“I went forth”)
 
-[^35]: *aṭṭhamāse*, BJTS reads *addhamāse* (“half a month”)
+[^35]: *aṭṭhamāse*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *addhamāse* (“half a month”)
 
-[^36]: reading *bahu ‘neke* with BJTS for PTS *buhun eke*
+[^36]: reading *bahu ‘neke* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *buhun eke*
 
-[^37]: reading *sahāyasampadā honti* with BJTS for PTS *pabhāyasampadā bhonti* (“becoming attained with light” ?)
+[^37]: reading *sahāyasampadā honti* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pabhāyasampadā bhonti* (“becoming attained with light” ?)
 
-[^38]: reading *nibbānapadam asaṅkhataṃ* with BJTS for PTS *nibbān’-amat’-asaṅkhataŋ* (“unconditioned, deathless nirvana”)
+[^38]: reading *nibbānapadam asaṅkhataṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *nibbān’-amat’-asaṅkhataŋ* (“unconditioned, deathless nirvana”)
 
-[^39]: reading *sabbaṃ* with BJTS for PTS *sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aŋ* (“the truth of”)
+[^39]: reading *sabbaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aŋ* (“the truth of”)
 
-[^40]: reading *vandāma* with BJTS for PTS *vandāmi* (as in v. \[1028\], above)
+[^40]: reading *vandāma* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vandāmi* (as in v. \[1028\], above)
 
-[^41]: reading *vajantīnaṃ* with BJTS for PYS *vadantīnaŋ* (“who are saying”)
+[^41]: reading *vajantīnaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for PYS *vadantīnaŋ* (“who are saying”)
 
-[^42]: *santasaṅkhatadoso* (BJTS *°dosaṃ*)
+[^42]: *santasaṅkhatadoso* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *°dosaṃ*)
 
-[^43]: reading the correct spelling with BJTS for PTS *Sākulā*
+[^43]: reading the correct spelling with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Sākulā*
 
-[^44]: reading *dasasahassabhikkhunī aṭṭhārasasahassakā* with BJTS for PTS *dasaṭṭhārasasahassā* (“the ten-eighteen thousand”)
+[^44]: reading *dasasahassabhikkhunī aṭṭhārasasahassakā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dasaṭṭhārasasahassā* (“the ten-eighteen thousand”)

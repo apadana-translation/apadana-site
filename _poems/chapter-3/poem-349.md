@@ -31,7 +31,7 @@ Thus indeed Venerable Tiṇḍukaphaladāyaka Thera spoke these verses.
 
 The legend of Tiṇḍukaphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Wild Mangosteen-Fruit Donor.” The tree is *tinduka* = *timbiri*, *diospyros embryopteris*, a.k.a Indian persimmon, wild mangosteen
 
@@ -41,4 +41,4 @@ The legend of Tiṇḍukaphaladāyaka Thera is finished.
 
 [^5]: *tinduka* = *timbiri*, *diospyros embryopteris*, a.k.a. Indian persimmon, wild mangosteen
 
-[^6]: *sakoṭakaŋ*, which BJTS glosses *kaṇiti* (read *kaniti*, plural of *kanitta*) *sahita*.
+[^6]: *sakoṭakaŋ*, which <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *kaṇiti* (read *kaniti*, plural of *kanitta*) *sahita*.

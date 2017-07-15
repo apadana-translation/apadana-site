@@ -43,7 +43,7 @@ The legend of Asokapūjaka Thera is finished.
 
 [^1]: “Offerer of Ashoka \[Blossoms\]”
 
-[^2]: BJTS reads *baddhacaro*. Cty explains the term: “I was the servant, the employee of the king”
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *baddhacaro*. Cty explains the term: “I was the servant, the employee of the king”
 
 [^3]: *sappabho*
 

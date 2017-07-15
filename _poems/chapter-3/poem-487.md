@@ -197,11 +197,11 @@ Thus indeed Venerable Puḷinuppādaka Thera spoke these verses.
 
 The legend of Puḷinuppādaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Sand-Generator”. BTS reads *Pulin°*
 
-[^3]: reading *amānussehi māpito* with BJTS for PTS *amānussikamāpito* (roughly the same meaning: “non-human-made”)
+[^3]: reading *amānussehi māpito* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *amānussikamāpito* (roughly the same meaning: “non-human-made”)
 
 [^4]: *sahakammāni*
 
@@ -209,19 +209,19 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^6]: lit., “asked me that meaning”
 
-[^7]: reading *no* with BJTS for PTS *me*
+[^7]: reading *no* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *me*
 
 [^8]: *niddiṭṭhā*
 
 [^9]: *no mantapade*
 
-[^10]: or “what caste are they?,” *kathaŋ vaṇṇa°* (BJTS reads, more correctly, *kathaṃ vaṇṇā*)
+[^10]: or “what caste are they?,” *kathaŋ vaṇṇa°* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads, more correctly, *kathaṃ vaṇṇā*)
 
-[^11]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attārīsa-ddijāpi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (PTS), *°dvijāpi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (BJTS), following BJTS Sinh. gloss in understanding *dvija* as “tooth” (“twice born,” hence the adult teeth).
+[^11]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attārīsa-ddijāpi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (<abbr title="Pali Text Society">PTS</abbr>), *°dvijāpi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>), following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss in understanding *dvija* as “tooth” (“twice born,” hence the adult teeth).
 
-[^12]: reading *nettā gopa\[k\]khumā* with BJTS for PTS *gopamukhā* (“face to face with a cow”)
+[^12]: reading *nettā gopa\[k\]khumā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *gopamukhā* (“face to face with a cow”)
 
-[^13]: *jiñjukaphalasannibhā*. The *jiñjuka* (also known as *guñja* in Pāli) shrub, Sinh. *huninda* (BJTS gloss) or *olinda* is Abrus pracatorius (*Legum.*). It bears distinctive, small red or black berries which serve as the smallest jeweller’s weight and are used in a traditional Sri Lankan board game; the present epithet presumably refers to the (very) black berries borne by this plant.
+[^13]: *jiñjukaphalasannibhā*. The *jiñjuka* (also known as *guñja* in Pāli) shrub, Sinh. *huninda* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss) or *olinda* is Abrus pracatorius (*Legum.*). It bears distinctive, small red or black berries which serve as the smallest jeweller’s weight and are used in a traditional Sri Lankan board game; the present epithet presumably refers to the (very) black berries borne by this plant.
 
 [^14]: lit., “going”
 
@@ -233,21 +233,21 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^18]: lit., “they go lifting up”
 
-[^19]: *chabbikāraŋ* (PTS), *chappakāraṃ* (BJTS)
+[^19]: *chabbikāraŋ* (<abbr title="Pali Text Society">PTS</abbr>), *chappakāraṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>)
 
 [^20]: *atulyā*
 
-[^21]: *vaṇṇato anatikkantā*, following BJTS Sinhala gloss: *rūpakāya sampattiyen no ikmavanu häkkō ya*, “it is not possible to surpass them in good fortune as regards \[their\] form-bodies.
+[^21]: *vaṇṇato anatikkantā*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss: *rūpakāya sampattiyen no ikmavanu häkkō ya*, “it is not possible to surpass them in good fortune as regards \[their\] form-bodies.
 
-[^22]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with BJTS (and PTS alt.) fr PTS *va*
+[^22]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) fr <abbr title="Pali Text Society">PTS</abbr> *va*
 
 [^23]: lit., “are gone”
 
-[^24]: reading *salati* with BJTS for PTS *saddati*
+[^24]: reading *salati* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *saddati*
 
 [^25]: lit., “Sambuddha”
 
-[^26]: *paramena*, “superior” “best.” BJTS Sinhala gloss: *däḍi*, “strong”
+[^26]: *paramena*, “superior” “best.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss: *däḍi*, “strong”
 
 [^27]: *kalebaraŋ*, lit., “corpse” or “body”
 
@@ -255,11 +255,11 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^29]: *tesaŋ lālappamānaŋ* (gen. abs. construction). *Lālappati* means “lament, wail” as well as “to talk too much,” “to talk silly,” the intensive of *lapati*, “to mutter, talk, prattle”. I have interpolated “\[uselessly\]” *metri causa*, but in doing so convey the connotation of the term (and the subsequent speech by the ghost of the teacher) that their wailing was excessive or pointless.
 
-[^30]: BJTS Sinh gloss: “the birth of a Buddha, which frees \[one\] from the eight evil moments \[Sinh dict. i.e., (1) birth in hell, (2) birth as an animal, (3) birth as a demon, (4) birth in the two Brahma worlds where neither body nor mind exists, (5) birth in a foreign country devoid of the Buddha’s Teaching, (6) birth with the five senses confused or perverted, (7) birth as a non-religious person, and (8) birth in a Buddha-less age\]”
+[^30]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh gloss: “the birth of a Buddha, which frees \[one\] from the eight evil moments \[Sinh dict. i.e., (1) birth in hell, (2) birth as an animal, (3) birth as a demon, (4) birth in the two Brahma worlds where neither body nor mind exists, (5) birth in a foreign country devoid of the Buddha’s Teaching, (6) birth with the five senses confused or perverted, (7) birth as a non-religious person, and (8) birth in a Buddha-less age\]”
 
-[^31]: PTS presents this as a six-footed verse, in an apparently mistaken (and redundant) repetition of the first two feet (a-b) as c-d. BJTS presents a standard four-footed verse, omitting PTS 30c-d (i.e., corresponding to PTS 30a-b and 30e-f).
+[^31]: <abbr title="Pali Text Society">PTS</abbr> presents this as a six-footed verse, in an apparently mistaken (and redundant) repetition of the first two feet (a-b) as c-d. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> presents a standard four-footed verse, omitting <abbr title="Pali Text Society">PTS</abbr> 30c-d (i.e., corresponding to <abbr title="Pali Text Society">PTS</abbr> 30a-b and 30e-f).
 
-[^32]: *vokiṇṇo* (BJTS and PTS alt. reads *vokiṇṇaŋ*), lit., “mixed”. I follow BJTS in taking the term to refer to a mix of births as a god and births as a human.
+[^32]: *vokiṇṇo* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt. reads *vokiṇṇaŋ*), lit., “mixed”. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in taking the term to refer to a mix of births as a god and births as a human.
 
 [^33]: *uppādassa*. The term (as too in the name ascribed to this monk) apparently refers to the “generating” (or “producing”) of the stupa made of sand.
 

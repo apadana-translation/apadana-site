@@ -140,12 +140,12 @@ The Buddha Chapter of the *Apadāna*, the First.
 
 [^6]: i.e., showing their rut in their eyes, ears, and genitals. See cty, p. 288.
 
-[^7]: following cty and BJTS in taking *urūLhavā* as *rājavāhanā*. Check RD. Cf below v \[769\]
+[^7]: following cty and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in taking *urūLhavā* as *rājavāhanā*. Check RD. Cf below v \[769\]
 
-[^8]: the analogy seems clear enough, but the final adjective varies from text to text, something is lost here. PTS reads *na honti parivimhitā*, BJTS and cty read *na hontu paNidimhi te*. Work on this one.
+[^8]: the analogy seems clear enough, but the final adjective varies from text to text, something is lost here. <abbr title="Pali Text Society">PTS</abbr> reads *na honti parivimhitā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and cty read *na hontu paNidimhi te*. Work on this one.
 
-[^9]: reading *saddhammam-a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo* (BJTS) for *sangaman-a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo* (PTS).
+[^9]: reading *saddhammam-a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *sangaman-a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo* (<abbr title="Pali Text Society">PTS</abbr>).
 
-[^10]: this verse only appears in BJTS
+[^10]: this verse only appears in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 
 [^11]: the number is not exact, at least it does not precisely correspond to the existing editions. This is true of nearly all the summaries, indicating that many verses have been added or subtracted over time

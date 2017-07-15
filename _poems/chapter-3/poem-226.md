@@ -35,10 +35,10 @@ Thus indeed Venerable Aṅkolapupphiya Thera spoke these verses.
 
 The legend of Aṅkolapupphiya Thera is finished.
 
-[^1]: “Alangium Flower-er”. PTS reads *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṅkolapupphiya*
+[^1]: “Alangium Flower-er”. <abbr title="Pali Text Society">PTS</abbr> reads *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṅkolapupphiya*
 
 [^2]: *anubyañjana-dharaŋ*, lit., “bearing the secondary characteristics,” i.e., the additional minor marks of a great man.
 
 [^3]: The meaning of this name is unclear to me, but it recurs in numerous places in our text, and only in our text. Cf. *roma*, body hair, *romaka*, feathered, *romantheti*, chews the cud. Cf. \#265 which takes place (v. 1; \[2557\]) on a mountain in the Himalayas by this name; the mountain is named elsewhere (\#517) and the name is used also of a previous Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha (\#279, \#347, \#433 {436}, below), and a rebirth-precursor of other arahants, too (\#299, below, where he is a Titan); all the DPPN references to this name are *only* to *Apadāna* (one instance in ThagA i.399)
 
-[^4]: following BJTS Sinhala gloss on the fourth foot of the verse: *sayoggabalavāhano*
+[^4]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss on the fourth foot of the verse: *sayoggabalavāhano*

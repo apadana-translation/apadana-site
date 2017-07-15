@@ -190,13 +190,13 @@ The legend of Dhammadinnā Therī is finished.
 
 [^1]: “*Dhamma*-Given,” an historical nun, remembered as foremost among the nuns who preached *Dhamma*.
 
-[^2]: *ayyaka*, lit., “grandfather.” I follow BJTS Sinhala gloss in reading him as her “master” (*svāmi teme*), imagining him called “grandfather” in the home where she was a servant.
+[^2]: *ayyaka*, lit., “grandfather.” I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss in reading him as her “master” (*svāmi teme*), imagining him called “grandfather” in the home where she was a servant.
 
 [^3]: *ghananinādasussaro*, should this be taken as a Buddha epithet, to be capitalized?
 
 [^4]: *°āga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chita°*, lit., “come into”
 
-[^5]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “Named Kassapa according to his Lineage (*gottena*)”
 
 [^6]: ”Good Teaching”
 
@@ -206,7 +206,7 @@ The legend of Dhammadinnā Therī is finished.
 
 [^9]: = Bhaddā Kuṇḍalakesī
 
-[^10]: here the text (in both PTS and BJTS editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be better here.
+[^10]: here the text (in both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be better here.
 
 [^11]: *paṭhame yobbane ṭhitā*, lit., “fixed in the first \[blush of\] youth”
 
@@ -220,4 +220,4 @@ The legend of Dhammadinnā Therī is finished.
 
 [^16]: *satthu sāsanakārikā*, lit., “\[I am\] a doer of the Teacher’s dispensation”
 
-[^17]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I became”)
+[^17]: reading *amhi* (“I am”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *āsiŋ* (“I was” “I became”)

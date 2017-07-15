@@ -136,7 +136,7 @@ Thus indeed Venerable Ekâsanadāyaka Thera spoke these verses.
 
 The legend of Ekâsanadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “One-Seat-Donor”
 
@@ -148,17 +148,17 @@ The legend of Ekâsanadāyaka Thera is finished.
 
 [^6]: *ajinaŋ*, lit., “deer-leather \[robe\]”
 
-[^7]: BJTS omits PTS *tuvaŋ* and gives *mahāvīra* for PTS *vīra*, keeping the meter. This translation preserves both the *tuvaŋ* of PTS and the *mahā°* of BJTS, but also indicates their absence in the respective other texts by including them in square brackets
+[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits <abbr title="Pali Text Society">PTS</abbr> *tuvaŋ* and gives *mahāvīra* for <abbr title="Pali Text Society">PTS</abbr> *vīra*, keeping the meter. This translation preserves both the *tuvaŋ* of <abbr title="Pali Text Society">PTS</abbr> and the *mahā°* of <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, but also indicates their absence in the respective other texts by including them in square brackets
 
 [^8]: *sallakatto*, lit., “one who works on the (poison) arrow,” a doctor who does surgery.
 
 [^9]: *tiki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chako*
 
-[^10]: reading *kalla-atthikā* with BJTS for PTS *kallaṭṭhikā*. BJTS glosses *kalla* (“what is fitting”) as “nirvana” (*nivan kämmätt yamkenek*)
+[^10]: reading *kalla-atthikā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *kallaṭṭhikā*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *kalla* (“what is fitting”) as “nirvana” (*nivan kämmätt yamkenek*)
 
-[^11]: reading *dhuvatthasiddiŋ* with BJTS for PTS *dhuvaŋ ti siddhiŋ*, “their goal called permanence” or “their goal called nirvana” (following PSI for the latter definition).
+[^11]: reading *dhuvatthasiddiŋ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dhuvaŋ ti siddhiŋ*, “their goal called permanence” or “their goal called nirvana” (following PSI for the latter definition).
 
-[^12]: *etesaŋ jajjaro bhavo*, following BJTS gloss (= “comes to an end”)
+[^12]: *etesaŋ jajjaro bhavo*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss (= “comes to an end”)
 
 [^13]: *jotiraso*
 
@@ -166,6 +166,6 @@ The legend of Ekâsanadāyaka Thera is finished.
 
 [^15]: *vinipātaŋ*, lit., “a state of suffering” or “ruination”
 
-[^16]: BJTS reads *dhīro* (“the wise one”)
+[^16]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *dhīro* (“the wise one”)
 
 [^17]: lit., “in the middle of water”

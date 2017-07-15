@@ -28,7 +28,7 @@ Thus indeed Venerable Ārakkhadāyaka Thera spoke these verses.
 
 The legend of Ārakkhadāyaka Thera is finished.
 
-[^1]: This is the BJTS reading throughout, and the PTS reading in the body of this poem; I assume that the PTS reading of the chapter title as *Ārakkhadāya* is a typographical error
+[^1]: This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading throughout, and the <abbr title="Pali Text Society">PTS</abbr> reading in the body of this poem; I assume that the <abbr title="Pali Text Society">PTS</abbr> reading of the chapter title as *Ārakkhadāya* is a typographical error
 
 [^2]: “Protection Giver”
 

@@ -48,6 +48,6 @@ The legend of Akkantasaññaka Thera is finished.
 
 [^1]: “Perceiver of Walking”
 
-[^2]: BJTS appropriately explains that he was doing walking meditation
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> appropriately explains that he was doing walking meditation
 
 [^3]: “Good Joy”

@@ -51,11 +51,11 @@ Thus indeed Venerable Nalāgārika Thera spoke these verses.
 
 The legend of Nalāgārika Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Reed-Hut-er.” BJTS reads *Naḷāgārika*.
+[^2]: “Reed-Hut-er.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Naḷāgārika*.
 
-[^3]: perhaps “Charming,” from *hāri*, or “Carrying,” from *harati*. A parallel *apadāna* below, of Naḷakuṭika Thera, which begins with the same two verses, reads the name as Bhārika (BJTS Bhārita) with *Hārito* and *Hiriko* as alts.
+[^3]: perhaps “Charming,” from *hāri*, or “Carrying,” from *harati*. A parallel *apadāna* below, of Naḷakuṭika Thera, which begins with the same two verses, reads the name as Bhārika (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Bhārita) with *Hārito* and *Hiriko* as alts.
 
 [^4]: i.e., birth as a human being and birth as a god
 

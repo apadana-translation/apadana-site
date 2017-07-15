@@ -489,11 +489,11 @@ The legend of Khemā Therī is finished.
 
 [^2]: *uttamaŋ bhikkhuniŋ*
 
-[^3]: reading *bhavissasi* with BJTS (and PTS alt.) for PTS *bhavissati*, “she will be.”
+[^3]: reading *bhavissasi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *bhavissati*, “she will be.”
 
 [^4]: Yāma, Tusita, Nimmānarati and Vāsavatti are all heavens in the Buddhist cosmology.
 
-[^5]: BJTS reads *nimmāṇaratiṃ*
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *nimmāṇaratiṃ*
 
 [^6]: *anekakappesu*, lit., “during various aeons”
 
@@ -515,7 +515,7 @@ The legend of Khemā Therī is finished.
 
 [^15]: *upagā*, lit., reached, went to, obtained, came into, belonged to
 
-[^16]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
+[^16]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “Named Kassapa according to his Lineage (*gottena*)”
 
 [^17]: ”Female renouncer” “nun” “renunciate woman”
 
@@ -531,17 +531,17 @@ The legend of Khemā Therī is finished.
 
 [^23]: the fifteenth *sutta* of the *Dīghanikāya*, containing a detailed analysis of the twelve-fold chain of causation
 
-[^24]: here the text (in both PTS and BJTS editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be the more natural plural term here.
+[^24]: here the text (in both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be the more natural plural term here.
 
-[^25]: reading *°amhi* with BJTS for PTS *°āsiŋ* (“I was”)
+[^25]: reading *°amhi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *°āsiŋ* (“I was”)
 
 [^26]: *khemaŋ*
 
-[^27]: reading *guṇato* with BJTS for PTS *guṇikaṃ* (“small chain”)
+[^27]: reading *guṇato* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *guṇikaṃ* (“small chain”)
 
 [^28]: *udapajjatha*, lit., “produced”
 
-[^29]: reading *rūpavilāsabhūsitā* with PTS alt. for PTS *rūpavant’ āvibhūsitā* (“beautiful \[and\] extremely ornamented”) and BJTS *rūpalavaññabhūsitā* (“adorned with beauty and gorgeousness”), though all the readings make the same basic point
+[^29]: reading *rūpavilāsabhūsitā* with <abbr title="Pali Text Society">PTS</abbr> alt. for <abbr title="Pali Text Society">PTS</abbr> *rūpavant’ āvibhūsitā* (“beautiful \[and\] extremely ornamented”) and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *rūpalavaññabhūsitā* (“adorned with beauty and gorgeousness”), though all the readings make the same basic point
 
 [^30]: *ratā*, lit., “delighting in” “intent upon”
 
@@ -551,7 +551,7 @@ The legend of Khemā Therī is finished.
 
 [^33]: *mahādayaŋ*, lit., “Great Compassionate One”
 
-[^34]: *veluvanaŋ* (BJTS *veḷuvanaṃ*), a pleasure grove near Rajgir where the Buddha stayed when visiting King Bimbisāra
+[^34]: *veluvanaŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *veḷuvanaṃ*), a pleasure grove near Rajgir where the Buddha stayed when visiting King Bimbisāra
 
 [^35]: *nandanaŋ*, “Joy” the divine pleasure grove of Śakra/Indra, the king of the gods
 
@@ -583,7 +583,7 @@ The legend of Khemā Therī is finished.
 
 [^49]: or otherwise “good,” *su°*
 
-[^50]: PTS *varassoṇī* (“excellent buttocks”), BJTS *sussoṇī*, (“good buttocks”)
+[^50]: <abbr title="Pali Text Society">PTS</abbr> *varassoṇī* (“excellent buttocks”), <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *sussoṇī*, (“good buttocks”)
 
 [^51]: or “form/shape/beauty which is not to be satisfied” (or “not troubling”?)
 
@@ -601,11 +601,11 @@ The legend of Khemā Therī is finished.
 
 [^58]: *mānânusayaŋ ujjaha*, pride located in the subconscious, “sleepful” (but not) pride in one’s existence, etc
 
-[^59]: PTS and BJTS agree on the text here, in a complex/atypical meter, but whereas PTS presents it as two 6-5-6-6 verses, BJTS presents it as one 11-11-11-12 verse, as indicated in the varied numbering here.
+[^59]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree on the text here, in a complex/atypical meter, but whereas <abbr title="Pali Text Society">PTS</abbr> presents it as two 6-5-6-6 verses, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> presents it as one 11-11-11-12 verse, as indicated in the varied numbering here.
 
 [^60]: see above, v. 34 \[449\]
 
-[^61]: BJTS reads *amataṃ dadaṃ* (“Deathless-Giver” ?)
+[^61]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *amataṃ dadaṃ* (“Deathless-Giver” ?)
 
 [^62]: *°pakkhannā*, lit., “fallen into” “jumped into” fr. *pakkhandati*
 
@@ -619,9 +619,9 @@ The legend of Khemā Therī is finished.
 
 [^67]: *araṇaŋ*, lit., “having no battle,” “not adversarial,” echoed in *lokasaraṇaŋ* and *maraṇantagaŋ*
 
-[^68]: *maraṇantagaŋ* (correct to *°antakaṃ* read *°antaguṃ* with BJTS)
+[^68]: *maraṇantagaŋ* (correct to *°antakaṃ* read *°antaguṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>)
 
-[^69]: or “Giver of Boons” “Wish-Granter”. Reading *varadadaṃ* with BJTS (and PTS alt.) for PTS *varadaŋ* (which could be taken, however, as the same thing)
+[^69]: or “Giver of Boons” “Wish-Granter”. Reading *varadadaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *varadaŋ* (which could be taken, however, as the same thing)
 
 [^70]: *mahāhitaŋ*
 
@@ -647,4 +647,4 @@ The legend of Khemā Therī is finished.
 
 [^81]: see DPPN I:1039, a locality in Kosala, between Śrāvasti and Sāketa. King Pasenadi once stopped there to visit Khemā, who lived there (S. iv. 374)
 
-[^82]: reading *yathātathaṃ* with BJTS (and PTS alt.) for PTS *yathākathaŋ*, “according to what was said”
+[^82]: reading *yathātathaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *yathākathaŋ*, “according to what was said”

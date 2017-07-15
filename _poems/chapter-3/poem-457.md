@@ -71,7 +71,7 @@ Thus indeed Venerable Ekachattiya Thera spoke these verses.
 
 The legend of Ekachattiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “One Umbrella-er.” \#409 {412} above is the *apadāna* of a monk bearing this same name.
 
@@ -79,9 +79,9 @@ The legend of Ekachattiya Thera is finished.
 
 [^4]: *mahāvātā*
 
-[^5]: reading *sarirāsukhepanā* with BJTS (and PTS alt.,; see Cone, asu-1, s.v. for a discussion of this very passage, reading *sarirassa-asu-khepana*) for PTS *sarirass’ ānukhepanā*
+[^5]: reading *sarirāsukhepanā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.,; see Cone, asu-1, s.v. for a discussion of this very passage, reading *sarirassa-asu-khepana*) for <abbr title="Pali Text Society">PTS</abbr> *sarirass’ ānukhepanā*
 
-[^6]: reading *vihanantaṃ* with BJTS for PTS *viharanti* (“they are dwelling”)
+[^6]: reading *vihanantaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *viharanti* (“they are dwelling”)
 
 [^7]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
 

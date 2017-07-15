@@ -157,11 +157,11 @@ Thus indeed Venerable Ñāṇatthavika Thera spoke these verses.
 
 The legend of Ñāṇatthavika Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Knowledge-Praiser”
 
-[^3]: reading *anvesanto ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyaṃ* with BJTS for PTS *anomasanto <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyaŋ* (“being perfect \[in my\] wanderings”)
+[^3]: reading *anvesanto ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *anomasanto <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyaŋ* (“being perfect \[in my\] wanderings”)
 
 [^4]: lit., “the Sambuddha”
 
@@ -173,7 +173,7 @@ The legend of Ñāṇatthavika Thera is finished.
 
 [^8]: lit., “the Blessed One”
 
-[^9]: *jinsāsanaŋ*, lit., “the Victor's dispensation*.”* BJTS (and PTS alt.) offer an alternative reading: *jitasāgaraṃ* (PTS alt. is apparently read as *jina°*), “He by Whom the Ocean is Conquered” (or “Ocean of the Victor”). BJTS Sinh. gloss explains its reading as “the one who had conquered his senses, who was an ocean of virtue.
+[^9]: *jinsāsanaŋ*, lit., “the Victor's dispensation*.”* <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) offer an alternative reading: *jitasāgaraṃ* (<abbr title="Pali Text Society">PTS</abbr> alt. is apparently read as *jina°*), “He by Whom the Ocean is Conquered” (or “Ocean of the Victor”). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss explains its reading as “the one who had conquered his senses, who was an ocean of virtue.
 
 [^10]: or “lamp,” *dīpo*
 

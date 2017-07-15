@@ -46,7 +46,7 @@ Thus indeed Venerable Gayā-Kassapa Thera spoke these verses.
 
 The legend of Gayā-Kassapa Thera, the third.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Kassapa from Gayā,” a historical monk, brother of Uruvela-Kassapa and Nadīkassapa (see v. 36-38 of Uruvela-Kassapa’s *apadāna*, \[5946\]-\[5948\], above); cf. DPPN I: 753. This same *apadāna*, with minor changes to the second foot of the first verse (where he is made to wear a shoulder-yoke \[above he is made to wear robes of bark\]) and the first foot of the second verse (which names the Buddha as Sikhi, here unnamed), appears above as \#439 {442}. There it is ascribed to a monk named Kaladāyaka, “Jujube Donor”.
 

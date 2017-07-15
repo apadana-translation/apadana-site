@@ -64,11 +64,11 @@ The legend of Kusumāsaniya Thera is finished.
 
 [^2]: *keṭubha* = “poetical fiction”
 
-[^3]: reading *pīṭhiyaṃ* (BJTS) for *piṭṭhiyaŋ* (“on \[my\] back,” PTS).
+[^3]: reading *pīṭhiyaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *piṭṭhiyaŋ* (“on \[my\] back,” <abbr title="Pali Text Society">PTS</abbr>).
 
 [^4]: lit., “in association with \[my\] mother and father”
 
-[^5]: reading *abhinesiṃ* (BJTS, PTS alt) for *atinesiŋ* (PTS)
+[^5]: reading *abhinesiṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *atinesiŋ* (<abbr title="Pali Text Society">PTS</abbr>)
 
 [^6]: lit., “discerning the time when he became one who had eaten”
 

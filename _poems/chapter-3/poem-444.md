@@ -55,7 +55,7 @@ Thus indeed Venerable Bhallāṭakadāyaka Thera spoke these verses.
 
 The legend of Bhallāṭakadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Markingnut Fruit-er”
 
@@ -63,7 +63,7 @@ The legend of Bhallāṭakadāyaka Thera is finished.
 
 [^4]: lit., “going”
 
-[^5]: *pavana°*. Despite RD’s qualms (*pavana*, s.v.) I follow the tradition in reading this as “forest, woods” rather than “the side of a mountain.” Note BJTS alt. *vipina°*.
+[^5]: *pavana°*. Despite RD’s qualms (*pavana*, s.v.) I follow the tradition in reading this as “forest, woods” rather than “the side of a mountain.” Note <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. *vipina°*.
 
 [^6]: *paṇṇasanthare*, presumably the “rug made of grass” mentioned in v. 2
 

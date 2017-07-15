@@ -182,7 +182,7 @@ Thus indeed Venerable Su<span class="diacritics" data-state="on">c</span><span c
 
 The legend of Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Well-Thought-Out.” \#66 and \#92 are *apadānas* of apparently different monks bearing this name.
 
@@ -194,21 +194,21 @@ The legend of Su<span class="diacritics" data-state="on">c</span><span class="no
 
 [^6]: *asamasamo*
 
-[^7]: *pabhāvita*, BJTS gloss *prabhūta*, lit., “become” “produced” “increased” “furthered”
+[^7]: *pabhāvita*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *prabhūta*, lit., “become” “produced” “increased” “furthered”
 
-[^8]: *navasassaŋ pure pure*, BJTS Sinh. gloss *paḷamu paḷamu…navaśasyadānaya*,” “a donation of the new crop, the first the first \[fruits\]”
+[^8]: *navasassaŋ pure pure*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *paḷamu paḷamu…navaśasyadānaya*,” “a donation of the new crop, the first the first \[fruits\]”
 
 [^9]: *haṭṭho pīṇitamānaso*
 
-[^10]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^10]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
-[^11]: reading *tvaṃ* with BJTS (and PTS alt.) for PTS *taŋ*
+[^11]: reading *tvaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *taŋ*
 
-[^12]: *āyāgo*. The term can refer to the recipient of sacrificial gifts, or to the gifts themselves. PTS seems to assume the latter meaning in reading *taŋ* for *tvaṃ*
+[^12]: *āyāgo*. The term can refer to the recipient of sacrificial gifts, or to the gifts themselves. <abbr title="Pali Text Society">PTS</abbr> seems to assume the latter meaning in reading *taŋ* for *tvaṃ*
 
-[^13]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhuma* (voc.) with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhumā* (nom.)
+[^13]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhuma* (voc.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhumā* (nom.)
 
-[^14]: BJTS glosses “stream-enterers, etc.,” that is, the four who have entered the path and are established in its fruit are stream-enterers, once-returners, non-returners and arahants.
+[^14]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses “stream-enterers, etc.,” that is, the four who have entered the path and are established in its fruit are stream-enterers, once-returners, non-returners and arahants.
 
 [^15]: or “sacrifices,” *yajantānaŋ manussānaŋ*
 
@@ -216,11 +216,11 @@ The legend of Su<span class="diacritics" data-state="on">c</span><span class="no
 
 [^17]: lit., “for this assembly of monks,” *tasmin saṅghe*
 
-[^18]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^18]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
 [^19]: i.e., in the Tāvatiṃsa heaven
 
-[^20]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^20]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
 [^21]: *koseyya*
 
@@ -228,13 +228,13 @@ The legend of Su<span class="diacritics" data-state="on">c</span><span class="no
 
 [^23]: *kappāsika*
 
-[^24]: reading *dukkhaṃ* with BJTS for PTS *dukkaŋ*, an obvious typographical error
+[^24]: reading *dukkhaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dukkaŋ*, an obvious typographical error
 
 [^25]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
 
-[^26]: reading *deyyadhammo…phalaṃ* with BJTS for PTS *deyyadhamme…phalaŋ* (“the fruit in \[= of?\] my donation”)
+[^26]: reading *deyyadhammo…phalaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *deyyadhamme…phalaŋ* (“the fruit in \[= of?\] my donation”)
 
-[^27]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
+[^27]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇavaruttame*, “supreme splendid group”
 
 [^28]: *aṭṭhānisaŋse*. I count the eight here as (1) being handsome, (2) be famous, (3) being wealthy, (4) being free from harm, (5) always being in the majority, (6) having a united retinue, (7) respected by everyone, (8) always being the first to receive gifts
 
@@ -248,4 +248,4 @@ The legend of Su<span class="diacritics" data-state="on">c</span><span class="no
 
 [^33]: *bhikkhusaṅghassa…majjhe*
 
-[^34]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
+[^34]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇavaruttame*, “supreme splendid group”

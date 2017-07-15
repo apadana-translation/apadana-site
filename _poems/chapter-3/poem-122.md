@@ -96,19 +96,19 @@ The legend of Pupphathūpiya Thera is finished.
 
 [^3]: perhaps fr. *lambati*, to hand down, “Pendulous”. \#1, \#345{348} also take place on this mountain.
 
-[^4]: lit., “you \[plural\] should know the fact through us that”. I follow the BJTS Sinhala gloss in taking this as a statement made by the students to the teacher (i.e., the rebirth precursor of the arahant). The second person plural imperative is used as a form of respectful address, so the sense is less direct than the command appears in English. The Sinhala gloss reads, “it would be good if you were to gain understanding from our words that…”
+[^4]: lit., “you \[plural\] should know the fact through us that”. I follow the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss in taking this as a statement made by the students to the teacher (i.e., the rebirth precursor of the arahant). The second person plural imperative is used as a form of respectful address, so the sense is less direct than the command appears in English. The Sinhala gloss reads, “it would be good if you were to gain understanding from our words that…”
 
-[^5]: PTS and BJTS agree in presenting this as a six-footed verse
+[^5]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse
 
-[^6]: PTS and BJTS agree in presenting this as a six-footed verse
+[^6]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse
 
-[^7]: reading *tāhaṃ disaṃ namassissaṃ* (BJTS) for *na hi disvāna passissaŋ* (“not seeing I will look,” PTS).
+[^7]: reading *tāhaṃ disaṃ namassissaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *na hi disvāna passissaŋ* (“not seeing I will look,” <abbr title="Pali Text Society">PTS</abbr>).
 
-[^8]: BJTS reads this verb as *pūjesiṃ*, past tense “I did *pūjā,”* but here, given the context, I prefer the PTS reading *pūjessaŋ*, the future tense (sort of).
+[^8]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads this verb as *pūjesiṃ*, past tense “I did *pūjā,”* but here, given the context, I prefer the <abbr title="Pali Text Society">PTS</abbr> reading *pūjessaŋ*, the future tense (sort of).
 
 [^9]: lit., “the Victor’s dispensation”
 
-[^10]: reading *saka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aṃ* (BJTS) for *kukkuṭṭhaŋ* (PTS)
+[^10]: reading *saka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *kukkuṭṭhaŋ* (<abbr title="Pali Text Society">PTS</abbr>)
 
 [^11]: “Same as Fire”
 

@@ -269,25 +269,25 @@ plus eighty-three beyond that \[count\].
 
 The Metteyya Chapter, the Forty-First
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Coming Up” (?)
 
 [^3]: “Pink Lotus”
 
-[^4]: read *pāṭhīna*, Silurus Boalis, “a kind of shad” (RD); wikipedia gives “sheatfish,” related to catfish, includes all the siluridae. BJTS glosses *peṭiyō*
+[^4]: read *pāṭhīna*, Silurus Boalis, “a kind of shad” (RD); wikipedia gives “sheatfish,” related to catfish, includes all the siluridae. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *peṭiyō*
 
-[^5]: *pāvusa*, glossed as “large-mouth fish”, cf. *pāgusa*, *patusa*, BJTS glosses *lūllu*
+[^5]: *pāvusa*, glossed as “large-mouth fish”, cf. *pāgusa*, *patusa*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *lūllu*
 
-[^6]: reading *valajā* with BJTS, which treats it as a type of fish (Sinh. *valayō*), for PTS *jalajā*, lit., “water-born”, a generic word for “fish”.
+[^6]: reading *valajā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, which treats it as a type of fish (Sinh. *valayō*), for <abbr title="Pali Text Society">PTS</abbr> *jalajā*, lit., “water-born”, a generic word for “fish”.
 
-[^7]: *muñja*, more common as a kind of reed, also the name of a fish (BJTS glosses *moddu*), always in *dvandva* compound with *rohita*, “red-fish”
+[^7]: *muñja*, more common as a kind of reed, also the name of a fish (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *moddu*), always in *dvandva* compound with *rohita*, “red-fish”
 
-[^8]: *rohita*, BJTS glosses *reheru*
+[^8]: *rohita*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *reheru*
 
-[^9]: reading *sobhentā* with BJTS for PTS *sobhanti* (“they are beautifying”)
+[^9]: reading *sobhentā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sobhanti* (“they are beautifying”)
 
-[^10]: *vahanti* (“proceeding,” “carrying \[them in the current\],” PTS alt. is savanti (“flowing”)
+[^10]: *vahanti* (“proceeding,” “carrying \[them in the current\],” <abbr title="Pali Text Society">PTS</abbr> alt. is savanti (“flowing”)
 
 [^11]: *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hannā*, lit., “covered;” the f. pl. presumably fixes these as modifiers of “the rivers,” the unspecified “they” which is the subject of the first foot.
 
@@ -297,33 +297,33 @@ The Metteyya Chapter, the Forty-First
 
 [^14]: a small tree, Crataeva Roxburghii (*Cappar.*), Sinh. *luṇuvaraṇa*
 
-[^15]: *tilaka*, BJTS glosses as *madaṭa* cf. botanical dictionary = *madaṭiya*, a tree which yields false yellow sandalwood, and seeds that are used as beads and a jeweler’s weight of about 1.25 troy ounce, *adenanthera pavonina*, coral bean tree a.k.a. Saga, Sagaseed tree, Red-bead tree, kolkriki
+[^15]: *tilaka*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses as *madaṭa* cf. botanical dictionary = *madaṭiya*, a tree which yields false yellow sandalwood, and seeds that are used as beads and a jeweler’s weight of about 1.25 troy ounce, *adenanthera pavonina*, coral bean tree a.k.a. Saga, Sagaseed tree, Red-bead tree, kolkriki
 
 [^16]: *uddālaka* = Cassia fistula, Sinh. *äsaḷa*
 
 [^17]: *pāṭali* is Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
 
-[^18]: reading *aṅkolaka* with BJTS (and PTS alt.) for PTS *Ākolakā*. The plant in question is alangium hexapetalum, a.k.a. sage-leaved alangium, Sinh. *rukaṅguna*
+[^18]: reading *aṅkolaka* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *Ākolakā*. The plant in question is alangium hexapetalum, a.k.a. sage-leaved alangium, Sinh. *rukaṅguna*
 
 [^19]: *bimbijāla*, the Bodhi tree of the previous Buddha, Dhammadassi Buddha, Sinh. *rat karavū*, momordica monadelpha
 
-[^20]: this is the BJTS spelling, PTS reads *māyā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā*. Cf. *māyākāra*, “magician, conjuror”?
+[^20]: this is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling, <abbr title="Pali Text Society">PTS</abbr> reads *māyā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā*. Cf. *māyākāra*, “magician, conjuror”?
 
-[^21]: *atimuttaka*. RD: a plant, Gaertnera Racemosa = Hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. BJTS glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba*, an annual creeper, Trichodesma zeylanicum).
+[^21]: *atimuttaka*. RD: a plant, Gaertnera Racemosa = Hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba*, an annual creeper, Trichodesma zeylanicum).
 
-[^22]: BJTS glosses as *satpeti däsaman* = “hundred-petaled” *saman pi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a mal*, a fragrant species of jasmine, Jasminum sambac. Note that at \[3432\] BJTS says *vassika* is (regular) *däsaman*.
+[^22]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses as *satpeti däsaman* = “hundred-petaled” *saman pi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a mal*, a fragrant species of jasmine, Jasminum sambac. Note that at \[3432\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> says *vassika* is (regular) *däsaman*.
 
 [^23]: *nāgā*
 
 [^24]: *sāla*, shorea robusta
 
-[^25]: PTS *kosumbhā*, BJTS *kosambā*, also spelt *kosambhā*, - Sinh. *kohomba*, neem or margosa tree, Azadirachta indica
+[^25]: <abbr title="Pali Text Society">PTS</abbr> *kosumbhā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *kosambā*, also spelt *kosambhā*, - Sinh. *kohomba*, neem or margosa tree, Azadirachta indica
 
-[^26]: PTS *salaḷā*, BJTS *salalā*, BJTS Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus *(Dipterocarp*.)” (Bot. dict.)
+[^26]: <abbr title="Pali Text Society">PTS</abbr> *salaḷā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *salalā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus *(Dipterocarp*.)” (Bot. dict.)
 
 [^27]: *nīpa* = Sinhala *kolom*, *nauclea orientalis*; also called Leichhardt tree
 
-[^28]: “eight-limbed,” BJTS takes this as the name of another type of tree, rather than an adjective
+[^28]: “eight-limbed,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> takes this as the name of another type of tree, rather than an adjective
 
 [^29]: *harītakā*, Sinh. *araḷu*, myrobalan, black- or chebulic myrobalan; Terminalia chebula.
 
@@ -345,7 +345,7 @@ The Metteyya Chapter, the Forty-First
 
 [^38]: “round-mass Asoka” (?)
 
-[^39]: this reading follows BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vārī* (alt. *°bari*) but cf. *setavārī* at v. \[4011\], above.
+[^39]: this reading follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vārī* (alt. *°bari*) but cf. *setavārī* at v. \[4011\], above.
 
 [^40]: *nīpa* = Sinhala *kolom*, *nauclea orientalis*; also called Leichhardt tree
 
@@ -359,25 +359,25 @@ The Metteyya Chapter, the Forty-First
 
 [^45]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>amparukkh’ ettha*. The *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampa* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
-[^46]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā*, BJTS Sinh. gloss *sakvālihiṇiyō* = *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akravākayā*, an aquatic bird, brahminy goose, brahmany kite, haliastur indus
+[^46]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *sakvālihiṇiyō* = *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akravākayā*, an aquatic bird, brahminy goose, brahmany kite, haliastur indus
 
-[^47]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here (and at \[4233\], \[4313\]) BJTS glosses *helmällen nohot diyakandarayen*, “if not *helmälla* then *diyakandara*.” *Heḷmäli* = edible white water-lily, Nymphaea Lotus. I don’t find *diyakandaraya* in the dictionaries. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*. At \[4313\], \[6332\] BJTS gloss is likewise *helmällen* (= *heḷmäli*)
+[^47]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here (and at \[4233\], \[4313\]) <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *helmällen nohot diyakandarayen*, “if not *helmälla* then *diyakandara*.” *Heḷmäli* = edible white water-lily, Nymphaea Lotus. I don’t find *diyakandaraya* in the dictionaries. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*. At \[4313\], \[6332\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss is likewise *helmällen* (= *heḷmäli*)
 
-[^48]: reading *padumuppalakehi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with BJTS for PTS *padumapphalakehi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and with pink lotuses and fruit” or “and with pink lotus fruits”.
+[^48]: reading *padumuppalakehi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *padumapphalakehi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and with pink lotuses and fruit” or “and with pink lotus fruits”.
 
-[^49]: *supatitthā*, following BJTS gloss here (elsewhere “good banks”). Should I do the same elsewhere?
+[^49]: *supatitthā*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss here (elsewhere “good banks”). Should I do the same elsewhere?
 
-[^50]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here BJTS Sinh. gloss suggests *helmäliyen* = *heḷmäli*, also the (or a) gloss at \[4231\], \[4313\], \[6332\] = edible white water-lily, Nymphaea Lotus. But elsewhere BJTS gives different glosses: at \[4007\] BJTS glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. BJTS gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] BJTS Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
+[^50]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss suggests *helmäliyen* = *heḷmäli*, also the (or a) gloss at \[4231\], \[4313\], \[6332\] = edible white water-lily, Nymphaea Lotus. But elsewhere <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gives different glosses: at \[4007\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
 
-[^51]: read *pāṭhīna*, Silurus Boalis, “a kind of shad” (RD); wikipedia gives “sheatfish,” related to catfish, includes all the siluridae. BJTS glosses *peṭiyō*
+[^51]: read *pāṭhīna*, Silurus Boalis, “a kind of shad” (RD); wikipedia gives “sheatfish,” related to catfish, includes all the siluridae. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *peṭiyō*
 
-[^52]: *pāvusa*, glossed as “large-mouth fish”, cf. *pāgusa*, *patusa*, BJTS glosses *lūllu*
+[^52]: *pāvusa*, glossed as “large-mouth fish”, cf. *pāgusa*, *patusa*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *lūllu*
 
-[^53]: reading *valajā* with BJTS, which treats it as a type of fish (Sinh. *valayō*), for PTS *jalajā*, lit., “water-born”, a generic word for “fish”.
+[^53]: reading *valajā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, which treats it as a type of fish (Sinh. *valayō*), for <abbr title="Pali Text Society">PTS</abbr> *jalajā*, lit., “water-born”, a generic word for “fish”.
 
-[^54]: *muñja*, more common as a kind of reed, also the name of a fish (BJTS glosses *moddu*), always in *dvandva* compound with *rohita*, “red-fish”
+[^54]: *muñja*, more common as a kind of reed, also the name of a fish (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *moddu*), always in *dvandva* compound with *rohita*, “red-fish”
 
-[^55]: *rohita*, BJTS glosses *reheru*
+[^55]: *rohita*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *reheru*
 
 [^56]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arantā*, moving around, traveling about
 
@@ -387,7 +387,7 @@ The Metteyya Chapter, the Forty-First
 
 [^59]: *suṃsumārā*, lit., “child-killing,” is actually a different sort of crocodile, but to avoid the inevitable redundancy in English I have chosen to translate the term “alligator,” a species not actually found in this region.
 
-[^60]: *gahā*, lit., “seizers.” BJTS glosses this above (at \[4011\]) as a third type of crocodile (*gäṭa-kimbulō*), underlining (as does my translation here) the main point that fierce water-beasts are born there.
+[^60]: *gahā*, lit., “seizers.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses this above (at \[4011\]) as a third type of crocodile (*gäṭa-kimbulō*), underlining (as does my translation here) the main point that fierce water-beasts are born there.
 
 [^61]: o*guhā*, fr. *ogāhati*, *ogāhana*, plunging? = watersnakes?
 
@@ -397,11 +397,11 @@ The Metteyya Chapter, the Forty-First
 
 [^64]: *ravihaŋsā*
 
-[^65]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā*, BJTS Sinh. gloss *sakvālihiṇiyō* = *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akravākayā*, an aquatic bird, brahminy goose, btahmany kite, haliastur indus
+[^65]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *sakvālihiṇiyō* = *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akravākayā*, an aquatic bird, brahminy goose, btahmany kite, haliastur indus
 
 [^66]: *dindibhā*, Sinh. gloss *kirallu*, *kiraḷā* = red-wattled or yellow-wattled lapwing. PSI dictionary gives “bluejay”
 
-[^67]: reading *°sālikā* with BJTS for PTS *°sāḷi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*. *Sāḷlka* (Skt. *śārika*) = Sinh. *säḷalihiṇiyō*, Indian mynah birds (Hindi *maina*, Skt. *madana*)
+[^67]: reading *°sālikā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *°sāḷi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*. *Sāḷlka* (Skt. *śārika*) = Sinh. *säḷalihiṇiyō*, Indian mynah birds (Hindi *maina*, Skt. *madana*)
 
 [^68]: *ketaka*, Pandanus odoratissima, Sinhala *väṭakē* or *väṭakeyiyā*.
 
@@ -409,23 +409,23 @@ The Metteyya Chapter, the Forty-First
 
 [^70]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^71]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara bāna valasā*, s.v.)
+[^71]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara bāna valasā*, s.v.)
 
-[^72]: *jaṭābhārabharitā* (PTS), *jaṭābhārena bharitā* (BJTS)
+[^72]: *jaṭābhārabharitā* (<abbr title="Pali Text Society">PTS</abbr>), *jaṭābhārena bharitā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>)
 
 [^73]: that is, ascetics, who carry around all their possessions, limited to the basic necessities they require. Cty: *khāribhāran ti : udañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anakamaṇḍalu-ādikam tāpasaparikkharabhāram*.
 
-[^74]: *khāribhāriŋ* (BJTS reads *khāribhāraṃ*) *gahetvāna*. These are specified as ascetics who carry all their requisites, which are few, on their persons.
+[^74]: *khāribhāriŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *khāribhāraṃ*) *gahetvāna*. These are specified as ascetics who carry all their requisites, which are few, on their persons.
 
-[^75]: in this verse BJTS reads *sadā* (“always” “all the time”) for PTS *tadā*, “then,” but agrees with the latter in subsequent repetitions of this foot.
+[^75]: in this verse <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *sadā* (“always” “all the time”) for <abbr title="Pali Text Society">PTS</abbr> *tadā*, “then,” but agrees with the latter in subsequent repetitions of this foot.
 
 [^76]: *sabbesam anubhāvena*, lit., “through the majestic (or even magical) powers of all of them.” The point here is that their power is so great that they do not need to perform mundane chores; those chores perform themselves, as it were.
 
 [^77]: *jhāyino*
 
-[^78]: or “exhorting,” “questioning,” “criticizing,” “reprimanding,” “accusing,” reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>odentā* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>odito*, “reproved” (etc.)
+[^78]: or “exhorting,” “questioning,” “criticizing,” “reprimanding,” “accusing,” reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>odentā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>odito*, “reproved” (etc.)
 
-[^79]: *appanā* \[BJTS reads *appaṇā*\] *vate*, Sinh. gloss *arpaṇāvratayehi yodunā vu*. *Appanā* is fixing the mind on its object (the *samādhis* or the Path), that conception itself, ecstasy. In Sinhala this implies “giving up,” “renunciation,” of other objects of thought
+[^79]: *appanā* \[<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *appaṇā*\] *vate*, Sinh. gloss *arpaṇāvratayehi yodunā vu*. *Appanā* is fixing the mind on its object (the *samādhis* or the Path), that conception itself, ecstasy. In Sinhala this implies “giving up,” “renunciation,” of other objects of thought
 
 [^80]: *ambarā +ava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*, lit., “\[people who are\] possessed of wandering in the sky”
 
@@ -435,17 +435,17 @@ The Metteyya Chapter, the Forty-First
 
 [^83]: *yakkho āsi mahiddhiko*, lit., “a spirit with great *iddhi*”
 
-[^84]: PTS *pasaŋsi*, BJTS *saṃsittha*, both past tense, 3rd singl. forms of verbs from the same root, with a similar range of meanings: praise, announce, commend
+[^84]: <abbr title="Pali Text Society">PTS</abbr> *pasaŋsi*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *saṃsittha*, both past tense, 3rd singl. forms of verbs from the same root, with a similar range of meanings: praise, announce, commend
 
 [^85]: i.e., Padumuttara
 
-[^86]: *mārisa*,BJTS glosses *nidukāneni* (“O one without suffering”)
+[^86]: *mārisa*,<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *nidukāneni* (“O one without suffering”)
 
-[^87]: though the meaning of both is about the same, there is considerable variation between the readings of the final foot in BJTS (*payirupāsaya mārisa*), which I follow, and PTS (*payirupāsassu tam muni*), which I find garbled.
+[^87]: though the meaning of both is about the same, there is considerable variation between the readings of the final foot in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (*payirupāsaya mārisa*), which I follow, and <abbr title="Pali Text Society">PTS</abbr> (*payirupāsassu tam muni*), which I find garbled.
 
 [^88]: *saṃsāmetvāna*, “smooth out,” “roll up \[one’s bed mat\]” “leave”
 
-[^89]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ele* (BJTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eḷe*) *va ḍayhamānamhi*, BJTS gloss, “like at the time when \[one’s\] clothes were burning.” This seems to be idiomatic, and to express haste, cf. “pants on fire”
+[^89]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ele* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eḷe*) *va ḍayhamānamhi*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss, “like at the time when \[one’s\] clothes were burning.” This seems to be idiomatic, and to express haste, cf. “pants on fire”
 
 [^90]: *ekarattiŋ vasitvā*, lit., “having dwelt \[out somewhere on the road\] for one night \[only\]”
 
@@ -465,7 +465,7 @@ The Metteyya Chapter, the Forty-First
 
 [^98]: *tava antogadhā va te*, or perhaps “they are all now under you” or “they’re all encompassed by you”
 
-[^99]: reading *sabbaññū* with BJTS for PTS *sapañño* (“the one who has wisdom”)
+[^99]: reading *sabbaññū* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sapañño* (“the one who has wisdom”)
 
 [^100]: *nirayaŋ*
 
@@ -473,4 +473,4 @@ The Metteyya Chapter, the Forty-First
 
 [^102]: lit., “did *pūjā*”
 
-[^103]: BJTS (and PTS alt.) read *Dhotaka*
+[^103]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) read *Dhotaka*

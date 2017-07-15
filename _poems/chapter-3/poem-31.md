@@ -93,13 +93,13 @@ Thus indeed Venerable Kuṇḍadhāna Thera spoke these verses.
 
 The Legend of Venerable Kuṇḍadhāna Thera is finished.
 
-[^1]: as v. \[1011\] below makes clear, this was not a good name. As given in the texts it would mean “Iguana-container” or “Pot-container”. One PTS alternative is “Kuṇḍadāno,” “Iguana-Giver” or “Pot-Giver”. The cty explains that his slur was to call a Thera a “Kuṇḍa” (or “Koṇḍa”), hence the name was fitting.
+[^1]: as v. \[1011\] below makes clear, this was not a good name. As given in the texts it would mean “Iguana-container” or “Pot-container”. One <abbr title="Pali Text Society">PTS</abbr> alternative is “Kuṇḍadāno,” “Iguana-Giver” or “Pot-Giver”. The cty explains that his slur was to call a Thera a “Kuṇḍa” (or “Koṇḍa”), hence the name was fitting.
 
 [^2]: *yakkhā*
 
-[^3]: reading *pavivekaṃ* (BJTS) for *parivekhaŋ* (PTS)
+[^3]: reading *pavivekaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *parivekhaŋ* (<abbr title="Pali Text Society">PTS</abbr>)
 
-[^4]: BJTS treats *purakkhata* as *parivaraṇa laddā*, surrounded by, and the term certainly carries that connotation to the extent that “honoring” in this way requires such giving of preference (best or highest seat, for example). But the term’s meaning focuses on the honoring, not the surrounding, and so does my translation choice, to capitalize *bhikkhusaṅghapurakkhata* as an epithet rather than treat it as a description. The Buddha was virtually *always* surrounded by those who honored him, and the epithet calls that to mind, together with the connotations.
+[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> treats *purakkhata* as *parivaraṇa laddā*, surrounded by, and the term certainly carries that connotation to the extent that “honoring” in this way requires such giving of preference (best or highest seat, for example). But the term’s meaning focuses on the honoring, not the surrounding, and so does my translation choice, to capitalize *bhikkhusaṅghapurakkhata* as an epithet rather than treat it as a description. The Buddha was virtually *always* surrounded by those who honored him, and the epithet calls that to mind, together with the connotations.
 
 [^5]: lit. “the Victor”
 

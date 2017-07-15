@@ -147,11 +147,11 @@ Thus indeed Venerable Tiṇasūlakachādaniya[^29] Thera spoke these verses.
 
 The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Arabian-Jasmine-Flower-Coverer,“ BJTS reads *Tiṇasūlakachadaniya*, with the same meaning. DPPN I:1008 leaves *Tiṇasūla* untranslated; BJTS Sinhala gloss is *bōlidda*, Arabian Jasmine, a fragrant small white flower (*°idda*) which flowers in ball-like (*bōl°*) clusters.
+[^2]: “Arabian-Jasmine-Flower-Coverer,“ <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Tiṇasūlakachadaniya*, with the same meaning. DPPN I:1008 leaves *Tiṇasūla* untranslated; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss is *bōlidda*, Arabian Jasmine, a fragrant small white flower (*°idda*) which flowers in ball-like (*bōl°*) clusters.
 
-[^3]: *ekato* is the ablative form of *eka*, the number “one” which also functions as an indefinite article. I am reading it here as though it were *ekatta* (“alone”) following the BJTS Sinh. gloss (*ekalāva* = alone, singly) rather than, as is the more common Pāli usage, “together”.
+[^3]: *ekato* is the ablative form of *eka*, the number “one” which also functions as an indefinite article. I am reading it here as though it were *ekatta* (“alone”) following the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss (*ekalāva* = alone, singly) rather than, as is the more common Pāli usage, “together”.
 
 [^4]: *upāgamin*, “went up to” “approached”
 
@@ -167,7 +167,7 @@ The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
 [^10]: *kūjanti*
 
-[^11]: reading *ramamāno* with BJTS for PTS *ramamāṇo*
+[^11]: reading *ramamāno* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ramamāṇo*
 
 [^12]: I take the 3rd sing. *so* (and the declension of the verb, *gajji*, “it roared”) apposite “four kinds” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atukamo*), so translate in the plural even though the pronoun and verb are singular.
 
@@ -175,7 +175,7 @@ The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
 [^14]: lit., “did *pūjā*”
 
-[^15]: *nāgakesaraŋ*, BJTS gloss specifies that the meaning is “pollen of ironwood (*nā, nāga*) flowers.”
+[^15]: *nāgakesaraŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss specifies that the meaning is “pollen of ironwood (*nā, nāga*) flowers.”
 
 [^16]: *osadhī*. RD (s.v.) points out that all we really know about this star is that it was particularly bright, leading Childers to translate it as “Venus” and others as the morning star.
 
@@ -193,16 +193,16 @@ The legend of Tiṇasūlakachādaniya[^30] Thera is finished.
 
 [^23]: lit., “of”
 
-[^24]: reading *yadi* with BJTS for the second *ayaŋ* in PTS
+[^24]: reading *yadi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for the second *ayaŋ* in <abbr title="Pali Text Society">PTS</abbr>
 
 [^25]: lit., “meritorious”
 
-[^26]: reading *sadā* (“always” “all the time”) with BJTS for PTS *tadā* (“then”)
+[^26]: reading *sadā* (“always” “all the time”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tadā* (“then”)
 
 [^27]: or “residence”
 
 [^28]: or “free of the outflows,” “undefiled,” *anāsavo*
 
-[^29]: BJTS reads *Tiṇasūlakachadaniya*
+[^29]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Tiṇasūlakachadaniya*
 
-[^30]: BJTS reads *Tiṇasūlakachadaniya*
+[^30]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Tiṇasūlakachadaniya*

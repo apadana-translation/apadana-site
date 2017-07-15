@@ -40,7 +40,7 @@ The legend of Ālambanadāyaka Thera is finished.
 
 [^1]: “Donor of a Plank for Hanging \[Things On\]”
 
-[^2]: lit., “entering”. I follow the BJTS Sinhala gloss in this reading.
+[^2]: lit., “entering”. I follow the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss in this reading.
 
 [^3]: lit., carry on
 

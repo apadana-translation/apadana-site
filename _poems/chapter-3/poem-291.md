@@ -38,18 +38,18 @@ Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span cla
 
 The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka[^8] Thera is finished.
 
-[^1]: BJTS reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
+[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
 
-[^2]: “Pyre-Worshipper;” BJTS reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
+[^2]: “Pyre-Worshipper;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
 
 [^3]: “Unconquered”
 
 [^4]: lit., “desiring to sacrifice a fire sacrifice”: *āhutiŋ yiṭṭhukāma*
 
-[^5]: reading *disvā* with BJTS and PTS alternative for PTS *katvā*, “having made” or “making”
+[^5]: reading *disvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alternative for <abbr title="Pali Text Society">PTS</abbr> *katvā*, “having made” or “making”
 
 [^6]: “Well Lit Up” “Very Brilliant” “Hotly Burning”
 
-[^7]: BJTS reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
+[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
 
-[^8]: BJTS reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
+[^8]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°

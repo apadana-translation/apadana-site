@@ -69,4 +69,4 @@ The Sereyyaka Chapter, the Thirteenth.
 
 [^1]: “Pink Lotus-Offerer”
 
-[^2]: the BJTS Snhala gloss reads this phrase to mean that they were obedient (*kī karu*, i.e., did what they were told).
+[^2]: the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Snhala gloss reads this phrase to mean that they were obedient (*kī karu*, i.e., did what they were told).

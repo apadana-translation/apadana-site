@@ -94,7 +94,7 @@ are counted \[here\] by those who know.
 
 The Sālakusumiya Chapter, the Forty-Seventh
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Explanation of the Signs-er” or “Explanation of Omens-er”
 
@@ -102,7 +102,7 @@ The Sālakusumiya Chapter, the Forty-Seventh
 
 [^4]: *vedagū*, i.e., those who have the higher or highest knowledges (*veda*) *as opposed to* (acc. to RD) those who are masters of “the Vedas”. The protagonist, in this case, is both.
 
-[^5]: *chalaṅgaŋ*, lit., “the six branches.” RD: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.” BJTS understand this as an adjective modifying “\[reading\] marks,” i.e., “the six branches of the science (*śāstraya*) of marks,” but given the use of the term to refer to the six branches of Vedic science above (\[3605\] = Sela (\#389 {392}), v. 24,
+[^5]: *chalaṅgaŋ*, lit., “the six branches.” RD: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> understand this as an adjective modifying “\[reading\] marks,” i.e., “the six branches of the science (*śāstraya*) of marks,” but given the use of the term to refer to the six branches of Vedic science above (\[3605\] = Sela (\#389 {392}), v. 24,
 
 [^6]: *sakavijjāh’*
 
@@ -110,15 +110,15 @@ The Sālakusumiya Chapter, the Forty-Seventh
 
 [^8]: lit., “the Sambuddha”
 
-[^9]: *alatthiŋsu*, PTS alt. *aladdhiŋsu*, BJTS *alabhiṃsu* all to *labhati*
+[^9]: *alatthiŋsu*, <abbr title="Pali Text Society">PTS</abbr> alt. *aladdhiŋsu*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *alabhiṃsu* all to *labhati*
 
 [^10]: or “vision,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhuŋ*
 
 [^11]: the lit. meaning of the term used here for “earth,” *vasudhā*
 
-[^12]: reading *sabbākāraṃ* with BJTS (and PTS alt as *sabbakāraŋ*, sic) for PTS *chabbikāraŋ*, (“six circumstances”)
+[^12]: reading *sabbākāraṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt as *sabbakāraŋ*, sic) for <abbr title="Pali Text Society">PTS</abbr> *chabbikāraŋ*, (“six circumstances”)
 
-[^13]: PTS *samphassa*, BJTS *samphussa*, “touching on”
+[^13]: <abbr title="Pali Text Society">PTS</abbr> *samphassa*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *samphussa*, “touching on”
 
 [^14]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīle*: to practice restraint from taking life, taking what is not given, sexual misconduct, false speech and becoming careless through the use of alcohol.
 
@@ -128,8 +128,8 @@ The Sālakusumiya Chapter, the Forty-Seventh
 
 [^17]: *tuṭṭhahaṭṭhā āsiŋsu te*, lit., “they were all horripilating with delight”
 
-[^18]: reading *sālakusumiya thero* with BJTS; PTS gives *Sālapupphī <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a yo thero*
+[^18]: reading *sālakusumiya thero* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>; <abbr title="Pali Text Society">PTS</abbr> gives *Sālapupphī <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a yo thero*
 
-[^19]: PTS reads *Avaṭa*
+[^19]: <abbr title="Pali Text Society">PTS</abbr> reads *Avaṭa*
 
-[^20]: PTS reads *Pilakkhu*
+[^20]: <abbr title="Pali Text Society">PTS</abbr> reads *Pilakkhu*

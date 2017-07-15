@@ -150,13 +150,13 @@ The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="
 
 [^7]: “Five Lamps”
 
-[^8]: BJTS reads “sixty leagues in height” and “thirty leagues in width”. In the parallel text \#15, below, this is the reading of both PTS and BJTS, but here PTS gives “a hundred” and “sixty” so I have retained that difference in the translation.
+[^8]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “sixty leagues in height” and “thirty leagues in width”. In the parallel text \#15, below, this is the reading of both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, but here <abbr title="Pali Text Society">PTS</abbr> gives “a hundred” and “sixty” so I have retained that difference in the translation.
 
 [^9]: lit., “as far as \[its extent\]”.
 
-[^10]: reading *daṭṭhuṃ* (BJTS, PTS alt) for *dasuŋ* (PTS). PTS reads *daṭṭhuŋ* in the parallel text (\#15), below.
+[^10]: reading *daṭṭhuṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *dasuŋ* (<abbr title="Pali Text Society">PTS</abbr>). <abbr title="Pali Text Society">PTS</abbr> reads *daṭṭhuŋ* in the parallel text (\#15), below.
 
-[^11]: BJTS reads “good rebirths and bad rebirths”.
+[^11]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “good rebirths and bad rebirths”.
 
 [^12]: lit., “my eyes are not closing”
 

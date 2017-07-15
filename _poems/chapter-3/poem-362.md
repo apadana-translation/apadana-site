@@ -26,9 +26,9 @@ Thus indeed Venerable Kekkhārupupphiya Thera spoke these verses.
 
 The legend of Kekkhārupupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “*Kekkhāra* Flower-er.” Here the BJTS reading *Kakkāru°* is to be preferred. According to RD, *kakkāru* is the pumpkin gourd, Beninkasa Cerifera; BJTS glosses *käkiri mal*, “cucumber flowers.” *Kakkāru* is also the name of a heavenly flower, which given the context is probably the intention here. As a result I leave the term untranslated, and given that, have retained the PTS (mis)spelling of the term.
+[^2]: “*Kekkhāra* Flower-er.” Here the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading *Kakkāru°* is to be preferred. According to RD, *kakkāru* is the pumpkin gourd, Beninkasa Cerifera; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *käkiri mal*, “cucumber flowers.” *Kakkāru* is also the name of a heavenly flower, which given the context is probably the intention here. As a result I leave the term untranslated, and given that, have retained the <abbr title="Pali Text Society">PTS</abbr> (mis)spelling of the term.
 
 [^3]: *yāmā devā*, a class of deities, perhaps derived from God Yama (the Lord of the Dead).
 

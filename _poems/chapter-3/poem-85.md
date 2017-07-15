@@ -36,6 +36,6 @@ Thus indeed Venerable Raṃsisaññaka Thera spoke these verses.
 
 The legend of Raṃsisaññaka Thera is finished.
 
-[^1]: “Ray-Perceiver,” PTS reads Raŋsi°
+[^1]: “Ray-Perceiver,” <abbr title="Pali Text Society">PTS</abbr> reads Raŋsi°
 
-[^2]: reading *ajinuttaravāso* with BJTS for PTS *ajinuttamavattho* (“dressed in ultimate deer-leather \[clothes\]”
+[^2]: reading *ajinuttaravāso* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ajinuttamavattho* (“dressed in ultimate deer-leather \[clothes\]”

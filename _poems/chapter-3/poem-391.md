@@ -1088,17 +1088,17 @@ Thus indeed Venerable Pilindava<span class="diacritics" data-state="on">c</span>
 
 The legend of Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha[^595] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: cf. \#15, and note, above. BJTS spells the name *Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha*. He seems to have been a historical monk, much-mentioned in the canon and commentaries. “Pilinda” was his given name, “Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha” refers to his *gotta* (lineage).
+[^2]: cf. \#15, and note, above. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spells the name *Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha*. He seems to have been a historical monk, much-mentioned in the canon and commentaries. “Pilinda” was his given name, “Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha” refers to his *gotta* (lineage).
 
 [^3]: *dovārika* fr. *dvāra*. Cty (p. 480) explains that he was a very rich man (*mahaddhano mahābhogo)* born in a gate-keepers’ clan (*dovārikakule nibbatto*), which might imply that he himself was not engaged in such labor (the term can also mean “janitor). Later however (p. 481) Cty stipulates that he himself was the keeper/protector of the king’s gate (*rañño gehadvāre dvārapālako*), perhaps suggesting that this was a position of some status.
 
-[^4]: *akkhobhaŋ*, lit., “unshaken,” “unperturbed.” BJTS gloss gives *niravul*, unadulterated, unconfused, untroubled, clear. Cty explains that his wealth was such that “it was not able to be disturbed, scattered, by the king nor by the other favorites \[of his\]”
+[^4]: *akkhobhaŋ*, lit., “unshaken,” “unperturbed.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss gives *niravul*, unadulterated, unconfused, untroubled, clear. Cty explains that his wealth was such that “it was not able to be disturbed, scattered, by the king nor by the other favorites \[of his\]”
 
 [^5]: “Joy”
 
-[^6]: BJTS gloss understands this to mean that the king invited the protagonist to come and join in his almsgiving to the Buddha’s foremost monks. But that is not specified in the text. I understand being invited by the king himself to be a more general indication of his high status, paralleling his possession of wealth and of an opulent harem.
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss understands this to mean that the king invited the protagonist to come and join in his almsgiving to the Buddha’s foremost monks. But that is not specified in the text. I understand being invited by the king himself to be a more general indication of his high status, paralleling his possession of wealth and of an opulent harem.
 
 [^7]: *adhi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>uppattiko*, “the Spontaneously Produced One”
 
@@ -1106,19 +1106,19 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^9]: *dānaŋ*
 
-[^10]: reading *Padumena* with BJTS and PTS alt. for PTS *Padume*. The term means “Lotus” and in the PTS reading would agree with “Victor,” also a distinct possibility given that the Buddha in question was Padumuttara, “Supreme Lotus”
+[^10]: reading *Padumena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt. for <abbr title="Pali Text Society">PTS</abbr> *Padume*. The term means “Lotus” and in the <abbr title="Pali Text Society">PTS</abbr> reading would agree with “Victor,” also a distinct possibility given that the Buddha in question was Padumuttara, “Supreme Lotus”
 
 [^11]: *hatthināge* = “Nāga elephants,” implying elephants which are particularly strong or stately
 
 [^12]: *anappakaŋ*, lit., “not tifling,” “not diminutive.” The implication seems to be that the supports were large, strong, steady, etc., as one would want for elephants and regal palanquins.
 
-[^13]: I followed JPTS in reading *apassenañ* for PTS *appassenañ* (“little armies”). BJTS glosses “boards/plants for holding in place”
+[^13]: I followed J<abbr title="Pali Text Society">PTS</abbr> in reading *apassenañ* for <abbr title="Pali Text Society">PTS</abbr> *appassenañ* (“little armies”). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses “boards/plants for holding in place”
 
 [^14]: *dāna*
 
 [^15]: *saṅgha*
 
-[^16]: *guṇavaruttama*. JPTS reads here and below *gaṇa°*, “the supremely splendid group”
+[^16]: *guṇavaruttama*. J<abbr title="Pali Text Society">PTS</abbr> reads here and below *gaṇa°*, “the supremely splendid group”
 
 [^17]: *ādikammika*, lit., “beginning-maker.” *Dāna* to the *saṅgha* regularly — and especially in this context — involves enormous expenditures of energy by numerous individuals; the sense here seems to be that the protagonist organizes, oversees and funds the donation.
 
@@ -1132,7 +1132,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^22]: *parikkhāra-dānaŋ*, Sinh. *pirikara dānaya*, i.e., a gift of the “requisites” or *parikkhāra*\s of Buddhist monks and nuns, which are variously enumerated (often in an idealized list of eight) and may include the three monastic robes, begging bowl, razor, needle, small knives, girdle, water-strainer, umbrellas, sandals, and so forth.
 
-[^23]: reading *parikkhārāni* with BJTS and PTS alt. for PTS *parikkhārāna*, “of the requisites”
+[^23]: reading *parikkhārāni* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt. for <abbr title="Pali Text Society">PTS</abbr> *parikkhārāna*, “of the requisites”
 
 [^24]: here as above, *guṇavaruttama*, hence lit., “monks of supremely splendid virtue.” I leave *uttama* untranslated in this case, to keep the meter.
 
@@ -1144,7 +1144,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^28]: *tāvade*, lit., “for all times”
 
-[^29]: PTS reading here is corrupt, eliding four feet from two verses which confounds the formatting into verses. Here and in the following I take BJTS’ much preferable reading as my standard, but use the a-b-c-d convention to indicate where the different feet correspond to the PTS numbering of the verses.
+[^29]: <abbr title="Pali Text Society">PTS</abbr> reading here is corrupt, eliding four feet from two verses which confounds the formatting into verses. Here and in the following I take <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>’ much preferable reading as my standard, but use the a-b-c-d convention to indicate where the different feet correspond to the <abbr title="Pali Text Society">PTS</abbr> numbering of the verses.
 
 [^30]: *vāsiyo*
 
@@ -1168,13 +1168,13 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^40]: *sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ighare*
 
-[^41]: reading *aṃsabandhe* with JPTS and PTS alt for PTS *aŋsabaddhe* (*baddha* = lucky, arrow or bull)
+[^41]: reading *aṃsabandhe* with J<abbr title="Pali Text Society">PTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt for <abbr title="Pali Text Society">PTS</abbr> *aŋsabaddhe* (*baddha* = lucky, arrow or bull)
 
 [^42]: *kāyabandhane*
 
 [^43]: *ādhārake*, also stand, pulpit, desk
 
-[^44]: *va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*. RD “a kind of root Vin i.201=iv.35” BJTS gives *vadakasā* which is sweet-flag or orris root, Acorus Calamus (*Araceae*), Sinh. also *vadakaha*.
+[^44]: *va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*. RD “a kind of root Vin i.201=iv.35” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gives *vadakasā* which is sweet-flag or orris root, Acorus Calamus (*Araceae*), Sinh. also *vadakaha*.
 
 [^45]: RD “the fragrant root of Andropogon Muricatum (cp. bīraṇa).” Sinh. *sävänna*, “cuscus grass”
 
@@ -1198,7 +1198,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^55]: *osadha*, “medicinal ingredients, both fresh and dried medicinal herbs and plants
 
-[^56]: reading *osadhañjananāḷī* with BJTS for PTS *osadhaŋ jananāliŋ*
+[^56]: reading *osadhañjananāḷī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *osadhaŋ jananāliŋ*
 
 [^57]: or “surgical instruments”? *Salākā* can also mean an arrow or dart, a peg, a blade of grass, the ribs of a parasol, a pencil or small stick for painting the eyes with collyrium (= *añjana* as in the previous foot), a kind of needle, a metal gong, the membrum virile or a ticket consisting of slips of wood, used in monastic voting. The chosen reading is consistent with the other medical terms in this verse.
 
@@ -1220,7 +1220,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^66]: *saṇḍāse*
 
-[^67]: *pipphala*, taking this as a shortened form of *pipphalaka*, see RD s.v. The term more commonly refers to the fruit of the ficus religiosa (Bodhi Tree of Gotama Buddha). BJTS glosses the term as “scissors” (*katuru*)
+[^67]: *pipphala*, taking this as a shortened form of *pipphalaka*, see RD s.v. The term more commonly refers to the fruit of the ficus religiosa (Bodhi Tree of Gotama Buddha). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses the term as “scissors” (*katuru*)
 
 [^68]: *°thavike*
 
@@ -1244,13 +1244,13 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^78]: or beeswax: *madhu-sitthe*
 
-[^79]: *telahatthappatāpakaŋ*, BJTS reads *telaṃ hatthappatāpakaṃ* which amounts to the same thing, a little more cleanly.
+[^79]: *telahatthappatāpakaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *telaṃ hatthappatāpakaṃ* which amounts to the same thing, a little more cleanly.
 
-[^80]: *sipāṭī*, cf. *sipāṭikā*, small cases (Sinh. *kopuwa*) or pods (*karaḷa*). Meaning is unclear here. BJTS glosses, “burnt shells (*kabala*, as of coconuts) which are kept having made them rough by drawing lines on them, or else stone planks which have been polished”.
+[^80]: *sipāṭī*, cf. *sipāṭikā*, small cases (Sinh. *kopuwa*) or pods (*karaḷa*). Meaning is unclear here. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses, “burnt shells (*kabala*, as of coconuts) which are kept having made them rough by drawing lines on them, or else stone planks which have been polished”.
 
 [^81]: *phalake*
 
-[^82]: *sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i* (PTS *suci*)
+[^82]: *sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i* (<abbr title="Pali Text Society">PTS</abbr> *suci*)
 
 [^83]: *mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>amattharaṇena*
 
@@ -1262,13 +1262,13 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^87]: *dantapoṇe*
 
-[^88]: *āṭali*. I do not find this in the dictionaries. BJTS glosses as *dähäṭi*, sticks used for cleaning the teeth.
+[^88]: *āṭali*. I do not find this in the dictionaries. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses as *dähäṭi*, sticks used for cleaning the teeth.
 
 [^89]: *sīsālepanagandhake*
 
 [^90]: *araṇī*
 
-[^91]: *palālapīṭhe*, BJTS reads *phalapīṭhe*, stools made of fruit (gourds?)
+[^91]: *palālapīṭhe*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *phalapīṭhe*, stools made of fruit (gourds?)
 
 [^92]: *pattapidhānathālake*
 
@@ -1278,7 +1278,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^95]: *sammajjanaŋ*
 
-[^96]: reading *udapattaṃ* with BJTS. PTS reads *udavatthaŋ*, “an upper cloth” (?)
+[^96]: reading *udapattaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>. <abbr title="Pali Text Society">PTS</abbr> reads *udavatthaŋ*, “an upper cloth” (?)
 
 [^97]: *vassika-sāṭikaŋ*
 
@@ -1292,13 +1292,13 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^102]: *natthukaŋ mukhasodhanaŋ*
 
-[^103]: reading *bilaṅga-loṇaṃ pahūtaṃ* with BJTS (PTS reads *bhūtaŋ* \[“become”\], which is clearly wrong not only for being nonsensical in context but also for making the foot fall short (seven rather than eight syllables).
+[^103]: reading *bilaṅga-loṇaṃ pahūtaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (<abbr title="Pali Text Society">PTS</abbr> reads *bhūtaŋ* \[“become”\], which is clearly wrong not only for being nonsensical in context but also for making the foot fall short (seven rather than eight syllables).
 
 [^104]: *madhu*
 
 [^105]: *dadhi-pānakaŋ*. *Dadhi* is milk-curd or yoghurt; “for drinking” could imply that it has been blended into a drink like *lassi*, or could refer to drinkable whey that results from souring the milk. In the description of the *ānisaṃsa*\s, below (v. 196 \[3570\]) the gift is more straightforwardly just called *dadhi*, though the addition of “well-prepared” (*sampannaŋ*) does imply some sort of processing for consumption.
 
-[^106]: reading *dhūpaṃ* with BJTS for PTS *pupphaŋ*, “flower”
+[^106]: reading *dhūpaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pupphaŋ*, “flower”
 
 [^107]: *sitthaŋ*
 
@@ -1308,17 +1308,17 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^110]: Malalasekera DPPN II:211 reads this passage to imply that the protagonist gave these fabulous gifts to the king himself, but I do not see warrant for that in the text. Indeed, it is clear that these are intended as requisites for the monks; I read v. 63 \[3436\] below to refer to this mega-umbrella as placed atop the Buddha.
 
-[^111]: lit., “progenitor,” BJTS glosses “father”
+[^111]: lit., “progenitor,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses “father”
 
-[^112]: reading *mahesino* with BJTS for PTS *mahāyasaŋ*, “the progenitor of great fame”
+[^112]: reading *mahesino* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mahāyasaŋ*, “the progenitor of great fame”
 
-[^113]: I have puzzled long over this difficult section of the text, and can only make sense of the Pāli by taking it as a dialogue involving multiple different parties: the protagonist (Rev. Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha in his previous life), King Ānanda, the judges in a court of law, and the protagonist’s friends and relatives; Padumuttara Buddha also speaks various lines. BJTS does not seem to be aware of this, and glosses literally without apparent understanding of some of the verses. The cty is also silent about this crucial interpretative perspective.
+[^113]: I have puzzled long over this difficult section of the text, and can only make sense of the Pāli by taking it as a dialogue involving multiple different parties: the protagonist (Rev. Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha in his previous life), King Ānanda, the judges in a court of law, and the protagonist’s friends and relatives; Padumuttara Buddha also speaks various lines. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> does not seem to be aware of this, and glosses literally without apparent understanding of some of the verses. The cty is also silent about this crucial interpretative perspective.
 
-[^114]: lit., “of both there is a single thought”. PTS and BJTS alt. read *yasaŋ*, “of both there is a single fame.”
+[^114]: lit., “of both there is a single thought”. <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. read *yasaŋ*, “of both there is a single fame.”
 
-[^115]: BJTS reads *va*, “indeed”
+[^115]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *va*, “indeed”
 
-[^116]: *sukhadukkhe*; PTS reads *sukkhadukkhe*
+[^116]: *sukhadukkhe*; <abbr title="Pali Text Society">PTS</abbr> reads *sukkhadukkhe*
 
 [^117]: *arindama*, lit., “tamer of enemies.” The term is in the vocative case, addressed to the protagonist.
 
@@ -1326,21 +1326,21 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^119]: lit., “your dissatisfaction is my dissatisfaction,” i.e., “when you are troubled in the mind, I am also troubled in the mind”
 
-[^120]: lit., “of both there is a single thought”. PTS reads *manaŋ* (“mind”) for *mataṃ* (“thought”)
+[^120]: lit., “of both there is a single thought”. <abbr title="Pali Text Society">PTS</abbr> reads *manaŋ* (“mind”) for *mataṃ* (“thought”)
 
-[^121]: reading *me* with BJTS for PTS *kho* (an untranslatable participle)
+[^121]: reading *me* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *kho* (an untranslatable participle)
 
 [^122]: *dukkha*. One would prefer to remain consistent in the translation “dissatisfaction,” but “suffering” is the more commonly known term, is appropriate to this context, and work better for the meter (and rhyme) in English.
 
-[^123]: reading *pahu samāno* (lit., “\[I\], being able”) with BJTS and PTS alt. for PTS *bahussamāno*, “being many”
+[^123]: reading *pahu samāno* (lit., “\[I\], being able”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt. for <abbr title="Pali Text Society">PTS</abbr> *bahussamāno*, “being many”
 
 [^124]: *gajjassu*, 2nd. sing. imperative (*attanopāda*) *of* *gajjati*, lit., “roar” or “sound forth”
 
-[^125]: reading *ekaṃ* with BJTS and PTS alt. for PTS *etaŋ*, though the sense in either case is clear: the protagonist will suffer unless he can fulfill the king’s wishes.
+[^125]: reading *ekaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt. for <abbr title="Pali Text Society">PTS</abbr> *etaŋ*, though the sense in either case is clear: the protagonist will suffer unless he can fulfill the king’s wishes.
 
-[^126]: reading *varaṃ* with BJTS and PTS alt. for PTS *dhanaŋ*, “wealth”. *Vara* can also mean “favor” or “blessing”
+[^126]: reading *varaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt. for <abbr title="Pali Text Society">PTS</abbr> *dhanaŋ*, “wealth”. *Vara* can also mean “favor” or “blessing”
 
-[^127]: reading *du<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ajaṃ* with BJTS for PTS *du<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ajjaŋ*
+[^127]: reading *du<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ajaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *du<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ajjaŋ*
 
 [^128]: lit., “if there is a purpose in it for you”
 
@@ -1356,37 +1356,37 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^134]: *nipīḷesi*, lit., “oppress,” “press down,” “weigh down heavily,” “subjugate”
 
-[^135]: reading *kin te me pīlitena ‘ttho* (lit., “what is the value for me through the stopping of you?”) with BJTS (and PTS alt., correct *piḷite n’attho* as *pīlitena ‘ttho*) for PTS *kin te palapite n’attho*
+[^135]: reading *kin te me pīlitena ‘ttho* (lit., “what is the value for me through the stopping of you?”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt., correct *piḷite n’attho* as *pīlitena ‘ttho*) for <abbr title="Pali Text Society">PTS</abbr> *kin te palapite n’attho*
 
-[^136]: reading *vajjaṃ me māhu* (= *mā āhu*) *jīvitaṃ* with BJTS and PTS alt. for PTS *vajjaŋ me p’āhu jīvitaŋ*, “life was wasted for me indeed”
+[^136]: reading *vajjaṃ me māhu* (= *mā āhu*) *jīvitaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt. for <abbr title="Pali Text Society">PTS</abbr> *vajjaŋ me p’āhu jīvitaŋ*, “life was wasted for me indeed”
 
 [^137]: *dammi*, lit., “I am giving”
 
 [^138]: *varaŋ*, boon, favor.
 
-[^139]: BJTS reads this as an imperative: *mā yā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittho* for PTS *ayā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittho*. In either case the grammar is fuzzy — the BJTS reading assumes a plural second person imperative (a royal y’all?) while the PYS reading is not a regular form of the verb.
+[^139]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads this as an imperative: *mā yā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittho* for <abbr title="Pali Text Society">PTS</abbr> *ayā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittho*. In either case the grammar is fuzzy — the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading assumes a plural second person imperative (a royal y’all?) while the PYS reading is not a regular form of the verb.
 
 [^140]: *maṇijotirasa*, a gemstone which fulfills wishes, a particularly valuable gem.
 
 [^141]: here to *gajjitaŋ*
 
-[^142]: reading *attano* with BJTS (and PTS alt.) for PTS *atthikaŋ*, “exists,” though the latter is also possible, “as long as life exists”
+[^142]: reading *attano* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *atthikaŋ*, “exists,” though the latter is also possible, “as long as life exists”
 
 [^143]: lit., “the Victor”
 
 [^144]: *varassu*, as second person imperative of *varati*
 
-[^145]: BJTS glosses “the judges (*adhikaraṇa nāyakayo*)”
+[^145]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses “the judges (*adhikaraṇa nāyakayo*)”
 
-[^146]: PTS reads *yathāsaṅhaŋ*, BJTS *yathāsannaṃ*, neither of which is sensible. But BJTS is surely correct in glossing the term, based on context, as “the right procedure” (*äti paridi*). Cf. v. 47 \[
+[^146]: <abbr title="Pali Text Society">PTS</abbr> reads *yathāsaṅhaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *yathāsannaṃ*, neither of which is sensible. But <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> is surely correct in glossing the term, based on context, as “the right procedure” (*äti paridi*). Cf. v. 47 \[
 
 [^147]: *akkhadassānam*, lit., “of those who examine the die,” by extension umpires or judges
 
-[^148]: BJTS switches the second and fourth feet, reading: “Listen to me, O \[you\] judges:/he promised even \[his own\] life./Without excepting anything/the king did give a boon to me.//
+[^148]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> switches the second and fourth feet, reading: “Listen to me, O \[you\] judges:/he promised even \[his own\] life./Without excepting anything/the king did give a boon to me.//
 
 [^149]: lit., “otherwise there is doubt for me”
 
-[^150]: reading *sossāma* (1st person plural future of *suṇāti*) for PTS *sussāma*
+[^150]: reading *sossāma* (1st person plural future of *suṇāti*) for <abbr title="Pali Text Society">PTS</abbr> *sussāma*
 
 [^151]: *sabbagāhikaŋ*, lit., “taking everything”
 
@@ -1416,7 +1416,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^164]: *appaṭipuggala*, “of whom there is no comparable person”
 
-[^165]: *vīra*, lit., “virile,” “manly.” BJTS reads *dhīro*, “Wise One”
+[^165]: *vīra*, lit., “virile,” “manly.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *dhīro*, “Wise One”
 
 [^166]: *atula*, lit., “not weighable” “having no equal”
 
@@ -1446,11 +1446,11 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^179]: *kappiyam*
 
-[^180]: reading *bhikkhuno* with BJTS for PTS *bhikkhussa*, a
+[^180]: reading *bhikkhuno* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *bhikkhussa*, a
 
 [^181]: *jahiŋsu*, lit., “abandoned,” “set aside”
 
-[^182]: reading *pubbakaṃ pattaṃ* with BJTS (and PTS alt.) for PTS *pupphakaŋ pattaŋ*, “bowl of flowers”
+[^182]: reading *pubbakaṃ pattaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *pupphakaŋ pattaŋ*, “bowl of flowers”
 
 [^183]: *loha*, which can also mean copper or brass
 
@@ -1460,7 +1460,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^186]: lit., “there was an \[achieving of\] insight into the *Dhamma* of eighty-four thousand.” *Dhammâbhisamaya*, “insight into the *Dhamma*” or “entry into the *Dhamma*” or “comprehension of the *Dhamma”* or “penetration into the *Dhamma”* refers to the achievement of a firm grasp on the essentials of the Teaching. It is used as a technical term in the account of each Buddha in the *Buddhavaṃsa*, one among many categories of Buddha-achievement enumerated there.
 
-[^187]: BJTS accepts the reading *maṃ* (“me”) though gives *taṃ* (‘him”) as alternate. I stick with the PTS (and BJTS alt.) reading *taŋ* here, recognizing that the speaker is Padumuttara Buddha, not the protagonist.
+[^187]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> accepts the reading *maṃ* (“me”) though gives *taṃ* (‘him”) as alternate. I stick with the <abbr title="Pali Text Society">PTS</abbr> (and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt.) reading *taŋ* here, recognizing that the speaker is Padumuttara Buddha, not the protagonist.
 
 [^188]: *sabbadānass’ idaŋ phalaŋ*
 
@@ -1474,11 +1474,11 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^193]: hasulā = ?
 
-[^194]: RD gives “good hips,” referring to this text. I don’t see the warrant, and take the term *susaññā* from *saññā*, sense, perception, as does BJTS
+[^194]: RD gives “good hips,” referring to this text. I don’t see the warrant, and take the term *susaññā* from *saññā*, sense, perception, as does <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 
 [^195]: lit., “meritorious karma”
 
-[^196]: reading *chāyaṃ* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>âyaŋ*
+[^196]: reading *chāyaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>âyaŋ*
 
 [^197]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*, lit., “thoughts” or “mind”
 
@@ -1508,17 +1508,17 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^210]: *dānavaram*
 
-[^211]: reading *ādi pubbaṅgamo āsi* with BJTS (and PTS alt.) for PTS *adipubbaṅgamo āsiŋ*
+[^211]: reading *ādi pubbaṅgamo āsi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *adipubbaṅgamo āsiŋ*
 
 [^212]: *sugate*, lit., “for the Well-Gone-One”
 
-[^213]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṅe* (read this as a typo for *guṇa°* as elsewhere) *varuttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
+[^213]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṅe* (read this as a typo for *guṇa°* as elsewhere) *varuttame*. As elsewhere, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇavaruttame*, “supreme splendid group”
 
 [^214]: *aṭṭānisaŋse*. I count the eight here as (1) being immune to extremes of temperature, (2) to dirt and dust, and (3) to danger; (4) being safe; (5) being honored (which is symbolized by the umbrella), (6) having soft skin (the umbrella is used for protection from the sun’s harsh rays), (7) having a clear mind and (8) having a permanent umbrella over his head during all lives except this final one.
 
 [^215]: or “I do not know,” *na jānāmi*
 
-[^216]: BJTS and PTS alt. reads *limpati* (“smeared”) for PTS *lippati* (“get soiled” according to PSI dictionary, Sinh. *gälveyi*; RD reads *lippati* as pass. of *limpati*), but as the former can also mean “soiled” the difference is not significant.
+[^216]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt. reads *limpati* (“smeared”) for <abbr title="Pali Text Society">PTS</abbr> *lippati* (“get soiled” according to PSI dictionary, Sinh. *gälveyi*; RD reads *lippati* as pass. of *limpati*), but as the former can also mean “soiled” the difference is not significant.
 
 [^217]: *rajojallaŋ*
 
@@ -1538,7 +1538,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^225]: *vāhasā*
 
-[^226]: reading *kasmā* (lit., “because of what?) with BJTS (and PTS alt.) for PTS *tasmā*, “therefore,” “because of that”
+[^226]: reading *kasmā* (lit., “because of what?) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *tasmā*, “therefore,” “because of that”
 
 [^227]: lit., “because of what is there not for me in this birth”
 
@@ -1546,7 +1546,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^229]: lit., “because of obtaining the umbrella of liberation” (*vimutti-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>-chatta-pattiyā*)
 
-[^230]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
+[^230]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇavaruttame*, “supreme splendid group”
 
 [^231]: *aṭṭānisaŋse*. I count the eight here as (1) a great body, plus receipt of seven types of cloth to clothe it: (2) white, (3) yellow and (4) red cloth, (5) silk, (6) wool, (7) *khoma* and (8) cotton.
 
@@ -1566,7 +1566,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^239]: *tesaŋ* is gen. pl., i.e., “as a result of those \[acts of giving cloth in the past\]”
 
-[^240]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
+[^240]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇavaruttame*, “supreme splendid group”
 
 [^241]: *dasānisaŋse*. I read the ten here as: (1) eating off fancy plates, (2) being safe, (3) being free from danger, (4) being honored, (5) receiving food and drink, (6) receiving clothes and couches, (7) possessions never run out, (8) steady-hearted, (9) fond of the Teaching (*Dhamma*) and (10) having few flaws and being undefiled.
 
@@ -1578,25 +1578,25 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^245]: *apa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ita*
 
-[^246]: reading *homi* with BJTS for PTS *bhomi*, which is probably a misreading of *“ho°*”as “*bho°*” — an easy mistake given their similarity in the Sinhala script.
+[^246]: reading *homi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *bhomi*, which is probably a misreading of *“ho°*”as “*bho°*” — an easy mistake given their similarity in the Sinhala script.
 
 [^247]: *appakilesa*
 
 [^248]: *anāsava*
 
-[^249]: BJTS (and PTS alt.) read *anubandhā* for PTS *anubaddhā*, with the same meaning
+[^249]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) read *anubandhā* for <abbr title="Pali Text Society">PTS</abbr> *anubaddhā*, with the same meaning
 
 [^250]: lit., “shade just like that of a tree is not abandoning me in every place”
 
 [^251]: *vāsī*
 
-[^252]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itta°*. I follow BJTS in reading this as *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itta*, “varied”
+[^252]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itta°*. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in reading this as *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itta*, “varied”
 
 [^253]: *aṭṭānisaŋse*. I read the eight here as: (1) being a god, (2) being unshaken, (3) being self-confident, (4) having courage, (5) being virile, (6) being mentally alert or energetic, (7) receiving defilement-eliminating knowledge and (8) receiving fine and limitless merit.
 
-[^254]: PTS and BJTS agree in making this a six-footed, rather than four-footed verse. I suppose that the poets wanted to stipulate that these knives were varied in type and style, as spelled out above, and therefore were unsatisfied with the four-foot template for these statements, which would not allow for anything more than a generic “knives”.
+[^254]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in making this a six-footed, rather than four-footed verse. I suppose that the poets wanted to stipulate that these knives were varied in type and style, as spelled out above, and therefore were unsatisfied with the four-foot template for these statements, which would not allow for anything more than a generic “knives”.
 
-[^255]: reading *‘visārī* with BJTS (and PTS alt.) for PTS *visāliī* (“broad one,” fr. *visāla*?) and taking the Sinhala gloss (*sasala no vūyem*) as my lead in translating.
+[^255]: reading *‘visārī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *visāliī* (“broad one,” fr. *visāla*?) and taking the Sinhala gloss (*sasala no vūyem*) as my lead in translating.
 
 [^256]: *vesārajjesu*, lit., “in the self-confidences (of a Buddha or arahant),” of which there are said to be four. RD, s.v.: “The four are given in full at M i.71 sq., viz. highest knowledge, khīṇāsava state, recognition of the obstacles, recognition & preaching of the way to salvation.”
 
@@ -1608,7 +1608,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^260]: *paggahita-mana*, lit., “vigorously applied mind”
 
-[^261]: reading *tāsaṃ* with PTS alt. for PTS and BJTS *tassa* (“of it”), and taking "them" as "those knives”
+[^261]: reading *tāsaṃ* with <abbr title="Pali Text Society">PTS</abbr> alt. for <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *tassa* (“of it”), and taking "them" as "those knives”
 
 [^262]: lit., “having given”
 
@@ -1620,11 +1620,11 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^266]: *a-kakkase*
 
-[^267]: reading *sudhote* with BJTS for PTS *adhote* (‘unclean,” “unwashed”)
+[^267]: reading *sudhote* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *adhote* (‘unclean,” “unwashed”)
 
 [^268]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I read the five here as: pure-heartedness, virility, patience, loving-kindness, and wisdom.
 
-[^269]: Here PTS gives two six-footed verses, whereas BJTS breaks the text into three four-footed ones. I again adopt the a-b-c-d convention, this time applied to the BJTS numbers, to indicate where the relevant material is found in both texts.
+[^269]: Here <abbr title="Pali Text Society">PTS</abbr> gives two six-footed verses, whereas <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> breaks the text into three four-footed ones. I again adopt the a-b-c-d convention, this time applied to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> numbers, to indicate where the relevant material is found in both texts.
 
 [^270]: *kalyāṇa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*, pure or beautiful or kindly in heart
 
@@ -1640,7 +1640,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^276]: lit., “for the Well-Gone-One”
 
-[^277]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
+[^277]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇavaruttame*, “supreme splendid group”
 
 [^278]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) being worshipped, (2) being free of doubt, (3) being very handsome, (4) being very rich and (5) having sharp wisdom.
 
@@ -1648,7 +1648,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^280]: *kaṅkhachedo*, \[my\] doubt is removed or cut off
 
-[^281]: lit., “I saw,” *passayiŋ*. PTS alt. *passāmi* (present tense) is preferable for consistency with the use of present tense throughout this passage
+[^281]: lit., “I saw,” *passayiŋ*. <abbr title="Pali Text Society">PTS</abbr> alt. *passāmi* (present tense) is preferable for consistency with the use of present tense throughout this passage
 
 [^282]: *gambhīra*, lit., “deep”
 
@@ -1658,13 +1658,13 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^285]: lit., “for the Well-Gone-One”
 
-[^286]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
+[^286]: lit., “monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇavaruttame*, “supreme splendid group”
 
 [^287]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as the receipt of (1) slaves, (2) domestic animals, (3) servants/attendants, (4) watchmen/guards and (5) personal attendants (who cut the hair, bring and cook the food)
 
-[^288]: reading *ārakkhake* with BJTS for PTS *ārakkhe*, “protections”
+[^288]: reading *ārakkhake* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ārakkhe*, “protections”
 
-[^289]: reading *bhattake* with BJTS for PTS *bhatake*, “servants,” already stipulated in the second foot of this verse
+[^289]: reading *bhattake* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *bhatake*, “servants,” already stipulated in the second foot of this verse
 
 [^290]: *vidhūpane*
 
@@ -1688,13 +1688,13 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^300]: lit., “the fire of pride (*mānaggī*) and the fire of wrong views (*diṭṭhi-aggī*)”
 
-[^301]: *saṅghe gaṇuttame*, lit., “to the monks’ Assembly, the supreme group”. Note that here PTS reads *gaṇa* (“group”) for *guṇa* (“virtue”) in these recurring compounds, as does BJTS quite consistently.
+[^301]: *saṅghe gaṇuttame*, lit., “to the monks’ Assembly, the supreme group”. Note that here <abbr title="Pali Text Society">PTS</abbr> reads *gaṇa* (“group”) for *guṇa* (“virtue”) in these recurring compounds, as does <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> quite consistently.
 
 [^302]: *parissāvane*
 
 [^303]: lit., “for the Well-Gone-One”
 
-[^304]: reading *dhammakaruttame* (lit., “supreme doers of the Teaching”) with BJTS (and PTS alt.) for PTS *gaṇuttame* (“supreme group”)
+[^304]: reading *dhammakaruttame* (lit., “supreme doers of the Teaching”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *gaṇuttame* (“supreme group”)
 
 [^305]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) divine lifespan, (2) little to endure from thieves and enemies, (3) no trouble from weapons or (4) from poison, and (5) no premature death.
 
@@ -1708,19 +1708,19 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^310]: *antarāmaraṇa*
 
-[^311]: reading *mama* (gen.) with BJTS (and PTS alt.) for PTS *mamaŋ* (gen. or acc.)
+[^311]: reading *mama* (gen.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mamaŋ* (gen. or acc.)
 
 [^312]: *teladhare*
 
 [^313]: lit., “for the Well-Gone-One”
 
-[^314]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
+[^314]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇavaruttame*, “supreme splendid group”
 
 [^315]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) charming form, (2) good speech, (3) lofty intentions (or mental activity), (4) lack of mental confusion or disturbance and (5) being guarded by all \[forms of\] protection.
 
-[^316]: reading *mama* (gen.) with BJTS for PTS *mamaŋ* (gen. or acc.)
+[^316]: reading *mama* (gen.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mamaŋ* (gen. or acc.)
 
-[^317]: reading *sugado* with BJTS (and PTS alt.) for PTS *sugato*, “well-gone”
+[^317]: reading *sugado* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *sugato*, “well-gone”
 
 [^318]: *susamuggata-mānasa*
 
@@ -1728,35 +1728,35 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^320]: lit., “for the Well-Gone-One”
 
-[^321]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
+[^321]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇavaruttame*, “supreme splendid group”
 
 [^322]: *tīnānisaŋse*. I count the three here as (1) mental pleasure, (2) bodily pleasure and (3) pleasure born through the senses.
 
-[^323]: reading *mama* (gen.) with BJTS (and PTS alt.) for PTS *mamaŋ* (gen. or acc.)
+[^323]: reading *mama* (gen.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mamaŋ* (gen. or acc.)
 
 [^324]: lit., “mental pleasure and bodily pleasure”
 
 [^325]: *iriyāpathaja*
 
-[^326]: reading *aṃsabandhe* with JPTS and PTS alt for PTS *aŋsabaddhe* (*baddha* = lucky, arrow or bull)
+[^326]: reading *aṃsabandhe* with J<abbr title="Pali Text Society">PTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt for <abbr title="Pali Text Society">PTS</abbr> *aŋsabaddhe* (*baddha* = lucky, arrow or bull)
 
 [^327]: lit., “for the Victor” (*jine)*
 
-[^328]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
+[^328]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇavaruttame*, “supreme splendid group”
 
 [^329]: *tīnānisaŋse*. I count the three here as (1) deep understanding of the Teaching (or mind-reading), (2) recalling the second lifetime, and (3) having good skin.
 
-[^330]: *sadhamme gādhaŋ vindāmi*, lit., “I know the depth in the Great Teaching.” BJTS (and PTS alt.) read *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etoñanañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vindāmi*, “I know the knowledge of mind,” which BJTS glosses as knowing the knowledge in the minds of others, i.e., mind-reading.
+[^330]: *sadhamme gādhaŋ vindāmi*, lit., “I know the depth in the Great Teaching.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) read *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etoñanañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vindāmi*, “I know the knowledge of mind,” which <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses as knowing the knowledge in the minds of others, i.e., mind-reading.
 
-[^331]: *dutiyaŋ bhavaŋ*, BJTS glosses *deveni bhavaya*. I gather this means “I remember as far back as two previous lifetimes.” Or does it refer to the second of the three states of existence (also *bhava*), i.e., the formed (*rūpa*) state of existence?
+[^331]: *dutiyaŋ bhavaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *deveni bhavaya*. I gather this means “I remember as far back as two previous lifetimes.” Or does it refer to the second of the three states of existence (also *bhava*), i.e., the formed (*rūpa*) state of existence?
 
 [^332]: *su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavi homi*
 
 [^333]: *kāyabandhane*
 
-[^334]: reading *jine* with BJTS (and PTS alt.) for PTS *sugate* (“Well-Gone-One”), which a produces a metrically-unsound sound verse.
+[^334]: reading *jine* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *sugate* (“Well-Gone-One”), which a produces a metrically-unsound sound verse.
 
-[^335]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
+[^335]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇavaruttame*, “supreme splendid group”
 
 [^336]: *chānisaŋse*. I count the six here as (1) not shaking in meditative states, (2) dwelling in meditative states, (3) being in groups without factions, (4) speaking words that are always acceptable or pleasant or well-taken, (5) possessing mindfulness (*sati*), and (6) having no fear.
 
@@ -1770,21 +1770,21 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^341]: *tāso na mayhaŋ vijjati*, lit., “fear is not found of mine”
 
-[^342]: BJTS (and PTS alt.) read *anubandhā* for PTS *anubaddhā*, with the same meaning
+[^342]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) read *anubandhā* for <abbr title="Pali Text Society">PTS</abbr> *anubaddhā*, with the same meaning
 
-[^343]: *ādhārake*, also stand, pulpit, desk. BJTS understands this as a stand on which to place the alms-bowl.
+[^343]: *ādhārake*, also stand, pulpit, desk. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> understands this as a stand on which to place the alms-bowl.
 
-[^344]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, BJTS reads *gaṇavaruttame*, “supreme splendid group”
+[^344]: lit., “for the monks of supreme \[and\] splendid virtue”: *saṅghe guṇavaruttame*. As elsewhere, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇavaruttame*, “supreme splendid group”
 
-[^345]: *pan<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>avaṇṇehi dāyādo* is an enigmatic foot, given the wide semantic range of *vaṇṇa* (color, caste, appearance, luster, beauty, expression, kind or sort, timbre, constitution, likeness, property, praise, reason. BJTS SInhala gloss speculates that it could mean “‘an heir with five different sorts’ or else ‘someone who has received five forms of power (*anusas* = *anuhasa*)’”. The ambiguity is preserved in my choice of “kind” as the translation here: not specifying five kinds of *what* leaves the foot open to the widest range of interpretations, though admittedly in and of itself conveys little meaning other than uncertainty.
+[^345]: *pan<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>avaṇṇehi dāyādo* is an enigmatic foot, given the wide semantic range of *vaṇṇa* (color, caste, appearance, luster, beauty, expression, kind or sort, timbre, constitution, likeness, property, praise, reason. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> SInhala gloss speculates that it could mean “‘an heir with five different sorts’ or else ‘someone who has received five forms of power (*anusas* = *anuhasa*)’”. The ambiguity is preserved in my choice of “kind” as the translation here: not specifying five kinds of *what* leaves the foot open to the widest range of interpretations, though admittedly in and of itself conveys little meaning other than uncertainty.
 
-[^346]: reading *dhatā* with BJTS (and PTS alt.) for PTS *vatā*, “vows,” i.e., “my vows do not perish”
+[^346]: reading *dhatā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *vatā*, “vows,” i.e., “my vows do not perish”
 
-[^347]: here PTS also reads *gaṇuttame* rather than, as above, *guṇ°*
+[^347]: here <abbr title="Pali Text Society">PTS</abbr> also reads *gaṇuttame* rather than, as above, *guṇ°*
 
 [^348]: *tīṇānisaŋse*. I count the three here as (1)
 
-[^349]: here and in the next verse I read *paribhogāni sabbadā* with BJTS (and PTS alt.) for *paribhogādisampadā*, “attainment of things to enjoy etc.” *Paribhoga* could refer to “usefulness” as well as “enjoyableness”
+[^349]: here and in the next verse I read *paribhogāni sabbadā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for *paribhogādisampadā*, “attainment of things to enjoy etc.” *Paribhoga* could refer to “usefulness” as well as “enjoyableness”
 
 [^350]: that is, a four-fold army
 
@@ -1806,25 +1806,25 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^359]: as a sacred tree, it is unlikely that Ficus religiosa wood is intended here. I’m not sure what a plate made of its leaves would be like, but that seems a better interpretation.
 
-[^360]: *phalamaye*, lit., “made of fruits.” I follow BJTS in taking this as a reference to the “fruit” of *labu*, the gourd, *contra* RD, *phalamaye* s.v., who says this is an abbreviated form of *phalikāmaye*, unlikely at least in the present case since plates made of crystal have been mentioned in the previous verse.
+[^360]: *phalamaye*, lit., “made of fruits.” I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in taking this as a reference to the “fruit” of *labu*, the gourd, *contra* RD, *phalamaye* s.v., who says this is an abbreviated form of *phalikāmaye*, unlikely at least in the present case since plates made of crystal have been mentioned in the previous verse.
 
 [^361]: *pokkharapattake*
 
 [^362]: *madhupānakasaṅkhe*. *Saṅkhe* can refer to conch shells, as well as mother-of-pearl.
 
-[^363]: reading *paṭipatti* with BJTS (and PTS alt.) for PTS *paṭilabhe*, “are received”
+[^363]: reading *paṭipatti* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *paṭilabhe*, “are received”
 
-[^364]: *vatte guṇe*, BJTS glosses: *vatāvat guṇehi*
+[^364]: *vatte guṇe*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses: *vatāvat guṇehi*
 
 [^365]: *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārakiriyāsu <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, or “among the forms of right practice”
 
 [^366]: lit., “for the Well-Gone-One”
 
-[^367]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^367]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^368]: *dasānisaŋse*. I count the ten here as (1) long life, (2) physical strength, (3) heroism, (4) beauty, (5) fame, (6) happiness, (7) freedom from oppression, (8) safety, (9) honor, and (10) being together with loved ones.
 
-[^369]: reading *homi* with BJTS for PTS *bhomi*, which is probably a misreading of *“ho°*”as “*bho°*” — an easy mistake given their similarity in the Sinhala script.
+[^369]: reading *homi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *bhomi*, which is probably a misreading of *“ho°*”as “*bho°*” — an easy mistake given their similarity in the Sinhala script.
 
 [^370]: *anupaddava*, also “uninjured,” “safe”
 
@@ -1832,7 +1832,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^372]: *apa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ita*
 
-[^373]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^373]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
 [^374]: *upāhane*
 
@@ -1844,21 +1844,21 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^378]: *°pādukā*
 
-[^379]: reading *kambalikā* with BJTS for PTS *maṇḍalikā*, “district officers”
+[^379]: reading *kambalikā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *maṇḍalikā*, “district officers”
 
 [^380]: taking *paduddhāre* as *pada* (foot) + *uddhāra* (from the basic meaning of *uddharati*, “lifts up”), though RD says the compound is used in SnA to mean “synopsis of a verse,” lit., “removal of the feet”
 
-[^381]: *paṭidhāvanti (*BJTS read *pati°*)
+[^381]: *paṭidhāvanti (*<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> read *pati°*)
 
-[^382]: reading *niyāmaṃ* with BJTS (and PTS alt.) for PTS *niyamaŋ*, (“restraint,” “limitation,” “cosmic law”)
+[^382]: reading *niyāmaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *niyamaŋ*, (“restraint,” “limitation,” “cosmic law”)
 
-[^383]: reading *āgu-ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āra-sodhanaṃ* with BJTS for PTS *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āraguṇasodhanaŋ* (“purifying virtuous conduct”)
+[^383]: reading *āgu-ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āra-sodhanaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āraguṇasodhanaŋ* (“purifying virtuous conduct”)
 
 [^384]: *pāduka*
 
 [^385]: lit., “for the Well-Gone-One”
 
-[^386]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^386]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^387]: *iddhipādukam āruyha*, lit., “having stepped onto sandals with *iddhi* \[superpowers\]”
 
@@ -1868,15 +1868,15 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^390]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) golden-colored, unblemished body; (2) beautiful, (3) strong, (4) smooth, (5) not soiled by dirt and dust.
 
-[^391]: BJTS and PTS alt. reads *limpati* (“smeared”) for PTS *lippati* (“get soiled” according to P-S-E dictionary, Sinh. *gälveyi*; RD reads *lippati* as pass. of *limpati*), but as the former can also mean “soiled” the difference is not significant.
+[^391]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt. reads *limpati* (“smeared”) for <abbr title="Pali Text Society">PTS</abbr> *lippati* (“get soiled” according to P-S-E dictionary, Sinh. *gälveyi*; RD reads *lippati* as pass. of *limpati*), but as the former can also mean “soiled” the difference is not significant.
 
 [^392]: *rajojallaŋ*
 
-[^393]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^393]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
 [^394]: lit., “for the Well-Gone-One”
 
-[^395]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^395]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^396]: *chānisaŋse*. I count the six here as (1) numerous progeny, (2) lack of fear, (3) little to endure, (4) well-protected, (5) lack of failure, and (6) well-controlled mind (or lack of baldness, etc.)
 
@@ -1886,11 +1886,11 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^399]: *appasayha*
 
-[^400]: reading *khalitampi na jānāmi* with BJTS (and PTS alt.) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alitaŋ maŋ na jānāmi* (“I don’t experience shaking me”). In addition to failure (wrong-doing, faltering, stumbling, being disturbed or treated badly), *khalitaṃ* can also mean “baldness”. Not having any of those qualities would be a positive result of merit.
+[^400]: reading *khalitampi na jānāmi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alitaŋ maŋ na jānāmi* (“I don’t experience shaking me”). In addition to failure (wrong-doing, faltering, stumbling, being disturbed or treated badly), *khalitaṃ* can also mean “baldness”. Not having any of those qualities would be a positive result of merit.
 
-[^401]: reading *abhantaṃ mānasaṃ mama* with BJTS (*bhanta* = swerving, wavering, unsteady, used of a cart that is out of control) for PTS *āgataŋ mānasaŋ mamaŋ* (alt. *mama*), “my mind is come”. PTS also gives *asantaŋ* (lacking peace, disturbed) as an alternate reading, which would be preferable to *āgataŋ*
+[^401]: reading *abhantaṃ mānasaṃ mama* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (*bhanta* = swerving, wavering, unsteady, used of a cart that is out of control) for <abbr title="Pali Text Society">PTS</abbr> *āgataŋ mānasaŋ mamaŋ* (alt. *mama*), “my mind is come”. <abbr title="Pali Text Society">PTS</abbr> also gives *asantaŋ* (lacking peace, disturbed) as an alternate reading, which would be preferable to *āgataŋ*
 
-[^402]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^402]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
 [^403]: *osadham*, specifically medicinal herbs or herbal ingredients for making medicines
 
@@ -1900,7 +1900,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^406]: *aṭṭhānisaŋse*. I count the eight here as (1) large eyes \[whether they are\] (2) white eyes, (3) yellow eyes, \[or\] (4) red eyes; (5) unsullied eyes, (6) clear eyes, (7) disease-free eyes, (8) “divine eye”.
 
-[^407]: this follows the BJTS Sinhala gloss. I assume that “white eyes” (or “eyes that have whites)” would refer to humans, “yellow (or “golden”) eyes” would refer to gods, and “red eyes” (cf. *lohitākkha*) refers to snakes or spirits (*yakkha*\s). We might also understand these colors as seen very clearly by his large eyes.
+[^407]: this follows the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss. I assume that “white eyes” (or “eyes that have whites)” would refer to humans, “yellow (or “golden”) eyes” would refer to gods, and “red eyes” (cf. *lohitākkha*) refers to snakes or spirits (*yakkha*\s). We might also understand these colors as seen very clearly by his large eyes.
 
 [^408]: *anāvila-pasanna-akkha*
 
@@ -1908,13 +1908,13 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^410]: *kuñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ike*
 
-[^411]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^411]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^412]: *dhamma-dvāra-vivaraṇaŋ*, lit., “which opens the door of the *Dhamma*.
 
 [^413]: lit., “for the Well-Gone-One”
 
-[^414]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^414]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^415]: *dvānisaŋse*. I count the two here as (1) being one of little anger, and (2) being one without sorrow (or trouble)
 
@@ -1924,11 +1924,11 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^418]: *anāyāso*, lit., “I am one with no sorrow”
 
-[^419]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^419]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
 [^420]: lit., “for the Well-Gone-One”
 
-[^421]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^421]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^422]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) steadfastness in the *samādhis*, (2) dwelling in the *samādhis*, (3) being in a united group, (4) speaking words which are taken well, and (5) great wealth of possessions.
 
@@ -1942,15 +1942,15 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^427]: *bhave*, lit., “in existence”
 
-[^428]: PTS *jāti<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a*, BJTS *jāyati*
+[^428]: <abbr title="Pali Text Society">PTS</abbr> *jāti<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *jāyati*
 
 [^429]: *bhogasampatti*
 
-[^430]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^430]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
 [^431]: *dhūmanette*. RD: “i. e. a surgical instru- ment for sniffing up the smoke of medical drugs Vin i.204; ii.120; J iv.363; ThA 14”
 
-[^432]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^432]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^433]: *tīṇānisaŋse*. I count the three here as (1) clean conscience, (2) good muscles and (3) “divine eye”
 
@@ -1958,15 +1958,15 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^435]: lit., “not”
 
-[^436]: PTS *nahāruyo*, BJTS *nahāravo*
+[^436]: <abbr title="Pali Text Society">PTS</abbr> *nahāruyo*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *nahāravo*
 
-[^437]: reading *susambandhā* (well-connected, well put together) with BJTS (and PTS alt.) for PTS *susambaddhā* (well-bound together), though the latter also evokes a well-toned body.
+[^437]: reading *susambandhā* (well-connected, well put together) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *susambaddhā* (well-bound together), though the latter also evokes a well-toned body.
 
-[^438]: *dīpathāle*. (BJTS \[and PTS alt.\] read *dpaṭṭhāne*, “places for lamps”). In the description of the actual *dāna* at (18a-b) \[3391\] we have “lamp-holders,” *dīpadhārake*. I take all these terms as referring to a single type of object, which I imagine as a plate-like holder for (probably small clay) lamps.
+[^438]: *dīpathāle*. (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> \[and <abbr title="Pali Text Society">PTS</abbr> alt.\] read *dpaṭṭhāne*, “places for lamps”). In the description of the actual *dāna* at (18a-b) \[3391\] we have “lamp-holders,” *dīpadhārake*. I take all these terms as referring to a single type of object, which I imagine as a plate-like holder for (probably small clay) lamps.
 
 [^439]: lit., “for the Well-Gone-One”
 
-[^440]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^440]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^441]: *tīṇānisaŋse*. I count the three here as (1) good birth, (2) good body**, and (3) wisdom and intelligence.
 
@@ -1976,7 +1976,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^444]: *paññavā*
 
-[^445]: reading *buddhi-sammato* with BJTS for PTS *Buddha-sammato* (“revered as \[or by?\] the Buddha”). The latter could also mean “selected by Buddha”.
+[^445]: reading *buddhi-sammato* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Buddha-sammato* (“revered as \[or by?\] the Buddha”). The latter could also mean “selected by Buddha”.
 
 [^446]: *tumbake*, water-vessels
 
@@ -1990,7 +1990,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^451]: *sukhasamaṅgī*
 
-[^452]: reading *tathā gatī* with BJTS (and PTS alt.) for PTS *tathāgattī*, “and such-like \[i.e., great\] body”
+[^452]: reading *tathā gatī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *tathāgattī*, “and such-like \[i.e., great\] body”
 
 [^453]: *bhattikato*, “done service,” even “a servant”
 
@@ -2002,11 +2002,11 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^457]: *guṇe*
 
-[^458]: reading *samāva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṇaṃ mama* with BJTS for PTS *samāva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṇā mama*
+[^458]: reading *samāva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṇaṃ mama* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *samāva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṇā mama*
 
 [^459]: *suvivajjita-ubbego*
 
-[^460]: here I read *añjana-nāḷiyo* (“ointment stalks” or “ointment tubes”) with BJTS for PTS *hatthī līlaṅgake* (“elephants with sporting bodies” ?). The text is corrupt, and BJTS at least makes sense, though it is out of the sequence of the original *dāna* (not to mention being unrecoverable in meaning) so may be a spurious verse — perhaps a favored object of some later editor, or simply something no longer part of lived experience at some point in the transmission process? PTS alt. readings include *°lilaṅgate*, *hatthalīlaṅgane* and *hattho liṅgake* (!), none of which is helpful. In addition to the PTS reading, BJTS cites alt. *malabharaṇiyo*, also of questionable meaning (“women in stained ornaments,” or read *māla°*, “in flower ornaments?”)
+[^460]: here I read *añjana-nāḷiyo* (“ointment stalks” or “ointment tubes”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *hatthī līlaṅgake* (“elephants with sporting bodies” ?). The text is corrupt, and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> at least makes sense, though it is out of the sequence of the original *dāna* (not to mention being unrecoverable in meaning) so may be a spurious verse — perhaps a favored object of some later editor, or simply something no longer part of lived experience at some point in the transmission process? <abbr title="Pali Text Society">PTS</abbr> alt. readings include *°lilaṅgate*, *hatthalīlaṅgane* and *hattho liṅgake* (!), none of which is helpful. In addition to the <abbr title="Pali Text Society">PTS</abbr> reading, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> cites alt. *malabharaṇiyo*, also of questionable meaning (“women in stained ornaments,” or read *māla°*, “in flower ornaments?”)
 
 [^461]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) having a \[good\] body, (2) being endowed with all auspicious marks, (3) long life, (4) wisdom, (5) liberation from all sorrows.
 
@@ -2030,15 +2030,15 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^471]: lit., “for the Well-Gone-One”
 
-[^472]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^472]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^473]: *atula*, not weighable, immeasurable, not equaled
 
-[^474]: *natthuke*. BJTS reads *tatthuke*. The description of the original *dāna* specifies that the gift was of cleaners (there *sodhanaŋ*) for the mouth (*mukha*) and nose (*natthukaŋ*). Separate *ānisaṃsas* for the mouth-cleaners are given below (v. 194 \[3568\]). The *ānisaṃsas* in the present verse seem to relate to what in English we’d call “keeping one’s nose clean,” though I do not know whether the same associations would typically be made in Pāli. The *ānisaṃsas* for the mouth-cleaners (in v. 194 \[3468\], below) certainly well-accord with the nature of the original gift.
+[^474]: *natthuke*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *tatthuke*. The description of the original *dāna* specifies that the gift was of cleaners (there *sodhanaŋ*) for the mouth (*mukha*) and nose (*natthukaŋ*). Separate *ānisaṃsas* for the mouth-cleaners are given below (v. 194 \[3568\]). The *ānisaṃsas* in the present verse seem to relate to what in English we’d call “keeping one’s nose clean,” though I do not know whether the same associations would typically be made in Pāli. The *ānisaṃsas* for the mouth-cleaners (in v. 194 \[3468\], below) certainly well-accord with the nature of the original gift.
 
 [^475]: lit., “for the Well-Gone-One”
 
-[^476]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^476]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^477]: *aṭṭhānisaŋse*. I count the eight here as (1) faith, (2) morality, (3) shame, (4) fear of wrong-doing, (5) happiness, (6) generosity, (7) patience and (8) wisdom.
 
@@ -2054,7 +2054,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^483]: lit., “for the Well-Gone-One”
 
-[^484]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^484]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^485]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) eminent birth, (2) very rich, (3) much honored, (4) full of glory, and (5) the constant supply of palanquins with horses
 
@@ -2064,9 +2064,9 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^488]: *sabbe maŋ apa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āyanti*
 
-[^489]: reading *mama* (gen.) with BJTS for PTS *mamaŋ* (gen. or acc.)
+[^489]: reading *mama* (gen.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mamaŋ* (gen. or acc.)
 
-[^490]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturassakā* (“with four horses”) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturassarā*, “with four corners,” “rectangular,” though the latter also makes sense in this context.
+[^490]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturassakā* (“with four horses”) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturassarā*, “with four corners,” “rectangular,” though the latter also makes sense in this context.
 
 [^491]: or distributing or sharing them: *saŋvibhāga-rato \[ahaṃ\]*
 
@@ -2074,7 +2074,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^493]: lit., “for the Well-Gone-One”
 
-[^494]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^494]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^495]: *chānisaŋse*. I count the six here as (1) mattresses, (2) varied coverlets, (3) varied cloaks, (4) varied rugs, (5) not empty or vain, and (6) meditation-minded/achiever of *jhānas*
 
@@ -2090,7 +2090,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^501]: *tūlikā*
 
-[^502]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittakā* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittikā*
+[^502]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittakā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittikā*
 
 [^503]: *vikatikāyo*
 
@@ -2110,21 +2110,21 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^511]: *yato sarāmi attānaŋ*, lit., “starting from when I remember myself”
 
-[^512]: or “since I reached puberty,” *yato patto ‘smi viññuta*, lit., “starting from when I reached puberty;” but following BJTS Sinhala gloss (*näṇavat*, “having knowledge”) I translate the term in its broader meaning, “understanding” or “discretion”
+[^512]: or “since I reached puberty,” *yato patto ‘smi viññuta*, lit., “starting from when I reached puberty;” but following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss (*näṇavat*, “having knowledge”) I translate the term in its broader meaning, “understanding” or “discretion”
 
 [^513]: or empty: *a-tu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cho*
 
-[^514]: reading *atu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cho jhāna-mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>o* (lit., “I am one whose bed is *dhyāna*, meditative achievement) with BJTS (and PTS alt.) for PTS *atu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chojjhānamañño*
+[^514]: reading *atu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cho jhāna-mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>o* (lit., “I am one whose bed is *dhyāna*, meditative achievement) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *atu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chojjhānamañño*
 
 [^515]: *bimbohane*
 
-[^516]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^516]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^517]: *chānisaŋse*. I count the six here as (1) being cushioned and having a great body, (2) knowledge of the Eightfold Path and the four fruits of monkhood, (3) knowledge of giving, taming, self-control and the forms of boundlessness, (4) knowledge of vows, virtues, practices and good manners, (5) knowledge of walking back and forth, striving, and exertion, and (6) knowledge of morality, meditation, wisdom and unsurpassed freedom.
 
-[^518]: or “lifted up” “placed upon”: *reading upadhemi* with BJTS for PTS *uppademi*
+[^518]: or “lifted up” “placed upon”: *reading upadhemi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *uppademi*
 
-[^519]: reading *mama* (gen., lit., “to me \[there are\]“) with BJTS (and PTS alt.) for PTS *mamaŋ* (gen. or acc.)
+[^519]: reading *mama* (gen., lit., “to me \[there are\]“) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mamaŋ* (gen. or acc.)
 
 [^520]: *uttamaṅgaŋ*, “supreme limbs”
 
@@ -2136,7 +2136,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^524]: *saññame* = alt. spelling of *saṃyame*
 
-[^525]: *appamaññesu* (BJTS reads *appamaññāsu*) *rūpisu*, that is, the four *brahmā-vihāras* or godly states: love (*mettā*), compassion (*karuṇā*), sympathetic joy (*muditā*) and equanimity (*upekkhā*).
+[^525]: *appamaññesu* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *appamaññāsu*) *rūpisu*, that is, the four *brahmā-vihāras* or godly states: love (*mettā*), compassion (*karuṇā*), sympathetic joy (*muditā*) and equanimity (*upekkhā*).
 
 [^526]: *vihāre*
 
@@ -2144,7 +2144,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^528]: *guṇe*
 
-[^529]: reading *paṭipatti* with BJTS for PTS *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ame*, “the fifth”
+[^529]: reading *paṭipatti* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ame*, “the fifth”
 
 [^530]: *ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārakiriyāsu <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, or “among the forms of right practice”
 
@@ -2166,17 +2166,17 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^539]: *vihārāmi*
 
-[^540]: *palālapīṭhe*, BJTS reads *phalapīṭhe*, stools made of fruit (gourds?)
+[^540]: *palālapīṭhe*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *phalapīṭhe*, stools made of fruit (gourds?)
 
-[^541]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^541]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
-[^542]: BJTS (and PTS alt.) read *dvānisaŋse* (“two results”) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturānisaŋse*, “four results.” I count four here so stick with the PTS reading: excellent palanquins made of (1) gold, (2) gems, (3) ivory, and (4) fine wood
+[^542]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) read *dvānisaŋse* (“two results”) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturānisaŋse*, “four results.” I count four here so stick with the <abbr title="Pali Text Society">PTS</abbr> reading: excellent palanquins made of (1) gold, (2) gems, (3) ivory, and (4) fine wood
 
 [^543]: *danta-sāra-maye*
 
 [^544]: *pādapīṭhe*
 
-[^545]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^545]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^546]: *dvānisaŋse*. I count the two here as (1) receiving many vehicles, and (2) being properly cared for by slaves, wives and other dependents.
 
@@ -2184,13 +2184,13 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^548]: *sammā*
 
-[^549]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^549]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
-[^550]: *tel’abbhañjane*, BJTS gloss specifies that these are oils for rubbing on the body
+[^550]: *tel’abbhañjane*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss specifies that these are oils for rubbing on the body
 
 [^551]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) good health, (2) beauty, (3) quick understanding (or application) of the *Dhamma*, (4) receipt of food and drink, and (5) long life.
 
-[^552]: *nisantitā*, lit., applying, carefully observing; I follow the BJTS Sinh. gloss (*väṭahena*) in this translation of the term as “grasping” (understanding).
+[^552]: *nisantitā*, lit., applying, carefully observing; I follow the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss (*väṭahena*) in this translation of the term as “grasping” (understanding).
 
 [^553]: *ayu*
 
@@ -2202,17 +2202,17 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^557]: °*tanujo*
 
-[^558]: *mukhadhovanakaŋ*. BJTS (and PTS alt.) read *mukhasodhanakaṃ*, with the same meaning.
+[^558]: *mukhadhovanakaŋ*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) read *mukhasodhanakaṃ*, with the same meaning.
 
 [^559]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ānisaŋse*. I count the five here as (1) a clean (or clear) throat, (2) sweet sounding \[voice\], (3) free of coughs, (4) free of asthma, and (5) breath which smells like blue lotuses.
 
 [^560]: *visuddhakaṇṭho*
 
-[^561]: *madhurassaro* (BJTS reads *madhurasaro*)
+[^561]: *madhurassaro* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *madhurasaro*)
 
-[^562]: *kāsassāsavivajjito* (BJTS reads *kāsasāsa°*)
+[^562]: *kāsassāsavivajjito* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kāsasāsa°*)
 
-[^563]: reading *uppalagandho* with BJTS for PTS *upphalagandho* (probably a typo)
+[^563]: reading *uppalagandho* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *upphalagandho* (probably a typo)
 
 [^564]: *sampannaŋ*
 
@@ -2222,9 +2222,9 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^567]: *amataŋ*
 
-[^568]: reading *vittaṃ* (possessions, wealth) with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ* (“heart”), though BJTS alt. *bhattaṃ* (“rice”) would provide the cleanest reading.
+[^568]: reading *vittaṃ* (possessions, wealth) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ* (“heart”), though <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. *bhattaṃ* (“rice”) would provide the cleanest reading.
 
-[^569]: lit., “excellent (*varaŋ*) mindfulness of body (*kāyagataŋ satiŋ*); BJTS reads *varaṃ kayāgatāsatiṃ*, with the same meaning.
+[^569]: lit., “excellent (*varaŋ*) mindfulness of body (*kāyagataŋ satiŋ*); <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *varaṃ kayāgatāsatiṃ*, with the same meaning.
 
 [^570]: *°upetaŋ*, lit., “furnished with.” The implication is that the honey had good color, scent and taste
 
@@ -2248,13 +2248,13 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^580]: *bhave*, lit., “in existence”
 
-[^581]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^581]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
 [^582]: *dhūmaŋ*
 
 [^583]: lit., “for the Well-Gone-One”
 
-[^584]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. BJTS reads *gaṇa* (“group”) here as elsewhere.
+[^584]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
 [^585]: *dasānisaŋse*. I count the ten here as (1)
 
@@ -2266,7 +2266,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^589]: *tikkhapañño bhūripañño*, lit., “I’m one with sharp wisdom, I’m one with extensive wisdom”
 
-[^590]: reading *hāsa*&lt;*hāsu°* with BJTS (and PTS alt.) for PTS *bhāsa-gambhīra-pañño*
+[^590]: reading *hāsa*&lt;*hāsu°* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *bhāsa-gambhīra-pañño*
 
 [^591]: *bhave*, lit., “in existence”
 
@@ -2274,6 +2274,6 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^593]: *santisukhaŋ sivaŋ*
 
-[^594]: cf. \#15, and note, above. BJTS spells the name *Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha*. He seems to have been a historical monk, much-mentioned in the canon and commentaries. “Pilinda” was his given name, “Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha” refers to his *gotta* (lineage).
+[^594]: cf. \#15, and note, above. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spells the name *Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha*. He seems to have been a historical monk, much-mentioned in the canon and commentaries. “Pilinda” was his given name, “Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha” refers to his *gotta* (lineage).
 
-[^595]: BJTS spells the name *Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha*.
+[^595]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spells the name *Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha*.

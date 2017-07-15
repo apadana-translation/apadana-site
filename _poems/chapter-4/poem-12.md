@@ -51,4 +51,4 @@ Thus indeed Bhikkhunī Salalapupphikā spoke these verses.
 
 The legend of Salalapupphikā Therī is finished.
 
-[^1]: “Salala-Flower-er”. PTS reads *saḷala*.
+[^1]: “Salala-Flower-er”. <abbr title="Pali Text Society">PTS</abbr> reads *saḷala*.

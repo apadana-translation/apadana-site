@@ -146,7 +146,7 @@ Thus indeed Venerable Sabbaphaladāyaka Thera spoke these verses.
 
 The legend of Sabbaphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Every Fruit Donor”
 
@@ -156,19 +156,19 @@ The legend of Sabbaphaladāyaka Thera is finished.
 
 [^5]: *ānubhāvena*, elsewhere “majesty”
 
-[^6]: reading *taṃ* with BJTS (and PTS alt.) for PTS *ahaŋ* (“I”)
+[^6]: reading *taṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *ahaŋ* (“I”)
 
-[^7]: *pattapuṭaŋ*, BJTS Sinh. gloss *koḷagoṭuwak*
+[^7]: *pattapuṭaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *koḷagoṭuwak*
 
-[^8]: reading *sahakhārim* with BJTS (lit., “with the *khārī* \[measure\],” following BJTS Sinh. gloss *koḷa goṭuva sahitava ma* (“together with the satchel made of leaves”) for PTS *sākhārikaŋ* (?)
+[^8]: reading *sahakhārim* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (lit., “with the *khārī* \[measure\],” following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *koḷa goṭuva sahitava ma* (“together with the satchel made of leaves”) for <abbr title="Pali Text Society">PTS</abbr> *sākhārikaŋ* (?)
 
-[^9]: *khāribhāraŋ*, also “shoulder yoke,” perhaps “load in a *khārī*”. BJTS Sinh gloss understands the term to mean the load, a *khārī* heavy, within the satchel made of leaves.
+[^9]: *khāribhāraŋ*, also “shoulder yoke,” perhaps “load in a *khārī*”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh gloss understands the term to mean the load, a *khārī* heavy, within the satchel made of leaves.
 
 [^10]: *paribhutte*, lit., “uses”
 
 [^11]: *puññaŋ*, lit., “merit”
 
-[^12]: reading *puṭakaṃ taṃ* with BJTS for PTS *puṭikantaŋ* (“pleasant satchel)
+[^12]: reading *puṭakaṃ taṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *puṭikantaŋ* (“pleasant satchel)
 
 [^13]: lit., “meritorious”
 
@@ -178,9 +178,9 @@ The legend of Sabbaphaladāyaka Thera is finished.
 
 [^16]: *yakkhā*
 
-[^17]: reading *bhūtā* with BJTS for PTS *bhutā*, “become”
+[^17]: reading *bhūtā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *bhutā*, “become”
 
-[^18]: reading *kummā soṇā* with BJTS for PTS *Kumbhasoṇā* (“water-jug \[sized\] dogs”?)
+[^18]: reading *kummā soṇā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Kumbhasoṇā* (“water-jug \[sized\] dogs”?)
 
 [^19]: *ḍaŋsā*
 
@@ -194,11 +194,11 @@ The legend of Sabbaphaladāyaka Thera is finished.
 
 [^24]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^25]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note BJTS omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
+[^25]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
 
 [^26]: *osadhī* = *osadha*, (medicinal) herbs, medicinal ingredients, plants
 
-[^27]: *tiṇa*. BJTS takes the compound to imply “in trees, etc.,” i.e., beings who live in plants in general.
+[^27]: *tiṇa*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> takes the compound to imply “in trees, etc.,” i.e., beings who live in plants in general.
 
 [^28]: *sududdasaŋ*, lit., “very hard to see”
 

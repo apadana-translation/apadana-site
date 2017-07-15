@@ -52,7 +52,7 @@ one fewer than sixty verses.
 
 The Bodhivandaka Chapter, the Thirty-Eighth
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “*Kāsumāri*-Fruit Donor.” This *apadāna* also appears as \#500 {503} below, with the same name and only the slight change that the first and second verses of the three-verse concluding refrain are inverted.
 

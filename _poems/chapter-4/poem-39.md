@@ -102,11 +102,11 @@ The legend of the bhikkhunī Ambapālī is finished
 
 [^6]: *tapassinī*, lit., “a female practitioner of austerities”
 
-[^7]: *bhuttā…yathā;* BJTS reads *bhutvā*
+[^7]: *bhuttā…yathā;* <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *bhutvā*
 
 [^8]: *kassape jinasāsane*, lit., “in the dispensation of the Victor, Kassapa \[Buddha\]”
 
-[^9]: reading *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyam* with BJTS for PTS *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eram*, lit., “the Brahma-life” “the holy life” “celibacy”
+[^9]: reading *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyam* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eram*, lit., “the Brahma-life” “the holy life” “celibacy”
 
 [^10]: i.e., the thirty-three gods.
 
@@ -114,4 +114,4 @@ The legend of the bhikkhunī Ambapālī is finished
 
 [^12]: it. “I went forth in the Victor’s dispensation”
 
-[^13]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*, Great Sage.
+[^13]: reading *mahāmune* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mahāmuni*, Great Sage.

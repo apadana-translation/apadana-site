@@ -46,12 +46,12 @@ as exactly forty plus one.
 
 The Thomaka Chapter, the Twenty-Sixth
 
-[^1]: “*Agga*-Flower-er”. BJTS takes *agga* (“first” or “chief”) or *aggaja* (“first born” or “eldest brother”) as the name of a flower, which is reasonable given the context of its usage here, and is also the conclusion of the cty: “*Aggajaṃ puppham ādāya ti aggaja-nāmakaṃ pupphaṃ*…”
+[^1]: “*Agga*-Flower-er”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> takes *agga* (“first” or “chief”) or *aggaja* (“first born” or “eldest brother”) as the name of a flower, which is reasonable given the context of its usage here, and is also the conclusion of the cty: “*Aggajaṃ puppham ādāya ti aggaja-nāmakaṃ pupphaṃ*…”
 
-[^2]: one is tempted to take the literal meaning (“first born” etc.) as a proper name of the flower and translate accordingly, but I have not found the term in dictionaries so that would imply too much certainly about it. The PTS ed. gives the name of the monk as Aggapupphiya, and it is thus unclear whether *agga* or *aggaja* would be the flower's name. It is also possible, contra the BJTS, to see this not as the *name* of the flower but rather some characteristic of it, e.g., “first blossom” on a plant, or “produced (*jan*) through some chief/top/best method (*agga*).
+[^2]: one is tempted to take the literal meaning (“first born” etc.) as a proper name of the flower and translate accordingly, but I have not found the term in dictionaries so that would imply too much certainly about it. The <abbr title="Pali Text Society">PTS</abbr> ed. gives the name of the monk as Aggapupphiya, and it is thus unclear whether *agga* or *aggaja* would be the flower's name. It is also possible, contra the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, to see this not as the *name* of the flower but rather some characteristic of it, e.g., “first blossom” on a plant, or “produced (*jan*) through some chief/top/best method (*agga*).
 
 [^3]: *sikhī*, a play on the meaning of the Buddha’s name. It can also mean “peacock.”
 
 [^4]: “Boundless”
 
-[^5]: omitting *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* following PTS alternative as well as BJTS. This keeps the meter right, in Pāli as much as in English. There are anyway already two *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*\s in the following line, which keeps the English awkward enough.
+[^5]: omitting *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* following <abbr title="Pali Text Society">PTS</abbr> alternative as well as <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>. This keeps the meter right, in Pāli as much as in English. There are anyway already two *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*\s in the following line, which keeps the English awkward enough.

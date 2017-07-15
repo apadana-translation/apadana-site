@@ -92,13 +92,13 @@ The legend of Aḍḍhakāsikā Therī[^17] is finished
 
 [^1]: “Half a Benares Thousand \[Whore\],” “She \[Whose Daytime Price\] is Half a Benares Thousand,” as historical nun, remembered as the precedent for the giving of ordination by messenger. See DPPN I:50. Here the ordination is specifically called *upasampadā*, “higher ordination”
 
-[^2]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “Named Kassapa according to his Lineage (*gottena*)”
 
 [^3]: *patimokkhamhi*, lit “in \[read “through”?\] the fortnightly recitation/227 rules
 
-[^4]: reading *mataññutnī* (lit., “one who knows the limit”) *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a asane* (“in eating”), with BJTS for PTS *mataññū nī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a-āsane* (”moderate on a high seat” ?)
+[^4]: reading *mataññutnī* (lit., “one who knows the limit”) *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a asane* (“in eating”), with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mataññū nī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a-āsane* (”moderate on a high seat” ?)
 
-[^5]: reading *jāgariye pi* with BJTS for PTS *jāgariyesu*
+[^5]: reading *jāgariye pi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *jāgariyesu*
 
 [^6]: *vigatāsavaŋ*
 
@@ -112,9 +112,9 @@ The legend of Aḍḍhakāsikā Therī[^17] is finished
 
 [^11]: *tadā…°atthāya*, lit., “then…for the sake of”
 
-[^12]: PTS reads *tadā ‘pasampadatthāya*, with incorrect *sandhi*; BJTS reads, correctly, *tatopasampadatthāya*, cf. PTS alt. (also correct) *tad’ upa°*
+[^12]: <abbr title="Pali Text Society">PTS</abbr> reads *tadā ‘pasampadatthāya*, with incorrect *sandhi*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads, correctly, *tatopasampadatthāya*, cf. <abbr title="Pali Text Society">PTS</abbr> alt. (also correct) *tad’ upa°*
 
-[^13]: reading *sutvā* with BJTS for PTS *disvā* (“seeing”). Neither edition indicates variance in its reading of the verb.
+[^13]: reading *sutvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *disvā* (“seeing”). Neither edition indicates variance in its reading of the verb.
 
 [^14]: *ṭhite*, lit., “were standing on” “remained on”
 
@@ -122,4 +122,4 @@ The legend of Aḍḍhakāsikā Therī[^17] is finished
 
 [^16]: or “transmigration,” *°saŋsārā*
 
-[^17]: the BJTS reading for PTS *bhikkhunī Aḍḍhakāsikā*
+[^17]: the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading for <abbr title="Pali Text Society">PTS</abbr> *bhikkhunī Aḍḍhakāsikā*

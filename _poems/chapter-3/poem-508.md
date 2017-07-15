@@ -36,12 +36,12 @@ Thus indeed Venerable Amoraphaliya[^4] Thera spoke these verses.
 
 The legend of Amoraphaliya[^5] Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “*Amora-*Fruit Donor.” BJTS reads *amodaphala°*. The same *apadāna* is presented below as \#509 {512} woth the slight difference that the name of the fruit in v. 1, and hence of the donor, is *kapittha*/*Kapitthaphaladāyaka* rather than *amora*/*Amoraphaliya*
+[^2]: “*Amora-*Fruit Donor.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *amodaphala°*. The same *apadāna* is presented below as \#509 {512} woth the slight difference that the name of the fruit in v. 1, and hence of the donor, is *kapittha*/*Kapitthaphaladāyaka* rather than *amora*/*Amoraphaliya*
 
-[^3]: BJTS reads *amoda*
+[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *amoda*
 
-[^4]: BJTS reads *amodaphala°*.
+[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *amodaphala°*.
 
-[^5]: BJTS reads *amodaphala°*.
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *amodaphala°*.

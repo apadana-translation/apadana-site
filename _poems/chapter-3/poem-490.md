@@ -179,7 +179,7 @@ that are counted by those who know.
 
 The Paŋsukūla Chapter, the Forty-Ninth
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “*Sal*-Pavilion-er”
 
@@ -199,16 +199,16 @@ The Paŋsukūla Chapter, the Forty-Ninth
 
 [^10]: *gandhagandhī*, taking the repetition as intensifying, but this could also be translated “perfumes and incense” or “scents and incense”
 
-[^11]: reading *sammatāḷa°* (BJTS) for *samatāḷa°* (PTS).
+[^11]: reading *sammatāḷa°* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *samatāḷa°* (<abbr title="Pali Text Society">PTS</abbr>).
 
 [^12]: lit., “his meritorious karma”
 
-[^13]: BJTS reads *hessati sabbakālikaŋ* (“it will be all the time” “exists \[for me\] all the time”), a foot which PTS includes in the following verse, absent from BJTS
+[^13]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *hessati sabbakālikaŋ* (“it will be all the time” “exists \[for me\] all the time”), a foot which <abbr title="Pali Text Society">PTS</abbr> includes in the following verse, absent from <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 
 [^14]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
 
-[^15]: This verse does not appear in BJTS
+[^15]: This verse does not appear in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 
 [^16]: lit., “did *pūjā*”
 
-[^17]: PTS reads *valliṅkara*, I follow BJTS here
+[^17]: <abbr title="Pali Text Society">PTS</abbr> reads *valliṅkara*, I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> here

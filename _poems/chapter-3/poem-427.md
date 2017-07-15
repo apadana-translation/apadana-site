@@ -109,32 +109,32 @@ Thus indeed Venerable Ekadhammasavanīya Thera spoke these verses.
 
 The legend of Ekadhammasavanīya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “One-Teaching-Hearer.” BJTS spells the name *Ekadammasavaṇīya*
+[^2]: “One-Teaching-Hearer.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spells the name *Ekadammasavaṇīya*
 
 [^3]: *jaṭila*, an ascetic who wears his hair in a matted braid (*jaṭā*)
 
-[^4]: lit., “I was one who practices fierce austerities,” reading *ugga-tāpano* with BJTS (and PTS alternative) for PTS *uggata-āpaṇa*, “rising over the bazaar”
+[^4]: lit., “I was one who practices fierce austerities,” reading *ugga-tāpano* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternative) for <abbr title="Pali Text Society">PTS</abbr> *uggata-āpaṇa*, “rising over the bazaar”
 
 [^5]: *na gantuŋ visahām’ ahaŋ*
 
 [^6]: lit., “I do not receive going”
 
-[^7]: reading *‘vokammitvāna* (“set out”) with BJTS for PTS *vomisitvāna* (?).
+[^7]: reading *‘vokammitvāna* (“set out”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vomisitvāna* (?).
 
 [^8]: lit., “taking the perception of impermanence”
 
 [^9]: lit., “the Good Teaching,” *saddhamma°*
 
-[^10]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^10]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
 [^11]: lit., “merit,” *sakaŋ puññaŋ*
 
 [^12]: *na koṭi paṭivijjhāmi*
 
-[^13]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^13]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
-[^14]: *kathāyaŋ* (BJTS reads *kath’ ayaṃ*)
+[^14]: *kathāyaŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kath’ ayaṃ*)
 
 [^15]: reading *ani<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>atam udāhari*

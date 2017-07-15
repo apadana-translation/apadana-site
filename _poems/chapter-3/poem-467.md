@@ -49,14 +49,14 @@ Thus indeed Venerable Labujadāyaka Thera spoke these verses.
 
 The legend of Labujadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Breadfruit Donor.” This same *apadāna* (with the slight difference that the fifth and sixth verses are inverted there) appears above, with the same title in BJTS (PTS gives Labujaphaladāyaka), as \#379 \[382\], above. It also appears below, titled *Nāḷikeradāyaka°*, with the slight change of the first foot of the second verse to read “coconut” rather than “breadfruit”
+[^2]: “Breadfruit Donor.” This same *apadāna* (with the slight difference that the fifth and sixth verses are inverted there) appears above, with the same title in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (<abbr title="Pali Text Society">PTS</abbr> gives Labujaphaladāyaka), as \#379 \[382\], above. It also appears below, titled *Nāḷikeradāyaka°*, with the slight change of the first foot of the second verse to read “coconut” rather than “breadfruit”
 
 [^3]: *ārāmika*, lit., “hermitage attendant” or “hermitage dweller”
 
 [^4]: Artocarpus lacucha or incisa; Sinh. *del*. The fruit of the tree is cooked and eaten as a starchy vegetable.
 
-[^5]: lit., “from where to there” (*yahiŋ tahiŋ*, PTS) or “from there to there” (*tahiṃ tahiṃ*, BJTS and PTS alt.)
+[^5]: lit., “from where to there” (*yahiŋ tahiŋ*, <abbr title="Pali Text Society">PTS</abbr>) or “from there to there” (*tahiṃ tahiṃ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt.)
 
-[^6]: PTS treats these as two verses of six feet each; BJTS treats them as three typical four-footed verses. BJTS is presumably correct, since the parallel *apadāna*,
+[^6]: <abbr title="Pali Text Society">PTS</abbr> treats these as two verses of six feet each; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> treats them as three typical four-footed verses. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> is presumably correct, since the parallel *apadāna*,

@@ -150,11 +150,11 @@ Thus indeed Venerable Dhotaka Thera spoke these verses.
 
 The legend of Dhotaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Wash-er”
 
-[^3]: This is the BJTS spelling; PTS gives *Bhāgīrasī*
+[^3]: This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling; <abbr title="Pali Text Society">PTS</abbr> gives *Bhāgīrasī*
 
 [^4]: or through? *dvārena*
 
@@ -162,7 +162,7 @@ The legend of Dhotaka Thera is finished.
 
 [^6]: lit., “sat down”
 
-[^7]: “Six Limbs” or “Six Branches,” as in the six branches of Vedic science. BJTS spells the name *Chaḷanga*
+[^7]: “Six Limbs” or “Six Branches,” as in the six branches of Vedic science. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spells the name *Chaḷanga*
 
 [^8]: lit., “eighteen hundred”
 
@@ -180,15 +180,15 @@ The legend of Dhotaka Thera is finished.
 
 [^15]: *kāraŋ*
 
-[^16]: I BJTS follow BJTS’s treatment of *kataŋ kāraŋ vipulam me bhavissati* as a saying in which the protagonist cultivates trust.
+[^16]: I <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>’s treatment of *kataŋ kāraŋ vipulam me bhavissati* as a saying in which the protagonist cultivates trust.
 
-[^17]: lit., doing, *katvā*, BJTS alt. corrects to *datvā*
+[^17]: lit., doing, *katvā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. corrects to *datvā*
 
 [^18]: *mahā°*
 
 [^19]: lit., “from”
 
-[^20]: reading *darito* with BJTS for PTS *dalito* “broken off” (but cf. RD, *darī* s.v., *dal* is alt. for *dar* in derivatives of this noun.
+[^20]: reading *darito* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dalito* “broken off” (but cf. RD, *darī* s.v., *dal* is alt. for *dar* in derivatives of this noun.
 
 [^21]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>uto*, which literally means “fallen” as well, paralleling the actual “falling” (*patito*) governing the first two feet of the verse with a metaphorical one (“fallen from life”) governing the third foot.
 
@@ -202,13 +202,13 @@ The legend of Dhotaka Thera is finished.
 
 [^26]: *amittā*, “non-friends”
 
-[^27]: PTS read *sahissanti*, BJTS (and PTS alt.) reads *pasahanti*; though the latter is in the present indicative it can also be read as a future-tense verb, hence the two readings produce the same meaning.
+[^27]: <abbr title="Pali Text Society">PTS</abbr> read *sahissanti*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) reads *pasahanti*; though the latter is in the present indicative it can also be read as a future-tense verb, hence the two readings produce the same meaning.
 
-[^28]: PTS read *sahissanti*, BJTS (and PTS alt.) reads *pasahanti*; though the latter is in the present indicative it can also be read as a future-tense verb, hence the two readings produce the same meaning.
+[^28]: <abbr title="Pali Text Society">PTS</abbr> read *sahissanti*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) reads *pasahanti*; though the latter is in the present indicative it can also be read as a future-tense verb, hence the two readings produce the same meaning.
 
 [^29]: lit., “of him,” i.e., “bring about the defeat of him”
 
-[^30]: *khattiyo*, lit., “ the warrior (kṣatriyan).” BJTS (and PTS alt.) read this in the plural: *nâtimaññanti khattiyā*, in which case read “kings” or else “noblemen”.
+[^30]: *khattiyo*, lit., “ the warrior (kṣatriyan).” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) read this in the plural: *nâtimaññanti khattiyā*, in which case read “kings” or else “noblemen”.
 
 [^31]: *amitte*, “non-friends”
 
@@ -230,4 +230,4 @@ The legend of Dhotaka Thera is finished.
 
 [^40]: *nirūpadhi*
 
-[^41]: note that BJTS inverts the first and second verses of the three-verse concluding refrain.
+[^41]: note that <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> inverts the first and second verses of the three-verse concluding refrain.

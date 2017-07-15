@@ -43,9 +43,9 @@ The legend of Isimuggadāyaka Thera is finished.
 
 [^1]: “Sage’s Mung Donor”
 
-[^2]: reading *piṃsetvā* with BJTS for PTS *nisandhetvā*
+[^2]: reading *piṃsetvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *nisandhetvā*
 
-[^3]: this translation of *anīḷake* follows BJTS
+[^3]: this translation of *anīḷake* follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 
 [^4]: *duggatiŋ nûpapajj’ ahaŋ*
 

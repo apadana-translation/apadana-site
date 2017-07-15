@@ -46,12 +46,12 @@ Thus indeed Venerable Ghosasaññaka Thera spoke these verses.
 
 The legend of Ghosasaññaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Sound-Perceiver”
 
 [^3]: *devasaṅghapurakkhataŋ*
 
-[^4]: reading *asamappaṭipuggale* with BJTS for PTS *asamappaṭipuggalaŋ* (in which case the epithet stands in apposition to “heart” or “difficult to cross”
+[^4]: reading *asamappaṭipuggale* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *asamappaṭipuggalaŋ* (in which case the epithet stands in apposition to “heart” or “difficult to cross”
 
-[^5]: Here a piece of broken type make the “6” in “5506” appear as a “4”, which unfortunately seems to have affected the subsequent numbering, beginning the next *apadāna* with 5505 (actually, 5555) rather than 5507. I have stuck with the BJTS numbering despite this error, which leaves us with two verses numbers 5504 and two verses number 5505.
+[^5]: Here a piece of broken type make the “6” in “5506” appear as a “4”, which unfortunately seems to have affected the subsequent numbering, beginning the next *apadāna* with 5505 (actually, 5555) rather than 5507. I have stuck with the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> numbering despite this error, which leaves us with two verses numbers 5504 and two verses number 5505.

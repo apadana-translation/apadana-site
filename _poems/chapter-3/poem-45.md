@@ -43,11 +43,11 @@ The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="
 
 [^1]: “Five Handfuls”
 
-[^2]: reading *okhitta-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu* (BJTS, cty) for *khitta-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu* (“thrown eyes,” PTS).
+[^2]: reading *okhitta-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty) for *khitta-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu* (“thrown eyes,” <abbr title="Pali Text Society">PTS</abbr>).
 
-[^3]: reading *ahamsu* (BJTS) for *akāsi* (PTS)
+[^3]: reading *ahamsu* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *akāsi* (<abbr title="Pali Text Society">PTS</abbr>)
 
-[^4]: BJTS gloss: *mudun malkaḍa*
+[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss: *mudun malkaḍa*
 
 [^5]: *saŋsāviŋsu* fr. *saṃsāveti*, to flow together to
 

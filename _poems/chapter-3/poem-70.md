@@ -61,10 +61,10 @@ The Saka<span class="diacritics" data-state="on">c</span><span class="no-diacrit
 
 [^1]: “Flower-Casket-er”
 
-[^2]: PSI: *Anoja* is a kind of tree which bears yellow-colored flowers. RD: a tree or shrub that bears red flowers, unsed in wreaths etc. BJTS reads *aneja* in this verse (a typo; *anojaṃ* in \[1418\]) and glosses *kaṭukaraṇḍu* = “a plant, Barberia prionitis (*Acanth.*)”
+[^2]: PSI: *Anoja* is a kind of tree which bears yellow-colored flowers. RD: a tree or shrub that bears red flowers, unsed in wreaths etc. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *aneja* in this verse (a typo; *anojaṃ* in \[1418\]) and glosses *kaṭukaraṇḍu* = “a plant, Barberia prionitis (*Acanth.*)”
 
 [^3]: though I have translated the string of epithets in the first two verses as though they were nominatives, in fact they are all in the accusative case to agree with “Best Buddha”. Thus literally the translation should read, “After placing it in a casket, I sprinkled a superb *anoja* flower on the Best Buddha who was like a lion with fearless form…Honored by the Assembly of monks.”
 
 [^4]: “Produced by Gods” or”Abundant Kings”
 
-[^5]: PTS spells the name Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittiya here; BJTS has it right.
+[^5]: <abbr title="Pali Text Society">PTS</abbr> spells the name Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittiya here; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> has it right.

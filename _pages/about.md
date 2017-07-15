@@ -26,18 +26,18 @@ significantly enough that no single one of them could be relied upon
 consistently. While the translator has not produced a new, critical
 edition of his own, he has attempted to redress this problem by using
 multiple editions, side-by-side. In particular, this is a translation of
-*both* the Pali Text Society (PTS) Roman-script edition,[^1] which is
+*both* the Pali Text Society (<abbr title="Pali Text Society">PTS</abbr>) Roman-script edition,[^1] which is
 most widely available in the West, *and* of the Buddha Jayanthi
-Tripitaka Series (BJTS) Sinhala-script edition,[^2] which is most widely
-available in Sri Lanka. In practice, the translation follows the PTS
+Tripitaka Series (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) Sinhala-script edition,[^2] which is most widely
+available in Sri Lanka. In practice, the translation follows the <abbr title="Pali Text Society">PTS</abbr>
 edition wherever possible, but does not shy away from translating the
-BJTS edition instead, in places where it corrects mistakes in the PTS
-edition, includes material not found in the PTS edition, or offers
-significantly more plausible readings of obscure passages. The BJTS
+<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition instead, in places where it corrects mistakes in the <abbr title="Pali Text Society">PTS</abbr>
+edition, includes material not found in the <abbr title="Pali Text Society">PTS</abbr> edition, or offers
+significantly more plausible readings of obscure passages. The <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 edition includes an invaluable Sinhala gloss on each verse, which has
 often been followed in translating such obscure passages. Each of these
-cases is marked with a side note detailing the decision to follow BJTS
-rather than PTS, which provides the alternate PTS reading for interested
+cases is marked with a side note detailing the decision to follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
+rather than <abbr title="Pali Text Society">PTS</abbr>, which provides the alternate <abbr title="Pali Text Society">PTS</abbr> reading for interested
 readers.
 
 Translating both editions at once thus necessitated extensive side notes

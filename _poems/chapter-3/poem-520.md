@@ -54,7 +54,7 @@ three verses more than that \[number\].
 
 The Kureñjiyaphaladāyaka Chapter, the Fifty-Second[^6]
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Pink Lotus Bearer” Virtually the same *apadāna* ascribed to a monk with a similar name (*Padumapūjaka* = “Pink Lotus Offerer”) and differing only in giving ninety-one rather than thirty-one as the number of aeons ago when the good karma was done, and providing only the third verse of the three-verse concluding refrain, is presented above as \#344 {347}
 
@@ -64,4 +64,4 @@ The Kureñjiyaphaladāyaka Chapter, the Fifty-Second[^6]
 
 [^5]: lit., “did *pūjā*”
 
-[^6]: BJTS places this line before, rather than after the summary.
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> places this line before, rather than after the summary.

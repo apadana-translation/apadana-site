@@ -76,7 +76,7 @@ Thus indeed Venerable Pilindava<span class="diacritics" data-state="on">c</span>
 
 The legend of Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha Thera is finished.
 
-[^1]: BJTS gives Pilindiva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha, which is also an alt reading in cty. As DPPN notes this may be a monk different from the famous Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha of whom a much longer *apadāna* appears as \#388 {391}, below.
+[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gives Pilindiva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha, which is also an alt reading in cty. As DPPN notes this may be a monk different from the famous Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha of whom a much longer *apadāna* appears as \#388 {391}, below.
 
 [^2]: i.e., *apsaras*
 

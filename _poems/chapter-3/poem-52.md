@@ -79,4 +79,4 @@ The legend of Sataraŋsika[^5] Thera is finished.
 
 [^4]: *niddhāvate*, could also read, “my light casts out \[the sun’s\],” Sinh: *pähäya nika diveyi*
 
-[^5]: BJTS and PTS agree in making the two colophonic renditions of the name disagree
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> agree in making the two colophonic renditions of the name disagree

@@ -199,7 +199,7 @@ piled on another sixty-two.
 
 The Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna Chapter, the Fifty-Fourth[^44]
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: a historical monk. See DPPN II: 669-670
 
@@ -221,7 +221,7 @@ The Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacriti
 
 [^11]: *nirākulaŋ*
 
-[^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
+[^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
 [^13]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*
 
@@ -233,13 +233,13 @@ The Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacriti
 
 [^17]: i.e., an itinerant worker or a servant
 
-[^18]: BJTS Sinh. gloss (*piriyam no kaḷa bimhi*) seems to take the Pāli as *vasanto ‘katabhūmiyaṃ* (“on an unfinished floor”) rather than (as both editions have it), *vasanto katabhūmiyan*, which means the opposite (“on a finished floor”). The reference to “the earth” (*mahī*) in the final foot may be why the BJTS editor reads it this way, and I follow suit, though it is unclear to me why blackening an unfinished floor would be problematic enough to cause the terrible consequences it does for the protagonist.
+[^18]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss (*piriyam no kaḷa bimhi*) seems to take the Pāli as *vasanto ‘katabhūmiyaṃ* (“on an unfinished floor”) rather than (as both editions have it), *vasanto katabhūmiyan*, which means the opposite (“on a finished floor”). The reference to “the earth” (*mahī*) in the final foot may be why the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> editor reads it this way, and I follow suit, though it is unclear to me why blackening an unfinished floor would be problematic enough to cause the terrible consequences it does for the protagonist.
 
 [^19]: *paṭikkamanasālāyaŋ*, following RD. The sense is of a building whose purpose is keeping the chairs, cushions, mats or what have you that are appointed for distinguished visitors. As the Buddha and monks would have been among the latter, the sooting up of the floor seems to have been especially grave.
 
 [^20]: *lūkha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īvaradhārakaŋ*. *Lūkha°* refers to rough, inferior cloth discarded by tailors
 
-[^21]: *sālapiṇḍitaŋ*, BJTS Sinh. gloss “who has *sālapiṇḍa* (“a lump of food in a hall” “a lump of *sal* “
+[^21]: *sālapiṇḍitaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss “who has *sālapiṇḍa* (“a lump of food in a hall” “a lump of *sal* “
 
 [^22]: “Truth-Army”
 
@@ -247,13 +247,13 @@ The Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacriti
 
 [^24]: lit., “for as long as \[I\] lived”
 
-[^25]: reading *jātiyā lakkhaṇaṅkito* with BJTS for PTS *tatiyākāraṇ’ aṅkita* (“marked in the third mine”?)
+[^25]: reading *jātiyā lakkhaṇaṅkito* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tatiyākāraṇ’ aṅkita* (“marked in the third mine”?)
 
-[^26]: BJTS gloss explains that he was a *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha* or “Lonely Buddha” who realizes nirvana without teaching the path (as does a Sammāsambuddha). Reading *upariṭṭhaṃ yasassinaṃ* with BJTS for PTS *upaṭṭhitaŋ yasassinaŋ* (“I waited on the famous”)
+[^26]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss explains that he was a *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha* or “Lonely Buddha” who realizes nirvana without teaching the path (as does a Sammāsambuddha). Reading *upariṭṭhaṃ yasassinaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *upaṭṭhitaŋ yasassinaŋ* (“I waited on the famous”)
 
 [^27]: lit., “the karma”
 
-[^28]: taking BJTS *ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chime* (for *pa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chime*) as a typographical error
+[^28]: taking <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chime* (for *pa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chime*) as a typographical error
 
 [^29]: lit., “kṣatriyan”
 
@@ -263,9 +263,9 @@ The Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacriti
 
 [^32]: *naranāyakaŋ*
 
-[^33]: reading *taṃ vīraṃ vādisūdanaṃ* with BJTS for PTS *vāhisaŋ vādisūdanaŋ* (“Lord of Speech, Debater-Crusher) and following BJTS Sinh. gloss on *sūdanaṃ* (*maḍinnā*, “Crusher”)
+[^33]: reading *taṃ vīraṃ vādisūdanaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vāhisaŋ vādisūdanaŋ* (“Lord of Speech, Debater-Crusher) and following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss on *sūdanaṃ* (*maḍinnā*, “Crusher”)
 
-[^34]: reading *diṭṭhiṃ te nābhijānāti* with BJTS for PTS *diṭṭhi no nâbhijānāmi*, and following BJTS Sinh. gloss.
+[^34]: reading *diṭṭhiṃ te nābhijānāti* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *diṭṭhi no nâbhijānāmi*, and following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss.
 
 [^35]: or “excellent knowledge,” see under RD *abhikkanta*, s.v. (*°dassāvin*)
 
@@ -275,14 +275,14 @@ The Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacriti
 
 [^38]: *suññato*
 
-[^39]: reading *mogharāja* (voc.) with BJTS for PTS *Mogharājā* (nom.)
+[^39]: reading *mogharāja* (voc.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Mogharājā* (nom.)
 
 [^40]: *attānudiṭṭhiŋ uha<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a*
 
-[^41]: reading *katvā* with BJTS for PTS *hutvā* (“having become”)
+[^41]: reading *katvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *hutvā* (“having become”)
 
 [^42]: lit., “in”
 
 [^43]: *mahā-bhisakko*
 
-[^44]: BJTS places this statement above the summary, rather than after it
+[^44]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> places this statement above the summary, rather than after it

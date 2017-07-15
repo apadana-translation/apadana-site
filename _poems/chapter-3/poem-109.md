@@ -56,11 +56,11 @@ Thus indeed Venerable Biḷālidāyaka Thera spoke these verses.
 
 The legend of Biḷālidāyaka Thera is finished.
 
-[^1]: “Wild-potato-Giver,” reading the name thus with BJTS for PTS *Bilā°*
+[^1]: “Wild-potato-Giver,” reading the name thus with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Bilā°*
 
 [^2]: a wild potherb, Sinh. *wilpalā*
 
-[^3]: neither of these is in *Pali-Sinhala-Ingirīsi Śabdakoṣaya*; BJTS Sinhala gloss explains them as types of wild potato (Sinh. *ala*), which is clear from the context too.
+[^3]: neither of these is in *Pali-Sinhala-Ingirīsi Śabdakoṣaya*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss explains them as types of wild potato (Sinh. *ala*), which is clear from the context too.
 
 [^4]: *kolaŋ*, Sinh. *ḍebara*
 
@@ -72,4 +72,4 @@ The legend of Biḷālidāyaka Thera is finished.
 
 [^8]: lit., "Supreme Buddha’s”
 
-[^9]: PTS and BJTS invert the order of this and the next verse
+[^9]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> invert the order of this and the next verse

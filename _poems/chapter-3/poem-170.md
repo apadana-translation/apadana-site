@@ -51,7 +51,7 @@ The Supāri<span class="diacritics" data-state="on">c</span><span class="no-diac
 
 [^2]: *gandhakuṭiŋ*, Sinhala *gandakiḷiya*
 
-[^3]: reading *appasaddo* with BJTS for PTS *appasādo* (“unpleased”)
+[^3]: reading *appasaddo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *appasādo* (“unpleased”)
 
 [^4]: lit., “gave”
 

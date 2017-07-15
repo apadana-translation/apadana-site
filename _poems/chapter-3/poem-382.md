@@ -50,9 +50,9 @@ Thus indeed Venerable Labujaphaladāyaka Thera spoke these verses.
 
 The legend of Labujaphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Breadfruit Fruit Donor.” BJTS omits *phala* from the name.
+[^2]: “Breadfruit Fruit Donor.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits *phala* from the name.
 
 [^3]: *ārāmika*, lit., “hermitage attendant” or “hermitage dweller”
 
@@ -60,6 +60,6 @@ The legend of Labujaphaladāyaka Thera is finished.
 
 [^5]: perhaps implying a wish-fulfilling gem, or else a gem of great value that could fund all needs (effectively, the same thing)
 
-[^6]: lit., “from where to there” (*yahiŋ tahiŋ*, PTS) or “from there to there” (*tahiṃ tahiṃ*, BJTS and PTS alt.)
+[^6]: lit., “from where to there” (*yahiŋ tahiŋ*, <abbr title="Pali Text Society">PTS</abbr>) or “from there to there” (*tahiṃ tahiṃ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt.)
 
-[^7]: PTS treats these as two verses of six feet each; BJTS treats them as three typical four-footed verses. BJTS is presumably correct, since the parallel *apadāna*,
+[^7]: <abbr title="Pali Text Society">PTS</abbr> treats these as two verses of six feet each; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> treats them as three typical four-footed verses. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> is presumably correct, since the parallel *apadāna*,

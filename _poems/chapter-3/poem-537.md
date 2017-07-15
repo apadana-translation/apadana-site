@@ -157,9 +157,9 @@ Thus indeed Venerable Mahākoṭṭhika Thera spoke these verses.
 
 The legend of Mahākoṭṭhika Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: BJTS reads *Koṭṭhita*
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Koṭṭhita*
 
 [^3]: this and the following five verses also appear, verbatim, as the first six verses of Dabbamalla’s *apadāna* (\#531 {534}, above; \[5769\]-\[5774\])
 
@@ -179,7 +179,7 @@ The legend of Mahākoṭṭhika Thera is finished.
 
 [^11]: *nirākulaŋ*
 
-[^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is BJTS Sinhala gloss reading; I construe the epithet as *su* + *ñata*
+[^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
 [^13]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*
 
@@ -187,13 +187,13 @@ The legend of Mahākoṭṭhika Thera is finished.
 
 [^15]: *kañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
-[^16]: reading *sattasāraggaṃ* with BJTS for PTS *sattapāraṅgaŋ* (“going beyond \[or crossing, surmounting\] beings”)
+[^16]: reading *sattasāraggaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sattapāraṅgaŋ* (“going beyond \[or crossing, surmounting\] beings”)
 
 [^17]: *pabhinnamatigo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araŋ*, lit., "he whose pasturage was developed thought”
 
 [^18]: *jinavaraŋ*
 
-[^19]: reading *buddhisāgaraṃ* with BJTS (and PTS alt.) for PTS *buddhasāgaraŋ* (“Ocean of Buddhas” or “Buddha-Ocean”)
+[^19]: reading *buddhisāgaraṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *buddhasāgaraŋ* (“Ocean of Buddhas” or “Buddha-Ocean”)
 
 [^20]: *kamalodarasappabhaŋ*
 
@@ -209,7 +209,7 @@ The legend of Mahākoṭṭhika Thera is finished.
 
 [^26]: i.e., Mahāmoggallāna (*Therāpadāna* \#2)
 
-[^27]: i.e., Sāriputta (*Therāpadāna* \#1), reading *sārisambhavo* with BJTS for PTS *Sari°*
+[^27]: i.e., Sāriputta (*Therāpadāna* \#1), reading *sārisambhavo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Sari°*
 
 [^28]: lit., “in that foremost place”
 

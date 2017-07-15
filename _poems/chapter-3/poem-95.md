@@ -42,8 +42,8 @@ Thus indeed Venerable Gandhamāliya Thera spoke these verses.
 
 The legend of Gandhamāliya Thera is finished.
 
-[^1]: “Perfumed Garland-er.” Cf. \#332 {BJTS only}, below, which is virtually identical save the addition of a verse here (v. 5) and related corruption of v. 4.
+[^1]: “Perfumed Garland-er.” Cf. \#332 {<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> only}, below, which is virtually identical save the addition of a verse here (v. 5) and related corruption of v. 4.
 
-[^2]: BJTS agrees with PTS in presenting this as a six-footed verse
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agrees with <abbr title="Pali Text Society">PTS</abbr> in presenting this as a six-footed verse
 
 [^3]: “Divine Perfume”

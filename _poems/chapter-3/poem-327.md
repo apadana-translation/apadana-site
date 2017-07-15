@@ -134,15 +134,15 @@ Thus indeed Venerable Nigguṇḍipupphiya Thera spoke these verses.
 
 The legend of Nigguṇḍipupphiya Thera is finished.
 
-[^1]: “*Nigguṇḍi*-Flower-er.” Cf. \#205, above. Here PTS spells through nearly certain error *Nigguṇṭhi°*. I follow the BJTS reading here. *Nigguṇḍi* is a kind of tree, *Vitex negunda*. Sinh: *nika*, Engl. “chaste tree,” “Chinese chaste tree” “five-leafed chaste tree” “horseshoe vitex”.
+[^1]: “*Nigguṇḍi*-Flower-er.” Cf. \#205, above. Here <abbr title="Pali Text Society">PTS</abbr> spells through nearly certain error *Nigguṇṭhi°*. I follow the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading here. *Nigguṇḍi* is a kind of tree, *Vitex negunda*. Sinh: *nika*, Engl. “chaste tree,” “Chinese chaste tree” “five-leafed chaste tree” “horseshoe vitex”.
 
-[^2]: or body (*kāyā*); this reading follows BJTS
+[^2]: or body (*kāyā*); this reading follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 
 [^3]: lit., sounds, objects of hearing
 
 [^4]: vv\. 1-10 plus the first two feet of v. 11 here precisely parallel the same verses of \#187, above.
 
-[^5]: *bho*, BJTS glosses *pinvata* (“O meritorious one”)
+[^5]: *bho*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *pinvata* (“O meritorious one”)
 
 [^6]: *saddhamme*
 
@@ -150,21 +150,21 @@ The legend of Nigguṇḍipupphiya Thera is finished.
 
 [^8]: lit., “\[be a person\] who is not one with ill-will, \[one who is\] free of attachment.”
 
-[^9]: reading *devā devaṃ yadā vidū <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>avantaṃ* with BJTS for PTS *devadevaŋ yadā viduŋ*
+[^9]: reading *devā devaṃ yadā vidū <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>avantaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *devadevaŋ yadā viduŋ*
 
 [^10]: “Cheerful” or “Good-Minded”
 
 [^11]: *atthadhammānusāsitvā*
 
-[^12]: only in BJTS.
+[^12]: only in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>.
 
 [^13]: here is the primary divergence, itself quite small, from the parallel passage in \#187
 
-[^14]: accepting the PTS reading *dhāretu* and taking it as the nom. sing. the verbal noun *dhāretar*, “bearer in mind, causer to remember, instructor, teacher” in the range supplied by RD*.* Alternate readings (there are many, the text has obviously puzzled editors) are variant derivatives of the same root, to bear (*dharati*), mostly in this causative sense (*dhāreti*, to carry, possess, put on, hold back, restrain, bear in mind, understand) with the same basic intent that “I was the support of my mother \[rather than the other way around\] even when I was in her womb.”
+[^14]: accepting the <abbr title="Pali Text Society">PTS</abbr> reading *dhāretu* and taking it as the nom. sing. the verbal noun *dhāretar*, “bearer in mind, causer to remember, instructor, teacher” in the range supplied by RD*.* Alternate readings (there are many, the text has obviously puzzled editors) are variant derivatives of the same root, to bear (*dharati*), mostly in this causative sense (*dhāreti*, to carry, possess, put on, hold back, restrain, bear in mind, understand) with the same basic intent that “I was the support of my mother \[rather than the other way around\] even when I was in her womb.”
 
 [^15]: Tidasa, the heaven of the (roughly) thirty gods, equivalent to Tāvatiŋsa
 
-[^16]: reading *samokkamiṃ* with BJTS for PTS *samokkamaŋ*, which would be a more impersonal still “there was a coming into a mother’s womb”
+[^16]: reading *samokkamiṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *samokkamaŋ*, which would be a more impersonal still “there was a coming into a mother’s womb”
 
 [^17]: *kaṇha* + *sukka*; “dark and bright” “black and white,” (one of the colorless color-sensations); by extension merit or demerit, *puñña* or *pāpa*. “Black” and “White” carry similar connotations in English, so I have translated accordingly.
 
@@ -180,10 +180,10 @@ The legend of Nigguṇḍipupphiya Thera is finished.
 
 [^23]: taking *mahājutiŋ* as a Buddha-epithet.
 
-[^24]: PTS *nigguṇṭhi*
+[^24]: <abbr title="Pali Text Society">PTS</abbr> *nigguṇṭhi*
 
 [^25]: lit., “in the twenty-five-thousandth of the aeons”
 
 [^26]: lit., kṣatriyan
 
-[^27]: the text is based on two large numbers, “*abbuda*\s and *nirabudda*\s” of previous/subsequent lives as a kṣatriyan king, apparently within that single aeon (the 25,000th ago). Cty (p. 477) defines *abbuda* and *nirabbuda* based on the unit called *koṭi* (“crore” in Indian English = 100 lakhs \[100,000\] = ten million). A *koṭi* of *koṭi*\s (ten million squared = one hundred trillion) is a *pakoṭi*. A *koṭi* of *pakoṭi*\s is an *abbuda* (10,000,000 cubed = ten-million-hundred-trillions); a *koṭi* of *abbuda*\s is a *nirabudda* (ten million to the fourth power = hundred-trillion-hundred trillions). The text enumerates the previous-life kings in *abbuda*\s and *nirabudda*\s and is read by cty and BJTS to mean that there were eight of each sort, i.e., eight *abbuda*\s and eight *nirabudda*\s, = 8 x 10,000,000 cubed plus 8 x 10,000,000 to the fourth
+[^27]: the text is based on two large numbers, “*abbuda*\s and *nirabudda*\s” of previous/subsequent lives as a kṣatriyan king, apparently within that single aeon (the 25,000th ago). Cty (p. 477) defines *abbuda* and *nirabbuda* based on the unit called *koṭi* (“crore” in Indian English = 100 lakhs \[100,000\] = ten million). A *koṭi* of *koṭi*\s (ten million squared = one hundred trillion) is a *pakoṭi*. A *koṭi* of *pakoṭi*\s is an *abbuda* (10,000,000 cubed = ten-million-hundred-trillions); a *koṭi* of *abbuda*\s is a *nirabudda* (ten million to the fourth power = hundred-trillion-hundred trillions). The text enumerates the previous-life kings in *abbuda*\s and *nirabudda*\s and is read by cty and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> to mean that there were eight of each sort, i.e., eight *abbuda*\s and eight *nirabudda*\s, = 8 x 10,000,000 cubed plus 8 x 10,000,000 to the fourth

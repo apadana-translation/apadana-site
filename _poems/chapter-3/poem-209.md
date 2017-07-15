@@ -37,4 +37,4 @@ The legend of Ādhāradāyaka Thera is finished.
 
 [^3]: lit., “Great Perfected Buddha’s”
 
-[^4]: “Walking All Around”. This is the BJTS reading; PTS spells the name Samantavaruṇa.
+[^4]: “Walking All Around”. This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading; <abbr title="Pali Text Society">PTS</abbr> spells the name Samantavaruṇa.

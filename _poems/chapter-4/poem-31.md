@@ -75,33 +75,33 @@ Headed Up by Famous (Yasavatī) spoke these verses.
 The legend of Eighteen Thousand Kṣatriyan Maiden Buddhist Nuns  
 Headed Up by Famous (Yasavatī) is finished
 
-[^1]: this name is supplied only by BJTS
+[^1]: this name is supplied only by <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 
-[^2]: BJTS reads “The *Apadāna* of Buddhist Nuns Headed Up By Yasavatī”
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “The *Apadāna* of Buddhist Nuns Headed Up By Yasavatī”
 
 [^3]: or “defilements” *sabbāsavā*
 
-[^4]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a no n’atthi* with BJTS for PTS *sabbāsavāmano n’atthi* (“there is no mind with all outflows”)
+[^4]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a no n’atthi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sabbāsavāmano n’atthi* (“there is no mind with all outflows”)
 
 [^5]: or “wholesome”
 
 [^6]: *yaŋ kiñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i sabbam patthitaŋ*
 
-[^7]: *sabbaŋ…paribhogaŋ;* BJTS reads *yaṃ kiñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i sādhu patthitaṃ* (“whatever excellently wished”)
+[^7]: *sabbaŋ…paribhogaŋ;* <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *yaṃ kiñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i sādhu patthitaṃ* (“whatever excellently wished”)
 
-[^8]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
+[^8]: reading *mahāmune* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mahāmuni*
 
 [^9]: *paribhogaŋ*
 
-[^10]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
+[^10]: reading *mahāmune* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mahāmuni*
 
-[^11]: *kat’ amhehi*. BJTS (and PTS alt.) reads *katam etaṃ*
+[^11]: *kat’ amhehi*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) reads *katam etaṃ*
 
-[^12]: reading *mahāmune* with BJTS (and PTS alt.) for PTS *mahāmuni*
+[^12]: reading *mahāmune* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mahāmuni*
 
 [^13]: *°sampadā*
 
-[^14]: reading BJTS (and, partly, PTS alt.) *mānusikam atikkantā* for PTS *mānussikam anikkantā*
+[^14]: reading <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and, partly, <abbr title="Pali Text Society">PTS</abbr> alt.) *mānusikam atikkantā* for <abbr title="Pali Text Society">PTS</abbr> *mānussikam anikkantā*
 
 [^15]: *jātiyā*, lit., “by birth,” the clear theme of this verse
 

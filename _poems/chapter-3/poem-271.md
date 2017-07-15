@@ -33,7 +33,7 @@ Thus indeed Venerable Suvaṇṇabimbohaniya Thera spoke these verses.
 
 The legend of Suvaṇṇabimbohaniya Thera is finished.
 
-[^1]: “Gold-Pillow-er”. The term (properly *bimbohana*) derives from the shape of the fruit of the *Bimbijala* tree, Momordica monadelpha, Bodhi tree of Dhammadassi Buddha. While PTS uses this spelling in the colophon, and BJTS and PTS alternative use it here, PTS gives *Suvaṇṇabibbohaniya*, presumably a typo.
+[^1]: “Gold-Pillow-er”. The term (properly *bimbohana*) derives from the shape of the fruit of the *Bimbijala* tree, Momordica monadelpha, Bodhi tree of Dhammadassi Buddha. While <abbr title="Pali Text Society">PTS</abbr> uses this spelling in the colophon, and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alternative use it here, <abbr title="Pali Text Society">PTS</abbr> gives *Suvaṇṇabibbohaniya*, presumably a typo.
 
 [^2]: kṣatriyan
 

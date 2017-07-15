@@ -48,13 +48,13 @@ Thus indeed Venerable Naḷamāliya Thera spoke these verses.
 
 The legend of Naḷamāliya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Reed-Flower-er”
 
 [^3]: lit., “going”
 
-[^4]: BJTS Sinh. gloss on “reed” (*naḷa*) is *baṭa* = “reed, a small species of bamboo, *ochlanda stridula*” (Bot. Dict.)
+[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss on “reed” (*naḷa*) is *baṭa* = “reed, a small species of bamboo, *ochlanda stridula*” (Bot. Dict.)
 
 [^5]: lit., “did *pūjā*”
 

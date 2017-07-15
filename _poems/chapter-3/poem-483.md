@@ -104,7 +104,7 @@ Thus indeed Venerable Bhisadāyaka Thera spoke these verses.
 
 The legend of Bhisadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Lotus-Root Donor.” This same *apadāna* is repeated below, virtually verbatim (see note there for slight variations), as \#{558}. There it is ascribed to the historical monk Bhaddajī
 
@@ -114,15 +114,15 @@ The legend of Bhisadāyaka Thera is finished.
 
 [^5]: lit., “going,” elsewhere translated as “flying” given the context
 
-[^6]: *nijjhāyamāno*, lit., “meditating” “reflecting” “thinking;” I follow BJTS Sinhala gloss *balannā vu mama*
+[^6]: *nijjhāyamāno*, lit., “meditating” “reflecting” “thinking;” I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *balannā vu mama*
 
 [^7]: *sappi*, lit., ghee, clarified butter (*gī tel*)
 
-[^8]: PTS treats \[5060-5061a-b\] as a six-footed verse,
+[^8]: <abbr title="Pali Text Society">PTS</abbr> treats \[5060-5061a-b\] as a six-footed verse,
 
 [^9]: lit., “went”
 
-[^10]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ālesi* with BJTS for PTS *sañjālesi*
+[^10]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ālesi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sañjālesi*
 
 [^11]: lit., “fell down”
 

@@ -65,7 +65,7 @@ Thus indeed Venerable Tiṇamuṭṭhidāyaka Thera spoke these verses.
 
 The legend of Tiṇamuṭṭhidāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Handful of Grass Donor.” With only minor changes (the elision of four feet from the opening verses, and addition of the first two verses of the three-verse concluding refrain \[the present *apadāna* includes only the third verse of the three-verse concluding refrain\]) the same *apadāna*, with the same title, is presented below as \#518 {521}
 
@@ -77,7 +77,7 @@ The legend of Tiṇamuṭṭhidāyaka Thera is finished.
 
 [^6]: *anāsava*
 
-[^7]: reading *va* with BJTS (and PTS alternative) for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, “and”
+[^7]: reading *va* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternative) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, “and”
 
 [^8]: *yūpa*
 
@@ -85,6 +85,6 @@ The legend of Tiṇamuṭṭhidāyaka Thera is finished.
 
 [^10]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍa*\s (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\]…sacrificial post” .
 
-[^11]: following BJTS; PTS reads *geṇḍu*, in multiple variations (could this be related to *geṇḍuka*, a small ball?). At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
+[^11]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>; <abbr title="Pali Text Society">PTS</abbr> reads *geṇḍu*, in multiple variations (could this be related to *geṇḍuka*, a small ball?). At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
 
 [^12]: lit., “I attained the destruction of the outflows” (*āsavakkhayaŋ*)

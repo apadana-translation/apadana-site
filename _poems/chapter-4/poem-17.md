@@ -964,45 +964,45 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^1]: “Female Gotama,” “the Gotamid.” Her full name is given in the colophon as Mahāpajāpatī Gotamī, as she is addressed throughout the canon. She was a historical nun, the sister of the Buddha’s natural mother (Mahāmāyā) who took over upon the latter’s death, both as the Buddha’s childhood wet-nurse and (surrogate) mother (actually his maternal aunt, Sinh. *puñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i ammā*), and as his father’s wife (hence step-mother). She was the founder and leader of the nuns, who convinced Ānanda to beg the Buddha for their order to be established.
 
-[^2]: there are numerous possibilities for translation of this string of locatives, because “delightful” (*ramme*) can modify either “city” (*pure*) or “nuns’ refuge” (*bhikkhunupassaye*), and the texts disagree on “built” (*kate*), which is the BJTS reading. PTS reads *setapure* (“white city”), which I followed in my previously-published translation of this *apadāna*. There is great disagreement in the manuscripts about this term: PTS offers *petapūre* (“filled with hungry ghosts” ?) and *gate* (“\[to which she had\] gone”); BJTS alt. has *yeva* (“indeed”).
+[^2]: there are numerous possibilities for translation of this string of locatives, because “delightful” (*ramme*) can modify either “city” (*pure*) or “nuns’ refuge” (*bhikkhunupassaye*), and the texts disagree on “built” (*kate*), which is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading. <abbr title="Pali Text Society">PTS</abbr> reads *setapure* (“white city”), which I followed in my previously-published translation of this *apadāna*. There is great disagreement in the manuscripts about this term: <abbr title="Pali Text Society">PTS</abbr> offers *petapūre* (“filled with hungry ghosts” ?) and *gate* (“\[to which she had\] gone”); <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. has *yeva* (“indeed”).
 
-[^3]: here the first two feet of the BJTS verse are affixed to the previous verse by PTS, causing shuffling in the subsequent verses as indicated in my numbering of them. I have followed BJTS in arranging the verses, which hinges in part on the translation of the third foot here, *bhikhhunīhi vimuttāhi*. PTS seems to take it as an instrumental, as did I in my previous translation, hence its inclusion in the previous verse makes grammatical sense: Gotamī dwells “with” the nuns, rather than (as this reading would have it), going off alone “with” them. I conversely take the terms as ablatives, she’s gone off alone *from* the nuns. BJTS gloss takes them as instrumentals as well. In either event, she lives *with* them but goes off *from* them; the meaning is really the same.
+[^3]: here the first two feet of the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> verse are affixed to the previous verse by <abbr title="Pali Text Society">PTS</abbr>, causing shuffling in the subsequent verses as indicated in my numbering of them. I have followed <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in arranging the verses, which hinges in part on the translation of the third foot here, *bhikhhunīhi vimuttāhi*. <abbr title="Pali Text Society">PTS</abbr> seems to take it as an instrumental, as did I in my previous translation, hence its inclusion in the previous verse makes grammatical sense: Gotamī dwells “with” the nuns, rather than (as this reading would have it), going off alone “with” them. I conversely take the terms as ablatives, she’s gone off alone *from* the nuns. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss takes them as instrumentals as well. In either event, she lives *with* them but goes off *from* them; the meaning is really the same.
 
-[^4]: or, as my earlier translation has it, “cannot bear”. The term (*sakkomi*) carries such connotations in vernacular usage and this is how I originally understood the text. However, in keeping with BJTS gloss here, I remain more literal and leave it open to varied interpretations: rather than an emotional reason for letting go of life’s constituents (or additionally an expression of maternal sentiment) it might be a simple statement of fact, i.e., she realizes it’s time to do and that means she’ll die before the Buddha and great followers.
+[^4]: or, as my earlier translation has it, “cannot bear”. The term (*sakkomi*) carries such connotations in vernacular usage and this is how I originally understood the text. However, in keeping with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss here, I remain more literal and leave it open to varied interpretations: rather than an emotional reason for letting go of life’s constituents (or additionally an expression of maternal sentiment) it might be a simple statement of fact, i.e., she realizes it’s time to do and that means she’ll die before the Buddha and great followers.
 
-[^5]: PTS reads *paṭiha<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>’ āyusaṅkhāre*, which I follow here, though BJTS *paṭtiga<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>’* (alt. *paṭika<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>’*), = “previous,” in which case *āyusaṅkhāre* might be the object of *ossajitvāna*, hence: “letting go of the constituents of my previous life”.
+[^5]: <abbr title="Pali Text Society">PTS</abbr> reads *paṭiha<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>’ āyusaṅkhāre*, which I follow here, though <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *paṭtiga<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>’* (alt. *paṭika<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>’*), = “previous,” in which case *āyusaṅkhāre* might be the object of *ossajitvāna*, hence: “letting go of the constituents of my previous life”.
 
-[^6]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^6]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
-[^7]: BJTS and PTS alt. read *mittā* (“friendly”) for PTS “all” (*sabbā*)
+[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt. read *mittā* (“friendly”) for <abbr title="Pali Text Society">PTS</abbr> “all” (*sabbā*)
 
 [^8]: lit., “and lamentations”
 
-[^9]: *sūyante*, BJTS (and PTS alt.) reads *sūyanti*
+[^9]: *sūyante*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) reads *sūyanti*
 
-[^10]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^10]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
 [^11]: *subbate*, also “Compliant One” “Good Vow”
 
 [^12]: lit., “who are going to nirvana”
 
-[^13]: reading *nigga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chi bhikkhunīnilayā* with BJTS for PTS *niggañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hi bhikkhunīlayanā*
+[^13]: reading *nigga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chi bhikkhunīnilayā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *niggañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hi bhikkhunīlayanā*
 
 [^14]: *sugatorasā*, “the \[pl. fem.\] legitimate descendants of the Well-Gone-One,” that is, the goddesses living in the nuns’ residence
 
 [^15]: lit., “rivers”
 
-[^16]: *upāsikā*. Grammatically, this could be plural (as I take it, following PTS plural verb *abravuŋ*) or singular (“a faithful laywoman”), which seems to be how BJTS takes it (reading the verb as singular, *abraviṃ*)
+[^16]: *upāsikā*. Grammatically, this could be plural (as I take it, following <abbr title="Pali Text Society">PTS</abbr> plural verb *abravuŋ*) or singular (“a faithful laywoman”), which seems to be how <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> takes it (reading the verb as singular, *abraviṃ*)
 
-[^17]: reading *vajantiṃ taṃ* with BJTS for PTS *vajantīnaŋ* (“them…\[their\] feet”)
+[^17]: reading *vajantiṃ taṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vajantīnaŋ* (“them…\[their\] feet”)
 
-[^18]: I follow BJTS Sinh gloss in now taking this as a vocative. BJTS (and PTS alt) reads *mahābhoge* for *mahābhāge*, but glosses *mahābhāgyavat uttamāvani*
+[^18]: I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh gloss in now taking this as a vocative. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt) reads *mahābhoge* for *mahābhāge*, but glosses *mahābhāgyavat uttamāvani*
 
-[^19]: or “pleased,” *pasīdassu*. BJTS Sinhala gloss *(apa kerehi*) *pahadinu*, “be satisfied \[or pleased\] (with us)”
+[^19]: or “pleased,” *pasīdassu*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *(apa kerehi*) *pahadinu*, “be satisfied \[or pleased\] (with us)”
 
 [^20]: lit., “suffering \[*dukkhaŋ*\] is understood by me”. The following feet of this verse follow the same grammatical pattern, summarizing her full attainment of the Four Noble Truths.
 
-[^21]: PTS omits this classification, found in BJTS
+[^21]: <abbr title="Pali Text Society">PTS</abbr> omits this classification, found in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 
 [^22]: see *Therāpadāna* above, \#7
 
@@ -1030,15 +1030,15 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^34]: or “of the Teaching”: *dhammakhīram*
 
-[^35]: PTS reads *puttakāmā thiyo tāva labhantaŋ tādisaŋ sutaŋ!* (lit., “women who desire sons, receiving of you as son” which I formerly translated, in retrospect overly loosely, “to get a son like you sates all desire for sons.” The present translation follows BJTS reading *puttakāmā thiyo yā tā labhantu nādisaṃ sutaṃ* (lit., “those women who are desiring sons, they \[want\] to obtain a son such as \[you\])
+[^35]: <abbr title="Pali Text Society">PTS</abbr> reads *puttakāmā thiyo tāva labhantaŋ tādisaŋ sutaŋ!* (lit., “women who desire sons, receiving of you as son” which I formerly translated, in retrospect overly loosely, “to get a son like you sates all desire for sons.” The present translation follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading *puttakāmā thiyo yā tā labhantu nādisaṃ sutaṃ* (lit., “those women who are desiring sons, they \[want\] to obtain a son such as \[you\])
 
 [^36]: *dukkhantakara*
 
-[^37]: reading *puttapemasā* with BJTS for PTS *putta pemasā* (“with love, O son”)
+[^37]: reading *puttapemasā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *putta pemasā* (“with love, O son”)
 
 [^38]: lit., “\[his\] maternal aunt”
 
-[^39]: *bālakkaŋ*, lit., “young sun,” “a pale sun.” BJTS Sinh. gloss *bālārka*. lit., “like a pale sun…”
+[^39]: *bālakkaŋ*, lit., “young sun,” “a pale sun.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *bālārka*. lit., “like a pale sun…”
 
 [^40]: lit., “from,” i.e., “emerging from” “coming out from behind”
 
@@ -1046,7 +1046,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^42]: *narādi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aŋ*
 
-[^43]: *ādi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>akulaketunaŋ* (BJTS reads *°kaṃ*)
+[^43]: *ādi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>akulaketunaŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *°kaṃ*)
 
 [^44]: lit., “not”
 
@@ -1056,41 +1056,41 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^47]: *khamādhipa*
 
-[^48]: here I diverge from my earlier translation, following BJTS in understanding this rather enigmatic verse, starting with taking it as the beginning of the Buddha’s speech rather than the end of Gotamī’s speech, and translating accordingly.
+[^48]: here I diverge from my earlier translation, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in understanding this rather enigmatic verse, starting with taking it as the beginning of the Buddha’s speech rather than the end of Gotamī’s speech, and translating accordingly.
 
 [^49]: *vyasanaŋ gahānaŋ disvāna*
 
-[^50]: This, and the following two verses present in both BJTS and PTS in a different meter with 11-syllable feet. I translate accordingly.
+[^50]: This, and the following two verses present in both <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> in a different meter with 11-syllable feet. I translate accordingly.
 
 [^51]: *narapuṅgava*
 
-[^52]: *raṇantaga*, lit., “O one gone to the end of the battle” or “he by whom the battle reaches its end”. BJTS reads *guṇandhara*, “O Virtue-Bearer”
+[^52]: *raṇantaga*, lit., “O one gone to the end of the battle” or “he by whom the battle reaches its end”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *guṇandhara*, “O Virtue-Bearer”
 
 [^53]: lit., “doing *pūjā* to”
 
-[^54]: BJTS reads *suvākyena sirīmato*, “due to the good teaching of the resplendent one”.
+[^54]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *suvākyena sirīmato*, “due to the good teaching of the resplendent one”.
 
 [^55]: *subbata*
 
-[^56]: lit., “then she caused to hear” (PTS: *tato sā anusāvetvā*) or “then she caused to be admonished/advised/instructed” (BJTS: *anusāsetvā*); PTS also gives alts. *anusāmetvā* (“caused to be appeased/calmed”) and *anubhāvetvā* (“caused to experience”). Really any of these readings would be appropriate to what follows as Gotamī proceeds to tell, informs, advise and console while conveying an emotional message to her beloved kinsfolk/co-monastics/co-followers.
+[^56]: lit., “then she caused to hear” (<abbr title="Pali Text Society">PTS</abbr>: *tato sā anusāvetvā*) or “then she caused to be admonished/advised/instructed” (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>: *anusāsetvā*); <abbr title="Pali Text Society">PTS</abbr> also gives alts. *anusāmetvā* (“caused to be appeased/calmed”) and *anubhāvetvā* (“caused to experience”). Really any of these readings would be appropriate to what follows as Gotamī proceeds to tell, informs, advise and console while conveying an emotional message to her beloved kinsfolk/co-monastics/co-followers.
 
 [^57]: lit., “she said this:”
 
-[^58]: *nibbiṇṇā*. BJTS (*nibbinnā*) and PTS alts. (*nibbandā*, *nibbindā*) are all forms of the same verb, *nibbindati*), to be wearied of, which regularly (as here) takes the locative.
+[^58]: *nibbiṇṇā*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (*nibbinnā*) and <abbr title="Pali Text Society">PTS</abbr> alts. (*nibbandā*, *nibbindā*) are all forms of the same verb, *nibbindati*), to be wearied of, which regularly (as here) takes the locative.
 
-[^59]: reading *dukkhasaṅghāta* with BJTS for the metrically-questionable but evocative PTS *dukkhapaṅke* (“\[smeared with\] the mud of dis-ease”) and BJTS alt. *dukkhasaṅghāṭe* (which in addition to “mass” or “heap” \[*saṅghāta*\]) means “tangle” or “web”). “Dis-ease” translates *dukkha*, often “suffering,” following out one of the term’s literal meanings (physical illness) as well as its connotation of psychological unrest and in keeping with the other descriptions of the aged body in this verse. My earlier translation, following PTS, gives “suffering’s slime”
+[^59]: reading *dukkhasaṅghāta* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for the metrically-questionable but evocative <abbr title="Pali Text Society">PTS</abbr> *dukkhapaṅke* (“\[smeared with\] the mud of dis-ease”) and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. *dukkhasaṅghāṭe* (which in addition to “mass” or “heap” \[*saṅghāta*\]) means “tangle” or “web”). “Dis-ease” translates *dukkha*, often “suffering,” following out one of the term’s literal meanings (physical illness) as well as its connotation of psychological unrest and in keeping with the other descriptions of the aged body in this verse. My earlier translation, following <abbr title="Pali Text Society">PTS</abbr>, gives “suffering’s slime”
 
-[^60]: reading *nānākalimalākiṇṇe* with BJTS (and PTS alt.) for PTS *nānākalala-m-ākiṇṇe* (“smeared with various mud” — but note that *mala* in the accepted reading can also mean “dirt” or “mud” or any impurity in addition to “flaw” or “fault”)
+[^60]: reading *nānākalimalākiṇṇe* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *nānākalala-m-ākiṇṇe* (“smeared with various mud” — but note that *mala* in the accepted reading can also mean “dirt” or “mud” or any impurity in addition to “flaw” or “fault”)
 
 [^61]: *nirīhake*, in juxtaposition with the previous adjective *parāyatte*, lit., “activity of others,” hence “dependent on others”
 
 [^62]: *nidhanaŋ*, lit., “without wealth \[of karma\],” or more literally, “possessionless”
 
-[^63]: BJTS divides up the adverb taken as “similing” (*hāsantiŋ*) as *hā santiṃ*, “Alas! peacefully…” or “Alas! to peace…”
+[^63]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> divides up the adverb taken as “similing” (*hāsantiŋ*) as *hā santiṃ*, “Alas! peacefully…” or “Alas! to peace…”
 
 [^64]: lit., “O deep one, O ocean of wisdom”
 
-[^65]: reading *nibbānaṃ samupāgataṃ* with BJTS for PTS *nibbānattaŋ* (“nirvana-ness”) and PTS alt (and BJTS alt.) *nibbānantaŋ*, “the goal of nirvana,” which I followed in my earlier translation.
+[^65]: reading *nibbānaṃ samupāgataṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *nibbānattaŋ* (“nirvana-ness”) and <abbr title="Pali Text Society">PTS</abbr> alt (and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt.) *nibbānantaŋ*, “the goal of nirvana,” which I followed in my earlier translation.
 
 [^66]: *porāṇehi*, or (as in my earlier translation) “elders”
 
@@ -1120,9 +1120,9 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^79]: that is, Benares
 
-[^80]: BJTS reads *katvā pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asatakuṭī* (“having made \[them\] five hundred huts” for PTS *pūgā bhavitvā sabbāyo*
+[^80]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *katvā pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asatakuṭī* (“having made \[them\] five hundred huts” for <abbr title="Pali Text Society">PTS</abbr> *pūgā bhavitvā sabbāyo*
 
-[^81]: BJTS reads *pasannāmha sasāmikā*, “we were pleased with our husbands”
+[^81]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pasannāmha sasāmikā*, “we were pleased with our husbands”
 
 [^82]: “Jet Black”
 
@@ -1134,7 +1134,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^86]: lit., “having gone forth”
 
-[^87]: *saha*. I follow the BJTS SInhala gloss (*ek vä*) in giving this sociokarmically more-determined translation.
+[^87]: *saha*. I follow the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> SInhala gloss (*ek vä*) in giving this sociokarmically more-determined translation.
 
 [^88]: pronounce as two syllables when chanting, “diff’rent”
 
@@ -1146,19 +1146,19 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^92]: *āsavakkhayaŋ*
 
-[^93]: reading *agamaŋsu* with BJTS (cf. PTS alt. *agamiṃsu*) for PTS *agamīsu* (“among non-villages” ?)
+[^93]: reading *agamaŋsu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (cf. <abbr title="Pali Text Society">PTS</abbr> alt. *agamiṃsu*) for <abbr title="Pali Text Society">PTS</abbr> *agamīsu* (“among non-villages” ?)
 
-[^94]: BJTS here reads *vīro*, “the Hero” for PTS *dhīro*, “the Wise One”
+[^94]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> here reads *vīro*, “the Hero” for <abbr title="Pali Text Society">PTS</abbr> *dhīro*, “the Wise One”
 
-[^95]: *addhapallaṅkam ābhujya* (BJTS read *aḍḍhapallaṅkam ābhujja*), with one leg crossed and one bent hookwise.
+[^95]: *addhapallaṅkam ābhujya* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> read *aḍḍhapallaṅkam ābhujja*), with one leg crossed and one bent hookwise.
 
-[^96]: reading the final verb *abravi* (“she spoke”) with BJTS (and PTS alt.) for PTS *abraviŋ* (“I spoke”).
+[^96]: reading the final verb *abravi* (“she spoke”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *abraviŋ* (“I spoke”).
 
 [^97]: *mārapāsānuvattinā*
 
 [^98]: lit., “ultimate first altered state”
 
-[^99]: PTS reads *tavade*, BJTS (and PTS alt.) reads *taṅkhaṇe* (“in that moment”)
+[^99]: <abbr title="Pali Text Society">PTS</abbr> reads *tavade*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) reads *taṅkhaṇe* (“in that moment”)
 
 [^100]: lit., “dispensation”
 
@@ -1166,13 +1166,13 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^102]: lit., “with a gurgling sound”
 
-[^103]: accepting PTS reading *gatāsayaŋ*. BJTS (and PTS alt.) reads *gatāsamaṃ*, “gone to the incomparable \[state?\]”
+[^103]: accepting <abbr title="Pali Text Society">PTS</abbr> reading *gatāsayaŋ*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) reads *gatāsamaṃ*, “gone to the incomparable \[state?\]”
 
 [^104]: lit., “well-Gone-One’s heir”
 
-[^105]: PTS *suttā ‘pi Gotamī*, BJTS *suttāsi Gotamī* (*suttā-āsi Gotamī*)
+[^105]: <abbr title="Pali Text Society">PTS</abbr> *suttā ‘pi Gotamī*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *suttāsi Gotamī* (*suttā-āsi Gotamī*)
 
-[^106]: BJTS reads *ogatākāsapadumā* (“lotuses rising in the sky”)
+[^106]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *ogatākāsapadumā* (“lotuses rising in the sky”)
 
 [^107]: pronounce “twinkling” as full three syllables when chanting, to keep meter, or amend to “and \[all of\] the stars were twinkling” if contracting it to two syllables.
 
@@ -1198,6 +1198,6 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^118]: lit., “\[her\] state of rebirth (*gati*) is not known”. The metaphor is that Gotamī, like the flame that used to be in the iron rod on the forge, has disappeared without a trace, “cooled off”.
 
-[^119]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alaŋ sukhaŋ*. BJTS reads, more consistently with *Apadāna* as a whole, *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alaŋ padaŋ* (“unshaking state”)
+[^119]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alaŋ sukhaŋ*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads, more consistently with *Apadāna* as a whole, *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alaŋ padaŋ* (“unshaking state”)
 
 [^120]: or “make an end of dis-ease:” *dukkhass’ antaŋ karissathā ti*.

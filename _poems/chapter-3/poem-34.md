@@ -89,9 +89,9 @@ Thus indeed Venerable Kāḷudāyi Thera spoke these verses.
 
 The legend of Kāḷudāyi Thera is finished.
 
-[^1]: PTS reads Kāludāyi. See \#543 {546}, below, for a second *apadāna* ascribed to this \[same?\] monk.
+[^1]: <abbr title="Pali Text Society">PTS</abbr> reads Kāludāyi. See \#543 {546}, below, for a second *apadāna* ascribed to this \[same?\] monk.
 
-[^2]: reading *piyaṃ* (BJTS) for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iraŋ* (“a long time,” PTS)
+[^2]: reading *piyaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iraŋ* (“a long time,” <abbr title="Pali Text Society">PTS</abbr>)
 
 [^3]: lit. “merit”
 
@@ -99,4 +99,4 @@ The legend of Kāḷudāyi Thera is finished.
 
 [^5]: *nirūpadhi*
 
-[^6]: BJTS and some PTS alternatives read: “Lust and hatred and delusion and ill-will are fallen from the mind”
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and some <abbr title="Pali Text Society">PTS</abbr> alternatives read: “Lust and hatred and delusion and ill-will are fallen from the mind”

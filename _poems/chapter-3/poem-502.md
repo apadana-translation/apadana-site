@@ -70,7 +70,7 @@ Thus indeed Venerable Ekapattadāyaka Thera spoke these verses.
 
 The legend of Ekapattadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “One Bowl Donor”
 
@@ -86,15 +86,15 @@ The legend of Ekapattadāyaka Thera is finished.
 
 [^8]: lit., “meritorious”
 
-[^9]: following BJTS Sinh. gloss: *pātra (himi) vuyem vemi*
+[^9]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss: *pātra (himi) vuyem vemi*
 
 [^10]: *bhaddake*, or “lucky” “fortunate” etc
 
-[^11]: PTS *pave<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante*, BJTS *pava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante* (cf. *pave<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante*, the reading in \[5004\] below, cf. also *pava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante* as PTS alt. there \[v, 5 of \#499, Ekapattadāyaka\]; RD = “give, bestow,” PSI “\[rainwater\] falls down”)
+[^11]: <abbr title="Pali Text Society">PTS</abbr> *pave<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *pava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante* (cf. *pave<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante*, the reading in \[5004\] below, cf. also *pava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante* as <abbr title="Pali Text Society">PTS</abbr> alt. there \[v, 5 of \#499, Ekapattadāyaka\]; RD = “give, bestow,” PSI “\[rainwater\] falls down”)
 
 [^12]: *sammādhāre* (loc. abs. construction)
 
-[^13]: both PTS and BJTS read *pītidhāre pavassante*
+[^13]: both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> read *pītidhāre pavassante*
 
 [^14]: *saṅghāpi*
 
@@ -102,7 +102,7 @@ The legend of Ekapattadāyaka Thera is finished.
 
 [^16]: *buddhakhettasamo n’atthi*, lit., “there is not an equal to the Buddha-field”
 
-[^17]: reading *sukhado sabbapāṇinaṃ* with BJTS for PTS *sukhadānattha pāṇinaŋ* (“place of giving happiness \[in the voc.?\] to beings”)
+[^17]: reading *sukhado sabbapāṇinaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sukhadānattha pāṇinaŋ* (“place of giving happiness \[in the voc.?\] to beings”)
 
 [^18]: lit., “to all living beings” “to all that breathe”
 

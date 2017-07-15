@@ -58,7 +58,7 @@ The legend of Pāyāsadāyaka Thera is finished.
 
 [^1]: “Milk-rice Donor”
 
-[^2]: reading *upanesiṃ* (BJTS) for *agamāsi* (“I went,” PTS).
+[^2]: reading *upanesiṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *agamāsi* (“I went,” <abbr title="Pali Text Society">PTS</abbr>).
 
 [^3]: lit., “the Blessed One”
 

@@ -120,7 +120,7 @@ composed in more elaborate meters.
     *sutta* of *Sutta-nipāta*, an early collection of Buddhist
     discourses which also has been preserved in the *Khuddaka-nikāya*.
 
-[^6]: The Pali Text Society (PTS) edition, in Roman script, contains
+[^6]: The Pali Text Society (<abbr title="Pali Text Society">PTS</abbr>) edition, in Roman script, contains
     five hundred and forty seven poems ascribed to early monks; the
     Buddha Jayanthi Tripitaka Series edition, in Sinhala script,
     contains five hundred and fifty-nine poems ascribed to early monks.

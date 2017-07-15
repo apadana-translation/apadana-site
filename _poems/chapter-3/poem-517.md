@@ -46,7 +46,7 @@ Thus indeed Venerable Kuṭajapupphiya Thera spoke these verses.
 
 The legend of Kuṭajapupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Arctic-Snow-Flower-er”. Sinhala *keḷinda*, aka Arctic Snow, Winter Cherry, nerium antidysenterica, as its name implies used for dysentery. See above, \#181, for a different *apadāna* ascribed to a monk of the same name. Cf. also \#343 {346}, above, for a very similar *apadāna* ascribed to a monk of a different name.
 

@@ -51,7 +51,7 @@ Thus indeed Venerable Sīhāsanika Thera spoke these verses.
 
 The legend of Sīhāsanika Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Lion-throne-er.” Cf. \#11, \#175, above, for two monks with a similar name/seed karma (“Sīhāsanadāyaka”). In addition to those two, many additional monks offered lion-thrones as their seed karmas, e.g., \#20, \#33, \#39, \#108, \#327, \#328, above, and \#445 {448}, \#450 {453}, below.
 
@@ -59,4 +59,4 @@ The legend of Sīhāsanika Thera is finished.
 
 [^4]: *bahū…pallaṅkā*
 
-[^5]: *aho dhammasudhammatā*, BJTS gloss “the propriety of the Dharma is amazing!”
+[^5]: *aho dhammasudhammatā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss “the propriety of the Dharma is amazing!”

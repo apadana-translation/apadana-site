@@ -41,16 +41,16 @@ Thus indeed Venerable Anulepadāyaka Thera spoke these verses.
 
 The legend of Anulepadāyaka Thera is finished.
 
-[^1]: “Plastering-Donor.” I follow BJTS, cty, PTS alt, in reading the name as such. PTS gives Anulomadāyaka, “Suitable Donor”.
+[^1]: “Plastering-Donor.” I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty, <abbr title="Pali Text Society">PTS</abbr> alt, in reading the name as such. <abbr title="Pali Text Society">PTS</abbr> gives Anulomadāyaka, “Suitable Donor”.
 
 [^2]: that is, the railing around the Bodhi Tree.
 
 [^3]: lit., “in the monks’ Assembly”
 
-[^4]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etanā*° (BJTS, PTS alt) for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etasā* (“by heart,” “with the mind,” PTS)
+[^4]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etanā*° (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etasā* (“by heart,” “with the mind,” <abbr title="Pali Text Society">PTS</abbr>)
 
 [^5]: lit., “in the Supreme Buddha’s"
 
-[^6]: reading *āsiṃ* (BJTS) for *āsi* (‘there was,” PTS), though the text is inconsistent in the use of first or third person verbs in this formulaic phrase.
+[^6]: reading *āsiṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *āsi* (‘there was,” <abbr title="Pali Text Society">PTS</abbr>), though the text is inconsistent in the use of first or third person verbs in this formulaic phrase.
 
 [^7]: “All-Valuable-er” or “Worth it All”

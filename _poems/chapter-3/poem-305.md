@@ -33,6 +33,6 @@ The legend of Phaladāyaka Thera is finished.
 
 [^1]: “Fruit Donor.” cf. \#87, \#127, \#140, \#282 (more? xxx)
 
-[^2]: this is the BJTS spelling; PTS gives *Bhāgīrasī*
+[^2]: this is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling; <abbr title="Pali Text Society">PTS</abbr> gives *Bhāgīrasī*
 
 [^3]: *vītaraṃsa*

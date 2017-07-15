@@ -36,9 +36,9 @@ Thus indeed Venerable Sattapaṇṇiya Thera spoke these verses.
 
 The legend of Sattapaṇṇiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “*Ruk-attana*-\[Flower\]-er”. I follow BJTS in reading *sattapaṇṇi* (lit., “hundred-leaved”) as the *ruk-attana* tree, Alstonia scholaris (*Apocyn.*). RD just identifies it as a tree.
+[^2]: “*Ruk-attana*-\[Flower\]-er”. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in reading *sattapaṇṇi* (lit., “hundred-leaved”) as the *ruk-attana* tree, Alstonia scholaris (*Apocyn.*). RD just identifies it as a tree.
 
 [^3]: lit., “did *pūjā* \[with\]”
 

@@ -177,7 +177,7 @@ The legend of Sukkā Therī[^35] is finished
 
 [^3]: *sikhī*, a play on the meaning of the Buddha’s name. It can also mean “peacock.” Here *sikhī viya*, lit., “like a heap of fire”.
 
-[^4]: reading *loke* (loc.) with BJTS (and PTS alt.) for PTS *lokaŋ* (acc.)
+[^4]: reading *loke* (loc.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *lokaŋ* (acc.)
 
 [^5]: *tadā pi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a tath’ ev’ ahaŋ*
 
@@ -185,9 +185,9 @@ The legend of Sukkā Therī[^35] is finished
 
 [^7]: *jinuttamo*
 
-[^8]: *varasaddūlo*. BJTS reads *narasaddūlo*, which is also the reading in *Therī-apadāna* \[814\] above; PTS alt. gives *narasaraṇo* (“Refuge for Men”). Cf. the note to *Thera-apadāna* \[6131\] on this rather uncharacteristically loose, and rare but repeated, *Apadāna* Buddha**-epithet (or epithets). Does the variation suggest a lack of meaning in the epithet itself (in *Apadāna* the leopard \[as *dīpi*\] usually appears as part of a list of wild animals, not \[unlike say the lion, elephant, swan, bull\] as part of a Buddha-epithet)
+[^8]: *varasaddūlo*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *narasaddūlo*, which is also the reading in *Therī-apadāna* \[814\] above; <abbr title="Pali Text Society">PTS</abbr> alt. gives *narasaraṇo* (“Refuge for Men”). Cf. the note to *Thera-apadāna* \[6131\] on this rather uncharacteristically loose, and rare but repeated, *Apadāna* Buddha**-epithet (or epithets). Does the variation suggest a lack of meaning in the epithet itself (in *Apadāna* the leopard \[as *dīpi*\] usually appears as part of a list of wild animals, not \[unlike say the lion, elephant, swan, bull\] as part of a Buddha-epithet)
 
-[^9]: reading *yathāyukaṃ* with BJTS for PTS *yathāsukhaŋ* (“as much as comfortable” or perhaps “as I pleased”)
+[^9]: reading *yathāyukaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *yathāsukhaŋ* (“as much as comfortable” or perhaps “as I pleased”)
 
 [^10]: *dīpavaro*
 
@@ -203,7 +203,7 @@ The legend of Sukkā Therī[^35] is finished
 
 [^16]: *tisso sikkhā*, i.e., training in morality (*sīla*), wisdom *(paññā)* and meditative states *(samādhi*)
 
-[^17]: reading *hitā ‘va ‘haṃ* with BJTS for PTS *mahāmune* (“O Great Sage”)
+[^17]: reading *hitā ‘va ‘haṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mahāmune* (“O Great Sage”)
 
 [^18]: = Rājagaha, Rajgir, in Bihār
 
@@ -221,7 +221,7 @@ The legend of Sukkā Therī[^35] is finished
 
 [^25]: *Siṅgī-nikkha-savaṇṇo*, lit., “having the same color as a golden/”ginger” coin;” *nikkha* can also be an ornament, or a weight, The thrust, anyway, is that the Buddha was shiny like gold.
 
-[^26]: these lines (41 syllables in PTS, 40 syllables in BJTS \[which omits the *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* after *purāṇajaṭilehi*\]) are presented by both PTS and BJTS as a single verse, though they break the two-footed lines differently and I am at a loss for how to understand the “verse” metrically. A quote from some prose text? A verse in more complex meter, garbled in transmission? I have translated into the closest approximation of the latter possibility in *Apadāna*, namely a 12-12-12-12 verse (which would suggest the possible loss of seven syllables \[in the case of PTS’ reading\] or eight syllables \[in the case of BJTS’s reading\] sometime comparatively early in the transmission process (since it affects all the extant mss.) In addition to conforming to a verse-form occasionally encountered elsewhere in *Apadāna*, this implicit 12-12-12-12 structure works very nicely for the basic units that then make up the four discrete feet.
+[^26]: these lines (41 syllables in <abbr title="Pali Text Society">PTS</abbr>, 40 syllables in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> \[which omits the *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* after *purāṇajaṭilehi*\]) are presented by both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> as a single verse, though they break the two-footed lines differently and I am at a loss for how to understand the “verse” metrically. A quote from some prose text? A verse in more complex meter, garbled in transmission? I have translated into the closest approximation of the latter possibility in *Apadāna*, namely a 12-12-12-12 verse (which would suggest the possible loss of seven syllables \[in the case of <abbr title="Pali Text Society">PTS</abbr>’ reading\] or eight syllables \[in the case of <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>’s reading\] sometime comparatively early in the transmission process (since it affects all the extant mss.) In addition to conforming to a verse-form occasionally encountered elsewhere in *Apadāna*, this implicit 12-12-12-12 structure works very nicely for the basic units that then make up the four discrete feet.
 
 [^27]: *taŋ…guṇasañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayaŋ*
 
@@ -235,8 +235,8 @@ The legend of Sukkā Therī[^35] is finished
 
 [^32]: *ye…na*, lit., “those who have not”
 
-[^33]: PTS *payirupāsanti* breaks the meter; BJTS *upāsanti* does not. The two are essentially the same verb, the former with an additional *pari*&lt;*payir*
+[^33]: <abbr title="Pali Text Society">PTS</abbr> *payirupāsanti* breaks the meter; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *upāsanti* does not. The two are essentially the same verb, the former with an additional *pari*&lt;*payir*
 
-[^34]: reading *mahāmune* (voc.) with BJTS for PTS *mahāmuni* (nom.)
+[^34]: reading *mahāmune* (voc.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mahāmuni* (nom.)
 
-[^35]: This is the BJTS reading. PTS reads *bhikkhunī Sukkā*
+[^35]: This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading. <abbr title="Pali Text Society">PTS</abbr> reads *bhikkhunī Sukkā*

@@ -98,7 +98,7 @@ The legend of Mahāka<span class="diacritics" data-state="on">cc</span><span cla
 
 [^1]: “Great Golden One,” a historical monk, and famous follower of the Buddha’s. See DPPN II:468ff., also cf. \#528 {531}, below, which is also ascribed to this monk.
 
-[^2]: BJTS omits *āsana* (“seats”) from the compound, reading *ratanāmayachattānaṃ*, “of umbrellas made of gems”.
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits *āsana* (“seats”) from the compound, reading *ratanāmayachattānaṃ*, “of umbrellas made of gems”.
 
 [^3]: *sammāsambuddhasāsane*, lit., “in the Supreme (or Great Perfected) Buddha’s dispensation”
 

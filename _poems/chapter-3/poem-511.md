@@ -43,14 +43,14 @@ Thus indeed Venerable Kureñjiyaphaladāyaka[^5] Thera spoke these verses.
 
 The legend of Kureñjiyaphaladāyaka[^6] Thera is finished.
 
-[^1]: BJTS reads simply *Phaladāyaka°*
+[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads simply *Phaladāyaka°*
 
-[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^2]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^3]: “*Kureñjiya* Fruit Donor”. BJTS reads *Kurañjiya*. Cone, s.v., “the name of a plant or tree,” citing this passage. This same *apadāna* is presented above as \#497. {500.}, the only difference being the name of the fruit given, in v. 2., and hence the name of the donor.
+[^3]: “*Kureñjiya* Fruit Donor”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Kurañjiya*. Cone, s.v., “the name of a plant or tree,” citing this passage. This same *apadāna* is presented above as \#497. {500.}, the only difference being the name of the fruit given, in v. 2., and hence the name of the donor.
 
-[^4]: BJTS reads *kurañjiyaphalaṃ*
+[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kurañjiyaphalaṃ*
 
-[^5]: BJTS reads *Kurañjiya°*
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Kurañjiya°*
 
-[^6]: BJTS reads *Kurañjiya°*
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Kurañjiya°*

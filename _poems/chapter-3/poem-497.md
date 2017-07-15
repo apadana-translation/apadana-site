@@ -41,7 +41,7 @@ Thus indeed Venerable Udakadāyaka Thera spoke these verses.
 
 The legend of Udakadāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Water Donor.” See \#206, above, for a (different) *apadāna* ascribed to a monk with this same name.
 

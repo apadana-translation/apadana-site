@@ -36,7 +36,7 @@ Thus indeed Venerable Kapitthaphaladāyaka Thera spoke these verses.
 
 The legend of Kapitthaphaladāyaka Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Wood-Apple Fruit Donor.” Virtually the same *apadāna* appears above as \#505 {508}, with the slight difference that the name of the fruit in v. 1 is *amora* rather than *kapittha*, and that the name of the donor (*Amoraphaliya*) varies accordingly.
 

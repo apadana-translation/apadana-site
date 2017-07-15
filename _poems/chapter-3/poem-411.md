@@ -171,7 +171,7 @@ Thus indeed Venerable Bhaddāli Thera spoke these verses.
 
 The legend of Bhaddāli Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation. In the printed work, the BJTS numbering “114” for “411” in the Pali text is obvious a typographical error.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation. In the printed work, the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> numbering “114” for “411” in the Pali text is obvious a typographical error.
 
 [^2]: “Embankment of Good Fortune”. A historical monk, to whom the *Bhaddali-sutta* (M.i.437ff.) was preached after he confessed to avoiding the Buddha for three months in disagreement with the *vinaya* ruling on eating meals after noon. See DPPN II:357
 
@@ -199,9 +199,9 @@ The legend of Bhaddāli Thera is finished.
 
 [^14]: *tomaraṅkusapāṇihi*
 
-[^15]: *sāyapāto*, BJTS reads *sāyaṃpāto*, lit., “in the evening and in the morning”
+[^15]: *sāyapāto*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *sāyaṃpāto*, lit., “in the evening and in the morning”
 
-[^16]: PTS and BJTS agree in reading this as a six-footed verse.
+[^16]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in reading this as a six-footed verse.
 
 [^17]: *jātiyā*, lit., “well-born” or simply “excellent,” the term connotes lineage, genealogy, caste, breed. Here it seems to substitute for “those fast like the wind” (*vātajavā*) in parallel lists (see above, \[1293\], \[2692\], \[3981\])
 
@@ -219,7 +219,7 @@ The legend of Bhaddāli Thera is finished.
 
 [^24]: *susamiddhāni sabbaso*, “thoroughly very magnificent/rich/prosperous
 
-[^25]: PTS and BJTS agree in reading this as a six-footed verse.
+[^25]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in reading this as a six-footed verse.
 
 [^26]: omitting *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, “and”
 

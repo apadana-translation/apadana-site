@@ -218,7 +218,7 @@ The Ten Chapters[^38] called Paduma.
 
 The Fourth Hundred[^39] is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Unconquered”
 
@@ -236,7 +236,7 @@ The Fourth Hundred[^39] is finished.
 
 [^9]: lit., “of” (gen. case)
 
-[^10]: reading *vuddhānaṃ* with BJTS for PTS *Buddhānaŋ*
+[^10]: reading *vuddhānaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Buddhānaŋ*
 
 [^11]: *paṇḍitānaŋ*
 
@@ -244,29 +244,29 @@ The Fourth Hundred[^39] is finished.
 
 [^13]: *gahim*
 
-[^14]: reading *madhutelaṃ* (Sinhala gloss: *mītel*) with BJTS for PTS *dumatelaŋ* (“tree oil”). The term could also be read as a compound, “honey and oil;” the PTS reading could be sustained by taking *mītel* as the tree oil of that name, which is produced from the seeds of the *mī* tree, Bassia longifolia (*Sapot.*). Indeed, *madhu* (“honey”) can also refer to this oil. However, buffalo ghee would be a more likely oil for lamp-lighting than *mī* oil (which is used primarily in the making of medicines), so I have followed the BJTS reading here, leaving open these other possibilities.
+[^14]: reading *madhutelaṃ* (Sinhala gloss: *mītel*) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dumatelaŋ* (“tree oil”). The term could also be read as a compound, “honey and oil;” the <abbr title="Pali Text Society">PTS</abbr> reading could be sustained by taking *mītel* as the tree oil of that name, which is produced from the seeds of the *mī* tree, Bassia longifolia (*Sapot.*). Indeed, *madhu* (“honey”) can also refer to this oil. However, buffalo ghee would be a more likely oil for lamp-lighting than *mī* oil (which is used primarily in the making of medicines), so I have followed the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading here, leaving open these other possibilities.
 
-[^15]: reading *narāsabhaṃ* with BJTS for PTS (and BJTS alt.) *vināyakaŋ* (“Guide”)
+[^15]: reading *narāsabhaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> (and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt.) *vināyakaŋ* (“Guide”)
 
-[^16]: *tindaṇḍake*, lit., “three-sticked”. BJTS glosses the term as *piriväjipuṭuwa*, “the stool (or chair) \[used by\] ascetics”
+[^16]: *tindaṇḍake*, lit., “three-sticked”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses the term as *piriväjipuṭuwa*, “the stool (or chair) \[used by\] ascetics”
 
 [^17]: *ratyā vivasāne*, read *ratyā vivasane*, “at the end of the night,” a stock phrase.
 
-[^18]: *sabbe vanā gandhamayā*, lit., “all the forests made of good scents.” I am assuming that despite the Buddha’s magical power, the trees themselves did not come to him, though that is the Pāli (and BJTS glosses in Sinhala accordingly). Rather, I take the meaning to be that the scents of those forests came to him.
+[^18]: *sabbe vanā gandhamayā*, lit., “all the forests made of good scents.” I am assuming that despite the Buddha’s magical power, the trees themselves did not come to him, though that is the Pāli (and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses in Sinhala accordingly). Rather, I take the meaning to be that the scents of those forests came to him.
 
-[^19]: *anubhāvena*, BJTS notes that all the texts give *ānubhāvena*
+[^19]: *anubhāvena*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> notes that all the texts give *ānubhāvena*
 
-[^20]: *pupphagandhāse*, following BJTS Sinhala gloss here
+[^20]: *pupphagandhāse*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss here
 
 [^21]: lit., “went up to the Buddha’s presence”
 
-[^22]: following BJTS Sinhala gloss: *satsiya varak*
+[^22]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss: *satsiya varak*
 
-[^23]: *vipulaṃ rajjaṃ karissati*, following BJTS Sinhala gloss
+[^23]: *vipulaṃ rajjaṃ karissati*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss
 
-[^24]: PTS and BJTS agree in presenting this as a six-footed verse.
+[^24]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
-[^25]: BJTS understands this as a measure of distance, *krōśa* = 500 bow-lengths, 80 bull-lengths, 8000 *riyan* (*Śri Sumaṅgala Śabdakoṣaya*, s.v.)
+[^25]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> understands this as a measure of distance, *krōśa* = 500 bow-lengths, 80 bull-lengths, 8000 *riyan* (*Śri Sumaṅgala Śabdakoṣaya*, s.v.)
 
 [^26]: *samantato*, “on all sides” “everywhere”
 
@@ -280,17 +280,17 @@ The Fourth Hundred[^39] is finished.
 
 [^31]: *sissattaṃ ajjupāgamiṃ*
 
-[^32]: following the BJTS Sinhala gloss “(*geṇa*)”
+[^32]: following the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss “(*geṇa*)”
 
 [^33]: *vināyakaṃ*
 
 [^34]: *nirūpadhi*, i.e., “devoid of the ground for rebirth,” “free of the *upadhis*”
 
-[^35]: BJTS: Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha
+[^35]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>: Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha
 
-[^36]: BJTS: Salala°
+[^36]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>: Salala°
 
-[^37]: BJTS: Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha
+[^37]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>: Piḷindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha
 
 [^38]: *vaggadasakaŋ*
 

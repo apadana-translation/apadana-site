@@ -163,17 +163,17 @@ Thus indeed Venerable Tissa-metteyya Thera spoke these verses.
 
 The legend of Tissa-metteyya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: BJTS reads *Tissa-metteyya*. He was a historical monk to whom the *Tissa-metteyya-sutta* of SN was preached.
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Tissa-metteyya*. He was a historical monk to whom the *Tissa-metteyya-sutta* of SN was preached.
 
 [^3]: *paricare*
 
 [^4]: *hehi*, (future 3rd sing. of *bhavati*)
 
-[^5]: *manuja* (“Man”), BJTS reads *manuje* (also, presumably, a vocative)
+[^5]: *manuja* (“Man”), <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *manuje* (also, presumably, a vocative)
 
-[^6]: reading *devate* with BJTS for PTS *deva te*
+[^6]: reading *devate* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *deva te*
 
 [^7]: *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara*
 

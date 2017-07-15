@@ -31,9 +31,9 @@ Thus indeed Venerable Kesarapupphiya Thera spoke these verses.
 
 The legend of Kesarapupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “*Kesara-*Flower-er.” *Kesara* can refer to the *punnāga* tree (Sinh. *domba*) as well as the *mūnamal* or *muhuṇa mal* tree, Mimusops Elengi. The present poem gives no context for deciding which of the two is intended here; BJTS glosses the term as *domba-mal*, but I leave it untranslated as a result.
+[^2]: “*Kesara-*Flower-er.” *Kesara* can refer to the *punnāga* tree (Sinh. *domba*) as well as the *mūnamal* or *muhuṇa mal* tree, Mimusops Elengi. The present poem gives no context for deciding which of the two is intended here; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses the term as *domba-mal*, but I leave it untranslated as a result.
 
 [^3]: *vijjādharo*, “spell-knower”
 

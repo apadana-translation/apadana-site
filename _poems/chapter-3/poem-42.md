@@ -157,24 +157,24 @@ The legend of Koḷiyavessa Thera is finished.
 
 [^2]: lit., “meritorious”
 
-[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>initvā* (BJTS, PTS alt) for *vinditvā* (PTS), even though the latter, in the sense of “gains,” amounts to much the same thing.
+[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>initvā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *vinditvā* (<abbr title="Pali Text Society">PTS</abbr>), even though the latter, in the sense of “gains,” amounts to much the same thing.
 
 [^4]: See above,v. \[749\] and n.
 
-[^5]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a sā* (BJTS) for *mayā* (PTS).
+[^5]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a sā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *mayā* (<abbr title="Pali Text Society">PTS</abbr>).
 
 [^6]: lit., “will go to the ultimate mountain” (*naguttamaṃ*, cf. v. \[1121\] and n.)
 
-[^7]: reading *parikkhatā* (BJTS) for *puraklhatā* (“placed in front of,” PTS)
+[^7]: reading *parikkhatā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *puraklhatā* (“placed in front of,” <abbr title="Pali Text Society">PTS</abbr>)
 
-[^8]: lit., “\[Another\] kṣatriyan.” BJTS Sinhala gloss says his name was Rāma, and the girl’s name was Piyā.
+[^8]: lit., “\[Another\] kṣatriyan.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss says his name was Rāma, and the girl’s name was Piyā.
 
 [^9]: *āraddha-viriya*
 
 [^10]: *visesa-ññu* = “the distinguished/extraordinary/superior knower;” could also be read as: “the knower of distinctions/variety/difference.”
 
-[^11]: reading *ṭhapessati* (BJTS) for *ṭhapesi maŋ* (“he placed me,” PTS)
+[^11]: reading *ṭhapessati* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *ṭhapesi maŋ* (“he placed me,” <abbr title="Pali Text Society">PTS</abbr>)
 
-[^12]: some of the manuscripts contain here a largely unintelligible verse which appears to be a corruption of a verse found in *Theragāthāṭṭhakathā* (see BJTS I:168), varying widely among themselves. Both PTS and BJTS consign it to a note and do not recognize it as part of the text. The Burmese 6th Council edition includes a sensible verse, but one not found in the mss (given at BJTS I:168). Hew does not even mention it. I also omit it, but call the reader’s attention to the abrupt shift in the text. Given other *apadānas* of this ilk, we would expect some sort of transitional verse(s) between the previous Buddha’s prediction and the present arahant’s rhapsody of achievement. Then again, it may be worth noting that the author(s) considered this unnecessary, having somewhat uncharacteristically put a great deal of the narrative into the voice of the Buddha making his prediction. Still, what is especially jarring in the text as received is the lack of an indication even of which foremost place it was.
+[^12]: some of the manuscripts contain here a largely unintelligible verse which appears to be a corruption of a verse found in *Theragāthāṭṭhakathā* (see <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> I:168), varying widely among themselves. Both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> consign it to a note and do not recognize it as part of the text. The Burmese 6th Council edition includes a sensible verse, but one not found in the mss (given at <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> I:168). Hew does not even mention it. I also omit it, but call the reader’s attention to the abrupt shift in the text. Given other *apadānas* of this ilk, we would expect some sort of transitional verse(s) between the previous Buddha’s prediction and the present arahant’s rhapsody of achievement. Then again, it may be worth noting that the author(s) considered this unnecessary, having somewhat uncharacteristically put a great deal of the narrative into the voice of the Buddha making his prediction. Still, what is especially jarring in the text as received is the lack of an indication even of which foremost place it was.
 
 [^13]: Aṅgirasa

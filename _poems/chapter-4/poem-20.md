@@ -251,7 +251,7 @@ The Ekūposathikā Chapter, the Second
 
 [^4]: *ti<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īvaraŋ*, lit., “the three monastic robes,” presumably a full set of them to the Buddha and each of those in the Assembly, starting with the nun who had been declared foremost bearer of the *vinaya*
 
-[^5]: BJTS reads “Named Kassapa according to his Lineage (*gottena*)”
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “Named Kassapa according to his Lineage (*gottena*)”
 
 [^6]: ”Guarded Nun” “Protected Female Renouncer”
 
@@ -263,7 +263,7 @@ The Ekūposathikā Chapter, the Second
 
 [^10]: given the long names, this foot is unavoidably nine-syllables long, both in Pāli and in English
 
-[^11]: here the text (in both PTS and BJTS editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be better here.
+[^11]: here the text (in both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> editions) substitutes *tehi kammehi* (plural instrumental) for the ordinary *tena kammena* (singular instrumental) in this *Apadāna* stock phrase. Perhaps “good deeds” would be better here.
 
 [^12]: or “when I had attained puberty:” *yadā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a yobbanupetā*
 
@@ -279,13 +279,13 @@ The Ekūposathikā Chapter, the Second
 
 [^18]: *vijātadukkhena*, lit., “with the suffering of giving birth”
 
-[^19]: reading *sakulālayaṃ* (“going to the lair of \[her\] own clan,” BJTS gloss *siya nǟ nivasaṭa* = “going to a house of \[her\] own relatives”) for PTS *sakuṇālayaŋ* (“to a bird’s nest”)
+[^19]: reading *sakulālayaṃ* (“going to the lair of \[her\] own clan,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *siya nǟ nivasaṭa* = “going to a house of \[her\] own relatives”) for <abbr title="Pali Text Society">PTS</abbr> *sakuṇālayaŋ* (“to a bird’s nest”)
 
 [^20]: *kunnadiŋ pūritaŋ*, lit., “a bad river filled up.” Perhaps read *kunnadiŋ* as “rough river” rather than “small river” or “rivulet” per RD (whence my “stream”)?
 
 [^21]: *satthu sāsanakārikā*, lit., “\[I am\] a doer of the Teacher’s dispensation”
 
-[^22]: reading *amhi* (“I am”) with BJTS for PTS *āsiŋ* (“I was” “I became”)
+[^22]: reading *amhi* (“I am”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *āsiŋ* (“I was” “I became”)
 
 [^23]: *vinayaŋ sabbaŋ*
 
@@ -295,4 +295,4 @@ The Ekūposathikā Chapter, the Second
 
 [^26]: *vinayadhārīnaŋ*, lit., “carry the *vinaya*”
 
-[^27]: this appears only in PTS; BJTS omits the summary of the second chapter despite including the other summaries, hence presumably by mistake
+[^27]: this appears only in <abbr title="Pali Text Society">PTS</abbr>; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits the summary of the second chapter despite including the other summaries, hence presumably by mistake

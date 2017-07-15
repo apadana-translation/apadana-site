@@ -40,4 +40,4 @@ The legend of Upāgatabhāsaniya Thera is finished.
 
 [^2]: *rakkhaso*
 
-[^3]: Reading *heṭṭhasīso* with BJTS for PTS *poṭṭhasīso*
+[^3]: Reading *heṭṭhasīso* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *poṭṭhasīso*

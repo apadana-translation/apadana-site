@@ -38,7 +38,7 @@ The legend of Aṅkolaka Thera is finished.
 
 [^1]: “Alangium Donor.” The *aṅkola* (Sinh. *rukaṅgana*; Alangium hexapetalum, a.k.a. sage-leaved alangium) is a flowering tree
 
-[^2]: reading *mālāvaraṃ sakosakaṃ* with BJTS for PTS *māhāsārasamotataŋ*
+[^2]: reading *mālāvaraṃ sakosakaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *māhāsārasamotataŋ*
 
 [^3]: *patilīna*; as is clear in the fourth foot, he is “hidden” within a cave
 

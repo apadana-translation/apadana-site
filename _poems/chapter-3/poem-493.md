@@ -61,17 +61,17 @@ Thus indeed Venerable Koraṇḍapupphiya Thera spoke these verses.
 
 The legend of Koraṇḍapupphiya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Koraṇḍa-Flower-er.” See \#208 for a (different) *apadāna* ascribed to a monk of this name. \#422 {425} is likewise ascribed to a monk of this name, and save a slight difference in v. 6 \[5268\], substituting “*°<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavī* (“skin”) for *vaṇṇo* (“color”), it is identical to this one.
 
-[^3]: BJTS gloss: a hunter
+[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss: a hunter
 
 [^4]: lit., “by means of,” “through”. We might say “by birth” or “in the family business”
 
-[^5]: BJTS reads *pitumātumaten’ ahaṃ* (“with the consent of father and mother”) for PTS *pitupetāmahen’ ahaŋ*. I follow the latter reading here, noting that at \[2986\] these same two feet are repeated; there, BJTS agrees with PTS, leading me to suspect that in the present case BJTS’ mss. are corrupt. But both readings make the same point: the protagonist did his work as a hunter/animal killer as a family-approved business, not behind his parents’ backs.
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pitumātumaten’ ahaṃ* (“with the consent of father and mother”) for <abbr title="Pali Text Society">PTS</abbr> *pitupetāmahen’ ahaŋ*. I follow the latter reading here, noting that at \[2986\] these same two feet are repeated; there, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agrees with <abbr title="Pali Text Society">PTS</abbr>, leading me to suspect that in the present case <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>’ mss. are corrupt. But both readings make the same point: the protagonist did his work as a hunter/animal killer as a family-approved business, not behind his parents’ backs.
 
-[^6]: reading BJTS *pasumārena* (lit., “by” or “through” killing wild animals) for PTS *pararuhirena* (“through the blood of others”)
+[^6]: reading <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *pasumārena* (lit., “by” or “through” killing wild animals) for <abbr title="Pali Text Society">PTS</abbr> *pararuhirena* (“through the blood of others”)
 
 [^7]: *kusalaŋ*
 

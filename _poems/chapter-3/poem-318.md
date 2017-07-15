@@ -55,7 +55,7 @@ The legend of Tiraŋsiya Thera is finished.
 
 [^2]: or “column of fire”
 
-[^3]: *sāvakuttamaŋ*, which I follow BJTS gloss in treating as a Buddha-epithet.
+[^3]: *sāvakuttamaŋ*, which I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss in treating as a Buddha-epithet.
 
 [^4]: lit., “dispelling the darkness of the world in the world,” repeating *loka* perhaps for emphasis.
 

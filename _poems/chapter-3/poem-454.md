@@ -36,8 +36,8 @@ Thus indeed Venerable Tiṇukkadhāriya Thera spoke these verses.
 
 The legend of Tiṇukkadhāriya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Grass-Torch-Bearer,” BJTS reads less ambiguously *Tiṇukkādhāraka°*
+[^2]: “Grass-Torch-Bearer,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads less ambiguously *Tiṇukkādhāraka°*
 
 [^3]: i.e., at the base of his Bodhi tree, which was a *salala* tree.

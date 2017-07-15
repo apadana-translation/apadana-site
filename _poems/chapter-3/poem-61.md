@@ -45,6 +45,6 @@ The legend of Saka<span class="diacritics" data-state="on">c</span><span class="
 
 [^1]: “Thinking for Himself”
 
-[^2]: some PTS alternatives and BJTS read *pūlinaṃ*, “sand,” but PTS agrees with the cty in reading *veḷunaṃ*, “bamboo.” so I translate accordingly.
+[^2]: some <abbr title="Pali Text Society">PTS</abbr> alternatives and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> read *pūlinaṃ*, “sand,” but <abbr title="Pali Text Society">PTS</abbr> agrees with the cty in reading *veḷunaṃ*, “bamboo.” so I translate accordingly.
 
 [^3]: “Boundless Fame”

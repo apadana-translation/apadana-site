@@ -61,15 +61,15 @@ The Ten Chapters[^6] called Bhikkha.
 
 The Second Hundred[^7] is finished.
 
-[^1]: “Jasmine Flower-er”. This spelling follows BJTS; PTS gives Yūthikapupphiya.
+[^1]: “Jasmine Flower-er”. This spelling follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>; <abbr title="Pali Text Society">PTS</abbr> gives Yūthikapupphiya.
 
 [^2]: lit., “The Victor named Padumuttara”
 
 [^3]: *yūthikā* = Sinh. *sīnidda* = *jasminum auriculatum*
 
-[^4]: “Joyful with Friends”. This is the BJTS reading; PTS gives Samitaŋnandano, “Continuously Joyful”
+[^4]: “Joyful with Friends”. This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading; <abbr title="Pali Text Society">PTS</abbr> gives Samitaŋnandano, “Continuously Joyful”
 
-[^5]: PTS reads Tikaṇḍa
+[^5]: <abbr title="Pali Text Society">PTS</abbr> reads Tikaṇḍa
 
 [^6]: *vaggadasakaŋ*
 

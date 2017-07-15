@@ -427,9 +427,9 @@ The Legend of the Buddhas is completed.
 
 [^1]: The Sage of Videha is Ānanda, the Buddha’s cousin and personal attendant.
 
-[^2]: BJTS alt. reads *dhīra* (“Wise One”) for *vīra* (“Hero”)
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. reads *dhīra* (“Wise One”) for *vīra* (“Hero”)
 
-[^3]: The first four verses of BJTS are not found in PTS. The first three verses of BJTS are in the more elaborate meter, with eleven syllables per foot, that characterizes the following *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhāpadāna* (and the *sutta* from which it in turn draws), so I have translated accordingly. Indeed, with very small changes, these first three verses are also the first three verses of *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhāpadāna*, even in the PTS edition.
+[^3]: The first four verses of <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> are not found in <abbr title="Pali Text Society">PTS</abbr>. The first three verses of <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> are in the more elaborate meter, with eleven syllables per foot, that characterizes the following *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhāpadāna* (and the *sutta* from which it in turn draws), so I have translated accordingly. Indeed, with very small changes, these first three verses are also the first three verses of *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhāpadāna*, even in the <abbr title="Pali Text Society">PTS</abbr> edition.
 
 [^4]: *jinasāsanesu*, lit., “in the Victors’ dispensations”
 
@@ -437,13 +437,13 @@ The Legend of the Buddhas is completed.
 
 [^6]: *indagopaka*
 
-[^7]: I take *sampītaŋ* (BJTS *suppītaṃ*) from *pīta*, “well-saturated.”
+[^7]: I take *sampītaŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *suppītaṃ*) from *pīta*, “well-saturated.”
 
 [^8]: lit., “various”
 
 [^9]: *jambonadā*, a special and much-prized variety of gold
 
-[^10]: reading *sandhī suvibhattā* (BJTS, Hew) for *sandhīsu vibhattā* (“divided into openings,” PTS)
+[^10]: reading *sandhī suvibhattā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, Hew) for *sandhīsu vibhattā* (“divided into openings,” <abbr title="Pali Text Society">PTS</abbr>)
 
 [^11]: or “noble diagram,” *ariyamaṇḍalā*.
 
@@ -461,22 +461,22 @@ The Legend of the Buddhas is completed.
 
 [^18]: lit., “about the range of the realm of omniscience.”
 
-[^19]: here the reading of the Hewawitarne and BJTS editions, echoed in the commentary, is significantly different: “Let there be umbrellas of gems/with gilded handles of scented bamboo//covered in a net of pearls./Let them all be carried out front.”
+[^19]: here the reading of the Hewawitarne and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> editions, echoed in the commentary, is significantly different: “Let there be umbrellas of gems/with gilded handles of scented bamboo//covered in a net of pearls./Let them all be carried out front.”
 
 [^20]: the palm-print is *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅguli* or *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgulika*, Sinhala *pasaṅgul*. Pali-Sinhala-English Dictionary gives: “a mark of five fingers made after the hand immersing \[sic\] in a solution of sandalwood.” Here the text specifies that it was scented (*gandha°*).
 
 [^21]: *vina*.
 
-[^22]: reading *tato pare* with BJTS for PTS *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a-m-uppari*
+[^22]: reading *tato pare* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a-m-uppari*
 
 [^23]: *gandhabba* = *gandharva*
 
-[^24]: lit., “for \[birth among\] the Thirty\[-Three gods who reside in Tāvatiṃsa heaven\]”. The BJTS Sinhala gloss understands this to imply that the *karma* was *kusala* (“wholesome”) in that it was done for the sake of being reborn in that heaven/among those gods.
+[^24]: lit., “for \[birth among\] the Thirty\[-Three gods who reside in Tāvatiṃsa heaven\]”. The <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss understands this to imply that the *karma* was *kusala* (“wholesome”) in that it was done for the sake of being reborn in that heaven/among those gods.
 
-[^25]: BJTS reads *tejasā*, “by means of my power/inner heat”.
+[^25]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *tejasā*, “by means of my power/inner heat”.
 
 [^26]: *tena kammena sukatena* is a common foot in *Apadāna* which however breaks meter in the Pāli, having nine rather than the expected eight syllables. It easily could be emended to *tena sukatakammena* in order to keep meter in the numerous verses where it appears, but the Pāli does not witness that. Cf. \[5706\], below, for a variant *tena kammavisesana*, which does keep the meter. While I am tempted to emend the English so that the foot does keep the eight-syllable meter, “Due to that karma done very well,” I have maintained the lack of metricality — might this be somehow intentional, as to call special intention to this repeated verse? — by translating, “due to that karma done very well,” throughout.
 
 [^27]: a heaven of great pleasure, sometimes identified by “the thirty” or “the thirty-three” gods who dwell there.
 
-[^28]: Hewawitarne reads, perhaps preferably: “all the way to Brahma’s home, let them follow my example.” BJTS also records mss. that provide this reading, and gives it parenthetically as an additional line.
+[^28]: Hewawitarne reads, perhaps preferably: “all the way to Brahma’s home, let them follow my example.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> also records mss. that provide this reading, and gives it parenthetically as an additional line.

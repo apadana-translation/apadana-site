@@ -43,6 +43,6 @@ The legend of Dussadāyaka Thera is finished.
 
 [^1]: “Cloth-Donor”
 
-[^2]: one would prefer *paṇṇakāra* to *paṇṇākāra*, but both PTS and BJTS give the latter spelling. Still, I treat the term as the former; so does the BJTS Sinhala gloss (*paṇḍurak koṭa dun vastrayak*). The cty glosses the term as *vattha*, a cloth.
+[^2]: one would prefer *paṇṇakāra* to *paṇṇākāra*, but both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> give the latter spelling. Still, I treat the term as the former; so does the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss (*paṇḍurak koṭa dun vastrayak*). The cty glosses the term as *vattha*, a cloth.
 
 [^3]: “Very Pure”

@@ -72,13 +72,13 @@ The legend of Eka<span class="diacritics" data-state="on">c</span><span class="n
 
 [^1]: “Once-Thought-Out.”
 
-[^2]: or body (*kāyā*); this reading follows BJTS
+[^2]: or body (*kāyā*); this reading follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 
 [^3]: lit., sounds, objects of hearing
 
 [^4]: verses 1-10 plus the first two feet of v. 11 here are repeated almost verbatim as the same verses of \#327, below.
 
-[^5]: *bho*, BJTS glosses *pinvata* (“O meritorious one”)
+[^5]: *bho*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *pinvata* (“O meritorious one”)
 
 [^6]: *saddhamme*
 
@@ -90,7 +90,7 @@ The legend of Eka<span class="diacritics" data-state="on">c</span><span class="n
 
 [^10]: lit., “\[be a person\] who is not one with ill-will, \[one who is\] free of attachment.”
 
-[^11]: reading *devā devaṃ yadā vidū <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>avantaṃ* with BJTS for PTS *devadevaŋ yathāvidū bhavantaŋ*
+[^11]: reading *devā devaṃ yadā vidū <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>avantaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *devadevaŋ yathāvidū bhavantaŋ*
 
 [^12]: “Cheerful” or “Good-Minded”
 

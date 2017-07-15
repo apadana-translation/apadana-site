@@ -47,10 +47,10 @@ The legend of Sudassana Thera is finished.
 
 [^1]: “Good to Look At”
 
-[^2]: PTS reads *vitthatāya nadītire*, “on a wide river bank”. I follow BJTS in the spelling of the proper name.
+[^2]: <abbr title="Pali Text Society">PTS</abbr> reads *vitthatāya nadītire*, “on a wide river bank”. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in the spelling of the proper name.
 
 [^3]: lit., “*pilakkha* \[tree\]” (Sinh. *pulila*), the wave-leaved fig tree.
 
 [^4]: *ketaka* or *ketakī* (Sinhala *väṭakē* or *väṭakeyiyā*)
 
-[^5]: “Fruit Risen Up.” This is the BJTS spelling; PTS gives Khaluggata, “Surely RIsen Up.”
+[^5]: “Fruit Risen Up.” This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling; <abbr title="Pali Text Society">PTS</abbr> gives Khaluggata, “Surely RIsen Up.”

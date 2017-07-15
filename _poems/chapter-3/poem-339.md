@@ -101,7 +101,7 @@ Thus indeed Venerable Dhammasavaniya Thera spoke these verses.
 
 The legend of Dhammasavaniya Thera is finished.
 
-[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the BJTS edition, which contains more individual poems than does the PTS edition dictating the main numbering of this translation.
+[^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Dharma-Hearer” or "Hearer of the Teaching”
 
@@ -109,17 +109,17 @@ The legend of Dhammasavaniya Thera is finished.
 
 [^4]: *jaṭila*, an ascetic who wears his hair in a matted braid (*jaṭā*)
 
-[^5]: lit., “I was one who practices fierce austerities,” reading *ugga-tāpano* with BJTS (and PTS alternative) for PTS *uggata-āpaṇa*, “rising over the bazaar”
+[^5]: lit., “I was one who practices fierce austerities,” reading *ugga-tāpano* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternative) for <abbr title="Pali Text Society">PTS</abbr> *uggata-āpaṇa*, “rising over the bazaar”
 
 [^6]: lit., “to go”
 
 [^7]: *āsajja*, lit., “having hit/struck”
 
-[^8]: lit., “I did not receive a journey”. BJTS (and PTS alt.) reads *na ālabhiṃ* for PTS *na labhe*; the grammar is clearer but the meaning is the same.
+[^8]: lit., “I did not receive a journey”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) reads *na ālabhiṃ* for <abbr title="Pali Text Society">PTS</abbr> *na labhe*; the grammar is clearer but the meaning is the same.
 
 [^9]: lit., “this obstruction of movement had not formerly transpired for me”
 
-[^10]: reading *dake yathā ummujjitvā* with BJTS for PTS *dake yathā ummisitvā* (“as though opening one’s eyes in the water”)
+[^10]: reading *dake yathā ummujjitvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dake yathā ummisitvā* (“as though opening one’s eyes in the water”)
 
 [^11]: *evaŋ*, lit., “thus,” “in this way”
 
@@ -133,11 +133,11 @@ The legend of Dhammasavaniya Thera is finished.
 
 [^16]: lit., “the perception of”
 
-[^17]: reading *gāthāya* with BJTS (and PTS alt.) for PTS *kathāya*, “through \[his\] speech”
+[^17]: reading *gāthāya* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *kathāya*, “through \[his\] speech”
 
-[^18]: BJTS reads, more straightforwardly, *ani<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ataṃ udāhari*, “\[then\] spoke about impermanence”
+[^18]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads, more straightforwardly, *ani<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ataṃ udāhari*, “\[then\] spoke about impermanence”
 
-[^19]: reading *vūpasamo* with BJTS for PTS *vupasamo*
+[^19]: reading *vūpasamo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vupasamo*
 
 [^20]: cf. S iv.28; A i.152, 299
 
