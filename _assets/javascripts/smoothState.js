@@ -24,6 +24,7 @@ $(function(){
           navigation();
           addToggleTags();
           progressBar();
+          metaScroll();
         }
       },
       smoothState = $page.smoothState(options).data('smoothState');
