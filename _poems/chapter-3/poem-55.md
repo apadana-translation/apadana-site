@@ -1,7 +1,6 @@
 ---
 title: Opavuyha
 order: 55
-layout: poem
 category: chapter-3
 ---
 

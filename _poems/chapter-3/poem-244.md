@@ -1,7 +1,6 @@
 ---
 title: Viravapupphiya
 order: 244
-layout: poem
 category: chapter-3
 ---
 

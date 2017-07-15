@@ -1,7 +1,6 @@
 ---
 title: Lomasakaṅgiya
 order: 548
-layout: poem
 category: chapter-3
 ---
 

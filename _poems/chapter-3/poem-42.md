@@ -1,7 +1,6 @@
 ---
 title: Koliyavessa
 order: 42
-layout: poem
 category: chapter-3
 ---
 

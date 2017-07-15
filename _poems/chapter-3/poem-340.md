@@ -1,7 +1,6 @@
 ---
 title: Ukkhittapadumiya
 order: 340
-layout: poem
 category: chapter-3
 ---
 

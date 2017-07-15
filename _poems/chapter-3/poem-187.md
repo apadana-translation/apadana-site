@@ -1,7 +1,6 @@
 ---
 title: Ekacintita
 order: 187
-layout: poem
 category: chapter-3
 ---
 

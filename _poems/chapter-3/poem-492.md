@@ -1,7 +1,6 @@
 ---
 title: Paŋsukūlapūjaka
 order: 492
-layout: poem
 category: chapter-3
 ---
 

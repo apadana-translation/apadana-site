@@ -1,7 +1,6 @@
 ---
 title: Sukkā
 order: 35
-layout: poem
 category: chapter-4
 ---
 

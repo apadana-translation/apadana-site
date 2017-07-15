@@ -1,7 +1,6 @@
 ---
 title: Tiṇasantharadāyaka
 order: 192
-layout: poem
 category: chapter-3
 ---
 

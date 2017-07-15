@@ -1,7 +1,6 @@
 ---
 title: Pupphachadanīya
 order: 134
-layout: poem
 category: chapter-3
 ---
 

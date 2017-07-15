@@ -1,7 +1,6 @@
 ---
 title: Tambapupphiya
 order: 152
-layout: poem
 category: chapter-3
 ---
 

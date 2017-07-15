@@ -1,7 +1,6 @@
 ---
 title: Amoraphaliya
 order: 508
-layout: poem
 category: chapter-3
 ---
 

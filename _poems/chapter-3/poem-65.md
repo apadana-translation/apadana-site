@@ -1,7 +1,6 @@
 ---
 title: Bhisadāyaka
 order: 65
-layout: poem
 category: chapter-3
 ---
 

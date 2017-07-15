@@ -1,7 +1,6 @@
 ---
 title: Tiṇakuṭidāyaka
 order: 337
-layout: poem
 category: chapter-3
 ---
 

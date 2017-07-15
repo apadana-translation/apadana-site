@@ -1,7 +1,6 @@
 ---
 title: Kaṇaverapupphiya
 order: 162
-layout: poem
 category: chapter-3
 ---
 

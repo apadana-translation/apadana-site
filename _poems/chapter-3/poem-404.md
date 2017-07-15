@@ -1,7 +1,6 @@
 ---
 title: Dhotaka
 order: 404
-layout: poem
 category: chapter-3
 ---
 

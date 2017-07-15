@@ -1,7 +1,6 @@
 ---
 title: Bhaddā-Kāpilāni
 order: 27
-layout: poem
 category: chapter-4
 ---
 

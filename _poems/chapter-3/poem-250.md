@@ -1,7 +1,6 @@
 ---
 title: Uddāladāyaka
 order: 250
-layout: poem
 category: chapter-3
 ---
 

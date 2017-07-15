@@ -1,7 +1,6 @@
 ---
 title: Lakuṇṭakabhaddiya
 order: 541
-layout: poem
 category: chapter-3
 ---
 

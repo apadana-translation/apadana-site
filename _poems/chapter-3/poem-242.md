@@ -1,7 +1,6 @@
 ---
 title: Nāgakesariya
 order: 242
-layout: poem
 category: chapter-3
 ---
 

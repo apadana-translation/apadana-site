@@ -1,7 +1,6 @@
 ---
 title: Sumanāveliya
 order: 328
-layout: poem
 category: chapter-3
 ---
 

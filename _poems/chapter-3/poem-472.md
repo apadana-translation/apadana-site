@@ -1,7 +1,6 @@
 ---
 title: Maṇipūjaka
 order: 472
-layout: poem
 category: chapter-3
 ---
 

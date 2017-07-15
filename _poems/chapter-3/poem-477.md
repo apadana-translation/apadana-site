@@ -1,7 +1,6 @@
 ---
 title: Giripunnāgiya
 order: 477
-layout: poem
 category: chapter-3
 ---
 

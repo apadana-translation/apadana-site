@@ -1,7 +1,6 @@
 ---
 title: Nadī-Kassapa
 order: 552
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Abbhañjanadāyaka
 order: 524
-layout: poem
 category: chapter-3
 ---
 

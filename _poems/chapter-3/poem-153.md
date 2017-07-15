@@ -1,7 +1,6 @@
 ---
 title: Vīthisammajjaka
 order: 153
-layout: poem
 category: chapter-3
 ---
 

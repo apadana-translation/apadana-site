@@ -1,7 +1,6 @@
 ---
 title: Todeyya
 order: 408
-layout: poem
 category: chapter-3
 ---
 

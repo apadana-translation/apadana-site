@@ -1,7 +1,6 @@
 ---
 title: Paduma
 order: 59
-layout: poem
 category: chapter-3
 ---
 

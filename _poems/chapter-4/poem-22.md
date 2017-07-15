@@ -1,7 +1,6 @@
 ---
 title: Kisāgotamī
 order: 22
-layout: poem
 category: chapter-4
 ---
 

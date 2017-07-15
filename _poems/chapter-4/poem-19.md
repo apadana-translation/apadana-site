@@ -1,7 +1,6 @@
 ---
 title: Uppalavaṇṇā
 order: 19
-layout: poem
 category: chapter-4
 ---
 

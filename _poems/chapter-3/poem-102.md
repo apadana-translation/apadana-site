@@ -1,7 +1,6 @@
 ---
 title: Ñāṇasaññaka
 order: 102
-layout: poem
 category: chapter-3
 ---
 

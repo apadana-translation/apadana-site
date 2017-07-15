@@ -1,7 +1,6 @@
 ---
 title: Sucintita
 order: 428
-layout: poem
 category: chapter-3
 ---
 

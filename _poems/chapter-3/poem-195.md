@@ -1,7 +1,6 @@
 ---
 title: Aṅkolaka
 order: 195
-layout: poem
 category: chapter-3
 ---
 

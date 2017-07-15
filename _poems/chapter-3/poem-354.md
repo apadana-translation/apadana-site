@@ -1,7 +1,6 @@
 ---
 title: Sakoṭakakoraṇḍadāyaka
 order: 354
-layout: poem
 category: chapter-3
 ---
 

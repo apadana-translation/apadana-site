@@ -1,7 +1,6 @@
 ---
 title: Kapparukkhiya
 order: 40
-layout: poem
 category: chapter-3
 ---
 

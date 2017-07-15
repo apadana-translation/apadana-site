@@ -1,7 +1,6 @@
 ---
 title: Ucchaṅgapupphiya
 order: 417
-layout: poem
 category: chapter-3
 ---
 

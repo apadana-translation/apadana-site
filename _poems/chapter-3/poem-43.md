@@ -1,7 +1,6 @@
 ---
 title: Bhaddiya-Kaḷigodhāya-Putta
 order: 43
-layout: poem
 category: chapter-3
 ---
 

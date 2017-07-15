@@ -1,7 +1,6 @@
 ---
 title: Yavakalāpiya
 order: 352
-layout: poem
 category: chapter-3
 ---
 

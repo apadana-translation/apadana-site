@@ -1,7 +1,6 @@
 ---
 title: Bhājanadāyaka
 order: 232
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Āsanūpaṭṭāyaka
 order: 108
-layout: poem
 category: chapter-3
 ---
 

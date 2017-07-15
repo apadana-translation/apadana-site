@@ -1,7 +1,6 @@
 ---
 title: Vakkali
 order: 532
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Madhupiṇḍika
 order: 97
-layout: poem
 category: chapter-3
 ---
 

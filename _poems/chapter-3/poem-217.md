@@ -1,7 +1,6 @@
 ---
 title: Tālavaṇṭadāyaka
 order: 217
-layout: poem
 category: chapter-3
 ---
 

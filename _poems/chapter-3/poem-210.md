@@ -1,7 +1,6 @@
 ---
 title: Vātātapanivāriya
 order: 210
-layout: poem
 category: chapter-3
 ---
 

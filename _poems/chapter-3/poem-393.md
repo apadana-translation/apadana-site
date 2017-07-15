@@ -1,7 +1,6 @@
 ---
 title: Sabbakittika
 order: 393
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Ekapadumiya
 order: 341
-layout: poem
 category: chapter-3
 ---
 

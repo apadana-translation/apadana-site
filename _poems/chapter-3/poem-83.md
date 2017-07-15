@@ -1,7 +1,6 @@
 ---
 title: Nipannañjalika
 order: 83
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Pañcahatthiya
 order: 184
-layout: poem
 category: chapter-3
 ---
 

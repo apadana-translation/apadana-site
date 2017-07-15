@@ -1,7 +1,6 @@
 ---
 title: Ekadussadāyaka
 order: 422
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Sayampaṭibhāṇiya
 order: 469
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Sattapāṭaliya
 order: 255
-layout: poem
 category: chapter-3
 ---
 

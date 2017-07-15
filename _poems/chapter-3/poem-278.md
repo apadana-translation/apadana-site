@@ -1,7 +1,6 @@
 ---
 title: Āluvadāyaka
 order: 278
-layout: poem
 category: chapter-3
 ---
 

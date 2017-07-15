@@ -1,7 +1,6 @@
 ---
 title: Sattapaṇṇiya
 order: 375
-layout: poem
 category: chapter-3
 ---
 

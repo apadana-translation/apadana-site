@@ -1,7 +1,6 @@
 ---
 title: Nigguṇḍipupphiya
 order: 205
-layout: poem
 category: chapter-3
 ---
 

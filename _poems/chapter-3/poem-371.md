@@ -1,7 +1,6 @@
 ---
 title: Bodhivandaka
 order: 371
-layout: poem
 category: chapter-3
 ---
 

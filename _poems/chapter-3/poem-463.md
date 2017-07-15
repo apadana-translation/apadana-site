@@ -1,7 +1,6 @@
 ---
 title: Citakanibbāpaka
 order: 463
-layout: poem
 category: chapter-3
 ---
 

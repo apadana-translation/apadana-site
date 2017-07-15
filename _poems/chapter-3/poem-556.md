@@ -1,7 +1,6 @@
 ---
 title: Uttara
 order: 556
-layout: poem
 category: chapter-3
 ---
 

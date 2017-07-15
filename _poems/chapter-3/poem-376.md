@@ -1,7 +1,6 @@
 ---
 title: Gandhamuṭṭhiya
 order: 376
-layout: poem
 category: chapter-3
 ---
 

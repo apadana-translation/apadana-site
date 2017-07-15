@@ -1,7 +1,6 @@
 ---
 title: Bodhighariya
 order: 450
-layout: poem
 category: chapter-3
 ---
 

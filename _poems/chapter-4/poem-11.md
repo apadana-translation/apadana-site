@@ -1,7 +1,6 @@
 ---
 title: Ekūposathikā
 order: 11
-layout: poem
 category: chapter-4
 ---
 

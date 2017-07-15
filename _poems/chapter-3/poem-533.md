@@ -1,7 +1,6 @@
 ---
 title: Mahākappina
 order: 533
-layout: poem
 category: chapter-3
 ---
 

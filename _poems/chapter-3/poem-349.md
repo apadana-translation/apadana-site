@@ -1,7 +1,6 @@
 ---
 title: Tiṇḍukaphaladāyaka
 order: 349
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Ekapiṇḍadāyikā
 order: 6
-layout: poem
 category: chapter-4
 ---
 

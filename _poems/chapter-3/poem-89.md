@@ -1,7 +1,6 @@
 ---
 title: Bodhisaññaka
 order: 89
-layout: poem
 category: chapter-3
 ---
 

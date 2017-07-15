@@ -1,7 +1,6 @@
 ---
 title: Sopāka
 order: 19
-layout: poem
 category: chapter-3
 ---
 

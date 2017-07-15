@@ -1,7 +1,6 @@
 ---
 title: Nāḷikeradāyaka
 order: 510
-layout: poem
 category: chapter-3
 ---
 

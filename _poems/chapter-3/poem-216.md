@@ -1,7 +1,6 @@
 ---
 title: Saṇṭhita
 order: 216
-layout: poem
 category: chapter-3
 ---
 

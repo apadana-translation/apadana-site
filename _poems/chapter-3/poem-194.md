@@ -1,7 +1,6 @@
 ---
 title: Asokapūjaka
 order: 194
-layout: poem
 category: chapter-3
 ---
 

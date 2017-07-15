@@ -1,7 +1,6 @@
 ---
 title: Sabbaphaladāyaka
 order: 519
-layout: poem
 category: chapter-3
 ---
 

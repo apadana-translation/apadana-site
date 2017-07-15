@@ -1,7 +1,6 @@
 ---
 title: Mahākaccāna
 order: 531
-layout: poem
 category: chapter-3
 ---
 

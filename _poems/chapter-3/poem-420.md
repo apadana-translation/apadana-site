@@ -1,7 +1,6 @@
 ---
 title: Mañcadāyaka
 order: 420
-layout: poem
 category: chapter-3
 ---
 

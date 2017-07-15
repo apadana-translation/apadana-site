@@ -1,7 +1,6 @@
 ---
 title: Sannidhāpaka
 order: 44
-layout: poem
 category: chapter-3
 ---
 

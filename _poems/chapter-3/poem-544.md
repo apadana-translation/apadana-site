@@ -1,7 +1,6 @@
 ---
 title: Vaṅgīsa
 order: 544
-layout: poem
 category: chapter-3
 ---
 

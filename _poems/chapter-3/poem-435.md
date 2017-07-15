@@ -1,7 +1,6 @@
 ---
 title: Ucchukaṇḍika
 order: 435
-layout: poem
 category: chapter-3
 ---
 

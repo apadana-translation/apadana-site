@@ -1,7 +1,6 @@
 ---
 title: Yasa
 order: 551
-layout: poem
 category: chapter-3
 ---
 

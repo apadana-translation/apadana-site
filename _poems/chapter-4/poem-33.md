@@ -1,7 +1,6 @@
 ---
 title: Uppaladāyikā
 order: 33
-layout: poem
 category: chapter-4
 ---
 

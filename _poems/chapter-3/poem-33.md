@@ -1,7 +1,6 @@
 ---
 title: Mahā-Kaccāna
 order: 33
-layout: poem
 category: chapter-3
 ---
 

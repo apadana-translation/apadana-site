@@ -1,7 +1,6 @@
 ---
 title: Sakiŋsammajjaka
 order: 421
-layout: poem
 category: chapter-3
 ---
 

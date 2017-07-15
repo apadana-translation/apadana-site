@@ -1,7 +1,6 @@
 ---
 title: Isimuggadāyaka
 order: 185
-layout: poem
 category: chapter-3
 ---
 

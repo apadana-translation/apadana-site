@@ -1,7 +1,6 @@
 ---
 title: Dhammadinnā
 order: 23
-layout: poem
 category: chapter-4
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Vaṭaṃsakiya
 order: 149
-layout: poem
 category: chapter-3
 ---
 

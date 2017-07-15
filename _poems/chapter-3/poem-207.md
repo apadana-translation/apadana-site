@@ -1,7 +1,6 @@
 ---
 title: Salaḷamāliya
 order: 207
-layout: poem
 category: chapter-3
 ---
 

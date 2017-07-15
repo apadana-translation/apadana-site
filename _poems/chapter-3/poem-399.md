@@ -1,7 +1,6 @@
 ---
 title: Sabbadāyaka
 order: 399
-layout: poem
 category: chapter-3
 ---
 

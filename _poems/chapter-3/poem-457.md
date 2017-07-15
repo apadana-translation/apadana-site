@@ -1,7 +1,6 @@
 ---
 title: Ekachattiya
 order: 457
-layout: poem
 category: chapter-3
 ---
 

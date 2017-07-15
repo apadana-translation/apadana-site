@@ -1,7 +1,6 @@
 ---
 title: Billaphaliya
 order: 443
-layout: poem
 category: chapter-3
 ---
 

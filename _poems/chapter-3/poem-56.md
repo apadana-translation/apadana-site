@@ -1,7 +1,6 @@
 ---
 title: Saparivārāsana
 order: 56
-layout: poem
 category: chapter-3
 ---
 

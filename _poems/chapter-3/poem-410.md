@@ -1,7 +1,6 @@
 ---
 title: Udena
 order: 410
-layout: poem
 category: chapter-3
 ---
 

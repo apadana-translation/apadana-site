@@ -1,7 +1,6 @@
 ---
 title: Khaṇḍaphulliya
 order: 193
-layout: poem
 category: chapter-3
 ---
 

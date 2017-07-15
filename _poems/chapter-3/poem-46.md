@@ -1,7 +1,6 @@
 ---
 title: Padumacchadaniya
 order: 46
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Kiŋsukapupphiya
 order: 494
-layout: poem
 category: chapter-3
 ---
 

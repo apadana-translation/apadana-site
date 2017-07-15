@@ -1,7 +1,6 @@
 ---
 title: Aggapupphiya
 order: 260
-layout: poem
 category: chapter-3
 ---
 

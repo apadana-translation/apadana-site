@@ -1,7 +1,6 @@
 ---
 title: Tuvaradāyaka
 order: 241
-layout: poem
 category: chapter-3
 ---
 

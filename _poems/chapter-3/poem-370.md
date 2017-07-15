@@ -1,7 +1,6 @@
 ---
 title: Salaḷapupphiya
 order: 370
-layout: poem
 category: chapter-3
 ---
 

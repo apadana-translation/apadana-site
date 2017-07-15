@@ -1,7 +1,6 @@
 ---
 title: Vajjīputta
 order: 555
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Tilamuṭṭhidāyaka
 order: 272
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Mogharāja
 order: 540
-layout: poem
 category: chapter-3
 ---
 

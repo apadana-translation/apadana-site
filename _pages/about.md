@@ -1,7 +1,6 @@
 ---
 title: About the Project
 permalink: /about/
-layout: page
 ---
 
 ## The Translation

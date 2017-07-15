@@ -1,7 +1,6 @@
 ---
 title: Sālamaṇḍapiya
 order: 490
-layout: poem
 category: chapter-3
 ---
 

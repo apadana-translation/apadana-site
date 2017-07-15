@@ -1,7 +1,6 @@
 ---
 title: Vāsidāyaka
 order: 240
-layout: poem
 category: chapter-3
 ---
 

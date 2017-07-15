@@ -1,7 +1,6 @@
 ---
 title: Pulinapūjaka
 order: 322
-layout: poem
 category: chapter-3
 ---
 

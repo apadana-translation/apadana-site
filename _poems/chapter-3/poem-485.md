@@ -1,7 +1,6 @@
 ---
 title: Candanamāliya
 order: 485
-layout: poem
 category: chapter-3
 ---
 

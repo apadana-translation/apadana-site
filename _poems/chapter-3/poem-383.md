@@ -1,7 +1,6 @@
 ---
 title: Udumbaraphaladāyaka
 order: 383
-layout: poem
 category: chapter-3
 ---
 

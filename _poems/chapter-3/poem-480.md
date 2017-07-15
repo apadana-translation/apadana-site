@@ -1,7 +1,6 @@
 ---
 title: Pulinacaṅkamiya
 order: 480
-layout: poem
 category: chapter-3
 ---
 

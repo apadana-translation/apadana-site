@@ -1,7 +1,6 @@
 ---
 title: Kusaṭṭhakadāyaka
 order: 476
-layout: poem
 category: chapter-3
 ---
 

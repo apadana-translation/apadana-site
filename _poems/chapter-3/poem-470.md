@@ -1,7 +1,6 @@
 ---
 title: Nimittavyākaraṇiya
 order: 470
-layout: poem
 category: chapter-3
 ---
 

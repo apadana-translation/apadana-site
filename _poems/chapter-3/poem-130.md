@@ -1,7 +1,6 @@
 ---
 title: Padumapūjaka
 order: 130
-layout: poem
 category: chapter-3
 ---
 

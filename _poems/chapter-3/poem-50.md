@@ -1,7 +1,6 @@
 ---
 title: Cunda
 order: 50
-layout: poem
 category: chapter-3
 ---
 

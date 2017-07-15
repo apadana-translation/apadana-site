@@ -1,7 +1,6 @@
 ---
 title: Āyāgadāyaka
 order: 38
-layout: poem
 category: chapter-3
 ---
 

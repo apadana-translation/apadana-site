@@ -1,7 +1,6 @@
 ---
 title: Maghavapupphiya
 order: 285
-layout: poem
 category: chapter-3
 ---
 

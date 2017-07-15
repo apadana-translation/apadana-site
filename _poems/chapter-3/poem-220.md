@@ -1,7 +1,6 @@
 ---
 title: Pāpanivāriya
 order: 220
-layout: poem
 category: chapter-3
 ---
 

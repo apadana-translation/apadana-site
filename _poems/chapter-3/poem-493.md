@@ -1,7 +1,6 @@
 ---
 title: Koraṇḍapupphiya
 order: 493
-layout: poem
 category: chapter-3
 ---
 

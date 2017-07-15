@@ -1,7 +1,6 @@
 ---
 title: Vaṭaŋsakiya
 order: 227
-layout: poem
 category: chapter-3
 ---
 

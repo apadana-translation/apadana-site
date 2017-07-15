@@ -1,7 +1,6 @@
 ---
 title: Taraṇiya
 order: 488
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Kumudamāliya
 order: 171
-layout: poem
 category: chapter-3
 ---
 

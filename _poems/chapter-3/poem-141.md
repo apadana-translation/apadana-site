@@ -1,7 +1,6 @@
 ---
 title: Adhicchattiya
 order: 141
-layout: poem
 category: chapter-3
 ---
 

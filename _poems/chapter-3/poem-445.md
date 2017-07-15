@@ -1,7 +1,6 @@
 ---
 title: Utuḷhipupphiya
 order: 445
-layout: poem
 category: chapter-3
 ---
 

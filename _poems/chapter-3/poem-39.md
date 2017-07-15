@@ -1,7 +1,6 @@
 ---
 title: Dhammacakkika
 order: 39
-layout: poem
 category: chapter-3
 ---
 

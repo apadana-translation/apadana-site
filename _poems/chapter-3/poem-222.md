@@ -1,7 +1,6 @@
 ---
 title: Ajinadāyaka
 order: 222
-layout: poem
 category: chapter-3
 ---
 

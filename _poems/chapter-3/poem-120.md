@@ -1,7 +1,6 @@
 ---
 title: Jātipūjaka
 order: 120
-layout: poem
 category: chapter-3
 ---
 

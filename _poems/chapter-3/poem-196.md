@@ -1,7 +1,6 @@
 ---
 title: Kisalayapūjaka
 order: 196
-layout: poem
 category: chapter-3
 ---
 

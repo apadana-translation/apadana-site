@@ -1,7 +1,6 @@
 ---
 title: Ānanda
 order: 10
-layout: poem
 category: chapter-3
 ---
 

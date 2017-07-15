@@ -1,7 +1,6 @@
 ---
 title: Bhisamuḷāladāyaka
 order: 363
-layout: poem
 category: chapter-3
 ---
 

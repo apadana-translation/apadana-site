@@ -1,7 +1,6 @@
 ---
 title: Apadāniya
 order: 287
-layout: poem
 category: chapter-3
 ---
 

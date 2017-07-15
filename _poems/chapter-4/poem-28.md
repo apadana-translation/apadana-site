@@ -1,7 +1,6 @@
 ---
 title: Yasodharā
 order: 28
-layout: poem
 category: chapter-4
 ---
 

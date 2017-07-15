@@ -1,7 +1,6 @@
 ---
 title: Sudassana
 order: 132
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Paccupaṭṭhānasaññaka
 order: 119
-layout: poem
 category: chapter-3
 ---
 

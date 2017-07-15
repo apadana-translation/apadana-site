@@ -1,7 +1,6 @@
 ---
 title: Sela
 order: 392
-layout: poem
 category: chapter-3
 ---
 

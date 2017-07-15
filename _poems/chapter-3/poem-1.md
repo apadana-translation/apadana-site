@@ -1,7 +1,6 @@
 ---
 title: Sāriputta
 order: 1
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Bhikkhadāyī
 order: 101
-layout: poem
 category: chapter-3
 ---
 

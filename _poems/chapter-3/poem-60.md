@@ -1,7 +1,6 @@
 ---
 title: Asanabodhiya
 order: 60
-layout: poem
 category: chapter-3
 ---
 

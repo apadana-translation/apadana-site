@@ -1,7 +1,6 @@
 ---
 title: Citapūjaka
 order: 253
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Harīṭakadāyaka
 order: 438
-layout: poem
 category: chapter-3
 ---
 

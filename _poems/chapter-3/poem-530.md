@@ -1,7 +1,6 @@
 ---
 title: Sugandha
 order: 530
-layout: poem
 category: chapter-3
 ---
 

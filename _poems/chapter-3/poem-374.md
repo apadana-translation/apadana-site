@@ -1,7 +1,6 @@
 ---
 title: Paṭṭipupphiya
 order: 374
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Soṇā
 order: 26
-layout: poem
 category: chapter-4
 ---
 

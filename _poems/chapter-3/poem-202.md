@@ -1,7 +1,6 @@
 ---
 title: Vinelapupphiya
 order: 202
-layout: poem
 category: chapter-3
 ---
 

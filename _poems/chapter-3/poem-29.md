@@ -1,7 +1,6 @@
 ---
 title: Ekañjalika
 order: 29
-layout: poem
 category: chapter-3
 ---
 

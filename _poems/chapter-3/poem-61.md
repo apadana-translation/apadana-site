@@ -1,7 +1,6 @@
 ---
 title: Sakacittaniya
 order: 61
-layout: poem
 category: chapter-3
 ---
 

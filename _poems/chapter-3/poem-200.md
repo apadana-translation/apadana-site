@@ -1,7 +1,6 @@
 ---
 title: Yūthikāpupphiya
 order: 200
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Kumāra-Kassapa
 order: 535
-layout: poem
 category: chapter-3
 ---
 

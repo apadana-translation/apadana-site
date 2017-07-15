@@ -1,7 +1,6 @@
 ---
 title: Padapūjaka
 order: 296
-layout: poem
 category: chapter-3
 ---
 

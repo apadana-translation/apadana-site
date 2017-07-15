@@ -1,7 +1,6 @@
 ---
 title: Mekhalādāyikā
 order: 2
-layout: poem
 category: chapter-4
 ---
 

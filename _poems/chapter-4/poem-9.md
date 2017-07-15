@@ -1,7 +1,6 @@
 ---
 title: Pañcadīpikā
 order: 9
-layout: poem
 category: chapter-4
 ---
 

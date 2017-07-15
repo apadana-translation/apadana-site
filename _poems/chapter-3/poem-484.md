@@ -1,7 +1,6 @@
 ---
 title: Ñāṇatthavika
 order: 484
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Caṅgoṭakiya
 order: 273
-layout: poem
 category: chapter-3
 ---
 

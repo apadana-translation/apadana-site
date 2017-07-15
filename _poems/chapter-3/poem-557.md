@@ -1,7 +1,6 @@
 ---
 title: Apara Uttara
 order: 557
-layout: poem
 category: chapter-3
 ---
 

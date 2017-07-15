@@ -1,7 +1,6 @@
 ---
 title: Maggadattika
 order: 176
-layout: poem
 category: chapter-3
 ---
 

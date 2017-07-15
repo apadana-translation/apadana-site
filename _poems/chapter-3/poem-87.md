@@ -1,7 +1,6 @@
 ---
 title: Phaladāyaka
 order: 87
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Gandhodakiya
 order: 124
-layout: poem
 category: chapter-3
 ---
 

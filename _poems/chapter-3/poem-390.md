@@ -1,7 +1,6 @@
 ---
 title: The Rags of Previous Karma
 order: 390
-layout: poem
 category: chapter-3
 ---
 

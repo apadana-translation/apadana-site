@@ -1,7 +1,6 @@
 ---
 title: Puḷinathūpiya
 order: 498
-layout: poem
 category: chapter-3
 ---
 

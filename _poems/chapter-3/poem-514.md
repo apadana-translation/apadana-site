@@ -1,7 +1,6 @@
 ---
 title: Ketakapupphiya
 order: 514
-layout: poem
 category: chapter-3
 ---
 

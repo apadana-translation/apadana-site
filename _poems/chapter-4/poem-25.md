@@ -1,7 +1,6 @@
 ---
 title: Nandā (Janapadakalyāṇi)
 order: 25
-layout: poem
 category: chapter-4
 ---
 

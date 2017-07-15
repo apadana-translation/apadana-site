@@ -1,7 +1,6 @@
 ---
 title: Gayā-Kassapa
 order: 553
-layout: poem
 category: chapter-3
 ---
 

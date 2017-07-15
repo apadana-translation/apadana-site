@@ -1,7 +1,6 @@
 ---
 title: Saññaka
 order: 73
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Ambapālī
 order: 39
-layout: poem
 category: chapter-4
 ---
 

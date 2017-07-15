@@ -1,7 +1,6 @@
 ---
 title: Ekañjaliya
 order: 275
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Pupphacaṅgoṭiya
 order: 70
-layout: poem
 category: chapter-3
 ---
 

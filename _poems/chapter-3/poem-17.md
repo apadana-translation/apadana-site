@@ -1,7 +1,6 @@
 ---
 title: Upasena Vaṅgantaputta
 order: 17
-layout: poem
 category: chapter-3
 ---
 

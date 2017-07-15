@@ -1,7 +1,6 @@
 ---
 title: Bandhujīvaka
 order: 151
-layout: poem
 category: chapter-3
 ---
 

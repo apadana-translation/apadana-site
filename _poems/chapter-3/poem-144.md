@@ -1,7 +1,6 @@
 ---
 title: Saparivāriya
 order: 144
-layout: poem
 category: chapter-3
 ---
 

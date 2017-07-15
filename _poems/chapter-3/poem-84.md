@@ -1,7 +1,6 @@
 ---
 title: Adhopupphiya
 order: 84
-layout: poem
 category: chapter-3
 ---
 

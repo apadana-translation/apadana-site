@@ -1,7 +1,6 @@
 ---
 title: Sumanadāmadāyaka
 order: 379
-layout: poem
 category: chapter-3
 ---
 

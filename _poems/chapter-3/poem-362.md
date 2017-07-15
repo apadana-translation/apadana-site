@@ -1,7 +1,6 @@
 ---
 title: Kekkhārupupphiya
 order: 362
-layout: poem
 category: chapter-3
 ---
 

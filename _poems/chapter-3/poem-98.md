@@ -1,7 +1,6 @@
 ---
 title: Senāsanadāyaka
 order: 98
-layout: poem
 category: chapter-3
 ---
 

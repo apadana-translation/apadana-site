@@ -1,7 +1,6 @@
 ---
 title: Madhudāyaka
 order: 394
-layout: poem
 category: chapter-3
 ---
 

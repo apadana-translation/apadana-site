@@ -1,7 +1,6 @@
 ---
 title: Tindukadāyaka
 order: 197
-layout: poem
 category: chapter-3
 ---
 

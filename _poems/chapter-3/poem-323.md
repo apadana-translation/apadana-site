@@ -1,7 +1,6 @@
 ---
 title: Hāsajanaka
 order: 323
-layout: poem
 category: chapter-3
 ---
 

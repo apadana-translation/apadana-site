@@ -1,7 +1,6 @@
 ---
 title: Ṭhitañjaliya
 order: 79
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Uttareyyadāyaka
 order: 338
-layout: poem
 category: chapter-3
 ---
 

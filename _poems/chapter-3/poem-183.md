@@ -1,7 +1,6 @@
 ---
 title: Koṭumbariya
 order: 183
-layout: poem
 category: chapter-3
 ---
 

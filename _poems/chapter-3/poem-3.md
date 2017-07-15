@@ -1,7 +1,6 @@
 ---
 title: Mahākassapa
 order: 3
-layout: poem
 category: chapter-3
 ---
 

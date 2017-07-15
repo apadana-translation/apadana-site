@@ -1,7 +1,6 @@
 ---
 title: Uddālapupphiya
 order: 367
-layout: poem
 category: chapter-3
 ---
 

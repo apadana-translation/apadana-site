@@ -1,7 +1,6 @@
 ---
 title: Dhajadāyaka
 order: 58
-layout: poem
 category: chapter-3
 ---
 

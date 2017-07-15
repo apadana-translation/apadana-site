@@ -1,7 +1,6 @@
 ---
 title: Javahaŋsaka
 order: 267
-layout: poem
 category: chapter-3
 ---
 

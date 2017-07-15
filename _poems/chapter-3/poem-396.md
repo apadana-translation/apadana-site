@@ -1,7 +1,6 @@
 ---
 title: Bakkula
 order: 396
-layout: poem
 category: chapter-3
 ---
 

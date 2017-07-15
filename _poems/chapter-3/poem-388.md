@@ -1,7 +1,6 @@
 ---
 title: Panasaphaladāyaka
 order: 388
-layout: poem
 category: chapter-3
 ---
 

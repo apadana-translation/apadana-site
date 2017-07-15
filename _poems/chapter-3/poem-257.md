@@ -1,7 +1,6 @@
 ---
 title: Mañjaripūjaka
 order: 257
-layout: poem
 category: chapter-3
 ---
 

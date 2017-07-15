@@ -1,7 +1,6 @@
 ---
 title: Ekāsaniya
 order: 114
-layout: poem
 category: chapter-3
 ---
 

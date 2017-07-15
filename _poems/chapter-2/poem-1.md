@@ -1,6 +1,5 @@
 ---
 title: The Legend of the Lonely Buddhas
-layout: poem
 category: chapter-2
 ---
 

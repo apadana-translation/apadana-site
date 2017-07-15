@@ -1,7 +1,6 @@
 ---
 title: Kumudamāliya
 order: 320
-layout: poem
 category: chapter-3
 ---
 

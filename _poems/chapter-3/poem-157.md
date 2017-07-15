@@ -1,7 +1,6 @@
 ---
 title: Tiṇasulaka
 order: 157
-layout: poem
 category: chapter-3
 ---
 

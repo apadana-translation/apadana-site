@@ -1,7 +1,6 @@
 ---
 title: Ajjunapupphiya
 order: 516
-layout: poem
 category: chapter-3
 ---
 

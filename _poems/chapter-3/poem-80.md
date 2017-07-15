@@ -1,7 +1,6 @@
 ---
 title: Tīṇipadumiya
 order: 80
-layout: poem
 category: chapter-3
 ---
 

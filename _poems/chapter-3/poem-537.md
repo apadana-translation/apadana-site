@@ -1,7 +1,6 @@
 ---
 title: Mahākoṭṭhika
 order: 537
-layout: poem
 category: chapter-3
 ---
 

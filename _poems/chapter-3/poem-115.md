@@ -1,7 +1,6 @@
 ---
 title: Suvaṇṇapupphiya
 order: 115
-layout: poem
 category: chapter-3
 ---
 

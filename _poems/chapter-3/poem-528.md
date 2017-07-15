@@ -1,7 +1,6 @@
 ---
 title: Bodhisammajjaka
 order: 528
-layout: poem
 category: chapter-3
 ---
 

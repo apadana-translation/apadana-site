@@ -1,7 +1,6 @@
 ---
 title: Ekasaṅkhiya
 order: 432
-layout: poem
 category: chapter-3
 ---
 

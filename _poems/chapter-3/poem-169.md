@@ -1,7 +1,6 @@
 ---
 title: Samādapaka
 order: 169
-layout: poem
 category: chapter-3
 ---
 

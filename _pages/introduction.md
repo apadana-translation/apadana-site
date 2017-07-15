@@ -1,7 +1,6 @@
 ---
 title: Introduction to the Text
 permalink: /text/introduction/
-layout: page
 ---
 
 <p class="lead">*Legends of the Buddhist Saints* (*Apadāna*) is a collection of about

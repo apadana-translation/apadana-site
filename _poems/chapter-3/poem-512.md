@@ -1,7 +1,6 @@
 ---
 title: Kapitthaphaladāyaka
 order: 512
-layout: poem
 category: chapter-3
 ---
 

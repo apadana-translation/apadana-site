@@ -1,7 +1,6 @@
 ---
 title: Vibhīṭakamiñjaya
 order: 441
-layout: poem
 category: chapter-3
 ---
 

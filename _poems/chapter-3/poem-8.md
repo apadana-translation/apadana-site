@@ -1,7 +1,6 @@
 ---
 title: Piṇḍola-Bhāradvāja
 order: 8
-layout: poem
 category: chapter-3
 ---
 

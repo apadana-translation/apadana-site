@@ -1,7 +1,6 @@
 ---
 title: Padumadhāriya
 order: 520
-layout: poem
 category: chapter-3
 ---
 

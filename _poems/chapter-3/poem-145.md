@@ -1,7 +1,6 @@
 ---
 title: Ummāpupphiya
 order: 145
-layout: poem
 category: chapter-3
 ---
 

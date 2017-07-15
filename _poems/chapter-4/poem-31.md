@@ -1,7 +1,6 @@
 ---
 title: Eighteen Thousand Kṣatriyan Maiden Buddhist Nuns Headed Up by Yasavatī
 order: 31
-layout: poem
 category: chapter-4
 ---
 

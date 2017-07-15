@@ -1,7 +1,6 @@
 ---
 title: Piyālapupphiya
 order: 237
-layout: poem
 category: chapter-3
 ---
 

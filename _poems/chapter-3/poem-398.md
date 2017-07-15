@@ -1,7 +1,6 @@
 ---
 title: Salaḷamaṇḍapiya
 order: 398
-layout: poem
 category: chapter-3
 ---
 

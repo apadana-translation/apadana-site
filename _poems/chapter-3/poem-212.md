@@ -1,7 +1,6 @@
 ---
 title: Pānadhidāyaka
 order: 212
-layout: poem
 category: chapter-3
 ---
 

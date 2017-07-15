@@ -1,7 +1,6 @@
 ---
 title: Tiṇamuṭṭhidāyaka
 order: 348
-layout: poem
 category: chapter-3
 ---
 

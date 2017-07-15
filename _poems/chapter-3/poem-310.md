@@ -1,7 +1,6 @@
 ---
 title: Pabbhāradāyaka
 order: 310
-layout: poem
 category: chapter-3
 ---
 

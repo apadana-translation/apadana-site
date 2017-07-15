@@ -1,7 +1,6 @@
 ---
 title: Rahosaññaka
 order: 135
-layout: poem
 category: chapter-3
 ---
 

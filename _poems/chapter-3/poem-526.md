@@ -1,7 +1,6 @@
 ---
 title: Daṇḍadāyaka
 order: 526
-layout: poem
 category: chapter-3
 ---
 

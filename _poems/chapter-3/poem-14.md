@@ -1,7 +1,6 @@
 ---
 title: Culla-Panthaka
 order: 14
-layout: poem
 category: chapter-3
 ---
 

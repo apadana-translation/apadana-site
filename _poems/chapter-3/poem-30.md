@@ -1,7 +1,6 @@
 ---
 title: Khomadāyaka
 order: 30
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Sālapupphadāyaka
 order: 139
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Nigguṇḍipupphiya
 order: 327
-layout: poem
 category: chapter-3
 ---
 

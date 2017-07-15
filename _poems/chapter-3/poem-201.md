@@ -1,7 +1,6 @@
 ---
 title: Kaṇikārapupphiya
 order: 201
-layout: poem
 category: chapter-3
 ---
 

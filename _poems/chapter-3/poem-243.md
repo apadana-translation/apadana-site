@@ -1,7 +1,6 @@
 ---
 title: Naḷinakesariya
 order: 243
-layout: poem
 category: chapter-3
 ---
 

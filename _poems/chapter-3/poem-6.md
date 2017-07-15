@@ -1,7 +1,6 @@
 ---
 title: Upāli
 order: 6
-layout: poem
 category: chapter-3
 ---
 

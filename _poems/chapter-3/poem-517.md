@@ -1,7 +1,6 @@
 ---
 title: Kuṭajapupphiya
 order: 517
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Kesarapupphiya
 order: 364
-layout: poem
 category: chapter-3
 ---
 

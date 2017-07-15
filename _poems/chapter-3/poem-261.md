@@ -1,7 +1,6 @@
 ---
 title: Ākāsukkhipiya
 order: 261
-layout: poem
 category: chapter-3
 ---
 

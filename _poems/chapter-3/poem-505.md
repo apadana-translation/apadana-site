@@ -1,7 +1,6 @@
 ---
 title: Pāraphaliya
 order: 505
-layout: poem
 category: chapter-3
 ---
 

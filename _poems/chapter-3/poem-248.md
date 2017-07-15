@@ -1,7 +1,6 @@
 ---
 title: Pāṭalipūjaka
 order: 248
-layout: poem
 category: chapter-3
 ---
 

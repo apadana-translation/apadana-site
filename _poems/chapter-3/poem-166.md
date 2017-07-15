@@ -1,7 +1,6 @@
 ---
 title: Sappidāyaka
 order: 166
-layout: poem
 category: chapter-3
 ---
 

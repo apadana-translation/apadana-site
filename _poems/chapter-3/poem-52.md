@@ -1,7 +1,6 @@
 ---
 title: Sataraŋsika
 order: 52
-layout: poem
 category: chapter-3
 ---
 

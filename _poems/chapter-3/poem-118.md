@@ -1,7 +1,6 @@
 ---
 title: Maggasaññaka
 order: 118
-layout: poem
 category: chapter-3
 ---
 

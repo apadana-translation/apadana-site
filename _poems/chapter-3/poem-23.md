@@ -1,7 +1,6 @@
 ---
 title: Tīṇisaraṇāgamaniya
 order: 23
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Veyyāvaccaka
 order: 99
-layout: poem
 category: chapter-3
 ---
 

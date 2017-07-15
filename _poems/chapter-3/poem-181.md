@@ -1,7 +1,6 @@
 ---
 title: Kuṭajapupphiya
 order: 181
-layout: poem
 category: chapter-3
 ---
 

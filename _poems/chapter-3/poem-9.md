@@ -1,7 +1,6 @@
 ---
 title: Khadiravaniya Revata
 order: 9
-layout: poem
 category: chapter-3
 ---
 

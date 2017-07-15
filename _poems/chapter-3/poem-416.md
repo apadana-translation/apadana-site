@@ -1,7 +1,6 @@
 ---
 title: Ekadīpiya
 order: 416
-layout: poem
 category: chapter-3
 ---
 

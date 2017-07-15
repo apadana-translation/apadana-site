@@ -1,7 +1,6 @@
 ---
 title: Tīṇikaṇikārapupphiya
 order: 501
-layout: poem
 category: chapter-3
 ---
 

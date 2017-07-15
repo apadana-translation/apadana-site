@@ -1,7 +1,6 @@
 ---
 title: Macchadāyaka
 order: 266
-layout: poem
 category: chapter-3
 ---
 

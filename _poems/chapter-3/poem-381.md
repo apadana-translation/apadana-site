@@ -1,7 +1,6 @@
 ---
 title: Avaṇṭaphaladāyaka
 order: 381
-layout: poem
 category: chapter-3
 ---
 

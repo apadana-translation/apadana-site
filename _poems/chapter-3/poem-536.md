@@ -1,7 +1,6 @@
 ---
 title: Bāhiya
 order: 536
-layout: poem
 category: chapter-3
 ---
 

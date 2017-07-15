@@ -1,7 +1,6 @@
 ---
 title: Suvaṇṇabimbohaniya
 order: 271
-layout: poem
 category: chapter-3
 ---
 

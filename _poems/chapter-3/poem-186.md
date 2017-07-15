@@ -1,7 +1,6 @@
 ---
 title: Bodhiupaṭṭhāyaka
 order: 186
-layout: poem
 category: chapter-3
 ---
 

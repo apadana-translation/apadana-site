@@ -1,7 +1,6 @@
 ---
 title: Bhaddajī
 order: 558
-layout: poem
 category: chapter-3
 ---
 

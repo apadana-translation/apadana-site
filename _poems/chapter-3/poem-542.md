@@ -1,7 +1,6 @@
 ---
 title: Kaṅkha-Revata
 order: 542
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Tīṇinaḷamālikā
 order: 5
-layout: poem
 category: chapter-4
 ---
 

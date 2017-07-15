@@ -1,7 +1,6 @@
 ---
 title: Sumaṅgala
 order: 112
-layout: poem
 category: chapter-3
 ---
 

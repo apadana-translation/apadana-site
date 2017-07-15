@@ -1,7 +1,6 @@
 ---
 title: Gandhodaka
 order: 54
-layout: poem
 category: chapter-3
 ---
 

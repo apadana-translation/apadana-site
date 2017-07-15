@@ -1,7 +1,6 @@
 ---
 title: Uppalahatthiya
 order: 103
-layout: poem
 category: chapter-3
 ---
 

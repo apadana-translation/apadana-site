@@ -1,7 +1,6 @@
 ---
 title: Padumakesariya
 order: 301
-layout: poem
 category: chapter-3
 ---
 

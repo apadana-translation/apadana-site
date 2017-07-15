@@ -1,7 +1,6 @@
 ---
 title: Sattakadambapupphiya
 order: 424
-layout: poem
 category: chapter-3
 ---
 

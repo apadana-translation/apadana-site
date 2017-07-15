@@ -1,7 +1,6 @@
 ---
 title: Saññasāmika
 order: 324
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Pāṭihīrasaññaka
 order: 433
-layout: poem
 category: chapter-3
 ---
 

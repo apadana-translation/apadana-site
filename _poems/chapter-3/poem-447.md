@@ -1,7 +1,6 @@
 ---
 title: Sīhāsanika
 order: 447
-layout: poem
 category: chapter-3
 ---
 

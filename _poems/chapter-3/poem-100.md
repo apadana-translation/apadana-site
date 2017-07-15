@@ -1,7 +1,6 @@
 ---
 title: Buddhūpaṭṭhāka
 order: 100
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Biḷālidāyaka
 order: 109
-layout: poem
 category: chapter-3
 ---
 

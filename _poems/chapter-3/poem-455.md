@@ -1,7 +1,6 @@
 ---
 title: Akkamanadāyaka
 order: 455
-layout: poem
 category: chapter-3
 ---
 

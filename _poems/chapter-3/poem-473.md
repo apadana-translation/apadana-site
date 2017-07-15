@@ -1,7 +1,6 @@
 ---
 title: Ukkāsatika
 order: 473
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Vanavaccha
 order: 549
-layout: poem
 category: chapter-3
 ---
 

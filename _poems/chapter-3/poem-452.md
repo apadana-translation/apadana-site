@@ -1,7 +1,6 @@
 ---
 title: Morahatthiya
 order: 452
-layout: poem
 category: chapter-3
 ---
 

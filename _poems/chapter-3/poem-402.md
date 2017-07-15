@@ -1,7 +1,6 @@
 ---
 title: Puṇṇaka
 order: 402
-layout: poem
 category: chapter-3
 ---
 

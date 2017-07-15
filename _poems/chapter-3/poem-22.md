@@ -1,7 +1,6 @@
 ---
 title: Upavāna
 order: 22
-layout: poem
 category: chapter-3
 ---
 

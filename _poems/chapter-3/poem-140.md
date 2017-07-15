@@ -1,7 +1,6 @@
 ---
 title: Piyālaphaladāyaka
 order: 140
-layout: poem
 category: chapter-3
 ---
 

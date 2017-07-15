@@ -1,7 +1,6 @@
 ---
 title: Kuṇḍadhāna
 order: 31
-layout: poem
 category: chapter-3
 ---
 

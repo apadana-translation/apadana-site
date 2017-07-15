@@ -1,7 +1,6 @@
 ---
 title: Dhammasavaniya
 order: 339
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Reṇupūjaka
 order: 110
-layout: poem
 category: chapter-3
 ---
 

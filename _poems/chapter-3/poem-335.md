@@ -1,7 +1,6 @@
 ---
 title: Phussitakammiya
 order: 335
-layout: poem
 category: chapter-3
 ---
 

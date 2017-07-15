@@ -1,7 +1,6 @@
 ---
 title: Sattapadumiya
 order: 314
-layout: poem
 category: chapter-3
 ---
 

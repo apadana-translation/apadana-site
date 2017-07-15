@@ -1,7 +1,6 @@
 ---
 title: Sovaṇṇakattarika
 order: 430
-layout: poem
 category: chapter-3
 ---
 

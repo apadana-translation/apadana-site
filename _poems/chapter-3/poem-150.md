@@ -1,7 +1,6 @@
 ---
 title: Pallaṅkadāyaka
 order: 150
-layout: poem
 category: chapter-3
 ---
 

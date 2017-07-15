@@ -1,7 +1,6 @@
 ---
 title: Ñāṇasaññaka
 order: 128
-layout: poem
 category: chapter-3
 ---
 

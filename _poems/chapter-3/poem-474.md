@@ -1,7 +1,6 @@
 ---
 title: Sumanavījaniya
 order: 474
-layout: poem
 category: chapter-3
 ---
 

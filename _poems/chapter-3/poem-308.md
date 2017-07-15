@@ -1,7 +1,6 @@
 ---
 title: Anulepadāyaka
 order: 308
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Nalāgārika
 order: 345
-layout: poem
 category: chapter-3
 ---
 

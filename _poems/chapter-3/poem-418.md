@@ -1,7 +1,6 @@
 ---
 title: Yāgudāyaka
 order: 418
-layout: poem
 category: chapter-3
 ---
 

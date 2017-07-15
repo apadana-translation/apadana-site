@@ -1,7 +1,6 @@
 ---
 title: Piyālaphaladāyaka
 order: 500
-layout: poem
 category: chapter-3
 ---
 

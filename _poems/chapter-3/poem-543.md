@@ -1,7 +1,6 @@
 ---
 title: Sīvali
 order: 543
-layout: poem
 category: chapter-3
 ---
 

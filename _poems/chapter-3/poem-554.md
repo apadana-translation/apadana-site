@@ -1,7 +1,6 @@
 ---
 title: Kimbila
 order: 554
-layout: poem
 category: chapter-3
 ---
 

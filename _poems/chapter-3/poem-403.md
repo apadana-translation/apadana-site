@@ -1,7 +1,6 @@
 ---
 title: Mettagu
 order: 403
-layout: poem
 category: chapter-3
 ---
 

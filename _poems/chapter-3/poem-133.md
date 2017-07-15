@@ -1,7 +1,6 @@
 ---
 title: Candanapūjaka
 order: 133
-layout: poem
 category: chapter-3
 ---
 

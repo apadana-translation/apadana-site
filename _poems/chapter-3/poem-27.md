@@ -1,7 +1,6 @@
 ---
 title: Puḷinapūjaka
 order: 27
-layout: poem
 category: chapter-3
 ---
 

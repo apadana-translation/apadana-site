@@ -1,7 +1,6 @@
 ---
 title: Ekadhammasavanīya
 order: 427
-layout: poem
 category: chapter-3
 ---
 

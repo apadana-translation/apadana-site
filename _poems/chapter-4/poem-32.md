@@ -1,7 +1,6 @@
 ---
 title: Eighty-Four Thousand Brahmin Maiden Buddhist Nuns
 order: 32
-layout: poem
 category: chapter-4
 ---
 

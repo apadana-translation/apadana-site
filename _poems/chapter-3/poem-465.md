@@ -1,7 +1,6 @@
 ---
 title: Sumanatālavaṇṭiya
 order: 465
-layout: poem
 category: chapter-3
 ---
 

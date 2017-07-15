@@ -1,7 +1,6 @@
 ---
 title: Pañcaṅguliya
 order: 170
-layout: poem
 category: chapter-3
 ---
 

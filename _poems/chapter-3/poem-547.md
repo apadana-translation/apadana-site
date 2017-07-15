@@ -1,7 +1,6 @@
 ---
 title: Abhaya
 order: 547
-layout: poem
 category: chapter-3
 ---
 

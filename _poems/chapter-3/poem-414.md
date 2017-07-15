@@ -1,7 +1,6 @@
 ---
 title: Madhumaŋsadāyaka
 order: 414
-layout: poem
 category: chapter-3
 ---
 

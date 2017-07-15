@@ -1,7 +1,6 @@
 ---
 title: Tiṇukkadhāriya
 order: 454
-layout: poem
 category: chapter-3
 ---
 

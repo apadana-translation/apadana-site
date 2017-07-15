@@ -1,7 +1,6 @@
 ---
 title: Saraṇagamaniya
 order: 298
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Dverataniya
 order: 223
-layout: poem
 category: chapter-3
 ---
 

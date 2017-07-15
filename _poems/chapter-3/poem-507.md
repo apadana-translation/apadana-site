@@ -1,7 +1,6 @@
 ---
 title: Ajelaphaladāyaka
 order: 507
-layout: poem
 category: chapter-3
 ---
 

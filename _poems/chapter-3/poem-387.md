@@ -1,7 +1,6 @@
 ---
 title: Kadalīphaladāyaka
 order: 387
-layout: poem
 category: chapter-3
 ---
 

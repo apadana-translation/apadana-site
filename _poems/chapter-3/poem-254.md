@@ -1,7 +1,6 @@
 ---
 title: Ticampakapupphiya
 order: 254
-layout: poem
 category: chapter-3
 ---
 

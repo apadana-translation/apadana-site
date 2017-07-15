@@ -1,7 +1,6 @@
 ---
 title: Bhallāṭakadāyaka
 order: 444
-layout: poem
 category: chapter-3
 ---
 

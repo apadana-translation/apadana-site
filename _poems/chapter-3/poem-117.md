@@ -1,7 +1,6 @@
 ---
 title: Buddhasaññaka
 order: 117
-layout: poem
 category: chapter-3
 ---
 

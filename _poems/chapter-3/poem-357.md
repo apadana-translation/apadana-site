@@ -1,7 +1,6 @@
 ---
 title: Supuṭakapūjaka
 order: 357
-layout: poem
 category: chapter-3
 ---
 

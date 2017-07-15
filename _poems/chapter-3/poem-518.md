@@ -1,7 +1,6 @@
 ---
 title: Ghosasaññaka
 order: 518
-layout: poem
 category: chapter-3
 ---
 

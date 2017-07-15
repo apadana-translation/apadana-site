@@ -1,7 +1,6 @@
 ---
 title: Dhammarucī
 order: 489
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Puṇṇa-Mantāniputta
 order: 5
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Pecchadāyaka
 order: 522
-layout: poem
 category: chapter-3
 ---
 

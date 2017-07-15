@@ -1,7 +1,6 @@
 ---
 title: Bhaddāli
 order: 411
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Padumakūṭāgāriya
 order: 395
-layout: poem
 category: chapter-3
 ---
 

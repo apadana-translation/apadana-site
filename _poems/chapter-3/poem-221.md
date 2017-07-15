@@ -1,7 +1,6 @@
 ---
 title: Ālambanadāyaka
 order: 221
-layout: poem
 category: chapter-3
 ---
 

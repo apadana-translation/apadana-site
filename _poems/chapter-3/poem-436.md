@@ -1,7 +1,6 @@
 ---
 title: Kalambadāyaka
 order: 436
-layout: poem
 category: chapter-3
 ---
 

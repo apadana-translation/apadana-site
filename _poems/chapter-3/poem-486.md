@@ -1,7 +1,6 @@
 ---
 title: Dhātupūjaka
 order: 486
-layout: poem
 category: chapter-3
 ---
 

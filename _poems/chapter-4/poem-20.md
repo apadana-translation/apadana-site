@@ -1,7 +1,6 @@
 ---
 title: Paṭācārā
 order: 20
-layout: poem
 category: chapter-4
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Kāsumāriphaladāyaka
 order: 380
-layout: poem
 category: chapter-3
 ---
 

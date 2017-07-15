@@ -1,7 +1,6 @@
 ---
 title: Sigālaka-mātā
 order: 34
-layout: poem
 category: chapter-4
 ---
 

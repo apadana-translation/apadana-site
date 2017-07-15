@@ -1,7 +1,6 @@
 ---
 title: Sālakusumiya
 order: 461
-layout: poem
 category: chapter-3
 ---
 

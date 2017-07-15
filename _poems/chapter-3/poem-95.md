@@ -1,7 +1,6 @@
 ---
 title: Gandhamāliya
 order: 95
-layout: poem
 category: chapter-3
 ---
 

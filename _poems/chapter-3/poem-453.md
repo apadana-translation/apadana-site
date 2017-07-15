@@ -1,7 +1,6 @@
 ---
 title: Sīhāsanavījanīya
 order: 453
-layout: poem
 category: chapter-3
 ---
 

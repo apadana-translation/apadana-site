@@ -1,7 +1,6 @@
 ---
 title: Rāhula
 order: 16
-layout: poem
 category: chapter-3
 ---
 

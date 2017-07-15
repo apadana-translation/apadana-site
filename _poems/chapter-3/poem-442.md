@@ -1,7 +1,6 @@
 ---
 title: Koladāyaka
 order: 442
-layout: poem
 category: chapter-3
 ---
 

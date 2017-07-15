@@ -1,7 +1,6 @@
 ---
 title: Jatukaṇṇika
 order: 409
-layout: poem
 category: chapter-3
 ---
 

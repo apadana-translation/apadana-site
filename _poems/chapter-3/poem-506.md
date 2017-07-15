@@ -1,7 +1,6 @@
 ---
 title: Mātuluṅgaphaladāyaka
 order: 506
-layout: poem
 category: chapter-3
 ---
 

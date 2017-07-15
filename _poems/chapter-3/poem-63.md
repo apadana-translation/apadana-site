@@ -1,7 +1,6 @@
 ---
 title: Paccāgamanīya
 order: 63
-layout: poem
 category: chapter-3
 ---
 

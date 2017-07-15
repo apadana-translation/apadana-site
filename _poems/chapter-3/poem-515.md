@@ -1,7 +1,6 @@
 ---
 title: Nāgapupphiya
 order: 515
-layout: poem
 category: chapter-3
 ---
 

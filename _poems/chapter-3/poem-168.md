@@ -1,7 +1,6 @@
 ---
 title: Dussadāyaka
 order: 168
-layout: poem
 category: chapter-3
 ---
 

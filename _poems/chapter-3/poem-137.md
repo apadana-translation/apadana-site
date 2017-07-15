@@ -1,7 +1,6 @@
 ---
 title: Atthasandassaka
 order: 137
-layout: poem
 category: chapter-3
 ---
 

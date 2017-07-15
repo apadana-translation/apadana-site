@@ -1,7 +1,6 @@
 ---
 title: Ambāṭakiya
 order: 446
-layout: poem
 category: chapter-3
 ---
 

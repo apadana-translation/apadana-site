@@ -1,7 +1,6 @@
 ---
 title: Udakāsanadāyaka
 order: 231
-layout: poem
 category: chapter-3
 ---
 

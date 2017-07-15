@@ -1,7 +1,6 @@
 ---
 title: Sampasādaka
 order: 306
-layout: poem
 category: chapter-3
 ---
 

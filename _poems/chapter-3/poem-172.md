@@ -1,7 +1,6 @@
 ---
 title: Nisseṇidāyaka
 order: 172
-layout: poem
 category: chapter-3
 ---
 

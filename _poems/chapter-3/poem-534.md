@@ -1,7 +1,6 @@
 ---
 title: Dabbamalla
 order: 534
-layout: poem
 category: chapter-3
 ---
 

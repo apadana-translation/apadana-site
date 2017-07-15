@@ -1,7 +1,6 @@
 ---
 title: Phārusaphaladāyaka
 order: 385
-layout: poem
 category: chapter-3
 ---
 

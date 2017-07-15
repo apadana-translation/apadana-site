@@ -1,7 +1,6 @@
 ---
 title: Pupphacchattiya
 order: 329
-layout: poem
 category: chapter-3
 ---
 

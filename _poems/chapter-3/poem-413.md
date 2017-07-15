@@ -1,7 +1,6 @@
 ---
 title: Tiṇasūlakachādaniya
 order: 413
-layout: poem
 category: chapter-3
 ---
 

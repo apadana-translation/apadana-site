@@ -1,7 +1,6 @@
 ---
 title: Jagatidāyaka
 order: 451
-layout: poem
 category: chapter-3
 ---
 

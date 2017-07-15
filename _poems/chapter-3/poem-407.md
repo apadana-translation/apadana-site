@@ -1,7 +1,6 @@
 ---
 title: Hemaka
 order: 407
-layout: poem
 category: chapter-3
 ---
 

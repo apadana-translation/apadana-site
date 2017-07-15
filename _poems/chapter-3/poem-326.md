@@ -1,7 +1,6 @@
 ---
 title: Annasaŋsāvaka
 order: 326
-layout: poem
 category: chapter-3
 ---
 

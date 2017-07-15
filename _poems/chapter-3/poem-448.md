@@ -1,7 +1,6 @@
 ---
 title: Pādapīṭhiya
 order: 448
-layout: poem
 category: chapter-3
 ---
 

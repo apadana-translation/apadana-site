@@ -1,7 +1,6 @@
 ---
 title: Jātipupphiya
 order: 458
-layout: poem
 category: chapter-3
 ---
 

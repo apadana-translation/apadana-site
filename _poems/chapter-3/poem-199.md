@@ -1,7 +1,6 @@
 ---
 title: Kiṅkaṇipupphiya
 order: 199
-layout: poem
 category: chapter-3
 ---
 

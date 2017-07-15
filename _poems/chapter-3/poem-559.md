@@ -1,7 +1,6 @@
 ---
 title: Sīvaka
 order: 559
-layout: poem
 category: chapter-3
 ---
 

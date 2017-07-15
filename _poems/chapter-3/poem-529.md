@@ -1,7 +1,6 @@
 ---
 title: Āmaṇḍaphaladāyaka
 order: 529
-layout: poem
 category: chapter-3
 ---
 

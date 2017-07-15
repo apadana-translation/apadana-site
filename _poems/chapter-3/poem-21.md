@@ -1,7 +1,6 @@
 ---
 title: Subhūti
 order: 21
-layout: poem
 category: chapter-3
 ---
 

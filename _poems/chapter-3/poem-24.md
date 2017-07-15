@@ -1,7 +1,6 @@
 ---
 title: Pañcasīlasamādāniya
 order: 24
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Sajjhadāyaka
 order: 358
-layout: poem
 category: chapter-3
 ---
 

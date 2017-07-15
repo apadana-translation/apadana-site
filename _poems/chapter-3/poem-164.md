@@ -1,7 +1,6 @@
 ---
 title: Desapūjaka
 order: 164
-layout: poem
 category: chapter-3
 ---
 

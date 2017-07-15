@@ -1,7 +1,6 @@
 ---
 title: Vaṇṇakāraka
 order: 236
-layout: poem
 category: chapter-3
 ---
 

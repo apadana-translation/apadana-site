@@ -1,7 +1,6 @@
 ---
 title: Punnāgapupphiya
 order: 333
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Potthadāyaka
 order: 276
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Nandaka
 order: 545
-layout: poem
 category: chapter-3
 ---
 

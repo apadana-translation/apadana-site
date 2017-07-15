@@ -1,7 +1,6 @@
 ---
 title: Ekapasādaniya
 order: 138
-layout: poem
 category: chapter-3
 ---
 

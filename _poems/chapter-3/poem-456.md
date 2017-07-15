@@ -1,7 +1,6 @@
 ---
 title: Vanakoraṇḍiya
 order: 456
-layout: poem
 category: chapter-3
 ---
 

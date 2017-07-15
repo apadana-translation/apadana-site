@@ -1,7 +1,6 @@
 ---
 title: Ekāsanadāyikā
 order: 14
-layout: poem
 category: chapter-4
 ---
 

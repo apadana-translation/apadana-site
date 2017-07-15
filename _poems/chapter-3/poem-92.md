@@ -1,7 +1,6 @@
 ---
 title: Sucintita
 order: 92
-layout: poem
 category: chapter-3
 ---
 

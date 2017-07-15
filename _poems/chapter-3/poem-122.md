@@ -1,7 +1,6 @@
 ---
 title: Pupphathūpiya
 order: 122
-layout: poem
 category: chapter-3
 ---
 

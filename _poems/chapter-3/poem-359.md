@@ -1,7 +1,6 @@
 ---
 title: Saraṇāgamaniya
 order: 359
-layout: poem
 category: chapter-3
 ---
 

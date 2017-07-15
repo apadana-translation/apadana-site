@@ -1,7 +1,6 @@
 ---
 title: Modakadāyikā
 order: 13
-layout: poem
 category: chapter-4
 ---
 

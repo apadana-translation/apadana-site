@@ -1,7 +1,6 @@
 ---
 title: Gandhapūjaka
 order: 460
-layout: poem
 category: chapter-3
 ---
 

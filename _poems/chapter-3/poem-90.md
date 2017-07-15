@@ -1,7 +1,6 @@
 ---
 title: Padumapupphiya
 order: 90
-layout: poem
 category: chapter-3
 ---
 

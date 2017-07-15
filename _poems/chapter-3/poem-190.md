@@ -1,7 +1,6 @@
 ---
 title: Tivaṇṭipupphiya
 order: 190
-layout: poem
 category: chapter-3
 ---
 

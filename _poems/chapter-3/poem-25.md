@@ -1,7 +1,6 @@
 ---
 title: Annasaṃsāvaka
 order: 25
-layout: poem
 category: chapter-3
 ---
 

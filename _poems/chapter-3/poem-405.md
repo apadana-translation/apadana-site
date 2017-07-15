@@ -1,7 +1,6 @@
 ---
 title: Upasīva
 order: 405
-layout: poem
 category: chapter-3
 ---
 

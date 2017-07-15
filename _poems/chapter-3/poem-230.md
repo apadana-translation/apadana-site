@@ -1,7 +1,6 @@
 ---
 title: Ekavandiya
 order: 230
-layout: poem
 category: chapter-3
 ---
 

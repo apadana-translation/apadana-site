@@ -1,7 +1,6 @@
 ---
 title: Sūcidāyaka
 order: 77
-layout: poem
 category: chapter-3
 ---
 

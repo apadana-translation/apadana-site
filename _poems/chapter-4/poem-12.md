@@ -1,7 +1,6 @@
 ---
 title: Salalapupphikā
 order: 12
-layout: poem
 category: chapter-4
 ---
 

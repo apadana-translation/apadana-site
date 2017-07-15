@@ -1,7 +1,6 @@
 ---
 title: Aḍḍhacelaka
 order: 93
-layout: poem
 category: chapter-3
 ---
 

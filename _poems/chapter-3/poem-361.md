@@ -1,7 +1,6 @@
 ---
 title: Ekamandāriya
 order: 361
-layout: poem
 category: chapter-3
 ---
 

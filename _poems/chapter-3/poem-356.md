@@ -1,7 +1,6 @@
 ---
 title: Ambayāgudāyaka
 order: 356
-layout: poem
 category: chapter-3
 ---
 

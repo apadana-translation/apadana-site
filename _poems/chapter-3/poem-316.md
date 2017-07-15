@@ -1,7 +1,6 @@
 ---
 title: Āsanatthavika
 order: 316
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Rādha
 order: 539
-layout: poem
 category: chapter-3
 ---
 

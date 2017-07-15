@@ -1,7 +1,6 @@
 ---
 title: Ambadāyaka
 order: 68
-layout: poem
 category: chapter-3
 ---
 

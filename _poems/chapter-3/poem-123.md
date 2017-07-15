@@ -1,7 +1,6 @@
 ---
 title: Pāyāsadāyaka
 order: 123
-layout: poem
 category: chapter-3
 ---
 

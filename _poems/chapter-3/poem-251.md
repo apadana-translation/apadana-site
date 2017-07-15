@@ -1,7 +1,6 @@
 ---
 title: Thomadāyaka
 order: 251
-layout: poem
 category: chapter-3
 ---
 

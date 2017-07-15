@@ -1,7 +1,6 @@
 ---
 title: Uruvelakassapa
 order: 538
-layout: poem
 category: chapter-3
 ---
 

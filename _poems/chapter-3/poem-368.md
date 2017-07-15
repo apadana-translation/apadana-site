@@ -1,7 +1,6 @@
 ---
 title: Ekacampakapupphiya
 order: 368
-layout: poem
 category: chapter-3
 ---
 

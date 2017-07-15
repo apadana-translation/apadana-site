@@ -1,7 +1,6 @@
 ---
 title: Ādhāradāyaka
 order: 209
-layout: poem
 category: chapter-3
 ---
 

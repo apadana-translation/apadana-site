@@ -1,7 +1,6 @@
 ---
 title: Tiṇamuṭhidāyaka
 order: 521
-layout: poem
 category: chapter-3
 ---
 

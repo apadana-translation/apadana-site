@@ -1,7 +1,6 @@
 ---
 title: Kiŋsukapūjaka
 order: 353
-layout: poem
 category: chapter-3
 ---
 

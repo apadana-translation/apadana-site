@@ -1,7 +1,6 @@
 ---
 title: Cūlasugandha
 order: 550
-layout: poem
 category: chapter-3
 ---
 

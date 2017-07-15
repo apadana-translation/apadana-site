@@ -1,7 +1,6 @@
 ---
 title: Pabhaṅkara
 order: 336
-layout: poem
 category: chapter-3
 ---
 

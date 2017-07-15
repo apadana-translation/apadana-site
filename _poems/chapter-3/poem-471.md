@@ -1,7 +1,6 @@
 ---
 title: Naḷamāliya
 order: 471
-layout: poem
 category: chapter-3
 ---
 

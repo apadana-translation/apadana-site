@@ -1,7 +1,6 @@
 ---
 title: Ten Thousand Buddhist Nuns Headed Up by Yasovatī
 order: 29
-layout: poem
 category: chapter-4
 ---
 

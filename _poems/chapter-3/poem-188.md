@@ -1,7 +1,6 @@
 ---
 title: Tikaṇṇipupphiya
 order: 188
-layout: poem
 category: chapter-3
 ---
 

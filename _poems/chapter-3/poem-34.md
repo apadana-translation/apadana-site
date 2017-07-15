@@ -1,7 +1,6 @@
 ---
 title: Kāḷudāyi
 order: 34
-layout: poem
 category: chapter-3
 ---
 

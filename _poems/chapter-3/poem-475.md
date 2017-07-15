@@ -1,7 +1,6 @@
 ---
 title: Kummāsadāyaka
 order: 475
-layout: poem
 category: chapter-3
 ---
 

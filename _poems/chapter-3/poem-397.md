@@ -1,7 +1,6 @@
 ---
 title: Girimānanda
 order: 397
-layout: poem
 category: chapter-3
 ---
 

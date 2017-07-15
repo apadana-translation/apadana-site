@@ -1,7 +1,6 @@
 ---
 title: Naḷakuṭikadāyaka
 order: 499
-layout: poem
 category: chapter-3
 ---
 

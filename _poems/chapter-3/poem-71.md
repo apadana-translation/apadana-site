@@ -1,7 +1,6 @@
 ---
 title: Nāgasamāla
 order: 71
-layout: poem
 category: chapter-3
 ---
 

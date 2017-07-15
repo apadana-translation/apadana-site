@@ -1,7 +1,6 @@
 ---
 title: Ārāmadāyaka
 order: 307
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Avaṭaphaliya
 order: 504
-layout: poem
 category: chapter-3
 ---
 

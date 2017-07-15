@@ -1,7 +1,6 @@
 ---
 title: Pāṭalipupphiya
 order: 372
-layout: poem
 category: chapter-3
 ---
 

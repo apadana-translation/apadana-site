@@ -1,7 +1,6 @@
 ---
 title: Khemā
 order: 18
-layout: poem
 category: chapter-4
 ---
 

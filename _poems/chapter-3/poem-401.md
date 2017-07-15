@@ -1,7 +1,6 @@
 ---
 title: Tissametteyya
 order: 401
-layout: poem
 category: chapter-3
 ---
 

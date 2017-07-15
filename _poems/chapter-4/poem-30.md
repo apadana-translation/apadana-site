@@ -1,7 +1,6 @@
 ---
 title: Eighteen Thousand Buddhist Nuns Headed Up by Yasodharā
 order: 30
-layout: poem
 category: chapter-4
 ---
 

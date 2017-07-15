@@ -1,7 +1,6 @@
 ---
 title: Jambuphaliya
 order: 440
-layout: poem
 category: chapter-3
 ---
 

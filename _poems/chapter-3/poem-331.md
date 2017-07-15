@@ -1,7 +1,6 @@
 ---
 title: Gandhathūpiya
 order: 331
-layout: poem
 category: chapter-3
 ---
 

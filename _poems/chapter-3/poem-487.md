@@ -1,7 +1,6 @@
 ---
 title: Puḷinuppādaka
 order: 487
-layout: poem
 category: chapter-3
 ---
 

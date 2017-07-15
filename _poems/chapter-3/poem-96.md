@@ -1,7 +1,6 @@
 ---
 title: Tipupphiya
 order: 96
-layout: poem
 category: chapter-3
 ---
 

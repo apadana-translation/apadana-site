@@ -1,7 +1,6 @@
 ---
 title: Phalakadāyaka
 order: 148
-layout: poem
 category: chapter-3
 ---
 

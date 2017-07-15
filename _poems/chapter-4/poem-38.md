@@ -1,7 +1,6 @@
 ---
 title: Puṇṇikā
 order: 38
-layout: poem
 category: chapter-4
 ---
 

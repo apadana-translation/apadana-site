@@ -1,7 +1,6 @@
 ---
 title: Nanda
 order: 13
-layout: poem
 category: chapter-3
 ---
 

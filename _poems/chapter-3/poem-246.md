@@ -1,7 +1,6 @@
 ---
 title: Pattadāyaka
 order: 246
-layout: poem
 category: chapter-3
 ---
 

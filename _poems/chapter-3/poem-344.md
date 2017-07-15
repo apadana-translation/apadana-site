@@ -1,7 +1,6 @@
 ---
 title: Tīṇikiṅkhaṇikapūjaka
 order: 344
-layout: poem
 category: chapter-3
 ---
 

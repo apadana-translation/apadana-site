@@ -1,7 +1,6 @@
 ---
 title: Pilindavaccha
 order: 391
-layout: poem
 category: chapter-3
 ---
 

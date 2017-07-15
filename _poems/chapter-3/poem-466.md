@@ -1,7 +1,6 @@
 ---
 title: Avaṇṭaphaliya
 order: 466
-layout: poem
 category: chapter-3
 ---
 

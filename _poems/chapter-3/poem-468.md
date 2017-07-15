@@ -1,7 +1,6 @@
 ---
 title: Pilakkhaphaladāyaka
 order: 468
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Aḍḍhakāsikā
 order: 37
-layout: poem
 category: chapter-4
 ---
 

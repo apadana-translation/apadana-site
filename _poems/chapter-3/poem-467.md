@@ -1,7 +1,6 @@
 ---
 title: Labujadāyaka
 order: 467
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Pañcadīpika
 order: 57
-layout: poem
 category: chapter-3
 ---
 

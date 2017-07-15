@@ -1,7 +1,6 @@
 ---
 title: Kadambapupphiya
 order: 156
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Tiṇasanthāradāyaka
 order: 76
-layout: poem
 category: chapter-3
 ---
 

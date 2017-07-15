@@ -1,7 +1,6 @@
 ---
 title: Sakulā
 order: 24
-layout: poem
 category: chapter-4
 ---
 

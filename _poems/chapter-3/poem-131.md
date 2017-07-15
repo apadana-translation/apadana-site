@@ -1,7 +1,6 @@
 ---
 title: Sobhita
 order: 131
-layout: poem
 category: chapter-3
 ---
 

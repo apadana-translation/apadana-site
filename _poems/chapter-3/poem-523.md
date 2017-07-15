@@ -1,7 +1,6 @@
 ---
 title: Saraṇāgamaniya
 order: 523
-layout: poem
 category: chapter-3
 ---
 

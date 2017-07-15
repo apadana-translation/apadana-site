@@ -1,7 +1,6 @@
 ---
 title: Ambāṭaka
 order: 437
-layout: poem
 category: chapter-3
 ---
 

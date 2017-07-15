@@ -1,7 +1,6 @@
 ---
 title: Kureñjiyaphaladāyaka
 order: 511
-layout: poem
 category: chapter-3
 ---
 

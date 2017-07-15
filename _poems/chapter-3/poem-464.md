@@ -1,7 +1,6 @@
 ---
 title: Setudāyaka
 order: 464
-layout: poem
 category: chapter-3
 ---
 

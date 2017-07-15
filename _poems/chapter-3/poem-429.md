@@ -1,7 +1,6 @@
 ---
 title: Sovaṇṇakiṅkhaniya
 order: 429
-layout: poem
 category: chapter-3
 ---
 

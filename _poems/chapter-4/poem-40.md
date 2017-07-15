@@ -1,7 +1,6 @@
 ---
 title: Selā
 order: 40
-layout: poem
 category: chapter-4
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Sāgata
 order: 32
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Udakadāyikā
 order: 10
-layout: poem
 category: chapter-4
 ---
 

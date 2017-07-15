@@ -1,7 +1,6 @@
 ---
 title: Ekatthambhika
 order: 12
-layout: poem
 category: chapter-3
 ---
 

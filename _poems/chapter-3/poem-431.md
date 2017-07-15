@@ -1,7 +1,6 @@
 ---
 title: Ekavihāriya
 order: 431
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Piṇḍapātika
 order: 360
-layout: poem
 category: chapter-3
 ---
 

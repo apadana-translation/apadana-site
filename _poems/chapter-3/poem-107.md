@@ -1,7 +1,6 @@
 ---
 title: Naḷamāliya
 order: 107
-layout: poem
 category: chapter-3
 ---
 

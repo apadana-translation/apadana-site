@@ -1,7 +1,6 @@
 ---
 title: Valliphaladāyaka
 order: 386
-layout: poem
 category: chapter-3
 ---
 

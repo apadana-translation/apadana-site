@@ -1,7 +1,6 @@
 ---
 title: Akkantasaññaka
 order: 218
-layout: poem
 category: chapter-3
 ---
 

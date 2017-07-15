@@ -1,7 +1,6 @@
 ---
 title: Sattuppalamālikāya
 order: 8
-layout: poem
 category: chapter-4
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Tīṇikiṅkhanipupphiya
 order: 491
-layout: poem
 category: chapter-3
 ---
 

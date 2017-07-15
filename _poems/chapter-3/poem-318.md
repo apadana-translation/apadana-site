@@ -1,7 +1,6 @@
 ---
 title: Tiraŋsiya
 order: 318
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Raṭṭhapāla
 order: 18
-layout: poem
 category: chapter-3
 ---
 

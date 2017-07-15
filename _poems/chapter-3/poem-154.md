@@ -1,7 +1,6 @@
 ---
 title: Kakkārupūjaka
 order: 154
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Soṇakoṭivīsa
 order: 389
-layout: poem
 category: chapter-3
 ---
 

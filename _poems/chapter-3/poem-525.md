@@ -1,7 +1,6 @@
 ---
 title: Supaṭadāyaka
 order: 525
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Aṅkolapupphiya
 order: 226
-layout: poem
 category: chapter-3
 ---
 

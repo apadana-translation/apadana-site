@@ -1,7 +1,6 @@
 ---
 title: Sabbagandhiya
 order: 302
-layout: poem
 category: chapter-3
 ---
 

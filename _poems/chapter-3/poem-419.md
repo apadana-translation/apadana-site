@@ -1,7 +1,6 @@
 ---
 title: Patthodanadāyaka
 order: 419
-layout: poem
 category: chapter-3
 ---
 

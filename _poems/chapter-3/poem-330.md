@@ -1,7 +1,6 @@
 ---
 title: Saparivārachattadāyaka
 order: 330
-layout: poem
 category: chapter-3
 ---
 

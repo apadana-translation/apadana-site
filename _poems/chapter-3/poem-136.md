@@ -1,7 +1,6 @@
 ---
 title: Campakapupphiya
 order: 136
-layout: poem
 category: chapter-3
 ---
 

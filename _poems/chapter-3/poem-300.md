@@ -1,7 +1,6 @@
 ---
 title: Anusaŋsāvaka
 order: 300
-layout: poem
 category: chapter-3
 ---
 

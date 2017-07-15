@@ -1,7 +1,6 @@
 ---
 title: Maggadāyaka
 order: 147
-layout: poem
 category: chapter-3
 ---
 

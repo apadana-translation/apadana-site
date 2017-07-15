@@ -1,7 +1,6 @@
 ---
 title: Abhirūpanandā
 order: 36
-layout: poem
 category: chapter-4
 ---
 

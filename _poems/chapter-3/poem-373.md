@@ -1,7 +1,6 @@
 ---
 title: Tīṇuppalamāliya
 order: 373
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Kandalīpupphiya
 order: 319
-layout: poem
 category: chapter-3
 ---
 

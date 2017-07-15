@@ -1,7 +1,6 @@
 ---
 title: Kusumāsaniya
 order: 126
-layout: poem
 category: chapter-3
 ---
 

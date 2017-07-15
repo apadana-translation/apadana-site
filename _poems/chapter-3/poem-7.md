@@ -1,7 +1,6 @@
 ---
 title: Aññākoṇḍañña
 order: 7
-layout: poem
 category: chapter-3
 ---
 

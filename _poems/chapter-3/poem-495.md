@@ -1,7 +1,6 @@
 ---
 title: Upaḍḍhadussadāyaka
 order: 495
-layout: poem
 category: chapter-3
 ---
 

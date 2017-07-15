@@ -1,7 +1,6 @@
 ---
 title: Paŋsukūlasaññika
 order: 481
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Paramannadāyaka
 order: 303
-layout: poem
 category: chapter-3
 ---
 

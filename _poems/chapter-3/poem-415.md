@@ -1,7 +1,6 @@
 ---
 title: Nāgapallavaka
 order: 415
-layout: poem
 category: chapter-3
 ---
 

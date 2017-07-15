@@ -1,7 +1,6 @@
 ---
 title: Gotamī
 order: 17
-layout: poem
 category: chapter-4
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Labujaphaladāyaka
 order: 382
-layout: poem
 category: chapter-3
 ---
 

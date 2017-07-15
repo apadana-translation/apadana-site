@@ -1,7 +1,6 @@
 ---
 title: Ghatamaṇḍadāyaka
 order: 496
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Sukatāveḷiya
 order: 229
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Ekacāriya
 order: 189
-layout: poem
 category: chapter-3
 ---
 

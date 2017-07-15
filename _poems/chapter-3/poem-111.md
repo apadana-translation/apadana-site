@@ -1,7 +1,6 @@
 ---
 title: Mahāparivāra
 order: 111
-layout: poem
 category: chapter-3
 ---
 

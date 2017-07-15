@@ -1,7 +1,6 @@
 ---
 title: Ekâsanadāyaka
 order: 423
-layout: poem
 category: chapter-3
 ---
 

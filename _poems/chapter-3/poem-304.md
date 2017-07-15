@@ -1,7 +1,6 @@
 ---
 title: Dhammasaññaka
 order: 304
-layout: poem
 category: chapter-3
 ---
 

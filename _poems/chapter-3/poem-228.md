@@ -1,7 +1,6 @@
 ---
 title: Miñjavaṭaŋsakiya
 order: 228
-layout: poem
 category: chapter-3
 ---
 

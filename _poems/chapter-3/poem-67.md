@@ -1,7 +1,6 @@
 ---
 title: Vatthadāyaka
 order: 67
-layout: poem
 category: chapter-3
 ---
 

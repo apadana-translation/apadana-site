@@ -1,7 +1,6 @@
 ---
 title: Tālaphaliya
 order: 509
-layout: poem
 category: chapter-3
 ---
 

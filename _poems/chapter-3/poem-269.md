@@ -1,7 +1,6 @@
 ---
 title: Upāgatabhāsaniya
 order: 269
-layout: poem
 category: chapter-3
 ---
 

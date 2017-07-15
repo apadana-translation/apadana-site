@@ -1,7 +1,6 @@
 ---
 title: Ārakkhadāyaka
 order: 224
-layout: poem
 category: chapter-3
 ---
 

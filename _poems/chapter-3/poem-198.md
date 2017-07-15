@@ -1,7 +1,6 @@
 ---
 title: Muṭṭhipūjaka
 order: 198
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Padasaññaka
 order: 72
-layout: poem
 category: chapter-3
 ---
 

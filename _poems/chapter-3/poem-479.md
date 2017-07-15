@@ -1,7 +1,6 @@
 ---
 title: Pānadhidāyaka
 order: 479
-layout: poem
 category: chapter-3
 ---
 

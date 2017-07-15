@@ -1,7 +1,6 @@
 ---
 title: Sālamālikā
 order: 16
-layout: poem
 category: chapter-4
 ---
 

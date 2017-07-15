@@ -1,7 +1,6 @@
 ---
 title: Girinelapūjaka
 order: 527
-layout: poem
 category: chapter-3
 ---
 

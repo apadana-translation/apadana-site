@@ -1,7 +1,6 @@
 ---
 title: Kosumbhaphaliya
 order: 513
-layout: poem
 category: chapter-3
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Pupphâsaniya
 order: 315
-layout: poem
 category: chapter-3
 ---
 

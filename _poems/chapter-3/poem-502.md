@@ -1,7 +1,6 @@
 ---
 title: Ekapattadāyaka
 order: 502
-layout: poem
 category: chapter-3
 ---
 

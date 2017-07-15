@@ -1,7 +1,6 @@
 ---
 title: Vallikāraphaladāyaka
 order: 478
-layout: poem
 category: chapter-3
 ---
 
