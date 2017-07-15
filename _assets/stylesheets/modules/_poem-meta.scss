@@ -1,10 +1,6 @@
 .poem__meta {
   display: none;
 
-  @include breakpoint($medium-large) {
-    display: block;
-  }
-
   h5 {
     margin-bottom: 0.25rem;
     font-size: inherit;
@@ -17,6 +13,7 @@
   @include breakpoint($large) {
     $poem-meta-large-width: 12.5rem;
 
+    display: block;
     position: relative;
     flex: 0 0 $poem-meta-large-width;
     width: $poem-meta-large-width;

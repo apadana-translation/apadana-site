@@ -1,5 +1,9 @@
 .container#poem {
   margin-top: 4rem;
+
+  @include breakpoint($medium-large $large) {
+    padding-left: 12vw;
+  }
 }
 
 .poem, .page {
@@ -12,6 +16,7 @@
 
 .poem {
   max-width: 450px;
+  margin: 0 auto;
   padding: 1rem 0;
 
   a {
@@ -24,6 +29,10 @@
 
   aside, span {
     transition: background-color .2s ease;
+  }
+
+  @include breakpoint($medium-large) {
+    margin: 0;
   }
 }
 

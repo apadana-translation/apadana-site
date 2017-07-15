@@ -3,7 +3,7 @@
 //= require moment/moment.js
 //= require fetch/fetch.js
 //= require jquery.smoothState.js
-//= require jquery.sidenotes/lib/jquery.sidenotes.min.js
+//= require jquery.sidenotes/lib/jquery.sidenotes.js
 
 // Compile user scripts
 //= require ga

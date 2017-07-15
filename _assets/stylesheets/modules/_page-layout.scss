@@ -3,20 +3,22 @@
 // ===================================
 .page {
 
+  &__content {
+    max-width: 40rem;
+    margin: 0 auto;
+
+    @include breakpoint($large) {
+      margin: 0;
+    }
+  }
+
   &__header {
+    @extend .page__content;
     padding-top: 3rem;
 
     @include breakpoint($large) {
       padding-top: 0;
     }
-  }
-
-  &__title {
-
-  }
-
-  &__content {
-    max-width: 40rem;
   }
 }
 

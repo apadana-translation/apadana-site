@@ -20,7 +20,7 @@ $(function(){
           }
         },
         onAfter: function() {
-          $('.poem').sidenotes();
+          sidenoteFire();
           navigation();
           addToggleTags();
           progressBar();

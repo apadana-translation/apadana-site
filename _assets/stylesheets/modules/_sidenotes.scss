@@ -3,8 +3,25 @@
   @extend .sidebar;
   font-size: 0.6875rem;
 
+  @include breakpoint($medium-large) {
+    float: right;
+    clear: right;
+    width: 15.625rem;
+    right: -18.75rem;
+    margin-left: -100%;
+  }
+
   p {
     margin-bottom: 0.6875rem;
+  }
+
+  ol {
+    padding-left: 1rem;
+  }
+
+  hr {
+    border-bottom-color: palette(dark);
+    border-top: none;
   }
 }
 
@@ -22,4 +39,8 @@ a[href^="#sn"] {
   &::after {
     content: "."
   }
+}
+
+.footnotes {
+  font-size: 0.875rem;
 }
