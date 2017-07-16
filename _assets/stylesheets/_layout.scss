@@ -4,7 +4,7 @@
 
 .container {
   display: block;
-  max-width: 975px;
+  max-width: $container-width;
   margin-left:  auto;
   margin-right: auto;
   padding: 0 1rem;
