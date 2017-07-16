@@ -4,7 +4,7 @@
 
 .container {
   display: block;
-  max-width: 975px;
+  max-width: $container-width;
   margin-left:  auto;
   margin-right: auto;
   padding: 0 1rem;
@@ -28,24 +28,4 @@
 aside {
   position: relative;
   vertical-align: top;
-}
-
-.sidebar {
-
-  &__header {
-    margin-top: 1rem;
-    margin-bottom: 0.5rem;
-  }
-
-  @include breakpoint($large) {
-    float: right;
-    clear: right;
-    width: 15.625rem;
-    right: -18.75rem;
-    margin-left: -100%;
-
-    &__header {
-      margin-top: 0;
-    }
-  }
 }

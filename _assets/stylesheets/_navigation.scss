@@ -247,7 +247,7 @@
    height: 100%;
 
    &--site {
-     max-width: 975px;
+     max-width: $container-width;
      margin: 0 auto;
      flex-direction: column;
 

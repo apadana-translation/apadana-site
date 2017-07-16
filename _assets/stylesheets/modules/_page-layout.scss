@@ -7,7 +7,8 @@
     max-width: 40rem;
     margin: 0 auto;
 
-    @include breakpoint($large) {
+    @include breakpoint($medium-large) {
+      width: 66%;
       margin: 0;
     }
   }
@@ -27,6 +28,26 @@
   @include breakpoint($medium) {
     column-count: 2;
     column-gap: 2.5rem;
+  }
+}
+
+.sidebar {
+
+  &__header {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  @include breakpoint($large) {
+    float: right;
+    clear: right;
+    width: 42%;
+    right: -50%;
+    margin-left: -100%;
+
+    &__header {
+      margin-top: 0;
+    }
   }
 }
 
