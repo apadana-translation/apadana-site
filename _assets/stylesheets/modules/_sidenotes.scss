@@ -1,6 +1,5 @@
 // Sidenotes
 .sidenote {
-  @extend .sidebar;
   font-size: 0.6875rem;
 
   @include breakpoint($medium-large) {
