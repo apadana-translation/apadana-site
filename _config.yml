@@ -117,17 +117,21 @@ scholar:
 # Plugin: Jekyll Pandoc Multiple Formats
 markdown: pandoc
 pandoc:
-    skip: true
-    # bundle_permalink: ':output_ext/:slug.:output_ext'
-    # papersize: 'a5paper'
-    # sheetsize: 'a4paper'
-    # imposition: true
-    # binder: true
-    # covers_dir: public/covers
-    # signature: 20
-    #
-    # flags: '--smart'
-    # site_flags: '--toc'
-    # outputs:
-    #   pdf: '--latex-engine=xelatex'
-    #   epub: '--epub-chapter-level=2'
+  skip: false
+  bundle_permalink: ':slug.:output_ext'
+  papersize: 'letter'
+  sheetsize: 'letter'
+  imposition: true
+  binder: true
+  covers_dir: 'public/'
+  # flags: '--smart'
+  outputs:
+    pdf: '-V fontsize=12pt,twoside
+          -V mainfont=Skolar\ PE
+          -V documentclass=article
+          -V geometry=hcentering
+          -V geometry=bindingoffset=0.5cm
+          -V geometry=bmargin=2.5cm
+          -V links-as-notes=true
+          -V subparagraph
+          --latex-engine=xelatex'
