@@ -88,6 +88,26 @@ exclude:
 gems:
   - jekyll-assets
 
+# Prose.io configuration
+prose:
+  ignore:
+    - _config.yml
+    - .bowerrc
+    - .gitignore
+    - atom.xml
+    - bower.json
+    - Gemfile
+    - Gemfile.lock
+    - search.json
+    - /_assets
+    - /_data
+    - /_includes
+    - /_layouts
+    - /_plugins
+    - /_text
+    - /public
+    - /.bundle
+
 # Plugin: Jekyll Assets
 assets:
   prefix: "/assets"
