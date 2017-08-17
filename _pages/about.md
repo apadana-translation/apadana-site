@@ -1,6 +1,7 @@
 ---
 title: About the Project
 permalink: /about/
+published: true
 ---
 
 ## The Translation
@@ -52,7 +53,7 @@ especially those who use the translation (as they should) merely as a
 nevertheless further encumbers the presentation of the translation to
 those who, conversely, wish to read it, or (as they should) recite it,
 for the pleasure of the text itself. With the able assistance of Dana
-Johnson at Sloop Creative, the translator has attempted to redress this
+Johnson at [Sloop Creative][1], the translator has attempted to redress this
 problem by making these various aspects of the scholarly apparatus
 toggle-able. Those who want to track individual poems or verses in the
 original Pāli, or who want to consider variant readings, or who want to
@@ -127,13 +128,36 @@ many types of trees, uniquely Indian architectural features, and so
 forth which are referred to throughout the text.
 
 ## The Website
-Evam me sutam. Tathatipi me no. Nevayam loko antava, na panananto. Tathatipi me no, annathatipi me no, notipi me no, no notipi me no'ti. Ye kho te bhonto deva na manopadosika, te nativelam annamannam upanijjhayanti. Yatha va paneke bhonto samanabrahmana saddhadeyyani. Sanghassa va vannam bhaseyyum, tatra tumhehi bhutam bhutato patijanitabbam. Tepi tattha honti manomaya pitibhakkha sayampabha antalikkhacara subhatthayino, ciram dighamaddhanam titthanti. Idam, bhikkhave, dutiyam thanam, yam agamma yam arabbha eke samanabrahmana.
+### Design Notes
+The site was designed and built by Dana Johnson of [Sloop Creative][1].
 
-Tatra, bhikkhave, ye te samanabrahmana ditthadhammanibbanavada sato sattassa paramaditthadhammanibbanam pannapenti pancahi vatthuhi. Tatrapasim evamnamo evamgotto evamvanno evamaharo evamsukhadukkhappatisamvedi evamayupariyanto, so tato cuto idhupapannoti.
+The type is set in [Rosetta Type Foundry][2]‘s [Skolar][3], designed by David Březina, and [Skolar Sans][4], designed by David Březina and Sláva Jevčinová.
 
-Abbhantaranam rannam parajayo bhavissati, iti imassa jayo bhavissati. Imassa parajayo bhavissati iti va iti evarupaya tiracchanavijjaya micchajiva pativirato samano gotamo'ti. Idam, bhikkhave, catuttham thanam, yam agamma yam arabbha eke samanabrahmana ekaccasassatika.
+### Development Notes
+A decision was made at the outset of the project to encode the translation in Markdown. [Markdown][5] is a syntax for plain text format that provides a limited number of markup features (hence the name “Mark*down*”), including headings, lists, hyperlinks, and footnotes. We considered other possibilities, most significantly [<abbr>TEI</abbr>][6] <abbr>XML</abbr>, which could provide much more robust, scholarly markup. However, a priority of this project was to configure the translation as a single repository that could be a) managed without a minimal learning curve, and b) output automatically into numerous formats. Because it is stored in a plain-text format, Markdown offers tremendous flexibility for distribution, not to mention durability.[^3]
 
-Ekodibhavam avitakkam avicaram samadhijam pitisukham dutiyam jhanam upasampajja viharati. Nevayam loko antava, na panananto. Phusati, yathasamahite citte anekavihitam pubbenivasam anussarati. Tatra, bhikkhave, ye te samanabrahmana ditthadhammanibbanavada sato sattassa.
+We use [Jekyll][7] to generate the Website and [Pandoc][8] to convert the Markdown to <abbr>HTML</abbr>, ePub, and <abbr>PDF</abbr>. The site is hosted by [Whitman College][9]. The text of the translation is housed in a public repository on [GitHub][10].
+
+### Browser Requirements
+This site has been designed to work across a range of devices and browsers. The reading interface for the translation relies on Javascript to render many of its features. We also recommend you use one of the following browsers:
+
+* Chrome 21.0 or higher
+* Safari 6.1 or higher
+* Firefox 18.0 or higher
+* Opera 12.10 or higher
+* Internet Explorer 11 or higher
+
+* iOS Safari 7 or higher
+* Opera Mini
+* Android browser 2.1 or higher
+
+### Feedback
+To report a bug, or to provide other feedback, follow the instructions on the [Feedback][11] page.
+
+### Roadmap
+* Make avaialble additional scholarly articles and information related to *Apadāna* 
+* Add audio recordings of poem recitations
+* Build a visual glossary of flora and fauna and other textual references that may be unfamiliar to the reader
 
 [^1]: Mary E. Lilley, ed., *The Apadāna of the Khuddaka Nikāya* (London:
     Pali Text Society, 1925 \[Part One\] and 1927 \[Part Two\]).
@@ -147,3 +171,17 @@ Ekodibhavam avitakkam avicaram samadhijam pitisukham dutiyam jhanam upasampajja 
     ed., *Sūtrāntapiṭakayehi Ekatisväni Granthaya Apadānapāḷi, Part Two,
     Volume Two* (Democratic Socialist Republican Government of Sri Lanka
     Press, 1983).
+    
+[^3]: Markdown has found widespread adoption across the Web, including by scholars. For an excellent technical and philosophical introduction, see Dennis Tenen and Grant Wythoff, “Sustainable Authorship in Plain Text using Pandoc and Markdown”, *The Programming Historian*. (https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
+
+[1]: http://www.sloopcreative.com "Sloop Creative"
+[2]: https://www.rosettatype.com/ "Rosetta Type"
+[3]: https://www.rosettatype.com/Skolar "Skolar"
+[4]: https://www.rosettatype.com/SkolarSans "Skolar Sans"
+[5]: https://daringfireball.net/projects/markdown/syntax "Markdown"
+[6]: http://www.tei-c.org/index.xml "Text Encoding Intiative"
+[7]: https://jekyllrb.com/ "Jekyll"
+[8]: http://pandoc.org/index.html "Pandoc"
+[9]: https://www.whitman.edu/ "Whitman College"
+[10]: https://github.com/ "Github"
+[11]: /feedback "Feedback"
