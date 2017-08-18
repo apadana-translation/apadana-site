@@ -8,7 +8,7 @@ published: true
 
 <p class="lead">This is the first-ever complete translation of *Apadāna* into a Western
 language. It has been a daunting undertaking, traversing the
-translator’s entirely professional career, yet it admittedly remains an
+translator’s entire professional career, yet it admittedly remains an
 imperfect work in progress. Motivated by a sense that scholars,
 students, Buddhists and even the general public might enjoy and benefit
 from access to this beautiful collection of ancient poetry, he has
