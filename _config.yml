@@ -8,7 +8,7 @@ description:         "A web-based interface for reading The Book of Buddhist Leg
 #url:                 http://127.0.0.1:4000
 url:                 http://apadanapali-jekyll.s3-website-us-west-2.amazonaws.com
 baseurl:             ''
-paginate:            1
+repository:          https://github.com/apadana-translation/apadana-site
 
 # About/contact
 author:
