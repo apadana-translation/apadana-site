@@ -488,7 +488,10 @@
 
     @include breakpoint($large) {
       margin-top: 0;
-      margin-left: 1rem;
+
+      .input-group + & {
+        margin-top: 0.5rem;
+      }
     }
 
     p:last-child {
