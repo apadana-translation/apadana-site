@@ -38,7 +38,7 @@ or offers significantly more plausible readings of obscure passages.
 The <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 edition includes an invaluable Sinhala gloss on each verse, which has
 often been followed in translating such obscure passages. Each of these
-cases is marked with a side note detailing the decision to follow
+cases is marked with a sidenote detailing the decision to follow
 <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> rather than <abbr title="Pali Text Society">PTS</abbr>,
 which provides the alternate <abbr title="Pali Text Society">PTS</abbr> reading for interested
 readers.
@@ -56,14 +56,14 @@ Buddhist world.
 [Read the Introduction](/text/introduction/){.button}
 </aside>
 
-Translating both editions at once thus necessitated extensive side notes
+Translating both editions at once thus necessitated extensive sidenotes
 to mark significant differences between the two editions, as well as the
 cumbersome inclusion of the poem and verse numbers which correspond to
 each edition (but not always to each other). Similar scholarly
 conventions — such as the consistent transliteration of Pāli terms and
 names with standard diacritical markings, the use of square brackets to
 indicate interpolations made by the translator, and additional,
-explanatory side notes — will hopefully likewise be of use to scholars,
+explanatory sidenotes — will hopefully likewise be of use to scholars,
 especially those who use the translation (as they should) merely as a
 “pony” for reading the original Pāli. But this scholarly apparatus
 nevertheless further encumbers the presentation of the translation to
@@ -112,9 +112,9 @@ it is hoped, is a translation which accurately conveys both the meaning
 and the cadence of the Pāli original. To achieve this in English has
 required considerable poetic license, to be sure; but as indicated
 above, every effort has been made to mark diversions from the original
-through a combination of side notes and square brackets.
+through a combination of sidenotes and square brackets.
 
-While the on-line format was chosen primarily for its ability to provide
+While the online format was chosen primarily for its ability to provide
 “scholarly” and “lite” (or “Kindle”) versions simultaneously, in order
 to meet the needs of the different audiences that might make use of this
 translation, it proved to be the solution to other, additional problems
@@ -133,7 +133,7 @@ paper. The digital format allows the translator to distribute the
 translation universally, for free, which he hopes, among other things,
 will encourage colleagues to put it (or selected portions of it) into
 the hands of their students. Toward this end, users will find links to
-easily download a PDF of any individual poem, or an e-book of the entire
+easily download a <abbr>PDF</abbr> of any individual poem, or an e-book of the entire
 text. Likewise, the translator anticipates several additional digital
 innovations, forthcoming, which will further enhance the intended effect
 of the translation, including a soundtrack so that the text can be
