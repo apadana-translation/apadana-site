@@ -131,6 +131,7 @@ assets:
 scholar:
   style: chicago-fullnote-bibliography
   source: ./_resources
+  relative: /resources/
   repository: /public/links
   bibliography_template: bibliography
 
