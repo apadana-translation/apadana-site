@@ -42,6 +42,17 @@ attained nirvana during the present lifetime.” Most of the poems
 conclude with a standard refrain which reinforces and celebrates the
 individual’s final achievement of sainthood (as an Arahant or a Buddha).
 
+<aside class="callout">
+#### About the Project {.callout__header}
+
+This is the first-ever complete translation of *Apadāna* into a Western
+language. It is offered freely online and for download, motivated by a sense that scholars,
+students, Buddhists and even the general public might enjoy and benefit
+from access to this beautiful collection of ancient poetry.
+
+[Learn More](/about/){.button}
+</aside>
+
 The central revelation here, that nirvana is the fruit of good karma
 performed during previous lives, was made during a watershed in Buddhist
 history. Following the third century, <abbr>B.C.E.</abbr> reign of Aśoka Maurya (Pāli

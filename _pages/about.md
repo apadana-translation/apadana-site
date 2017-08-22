@@ -26,19 +26,35 @@ significantly enough that no single one of them could be relied upon
 consistently. While the translator has not produced a new, critical
 edition of his own, he has attempted to redress this problem by using
 multiple editions, side-by-side. In particular, this is a translation of
-*both* the Pali Text Society (<abbr title="Pali Text Society">PTS</abbr>) Roman-script edition,[^1] which is
-most widely available in the West, *and* of the Buddha Jayanthi
-Tripitaka Series (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) Sinhala-script edition,[^2] which is most widely
-available in Sri Lanka. In practice, the translation follows the <abbr title="Pali Text Society">PTS</abbr>
-edition wherever possible, but does not shy away from translating the
-<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition instead, in places where it corrects mistakes in the <abbr title="Pali Text Society">PTS</abbr>
-edition, includes material not found in the <abbr title="Pali Text Society">PTS</abbr> edition, or offers
-significantly more plausible readings of obscure passages. The <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
+*both* the Pali Text Society (<abbr title="Pali Text Society">PTS</abbr>)
+Roman-script edition,[^1] which is most widely available in the West, *and* of the Buddha Jayanthi
+Tripitaka Series (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) Sinhala-script edition,[^2]
+which is most widely available in Sri Lanka. In practice, the translation follows the
+<abbr title="Pali Text Society">PTS</abbr> edition wherever possible, but does not shy
+away from translating the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition
+instead, in places where it corrects mistakes in the <abbr title="Pali Text Society">PTS</abbr>
+edition, includes material not found in the <abbr title="Pali Text Society">PTS</abbr> edition,
+or offers significantly more plausible readings of obscure passages.
+The <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
 edition includes an invaluable Sinhala gloss on each verse, which has
 often been followed in translating such obscure passages. Each of these
-cases is marked with a side note detailing the decision to follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
-rather than <abbr title="Pali Text Society">PTS</abbr>, which provides the alternate <abbr title="Pali Text Society">PTS</abbr> reading for interested
+cases is marked with a side note detailing the decision to follow
+<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> rather than <abbr title="Pali Text Society">PTS</abbr>,
+which provides the alternate <abbr title="Pali Text Society">PTS</abbr> reading for interested
 readers.
+
+<aside class="callout">
+#### What is the *Apadāna*? {.callout__header}
+
+*Legends of the Buddhist Saints* (*Apadāna*) is a collection of about
+six hundred autobiographical poems ascribed to the accomplished Buddhas
+and Arahants of the early Buddhist community. Composed in India in the
+Pāli language around the second century, <abbr>B.C.E.</abbr>, *Apadāna* is
+the source of many of the best-loved stories of the saints in the
+Buddhist world.
+
+[Read the Introduction](/text/introduction/){.button}
+</aside>
 
 Translating both editions at once thus necessitated extensive side notes
 to mark significant differences between the two editions, as well as the
@@ -155,7 +171,7 @@ This site has been designed to work across a range of devices and browsers. The 
 To report a bug, or to provide other feedback, follow the instructions on the [Feedback][11] page.
 
 ### Roadmap
-* Make avaialble additional scholarly articles and information related to *Apadāna* 
+* Make avaialble additional scholarly articles and information related to *Apadāna*
 * Add audio recordings of poem recitations
 * Build a visual glossary of flora and fauna and other textual references that may be unfamiliar to the reader
 
@@ -171,7 +187,7 @@ To report a bug, or to provide other feedback, follow the instructions on the [F
     ed., *Sūtrāntapiṭakayehi Ekatisväni Granthaya Apadānapāḷi, Part Two,
     Volume Two* (Democratic Socialist Republican Government of Sri Lanka
     Press, 1983).
-    
+
 [^3]: Markdown has found widespread adoption across the Web, including by scholars. For an excellent technical and philosophical introduction, see Dennis Tenen and Grant Wythoff, “Sustainable Authorship in Plain Text using Pandoc and Markdown”, *The Programming Historian*. (https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).
 
 [1]: http://www.sloopcreative.com "Sloop Creative"
