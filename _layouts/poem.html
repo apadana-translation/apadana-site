@@ -9,11 +9,13 @@
 
     <div class="content" id="content">
       {% include poem__header.html %}
-      <main role="main" id="poem" class="container flex">
-        {% include poem__meta.html %}
-        {% include poem__mobile-pagination.html %}
-        <div class="poem">
-          {{ content }}
+      <main role="main" id="poem">
+        <div class="container flex">
+          {% include poem__meta.html %}
+          {% include poem__mobile-pagination.html %}
+          <div class="poem">
+            {{ content }}
+          </div>
         </div>
       </main>
       {% include site__footer.html %}
