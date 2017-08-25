@@ -7,7 +7,6 @@
 
 // Compile user scripts
 //= require ga
-//= require smoothState
 //= require navigation
 //= require progress-bar
 //= require sidenote
