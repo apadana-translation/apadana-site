@@ -2,6 +2,7 @@ input[type=text],
 input[type=search] {
   width: 100%;
   padding: 0.5rem 2.5rem 0.5rem 1rem;
+  appearance: none;
   background: palette(gray);
   border: none;
   outline: none;
@@ -12,6 +13,7 @@ input[type=search] {
   & + label {
     position: absolute;
     right: 0.75rem;
+    padding-top: 0.5rem;
   }
 }
 
@@ -22,5 +24,9 @@ input[type=search] {
 
   @include breakpoint($large) {
     flex-basis: 100%;
+
+    & + .tab__desc {
+      flex-basis: 100%;
+    }
   }
 }
