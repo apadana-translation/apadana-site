@@ -18,6 +18,8 @@ html {
   font-family: $root-font-family;
   font-size: $root-font-size;
   line-height: $root-line-height;
+  font-variant-numeric: oldstyle-nums;
+  font-feature-settings: "onum";
 
   @include breakpoint($medium) {
     font-size: $medium-font-size;
