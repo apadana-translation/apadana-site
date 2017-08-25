@@ -658,13 +658,9 @@
       display: block;
       position: absolute;
       right: 1rem;
-      letter-spacing: 0.5rem;
+      letter-spacing: 0.7rem;
       bottom: 5px;
       z-index: -1;
-
-      @include breakpoint($medium) {
-        content: "··························";
-      }
 
       li.list-header & {
         display: none;
