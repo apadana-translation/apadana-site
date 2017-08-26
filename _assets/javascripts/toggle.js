@@ -139,8 +139,10 @@ function addToggleTags() {
 };
 
 // ===================================
-// Fire on Ready
+// Fire on Ready (only on poems)
 // ===================================
-$(document).on('ready', function() {
-  addToggleTags();
-});
+(function($) {
+  if($('main').is('#poem')){
+    addToggleTags();
+  }
+})(jQuery);

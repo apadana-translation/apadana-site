@@ -21,14 +21,16 @@ function metaScroll () {
 
 // Init based on window width (Match to SASS $medium-large breakpoint)
 (function($) {
-	function mediaSize() {
-		/* Set the matchMedia */
-		if (window.matchMedia('(min-width: 880px)').matches) {
-			metaScroll();
-		};
-  };
-	/* Call the function */
-  mediaSize();
-  /* Attach the function to the resize event listener */
-	window.addEventListener('resize', mediaSize, false);
+  if($('main').is('#poem')){
+  	function mediaSize() {
+  		/* Set the matchMedia */
+  		if (window.matchMedia('(min-width: 880px)').matches) {
+  			metaScroll();
+  		};
+    };
+  	/* Call the function */
+    mediaSize();
+    /* Attach the function to the resize event listener */
+  	window.addEventListener('resize', mediaSize, false);
+  }
 })(jQuery);

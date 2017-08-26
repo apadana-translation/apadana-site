@@ -18,13 +18,8 @@ main {
   max-width: $container-width;
   margin-left:  auto;
   margin-right: auto;
-  padding: 0 1rem;
+  padding: 1rem 1rem 2rem;
   overflow: auto;
-
-  @include breakpoint($large) {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-  }
 }
 
 .flex {
