@@ -4,7 +4,8 @@ permalink:           pretty
 # Basic setup
 title:               "Legends of the Buddhist Saints"
 subtitle:            "Apadānapāli"
-description:         "A web-based interface for reading Legends of the Buddhist Saints (Apadānapāli) by Jonathan S. Walters, Whitman College, 2017."
+description:         "A web-based interface for reading the first-ever complete English translation of
+                      Apadāna. Translated by Dr. Jonathan S. Walters, Whitman College, 2017."
 #url:                 http://127.0.0.1:4000
 url:                 http://apadanapali-jekyll.s3-website-us-west-2.amazonaws.com
 baseurl:             ''
