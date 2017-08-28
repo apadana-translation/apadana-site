@@ -2,6 +2,7 @@
 title: About the Project
 permalink: /about/
 published: true
+excerpt: This is the first-ever complete translation of <i>Apadāna</i> into a Western language. It is offered freely online and for download, motivated by a sense that scholars, students, Buddhists and even the general public might enjoy and benefit from access to this beautiful collection of ancient poetry.
 ---
 
 ## The Translation

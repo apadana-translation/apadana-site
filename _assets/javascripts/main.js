@@ -12,3 +12,4 @@
 //= require toggle
 //= require share
 //= require meta-scroll
+//= require to-top

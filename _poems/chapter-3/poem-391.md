@@ -1967,7 +1967,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^440]: *guṇavaruttame*, lit., “of supreme \[and\] splendid virtue”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *gaṇa* (“group”) here as elsewhere.
 
-[^441]: *tīṇānisaŋse*. I count the three here as (1) good birth, (2) good body**, and (3) wisdom and intelligence.
+[^441]: *tīṇānisaŋse*. I count the three here as (1) good birth, (2) good body, and (3) wisdom and intelligence.
 
 [^442]: *jātimā*, lit., “possessor of birth” or “possessor of \[high\] caste”
 

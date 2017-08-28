@@ -26,7 +26,7 @@ plantain,[^16] and also citron[^17] trees;
 there was lots of sugarcane[^18] there,  
 arjuna[^19] and *piyaṅguka*.[^20] (4) \[3761\]
 
-Neem**,[^21] *salalā*,[^22] yellow  
+Neem,[^21] *salalā*,[^22] yellow  
 cheesewoods,[^23] banyan,[^24] wood-apple trees,[^25]  
 my hermitage was one like that;  
 I lived \[there\] with \[my\] students then. (5) \[3762\]

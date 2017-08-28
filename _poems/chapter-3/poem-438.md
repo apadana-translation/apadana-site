@@ -74,7 +74,7 @@ The legend of Harīṭakadāyaka Thera is finished.
 
 [^3]: *harīṭakaŋ* = Sinhala *araḷu*, yellow myrobalan, terminalia chebula
 
-[^4]: *āmalakaŋ* = Sinhala *nelli*, phyllanthus emblica**, emblic myrobalan, Indian gooseberry
+[^4]: *āmalakaŋ* = Sinhala *nelli*, phyllanthus emblica, emblic myrobalan, Indian gooseberry
 
 [^5]: fruit of the eugenia, *damba*, *jambu*
 

@@ -476,7 +476,7 @@
 
     @include breakpoint($large) {
       flex: 1;
-      align-self: center;
+      align-self: flex-start;
     }
   }
 

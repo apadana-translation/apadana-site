@@ -33,7 +33,7 @@ that is the fruit of giving fruit. (5) \[5452\]
 The divine eye is purified;  
 I’m skilled in meditative states.[^5]  
 Special knowledges perfected:  
-that is the fruit of giving fruit**. (6) \[5453\]
+that is the fruit of giving fruit. (6) \[5453\]
 
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
