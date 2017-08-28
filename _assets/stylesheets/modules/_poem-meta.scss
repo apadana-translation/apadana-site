@@ -10,6 +10,10 @@
     @include reset-link();
   }
 
+  .to-top {
+    display: none;
+  }
+
   @include breakpoint($large) {
     $poem-meta-large-width: 12.5rem;
 
@@ -76,53 +80,5 @@
     line-height: 100px;
     color: palette(dark);
     font-style: italic;
-  }
-}
-
-// Timeline of version history
-.timeline {
-  position: relative;
-  padding-left: 1rem;
-  font-style: italic;
-  list-style-type: none;
-
-  &:before {
-    position: absolute;
-    top: .5rem;
-    bottom: .5rem;
-    left: -1px;
-    content:"";
-    width: 1px;
-    background: palette(dark);
-  }
-
-  > li {
-    position: relative;
-    margin-bottom: 2.5rem;
-
-    &:last-child {
-      margin-bottom: 0;
-    }
-
-    &:last-child,
-    &:hover {
-      color: palette(highlight);
-
-      .timeline__marker {
-        border-color: palette(highlight);
-      }
-    }
-  }
-
-  &__marker {
-    display: block;
-    position: absolute;
-    top: 0.25rem;
-    left: -1.375rem;
-    width: 0.75rem;
-    height: 0.75rem;
-    background: palette(light);
-    border: 1px solid palette(dark);
-    border-radius: 0.5rem;
   }
 }
