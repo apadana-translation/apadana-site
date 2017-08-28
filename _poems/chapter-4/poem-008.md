@@ -122,7 +122,7 @@ The legend of Sattuppalamālikāya Therī[^14] is finished.
 
 [^6]: *vedajāto*
 
-[^7]: cf. above, n. to *Therī-apadāna* v. \[51\], on this obscure term**.
+[^7]: cf. above, n. to *Therī-apadāna* v. \[51\], on this obscure term.
 
 [^8]: lit., “as far as my”. Pronounce as two syllables when chanting, to keep the meter.
 

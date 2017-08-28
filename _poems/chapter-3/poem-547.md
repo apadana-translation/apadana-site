@@ -223,7 +223,7 @@ The legend of Abhaya Thera is finished.
 
 [^32]: *pāpamitta°*, a friend who enjoins one to evil deeds, as contrasted with a “beautiful friend” (*kalyānamitta*) who enjoins one to do good.
 
-[^33]: lit., “sent by Nāṭaputta**,” the typical Pāli designation of Vardhamāna Mahāvīra, the Jina. (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *nātaputtena*). For details about him as depicted in the Pāli texts see DPPN II: 61-64. The protagonist is “sent” by the Jina in order to spy on or refute the Buddha.
+[^33]: lit., “sent by Nāṭaputta,” the typical Pāli designation of Vardhamāna Mahāvīra, the Jina. (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *nātaputtena*). For details about him as depicted in the Pāli texts see DPPN II: 61-64. The protagonist is “sent” by the Jina in order to spy on or refute the Buddha.
 
 [^34]: *jinavaraŋ*
 
