@@ -4,7 +4,7 @@ order: 24
 category: chapter-3
 ---
 
-# \[24. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīlasamādāniya[^1]\]
+### \[24. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīlasamādāniya[^1]\]
 
 In the city, <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andavatī,[^2]  
 I was a servant-man back then.  
