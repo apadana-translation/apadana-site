@@ -16,7 +16,7 @@ function addToggleTags() {
   // Brackets
   // Add <span> tag around all square brackets, preserve text inside
   // https://stackoverflow.com/questions/17750648/add-span-to-specific-words
-  var brackets = /(\[)([a-zA-Z\s]+)(\])/g;
+  var brackets = /(\[)([a-zA-Z\s_.,;!“”‘’]+)(\])/g;
   $("#poem").html(function(_,html){
       return html.replace(brackets, '<span class="bracket" data-state="on">$1</span>$2<span class="bracket" data-state="on">$3</span>')
   });
