@@ -308,7 +308,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^4]: reading *pubba°* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt., and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> \[2\], above) for <abbr title="Pali Text Society">PTS</abbr> *sabba°* (“all”)
 
-[^5]: j*inasāsanesu*, lit., “Victors’ dispensations”
+[^5]: *jinasāsanesu*, lit., “Victors’ dispensations”
 
 [^6]: *vaṇṇa-padesa-mattaŋ*
 

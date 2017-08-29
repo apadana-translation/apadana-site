@@ -114,7 +114,7 @@ The legend of Venerable Rāhula Thera is finished.
 
 [^7]: Vishwakarma, “the divine architect”
 
-[^8]: v*ijjādhara*° = Skt. *vidyādhara°*, divine musicians (or here too “spell-knowers,” sorcerers?)
+[^8]: *vijjādhara*° = Skt. *vidyādhara°*, divine musicians (or here too “spell-knowers,” sorcerers?)
 
 [^9]: lit., the gods’ city, metri causa
 

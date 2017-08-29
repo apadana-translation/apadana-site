@@ -388,7 +388,7 @@ The Metteyya Chapter, the Forty-First
 
 [^60]: *gahā*, lit., “seizers.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses this above (at \[4011\]) as a third type of crocodile (*gäṭa-kimbulō*), underlining (as does my translation here) the main point that fierce water-beasts are born there.
 
-[^61]: o*guhā*, fr. *ogāhati*, *ogāhana*, plunging? = watersnakes?
+[^61]: *oguhā*, fr. *ogāhati*, *ogāhana*, plunging? = watersnakes?
 
 [^62]: *ajagarā*. RD says “a large snake…a Boa Constrictor”
 

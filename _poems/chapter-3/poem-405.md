@@ -118,7 +118,7 @@ sweetly-scented[^80] *setavārī*,[^81]
 crocodiles[^82] and alligators[^83]  
 \[and other\] fierce beasts[^84] are born there. (22c-d, 23a-b) \[4011\]
 
-Many u*ggāhas*[^85] \[and\] pythons[^86]  
+Many *uggāhas*[^85] \[and\] pythons[^86]  
 \[live\] there in \[that\] natural lake;  
 sheatfish,[^87] *pāvusa*,[^88] *valaja*,[^89]  
 reed-fish,[^90] red-fish[^91] \[and\] *maggura*.[^92] (23c-d, 24a-b)

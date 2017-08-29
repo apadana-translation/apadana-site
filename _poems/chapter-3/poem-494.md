@@ -44,4 +44,4 @@ The legend of Kiŋsukapupphiya Thera is finished.
 
 [^2]: ”Pulas-Tree-Flower-er.” Cf. \#350 for an *apadāna* ascribed to a monk with a similar name, and containing the same first verse (though the remainder is different).
 
-[^3]: *kiŋsukaŋ; t*he *kiŋsuka* (“what is it” “strange”) tree is Butea frondosa, Sinh. *kǟla* or *gaskǟla*, *ǟtkan*, *pulāṣa*; Engl. pulas tree. It yields gum and beautiful flowers.
+[^3]: *kiŋsukaŋ*; the *kiŋsuka* (“what is it” “strange”) tree is Butea frondosa, Sinh. *kǟla* or *gaskǟla*, *ǟtkan*, *pulāṣa*; Engl. pulas tree. It yields gum and beautiful flowers.

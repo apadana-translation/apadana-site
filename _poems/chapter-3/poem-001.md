@@ -1420,7 +1420,7 @@ The legend of Sāriputta Thera is finished.
 
 [^120]: *sīlagandhena* = with the scent of moral discipline or disciplinary precepts.
 
-[^121]: v*jjādharā*, “knowledge-bearers”
+[^121]: *vjjādharā*, “knowledge-bearers”
 
 [^122]: *devatā*
 

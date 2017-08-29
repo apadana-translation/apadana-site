@@ -91,7 +91,7 @@ are \[also\] coming to my house. (16) \[4180\]
 *Khuddakas*[^78] and *Suddakas*[^79] \[too\]  
 are \[also\] coming to my house. (17) \[4181\]
 
-*Rohanas*,[^80] also *Sindhava*s,[^81]  
+*Rohanas*,[^80] also *Sindhavas*,[^81]  
 *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ittas*[^82] \[and\] *Ekakaṇṇikas*,[^83]  
 *Suraṭṭhas*[^84] and *Aparantas*[^85]  
 are \[also\] coming to my house. (18) \[4182\]

@@ -827,7 +827,7 @@ The legend of Upāli Thera is finished.
 
 [^21]: *bhūtavejjaŋ*
 
-[^22]: *bhūtavijjāsu kovida*ŋ, lit., “skilled in exorcisms of ghosts,” “skilled in the knowledges about ghosts”
+[^22]: *bhūtavijjāsu kovidaŋ*, lit., “skilled in exorcisms of ghosts,” “skilled in the knowledges about ghosts”
 
 [^23]: *saṃsāra-sotaŋ*
 
