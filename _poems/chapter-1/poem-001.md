@@ -1,6 +1,7 @@
 ---
 title: The Legend of the Buddhas
 category: chapter-1
+order: 1
 ---
 
 ### Buddha Chapter, the First

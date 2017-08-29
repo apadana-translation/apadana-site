@@ -98,7 +98,6 @@
     display: flex;
     align-items: baseline;
     flex-direction: column;
-    margin-top: 2rem;
     padding: 2rem 0;
 
     @include breakpoint($medium) {
@@ -477,7 +476,7 @@
 
     @include breakpoint($large) {
       flex: 1;
-      align-self: center;
+      align-self: flex-start;
     }
   }
 
@@ -488,7 +487,10 @@
 
     @include breakpoint($large) {
       margin-top: 0;
-      margin-left: 1rem;
+
+      .input-group + & {
+        margin-top: 0.5rem;
+      }
     }
 
     p:last-child {
@@ -656,13 +658,9 @@
       display: block;
       position: absolute;
       right: 1rem;
-      letter-spacing: 0.5rem;
+      letter-spacing: 0.7rem;
       bottom: 5px;
       z-index: -1;
-
-      @include breakpoint($medium) {
-        content: "··························";
-      }
 
       li.list-header & {
         display: none;

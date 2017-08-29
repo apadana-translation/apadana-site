@@ -184,7 +184,7 @@ The legend of Sukkā Therī[^35] is finished
 
 [^7]: *jinuttamo*
 
-[^8]: *varasaddūlo*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *narasaddūlo*, which is also the reading in *Therī-apadāna* \[814\] above; <abbr title="Pali Text Society">PTS</abbr> alt. gives *narasaraṇo* (“Refuge for Men”). Cf. the note to *Thera-apadāna* \[6131\] on this rather uncharacteristically loose, and rare but repeated, *Apadāna* Buddha**-epithet (or epithets). Does the variation suggest a lack of meaning in the epithet itself (in *Apadāna* the leopard \[as *dīpi*\] usually appears as part of a list of wild animals, not \[unlike say the lion, elephant, swan, bull\] as part of a Buddha-epithet)
+[^8]: *varasaddūlo*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *narasaddūlo*, which is also the reading in *Therī-apadāna* \[814\] above; <abbr title="Pali Text Society">PTS</abbr> alt. gives *narasaraṇo* (“Refuge for Men”). Cf. the note to *Thera-apadāna* \[6131\] on this rather uncharacteristically loose, and rare but repeated, *Apadāna* Buddha-epithet (or epithets). Does the variation suggest a lack of meaning in the epithet itself (in *Apadāna* the leopard \[as *dīpi*\] usually appears as part of a list of wild animals, not \[unlike say the lion, elephant, swan, bull\] as part of a Buddha-epithet)
 
 [^9]: reading *yathāyukaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *yathāsukhaŋ* (“as much as comfortable” or perhaps “as I pleased”)
 

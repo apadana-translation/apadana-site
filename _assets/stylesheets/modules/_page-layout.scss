@@ -15,11 +15,6 @@
 
   &__header {
     @extend .page__content;
-    padding-top: 3rem;
-
-    @include breakpoint($large) {
-      padding-top: 0;
-    }
   }
 }
 
@@ -36,6 +31,7 @@
   &__header {
     margin-top: 1rem;
     margin-bottom: 0.5rem;
+    font-size: 1rem;
   }
 
   @include breakpoint($large) {

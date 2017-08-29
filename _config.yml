@@ -4,11 +4,12 @@ permalink:           pretty
 # Basic setup
 title:               "Legends of the Buddhist Saints"
 subtitle:            "Apadānapāli"
-description:         "A web-based interface for reading The Book of Buddhist Legends (Apadānapāli) by Jonathan S. Walters, Whitman College, 2017."
+description:         "A web-based interface for reading the first-ever complete English translation of
+                      Apadāna. Translated by Dr. Jonathan S. Walters, Whitman College, 2017."
 #url:                 http://127.0.0.1:4000
 url:                 http://apadanapali-jekyll.s3-website-us-west-2.amazonaws.com
 baseurl:             ''
-paginate:            1
+repository:          https://github.com/apadana-translation/apadana-site
 
 # About/contact
 author:
@@ -88,6 +89,39 @@ exclude:
 gems:
   - jekyll-assets
 
+# Prose.io configuration
+prose:
+  ignore:
+    - _config.yml
+    - .bowerrc
+    - .gitignore
+    - atom.xml
+    - bower.json
+    - Gemfile
+    - Gemfile.lock
+    - search.json
+    - /_assets
+    - /_data
+    - /_includes
+    - /_layouts
+    - /_plugins
+    - /_text
+    - /public
+    - /.bundle
+  metadata:
+    _pages:
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date Modified"
+          value: CURRENT_DATETIME
+    _poems:
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date Modified"
+          value: CURRENT_DATETIME
+
 # Plugin: Jekyll Assets
 assets:
   prefix: "/assets"
@@ -111,6 +145,7 @@ assets:
 scholar:
   style: chicago-fullnote-bibliography
   source: ./_resources
+  relative: /resources/
   repository: /public/links
   bibliography_template: bibliography
 

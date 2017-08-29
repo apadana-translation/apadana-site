@@ -141,11 +141,11 @@ servant-boys[^91] as well as hunters,[^92]
 are living on that lake \[there then\]. (26) \[165\]
 
 Wild mangosteen,[^93] Chirauli-nut,[^94]  
-Mahuwa**,[^95] *kāsumāriya*[^96]  
+Mahuwa,[^95] *kāsumāriya*[^96]  
 are bearing never-ending fruit  
 not very far from my ashram. (27) \[166\]
 
-Margosa**,[^97] *salalā*,[^98] yellow  
+Margosa,[^97] *salalā*,[^98] yellow  
 cheesewoods[^99] with such excellent fruit  
 are constantly bearing those fruits  
 not very far from my ashram. (28) \[167\]
@@ -1208,7 +1208,7 @@ The legend of Sāriputta Thera is finished.
 
 [^14]: *pāṭali*, Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
 
-[^15]: *sindhuvārita*, Vitex negundo**, a.k.a. horshoe vitex, five-leaved chaste tree
+[^15]: *sindhuvārita*, Vitex negundo, a.k.a. horshoe vitex, five-leaved chaste tree
 
 [^16]: <abbr title="Pali Text Society">PTS</abbr> *salaḷā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *salalā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus *(Dipterocarp*.)” (Bot. dict.). RD says this is a tree with fragrant blossoms (which was the Bodhi Tree of Padumuttara Buddha, cf. above, \#177, v. 1 \[2133\]). RD notes references to this tree atJ v.420; Bu ii.51= J i.13; Vv 355; VvA 162; Miln 338; M ii.184, and says it is Pinus Longiflis (now more commonly Pinus Longifolia), Indian pine, indigenous to northern India, Pakistan, Himalayas, bearing brilliant clustered flowers in blue and other colors, with edible seeds.
 
@@ -1224,7 +1224,7 @@ The legend of Sāriputta Thera is finished.
 
 [^22]: Jonesia Asoka, Saraca asoca
 
-[^23]: *aṅkola*, Alangium hexapetalum**, a.k.a. sage-leaved alangium, Sinh. *rukaṅguna*
+[^23]: *aṅkola*, Alangium hexapetalum, a.k.a. sage-leaved alangium, Sinh. *rukaṅguna*
 
 [^24]: *bimbijāla*, the Bodhi tree of the previous Buddha, Dhammadassi Buddha, Sinh. *rat karavū*, momordica monadelpha
 
@@ -1246,7 +1246,7 @@ The legend of Sāriputta Thera is finished.
 
 [^33]: *koviḷāra*, species of ebony, Bauhinia variegata
 
-[^34]: *Uddālaka* = Cassia fistula**, Sinh. *äsaḷa*
+[^34]: *Uddālaka* = Cassia fistula, Sinh. *äsaḷa*
 
 [^35]: *kuṭaja*, Nerium antidysenterica (used for diarrhea, as its name implies), aka arctic snow, winter cherry, Wrightia antidysenterica, Wrightia zeylanica, nerium zeylanica, Sinhala *kelinda*
 
@@ -1364,7 +1364,7 @@ The legend of Sāriputta Thera is finished.
 
 [^92]: *luddakā*, Sinh. gloss *väddō*, aborigines of Sri Lanka (Veddas)
 
-[^93]: *tinduka* = *timbiri*, diospyros embryopteris**, a.k.a. Indian persimmon
+[^93]: *tinduka* = *timbiri*, diospyros embryopteris, a.k.a. Indian persimmon
 
 [^94]: *piyal* = buchanania latifolia
 
@@ -1380,7 +1380,7 @@ The legend of Sāriputta Thera is finished.
 
 [^100]: *harīṭaka =* Sinhala *araḷu*, yellow myrobalan, terminalia chebula
 
-[^101]: *āmalaka* = Sinhala *nelli*, phyllanthus emblica**, emblic myrobalan, Indian gooseberry
+[^101]: *āmalaka* = Sinhala *nelli*, phyllanthus emblica, emblic myrobalan, Indian gooseberry
 
 [^102]: fruit of the eugenia, *damba*, *jambu*
 

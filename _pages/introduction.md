@@ -1,6 +1,7 @@
 ---
 title: Introduction to the Text
 permalink: /text/introduction/
+excerpt: <i>Legends of the Buddhist Saints</i> (<i>Apadāna</i>) is a collection of about six hundred autobiographical poems ascribed to the accomplished Buddhas and Arahants of the early Buddhist community. Composed in India in the Pāli language around the second century, <abbr>B.C.E.</abbr>, <i>Apadāna</i> is the source of many of the best-loved stories of the saints in the Buddhist world.
 ---
 
 <p class="lead">*Legends of the Buddhist Saints* (*Apadāna*) is a collection of about
@@ -41,6 +42,17 @@ performing it; as the fullest fruit of that original seed karma, I
 attained nirvana during the present lifetime.” Most of the poems
 conclude with a standard refrain which reinforces and celebrates the
 individual’s final achievement of sainthood (as an Arahant or a Buddha).
+
+<aside class="callout">
+#### About the Project {.callout__header}
+
+This is the first-ever complete translation of *Apadāna* into a Western
+language. It is offered freely online and for download, motivated by a sense that scholars,
+students, Buddhists and even the general public might enjoy and benefit
+from access to this beautiful collection of ancient poetry.
+
+[Learn More](/about/){.button}
+</aside>
 
 The central revelation here, that nirvana is the fruit of good karma
 performed during previous lives, was made during a watershed in Buddhist
