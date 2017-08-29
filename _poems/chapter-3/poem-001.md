@@ -106,7 +106,7 @@ Crocodiles and alligators,
 are living in that tank \[there\] then. (19) \[158\]
 
 Pigeons[^56] and *ravi*-swans[^57] as well,  
-ruddy geese[^58] and *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara*\s,  
+ruddy geese[^58] and *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aras*,  
 cuckoos,[^59] parrots,[^60] and mynah birds[^61] too  
 are living on that lake \[there then\]. (20) \[159\]
 
@@ -120,14 +120,14 @@ cuckoos[^70] and jungle fowl[^71] as well,
 small monkeys[^72] as well as pheasants[^73]  
 are living on that lake \[there then\]. (22) \[161\]
 
-Owls[^74] and *poṭṭhasīsa*\s[^75] \[too\],  
+Owls[^74] and *poṭṭhasīsas*[^75] \[too\],  
 numerous hawks,[^76] also osprey,[^77]  
 and also *mahākāḷa* birds  
 are living on that lake \[there then\]. (23) \[162\]
 
 Spotted deer[^78] and also wild boar,[^79]  
 and numerous wolves[^80] and jackals,[^81]  
-*rohi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a*-deer,[^82] *suggapota*\s  
+*rohi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a*-deer,[^82] *suggapotas*  
 are living on that lake \[there then\]. (24) \[163\]
 
 Lions and tigers and leopards,  
@@ -297,7 +297,7 @@ they would come into my presence. (57) \[196\]
 
 Sorcerers[^121] and \[their\] deities,[^122]  
 cobra-gods,[^123] music-nymphs,[^124] demons,[^125]  
-fairies,[^126] titans[^127] \[and\] *garuḷa*\s  
+fairies,[^126] titans[^127] \[and\] *garuḷas*  
 are living on that lake. (58) \[197\]
 
 Those dread-locked requisite-bearers[^128]  
@@ -972,7 +972,7 @@ like the *sal*-king you are lovely. (192) \[331\]
 Just as the Himalayan stone’s  
 medicine for living beings  
 and the lair of the lesser gods,  
-and *nāga*\s and *asurās* too, (193) \[332\]
+and *nāgas* and *asurās* too, (193) \[332\]
 
 so too are you, O Great Hero,  
 medicine[^198] for living beings;  

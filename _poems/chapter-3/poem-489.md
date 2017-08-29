@@ -193,7 +193,7 @@ The legend of Dhammaru<span class="diacritics" data-state="on">c</span><span cla
 
 [^27]: of mythical proportions, the largest fish in the sea, maybe even “sea monster”
 
-[^28]: the “Jeta Grove” in which Anāthapiṇḍika built the famous hermitage for the Buddha, the location of many of the *sutta*\s.
+[^28]: the “Jeta Grove” in which Anāthapiṇḍika built the famous hermitage for the Buddha, the location of many of the *suttas*.
 
 [^29]: lit., “merits,” *°puñña°*
 

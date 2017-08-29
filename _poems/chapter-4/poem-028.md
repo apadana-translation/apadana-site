@@ -509,7 +509,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^2]: *mahiddhikā* = possessing great magical powers.
 
-[^3]: reading *satehi satassehi sā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *satehi saha pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahi* (“by five hundred,” <abbr title="Pali Text Society">PTS</abbr>). As the subsequent three *apadāna*\s make clear, these authors believed that Yasodharā approached the Buddha accompanied by considerably more than 500 nuns.
+[^3]: reading *satehi satassehi sā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *satehi saha pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahi* (“by five hundred,” <abbr title="Pali Text Society">PTS</abbr>). As the subsequent three *apadānas* make clear, these authors believed that Yasodharā approached the Buddha accompanied by considerably more than 500 nuns.
 
 [^4]: reading *ettha* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *nāma* (“indeed”)
 

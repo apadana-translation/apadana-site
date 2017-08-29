@@ -224,7 +224,7 @@ The legend of Uttara Thera, the sixth.
 
 [^11]: *kaṇikārîti ñāyati*
 
-[^12]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍa*\s (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\].” .
+[^12]: here and in the following neologism I exploit the English exploitation of the Latin shorthand for “thousand” and “hundred” to keep the meter. The Pali is lit., “a thousand *kaṇḍas* (part, portion, lump, a small measure), hundred *bheṇḍu* \[tall? thick?\].” .
 
 [^13]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> reads *geṇḍu*, in multiple variations. At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
 

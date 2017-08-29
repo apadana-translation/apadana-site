@@ -13,7 +13,7 @@ as his vehicle of power. (1) \[1707\]
 
 When Atthadassi, the Best Man,  
 Lord of the World, reached nirvana,  
-supplying all the *turiya*\s,  
+supplying all the *turiyas*,  
 I went to the best Bodhi \[tree\]. (2) \[1708\]
 
 As though facing the Sambuddha  

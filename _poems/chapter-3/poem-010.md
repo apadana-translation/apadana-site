@@ -73,7 +73,7 @@ he’ll reach nirvana, undefiled.” (13) \[665\]
 
 There are elephants in the woods,  
 tuskers who are sixty years old,  
-*mātaṅga*\s[^5] rutting in three ways,[^6]  
+*mātaṅgas*[^5] rutting in three ways,[^6]  
 chariot-pole tusks, vehicles for kings.[^7] (14) \[666\]
 
 \[Like them\] there are numerous lakhs  

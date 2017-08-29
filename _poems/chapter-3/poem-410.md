@@ -92,7 +92,7 @@ tortoises and \[other\] fierce beasts,[^60]
 beautifying my hermitage. (17) \[4235\]
 
 Pigeons[^63] and *ravi*-swans[^64] as well,  
-ruddy geese[^65] and *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara*\s,  
+ruddy geese[^65] and *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aras*,  
 lapwings,[^66] \[also\] mynah birds[^67] are  
 beautifying my hermitage. (18) \[4236\]
 

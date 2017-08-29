@@ -47,7 +47,7 @@ speaking the lovely sound of drums.[^12] (8) \[4607\]
 
 \[And also\] eighty-four thousand  
 elephants all-ornamented,  
-*mātaṅga*\s[^13] rutting in three ways[^14]  
+*mātaṅgas*[^13] rutting in three ways[^14]  
 \[and\] tuskers sixty years of age,  
 covered over with nets of gold,  
 \[always\] are attending[^15] on me,  

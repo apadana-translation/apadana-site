@@ -6,7 +6,7 @@ category: chapter-3
 
 ### \[287. Apadāniya[^1]\]
 
-I praised the *apadāna*\s of  
+I praised the *apadānas* of  
 the Great Sages, the Well-Gone Ones,  
 and worshipped them, head on \[their\] feet,  
 \[feeling well-\]pleased by \[my\] own hands. (1) \[2652\]

@@ -127,7 +127,7 @@ reed-fish,[^90] red-fish[^91] \[and\] *maggura*.[^92] (23c-d, 24a-b)
 \[It’s\] covered with fish and turtles,[^93]  
 also with small, tailless monkeys;[^94]  
 pigeons[^95] and *ravi*-swans[^96] \[as well\],  
-wild jungle fowl,[^97] *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara*\s, (24c-d, 25a-b) \[4013\]
+wild jungle fowl,[^97] *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aras*, (24c-d, 25a-b) \[4013\]
 
 wattled lapwings[^98] and ruddy geese,[^99]  
 *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampakas*[^100] as well as pheasants,[^101]  
@@ -157,11 +157,11 @@ are living in my hermitage. (29c-d, 30a-b) \[4018\]
 Swans[^120] \[and\] curlews[^121] and peacocks[^122] too,  
 mynah birds[^123] and also cuckoos;[^124]  
 there are many *mañjarikas*,[^125]  
-owls[^126] and *poṭṭhasīsa*\s[^127] there. (30c-d, 31a-b) \[4019\]
+owls[^126] and *poṭṭhasīsas*[^127] there. (30c-d, 31a-b) \[4019\]
 
 There are goblins,[^128] also titans,[^129]  
 many fairies,[^130] \[also\] demons,[^131]  
-*garuḷa*\s, also snake-demons,[^132]  
+*garuḷas*, also snake-demons,[^132]  
 living \[there\] in my hermitage. (31c-d, 32a-b) \[4020\]
 
 Sages who possess great powers,[^133]  
