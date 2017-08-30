@@ -4,9 +4,9 @@ category: chapter-1
 order: 1
 ---
 
-### Buddha Chapter, the First
-
 # The Legend of the Buddhas
+
+## Buddha Chapter, the First
 
 Praise Him, the Blessed One, the Worthy One, the Fully Complete Buddha!
 
