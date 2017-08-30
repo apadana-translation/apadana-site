@@ -1,14 +1,32 @@
 ---
-title: Download
+title: Download the Text
 permalink: /text/download/
 ---
 
-Evam me sutam. Tatra, bhikkhave, ye te samanabrahmana amaravikkhepika tattha tattha panham puttha samana vacavikkhepam apajjanti amaravikkhepam catuhi vatthuhi. Atthi kho, bho, anno atta dibbo rupi kamavacaro kabalikaraharabhakkho. Ye kho te bhonto deva na manopadosika.
+<p><i>{{ site.title }}</i> is made freely available to the public under the <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/" title="CC BY-NC-SA 3.0 US" target="_blank">Attribution, Non-Commercial, Share Alike</a> license.</p>
 
-Itiha te ubho acariyantevasi annamannassa ujuvipaccanikavada bhagavantam pitthito pitthito anubandha honti bhikkhusanghanca. Tatra, bhikkhave, ye te samanabrahmana sassatavada sassatam attananca lokanca pannapenti catuhi vatthuhi, tadapi phassapaccaya.
+{% assign path_to_folder = site.url | append:"/public/links/" %}
 
-Yam kho idam vuccati cakkhum itipi sotam itipi ghanam itipi jivha itipi kayo itipi, ayam atta anicco addhuvo asassato viparinamadhammo. Tassa tattha ekakassa digharattam nivusitatta anabhirati paritassana upapajjati. Tatra, bhikkhave, ye te samanabrahmana ucchedavada.
+{% comment %}Complete text in PDF and ePub{% endcomment %}
+<p>
+  <svg class="icon--large icon-pdf"><use xlink:href="#icon-pdf"></use></svg>
+  <a href="{{ path_to_folder }}walters_{{ site.title | slugify }}.pdf" class="button">Download <abbr>PDF</abbr></a>
+</p>
+<p>
+  <svg class="icon--large icon-book-open"><use xlink:href="#icon-book-open"></use></svg>
+  <a href="{{ path_to_folder }}walters_{{ site.title | slugify }}.epub" class="button">Download ePub</a>
+</p>
 
-Idha, bhikkhave, ekacco samano va brahmano va mando hoti momuho. Vivattakathadi yato kho, bhikkhave, bhikkhu channam phassayatananam samudayanca atthangamanca assadanca adinavanca nissarananca. Yo mamassa vighato so mamassa antarayo'ti. Aham kho idam kusalanti.
+{% comment %}Single sections in PDF and ePub{% endcomment %}
+<p>Download individual chapters:</p>
+<ol>
+  {% comment %}Stupid, tedious way to do this -- fix when not an idiot!{% endcomment %}
+  {% assign chapters = site.poems | group_by: "category" | sort: "name" %}
+  {% for chapter in chapters %}
+    {% assign category_slug = chapter.name %}
+    {% assign category = site.data.categories[category_slug] %}
+    <li><b>{{ category.name }}</b> [<svg class="icon-pdf"><use xlink:href="#icon-pdf"></use></svg><a href="{{ path_to_folder }}walters_{{ category.name | slugify }}.pdf" title="Download PDF"><abbr>PDF</abbr></a> <svg class="icon-book-open"><use xlink:href="#icon-book-open"></use></svg> <a href="{{ path_to_folder }}walters_{{ category.name | slugify }}.epub" title="Download ePub">ePub</a>]</li>
+  {% endfor %}
+</ol>
 
-Yatha va paneke bhonto samanabrahmana saddhadeyyani bhojanani bhunjitva te evarupam jutappamadatthananuyogam anuyutta viharanti, seyyathidam. Viharati, ettavata kho, bho, ayam atta paramaditthadhammanibbanam patto hoti'ti. Imehi kho te, bhikkhave, samanabrahmana.
+<p>Individual poems may be downloaded through the “Download” tab while reading online.</p>
