@@ -21,7 +21,7 @@ author:
 collections:
   poems:
     output:          true
-    permalink:       /text/:path/
+    permalink:       /text/:path.html
     title:           "Legends of the Buddhist Saints"
 
 # Front Matter Defaults
@@ -32,6 +32,8 @@ defaults:
       type: poems
     values:
       layout: poem
+      # author: "Jonathan S. Walters"
+      cover: _assets/covers/cover.pdf
   - scope:
       path: "_poems/chapter-1/"
       type: "poems"
@@ -140,6 +142,7 @@ assets:
     - _assets/javascripts
     - _assets/stylesheets
     - _assets/fonts
+    - _assets/covers
 
 # Plugin: Jekyll Scholar
 scholar:
@@ -152,17 +155,24 @@ scholar:
 # Plugin: Jekyll Pandoc Multiple Formats
 markdown: pandoc
 pandoc:
-    skip: true
-    # bundle_permalink: ':output_ext/:slug.:output_ext'
-    # papersize: 'a5paper'
-    # sheetsize: 'a4paper'
-    # imposition: true
-    # binder: true
-    # covers_dir: public/covers
-    # signature: 20
-    #
-    # flags: '--smart'
-    # site_flags: '--toc'
-    # outputs:
-    #   pdf: '--latex-engine=xelatex'
-    #   epub: '--epub-chapter-level=2'
+  skip: false
+  bundle_permalink: 'public/links/walters_:slug.:output_ext'
+  papersize: 'letterpaper'
+  sheetsize: 'letterpaper'
+  imposition: false
+  binder: false
+  covers_dir: '_assets/covers'
+  flags: ''
+  outputs:
+    epub: '-V --epub-chapter-level=1'
+    pdf: '-V fontsize=12pt,twoside
+          -V mainfont=Skolar\ PE
+          -V documentclass=article
+          -V geometry=hcentering
+          -V geometry=bindingoffset=.2in
+          -V geometry=tmargin=1.2in
+          -V geometry=bmargin=1in
+          -V links-as-notes=true
+          --latex-engine=xelatex
+          --include-in-header=_layouts/pdf-header.tex
+          --include-before-body=_layouts/pdf-frontmatter.tex'

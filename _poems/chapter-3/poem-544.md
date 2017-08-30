@@ -307,7 +307,7 @@ The legend of Vaṅgīsa Thera is finished.
 
 [^30]: *mahāguṇaŋ*
 
-[^31]: *vādisurassa*, or “God of Debaters”. *Sura* is a word for “god” which invokes the cosmic battle with the titans (“not *sura*\s,” *asuras*), “The \[Conquering\] God”
+[^31]: *vādisurassa*, or “God of Debaters”. *Sura* is a word for “god” which invokes the cosmic battle with the titans (“not *suras*,” *asuras*), “The \[Conquering\] God”
 
 [^32]: *gatim pappomi*
 

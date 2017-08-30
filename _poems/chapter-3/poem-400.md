@@ -96,7 +96,7 @@ innumerable by counting. \[3872\][^24]
 Because of this lamp-offering,  
 he will develop “divine eye.”  
 This one is always going to see  
-eight *kosa*\s[^25] in all directions.[^26] \[3873\]
+eight *kosas*[^25] in all directions.[^26] \[3873\]
 
 Fallen from the world of the gods,  
 when this person has been reborn,  

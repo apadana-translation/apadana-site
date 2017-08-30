@@ -827,7 +827,7 @@ The legend of Upāli Thera is finished.
 
 [^21]: *bhūtavejjaŋ*
 
-[^22]: *bhūtavijjāsu kovida*ŋ, lit., “skilled in exorcisms of ghosts,” “skilled in the knowledges about ghosts”
+[^22]: *bhūtavijjāsu kovidaŋ*, lit., “skilled in exorcisms of ghosts,” “skilled in the knowledges about ghosts”
 
 [^23]: *saṃsāra-sotaŋ*
 
@@ -839,7 +839,7 @@ The legend of Upāli Thera is finished.
 
 [^27]: lit., “for a long time they carry the fetus”
 
-[^28]: lit “of the *Vinaya*;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and cty understand this to mean the two *Vibhanga*\s of the *Vinayapiṭaka*: *Bhikkhu-vibhanga* and *Bhikkhunī-vibhanga*.
+[^28]: lit “of the *Vinaya*;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and cty understand this to mean the two *Vibhangas* of the *Vinayapiṭaka*: *Bhikkhu-vibhanga* and *Bhikkhunī-vibhanga*.
 
 [^29]: that is, the *Mahāvagga* and the *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ūlavagga* of the *Vinayapiṭaka*.
 

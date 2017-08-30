@@ -57,7 +57,7 @@ The Paṇṇadāyaka Chapter, the Twenty-Ninth
 
 [^3]: *vippasannaŋ*
 
-[^4]: *khīṇâsava*, lit., “whose defilements (*āsava*\s, “outflows”) had been destroyed,” that is, they were arahants
+[^4]: *khīṇâsava*, lit., “whose defilements (*āsavas*, “outflows”) had been destroyed,” that is, they were arahants
 
 [^5]: *vanta-dosa*, lit., “whose defects/anger/bad deeds had been vomited out”
 

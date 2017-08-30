@@ -65,7 +65,7 @@ throughout \[that\] grove in the forest,
 knowing the thoughts of the Buddha,  
 then assembled together \[there\]. (12) \[3737\]
 
-When the spirits,[^9] the *kumbhaṇḍa*\s  
+When the spirits,[^9] the *kumbhaṇḍas*  
 and the demons[^10] came together,  
 and the monks’ Assembly arrived,  
 the Victor uttered \[these\] verses: (13) \[3738\]

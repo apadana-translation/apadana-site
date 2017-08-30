@@ -128,7 +128,7 @@ discerning what he is thinking. (24) \[4095\]
 
 \[And\] sixty thousand elephants,  
 decked out in all the ornaments,  
-*mātaṅga*\s with gold headdresses,  
+*mātaṅgas* with gold headdresses,  
 clothed in harnessing made of gold,  
 mounted by elephant-trainers  
 with lances and goads in hand,[^39]  

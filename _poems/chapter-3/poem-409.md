@@ -51,7 +51,7 @@ the unexcelled fields[^36] for merit,
 working to increase[^37] my merit  
 are \[also\] coming to my house. (9) \[4173\]
 
-All the Jains: the *Padaka*\s[^38] the  
+All the Jains: the *Padakas*[^38] the  
 *Laṭakas*,[^39] *Pupphasāṭakas*,[^40]  
 *Tedaṇḍakas*,[^41] *Ekasikhas*[^42]  
 are \[also\] coming to my house. (10) \[4174\]
@@ -91,7 +91,7 @@ are \[also\] coming to my house. (16) \[4180\]
 *Khuddakas*[^78] and *Suddakas*[^79] \[too\]  
 are \[also\] coming to my house. (17) \[4181\]
 
-*Rohanas*,[^80] also *Sindhava*s,[^81]  
+*Rohanas*,[^80] also *Sindhavas*,[^81]  
 *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ittas*[^82] \[and\] *Ekakaṇṇikas*,[^83]  
 *Suraṭṭhas*[^84] and *Aparantas*[^85]  
 are \[also\] coming to my house. (18) \[4182\]

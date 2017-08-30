@@ -65,7 +65,7 @@ he’ll feast on sensual pleasures.[^13] (11) \[4278\]
 
 \[Then\] sixty thousand elephants,  
 decked out in all the ornaments,  
-*mātaṅga*\s with gold headdresses,  
+*mātaṅgas* with gold headdresses,  
 clothed in harnessing made of gold, (12) \[4279\]
 
 mounted by elephant-trainers  

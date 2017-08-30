@@ -5,8 +5,9 @@ published: true
 excerpt: This is the first-ever complete translation of <i>Apadāna</i> into a Western language. It is offered freely online and for download, motivated by a sense that scholars, students, Buddhists and even the general public might enjoy and benefit from access to this beautiful collection of ancient poetry.
 ---
 
-## The Translation
+<p class="alert">This project is currently in beta. Your [feedback][13] is appreciated.</p>
 
+## The Translation
 <p class="lead">This is the first-ever complete translation of *Apadāna* into a Western
 language. It has been a daunting undertaking, traversing the
 translator’s entire professional career, yet it admittedly remains an
@@ -219,3 +220,4 @@ Markdown”][12], *The Programming Historian*.
 [10]: {{ site.repository }} "View Project on Github"
 [11]: mailto:walterjs@whitman.edu
 [12]: https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
+[13]: #feedback

@@ -67,7 +67,7 @@ too obey[^15] my authority:
 that is the fruit of giving fruit. (12) \[5516\]
 
 \[All\] the spirits,[^16] ghosts,[^17] and demons,  
-the *kumbhaṇḍa*\s and *garuḷa*\s,  
+the *kumbhaṇḍas* and *garuḷas*,  
 throughout \[that\] grove in the forest,  
 approach \[in order to\] serve me. (13) \[5517\]
 

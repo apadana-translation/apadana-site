@@ -59,7 +59,7 @@ The legend of <span class="diacritics" data-state="on">C</span><span class="no-d
 
 [^2]: reading <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for the correct spelling for *kiṇṇara* (<abbr title="Pali Text Society">PTS</abbr>). The *kinnara* (Sinh. *kandura*) has a human head and a horse’s body; “centaur”.
 
-[^3]: v*asano* could also be translated, “lived in a dwelling” \[made of flowers\].
+[^3]: *vasano* could also be translated, “lived in a dwelling” \[made of flowers\].
 
 [^4]: lit., “entered”
 

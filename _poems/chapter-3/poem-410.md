@@ -92,7 +92,7 @@ tortoises and \[other\] fierce beasts,[^60]
 beautifying my hermitage. (17) \[4235\]
 
 Pigeons[^63] and *ravi*-swans[^64] as well,  
-ruddy geese[^65] and *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara*\s,  
+ruddy geese[^65] and *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aras*,  
 lapwings,[^66] \[also\] mynah birds[^67] are  
 beautifying my hermitage. (18) \[4236\]
 
@@ -388,7 +388,7 @@ The Metteyya Chapter, the Forty-First
 
 [^60]: *gahā*, lit., “seizers.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses this above (at \[4011\]) as a third type of crocodile (*gäṭa-kimbulō*), underlining (as does my translation here) the main point that fierce water-beasts are born there.
 
-[^61]: o*guhā*, fr. *ogāhati*, *ogāhana*, plunging? = watersnakes?
+[^61]: *oguhā*, fr. *ogāhati*, *ogāhana*, plunging? = watersnakes?
 
 [^62]: *ajagarā*. RD says “a large snake…a Boa Constrictor”
 

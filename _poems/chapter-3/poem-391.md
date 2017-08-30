@@ -1129,7 +1129,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^21]: lit., “saw,” *addakkhiŋ*
 
-[^22]: *parikkhāra-dānaŋ*, Sinh. *pirikara dānaya*, i.e., a gift of the “requisites” or *parikkhāra*\s of Buddhist monks and nuns, which are variously enumerated (often in an idealized list of eight) and may include the three monastic robes, begging bowl, razor, needle, small knives, girdle, water-strainer, umbrellas, sandals, and so forth.
+[^22]: *parikkhāra-dānaŋ*, Sinh. *pirikara dānaya*, i.e., a gift of the “requisites” or *parikkhāras* of Buddhist monks and nuns, which are variously enumerated (often in an idealized list of eight) and may include the three monastic robes, begging bowl, razor, needle, small knives, girdle, water-strainer, umbrellas, sandals, and so forth.
 
 [^23]: reading *parikkhārāni* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt. for <abbr title="Pali Text Society">PTS</abbr> *parikkhārāna*, “of the requisites”
 
@@ -1295,7 +1295,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^104]: *madhu*
 
-[^105]: *dadhi-pānakaŋ*. *Dadhi* is milk-curd or yoghurt; “for drinking” could imply that it has been blended into a drink like *lassi*, or could refer to drinkable whey that results from souring the milk. In the description of the *ānisaṃsa*\s, below (v. 196 \[3570\]) the gift is more straightforwardly just called *dadhi*, though the addition of “well-prepared” (*sampannaŋ*) does imply some sort of processing for consumption.
+[^105]: *dadhi-pānakaŋ*. *Dadhi* is milk-curd or yoghurt; “for drinking” could imply that it has been blended into a drink like *lassi*, or could refer to drinkable whey that results from souring the milk. In the description of the *ānisaṃsas*, below (v. 196 \[3570\]) the gift is more straightforwardly just called *dadhi*, though the addition of “well-prepared” (*sampannaŋ*) does imply some sort of processing for consumption.
 
 [^106]: reading *dhūpaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pupphaŋ*, “flower”
 
@@ -1899,7 +1899,7 @@ The legend of Pilindava<span class="diacritics" data-state="on">c</span><span cl
 
 [^406]: *aṭṭhānisaŋse*. I count the eight here as (1) large eyes \[whether they are\] (2) white eyes, (3) yellow eyes, \[or\] (4) red eyes; (5) unsullied eyes, (6) clear eyes, (7) disease-free eyes, (8) “divine eye”.
 
-[^407]: this follows the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss. I assume that “white eyes” (or “eyes that have whites)” would refer to humans, “yellow (or “golden”) eyes” would refer to gods, and “red eyes” (cf. *lohitākkha*) refers to snakes or spirits (*yakkha*\s). We might also understand these colors as seen very clearly by his large eyes.
+[^407]: this follows the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss. I assume that “white eyes” (or “eyes that have whites)” would refer to humans, “yellow (or “golden”) eyes” would refer to gods, and “red eyes” (cf. *lohitākkha*) refers to snakes or spirits (*yakkhas*). We might also understand these colors as seen very clearly by his large eyes.
 
 [^408]: *anāvila-pasanna-akkha*
 

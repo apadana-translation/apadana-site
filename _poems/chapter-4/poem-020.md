@@ -274,7 +274,7 @@ The Ekūposathikā Chapter, the Second
 
 [^16]: lit., “winds,” *vātā*
 
-[^17]: *dabbatthāya*, lit., “for the sake of *dabba* grass”. Presumably the husband would have sought d*abba* grass to provide shelter, or a mattress, for his gestating wife.
+[^17]: *dabbatthāya*, lit., “for the sake of *dabba* grass”. Presumably the husband would have sought *dabba* grass to provide shelter, or a mattress, for his gestating wife.
 
 [^18]: *vijātadukkhena*, lit., “with the suffering of giving birth”
 

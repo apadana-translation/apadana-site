@@ -11,7 +11,7 @@ not far from the Himalayas.
 I sustained myself on garlic;  
 garlic was \[then\] my \[only\] food. (1) \[1091\]
 
-After filling \[some\] *khāriya*\s[^2]  
+After filling \[some\] *khāriyas*[^2]  
 I went to a monastery.  
 I gave the Assembly garlic,  
 happy, \[and\] with a happy heart. (2) \[1092\]
@@ -37,4 +37,4 @@ The legend of Lasuṇadāyaka Thera is finished.
 
 [^1]: “Garlic-Giver”
 
-[^2]: a type of container? Cty treats it as a container used by ascetics. Also a measure, = 16 *drona*\s. Cf. above v. \[198\] and n.
+[^2]: a type of container? Cty treats it as a container used by ascetics. Also a measure, = 16 *dronas*. Cf. above v. \[198\] and n.
