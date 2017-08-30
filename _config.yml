@@ -32,6 +32,8 @@ defaults:
       type: poems
     values:
       layout: poem
+      # author: "Jonathan S. Walters"
+      cover: _assets/covers/cover.pdf
   - scope:
       path: "_poems/chapter-1/"
       type: "poems"
@@ -140,6 +142,7 @@ assets:
     - _assets/javascripts
     - _assets/stylesheets
     - _assets/fonts
+    - _assets/covers
 
 # Plugin: Jekyll Scholar
 scholar:
@@ -153,20 +156,22 @@ scholar:
 markdown: pandoc
 pandoc:
   skip: false
-  bundle_permalink: ':slug.:output_ext'
-  papersize: 'letter'
-  sheetsize: 'letter'
-  imposition: true
-  binder: true
-  covers_dir: 'public/'
-  # flags: '--smart'
+  bundle_permalink: 'public/links/walters_:slug.:output_ext'
+  papersize: 'letterpaper'
+  sheetsize: 'letterpaper'
+  imposition: false
+  binder: false
+  covers_dir: '_assets/covers'
+  flags: ''
   outputs:
     pdf: '-V fontsize=12pt,twoside
           -V mainfont=Skolar\ PE
           -V documentclass=article
           -V geometry=hcentering
-          -V geometry=bindingoffset=0.5cm
-          -V geometry=bmargin=2.5cm
+          -V geometry=bindingoffset=.2in
+          -V geometry=tmargin=1.2in
+          -V geometry=bmargin=1in
           -V links-as-notes=true
-          -V subparagraph
-          --latex-engine=xelatex'
+          --latex-engine=xelatex
+          --include-in-header=_layouts/pdf-header.tex
+          --include-before-body=_layouts/pdf-frontmatter.tex'
