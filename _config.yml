@@ -21,7 +21,7 @@ author:
 collections:
   poems:
     output:          true
-    permalink:       /text/:path/
+    permalink:       /text/:path.html
     title:           "Legends of the Buddhist Saints"
 
 # Front Matter Defaults
