@@ -164,6 +164,7 @@ pandoc:
   covers_dir: '_assets/covers'
   flags: ''
   outputs:
+    epub: '-V --epub-chapter-level=1'
     pdf: '-V fontsize=12pt,twoside
           -V mainfont=Skolar\ PE
           -V documentclass=article
