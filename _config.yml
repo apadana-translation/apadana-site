@@ -7,7 +7,7 @@ subtitle:            "Apadānapāli"
 description:         "A web-based interface for reading the first-ever complete English translation of
                       Apadāna. Translated by Dr. Jonathan S. Walters, Whitman College, 2017."
 #url:                 http://127.0.0.1:4000
-url:                 http://apadanapali-jekyll.s3-website-us-west-2.amazonaws.com
+url:                 http://beta.apadanatranslation.org
 baseurl:             ''
 repository:          https://github.com/apadana-translation/apadana-site
 
