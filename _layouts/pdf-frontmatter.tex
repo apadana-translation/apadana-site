@@ -1,0 +1,29 @@
+% Prints the month name (e.g., January) and the year (e.g., 2008)
+\newcommand{\monthyear}{%
+  \ifcase\month\or January\or February\or March\or April\or May\or June\or
+  July\or August\or September\or October\or November\or
+  December\fi\space\number\year
+}
+
+% Copyright page
+\newpage
+\thispagestyle{empty}
+
+\begin{flushleft}
+
+\vspace*{\fill}
+
+Copyright \copyright\ \the\year\ Jonathan S. Walters.
+
+\par\textsc{Published by Jonathan S. Walters and Whitman College}
+
+\par\url{http://www.apadanatranslation.org}
+
+\par Licensed under the Attribution, Non-Commercial, Share Alike (\textsc{CC BY-NC-SA 3.0 US}) license (\url{https://creativecommons.org/licenses/by-nc-sa/3.0/us/}).
+
+\par\textit{Printed \monthyear}
+
+\end{flushleft}
+
+\newpage
+% Start main text

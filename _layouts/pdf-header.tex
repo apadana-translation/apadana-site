@@ -1,0 +1,16 @@
+% page header for PDF export of poems
+% adapted from https://github.com/edsl/endefensadelsl.org/blob/queue/src/layouts/header.tex
+
+\usepackage{setspace}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+
+\setlength{\headheight}{16pt}
+\fancyhf{}
+\fancyhead[LE]{\footnotesize{\nouppercase{\textsc{\thepage \quad Legends of the Buddhist Saints}}}}
+\fancyhead[RO]{\footnotesize{\nouppercase{\textsc{\leftmark \quad \thepage}}}}
+
+% \renewcommand*{\chaptermark}[1]{\markboth{#1}{}}
+
+\raggedbottom
