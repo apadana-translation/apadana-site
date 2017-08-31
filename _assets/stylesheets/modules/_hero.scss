@@ -1,12 +1,10 @@
 .hero {
-  flex-basis: 100%;
-  display: flex;
-  align-items: center;
-  padding-top: 3rem;
-  padding-bottom: 3rem;
   text-align: center;
 
   @include breakpoint($medium-large) {
+    display: flex;
+    flex-basis: 100%;
+    align-items: center;
     padding: 1rem 4rem;
     text-align: left;
   }

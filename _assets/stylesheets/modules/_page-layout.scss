@@ -62,7 +62,7 @@
     padding: 1rem 0.5rem;
   }
 
-  @include breakpoint($medium) {
+  @include breakpoint($medium-large) {
     flex-direction: row;
 
     > * {
@@ -72,7 +72,7 @@
 
   &__section {
 
-    @include breakpoint($medium) {
+    @include breakpoint($medium-large) {
       padding: 1.25rem;
     }
 
