@@ -1,4 +1,4 @@
-function sidenoteFire() {
+function sidenoteFire(callback) {
 	var $postContainer, breakpoint;
 	$postContainer = $('.poem, .page');
 	breakpoint = 'min-width: 880px';
@@ -16,8 +16,12 @@ function sidenoteFire() {
   };
 	/* Call the function */
   sidenotePosition(breakpoint);
+
+	callback();
 }
 
 $(document).on('ready', function() {
-  sidenoteFire();
+  sidenoteFire(function() {
+		progressBar();
+	});
 });

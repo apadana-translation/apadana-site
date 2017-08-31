@@ -35,7 +35,3 @@ function progressBar() {
     $('.progress__count').html(Math.round(perc * 100) + "%");
   }
 }
-
-$(document).on('ready', function() {
-  progressBar();
-});
