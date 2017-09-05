@@ -1,14 +1,12 @@
-# jekyll build and push site to S3 bucket
-# Based on https://github.com/jhabdas/habd.as/blob/master/.travis.yml
-
 language: ruby
 cache: bundler
 rvm:
   - 2.3.0
 install: bundle install && gem install s3_website
 script: rake deploy
-
-#safelist
 branches:
   only:
     - master
+addons:
+  apt_packages:
+    - pandoc
