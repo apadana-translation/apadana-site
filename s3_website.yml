@@ -1,0 +1,31 @@
+s3_id: <%= ENV['S3_ACCESS_KEY_ID'] %>
+s3_secret: <%= ENV['S3_SECRET_KEY'] %>
+s3_bucket: beta.apadanatranslation.org
+
+site: _site/
+
+index_document: index.html
+error_document: 404.html
+
+max_age:
+  "assets/*": 2629000
+  "images/*": 2629000
+  "*": 300
+
+gzip: true
+
+s3_endpoint: us-west-2
+
+s3_reduced_redundancy: true
+
+cloudfront_distribution_id: <%= ENV['CLOUDFRONT_DISTRIBUTION_ID'] %>
+
+cloudfront_distribution_config:
+  default_cache_behavior:
+    min_TTL: <%= 60 * 60 * 24 %>
+  aliases:
+    quantity: 1
+    items:
+      CNAME: beta.apadanatranslation.com
+
+cloudfront_wildcard_invalidation: true

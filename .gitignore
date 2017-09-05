@@ -48,4 +48,3 @@ _assets/bower
 _assets/fonts
 
 # Sensitive files to ignore
-s3_website.yml
