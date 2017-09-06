@@ -166,7 +166,6 @@ pandoc:
   outputs:
     epub: '-V --epub-chapter-level=1'
     pdf: '-V fontsize=12pt,twoside
-          -V mainfont=Skolar\ PE
           -V documentclass=article
           -V geometry=hcentering
           -V geometry=bindingoffset=.2in

@@ -1,6 +1,15 @@
-% page header for PDF export of poems
-% adapted from https://github.com/edsl/endefensadelsl.org/blob/queue/src/layouts/header.tex
+% Set main font to Skolar PE from _assets/fonts folder
+\setmainfont [
+  Path = _assets/fonts/,
+  Extension = .otf,
+  UprightFont = *-Regular,
+  BoldFont = *-Bold,
+  ItalicFont = *-Italic,
+  BoldItalicFont = *-BoldItalic
+] {SkolarPE}
 
+% Set page header
+% adapted from https://github.com/edsl/endefensadelsl.org/blob/queue/src/layouts/header.tex
 \usepackage{setspace}
 \usepackage{fancyhdr}
 
