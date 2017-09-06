@@ -10,3 +10,5 @@ branches:
 addons:
   apt_packages:
     - pandoc
+before_install:
+  - sudo apt-get -qq update && sudo apt-get install -y --no-install-recommends texlive-full
