@@ -43,6 +43,4 @@ validation-report.json
 
 # Folders to ignore
 node_modules
-bower_components
-_assets/bower
 _assets/fonts
