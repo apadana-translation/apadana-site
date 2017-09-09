@@ -3,7 +3,8 @@ cache: bundler
 rvm:
   - 2.3.0
 install: bundle install && gem install s3_website
-script: rake deploy
+script: travis_wait 50 rake build
+after_success: rake s3_website
 branches:
   only:
     - master
