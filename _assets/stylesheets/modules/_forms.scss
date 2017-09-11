@@ -12,8 +12,9 @@ input[type=search] {
 
   & + label {
     position: absolute;
+    top: 50%;
+    transform:translateY(-50%);
     right: 0.75rem;
-    padding-top: 0.5rem;
   }
 }
 
