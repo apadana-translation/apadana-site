@@ -6,6 +6,7 @@
 
 // Compile user scripts
 //= require ga
+//= require search
 //= require navigation
 //= require progress-bar
 //= require sidenote
