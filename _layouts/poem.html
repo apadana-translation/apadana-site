@@ -5,6 +5,7 @@
 
   <body>
 
+    {% include analytics--noscript.html %}
     {% include svg-sprite.html %}
 
     <div class="content" id="content">
@@ -28,7 +29,7 @@
       {% include site__footer.html %}
     </div>
 
-    {% js main %}
+    {% js main async %}
 
   </body>
 </html>

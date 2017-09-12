@@ -5,7 +5,6 @@
 //= require jquery.sidenotes/lib/jquery.sidenotes.js
 
 // Compile user scripts
-//= require ga
 //= require search
 //= require navigation
 //= require progress-bar
