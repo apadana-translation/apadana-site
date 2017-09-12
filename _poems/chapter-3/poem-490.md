@@ -2,6 +2,8 @@
 title: Sālamaṇḍapiya
 order: 490
 category: chapter-3
+published: true
+date: '2017-09-11 17:16 -0700'
 ---
 
 ### \[487. {490.}[^1] Sālamaṇḍapiya[^2]\]
@@ -114,7 +116,7 @@ he’ll reach nirvana, undefiled. (21) \[5239\]
 There will be a *sal* canopy  
 for this one who grasps the Teaching,  
 \[and\] that \[*sal*\] canopy will be there  
-for him being burnt on a pyre. (22) \[5240\]
+for him being burnt on a pyre." (22) \[5240\]
 
 Detailing the result \[for me\],  
 Piyadassi \[Buddha\], Great Sage,  
