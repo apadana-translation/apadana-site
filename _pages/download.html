@@ -10,11 +10,11 @@ permalink: /text/download/
 {% comment %}Complete text in PDF and ePub{% endcomment %}
 <p>
   <svg class="icon--large icon-pdf"><use xlink:href="#icon-pdf"></use></svg>
-  <a href="{{ path_to_folder }}walters_{{ site.title | slugify }}.pdf" class="button">Download <abbr>PDF</abbr></a>
+  <a href="{{ path_to_folder }}walters_{{ site.title | slugify }}.pdf"  title="Download PDF of {{ site.title }}" data-download="{{ site.title }} PDF" class="button">Download <abbr>PDF</abbr></a>
 </p>
 <p>
   <svg class="icon--large icon-book-open"><use xlink:href="#icon-book-open"></use></svg>
-  <a href="{{ path_to_folder }}walters_{{ site.title | slugify }}.epub" class="button">Download ePub</a>
+  <a href="{{ path_to_folder }}walters_{{ site.title | slugify }}.epub"  title="Download ePub of {{ site.title }}" data-download="{{ site.title }} ePub" class="button">Download ePub</a>
 </p>
 
 {% comment %}Single sections in PDF and ePub{% endcomment %}
@@ -23,9 +23,10 @@ permalink: /text/download/
   {% comment %}Stupid, tedious way to do this -- fix when not an idiot!{% endcomment %}
   {% assign chapters = site.poems | group_by: "category" | sort: "name" %}
   {% for chapter in chapters %}
+    {% assign chapter_number = chapter.name | remove: "chapter-" | append: ". " %}
     {% assign category_slug = chapter.name %}
     {% assign category = site.data.categories[category_slug] %}
-    <li><b>{{ category.name }}</b> [<svg class="icon-pdf"><use xlink:href="#icon-pdf"></use></svg><a href="{{ path_to_folder }}walters_{{ category.name | slugify }}.pdf" title="Download PDF"><abbr>PDF</abbr></a> <svg class="icon-book-open"><use xlink:href="#icon-book-open"></use></svg> <a href="{{ path_to_folder }}walters_{{ category.name | slugify }}.epub" title="Download ePub">ePub</a>]</li>
+    <li><b>{{ category.name }}</b> [<svg class="icon-pdf"><use xlink:href="#icon-pdf"></use></svg><a href="{{ path_to_folder }}walters_{{ category.name | slugify }}.pdf" title="Download PDF of {{ chapter_number }}{{ category.name }}" data-download="{{ chapter_number }}{{ category.name }} PDF"><abbr>PDF</abbr></a> <svg class="icon-book-open"><use xlink:href="#icon-book-open"></use></svg> <a href="{{ path_to_folder }}walters_{{ category.name | slugify }}.epub"  title="Download ePub of {{ chapter_number }}{{ category.name }}" data-download="{{ chapter_number }}{{ category.name }} ePub">ePub</a>]</li>
   {% endfor %}
 </ol>
 
