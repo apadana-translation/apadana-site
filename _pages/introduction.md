@@ -1,6 +1,7 @@
 ---
 title: Introduction to the Text
 permalink: /text/introduction/
+layout: page-has-notes
 excerpt: <i>Legends of the Buddhist Saints</i> (<i>Apadāna</i>) is a collection of about six hundred autobiographical poems ascribed to the accomplished Buddhas and Arahants of the early Buddhist community. Composed in India in the Pāli language around the second century, <abbr>B.C.E.</abbr>, <i>Apadāna</i> is the source of many of the best-loved stories of the saints in the Buddhist world.
 ---
 

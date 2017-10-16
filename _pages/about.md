@@ -1,6 +1,7 @@
 ---
 title: About the Project
 permalink: /about/
+layout: page-has-notes
 published: true
 excerpt: >-
   This is the first-ever complete translation of <i>Apadāna</i> into a Western

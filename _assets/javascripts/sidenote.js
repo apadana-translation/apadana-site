@@ -1,6 +1,6 @@
 function sidenoteFire(callback) {
 	var $postContainer, breakpoint;
-	$postContainer = $('.poem, .page');
+	$postContainer = $('.poem, .has-notes');
 	breakpoint = 'min-width: 880px';
 
 	$postContainer.sidenotes();
@@ -9,9 +9,9 @@ function sidenoteFire(callback) {
 		/* Set the matchMedia */
 		if (window.matchMedia('(' + width + ')').matches) {
 		/* Changes when we reach the min-width  */
-			$('.poem, .page').sidenotes('show');
+			$postContainer.sidenotes('show');
 		} else {
-      $('.poem, .page').sidenotes('hide');
+      $postContainer.sidenotes('hide');
     };
   };
 	/* Call the function */

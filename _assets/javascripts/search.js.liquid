@@ -85,10 +85,12 @@ function displayResults() {
 const field = document.querySelector('#search');
 const resultsList = document.querySelector('#search-results');
 
-field.addEventListener('keyup', displayResults);
+if (field !== null) {
+  field.addEventListener('keyup', displayResults);
 
-field.addEventListener('keypress', function(event) {
-    if (event.keyCode == 13) {
-      event.preventDefault();
-    }
-});
+  field.addEventListener('keypress', function(event) {
+      if (event.keyCode == 13) {
+        event.preventDefault();
+      }
+  });
+}
