@@ -93,6 +93,7 @@ exclude:
   - s3_website.yml
 gems:
   - jekyll-assets
+  - jekyll-sitemap
 
 # Prose.io configuration
 prose:

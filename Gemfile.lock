@@ -60,6 +60,8 @@ GEM
       citeproc-ruby (~> 1.0)
       csl-styles (~> 1.0)
       jekyll (~> 3.0)
+    jekyll-sitemap (1.1.1)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.14.0)
@@ -101,6 +103,7 @@ DEPENDENCIES
   jekyll-assets
   jekyll-pandoc-multiple-formats!
   jekyll-scholar
+  jekyll-sitemap
 
 BUNDLED WITH
    1.12.1
