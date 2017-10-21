@@ -1,5 +1,6 @@
 .poem__meta {
   display: none;
+  font-feature-settings: "lnum";
 
   h5 {
     margin-bottom: 0.25rem;
@@ -28,6 +29,14 @@
       padding-top: 1rem;
       padding-right: 3rem;
     }
+  }
+}
+
+@supports (font-variant-numeric: lining-nums) {
+
+  .poem__meta {
+    font-feature-settings: normal;
+    font-variant-numeric: lining-nums;
   }
 }
 

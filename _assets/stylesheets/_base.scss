@@ -18,8 +18,6 @@ html {
   font-family: $root-font-family;
   font-size: $root-font-size;
   line-height: $root-line-height;
-  font-variant-numeric: oldstyle-nums;
-  font-feature-settings: "onum";
 
   @include breakpoint($medium) {
     font-size: $medium-font-size;
@@ -33,8 +31,17 @@ html {
 body {
   color: $body-color;
   background-color: $body-bg;
+  font-feature-settings: "onum" 1;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+}
+
+@supports (font-variant-numeric: oldstyle-nums) {
+
+  body {
+    font-feature-settings: normal;
+    font-variant-numeric: oldstyle-nums;
+  }
 }
 
 a {

@@ -14,14 +14,17 @@ main#poem {
   }
 }
 
-.poem {
-  max-width: 28.125rem;
-  margin: 0 auto;
-  padding: 1rem 0;
+.poem, .page.has-notes {
 
   a {
     @include reset-link();
   }
+}
+
+.poem {
+  max-width: 28.125rem;
+  margin: 0 auto;
+  padding: 1rem 0;
 
   li + li {
     margin-top: .25rem;

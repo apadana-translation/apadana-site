@@ -25,8 +25,23 @@ h2 {
 h3 {
   font-size: 1.1rem;
   font-weight: normal;
-  font-variant-caps: small-caps;
-  font-feature-settings: "smcp";
+  font-feature-settings: "c2sc", "smcp", "lnum";
+}
+
+@supports (font-variant-caps: all-small-caps) {
+
+  h3 {
+    font-feature-settings: normal;
+    font-variant-caps: all-small-caps;
+  }
+}
+
+@supports (font-variant-numeric: lining-nums) {
+
+  h3 {
+    font-feature-settings: normal;
+    font-variant-numeric: lining-nums;
+  }
 }
 
 h4 {
