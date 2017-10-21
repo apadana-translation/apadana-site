@@ -1,20 +1,24 @@
 // =============================================================================
 // Embed Font: A mixin for adding @font-face rules in Jekyll Assets SCSS
-// Adapted from https://github.com/ttimsmith/ttimsmith.com/blob/7-move-over-to-jekyll-assets-for-compiling/_assets/stylesheets/_redbat/_mixins.scss
+// Adapted from https://github.com/ttimsmith/ttimsmith.com/blob/7-move-over-to-jekyll-assets-for-compiling/_assets/stylesheets/_redbat/_mixins.scss (link no long available)
+// Gets most compressed source first (see https://alistapart.com/article/using-webfonts)
 // Usage: @include embed-font("Sample", "sample");
 // =============================================================================
 
 @mixin embed-font($font-name, $font-filepath-and-name, $font-weight, $font-style){
   @font-face {
     font-family: $font-name;
-    src: url(asset_path($font-filepath-and-name+".eot"));
-    src: url(asset_path($font-filepath-and-name+".eot?#iefix")) format('embedded-opentype'), /* IE6-IE8 */
-         url(asset_path($font-filepath-and-name+".woff")) format('woff'), /* Modern Browsers */
-         url(asset_path($font-filepath-and-name+".woff2")) format('woff2');
+    src: url(asset_path($font-filepath-and-name+".woff2")) format('woff2'), /* Modern Browsers */
+         url(asset_path($font-filepath-and-name+".woff")) format('woff'),
+         url(asset_path($font-filepath-and-name+".otf")) format('opentype'); /* IE6-IE8 */
     font-weight: $font-weight;
     font-style: $font-style;
   }
 }
+
+// =====================================================
+// Helper functions
+// =====================================================
 
 // generic map function
 @function get($map, $keys...) {
