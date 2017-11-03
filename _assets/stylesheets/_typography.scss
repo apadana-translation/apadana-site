@@ -28,11 +28,11 @@ h3 {
   font-feature-settings: "c2sc", "smcp", "lnum";
 }
 
-@supports (font-variant-caps: all-small-caps) {
+@supports (font-variant-caps: small-caps) {
 
   h3 {
     font-feature-settings: normal;
-    font-variant-caps: all-small-caps;
+    font-variant-caps: small-caps;
   }
 }
 
@@ -86,7 +86,7 @@ hr {
 }
 
 abbr {
-  font-variant-caps: all-small-caps;
+  font-variant-caps: small-caps;
   font-feature-settings: "c2sc", "smcp";
 
   &[title] {
