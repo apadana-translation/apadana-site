@@ -10,6 +10,8 @@ function progressBar() {
   var winHeight = $(window).height(),
       docHeight = $('.poem').height(),
       progressBar = $('progress'),
+      circle = $('#text-progress .animated-circle'),
+      counter = $('#text-progress .progress__count'),
       max, value;
 
   /* Set the max scrollable area */
@@ -24,14 +26,17 @@ function progressBar() {
      progressBar.attr('value', value);
      // circular counter
      var perc = Math.max(0, Math.min(1, value/max));
-     updateProgress(perc);
+     updateProgress(perc, circle, counter);
   });
+}
 
-  function updateProgress(perc) {
-    var circle_offset = 126 * perc;
-    $('.animated-circle').css({
-      "stroke-dashoffset" : 126 - circle_offset
-    });
-    $('.progress__count').html(Math.round(perc * 100) + "%");
+// Helper function for animating circular progress counter
+function updateProgress(perc, circleElem, counterElem) {
+  var offsetValue = 126 * perc;
+  circleElem.css({
+    "stroke-dashoffset" : 126 - offsetValue
+  });
+  if (counterElem != null) {
+    counterElem.html(Math.round(perc * 100) + "%");
   }
 }

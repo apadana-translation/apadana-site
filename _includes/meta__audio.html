@@ -1,0 +1,17 @@
+<section class="meta__audio">
+  <h5>Listen to Poem:</h5>
+  <audio id="audio-player" ontimeupdate="audioProgress()" preload="auto" controls>
+    <source src="{{ site.baseurl }}/public/audio/canto-2.mp3" type="audio/mpeg">
+    Your browser does not support this feature.
+  </audio>
+  <div id="audio-progress" class="progress">
+    <svg>
+      <circle cx="0" cy="0" r="20" class="animated-circle" transform="translate(50,50) rotate(-90)"  />
+      <circle cx="0" cy="0" r="38" transform="translate(50,50)"  />
+    </svg>
+    <a href="#" id="audio-control" class="progress__control">
+      <svg class="icon-play"><use xlink:href="#icon-play"></use></svg>
+      <svg class="icon-pause"><use xlink:href="#icon-pause"></use></svg>
+    </a>
+  </div>
+</section>

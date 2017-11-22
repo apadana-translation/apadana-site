@@ -6,9 +6,10 @@
 // Compile user scripts
 //= require search
 //= require navigation
-//= require progress-bar
+//= require progress
 //= require sidenote
 //= require toggle
 //= require share
 //= require meta-scroll
+//= require audio-player
 //= require to-top
