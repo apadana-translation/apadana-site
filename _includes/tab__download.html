@@ -7,11 +7,11 @@
 <section class="tab__primary-content">
   <p>
     <svg class="icon--large icon-pdf"><use xlink:href="#icon-pdf"></use></svg>
-    <a href="{{ page.url | remove:'.html' }}.pdf" title="Download PDF of {{ chapter }}{{ page.title }}" data-download="{{ chapter }}{{ page.title }} PDF" class="button">Download <abbr>PDF</abbr></a>
+    <a href="{{ page.url | remove:'.html' }}.pdf" download="walters_{{ site.title | slugify }}_{{ page.title | slugify }}.pdf" title="Download PDF of {{ chapter }}{{ page.title }}" data-download="{{ chapter }}{{ page.title }} PDF" class="button">Download <abbr>PDF</abbr></a>
   </p>
   <p>
     <svg class="icon--large icon-book-open"><use xlink:href="#icon-book-open"></use></svg>
-    <a href="{{ page.url | remove:'.html' }}.epub" title="Download ePub of {{ chapter }}{{ page.title }}" data-download="{{ chapter }}{{ page.title }} ePub" class="button">Download ePub</a>
+    <a href="{{ page.url | remove:'.html' }}.epub" download="walters_{{ site.title | slugify }}_{{ page.title | slugify }}.epub" title="Download ePub of {{ chapter }}{{ page.title }}" data-download="{{ chapter }}{{ page.title }} ePub" class="button">Download ePub</a>
   </p>
 </section>
 
