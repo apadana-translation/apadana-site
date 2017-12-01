@@ -41,6 +41,16 @@ $link-offset: 2px;
 $link-underline-opacity: 0.6;
 $link-underline-hover-opacity: 0.8;
 
+%link-with-hover-highlight {
+  @include reset-link();
+  color: inherit;
+
+  &:hover,
+  &:active {
+    color: palette(highlight);
+  }
+}
+
 // ===================================
 // Layout
 // ===================================

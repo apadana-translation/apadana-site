@@ -1,17 +1,30 @@
+{% if page.audio %}
+{% assign file = page.audio %}
 <section class="meta__audio">
   <h5>Listen to Poem:</h5>
-  <audio id="audio-player" ontimeupdate="audioProgress()" preload="auto" controls>
-    <source src="{{ site.baseurl }}/public/audio/canto-2.mp3" type="audio/mpeg">
+  <audio id="html5-audio" ontimeupdate="audioProgress()" preload="auto" controls>
+    <source src="{{ site.baseurl }}/public/audio/{{ file }}" type="audio/mpeg">
     Your browser does not support this feature.
   </audio>
-  <div id="audio-progress" class="progress">
-    <svg>
-      <circle cx="0" cy="0" r="20" class="animated-circle" transform="translate(50,50) rotate(-90)"  />
-      <circle cx="0" cy="0" r="38" transform="translate(50,50)"  />
-    </svg>
-    <a href="#" id="audio-control" class="progress__control">
-      <svg class="icon-play"><use xlink:href="#icon-play"></use></svg>
-      <svg class="icon-pause"><use xlink:href="#icon-pause"></use></svg>
-    </a>
+  <div class="audio-player">
+    <div id="audio-progress" class="progress">
+      <svg>
+        <circle cx="0" cy="0" r="20" class="animated-circle" transform="translate(50,50) rotate(-90)"  />
+        <circle cx="0" cy="0" r="38" transform="translate(50,50)"  />
+      </svg>
+      <a href="#" id="audio-control" class="progress__control">
+        <svg class="icon-play"><use xlink:href="#icon-play"></use></svg>
+        <svg class="icon-pause"><use xlink:href="#icon-pause"></use></svg>
+      </a>
+    </div>
+    <div class="audio-player__extras">
+      <a id="audio-rewind" href="#" title="Rewind audio 10 seconds" aria-label="Rewind audio 10 seconds">
+        <svg class="icon-rewind"><use xlink:href="#icon-rewind"></use></svg>
+      </a>
+      <a href="{{ site.baseurl }}/public/audio/{{ file }}" download="walters_{{ site.title | slugify }}_{{ file }}" title="Download MP3 of Poem Recitation" target="_blank" aria-label="Download MP3 of Poem Recitation">
+        <svg class="icon-download"><use xlink:href="#icon-download"></use></svg>
+      </a>
+    </div>
   </div>
 </section>
+{% endif %}

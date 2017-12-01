@@ -20,11 +20,10 @@
   }
 
   & > a {
-    @include reset-link();
+    @extend %link-with-hover-highlight;
     flex: 1;
     height: 100%;
     padding: 1rem;
-    color: inherit;
 
     &:hover {
       color: palette(light);

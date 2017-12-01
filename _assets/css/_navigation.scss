@@ -19,14 +19,7 @@
   }
 
   a {
-    @include reset-link();
-    color: inherit;
-
-    &:hover,
-    &:focus,
-    &:active {
-      color: palette(highlight);
-    }
+    @extend %link-with-hover-highlight;
   }
 
   // show/hide on scroll for mobile
@@ -320,12 +313,7 @@
   font-weight: normal;
 
   a {
-    color: inherit;
-    @include reset-link();
-
-    &:hover, &:focus {
-      color: palette(highlight);
-    }
+    @extend %link-with-hover-highlight;
   }
 }
 

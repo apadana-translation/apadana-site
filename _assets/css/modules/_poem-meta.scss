@@ -46,15 +46,8 @@
   &__pagination,
   &__progress {
     margin-bottom: 1rem;
-    padding-bottom: 1rem;
-    border-bottom: 1px solid rgba($body-color, 0.5);
-  }
-
-  &__history {
-
-    a {
-      color: inherit;
-    }
+    // padding-bottom: 1rem;
+    // border-bottom: 1px solid rgba($body-color, 0.5);
   }
 }
 
@@ -65,8 +58,14 @@
 
   svg {
     position: absolute;
+  }
 
-    & .animated-circle {
+  // circles
+  > svg {
+    width: 100%;
+    height: 100%;
+
+    .animated-circle {
       fill: transparent;
       stroke-width: 40px;
       stroke: palette(highlight);
@@ -92,12 +91,7 @@
   }
 
   &__control {
-    @include reset-link();
-    color: inherit;
-
-    &:hover {
-      color: palette(highlight);
-    }
+    @extend %link-with-hover-highlight;
 
     svg {
       top: 50%;
@@ -125,4 +119,24 @@ audio {
 
 .icon-pause {
   opacity: 0;
+}
+
+.audio-player {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  &__extras {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.25rem;
+
+    a {
+      @extend %link-with-hover-highlight;
+
+      &:first-child {
+        margin-bottom: 0.75rem;
+      }
+    }
+  }
 }
