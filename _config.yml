@@ -114,19 +114,6 @@ prose:
     - /_text
     - /public
     - /.bundle
-  metadata:
-    _pages:
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date Modified"
-          value: CURRENT_DATETIME
-    _poems:
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date Modified"
-          value: CURRENT_DATETIME
 
 # Plugin: Jekyll Assets
 assets:

@@ -2,8 +2,6 @@
 title: Upāli
 order: 6
 category: chapter-3
-published: true
-date: '2017-11-03 11:55 -0700'
 ---
 
 ### \[6. Upāli\]
