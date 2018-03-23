@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'breakpoint'
 gem 'autoprefixer-rails'
 gem 'uglifier'
 gem 'mini_magick'

@@ -5,7 +5,7 @@
   ],
   "description": "A web-based interface for reading Legends of the Buddhist Saints (Apadānapāli) by Jonathan S. Walters, Whitman College, 2017, built on Jekyll.",
   "main": "",
-  "license": "MIT",
+  "license": "Attribution-NonCommercial-ShareAlike 4.0 International",
   "homepage": "",
   "private": true,
   "ignore": [
@@ -18,8 +18,5 @@
   "dependencies": {
     "jquery.sidenotes": "^0.2.0",
     "fetch": "^2.0.3"
-  },
-  "devDependencies": {
-    "breakpoint-sass": "^2.7.1"
   }
 }
