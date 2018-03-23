@@ -13,7 +13,7 @@ permalink: /
 [Download](/text/download/){.button}
 </div>
 <div class="hero__image">
-{% img monks.png alt:'Monks' width:'305px' height:'450px' %}
+{% asset 'monks.png' alt='Monks' width='305px' height='450px' %}
 </div>
 </header>
 

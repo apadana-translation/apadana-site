@@ -1,11 +1,14 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.3.0'
+gem 'autoprefixer-rails'
+gem 'uglifier'
+gem 'mini_magick'
+gem 'image_optim'
+gem 'sprockets', '~> 3.7'
 
-group :plugins do
-  gem 'autoprefixer-rails'
-  gem 'jekyll-assets'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-pandoc-multiple-formats', github: 'apadana-translation/jekyll-pandoc-multiple-formats', branch: 'develop'
-  gem 'jekyll-scholar'
-end
+gem 'jekyll', '~> 3.6.0'
+
+gem 'jekyll-assets', group: :jekyll_plugins
+gem 'jekyll-sitemap', group: :jekyll_plugins
+gem 'jekyll-scholar', group: :jekyll_plugins
+gem 'jekyll-pandoc-multiple-formats', github: 'apadana-translation/jekyll-pandoc-multiple-formats', branch: 'develop', group: :jekyll_plugins

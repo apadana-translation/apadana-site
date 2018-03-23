@@ -91,9 +91,10 @@ exclude:
   - tmp
   - bower.json
   - s3_website.yml
-gems:
+plugins:
   - jekyll-assets
   - jekyll-sitemap
+  - 'jekyll/scholar'
 
 # Prose.io configuration
 prose:
@@ -117,23 +118,8 @@ prose:
 
 # Plugin: Jekyll Assets
 assets:
-  prefix: "/assets"
-  autoprefixer:
-    browsers:
-      - "last 2 versions"
-      - "IE > 9"
-
-  assets:
-    - "*.png"
-    - "bundle.css"
-
   sources:
     - _assets/bower
-    - _assets/images
-    - _assets/javascripts
-    - _assets/stylesheets
-    - _assets/fonts
-    - _assets/covers
 
 # Plugin: Jekyll Scholar
 scholar:
@@ -146,7 +132,10 @@ scholar:
 # Plugin: Jekyll Pandoc Multiple Formats
 markdown: pandoc
 pandoc:
-  skip: false
+  skip:
+    full: true
+    posts: true
+    categories: true
   bundle_permalink: 'public/links/walters_:slug.:output_ext'
   papersize: 'letterpaper'
   sheetsize: 'letterpaper'

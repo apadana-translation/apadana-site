@@ -19,13 +19,13 @@ $link-color: palette(highlight);
 // ===================================
 // Typography
 // ===================================
-@include embed-font("Skolar PE", "SkolarPEWeb-Regular", normal, normal);
-@include embed-font("Skolar PE", "SkolarPEWeb-Italic", normal, italic);
-@include embed-font("Skolar PE", "SkolarPEWeb-Bold", bold, normal);
-@include embed-font("Skolar PE", "SkolarPEWeb-BoldItalic", bold, italic);
+@include embed-font("Skolar PE", "SkolarPE-Regular", normal, normal);
+@include embed-font("Skolar PE", "SkolarPE-Italic", normal, italic);
+@include embed-font("Skolar PE", "SkolarPE-Bold", bold, normal);
+@include embed-font("Skolar PE", "SkolarPE-BoldItalic", bold, italic);
 // Skolar Sans added through Typekit
 
-$root-font-family: "Skolar PE", Georgia, serif;
+$root-font-family: "Skolar PE", "Times New Roman", serif;
 $root-font-size: 14px;
 $root-line-height: 1.5;
 
