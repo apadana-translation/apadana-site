@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/apadana-translation/jekyll-pandoc-multiple-formats.git
-  revision: 07355c28a662672b6715f5c0157732b2db0836b3
+  revision: 356f29024456225f6853972614333a8ac7e5775b
   branch: develop
   specs:
     jekyll-pandoc-multiple-formats (0.2.9.2)

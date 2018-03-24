@@ -134,8 +134,9 @@ markdown: pandoc
 pandoc:
   skip:
     full: true
-    posts: true
-    categories: true
+    full_collection: false
+    posts: false
+    categories: false
   bundle_permalink: 'public/links/walters_:slug.:output_ext'
   papersize: 'letterpaper'
   sheetsize: 'letterpaper'
