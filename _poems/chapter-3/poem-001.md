@@ -2,8 +2,6 @@
 title: Sāriputta
 order: 1
 category: chapter-3
-published: true
-date: '2017-11-03 11:40 -0700'
 ---
 
 # The Legends of the Theras
