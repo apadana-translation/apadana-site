@@ -3,7 +3,7 @@
   font-feature-settings: "lnum";
 
   h5 {
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.5rem;
     font-size: inherit;
   }
 
@@ -22,6 +22,7 @@
     position: relative;
     flex: 0 0 $poem-meta-large-width;
     width: $poem-meta-large-width;
+    z-index: 1;
 
     .meta-inner {
       position: fixed;
@@ -41,7 +42,6 @@
 }
 
 .meta {
-
   &__audio,
   &__pagination,
   &__progress {

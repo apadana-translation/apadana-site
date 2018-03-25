@@ -12,4 +12,5 @@
 //= require share
 //= require meta-scroll
 //= require audio-player
+//= require modal
 //= require to-top
