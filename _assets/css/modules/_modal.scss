@@ -47,7 +47,7 @@
 body[modal-state="is-open"] {
   // overflow-y: hidden;
 
-  .header--poem {
+  .header--poem, .mobile-nav {
     z-index: 0;
   }
 }

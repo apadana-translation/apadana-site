@@ -10,10 +10,10 @@
 
     <div class="content" id="content">
       {% include poem__header.html %}
+      {% include mobile.html %}
       <main role="main" id="poem">
         <div class="container flex">
           {% include poem__meta.html %}
-          {% include poem__mobile-pagination.html %}
           <article class="poem" itemscope itemtype="http://schema.org/Article">
             <meta itemprop="name" content="{{ page.title }}">
             <div class="poem__content" itemprop="articleBody">
@@ -24,6 +24,7 @@
             </span>
             {% if page.date %}<meta itemprop="dateModified" content="{{ page.date }}">{% endif %}
           </article>
+          {% include modal--feedback.html %}
         </div>
       </main>
       {% include site__footer.html %}
