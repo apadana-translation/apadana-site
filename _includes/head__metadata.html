@@ -11,12 +11,12 @@
 {% endif %}
 
 <title>{% if page.title == "Home" %}{{ site.title }}{% else %}{{ chapter }}{{ page.title }} &middot; {{ site.title }}{% endif %}</title>
-<meta name="description" content="{% if desc %}{{ desc }}{% else if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta name="description" content="{% if desc %}{{ desc }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:site_name" content="{{ site.title }}">
 {% if page.title %}
   <meta property="og:title" content="{{ chapter }}{{ page.title }}">
   <meta property="og:type" content="article">
-  <meta property="og:description" content="{% if desc %}{{ desc }}{% else if %}{{ page.excerpt | strip_html }}{% endif %}"/>
+  <meta property="og:description" content="{% if desc %}{{ desc }}{% elsif page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"/>
 {% else %}
   <meta property="og:title" content="{{ site.title }}">
   <meta property="og:type" content="website">
