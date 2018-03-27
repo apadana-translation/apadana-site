@@ -1,0 +1,37 @@
+# Only overrides to _config.yml are required
+# Usage: `bundle exec jekyll serve --config "_config.yml,_config_dev.yml"`
+
+# Basic setup
+url:                 http://127.0.0.1:4000
+
+# Jekyll configuration
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - Capfile
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - bower.json
+  - s3_website.yml
+  # skip most poems for faster dev builds
+  - _poems/chapter-3
+  - _poems/chapter-4
+
+# Plugin: Jekyll Pandoc Multiple Formats
+pandoc:
+  skip:
+    full: true
+    full_collection: true
+    posts: true
+    categories: true
