@@ -32,16 +32,9 @@ body {
   color: $body-color;
   background-color: $body-bg;
   font-feature-settings: "onum" 1;
+  @include font-variant('numeric', 'oldstyle-nums');
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
-}
-
-@supports (font-variant-numeric: oldstyle-nums) {
-
-  body {
-    font-feature-settings: normal;
-    font-variant-numeric: oldstyle-nums;
-  }
 }
 
 a {

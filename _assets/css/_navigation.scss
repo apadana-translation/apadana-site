@@ -502,6 +502,7 @@
     width: 100%;
     font-family: $root-font-family;
     font-feature-settings: "lnum";
+    @include font-variant('numeric', 'lining-numbers');
 
     @include breakpoint($large) {
       float: left;
@@ -550,14 +551,6 @@
         }
       }
     }
-  }
-}
-
-@supports (font-variant-numeric: lining-nums) {
-
-  .nav--toc {
-    font-feature-settings: normal;
-    font-variant-numeric: lining-nums;
   }
 }
 

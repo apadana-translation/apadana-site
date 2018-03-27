@@ -84,3 +84,22 @@
         }
     }
 }
+
+// =====================================================
+// Font-Variant: safely and simply add OpenType font-variant
+// CSS properties with @supports
+// @author Dana Johnson <dana@sloopcreative.com>
+// Usage: h1 { @include font-variant(property-1, property-2); }
+// Don't forget to provide a fallback with `font-feature-settings`
+// =====================================================
+
+@mixin font-variant($property, $attribute) {
+
+  @supports (font-variant-#{$property}: #{$attribute}) {
+
+    & {
+      font-feature-settings: normal;
+      font-variant-#{$property}: #{$attribute};
+    }
+  }
+}

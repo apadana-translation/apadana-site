@@ -26,22 +26,8 @@ h3 {
   font-size: 1.1rem;
   font-weight: normal;
   font-feature-settings: "c2sc", "smcp", "lnum";
-}
-
-@supports (font-variant-caps: small-caps) {
-
-  h3 {
-    font-feature-settings: normal;
-    font-variant-caps: small-caps;
-  }
-}
-
-@supports (font-variant-numeric: lining-nums) {
-
-  h3 {
-    font-feature-settings: normal;
-    font-variant-numeric: lining-nums;
-  }
+  @include font-variant('caps', 'all-small-caps');
+  @include font-variant('numeric', 'lining-numbers');
 }
 
 h4 {
@@ -86,8 +72,9 @@ hr {
 }
 
 abbr {
-  font-variant-caps: small-caps;
-  font-feature-settings: "c2sc", "smcp";
+  font-feature-settings: "c2sc", "smcp", "lnum";
+  @include font-variant('caps', 'all-small-caps');
+  @include font-variant('numeric', 'lining-numbers');
 
   &[title] {
     cursor: help;

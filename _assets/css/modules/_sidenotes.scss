@@ -26,38 +26,20 @@
 
 // Note number within body text
 a[href^="#sn"] {
+  vertical-align: baseline;
+  font-size: inherit;
   font-feature-settings: "sups" 1;
-}
-
-@supports (font-variant-position: super) {
-  a[href^="#sn"] {
-    font-feature-settings: normal;
-    font-variant-position: super;
-  }
-}
-
-@supports ((font-variant-position: super) or (font-feature-settings: "sups" 1)) {
-  a[href^="#sn"] {
-    vertical-align: baseline;
-    font-size: inherit;
-  }
+  @include font-variant('position', 'super');
 }
 
 .ref-mark {
   float: left;
   margin-right: 0.4em;
   font-feature-settings: "lnum";
+  @include font-variant('numeric', 'lining-numbers');
 
   &::after {
     content: "."
-  }
-}
-
-@supports (font-variant-numeric: lining-nums) {
-
-  .ref-mark {
-    font-feature-settings: normal;
-    font-variant-numeric: lining-nums;
   }
 }
 
