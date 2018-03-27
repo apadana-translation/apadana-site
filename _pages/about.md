@@ -188,11 +188,20 @@ features. We also recommend you use one of the following browsers:
 ## Feedback
 {% include feedback.md %}
 
-## Roadmap
-* Offer the ability for users to provide feedback and suggest revisions to the translation
-* Make available additional scholarly articles and information related to *Apadāna*
-* Add audio recordings of poem recitations
-* Compile a visual glossary of flora and fauna and other textual references that may be unfamiliar to the reader
+## Project Roadmap
+
+  *
+
+    ### v1.0.0 (Spring 2018)
+    * Make available additional scholarly articles and information related to *Apadāna*
+    * Add sample audio recordings of poem recitations
+    * Build visual glossary of monks and nuns, and flora and fauna, that may be unfamiliar to the reader
+
+  *
+
+    ### Future
+    * Create audio recordings of all poems
+    * Add additional glossary entries
 
 [^1]: Mary E. Lilley, ed., *The Apadāna of the Khuddaka Nikāya* (London:
     Pali Text Society, 1925 \[Part One\] and 1927 \[Part Two\]).
