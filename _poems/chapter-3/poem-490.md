@@ -2,8 +2,6 @@
 title: Sālamaṇḍapiya
 order: 490
 category: chapter-3
-published: true
-date: '2017-09-11 17:16 -0700'
 ---
 
 ### \[487. {490.}[^1] Sālamaṇḍapiya[^2]\]
