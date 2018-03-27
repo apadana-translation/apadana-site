@@ -8,7 +8,6 @@ excerpt: >-
   language. It is offered freely online and for download, motivated by a sense
   that scholars, students, Buddhists and even the general public might enjoy and
   benefit from access to this beautiful collection of ancient poetry.
-date: '2017-09-05 16:52 -0700'
 ---
 
 <p class="alert">This project is currently in beta. Your [feedback][13] is appreciated.</p>
@@ -186,11 +185,10 @@ features. We also recommend you use one of the following browsers:
 * Opera Mini
 * Android browser 2.1 or higher
 
-### Feedback
-To report a bug, or to provide other feedback, send an email to [Jonathan S.
-Walters][11] or open an issue in the [Github repository][10].
+## Feedback
+{% include feedback.md %}
 
-### Roadmap
+## Roadmap
 * Offer the ability for users to provide feedback and suggest revisions to the translation
 * Make available additional scholarly articles and information related to *Apadāna*
 * Add audio recordings of poem recitations
