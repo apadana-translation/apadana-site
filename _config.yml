@@ -120,6 +120,7 @@ prose:
 assets:
   sources:
     - _assets/bower
+    - _assets/covers
 
 # Plugin: Jekyll Scholar
 scholar:
