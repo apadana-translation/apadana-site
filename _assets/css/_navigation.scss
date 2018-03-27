@@ -321,52 +321,25 @@
 // Poem Navigation
 // ===================================
 .menu {
-  display: none;
-
-  + label {
-    cursor: pointer;
-    display: block;
-    padding: 1em;
-    user-select: none;
-
-    &:hover, &:focus {
-      color: palette(highlight);
-    }
-  }
-
-  &:checked + label {
-    color: palette(highlight);
-  }
+  @extend %radio-for-dropdown--dark;
 }
 
 .tab-group {
-  display: flex;
-  flex-wrap: wrap;
-  position: absolute;
-  opacity: 0;
-  left: 0;
-  width: 100%;
+  @extend %dropdown;
   color: palette(dark);
   background-color: palette(light);
-  z-index: -1;
-  transform: translateY(-100%);
-  transition: transform 0.3s ease;
 
   &[data-tab=on] {
-    position: relative;
-    opacity: 1;
-    top: 0;
+    @extend %dropdown-is-open;
     box-shadow: 0 0px 5px 0px rgba(50,43,26,0.30);
-    transform: translateY(0px);
     z-index: 100;
   }
 
   @include breakpoint($large) {
     position: relative;
-    opacity: 1;
     top: 0;
     transform: translateY(0px);
-    z-index: 100;
+    opacity: 1;
 
     &#tabGroupNavigation {
       order: -1;
@@ -380,48 +353,18 @@
 }
 
 .tab {
-  display: none;
+  @extend %radio-for-dropdown--light;
 
   $max-tab-count: 4;
-
   @for $i from 1 through $max-tab-count {
 
     &:checked:nth-of-type(#{$i}) ~ .tab__content:nth-of-type(#{$i}) {
-      position: relative;
-      top: 0;
-      transform: translateY(0px);
+      @extend %dropdown-is-open;
 
       @include breakpoint($large) {
         position: absolute;
         top: $header-height;
       }
-    }
-  }
-
-  &:checked + label {
-    color: palette(light);
-    background-color: palette(highlight);
-  }
-
-  + label {
-    cursor: pointer;
-    display: block;
-    width: 25%;
-    padding: 1em;
-    color: palette(dark);
-    background-color: palette(light);
-    text-align: center;
-    user-select: none;
-
-    &:hover, &:focus {
-      color: palette(light);
-      background-color: palette(highlight);
-    }
-
-    @include breakpoint($large) {
-      flex: 1;
-      color: palette(light);
-      background-color: palette(dark);
     }
   }
 
@@ -436,20 +379,13 @@
   }
 
   &__content {
-    display: flex;
+    @extend %dropdown;
     flex-direction: column;
-    flex-wrap: wrap;
     align-items: baseline;
-    position: absolute;
-    left: 0;
-    width: 100%;
-    transform: translateY(-100%);
     padding: 1.5rem;
     background-color: white;
     border: solid palette(highlight);
     border-width: 5px 0;
-    transition: transform 0.8s ease;
-    z-index: -1;
 
     @include breakpoint($large) {
       flex-direction: row;
