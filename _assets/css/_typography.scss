@@ -27,7 +27,7 @@ h3 {
   font-weight: normal;
   font-feature-settings: "c2sc", "smcp", "lnum";
   @include font-variant('caps', 'all-small-caps');
-  @include font-variant('numeric', 'lining-numbers');
+  @include font-variant('numeric', 'lining-nums');
 }
 
 h4 {
@@ -74,7 +74,7 @@ hr {
 abbr {
   font-feature-settings: "c2sc", "smcp", "lnum";
   @include font-variant('caps', 'all-small-caps');
-  @include font-variant('numeric', 'lining-numbers');
+  @include font-variant('numeric', 'lining-nums');
 
   &[title] {
     cursor: help;

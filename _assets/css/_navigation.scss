@@ -438,7 +438,7 @@
     width: 100%;
     font-family: $root-font-family;
     font-feature-settings: "lnum";
-    @include font-variant('numeric', 'lining-numbers');
+    @include font-variant('numeric', 'lining-nums');
 
     @include breakpoint($large) {
       float: left;

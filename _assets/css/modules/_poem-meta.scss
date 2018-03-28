@@ -1,7 +1,7 @@
 .poem__meta {
   display: none;
   font-feature-settings: "lnum";
-  @include font-variant('numeric', 'lining-numbers');
+  @include font-variant('numeric', 'lining-nums');
 
   h5 {
     margin-bottom: 0.5rem;

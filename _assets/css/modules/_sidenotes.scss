@@ -36,7 +36,7 @@ a[href^="#sn"] {
   float: left;
   margin-right: 0.4em;
   font-feature-settings: "lnum";
-  @include font-variant('numeric', 'lining-numbers');
+  @include font-variant('numeric', 'lining-nums');
 
   &::after {
     content: "."
