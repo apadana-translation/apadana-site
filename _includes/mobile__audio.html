@@ -1,0 +1,25 @@
+{% if page.audio %}
+{% assign file = page.audio %}
+
+<input type="checkbox" id="mobile-nav-audio" name="tabAudio" class="mobile-nav__tab">
+<label for="mobile-nav-audio" class="" aria-label="View Mobile Audio Player">
+  <svg class="icon-mic"><use xlink:href="#icon-mic"></use></svg>
+  Listen to Audio
+</label>
+<section id="tab-audio" class="audio-player audio-player--mobile mobile-nav__tab__content">
+  <a id="audio-control" href="#" class="audio-player__playback audio-control">
+    <svg class="icon-play"><use xlink:href="#icon-play"></use></svg>
+    <svg class="icon-pause"><use xlink:href="#icon-pause"></use></svg>
+  </a>
+  <div id="audio-timeline" class="audio-player__timeline">
+    <div id="audio-playhead" class="audio-player__playhead"></div>
+  </div>
+  <div id="audio-duration"></div>
+  <a id="audio-rewind" class="audio-rewind" href="#" title="Rewind audio 10 seconds" aria-label="Rewind audio 10 seconds">
+    <svg class="icon-rewind"><use xlink:href="#icon-rewind"></use></svg>
+  </a>
+  <a href="{{ site.baseurl }}/public/audio/{{ file }}" download="walters_{{ site.title | slugify }}_{{ file }}" title="Download MP3 of Poem Recitation" target="_blank" aria-label="Download MP3 of Poem Recitation">
+    <svg class="icon-download"><use xlink:href="#icon-download"></use></svg>
+  </a>
+</section>
+{% endif %}

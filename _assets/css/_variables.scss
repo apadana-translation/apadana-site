@@ -144,3 +144,15 @@ $small-only: 0 $medium;
   top: 0;
   transform: translateY(0px);
 }
+
+%dropup {
+  @extend %dropdown;
+  transform: translateY(100%);
+}
+
+%dropup-is-open {
+  opacity: 1;
+  position: absolute;
+  bottom: 100%;
+  transform: translateY(0px);
+}

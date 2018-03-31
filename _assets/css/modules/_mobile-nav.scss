@@ -17,17 +17,31 @@
     height: $header-height;
     background-color: white;
 
-    & > a {
+    & > a, & > label {
       @extend %link-with-hover-highlight;
       flex: 1;
       width: 100%;
       height: 100%;
       padding: 1rem;
+      background-color: white;
 
       &:hover, &:focus {
         color: palette(light);
         background-color: palette(highlight);
       }
+    }
+  }
+
+  &__tab {
+    @extend %radio-for-dropdown--light;
+
+    &__content {
+      @extend %dropup;
+      background-color: white;
+    }
+
+    &:checked ~ .mobile-nav__tab__content {
+      @extend %dropup-is-open;
     }
   }
 

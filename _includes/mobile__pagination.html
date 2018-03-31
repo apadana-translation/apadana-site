@@ -31,18 +31,16 @@
   {% assign prev = links %}
 {% endfor %}
 
-<section class="mobile-nav__section">
-  {% if prevurl %}
-    <a href="{{ prevurl }}">
-      <svg class="icon-left"><use xlink:href="#icon-left"></use></svg>
-      Previous
-    </a>
-  {% endif %}
-  {% include meta__to-top.html %}
-  {% if nexturl %}
-    <a href="{{ nexturl }}">
-      Next
-      <svg class="icon-right"><use xlink:href="#icon-right"></use></svg>
-    </a>
-    {% endif %}
-</section>
+{% if prevurl %}
+<a href="{{ prevurl }}">
+  <svg class="icon-left"><use xlink:href="#icon-left"></use></svg>
+  Previous
+</a>
+{% endif %}
+{% include meta__to-top.html %}
+{% if nexturl %}
+<a href="{{ nexturl }}">
+  Next
+  <svg class="icon-right"><use xlink:href="#icon-right"></use></svg>
+</a>
+{% endif %}

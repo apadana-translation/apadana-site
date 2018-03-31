@@ -87,6 +87,7 @@
     @extend %link-with-hover-highlight;
 
     svg {
+      position: absolute;
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
@@ -105,31 +106,4 @@
   }
 }
 
-// Audio module
-audio {
-  display: none;
-}
-
-.icon-pause {
-  opacity: 0;
-}
-
-.audio-player {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-
-  &__extras {
-    display: flex;
-    flex-direction: column;
-    margin-left: 0.25rem;
-
-    a {
-      @extend %link-with-hover-highlight;
-
-      &:first-child {
-        margin-bottom: 0.75rem;
-      }
-    }
-  }
-}
+// Audio module is in 'modules/_audio.scss'

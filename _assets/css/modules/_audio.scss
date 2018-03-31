@@ -1,0 +1,78 @@
+// ===================================
+// Audio modules
+// ===================================
+
+// General
+audio {
+  display: none;
+}
+
+.icon-pause {
+  opacity: 0;
+}
+
+.audio-player {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  // mobile player (module in mobile-nav)
+  &--mobile {
+    height: $header-height;
+
+    a {
+      @extend %link-with-hover-highlight;
+    }
+
+    > * {
+      flex: 1;
+    }
+  }
+
+  // styles based on .switch toggles
+  &__timeline {
+    position: relative;
+    flex: 5;
+    width: 100%;
+    height: get($switchBar, height);
+    background-color: get($switchBar, color);
+    border-radius: (get($switchBar, height)/2);
+    box-shadow: inset 0 0 4px 0 rgba(palette(shadow), 0.2);
+  }
+
+  &__playhead {
+    position: absolute;
+    top: 50%;
+    left: get($switchToggle, width) / -2;
+    transform: translateY(-50%);
+    width: get($switchToggle, width);
+    height: get($switchToggle, height);
+    background-color: get($switchToggle, color, default);
+    border-radius: 50%;
+
+    &:hover, &:active {
+	    background-color: get($switchToggle, color, active);
+    }
+  }
+
+  &__playback {
+    @extend .progress__control;
+    position: relative;
+  }
+
+  // desktop player (module in poem__meta)
+  // circular progress styles comes from .progress (also used for reading progress)
+  &__extras {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0.25rem;
+
+    a {
+      @extend %link-with-hover-highlight;
+
+      &:first-child {
+        margin-bottom: 0.75rem;
+      }
+    }
+  }
+}
