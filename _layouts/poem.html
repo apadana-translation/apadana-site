@@ -7,6 +7,7 @@
 
     {% include analytics--noscript.html %}
     {% include svg-sprite.html %}
+    <a href="#poem-content" class="screen-reader-text">Skip to main content</a>
 
     <div class="content" id="content">
       {% include poem__header.html %}
@@ -16,7 +17,7 @@
           {% include poem__meta.html %}
           <article class="poem" itemscope itemtype="http://schema.org/Article">
             <meta itemprop="name" content="{{ page.title }}">
-            <div class="poem__content" itemprop="articleBody">
+            <div id="poem-content" class="poem__content" itemprop="articleBody">
               {{ content }}
             </div>
             <span itemprop="author" itemscope itemtype="http://schema.org/Person">
