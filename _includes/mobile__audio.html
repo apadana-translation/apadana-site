@@ -15,11 +15,13 @@
     <div id="audio-playhead" class="audio-player__playhead"></div>
   </div>
   <div id="audio-duration"></div>
-  <a id="audio-rewind" class="audio-rewind" href="#" title="Rewind audio 10 seconds" aria-label="Rewind audio 10 seconds">
+  <a id="audio-rewind" class="audio-rewind" href="#">
     <svg class="icon-rewind"><use xlink:href="#icon-rewind"></use></svg>
+    <span class="screen-reader-text">Rewind audio 10 seconds</span>
   </a>
-  <a href="{{ site.baseurl }}/public/audio/{{ file }}" download="walters_{{ site.title | slugify }}_{{ file }}" title="Download MP3 of Poem Recitation" target="_blank" aria-label="Download MP3 of Poem Recitation">
+  <a href="{{ site.baseurl }}/public/audio/{{ file }}" download="walters_{{ site.title | slugify }}_{{ file }}">
     <svg class="icon-download"><use xlink:href="#icon-download"></use></svg>
+    <span class="screen-reader-text">Download MP3 of Poem Recitation</span>
   </a>
 </section>
 {% endif %}
