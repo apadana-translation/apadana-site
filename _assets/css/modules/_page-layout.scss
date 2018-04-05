@@ -98,6 +98,8 @@
 
   > li {
     margin-bottom: 1rem;
+    page-break-inside: avoid;
+    break-inside: avoid;
   }
 }
 
