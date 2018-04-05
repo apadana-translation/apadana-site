@@ -5,14 +5,6 @@
 # url:                 http://127.0.0.1:4000
 url:                   http://staging.apadanatranslation.org
 
-# Front Matter Defaults
-defaults:
-  # No sitemap for dev
-  - scope:
-      path: ""
-    values:
-      sitemap: false
-
 # Jekyll configuration
 exclude:
   - "*.sublime-project"
