@@ -128,6 +128,9 @@ scholar:
   relative: /resources/
   repository: /public/links
   bibliography_template: bibliography
+  sort_by: author,year
+  bibtex_filters:
+    - stripurls
 
 # Plugin: Jekyll Pandoc Multiple Formats
 markdown: pandoc
