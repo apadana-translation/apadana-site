@@ -17,20 +17,11 @@ function addToggleTags() {
   // Add <span> tag around all square brackets, preserve text inside
   // https://stackoverflow.com/questions/17750648/add-span-to-specific-words
   var brackets = /(\[)([a-zA-Z\s_.,;!“”‘’]+)(\])/g;
-  $("#poem").html(function(_,html){
-      return html.replace(brackets, '<span class="bracket" data-state="on">$1</span>$2<span class="bracket" data-state="on">$3</span>')
-  });
   var bracketTitles = /(<h3[^>]*>)(\[)(.*?)(\])(<\/h3>)/g;
-  $("#poem").html(function(_,html){
-      return html.replace(bracketTitles, '$1<span class="bracket" data-state="on">$2</span>$3<span class="bracket" data-state="on">$4</span>$5')
-  });
 
   // Verse Numbers
   // Add <span> tag around all verse numbers (look for square or round brackets with only letters, numbers, dashes, or commas inside)
   var verseNumbers = /(\s[\(\[][a-z0-9-,\s]+[\)\]])/g;
-  $("#poem").html(function(_,html){
-      return html.replace(verseNumbers, '<span class="verse-number" data-state="on">$1</span>')
-  });
 
   // Diacritics
   // based on http://semplicewebsites.com/removing-accents-javascript
@@ -64,42 +55,46 @@ function addToggleTags() {
   };
   var diacriticsKeys = Object.keys(diacriticsMap).join('|');
   var diacritics = new RegExp('\(' + diacriticsKeys + '\)(?!([^<]+)?>)', 'g');
-  $("#poem").html(function(_,html){
-    return html.replace(diacritics, function($1, match, key) {
+
+  $("#poem").html(function(_,html) {
+    html = html.replace(brackets, '<span class="bracket" data-state="on">$1</span>$2<span class="bracket" data-state="on">$3</span>');
+    html = html.replace(bracketTitles, '$1<span class="bracket" data-state="on">$2</span>$3<span class="bracket" data-state="on">$4</span>$5');
+    html = html.replace(verseNumbers, '<span class="verse-number" data-state="on">$1</span>');
+    html = html.replace(diacritics, function($1, match, key) {
       var key = $1,
           swap = diacriticsMap[key] || match;
       var string = '<span class="diacritics" data-state="on">' + key + '</span><span class="no-diacritics" data-state="off">' + swap + '</span>';
       return string;
     });
+    return html;
   });
 
   // ===================================
   // Toggle Events
   // ===================================
-  // 1) Sidenotes
+
+  // Toggles
   var toggleNotes = document.querySelector('#toggle--notes');
-  var elemNotes = ['aside.sidenote', 'a.footnoteRef'];
-  toggle(toggleNotes, elemNotes, 'on', 'off');
-
-  // 2) Brackets
   var toggleBrackets = document.querySelector('#toggle--brackets');
-  var elemBrackets = 'span.bracket';
-  toggle(toggleBrackets, elemBrackets, 'on', 'off');
-
-  // 3) Verse Numbers
   var toggleVerseNumbers = document.querySelector('#toggle--verse-numbers');
-  var elemVerseNumbers = 'span.verse-number';
-  toggle(toggleVerseNumbers, elemVerseNumbers, 'on', 'off');
-
-  // 4) Diacritics
   var toggleDiacritics = document.querySelector('#toggle--diacritics');
+  var toggleAll = document.querySelectorAll('.switch');
+
+  // Toggle elements
+  var elemNotes = ['aside.sidenote', 'a.footnoteRef'];
+  var elemBrackets = 'span.bracket';
+  var elemVerseNumbers = 'span.verse-number';
   var elemDiacritics = 'span.diacritics';
   var elemNoDiacritics = 'span.no-diacritics';
+
+  // Fire toggles
+  toggle(toggleNotes, elemNotes, 'on', 'off');
+  toggle(toggleBrackets, elemBrackets, 'on', 'off');
+  toggle(toggleVerseNumbers, elemVerseNumbers, 'on', 'off');
   toggle(toggleDiacritics, elemNoDiacritics, 'off', 'on');
   toggle(toggleDiacritics, elemDiacritics, 'on', 'off');
 
   // 5) Toggle all
-  var toggleAll = document.querySelectorAll('.switch');
   var toggleAllInputs = $(toggleAll).children(':checkbox');
   $(toggleAll[0]).on('mouseover mouseout', function(e) {
     $(toggleAll).not(":eq(0)").trigger(e.type);
