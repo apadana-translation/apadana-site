@@ -35,13 +35,45 @@
   &__tab {
     @extend %radio-for-dropdown--light;
 
+    &--secondary {
+
+      + label {
+        padding: 0;
+        background-color: white;
+
+        &:hover {
+          color: palette(highlight);
+          background-color: inherit;
+        }
+      }
+
+      &:checked + label {
+        color: palette(highlight);
+        background-color: inherit;
+      }
+    }
+
     &__content {
       @extend %dropup;
       background-color: white;
+
+      label {
+        font-style: oblique;
+      }
     }
 
     &:checked ~ .mobile-nav__tab__content {
       @extend %dropup-is-open;
+    }
+
+    &--audio-info {
+      display: block;
+      padding: 1em 1em 0;
+      text-align: left;
+
+      span {
+        display: block;
+      }
     }
   }
 

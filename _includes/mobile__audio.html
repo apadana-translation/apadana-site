@@ -1,8 +1,8 @@
 {% if page.audio %}
-{% assign file = page.audio %}
+{% assign file = page.audio.file %}
 
 <input type="checkbox" id="mobile-nav-audio" name="tabAudio" class="mobile-nav__tab">
-<label for="mobile-nav-audio" class="" aria-label="View Mobile Audio Player">
+<label for="mobile-nav-audio" aria-label="View Mobile Audio Player">
   <svg class="icon-mic"><use xlink:href="#icon-mic"></use></svg>
   Listen to Audio
 </label>
@@ -21,7 +21,15 @@
   </a>
   <a href="{{ site.baseurl }}/public/audio/{{ file }}" download="walters_{{ site.title | slugify }}_{{ file }}">
     <svg class="icon-download"><use xlink:href="#icon-download"></use></svg>
-    <span class="screen-reader-text">Download MP3 of Poem Recitation</span>
+    <span class="screen-reader-text">Download MP3 of poem recitation</span>
   </a>
+  <input type="checkbox" id="mobile-audio-info" name="audio-info" class="mobile-nav__tab mobile-nav__tab--secondary">
+  <label for="mobile-audio-info" title="Audio info" aria-label="View information about this audio track">
+    <svg class="icon-info"><use xlink:href="#icon-info-circled"></use></svg>
+    <span class="tab__title">Audio information</span>
+  </label>
+  <section class="mobile-nav__tab__content mobile-nav__tab--audio-info">
+    {% include audio-info.html %}
+  </section>
 </section>
 {% endif %}

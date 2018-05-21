@@ -14,6 +14,7 @@ audio {
 .audio-player {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   align-items: center;
 
   // mobile player (module in mobile-nav)
@@ -70,9 +71,50 @@ audio {
     a {
       @extend %link-with-hover-highlight;
 
-      &:first-child {
-        margin-bottom: 0.75rem;
+      & + a {
+        margin-top: 0.5rem;
       }
+    }
+  }
+
+  &__info {
+    position: relative;
+
+    input {
+      @extend %radio-for-dropdown;
+
+      & + label {
+        padding: 0;
+        color: palette(highlight);
+        text-align: inherit;
+      }
+
+      &:checked ~ .audio-player__info__content {
+        @extend %dropdown-is-open;
+      }
+    }
+
+    svg {
+      width: 1rem;
+      height: 1rem;
+    }
+
+    &__content {
+      @extend %dropdown;
+      margin-top: 0.5rem;
+
+      span {
+        display: block;
+
+        & + span {
+          margin-top: 0.5rem;
+        }
+      }
+    }
+
+    label {
+      display: block;
+      font-style: oblique;
     }
   }
 }

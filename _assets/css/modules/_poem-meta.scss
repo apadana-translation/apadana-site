@@ -1,9 +1,7 @@
 .poem__meta {
   display: none;
-  font-feature-settings: "lnum";
-  @include font-variant('numeric', 'lining-nums');
 
-  h5 {
+  h5, h6 {
     margin-bottom: 0.5rem;
     font-size: inherit;
   }
@@ -77,10 +75,12 @@
     left: 0;
     width: 100%;
     height: 100%;
+    color: palette(dark);
     text-align: center;
     line-height: 100px;
-    color: palette(dark);
     font-style: italic;
+    font-feature-settings: "lnum";
+    @include font-variant('numeric', 'tabular-nums lining-nums');
   }
 
   &__control {

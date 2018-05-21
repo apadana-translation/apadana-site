@@ -1,9 +1,10 @@
-{% if page.audio %}
-  {% assign file = page.audio %}
+{% if page.audio.file %}
+  {% assign chapter = page.category %}
+  {% assign file = page.audio.file %}
   <section class="meta__audio">
     <h5>Listen to Poem:</h5>
     <audio id="html5-audio" ontimeupdate="audioProgress()" preload="auto" controls>
-      <source src="{{ site.baseurl }}/public/audio/{{ file }}" type="audio/mpeg">
+      <source src="{{ site.baseurl }}/public/audio/{{ chapter }}/{{ file }}" type="audio/mpeg">
       Your browser does not support this feature.
     </audio>
     <div class="audio-player">
@@ -24,8 +25,18 @@
         </a>
         <a href="{{ site.baseurl }}/public/audio/{{ file }}" download="walters_{{ site.title | slugify }}_{{ file }}">
           <svg class="icon-download"><use xlink:href="#icon-download"></use></svg>
-          <span class="screen-reader-text">Download MP3 of Poem Recitation</span>
+          <span class="screen-reader-text">Download MP3 of poem recitation</span>
         </a>
+      </div>
+      <div class="audio-player__info">
+        <input type="checkbox" id="audio-info" name="audio-info">
+        <label for="audio-info" title="Audio info" aria-label="View information about this audio track">
+          <svg class="icon-info"><use xlink:href="#icon-info-circled"></use></svg>
+          <span class="tab__title">Audio information</span>
+        </label>
+        <div class="audio-player__info__content">
+          {% include audio-info.html %}
+        </div>
       </div>
     </div>
   </section>
