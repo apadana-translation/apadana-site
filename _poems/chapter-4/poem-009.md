@@ -2,6 +2,14 @@
 title: Pañcadīpikā
 order: 9
 category: chapter-4
+audio:
+  file: poem-009.mp3
+  reciter:
+    name: Claire Floyd-Lapp
+    title: Whitman student
+    grad_year: 2018
+  date: April 27, 2018
+  location: Whitman College
 ---
 
 ### \[9. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpikā[^1]\]

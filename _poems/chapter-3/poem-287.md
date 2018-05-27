@@ -2,6 +2,13 @@
 title: Apadāniya
 order: 287
 category: chapter-3
+audio:
+  file: poem-287.mp3
+  reciter:
+    name: Jonathan S. Walters
+    title: Professor of Religion
+  date: April 27, 2018
+  location: Whitman College
 ---
 
 ### \[287. Apadāniya[^1]\]

@@ -2,6 +2,14 @@
 title: Mogharāja
 order: 35
 category: chapter-3
+audio:
+  file: poem-035.mp3
+  reciter:
+    name: Serina Vue
+    title: Whitman student
+    grad_year: 2020
+  date: April 27, 2018
+  location: Whitman College
 ---
 
 ### \[35. Mogharāja\]

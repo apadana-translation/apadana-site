@@ -2,6 +2,14 @@
 title: Ānanda
 order: 10
 category: chapter-3
+audio:
+  file: poem-010.mp3
+  reciter:
+    name: David Mah
+    title: Whitman student
+    grad_year: 2018
+  date: April 27, 2018
+  location: Whitman College
 ---
 
 ### \[10. Ānanda\]
