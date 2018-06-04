@@ -1,6 +1,6 @@
 s3_id: <%= ENV['S3_ACCESS_KEY_ID'] %>
 s3_secret: <%= ENV['S3_SECRET_KEY'] %>
-s3_bucket: beta.apadanatranslation.org
+s3_bucket: apadanatranslation.org
 
 site: _site/
 
@@ -22,10 +22,10 @@ cloudfront_distribution_id: <%= ENV['CLOUDFRONT_DISTRIBUTION_ID'] %>
 
 cloudfront_distribution_config:
   default_cache_behavior:
-    min_TTL: <%= 60 * 60 * 24 %>
+    min_ttl: <%= 60 * 60 * 24 %>
   aliases:
     quantity: 1
     items:
-      CNAME: beta.apadanatranslation.com
+      - apadanatranslation.org
 
 cloudfront_wildcard_invalidation: true

@@ -8,7 +8,7 @@ permalink: /
 <div class="hero__content">
 # {{ site.title }}{.site-title}
 ## {{ site.subtitle }}{.subtitle}
-### Translated by Jonathan S. Walters<br/>Whitman College, 2017
+### Translated by Jonathan S. Walters<br/>Whitman College
 [Read Online](/text/){.button}
 [Download](/text/download/){.button}
 </div>

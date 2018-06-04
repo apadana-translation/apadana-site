@@ -6,7 +6,7 @@ title:               "Legends of the Buddhist Saints"
 subtitle:            "Apadānapāli"
 description:         "A web-based interface for reading the first-ever complete English translation of
                       Apadāna. Translated by Dr. Jonathan S. Walters, Whitman College, 2017."
-url:                 http://beta.apadanatranslation.org
+url:                 http://apadanatranslation.org
 baseurl:             ''
 repository:          https://github.com/apadana-translation/apadana-site
 analytics_id:        UA-106314911-1
@@ -15,8 +15,8 @@ typekit:             fus2jit
 
 # About/contact
 author:
-  name:              Sloop Creative
-  url:               http://www.sloopcreative.com
+  name:              Dana Johnson
+  url:               http://danajohnson.co
   email:             dana@sloopcreative.com
 
 # Collections
@@ -64,7 +64,7 @@ defaults:
       layout: page
 
 # Custom vars
-version:             1.0.0-beta
+version:             1.0.0
 
 # Jekyll configuration
 keep_files:

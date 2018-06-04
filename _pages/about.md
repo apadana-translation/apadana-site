@@ -10,11 +10,9 @@ excerpt: >-
   benefit from access to this beautiful collection of ancient poetry.
 ---
 
-<p class="alert">This project is currently in beta. Your [feedback][13] is appreciated.</p>
-
 ## The Translation
-<p class="lead">This is the first-ever complete translation of *Apadāna* into a Western
-language. It has been a daunting undertaking, traversing the
+<p class="lead">This is the first-ever complete translation of *Apadāna* into a
+Western language. It has been a daunting undertaking, traversing the
 translator’s entire professional career, yet it admittedly remains an
 imperfect work in progress. Motivated by a sense that scholars,
 students, Buddhists and even the general public might enjoy and benefit
@@ -75,8 +73,8 @@ especially those who use the translation (as they should) merely as a
 “pony” for reading the original Pāli. But this scholarly apparatus
 nevertheless further encumbers the presentation of the translation to
 those who, conversely, wish to read it, or (as they should) recite it,
-for the pleasure of the text itself. With the able assistance of Dana
-Johnson at [Sloop Creative][1], the translator has attempted to redress this
+for the pleasure of the text itself. With the able assistance of
+[Dana Johnson][1], the translator has attempted to redress this
 problem by making these various aspects of the scholarly apparatus
 toggle-able. Those who want to track individual poems or verses in the
 original Pāli, or who want to consider variant readings, or who want to
@@ -148,27 +146,21 @@ illustrate the many types of trees, uniquely Indian architectural features, and
 so forth which are referred to throughout the text.
 
 ## The Website
-### Design Notes
-The site was designed and built by Dana Johnson of [Sloop Creative][1].
+### Technical Notes
+This site was designed and built by [Dana Johnson][1].
 
 The type is set in [Rosetta Type Foundry][2]’s [Skolar][3], designed by David
 Březina, and [Skolar Sans][4], designed by David Březina and Sláva Jevčinová.
 
-### Development Notes
-A decision was made at the outset of the project to encode the translation in
-Markdown. [Markdown][5] is a syntax for plain text format that provides a
-limited number of markup features (hence the name “Mark*down*”), including
-headings, lists, hyperlinks, and footnotes. We considered other possibilities,
-most significantly [<abbr>TEI</abbr>][6] <abbr>XML</abbr>, which could provide
-much more robust, scholarly markup. However, a priority of this project was to
-configure the translation as a single repository that could be a) managed with a
-minimal learning curve, and b) output automatically into numerous formats.
-Because it is stored in a plain-text format, Markdown offers tremendous
-flexibility for distribution, not to mention durability.[^3]
+The poems and other pages on the site are encoded in [Markdown][5], a minimal
+plain-text syntax that offers durability and flexibility for distribution.[^3]
+We use [Jekyll][6] to generate the website and [Pandoc][7] to convert the
+text files to <abbr>HTML</abbr>, ePub, and <abbr>PDF</abbr>. The codebase for
+the site is available in a [public repository][10] on GitHub.[^4]
 
-We use [Jekyll][7] to generate the Website and [Pandoc][8] to convert the
-Markdown to <abbr>HTML</abbr>, ePub, and <abbr>PDF</abbr>. The codebase for the
-site can be found in a [public repository][10] on GitHub.
+### License
+The text of the translation and the site’s code are made freely available to
+others to adapt and remix with attribution under a [CC-BY-NC-SA license][8].
 
 ### Browser Requirements
 This site has been designed to work across a range of devices and browsers. The
@@ -192,16 +184,12 @@ features. We also recommend you use one of the following browsers:
 
   *
 
-    ### v1.0.0 (Spring 2018)
-    * Make available additional scholarly articles and information related to *Apadāna*
-    * Add sample audio recordings of poem recitations
-    * Build visual glossary of monks and nuns, and flora and fauna, that may be unfamiliar to the reader
-
-  *
-
-    ### Future
-    * Create audio recordings of all poems
-    * Add additional glossary entries
+    ### v1.1.0 (Spring/Summer 2018)
+    * Build visual glossary of monks and nuns, and flora and fauna, that may be
+      unfamiliar to the reader
+    * Add additional audio recordings of poem recitations
+    * Make available additional scholarly articles and information related to
+      *Apadāna*
 
 [^1]: Mary E. Lilley, ed., *The Apadāna of the Khuddaka Nikāya* (London:
     Pali Text Society, 1925 \[Part One\] and 1927 \[Part Two\]).
@@ -216,21 +204,23 @@ features. We also recommend you use one of the following browsers:
     Volume Two* (Democratic Socialist Republican Government of Sri Lanka
     Press, 1983).
 
-[^3]: Markdown has found widespread adoption across the Web, including by
-scholars. For an excellent technical and philosophical introduction, see Dennis
+[^3]: For an excellent technical and philosophical introduction, see Dennis
 Tenen and Grant Wythoff, [“Sustainable Authorship in Plain Text using Pandoc and
 Markdown”][12], *The Programming Historian*.
 
-[1]: {{ site.author.url }} "{{ site.author.name }}"
+[^4]: A detailed write-up about how this site was conceptualized and developed
+can be found on the developer’s
+[personal website](http://danajohnson.co/projects/apadana/).
+
+[1]: {{ site.author.url }}
 [2]: https://www.rosettatype.com/ "Rosetta Type"
 [3]: https://www.rosettatype.com/Skolar "Skolar"
 [4]: https://www.rosettatype.com/SkolarSans "Skolar Sans"
 [5]: https://daringfireball.net/projects/markdown/syntax "Markdown"
-[6]: http://www.tei-c.org/index.xml "Text Encoding Intiative"
-[7]: https://jekyllrb.com/ "Jekyll"
-[8]: http://pandoc.org/index.html "Pandoc"
+[6]: https://jekyllrb.com/ "Jekyll"
+[7]: http://pandoc.org/index.html "Pandoc"
+[8]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [9]: https://www.whitman.edu/ "Whitman College"
 [10]: {{ site.repository }} "View Project on Github"
 [11]: mailto:walterjs@whitman.edu
 [12]: https://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
-[13]: #feedback
