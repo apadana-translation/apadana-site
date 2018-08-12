@@ -7,7 +7,7 @@ gem 'mini_magick'
 gem 'image_optim'
 gem 'sprockets', '~> 3.7'
 
-gem 'jekyll', '~> 3.6.0'
+gem 'jekyll', '~> 3.7.0'
 
 gem 'jekyll-assets', group: :jekyll_plugins
 gem 'jekyll-sitemap', group: :jekyll_plugins
