@@ -148,7 +148,8 @@ pandoc:
   covers_dir: '_assets/covers'
   flags: ''
   outputs:
-    epub: '-V --epub-chapter-level=1'
+    epub: '-V --epub-chapter-level=1
+          --epub-metadata=_layouts/epub-metadata.xml'
     pdf: '-V fontsize=12pt,twoside
           -V documentclass=article
           -V geometry=hcentering
