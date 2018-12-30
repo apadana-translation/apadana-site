@@ -103,3 +103,15 @@
     }
   }
 }
+
+@mixin breakpoint($min-width, $max-width: null) {
+  @if ($max-width) {
+    @media all and (min-width: $min-width) and (max-width: $max-width) {
+      @content;
+    }
+  } @else {
+    @media all and (min-width: $min-width) {
+      @content;
+    }
+  }
+}
