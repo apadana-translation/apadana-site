@@ -1,5 +1,3 @@
-require "breakpoint"
-
 # If jekyll-scholar reference has a url, turn it into a link that matches self-hosted PDF link stying
 # https://github.com/inukshuk/jekyll-scholar/issues/30
 require 'uri'
