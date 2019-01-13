@@ -6,6 +6,7 @@ gem 'uglifier'
 gem 'mini_magick'
 gem 'image_optim'
 gem 'sprockets', '~> 3.7'
+gem 'unicode_utils'
 
 gem 'jekyll', '~> 3.7.0'
 
