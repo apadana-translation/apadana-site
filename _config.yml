@@ -157,6 +157,6 @@ pandoc:
           -V geometry=tmargin=1.2in
           -V geometry=bmargin=1in
           -V links-as-notes=true
-          --latex-engine=xelatex
+          --pdf-engine=xelatex
           --include-in-header=_layouts/pdf-header.tex
           --include-before-body=_layouts/pdf-frontmatter.tex'
