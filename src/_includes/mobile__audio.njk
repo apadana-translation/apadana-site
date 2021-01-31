@@ -1,0 +1,36 @@
+{% if page.audio %}
+  {% set chapter = page.category %}
+  {% set file = page.audio.file %}
+
+  <input type="checkbox" id="mobile-nav-audio" name="tabAudio" class="mobile-nav__tab">
+  <label for="mobile-nav-audio" aria-label="View Mobile Audio Player">
+    <svg width="20" height="20" class="icon-mic"><use xlink:href="#icon-mic"></use></svg>
+    Listen to Audio
+  </label>
+  <section id="tab-audio" class="audio-player audio-player--mobile mobile-nav__tab__content">
+    <a id="audio-control" href="#" class="audio-player__playback audio-control">
+      <svg width="20" height="20" class="icon-play"><use xlink:href="#icon-play"></use></svg>
+      <svg width="20" height="20" class="icon-pause"><use xlink:href="#icon-pause"></use></svg>
+    </a>
+    <div id="audio-timeline" class="audio-player__timeline">
+      <div id="audio-playhead" class="audio-player__playhead"></div>
+    </div>
+    <div id="audio-duration"></div>
+    <a id="audio-rewind" class="audio-rewind" href="#">
+      <svg width="20" height="20" class="icon-rewind"><use xlink:href="#icon-rewind"></use></svg>
+      <span class="screen-reader-text">Rewind audio 10 seconds</span>
+    </a>
+    <a href="{{ site.baseurl }}/public/audio/{{ chapter }}/{{ file }}" download="walters_{{ site.title | slugify }}_{{ chapter }}_{{ file }}">
+      <svg width="20" height="20" class="icon-download"><use xlink:href="#icon-download"></use></svg>
+      <span class="screen-reader-text">Download MP3 of poem recitation</span>
+    </a>
+    <input type="checkbox" id="mobile-audio-info" name="audio-info" class="mobile-nav__tab mobile-nav__tab--secondary">
+    <label for="mobile-audio-info" title="Audio info" aria-label="View information about this audio track">
+      <svg width="20" height="20" class="icon-info"><use xlink:href="#icon-info-circled"></use></svg>
+      <span class="tab__title">Audio information</span>
+    </label>
+    <section class="mobile-nav__tab__content mobile-nav__tab--audio-info">
+      {% include 'audio-info.njk' %}
+    </section>
+  </section>
+{% endif %}
