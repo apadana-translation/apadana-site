@@ -1,0 +1,9 @@
+{# Poem title (and chapter title if appropriate) #} 
+{% for category in page.categories %}
+  {% if category contains "3" or category contains "4" %}
+    {% set chapter = site.data.categories[category] %}
+    <h5 class="header__title"><strong>{{ chapter.name }} /</strong> {{ page.order | default: "1" | append: ". " }}{{ page.title | truncate: 35 }}</h5>
+  {% else %}
+    <h5 class="header__title"><strong>{{ page.title }}</strong></h5>
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include 'head.njk' %}
+
+  <body>
+
+    {% include 'analytics--noscript.njk' %}
+    {% include 'svg-sprite.njk' %}
+
+    <div class="content">
+      {% include 'site__header.njk' %}
+      <main role="main">
+        <div class="container">
+          {{ content | safe }}
+        </div>
+      </main>
+      {% include 'site__footer.njk' %}
+    </div>
+
+    {# % asset main.js async % #}
+
+  </body>
+</html>
