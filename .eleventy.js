@@ -26,6 +26,9 @@ module.exports = function (eleventyConfig) {
   
   eleventyConfig.setLibrary("md", markdownLib);
 
+  // Pass-through to dist
+  eleventyConfig.addPassthroughCopy("admin");
+
   return {
     dir: {
       input: "./src",
