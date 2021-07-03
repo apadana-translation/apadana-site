@@ -1,0 +1,36 @@
+{
+  "name": "apadanapali",
+  "version": "1.1.0",
+  "browser": "index.js",
+  "description": "A web-based interface for reading Legends of the Buddhist Saints (Apadānapāli) by Jonathan S. Walters, Whitman College, 2017–, built on Eleventy.",
+  "author": "Dana Johnson <dana@danajohnson.co> (https://github.com/dananjohnson/)",
+  "license": {
+    "type": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apadana-translation/apadana-site"
+  },
+  "browserslist": {
+    "production": [
+      "defaults"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "scripts": {
+    "clean": "rimraf dist",
+    "dev": "NODE_ENV=development eleventy --serve",
+    "build": "NODE_ENV=production eleventy",
+    "debug": "DEBUG=Eleventy* npx @11ty/eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "editorconfig": "^0.15.3",
+    "markdown-it-attrs": "^4.0.0"
+  }
+}

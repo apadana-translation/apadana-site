@@ -1,0 +1,21 @@
+{# Set up chapter/ poem numbering #} 
+{% set chapter = page.category | remove: "chapter-" | append: ". " %}
+{% if chapter contains "3" or chapter contains "4" %}
+  {% set chapter = chapter | replace: " ", page.order | append: ". " %}
+{% endif %}
+
+<section class="tab__primary-content">
+  <p>
+    <svg width="20" height="20" class="icon--large icon-pdf"><use xlink:href="#icon-pdf"></use></svg>
+    <a href="{{ page.url | remove:'.html' }}.pdf" download="walters_{{ site.title | slugify }}_{{ page.title | slugify }}.pdf" title="Download PDF of {{ chapter }}{{ page.title }}" data-download="{{ chapter }}{{ page.title }} PDF" class="button">Download <abbr>PDF</abbr></a>
+  </p>
+  <p>
+    <svg width="20" height="20" class="icon--large icon-book-open"><use xlink:href="#icon-book-open"></use></svg>
+    <a href="{{ page.url | remove:'.html' }}.epub" download="walters_{{ site.title | slugify }}_{{ page.title | slugify }}.epub" title="Download ePub of {{ chapter }}{{ page.title }}" data-download="{{ chapter }}{{ page.title }} ePub" class="button">Download ePub</a>
+  </p>
+</section>
+
+<aside class="tab__desc">
+  <p>To download a “lite” version of this poem, disable all toggles in the “Features” tab, then <a href="javascript:window.print()" title="Print poem">print this page</a> to <abbr>PDF</abbr>.</p>
+  <p>You can also download the complete text of <i>{{ site.title }}</i> in <abbr>PDF</abbr> and ePub formats by visiting the <a href="{{ site.url }}/text/download" title "Go to Downloads page">Downloads</a> page.</p>
+</aside>
