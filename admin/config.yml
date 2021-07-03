@@ -1,0 +1,28 @@
+backend:
+  name: git-gateway
+  branch: netlify-cms
+  commit_messages:
+    create: Create {{path}}
+    update: Update {{path}}
+    delete: Delete {{path}}
+    uploadMedia: Upload {{path}}
+    deleteMedia: Delete {{path}}
+
+media_folder: "_assets/images"
+public_folder: "/public"
+
+display_url: https://apadana-translation.netlify.app/
+
+collections:
+  - name: "pages"
+    label: "Page"
+    folder: "src/_pages"
+    sort: "title:asc"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Layout", name: "layout", widget: "select", options: ["page", "page-has-notes", "homepage", "resources"], default: "page"}
+      - {label: "Excerpt", name: "excerpt", widget: "markdown", minimal: true, buttons: ["bold", "italic"]}
+      - {label: "Body", name: "body", widget: "markdown"}
