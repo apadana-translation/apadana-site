@@ -32,5 +32,9 @@
     "@11ty/eleventy": "^0.12.1",
     "editorconfig": "^0.15.3",
     "markdown-it-attrs": "^4.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "whatwg-fetch": "^3.6.2"
   }
 }
