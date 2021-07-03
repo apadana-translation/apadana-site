@@ -1,0 +1,19 @@
+{# Capture content as Markdown, then apply `markdownify` below to use it in the template #} 
+{% capture modal_content %}
+	{% include {{ include.content }} %}
+{% endcapture %}
+
+<div id="feedback" class="modal" role="dialog" aria-hidden="true">
+	<div class="modal__container">
+    <div class="modal__header">
+      <button id="modal-close" class="modal__toggle">
+        <svg width="20" height="20" class="icon-close"><use xlink:href="#icon-close"></use></svg>
+        Close
+      </button>
+    </div>
+    <div class="modal__content">
+			<h2>{{ include.title }}</h2>
+			{{ modal_content | markdownify }}
+    </div>
+  </div>
+</div>

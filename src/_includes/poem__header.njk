@@ -1,0 +1,28 @@
+<header class="header header--poem">
+  <progress value="0"></progress>
+  <div class="top-bar top-bar--poem">
+    <div class="top-bar__section title-wrap">
+      {% include 'header__title.njk' %}
+    </div>
+    <div class="top-bar__section">
+      <input id="tabNavigation" type="radio" name="tabNavigation" class="menu">
+      <label for="tabNavigation" class="tab__label" title="Navigation" aria-label="View Navigation">
+        <svg width="20" height="20" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
+        <span class="tab__title">Navigation</span>
+      </label>
+    </div>
+    <div class="top-bar__section">
+      <input id="tabTools" type="radio" name="tabTools" class="menu">
+      <label for="tabTools" class="tab__label" title="Text Tools" aria-label="View Text Tools">
+        <svg width="20" height="20" class="icon-cog"><use xlink:href="#icon-cog"></use></svg>
+        <span class="tab__title">Tools</span>
+      </label>
+    </div>
+  </div>
+  <div id="tabGroupNavigation" class="tab-group">
+    {% include 'header__tab-group-1.njk' %}
+  </div>
+  <div id="tabGroupTools" class="tab-group">
+    {% include 'header__tab-group-2.njk' %}
+  </div>
+</header>
