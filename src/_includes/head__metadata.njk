@@ -1,0 +1,26 @@
+{# Based on https://jovandeginste.github.io/2016/05/18/add-metadata-tags-to-jekyll-blog-posts.html #} 
+
+{# Set up chapter and poem info if a poem #} 
+{# % if page.url contains "poem" %}
+  {% set chapter = page.category | remove: "chapter-" | append: ". " %}
+  {% set desc = chapter | prepend: "Chapter " | replace: ". ", " of " | append: site.title %}
+  {% if chapter contains "3" or chapter contains "4" %}
+    {% set desc = desc | prepend: " of " | prepend: page.order | prepend: "Poem " %}
+    {% set chapter = chapter | replace: " ", page.order | append: ". " %}
+  {% endif %}
+{% endif % #}
+
+<title>{# % if page.title == "Home" %}{{ site.title }}{% else %}{{ chapter }}{{ page.title }} &middot; {{ site.title }}{% endif % #}</title>
+<meta name="description" content="{% if desc %}{{ desc }}{% elseif page.excerpt %}{{ page.excerpt | striptags(true) | truncate(160) }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:site_name" content="{{ site.title }}">
+{% if page.title %}
+  <meta property="og:title" content="{{ chapter }}{{ page.title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:description" content="{% if desc %}{{ desc }}{% elseif page.excerpt %}{{ page.excerpt | striptags(true) | truncate(160) }}{% else %}{{ site.description }}{% endif %}">
+{% else %}
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="{{ site.description }}">
+{% endif %}
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="article:author" content="Jonathan S. Walters" />
