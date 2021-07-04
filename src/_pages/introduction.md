@@ -101,7 +101,7 @@ majority of these are composed in variations of the epic *siloka* (Skt.
 text is peppered with six-footed verses, as well as four-footed verses
 composed in more elaborate meters.
 
-[^1]: On the composition history of the collection see my {# % cite walters_stupa-story-empire --suppress_author % #}
+[^1]: On the composition history of the collection see my {% cite "walters_stupa-story-empire.pdf", { suppressAuthor: true } %}
 
 [^2]: These are: *Buddhavaṃsa*, which chronicles the lives of the
     previous Buddhas, of the present Buddha (Gotama), and of the future
@@ -127,7 +127,7 @@ composed in more elaborate meters.
     bad karma and its bad results, is tucked away as number 387 {390}
     (“The Rags of Previous Karma”) of the *Therāpadāna*, perhaps because
     it proved very controversial in later Buddhist discourse (on which,
-    see my {# % cite walters_buddhas-bad-karma --suppress_author % #})
+    see my {% cite "walters_buddhas-bad-karma.pdf", { suppressAuthor: true } %})
 
 [^5]: Most of these verses are lifted from the first (“Rhinoceros Horn”)
     *sutta* of *Sutta-nipāta*, an early collection of Buddhist
