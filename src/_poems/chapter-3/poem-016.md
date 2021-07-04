@@ -100,9 +100,9 @@ Thus indeed Venerable Rāhula Thera spoke these verses.
 
 The legend of Venerable Rāhula Thera is finished.
 
-[^1]: *santharaŋ* (<abbr title="Pali Text Society">PTS</abbr>) or *santhariṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty) literally means “spread out” or a mat. Cty clarifies that this mirror was a mirrored surface (*ādāsa-talam*), though it reads *santharim* as a gerund (*santaritvā*) meaning “produced” (*nipphādetvā*), “having produced a mirror I gave it”. This seems unnecessary (as well as ungrammatical) if we take the reading *santharaṃ*, “a spread out \[mirror\]”.
+[^1]: *santharaŋ* (<dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn>) or *santhariṃ* (<dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn>, cty) literally means “spread out” or a mat. Cty clarifies that this mirror was a mirrored surface (*ādāsa-talam*), though it reads *santharim* as a gerund (*santaritvā*) meaning “produced” (*nipphādetvā*), “having produced a mirror I gave it”. This seems unnecessary (as well as ungrammatical) if we take the reading *santharaṃ*, “a spread out \[mirror\]”.
 
-[^2]: <abbr title="Pali Text Society">PTS</abbr> has *jotito* (m. nom. sing) but I follow cty and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in reading *jotitā* (f. nom. sing), to agree with “palace” (*pāsādā*), which seems to be what *ayam* (m. or f. nom. sing.) refers to.
+[^2]: <a href="#PTS" class="abbr">PTS</a> has *jotito* (m. nom. sing) but I follow cty and <a href="#BJTS" class="abbr">BJTS</a> in reading *jotitā* (f. nom. sing), to agree with “palace” (*pāsādā*), which seems to be what *ayam* (m. or f. nom. sing.) refers to.
 
 [^3]: lit., “whatever things are beloved to his mind”
 
@@ -120,4 +120,4 @@ The legend of Venerable Rāhula Thera is finished.
 
 [^10]: *tādī*, one who is neutral in terms of likes and dislikes, translated as the Neutral One or sometimes as the Such-like One when it’s a Buddha epithet.
 
-[^11]: reading *evaṃ* (cty, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *mamaŋ* (<abbr title="Pali Text Society">PTS</abbr>)
+[^11]: reading *evaṃ* (cty, <a href="#BJTS" class="abbr">BJTS</a>) for *mamaŋ* (<a href="#PTS" class="abbr">PTS</a>)

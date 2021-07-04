@@ -152,7 +152,7 @@ The legend of Tīṇisaraṇāgamaniya Thera is finished.
 
 [^1]: “three-Refuge Goer,” cf. \#113, \#298, \#356{359}
 
-[^2]: some alt. <abbr title="Pali Text Society">PTS</abbr> mss. as well as cty read Baṇḍumatī; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> like <abbr title="Pali Text Society">PTS</abbr> reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṇḍavatī. See DPPN I:851; the city is only “known” to have existed during the time of previous Buddhas (and during the previous lives of Gotama Buddha).
+[^2]: some alt. <dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn> mss. as well as cty read Baṇḍumatī; <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn> like <a href="#PTS" class="abbr">PTS</a> reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṇḍavatī. See DPPN I:851; the city is only “known” to have existed during the time of previous Buddhas (and during the previous lives of Gotama Buddha).
 
 [^3]: lit., “I do not receive the pabbajja (renunciation, going forth, in these texts meaning becoming a Buddhist monk or nun).”
 
@@ -168,11 +168,11 @@ The legend of Tīṇisaraṇāgamaniya Thera is finished.
 
 [^9]: lit., “the eight causes \[of happiness\]
 
-[^10]: reading *paṭikanto* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *paṭikkanto* (“gone,” “departed,” <abbr title="Pali Text Society">PTS</abbr>).
+[^10]: reading *paṭikanto* (<a href="#BJTS" class="abbr">BJTS</a>) for *paṭikkanto* (“gone,” “departed,” <a href="#PTS" class="abbr">PTS</a>).
 
 [^11]: lit., “in the city of Śāvasti (Sāvatthi)”
 
-[^12]: reading *hāsa-khiḍa-samaṅgīnaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *sahassa-khiḍḍa-samaṅgī ‘ham* (<abbr title="Pali Text Society">PTS</abbr>).
+[^12]: reading *hāsa-khiḍa-samaṅgīnaṃ* (<a href="#BJTS" class="abbr">BJTS</a>) for *sahassa-khiḍḍa-samaṅgī ‘ham* (<a href="#PTS" class="abbr">PTS</a>).
 
 [^13]: lit., “with own strength as far as \[you can\]”
 

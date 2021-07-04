@@ -146,7 +146,7 @@ The legend of Mahākassapa Thera is finished.
 
 [^6]: lit., “one hundred and fifty hands high”
 
-[^7]: taking the <abbr title="Pali Text Society">PTS</abbr> alternate reading *tattha* for *tesu*, which also follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
+[^7]: taking the <dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn> alternate reading *tattha* for *tesu*, which also follows <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn>
 
 [^8]: *tidasaŋ*, i.e., the thirty-three gods, in Tāvatiṃsa heaven
 
@@ -160,7 +160,7 @@ The legend of Mahākassapa Thera is finished.
 
 [^13]: lit “half of that,” i.e., 250
 
-[^14]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in reading *sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ighare* and *sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i* for *sucighare* and *suci* (<abbr title="Pali Text Society">PTS</abbr>).
+[^14]: following <a href="#BJTS" class="abbr">BJTS</a> in reading *sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ighare* and *sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i* for *sucighare* and *suci* (<a href="#PTS" class="abbr">PTS</a>).
 
 [^15]: following the cty in reading *āpaṇa* for *paṇṇu*.
 
@@ -168,4 +168,4 @@ The legend of Mahākassapa Thera is finished.
 
 [^17]: lit., “eighty *koṭis*”
 
-[^18]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss, which takes *’bhiraññassa* as *ran*.
+[^18]: following <a href="#BJTS" class="abbr">BJTS</a> Sinhala gloss, which takes *’bhiraññassa* as *ran*.

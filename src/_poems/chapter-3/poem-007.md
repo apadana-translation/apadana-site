@@ -117,4 +117,4 @@ The legend of Aññākoṇḍañña Thera is finished.
 
 [^6]: cty understands this seeming redundancy of “going forth” (*anupabbajan pabbajin*) to mean that at first he renounced as a non-Buddhist ascetic, and then he renounced as/became a Buddhist monk.
 
-[^7]: reading *Isināme Migāraññe* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>. The Buddha first preached the *Dhamma* to Kondañña and the others at the Deer Park in the Isipattana, near Sarnath.
+[^7]: reading *Isināme Migāraññe* with <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn>. The Buddha first preached the *Dhamma* to Kondañña and the others at the Deer Park in the Isipattana, near Sarnath.

@@ -97,11 +97,11 @@ The legend of Piṇḍola-Bhāradvāja Thera is finished.
 
 [^1]: a mountain in the Himalayas. DPPN says it is “generally identified with Kāmptanāthgiri in Bundelkhand, an isolated hill on the Paisunī or Mandākinī River.”
 
-[^2]: reading *‘nadim* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) or *anadim* (cty) for *adās’* (<abbr title="Pali Text Society">PTS</abbr>)
+[^2]: reading *‘nadim* (<dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn>) or *anadim* (cty) for *adās’* (<dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn>)
 
 [^3]: lit., “recognizing \[that there would be\] speech of the Buddha”
 
-[^4]: I follow the cty and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in taking the number to refer to lifetimes
+[^4]: I follow the cty and <a href="#BJTS" class="abbr">BJTS</a> in taking the number to refer to lifetimes
 
 [^5]: i.e.,” Pink Lotus,” which hearkens both to his formative gift and its recipient.
 
@@ -109,6 +109,6 @@ The legend of Piṇḍola-Bhāradvāja Thera is finished.
 
 [^7]: *nirūpadhi*
 
-[^8]: <abbr title="Pali Text Society">PTS</abbr> omits this verse
+[^8]: <a href="#PTS" class="abbr">PTS</a> omits this verse
 
-[^9]: <abbr title="Pali Text Society">PTS</abbr> omits this verse
+[^9]: <a href="#PTS" class="abbr">PTS</a> omits this verse

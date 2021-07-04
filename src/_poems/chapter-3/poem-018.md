@@ -87,15 +87,15 @@ The legend of Raṭṭhapāla Thera is finished.
 
 [^1]: lit., “a vehicle for kings”. See note to \[666\]
 
-[^2]: reading *sakappaṇo* (“with the trappings for an elephant,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, alt. in cty) for *sātappaṇo* (“with a reciter of the *Artharva Veda*,” <abbr title="Pali Text Society">PTS</abbr>, also cty though the latter understands the term to mean “decorated with the ornaments of an elephant”).
+[^2]: reading *sakappaṇo* (“with the trappings for an elephant,” <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn>, alt. in cty) for *sātappaṇo* (“with a reciter of the *Artharva Veda*,” <dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn>, also cty though the latter understands the term to mean “decorated with the ornaments of an elephant”).
 
-[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty read *mahoghaṃ*, “a great flood,” interpreting it as a flood of alms; <abbr title="Pali Text Society">PTS</abbr> reads, more straightforwardly, *mahābhattaŋ*, “a huge almsgiving/rice”. The meaning is anyway clear: after giving an almsgiving, Raṭṭhapāla Thera’s rebirth precursor dedicated everything to the Buddha.
+[^3]: <a href="#BJTS" class="abbr">BJTS</a>, cty read *mahoghaṃ*, “a great flood,” interpreting it as a flood of alms; <a href="#PTS" class="abbr">PTS</a> reads, more straightforwardly, *mahābhattaŋ*, “a huge almsgiving/rice”. The meaning is anyway clear: after giving an almsgiving, Raṭṭhapāla Thera’s rebirth precursor dedicated everything to the Buddha.
 
-[^4]: reading *niyyādesiṃ* (“dedicated,” “put into charge,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *niyyātesiŋ* (“departed, went out,” <abbr title="Pali Text Society">PTS</abbr>, cty)
+[^4]: reading *niyyādesiṃ* (“dedicated,” “put into charge,” <a href="#BJTS" class="abbr">BJTS</a>) for *niyyātesiŋ* (“departed, went out,” <a href="#PTS" class="abbr">PTS</a>, cty)
 
 [^5]: see above v. \[701\] and note there.
 
-[^6]: reading *ayam* (“this one,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *aham* (“I,” the reading of <abbr title="Pali Text Society">PTS</abbr> which causes the editor to place the first two lines in quotes, to the effect, “\[the one who thought\], ’I had 54,000 palaces built.’”).
+[^6]: reading *ayam* (“this one,” <a href="#BJTS" class="abbr">BJTS</a>) for *aham* (“I,” the reading of <a href="#PTS" class="abbr">PTS</a> which causes the editor to place the first two lines in quotes, to the effect, “\[the one who thought\], ’I had 54,000 palaces built.’”).
 
 [^7]: *upasanto*
 

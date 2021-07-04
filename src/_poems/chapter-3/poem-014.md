@@ -112,7 +112,7 @@ The legend of <span class="diacritics" data-state="on">C</span><span class="no-d
 
 [^1]: *samādhiṃ*
 
-[^2]: reading *antarāyam na aham akāsim* with the cty (which <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss follows). lit., “I did not make an obstacle.” This reading seems more appropriate, even though the Pali in both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> — and hence in some manuscripts — is “I did make an obstacle”. However indecorous this would have been of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ulla-Panthaka’s rebirth precursor, verse 4 has him giving the floral umbrella to the meditating Buddha without any transition to suggest that the meditation had ended (a transition we might expect from other *Apadāna* texts which specify that such-and-such meditator “had arisen from *samādhi*”), so it is *only* out of deference to the cty that I provide this translation, against my inclination to take the text as given and translate the final line: “I caused \[him\] an interruption.”
+[^2]: reading *antarāyam na aham akāsim* with the cty (which <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn> Sinhala gloss follows). lit., “I did not make an obstacle.” This reading seems more appropriate, even though the Pali in both <dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn> and <a href="#BJTS" class="abbr">BJTS</a> — and hence in some manuscripts — is “I did make an obstacle”. However indecorous this would have been of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ulla-Panthaka’s rebirth precursor, verse 4 has him giving the floral umbrella to the meditating Buddha without any transition to suggest that the meditation had ended (a transition we might expect from other *Apadāna* texts which specify that such-and-such meditator “had arisen from *samādhi*”), so it is *only* out of deference to the cty that I provide this translation, against my inclination to take the text as given and translate the final line: “I caused \[him\] an interruption.”
 
 [^3]: “Excellent!”
 
@@ -124,7 +124,7 @@ The legend of <span class="diacritics" data-state="on">C</span><span class="no-d
 
 [^7]: lit., “Go now to your own house.”
 
-[^8]: reading *apekkhavā* (cty, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *apekhavā* (<abbr title="Pali Text Society">PTS</abbr>)
+[^8]: reading *apekkhavā* (cty, <a href="#BJTS" class="abbr">BJTS</a>, <a href="#PTS" class="abbr">PTS</a> alt) for *apekhavā* (<a href="#PTS" class="abbr">PTS</a>)
 
 [^9]: lit., desiring the state of a *samana* (*sāmaññasmiŋ*)
 

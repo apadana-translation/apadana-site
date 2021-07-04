@@ -70,13 +70,13 @@ Thus indeed Venerable Sopāka Thera spoke these verses.
 
 The legend of Venerable Sopāka Thera is finished.
 
-[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and cty read *sevantassa* (“serving”) for *sodhayantassa* (“washing” “making clean”); either term conveys the meaning, elaborated by the cty, that he was a worker at the retreat.
+[^1]: <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn> and cty read *sevantassa* (“serving”) for *sodhayantassa* (“washing” “making clean”); either term conveys the meaning, elaborated by the cty, that he was a worker at the retreat.
 
 [^2]: *pabbhara* is a slope, incline; cty explains that it was a place on the mountain where the monks would relax or be separated from others (*vivekaṭṭhānaṃ*, “leisure spot”)
 
-[^3]: <abbr title="Pali Text Society">PTS</abbr> gives *pavare*, “most excellent;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *vipine*, “forest\[ed\]” (or “in the forest”).
+[^3]: <dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn> gives *pavare*, “most excellent;” <a href="#BJTS" class="abbr">BJTS</a> reads *vipine*, “forest\[ed\]” (or “in the forest”).
 
-[^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) reads *dhīro* (“the wise one”)
+[^4]: <a href="#BJTS" class="abbr">BJTS</a> (and <a href="#PTS" class="abbr">PTS</a> alt.) reads *dhīro* (“the wise one”)
 
 [^5]: *dve sampatti*. See above, n. to \[702\].
 
