@@ -85,7 +85,7 @@ Thus indeed Venerable Anuruddha Thera spoke these verses.
 
 The legend of Anuruddha Thera is finished.
 
-[^1]: reading *vūpakaṭṭhaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty) for *vupakaṭṭhaŋ* (<abbr title="Pali Text Society">PTS</abbr>)
+[^1]: reading *vūpakaṭṭhaṃ* (<dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn>, cty) for *vupakaṭṭhaŋ* (<dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn>)
 
 [^2]: lit., “Be compassionate \[toward me\]”
 

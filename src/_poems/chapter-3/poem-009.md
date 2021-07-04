@@ -90,9 +90,9 @@ Thus indeed Venerable Khadiravaniya Revata Thera spoke these verses.
 
 The legend of Khadiravaniya Revata Thera is finished.
 
-[^1]: this is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling; <abbr title="Pali Text Society">PTS</abbr> gives *Bhāgīrasī*
+[^1]: this is the <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn> spelling; <dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn> gives *Bhāgīrasī*
 
-[^2]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and cty in reading *āruhi*
+[^2]: following <a href="#BJTS" class="abbr">BJTS</a> and cty in reading *āruhi*
 
 [^3]: i.e., “he who crosses,” hearkening to his formative act of merit as well as his former profession.
 

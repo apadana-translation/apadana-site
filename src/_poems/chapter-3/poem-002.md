@@ -137,7 +137,7 @@ The legend of Mahāmoggallāna Thera is finished.
 
 [^1]: *nāgarājā*
 
-[^2]: <abbr title="Pali Text Society">PTS</abbr> reads Varūṇa.
+[^2]: <dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn> reads Varūṇa.
 
 [^3]: lit., “transformed into the form of Kāma;” could be less specific: transforming into sexy shapes
 
@@ -157,12 +157,12 @@ The legend of Mahāmoggallāna Thera is finished.
 
 [^11]: *āraddhaviriyā*, lit., “with strenuous effort”
 
-[^12]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in reading *samanginnā* (sing. abl) for <abbr title="Pali Text Society">PTS</abbr> *samangīnaŋ* (pl. dat/gen)
+[^12]: following <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn> in reading *samanginnā* (sing. abl) for <a href="#PTS" class="abbr">PTS</a> *samangīnaŋ* (pl. dat/gen)
 
-[^13]: reading, with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> alt, *marām’ ahaṃ* for <abbr title="Pali Text Society">PTS</abbr> *bhavām’ ahaŋ*
+[^13]: reading, with <a href="#BJTS" class="abbr">BJTS</a> and <a href="#PTS" class="abbr">PTS</a> alt, *marām’ ahaṃ* for <a href="#PTS" class="abbr">PTS</a> *bhavām’ ahaŋ*
 
 [^14]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
 
 [^15]: lit., “in an aeon immeasurably \[past\].”
 
-[^16]: reading *bhummanupatto* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *bhumim anuppatto* (<abbr title="Pali Text Society">PTS</abbr>).
+[^16]: reading *bhummanupatto* (<a href="#BJTS" class="abbr">BJTS</a>) for *bhumim anuppatto* (<a href="#PTS" class="abbr">PTS</a>).
