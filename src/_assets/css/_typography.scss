@@ -71,7 +71,8 @@ hr {
   border-color: inherit;
 }
 
-abbr {
+abbr,
+.abbr {
   font-feature-settings: "c2sc", "smcp", "lnum";
   @include font-variant('caps', 'all-small-caps');
   @include font-variant('numeric', 'lining-nums');

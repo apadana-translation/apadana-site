@@ -2,13 +2,13 @@
 title: Introduction to the Text
 permalink: /text/introduction/
 layout: page-has-notes
-excerpt: <i>Legends of the Buddhist Saints</i> (<i>Apadāna</i>) is a collection of about six hundred autobiographical poems ascribed to the accomplished Buddhas and Arahants of the early Buddhist community. Composed in India in the Pāli language around the second century, <abbr>B.C.E.</abbr>, <i>Apadāna</i> is the source of many of the best-loved stories of the saints in the Buddhist world.
+excerpt: <i>Legends of the Buddhist Saints</i> (<i>Apadāna</i>) is a collection of about six hundred autobiographical poems ascribed to the accomplished Buddhas and Arahants of the early Buddhist community. Composed in India in the Pāli language around the second century, <span class="abbr">B.C.E.</span>, <i>Apadāna</i> is the source of many of the best-loved stories of the saints in the Buddhist world.
 ---
 
 *Legends of the Buddhist Saints* (*Apadāna*) is a collection of about
 six hundred autobiographical poems ascribed to the accomplished Buddhas
 and Arahants of the early Buddhist community. Composed in India in the
-Pāli language around the second century, <abbr>B.C.E.</abbr>,[^1] the collection has
+Pāli language around the second century, <span class="abbr">B.C.E.</span>,[^1] the collection has
 been preserved for more than two thousand years in Sri Lanka (and later
 in Burma,Thailand, Cambodia and Laos) as part of the “Miscellaneous
 Division” (*Khuddaka-nikāya*) of the “Basket of Discourses”
@@ -58,7 +58,7 @@ from access to this beautiful collection of ancient poetry.
 
 The central revelation here, that nirvana is the fruit of good karma
 performed during previous lives, was made during a watershed in Buddhist
-history. Following the third century, <abbr>B.C.E.</abbr> reign of Aśoka Maurya (Pāli
+history. Following the third century, <span class="abbr">B.C.E.</span> reign of Aśoka Maurya (Pāli
 Asoka Moriya), India’s physical and spiritual landscapes were
 transformed by rapid expansion of the Buddhist community. The *Apadāna*
 revelation that pious deeds produce future nirvana corresponded to and
@@ -133,7 +133,7 @@ composed in more elaborate meters.
     *sutta* of *Sutta-nipāta*, an early collection of Buddhist
     discourses which also has been preserved in the *Khuddaka-nikāya*.
 
-[^6]: The Pali Text Society (<abbr title="Pali Text Society">PTS</abbr>) edition, in Roman script, contains
+[^6]: The <dfn id="#PTS">Pali Text Society</dfn> (<abbr title="Pali Text Society">PTS</abbr>) edition, in Roman script, contains
     five hundred and forty seven poems ascribed to early monks; the
     Buddha Jayanthi Tripitaka Series edition, in Sinhala script,
     contains five hundred and fifty-nine poems ascribed to early monks.
