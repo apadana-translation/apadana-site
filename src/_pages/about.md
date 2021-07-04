@@ -11,14 +11,14 @@ excerpt: >-
 ---
 
 ## The Translation
-<p class="lead">This is the first-ever complete translation of *Apadāna* into a
+This is the first-ever complete translation of *Apadāna* into a
 Western language. It has been a daunting undertaking, traversing the
 translator’s entire professional career, yet it admittedly remains an
 imperfect work in progress. Motivated by a sense that scholars,
 students, Buddhists and even the general public might enjoy and benefit
 from access to this beautiful collection of ancient poetry, he has
 pushed ahead, in fits and starts, to produce the present translation,
-and to offer it for free to the world in this innovative online format.</p>
+and to offer it for free to the world in this innovative online format.{.lead}
 
 At times, the problems seemed insurmountable. Because the Pali Text Society
 edition, produced by an obscure Miss Mary E. Lilley during the 1920s, is
@@ -30,23 +30,18 @@ to vary among themselves significantly enough that no single one of them could
 be relied upon consistently. While the translator has not produced a new,
 critical edition of his own, he has attempted to redress this problem by using
 multiple editions, side-by-side. In particular, this is a translation of *both*
-the Pali Text Society (<abbr title="Pali Text Society">PTS</abbr>) Roman-script
-edition,[^1] which is most widely available in the West, *and* of the Buddha
-Jayanthi Tripitaka Series (<abbr title="Buddha Jayanthi Tripitaka
+the <dfn id="PTS">Pali Text Society</dfn> (<abbr title="Pali Text Society">PTS</abbr>) Roman-script
+edition,[^1] which is most widely available in the West, *and* of the <dfn id="BJTS">Buddha
+Jayanthi Tripitaka Series</dfn> (<abbr title="Buddha Jayanthi Tripitaka
 Series">BJTS</abbr>) Sinhala-script edition,[^2] which is most widely available
-in Sri Lanka. In practice, the translation follows the <abbr title="Pali Text
-Society">PTS</abbr> edition wherever possible, but does not shy away from
-translating the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>
-edition instead, in places where it corrects mistakes in the <abbr title="Pali
-Text Society">PTS</abbr> edition, includes material not found in the <abbr
-title="Pali Text Society">PTS</abbr> edition, or offers significantly more
-plausible readings of obscure passages. The <abbr title="Buddha Jayanthi
-Tripitaka Series">BJTS</abbr> edition includes an invaluable Sinhala gloss on
+in Sri Lanka. In practice, the translation follows the <a href="#PTS" class="abbr">PTS</a> edition wherever possible, but does not shy away from
+translating the <a href="#BJTS" class="abbr">BJTS</a>
+edition instead, in places where it corrects mistakes in the <a href="#PTS" class="abbr">PTS</a> edition, includes material not found in the <a href="#PTS" class="abbr">PTS</a> edition, or offers significantly more
+plausible readings of obscure passages. The <a href="#BJTS" class="abbr">BJTS</a> edition includes an invaluable Sinhala gloss on
 each verse, which has often been followed in translating such obscure passages.
 Each of these cases is marked with a sidenote detailing the decision to follow
-<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> rather than <abbr
-title="Pali Text Society">PTS</abbr>, which provides the alternate <abbr
-title="Pali Text Society">PTS</abbr> reading for interested readers.
+<a href="#BJTS" class="abbr">BJTS</a> rather than <a href="#PTS" class="abbr">PTS</a>, 
+which provides the alternate <a href="#PTS" class="abbr">PTS</a> reading for interested readers.
 
 <aside class="callout">
 
@@ -55,7 +50,7 @@ title="Pali Text Society">PTS</abbr> reading for interested readers.
 *Legends of the Buddhist Saints* (*Apadāna*) is a collection of about
 six hundred autobiographical poems ascribed to the accomplished Buddhas
 and Arahants of the early Buddhist community. Composed in India in the
-Pāli language around the second century, <abbr>B.C.E.</abbr>, *Apadāna* is
+Pāli language around the second century, <span class="abbr">B.C.E.</span>, *Apadāna* is
 the source of many of the best-loved stories of the saints in the
 Buddhist world.
 
@@ -136,8 +131,8 @@ expensive, and would require a whole forest worth of paper. The digital format
 allows the translator to distribute the translation universally, for free, which
 he hopes, among other things, will encourage colleagues to put it (or selected
 portions of it) into the hands of their students. Toward this end, users will
-find links to easily download a <abbr>PDF</abbr> of any individual poem, or a
-<abbr>PDF</abbr> or ePub file of the entire text. Likewise, the translator
+find links to easily download a <span class="abbr">PDF</span> of any individual poem, or a
+<span class="abbr">PDF</span> or ePub file of the entire text. Likewise, the translator
 anticipates several additional digital innovations, forthcoming, which will
 further enhance the intended effect of the translation, including a soundtrack
 so that the text can be listened to rather than read (as originally was
@@ -156,7 +151,7 @@ Březina, and [Skolar Sans][4], designed by David Březina and Sláva Jevčinov�
 The poems and other pages on the site are encoded in [Markdown][5], a minimal
 plain-text syntax that offers durability and flexibility for distribution.[^3]
 We use [Jekyll][6] to generate the website and [Pandoc][7] to convert the
-text files to <abbr>HTML</abbr>, ePub, and <abbr>PDF</abbr>. The codebase for
+text files to <span class="abbr">HTML</span>, ePub, and <span class="abbr">PDF</span>. The codebase for
 the site is available in a [public repository][10] on GitHub.[^4]
 
 ### License

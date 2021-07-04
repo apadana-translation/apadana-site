@@ -4,7 +4,7 @@ require 'uri'
 module UrlFilter
   class StripUrls < BibTeX::Filter
     def apply(value)
-      value.to_s.gsub(URI.regexp(['http','https','ftp'])) { |c| "[<svg class=\"icon-pdf\"><use xlink\:href=\"#icon-pdf\"></use></svg><a href=\"#{$&}\" target=\"_blank\"><abbr>PDF</abbr></a>]" }
+      value.to_s.gsub(URI.regexp(['http','https','ftp'])) { |c| "[<svg class=\"icon-pdf\"><use xlink\:href=\"#icon-pdf\"></use></svg><a href=\"#{$&}\" target=\"_blank\"><span class="abbr">PDF</span></a>]" }
     end
   end
 end
