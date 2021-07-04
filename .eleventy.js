@@ -1,5 +1,6 @@
 const markdownIt = require("markdown-it");
 const markdownItAttrs = require("markdown-it-attrs");
+const markdownItFootnote = require("markdown-it-footnote");
 
 module.exports = function (eleventyConfig) {
   // Layout aliases
@@ -22,7 +23,9 @@ module.exports = function (eleventyConfig) {
   const attrsOptions = {
     allowedAttributes: ["id", "class"]
   };
-  const markdownLib = markdownIt(mdOptions).use(markdownItAttrs, attrsOptions);
+  const markdownLib = markdownIt(mdOptions)
+    .use(markdownItAttrs, attrsOptions)
+    .use(markdownItFootnote);
   
   eleventyConfig.setLibrary("md", markdownLib);
 
