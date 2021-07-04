@@ -1,6 +1,7 @@
 const markdownIt = require("markdown-it");
 const markdownItAttrs = require("markdown-it-attrs");
 const markdownItFootnote = require("markdown-it-footnote");
+const shortcodes = require("./config/shortcodes");
 
 module.exports = function (eleventyConfig) {
   // Layout aliases
@@ -31,6 +32,11 @@ module.exports = function (eleventyConfig) {
 
   // Pass-through to dist
   eleventyConfig.addPassthroughCopy("admin");
+
+  // Shortcodes
+  Object.keys(shortcodes).forEach((shortcodeName) => {
+    eleventyConfig.addNunjucksShortcode(shortcodeName, shortcodes[shortcodeName])
+  })
 
   return {
     dir: {
