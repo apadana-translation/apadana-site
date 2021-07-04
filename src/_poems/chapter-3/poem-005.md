@@ -50,6 +50,6 @@ Thus indeed Venerable Puṇṇa Mantāṇiputta Thera spoke these verses.
 
 The legend of Puṇṇa Mantāṇiputta Thera is finished.
 
-[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss understands “mama” here as the genitive: *my* (Sinh: *māgē*) karma. I take it instead as a dative, “to me”
+[^1]: <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn> Sinhala gloss understands “mama” here as the genitive: *my* (Sinh: *māgē*) karma. I take it instead as a dative, “to me”
 
-[^2]: ”Good-Explanation-er,” taking this as a proper name with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>.
+[^2]: ”Good-Explanation-er,” taking this as a proper name with <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn>.
