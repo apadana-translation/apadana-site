@@ -16,8 +16,8 @@ GEM
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
-    addressable (2.5.2)
-      public_suffix (>= 2.0.2, < 4.0)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     autoprefixer-rails (9.4.3)
       execjs
     bibtex-ruby (4.4.7)
@@ -114,7 +114,7 @@ GEM
       forwardable-extended (~> 2.6)
     pdf_info (0.5.3)
     progress (3.5.0)
-    public_suffix (3.0.3)
+    public_suffix (4.0.6)
     rack (2.0.6)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
@@ -136,7 +136,6 @@ GEM
       thread_safe (~> 0.1)
     uglifier (4.1.20)
       execjs (>= 0.3.0, < 3)
-    unicode_utils (1.4.0)
 
 PLATFORMS
   ruby
@@ -152,7 +151,6 @@ DEPENDENCIES
   mini_magick
   sprockets (~> 3.7)
   uglifier
-  unicode_utils
 
 BUNDLED WITH
    1.17.1
