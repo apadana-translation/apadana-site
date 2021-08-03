@@ -1,0 +1,16 @@
+<section class="tab__primary-content">
+  <p>
+    <label class="small">Share this poem via:</label>
+    <svg width="20" height="20" class="icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
+    <a class="button js-social-share" href="https://facebook.com/sharer.php?u={{ site.url | urlencode }}{{ page.url | urlencode }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
+    <svg width="20" height="20" class="icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
+    <a class="button js-social-share" href="https://twitter.com/intent/tweet?text={{ title }}&url={{ site.url | urlencode }}{{ page.url | urlencode }}&via={{ site.title }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
+    <svg width="20" height="20" class="icon-mail"><use xlink:href="#icon-mail"></use></svg>
+    <a class="button js-social-share" href="mailto:?subject={{ title }}&amp;body=Check out the poem “{{ title }}” at {{ site.url }}{{ page.url }}.">E-mail</a>
+  </p>
+
+  <form>
+    <label for="permalink" name="Get permalink" class="small">Permalink:</label>
+    <input id="permalink" class="text" type="text" name="Permalink" value="{{ site.url }}{{ page.url }}" readonly="readonly">
+  </form>
+</section>

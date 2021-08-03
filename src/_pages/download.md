@@ -25,8 +25,8 @@ permalink: /text/download/
   {% for chapter in chapters %}
     {% set chapter_number = chapter.name | remove: "chapter-" | append: ". " %}
     {% set category_slug = chapter.name %}
-    {% set category = site.data.categories[category_slug] %}
-    <li><b>{{ category.name }}</b> [<svg width="20" height="20" class="icon-pdf"><use xlink:href="#icon-pdf"></use></svg><a href="{{ path_to_folder }}walters_{{ category.name | slugify }}.pdf" download="{{ chapter_number }}{{ category.name }}.pdf"><span class="abbr">PDF</span></a> <svg class="icon-book-open"><use xlink:href="#icon-book-open"></use></svg> <a href="{{ path_to_folder }}walters_{{ category.name | slugify }}.epub" download="{{ chapter_number }}{{ category.name }}.epub">ePub</a>]</li>
+    {% set category = categories[category_slug] %}
+    <li><b>{{ category.name }}</b> [<svg width="20" height="20" class="icon-pdf"><use xlink:href="#icon-pdf"></use></svg><a href="{{ path_to_folder }}walters_{{ category.name | slug }}.pdf" download="{{ chapter_number }}{{ category.name }}.pdf"><span class="abbr">PDF</span></a> <svg class="icon-book-open"><use xlink:href="#icon-book-open"></use></svg> <a href="{{ path_to_folder }}walters_{{ category.name | slug }}.epub" download="{{ chapter_number }}{{ category.name }}.epub">ePub</a>]</li>
   {% endfor %} #}
 </ol>
 

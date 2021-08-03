@@ -5,17 +5,17 @@
 
   <body>
 
-    {% include 'analytics--noscript.njk' %}
+    {% include 'head/analytics--noscript.njk' %}
     {% include 'svg-sprite.njk' %}
 
     <div class="content">
-      {% include 'site__header.njk' %}
+      {% include 'site/header.njk' %}
       <main role="main">
         <div class="container">
           {{ content | safe }}
         </div>
       </main>
-      {% include 'site__footer.njk' %}
+      {% include 'site/footer.njk' %}
     </div>
 
     {# % asset main.js async % #}

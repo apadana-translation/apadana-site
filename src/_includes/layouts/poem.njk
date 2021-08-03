@@ -6,17 +6,17 @@
   <body>
     <a href="#poem-content" class="screen-reader-text">Skip to main content</a>
 
-    {% include 'analytics--noscript.njk' %}
+    {% include 'head/analytics--noscript.njk' %}
     {% include 'svg-sprite.njk' %}
 
     <div class="content" id="content">
-      {% include 'poem__header.njk' %}
+      {% include 'poem/header.njk' %}
       {% include 'mobile.njk' %}
       <main role="main" id="poem">
         <div class="container flex">
-          {% include 'poem__meta.njk' %}
+          {% include 'poem/meta.njk' %}
           <article class="poem" itemscope itemtype="http://schema.org/Article">
-            <meta itemprop="name" content="{{ page.title }}">
+            <meta itemprop="name" content="{{ title }}">
             <div id="poem-content" class="poem__content" itemprop="articleBody">
               {{ content | safe }}
             </div>
@@ -25,10 +25,10 @@
             </span>
             {% if page.date %}<meta itemprop="dateModified" content="{{ page.date }}">{% endif %}
           </article>
-          {% include modal.html title="Feedback" content="feedback.md" %}
+          {% include 'feedback-modal.njk' %}
         </div>
       </main>
-      {% include 'site__footer.njk' %}
+      {% include 'site/footer.njk' %}
     </div>
 
     {# % asset main.js async % #}
