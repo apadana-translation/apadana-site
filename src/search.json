@@ -10,7 +10,7 @@ sitemap: false
     {% assign docs = collection.docs | where_exp:'doc','doc.sitemap != false' %}
     {% for doc in docs %}
       {% assign category_slug = doc.category %}
-      {% assign chapter = site.data.categories[category_slug] %}
+      {% assign chapter = categories[category_slug] %}
       {
         "title": {{ doc.title | jsonify }},
         "content": {{ doc.content | markdownify | strip_html | jsonify | replace:'\n',' ' | replace:'   ',' ' | replace:'  ',' ' }},

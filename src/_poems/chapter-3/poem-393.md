@@ -77,7 +77,7 @@ Limit-Free,[^55] Teaching-Respecter,[^56]
 Goal-Reacher,[^57] Whose Rule is Friendship,[^58] (14) \[3690\]
 
 you Ferry Across[^59] like a ship,  
-Bring Relief[^60] []{#BookmarkCopy1 .anchor}like buried treasure,[^61]  
+Bring Relief[^60] like buried treasure,[^61]  
 are Without Fear[^62] as is a lion,  
 Haughty[^63] like an elephant-king.” (15) \[3691\]
 
@@ -129,7 +129,7 @@ and \[they\] should reach the deathless state.[^68] (24) \[3700\]
 This is my last going around;  
 all \[new\] existence is destroyed.  
 Knowing well all the defilements,  
-I \[now\] am living, undefiled.[]{#BookmarkCopy12 .anchor} (25) \[3701\]
+I \[now\] am living, undefiled. (25) \[3701\]
 
 In the hundred thousand aeons  
 since I praised the Buddha \[back then\],  
