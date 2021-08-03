@@ -30,13 +30,21 @@ module.exports = function (eleventyConfig) {
   
   eleventyConfig.setLibrary("md", markdownLib);
 
-  // Pass-through to dist
+  // Pass through to build
   eleventyConfig.addPassthroughCopy("admin");
 
   // Shortcodes
   Object.keys(shortcodes).forEach((shortcodeName) => {
     eleventyConfig.addNunjucksShortcode(shortcodeName, shortcodes[shortcodeName])
   })
+
+  // Collections
+  // eleventyConfig.addCollection("allPoems", function(collectionApi) {
+  //   const chapter1 = collectionApi.getFilteredByTag("chapter-1");
+  //   const chapter2 = collectionApi.getFilteredByTag("chapter-2");
+  //   console.log([chapter1, chapter2]);
+  //   return chapter1;
+  // });
 
   return {
     dir: {

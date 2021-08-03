@@ -7,7 +7,7 @@
   {# {% set chapters = site.poems | group_by: "category" | sort: "name" %}
   {% for chapter in chapters %}
     {% set category_slug = chapter.name %}
-    {% set category = site.data.categories[category_slug] %}
+    {% set category = categories[category_slug] %}
     {% set first_poem = chapter.items.first %}
     {% if chapter.name contains "1" or chapter.name contains "2" %}
       <li>

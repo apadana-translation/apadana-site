@@ -15,7 +15,7 @@
       {% unless prev.category == page.category %}
         {% if prev.category contains "3" or prev.category contains "4" %}
           {% set prevcat = prev.category %}
-          {% set prevchapter = site.data.categories[prevcat] %}
+          {% set prevchapter = categories[prevcat] %}
         {% endif %}
       {% endunless %}
     {% endunless %}
@@ -27,7 +27,7 @@
       {% unless next.category == page.category %}
         {% if next.category contains "3" or next.category contains "4" %}
           {% set nextcat = next.category %}
-          {% set nextchapter = site.data.categories[nextcat] %}
+          {% set nextchapter = categories[nextcat] %}
         {% endif %}
       {% endunless %}
     {% endunless %}

@@ -6,7 +6,7 @@ permalink: /text/
 {% include 'toc.njk' %}
 <aside class="sidebar">
   <h4 class="sidebar__header">Search the Text</h4>
-  {% include 'tab__search.njk' %}
+  {% include 'tab/search.njk' %}
   <h4 class="sidebar__header">Introduction</h4>
   <p>Legends of the Buddhist Saints (<i>Apadāna</i>) is a collection of about
   six hundred autobiographical poems ascribed to the accomplished Buddhas
