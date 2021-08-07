@@ -30,7 +30,7 @@ that’s the fruit of Buddha-*pūjā*. (4) \[1996\]
 In the seventh aeon ago  
 the lord of humans, greatly famed,  
 there was a strong wheel-turning king  
-who was named Samanta<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu.[^4] (5) \[1997\]
+who was named Samanta[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkhu.[^4] (5) \[1997\]
 
 The four analytical modes,  
 and these eight deliverances,  

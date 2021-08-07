@@ -11,7 +11,7 @@ the Self-Become, Unconquered One,
 rising up from meditation,[^4]  
 approached me \[begging\] for alms food. (1) \[3161\]
 
-Seeing the Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha,  
+Seeing the Pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ekabuddha,  
 with a mind that was very clear,  
 I gave gruel \[made with\] mangoes  
 to him, the Clear-Minded \[Buddha\]. (2) \[3162\]

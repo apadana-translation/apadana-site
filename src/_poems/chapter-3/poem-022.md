@@ -66,7 +66,7 @@ they covered the Buddha’s stupa
 with the two types of blue sapphire[^6]  
 and with the *jotirasa* gem.[^7] (12) \[876\]
 
-At that point Buddha’s *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etiya*  
+At that point Buddha’s *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}etiya*  
 was made entirely of gems.  
 In height it welled up three[^8] leagues \[tall\]  
 lighting up \[the whole universe\]. (13) \[877\]
@@ -287,7 +287,7 @@ The legend of Upavāna Thera is finished.
 
 [^1]: *parinibbuto*.
 
-[^2]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaka*, heap, shrine
+[^2]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}itaka*, heap, shrine
 
 [^3]: the text does not stipulate the first, second, third, fourth, fifth, sixth *what*, and the cty. sees no need to explain. Relic finds as at Pipphrawa, as well as the context (in which there is clearly a single stupa) would suggest that these were reliquaries inside reliquaries inside reliquaries, each encasing the former ones like Russian nesting dolls, until the whole thing was covered with gold.
 

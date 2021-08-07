@@ -4,7 +4,7 @@ order: 57
 category: chapter-3
 ---
 
-### \[57. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpika[^1]\]
+### \[57. Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}adīpika[^1]\]
 
 After praising the true Teaching  
 of Buddha Padumuttara  
@@ -32,7 +32,7 @@ I’m bearing my last body in
 the Biped-Lord’s dispensation. (5) \[1312[^7]\]
 
 Thirty-four hundred aeons \[thence\]  
-I was known as Sata<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu;[^8]  
+I was known as Sata[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkhu;[^8]  
 I was a king with great power,  
 a wheel-turner who had great strength. (6) \[1311\]
 
@@ -41,9 +41,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[1313\]
 
-Thus indeed Venerable Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpika Thera spoke these verses.
+Thus indeed Venerable Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}adīpika Thera spoke these verses.
 
-The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpika Thera is finished.
+The legend of Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}adīpika Thera is finished.
 
 [^1]: “Five-Lamps”
 

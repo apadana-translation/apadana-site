@@ -95,11 +95,11 @@ The legend of Puṇṇaka Thera is finished.
 
 [^3]: *buddhe nibbāyamānamhi* (loc. abs. construction)
 
-[^4]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha°*, Sinh. gloss *valassu*
+[^4]: *a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha°*, Sinh. gloss *valassu*
 
 [^5]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^6]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
+[^6]: *tara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits the second mention of “wolves” so may be taking *koka* in compound with *tara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā* (i.e., *kokatara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
 
 [^7]: reading *vyagghā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vālā* (= *vāḷā*, snakes?)
 
@@ -121,4 +121,4 @@ The legend of Puṇṇaka Thera is finished.
 
 [^16]: *puṇṇako*
 
-[^17]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
+[^17]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arimo vattate bhavo*

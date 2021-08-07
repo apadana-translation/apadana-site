@@ -89,7 +89,7 @@ The legend of Ekapattadāyaka Thera is finished.
 
 [^10]: *bhaddake*, or “lucky” “fortunate” etc
 
-[^11]: <abbr title="Pali Text Society">PTS</abbr> *pave<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *pava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante* (cf. *pave<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante*, the reading in \[5004\] below, cf. also *pava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chante* as <abbr title="Pali Text Society">PTS</abbr> alt. there \[v, 5 of \#499, Ekapattadāyaka\]; RD = “give, bestow,” PSI “\[rainwater\] falls down”)
+[^11]: <abbr title="Pali Text Society">PTS</abbr> *pave[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chante*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *pava[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chante* (cf. *pave[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chante*, the reading in \[5004\] below, cf. also *pava[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chante* as <abbr title="Pali Text Society">PTS</abbr> alt. there \[v, 5 of \#499, Ekapattadāyaka\]; RD = “give, bestow,” PSI “\[rainwater\] falls down”)
 
 [^12]: *sammādhāre* (loc. abs. construction)
 

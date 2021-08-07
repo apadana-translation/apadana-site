@@ -189,11 +189,11 @@ The legend of Sabbaphaladāyaka Thera is finished.
 
 [^22]: that is, *garuḷas*
 
-[^23]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha°*, Sinh. gloss *valassu*
+[^23]: *a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha°*, Sinh. gloss *valassu*
 
 [^24]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^25]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
+[^25]: *tara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits the second mention of “wolves” so may be taking *koka* in compound with *tara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā* (i.e., *kokatara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
 
 [^26]: *osadhī* = *osadha*, (medicinal) herbs, medicinal ingredients, plants
 

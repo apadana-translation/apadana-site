@@ -154,7 +154,7 @@ The legend of Bodhisammajjaka Thera is finished.
 
 [^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *sukumārikā* (“like a very young girl’s) for <abbr title="Pali Text Society">PTS</abbr> *sukumārakā*
 
-[^8]: reading *yato kuto<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i gatisu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *yato kuto <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, and following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *yamkisi gatiyaka*
+[^8]: reading *yato kuto[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}i gatisu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *yato kuto [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*, and following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *yamkisi gatiyaka*
 
 [^9]: lit., “dirt and dust are not smeared \[on me\]”
 

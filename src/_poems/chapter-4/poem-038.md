@@ -111,7 +111,7 @@ The legend of Puṇṇikā Therī[^17] is finished
 
 [^1]: “Complete” “Full”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads Puṇṇā; both spellings are correct, see DPPN II: 227-228.
 
-[^2]: reading *dhammatthaparipu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chikā*
+[^2]: reading *dhammatthaparipu[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chikā*
 
 [^3]: *pesalā atimaññisaŋ*. Cf. *Pesalā-atimaññanā Sutta* (S. i. 187f., see DPPN II: 245)
 
@@ -123,7 +123,7 @@ The legend of Puṇṇikā Therī[^17] is finished
 
 [^7]: = *Therīgāthā* v. 237
 
-[^8]: reading *paripu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chasi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *paripu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiyan* (“you would ask?”)
+[^8]: reading *paripu[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chasi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *paripu[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chiyan* (“you would ask?”)
 
 [^9]: reading rundhantaṃ with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt) for <abbr title="Pali Text Society">PTS</abbr> *niddhantaŋ* (“blown off” “purified” “thrown out”)
 

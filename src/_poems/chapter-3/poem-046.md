@@ -4,7 +4,7 @@ order: 46
 category: chapter-3
 ---
 
-### \[46. Paduma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadaniya[^1]\]
+### \[46. Paduma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chadaniya[^1]\]
 
 When Vipassi, the Chief Person,  
 the World-Lord had reached nirvana,  
@@ -31,9 +31,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1201\]
 
-Thus indeed, Venerable Padumu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadaniya Thera spoke these verses.
+Thus indeed, Venerable Padumu[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chadaniya Thera spoke these verses.
 
-The legend of Padumu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadaniya Thera is finished.
+The legend of Padumu[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chadaniya Thera is finished.
 
 [^1]: “Pink-Lotus-Cover-er”
 

@@ -35,4 +35,4 @@ The legend of Paṇṇadāyaka Thera is finished.
 
 [^2]: *lokapajjoto*
 
-[^3]: *sabbalokatiki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chako*
+[^3]: *sabbalokatiki[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chako*

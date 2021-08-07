@@ -4,9 +4,9 @@ order: 291
 category: chapter-3
 ---
 
-## <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka[^1] Chapter, the Thirtieth
+## [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itapūjaka[^1] Chapter, the Thirtieth
 
-### \[291. <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka[^2]\]
+### \[291. [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itapūjaka[^2]\]
 
 At that time I was a brahmin,  
 known by the name of Ajita.[^3]  
@@ -33,13 +33,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2675\]
 
-Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka[^7] Thera spoke these verses.
+Thus indeed Venerable [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itapūjaka[^7] Thera spoke these verses.
 
-The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka[^8] Thera is finished.
+The legend of [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itapūjaka[^8] Thera is finished.
 
-[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
+[^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itaka°
 
-[^2]: “Pyre-Worshipper;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
+[^2]: “Pyre-Worshipper;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itaka°
 
 [^3]: “Unconquered”
 
@@ -49,6 +49,6 @@ The legend of <span class="diacritics" data-state="on">C</span><span class="no-d
 
 [^6]: “Well Lit Up” “Very Brilliant” “Hotly Burning”
 
-[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
+[^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itaka°
 
-[^8]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka°
+[^8]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itaka°

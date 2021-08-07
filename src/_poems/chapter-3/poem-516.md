@@ -6,7 +6,7 @@ category: chapter-3
 
 ### \[513. {516.}[^1] Ajjunapupphiya[^2]\]
 
-On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
+On [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andabhāgā River’s bank,  
 I was a *kinnara*[^3] back then.  
 I saw the Buddha, Stainless One,  
 the Self-Become, Unconquered One. (1) \[5484\]

@@ -6,7 +6,7 @@ category: chapter-4
 
 ### \[12. Salalapupphikā[^1]\]
 
-On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
+On [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andabhāgā River’s bank,  
 I was a *kinnarī* back then.  
 And then I saw the God of Gods,  
 Bull of Men, walking back and forth. (1) \[151\]

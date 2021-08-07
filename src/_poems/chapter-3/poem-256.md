@@ -7,7 +7,7 @@ category: chapter-3
 ### \[256. ‘Pāhanadāyaka[^1]\]
 
 Back then I was the Buddha’s son,  
-\[a boy whose\] name was <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andana.[^2]  
+\[a boy whose\] name was [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andana.[^2]  
 I donated one of my shoes  
 when your Awakening occurred. (1) \[2518\]
 

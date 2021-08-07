@@ -97,7 +97,7 @@ The Legend of Bhaddiya Kaḷigodhāyaputta Thera is finished.
 
 [^1]: *sabbalokagganāyakaŋ*
 
-[^2]: reading *vatthaṃ senasanaṃ c’eva* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *satthukañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a ‘baddhakañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“things for the teacher, unrestricted gifts,“ <abbr title="Pali Text Society">PTS</abbr>). *Senāsana* literally means “bed-and-chair” (or “bed and eating”)
+[^2]: reading *vatthaṃ senasanaṃ c’eva* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *satthukañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a ‘baddhakañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (“things for the teacher, unrestricted gifts,“ <abbr title="Pali Text Society">PTS</abbr>). *Senāsana* literally means “bed-and-chair” (or “bed and eating”)
 
 [^3]: or “king of kings”
 

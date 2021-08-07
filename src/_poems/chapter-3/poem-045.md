@@ -4,7 +4,7 @@ order: 45
 category: chapter-3
 ---
 
-### \[45. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahatthiya[^1]\]
+### \[45. Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ahatthiya[^1]\]
 
 The Sambuddha named Sumedha  
 was traveling through the bazaar  
@@ -36,13 +36,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1196\]
 
-Thus indeed Venerable Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahatthiya Thera spoke these verses.
+Thus indeed Venerable Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ahatthiya Thera spoke these verses.
 
-The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahatthiya Thera is finished.
+The legend of Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ahatthiya Thera is finished.
 
 [^1]: “Five Handfuls”
 
-[^2]: reading *okhitta-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty) for *khitta-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu* (“thrown eyes,” <abbr title="Pali Text Society">PTS</abbr>).
+[^2]: reading *okhitta-[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkhu* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty) for *khitta-[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkhu* (“thrown eyes,” <abbr title="Pali Text Society">PTS</abbr>).
 
 [^3]: reading *ahamsu* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *akāsi* (<abbr title="Pali Text Society">PTS</abbr>)
 

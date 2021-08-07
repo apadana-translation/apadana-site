@@ -174,7 +174,7 @@ The legend of Tissa-metteyya Thera is finished.
 
 [^6]: reading *devate* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *deva te*
 
-[^7]: *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara*
+[^7]: *pari[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ara*
 
 [^8]: lit., “he did not burn”
 

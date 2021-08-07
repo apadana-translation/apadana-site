@@ -22,7 +22,7 @@ noisy with peacocks[^9] \[and\] herons,[^10]
 \[and\] the \[calls of birds\] like cuckoos.[^11] (3) \[3830\]
 
 Pigeons[^12] \[and\] *ravi*-swans[^13] \[as well\],  
-ruddy geese[^14] and *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aras*,  
+ruddy geese[^14] and *nadī[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aras*,  
 lapwings[^15] \[and\] mynah birds[^16] are here,  
 small monkeys,[^17] *jīvajīvakas*.[^18] (4) \[3831\]
 
@@ -156,11 +156,11 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^3]: *ogayha*, “submerged in” “plunged into.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> normalizes this by glossing “in the vicinity of the great ocean,” but I take it more literally, and assume that the protagonist is a supernatural being for whom this *is* normal.
 
-[^4]: <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā pakūjitā*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākūpakūjitā*
+[^4]: <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavākā pakūjitā*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavākūpakūjitā*
 
 [^5]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. No <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss here. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*. At \[4231\], \[4233\], \[4313\], \[6332\] the (or a) <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus.
 
-[^6]: *ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha-ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chapa-sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hannā*
+[^6]: *ma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha-ka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chapa-sañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}hannā*
 
 [^7]: reading *nānādija°* (“various birds”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *nānāmiga°*. The poem continues by listing types of birds, so the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading seems preferable, even though the <abbr title="Pali Text Society">PTS</abbr> reading is also certainly possible.
 
@@ -168,7 +168,7 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^9]: *mayura°*
 
-[^10]: *°koñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a°*
+[^10]: *°koñ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a°*
 
 [^11]: *kokilādīhi vagguhi*, lit., “and with the lovely \[cries\] of cuckoos, etc.”
 
@@ -176,7 +176,7 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^13]: *ravihaŋsā*
 
-[^14]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā*
+[^14]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavākā*
 
 [^15]: *dindibhā*, Sinh. gloss *kirallu*, *kiraḷā* = red-wattled or yellow-wattled lapwing. PSI dictionary gives “bluejay”
 
@@ -200,9 +200,9 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^25]: *vasīsatasahassehi*, that is, masters of the Teaching, arahants.
 
-[^26]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>uggaman akās’ ahaŋ*, lit., “I did a going out to meet \[him\].” Here <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>uggamanam akās’ ahaṃ*, breaking meter, but in the repetition of this *apadāna* as \#{551}, below, it agrees with the <abbr title="Pali Text Society">PTS</abbr> reading *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ugamam*
+[^26]: *pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}uggaman akās’ ahaŋ*, lit., “I did a going out to meet \[him\].” Here <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}uggamanam akās’ ahaṃ*, breaking meter, but in the repetition of this *apadāna* as \#{551}, below, it agrees with the <abbr title="Pali Text Society">PTS</abbr> reading *pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ugamam*
 
-[^27]: reading *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgikehi* (“the five types”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sataṅgikehi* (“the hundred types”)
+[^27]: reading *pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅgikehi* (“the five types”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sataṅgikehi* (“the hundred types”)
 
 [^28]: *purisuttamo*
 
@@ -216,11 +216,11 @@ The legend of Sabbadāyaka Thera is finished.
 
 [^33]: reading *vījaniyo pavāyanti* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vījanīyā pavāyanti*, “\[perfumes\] are being diffused by fans”
 
-[^34]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>eka-dussa-yugale*
+[^34]: *pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}eka-dussa-yugale*
 
 [^35]: *lokāhutipaṭiggahaŋ*, lit., “Recipient of the Sacrifices of the World”
 
-[^36]: *tappayi*, lit., “satisfied,” “regaled,” “entertained.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *sabbe ime <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and all of these \[monks\]”) for <abbr title="Pali Text Society">PTS</abbr> *saṅgham etena*
+[^36]: *tappayi*, lit., “satisfied,” “regaled,” “entertained.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *sabbe ime [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (“and all of these \[monks\]”) for <abbr title="Pali Text Society">PTS</abbr> *saṅgham etena*
 
 [^37]: lit., “every day”
 

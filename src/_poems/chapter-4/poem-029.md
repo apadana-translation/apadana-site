@@ -93,7 +93,7 @@ The legend of ten thousand Buddhist nuns headed up by Yasodharā is finished
 
 [^4]: *°putta°* lit., “son”
 
-[^5]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>charā kāmavaṇṇinī*, lit., “having the desirable appearance \[like\] celestia nymphs”
+[^5]: *a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}charā kāmavaṇṇinī*, lit., “having the desirable appearance \[like\] celestia nymphs”
 
 [^6]: lit., “offered *pūjā*”
 

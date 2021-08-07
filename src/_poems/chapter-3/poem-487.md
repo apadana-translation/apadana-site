@@ -216,7 +216,7 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^10]: or “what caste are they?,” *kathaŋ vaṇṇa°* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads, more correctly, *kathaṃ vaṇṇā*)
 
-[^11]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attārīsa-ddijāpi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (<abbr title="Pali Text Society">PTS</abbr>), *°dvijāpi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>), following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss in understanding *dvija* as “tooth” (“twice born,” hence the adult teeth).
+[^11]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}attārīsa-ddijāpi [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (<abbr title="Pali Text Society">PTS</abbr>), *°dvijāpi [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>), following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss in understanding *dvija* as “tooth” (“twice born,” hence the adult teeth).
 
 [^12]: reading *nettā gopa\[k\]khumā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *gopamukhā* (“face to face with a cow”)
 
@@ -224,7 +224,7 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^14]: lit., “going”
 
-[^15]: *yugamattañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a pekkhare* lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
+[^15]: *yugamattañ [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a pekkhare* lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
 
 [^16]: lit., “there is not to them a person-speaking”
 
@@ -238,7 +238,7 @@ The legend of Puḷinuppādaka Thera is finished.
 
 [^21]: *vaṇṇato anatikkantā*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss: *rūpakāya sampattiyen no ikmavanu häkkō ya*, “it is not possible to surpass them in good fortune as regards \[their\] form-bodies.
 
-[^22]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) fr <abbr title="Pali Text Society">PTS</abbr> *va*
+[^22]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) fr <abbr title="Pali Text Society">PTS</abbr> *va*
 
 [^23]: lit., “are gone”
 

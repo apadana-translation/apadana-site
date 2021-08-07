@@ -114,11 +114,11 @@ The legend of Tiṇakuṭidāyaka Thera is finished.
 
 [^12]: lit., of me, genitive.
 
-[^13]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha°*, Sinh. gloss *valassu*
+[^13]: *a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha°*, Sinh. gloss *valassu*
 
 [^14]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^15]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
+[^15]: *tara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits the second mention of “wolves” so may be taking *koka* in compound with *tara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā* (i.e., *kokatara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
 
 [^16]: *sarpaya*
 

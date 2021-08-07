@@ -80,13 +80,13 @@ Headed Up by Famous (Yasavatī) is finished
 
 [^3]: or “defilements” *sabbāsavā*
 
-[^4]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a no n’atthi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sabbāsavāmano n’atthi* (“there is no mind with all outflows”)
+[^4]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a no n’atthi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sabbāsavāmano n’atthi* (“there is no mind with all outflows”)
 
 [^5]: or “wholesome”
 
-[^6]: *yaŋ kiñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i sabbam patthitaŋ*
+[^6]: *yaŋ kiñ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}i sabbam patthitaŋ*
 
-[^7]: *sabbaŋ…paribhogaŋ;* <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *yaṃ kiñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i sādhu patthitaṃ* (“whatever excellently wished”)
+[^7]: *sabbaŋ…paribhogaŋ;* <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *yaṃ kiñ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}i sādhu patthitaṃ* (“whatever excellently wished”)
 
 [^8]: reading *mahāmune* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mahāmuni*
 

@@ -37,9 +37,9 @@ The legend of Kalambadāyaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Stalk of Sugar-Cane-er” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *U<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chukhaṇḍika* (“a broken bit/a stick of sugar-cane”)
+[^2]: “Stalk of Sugar-Cane-er” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *U[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chukhaṇḍika* (“a broken bit/a stick of sugar-cane”)
 
-[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> takes him as a Lonely (*pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>eka*, Sinh. *pasē*) Buddha, even though the text is unambiguous in labelling him a Sambuddha.
+[^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> takes him as a Lonely (*pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}eka*, Sinh. *pasē*) Buddha, even though the text is unambiguous in labelling him a Sambuddha.
 
 [^4]: see above, note to \#226, v. 4 (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> v. 2404) for a discussion of possible meanings and details of the use of this name elsewhere in *Apadāna*.
 

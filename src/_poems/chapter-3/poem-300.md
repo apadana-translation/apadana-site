@@ -32,14 +32,14 @@ The legend of Anusaŋsāvaka Thera is finished.
 
 The Summary:
 
-<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka and Pārichatta,  
+[C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itaka and Pārichatta,  
 Sadda, Gosīsasanthara,  
 Pada, Padesa, Saraṇa,  
 Amba and Saŋsāvaka too:  
 there are forty-seven verses  
 which are counted by those who know.
 
-The <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itakapūjaka Chapter, the Thirtieth
+The [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itakapūjaka Chapter, the Thirtieth
 
 Then there is the Summary of Chapters:
 
@@ -47,7 +47,7 @@ Kaṇṇikāra, Hatthidada,
 Ālamban’, Udakāsana,  
 Tuvara and Thomana too,  
 Ukkhepa, Sīsupadhāna,  
-Paṇṇada and <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūji:  
+Paṇṇada and [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itapūji:  
 in total all the verses here  
 \[do number\] four \[times\] one hundred  
 plus one more than fifty as well.[^3]
@@ -63,6 +63,6 @@ The Third Hundred[^4] is finished.
 
 [^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss takes *uluṅkabhikkhaṃ* to mean a small amount and I follow suit; cf. “eat like a bird.” But the term — which I do not find documented in the dictionaries — could also refer to something that owls typically eat, or even the flesh of owls. Cty provides no explanation.
 
-[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attāri <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a satānîha* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attārīsa satānîha* (“forty hundred”); I take the total to be 451 for this century of legends
+[^3]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}attāri [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a satānîha* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}attārīsa satānîha* (“forty hundred”); I take the total to be 451 for this century of legends
 
 [^4]: *sataka* is a common structure in Sanskrit and Pāli poetry, usually referring to one hundred verses, rather than (as here) one hundred stories.

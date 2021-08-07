@@ -118,7 +118,7 @@ The legend of Pabhaṅkara Thera is finished.
 
 [^2]: “Light-Maker”
 
-[^3]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etiya*, could also be some other sort of shrine but vv. 3-4 makes clear that it is imagined as a stupa.
+[^3]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}etiya*, could also be some other sort of shrine but vv. 3-4 makes clear that it is imagined as a stupa.
 
 [^4]: lit., “by means of,” “through”. We might say “by birth” or “in the family business”
 
@@ -128,7 +128,7 @@ The legend of Pabhaṅkara Thera is finished.
 
 [^7]: lit., “with \[my\] meritorious karma,” *puññakammena*
 
-[^8]: *kaṇḍu*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chu*, with the same meaning.
+[^8]: *kaṇḍu*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *ka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chu*, with the same meaning.
 
 [^9]: *daddu*
 
@@ -140,7 +140,7 @@ The legend of Pabhaṅkara Thera is finished.
 
 [^13]: *apamāra*. This seems an outlier since the remainder of the diseases listed here are all diseases of the skin, but the Pāli is unambiguous.
 
-[^14]: *vita<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chikā*
+[^14]: *vita[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chikā*
 
 [^15]: I take the <abbr title="Pali Text Society">PTS</abbr> *idhaŋ* here as a typographical error, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in reading the expected *idaŋ*
 

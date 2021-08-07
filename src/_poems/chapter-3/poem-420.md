@@ -4,7 +4,7 @@ order: 420
 category: chapter-3
 ---
 
-### \[417. {420.}[^1] Mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adāyaka[^2]\]
+### \[417. {420.}[^1] Mañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}adāyaka[^2]\]
 
 When Siddhattha reached nirvana,  
 Compassionate One, World-Leader,  
@@ -71,16 +71,16 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (13) \[4461\]
 
-Thus indeed Venerable Mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adāyaka Thera spoke these verses.
+Thus indeed Venerable Mañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}adāyaka Thera spoke these verses.
 
-The legend of Mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adāyaka Thera is finished.
+The legend of Mañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}adāyaka Thera is finished.
 
 The Summary:
 
-Bhaddāli and Eka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chatta,  
+Bhaddāli and Eka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chatta,  
 Tiṇasūla and Maŋsada.  
 Nāgapalllavika, Dīpi,  
-U<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaṅgī, Yāgudāyaka,  
+U[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chaṅgī, Yāgudāyaka,  [c]{.diacritics data-state=on}[c]{.diacritics data-state=on}
 Patthodanī, Mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adada:  
 the verses that are counted here  
 number two hundred verses and  
@@ -94,8 +94,8 @@ The Bhaddāli Chapter, the Forty-Second
 
 [^3]: i.e., his corporeal relics had been spread out (in stupas)
 
-[^4]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṇḍālo*, a person of low status, an outcaste
+[^4]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṇḍālo*, a person of low status, an outcaste
 
 [^5]: or “among the thirty\[-three\] gods,” “in Tāvatiṃsa heaven”
 
-[^6]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
+[^6]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arimo vattate bhavo*

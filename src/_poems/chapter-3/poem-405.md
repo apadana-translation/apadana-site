@@ -29,7 +29,7 @@ are perfuming my hermitage. (4) \[3993\]
 Winter cherry[^14] is blooming there,  
 and forests of Arab jasmine;[^15]  
 *sal*[^16] and *salalā*[^17] \[trees\] are there,  
-and lots of blooming *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampaka*.[^18] (5) \[3994\]
+and lots of blooming *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ampaka*.[^18] (5) \[3994\]
 
 Arjuna \[trees\][^19] and hiptage vines,[^20]  
 and sugarcane[^21] are blossoming;  
@@ -127,10 +127,10 @@ reed-fish,[^90] red-fish[^91] \[and\] *maggura*.[^92] (23c-d, 24a-b)
 \[It’s\] covered with fish and turtles,[^93]  
 also with small, tailless monkeys;[^94]  
 pigeons[^95] and *ravi*-swans[^96] \[as well\],  
-wild jungle fowl,[^97] *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aras*, (24c-d, 25a-b) \[4013\]
+wild jungle fowl,[^97] *nadī[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aras*, (24c-d, 25a-b) \[4013\]
 
 wattled lapwings[^98] and ruddy geese,[^99]  
-*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampakas*[^100] as well as pheasants,[^101]  
+*[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ampakas*[^100] as well as pheasants,[^101]  
 squirrels,[^102] \[also\] osprey[^103] \[and\] hawks,[^104]  
 \[and\] many \[birds called\] *uddhara*, (25c-d, 26a-b) \[4014\]
 
@@ -321,7 +321,7 @@ The legend of Upasīva Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Upasiva*, “Extremely Blessed” or “Very Fortunate One,” but Upasīva is a historical monk and <abbr title="Pali Text Society">PTS</abbr> follows the spelling of the earlier record of him, the *Upasīva­māṇava­pu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* of SN (v. 1069-1076; sixth *sutta* of the *Parāyanavagga*). There, but not in *Apadāna*, he is said to have been a follower of Bāvarī prior to joining the Buddhists.
+[^2]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Upasiva*, “Extremely Blessed” or “Very Fortunate One,” but Upasīva is a historical monk and <abbr title="Pali Text Society">PTS</abbr> follows the spelling of the earlier record of him, the *Upasīva­māṇava­pu[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā* of SN (v. 1069-1076; sixth *sutta* of the *Parāyanavagga*). There, but not in *Apadāna*, he is said to have been a follower of Bāvarī prior to joining the Buddhists.
 
 [^3]: <abbr title="Pali Text Society">PTS</abbr> reads *anūpa-titthe* (“on a watery bank”), <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *anupatitthe* (and glosses accordingly *kuḍā toṭuvala*, “on the small bank”)
 
@@ -353,13 +353,13 @@ The legend of Upasīva Thera is finished.
 
 [^17]: <abbr title="Pali Text Society">PTS</abbr> *salaḷā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *salalā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh.gloss = *hora* = “large timber tree yielding rezin and oil, Dipterocarpus zeylanicus (*Dipterocarp.*)” (Bot. dict.)
 
-[^18]: The *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
+[^18]: The *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ampaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
 [^19]: *kakudha* (a.k.a. *ajjuṇa*, Sinhala *kumbuk gasa, kubuk*, Terminalia arjuna) is an impressively large, shade-giving tree that thrives on the edges of tanks and lakes.
 
 [^20]: *atimutta* = *atimuttaka*? RD: a plant, Gaertnera Racemosa = Hiptage, hiptage benghalensis, stout, high-climbing vine, now invasive species in Florida, scented pink-white flowers, medicinal uses. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses Sinh. *yohombu* (Bot. Dict*. = yohombu väla = yon tumba*, an annual creeper, Trichodesma zeylanicum).
 
-[^21]: *mahānāmā*. Following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss as *uk*, sugarcane, Sa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>charum officinarum (*Gram.*)
+[^21]: *mahānāmā*. Following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss as *uk*, sugarcane, Sa[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}charum officinarum (*Gram.*)
 
 [^22]: *asana*, Pentaptera tomentosa, = a.k.a. crocodile-bark tree, Indian laurel, silver grey wood, white chuglam. The Bodhi tree of Tissa Buddha. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses as *piyā gasa* = *bakmī* = Sarcocephalus cordatus *(Rubi*.)
 
@@ -375,7 +375,7 @@ The legend of Upasīva Thera is finished.
 
 [^28]: *piyaṅgukā*. RD: “\[cp. Vedic priyangu\] 1. panic seed, Panicum Italicum Vv 537; J i.39; PvA 283. Mixed with water and made into a kind of gruel (piyangûdaka) it is used as an emetic J i.419. See also kangu. — 2. a medicinal plant, Priyangu J v.420. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses it *puvaṅgu*, Botanical dictionary = *priyaṅgu = ruk gasa*, Myristica Hersfieldia (*Myris.*), “a lofty tree…It produces fragrant flowers and seeds from its trunk.”
 
-[^29]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses as *satpeti däsaman* = “hundred-petaled” *saman pi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a mal*, a fragrant species of jasmine, Jasminum sambac. Note that at \[3432\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> says *vassika* is (regular) *däsaman*.
+[^29]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses as *satpeti däsaman* = “hundred-petaled” *saman pi[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}a mal*, a fragrant species of jasmine, Jasminum sambac. Note that at \[3432\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> says *vassika* is (regular) *däsaman*.
 
 [^30]: *pāṭali* is Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha. Cf. \#71, \#78, \#96, \#248, \#369{372}.
 
@@ -421,7 +421,7 @@ The legend of Upasīva Thera is finished.
 
 [^51]: *kaḍalī*, Sinh. *kesel*
 
-[^52]: reading *badarī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, Sinh. gloss is *ḍebara* (*= kola?* ). <abbr title="Pali Text Society">PTS</abbr> reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andarī°* (?), alt. *mandari* (?)
+[^52]: reading *badarī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, Sinh. gloss is *ḍebara* (*= kola?* ). <abbr title="Pali Text Society">PTS</abbr> reads *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}andarī°* (?), alt. *mandari* (?)
 
 [^53]: *ambāṭakā*, RD: “the hog-plum, Spondias Mangifera (a kind of mango), Vin ii.17 (°vana), DA i.271 (°rukkha).” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *ämbarälla*, *ämbärälla*, a small, sour, mango-like fruit cooked as a curry.
 
@@ -433,7 +433,7 @@ The legend of Upasīva Thera is finished.
 
 [^57]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *vanamuŋ* (jungle/wild mung)
 
-[^58]: this is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading, for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ora°*. I don’t find either term in the dictionaries.
+[^58]: this is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading, for <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ora°*. I don’t find either term in the dictionaries.
 
 [^59]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading of *avaṭā* (*hātpasa*, all around)
 
@@ -445,7 +445,7 @@ The legend of Upasīva Thera is finished.
 
 [^63]: *pipphalī*, Sinh. *pippali mūl*, the root of the long pepper, Piper longum, used in medicines.
 
-[^64]: *mari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ā*, black pepper, allowed as medicine for the monks,
+[^64]: *mari[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ā*, black pepper, allowed as medicine for the monks,
 
 [^65]: *nigrodhā* = Sinh. *nuga*, RD: the banyan or Indian fig-tree, Ficus Indica; Bot. dict.: milky fig tree, Ficus altissima (*Urti.*)
 
@@ -453,7 +453,7 @@ The legend of Upasīva Thera is finished.
 
 [^67]: *udumbara*, the glomerous fig tree, Ficus Glomerata, Sinh. *dimbul*
 
-[^68]: RD equates *āluva* with *ālupa* or *āluka*, “edible root of Amorphophallus <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampanulatus,” fr. Skt. *ālu*, *āluka*: a bulbous plant, Radix Globosa Esculenta or Amorphophallus (Kern), Arum <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampanulatum (Hardy), cognate with alium, good possibility is amorphophallus titanum, “titan arum”
+[^68]: RD equates *āluva* with *ālupa* or *āluka*, “edible root of Amorphophallus [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ampanulatus,” fr. Skt. *ālu*, *āluka*: a bulbous plant, Radix Globosa Esculenta or Amorphophallus (Kern), Arum [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ampanulatum (Hardy), cognate with alium, good possibility is amorphophallus titanum, “titan arum”
 
 [^69]: *kalamba*, RD draws attention to Skt. *kalambika*, *kalambuka* = convulvulus repens, bindweed, but there are other possibilities including a tree menispermum calumba (but its fruits are poisonous/only used in controlled medical usages, unlikely?) and (following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss here) Anthocephalus Cadamba (*Rub.*), Sinh. *kalamba*
 
@@ -503,7 +503,7 @@ The legend of Upasīva Thera is finished.
 
 [^92]: reading *maggurā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, which glosses the term as *magurō*, for <abbr title="Pali Text Society">PTS</abbr> *vaggula* (= *vagguli*, bat? Or fr. *vaggu*, beautiful, hence “pretty fish”?)
 
-[^93]: or tortoises, *ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha-ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chapa-sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hannā*
+[^93]: or tortoises, *ma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha-ka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chapa-sañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}hannā*
 
 [^94]: reading *pampaṭakehi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> gives *pappaṭakehi*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *huṇapupuḷangen* (Sorata = *uṇahapuḷu*, “a small creature belonging to the *vānara* \[monkey, ape\] group”); a tailless monkey. Its high-pitched cry famously (and frighteningly) resembles that of a cobra. These monkeys presumably “cover” the lake in the trees that overhang it.
 
@@ -515,9 +515,9 @@ The legend of Upasīva Thera is finished.
 
 [^98]: reading *dindibhā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (<abbr title="Pali Text Society">PTS</abbr>: *tiṭibhā*), Sinh. gloss *kirallu*, *kiraḷā* = red-wattled or yellow-wattled lapwing. PSI dictionary gives “bluejay” (doubtful)
 
-[^99]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *sakvālihiṇiyō* = *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akravākayā*, an aquatic bird, brahminy goose, btahmany kite, haliastur indus
+[^99]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavākā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *sakvālihiṇiyō* = *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akravākayā*, an aquatic bird, brahminy goose, btahmany kite, haliastur indus
 
-[^100]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampakā*, without an explanation. I follow <abbr title="Pali Text Society">PTS</abbr> here, though I understand the term on the basis of the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss
+[^100]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ampakā*, without an explanation. I follow <abbr title="Pali Text Society">PTS</abbr> here, though I understand the term on the basis of the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss
 
 [^101]: *jīvajīva*, Sinh-Eng dict: *äṭikukuḷa*
 
@@ -529,19 +529,19 @@ The legend of Upasīva Thera is finished.
 
 [^105]: *koṭṭhakā*, identification from RD, s.v.
 
-[^106]: reading *sukapotā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sukkapotā* (alt. *suggapotā*). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> takes *sukapotā* as *suvapota*, Sinh. gloss (on v. \[160\], above) = *girāmalittō* (= *girāmali<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>iyā*), Ceylon lorikeet, loriculus indicus
+[^106]: reading *sukapotā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sukkapotā* (alt. *suggapotā*). <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> takes *sukapotā* as *suvapota*, Sinh. gloss (on v. \[160\], above) = *girāmalittō* (= *girāmali[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}iyā*), Ceylon lorikeet, loriculus indicus
 
 [^107]: *kuḷīrā*, Sinh. gloss *kakuḷuvō*
 
-[^108]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>amarā*
+[^108]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}amarā*
 
 [^109]: this is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading for <abbr title="Pali Text Society">PTS</abbr> *kāreriyo*
 
-[^110]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha°*, Sinh. gloss *valassu*
+[^110]: *a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha°*, Sinh. gloss *valassu*
 
 [^111]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^112]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
+[^112]: *tara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits the second mention of “wolves” so may be taking *koka* in compound with *tara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā* (i.e., *kokatara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
 
 [^113]: *vānarā*
 
@@ -559,7 +559,7 @@ The legend of Upasīva Thera is finished.
 
 [^120]: *haŋsā*
 
-[^121]: *koñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ā*, Sinh. *kosvā lihiṇiyō*
+[^121]: *koñ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ā*, Sinh. *kosvā lihiṇiyō*
 
 [^122]: *mayurā*
 
@@ -573,7 +573,7 @@ The legend of Upasīva Thera is finished.
 
 [^127]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> treats this as a type of bird
 
-[^128]: *pisā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ā*
+[^128]: *pisā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ā*
 
 [^129]: *dānavā*
 
@@ -589,11 +589,11 @@ The legend of Upasīva Thera is finished.
 
 [^135]: *jaṭā-bhāra-bharita*, lit., “filled with braided top-knots and weights/heavy loads”.
 
-[^136]: *yugamattañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a pekkhantā*, lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
+[^136]: *yugamattañ [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a pekkhantā*, lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
 
-[^137]: *ga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chanti*, lit., “going”
+[^137]: *ga[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chanti*, lit., “going”
 
-[^138]: reading *sayañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a upasampannā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ayam <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a upasampanno* (“and this is supplied”
+[^138]: reading *sayañ [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a upasampannā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ayam [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a upasampanno* (“and this is supplied”
 
 [^139]: *pāṭihīrass’ idaŋ phalaŋ*
 
@@ -625,7 +625,7 @@ The legend of Upasīva Thera is finished.
 
 [^153]: or “as large as an elephant’s frontal lobe:” *kumbhamattaŋ*
 
-[^154]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*, lit., “thoughts” or “mind”
+[^154]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittaŋ*, lit., “thoughts” or “mind”
 
 [^155]: lit., “having become one who has”
 

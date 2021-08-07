@@ -44,7 +44,7 @@ The legend of Samādapaka Thera is finished.
 
 [^2]: see note to v. \[1601\]; this is the same term, *mahāpūgagaṇa*.
 
-[^3]: this follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *baddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*, “connected farers.” <abbr title="Pali Text Society">PTS</abbr> reads paddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā, One would prefer *sadā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*, or perhaps *saddha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā* (“fellow faithful”).
+[^3]: this follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *baddha[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arā*, “connected farers.” <abbr title="Pali Text Society">PTS</abbr> reads paddha[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arā, One would prefer *sadā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arā*, or perhaps *saddha[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arā* (“fellow faithful”).
 
 [^4]: lit., “I caused them to undertake meritorious action.”
 

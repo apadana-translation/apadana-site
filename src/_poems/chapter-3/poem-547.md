@@ -173,7 +173,7 @@ The legend of Abhaya Thera is finished.
 
 [^7]: *keṭubhavidū*
 
-[^8]: *chandovi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itikovido*
+[^8]: *chandovi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}itikovido*
 
 [^9]: *haṃsârāmam* appears to be a proper name, though it also could be taken as “the hermitage in \[my hometown\] Haṃsavatī”
 
@@ -181,7 +181,7 @@ The legend of Abhaya Thera is finished.
 
 [^11]: *mahājana-purakkhataŋ*
 
-[^12]: reading *vā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and”)
+[^12]: reading *vā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (“and”)
 
 [^13]: *gaṇi°*, lit., “one who has a group \[of followers\],” “a teacher”
 
@@ -205,13 +205,13 @@ The legend of Abhaya Thera is finished.
 
 [^23]: *sabbalokassa guru* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *garu*, the older form, but glosses *guru*). I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss in taking this as referring specifically to a Buddha, hence capitalize it as a Buddha-epithet.
 
-[^24]: reading *lok<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āriyo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *loka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyā* (sic).
+[^24]: reading *lok[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}āriyo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *loka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ariyā* (sic).
 
 [^25]: reading *sambuddhaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *yaŋ Budhhaŋ* (“which Buddha”)
 
 [^26]: <abbr title="Pali Text Society">PTS</abbr> *dhammadesakaŋ;* <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *dhammadesataṃ*
 
-[^27]: *tato <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>uto*, lit., “fallen from there”
+[^27]: *tato [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}uto*, lit., “fallen from there”
 
 [^28]: *gato* *saggaŋ*
 

@@ -4,7 +4,7 @@ order: 184
 category: chapter-3
 ---
 
-### \[184. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahatthiya[^1]\]
+### \[184. Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ahatthiya[^1]\]
 
 The Blessed One known as Tissa  
 was the World’s Best, the Bull of Men;  
@@ -36,9 +36,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[2174\]
 
-Thus indeed Venerable Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahatthiya Thera spoke these verses.
+Thus indeed Venerable Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ahatthiya Thera spoke these verses.
 
-The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahatthiya Thera is finished.
+The legend of Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ahatthiya Thera is finished.
 
 [^1]: “Five-handful-er”
 
@@ -48,7 +48,7 @@ The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="
 
 [^4]: lit., “are picked up,” reading *paggaṇhitaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> “*‘haŋ mūgo ‘mhi*” (“I am a deer”)
 
-[^5]: That is, nine handfuls total. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> suggests another readings of “five or four handfuls,” but the “*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*” suggests that the reading 5+4 is more appropriate. The cty does not take this up.
+[^5]: That is, nine handfuls total. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> suggests another readings of “five or four handfuls,” but the “*[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*” suggests that the reading 5+4 is more appropriate. The cty does not take this up.
 
 [^6]: reading *abhituṭṭho* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *abhighuṭṭho* (“proclaimed, announced”)
 
@@ -58,4 +58,4 @@ The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="
 
 [^9]: lit., “that flower”
 
-[^10]: that is, five men named Subhāsammatā, all of whom were rebirth precursors of Rev. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahatthiya. The name means “Well-Approved” or “Well Agreed Upon”.
+[^10]: that is, five men named Subhāsammatā, all of whom were rebirth precursors of Rev. Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ahatthiya. The name means “Well-Approved” or “Well Agreed Upon”.

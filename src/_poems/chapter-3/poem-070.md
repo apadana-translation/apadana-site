@@ -4,7 +4,7 @@ order: 70
 category: chapter-3
 ---
 
-### \[70. Puppha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgoṭiya[^1]\]
+### \[70. Puppha[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅgoṭiya[^1]\]
 
 Like a lion with fearless form,  
 like a great harpy with \[strong\] wings,  
@@ -41,22 +41,22 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (7) \[1422\]
 
-Thus indeed Venerable Puppha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgoṭiya Thera spoke these verses.
+Thus indeed Venerable Puppha[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅgoṭiya Thera spoke these verses.
 
-The legend of Puppha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgoṭiya Thera is finished.
+The legend of Puppha[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅgoṭiya Thera is finished.
 
 The Summary:
 
-Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itta, Addhāpupphī,  
+Saka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}itta, Addhāpupphī,  [c]{.diacritics data-state=on}[c]{.diacritics data-state=on}
 and with Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ābhigamana,  
 Parappasādī, Bhisada,  
-Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intī, Vatthadāyaka,  
+Su[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}intī, Vatthadāyaka,  
 Ambadāyī and Sumana  
-and also Puppa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgoṭika  
+and also Puppa[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅgoṭika  
 seventy-one verses counted,  
 were uttered by \[these\] goal-seers.
 
-The Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaniya[^5] Chapter, the Seventh,
+The Saka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittaniya[^5] Chapter, the Seventh,
 
 [^1]: “Flower-Casket-er”
 
@@ -66,4 +66,4 @@ The Saka<span class="diacritics" data-state="on">c</span><span class="no-diacrit
 
 [^4]: “Produced by Gods” or”Abundant Kings”
 
-[^5]: <abbr title="Pali Text Society">PTS</abbr> spells the name Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittiya here; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> has it right.
+[^5]: <abbr title="Pali Text Society">PTS</abbr> spells the name Saka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittiya here; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> has it right.

@@ -33,7 +33,7 @@ The Summary:
 
 Paduma, Uppalahattha,  
 Dhaja, Kiṅkhaṇika, Nala,  
-<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampaka, Paduma, Muṭṭhi,  
+[C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ampaka, Paduma, Muṭṭhi,  
 Tinduk and thus Ekañjali.  
 There are six plus sixty verses  
 which are counted by those who know.

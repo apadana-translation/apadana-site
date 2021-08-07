@@ -121,7 +121,7 @@ The legend of Bhisadāyaka Thera is finished.
 
 [^9]: lit., “went”
 
-[^10]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ālesi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sañjālesi*
+[^10]: reading *sañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ālesi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sañjālesi*
 
 [^11]: lit., “fell down”
 

@@ -205,7 +205,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^25]: *antojālagatā*, lit., “gone to inside the net”
 
-[^26]: reading *puthupāsaṇḍanissita* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *phuṭā sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>avinissitā* (“are numerous and ungrounded in truth”?)
+[^26]: reading *puthupāsaṇḍanissita* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *phuṭā sa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}avinissitā* (“are numerous and ungrounded in truth”?)
 
 [^27]: *mārisa*, in the voc.
 
@@ -223,7 +223,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^34]: *asādiso*
 
-[^35]: reading *kāruṇāmettāsañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mettākāruṇādisañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayo*, “heap of love, compassion, etc.” (which breaks meter).
+[^35]: reading *kāruṇāmettāsañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ayo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mettākāruṇādisañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ayo*, “heap of love, compassion, etc.” (which breaks meter).
 
 [^36]: *susīlo*, lit., “one who has good moral discipline”
 
@@ -253,7 +253,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^49]: *payato*
 
-[^50]: reading *su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *suci*
+[^50]: reading *su[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *suci*
 
 [^51]: reading *sangâtigo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sangh’âtīto*
 
@@ -287,7 +287,7 @@ The legend of Sabbakittika Thera is finished.
 
 [^66]: in the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading which guides me here, the last two feet of this verse have an implied, 3rd person plural subject.
 
-[^67]: reading *aññātañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vijāneyyuṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *aññātañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a vijāneyyaŋ* (“I should learn”)
+[^67]: reading *aññātañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a vijāneyyuṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *aññātañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a vijāneyyaŋ* (“I should learn”)
 
 [^68]: reading *phuseyyuṃ amataṃ padaṃ* for <abbr title="Pali Text Society">PTS</abbr> *phasseyyam amataŋ padaŋ* (“I should touch the deathless path”). *Phassati* is related to *phuseti* and in fact can stand for it, but the latter carries the applied meaning “reach” or “achieve” (an exalted religious state), and the first person makes no sense in context.
 

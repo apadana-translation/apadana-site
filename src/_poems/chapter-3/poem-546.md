@@ -177,7 +177,7 @@ The legend of Kāḷudāyi Thera is finished.
 
 [^9]: *dayāsayo*
 
-[^10]: *anantaguṇasañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayo*
+[^10]: *anantaguṇasañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ayo*
 
 [^11]: reading *anantajanasaṃsadī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (taking it fr. *saṃsandati*, “to flow together” “to associate with;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *anantajanayā gen yut sabamäda*, “in the midst of an assembly made fixed by getting of endless people;”) for <abbr title="Pali Text Society">PTS</abbr> *anantajanataŋ sarī* (“remembering an endless populace”). Other alts. include (<abbr title="Pali Text Society">PTS</abbr>) *anantajinasaŋsariŋ* (“I transmigrated with the endless Victor \[or endless Victors\]”) and (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) *anantajinasaṃsarī* (“he who Transmigrates with Endless Victors” or “Who Transmigrates As the Endless Victor”) and *anantajanasaṃsudhī* (“Purifier of Limitless People”). The accepted <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading could (should?) also be taken as an epithet, “Assembled with Limitless Folks”
 
@@ -199,13 +199,13 @@ The legend of Kāḷudāyi Thera is finished.
 
 [^20]: here <abbr title="Pali Text Society">PTS</abbr> presents as two six-footed verses material that <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> presents as three four-footed ones. The <abbr title="Pali Text Society">PTS</abbr> reading seems on the mark here, as it contains the two speeches in single verses. Indeed, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss has to take all three verses \[6197-6199\] as a single unit in order to convey the grammar correctly.
 
-[^21]: *siñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anto vāmatena maŋ*
+[^21]: *siñ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}anto vāmatena maŋ*
 
 [^22]: the Buddha’s father
 
 [^23]: *sadevake*, lit., “in \[the world\] with \[its\] gods”
 
-[^24]: i.e., the Isipatana, an open space near Benares (Sārnāth) which was the home of the Deer Park where he preached the first sermon, the *Dhamma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkappavattanasutta*
+[^24]: i.e., the Isipatana, an open space near Benares (Sārnāth) which was the home of the Deer Park where he preached the first sermon, the *Dhamma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkappavattanasutta*
 
 [^25]: i.e., the five monks who had been his compatriots while practicing austerities (“contortion”) for six years, to whom he preached the first sermon, making them the first followers (and the first arahants, after himself)
 

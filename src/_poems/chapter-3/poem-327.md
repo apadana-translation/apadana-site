@@ -149,7 +149,7 @@ The legend of Nigguṇḍipupphiya Thera is finished.
 
 [^8]: lit., “\[be a person\] who is not one with ill-will, \[one who is\] free of attachment.”
 
-[^9]: reading *devā devaṃ yadā vidū <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>avantaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *devadevaŋ yadā viduŋ*
+[^9]: reading *devā devaṃ yadā vidū [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}avantaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *devadevaŋ yadā viduŋ*
 
 [^10]: “Cheerful” or “Good-Minded”
 
@@ -169,7 +169,7 @@ The legend of Nigguṇḍipupphiya Thera is finished.
 
 [^18]: *ārāma*, any of a number of places, so-designated, where the Buddha dwelt (and where many of the *suttas* were preached). Given the reference to Sāvatthi in the present instance (v. 16) this would likely be the *ārāma* donated by Anāthapiṇḍika, in the Jetavāna.
 
-[^19]: *pāva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ana* = *dhamma*, the “Good Word”
+[^19]: *pāva[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ana* = *dhamma*, the “Good Word”
 
 [^20]: *bahujañña*, “of the populace,” “among the multitude”
 

@@ -258,7 +258,7 @@ Dhammā, and also Sudhammā,
 and seventh Saṅghadāyikā, (50) \[561\]
 
 \[now\] I, and \[the nun named\] Khemā,  
-Paṭā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā and Kuṇḍalā,[^51]  
+Paṭā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ārā and Kuṇḍalā,[^51]  
 Kisāgotamī, Dhammadinnā,[^52]  
 and Visākhā is the seventh. (51) \[562\]
 
@@ -274,7 +274,7 @@ of costly saffron-colored silk.[^54] (53) \[564\]
 
 Fallen from there, reborn among  
 brahmins[^55] in Ariṭṭhapura,  
-daughter of Tirīṭava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha,  
+daughter of Tirīṭava[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha,  
 I was charming[^56] Ummādantī.[^57] (54) \[565\]
 
 Fallen from there, I \[was born\] in  
@@ -436,7 +436,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^6]: this is the Buddha speaking, in response to Uppalavaṇṇā’s request to be forgiven any mistakes
 
-[^7]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atasso parisā*, I assume the monks, nuns, laymen and laywomen, but it could also be *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atasso…kaṅkhā*, fourfold doubt
+[^7]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}atasso parisā*, I assume the monks, nuns, laymen and laywomen, but it could also be *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}atasso…kaṅkhā*, fourfold doubt
 
 [^8]: *paññāvanta*
 
@@ -454,11 +454,11 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^15]: *telaŋ vatthigataŋ c’eva*, i.e., administering an enema? Or *vatthigataŋ* as a second thing being handled (carefully, gingerly), not only oil but also that “gone to \[or from?\] the bladder”?
 
-[^16]: reading *luñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i komārako yuvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *luñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iko mārako yuvā* (“plucky devilish youth”?)
+[^16]: reading *luñ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}i komārako yuvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *luñ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}iko mārako yuvā* (“plucky devilish youth”?)
 
-[^17]: or is *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittapunna* the *name* of a flower, i.e., “picks a *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittapunna* flower”
+[^17]: or is *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittapunna* the *name* of a flower, i.e., “picks a *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittapunna* flower”
 
-[^18]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālasamaŋ*, lit., “the same as the ring of cosmic mountains surrounding the universe”
+[^18]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavālasamaŋ*, lit., “the same as the ring of cosmic mountains surrounding the universe”
 
 [^19]: lit., “doing” “making”
 
@@ -466,15 +466,15 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^21]: lit., “pure” (*suddhaŋ*)
 
-[^22]: reading *sammukhā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a parammukhā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alts.) for <abbr title="Pali Text Society">PTS</abbr> *saṅkamante nidassitaŋ* (“pointed out when transmigrating” ?)
+[^22]: reading *sammukhā [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a parammukhā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alts.) for <abbr title="Pali Text Society">PTS</abbr> *saṅkamante nidassitaŋ* (“pointed out when transmigrating” ?)
 
 [^23]: that is, for the sake of meeting you, in order to be part of your future dispensation, cf. how contemporary Buddhists perform service in the hopes of meeting Maitreya or some even further-into-the-future Buddha.
 
 [^24]: or “wholesome”: *kusalaŋ*
 
-[^25]: *vajjetvā*. Reading <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *parivajjentī* (also “avoiding” “abstaining from” “renouncing”) for <abbr title="Pali Text Society">PTS</abbr> *paripā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ento* (“developing”) in the subsequent foot (note both recensions differently present it as a nine-syllable foot), but anyway leaving it untranslated here, lit., “avoiding avoiding”
+[^25]: *vajjetvā*. Reading <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *parivajjentī* (also “avoiding” “abstaining from” “renouncing”) for <abbr title="Pali Text Society">PTS</abbr> *paripā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ento* (“developing”) in the subsequent foot (note both recensions differently present it as a nine-syllable foot), but anyway leaving it untranslated here, lit., “avoiding avoiding”
 
-[^26]: reading *anā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āraŋ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *anāvaraŋ* (“not mean” = “noble things; <abbr title="Pali Text Society">PTS</abbr> alt. *bahuŋ janaŋ*, “many people” \[!\])
+[^26]: reading *anā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}āraŋ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *anāvaraŋ* (“not mean” = “noble things; <abbr title="Pali Text Society">PTS</abbr> alt. *bahuŋ janaŋ*, “many people” \[!\])
 
 [^27]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta*, \#29 of *Dīghanikāya*, section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
 
@@ -492,23 +492,23 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^34]: reading *paṭiyādesi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *paṭipādesi*, to impart, to offer, to present
 
-[^35]: reading *sabbaññuṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sabbañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“all…and”)
+[^35]: reading *sabbaññuṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sabbañ [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (“all…and”)
 
 [^36]: reading *sumanāy’ itarāyapi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *sumitaŋ itarāya pi* (“well-measured by the other to” ?), and following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss
 
-[^37]: reading *suvisāradā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and subsequent verses here) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a visāradā* (“and skillful”)
+[^37]: reading *suvisāradā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and subsequent verses here) for <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a visāradā* (“and skillful”)
 
 [^38]: *orasāmukhato jātā*
 
 [^39]: lit., “and”
 
-[^40]: reading *suvisāradā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a visāradā*, as above
+[^40]: reading *suvisāradā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a visāradā*, as above
 
 [^41]: reading *annapānena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mahājanena* (“with the great multitude”)
 
 [^42]: “sun”
 
-[^43]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arunayano*
+[^43]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arunayano*
 
 [^44]: reading *vināyakaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alts.) for <abbr title="Pali Text Society">PTS</abbr> *vimissitaŋ* (“mixed”)
 
@@ -522,7 +522,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^49]: *sukhe ṭhitā*, lit., “remaining in comfort.” Pronounce all four syllables when chanting to keep the meter or, to chant as a three-syllable word, read “comfortable royal princesses”
 
-[^50]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
+[^50]: I follow the original (in both recensions) in making this first foot a nine-syllable foot through the addition of the (superfluous) “and” (*[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*). The comma amplifies its effect, to syncopate the verse such that the (respective, exact) parallelism of the following verse (in which, however, all four feet contain the expected eight syllables) becomes apparent.
 
 [^51]: = Bhaddā Kuṇḍalakesī
 
@@ -544,7 +544,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^60]: *lāja*
 
-[^61]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aputtasatāni pi* (“and also \[my\] five hundred sons”), in keeping with its variant reading of the first foot of the following verse
+[^61]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aputtasatāni pi* (“and also \[my\] five hundred sons”), in keeping with its variant reading of the first foot of the following verse
 
 [^62]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *te pi* *patthesuṃ* (“and they \[the five hundred sons posited as already-existing in the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> variant of the prior verse\] wished”) for <abbr title="Pali Text Society">PTS</abbr> *tesu patthesu*, “with those wishes”
 
@@ -554,7 +554,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^65]: lit., “they were”
 
-[^66]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekanāyakā*, i.e., Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhas, Lonely Buddhas
+[^66]: *pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ekanāyakā*, i.e., Pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ekabuddhas, Lonely Buddhas
 
 [^67]: *sutavīrehi*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *sutavarehi* (“excellent sons”)
 
@@ -574,7 +574,7 @@ The legend of Uppalavaṇṇā Therī is finished.
 
 [^75]: this and the next verse are presented with feet of eleven syllables each in both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and I translate accordingly. The present verse has 12 syllables in the first foot, which I take as a mistake (read *pupphitaggaṃ* for *supupphitaggaŋ* ?).
 
-[^76]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittasmiŋ vasibhūtasmiŋ*, lit., “when i became master of (or “over”) \[my own\] mind”
+[^76]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittasmiŋ vasibhūtasmiŋ*, lit., “when i became master of (or “over”) \[my own\] mind”
 
 [^77]: *subhāvitā*, lit., “\[by me\] well-developed” or “well-cultivated” “well-meditated”
 

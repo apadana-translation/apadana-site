@@ -98,6 +98,6 @@ The legend of Sayampaṭibhāṇiya Thera is finished.
 
 [^9]: *vīthiyā*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) read *rathiyā*, both terms means “road” (in the locative, or else the instrumental “along the road”).
 
-[^10]: lit., “within the universe,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷamhi*
+[^10]: lit., “within the universe,” *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavāḷamhi*
 
 [^11]: lit., “the Buddha”

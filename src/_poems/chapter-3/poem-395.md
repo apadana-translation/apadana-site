@@ -206,9 +206,9 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^17]: *vivaṭṭetvā*, “causing to be turn away,” “destroying”
 
-[^18]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anivāraṇe*. five obstacles to arahantship. RD: “kāma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chanda, abhijjhā-vyāpāda, thīnamiddha, uddha<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a-kukku<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a, vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā,” i.e., attraction to sense pleasures, acting badly due to covetousness, sloth and torpor, flurry and worry, doubt.
+[^18]: *pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}anivāraṇe*. five obstacles to arahantship. RD: “kāma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chanda, abhijjhā-vyāpāda, thīnamiddha, uddha[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}a-kukku[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}a, vi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}iki[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā,” i.e., attraction to sense pleasures, acting badly due to covetousness, sloth and torpor, flurry and worry, doubt.
 
-[^19]: lit., “thought,” “mind,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ janetvā*
+[^19]: lit., “thought,” “mind,” *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittaŋ janetvā*
 
 [^20]: <abbr title="Pali Text Society">PTS</abbr> connects the first two feet of this verse with the previous one, which it (unlike <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) presents as six-footed, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> makes these the first two feet of the present, six-footed verse. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> here.
 
@@ -216,11 +216,11 @@ The legend of Padumakūṭāgāriya Thera is finished.
 
 [^22]: *bhikkhusaṅghassa*
 
-[^23]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṇā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aratā*
+[^23]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}araṇā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aratā*
 
 [^24]: *pabbajjaŋ abhinikkhamiŋ*
 
-[^25]: lit., “and,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*
+[^25]: lit., “and,” *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*
 
 [^26]: lit., “with \[my\] meritorious karma”
 

@@ -61,7 +61,7 @@ The legend of Jātipupphiya Thera is finished.
 
 [^3]: lit., “reached nirvana”
 
-[^4]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgoṭake*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss, straying from the text, gives “a flower bouquet (*mal-kaḍak*) of jasmine flowers (*dasamanmalin*) for the top (*mudun*, of the stupa)”
+[^4]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅgoṭake*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss, straying from the text, gives “a flower bouquet (*mal-kaḍak*) of jasmine flowers (*dasamanmalin*) for the top (*mudun*, of the stupa)”
 
 [^5]: or “the body:” *sarīram*
 
@@ -71,10 +71,10 @@ The legend of Jātipupphiya Thera is finished.
 
 [^8]: lit., “meritorious”
 
-[^9]: *saŋsarāmi…<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>e*, lit., “if I am transmigrating”
+[^9]: *saŋsarāmi…[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}e*, lit., “if I am transmigrating”
 
 [^10]: lit., “flower-*pūjā*”
 
-[^11]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
+[^11]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arimo vattate bhavo*
 
 [^12]: lit., “doing *pūjā* to the body”

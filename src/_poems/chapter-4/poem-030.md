@@ -336,11 +336,11 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^6]: *iddhiŋ*
 
-[^7]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālaŋ samaŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷasamaṃ*) *kāyaŋ*, lit., “body the same as the ring surrounding the universe”
+[^7]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavālaŋ samaŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavāḷasamaṃ*) *kāyaŋ*, lit., “body the same as the ring surrounding the universe”
 
 [^8]: or “island” (*dīpa*). This verse presumes knowledge of the ancient Indian understanding of India (here *jambudīpaŋ* \[<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *°dīpo*\], “the Island of Rose-Apples”) as one of the four great islands or continents making up the whole world. It lies to the south, with the other three being north, east and west of India.
 
-[^9]: lit., “in the ring surrounding the universe” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālagiri°*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷagiri°*)
+[^9]: lit., “in the ring surrounding the universe” (*[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavālagiri°*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavāḷagiri°*)
 
 [^10]: *jamburukkha°*, lit., “a rose-apple tree”
 
@@ -352,11 +352,11 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^14]: reading *buddhānaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (or <abbr title="Pali Text Society">PTS</abbr> alt. *Buddhāna*) for <abbr title="Pali Text Society">PTS</abbr> *pubbānaŋ* (former); but cf. below \[1133\] where <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> both give *pubbānaṃ* in a repetition of this verse (and several around it)
 
-[^15]: reading *vārayitvā anā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayantī anāvaraŋ* (“burning/tormenting ?)
+[^15]: reading *vārayitvā anā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}araṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ayantī anāvaraŋ* (“burning/tormenting ?)
 
 [^16]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta*, \#29 of *Dīghanikāya*, section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
 
-[^17]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *samattaŋ* (“fulfilled” “completed”)
+[^17]: reading *sañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}attaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *samattaŋ* (“fulfilled” “completed”)
 
 [^18]: reading *°bhaṇḍe na gūhāma* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *bhaṇḍena gūhāmi* (“I conceal with a thing”)
 
@@ -364,7 +364,7 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^20]: lit., “see,” fig. “know”
 
-[^21]: reading *anubhuttaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pari<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>attaŋ* (“are sacrificed”)
+[^21]: reading *anubhuttaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pari[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}attaŋ* (“are sacrificed”)
 
 [^22]: *saṃsāre*, or “wheel of life”
 
@@ -400,7 +400,7 @@ The Kuṇḍalakesā Chapter, the Third
 
 [^38]: reading *nibbānapadam asaṅkhataṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *nibbān’-amat’-asaṅkhataŋ* (“unconditioned, deathless nirvana”)
 
-[^39]: reading *sabbaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aŋ* (“the truth of”)
+[^39]: reading *sabbaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}aŋ* (“the truth of”)
 
 [^40]: reading *vandāma* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vandāmi* (as in v. \[1028\], above)
 

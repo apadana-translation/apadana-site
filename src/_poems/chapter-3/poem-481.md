@@ -61,7 +61,7 @@ The legend of Paŋsukūlasaññika Thera is finished.
 
 [^5]: reading *vitataṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tiyantaŋ* (‘with three strings” \[?\])
 
-[^6]: reading *bhakkhatthāaya <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariṃ ahaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *akkhitto yamaliŋ ahaŋ* (“struck by a pair”)
+[^6]: reading *bhakkhatthāaya [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ariṃ ahaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *akkhitto yamaliŋ ahaŋ* (“struck by a pair”)
 
 [^7]: *gahetvāna*, lit., “taking”
 

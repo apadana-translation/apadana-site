@@ -249,7 +249,7 @@ The legend of Hemaka Thera is finished.
 
 [^19]: or “capable of being enlightened,” *bodhaneyyaŋ pajaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *bodhaneyyaṃ janaṃ*, “people who could understand”
 
-[^20]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷasahassamhi*, i.e., in a thousand spheres of cosmic mountains that define a world
+[^20]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavāḷasahassamhi*, i.e., in a thousand spheres of cosmic mountains that define a world
 
 [^21]: lit., “had not formerly seen the Victor”
 
@@ -291,7 +291,7 @@ The legend of Hemaka Thera is finished.
 
 [^40]: *jātiyā*, lit., “well-born” or simply “excellent,” the term connotes lineage, genealogy, caste, breed. Here it seems to substitute for “those fast like the wind” (*vātajavā*) in parallel lists (see above, \[1293\], \[2692\], \[3981\])
 
-[^41]: *gāmaṇīya* usually means elephant-trainers, as in v. 26 \[4097\], above, but here the context makes “horse-trainer” a more suitable translation, so I have taken the same liberty taken by the poet in treating the term that way. PSI indicates that these are trainers of “elephants, etc.” (*ätun ādīn puhuṇu karana ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āryyaya*), allowing for the extended meaning in this context.
+[^41]: *gāmaṇīya* usually means elephant-trainers, as in v. 26 \[4097\], above, but here the context makes “horse-trainer” a more suitable translation, so I have taken the same liberty taken by the poet in treating the term that way. PSI indicates that these are trainers of “elephants, etc.” (*ätun ādīn puhuṇu karana ā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}āryyaya*), allowing for the extended meaning in this context.
 
 [^42]: *sannaddhā*, RD: fastened, bound; put on, clothed (with), armed, accoutred. The term has a wide enough range to leave open the possibility that rather than covered in the hides of these big cats, the poet imagines the chariots pulled by leopards and tigers, which would make sense of the specification below that they are also mounted by animal-trainers, in this case perhaps leopard- and tiger-trainers, paralleling the elephant-trainers who mount the elephants and the horse-trainers who mount the horses.
 
@@ -309,4 +309,4 @@ The legend of Hemaka Thera is finished.
 
 [^49]: *viriyam me dhurodhayhaŋ yogakkhemādhivāhanaŋ*, cf. SN 79
 
-[^50]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
+[^50]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arimo vattate bhavo*
