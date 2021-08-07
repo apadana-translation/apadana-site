@@ -4,7 +4,7 @@ order: 170
 category: chapter-3
 ---
 
-### \[170. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅguliya[^1]\]
+### \[170. Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅguliya[^1]\]
 
 The Blessed One known as Tissa,  
 the World’s Best One, the Bull of Men,  
@@ -31,9 +31,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2103\]
 
-Thus indeed Venerable Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅguliya Thera spoke these verses.
+Thus indeed Venerable Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅguliya Thera spoke these verses.
 
-The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅguliya Thera is finished.
+The legend of Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅguliya Thera is finished.
 
 The Summary:
 
@@ -41,10 +41,10 @@ Supārī and Kaṇaverī,
 Khujjaka, Desapūjaka,  
 Kaṇikāra, Sappidada,  
 Yūthika, Dussadāyaka,  
-Māḷa and Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgulika,  
+Māḷa and Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅgulika,  
 four and fifty verses.
 
-The Supāri<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariya Chapter, the Seventeenth.
+The Supāri[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ariya Chapter, the Seventeenth.
 
 [^1]: “Palm-Print-er”
 

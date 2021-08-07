@@ -48,7 +48,7 @@ The legend of Abbhañjanadāyaka Thera is finished.
 
 [^2]: “Unguent Donor.” Cf. \#274, above, for a different *apadāna* ascribed to a monk with the same name.
 
-[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ammavāsī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *dhammavādī* (“a speaker of the truth” or “a speaker of the Teaching” \[or perhaps, more appropriately, “a debater of doctrines”?\]). The latter — or the alt. reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ammavāsī* — is preferable given the other epithet applied to the protagonist here, “carrier of a water-pot (*kamaṇḍaludharo*),” which like the deer-leather robe is a distinctive mark of non-Buddhist adepts.
+[^3]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ammavāsī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *dhammavādī* (“a speaker of the truth” or “a speaker of the Teaching” \[or perhaps, more appropriately, “a debater of doctrines”?\]). The latter — or the alt. reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ammavāsī* — is preferable given the other epithet applied to the protagonist here, “carrier of a water-pot (*kamaṇḍaludharo*),” which like the deer-leather robe is a distinctive mark of non-Buddhist adepts.
 
 [^4]: *padhānapahitattaŋ*
 

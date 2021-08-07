@@ -6,7 +6,7 @@ category: chapter-3
 
 ### \[167. Yūthikapupphiya[^1]\]
 
-On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
+On [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andabhāgā River’s bank,  
 while traveling along the stream,  
 I saw the Self-Become-One there,  
 like a regal *sal* tree in bloom. (1) \[2082\]

@@ -1,4 +1,5 @@
 const markdownIt = require("markdown-it");
+const markdownItBracketedSpans = require("markdown-it-bracketed-spans");
 const markdownItAttrs = require("markdown-it-attrs");
 const markdownItFootnote = require("markdown-it-footnote");
 const shortcodes = require("./config/shortcodes");
@@ -22,9 +23,10 @@ module.exports = function (eleventyConfig) {
     typographer: true
   };
   const attrsOptions = {
-    allowedAttributes: ["id", "class"]
+    allowedAttributes: ["id", "class", "data-state"]
   };
   const markdownLib = markdownIt(mdOptions)
+    .use(markdownItBracketedSpans)
     .use(markdownItAttrs, attrsOptions)
     .use(markdownItFootnote);
   

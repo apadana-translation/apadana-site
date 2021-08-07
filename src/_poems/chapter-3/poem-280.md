@@ -33,7 +33,7 @@ The legend of Taraṇiya Thera is finished.
 The summary:
 
 Sovaṇṇa and Tilamuṭṭhi,  
-<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṅkot’,[^3] Abbhañjam, Añjali,  
+[C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}aṅkot’,[^3] Abbhañjam, Añjali,  [C]{.diacritics data-state=on}[C]{.diacritics data-state=on}
 Potthaka, <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka, Māla,  
 Ekapuṇḍari, Setuna:  
 when the verses are counted by  
@@ -45,4 +45,4 @@ The Suvaṇṇabimbohana Chapter, the Twenty-Eighth
 
 [^2]: “Fully Immersed”
 
-[^3]: probably a typographical error; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṅgot’*
+[^3]: probably a typographical error; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *[C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}aṅgot’*

@@ -302,9 +302,9 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^1]: The Sage of Videha is Ānanda, the Buddha’s cousin and personal attendant
 
-[^2]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhā*
+[^2]: *pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ekabuddhā*
 
-[^3]: This and the following two verses correspond to the first three verses of *Buddhāpadāna*, above, where they are however found only in the <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn> edition; here, <dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn> agrees with <a href="#BJTS" class="abbr">BJTS</a> in including them. They are in the more elaborate meter, with eleven syllables per foot, that characterizes the entire *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhāpadāna* (and the *sutta* from which it in turn draws, SN I.3), so I have translated accordingly.
+[^3]: This and the following two verses correspond to the first three verses of *Buddhāpadāna*, above, where they are however found only in the <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn> edition; here, <dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn> agrees with <a href="#BJTS" class="abbr">BJTS</a> in including them. They are in the more elaborate meter, with eleven syllables per foot, that characterizes the entire *Pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ekabuddhāpadāna* (and the *sutta* from which it in turn draws, SN I.3), so I have translated accordingly.
 
 [^4]: reading *pubba°* with <a href="#BJTS" class="abbr">BJTS</a> (and <a href="#PTS" class="abbr">PTS</a> alt., and <a href="#BJTS" class="abbr">BJTS</a> \[2\], above) for <a href="#PTS" class="abbr">PTS</a> *sabba°* (“all”)
 
@@ -312,15 +312,15 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^6]: *vaṇṇa-padesa-mattaŋ*
 
-[^7]: or, reading *sabbesu pasanna<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittā*, “with minds pleased in all of those \[Lonely Buddhas\]”
+[^7]: or, reading *sabbesu pasanna[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittā*, “with minds pleased in all of those \[Lonely Buddhas\]”
 
 [^8]: or read *madhuṃ va khuddaṃ* (“sweet like honey”) with <a href="#BJTS" class="abbr">BJTS</a>, as below even in <a href="#PTS" class="abbr">PTS</a> (v. 56)
 
-[^9]: *ādīnavo yañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, <a href="#BJTS" class="abbr">BJTS</a> Sinhala gloss *kāmayen*, i.e., “the danger” is (as *ādīnavo* connotes) passion itself
+[^9]: *ādīnavo yañ [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*, <a href="#BJTS" class="abbr">BJTS</a> Sinhala gloss *kāmayen*, i.e., “the danger” is (as *ādīnavo* connotes) passion itself
 
 [^10]: reading *tath’ eva* with <a href="#BJTS" class="abbr">BJTS</a> for <a href="#PTS" class="abbr">PTS</a> *tatth’ eva* (“there indeed”)
 
-[^11]: <a href="#BJTS" class="abbr">BJTS</a> adds the Pāli note: *ayaṃ gāthā marammapothake <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a suttanipāte <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a na vijjjati*, “this verse is not found in the Burmese edition nor \[lit., “and”\] in *Suttanipāta*,” referring to the remarkable fact that even though the following text is lifted almost verbatim from the “Rhinocerous Horn” *sutta* of the *Sutta-nipāta* (I.3), corresponding as indicated in the footnotes on the following verses, this present verse in the *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhāpadāna*, though it follows the format of the *Sutta-nipāta sutta*, is not found in that *sutta* (nor, apparently, in Burmese manuscripts of *Apadāna*).
+[^11]: <a href="#BJTS" class="abbr">BJTS</a> adds the Pāli note: *ayaṃ gāthā marammapothake [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a suttanipāte [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a na vijjjati*, “this verse is not found in the Burmese edition nor \[lit., “and”\] in *Suttanipāta*,” referring to the remarkable fact that even though the following text is lifted almost verbatim from the “Rhinocerous Horn” *sutta* of the *Sutta-nipāta* (I.3), corresponding as indicated in the footnotes on the following verses, this present verse in the *Pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ekabuddhāpadāna*, though it follows the format of the *Sutta-nipāta sutta*, is not found in that *sutta* (nor, apparently, in Burmese manuscripts of *Apadāna*).
 
 [^12]: *kuto*, lit., “how then?” “from where?”
 
@@ -340,7 +340,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^20]: = SN, v. 41
 
-[^21]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuddiso*, lit., “\[one who belongs to\] the four directions”
+[^21]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}atuddiso*, lit., “\[one who belongs to\] the four directions”
 
 [^22]: = SN, v. 42
 
@@ -376,7 +376,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^38]: lit., “it is an impossibility (*aṭṭhāna*, for *a-ṭṭhānaṃ*, lit., “groundless”) that one…would touch”
 
-[^39]: *Ādi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>abandhussa*. Though elsewhere in *Apadāna* this epithet signals Sammāsambuddhas (especially Tissa), here, as <a href="#BJTS" class="abbr">BJTS</a> gloss makes clear, it refers to the Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha to whom the phrase in quotation marks is attributed.
+[^39]: *Ādi[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}abandhussa*. Though elsewhere in *Apadāna* this epithet signals Sammāsambuddhas (especially Tissa), here, as <a href="#BJTS" class="abbr">BJTS</a> gloss makes clear, it refers to the Pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ekabuddha to whom the phrase in quotation marks is attributed.
 
 [^40]: = SN, v. 54
 
@@ -392,7 +392,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^46]: = SN, v. 58
 
-[^47]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., “and”
+[^47]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*, lit., “and”
 
 [^48]: *vibhūsanaṭṭhāṇā*, lit., “from a state of adornment”. The *°(ṭ)ṭhāṇā* here is largely superfluous, except in providing the ablative required by *virato*, and messes up the meter (13 syllables in this foot), but neither <a href="#PTS" class="abbr">PTS</a> nor <a href="#BJTS" class="abbr">BJTS</a> indicates any hesitation about the reading. Norman, in his SN tr. (p. 9) reads *vibhūsanā* and omits *°ṭṭhāṇā*
 
@@ -418,7 +418,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^59]: *akaraŋ*, lit., “not doing”
 
-[^60]: *sapadāna<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārī*
+[^60]: *sapadāna[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ārī*
 
 [^61]: = SN, v. 65
 
@@ -440,7 +440,7 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^70]: = SN, v. 72
 
-[^71]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., “and”
+[^71]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*, lit., “and”
 
 [^72]: = SN, v. 73
 
@@ -460,11 +460,11 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^80]: *bahudhammakāyā*
 
-[^81]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittissarā*
+[^81]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittissarā*
 
 [^82]: *sabbadukkhoghatiṇṇā*
 
-[^83]: *udagga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittā*
+[^83]: *udagga[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittā*
 
 [^84]: *paramatthadassī*
 
@@ -478,15 +478,15 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^89]: *samādhī*
 
-[^90]: *satippa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā*
+[^90]: *satippa[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ārā*
 
 [^91]: lit., “in” “among”
 
-[^92]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>antasattesu satippa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārā*. <a href="#BJTS" class="abbr">BJTS</a> reads *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>anta gambhīra-mata-ppa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āra*, “Going About with Deep Thought for Neighboring \[Folks\]” (?)
+[^92]: *pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}antasattesu satippa[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ārā*. <a href="#BJTS" class="abbr">BJTS</a> reads *pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}anta gambhīra-mata-ppa[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}āra*, “Going About with Deep Thought for Neighboring \[Folks\]” (?)
 
 [^93]: *Dīpā*
 
-[^94]: reading *satata<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>itā ‘me* with <a href="#BJTS" class="abbr">BJTS</a> for <a href="#PTS" class="abbr">PTS</a> *satataŋ hitā ‘me* (“these…who are constantly friendly”)
+[^94]: reading *satata[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}itā ‘me* with <a href="#BJTS" class="abbr">BJTS</a> for <a href="#PTS" class="abbr">PTS</a> *satataŋ hitā ‘me* (“these…who are constantly friendly”)
 
 [^95]: *pahīnasabbāvaraṇā*
 
@@ -494,15 +494,15 @@ The Legend of the Lonely Buddhas is finished.[^110]
 
 [^97]: *lokappadīpā*
 
-[^98]: *ghanakañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anābhā*
+[^98]: *ghanakañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}anābhā*
 
 [^99]: *lokasudakkhiṇeyyā*
 
-[^100]: reading *satata<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>itā ‘me* with <a href="#BJTS" class="abbr">BJTS</a> for <a href="#PTS" class="abbr">PTS</a> *satataŋ hitā ‘me* (“these…who are constantly friendly”)
+[^100]: reading *satata[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}itā ‘me* with <a href="#BJTS" class="abbr">BJTS</a> for <a href="#PTS" class="abbr">PTS</a> *satataŋ hitā ‘me* (“these…who are constantly friendly”)
 
 [^101]: *subhāsitāni*
 
-[^102]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aranti*
+[^102]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aranti*
 
 [^103]: *subhāsitāni*
 

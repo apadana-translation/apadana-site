@@ -4,9 +4,9 @@ order: 266
 category: chapter-3
 ---
 
-### \[266. Ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadāyaka[^1]\]
+### \[266. Ma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chadāyaka[^1]\]
 
-On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank  
+On [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andabhāgā River’s bank  
 I was an osprey[^2] at that time.  
 I brought[^3] a big fish and gave it  
 to the Buddha \[named\] Siddhattha. (1) \[2562\]
@@ -21,7 +21,7 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (3) \[2564\]
 
-Thus indeed Venerable Ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadāyaka Thera spoke these verses.  
+Thus indeed Venerable Ma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chadāyaka Thera spoke these verses.  [c]{.diacritics data-state=on}[c]{.diacritics data-state=on}
 The legend of Ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadāyaka Thera is finished.
 
 [^1]: “Fish-Donor”

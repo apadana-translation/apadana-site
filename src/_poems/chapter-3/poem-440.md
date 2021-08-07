@@ -49,7 +49,7 @@ The Summary:
 
 Ekavihārī Thera and  
 Saṅkhika, Pāṭihīraka,  
-Thavika and U<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chukaṇḍī[^5]  
+Thavika and U[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chukaṇḍī[^5]  
 Kalamb’, Ambāṭakapadā,[^6]  
 Harīṭak’, and Ambapiṇḍī,  
 Jambuda goes as the tenth \[poem\].  
@@ -66,6 +66,6 @@ The Ekavihāriya Chapter, the Forty-Fourth
 
 [^4]: I read this and the following two epithets in the vocative, in keeping with <abbr title="Pali Text Society">PTS</abbr>, though <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads them as nominatives, continuing the preceding verse, here and in the repeated version (\#{552}). See the latter for the treatment of them as nominatives.
 
-[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *U<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chukhaṇḍi*
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *U[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chukhaṇḍi*
 
 [^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Ambāṭakappadā*

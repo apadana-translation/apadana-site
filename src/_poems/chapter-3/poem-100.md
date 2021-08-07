@@ -37,10 +37,10 @@ The legend of Buddhūpaṭṭhāka Thera is finished.
 
 The Summary:
 
-Sudhāpiṇḍa and <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ela too,  
+Sudhāpiṇḍa and [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ela too,  
 Kammāra, Gandhamāliya,  
 Tipupphiya, Madhu, Senā,  
-Veyyāva<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a and Dhammaka:  
+Veyyāva[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}a and Dhammaka:  
 exactly sixty verses are  
 related in this chapter.
 
@@ -51,7 +51,7 @@ Then there is the Summary of Chapters:
 Buddha Chapter is the first,  
 Sīhāsani, Subhūti,  
 Kuṇḍa-Dhāna and Upāli,  
-Vījani and Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittani,  
+Vījani and Saka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittani,  
 Nāgasamāla, Timira,  
 with Sudhā Chapter they are ten.  
 There are fourteen hundred verses  
@@ -61,7 +61,7 @@ The Ten Chapters called Buddha.
 
 The First Hundred[^4] is finished.
 
-[^1]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuviise* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atunavute* (“ninety-four,” <abbr title="Pali Text Society">PTS</abbr>)
+[^1]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}atuviise* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}atunavute* (“ninety-four,” <abbr title="Pali Text Society">PTS</abbr>)
 
 [^2]: “Much Sound”
 

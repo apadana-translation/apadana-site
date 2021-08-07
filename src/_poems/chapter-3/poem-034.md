@@ -90,7 +90,7 @@ The legend of Kāḷudāyi Thera is finished.
 
 [^1]: <abbr title="Pali Text Society">PTS</abbr> reads Kāludāyi. See \#543 {546}, below, for a second *apadāna* ascribed to this \[same?\] monk.
 
-[^2]: reading *piyaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iraŋ* (“a long time,” <abbr title="Pali Text Society">PTS</abbr>)
+[^2]: reading *piyaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}iraŋ* (“a long time,” <abbr title="Pali Text Society">PTS</abbr>)
 
 [^3]: lit. “merit”
 

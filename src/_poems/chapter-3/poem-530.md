@@ -241,7 +241,7 @@ The legend of Sugandha Thera is finished.
 
 The Summary:
 
-Tiṇada and Pe<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chada[^128] too,  
+Tiṇada and Pe[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chada[^128] too,  
 Saraṇ’, Abbhañjanappada,  
 Pūpatī[^129] and Daṇḍadāyī,  
 and likewise tooNelapūjī,  
@@ -290,7 +290,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^19]: reading *vimuttopadhisaṅkhaye* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vimutto saṭisaṅkhaye*. *Upadhi* = a condition or ground for rebirth
 
-[^20]: *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkappavattako*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> agree on this reading, where one would expect *dhamma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akka°*
+[^20]: *brahma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkappavattako*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> agree on this reading, where one would expect *dhamma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akka°*
 
 [^21]: *sametā*, fr. *sameti*
 
@@ -354,7 +354,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^51]: or “the Son,” *suto*, Skt. *śruti*
 
-[^52]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo*
+[^52]: *a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}alo*
 
 [^53]: *mudito*
 
@@ -422,7 +422,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^85]: *tāpaso*, this makes nine syllables in the line, which needs to be chanted as eight by contracting “slayer” into “slair”
 
-[^86]: *sama<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itto*
+[^86]: *sama[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}itto*
 
 [^87]: *‘samasamo*, (following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss; the cpd. could also be *samasamo*, “Always the Same”
 
@@ -430,7 +430,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^89]: reading *dayāsayo* (and following gloss) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dayāyaso* (“famous for kindness” “kind-famed”)
 
-[^90]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cherasanto*
+[^90]: *a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cherasanto*
 
 [^91]: *akuho*, lit., “free of deceit” “upright”
 
@@ -448,7 +448,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^98]: *sabbavākyapathātīto*, lit., “he for whom the roads of all sayings are in the past”
 
-[^99]: *sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aneyyantago*, lit., “he who has gone to the end of truths to be understood \[or instructed, led carried, guided (gerund of *neti*)\]”
+[^99]: *sa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}aneyyantago*, lit., “he who has gone to the end of truths to be understood \[or instructed, led carried, guided (gerund of *neti*)\]”
 
 [^100]: *jino*
 
@@ -506,7 +506,7 @@ The Tiṇadāyaka Chapter, the Fifty-Third
 
 [^127]: *tiṇṇasamsārasāgaro*
 
-[^128]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ado* (“Mañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ada”)
+[^128]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *mañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ado* (“Mañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ada”)
 
 [^129]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *supaṭo* (“Supaṭa”)
 

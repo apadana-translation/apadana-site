@@ -18,7 +18,7 @@ The flowers stayed on \[his\] raised feet;
 
 In the twenty-thousandth aeon  
 there did live five \[different\] people  
-\[all\] named Puppha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chadaniya,[^4]  
+\[all\] named Puppha[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chadaniya,[^4]  
 wheel-turning kings with great power. (3) \[2131\]
 
 The four analytical modes,  

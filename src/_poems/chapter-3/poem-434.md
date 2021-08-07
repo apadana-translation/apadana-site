@@ -73,13 +73,13 @@ The legend of Ñāṇathavika Thera is finished.
 
 [^9]: *sabbāvantaŋ*, fr. *sabbāvant*, “all, entire;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *siyalu sattvayan sahita* (“with all its creatures”)
 
-[^10]: *yāvatā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a gato gati*, lit., “as far as going goes,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *yāmtāk da ētāk* (“however far, to that extent”)
+[^10]: *yāvatā [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a gato gati*, lit., “as far as going goes,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *yāmtāk da ētāk* (“however far, to that extent”)
 
 [^11]: *upamā n’atthi*, “analogy” “metaphor” “likeness”
 
 [^12]: reading *buddho* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *bhotvā* (= *hutvā* ?)
 
-[^13]: *pavu<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ati*, lit., “is called” “is said to be” “is pronounced”
+[^13]: *pavu[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ati*, lit., “is called” “is said to be” “is pronounced”
 
 [^14]: *sabbaññū ti*
 

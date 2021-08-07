@@ -119,7 +119,7 @@ The legend of Bhaddajī Thera, the eighth.
 
 [^8]: lit., “went”
 
-[^9]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ālesi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sañjālesi*
+[^9]: reading *sañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ālesi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sañjālesi*
 
 [^10]: lit., “fell down”
 

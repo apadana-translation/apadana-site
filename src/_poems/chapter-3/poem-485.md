@@ -4,7 +4,7 @@ order: 485
 category: chapter-3
 ---
 
-### \[482. {485.}[^1] <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanamāliya[^2]\]
+### \[482. {485.}[^1] [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andanamāliya[^2]\]
 
 Giving up the five sense pleasures,[^3]  
 forms which are dear and delightful;  
@@ -164,15 +164,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (29) \[5134\]
 
-Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanamāliya Thera spoke these verses.
+Thus indeed Venerable [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andanamāliya Thera spoke these verses.
 
-The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanamāliya Thera is finished.
+The legend of [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andanamāliya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
 [^2]: “Sandalwood and Flowers-er”
 
-[^3]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a-kāma-guṇe*, “the five strands of sense pleasure,” namely those obtained through the five senses
+[^3]: *pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a-kāma-guṇe*, “the five strands of sense pleasure,” namely those obtained through the five senses
 
 [^4]: *pāpakammaŋ vivajjayiŋ*
 
@@ -206,11 +206,11 @@ The legend of <span class="diacritics" data-state="on">C</span><span class="no-d
 
 [^19]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse
 
-[^20]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
+[^20]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
 
 [^21]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse
 
-[^22]: reading *abhiññāpāragū hutvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *aviññattipa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ayo*, “one whose support is not known”
+[^22]: reading *abhiññāpāragū hutvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *aviññattipa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ayo*, “one whose support is not known”
 
 [^23]: this verse does not appear in <abbr title="Pali Text Society">PTS</abbr>
 

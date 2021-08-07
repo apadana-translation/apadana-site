@@ -509,7 +509,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^2]: *mahiddhikā* = possessing great magical powers.
 
-[^3]: reading *satehi satassehi sā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *satehi saha pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ahi* (“by five hundred,” <abbr title="Pali Text Society">PTS</abbr>). As the subsequent three *apadānas* make clear, these authors believed that Yasodharā approached the Buddha accompanied by considerably more than 500 nuns.
+[^3]: reading *satehi satassehi sā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *satehi saha pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ahi* (“by five hundred,” <abbr title="Pali Text Society">PTS</abbr>). As the subsequent three *apadānas* make clear, these authors believed that Yasodharā approached the Buddha accompanied by considerably more than 500 nuns.
 
 [^4]: reading *ettha* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *nāma* (“indeed”)
 
@@ -517,7 +517,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^6]: lit., “to/of the Teacher,” “give reverence *to* the Teacher”
 
-[^7]: <abbr title="Pali Text Society">PTS</abbr> *khalitaŋ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>e tavaŋ mayi*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *khalitaṃ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>e mamaṃ tayi*, both to be construed the same way
+[^7]: <abbr title="Pali Text Society">PTS</abbr> *khalitaŋ [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}e tavaŋ mayi*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *khalitaṃ [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}e mamaṃ tayi*, both to be construed the same way
 
 [^8]: *munindo*
 
@@ -543,17 +543,17 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^19]: this verse does not appear here in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, whereas <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> supplies \[974\] which does not appear here in <abbr title="Pali Text Society">PTS</abbr>. The two verses are sufficiently different to warrant inclusion of both, though it creates some unevenness in the flow of the narrative here. This verse does appear in <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> below \[1054\], as in <abbr title="Pali Text Society">PTS</abbr>, in the reduplication of Yasodharā’s *apadāna* as the *apadāna* of Eighteen Thousand Buddhist Nuns Headed Up by Yasodharā.
 
-[^20]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālaŋ samaŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷasamaṃ*) *kāyaŋ*, lit., “body the same as the ring surrounding the universe”
+[^20]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavālaŋ samaŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavāḷasamaṃ*) *kāyaŋ*, lit., “body the same as the ring surrounding the universe”
 
 [^21]: or *Uttarakuru* “island” (*dīpa*). This verse presumes knowledge of the ancient Indian understanding of India (here *jambudīpaŋ* \[<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *°dīpo*\], “the Island of Rose-Apples”) as one of the four great islands or continents making up the whole world. It lies to the south, with the other three being north, east and west of India.
 
-[^22]: lit., “in the ring surrounding the universe” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavālagiri°*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavāḷagiri°*)
+[^22]: lit., “in the ring surrounding the universe” (*[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavālagiri°*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavāḷagiri°*)
 
 [^23]: *jamburukkha°*, lit., “a rose-apple tree”
 
 [^24]: *°vaṇṇaŋ…dassayi*
 
-[^25]: reading *phullapadmena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *phullapa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ena* (?)
+[^25]: reading *phullapadmena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *phullapa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ena* (?)
 
 [^26]: *dhammaŋ…puññataŋ*, alt. *suññataṃ* (“emptiness”!)
 
@@ -561,11 +561,11 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^28]: *saṅgaman te su-dassitaŋ* allows for a wide range of meanings; here I follow the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> in a fairly modest one. The half-verse could be taken more provocatively to mean, e.g., “when the Buddhas were World-Lords (or “during the time of the former World-Lords”) meeting (or “intercourse”) with you was well seen \[by me\]”
 
-[^29]: reading *vārayitvā anā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayantī anāvaraŋ* (“burning/tormenting ?)
+[^29]: reading *vārayitvā anā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}araṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ayantī anāvaraŋ* (“burning/tormenting ?)
 
 [^30]: *abhabba-ṭṭhāne*, the nine moral states or spheres of activity into which an arahant will not/cannot fall, D.iii.133 (and cf. D.iii.235 where only the first five appear as a set). This is *Pāsādika Sutta*, \#29 of *Dīghanikāya*, section 26. The nine are: (1) cannot deliberately take the life of a living being (2) cannot steal (3) cannot have sexual intercourse (4) cannot deliberately lie (5) cannot hoard anything for his own indulgence (6) cannot act wrongly through attachments (7) cannot act wrongly through hatred (8) cannot act wrongly through folly (9) cannot act wrongly through fear
 
-[^31]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *samattaŋ* (“fulfilled” “completed”)
+[^31]: reading *sañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}attaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *samattaŋ* (“fulfilled” “completed”)
 
 [^32]: reading *°bhaṇḍe na gūhāmi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *bhaṇḍena gūhāmi* (“I conceal with a thing”)
 
@@ -573,7 +573,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^34]: lit., “see,” fig. “know”
 
-[^35]: reading *anubhuttaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pari<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>attaŋ* (“are sacrificed,” cf. <abbr title="Pali Text Society">PTS</abbr> alt. *anubhontaŋ*)
+[^35]: reading *anubhuttaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pari[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}attaŋ* (“are sacrificed,” cf. <abbr title="Pali Text Society">PTS</abbr> alt. *anubhontaŋ*)
 
 [^36]: *saṃsāre*, or “wheel of life”
 
@@ -593,7 +593,7 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^44]: i.e., Sumedha
 
-[^45]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īrānupari āsīnaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>irānugataŋ dassitaŋ* (“associated for a long time, seen”)
+[^45]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}īrānupari āsīnaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}irānugataŋ dassitaŋ* (“associated for a long time, seen”)
 
 [^46]: *patikantaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *atikantaṃ*
 
@@ -633,11 +633,11 @@ The legend of *Yasodharā* Therī[^71] is finished
 
 [^64]: *adhikāraŋ sadā mayhaŋ*, lit., “my service is constant” “my service is daily”
 
-[^65]: or do: from *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arati*
+[^65]: or do: from *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arati*
 
 [^66]: *saddhamma°*, lit “good Teaching”
 
-[^67]: *dhammesu <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iṇṇānaŋ sadā saddhamma-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arino*
+[^67]: *dhammesu [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}iṇṇānaŋ sadā saddhamma-[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arino*
 
 [^68]: *aṭṭhamāse*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *addhamāse* (“half a month”)
 

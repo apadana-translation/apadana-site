@@ -58,6 +58,6 @@ The Jagatidāyaka Chapter, the Forty-Sixth
 
 [^5]: lit., “dong *pūjā*”
 
-[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> omits *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*
 
 [^7]: <abbr title="Pali Text Society">PTS</abbr> reads *Sattipaṇṇī*

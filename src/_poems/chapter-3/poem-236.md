@@ -17,7 +17,7 @@ I’ve come to know no bad rebirth;
 that’s the fruit of giving colors. (2) \[2447\]
 
 In the twenty-third aeon hence  
-\[I was one\] named <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andupama,[^3]  
+\[I was one\] named [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andupama,[^3]  
 a wheel-turning king with great strength,  
 possessor of the seven gems. (3) \[2448\]
 
@@ -32,6 +32,6 @@ The legend of Vaṇṇakāraka Thera is finished.
 
 [^1]: “Dyer” (*vaṇṇa* = color, hence lit., “color-er;” cf. *vaṇṇaka*, dye, perfume)
 
-[^2]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etiye*. These would presumably consist of banners, flags, and/or girdles attached to the stupa. *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>etiya* can also mean any shrine, so it is also possible that we should think of the cloths as curtains, robes on statues, and/or table cloths in an image house, or flags and so forth attached to a Bodhi tree.
+[^2]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}etiye*. These would presumably consist of banners, flags, and/or girdles attached to the stupa. *[C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}etiya* can also mean any shrine, so it is also possible that we should think of the cloths as curtains, robes on statues, and/or table cloths in an image house, or flags and so forth attached to a Bodhi tree.
 
 [^3]: “Moon-like” or “Similar to the Moon”

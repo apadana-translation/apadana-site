@@ -151,7 +151,7 @@ The Buddha Chapter of the *Apadāna*, the First.
 
 [^8]: the analogy seems clear enough, but the final adjective varies from text to text, something is lost here. <dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn> reads *na honti parivimhitā*, <a href="#BJTS" class="abbr">BJTS</a> and cty read *na hontu paNidimhi te*. Work on this one.
 
-[^9]: reading *saddhammam-a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo* (<a href="#BJTS" class="abbr">BJTS</a>) for *sangaman-a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alo* (<a href="#PTS" class="abbr">PTS</a>).
+[^9]: reading *saddhammam-a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}alo* (<a href="#BJTS" class="abbr">BJTS</a>) for *sangaman-a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}alo* (<a href="#PTS" class="abbr">PTS</a>).
 
 [^10]: this verse only appears in <a href="#BJTS" class="abbr">BJTS</a>
 

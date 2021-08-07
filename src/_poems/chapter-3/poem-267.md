@@ -6,7 +6,7 @@ category: chapter-3
 
 ### \[267. Javahaŋsaka[^1]\]
 
-On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank  
+On [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andabhāgā River’s bank  
 I was a forester back then.  
 I saw the Buddha, Siddhattha,  
 traveling across the sky \[there\]. (1) \[2565\]

@@ -4,7 +4,7 @@ order: 254
 category: chapter-3
 ---
 
-### \[254. Ti<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampakapupphiya[^1]\]
+### \[254. Ti[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ampakapupphiya[^1]\]
 
 In the Himalayan region  
 there’s a mountain named Vikaṭa.[^2]  
@@ -26,11 +26,11 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2514\]
 
-Thus indeed Venerable Ti<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampakapupphiya Thera spoke these verses.
+Thus indeed Venerable Ti[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ampakapupphiya Thera spoke these verses.
 
-The legend of Ti<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampakapupphiya Thera is finished.
+The legend of Ti[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ampakapupphiya Thera is finished.
 
-[^1]: “Three-*<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampaka*-Flower-er”. The *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
+[^1]: “Three-*[C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ampaka*-Flower-er”. The *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ampaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
 [^2]: this is the only reference to the mountain recorded in DPPN. The term means “disgusting” “foul” “filthy” “degraded” as in *vikaṭabhojana*, spoiled or rotten food.
 

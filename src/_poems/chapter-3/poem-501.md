@@ -214,7 +214,7 @@ The legend of Tīṇikaṇikārapupphiya Thera is finished.
 
 [^4]: *vijjādharo*, “spell-knower”
 
-[^5]: i.e., when it is full, *puṇṇamāse va <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andimā*
+[^5]: i.e., when it is full, *puṇṇamāse va [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}andimā*
 
 [^6]: reading *buddharaṃsī vidhāvare* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Buddharaŋs’ ābhidhāvare*
 
@@ -232,7 +232,7 @@ The legend of Tīṇikaṇikārapupphiya Thera is finished.
 
 [^13]: following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> reads *geṇḍu*, in multiple variations. At least in transmission, these obscure measures may not have been more intelligible than they are today, even if they are clues to the historical situation in which the original was composed.
 
-[^14]: *yeni<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakā*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *kämäti tänaka*
+[^14]: *yeni[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chakā*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *kämäti tänaka*
 
 [^15]: *°vikutī°*; I take this to evoke a mattress (*tūlikā°*) constructed through piling up (“assembling”) of layers of grass or wool (see RD., s.v.)
 
@@ -266,7 +266,7 @@ The legend of Tīṇikaṇikārapupphiya Thera is finished.
 
 [^30]: *mahāsāle*, a mark of wealth (which is further emphasized as *su-aḍhake*, “very wealthy” or “very influential”)
 
-[^31]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a-kāma-guṇe*, “the five strands of sense pleasure,” namely those obtained through the five senses
+[^31]: *pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a-kāma-guṇe*, “the five strands of sense pleasure,” namely those obtained through the five senses
 
 [^32]: *samādhikusalo ahaŋ*
 

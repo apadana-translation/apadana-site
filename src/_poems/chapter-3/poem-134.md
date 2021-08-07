@@ -60,7 +60,7 @@ The legend of Pupphachadanīya Thera is finished.
 
 [^5]: lit., “as far as the city \[went\]”
 
-[^6]: lit., “for an entire week they did not depart.” *Viga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chatha* = 3rd person plural *attanopada* aorist fr. \*gam
+[^6]: lit., “for an entire week they did not depart.” *Viga[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chatha* = 3rd person plural *attanopada* aorist fr. \*gam
 
 [^7]: lit., “kṣatriyans”.
 

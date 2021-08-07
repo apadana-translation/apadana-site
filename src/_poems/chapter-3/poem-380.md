@@ -44,7 +44,7 @@ The Summary:
 
 Bodhi and Pāṭalipupphi,  
 Uppali, Sattapaṇṇiya,  
-Gandhamuṭṭhi and <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka,  
+Gandhamuṭṭhi and [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itaka,  
 Tāla, Sumanadāmaka,  
 and Kāsumāriphala too:  
 one fewer than sixty verses.

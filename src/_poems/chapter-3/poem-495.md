@@ -68,6 +68,6 @@ The legend of Upaḍḍhadussadāyaka Thera is finished.
 
 [^4]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *tadā*, “then”
 
-[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aratī* with the same meaning
+[^5]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aratī* with the same meaning
 
 [^6]: *akutobhayo*, lit., “with fear from nowhere”

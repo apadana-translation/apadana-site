@@ -236,7 +236,7 @@ The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
 [^3]: reading *mahāmune* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *mahāmuni*
 
-[^4]: ˆ*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuddīpā*, lit., “from the four continents,” that is, from the entire world
+[^4]: ˆ*[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}atuddīpā*, lit., “from the four continents,” that is, from the entire world
 
 [^5]: here <abbr title="Pali Text Society">PTS</abbr> reads *phusissanti*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *bhujjhissanti;* both read *bhujjhissanti* in the following verse
 
@@ -246,7 +246,7 @@ The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
 [^8]: *upāgatā bhavā sabbe*
 
-[^9]: *samādhigo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā sabā*
+[^9]: *samādhigo[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arā sabā*
 
 [^10]: *samāpattī vasī tathā*, lit., “master with the attainments” (especially the eight *jhānas* or “altered states” experienced as states of awareness and/or levels of reality in meditation)
 
@@ -310,7 +310,7 @@ The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
 [^40]: *tuyham*, presumably addressing the bodhisattva
 
-[^41]: reading anubhontī <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iraṃ kālaṃ with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tuyhaŋ vo pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āre <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and all of you will attend on you”)
+[^41]: reading anubhontī [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}iraṃ kālaṃ with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tuyhaŋ vo pari[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}āre [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (“and all of you will attend on you”)
 
 [^42]: reading *jātāmha* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ajātā* (“\[we are\] unborn;” worse is alt. *ajāto* “he is unborn”)
 
@@ -318,7 +318,7 @@ The legend of Eighty-Four Thousand Brahmin Maiden Buddhist Nuns is finished
 
 [^44]: lit., “all the time we are not…”
 
-[^45]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkhallabhūmimasu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ikkhallabhūmiŋ gamanaŋ* (“going on muddy roads”)
+[^45]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ikkhallabhūmimasu[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}iṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ikkhallabhūmiŋ gamanaŋ* (“going on muddy roads”)
 
 [^46]: reading *pubbakammabalena no* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pubbakammaphalan tato* (“after the fruit of previous karma”)
 

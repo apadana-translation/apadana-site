@@ -6,7 +6,7 @@ category: chapter-4
 
 ### \[5. Tīṇinaḷamālikā[^1]\]
 
-On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
+On [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andabhāgā River’s bank,  
 I was a *kinnarī* back then.[^2]  
 I saw the Stainless Buddha \[there\],  
 Self-Become, the Unconquered One. (1) \[37\]
@@ -63,7 +63,7 @@ The legend of Tīṇinaḷamālikā Therī is finished.
 
 [^4]: lit., “I went to the Group of Thirty-Three”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “Due to that karma \[so\] well done, with intention and \[firm\] resolve, leaving \[my\] *kinnarī* body, I was born \[with\] the Thirty-Three,” and places the last two feet of the verse at the beginning of the next one.
 
-[^5]: reading *saṃvejetvāna me <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *saṃvedayitvā kusalaṃ* (“having felt/experienced \[my\] wholesome \[karma\],” <abbr title="Pali Text Society">PTS</abbr>).
+[^5]: reading *saṃvejetvāna me [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittaṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *saṃvedayitvā kusalaṃ* (“having felt/experienced \[my\] wholesome \[karma\],” <abbr title="Pali Text Society">PTS</abbr>).
 
 [^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “all \[new\] existence is destroyed.”
 

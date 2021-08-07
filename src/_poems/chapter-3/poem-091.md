@@ -48,6 +48,6 @@ The legend of Sudhāpiṇḍiya Thera is finished.
 
 [^1]: “Plaster-Ball-er”
 
-[^2]: *papañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* = three things delaying time in samsara, namely craving, wrong views and pride.
+[^2]: *papañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* = three things delaying time in samsara, namely craving, wrong views and pride.
 
 [^3]: “Repairer”

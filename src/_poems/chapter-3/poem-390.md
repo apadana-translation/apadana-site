@@ -47,7 +47,7 @@ When I \[again\] got human birth,
 I \[also\] got lots of slander. (8) \[3348\]
 
 Through what remained of that karma,  
-Lady <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>iñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a did slander me  
+Lady [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}iñ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a did slander me  
 in front of a group of people  
 without any grounding in fact.[^9] (9) \[3349\]
 
@@ -205,7 +205,7 @@ The Avaṇṭaphala Chapter, the Thirty-Ninth
 
 [^8]: she was an associate of “the heretics” (*titthiya*, “ford-worshippers”), jealous rivals who repeatedly tried to undermine the Buddha’s reputation. She frequented the Jetavana monastery and garden in Savatthi/Sravasti where he spent much of his career as Buddha, then meeting townsfolk on the road claimed to be sleeping with him in his perfumed cell there. Once the rumor had spread, the heretics murdered her and placed her corpse inside the Jetavana, then informed the police who upon searching the place, of course, discovered it.
 
-[^9]: *abhūtena*, lit., “through \[what was\] not produced/actual/become.” Like Sundarīkā, <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>iñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a was employed by “the heretics” to discredit the Buddha. She placed padding beneath her garment and proceeded to tell people that the Buddha, having fathered her child, was now neglecting his paternal obligations. The gods, enraged at the unrighteousness of the accusation, contrived her literal undoing: a mouse gnawed the strings holding the padding in place and it fell out for all to see, exposing her lie.
+[^9]: *abhūtena*, lit., “through \[what was\] not produced/actual/become.” Like Sundarīkā, [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}iñ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a was employed by “the heretics” to discredit the Buddha. She placed padding beneath her garment and proceeded to tell people that the Buddha, having fathered her child, was now neglecting his paternal obligations. The gods, enraged at the unrighteousness of the accusation, contrived her literal undoing: a mouse gnawed the strings holding the padding in place and it fell out for all to see, exposing her lie.
 
 [^10]: I follow the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling of this name, cf. the alt reading in <abbr title="Pali Text Society">PTS</abbr> isiṅgīmo; <abbr title="Pali Text Society">PTS</abbr> gives Isigaṇo
 
@@ -225,7 +225,7 @@ The Avaṇṭaphala Chapter, the Thirty-Ninth
 
 [^18]: lit., “I produced mental pleasure”
 
-[^19]: reading *sabbe sakkā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a haññiṃsu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> over <abbr title="Pali Text Society">PTS</abbr> *Sakkesu haññamānesu*, but in either event the text is suspect. In this <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading, presumably, the Śākyans were the fishermen in the village.
+[^19]: reading *sabbe sakkā [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a haññiṃsu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> over <abbr title="Pali Text Society">PTS</abbr> *Sakkesu haññamānesu*, but in either event the text is suspect. In this <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading, presumably, the Śākyans were the fishermen in the village.
 
 [^20]: the slaying of the Buddha’s whole clan was the result, according to the *Jātaka*, of enmity that developed over many lifetimes due to their group evil deeds.
 

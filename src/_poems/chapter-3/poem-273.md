@@ -4,7 +4,7 @@ order: 273
 category: chapter-3
 ---
 
-### \[273. <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṅgoṭakiya[^1]\]
+### \[273. [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}aṅgoṭakiya[^1]\]
 
 While dwelling amidst the mountains,  
 living off of \[food from\] the sea,  
@@ -26,10 +26,10 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2594\]
 
-Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṅgoṭakiya Thera spoke these verses.
+Thus indeed Venerable [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}aṅgoṭakiya Thera spoke these verses.
 
-The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṅgoṭakiya Thera is finished.
+The legend of [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}aṅgoṭakiya Thera is finished.
 
 [^1]: “Box-er”
 
-[^2]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgoṭakam*, “box,” glossed here as *goṭuwak*, a cup-shaped container
+[^2]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅgoṭakam*, “box,” glossed here as *goṭuwak*, a cup-shaped container

@@ -115,7 +115,7 @@ The *Apadāna* is Finished
 
 [^3]: *kassape jinasāsane*, lit., “in the dispensation of the Victor, Kassapa \[Buddha\]”
 
-[^4]: reading *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyam* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *°brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eram*, lit., “the Brahma-life” “the holy life” “celibacy”
+[^4]: reading *°brahma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ariyam* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *°brahma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}eram*, lit., “the Brahma-life” “the holy life” “celibacy”
 
 [^5]: i.e., the thirty-three gods.
 

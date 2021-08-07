@@ -4,7 +4,7 @@ category: chapter-4
 order: 15
 ---
 
-### \[15. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpikā[^1]\]
+### \[15. Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}adīpikā[^1]\]
 
 In the city, Haṃsavatī,  
 I was a wanderer back then.  
@@ -47,7 +47,7 @@ discarding \[my\] human body,
 I went to Tāvatiṃsa \[then\]. (8) \[197\]
 
 There my well-made divine mansion  
-was known as “Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpī”[^3] then.  
+was known as “Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}adīpī”[^3] then.  
 It was \[full\] sixty leagues in height,  
 \[and\] thirty leagues in width back then. (9) \[198\]
 
@@ -131,9 +131,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (25) \[214\]
 
-Thus indeed Bhikkhunī Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpikā spoke these verses.
+Thus indeed Bhikkhunī Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}adīpikā spoke these verses.
 
-The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpikā Therī is finished.
+The legend of Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}adīpikā Therī is finished.
 
 [^1]: “Five-Lamp-er.” With some very minor changes, this is identical to *Therī-apadāna* \#9, above, ascribed to a nun of the same name. I have not repeated all the footnotes here, but have altered the translation slightly to indicate the minor differences between the two texts, and have retained footnotes indicating differences in the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> version, as appropriate.
 

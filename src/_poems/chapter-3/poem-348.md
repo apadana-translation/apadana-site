@@ -76,7 +76,7 @@ The legend of Tiṇamuṭṭhidāyaka Thera is finished.
 
 [^6]: *anāsava*
 
-[^7]: reading *va* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternative) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, “and”
+[^7]: reading *va* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternative) for <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*, “and”
 
 [^8]: *yūpa*
 

@@ -59,7 +59,7 @@ The legend of Salaḷamaṇḍapiya Thera is finished.
 
 [^7]: lit., “I caused a pavilion (*maṇḍapa*) to be constructed,” caus. of *karoti*
 
-[^8]: lit., “and,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*
+[^8]: lit., “and,” *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*
 
 [^9]: Kakusandha Buddha lived at an earlier time in the present aeon, one of five Buddhas said to have done so. The author demonstrates awareness of the little wrinkle this creates in applying this typical summary verse, which had been modified accordingly
 

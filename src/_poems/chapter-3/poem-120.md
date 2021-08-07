@@ -43,7 +43,7 @@ that is the fruit of birth-*pūjā*. (7) \[1764\]
 
 In the thirtieth aeon ago,  
 four and thirty lords of people,  
-\[all\] named Supāri<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariya,[^4]  
+\[all\] named Supāri[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ariya,[^4]  
 were wheel-turning kings with great strength. (8) \[1765\]
 
 The four analytical modes,  
@@ -59,7 +59,7 @@ The Summary:
 
 Parivāra, Sumaṅgalya,  
 Saraṇ, Āsana, Pupphika,  
-<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjī, Buddhasaññī,  
+[C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itapūjī, Buddhasaññī,  
 Magg’, Upaṭṭhāna, Jātina  
 ninety uttered verses are  
 counted clearly \[in this part\].

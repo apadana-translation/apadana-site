@@ -4,9 +4,9 @@ order: 24
 category: chapter-3
 ---
 
-### \[24. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīlasamādāniya[^1]\]
+### \[24. Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}asīlasamādāniya[^1]\]
 
-In the city, <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andavatī,[^2]  
+In the city, [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andavatī,[^2]  
 I was a servant-man back then.  
 Bound in the service of others  
 I could not renounce the world \[yet\]: (1) \[948\]
@@ -111,9 +111,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (21) \[968\]
 
-Thus indeed Venerable Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīlasamādāniya Thera spoke these verses.
+Thus indeed Venerable Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}asīlasamādāniya Thera spoke these verses.
 
-The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīlasamādāniya Thera is finished.
+The legend of Pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}asīlasamādāniya Thera is finished.
 
 [^1]: “Accepter of the FIve Moral Precepts”
 
@@ -131,8 +131,8 @@ The legend of Pañ<span class="diacritics" data-state="on">c</span><span class="
 
 [^8]: lit., “I obtain those places”.
 
-[^9]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīlān’*:
+[^9]: *pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}asīlān’*:
 
-[^10]: reading *mo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ayiṃ* (<a href="#BJTS" class="abbr">BJTS</a>) for *poṭhayiŋ* (<dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn>).
+[^10]: reading *mo[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ayiṃ* (<a href="#BJTS" class="abbr">BJTS</a>) for *poṭhayiŋ* (<dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn>).
 
-[^11]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asīle*: to practice restraint from taking life, taking what is not given, sexual misconduct, false speech and becoming careless through the use of alcohol.
+[^11]: *pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}asīle*: to practice restraint from taking life, taking what is not given, sexual misconduct, false speech and becoming careless through the use of alcohol.

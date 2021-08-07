@@ -48,7 +48,7 @@ The legend of Piyālaphaladāyaka Thera is finished.
 The Summary:
 
 Sobhī and Sudassana too,  
-<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andana, Pupphachadana,  
+[C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andana, Pupphachadana,  [C]{.diacritics data-state=on}[C]{.diacritics data-state=on}
 Raho and <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampakapupphī  
 and with Atthasandassaka,  
 Ekadussī, Sāladada  

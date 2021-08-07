@@ -59,7 +59,7 @@ The legend of Suvaṇṇapupphiya Thera is finished.
 
 [^2]: *Dhamma*
 
-[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *va* (“like,” <abbr title="Pali Text Society">PTS</abbr>).
+[^3]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *va* (“like,” <abbr title="Pali Text Society">PTS</abbr>).
 
 [^4]: lit., “Sambuddha”
 

@@ -4,9 +4,9 @@ order: 531
 category: chapter-3
 ---
 
-## Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna Chapter, the Fifty-Fourth
+## Ka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}āna Chapter, the Fifty-Fourth
 
-### \[528. {531.}[^1] Mahāka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna[^2]\]
+### \[528. {531.}[^1] Mahāka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}āna[^2]\]
 
 The Victor, Padumuttara,  
 Lust-less,[^3] Unconquered Vanquisher,[^4]  
@@ -42,7 +42,7 @@ I \[then\] heard \[him\] preaching *Dhamma*
 \[and\] praising the great virtue of  
 one of that Hero’s followers: (7) \[5669\]
 
-“Whereby[^19] this \[monk\] Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āyana[^20]  
+“Whereby[^19] this \[monk\] Ka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}āyana[^20]  
 provides lengthy[^21] explanations  
 of what’s been said by me[^22] in brief,  
 he gladdens multitudes, and me.  
@@ -69,14 +69,14 @@ at home in praising the Buddha,[^32]
 grasping the Teaching superbly,[^33]  
 resembling sprinkled ambrosia.[^34] (12-13) \[5673-5674\][^35]
 
-Hearing \[of\] Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna’s virtue,  
+Hearing \[of\] Ka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}āna’s virtue,  
 he stands \[there\] wishing for that place.  
 When very far in the future,  
 the Sage So Great is Gotama,  
 Worthy heir to that one’s *Dhamma*,  
 *Dhamma*’s legitimate offspring,  
 \[this one\] will be that Teacher’s follower;  
-his name will be Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna \[then\]. (14-15) \[5675-5676\]
+his name will be Ka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}āna \[then\]. (14-15) \[5675-5676\]
 
 Very learned, with great knowledge,  
 clever at conclusions,[^36] a sage,  
@@ -101,9 +101,9 @@ that’s the fruit of Buddha-*pūjā*. (19) \[5680\]
 Now, in \[my\] final existence,  
 I was born in Ujjain city,[^38]  
 sharp, a master of the Vedas,  
-the son of Tiriṭiva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha,[^39]  
+the son of Tiriṭiva[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha,[^39]  
 who was the brahmin counsellor[^40]  
-of the \[king\], Pajjota <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṇḍa;[^41]  
+of the \[king\], Pajjota [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}aṇḍa;[^41]  [C]{.diacritics data-state=on}[C]{.diacritics data-state=on}[C]{.diacritics data-state=on}[C]{.diacritics data-state=on}
 my mother’s <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andapaduma;[^42]  
 \[I’m\] Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna, with superb skin. (20-21) \[5681-5682\]
 
@@ -136,13 +136,13 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (27) \[5688\]
 
-Thus indeed Venerable Mahāka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna Thera spoke these verses.
+Thus indeed Venerable Mahāka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}āna Thera spoke these verses.
 
-The legend of Mahāka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna Thera is finished.
+The legend of Mahāka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}āna Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “The Great Golden One” = Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āyana, a historical monk, one of the chief followers of the Buddha. See DPPN II: 468ff. Cf. also \#33, above, another *apadāna* with varying details which is ascribed to this famous monk.
+[^2]: “The Great Golden One” = Ka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}āyana, a historical monk, one of the chief followers of the Buddha. See DPPN II: 468ff. Cf. also \#33, above, another *apadāna* with varying details which is ascribed to this famous monk.
 
 [^3]: *anejo*
 
@@ -152,7 +152,7 @@ The legend of Mahāka<span class="diacritics" data-state="on">cc</span><span cla
 
 [^6]: *sasaṅkavimalānano*
 
-[^7]: *kanakā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alasaṅkāso*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *kanakaparvatayak men babalannā*
+[^7]: *kanakā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}alasaṅkāso*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *kanakaparvatayak men babalannā*
 
 [^8]: reading *ravi-ditti-samappabho* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *ravidittihiruppabho* (“with Sunlight like the Sun when it’s Blazing”)
 
@@ -172,13 +172,13 @@ The legend of Mahāka<span class="diacritics" data-state="on">cc</span><span cla
 
 [^16]: *karuṇāniḍḍhasantāno*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *karuṇānibaddhasantāno* (“Continuously Fixed on \[stable, bound down to\] Compassion”), and notes alt. reading *°nibandha* for *niḍḍha*, as does <abbr title="Pali Text Society">PTS</abbr>; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh.gloss *karuṇāven bändunu sit attā vū* (“being one whose mind/heart is bound to compassion”). However, the extra syllable in these readings breaks the meter, and <abbr title="Pali Text Society">PTS</abbr> alts. also include other attempts at making sense of *niḍḍha* (or *niddha* ?) in the received Pāli. *Niḍḍha* (nest, seat, abode, from *ni* + *sad*, “seat”) not only works best in terms of meter, it also brings out a bird-related reading of the entire birth, likening the Buddha to a song-bird.
 
-[^17]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atusa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>upasaṅhitaŋ*
+[^17]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}atusa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}upasaṅhitaŋ*
 
 [^18]: lit., “going”
 
 [^19]: *yathā*, “just as” “to the extent that” “in the way that”
 
-[^20]: i.e., the Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āyana who was a chief follower of Padumuttara Buddha’s, after whom the (present protagonist) Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āyana models himself during a previous life.
+[^20]: i.e., the Ka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}āyana who was a chief follower of Padumuttara Buddha’s, after whom the (present protagonist) Ka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}āyana models himself during a previous life.
 
 [^21]: lit., “spread out” “having length”
 
@@ -198,7 +198,7 @@ The legend of Mahāka<span class="diacritics" data-state="on">cc</span><span cla
 
 [^29]: lit., “fat-shoulders”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pīṇ°* but understands the adjective in the same way: “having shoulders whihc are full (covered with meat)
 
-[^30]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alaŋ*
+[^30]: *a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}alaŋ*
 
 [^31]: that is, doing *añjali*, “hands pressed together”
 
@@ -216,11 +216,11 @@ The legend of Mahāka<span class="diacritics" data-state="on">cc</span><span cla
 
 [^38]: *ujjeniye pure*
 
-[^39]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *tiriṭava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chassa*
+[^39]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *tiriṭava[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chassa*
 
 [^40]: *purohitadijā°*
 
-[^41]: “Fierce Luster.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss Sanskritizes the name as “<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>aṇḍapradyota”
+[^41]: “Fierce Luster.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss Sanskritizes the name as “[C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}aṇḍapradyota”
 
 [^42]: “Sandalwood \[and\] Pink Lotus”
 

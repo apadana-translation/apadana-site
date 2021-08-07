@@ -98,7 +98,7 @@ The legend of Sumaṅgala Thera is finished.
 The Summary:
 
 Sīhāsani and Ekatthambhi,  
-Nanda and <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ulla-Panthaka,  
+Nanda and [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ulla-Panthaka,  
 Pilinda and also Rāhula,  
 Vangata, Raṭṭhapālaka,  
 Sopāka and also Maṅgala,  

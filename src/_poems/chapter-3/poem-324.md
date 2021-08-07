@@ -76,7 +76,7 @@ The legend of Saññasāmika Thera is finished.
 
 [^6]: *khadiraṅgārasannibha*. *Khadira* is Sinh. *kihiri*, Acacia Sundra, English “red cutch” or “khayer.” The tree produces impressive spikes of yellow flowers but is known primarily for its timber and use in making charcoal.
 
-[^7]: i.e., when it is full, *puṇṇamāse va <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andimā*
+[^7]: i.e., when it is full, *puṇṇamāse va [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}andimā*
 
 [^8]: *mahita*
 

@@ -32,9 +32,9 @@ The legend of Taraṇiya Thera is finished.
 
 The Summary:
 
-Ukkhepi, Tela and <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andi,  
+Ukkhepi, Tela and [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andi,  
 Dipada and Biḷālida,  
-Ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha, Java, Salaḷada,  
+Ma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha, Java, Salaḷada,  
 Rakkhasa, Taraṇa \[makes\] ten  
 and here the verses are counted  
 as exactly forty plus one.
