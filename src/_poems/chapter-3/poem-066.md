@@ -4,7 +4,7 @@ order: 66
 category: chapter-3
 ---
 
-### \[66. Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita[^1]\]
+### \[66. Su[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}intita[^1]\]
 
 Roaming a mountain hard to reach  
 I was \[then\] a high-born lion.  
@@ -51,9 +51,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1392\]
 
-Thus indeed Venerable Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita Thera spoke these verses.
+Thus indeed Venerable Su[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}intita Thera spoke these verses.
 
-The legend of Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita Thera is finished.
+The legend of Su[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}intita Thera is finished.
 
 [^1]: “Well-Thought-Out.” \#92 and \#425 {428}, below, are ascribed to (apparently different) monks bearing this same name.
 

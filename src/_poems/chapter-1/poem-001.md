@@ -429,7 +429,7 @@ The Legend of the Buddhas is completed.
 
 [^2]: <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn> alt. reads *dhīra* (“Wise One”) for *vīra* (“Hero”)
 
-[^3]: The first four verses of <a href="#BJTS" class="abbr">BJTS</a> are not found in <dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn>. The first three verses of <a href="#BJTS" class="abbr">BJTS</a> are in the more elaborate meter, with eleven syllables per foot, that characterizes the following *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhāpadāna* (and the *sutta* from which it in turn draws), so I have translated accordingly. Indeed, with very small changes, these first three verses are also the first three verses of *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhāpadāna*, even in the <a href="#PTS" class="abbr">PTS</a> edition.
+[^3]: The first four verses of <a href="#BJTS" class="abbr">BJTS</a> are not found in <dfn id="#PTS"><abbr title="Pali Text Society">PTS</abbr></dfn>. The first three verses of <a href="#BJTS" class="abbr">BJTS</a> are in the more elaborate meter, with eleven syllables per foot, that characterizes the following *Pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ekabuddhāpadāna* (and the *sutta* from which it in turn draws), so I have translated accordingly. Indeed, with very small changes, these first three verses are also the first three verses of *Pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ekabuddhāpadāna*, even in the <a href="#PTS" class="abbr">PTS</a> edition.
 
 [^4]: *jinasāsanesu*, lit., “in the Victors’ dispensations”
 
@@ -463,11 +463,11 @@ The Legend of the Buddhas is completed.
 
 [^19]: here the reading of the Hewawitarne and <a href="#BJTS" class="abbr">BJTS</a> editions, echoed in the commentary, is significantly different: “Let there be umbrellas of gems/with gilded handles of scented bamboo//covered in a net of pearls./Let them all be carried out front.”
 
-[^20]: the palm-print is *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅguli* or *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgulika*, Sinhala *pasaṅgul*. Pali-Sinhala-English Dictionary gives: “a mark of five fingers made after the hand immersing \[sic\] in a solution of sandalwood.” Here the text specifies that it was scented (*gandha°*).
+[^20]: the palm-print is *pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅguli* or *pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅgulika*, Sinhala *pasaṅgul*. Pali-Sinhala-English Dictionary gives: “a mark of five fingers made after the hand immersing \[sic\] in a solution of sandalwood.” Here the text specifies that it was scented (*gandha°*).
 
 [^21]: *vina*.
 
-[^22]: reading *tato pare* with <a href="#BJTS" class="abbr">BJTS</a> for <a href="#PTS" class="abbr">PTS</a> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a-m-uppari*
+[^22]: reading *tato pare* with <a href="#BJTS" class="abbr">BJTS</a> for <a href="#PTS" class="abbr">PTS</a> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a-m-uppari*
 
 [^23]: *gandhabba* = *gandharva*
 

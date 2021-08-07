@@ -102,7 +102,7 @@ The Gandhathūpiya Chapter, the Thirty-Fourth
 
 [^5]: *ānubhāvena*
 
-[^6]: *vu<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ati*, lit., “was called”
+[^6]: *vu[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ati*, lit., “was called”
 
 [^7]: *sattapattan* = “Lotus”
 

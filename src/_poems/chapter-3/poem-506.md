@@ -46,6 +46,6 @@ The legend of Mātuluṅgaphaladāyaka Thera is finished.
 
 [^3]: *kaṇṇikāra*, *kaṇikāra* = Sinhala *kinihiriya*, Pterospermum acerifolium, produces a brilliant mass of yellow flowers; Engl. a.k.a. karnikar, bayur tree, maple-leaf bayur, caniyar (now archaic?), dinner-plate tree; Bodhi tree of Siddhattha Buddha.
 
-[^4]: i.e., when it is full, *puṇṇamāse va <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andimā*
+[^4]: i.e., when it is full, *puṇṇamāse va [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}andimā*
 
 [^5]: *dakkhiṇeyyassa*, elsewhere “Worthy of Homage” “Worthy of Respect”

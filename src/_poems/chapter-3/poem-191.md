@@ -24,7 +24,7 @@ I’ve come to know no bad rebirth:
 that’s the fruit of Buddha-*pūjā*. (3) \[2216\]
 
 In the twentieth aeon ago  
-there was one \[named\] <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andatitta,[^3]  
+there was one \[named\] [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andatitta,[^3]  
 a wheel-turning king with great strength,  
 possessor of the seven gems. (4) \[2217\]
 

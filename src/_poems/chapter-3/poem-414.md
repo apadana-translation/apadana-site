@@ -76,7 +76,7 @@ The legend of Madhumaŋsadāyaka Thera is finished.
 
 [^3]: *sūkariko*, Cty: *sūkaramaṃsaṃ vikkiṇitvā jīvitaṃ kappento*, “earning a living by selling hog-flesh”
 
-[^4]: *ukkoṭakaŋ randhayitvā*, following the cty: *pihaka-papphāsa-maṃsaṃ pa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itvā*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss: *kävatū papumas pisa*, ‘having cooked the liver and heart meat.” The intent is clearly “cooking the pig innards” or “cooking the pluck”
+[^4]: *ukkoṭakaŋ randhayitvā*, following the cty: *pihaka-papphāsa-maṃsaṃ pa[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}itvā*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss: *kävatū papumas pisa*, ‘having cooked the liver and heart meat.” The intent is clearly “cooking the pig innards” or “cooking the pluck”
 
 [^5]: reading *madhu maṃsamhi okiriŋ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt., and cty.) for <abbr title="Pali Text Society">PTS</abbr>: *madhusappimhi ākiriŋ*, “I sprinkled honey on the ghee”
 
@@ -88,7 +88,7 @@ The legend of Madhumaŋsadāyaka Thera is finished.
 
 [^9]: *dve sampattiyo*, i.e., birth as a human and birth as a god
 
-[^10]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
+[^10]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arimo vattate bhavo*
 
 [^11]: lit., “is,” with “food-and-drink” being taken as a singular noun.
 

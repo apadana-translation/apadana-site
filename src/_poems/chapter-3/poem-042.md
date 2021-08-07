@@ -156,11 +156,11 @@ The legend of Koḷiyavessa Thera is finished.
 
 [^2]: lit., “meritorious”
 
-[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>initvā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *vinditvā* (<abbr title="Pali Text Society">PTS</abbr>), even though the latter, in the sense of “gains,” amounts to much the same thing.
+[^3]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}initvā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *vinditvā* (<abbr title="Pali Text Society">PTS</abbr>), even though the latter, in the sense of “gains,” amounts to much the same thing.
 
 [^4]: See above,v. \[749\] and n.
 
-[^5]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a sā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *mayā* (<abbr title="Pali Text Society">PTS</abbr>).
+[^5]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a sā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *mayā* (<abbr title="Pali Text Society">PTS</abbr>).
 
 [^6]: lit., “will go to the ultimate mountain” (*naguttamaṃ*, cf. v. \[1121\] and n.)
 

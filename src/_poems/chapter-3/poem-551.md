@@ -24,7 +24,7 @@ noisy with peacocks[^9] \[and\] herons,[^10]
 \[and\] the \[calls of birds\] like cuckoos.[^11] \[6333\]
 
 Pigeons[^12] \[and\] *ravi*-swans[^13] \[as well\],  
-ruddy geese[^14] and *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aras*,  
+ruddy geese[^14] and *nadī[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aras*,  
 lapwings[^15] \[and\] mynah birds[^16] are here,  
 small monkeys,[^17] *jīvajīvakas*.[^18] \[6334\]
 
@@ -160,17 +160,17 @@ The legend of Yasa Thera, the first.
 
 [^4]: *ogayha*, “submerged in” “plunged into.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> normalizes this by glossing “in the vicinity of the great ocean,” but I take it more literally, and assume that the protagonist is a supernatural being for whom this *is* normal.
 
-[^5]: <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā pakūjitā;* <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākūpakūjitā*
+[^5]: <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavākā pakūjitā;* <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavākūpakūjitā*
 
 [^6]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss is *helmällen*, *heḷmäli* = edible white water-lily, Nymphaea Lotus, also the (or a) gloss at \[4231\], \[4233\], \[4313\]. But elsewhere <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gives different glosses: at \[4007\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
 
-[^7]: *ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha-ka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chapa-sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hannā*
+[^7]: *ma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha-ka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chapa-sañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}hannā*
 
 [^8]: *samotthatā*, lit., “strewn about,” “spread out over”
 
 [^9]: *mayura°*
 
-[^10]: *°koñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a°*
+[^10]: *°koñ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a°*
 
 [^11]: *kokilādīhi vagguhi*, lit., “and with the lovely \[cries\] of cuckoos, etc.”
 
@@ -178,7 +178,7 @@ The legend of Yasa Thera, the first.
 
 [^13]: *ravihaŋsā*
 
-[^14]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā*
+[^14]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavākā*
 
 [^15]: *dindibhā*, Sinh. gloss *kirallu*, *kiraḷā* = red-wattled or yellow-wattled lapwing. PSI dictionary gives “bluejay”
 
@@ -200,11 +200,11 @@ The legend of Yasa Thera, the first.
 
 [^24]: lit., “I made” “I did”
 
-[^25]: *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>eka-dussa-yugale*
+[^25]: *pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}eka-dussa-yugale*
 
 [^26]: *āhutīnaṃ paṭiggaho*
 
-[^27]: *tappayi*, lit., “satisfied,” “regaled,” “entertained.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *sabbe ime <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and all of these \[monks\]”) for <abbr title="Pali Text Society">PTS</abbr> *saṅgham etena*
+[^27]: *tappayi*, lit., “satisfied,” “regaled,” “entertained.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *sabbe ime [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (“and all of these \[monks\]”) for <abbr title="Pali Text Society">PTS</abbr> *saṅgham etena*
 
 [^28]: lit., “every day”
 

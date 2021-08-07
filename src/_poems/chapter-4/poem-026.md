@@ -138,7 +138,7 @@ The legend of Soṇā Therī is finished.
 
 [^4]: or “saluting”: *abhivādiya*
 
-[^5]: or “when I had attained puberty:” *yadā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a yobbanupetā*
+[^5]: or “when I had attained puberty:” *yadā [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a yobbanupetā*
 
 [^6]: lit., “I gave birth to”
 
@@ -154,11 +154,11 @@ The legend of Soṇā Therī is finished.
 
 [^12]: or “I’m fed up with this existence:” *jīvitenâlam atthu me*, lit., “Let it be enough with life for me”
 
-[^13]: *jīnāya*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>attāya* (with much the same meaning)
+[^13]: *jīnāya*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}attāya* (with much the same meaning)
 
 [^14]: reading *sampatto* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *pasuto* (“pursuing”)
 
-[^15]: *kumbhiyā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ulle*, lit., “into a small *kumbhi*-pot”
+[^15]: *kumbhiyā [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ulle*, lit., “into a small *kumbhi*-pot”
 
 [^16]: *khandhe*, lit., “the \[five\] heaps” or aggregates that make up personal being, the constituent elements of the “I” trapped in *saṃsāra*.
 

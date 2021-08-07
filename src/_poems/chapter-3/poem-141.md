@@ -6,7 +6,7 @@ category: chapter-3
 
 ## Chatta Chapter, the Fifteenth
 
-### \[141. Adhi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chattiya[^1]\]
+### \[141. Adhi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chattiya[^1]\]
 
 When the Blessed One passed away,[^2]  
 Atthadassi, the Ultimate Man,  
@@ -28,9 +28,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[1944\]
 
-Thus indeed Venerable Adhi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chattiya Thera spoke these verses.
+Thus indeed Venerable Adhi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chattiya Thera spoke these verses.
 
-The legend of Adhi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chattiya Thera is finished.
+The legend of Adhi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chattiya Thera is finished.
 
 [^1]: “Upper Parasol-er”
 

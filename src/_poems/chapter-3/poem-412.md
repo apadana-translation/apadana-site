@@ -6,7 +6,7 @@ category: chapter-3
 
 ### \[409. {412.}[^1] Ekachattiya[^2]\]
 
-On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
+On [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andabhāgā River’s bank,  
 I had a well-made hermitage.  
 It was strewn with very white sand,  
 \[and\] furnished with halls made of leaves. (1) \[4299\]
@@ -263,7 +263,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^9]: *koka°*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^10]: *°tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chayo*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *°tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu, *
+[^10]: *°tara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chayo*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *°tara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chakā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu, *
 
 [^11]: *nādenti*, lit., “make sounds”
 
@@ -283,7 +283,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^19]: *Uddālaka* = Cassia fistula, Sinh. *äsaḷa*
 
-[^20]: the *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
+[^20]: the *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ampaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
 [^21]: *pāṭali*, Sinh. *paḷol*, Bignonia suaveolens, sterospermum suaveolens (*Bignon.*), trumpet-flower tree, the Bodhi Tree of Vipassi Buddha.
 
@@ -297,7 +297,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^26]: *yūthikā* = Sinh. *sīnidda* = *jasminum auriculatum*
 
-[^27]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses as *satpeti däsaman* = “hundred-petaled” *saman pi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a mal*, a fragrant species of jasmine, Jasminum sambac. Note that at \[3432\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> says *vassika* is (regular) *däsaman*.
+[^27]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses as *satpeti däsaman* = “hundred-petaled” *saman pi[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}a mal*, a fragrant species of jasmine, Jasminum sambac. Note that at \[3432\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> says *vassika* is (regular) *däsaman*.
 
 [^28]: or Bimbajāla, a flowering tree, Sinh. *rat karavū*, Phyllanthus indicus (*Euphorb.*), the Bodhi tree of Dhammadassi Buddha
 
@@ -313,7 +313,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^34]: *asana*, Pentaptera tomentosa = a.k.a. crocodile-bark tree, Indian Laurel, silver grey wood, white chuglam. The Bodhi tree of Tissa Buddha. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses as *piyā gasa* = *bakmī* = Sarcocephalus cordatus *(Rubi*.)
 
-[^35]: *mahānāmā*. Following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss as *uk*, sugarcane, Sa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>charum officinarum (*Gram.*)
+[^35]: *mahānāmā*. Following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss as *uk*, sugarcane, Sa[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}charum officinarum (*Gram.*)
 
 [^36]: *sālā*, shorea robusta
 
@@ -357,7 +357,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^56]: RD says this is a water-plant, a kind of lotus, referencing J iv.539; vi.47, 279, 564. Here <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *helmällen nohot diyakandarayen*, “if not *helmälla* then *diyakandara*.” *Helmälla* = *heḷmäli*. This is also the gloss at \[4231\] andt \[4313\]; at \[6332\] the gloss is a straightforward *helmäli* = edible white water-lily, Nymphaea Lotus. But elsewhere <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gives different glosses: at \[4007\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses it as *madāra* tree \[mountain-ebony, Bauhinia purpurea (*Legum.*)\] and says the blossoms fell into the water from overhanging trees. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss at \[324\] is “a water-born plant named *Mandālā*”. At \[171\] <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss is *taḍāgayangen*, “from the moss,” following its reading of \[170\] “well fixed \[in the mosses\]”. Bot. Dict. *taḍāga* = *sevela*.
 
-[^57]: reading *padumuppalakehi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *padumapphalakehi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“and with pink lotuses and fruit” or “and with pink lotus fruits”.
+[^57]: reading *padumuppalakehi [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *padumapphalakehi [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (“and with pink lotuses and fruit” or “and with pink lotus fruits”.
 
 [^58]: *opatta-kaṇṇikā*
 
@@ -371,7 +371,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^63]: *rohita*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *reheru*
 
-[^64]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araŋ*, moving around, traveling about
+[^64]: *vi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}araŋ*, moving around, traveling about
 
 [^65]: *ketaka*, Pandanus odoratissima, Sinhala *väṭakē* or *väṭakeyiyā*.
 
@@ -385,7 +385,7 @@ The legend of Ekachattiya Thera is finished.
 
 [^70]: *jaṭābhārabharitā* (<abbr title="Pali Text Society">PTS</abbr>), *jaṭābhārena bharitā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>)
 
-[^71]: *yugamattañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a pekkhantā*, lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
+[^71]: *yugamattañ [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a pekkhantā*, lit., “looking ahead the extent of a plough,” i.e., just a little, keeping their eyes on the ground in front of them
 
 [^72]: reading *kāmabhoge anapekhā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *kāmagedhe anapekhā*, “not looking at craving lust”
 
@@ -413,4 +413,4 @@ The legend of Ekachattiya Thera is finished.
 
 [^84]: lit., “umbrella”
 
-[^85]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
+[^85]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arimo vattate bhavo*

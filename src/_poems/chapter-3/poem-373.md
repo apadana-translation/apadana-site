@@ -6,7 +6,7 @@ category: chapter-3
 
 ### \[370. {373.}[^1] Tīṇuppalamāliya[^2]\]
 
-On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
+On [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andabhāgā River’s bank,  
 I was a monkey[^3] at that time.  
 I saw the Stainless Buddha \[who\]  
 was seated on a mountainside. (1) \[3232\]

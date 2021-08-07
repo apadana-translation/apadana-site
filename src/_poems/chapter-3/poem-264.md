@@ -18,7 +18,7 @@ that’s the fruit of lamp-donations. (2) \[2554\]
 
 In the fifty-fifth aeon \[hence\]  
 there lived one ruler of the earth,  
-\[who was\] named Samanta<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkhu,[^2]  
+\[who was\] named Samanta[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkhu,[^2]  
 a wheel-turning king with great strength. (3) \[2555\]
 
 The four analytical modes,  

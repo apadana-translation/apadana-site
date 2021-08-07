@@ -32,6 +32,6 @@ The legend of Padasaññaka Thera is finished.
 
 [^1]: “Foot-Perceiver”
 
-[^2]: the term here is *akkantam*, which means “stepped upon” or “defeated,” but avoiding the implication that someone stepped on the Buddha’s foot, the cty explains that it was “stepping upon” (*akkamamānaṃ*) and makes the point of the *pāda* simply that he saw the “foot-shrine” (*pada<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etiyaṃ*) of the Buddha.
+[^2]: the term here is *akkantam*, which means “stepped upon” or “defeated,” but avoiding the implication that someone stepped on the Buddha’s foot, the cty explains that it was “stepping upon” (*akkamamānaṃ*) and makes the point of the *pāda* simply that he saw the “foot-shrine” (*pada[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}etiyaṃ*) of the Buddha.
 
-[^3]: *ādi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>abandhuno*
+[^3]: *ādi[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}abandhuno*

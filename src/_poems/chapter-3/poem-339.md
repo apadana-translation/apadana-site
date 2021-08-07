@@ -134,7 +134,7 @@ The legend of Dhammasavaniya Thera is finished.
 
 [^17]: reading *gāthāya* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *kathāya*, “through \[his\] speech”
 
-[^18]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads, more straightforwardly, *ani<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ataṃ udāhari*, “\[then\] spoke about impermanence”
+[^18]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads, more straightforwardly, *ani[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ataṃ udāhari*, “\[then\] spoke about impermanence”
 
 [^19]: reading *vūpasamo* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *vupasamo*
 

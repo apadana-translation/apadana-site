@@ -95,7 +95,7 @@ The legend of Aḍḍhakāsikā Therī[^17] is finished
 
 [^3]: *patimokkhamhi*, lit “in \[read “through”?\] the fortnightly recitation/227 rules
 
-[^4]: reading *mataññutnī* (lit., “one who knows the limit”) *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a asane* (“in eating”), with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mataññū nī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a-āsane* (”moderate on a high seat” ?)
+[^4]: reading *mataññutnī* (lit., “one who knows the limit”) *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a asane* (“in eating”), with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *mataññū nī[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a-āsane* (”moderate on a high seat” ?)
 
 [^5]: reading *jāgariye pi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *jāgariyesu*
 

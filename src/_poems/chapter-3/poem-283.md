@@ -4,7 +4,7 @@ order: 283
 category: chapter-3
 ---
 
-### \[283. Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>uggamaniya[^1]\]
+### \[283. Pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}uggamaniya[^1]\]
 
 With a mind that was very clear,  
 I went out and gave greetings to  
@@ -30,15 +30,15 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[2637\]
 
-Thus indeed Venerable Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>uggamaniya Thera spoke these verses.
+Thus indeed Venerable Pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}uggamaniya Thera spoke these verses.
 
-The legend of Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>uggamaniya Thera is finished.
+The legend of Pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}uggamaniya Thera is finished.
 
 [^1]: “Go and Meet-er”
 
 [^2]: *lokapajjotaŋ*; I sometimes take this as a non-epithet, “lighting up the world”
 
-[^3]: *sabbalokatiki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chakaŋ*
+[^3]: *sabbalokatiki[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chakaŋ*
 
 [^4]: lit., “like a lion which wanders about in the forest”
 

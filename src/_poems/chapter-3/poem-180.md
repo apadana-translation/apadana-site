@@ -36,7 +36,7 @@ Kumuda, then Nisseṇī,
 Rattika, Udapānada,  
 Sīhāsanī, Maggavada,  
 Ekadīpī, Maṇippada,  
-Tiki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaka, Upaṭṭhāka,  
+Tiki[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chaka, Upaṭṭhāka,  
 one less than fifty verses \[here\].
 
 The Kumuda Chapter, the Eighteenth.

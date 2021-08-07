@@ -272,7 +272,7 @@ The legend of Todeyya Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: a historical monk, follower of Bāvarī whose questions to the Buddha, and his answers, are recorded as the *Todeyya-māṇava-pu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*. See SN v. 1006, 1088-1091; cf. DPPN I:1038 (read SN. for S. in the references)
+[^2]: a historical monk, follower of Bāvarī whose questions to the Buddha, and his answers, are recorded as the *Todeyya-māṇava-pu[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā*. See SN v. 1006, 1088-1091; cf. DPPN I:1038 (read SN. for S. in the references)
 
 [^3]: “Conqueror,” reading the name with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt., and Cty) for <abbr title="Pali Text Society">PTS</abbr> Ajitañjaya, “Unconquered Vanquisher”.
 
@@ -280,7 +280,7 @@ The legend of Todeyya Thera is finished.
 
 [^5]: *aṭaviyo*
 
-[^6]: <abbr title="Pali Text Society">PTS</abbr> *o<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) *otārā*, both meaning someone who seeks out or investigates in a bad way, people who pry or spy; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss = “searching for holes”. The implication is that they violate others, perhaps as thieves who steal what they discover.
+[^6]: <abbr title="Pali Text Society">PTS</abbr> *o[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) *otārā*, both meaning someone who seeks out or investigates in a bad way, people who pry or spy; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss = “searching for holes”. The implication is that they violate others, perhaps as thieves who steal what they discover.
 
 [^7]: *tuṇḍikā* from *ṭuṇḍa*, “beak,” RD: “peckers” and cf. *ahituṇḍika*, snake charmer. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss: *mukharayō*, bold speakers, noisy, foul-mouthed. The implication, whatever the exact meaning, is certainly that they were louts.
 
@@ -298,7 +298,7 @@ The legend of Todeyya Thera is finished.
 
 [^14]: or “heroes:” *sūrā*
 
-[^15]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ammayodhino*, RD: “soldiers in cuirass”
+[^15]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ammayodhino*, RD: “soldiers in cuirass”
 
 [^16]: *dhanuggahā*
 
@@ -318,7 +318,7 @@ The legend of Todeyya Thera is finished.
 
 [^24]: or “sword-bearers”: *khaggahatthā*, lit., “those with swords in \[their\] hands”
 
-[^25]: *purisā*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> takes this with *khaggahatthā*, swordsmen, but the “*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*” as well as the list-like structure of the whole passage lead me to take these as referring to two different classes of people who assembled, in this case swordsmen and “men,” that is (acc. to RD) attendants or waiters.
+[^25]: *purisā*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> takes this with *khaggahatthā*, swordsmen, but the “*[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*” as well as the list-like structure of the whole passage lead me to take these as referring to two different classes of people who assembled, in this case swordsmen and “men,” that is (acc. to RD) attendants or waiters.
 
 [^26]: or “tribals,” *luddā*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss *väddō*
 
@@ -352,7 +352,7 @@ The legend of Todeyya Thera is finished.
 
 [^41]: reading *saddaṃ mānusakā’ kaṃsu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *saddam amānus’ âkāsuŋ*, “non-humans made (*sic*, taking *akāsuŋ* as 3rd pl. aor. of *karoti* on the model of *akāsi*, 3rd sing. aor; it would more likely come fr. *ākāsati*, i.e., “shined”) the sound”
 
-[^42]: *niraye pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>amānassa*
+[^42]: *niraye pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}amānassa*
 
 [^43]: *tuvaṭṭento*, causative, lit., “being made to turn” (as opposed to the indicative sense of the same verb, translated at \[1487\], \[1597\] as “snuggle” and at \[4058\] as “nestle”)
 
@@ -370,7 +370,7 @@ The legend of Todeyya Thera is finished.
 
 [^50]: *jātiyā, lit*., “well-born” or simply “excellent,” the term connotes lineage, genealogy, caste, breed. Here it seems to substitute for “those fast like the wind” (*vātajavā*) in parallel lists (see above, \[1293\], \[2692\], \[3981\])
 
-[^51]: *gāmaṇīya* usually means elephant-trainers, as in v. 26 \[4097\], above, but here the context makes “horse-trainer” a more suitable translation, so I have taken the same liberty taken by the poet in treating the term that way. PSI indicates that these are trainers of “elephants, etc.” (*ätun ādīn puhuṇu karana ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āryyaya*), allowing for the extended meaning in this context.
+[^51]: *gāmaṇīya* usually means elephant-trainers, as in v. 26 \[4097\], above, but here the context makes “horse-trainer” a more suitable translation, so I have taken the same liberty taken by the poet in treating the term that way. PSI indicates that these are trainers of “elephants, etc.” (*ätun ādīn puhuṇu karana ā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}āryyaya*), allowing for the extended meaning in this context.
 
 [^52]: *sannaddhā*, RD: fastened, bound; put on, clothed (with), armed, accoutred. The term has a wide enough range to leave open the possibility that rather than covered in the hides of these big cats, the poet imagines the chariots pulled by leopards and tigers, which would make sense of the specification below that they are also mounted by animal-trainers, in this case perhaps leopard- and tiger-trainers, paralleling the elephant-trainers who mount the elephants and the horse-trainers who mount the horses.
 
@@ -410,7 +410,7 @@ The legend of Todeyya Thera is finished.
 
 [^70]: *sālesu*, shorea robusta
 
-[^71]: the *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ampaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
+[^71]: the *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ampaka* (Sinh. *sapu*) tree is *Magnolia champaca*, formerly classified as *michelia champaca*. English names for the tree include Champak, Joy Perfume Tree, Yellow Jade Orchid Tree and Fragrant Himalayan Champaca. It was the Bodhi tree of the seventeenth Buddha of the *Buddhavaṃsa*, Atthadassi. It has highly fragrant cream to yellowish-colored blossoms.
 
 [^72]: *nāga* = Sinhala *nā*, ironwood, Mesua Ferrea Linn, Bodhi tree of Mangala, Sumana, Revata, Sobhita buddhas; national tree of Sri Lanka. It has brilliant, fragrant white flowers containing four petals each, as well as a red fruit eaten by birds.
 

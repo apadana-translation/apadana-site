@@ -6,14 +6,14 @@ category: chapter-3
 
 ### \[366. {369.}[^1] Timirapupphiya[^2]\]
 
-On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
+On [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andabhāgā River’s bank,  
 I was going with the current.  
 I saw the Spotless One, Buddha,  
 like a regal *sal* tree in bloom. (1) \[3210\]
 
 Happy, with pleasure in \[my\] heart,  
 taking a *timira* flower  
-to the Supreme *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>eka*-Sage,  
+to the Supreme *Pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}eka*-Sage,  
 I strew \[it\] on \[that Buddha’s\] head. (2) \[3211\]
 
 In the ninety-one aeons since  

@@ -107,7 +107,7 @@ The legend of Pupphathūpiya Thera is finished.
 
 [^9]: lit., “the Victor’s dispensation”
 
-[^10]: reading *saka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *kukkuṭṭhaŋ* (<abbr title="Pali Text Society">PTS</abbr>)
+[^10]: reading *saka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}aṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *kukkuṭṭhaŋ* (<abbr title="Pali Text Society">PTS</abbr>)
 
 [^11]: “Same as Fire”
 

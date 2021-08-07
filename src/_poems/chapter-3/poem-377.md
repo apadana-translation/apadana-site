@@ -4,7 +4,7 @@ order: 377
 category: chapter-3
 ---
 
-### \[374. {377.}[^1] <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka[^2]\]
+### \[374. {377.}[^1] [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itapūjaka[^2]\]
 
 When the Blessed One passed away[^3] —  
 \[the one\] named “Ultimate Lotus”[^4] —  
@@ -31,9 +31,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[3261\]
 
-Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka Thera spoke these verses.
+Thus indeed Venerable [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itapūjaka Thera spoke these verses.
 
-The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itapūjaka Thera is finished.
+The legend of [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itapūjaka Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 

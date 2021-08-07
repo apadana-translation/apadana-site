@@ -113,7 +113,7 @@ I was a kinsman of Brahmā,[^23]
 reborn \[then\] in a brahmin clan[^24]  
 in Śrāvasti, very wealthy. (22) \[5902\]
 
-Mother was named <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andavatī;  
+Mother was named [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andavatī;  
 my father Assalāyana.  
 When with all intelligence the  
 Buddha instructed my father,  
@@ -180,15 +180,15 @@ The legend of Mahākoṭṭhika Thera is finished.
 
 [^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
-[^13]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*
+[^13]: *vi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittaŋ*
 
 [^14]: *ratanāna-aṭṭha-paññāsaŋ uggato*. A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
 
-[^15]: *kañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
+[^15]: *kañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^16]: reading *sattasāraggaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sattapāraṅgaŋ* (“going beyond \[or crossing, surmounting\] beings”)
 
-[^17]: *pabhinnamatigo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araŋ*, lit., "he whose pasturage was developed thought”
+[^17]: *pabhinnamatigo[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}araŋ*, lit., "he whose pasturage was developed thought”
 
 [^18]: *jinavaraŋ*
 
@@ -196,9 +196,9 @@ The legend of Mahākoṭṭhika Thera is finished.
 
 [^20]: *kamalodarasappabhaŋ*
 
-[^21]: *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariŋ*, “waited on” “attended to”
+[^21]: *pari[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ariŋ*, “waited on” “attended to”
 
-[^22]: *su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iṇṇassa idaŋ phalaŋ*
+[^22]: *su[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}iṇṇassa idaŋ phalaŋ*
 
 [^23]: i.e., a brahmin
 

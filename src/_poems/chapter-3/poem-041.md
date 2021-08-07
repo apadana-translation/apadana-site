@@ -134,13 +134,13 @@ The legend of Upāli Thera is finished.
 
 [^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, Hew, and cty style him Bhāgineyya-Upāli, “Upāli the Nephew”. He is not to be confused with Upāli the top reciter of Vinaya, *Therāpadāna* \#6
 
-[^2]: reading *paridhārako* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty) or paridhāraNo (<abbr title="Pali Text Society">PTS</abbr> alt) for <abbr title="Pali Text Society">PTS</abbr> *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āraṇo*.
+[^2]: reading *paridhārako* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty) or paridhāraNo (<abbr title="Pali Text Society">PTS</abbr> alt) for <abbr title="Pali Text Society">PTS</abbr> *pari[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}āraṇo*.
 
 [^3]: *tidaṇḍam* = three stick, three rod. Cty glosses it as “for the sake of keeping pots” (*kuṇḍika-ṭṭhāpanatthāya*), apparently understanding it as a pingo or else some sort of tripod. But the more likely allusion is to the *triśula* or trident of Shiva and his devotees, given the deer-leather clothes.
 
 [^4]: lit., “the monks’ Assembly”.
 
-[^5]: reading *sabbe antallikka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arā sadā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *sabbe antallikkhe padesagā* (<abbr title="Pali Text Society">PTS</abbr>).
+[^5]: reading *sabbe antallikka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arā sadā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *sabbe antallikkhe padesagā* (<abbr title="Pali Text Society">PTS</abbr>).
 
 [^6]: lit., “having consciousness or not having consciousness”
 

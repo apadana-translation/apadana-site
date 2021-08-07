@@ -207,7 +207,7 @@ The legend of Bakkula Thera is finished.
 
 [^17]: *mātuluṅgakā*, elsewhere *mātuluṅgiya*
 
-[^18]: *mahānāmā*. Following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss as *uk*, sugarcane, Sa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>charum officinarum (*Gram.*)
+[^18]: *mahānāmā*. Following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss as *uk*, sugarcane, Sa[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}charum officinarum (*Gram.*)
 
 [^19]: *ajjuṇā* (a.k.a. *kakudha*, Sinhala *kumbuk gasa*, *kubuk*, Terminalia arjuna) is an impressively large, shade-giving tree that thrives on the edges of tanks and lakes. <abbr title="Pali Text Society">PTS</abbr> spells the term *ajjunā*.
 
@@ -223,13 +223,13 @@ The legend of Bakkula Thera is finished.
 
 [^25]: *kapitthanā* = *kapittha*, *kapiṭṭha* (already mentioned in v. 2 \[3759\] above), Feronia elephantum, Sinh. *divul*
 
-[^26]: reading *upetamhi mahāvīre anomadassimahāyase*, gen. abs. construction, with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, for <abbr title="Pali Text Society">PTS</abbr> *upetañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a mahāvīram Anomadassi-mahāyasaŋ* (accusatives, unclear how the grammar would then work unless we assume an accusative absolute construction)
+[^26]: reading *upetamhi mahāvīre anomadassimahāyase*, gen. abs. construction, with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, for <abbr title="Pali Text Society">PTS</abbr> *upetañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a mahāvīram Anomadassi-mahāyasaŋ* (accusatives, unclear how the grammar would then work unless we assume an accusative absolute construction)
 
 [^27]: *vātābādho*, “a disease of the wind,” one of the three humors in classical Indian (including Buddhist) medical traditions.
 
-[^28]: *iriyañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āpi disvāna*
+[^28]: *iriyañ [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}āpi disvāna*
 
-[^29]: *khippam assamam āga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiŋ*, lit., “quickly I came to the hermitage”
+[^29]: *khippam assamam āga[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chiŋ*, lit., “quickly I came to the hermitage”
 
 [^30]: reading *ahās’ ahaṃ* (“ I fetched, gathered, took, killed,” *ahāsi* =1st person sing. aorist of *harati*) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *akās’ ahaŋ*, “I did,” “I made”
 
@@ -253,7 +253,7 @@ The legend of Bakkula Thera is finished.
 
 [^40]: *jambusaṇḍa* = *jambudīpa* = India, the South Asian continent
 
-[^41]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
+[^41]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aturanto vijitāvi*, “possessed of conquest of the four quarters,” a supreme imperial overlord
 
 [^42]: reading *tāvatiṃse pi khobetvā* (lit., “having shaken the thirty-three gods/\[those in\] the *tāvatiṃsa* heaven”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tāvatiŋse ‘to khobetvā* (having shaken from \[a starting point?\] in Tāvatiŋsa”)
 

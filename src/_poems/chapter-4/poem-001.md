@@ -14,99 +14,99 @@ Now listen to the legends of the Therīs:[^2]
 
 ### \[1. Sumedhā[^3]\]
 
-When Koṇāgamana, Blessed One,  
-was in his new dwelling, monastic ashram,[^4]  
-\[we\] who were three female friends, \[then\]  
+When Koṇāgamana, Blessed One,
+was in his new dwelling, monastic ashram,[^4]
+\[we\] who were three female friends, \[then\]
 donated a monastery.[^5] (1) \[1\]
 
-Ten times \[and then\] a hundred times,  
-and then a hundred hundred times,[^6]  
-we were reborn among the gods;  
+Ten times \[and then\] a hundred times,
+and then a hundred hundred times,[^6]
+we were reborn among the gods;
 who could tell the human rebirths? (2) \[2\]
 
-Among gods we had vast power;  
-who could tell the human \[power\]?  
-Chief queen of a seven-gemmer,[^7]  
+Among gods we had vast power;
+who could tell the human \[power\]?
+Chief queen of a seven-gemmer,[^7]
 I was[^8] the gem of a woman. (3) \[3\]
 
-Here with wholesome \[karma\] heaped up,[^9]  
-\[we’re\] people from successful clans:  
-Dhanañjānī and Khemā too,  
+Here with wholesome \[karma\] heaped up,[^9]
+\[we’re\] people from successful clans:
+Dhanañjānī and Khemā too,
 along with me, the women three. (4) \[4\]
 
-Making that hermitage well-made,  
-with every part \[of it\] adorned,  
-delighted we donated \[it\]  
+Making that hermitage well-made,
+with every part \[of it\] adorned,
+delighted we donated \[it\]
 to the Buddha-led Assembly.[^10] (5) \[5\]
 
-In whichever place I’m reborn,  
-in accordance with[^11] that karma,  
-among the gods and humans too,  
+In whichever place I’m reborn,
+in accordance with[^11] that karma,
+among the gods and humans too,
 I attain the foremost station. (6) \[6\]
 
-In this \[present\] lucky aeon  
-Brahma’s Kinsman, Greatly Famed One,  
-\[the Buddha\] known as Kassapa[^12]  
+In this \[present\] lucky aeon
+Brahma’s Kinsman, Greatly Famed One,
+\[the Buddha\] known as Kassapa[^12]
 was born, the Best of Debaters. (7) \[7\]
 
-The attendant of the Great Sage  
-was the ruler of men back then,  
-the king of Kāsi, named Kiki,  
+The attendant of the Great Sage
+was the ruler of men back then,
+the king of Kāsi, named Kiki,
 in Benares, greatest city. (8) \[8\]
 
-That \[ruler\] had seven daughters,  
-royal maidens raised in comfort.  
-Fond of waiting on the Buddha,  
+That \[ruler\] had seven daughters,
+royal maidens raised in comfort.
+Fond of waiting on the Buddha,
 they practiced the religious life.[^13] (9) \[9\]
 
-Being the ally of those \[girls\],  
-steadfast in the moral precepts,  
-giving gifts \[very\] carefully,  
+Being the ally of those \[girls\],
+steadfast in the moral precepts,
+giving gifts \[very\] carefully,
 I practiced vows while in the house.(10) \[10\]
 
-Due to that karma done very well,  
-with intention and \[firm\] resolve,  
-discarding \[my\] human body,  
+Due to that karma done very well,
+with intention and \[firm\] resolve,
+discarding \[my\] human body,
 I went to Tāvatiṃsa \[then\]. (11) \[11\]
 
-Fallen thence, I went to Yāma,[^14]  
-\[and\] then I went to Tusitā,  
-and then to Nimmānarati,  
+Fallen thence, I went to Yāma,[^14]
+\[and\] then I went to Tusitā,
+and then to Nimmānarati,
 and then Vāsavatti City. (12) \[12\]
 
-In whichever place I’m reborn,  
-steadfast in \[doing\] good karma,[^15]  
-I was fixed in the chief queen’s place  
+In whichever place I’m reborn,
+steadfast in \[doing\] good karma,[^15]
+I was fixed in the chief queen’s place
 of the kings in all those \[heavens\]. (13) \[13\]
 
-Fallen then into humanness,  
-I was fixed in the chief queen’s place  
-of kings who turned the wheel \[of law\]  
+Fallen then into humanness,
+I was fixed in the chief queen’s place
+of kings who turned the wheel \[of law\]
 and kings \[commanding\] large regions.[^16] (14) \[14\]
 
-Having experienced happiness  
-among gods and also humans,  
-being comfortable everywhere,  
+Having experienced happiness
+among gods and also humans,
+being comfortable everywhere,
 I traveled on[^17] through several births. (15) \[15\]
 
-That \[gift’s\][^18] the reason, that’s the cause,  
-root, patience for the dispensation,  
-the first identification,[^19]  
+That \[gift’s\][^18] the reason, that’s the cause,
+root, patience for the dispensation,
+the first identification,[^19]
 nirvana of this *Dhamma*-lover. (16) \[16\][^20]
 
-My defilements are \[now\] burnt up;  
-all \[new\] existence is destroyed.  
-Like elephants with broken chains,  
+My defilements are \[now\] burnt up;
+all \[new\] existence is destroyed.
+Like elephants with broken chains,
 I am living without constraint. (17) \[17\]
 
-Being in Best Buddha's presence  
-was a very good thing for me.  
-The three knowledges are attained;  
+Being in Best Buddha's presence
+was a very good thing for me.
+The three knowledges are attained;
 \[I have\] done what the Buddha taught! (18) \[18\]
 
-The four analytical modes,  
-and these eight deliverances,  
-six special knowledges mastered,  
+The four analytical modes,
+and these eight deliverances,
+six special knowledges mastered,
 \[I have\] done what the Buddha taught! (19) \[19\]
 
 Thus indeed Venerable[^21] Bhikkhunī Sumedhā spoke these verses.
@@ -115,7 +115,7 @@ Thus indeed Venerable[^21] Bhikkhunī Sumedhā spoke these verses.
 
 [^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> places the *namaskāra* after the title *Therī-apadāna*.
 
-[^2]: this command (in the second person imperative plural) is omitted by <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> even though it gives the parallel commands in verse (1) \[5\] of *Buddha-apadāna* and at the beginning of *Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha-apadāna* and *Thera-apadāna*. The cty omits the Therīs altogether, despite having defined *Apadāna*, in its *nidāna*, as constituted by Buddha, Pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha, Thera and Therī sections.
+[^2]: this command (in the second person imperative plural) is omitted by <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> even though it gives the parallel commands in verse (1) \[5\] of *Buddha-apadāna* and at the beginning of *Pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ekabuddha-apadāna* and *Thera-apadāna*. The cty omits the Therīs altogether, despite having defined *Apadāna*, in its *nidāna*, as constituted by Buddha, Pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ekabuddha, Thera and Therī sections.
 
 [^3]: “Very Wise Woman”
 
@@ -125,11 +125,11 @@ Thus indeed Venerable[^21] Bhikkhunī Sumedhā spoke these verses.
 
 [^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads a 14-syllable first foot and an 8-syllable second one, lit., “ten times, hundred times, thousand times, hundred times hundred times”. It also reads *mānusake* for *mānuse* (<abbr title="Pali Text Society">PTS</abbr>) to produce a nine-syllable fourth foot. Both texts provide nine-syllable first, third and fourth feet in the following verse (3), before finally settling in to the standard 8-8-8-8. See n. 4 above. Are these problems with the transmission, or experiments with (or heedlessness about) meter?
 
-[^7]: here the possession of “seven gems” (*sattaratana*) by a wheel-turning (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavatti*) monarch has become a free-standing designation of the latter (perhaps better translated as “chief queen of a possessor of the seven gems” \[or, metrically, “a seven-gem-holder’s chief queen”\]). Note that she herself is one of those seven gems, as stated in the next foot.
+[^7]: here the possession of “seven gems” (*sattaratana*) by a wheel-turning (*[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavatti*) monarch has become a free-standing designation of the latter (perhaps better translated as “chief queen of a possessor of the seven gems” \[or, metrically, “a seven-gem-holder’s chief queen”\]). Note that she herself is one of those seven gems, as stated in the next foot.
 
 [^8]: reading *āsiṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *bhaviŋ* (<abbr title="Pali Text Society">PTS</abbr>).
 
-[^9]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itakusalā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itā kusalaŋ* (<abbr title="Pali Text Society">PTS</abbr>), though they amount to the same thing.
+[^9]: reading *sañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}itakusalā* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *sañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}itā kusalaŋ* (<abbr title="Pali Text Society">PTS</abbr>), though they amount to the same thing.
 
 [^10]: lit., “to the Assembly (*saṅgha*, the monks’ Assembly) headed up by the Buddha.
 
@@ -137,13 +137,13 @@ Thus indeed Venerable[^21] Bhikkhunī Sumedhā spoke these verses.
 
 [^12]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads “Named Kassapa according to his Lineage (*gottena*)”
 
-[^13]: lit., “they fared according to the Brahma-faring,” i.e., they led a celibate (*brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariya*) existence.
+[^13]: lit., “they fared according to the Brahma-faring,” i.e., they led a celibate (*brahma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ariya*) existence.
 
 [^14]: Yāma, Tusita, Nimmānarati and Vāsavatti are all classes of deities = heavens in the Buddhist cosmology.
 
 [^15]: lit., “meritorious (*puñña*) karma”.
 
-[^16]: *maṇḍalīnañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a rājūnaṃ*, lit., “of kings who \[ruled\] circles \[of kings\]”
+[^16]: *maṇḍalīnañ [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a rājūnaṃ*, lit., “of kings who \[ruled\] circles \[of kings\]”
 
 [^17]: or “I transmigrated,” *saṃsāriṃ*.
 

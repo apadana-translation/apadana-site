@@ -4,9 +4,9 @@ order: 277
 category: chapter-3
 ---
 
-### \[277. <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itakapūjaka[^1]\]
+### \[277. [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itakapūjaka[^1]\]
 
-On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank  
+On [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andabhāgā River’s bank  
 I was going with the current.  
 I placed seven *māluvā*[^2] blooms  
 \[and performed\] *pūjā* at a shrine.[^3] (1) \[2608\]
@@ -26,9 +26,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (4) \[2611\]
 
-Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itakapūjaka Thera spoke these verses.
+Thus indeed Venerable [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itakapūjaka Thera spoke these verses.
 
-The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itakapūjaka Thera is finished.
+The legend of [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itakapūjaka Thera is finished.
 
 [^1]: “Shrine-Worshipper”
 

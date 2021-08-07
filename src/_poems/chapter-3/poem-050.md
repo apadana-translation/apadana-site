@@ -68,7 +68,7 @@ beloved own son of Sārī,
 
 Then he’ll go forth in the Shiny-  
 Bodied[^6] \[Buddha’s\] dispensation.  
-His name will be <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ūla<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>unda,[^7]  
+His name will be [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ūla[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}unda,[^7]  
 a follower of the Teacher. (13) \[1251\]
 
 \[Even\] when he is a novice,  
@@ -109,14 +109,14 @@ The Summary:
 
 Upāli, Soṇa, Bhaddiya,  
 Sannidhāpaka, Hatthiya,  
-Chadana, Seyya-<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ankamaṃ  
+Chadana, Seyya-[C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ankamaṃ  
 Subhadda, the one named Cunda:  
 one hundred and forty verses  
 and another four besides \[those\].
 
 The Upāli Chapter, the Fifth.
 
-[^1]: *agghiya*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *ägǟya* (Sinh-Eng dict *ägäva*: <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andelabrum, festoon work for lamps, lamp canopy or arch)
+[^1]: *agghiya*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *ägǟya* (Sinh-Eng dict *ägäva*: [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}andelabrum, festoon work for lamps, lamp canopy or arch)
 
 [^2]: those who had crossed the flood \[of *samsāra*\], i.e., arahants
 

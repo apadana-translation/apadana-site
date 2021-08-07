@@ -49,9 +49,9 @@ The legend of Dhammasaññaka Thera is finished.
 
 [^2]: I take the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> vocatives here as typos
 
-[^3]: *vā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ā* + *āsabhim*&gt;*āsabhī*, a reading both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> accept despite Lilley’s n. to <abbr title="Pali Text Society">PTS</abbr> here that the mss. *always* give the (mis)reading “*vā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asabbam*,” “whole speech” or “all \[his\] words”
+[^3]: *vā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ā* + *āsabhim*&gt;*āsabhī*, a reading both <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> accept despite Lilley’s n. to <abbr title="Pali Text Society">PTS</abbr> here that the mss. *always* give the (mis)reading “*vā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}asabbam*,” “whole speech” or “all \[his\] words”
 
-[^4]: *vivatta-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chada*, lit., “removed covering,” perhaps He who Removes the Coverings or He Whose Covers are Removed or One who is Freed of All Coverings (see RD s.v.). The epithet is especially appropriate here for evoking the “open-fisted” method of the Buddha, where nothing is secret or for initiates only.
+[^4]: *vivatta-[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chada*, lit., “removed covering,” perhaps He who Removes the Coverings or He Whose Covers are Removed or One who is Freed of All Coverings (see RD s.v.). The epithet is especially appropriate here for evoking the “open-fisted” method of the Buddha, where nothing is secret or for initiates only.
 
 [^5]: *nibbāpesi*, could also be “extinguished,” “quenched”
 

@@ -46,7 +46,7 @@ The legend of Anulepadāyaka Thera is finished.
 
 [^3]: lit., “in the monks’ Assembly”
 
-[^4]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etanā*° (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etasā* (“by heart,” “with the mind,” <abbr title="Pali Text Society">PTS</abbr>)
+[^4]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}etanā*° (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, <abbr title="Pali Text Society">PTS</abbr> alt) for *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}etasā* (“by heart,” “with the mind,” <abbr title="Pali Text Society">PTS</abbr>)
 
 [^5]: lit., “in the Supreme Buddha’s"
 

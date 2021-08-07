@@ -121,7 +121,7 @@ paying respect to the merchants, (23) \[5749\]
 
 quitting[^34] kingship, with ministers,  
 I left, devoted to Buddha.[^35]  
-Seeing the great <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>anda River[^36] —  
+Seeing the great [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}anda River[^36] —  
 full \[of water\] with level banks,  
 a little rough, without supports,  
 a rushing current hard to cross —  
@@ -225,7 +225,7 @@ The legend of Mahākappina Thera is finished.
 
 [^4]: see Cone s.v. for *khajjota-ābhā*
 
-[^5]: reading *sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>atthābhaṃ pakāseti* for *sabbatthaŋ*
+[^5]: reading *sa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}atthābhaṃ pakāseti* for *sabbatthaŋ*
 
 [^6]: *akkhadasso*, RD “one who examines the dice, an upmire, a judge” Cone s.v. a judge, a magistrate, very clear in the commentarial passage she cites; “assessor” is Malalasekara’s translation
 
@@ -241,7 +241,7 @@ The legend of Mahākappina Thera is finished.
 
 [^12]: *sumano*
 
-[^13]: reading <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *tadāhāsi mahābhāgo haṃsadundubhisussaro* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr>’ garbled *tadā haŋsasamābhāgo haŋsadundubhinīva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>o*
+[^13]: reading <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *tadāhāsi mahābhāgo haṃsadundubhisussaro* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr>’ garbled *tadā haŋsasamābhāgo haŋsadundubhinīva[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}o*
 
 [^14]: *°tanūruhaŋ*, see Buddhadatta *Pāli-Sinhala Akārādiya*, s.v.
 
@@ -255,7 +255,7 @@ The legend of Mahākappina Thera is finished.
 
 [^19]: reading *piṇḍapātena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *paṇipātena* (“because of this prostration” “because of this adoration”)
 
-[^20]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etanāpaṇidhīhi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and this is a recurring foot throughout *Apadāna*) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āgena paṇidhīhi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“with generosity and resolve”)
+[^20]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}etanāpaṇidhīhi [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and this is a recurring foot throughout *Apadāna*) for <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}āgena paṇidhīhi [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (“with generosity and resolve”)
 
 [^21]: or “he won’t be reborn in a bad rebirth” (*n’upapajjati duggatiŋ*)
 
@@ -267,7 +267,7 @@ The legend of Mahākappina Thera is finished.
 
 [^25]: *jāto keniyajātiyā*. Malalasekera takes this as a mistake for *koliyajātiyā* (in a Koiiyan clan), the corresponding reading in ThagA, but cty. explains the term as *tantavāyajātiyā pesakārakūla* (“in a weaver’s cast, a clan of servants”); <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss and Cone, s.v., adopt the latter reading, though <abbr title="Pali Text Society">PTS</abbr> apparently treats this as a proper name (perhaps recalling the use of this as a proper name in \#389 {392}, v. 26 \[3607\] et passim). The context suggests that in this birth he was a king, so this would be an instance of lower caste kingship if the cty. reading is accepted.
 
-[^26]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>apa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddhānaŋ satāni*
+[^26]: *pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}apa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ekabuddhānaŋ satāni*
 
 [^27]: reading *adamha* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dammi*
 
@@ -287,15 +287,15 @@ The legend of Mahākappina Thera is finished.
 
 [^35]: *buddhamāmaka*, lit., “taking Buddha as ‘mine’”
 
-[^36]: that is, the <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā
+[^36]: that is, the [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andabhāgā
 
 [^37]: lit., “if the assembly (*saṅgha*)”
 
-[^38]: *sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>avare*, “wish \[because of\] truth,” cf. *sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>akiriya*, “act of truth”
+[^38]: *sa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}avare*, “wish \[because of\] truth,” cf. *sa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}akiriya*, “act of truth”
 
 [^39]: *vāsavaŋ viya*, = Sakka, Indra
 
-[^40]: *sotāpaṇṇā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a sāsane*, lit., ”and stream-enterers in the dispensation”
+[^40]: *sotāpaṇṇā [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a sāsane*, lit., ”and stream-enterers in the dispensation”
 
 [^41]: lit., “it,” singular, standing in for “the \[group\] of a thousand monks”
 

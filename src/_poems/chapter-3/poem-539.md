@@ -187,11 +187,11 @@ The legend of Rādha Thera is finished.
 
 [^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
-[^13]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*
+[^13]: *vi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittaŋ*
 
 [^14]: *ratanāna-aṭṭha-paññāsaŋ uggato*. A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
 
-[^15]: *kañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
+[^15]: *kañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^16]: *naravaraŋ*
 
@@ -211,7 +211,7 @@ The legend of Rādha Thera is finished.
 
 [^24]: reading *sa te hetuguṇe tuṭṭho* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sake hetuguṇe tuṭṭho* (which could be “happy by reason of \[his\] own virtue”)
 
-[^25]: *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariŋ*, “waited on” “attended to”
+[^25]: *pari[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ariŋ*, “waited on” “attended to”
 
 [^26]: <abbr title="Pali Text Society">PTS</abbr> reads *vippakule n’iddhe*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *vippakule ‘niddhe*; both convey the same meaning.
 
@@ -225,6 +225,6 @@ The legend of Rādha Thera is finished.
 
 [^31]: *hessat’ ājāniyo ayaŋ*
 
-[^32]: *kammavā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>upsampadaŋ*, “higher ordination according to monastic rites”
+[^32]: *kammavā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}upsampadaŋ*, “higher ordination according to monastic rites”
 
 [^33]: or of the outflows, *āsavakkhayaŋ*, i.e., “I attained my arahantship”

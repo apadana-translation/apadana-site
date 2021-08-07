@@ -37,6 +37,6 @@ The legend of Tikaṇṇipupphiya Thera is finished.
 
 [^1]: “Three-*kaṇṇi*-Flower-er.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> glosses *kaṇṇi* flowers as “thin grape flowers”.
 
-[^2]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>charā* = *apsarā*
+[^2]: *a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}charā* = *apsarā*
 
 [^3]: “Ultimate Men,” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Ramuttamā*, “Ultimate Delight”

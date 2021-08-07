@@ -41,7 +41,7 @@ I having served the Sambuddha
 was \[then\] reborn in Tusitā. (7) \[1693\]
 
 In the sixteenth aeon ago  
-eleven Eka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intitas[^5]  
+eleven Eka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}intitas[^5]  
 were wheel-turners with great power,  
 possessors of the seven gems. (8) \[1694\]
 
@@ -56,7 +56,7 @@ The legend of Sumaṅgala Thera is finished.
 
 [^1]: the cty. (and following it, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss) explains that at that time he had been born as a tree-sprite (*rukkha-devatā*) living near the lake.
 
-[^2]: reading *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āṅgaturiyamhi* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aturiyatamhi* (<abbr title="Pali Text Society">PTS</abbr>)
+[^2]: reading *pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}āṅgaturiyamhi* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aturiyatamhi* (<abbr title="Pali Text Society">PTS</abbr>)
 
 [^3]: *purisājañña*, RD “steed of man,” in the voc. Contracted form of *ājāniya*/*ājānīya*, “almost exclusively used to denote a thoroughbred horse”
 

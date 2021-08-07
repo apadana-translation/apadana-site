@@ -41,4 +41,4 @@ The legend of Akkamanadāyaka Thera is finished.
 
 [^3]: I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss in taking “a stepping-upon-er” as a “plank for the feet” (*pā - puvaravak* \[= *lälla*\]
 
-[^4]: *vusīmato*&lt;*vusīmant*, *vusitavant*. perfected or accomplished, especially with regard to *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariya* (celibacy)
+[^4]: *vusīmato*&lt;*vusīmant*, *vusitavant*. perfected or accomplished, especially with regard to *brahma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ariya* (celibacy)

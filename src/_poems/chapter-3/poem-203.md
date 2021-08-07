@@ -37,7 +37,7 @@ The legend of Kiṅkaṇikapupphiya[^7] Thera is finished.
 
 [^1]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads Kiṅkiṇikapupphiya
 
-[^2]: *kañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
+[^2]: *kañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kiṅkhiṇi* here
 

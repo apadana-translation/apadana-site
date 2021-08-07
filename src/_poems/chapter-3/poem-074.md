@@ -37,7 +37,7 @@ The legend of Bhisāluvadāyaka Thera is finished.
 
 The Sixth Recitation Portion.
 
-[^1]: “Lotus-Root-and-*āluva*-Root-Donor”. RD equates *āluva* with *ālupa* or *āluka*, “edible root of Amorphophallus <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampanulatus;” Cone defines *āluva* as “an edible root”
+[^1]: “Lotus-Root-and-*āluva*-Root-Donor”. RD equates *āluva* with *ālupa* or *āluka*, “edible root of Amorphophallus [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ampanulatus;” Cone defines *āluva* as “an edible root”
 
 [^2]: lit., “lotus-root and *āluva*-\[root\]”
 

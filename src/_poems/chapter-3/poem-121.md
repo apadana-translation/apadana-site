@@ -46,7 +46,7 @@ I’ve come to know no bad rebirth. (7) \[1773\]
 In the fifteen-thousandth aeon  
 there were five more than twenty men,  
 wheel-turning kings with great power,  
-\[all\] known as <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>īnamāla[^6] \[then\]. (8) \[1774\]
+\[all\] known as [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}īnamāla[^6] \[then\]. (8) \[1774\]
 
 The four analytical modes,  
 and these eight deliverances,  
@@ -63,7 +63,7 @@ The legend of Sereyyaka Thera is finished.
 
 [^3]: i.e., showing their rut in their eyes, ears, and genitals. See cty, p. 288.
 
-[^4]: cty says these are *jāti* or jasmine flowers (is *katukarandu* a variety thereof?). *Saman pi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha*?
+[^4]: cty says these are *jāti* or jasmine flowers (is *katukarandu* a variety thereof?). *Saman pi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha*?
 
 [^5]: lit., “they scattered a floral covering on the Bull of Men”.
 

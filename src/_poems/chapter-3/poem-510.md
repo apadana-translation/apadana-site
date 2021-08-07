@@ -77,7 +77,7 @@ The Kaṇikāra Chapter, the Fifty-First[^9]
 
 [^5]: *samādhikusalo ahaŋ*
 
-[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Vārañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, “*Vāra*”
+[^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Vārañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*, “*Vāra*”
 
 [^7]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> read *Amodam eva*, “also Amoda”
 

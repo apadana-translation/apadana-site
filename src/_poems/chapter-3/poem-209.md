@@ -18,7 +18,7 @@ in the Buddha’s[^3] dispensation. (2) \[2310\]
 
 In the twenty-seventh aeon  
 hence there existed four people  
-\[all\] named Samanta<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>araṇa,[^4]  
+\[all\] named Samanta[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}araṇa,[^4]  
 wheel-turning monarchs with great strength. (3) \[2311\]
 
 The four analytical modes,  

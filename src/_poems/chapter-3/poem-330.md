@@ -136,7 +136,7 @@ Ummāpupphi and Pulina,
 Hāsa, Sañña, Nimittaka,  
 Saŋsāvaka and Nigguṇḍi,[^11]  
 Sumana, Pupphachattaka,  
-and Suparivāra<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chatta:  
+and Suparivāra[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chatta:  
 one hundred plus seven verses.
 
 The Ummāpupphiya Chapter, the Thirty-Third

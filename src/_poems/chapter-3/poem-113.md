@@ -77,4 +77,4 @@ The legend of Saraṇāgamaniya Thera is finished.
 
 [^6]: I read the term *rathesabhā* as *rathe* + *usabhā*, following the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss: *rājya-dhura-vahanayehi śreṣṭha vu* (“best among those on the vehicle which is the burden of kingship”)
 
-[^7]: “Great Drum.” This reading follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Mahās<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>unda*.
+[^7]: “Great Drum.” This reading follows <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Mahās[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}unda*.

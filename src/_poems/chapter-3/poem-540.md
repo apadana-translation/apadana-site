@@ -65,7 +65,7 @@ happy, body hair grown upward,
 steadfast, eating food in a hall.[^21] (11-12) \[5997-5998\]
 
 He’s wishing to \[attain\] the place  
-of \[this\] monk \[named\] Sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>asena;[^22]  
+of \[this\] monk \[named\] Sa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}asena;[^22]  
 his hope’s for the appearance of  
 this \[monk\] wearing robes of rough cloth.” (13) \[5999\]
 
@@ -187,7 +187,7 @@ The legend of Mogharāja Thera is finished.
 
 The Summary:
 
-Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna, Vakkalī Thera,  
+Ka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}āna, Vakkalī Thera,  
 the one named Mahākappina,  
 Dabba, and he named Kumāra,  
 Bāhiya, Master Koṭṭhita,  
@@ -196,7 +196,7 @@ and Mogharājā the pundit.
 There are three hundred verses here,  
 piled on another sixty-two.
 
-The Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna Chapter, the Fifty-Fourth[^44]
+The Ka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}āna Chapter, the Fifty-Fourth[^44]
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
@@ -222,11 +222,11 @@ The Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacriti
 
 [^12]: *suñññataŋ*, or “empty \[of ill-will\],” which is <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
-[^13]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*
+[^13]: *vi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittaŋ*
 
 [^14]: *ratanāna-aṭṭha-paññāsaŋ uggato*. A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
 
-[^15]: *kañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
+[^15]: *kañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^16]: *aññatare* implies “undistinguished” here
 
@@ -236,7 +236,7 @@ The Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacriti
 
 [^19]: *paṭikkamanasālāyaŋ*, following RD. The sense is of a building whose purpose is keeping the chairs, cushions, mats or what have you that are appointed for distinguished visitors. As the Buddha and monks would have been among the latter, the sooting up of the floor seems to have been especially grave.
 
-[^20]: *lūkha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>īvaradhārakaŋ*. *Lūkha°* refers to rough, inferior cloth discarded by tailors
+[^20]: *lūkha[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}īvaradhārakaŋ*. *Lūkha°* refers to rough, inferior cloth discarded by tailors
 
 [^21]: *sālapiṇḍitaŋ*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss “who has *sālapiṇḍa* (“a lump of food in a hall” “a lump of *sal* “
 
@@ -248,11 +248,11 @@ The Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacriti
 
 [^25]: reading *jātiyā lakkhaṇaṅkito* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *tatiyākāraṇ’ aṅkita* (“marked in the third mine”?)
 
-[^26]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss explains that he was a *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ekabuddha* or “Lonely Buddha” who realizes nirvana without teaching the path (as does a Sammāsambuddha). Reading *upariṭṭhaṃ yasassinaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *upaṭṭhitaŋ yasassinaŋ* (“I waited on the famous”)
+[^26]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss explains that he was a *pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ekabuddha* or “Lonely Buddha” who realizes nirvana without teaching the path (as does a Sammāsambuddha). Reading *upariṭṭhaṃ yasassinaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *upaṭṭhitaŋ yasassinaŋ* (“I waited on the famous”)
 
 [^27]: lit., “the karma”
 
-[^28]: taking <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *ma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chime* (for *pa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chime*) as a typographical error
+[^28]: taking <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *ma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chime* (for *pa[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chime*) as a typographical error
 
 [^29]: lit., “kṣatriyan”
 
@@ -268,7 +268,7 @@ The Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacriti
 
 [^35]: or “excellent knowledge,” see under RD *abhikkanta*, s.v. (*°dassāvin*)
 
-[^36]: *sabbarogatiki<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chako*
+[^36]: *sabbarogatiki[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chako*
 
 [^37]: *abhaṇī* lit., “said”
 
@@ -276,7 +276,7 @@ The Ka<span class="diacritics" data-state="on">cc</span><span class="no-diacriti
 
 [^39]: reading *mogharāja* (voc.) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *Mogharājā* (nom.)
 
-[^40]: *attānudiṭṭhiŋ uha<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a*
+[^40]: *attānudiṭṭhiŋ uha[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}a*
 
 [^41]: reading *katvā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *hutvā* (“having become”)
 

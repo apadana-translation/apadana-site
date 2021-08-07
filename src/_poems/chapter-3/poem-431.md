@@ -77,7 +77,7 @@ The legend of Ekavihāriya Thera is finished.
 
 [^3]: *gottena*
 
-[^4]: *nippapañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., “One who Lacks the Delays,” i.e., the three characteristics (craving, delusion, pride) which delay progress toward nirvana.
+[^4]: *nippapañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*, lit., “One who Lacks the Delays,” i.e., the three characteristics (craving, delusion, pride) which delay progress toward nirvana.
 
 [^5]: *nirālambo*
 
@@ -91,7 +91,7 @@ The legend of Ekavihāriya Thera is finished.
 
 [^10]: *vasī*
 
-[^11]: *asaṅga-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itto*
+[^11]: *asaṅga-[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}itto*
 
 [^12]: nikleso
 
@@ -99,13 +99,13 @@ The legend of Ekavihāriya Thera is finished.
 
 [^14]: *vinayopāyakovido* (cf. Skt. *upāya kauśālya*)
 
-[^15]: *uyyutto paraki<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>esu*
+[^15]: *uyyutto paraki[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}esu*
 
 [^16]: *vinayanto sadevake*
 
 [^17]: *param-assāda*, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss *paramāśvādaya*
 
-[^18]: *jarāma<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>univāraṇaŋ*
+[^18]: *jarāma[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}univāraṇaŋ*
 
 [^19]: *lokatārano*
 

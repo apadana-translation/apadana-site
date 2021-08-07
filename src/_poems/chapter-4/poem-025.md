@@ -298,11 +298,11 @@ The legend of Nandā Therī is finished.
 
 [^10]: *suñññataŋ*, or “empty \[of ill-will\],” which is <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
-[^11]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*
+[^11]: *vi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittaŋ*
 
 [^12]: *ratanāna-aṭṭha-paññāsaŋ uggato*. A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was 1044 inches (or 87 feet) tall.
 
-[^13]: *kañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
+[^13]: *kañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^14]: *paramassādaŋ*, or “having the ultimate taste”
 
@@ -330,11 +330,11 @@ The legend of Nandā Therī is finished.
 
 [^26]: *kapilavhaye*, lit., “in the \[city\] named for Kapila”
 
-[^27]: reading *siriṃ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> (and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt.) *siriyā*, “with splendor”
+[^27]: reading *siriṃ [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> (and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt.) *siriyā*, “with splendor”
 
 [^28]: *nanditaŋ*
 
-[^29]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., “and \[I was\]”
+[^29]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*, lit., “and \[I was\]”
 
 [^30]: *kalyāṇi ti*
 
@@ -344,17 +344,17 @@ The legend of Nandā Therī is finished.
 
 [^33]: *tilokaggo*, lit., “Three Worlds’ Chief”
 
-[^34]: *majjhimo*, or <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) *pa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chimo*, “the last” — <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *mä kaṇiṭu bǟyā* (“my younger elder brother”)
+[^34]: *majjhimo*, or <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) *pa[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chimo*, “the last” — <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *mä kaṇiṭu bǟyā* (“my younger elder brother”)
 
 [^35]: *arahā*, “worthy” “an arahant”
 
 [^36]: that is, by Mahāpajāpatī Gotamī, founder and leader of the Assembly of Nuns (*bhikkhunīsaṅgha*)
 
-[^37]: reading *kinnu v’ a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chasi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *kiŋ na a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chasi*, (“why don’t you sit”)
+[^37]: reading *kinnu v’ a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chasi* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *kiŋ na a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chasi*, (“why don’t you sit”)
 
 [^38]: *nandena pi vinā bhūtā*, a play on the nun’s name
 
-[^39]: *asu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>isammataŋ*, or “not considered pure” (depending on whether the compound is understood as *asuci-sammataŋ* or *a-su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>isammataŋ*)
+[^39]: *asu[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}isammataŋ*, or “not considered pure” (depending on whether the compound is understood as *asuci-sammataŋ* or *a-su[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}isammataŋ*)
 
 [^40]: *rūpaŋ*
 
@@ -372,7 +372,7 @@ The legend of Nandā Therī is finished.
 
 [^47]: *puññānaŋ*, lit., “for merit\[orious deed\]s,” i.e., plural
 
-[^48]: <abbr title="Pali Text Society">PTS</abbr> *vara*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara*, “wander”
+[^48]: <abbr title="Pali Text Society">PTS</abbr> *vara*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ara*, “wander”
 
 [^49]: *dehena*, lit., “with”
 
@@ -382,7 +382,7 @@ The legend of Nandā Therī is finished.
 
 [^52]: *jhān’ajjhena*
 
-[^53]: *na <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>âhaŋ tatra ussukā*, omitting “and” in the translation
+[^53]: *na [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}âhaŋ tatra ussukā*, omitting “and” in the translation
 
 [^54]: *disvā*, lit., “seeing”
 
@@ -390,9 +390,9 @@ The legend of Nandā Therī is finished.
 
 [^56]: or “form”: *rūpasmiŋ*
 
-[^57]: *dassanīyaŋ*, lit., “to be looked at,” “eye-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>andy”
+[^57]: *dassanīyaŋ*, lit., “to be looked at,” “eye-[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}andy”
 
-[^58]: *suru<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iraŋ*
+[^58]: *suru[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}iraŋ*
 
 [^59]: lit., “her, seeing \[her\] very”
 
@@ -406,13 +406,13 @@ The legend of Nandā Therī is finished.
 
 [^64]: reading *lūtā* (Sinh. gloss *makuḷuvek*) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt., sort of \[*lutā*, sic\]) for <abbr title="Pali Text Society">PTS</abbr> *luddā* (“hunters” \[or “disgusting/gruesome thing” ?\])
 
-[^65]: reading *vipubbañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“festering”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sabbañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (“all” “entire”), though the latter is also a reasonable enough reading.
+[^65]: reading *vipubbañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (“festering”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sabbañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (“all” “entire”), though the latter is also a reasonable enough reading.
 
 [^66]: reading *nissasantī* (lit., “gasping for breath \[or “panting” or “sighing” or “exhaling”\]) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *nissayanti* (“they are pursuing” “leaning on”)
 
 [^67]: or “suffering with suffering” “ill at ease with dis-ease” etc.: *dukkhena dukkhitā homi*
 
-[^68]: reading *dolālālā* (lit., “swing-aquiver”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dolālo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ā* (“swing” + ?) and alts. *dolālolā* “swing unwavering/undisturbed,” *dolātulā*, ”swing” + ?) which seem to emulate the alliteration of <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>’ *dolālālā* even at the expense of apparent meaning
+[^68]: reading *dolālālā* (lit., “swing-aquiver”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *dolālo[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ā* (“swing” + ?) and alts. *dolālolā* “swing unwavering/undisturbed,” *dolātulā*, ”swing” + ?) which seem to emulate the alliteration of <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>’ *dolālālā* even at the expense of apparent meaning
 
 [^69]: especially the buds of *mimusops elengi* (says RD quoting Hardy, see *makuḷa* s.v.), = Spanish Cherry, Pāli *vakula*. This accepts the <abbr title="Pali Text Society">PTS</abbr> reading here, *makul\[ḷ\]a-khārak’-ākārā*, recognizing that there is a lot of variation (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *makuḷamburuhākārā* \[“resembling the buds of trees in water” (?)\])
 
@@ -422,7 +422,7 @@ The legend of Nandā Therī is finished.
 
 [^72]: reading *sūnā vaṇitakibbisā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *sūnā ‘va nītakibbisā* (“like a slaughterhouse leading to sin” ?)
 
-[^73]: *jegu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaŋ*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *bībha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chaṃ*, with similar range of meaning (disgusting, horrible, dreadful)
+[^73]: *jegu[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chaŋ*; <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *bībha[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chaṃ*, with similar range of meaning (disgusting, horrible, dreadful)
 
 [^74]: or, reading *vipassantī* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, “investigating” “applying insight”
 

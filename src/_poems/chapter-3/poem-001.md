@@ -106,7 +106,7 @@ Crocodiles and alligators,
 are living in that tank \[there\] then. (19) \[158\]
 
 Pigeons[^56] and *ravi*-swans[^57] as well,  
-ruddy geese[^58] and *nadī<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aras*,  
+ruddy geese[^58] and *nadī[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aras*,  
 cuckoos,[^59] parrots,[^60] and mynah birds[^61] too  
 are living on that lake \[there then\]. (20) \[159\]
 
@@ -127,7 +127,7 @@ are living on that lake \[there then\]. (23) \[162\]
 
 Spotted deer[^78] and also wild boar,[^79]  
 and numerous wolves[^80] and jackals,[^81]  
-*rohi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a*-deer,[^82] *suggapotas*  
+*rohi[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}a*-deer,[^82] *suggapotas*  
 are living on that lake \[there then\]. (24) \[163\]
 
 Lions and tigers and leopards,  
@@ -890,7 +890,7 @@ being fixed in your \[great\] teaching,
 they \[like the trees\] grow deathless fruit. (176) \[315\]
 
 The Indus, and the Sarasvatī  
-are rivers, like the <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā,  
+are rivers, like the [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andabhāgā,  
 the Ganges and the Yamuna  
 the Sarabhu and the Mahī too. (177) \[316\]
 
@@ -1202,7 +1202,7 @@ The legend of Sāriputta Thera is finished.
 
 [^11]: *patāyanti*.
 
-[^12]: reading *sālā* *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* (<a href="#BJTS" class="abbr">BJTS</a>, cty) for *kolakā* (<a href="#PTS" class="abbr">PTS</a>); shorea robusta
+[^12]: reading *sālā* *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* (<a href="#BJTS" class="abbr">BJTS</a>, cty) for *kolakā* (<a href="#PTS" class="abbr">PTS</a>); shorea robusta
 
 [^13]: *tilaka*, <a href="#BJTS" class="abbr">BJTS</a> glosses as *madaṭa* cf. botanical dictionary = *madaṭiya*, a tree which yields false yellow sandalwood, and seeds that are used as beads and a jeweler’s weight of about 1.25 troy ounce, *adenanthera pavonina*, coral bean tree a.k.a. saga, sagaseed tree, red-bead tree, kolkriki
 
@@ -1294,13 +1294,13 @@ The legend of Sāriputta Thera is finished.
 
 [^57]: *ravihaŋsā*
 
-[^58]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavākā*, <a href="#BJTS" class="abbr">BJTS</a> Sinh. gloss *sakvālihiṇiyō* = *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akravākayā*, an aquatic bird, brahminy goose, btahmany kite, haliastur indus
+[^58]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akkavākā*, <a href="#BJTS" class="abbr">BJTS</a> Sinh. gloss *sakvālihiṇiyō* = *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akravākayā*, an aquatic bird, brahminy goose, btahmany kite, haliastur indus
 
 [^59]: *kokilā*
 
 [^60]: *suka°*
 
-[^61]: reading °*sālikā* with <a href="#BJTS" class="abbr">BJTS</a> for <a href="#PTS" class="abbr">PTS</a> *°sāḷi <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*. Sāḷlka* (Skt. *śārika*) = Sinh. *säḷalihiṇiyō*, Indian mynah birds (Hindi *maina*, Skt. *madana*)
+[^61]: reading °*sālikā* with <a href="#BJTS" class="abbr">BJTS</a> for <a href="#PTS" class="abbr">PTS</a> *°sāḷi [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*. Sāḷlka* (Skt. *śārika*) = Sinh. *säḷalihiṇiyō*, Indian mynah birds (Hindi *maina*, Skt. *madana*)
 
 [^62]: *kukutthakā*, Sinh. *valikukuḷō*
 
@@ -1310,11 +1310,11 @@ The legend of Sāriputta Thera is finished.
 
 [^65]: *dindibhā*, Sinh. gloss *kirallu, kiraḷā* = red-wattled or yellow-wattled lapwing. PSI dictionary gives “bluejay”
 
-[^66]: *sukapotā*, Sinh. gloss = *girāmalittō* (= *girāmali<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>iyā*), Ceylon lorikeet, loriculus indicus
+[^66]: *sukapotā*, Sinh. gloss = *girāmalittō* (= *girāmali[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}iyā*), Ceylon lorikeet, loriculus indicus
 
 [^67]: *haŋsā*
 
-[^68]: *koñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ā*, Sinh. *kosvā lihiṇiyō*
+[^68]: *koñ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ā*, Sinh. *kosvā lihiṇiyō*
 
 [^69]: *mayurā*
 
@@ -1342,13 +1342,13 @@ The legend of Sāriputta Thera is finished.
 
 [^81]: *bheraṇḍakā*, Sinh. gloss *sivallu*, pl. of *sivalā, hivalā*
 
-[^82]: *rohi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>ā*, RD says “a kind of deer, J.vi.537, fr. *rohita*, red, hence “red deer” (?); Sinh. gloss *rērumuvō*, pl. of *rērumuvā*, = “duck” or “teal” deer.
+[^82]: *rohi[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}ā*, RD says “a kind of deer, J.vi.537, fr. *rohita*, red, hence “red deer” (?); Sinh. gloss *rērumuvō*, pl. of *rērumuvā*, = “duck” or “teal” deer.
 
-[^83]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha°*, Sinh. gloss *valassu*
+[^83]: *a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha°*, Sinh. gloss *valassu*
 
 [^84]: *koka*, etymological cousin of *vāka*, *vṛka*, above, see RD
 
-[^85]: *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note <a href="#BJTS" class="abbr">BJTS</a> omits the second mention of “wolves” so may be taking *koka* in compound with *tara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* (i.e., *kokatara<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
+[^85]: *tara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā*, Sinh. gloss *kara bānā* (‘submissive” “bent over”) *valassu*, Note <a href="#BJTS" class="abbr">BJTS</a> omits the second mention of “wolves” so may be taking *koka* in compound with *tara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā* (i.e., *kokatara[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā*), in specifying this particular type of bear (cf. Sorata, *kara baāna valasā*, s.v.)
 
 [^86]: i.e., showing their rut in their eyes, ears, and genitals. See cty, p. 288.
 
@@ -1360,7 +1360,7 @@ The legend of Sāriputta Thera is finished.
 
 [^90]: *vanakammikā*
 
-[^91]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>etā*, Sinh. gloss *dāsayō* (“slaves”) seems to read *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eta* as *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eṭa*, *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eṭaka*, servant, boy; I follow the gloss in giving the word (otherwise “mind,” “thought”) a translation, though RD and PSI dict give no indication that *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eta* is an alternate spelling for *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eṭa*
+[^91]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}etā*, Sinh. gloss *dāsayō* (“slaves”) seems to read *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}eta* as *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}eṭa*, *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}eṭaka*, servant, boy; I follow the gloss in giving the word (otherwise “mind,” “thought”) a translation, though RD and PSI dict give no indication that *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}eta* is an alternate spelling for *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}eṭa*
 
 [^92]: *luddakā*, Sinh. gloss *väddō*, aborigines of Sri Lanka (Veddas)
 
@@ -1394,7 +1394,7 @@ The legend of Sāriputta Thera is finished.
 
 [^107]: *kalamba*, RD draws attention to Skt. *kalambika*, *kalambuka* = convulvulus repens, bindweed, but there are other possibilities including a tree menispermum calumba (but its fruits are poisonous/only used in controlled medical usages, unlikely?) and (following <a href="#BJTS" class="abbr">BJTS</a> Sinh. gloss here) Anthocephalus Cadamba (*Rub.*), Sinh. *kalamba*
 
-[^108]: <a href="#BJTS" class="abbr">BJTS</a> reads *aluva*. RD: fr. Skt. *ālu*, *āluka*: a bulbous plant, Radix Globosa Esculenta or Amorphophallus (Kern), Arum <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampanulatum (Hardy), cognate with alium, good possibility is amorphophallus titanum, “titan arum”
+[^108]: <a href="#BJTS" class="abbr">BJTS</a> reads *aluva*. RD: fr. Skt. *ālu*, *āluka*: a bulbous plant, Radix Globosa Esculenta or Amorphophallus (Kern), Arum [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ampanulatum (Hardy), cognate with alium, good possibility is amorphophallus titanum, “titan arum”
 
 [^109]: <a href="#BJTS" class="abbr">BJTS</a> reads *biḷālī°*
 
@@ -1434,7 +1434,7 @@ The legend of Sāriputta Thera is finished.
 
 [^127]: *dānavā*
 
-[^128]: that is, ascetics, who carry around all their possessions, limited to the basic necessities they require, in shoulder yokes. Cty: *khāribhāran ti : udañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anakamaṇḍalu-ādikam tāpasaparikkharabhāram*.
+[^128]: that is, ascetics, who carry around all their possessions, limited to the basic necessities they require, in shoulder yokes. Cty: *khāribhāran ti : udañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}anakamaṇḍalu-ādikam tāpasaparikkharabhāram*.
 
 [^129]: reading *khipita* with <a href="#BJTS" class="abbr">BJTS</a> (and some <a href="#PTS" class="abbr">PTS</a> alt) for <a href="#PTS" class="abbr">PTS</a> *khitta*, “thrown down,” hard to see how it fits here
 
@@ -1442,7 +1442,7 @@ The legend of Sāriputta Thera is finished.
 
 [^131]: lit., “constantly am receiving joy”, or “receiving laughter” or “smiles”. Perhaps, “I constantly receive their smiles”
 
-[^132]: reading *vipa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>atan* (<a href="#BJTS" class="abbr">BJTS</a>) for *pa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>atan* (<a href="#PTS" class="abbr">PTS</a>).
+[^132]: reading *vipa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}atan* (<a href="#BJTS" class="abbr">BJTS</a>) for *pa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}atan* (<a href="#PTS" class="abbr">PTS</a>).
 
 [^133]: lit.,arising out of *samādhi*
 
@@ -1460,7 +1460,7 @@ The legend of Sāriputta Thera is finished.
 
 [^140]: one lakh = 100,000, hence the number of pieces is two trillion
 
-[^141]: reading *sukhama-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>-chiddena jālena* for *sukhuma-<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chikena jālena*, with the Cty.
+[^141]: reading *sukhama-[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}-chiddena jālena* for *sukhuma-[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chikena jālena*, with the Cty.
 
 [^142]: *Disaṃ olokayī*, lit., “looked out in the directions”
 
@@ -1480,7 +1480,7 @@ The legend of Sāriputta Thera is finished.
 
 [^150]: lit., 80 *koṭis* = 80 x 10,000,000 or 800,000,000 \[pieces of money\]
 
-[^151]: *pabbajissati ‘kiñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ano*
+[^151]: *pabbajissati ‘kiñ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ano*
 
 [^152]: *oraso dhammanimmito*
 
@@ -1522,7 +1522,7 @@ The legend of Sāriputta Thera is finished.
 
 [^171]: *ugga-tejo* = “possessing mighty (fierce, hot) *tejas* (power, heat)”
 
-[^172]: *me <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittam uppajj;* lit., “my mind arose,” “my idea was born”.
+[^172]: *me [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittam uppajj;* lit., “my mind arose,” “my idea was born”.
 
 [^173]: lit., “about the ultimate goal”.
 
@@ -1542,9 +1542,9 @@ The legend of Sāriputta Thera is finished.
 
 [^181]: lit., “who was endowed with” or “to whom there was much”
 
-[^182]: *bhavasamsāramo<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anaṃ*
+[^182]: *bhavasamsāramo[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}anaṃ*
 
-[^183]: reading *appi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā* for *api<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chā*, following <a href="#BJTS" class="abbr">BJTS</a>
+[^183]: reading *appi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā* for *api[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chā*, following <a href="#BJTS" class="abbr">BJTS</a>
 
 [^184]: *dhuta-ratā*
 
@@ -1564,7 +1564,7 @@ The legend of Sāriputta Thera is finished.
 
 [^192]: the moon.
 
-[^193]: *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>uṇṇā*
+[^193]: *sañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}uṇṇā*
 
 [^194]: *kumuda*
 

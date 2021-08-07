@@ -195,9 +195,9 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^3]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *Yamako*
 
-[^4]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuddasasahassāni* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>atuddasaŋ sahassānaŋ* (“of fourteenth thousand”)
+[^4]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}atuddasasahassāni* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}atuddasaŋ sahassānaŋ* (“of fourteenth thousand”)
 
-[^5]: *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aranti*
+[^5]: *pari[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aranti*
 
 [^6]: lit., “do *pūjā*”
 
@@ -229,7 +229,7 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^20]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *tuttāṭṭito*, the more correct (acc. to RD) spelling of <abbr title="Pali Text Society">PTS</abbr> *°addito*
 
-[^21]: *ma<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>urājā* = Māra
+[^21]: *ma[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}urājā* = Māra
 
 [^22]: *vharamānaŋ maŋ*
 
@@ -241,7 +241,7 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^26]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kiṅkaṇi*
 
-[^27]: *pari<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iṇṇattā*
+[^27]: *pari[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}iṇṇattā*
 
 [^28]: lit., “dirt and dust are not smeared \[on me\]”
 
@@ -253,7 +253,7 @@ The legend of Puḷinathūpiya[^45] Thera is finished.
 
 [^32]: or “flood,” *aṇṇavaŋ*
 
-[^33]: reading *thokakañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a yaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *thokakañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anaŋ* (“a little gold”)
+[^33]: reading *thokakañ [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a yaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *thokakañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}anaŋ* (“a little gold”)
 
 [^34]: *saŋsāraŋ*, frequently described as “an ocean”
 

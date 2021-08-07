@@ -96,4 +96,4 @@ The legend of Harīṭakadāyaka Thera is finished.
 
 [^14]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) reads *dhīro* (“the wise one”)
 
-[^15]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
+[^15]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arimo vattate bhavo*

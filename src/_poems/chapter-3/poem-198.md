@@ -39,7 +39,7 @@ The legend of Muṭṭhipūjaka Thera is finished.
 
 [^2]: lit., “exerted \[himself\] in exertion”: *padhānaŋ padahī*
 
-[^3]: reading *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅkamamānassa* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *kampamānassa* (“shaking” “trembling" “quaking” “quivering”)
+[^3]: reading *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅkamamānassa* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *kampamānassa* (“shaking” “trembling" “quaking” “quivering”)
 
 [^4]: lit., “a handful of flowers of *girinela*.” *Girinela* = Sinh. *girinil mal*, *girinilla*; Sri Sumangala: “a variety of vine used in medicine”
 

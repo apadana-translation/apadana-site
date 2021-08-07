@@ -82,6 +82,6 @@ The legend of Ekachattiya Thera is finished.
 
 [^6]: reading *vihanantaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *viharanti* (“they are dwelling”)
 
-[^7]: *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>arimo vattate bhavo*
+[^7]: *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}arimo vattate bhavo*
 
 [^8]: lit., “even today”

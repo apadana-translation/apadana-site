@@ -34,4 +34,4 @@ The legend of Saddasaññaka Thera is finished.
 
 [^2]: or “pleasure,” *pasādo vipulo ahū*
 
-[^3]: lit., “and,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*
+[^3]: lit., “and,” *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*

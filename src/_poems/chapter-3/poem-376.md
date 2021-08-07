@@ -39,7 +39,7 @@ The legend of Gandhamuṭṭhiya Thera is finished.
 
 [^2]: “A Handful of Incense-er”
 
-[^3]: or more generally, “shrine,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ita*. I read *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itake karīyamāne* (locative absolute construction) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itesu kiramānesu*, “when stupas (or shrines) were being scattered”
+[^3]: or more generally, “shrine,” *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ita*. I read *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}itake karīyamāne* (locative absolute construction) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}itesu kiramānesu*, “when stupas (or shrines) were being scattered”
 
 [^4]: *gandha*, lit., “\[good\] smells,” “types of incense”
 

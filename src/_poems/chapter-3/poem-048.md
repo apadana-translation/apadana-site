@@ -4,7 +4,7 @@ order: 48
 category: chapter-3
 ---
 
-### \[48. <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ankamadāyaka[^1]\]
+### \[48. [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ankamadāyaka[^1]\]
 
 Having heaped up \[the ground\] with bricks,  
 I had a walkway constructed  
@@ -46,8 +46,8 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (8) \[1214\]
 
-Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ankamadāyaka Thera spoke these verses.
+Thus indeed Venerable [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ankamadāyaka Thera spoke these verses.
 
-The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ankamadāyaka Thera is finished.
+The legend of [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ankamadāyaka Thera is finished.
 
 [^1]: “Walkway-Giver”

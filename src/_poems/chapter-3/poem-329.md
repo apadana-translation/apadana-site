@@ -4,7 +4,7 @@ order: 329
 category: chapter-3
 ---
 
-### \[329. Puppha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chattiya[^1]\]
+### \[329. Puppha[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chattiya[^1]\]
 
 Bringing water-born lotuses,[^2]  
 hundred-leafed, delighting the mind,  
@@ -50,9 +50,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[2906\]
 
-Thus indeed Venerable Puppha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chattiya Thera spoke these verses.
+Thus indeed Venerable Puppha[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chattiya Thera spoke these verses.
 
-The legend of Puppha<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chattiya Thera is finished.
+The legend of Puppha[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chattiya Thera is finished.
 
 [^1]: “Flower-Umbrella-er”
 

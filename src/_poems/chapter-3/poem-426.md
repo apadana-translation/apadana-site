@@ -63,7 +63,7 @@ The legend of Ghatamaṇḍadāyaka Thera is finished.
 
 [^2]: “Cream-of-Ghee Donor.” This *apadāna* is repeated verbatim below, with the same name, as \#493 {496}.
 
-[^3]: *su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intitaŋ*
+[^3]: *su[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}intitaŋ*
 
 [^4]: *vātābādhena*, “a disease of the wind,” one of the three humors in classical Indian (including Buddhist) medical traditions.
 
@@ -71,7 +71,7 @@ The legend of Ghatamaṇḍadāyaka Thera is finished.
 
 [^6]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
-[^7]: *katattā ā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itattā <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., “because of the doing, and because of the heaping up \[of that karma\]”
+[^7]: *katattā ā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}itattā [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*, lit., “because of the doing, and because of the heaping up \[of that karma\]”
 
 [^8]: This is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling; <abbr title="Pali Text Society">PTS</abbr> gives *Bhāgīrasī*
 

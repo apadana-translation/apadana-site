@@ -44,7 +44,7 @@ The legend of Ketakapupphiya Thera is finished.
 
 [^2]: “Screw-pine Flower-er”
 
-[^3]: the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling; <abbr title="Pali Text Society">PTS</abbr> reads *VItthāya*, alts. *Vittāya*, *<span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ittāya*. Cf. \#380 {383}, v. 1 = \[3292\], above, where <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> agree on the spelling accepted from <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> here; but cf. also \#485 {488} above, v. 1 = \[5177\], where I also accept the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading amidst considerable variation
+[^3]: the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> spelling; <abbr title="Pali Text Society">PTS</abbr> reads *VItthāya*, alts. *Vittāya*, *[C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}ittāya*. Cf. \#380 {383}, v. 1 = \[3292\], above, where <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> and <abbr title="Pali Text Society">PTS</abbr> agree on the spelling accepted from <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> here; but cf. also \#485 {488} above, v. 1 = \[5177\], where I also accept the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading amidst considerable variation
 
 [^4]: *ekaggaŋ*
 

@@ -441,7 +441,7 @@ As though it were the end of time,
 she garlanded the earth in flames. (85) \[311\]
 
 She took mounts Meru, Mandāra,  
-Daddara, great Mu<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>alinda —  
+Daddara, great Mu[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}alinda —  
 all of them, in a single fist,  
 like they were \[tiny\] mustard seeds. (86) \[312\]
 
@@ -961,7 +961,7 @@ Thus indeed Bhikkhunī Mahāpajāpatīgotamī spoke these verses.
 
 The legend of Mahāpajāpatīgotamī Therī is finished.
 
-[^1]: “Female Gotama,” “the Gotamid.” Her full name is given in the colophon as Mahāpajāpatī Gotamī, as she is addressed throughout the canon. She was a historical nun, the sister of the Buddha’s natural mother (Mahāmāyā) who took over upon the latter’s death, both as the Buddha’s childhood wet-nurse and (surrogate) mother (actually his maternal aunt, Sinh. *puñ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i ammā*), and as his father’s wife (hence step-mother). She was the founder and leader of the nuns, who convinced Ānanda to beg the Buddha for their order to be established.
+[^1]: “Female Gotama,” “the Gotamid.” Her full name is given in the colophon as Mahāpajāpatī Gotamī, as she is addressed throughout the canon. She was a historical nun, the sister of the Buddha’s natural mother (Mahāmāyā) who took over upon the latter’s death, both as the Buddha’s childhood wet-nurse and (surrogate) mother (actually his maternal aunt, Sinh. *puñ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}i ammā*), and as his father’s wife (hence step-mother). She was the founder and leader of the nuns, who convinced Ānanda to beg the Buddha for their order to be established.
 
 [^2]: there are numerous possibilities for translation of this string of locatives, because “delightful” (*ramme*) can modify either “city” (*pure*) or “nuns’ refuge” (*bhikkhunupassaye*), and the texts disagree on “built” (*kate*), which is the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading. <abbr title="Pali Text Society">PTS</abbr> reads *setapure* (“white city”), which I followed in my previously-published translation of this *apadāna*. There is great disagreement in the manuscripts about this term: <abbr title="Pali Text Society">PTS</abbr> offers *petapūre* (“filled with hungry ghosts” ?) and *gate* (“\[to which she had\] gone”); <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. has *yeva* (“indeed”).
 
@@ -969,7 +969,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^4]: or, as my earlier translation has it, “cannot bear”. The term (*sakkomi*) carries such connotations in vernacular usage and this is how I originally understood the text. However, in keeping with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss here, I remain more literal and leave it open to varied interpretations: rather than an emotional reason for letting go of life’s constituents (or additionally an expression of maternal sentiment) it might be a simple statement of fact, i.e., she realizes it’s time to do and that means she’ll die before the Buddha and great followers.
 
-[^5]: <abbr title="Pali Text Society">PTS</abbr> reads *paṭiha<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>’ āyusaṅkhāre*, which I follow here, though <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *paṭtiga<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>’* (alt. *paṭika<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>’*), = “previous,” in which case *āyusaṅkhāre* might be the object of *ossajitvāna*, hence: “letting go of the constituents of my previous life”.
+[^5]: <abbr title="Pali Text Society">PTS</abbr> reads *paṭiha[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}’ āyusaṅkhāre*, which I follow here, though <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> *paṭtiga[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}’* (alt. *paṭika[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}’*), = “previous,” in which case *āyusaṅkhāre* might be the object of *ossajitvāna*, hence: “letting go of the constituents of my previous life”.
 
 [^6]: <abbr title="Pali Text Society">PTS</abbr> and <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> agree in presenting this as a six-footed verse.
 
@@ -985,7 +985,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^12]: lit., “who are going to nirvana”
 
-[^13]: reading *nigga<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chi bhikkhunīnilayā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *niggañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hi bhikkhunīlayanā*
+[^13]: reading *nigga[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chi bhikkhunīnilayā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *niggañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}hi bhikkhunīlayanā*
 
 [^14]: *sugatorasā*, “the \[pl. fem.\] legitimate descendants of the Well-Gone-One,” that is, the goddesses living in the nuns’ residence
 
@@ -1043,9 +1043,9 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^41]: *sañjhā-ghanā*, lit., “from an evening cloud”
 
-[^42]: *narādi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aŋ*
+[^42]: *narādi[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}aŋ*
 
-[^43]: *ādi<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>akulaketunaŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *°kaṃ*)
+[^43]: *ādi[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}akulaketunaŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *°kaṃ*)
 
 [^44]: lit., “not”
 
@@ -1119,7 +1119,7 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^79]: that is, Benares
 
-[^80]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *katvā pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>asatakuṭī* (“having made \[them\] five hundred huts” for <abbr title="Pali Text Society">PTS</abbr> *pūgā bhavitvā sabbāyo*
+[^80]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *katvā pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}asatakuṭī* (“having made \[them\] five hundred huts” for <abbr title="Pali Text Society">PTS</abbr> *pūgā bhavitvā sabbāyo*
 
 [^81]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *pasannāmha sasāmikā*, “we were pleased with our husbands”
 
@@ -1197,6 +1197,6 @@ The legend of Mahāpajāpatīgotamī Therī is finished.
 
 [^118]: lit., “\[her\] state of rebirth (*gati*) is not known”. The metaphor is that Gotamī, like the flame that used to be in the iron rod on the forge, has disappeared without a trace, “cooled off”.
 
-[^119]: *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alaŋ sukhaŋ*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads, more consistently with *Apadāna* as a whole, *a<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>alaŋ padaŋ* (“unshaking state”)
+[^119]: *a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}alaŋ sukhaŋ*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads, more consistently with *Apadāna* as a whole, *a[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}alaŋ padaŋ* (“unshaking state”)
 
 [^120]: or “make an end of dis-ease:” *dukkhass’ antaŋ karissathā ti*.

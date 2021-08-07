@@ -136,4 +136,4 @@ The legend of Ekadhammasavanīya Thera is finished.
 
 [^14]: *kathāyaŋ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *kath’ ayaṃ*)
 
-[^15]: reading *ani<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>atam udāhari*
+[^15]: reading *ani[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}atam udāhari*

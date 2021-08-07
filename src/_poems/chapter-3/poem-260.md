@@ -36,7 +36,7 @@ The legend of Aggapupphiya Thera is finished.
 
 The summary:
 
-Thomaka, Bhikkha, <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>itaka,  
+Thomaka, Bhikkha, [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}itaka,  [C]{.diacritics data-state=on}[C]{.diacritics data-state=on}
 <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>ampaka, Sattapāṭali,  
 ‘pāhana, Mañjari, Paṇṇa,  
 Kuṭida, Aggapupphiya[^5]  
@@ -53,4 +53,4 @@ The Thomaka Chapter, the Twenty-Sixth
 
 [^4]: “Boundless”
 
-[^5]: omitting *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a* following <abbr title="Pali Text Society">PTS</abbr> alternative as well as <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>. This keeps the meter right, in Pāli as much as in English. There are anyway already two *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>as* in the following line, which keeps the English awkward enough.
+[^5]: omitting *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a* following <abbr title="Pali Text Society">PTS</abbr> alternative as well as <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>. This keeps the meter right, in Pāli as much as in English. There are anyway already two *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}as* in the following line, which keeps the English awkward enough.

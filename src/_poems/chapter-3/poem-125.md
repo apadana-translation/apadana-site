@@ -82,7 +82,7 @@ was a wheel-turner with great strength
 possessor of the seven gems. (15) \[1820\]
 
 In the eighty-seventh aeon,  
-\[the king\] Sarita<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chedana[^6]  
+\[the king\] Sarita[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chedana[^6]  
 was a wheel-turner with great strength  
 possessor of the seven gems. (16) \[1821\]
 
@@ -97,7 +97,7 @@ was a wheel-turner with great strength,
 possessor of the seven gems. (18) \[1823\]
 
 In the eighty-fourth aeon \[hence,\]  
-\[the king\] Gatipa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chedana[^9]  
+\[the king\] Gatipa[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chedana[^9]  
 was a wheel-turner with great strength,  
 possessor of the seven gems. (19) \[1824\]
 

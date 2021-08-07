@@ -4,7 +4,7 @@ order: 99
 category: chapter-3
 ---
 
-### \[99. Veyyāva<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aka[^1]\]
+### \[99. Veyyāva[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}aka[^1]\]
 
 There was a large group[^2] \[waiting on\]  
 Vipassi, \[then\] the Blessed One.  
@@ -22,7 +22,7 @@ I’ve come to know no bad rebirth:
 that’s the fruit of doing service. (3) \[1603\]
 
 Then, in the eighth aeon ago,  
-I was the king, Su<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>intita,[^3]  
+I was the king, Su[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}intita,[^3]  
 a wheel-turner with great power,  
 possessor of the seven gems. (4) \[1604\]
 
@@ -31,11 +31,11 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (5) \[1605\]
 
-Thus indeed Venerable Veyyāva<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aka Thera spoke these verses.
+Thus indeed Venerable Veyyāva[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}aka Thera spoke these verses.
 
-The legend of Veyyāva<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>aka Thera is finished.
+The legend of Veyyāva[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}aka Thera is finished.
 
-[^1]: “Servicer.” Veyyāva<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a is service performed for elders and superiors (Sinh. *vatāvata*). This is the term translated as “service” in v. (3) \[1603\], where it refers not to the “service” he performed for his employers but rather the “service” for (or attendance on) the Buddha which he rendered, enacted in his worship of the latter’s feet. The suffix “ka” functions like “er” in English. “Servant” in verse (1) \[1601\] translates *veyyāva<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>akara*, “doer of service to elders and superiors,” which is close to, but not identical with, this Thera’s name.
+[^1]: “Servicer.” Veyyāva[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}a is service performed for elders and superiors (Sinh. *vatāvata*). This is the term translated as “service” in v. (3) \[1603\], where it refers not to the “service” he performed for his employers but rather the “service” for (or attendance on) the Buddha which he rendered, enacted in his worship of the latter’s feet. The suffix “ka” functions like “er” in English. “Servant” in verse (1) \[1601\] translates *veyyāva[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}akara*, “doer of service to elders and superiors,” which is close to, but not identical with, this Thera’s name.
 
 [^2]: lit., “a group consisting of a vast multitude”.
 

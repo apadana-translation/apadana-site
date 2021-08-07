@@ -160,7 +160,7 @@ The legend of Mahākassapa Thera is finished.
 
 [^13]: lit “half of that,” i.e., 250
 
-[^14]: following <a href="#BJTS" class="abbr">BJTS</a> in reading *sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ighare* and *sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i* for *sucighare* and *suci* (<a href="#PTS" class="abbr">PTS</a>).
+[^14]: following <a href="#BJTS" class="abbr">BJTS</a> in reading *sū[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ighare* and *sū[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}i* for *sucighare* and *suci* (<a href="#PTS" class="abbr">PTS</a>).
 
 [^15]: following the cty in reading *āpaṇa* for *paṇṇu*.
 

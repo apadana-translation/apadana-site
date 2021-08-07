@@ -210,7 +210,7 @@ The legend of Vakkali Thera is finished.
 
 [^6]: lit., “good skin”
 
-[^7]: *padumāmalasu<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chavi*
+[^7]: *padumāmalasu[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chavi*
 
 [^8]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *vīro* for <abbr title="Pali Text Society">PTS</abbr> *dhīro*, a common confusion given the similarity of the Sinhala letters “vī” and “dhī,” though typically <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *dhīro* for <abbr title="Pali Text Society">PTS</abbr> *vīro*. It is not clear to me how either epithet relates to lotuses.
 
@@ -234,27 +234,27 @@ The legend of Vakkali Thera is finished.
 
 [^18]: *karuṇā-mati-sāgaro*
 
-[^19]: reading *brahmāsuresurac<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ito* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *brahmāmarasurac<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ito* (“Praised by Brahmā and the Deathless Gods” or “Praised by Brahmā the God and the Gods”
+[^19]: reading *brahmāsuresurac[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ito* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *brahmāmarasurac[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ito* (“Praised by Brahmā and the Deathless Gods” or “Praised by Brahmā the God and the Gods”
 
 [^20]: *januttamo*
 
 [^21]: *sadevamanujâkiṇṇo*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> notes alt. that reads this as *°âkiṇṇe* and takes it as modifying *janamajjhe*, but accepts the reading *°âkiṇṇo* which makes it an epithet of the Buddha.
 
-[^22]: *kadā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>i…janamajjhe*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss
+[^22]: *kadā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}i…janamajjhe*, following <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss
 
 [^23]: *mama dassanalālaso*, lit., “fervently desirous of my look” or “of a vision (cf. Skt. *darśan*) of me”. PSI *lālasā* = *adhika tṛṣṇāva*, ardent desire, <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *lol vu* (desiring, attached to, greedy for, eager), fr. *luḷati*, to be stirred up, agitated
 
-[^24]: as with Mahāka<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>āna (see v. \[5670-5671\], above), the protagonist emulates a monk during his past life who has the same name which he will have as a monk in his future life during the time of Gotama Buddha. In other words, the monk named Vakkali referred to by Padumuttara is emulated and imitated by the later follower of Gotama Buddha even to the extent of having the same name.
+[^24]: as with Mahāka[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}āna (see v. \[5670-5671\], above), the protagonist emulates a monk during his past life who has the same name which he will have as a monk in his future life during the time of Gotama Buddha. In other words, the monk named Vakkali referred to by Padumuttara is emulated and imitated by the later follower of Gotama Buddha even to the extent of having the same name.
 
 [^25]: or “whose clothes are (or whose dwelling place is) made of gold.” I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss *kahavat handanā vū* (“dressed in yellow cloth”)
 
-[^26]: reading *hemayaññopavītaṅgaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *hemayaññopa<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>itaṅgaŋ* (“body heaped up with sacrifices of gold”?). The *yaññopavīta* (or more correctly *yaññopanīta*), lit., “sacrificial cord,” is a distinctive accoutrement of brahmin dress; the protagonist’s was gold-colored or made or gold. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss suggests the latter: *ranvan pūnanūlak därǟ siruru*
+[^26]: reading *hemayaññopavītaṅgaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *hemayaññopa[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}itaṅgaŋ* (“body heaped up with sacrifices of gold”?). The *yaññopavīta* (or more correctly *yaññopanīta*), lit., “sacrificial cord,” is a distinctive accoutrement of brahmin dress; the protagonist’s was gold-colored or made or gold. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss suggests the latter: *ranvan pūnanūlak därǟ siruru*
 
 [^27]: or “distinction:” *tena kammavisesana*, a variant (and metrical improvement) on the common first foot in parallel verses, i.e., *tena kammena sukatena*
 
 [^28]: here as esewhere in *Apadāna*, *aññatare* implies “undistinguished” or even “base”
 
-[^29]: *pisā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>abhayatajjitā*
+[^29]: *pisā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}abhayatajjitā*
 
 [^30]: *saraṇaŋ hohi*, lit., “be a refuge”
 
@@ -274,4 +274,4 @@ The legend of Vakkali Thera is finished.
 
 [^38]: lit., “in a mountain cave” (or “grotto” “crag”) reading *giri-kandare* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alt.) for <abbr title="Pali Text Society">PTS</abbr> *giri-niddare*, alt. *giri-niddhare* (= mountain + ?)
 
-[^39]: or “speech,” *vā<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aŋ*
+[^39]: or “speech,” *vā[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aŋ*

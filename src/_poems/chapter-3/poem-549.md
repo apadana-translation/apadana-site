@@ -4,7 +4,7 @@ order: 549
 category: chapter-3
 ---
 
-### \[546. {549.}[^1] Vanava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha[^2]\]
+### \[546. {549.}[^1] Vanava[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha[^2]\]
 
 In this \[present\] lucky aeon  
 Brahmā’s Kinsman, Greatly Famed One,  
@@ -56,7 +56,7 @@ becoming a forest-dweller
 \[in\] various hundreds \[of lives\]. (10) \[6282\]
 
 And now in \[my\] final rebirth,  
-a brahmin \[named\] Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chagotta  
+a brahmin \[named\] Va[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chagotta  
 in lovely Kapilavastu,  
 I set forth along with \[my\] wife.[^18] (11) \[6283\]
 
@@ -110,19 +110,19 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (21) \[6293\]
 
-Thus indeed Venerable Vanava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha Thera spoke these verses.
+Thus indeed Venerable Vanava[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha Thera spoke these verses.
 
-The legend of Vanava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha Thera is finished.
+The legend of Vanava[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha Thera is finished.
 
 [^1]: *Apadāna* numbers provided in {fancy brackets} correspond to the <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> edition, which contains more individual poems than does the <abbr title="Pali Text Society">PTS</abbr> edition dictating the main numbering of this translation.
 
-[^2]: “Forest Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha,” a historical monk (and one of many from the Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha clan). See DPPN II: 828
+[^2]: “Forest Va[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha,” a historical monk (and one of many from the Va[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha clan). See DPPN II: 828
 
 [^3]: One <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> alt. reads *gottena*, “by lineage”
 
 [^4]: *vadataŋ varo*
 
-[^5]: or “in celibacy”: reading *bhrama<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ariyaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (<abbr title="Pali Text Society">PTS</abbr> alt. *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ārī*, “being celibate”) for <abbr title="Pali Text Society">PTS</abbr> *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eraŋ* (“brahmā-\[\]?)
+[^5]: or “in celibacy”: reading *bhrama[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ariyaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (<abbr title="Pali Text Society">PTS</abbr> alt. *brahma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ārī*, “being celibate”) for <abbr title="Pali Text Society">PTS</abbr> *brahma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}eraŋ* (“brahmā-\[\]?)
 
 [^6]: or “died,” “passed away”
 
@@ -136,7 +136,7 @@ The legend of Vanava<span class="diacritics" data-state="on">c</span><span class
 
 [^11]: also known as *brahmavihāras*: love, pity or compassion, sympathetic joy and even-mindedness or equanimity. I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinh. gloss in understanding “boundless” (*appamaññāsu kovido*) in this way, and in construing v. \[6277\] as a continuation of \[6276\].
 
-[^12]: *vissattho na<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>irenāsiṃ tasmiṃ sugatasāvake*, lit., “I was trusting in \[that\] follower of the Well-Gone-One” (reading *°āsiṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *asmiŋ*, “in that”)
+[^12]: *vissattho na[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}irenāsiṃ tasmiṃ sugatasāvake*, lit., “I was trusting in \[that\] follower of the Well-Gone-One” (reading *°āsiṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *asmiŋ*, “in that”)
 
 [^13]: lit., “having approached”
 
@@ -148,7 +148,7 @@ The legend of Vanava<span class="diacritics" data-state="on">c</span><span class
 
 [^17]: *bahuso*. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *lahuso* (“quickly”). Especially given the following verse, I see no reason to change, and indeed prefer the <abbr title="Pali Text Society">PTS</abbr> reading
 
-[^18]: reading *va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chagotta dvijo tassa jāyāya* for <abbr title="Pali Text Society">PTS</abbr> *Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chagotto ti Jotissa jāyāya* (“‘Va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chagotta’ with \[my\] wife \[named\] Jotissa”)
+[^18]: reading *va[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chagotta dvijo tassa jāyāya* for <abbr title="Pali Text Society">PTS</abbr> *Va[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chagotto ti Jotissa jāyāya* (“‘Va[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chagotta’ with \[my\] wife \[named\] Jotissa”)
 
 [^19]: *kāsāyena*, or more specifically, “in a saffron \[monk’s robe\]”. Saffron robes (whose origin is in the turmeric-soaked shrouds of ancient Indian corpses) were and are used by renouncers of various stripes, though for Buddhist hearers the word certainly invokes (and means) a specifically Buddhist monk’s robe.
 

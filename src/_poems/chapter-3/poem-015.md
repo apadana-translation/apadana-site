@@ -4,7 +4,7 @@ order: 15
 category: chapter-3
 ---
 
-### \[15. Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha[^1]\]
+### \[15. Pilindava[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha[^1]\]
 
 When the World-Leader Sumedha,  
 the Best Person, reached nirvana,  
@@ -71,11 +71,11 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (13) \[740\]
 
-Thus indeed Venerable Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha Thera spoke these verses.
+Thus indeed Venerable Pilindava[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha Thera spoke these verses.
 
-The legend of Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha Thera is finished.
+The legend of Pilindava[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha Thera is finished.
 
-[^1]: <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn> gives Pilindiva<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha, which is also an alt reading in cty. As DPPN notes this may be a monk different from the famous Pilindava<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>cha of whom a much longer *apadāna* appears as \#388 {391}, below.
+[^1]: <dfn id="#BJTS"><abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr></dfn> gives Pilindiva[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha, which is also an alt reading in cty. As DPPN notes this may be a monk different from the famous Pilindava[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}cha of whom a much longer *apadāna* appears as \#388 {391}, below.
 
 [^2]: i.e., *apsaras*
 

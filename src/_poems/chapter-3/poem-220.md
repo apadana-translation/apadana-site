@@ -32,7 +32,7 @@ The legend of Pāpanivāriya Thera is finished.
 
 The Summary:
 
-Hatthi, Pānadhi, Sa<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>a,  
+Hatthi, Pānadhi, Sa[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}a,  
 Ekasaññi and Raŋsiya,  
 Saṇṭhita and Tālavaṇṭī,  
 likewise Akkantasaññaka;  

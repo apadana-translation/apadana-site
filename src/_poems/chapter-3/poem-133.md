@@ -4,9 +4,9 @@ order: 133
 category: chapter-3
 ---
 
-### \[133. <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanapūjaka[^1]\]
+### \[133. [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andanapūjaka[^1]\]
 
-On <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andabhāgā River’s bank,  
+On [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andabhāgā River’s bank,  
 I was a *kinnara*[^2] back then.  
 I lived on flowers as \[my\] food  
 and dressed in clothes[^3] made of flowers. (1) \[1886\]
@@ -51,9 +51,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (9) \[1894\]
 
-Thus indeed Venerable <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanapūjaka Thera spoke these verses.
+Thus indeed Venerable [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andanapūjaka Thera spoke these verses.
 
-The legend of <span class="diacritics" data-state="on">C</span><span class="no-diacritics" data-state="off">Ch</span>andanapūjaka Thera is finished.
+The legend of [C]{.diacritics data-state=on}[Ch]{.no-diacritics data-state=off}andanapūjaka Thera is finished.
 
 [^1]: “Sandalwood-Worshipper”
 

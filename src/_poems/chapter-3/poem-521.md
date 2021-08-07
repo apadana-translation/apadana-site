@@ -86,7 +86,7 @@ The legend of Tiṇamuṭṭhidāyaka Thera is finished.
 
 [^7]: *anāsava*
 
-[^8]: reading *va* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternative) for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, “and”
+[^8]: reading *va* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and <abbr title="Pali Text Society">PTS</abbr> alternative) for <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*, “and”
 
 [^9]: *yūpa*. The description which proceeds in the next verse seems to refer to the whole palace, not just the sacrificial post.
 

@@ -4,9 +4,9 @@ order: 61
 category: chapter-3
 ---
 
-## Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaniya Chapter, the Seventh
+## Saka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittaniya Chapter, the Seventh
 
-### \[61. Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaniya[^1]\]
+### \[61. Saka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittaniya[^1]\]
 
 Seeing a grove in the forest,  
 very quiet \[and\] undisturbed,  
@@ -38,9 +38,9 @@ and these eight deliverances,
 six special knowledges mastered,  
 \[I have\] done what the Buddha taught! (6) \[1354\]
 
-Thus indeed Venerable Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaniya Thera spoke these verses.
+Thus indeed Venerable Saka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittaniya Thera spoke these verses.
 
-The legend of Saka<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaniya Thera is finished.
+The legend of Saka[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittaniya Thera is finished.
 
 [^1]: “Thinking for Himself”
 

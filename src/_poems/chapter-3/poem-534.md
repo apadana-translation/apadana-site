@@ -240,11 +240,11 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^11]: *suñññataŋ*, or “empty \[of ill-will\],” which is <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> Sinhala gloss reading; I construe the epithet as *su* + *ñata*
 
-[^12]: *vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ittaŋ*
+[^12]: *vi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ittaŋ*
 
 [^13]: *ratanāna-aṭṭha-paññāsaŋ uggato*. A *ratana* (Sinh. *riyan*) is figured as twelve-fingers (*aṅgula*), according to Sinh-Eng Dictionary about eighteen inches. The claim here then is that Padumuttara Buddha was about 1044 inches (or 87 feet) tall.
 
-[^14]: *kañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
+[^14]: *kañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}anagghiyasaṅkāso*, lit., “like a gold valuable thing” or “like a gold festoon work”
 
 [^15]: *lokapajjotaŋ*
 
@@ -270,13 +270,13 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^26]: *nibbāyissati dhammakkho* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *°akho*), lit., “the eye of *Dhamma* will reach nirvana”
 
-[^27]: *sāgaro <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a sasoko va*
+[^27]: *sāgaro [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a sasoko va*
 
 [^28]: reading *phaliṃsu* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *patiŋsu*, fell down, avoiding the redundancy with the next verse in keeping with the eloquence of this passage.
 
 [^29]: lit., “carrying fear to”
 
-[^30]: *ukkā*, “fiery things”. Elsewhere the term more directly refers to fire or a firebrand itself, but this meaning of the term is appropriate here both because these “fires” fall from the sky and because the following miracle, distinguished with an “and” (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*), specifies fire as such. Cty (p. 506) gives *aggikhandhā*, “great masses of fire”
+[^30]: *ukkā*, “fiery things”. Elsewhere the term more directly refers to fire or a firebrand itself, but this meaning of the term is appropriate here both because these “fires” fall from the sky and because the following miracle, distinguished with an “and” (*[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*), specifies fire as such. Cty (p. 506) gives *aggikhandhā*, “great masses of fire”
 
 [^31]: *dhūmaketu*, that is, “fire”
 
@@ -286,7 +286,7 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^34]: *sūvake*, lit., “making manifest” “indicating,” see Buddhadatta *Pāli-Sinhala Akārādiya*, s.v.
 
-[^35]: “setting” as in the setting of the sun, reading *sāsanatthagama-suvake* (read *sūvake*) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sāsanatthañ <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a sū<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akaŋ*
+[^35]: “setting” as in the setting of the sun, reading *sāsanatthagama-suvake* (read *sūvake*) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sāsanatthañ [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a sū[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}akaŋ*
 
 [^36]: reading *sāsanena vināmhākaṃ* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sāsanena vinā sammā*
 
@@ -314,14 +314,14 @@ The legend of Dabbamallaputta Thera is finished.
 
 [^48]: “Wood”
 
-[^49]: or “of celibacy”, reading *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>āribalena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and cf. <abbr title="Pali Text Society">PTS</abbr> alt. *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>ara*) for <abbr title="Pali Text Society">PTS</abbr> *brahma<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>eraphalena* (“through the fruit of Brahma-\[\]?”)
+[^49]: or “of celibacy”, reading *brahma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}āribalena* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> (and cf. <abbr title="Pali Text Society">PTS</abbr> alt. *brahma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}ara*) for <abbr title="Pali Text Society">PTS</abbr> *brahma[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}eraphalena* (“through the fruit of Brahma-\[\]?”)
 
 [^50]: see above, v. 19 \[5797\]; this was a pious act done by the protagonist during the time of Vipassi Buddha
 
-[^51]: *pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>aṅgehi upāgato*. RD, the “five gentlemanly qualities” of a king or brahmin are *sujāta* (good birth), *ajjhāyaka* (education, learning in the Vedas), *abhirūpa* (handsomeness), *sīlavā* (moral conduct) and *paṇḍita* (wisdom)
+[^51]: *pañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}aṅgehi upāgato*. RD, the “five gentlemanly qualities” of a king or brahmin are *sujāta* (good birth), *ajjhāyaka* (education, learning in the Vedas), *abhirūpa* (handsomeness), *sīlavā* (moral conduct) and *paṇḍita* (wisdom)
 
 [^52]: lit., “the one whose defilements are destroyed,” i.e., “the arahant”. <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads *khīṇāsavopavādena* for <abbr title="Pali Text Society">PTS</abbr>’ misleading ungrammatical *khīṇāsavo pavādena* (“because of the arahant reproaching” rather than “because of reproaching the arahant”)
 
-[^53]: *pāpehi bahu <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>odito*
+[^53]: *pāpehi bahu [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}odito*
 
 [^54]: lit., “in”

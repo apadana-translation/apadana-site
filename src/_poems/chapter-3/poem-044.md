@@ -47,7 +47,7 @@ The legend of Sannidhāpaka[^9] Thera is finished.
 
 [^1]: “Putter-Down;” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>, cty read *Sanniṭṭhāpaka*, “Readier” “Preparer”
 
-[^2]: *yasena ayasena <span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*, lit., "with glory as with dishonor”
+[^2]: *yasena ayasena [c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*, lit., "with glory as with dishonor”
 
 [^3]: lit “with a hundred thousand who had the power to subdue others (*vasī*),” namely arahants
 

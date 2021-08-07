@@ -31,4 +31,4 @@ The legend of Kekkhārupupphiya Thera is finished.
 
 [^3]: *yāmā devā*, a class of deities, perhaps derived from God Yama (the Lord of the Dead).
 
-[^4]: *siri-va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chasaŋ*. Taking *va<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chasaŋ* as *va<span class="diacritics" data-state="on">cc</span><span class="no-diacritics" data-state="off">chch</span>asaṃ* (“splendor”) the literal meaning would be a more emphattic, “He of Resplendent Splendor”
+[^4]: *siri-va[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chasaŋ*. Taking *va[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chasaŋ* as *va[cc]{.diacritics data-state=on}[chch]{.no-diacritics data-state=off}asaṃ* (“splendor”) the literal meaning would be a more emphattic, “He of Resplendent Splendor”

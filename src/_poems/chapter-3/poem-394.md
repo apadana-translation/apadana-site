@@ -120,7 +120,7 @@ The legend of Madhudāyaka Thera is finished.
 
 [^5]: *vinītā*
 
-[^6]: *chalaṅge*, lit., “six branches” of Vedic science. RD, S.V.: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (vi<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>iti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.”
+[^6]: *chalaṅge*, lit., “six branches” of Vedic science. RD, S.V.: “the set of six Vedāngas, disciplines of Vedic science, viz. 1. kappa, 2. vyākaraṇā, 3. nirutti, 4. sikkhā, 5. chando (vi[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}iti), 6. joti-sattha (thus enumd at VvA 265; at PvA 97 in sequence 4, 1, 3, 2, 6, 5): D iii.269; Vv 6316; Pv ii.613; Miln 178, 236.”
 
 [^7]: reading *susāsanaṃ sotukāmā* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *sotukāmā pi sāsanaŋ*, “also wanting to hear instructions.” <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss gives *anuśāsanaya asanu kämättā*, “desiring to listen to instructions,” and I follow suit in the generic translation here, rather than understand the term as *the* “Sasana,” the Buddha’s “dispensation”
 
@@ -136,15 +136,15 @@ The legend of Madhudāyaka Thera is finished.
 
 [^13]: *chādayaŋ madhunā mahiŋ*
 
-[^14]: reading *ku<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>chiyā va suduttaraṃ* (lit., “as though very hard to cross over from the womb”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *kumbiyā vasuduttaraŋ* (“from a pot over the earth” ?). I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss in translating this <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading.
+[^14]: reading *ku[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}chiyā va suduttaraṃ* (lit., “as though very hard to cross over from the womb”) with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *kumbiyā vasuduttaraŋ* (“from a pot over the earth” ?). I follow <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> gloss in translating this <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reading.
 
 [^15]: lit., “I am a receiver of”
 
 [^16]: lit., “I attained the destruction of the outflows” (*āsavakkhayaŋ*). This has to be read as a reference to the much later (present) life, for if he had become an arahant in the time of Sikhi Buddha he would not have been reborn during the time of the present (Gotama) Buddha.
 
-[^17]: lit., “and,” *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a*
+[^17]: lit., “and,” *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a*
 
-[^18]: reading *sañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>hanne* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>a chappade* (“and with six feet”?)
+[^18]: reading *sañ[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}hanne* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *[c]{.diacritics data-state=on}[ch]{.no-diacritics data-state=off}a chappade* (“and with six feet”?)
 
 [^19]: reading *sampupphite* with <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> for <abbr title="Pali Text Society">PTS</abbr> *samphīte*
 
