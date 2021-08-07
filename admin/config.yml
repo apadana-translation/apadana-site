@@ -15,14 +15,36 @@ display_url: https://apadana-translation.netlify.app/
 
 collections:
   - name: "pages"
-    label: "Page"
+    label: "Pages"
+    label_singular: "Page"
     folder: "src/_pages"
-    sort: "title:asc"
+    sortable_fields: ["title"]
     create: false
-    slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Layout", name: "layout", widget: "select", options: ["page", "page-has-notes", "homepage", "resources"], default: "page"}
       - {label: "Excerpt", name: "excerpt", widget: "markdown", minimal: true, buttons: ["bold", "italic"]}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "poems"
+    label: "Poems"
+    label_singular: "Poem"
+    folder: "src/_poems"
+    nested:
+      depth: 2
+      summary: '{{dirname}}'
+    create: false
+    summary: "{{title}} — {{dirname}}/{{filename}}.{{extension}}"
+    sortable_fields: ["title", "category", "order"]
+    view_filters:
+      - {label: "Chapter 1", field: "category", pattern: "chapter-1"}
+      - {label: "Chapter 2", field: "category", pattern: "chapter-2"}
+      - {label: "Chapter 3", field: "category", pattern: "chapter-3"}
+      - {label: "Chapter 4", field: "category", pattern: "chapter-4"}
+    view_groups:
+      - {label: "Category", field: "category"}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Category", name: "category", widget: "select", options: ["chapter-1", "chapter-2", "chapter-3", "chapter-4"]}
+      - {label: "Order", name: "order", widget: "number", value_type: "int", min: 1}
       - {label: "Body", name: "body", widget: "markdown"}
