@@ -34,6 +34,7 @@ module.exports = function (eleventyConfig) {
 
   // Pass through to build
   eleventyConfig.addPassthroughCopy("admin");
+  eleventyConfig.addPassthroughCopy("src/public");
 
   // Shortcodes
   Object.keys(shortcodes).forEach((shortcodeName) => {
