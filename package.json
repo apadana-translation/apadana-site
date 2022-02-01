@@ -31,9 +31,9 @@
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^1.0.0",
     "editorconfig": "^0.15.3",
-    "markdown-it-attrs": "^4.0.0"
+    "markdown-it-attrs": "^4.1.3"
   },
   "dependencies": {
     "jquery": "^3.6.0",
