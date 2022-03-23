@@ -23,7 +23,7 @@ they with sharp knowing, through knowledge and power,
 because of \[their\] wishes \[and\] also great strength,  
 reach the Awakening of Lonely \[Buddhas\]. (3) \[84\]
 
-In every world, except for me,  
+In every world, with the exception of me,  
 there is no equal for the Lonely Buddhas.  
 I will describe a piece of the excellent  
 character[^6] of those Buddhas, the Great Sages.” (4) \[85\]
