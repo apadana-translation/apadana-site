@@ -1,7 +1,7 @@
 ---
 title: Sattuppalamālikāya
-order: 8
 category: chapter-4
+order: 8
 ---
 
 ### \[8. Sattuppalamālikāya[^1]\]
@@ -22,7 +22,7 @@ They’ll be better for me offered
 to the Best Buddha’s \[great\] knowledge. (3) \[73\]
 
 They’re honoring the Sambuddha;  
-Sitting near the \[palace\] doorway,  
+sitting near the \[palace\] doorway,  
 when the Sambuddha arrives here,  
 I \[too\] will worship the Great Sage.” (4) \[74\]
 
