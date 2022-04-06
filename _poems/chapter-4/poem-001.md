@@ -1,7 +1,7 @@
 ---
 title: Sumedhā
-order: 1
 category: chapter-4
+order: 1
 ---
 
 Praise Him, the Blessed One, the Worthy One, the Fully Complete Buddha[^1]
@@ -125,7 +125,7 @@ Thus indeed Venerable[^21] Bhikkhunī Sumedhā spoke these verses.
 
 [^6]: <abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr> reads a 14-syllable first foot and an 8-syllable second one, lit., “ten times, hundred times, thousand times, hundred times hundred times”. It also reads *mānusake* for *mānuse* (<abbr title="Pali Text Society">PTS</abbr>) to produce a nine-syllable fourth foot. Both texts provide nine-syllable first, third and fourth feet in the following verse (3), before finally settling in to the standard 8-8-8-8. See n. 4 above. Are these problems with the transmission, or experiments with (or heedlessness about) meter?
 
-[^7]: here the possession of “seven gems” (*sattaratana*) by a wheel-turning (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavatti*) monarch has become here a free-standing designation of the latter (perhaps better translated as “chief queen of a possessor of the seven gems” \[or, metrically, “a seven-gem-holder’s chief queen”\]). Note that she herself is one of those seven gems, as stated in the next foot.
+[^7]: here the possession of “seven gems” (*sattaratana*) by a wheel-turning (*<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>akkavatti*) monarch has become a free-standing designation of the latter (perhaps better translated as “chief queen of a possessor of the seven gems” \[or, metrically, “a seven-gem-holder’s chief queen”\]). Note that she herself is one of those seven gems, as stated in the next foot.
 
 [^8]: reading *āsiṃ* (<abbr title="Buddha Jayanthi Tripitaka Series">BJTS</abbr>) for *bhaviŋ* (<abbr title="Pali Text Society">PTS</abbr>).
 
