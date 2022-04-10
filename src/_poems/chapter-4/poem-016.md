@@ -1,7 +1,7 @@
 ---
 title: Sālamālikā
-order: 16
 category: chapter-4
+order: 16
 ---
 
 ### \[16. Sālamālikā[^1]\]
@@ -64,7 +64,8 @@ that’s the fruit of a *sal*[^5]-garland. (11) \[222\][^6]
 My defilements are \[now\] burnt up;  
 all \[new\] existence is destroyed.  
 All \[my\] defilements are destroyed;  
-now there will be no more rebirth. (12)  
+now there will be no more rebirth. (12) 
+ 
 Thus indeed Bhikkhunī Sālamālikā[^7] spoke these verses.
 
 The legend of Sālamālikā[^8] Therī is finished.
