@@ -1,7 +1,7 @@
 ---
 title: Pañcadīpikā
-order: 15
 category: chapter-4
+order: 15
 ---
 
 ### \[15. Pañ<span class="diacritics" data-state="on">c</span><span class="no-diacritics" data-state="off">ch</span>adīpikā[^1]\]
@@ -97,7 +97,7 @@ The Buddha ordained \[me right then\]:
 that’s the fruit of \[giving\] five lamps. (18) \[207\]
 
 Meditating on a platform,[^7]  
-beneath a tree, empty spots,[^8]  
+beneath a tree, in empty spots,[^8]  
 a lamp is always burning there:  
 that’s the fruit of \[giving\] five lamps. (19) \[208\]
 
