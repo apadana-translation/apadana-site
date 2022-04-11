@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/apadana-translation/jekyll-pandoc-multiple-formats.git
+  remote: https://github.com/apadana-translation/jekyll-pandoc-multiple-formats.git
   revision: 78b7595c1056e7c336a2eca5438e2ee248b0c435
   branch: develop
   specs:
@@ -105,16 +105,18 @@ GEM
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
     mini_magick (4.9.2)
-    mini_portile2 (2.4.0)
+    mini_portile2 (2.8.0)
     minitest (5.11.3)
     namae (1.0.1)
-    nokogiri (1.9.1)
-      mini_portile2 (~> 2.4.0)
+    nokogiri (1.13.4)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     pdf_info (0.5.3)
     progress (3.5.0)
     public_suffix (3.0.3)
+    racc (1.6.0)
     rack (2.0.6)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
@@ -136,7 +138,6 @@ GEM
       thread_safe (~> 0.1)
     uglifier (4.1.20)
       execjs (>= 0.3.0, < 3)
-    unicode_utils (1.4.0)
 
 PLATFORMS
   ruby
@@ -152,7 +153,6 @@ DEPENDENCIES
   mini_magick
   sprockets (~> 3.7)
   uglifier
-  unicode_utils
 
 BUNDLED WITH
    1.17.1
