@@ -31,7 +31,7 @@
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy": "^1.0.1",
     "editorconfig": "^0.15.3",
     "markdown-it-attrs": "^4.1.3"
   },
