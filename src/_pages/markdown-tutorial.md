@@ -77,6 +77,10 @@ The feature I’ve created to allow diacritics to be toggled on and off in the t
 
 This example displays “*rohicca*” when the toggle is on, and “*rohichcha*” when it is off. The general pattern is that diacritical characters are wrapped in square brackets and followed by “.diacritics data-state=on” in curly brackets (e.g. “[cc]{.diacritics data-state=on}”). The non-diacritical replacement characters come directly after are indicated similiarly but with “.no-diacritics data-state=off” in curly brackets. It’s a bit tricky to understand at first, but this markup pattern is essential for allowing the toggle mechanism to recognize what text to show and hide when the toggle is used.
 
+## Line Breaks
+
+If you look closely, you’ll notice that each line in a poem **ends with two spaces**. This is Markdown’s way of doing a soft return, which creates a new line, rather than a hard return, which creates a new paragraph. Note that this isn’t necessary on the last line of a verse, however, since we do want a new paragraph. Use two returns to keep verses visually separated in the code.
+
 ## Wrapping Up
 
 The Apadāna website and supporting repository were developed with the belief that the translations therein would enjoy the greatest longevity and utility by being encoded in plain text, separate from the actual pages of the website. Markdown supports this goal by providing a bare minimum set of markup tags, and I’ve added a very small amount of additional syntax to enable the interactive features of the website. My hope is that it will prove straightforward to edit the poems and pages moving forward, with this guide serving to answer any questions you might have. Happy editing!
