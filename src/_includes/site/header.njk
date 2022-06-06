@@ -1,7 +1,9 @@
 <header class="header header--site">
   <div class="top-bar top-bar--site">
     <div class="top-bar__section title-wrap">
-      <h4 class="header__title"><strong><a href="{{ site.url }}" title="{{ site.title }}">{{ site.title }}</a></strong></h4>
+      <div class="header__title">
+        <a href="/">{{ site.title }}</a>
+      </div>
     </div>
     <div class="top-bar__section">
       {% include 'site/navigation.njk' %}

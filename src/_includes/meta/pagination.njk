@@ -1,41 +1,17 @@
-{# https://gist.github.com/budparr/3e637e575471401d01ec #} 
-
-{% capture the_collection %}{{ page.collection }}{% endcapture %}
-
-{% if page.collection %}
-  {% set document = site[the_collection] %}
-{% endif %}
-
-{% for links in document %}
-  {% if links.url == page.url %}
-    {% unless forloop.first %}
-      {% set prevurl = prev.url %}
-      {% set prevtitle = prev.title %}
-      {% set prevnumber = prev.order %}
-      {% unless prev.category == page.category %}
-        {% if prev.category contains "3" or prev.category contains "4" %}
-          {% set prevcat = prev.category %}
-          {% set prevchapter = categories[prevcat] %}
-        {% endif %}
-      {% endunless %}
-    {% endunless %}
-    {% unless forloop.last %}
-      {% set next = document[forloop.index] %}
-      {% set nexttitle = next.title %}
-      {% set nexturl = next.url %}
-      {% set nextnumber = next.order %}
-      {% unless next.category == page.category %}
-        {% if next.category contains "3" or next.category contains "4" %}
-          {% set nextcat = next.category %}
-          {% set nextchapter = categories[nextcat] %}
-        {% endif %}
-      {% endunless %}
-    {% endunless %}
-  {% endif %}
-  {% set prev = links %}
-{% endfor %}
+{% set previous = collections.allPoems | getPreviousCollectionItem(page) %}
+{% set next = collections.allPoems | getNextCollectionItem(page) %}
 
 <section class="meta__pagination">
-  {% if prevurl %}<h5>Previous poem:</h5><a href="{{ prevurl }}">{% if prevchapter %}{{ prevchapter.name | append: " / " }}{% endif %}{% if prevnumber %}{{ prevnumber | append: ". " }}{% endif %}{{ prevtitle }}</a>{% endif %}
-  {% if nexturl %}<h5>Next poem:</h5><a href="{{ nexturl }}">{% if nextchapter %}{{ nextchapter.name | append: " / " }}{% endif %}{% if nextnumber %}{{ nextnumber | append: ". " }}{% endif %}{{ nexttitle }}</a>{% endif %}
+  {% if previous %}
+    <h5>Previous poem:</h5>
+    <a href="{{ previous.url }}">
+      {{ previous.data.order }}. {{ previous.data.title }}
+    </a>
+  {% endif %}
+  {% if next %}
+    <h5>Next poem:</h5>
+    <a href="{{ next.url }}">
+      {{ next.data.order }}. {{ next.data.title }}
+    </a>
+  {% endif %}
 </section>
