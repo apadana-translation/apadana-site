@@ -1,3 +1,5 @@
+import progressBar from "./progress";
+
 function sidenoteFire(callback) {
 	var $postContainer, breakpoint;
 	$postContainer = $('.poem, .has-notes');
@@ -20,8 +22,8 @@ function sidenoteFire(callback) {
 	callback();
 }
 
-$(document).on('ready', function() {
-  sidenoteFire(function() {
-		progressBar();
-	});
-});
+(function ($) {
+  sidenoteFire(function () {
+    progressBar();
+  });
+})(jQuery);

@@ -1,6 +1,7 @@
 ---
 title: Table of Contents
 permalink: /text/
+layout: page
 ---
 
 {% include 'toc.njk' %}
@@ -16,5 +17,5 @@ permalink: /text/
   the source of many of the best-loved stories of the saints in the
   Buddhist world. It is also a particularly rich and
   colorful source for the social and religious history of ancient India.</p>
-  <a href="{{ site.url }}/text/introduction" class="button" title="Read the Introduction">Read More</a>
+  <a href="/text/introduction" class="button">Read More</a>
 </aside>

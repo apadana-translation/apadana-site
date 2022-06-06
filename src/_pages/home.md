@@ -15,7 +15,7 @@ permalink: /
 [Download](/text/download/){.button}
 </div>
 <div class="hero__image">
-{# % asset 'monks.png' alt='Monks' width='305px' height='450px' % #}
+{% image "monks.png", "Statues of Buddhist monks in a line.", [305], "305px" %}
 </div>
 </header>
 

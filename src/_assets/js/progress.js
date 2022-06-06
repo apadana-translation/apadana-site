@@ -6,10 +6,19 @@
 // horizontal bar for mobile displays
 // based partly on https://codepen.io/jpod/pen/oqKvw
 
-function progressBar() {
+// Helper function for animating circular progress counter
+function updateProgress(perc, circleEl, counterEl) {
+  var offsetValue = 126 * perc;
+  circleEl.css("stroke-dashoffset", 126 - offsetValue);
+  if (counterEl) {
+    counterEl.html(Math.round(perc * 100) + "%");
+  }
+}
+
+export default function progressBar() {
   var winHeight = $(window).height(),
       docHeight = $('.poem').height(),
-      progressBar = $('progress'),
+      progressEl = $('progress'),
       circle = $('#text-progress .animated-circle'),
       counter = $('#text-progress .progress__count'),
       max, value;
@@ -18,25 +27,14 @@ function progressBar() {
   max = docHeight - winHeight;
 
   // set max value of horizontal bar
-  progressBar.attr('max', max);
+  progressEl.attr('max', max);
 
   $(document).on('scroll', function() {
      var value = $(window).scrollTop();
      // horizontal bar
-     progressBar.attr('value', value);
+     progressEl.attr('value', value);
      // circular counter
      var perc = Math.max(0, Math.min(1, value/max));
      updateProgress(perc, circle, counter);
   });
-}
-
-// Helper function for animating circular progress counter
-function updateProgress(perc, circleElem, counterElem) {
-  var offsetValue = 126 * perc;
-  circleElem.css({
-    "stroke-dashoffset" : 126 - offsetValue
-  });
-  if (counterElem != null) {
-    counterElem.html(Math.round(perc * 100) + "%");
-  }
 }

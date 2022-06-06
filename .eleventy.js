@@ -1,53 +1,77 @@
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
 const markdownIt = require("markdown-it");
 const markdownItBracketedSpans = require("markdown-it-bracketed-spans");
 const markdownItAttrs = require("markdown-it-attrs");
 const markdownItFootnote = require("markdown-it-footnote");
 const shortcodes = require("./config/shortcodes");
 
-module.exports = function (eleventyConfig) {
+function byOrder(a, b) {
+  return a.data.order - b.data.order;
+}
+
+function addOrderedTagCollection(tag) {
+  return function (collectionApi) {
+    return collectionApi.getFilteredByTag(tag).sort(byOrder);
+  };
+}
+
+function addAllPoems(flatten) {
+  return function (collectionApi) {
+    const allPoems = [1, 2, 3, 4].map((chapter) =>
+      collectionApi.getFilteredByTag(`chapter-${chapter}`).sort(byOrder)
+    );
+    return flatten ? allPoems.flat() : allPoems;
+  };
+}
+
+module.exports = function (config) {
   // Layout aliases
-  eleventyConfig.addLayoutAlias("default-flex", "layouts/default-flex.njk");
-  eleventyConfig.addLayoutAlias("default", "layouts/default.njk");
-  eleventyConfig.addLayoutAlias("homepage", "layouts/homepage.njk");
-  eleventyConfig.addLayoutAlias(
-    "page-has-notes",
-    "layouts/page-has-notes.njk"
-  );
-  eleventyConfig.addLayoutAlias("page", "layouts/page.njk");
-  eleventyConfig.addLayoutAlias("poem", "layouts/poem.njk");
-  eleventyConfig.addLayoutAlias("resources", "layouts/resources.njk");
+  config.addLayoutAlias("default-flex", "layouts/default-flex.njk");
+  config.addLayoutAlias("default", "layouts/default.njk");
+  config.addLayoutAlias("homepage", "layouts/homepage.njk");
+  config.addLayoutAlias("page-has-notes", "layouts/page-has-notes.njk");
+  config.addLayoutAlias("page", "layouts/page.njk");
+  config.addLayoutAlias("poem", "layouts/poem.njk");
+  config.addLayoutAlias("resources", "layouts/resources.njk");
+
+  // Shortcodes
 
   // Markdown config
   const mdOptions = {
     html: true,
-    typographer: true
+    typographer: true,
   };
   const attrsOptions = {
-    allowedAttributes: ["id", "class", "data-state"]
+    allowedAttributes: ["id", "class", "data-state"],
   };
   const markdownLib = markdownIt(mdOptions)
     .use(markdownItBracketedSpans)
     .use(markdownItAttrs, attrsOptions)
     .use(markdownItFootnote);
-  
-  eleventyConfig.setLibrary("md", markdownLib);
+
+  config.setLibrary("md", markdownLib);
 
   // Pass through to build
-  eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("src/public");
+  config.addPassthroughCopy("admin");
+  config.addPassthroughCopy("src/public");
 
   // Shortcodes
-  Object.keys(shortcodes).forEach((shortcodeName) => {
-    eleventyConfig.addNunjucksShortcode(shortcodeName, shortcodes[shortcodeName])
-  })
+  config.addNunjucksShortcode("cite", shortcodes.cite);
+  config.addNunjucksAsyncShortcode("webpack", shortcodes.webpack);
+  config.addNunjucksAsyncShortcode("image", shortcodes.image);
+
+  // Plugins
+  config.addPlugin(EleventyRenderPlugin);
 
   // Collections
-  // eleventyConfig.addCollection("allPoems", function(collectionApi) {
-  //   const chapter1 = collectionApi.getFilteredByTag("chapter-1");
-  //   const chapter2 = collectionApi.getFilteredByTag("chapter-2");
-  //   console.log([chapter1, chapter2]);
-  //   return chapter1;
-  // });
+  [1, 2, 3, 4].forEach((chapter) =>
+    config.addCollection(
+      `chapter-${chapter}`,
+      addOrderedTagCollection(`chapter-${chapter}`)
+    )
+  );
+  config.addCollection("allPoems", addAllPoems(true));
+  config.addCollection("allPoemsGroupedByChapter", addAllPoems(false));
 
   return {
     dir: {
@@ -55,6 +79,7 @@ module.exports = function (eleventyConfig) {
       output: "./dist",
     },
     markdownTemplateEngine: "njk",
-    htmlTemplateEngine: "njk"
+    htmlTemplateEngine: "njk",
+    dataTemplateEngine: "njk",
   };
 };

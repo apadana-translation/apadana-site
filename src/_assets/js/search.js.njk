@@ -1,4 +1,4 @@
-{% comment %}https://github.com/daviddarnes/alembic/blob/master/_includes/site-search.html{% endcomment %}
+// https://github.com/daviddarnes/alembic/blob/master/_includes/site-search.html
 
 var searchEndpoint = '{{ "/search.json" | relative_url }}';
 
@@ -76,27 +76,27 @@ function displaySearchResults() {
     .map(function(item) {
       if (item.order !== null) {
         return (
-          '\n          <li class="search__result">\n            <article class="article">\n              <a href="' +
+          '\n<li class="search__result">\n<article class="article">\n<a href="' +
           item.url +
           '" title="Result \u2014 ' +
           item.title +
           '">' +
           item.title +
-          '</a>\n              <p class="small">' +
+          '</a>\n<p class="small">' +
           item.chapter +
           " / Poem " +
           item.order +
-          "</p>\n            </article>\n          </li>"
+          "</p>\n</article>\n</li>"
         );
       } else {
         return (
-          '\n          <li class="search__result">\n            <article class="article">\n              <a href="' +
+          '\n<li class="search__result">\n<article class="article">\n              <a href="' +
           item.url +
           '" title="Result \u2014 ' +
           item.title +
           '">' +
           item.title +
-          "</a>\n            </article>\n          </li>"
+          "</a>\n</article>\n</li>"
         );
       }
     })

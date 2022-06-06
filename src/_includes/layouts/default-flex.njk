@@ -18,7 +18,7 @@
       {% include 'site/footer.njk' %}
     </div>
 
-    {# % asset main.js async % #}
+    <script src="{% webpack 'main.js' %}"></script>
 
   </body>
 </html>

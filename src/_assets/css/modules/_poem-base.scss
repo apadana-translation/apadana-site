@@ -1,6 +1,4 @@
 main#poem {
-  margin-top: 4rem;
-
   @include breakpoint($medium-large $large) {
     padding-left: 12vw;
   }

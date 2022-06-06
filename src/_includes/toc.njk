@@ -4,35 +4,31 @@
       <span class="chapter-name">Chapter</span>
       <span class="chapter-size">№ of Poems</span>
     </li>
-  {# {% set chapters = site.poems | group_by: "category" | sort: "name" %}
-  {% for chapter in chapters %}
-    {% set category_slug = chapter.name %}
-    {% set category = categories[category_slug] %}
-    {% set first_poem = chapter.items.first %}
-    {% if chapter.name contains "1" or chapter.name contains "2" %}
-      <li>
-        <a class="chapter" href="{{ site.baseurl }}{{ first_poem.url }}">
-          <span class="chapter-name">{{ category.name }}</span>
-          <span class="chapter-size">({{ chapter.size }})</span>
-        </a>
-      </li>
-    {% else %}
-      <li>
-        <input type="radio" name="accordion-{{ chapter.name }}" id="{{ chapter.name }}">
-        <label class="chapter" for="{{ chapter.name }}">
-          <span class="chapter-name">{{ category.name }}</span>
-          <span class="chapter-size">({{ chapter.size }})</span>
-        </label>
-        <ol class="toc__level2">
-          {% set poems = chapter.items | sort: "order" %}
-          {% for poem in poems %}
-            <li>
-              <a href="{{ site.baseurl }}{{ poem.url }}">{{ poem.title }}</a>
-            </li>
-          {% endfor %}
-        </ol>
-      </li>
-    {% endif %}
-  {% endfor %} #}
+  {% for chapter in collections.allPoemsGroupedByChapter %}
+    {% if loop.index == 1 or loop.index == 2 %}
+      {% set chapter_name = categories['chapter-' ~ loop.index].name %}
+<li>
+  <a class="chapter" href="{{ chapter[0].url }}">
+    <span class="chapter-name">{{ chapter_name }}</span>
+    <span class="chapter-size">({{ chapter.length }})</span>
+  </a>
+</li>
+  {% else %}
+<li>
+  <input type="radio" name="accordion-{{ loop.index }}" id="chapter-{{ loop.index }}">
+  <label class="chapter" for="chapter-{{ loop.index }}">
+    <span class="chapter-name">{{ chapter_name }}</span>
+    <span class="chapter-size">({{ chapter.length }})</span>
+  </label>
+  <ol class="toc__level2">
+    {% for poem in chapter %}
+<li>
+  <a href="{{ poem.url }}">{{ poem.data.title }}</a>
+</li>
+    {% endfor %}
+  </ol>
+</li>
+  {% endif %}
+  {% endfor %}
   </ol>
 </nav>

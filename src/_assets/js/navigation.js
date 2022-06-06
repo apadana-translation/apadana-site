@@ -54,9 +54,9 @@ function navigation() {
   });
 }
 
-$(document).on('ready', function() {
+(function () {
   navigation();
-});
+})(jQuery);
 
 // ===================================
 // Hide mobile poem header and pagination on scroll down
