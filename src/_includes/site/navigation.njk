@@ -1,17 +1,17 @@
 <nav id="site-nav" class="nav nav--site">
   <ul>
-    {% for group in site.data.navigation.site-nav %}
-      <li><a href="{{ site.url }}{{ group.url }}" title="{{ group.title }}" class="{{ class }}">{{ group.title }}</a>
+    {% for group in navigation %}
+      <li><a href="{{ group.url }}" class="{{ class }}">{{ group.title }}</a>
         {% if group.items %}
         <ul>
           {% for item in group.items %}
-            <li><a href="{{ site.url }}{{ item.url }}" title="{{ item.title }}" class="{{ class }}">{{ item.title }}</a></li>
+            <li><a href="{{ item.url }}" class="{{ class }}">{{ item.title }}</a></li>
           {% endfor %}
         </ul>
         {% endif %}
       </li>
     {% endfor %}
-    <li><a href="{{ site.repository }}" title="View Project on GitHub" target="_blank" aria-label="View Project on GitHub">
+    <li><a href="{{ site.repository }}" aria-label="GitHub Repository">
       <svg width="20" height="20" class="icon-github"><use xlink:href="#icon-github"></use></svg>
     </a></li>
   </ul>

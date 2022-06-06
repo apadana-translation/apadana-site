@@ -1,46 +1,20 @@
-{# https://gist.github.com/budparr/3e637e575471401d01ec #} 
+{% set previous = collections.allPoems | getPreviousCollectionItem(page) %}
+{% set next = collections.allPoems | getNextCollectionItem(page) %}
 
-{% capture the_collection %}{{ page.collection }}{% endcapture %}
-
-{% if page.collection %}
-  {% set document = site[the_collection] %}
-{% endif %}
-
-{% for links in document %}
-  {% if links.url == page.url %}
-    {% unless forloop.first %}
-      {% set prevurl = prev.url %}
-      {% unless prev.category == page.category %}
-        {% if prev.category contains "3" or prev.category contains "4" %}
-          {% set prevcat = prev.category %}
-          {% set prevchapter = categories[prevcat] %}
-        {% endif %}
-      {% endunless %}
-    {% endunless %}
-    {% unless forloop.last %}
-      {% set next = document[forloop.index] %}
-      {% set nexturl = next.url %}
-      {% unless next.category == page.category %}
-        {% if next.category contains "3" or next.category contains "4" %}
-          {% set nextcat = next.category %}
-          {% set nextchapter = categories[nextcat] %}
-        {% endif %}
-      {% endunless %}
-    {% endunless %}
-  {% endif %}
-  {% set prev = links %}
-{% endfor %}
-
-{% if prevurl %}
-<a href="{{ prevurl }}">
-  <svg width="20" height="20" class="icon-left"><use xlink:href="#icon-left"></use></svg>
-  Previous
-</a>
+{% if previous %}
+  <a href="{{ previous.url }}">
+    <svg width="20" height="20" class="icon-left">
+      <use xlink:href="#icon-left"></use>
+    </svg>
+    Previous
+  </a>
 {% endif %}
 {% include 'meta/to-top.njk' %}
-{% if nexturl %}
-<a href="{{ nexturl }}">
-  Next
-  <svg width="20" height="20" class="icon-right"><use xlink:href="#icon-right"></use></svg>
-</a>
+{% if next %}
+  <a href="{{ next.url }}">
+    Next
+    <svg width="20" height="20" class="icon-right">
+      <use xlink:href="#icon-right"></use>
+    </svg>
+  </a>
 {% endif %}

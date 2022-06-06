@@ -49,9 +49,9 @@
 .header {
 
   &--poem {
-    position: fixed;
+    position: sticky;
     top: 0;
-    height: $header-height;
+    height: var(--header-height);
     background-color: transparent;
     transform: translateY(0px);
     transition: transform 0.5s ease 0.75s;
@@ -309,8 +309,10 @@
 .header__title {
   margin: 0;
   padding: 1rem;
+  font-size: 1.25rem;
   font-family: $root-font-family;
-  font-weight: normal;
+  font-weight: bolder;
+  line-height: 1.35;
 
   a {
     @extend %link-with-hover-highlight;

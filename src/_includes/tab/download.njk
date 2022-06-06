@@ -1,4 +1,4 @@
-{# Set up chapter/ poem numbering #} 
+{# Set up chapter/ poem numbering #}
 {% set chapter = category | replace("chapter-", "") %}
 {% if chapter == "3" or chapter == "4" %}
   {% set chapter = chapter | replace(" ", order) %}
@@ -17,6 +17,6 @@
 </section>
 
 <aside class="tab__desc">
-  <p>To download a “lite” version of this poem, disable all toggles in the “Features” tab, then <a href="javascript:window.print()" title="Print poem">print this /a> to <span class="abbr">PDF</span>.</p>
-  <p>You can also download the complete text of <i>{{ site.title }}</i> in <span class="abbr">PDF</span> and ePub formats by visiting the <a href="{{ site.url }}/text/download" title "Go to Downloads >Downloads</a> </p>
+  <p>To download a “lite” version of this poem, disable all toggles in the “Features” tab, then <a href="javascript:window.print()">print this page</a> to <span class="abbr">PDF</span>.</p>
+  <p>You can also download the complete text of <i>{{ site.title }}</i> in <span class="abbr">PDF</span> and ePub formats by visiting the <a href="/text/download">Downloads</a> page.</p>
 </aside>

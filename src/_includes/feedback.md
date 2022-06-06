@@ -3,10 +3,10 @@ We welcome your feedback on this translation, as well as on technical and other 
 
 Please use one of the following methods to provide feedback:
 
-<p class="alert">Note: a [free Github account](https://help.github.com/articles/signing-up-for-a-new-github-account) is required for options #1 & #2.</p>
+Note: a [free Github account](https://help.github.com/articles/signing-up-for-a-new-github-account) is required for options #1 & #2.{.alert}
 
 1.  ### Open an Issue on Github
-    
+
     If you detect a bug or would like to provide technical feedback, you can [open an issue]({{ site.repository }}/issues) in our [Github repository]({{ site.repository }}).
 
     Check that the issue has not already been opened, then click "New Issue" and provide a detailed description of the problem.
