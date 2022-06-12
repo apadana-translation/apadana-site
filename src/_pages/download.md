@@ -5,7 +5,7 @@ permalink: /text/download/
 
 <i>{{ site.title }}</i> is made freely available to the public under the <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/" title="CC BY-NC-SA 3.0 US" target="_blank">Attribution, Non-Commercial, Share Alike</a> license.
 
-{% set path_to_folder = site.url + "/public/links/" %}
+{% set path_to_folder = site_url + "/public/links/" %}
 
 {# Complete text in PDF and ePub #}
 <p>
