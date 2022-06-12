@@ -1,0 +1,19 @@
+{
+  "title": "Legends of the Buddhist Saints",
+  "subtitle": "Apadānapāli",
+  "description": "A web-based interface for reading the first-ever complete English translation of Apadāna. Translated by Dr. Jonathan S. Walters, Whitman College, 2017.",
+  "baseUrl": "",
+  "repository": "https://github.com/apadana-translation/apadana-site",
+  "typekit": "fus2jit",
+  "author": {
+    "name": "Dana Johnson",
+    "url": "https://dana.zone/",
+    "email": "dana@dana.zone",
+    "github": "https://github.com/dananjohnson/"
+  },
+  "license": {
+    "title": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "version": "1.1.0"
+}

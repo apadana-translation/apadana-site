@@ -1,0 +1,14 @@
+<div id="feedback" class="modal" role="dialog" aria-hidden="true">
+	<div class="modal__container">
+    <div class="modal__header">
+      <button id="modal-close" class="modal__toggle">
+        <svg width="20" height="20" class="icon-close"><use xlink:href="#icon-close"></use></svg>
+        Close
+      </button>
+    </div>
+    <div class="modal__content">
+			<h2>Feedback</h2>
+			{% renderFile "./src/_includes/feedback.md" %}
+    </div>
+  </div>
+</div>

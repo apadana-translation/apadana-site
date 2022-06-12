@@ -1,0 +1,23 @@
+{% if order %}
+  {% set chapter = category | replace("chapter-", "") %}
+  {% set desc = "Chapter " ~ chapter ~ " of " ~ site.title %}
+  {% if chapter == "3" or chapter == "4" %}
+    {% set desc = "Poem " ~ order ~ " of " ~ desc %}
+    {% set chapter = chapter ~ "." ~ order %}
+  {% endif %}
+{% endif %}
+
+<title>{% if title == "Home" %}{{ site.title }}{% else %}{{ chapter ~ ". " if chapter }}{{ title }} &middot; {{ site.title }}{% endif %}</title>
+<meta name="description" content="{% if desc %}{{ desc }}{% elseif excerpt %}{{ excerpt | striptags(true) | truncate(160) }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:site_name" content="{{ site.title }}">
+{% if title %}
+  <meta property="og:title" content="{{ chapter ~ ". " }}{{ title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:description" content="{% if desc %}{{ desc }}{% elseif excerpt %}{{ excerpt | striptags(true) | truncate(160) }}{% else %}{{ site.description }}{% endif %}">
+{% else %}
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="{{ site.description }}">
+{% endif %}
+<meta property="og:url" content="{{ site_url }}{{ page.url }}" />
+<meta property="article:author" content="Jonathan S. Walters" />

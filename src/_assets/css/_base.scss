@@ -1,0 +1,49 @@
+// Body resets
+//
+// Update the foundational and global aspects of the page.
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  --header-height: #{$header-height};
+
+  font-family: $root-font-family;
+  font-size: $root-font-size;
+  line-height: $root-line-height;
+
+  @include breakpoint($medium) {
+    font-size: $medium-font-size;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: $x-large-font-size;
+  }
+}
+
+body {
+  color: $body-color;
+  background-color: $body-bg;
+  font-feature-settings: "onum" 1;
+  @include font-variant('numeric', 'oldstyle-nums');
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+a {
+  @include text-link($color: palette(highlight), $hover: palette(highlight), $offset: 4px);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}

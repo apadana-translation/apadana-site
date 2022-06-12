@@ -1,0 +1,20 @@
+{% set previous = collections.allPoems | getPreviousCollectionItem(page) %}
+{% set next = collections.allPoems | getNextCollectionItem(page) %}
+
+{% if previous %}
+  <a href="{{ previous.url }}">
+    <svg width="20" height="20" class="icon-left">
+      <use xlink:href="#icon-left"></use>
+    </svg>
+    Previous
+  </a>
+{% endif %}
+{% include 'meta/to-top.njk' %}
+{% if next %}
+  <a href="{{ next.url }}">
+    Next
+    <svg width="20" height="20" class="icon-right">
+      <use xlink:href="#icon-right"></use>
+    </svg>
+  </a>
+{% endif %}

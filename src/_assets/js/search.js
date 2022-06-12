@@ -1,0 +1,122 @@
+// https://github.com/daviddarnes/alembic/blob/master/_includes/site-search.html
+
+var searchEndpoint = "/search.json";
+
+var pages = [];
+
+var diacriticsMap = {
+  "A":"Ā",
+  "I":"Ī",
+  "U":"Ū",
+  "N":"ṄÑ",
+  "T":"Ṭ",
+  "D":"Ḍ",
+  "N":"Ṇ",
+  "M":"ṂŊ",
+  "L":"Ḷ",
+  "S":"ṢŚ",
+  "a":"ā",
+  "i":"ī",
+  "u":"ū",
+  "n":"ṅñ",
+  "t":"ṭ",
+  "d":"ḍ",
+  "n":"ṇ",
+  "m":"ṃŋ",
+  "l":"ḷ",
+  "s":"ṣś"
+};
+
+function _toConsumableArray(arr) {
+  if (Array.isArray(arr)) {
+    for (var i = 0, arr2 = Array(arr.length); i < arr.length; i++) {
+      arr2[i] = arr[i];
+    }
+    return arr2;
+  } else {
+    return Array.from(arr);
+  }
+}
+
+function diacritics_fold(s) {
+  if (!s) {
+    return "";
+  }
+  var ret = "";
+  for (var i = 0; i < s.length; i++) {
+    ret += "[";
+    ret += s.charAt(i);
+    if (diacriticsMap[s.charAt(i)]) {
+      ret += diacriticsMap[s.charAt(i)] || s.charAt(i);
+    }
+    ret += "]";
+  }
+  return ret;
+}
+
+fetch(searchEndpoint)
+  .then(function(blob) {
+    return blob.json();
+  })
+  .then(function(data) {
+    return pages.push.apply(pages, _toConsumableArray(data));
+  });
+
+function findSearchResults(termToMatch, pages) {
+  return pages.filter(function(item) {
+    var filteredTerm = diacritics_fold(termToMatch);
+    var regex = new RegExp(filteredTerm, "gi");
+    return item.title.match(regex) || item.content.match(regex);
+  });
+}
+
+function displaySearchResults() {
+  var resultsArray = findSearchResults(this.value, pages);
+  var html = resultsArray
+    .map(function(item) {
+      if (item.order !== null) {
+        return (
+          '\n<li class="search__result">\n<article class="article">\n<a href="' +
+          item.url +
+          '" title="Result \u2014 ' +
+          item.title +
+          '">' +
+          item.title +
+          '</a>\n<p class="small">' +
+          item.chapter +
+          " / Poem " +
+          item.order +
+          "</p>\n</article>\n</li>"
+        );
+      } else {
+        return (
+          '\n<li class="search__result">\n<article class="article">\n              <a href="' +
+          item.url +
+          '" title="Result \u2014 ' +
+          item.title +
+          '">' +
+          item.title +
+          "</a>\n</article>\n</li>"
+        );
+      }
+    })
+    .join("");
+  if (resultsArray.length == 0 || this.value == "") {
+    resultsList.innerHTML = "<p>Sorry, nothing was found</p>";
+  } else {
+    resultsList.innerHTML = html;
+  }
+}
+
+var searchField = document.querySelector("#search");
+var resultsList = document.querySelector("#search-results");
+
+if (searchField !== null) {
+  searchField.addEventListener("keyup", displaySearchResults);
+
+  searchField.addEventListener("keypress", function(event) {
+    if (event.keyCode == 13) {
+      event.preventDefault();
+    }
+  });
+}

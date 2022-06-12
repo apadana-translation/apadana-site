@@ -1,0 +1,68 @@
+{
+  "name": "apadanapali",
+  "version": "1.1.0-alpha.0",
+  "browser": "index.js",
+  "description": "A web-based interface for reading Legends of the Buddhist Saints (Apadānapāli) by Jonathan S. Walters, Whitman College, 2017–, built on Eleventy.",
+  "author": "Dana Johnson <dana@danajohnson.co> (https://github.com/dananjohnson/)",
+  "homepage": "https://github.com/apadana-translation/apadana-site",
+  "license": "CC-BY-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apadana-translation/apadana-site"
+  },
+  "bugs": {
+    "url": "https://github.com/apadana-translation/apadana-site/issues",
+    "email": "dana@danajohnson.co"
+  },
+  "browserslist": {
+    "production": [
+      "defaults",
+      "not ie 11"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "scripts": {
+    "clean": "rimraf dist",
+    "dev": "npm-run-all -l clean --parallel dev:*",
+    "dev:webpack": "NODE_ENV=development webpack --watch",
+    "dev:eleventy": "NODE_ENV=development eleventy --serve --quiet",
+    "build": "npm-run-all -l clean build:*",
+    "build:webpack": "NODE_ENV=production webpack",
+    "build:eleventy": "NODE_ENV=production eleventy",
+    "debug": "DEBUG=Eleventy* npx @11ty/eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy-img": "^2.0.0",
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "autoprefixer": "^10.4.5",
+    "babel-loader": "^8.2.5",
+    "browserslist": "^4.20.2",
+    "css-loader": "^6.7.1",
+    "css-minimizer-webpack-plugin": "^4.0.0",
+    "editorconfig": "^0.15.3",
+    "eleventy-plugin-error-overlay": "^1.0.0",
+    "jquery": "^3.6.0",
+    "markdown-it": "^13.0.0",
+    "markdown-it-attrs": "^4.1.3",
+    "markdown-it-bracketed-spans": "^1.0.1",
+    "markdown-it-footnote": "^3.0.3",
+    "mini-css-extract-plugin": "^2.6.0",
+    "npm-run-all": "^4.1.5",
+    "nunjucks": "^3.2.3",
+    "postcss-loader": "^6.2.1",
+    "postcss-normalize": "^10.0.1",
+    "sass": "^1.50.1",
+    "sass-loader": "^12.6.0",
+    "string-strip-html": "8.3.0",
+    "terser-webpack-plugin": "^5.3.1",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-manifest-plugin": "^5.0.0"
+  }
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include 'head.njk' %}
+
+  <body>
+
+    {% include 'head/analytics--noscript.njk' %}
+    {% include 'svg-sprite.njk' %}
+
+    <div class="content">
+      {% include 'site/header.njk' %}
+      <main role="main">
+        <div class="container flex">
+          {{ content | safe }}
+        </div>
+      </main>
+      {% include 'site/footer.njk' %}
+    </div>
+
+    <script src="{% webpack 'main.js' %}"></script>
+
+  </body>
+</html>

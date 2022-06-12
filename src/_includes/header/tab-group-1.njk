@@ -1,0 +1,18 @@
+<input type="radio" id="tab3" name="tabGroup1" class="tab">
+<label for="tab3" class="tab__label" title="Main Menu" aria-label="View Main Menu">
+  <svg width="20" height="20" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
+  <span class="tab__title">Menu</span>
+</label>
+
+<input type="radio" id="tab4" name="tabGroup1" class="tab">
+<label for="tab4" class="tab__label" title="Table of Contents" aria-label="View Table of Contents">
+  <svg width="20" height="20" class="icon-list"><use xlink:href="#icon-list"></use></svg>
+  <span class="tab__title">Contents</span>
+</label>
+
+<div id="tab-menu" class="tab__content">
+  {% include 'tab/menu.njk' %}
+</div>
+<div id="tab-toc" class="tab__content">
+  {% include 'toc.njk' %}
+</div>

@@ -1,0 +1,17 @@
+{% set previous = collections.allPoems | getPreviousCollectionItem(page) %}
+{% set next = collections.allPoems | getNextCollectionItem(page) %}
+
+<section class="meta__pagination">
+  {% if previous %}
+    <h5>Previous poem:</h5>
+    <a href="{{ previous.url }}">
+      {{ previous.data.order }}. {{ previous.data.title }}
+    </a>
+  {% endif %}
+  {% if next %}
+    <h5>Next poem:</h5>
+    <a href="{{ next.url }}">
+      {{ next.data.order }}. {{ next.data.title }}
+    </a>
+  {% endif %}
+</section>
