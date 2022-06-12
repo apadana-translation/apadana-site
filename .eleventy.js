@@ -3,6 +3,7 @@ const markdownIt = require("markdown-it");
 const markdownItBracketedSpans = require("markdown-it-bracketed-spans");
 const markdownItAttrs = require("markdown-it-attrs");
 const markdownItFootnote = require("markdown-it-footnote");
+const { stripHtml } = require("string-strip-html");
 const shortcodes = require("./config/shortcodes");
 
 function byOrder(a, b) {
@@ -34,8 +35,6 @@ module.exports = function (config) {
   config.addLayoutAlias("poem", "layouts/poem.njk");
   config.addLayoutAlias("resources", "layouts/resources.njk");
 
-  // Shortcodes
-
   // Markdown config
   const mdOptions = {
     html: true,
@@ -59,6 +58,16 @@ module.exports = function (config) {
   config.addNunjucksShortcode("cite", shortcodes.cite);
   config.addNunjucksAsyncShortcode("webpack", shortcodes.webpack);
   config.addNunjucksAsyncShortcode("image", shortcodes.image);
+
+  // Filters
+
+  // render markdown to html, strip html tags and link breaks
+  // to make safe output for JSON
+  config.addNunjucksFilter("jsonify_markdown", (str) => {
+    const html = markdownLib.render(str);
+    const stripped = stripHtml(html).result;
+    return stripped.replace(/\r?\n|\r/g, " ");
+  });
 
   // Plugins
   config.addPlugin(EleventyRenderPlugin);
