@@ -40,7 +40,7 @@ edition instead, in places where it corrects mistakes in the <a href="#PTS" clas
 plausible readings of obscure passages. The <a href="#BJTS" class="abbr">BJTS</a> edition includes an invaluable Sinhala gloss on
 each verse, which has often been followed in translating such obscure passages.
 Each of these cases is marked with a sidenote detailing the decision to follow
-<a href="#BJTS" class="abbr">BJTS</a> rather than <a href="#PTS" class="abbr">PTS</a>, 
+<a href="#BJTS" class="abbr">BJTS</a> rather than <a href="#PTS" class="abbr">PTS</a>,
 which provides the alternate <a href="#PTS" class="abbr">PTS</a> reading for interested readers.
 
 <aside class="callout">
@@ -203,8 +203,7 @@ Tenen and Grant Wythoff, [“Sustainable Authorship in Plain Text using Pandoc a
 Markdown”][12], *The Programming Historian*.
 
 [^4]: A detailed write-up about how this site was conceptualized and developed
-can be found on the developer’s
-[personal website](http://danajohnson.co/projects/apadana/).
+can be found at [http://danajohnson.co/projects/apadana/](http://danajohnson.co/projects/apadana/).
 
 [1]: {{ site.author.url }}
 [2]: https://www.rosettatype.com/ "Rosetta Type"
