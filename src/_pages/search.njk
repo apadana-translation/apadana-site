@@ -1,0 +1,17 @@
+---
+layout: null
+sitemap: false
+permalink: "/search.json"
+---
+
+[
+  {% for poem in collections.allPoems %}
+    {
+      "title": "{{ poem.data.title }}",
+      "url": "{{ poem.url }}",
+      "content": "{{ poem.template.frontMatter.content | jsonify_markdown }}",
+      "chapter": "{{ categories[poem.data.category].name }}",
+      "order": "{{ poem.data.order }}"
+    }{% if not loop.last %},{% endif %}
+  {% endfor %}
+]

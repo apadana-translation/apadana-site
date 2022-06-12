@@ -1,5 +1,5 @@
 require("./vendor/jquery.sidenotes.js");
-//= require search
+require("./search");
 require("./navigation");
 require("./sidenote");
 require("./toggle");

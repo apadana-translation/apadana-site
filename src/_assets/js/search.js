@@ -1,6 +1,6 @@
 // https://github.com/daviddarnes/alembic/blob/master/_includes/site-search.html
 
-var searchEndpoint = '{{ "/search.json" | relative_url }}';
+var searchEndpoint = "/search.json";
 
 var pages = [];
 
