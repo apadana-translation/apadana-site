@@ -31,3 +31,4 @@ icon?
 node_modules
 src/_assets/fonts
 dist
+encrypt-fonts.js

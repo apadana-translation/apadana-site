@@ -12,7 +12,7 @@ addons:
   apt_packages:
     - pandoc
 before_install:
-  # Unencrypt font files
+  # Decrypt font files
   - openssl aes-256-cbc -K $encrypted_b8c1af88b24d_key -iv $encrypted_b8c1af88b24d_iv -in _assets/fonts.tar.enc -out _assets/fonts.tar -d
   - tar xvf _assets/fonts.tar -C _assets/
   # Install TexLive
