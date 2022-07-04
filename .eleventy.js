@@ -58,6 +58,10 @@ module.exports = function (config) {
   config.addNunjucksShortcode("cite", shortcodes.cite);
   config.addNunjucksAsyncShortcode("webpack", shortcodes.webpack);
   config.addNunjucksAsyncShortcode("image", shortcodes.image);
+  config.addNunjucksShortcode(
+    "siteUpdateDateTime",
+    shortcodes.siteUpdateDateTime
+  );
 
   // Filters
 
