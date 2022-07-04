@@ -44,8 +44,24 @@ async function imageShortcode(src, alt, widths, sizes, sizeRatio = 0.92) {
   return Image.generateHTML(metadata, imageAttributes);
 }
 
+function siteUpdateDateShortcode() {
+  const date = new Date();
+
+  function formatDate() {
+    const formatter = new Intl.DateTimeFormat("en-US", {
+      month: "long",
+      day: "numeric",
+      year: "numeric",
+    });
+    return formatter.format(date);
+  }
+
+  return `<time datetime="${date.toISOString()}">${formatDate()}</time>`;
+}
+
 module.exports = {
   cite: citeShortcode,
   webpack: webpackShortcode,
   image: imageShortcode,
+  siteUpdateDateTime: siteUpdateDateShortcode,
 };
