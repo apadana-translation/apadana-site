@@ -27,7 +27,6 @@ function getSizes(ratio) {
 }
 
 async function imageShortcode(src, alt, widths, sizes, sizeRatio = 0.92) {
-  console.log({ widths });
   const imageDir = "./src/_assets/images";
   const srcWithPath = `${imageDir}/${src}`;
   const metadata = await Image(srcWithPath, {
