@@ -136,7 +136,6 @@ GEM
       thread_safe (~> 0.1)
     uglifier (4.1.20)
       execjs (>= 0.3.0, < 3)
-    unicode_utils (1.4.0)
 
 PLATFORMS
   ruby
@@ -152,7 +151,6 @@ DEPENDENCIES
   mini_magick
   sprockets (~> 3.7)
   uglifier
-  unicode_utils
 
 BUNDLED WITH
    1.17.1
