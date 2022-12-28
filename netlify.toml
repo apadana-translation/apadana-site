@@ -1,0 +1,5 @@
+[[redirects]]
+    from = "/text/pdf/*"
+    to = "/.netlify/builders/pdf"
+    status = 200
+    force = true
