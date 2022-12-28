@@ -45,10 +45,17 @@ const fontRule = {
 
 const jsRule = {
   test: /\.(js)$/,
-  loader: require.resolve("babel-loader"),
+  loader: require.resolve("swc-loader"),
   options: {
-    presets: ['@babel/preset-env'],
-    cacheDirectory: true,
+    env: {
+      // swc-loader fails to read from package.json browserslist (https://github.com/swc-project/swc/issues/3365)
+      targets: require("browserslist").loadConfig({
+        path: path.resolve(__dirname, "."),
+        env: process.env.NODE_ENV,
+      }),
+      mode: "entry",
+      coreJs: "3.22",
+    },
   },
 };
 
