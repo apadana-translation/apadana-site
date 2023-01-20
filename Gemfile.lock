@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/apadana-translation/jekyll-pandoc-multiple-formats.git
+  remote: https://github.com/apadana-translation/jekyll-pandoc-multiple-formats.git
   revision: 78b7595c1056e7c336a2eca5438e2ee248b0c435
   branch: develop
   specs:
@@ -11,7 +11,7 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (5.2.2)
+    activesupport (5.2.8.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -28,7 +28,7 @@ GEM
       citeproc (~> 1.0, >= 1.0.9)
       csl (~> 1.5)
     colorator (1.1.0)
-    concurrent-ruby (1.1.4)
+    concurrent-ruby (1.1.10)
     csl (1.5.0)
       namae (~> 1.0)
     csl-styles (1.0.1.9)
@@ -106,7 +106,7 @@ GEM
     mercenary (0.3.6)
     mini_magick (4.9.2)
     mini_portile2 (2.4.0)
-    minitest (5.11.3)
+    minitest (5.17.0)
     namae (1.0.1)
     nokogiri (1.9.1)
       mini_portile2 (~> 2.4.0)
@@ -132,7 +132,7 @@ GEM
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
     thread_safe (0.3.6)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uglifier (4.1.20)
       execjs (>= 0.3.0, < 3)
