@@ -1,5 +1,4212 @@
 [[redirects]]
-    from = "/text/pdf/*"
-    to = "/.netlify/builders/pdf"
-    status = 200
-    force = true
+from = "/text/chapter-4/poem-040.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-039.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-038.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-037.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-036.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-035.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-034.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-033.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-032.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-031.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-030.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-029.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-028.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-027.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-026.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-025.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-024.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-023.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-022.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-021.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-020.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-019.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-018.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-017.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-016.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-015.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-014.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-013.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-012.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-011.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-010.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-009.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-008.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-007.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-006.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-005.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-004.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-003.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-002.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-4/poem-001.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-559.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-558.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-557.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-556.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-555.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-554.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-553.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-552.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-551.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-550.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-549.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-548.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-547.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-546.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-545.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-544.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-543.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-542.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-541.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-540.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-539.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-538.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-537.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-536.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-535.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-534.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-533.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-532.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-531.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-530.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-529.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-528.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-527.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-526.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-525.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-524.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-523.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-522.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-521.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-520.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-519.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-518.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-517.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-516.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-515.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-514.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-513.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-512.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-511.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-510.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-509.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-508.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-507.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-506.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-505.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-504.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-503.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-502.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-501.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-500.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-499.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-498.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-497.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-496.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-495.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-494.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-493.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-492.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-491.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-490.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-489.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-488.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-487.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-486.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-485.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-484.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-483.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-482.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-481.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-480.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-479.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-478.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-477.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-476.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-475.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-474.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-473.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-472.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-471.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-470.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-469.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-468.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-467.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-466.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-465.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-464.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-463.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-462.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-461.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-460.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-459.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-458.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-457.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-456.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-455.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-454.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-453.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-452.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-451.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-450.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-449.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-448.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-447.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-446.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-445.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-444.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-443.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-442.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-441.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-440.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-439.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-438.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-437.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-436.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-435.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-434.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-433.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-432.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-431.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-430.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-429.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-428.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-427.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-426.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-425.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-424.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-423.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-422.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-421.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-420.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-419.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-418.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-417.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-416.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-415.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-414.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-413.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-412.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-411.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-410.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-409.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-408.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-407.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-406.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-405.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-404.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-403.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-402.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-401.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-400.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-399.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-398.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-397.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-396.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-395.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-394.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-393.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-392.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-391.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-390.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-389.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-388.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-387.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-386.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-385.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-384.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-383.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-382.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-381.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-380.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-379.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-378.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-377.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-376.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-375.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-374.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-373.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-372.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-371.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-370.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-369.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-368.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-367.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-366.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-365.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-364.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-363.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-362.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-361.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-360.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-359.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-358.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-357.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-356.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-355.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-354.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-353.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-352.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-351.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-350.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-349.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-348.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-347.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-346.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-345.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-344.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-343.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-342.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-341.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-340.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-339.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-338.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-337.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-336.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-335.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-334.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-333.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-332.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-331.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-330.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-329.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-328.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-327.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-326.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-325.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-324.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-323.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-322.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-321.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-320.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-319.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-318.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-317.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-316.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-315.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-314.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-313.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-312.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-311.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-310.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-309.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-308.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-307.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-306.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-305.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-304.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-303.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-302.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-301.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-300.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-299.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-298.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-297.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-296.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-295.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-294.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-293.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-292.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-291.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-290.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-289.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-288.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-287.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-286.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-285.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-284.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-283.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-282.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-281.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-280.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-279.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-278.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-277.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-276.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-275.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-274.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-273.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-272.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-271.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-270.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-269.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-268.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-267.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-266.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-265.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-264.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-263.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-262.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-261.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-260.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-259.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-258.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-257.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-256.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-255.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-254.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-253.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-252.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-251.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-250.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-249.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-248.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-247.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-246.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-245.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-244.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-243.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-242.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-241.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-240.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-239.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-238.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-237.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-236.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-235.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-234.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-233.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-232.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-231.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-230.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-229.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-228.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-227.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-226.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-225.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-224.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-223.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-222.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-221.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-220.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-219.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-218.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-217.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-216.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-215.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-214.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-213.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-212.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-211.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-210.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-209.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-208.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-207.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-206.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-205.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-204.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-203.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-202.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-201.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-200.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-199.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-198.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-197.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-196.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-195.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-194.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-193.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-192.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-191.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-190.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-189.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-188.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-187.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-186.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-185.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-184.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-183.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-182.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-181.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-180.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-179.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-178.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-177.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-176.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-175.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-174.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-173.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-172.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-171.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-170.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-169.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-168.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-167.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-166.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-165.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-164.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-163.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-162.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-161.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-160.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-159.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-158.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-157.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-156.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-155.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-154.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-153.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-152.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-151.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-150.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-149.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-148.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-147.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-146.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-145.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-144.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-143.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-142.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-141.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-140.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-139.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-138.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-137.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-136.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-135.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-134.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-133.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-132.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-131.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-130.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-129.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-128.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-127.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-126.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-125.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-124.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-123.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-122.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-121.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-120.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-119.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-118.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-117.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-116.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-115.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-114.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-113.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-112.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-111.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-110.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-109.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-108.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-107.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-106.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-105.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-104.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-103.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-102.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-101.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-100.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-099.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-098.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-097.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-096.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-095.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-094.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-093.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-092.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-091.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-090.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-089.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-088.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-087.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-086.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-085.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-084.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-083.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-082.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-081.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-080.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-079.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-078.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-077.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-076.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-075.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-074.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-073.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-072.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-071.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-070.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-069.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-068.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-067.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-066.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-065.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-064.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-063.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-062.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-061.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-060.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-059.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-058.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-057.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-056.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-055.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-054.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-053.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-052.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-051.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-050.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-049.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-048.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-047.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-046.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-045.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-044.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-043.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-042.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-041.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-040.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-039.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-038.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-037.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-036.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-035.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-034.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-033.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-032.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-031.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-030.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-029.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-028.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-027.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-026.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-025.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-024.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-023.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-022.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-021.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-020.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-019.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-018.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-017.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-016.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-015.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-014.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-013.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-012.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-011.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-010.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-009.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-008.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-007.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-006.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-005.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-004.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-003.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-002.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-3/poem-001.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-2/poem-001.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/chapter-1/poem-001.pdf"
+to = "/.netlify/builders/ondemandpdf"
+status = 200
+force = true
+_generated_by_eleventy_serverless = "ondemandpdf"
+
+[[redirects]]
+from = "/text/pdf/*"
+to = "/.netlify/builders/pdf"
+status = 200
+force = true

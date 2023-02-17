@@ -1,4 +1,7 @@
-const { EleventyRenderPlugin } = require("@11ty/eleventy");
+const {
+  EleventyRenderPlugin,
+  EleventyServerlessBundlerPlugin,
+} = require("@11ty/eleventy");
 const markdownIt = require("markdown-it");
 const markdownItBracketedSpans = require("markdown-it-bracketed-spans");
 const markdownItAttrs = require("markdown-it-attrs");
@@ -74,7 +77,14 @@ module.exports = function (config) {
   });
 
   // Plugins
+
   config.addPlugin(EleventyRenderPlugin);
+
+  config.addPlugin(EleventyServerlessBundlerPlugin, {
+    name: "ondemandpdf",
+    functionsDir: "./netlify/functions/",
+    redirects: "netlify-toml-builders",
+  });
 
   // Collections
   [1, 2, 3, 4].forEach((chapter) =>
