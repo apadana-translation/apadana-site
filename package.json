@@ -30,7 +30,7 @@
     "dev": "npm-run-all -l clean --parallel dev:*",
     "dev:webpack": "NODE_ENV=development webpack --watch --progress",
     "dev:eleventy": "NODE_ENV=development eleventy --serve --quiet",
-    "build": "npm-run-all -l clean build:*",
+    "build": "run-s -l clean build:*",
     "build:webpack": "NODE_ENV=production webpack --progress",
     "build:eleventy": "NODE_ENV=production eleventy",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",

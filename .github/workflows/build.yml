@@ -1,0 +1,82 @@
+name: Build
+on:
+  push:
+    branches:
+      - build-action
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: "checkout v3"
+        uses: actions/checkout@v3
+
+      - name: "install node"
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+
+      # - name: "install yarn"
+      #   run: |
+      #     sudo apt-key adv --fetch-keys http://dl.yarnpkg.com/debian/pubkey.gpg
+      #     echo "deb http://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+      #     sudo apt-get update
+      #     sudo apt-get install -y yarn
+
+      # - name: "restore node deps"
+      #   uses: actions/cache@v3
+      #   with:
+      #     path: node_modules
+      #     key: ${{ runner.OS }}-node-module-cache-${{ hashFiles('**/yarn.lock') }}
+      #     restore-keys: |
+      #       ${{ runner.OS }}-node-module-cache-
+
+      # - name: "install node deps"
+      #   env:
+      #     NODE_ENV: production
+      #   run: |
+      #     yarn
+
+      # - name: "build assets & eleventy"
+      #   run: |
+      #     yarn build
+
+      - name: "install node deps"
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: install
+
+      - name: "unpack fonts"
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: unpack-fonts
+        env:
+          FONT_CRYPT_SECRET_KEY: ${{ secrets.FONT_CRYPT_SECRET_KEY }}
+
+      - name: "build assets & eleventy"
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: build
+
+      - name: "create file list for pandoc"
+        id: files_list
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd src/_poems/chapter-1
+          echo "files=$(printf '"%s" ' *.md)" >> $GITHUB_OUTPUT
+
+      - uses: docker://pandoc/latex:3.1
+        with:
+          args: >-
+            -V fontsize=12pt,twoside
+            -V documentclass=article
+            -V geometry=hcentering
+            -V geometry=bindingoffset=.2in
+            -V geometry=tmargin=1.2in
+            -V geometry=bmargin=1in
+            -V links-as-notes=true
+            --pdf-engine=xelatex
+            --output=dist/text/chapter-1/poem-001.pdf
+            src/_poems/chapter-1/${{ steps.files_list.outputs.files }}
