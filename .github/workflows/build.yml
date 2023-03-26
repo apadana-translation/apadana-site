@@ -78,5 +78,7 @@ jobs:
             -V geometry=bmargin=1in
             -V links-as-notes=true
             --pdf-engine=xelatex
+            --include-in-header=src/_includes/layouts/pdf-header.tex
+            --include-before-body=src/_includes/layouts/pdf-frontmatter.tex
             --output=dist/text/chapter-1/poem-001.pdf
             src/_poems/chapter-1/${{ steps.files_list.outputs.files }}
