@@ -1,6 +1,6 @@
-// ===================================
-// Basic Typography
-// ===================================
+/* ===================================
+   Basic Typography
+   =================================== */
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
@@ -26,8 +26,8 @@ h3 {
   font-size: 1.1rem;
   font-weight: normal;
   font-feature-settings: "c2sc", "smcp", "lnum";
-  @include font-variant('caps', 'all-small-caps');
-  @include font-variant('numeric', 'lining-nums');
+  font-variant-caps: all-small-caps;
+  font-variant-numeric: lining-nums;
 }
 
 h4 {
@@ -74,8 +74,8 @@ hr {
 abbr,
 .abbr {
   font-feature-settings: "c2sc", "smcp", "lnum";
-  @include font-variant('caps', 'all-small-caps');
-  @include font-variant('numeric', 'lining-nums');
+  font-variant-caps: all-small-caps;
+  font-variant-numeric: lining-nums;
 
   &[title] {
     cursor: help;
@@ -102,9 +102,9 @@ aside {
   font-size: 0.8125rem;
 }
 
-// ===================================
-// Special Typographic Classes
-// ===================================
+/* ===================================
+   Special Typographic Classes
+   =================================== */
 .site-title {
   font-size: 3rem;
 }
@@ -129,7 +129,7 @@ label.small {
 }
 
 .alert {
-  color: palette(highlight);
+  color: var(--color-highlight);
   font-style: italic;
 }
 

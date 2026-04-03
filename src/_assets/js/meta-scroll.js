@@ -1,36 +1,31 @@
-/*
-* Fix sidebar at some point and remove
-* fixed position at content bottom
-*/
-function metaScroll () {
-  var $window = $(window),
-      $container = $('.poem__meta'),
-      containerBottom = $container.offset().top + $container.outerHeight(true),
-      $inner = $('.meta-inner'),
-      innerBottom = $inner.outerHeight(true) + $container.offset().top;
+class MetaScroll extends HTMLElement {
+  connectedCallback() {
+    if (!document.querySelector('#poem')) return;
+    if (!window.matchMedia('(min-width: 880px)').matches) return;
 
-  $window.scroll(function() {
-    var scrollBottom = $window.scrollTop() + innerBottom + 64;
-    if (scrollBottom > containerBottom) {
-      $('.meta-inner').css({"position": "absolute", "bottom": "64px"});
-    } else {
-      $('.meta-inner').css({"position": "fixed", "bottom": "auto"});
-    }
-  });
-};
+    const container = document.querySelector('.poem__meta');
+    const inner = document.querySelector('.meta-inner');
+    if (!container || !inner) return;
 
-// Init based on window width (Match to SASS $medium-large breakpoint)
-(function($) {
-  if($('main').is('#poem')){
-  	function mediaSize() {
-  		/* Set the matchMedia */
-  		if (window.matchMedia('(min-width: 880px)').matches) {
-  			metaScroll();
-  		};
+    const update = () => {
+      if (!window.matchMedia('(min-width: 880px)').matches) return;
+      const containerTop = container.getBoundingClientRect().top + window.scrollY;
+      const containerBottom = containerTop + container.offsetHeight;
+      const innerBottom = inner.offsetHeight + containerTop;
+      const scrollBottom = window.scrollY + innerBottom + 64;
+
+      if (scrollBottom > containerBottom) {
+        inner.style.position = 'absolute';
+        inner.style.bottom = '64px';
+      } else {
+        inner.style.position = 'fixed';
+        inner.style.bottom = 'auto';
+      }
     };
-  	/* Call the function */
-    mediaSize();
-    /* Attach the function to the resize event listener */
-  	window.addEventListener('resize', mediaSize, false);
+
+    window.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update, { passive: true });
   }
-})(jQuery);
+}
+
+customElements.define('meta-scroll', MetaScroll);

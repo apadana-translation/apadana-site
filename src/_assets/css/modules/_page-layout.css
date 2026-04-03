@@ -1,0 +1,115 @@
+/* ===================================
+   Page Layout Styles
+   =================================== */
+
+.page__content {
+  max-width: 40rem;
+  margin: 0 auto;
+
+  @media (min-width: 55em) {
+    width: 66%;
+    margin: 0;
+  }
+}
+
+.page__header {
+  /* from .page__content */
+  max-width: 40rem;
+  margin: 0 auto;
+
+  @media (min-width: 55em) {
+    width: 66%;
+    margin: 0;
+  }
+}
+
+.columns {
+
+  @media (min-width: 44em) {
+    column-count: 2;
+    column-gap: 2.5rem;
+  }
+}
+
+.sidebar {
+
+  @media (min-width: 70em) {
+    float: right;
+    clear: right;
+    width: 42%;
+    right: -50%;
+    margin-left: -100%;
+  }
+}
+
+.sidebar__header {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+
+  @media (min-width: 70em) {
+    margin-top: 0;
+  }
+}
+
+/* ===================================
+   Custom Page Styles
+   =================================== */
+
+/* Homepage */
+.home {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+
+  > * {
+    flex: 1;
+    padding: 1rem 0.5rem;
+  }
+
+  @media (min-width: 55em) {
+    flex-direction: row;
+
+    > * {
+      flex: 1 0 50%;
+    }
+  }
+}
+
+.home__section {
+
+  @media (min-width: 55em) {
+    padding: 1.25rem;
+  }
+
+  @media (min-width: 70em) {
+    padding: 2.5rem;
+
+    &:first-of-type {
+      padding-left: 0;
+    }
+
+    &:last-of-type {
+      padding-right: 0;
+    }
+  }
+}
+
+/* Resources Page */
+.bibliography {
+  /* from .columns */
+  @media (min-width: 44em) {
+    column-count: 2;
+    column-gap: 2.5rem;
+  }
+  padding-left: 1rem;
+  break-inside: avoid;
+
+  > li {
+    margin-bottom: 1rem;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+}
+
+/* TOC page */

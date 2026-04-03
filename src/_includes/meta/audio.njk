@@ -3,7 +3,7 @@
   {% set file = page.audio.file %}
   <section class="meta__audio">
     <h5>Listen to Poem:</h5>
-    <audio id="html5-audio" ontimeupdate="audioProgress()" preload="auto" controls>
+    <audio id="html5-audio" preload="auto" controls>
       <source src="{{ site.baseurl }}/public/audio/{{ chapter }}/{{ file }}" type="audio/mpeg">
       Your browser does not support this feature.
     </audio>

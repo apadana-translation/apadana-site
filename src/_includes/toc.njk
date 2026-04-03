@@ -8,7 +8,7 @@
     {% if loop.index == 1 or loop.index == 2 %}
       {% set chapter_name = categories['chapter-' ~ loop.index].name %}
 <li>
-  <a class="chapter" href="{{ chapter[0].url }}">
+  <a class="chapter" href="{{ chapter[0].page.url }}">
     <span class="chapter-name">{{ chapter_name }}</span>
     <span class="chapter-size">({{ chapter.length }})</span>
   </a>
@@ -23,7 +23,7 @@
   <ol class="toc__level2">
     {% for poem in chapter %}
 <li>
-  <a href="{{ poem.url }}">{{ poem.data.title }}</a>
+  <a href="{{ poem.page.url }}">{{ poem.data.title }}</a>
 </li>
     {% endfor %}
   </ol>

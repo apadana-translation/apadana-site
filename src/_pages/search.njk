@@ -8,8 +8,8 @@ permalink: "/search.json"
   {% for poem in collections.allPoems %}
     {
       "title": "{{ poem.data.title }}",
-      "url": "{{ poem.url }}",
-      "content": "{{ poem.template.frontMatter.content | jsonify_markdown }}",
+      "url": "{{ poem.page.url }}",
+      "content": "{{ poem.content | strip_html }}",
       "chapter": "{{ categories[poem.data.category].name }}",
       "order": "{{ poem.data.order }}"
     }{% if not loop.last %},{% endif %}

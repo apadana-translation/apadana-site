@@ -1,18 +1,22 @@
-(function($) {
-  if($('main').is('#poem')){
-    // Show or hide the sticky footer button
-  	$(window).scroll(function() {
-  		if ($(this).scrollTop() > 200) {
-  			$('.poem__meta .to-top').fadeIn(200);
-  		} else {
-  			$('.poem__meta .to-top').fadeOut(200);
-  		}
-  	});
+class ToTopButton extends HTMLElement {
+  connectedCallback() {
+    if (!document.querySelector('#poem')) return;
 
-  	// Animate the scroll to top
-  	$('.to-top').click(function(e) {
-  		e.preventDefault();
-  		$('html, body').animate({scrollTop: 0}, 300);
-  	})
+    const sidebarBtn = document.querySelector('.poem__meta .to-top');
+    if (sidebarBtn) {
+      sidebarBtn.style.display = 'none';
+      window.addEventListener('scroll', () => {
+        sidebarBtn.style.display = window.scrollY > 200 ? '' : 'none';
+      }, { passive: true });
+    }
+
+    document.querySelectorAll('.to-top').forEach(el => {
+      el.addEventListener('click', (e) => {
+        e.preventDefault();
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+    });
   }
-})(jQuery);
+}
+
+customElements.define('to-top-button', ToTopButton);

@@ -1,0 +1,144 @@
+.mobile-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-family: "skolar-sans-latin-extended", sans-serif;
+  font-size: var(--nav-font-size);
+  box-shadow: 0 0px 5px 0px rgba(50,43,26,0.30);
+  transition: transform 0.5s ease 0.75s;
+  z-index: 1;
+
+  .wf-loading & {
+    transform: translateY(100%);
+  }
+
+  @media (min-width: 70em) {
+    display: none;
+  }
+}
+
+.mobile-nav__section {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: var(--header-height);
+  background-color: white;
+
+  & > a, & > label {
+    /* from %link-with-hover-highlight */
+    background-image: none;
+    color: inherit;
+    flex: 1;
+    width: 100%;
+    height: 100%;
+    padding: 1rem;
+    background-color: white;
+
+    &:hover,
+    &:active {
+      background-image: none;
+      color: var(--color-highlight);
+    }
+
+    .no-cssgradients & {
+      text-decoration: none;
+    }
+
+    &:hover,
+    &:focus {
+      color: var(--color-light);
+      background-color: var(--color-highlight);
+    }
+  }
+}
+
+.mobile-nav__tab {
+  /* from %radio-for-dropdown--light (which includes %radio-for-dropdown) */
+  display: none;
+
+  & + label {
+    cursor: pointer;
+    display: block;
+    flex: 1;
+    padding: 1em;
+    text-align: center;
+    user-select: none;
+  }
+
+  &:checked + label {
+    color: var(--color-light);
+    background-color: var(--color-highlight);
+  }
+
+  & + label {
+    color: var(--color-dark);
+    background-color: var(--color-light);
+
+    &:hover, &:focus {
+      color: var(--color-light);
+      background-color: var(--color-highlight);
+    }
+
+    @media (min-width: 70em) {
+      flex: 1;
+      color: var(--color-light);
+      background-color: var(--color-dark);
+    }
+  }
+
+  &:checked ~ .mobile-nav__tab__content {
+    /* from %dropup-is-open */
+    opacity: 1;
+    position: absolute;
+    bottom: 100%;
+    transform: translateY(0px);
+  }
+}
+
+.mobile-nav__tab--secondary {
+
+  & + label {
+    padding: 0;
+    background-color: white;
+
+    &:hover {
+      color: var(--color-highlight);
+      background-color: inherit;
+    }
+  }
+
+  &:checked + label {
+    color: var(--color-highlight);
+    background-color: inherit;
+  }
+}
+
+.mobile-nav__tab__content {
+  /* from %dropup (which includes %dropdown) */
+  opacity: 0;
+  position: absolute;
+  left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  z-index: -1;
+  transform: translateY(100%);
+  transition: transform 0.5s ease, opacity 0.5s ease;
+  background-color: white;
+
+  label {
+    font-style: oblique;
+  }
+}
+
+.mobile-nav__tab--audio-info {
+  display: block;
+  padding: 1em 1em 0;
+  text-align: left;
+
+  span {
+    display: block;
+  }
+}

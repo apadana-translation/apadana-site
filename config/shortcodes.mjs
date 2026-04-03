@@ -1,22 +1,30 @@
-const fs = require("fs");
-const path = require("path");
-const Image = require("@11ty/eleventy-img");
+import { readFile } from "fs/promises";
+import { resolve } from "path";
+import { fileURLToPath } from "url";
+import Image from "@11ty/eleventy-img";
 
-const manifestPath = path.resolve(__dirname, "../dist/assets/manifest.json");
+const __dirname = fileURLToPath(new URL(".", import.meta.url));
+const manifestPath = resolve(__dirname, "../dist/.vite/manifest.json");
 const imageMaxWidth = 700;
 
 function citeShortcode(filename, options) {
   return `<a href="#">future link to "${filename}"</a>`;
 }
 
-// Allow embedding webpack assets pulled out from `manifest.json`
-// {% webpack "main.css" %}
-async function webpackShortcode(name) {
-  return new Promise((resolve) => {
-    fs.readFile(manifestPath, { encoding: "utf8" }, (err, data) =>
-      resolve(err ? `/assets/${name}` : JSON.parse(data)[name])
-    );
-  });
+// Resolve hashed asset paths from Vite's manifest.json
+// {% asset "main.css" %} or {% asset "main.js" %}
+async function assetShortcode(name) {
+  try {
+    const data = await readFile(manifestPath, { encoding: "utf8" });
+    const manifest = JSON.parse(data);
+    const entry = Object.values(manifest).find((v) => v.isEntry);
+    if (!entry) return `/assets/${name}`;
+    if (name === "main.js") return "/" + entry.file;
+    if (name === "main.css") return "/" + (entry.css?.[0] ?? name);
+    return `/assets/${name}`;
+  } catch {
+    return `/assets/${name}`;
+  }
 }
 
 function getSizes(ratio) {
@@ -59,9 +67,9 @@ function siteUpdateDateShortcode() {
   return `<time datetime="${date.toISOString()}">${formatDate()}</time>`;
 }
 
-module.exports = {
+export default {
   cite: citeShortcode,
-  webpack: webpackShortcode,
+  asset: assetShortcode,
   image: imageShortcode,
   siteUpdateDateTime: siteUpdateDateShortcode,
 };

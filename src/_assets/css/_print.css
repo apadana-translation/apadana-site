@@ -13,17 +13,17 @@
     text-shadow: none !important;
   }
 
-  // ===================================
-  // @page styles
-  // ===================================
+  /* ===================================
+     @page styles
+     =================================== */
   @page {
-    // size: letter;
+    /* size: letter; */
     margin: 0.75in 1in;
   }
 
-  // ===================================
-  // General styles
-  // ===================================
+  /* ===================================
+     General styles
+     =================================== */
 
   html,
   body {
@@ -98,11 +98,11 @@
     padding: 0;
   }
 
-  // ===================================
-  // Poem & page elements
-  // ===================================
+  /* ===================================
+     Poem & page elements
+     =================================== */
 
-  // Hide some screen-specific features
+  /* Hide some screen-specific features */
   .header--poem,
   .header--site,
   .poem__meta,
@@ -126,12 +126,10 @@
     }
   }
 
-  .page {
-    &__header,
-    &__content {
-      width: 60%;
-      margin: 0;
-    }
+  .page__header,
+  .page__content {
+    width: 60%;
+    margin: 0;
   }
 
   a[href^="#sn"] {
@@ -142,7 +140,7 @@
     display: none;
   }
 
-  // sidenotes
+  /* sidenotes */
   .sidenote {
     float: right;
     clear: right;
