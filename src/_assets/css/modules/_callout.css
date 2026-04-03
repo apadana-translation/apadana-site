@@ -5,16 +5,19 @@
   border: solid #E13A00;
   border-width: 3px 0;
 
-  @include breakpoint($medium) {
+  @media (min-width: 44em) {
     width: 33.33%;
     margin: 6px 1.5rem 1.5rem 0;
     padding-bottom: 0;
     float: left;
     border-bottom-width: 0;
   }
+}
 
-  &__header {
-    @extend .sidebar__header;
-    margin-top: 0;
-  }
+.callout__header {
+  /* from .sidebar__header */
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  /* override */
+  margin-top: 0;
 }

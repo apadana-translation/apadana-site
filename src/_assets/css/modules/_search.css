@@ -1,0 +1,15 @@
+.search__results {
+  max-height: 70vh;
+  overflow-y: auto;
+  margin-top: 1rem;
+  padding-left: 0;
+  list-style-type: none;
+}
+
+.search__result {
+  margin: 0.5rem;
+
+  a {
+    font-weight: bold;
+  }
+}

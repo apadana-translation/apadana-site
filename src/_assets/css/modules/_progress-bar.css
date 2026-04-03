@@ -1,6 +1,6 @@
-// ===================================
-// Horizontal Progress Bar for mobile displays
-// ===================================
+/* ===================================
+   Horizontal Progress Bar for mobile displays
+   =================================== */
 progress {
   position: absolute;
   top: 0;
@@ -9,7 +9,7 @@ progress {
   height: 0.35rem;
   -webkit-appearance: none;
   appearance: none;
-  color: palette(highlight);
+  color: var(--color-highlight);
   background-color: transparent;
   border: none;
   z-index: 102;
@@ -19,14 +19,14 @@ progress {
   }
 
   &::-webkit-progress-value {
-    background-color: palette(highlight);
+    background-color: var(--color-highlight);
   }
 
   &::-moz-progress-bar {
-    background-color: palette(highlight);
+    background-color: var(--color-highlight);
   }
 
-  @include breakpoint($large) {
+  @media (min-width: 70em) {
     display: none;
   }
 }

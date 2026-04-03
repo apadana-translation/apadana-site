@@ -1,7 +1,7 @@
 ---
 title: Markdown Tutorial
 eleventyExcludeFromCollections: true
-permalink: /markdown-tutorial
+permalink: /markdown-tutorial/
 layout: page
 excerpt: This page is designed to provide an introduction and reference for
   editing poems and pages.

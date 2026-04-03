@@ -1,101 +1,95 @@
-function navigation() {
-  // ===================================
-  // Uncheck radio inputs in poem, TOC navigation
-  // ===================================
-  $('.tab__label, .chapter').on('click', function (e) {
-    var inputPressed = $(this).prev('input[type=radio]');
-    if(inputPressed.is(':checked')) {
+class PoemNavigation extends HTMLElement {
+  connectedCallback() {
+    this._initTabs();
+    this._initMobileScroll();
+  }
+
+  _initTabs() {
+    // Toggle radio off when clicking an already-checked label
+    document.querySelectorAll('.tab__label, .chapter').forEach(label => {
+      label.addEventListener('click', (e) => {
+        const input = label.previousElementSibling;
+        if (input && input.type === 'radio' && input.checked) {
+          e.preventDefault();
+          input.checked = false;
+        }
+      });
+    });
+
+    const tabNavigation = document.getElementById('tabNavigation');
+    const tabTools = document.getElementById('tabTools');
+    const tabGroupNavigation = document.getElementById('tabGroupNavigation');
+    const tabGroupTools = document.getElementById('tabGroupTools');
+
+    const setTab = (el, state) => el && el.setAttribute('data-tab', state);
+    const toggleTab = (el, on, off) => {
+      if (!el) return;
+      el.setAttribute('data-tab', el.getAttribute('data-tab') === on ? off : on);
+    };
+
+    tabNavigation?.addEventListener('click', (e) => {
       e.preventDefault();
-      inputPressed.prop('checked', false );
-    }
-  });
+      setTab(tabGroupTools, 'off');
+      toggleTab(tabGroupNavigation, 'on', 'off');
+    });
 
-  // ===================================
-  // Toggle tab groups on small and medium screens
-  // ===================================
-  var tabGroupNavigation = '#tabGroupNavigation';
-  var tabGroupTools = '#tabGroupTools';
+    tabTools?.addEventListener('click', (e) => {
+      e.preventDefault();
+      setTab(tabGroupNavigation, 'off');
+      toggleTab(tabGroupTools, 'on', 'off');
+    });
 
-  $('#tabNavigation').on('click', function (e) {
-    tabState(tabGroupTools, 'off');
-    tabState(tabGroupNavigation, 'on', 'off');
-    e.preventDefault();
-  });
+    // Selecting a radio in one tab group unchecks the other
+    tabGroupNavigation?.querySelectorAll('input[type=radio]').forEach(input => {
+      input.addEventListener('click', () => {
+        tabGroupTools?.querySelectorAll('input[type=radio]').forEach(r => { r.checked = false; });
+      });
+    });
 
-  $('#tabTools').on('click', function (e) {
-    tabState(tabGroupNavigation, 'off');
-    tabState(tabGroupTools, 'on', 'off');
-    e.preventDefault();
-  });
+    tabGroupTools?.querySelectorAll('input[type=radio]').forEach(input => {
+      input.addEventListener('click', () => {
+        tabGroupNavigation?.querySelectorAll('input[type=radio]').forEach(r => { r.checked = false; });
+      });
+    });
 
-  // function to switch data atribute state
-  var tabState = function (elem, one, two) {
-    var elem = document.querySelector(elem);
-    elem.setAttribute('data-tab', elem.getAttribute('data-tab') === one ? two : one);
-  };
-
-  // ===================================
-  // Show only one tab group or TOC chapter at a time
-  // ===================================
-  $(tabGroupNavigation).children('input[type=radio]').on('click', function (e) {
-    $(tabGroupTools).children('input[type=radio]').prop('checked', false );
-  });
-
-  $(tabGroupTools).children('input[type=radio]').on('click', function (e) {
-    $(tabGroupNavigation).children('input[type=radio]').prop('checked', false );
-  });
-
-  $('label[for=chapter-3]').on('click', function (e) {
-    $('input#chapter-4').prop('checked', false );
-  });
-
-  $('label[for=chapter-4]').on('click', function (e) {
-    $('input#chapter-3').prop('checked', false );
-  });
-}
-
-(function () {
-  navigation();
-})(jQuery);
-
-// ===================================
-// Hide mobile poem header and pagination on scroll down
-// based on https://medium.com/@mariusc23/hide-header-on-scroll-down-show-on-scroll-up-67bbaae9a78c
-// ===================================
-var didScroll,
-    lastScrollTop = 0,
-    delta = 5,
-    navBar = $('.header--poem'),
-    navbarHeight = navBar.outerHeight(),
-    paginationBar = $('.mobile-pagination');
-
-$(window).scroll(function(event){
-  didScroll = true;
-});
-
-setInterval(function() {
-  if (didScroll) {
-    hasScrolled();
-    didScroll = false;
-  }
-}, 125);
-
-function hasScrolled() {
-  var st = $(this).scrollTop();
-
-  // Make sure they scroll more than delta
-  if(Math.abs(lastScrollTop - st) <= delta)
-    return;
-
-  if (st > lastScrollTop && st > navbarHeight){
-    // Scroll Down
-    $('.mobile-pagination').removeClass('nav-show').addClass('nav-below');
-  } else {
-    // Scroll Up
-    if (st + $(window).height() < $(document).height()) {
-      $('.mobile-pagination').removeClass('nav-below').addClass('nav-show');
-    }
+    // Chapters 3 and 4 are mutually exclusive
+    document.querySelector('label[for=chapter-3]')?.addEventListener('click', () => {
+      const ch4 = document.querySelector('input#chapter-4');
+      if (ch4) ch4.checked = false;
+    });
+    document.querySelector('label[for=chapter-4]')?.addEventListener('click', () => {
+      const ch3 = document.querySelector('input#chapter-3');
+      if (ch3) ch3.checked = false;
+    });
   }
 
-  lastScrollTop = st;
+  _initMobileScroll() {
+    const navBar = document.querySelector('.header--poem');
+    const pagination = document.querySelector('.mobile-pagination');
+    if (!navBar || !pagination) return;
+
+    let lastScrollTop = 0;
+    const delta = 5;
+    let didScroll = false;
+
+    window.addEventListener('scroll', () => { didScroll = true; }, { passive: true });
+
+    setInterval(() => {
+      if (!didScroll) return;
+      didScroll = false;
+      const st = window.scrollY;
+      if (Math.abs(lastScrollTop - st) <= delta) return;
+
+      if (st > lastScrollTop && st > navBar.offsetHeight) {
+        pagination.classList.remove('nav-show');
+        pagination.classList.add('nav-below');
+      } else if (st + window.innerHeight < document.documentElement.scrollHeight) {
+        pagination.classList.remove('nav-below');
+        pagination.classList.add('nav-show');
+      }
+      lastScrollTop = st;
+    }, 125);
+  }
 }
+
+customElements.define('poem-navigation', PoemNavigation);

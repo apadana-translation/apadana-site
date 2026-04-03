@@ -3,7 +3,7 @@ input[type=search] {
   width: 100%;
   padding: 0.5rem 2.5rem 0.5rem 1rem;
   appearance: none;
-  background: palette(gray);
+  background: var(--color-gray);
   border: none;
   outline: none;
   box-shadow: inset 0 0 2px 0 rgba(50,43,26,0.20);
@@ -23,7 +23,7 @@ input[type=search] {
   align-items: center;
   position: relative;
 
-  @include breakpoint($large) {
+  @media (min-width: 70em) {
     flex-basis: 100%;
 
     & + .tab__desc {

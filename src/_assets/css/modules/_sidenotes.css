@@ -1,8 +1,8 @@
-// Sidenotes
+/* Sidenotes */
 .sidenote {
   font-size: 0.6875rem;
 
-  @include breakpoint($medium-large) {
+  @media (min-width: 55em) {
     float: right;
     clear: right;
     width: 15.625rem;
@@ -19,24 +19,24 @@
   }
 
   hr {
-    border-bottom-color: palette(dark);
+    border-bottom-color: var(--color-dark);
     border-top: none;
   }
 }
 
-// Note number within body text
+/* Note number within body text */
 a[href^="#sn"] {
   vertical-align: baseline;
   font-size: inherit;
   font-feature-settings: "sups" 1;
-  @include font-variant('position', 'super');
+  font-variant-position: super;
 }
 
 .ref-mark {
   float: left;
   margin-right: 0.4em;
   font-feature-settings: "lnum";
-  @include font-variant('numeric', 'lining-nums');
+  font-variant-numeric: lining-nums;
 
   &::after {
     content: "."

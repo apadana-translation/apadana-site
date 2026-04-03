@@ -1,10 +1,11 @@
-var modalParent = document.querySelector('body');
-
-$('.modal-open, #modal-close').click(function() {
-  var modalState = modalParent.getAttribute('modal-state');
-  if (modalState != 'is-open') {
-    modalParent.setAttribute('modal-state', 'is-open');
-  } else {
-    modalParent.setAttribute('modal-state', 'is-closed');
+class PoemModal extends HTMLElement {
+  connectedCallback() {
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('.modal-open') && !e.target.closest('#modal-close')) return;
+      const state = document.body.getAttribute('modal-state');
+      document.body.setAttribute('modal-state', state === 'is-open' ? 'is-closed' : 'is-open');
+    });
   }
-});
+}
+
+customElements.define('poem-modal', PoemModal);

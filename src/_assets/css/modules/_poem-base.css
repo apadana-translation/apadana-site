@@ -1,0 +1,56 @@
+main#poem {
+  @media (min-width: 55em) and (max-width: 70em) {
+    padding-left: 12vw;
+  }
+}
+
+.poem, .page {
+
+  ::selection {
+    color: var(--color-light);
+    background: var(--color-highlight);
+  }
+}
+
+.poem, .page.has-notes {
+
+  a {
+    background-image: none;
+
+    &:hover {
+      background-image: none;
+    }
+
+    .no-cssgradients & {
+      text-decoration: none;
+    }
+  }
+}
+
+.poem {
+  max-width: 28.125rem;
+  margin: 0 auto;
+  padding: 1rem 0;
+
+  li + li {
+    margin-top: .25rem;
+  }
+
+  aside, span {
+    transition: background-color .2s ease;
+  }
+
+  @media (min-width: 55em) {
+    margin: 0;
+  }
+}
+
+/* Toggle poem elements on/off */
+[data-state=off] {
+  display: none !important;
+}
+
+/* Highlight poem elements on hover */
+[data-hover=on] {
+  background-color: rgba(225, 58, 0, 0.65);
+}

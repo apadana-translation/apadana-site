@@ -1,0 +1,35 @@
+/* ===================================
+   Colors
+   =================================== */
+:root {
+  --color-light: #EFEFE5;
+  --color-dark: #322B1A;
+  --color-highlight: #E13A00;
+  --color-gray: #EBEBEB;
+  --color-shadow: #322b19;
+
+  --body-color: var(--color-dark);
+  --body-bg: var(--color-light);
+  --link-color: var(--color-highlight);
+
+  /* ===================================
+     Typography
+     =================================== */
+  --root-font-family: "Skolar PE", "Times New Roman", serif;
+  --root-font-size: 14px;
+  --root-line-height: 1.5;
+  --medium-font-size: 16px;
+  --x-large-font-size: 18px;
+  --nav-font-size: 0.875rem;
+
+  /* ===================================
+     Layout
+     =================================== */
+  --header-height: 3.5rem;
+  --container-width: 61rem;
+
+  /* ===================================
+     Links
+     =================================== */
+  --link-offset: 2px;
+}

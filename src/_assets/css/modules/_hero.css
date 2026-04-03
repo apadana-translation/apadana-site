@@ -1,0 +1,30 @@
+.hero {
+  text-align: center;
+
+  @media (min-width: 55em) {
+    display: flex;
+    flex-basis: 100%;
+    align-items: center;
+    padding: 1rem 4rem;
+    text-align: left;
+  }
+
+  > * {
+    flex: 1;
+  }
+}
+
+.hero__content {
+}
+
+.hero__image {
+  display: none;
+
+  @media (min-width: 55em) {
+    display: block;
+  }
+
+  img {
+    margin-left: auto;
+  }
+}

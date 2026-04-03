@@ -6,6 +6,10 @@
   "author": "Dana Johnson <dana@danajohnson.co> (https://github.com/dananjohnson/)",
   "homepage": "https://github.com/apadana-translation/apadana-site",
   "license": "CC-BY-4.0",
+  "engines": {
+    "node": "24"
+  },
+  "packageManager": "yarn@4.13.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/apadana-translation/apadana-site"
@@ -14,62 +18,42 @@
     "url": "https://github.com/apadana-translation/apadana-site/issues",
     "email": "dana@danajohnson.co"
   },
-  "browserslist": {
-    "production": [
-      "defaults",
-      "not ie 11"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
+  "browserslist": [
+    "last 2 years",
+    "not dead",
+    "> 0.5%"
+  ],
   "scripts": {
-    "clean": "rimraf dist",
-    "dev": "npm-run-all -l clean --parallel dev:*",
-    "dev:webpack": "NODE_ENV=development webpack --watch --progress",
+    "clean": "rm -rf dist",
+    "dev": "yarn clean && concurrently -c \"auto\" \"yarn:dev:*\"",
+    "dev:vite": "vite build --watch --mode development",
     "dev:eleventy": "NODE_ENV=development eleventy --serve --quiet",
-    "build": "npm-run-all -l clean build:*",
-    "build:webpack": "NODE_ENV=production webpack --progress",
+    "build": "concurrently -c \"auto\" \"yarn:build:*\"",
+    "build:vite": "vite build",
     "build:eleventy": "NODE_ENV=production eleventy",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
-    "unpack-fonts": "run-s unpack-fonts:*",
+    "unpack-fonts": "yarn unpack-fonts:decrypt && yarn unpack-fonts:unzip",
     "unpack-fonts:decrypt": "node ./decrypt-fonts.js",
     "unpack-fonts:unzip": "node ./unzip-fonts.js",
     "browserslist:upgrade": "npx browserslist@latest --update-db"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.2",
-    "@11ty/eleventy-img": "^2.0.1",
-    "@swc/core": "^1.3.24",
-    "adm-zip": "^0.5.10",
-    "autoprefixer": "^10.4.13",
-    "browserslist": "^4.21.4",
-    "css-loader": "^6.7.3",
-    "css-minimizer-webpack-plugin": "^4.2.2",
-    "dotenv": "^16.0.3",
-    "editorconfig": "^1.0.1",
-    "eleventy-plugin-error-overlay": "^1.0.0",
-    "jquery": "^3.6.3",
-    "markdown-it": "^13.0.1",
-    "markdown-it-attrs": "^4.1.6",
+    "@11ty/eleventy": "^3.1.5",
+    "@11ty/eleventy-img": "^6.0.4",
+    "adm-zip": "^0.5.17",
+    "browserslist": "^4.28.2",
+    "concurrently": "^9.2.1",
+    "dotenv": "^17.4.0",
+    "editorconfig": "^3.0.2",
+    "markdown-it": "^14.1.1",
+    "markdown-it-attrs": "^4.3.1",
     "markdown-it-bracketed-spans": "^1.0.1",
-    "markdown-it-footnote": "^3.0.3",
-    "mini-css-extract-plugin": "^2.7.2",
+    "markdown-it-footnote": "^4.0.0",
     "npm-run-all": "^4.1.5",
-    "nunjucks": "^3.2.3",
-    "postcss": "^8.4.20",
-    "postcss-loader": "^7.0.2",
-    "postcss-normalize": "^10.0.1",
-    "sass": "^1.57.1",
-    "sass-loader": "^13.2.0",
-    "string-strip-html": "8.3.0",
-    "swc-loader": "^0.2.3",
-    "terser-webpack-plugin": "^5.3.6",
-    "webpack": "^5.75.0",
-    "webpack-cli": "^5.0.1",
-    "webpack-manifest-plugin": "^5.0.0"
-  },
-  "dependencies": {}
+    "postcss": "^8.5.8",
+    "postcss-import": "^16.1.1",
+    "postcss-nesting": "^14.0.0",
+    "string-strip-html": "^13.5.3",
+    "vite": "^8.0.3"
+  }
 }

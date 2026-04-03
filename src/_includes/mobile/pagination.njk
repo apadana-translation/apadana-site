@@ -2,7 +2,7 @@
 {% set next = collections.allPoems | getNextCollectionItem(page) %}
 
 {% if previous %}
-  <a href="{{ previous.url }}">
+  <a href="{{ previous.page.url }}">
     <svg width="20" height="20" class="icon-left">
       <use xlink:href="#icon-left"></use>
     </svg>
@@ -11,7 +11,7 @@
 {% endif %}
 {% include 'meta/to-top.njk' %}
 {% if next %}
-  <a href="{{ next.url }}">
+  <a href="{{ next.page.url }}">
     Next
     <svg width="20" height="20" class="icon-right">
       <use xlink:href="#icon-right"></use>

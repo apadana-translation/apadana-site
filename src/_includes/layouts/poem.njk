@@ -31,7 +31,12 @@
       {% include 'site/footer.njk' %}
     </div>
 
-    <script src="{% webpack 'main.js' %}"></script>
+    <poem-toggles></poem-toggles>
+    <poem-sidenotes></poem-sidenotes>
+    <poem-audio></poem-audio>
+    <to-top-button></to-top-button>
+
+    <script src="{% asset 'main.js' %}"></script>
 
   </body>
 </html>

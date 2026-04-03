@@ -1,40 +1,29 @@
-// ===================================
-// Reading progress bars for poems
-// ===================================
+class ReadingProgress extends HTMLElement {
+  connectedCallback() {
+    const poem = document.querySelector('article.poem');
+    if (!poem) return;
 
-// Circular counter for $medium-large and up displays,
-// horizontal bar for mobile displays
-// based partly on https://codepen.io/jpod/pen/oqKvw
+    const circle = this.querySelector('.animated-circle');
+    const counter = this.querySelector('.progress__count');
+    const progressBar = document.querySelector('progress');
 
-// Helper function for animating circular progress counter
-function updateProgress(perc, circleEl, counterEl) {
-  var offsetValue = 126 * perc;
-  circleEl.css("stroke-dashoffset", 126 - offsetValue);
-  if (counterEl) {
-    counterEl.html(Math.round(perc * 100) + "%");
+    const update = () => {
+      const max = Math.max(1, poem.offsetHeight - window.innerHeight);
+      const value = window.scrollY;
+
+      if (progressBar) {
+        progressBar.max = max;
+        progressBar.value = value;
+      }
+
+      const perc = Math.max(0, Math.min(1, value / max));
+      if (circle) circle.style.strokeDashoffset = 126 * (1 - perc);
+      if (counter) counter.textContent = Math.round(perc * 100) + '%';
+    };
+
+    window.addEventListener('scroll', update, { passive: true });
+    update();
   }
 }
 
-export default function progressBar() {
-  var winHeight = $(window).height(),
-      docHeight = $('.poem').height(),
-      progressEl = $('progress'),
-      circle = $('#text-progress .animated-circle'),
-      counter = $('#text-progress .progress__count'),
-      max, value;
-
-  /* Set the max scrollable area */
-  max = docHeight - winHeight;
-
-  // set max value of horizontal bar
-  progressEl.attr('max', max);
-
-  $(document).on('scroll', function() {
-     var value = $(window).scrollTop();
-     // horizontal bar
-     progressEl.attr('value', value);
-     // circular counter
-     var perc = Math.max(0, Math.min(1, value/max));
-     updateProgress(perc, circle, counter);
-  });
-}
+customElements.define('reading-progress', ReadingProgress);

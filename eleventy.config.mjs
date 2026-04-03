@@ -1,10 +1,10 @@
-const { EleventyRenderPlugin } = require("@11ty/eleventy");
-const markdownIt = require("markdown-it");
-const markdownItBracketedSpans = require("markdown-it-bracketed-spans");
-const markdownItAttrs = require("markdown-it-attrs");
-const markdownItFootnote = require("markdown-it-footnote");
-const { stripHtml } = require("string-strip-html");
-const shortcodes = require("./config/shortcodes");
+import { EleventyRenderPlugin } from "@11ty/eleventy";
+import markdownIt from "markdown-it";
+import markdownItBracketedSpans from "markdown-it-bracketed-spans";
+import markdownItAttrs from "markdown-it-attrs";
+import markdownItFootnote from "markdown-it-footnote";
+import { stripHtml } from "string-strip-html";
+import shortcodes from "./config/shortcodes.mjs";
 
 function byOrder(a, b) {
   return a.data.order - b.data.order;
@@ -25,7 +25,7 @@ function addAllPoems(flatten) {
   };
 }
 
-module.exports = function (config) {
+export default function (config) {
   // Layout aliases
   config.addLayoutAlias("default-flex", "layouts/default-flex.njk");
   config.addLayoutAlias("default", "layouts/default.njk");
@@ -56,21 +56,23 @@ module.exports = function (config) {
 
   // Shortcodes
   config.addNunjucksShortcode("cite", shortcodes.cite);
-  config.addNunjucksAsyncShortcode("webpack", shortcodes.webpack);
+  config.addNunjucksAsyncShortcode("asset", shortcodes.asset);
   config.addNunjucksAsyncShortcode("image", shortcodes.image);
-  config.addNunjucksShortcode(
-    "siteUpdateDateTime",
-    shortcodes.siteUpdateDateTime
-  );
+  config.addNunjucksShortcode("siteUpdateDateTime", shortcodes.siteUpdateDateTime);
 
   // Filters
 
-  // render markdown to html, strip html tags and link breaks
+  // render markdown to html, strip html tags and line breaks
   // to make safe output for JSON
   config.addNunjucksFilter("jsonify_markdown", (str) => {
     const html = markdownLib.render(str);
     const stripped = stripHtml(html).result;
     return stripped.replace(/\r?\n|\r/g, " ");
+  });
+
+  // strip html tags and collapse whitespace, for use with already-rendered content
+  config.addNunjucksFilter("strip_html", (str) => {
+    return str.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
   });
 
   // Plugins
@@ -95,4 +97,4 @@ module.exports = function (config) {
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
   };
-};
+}

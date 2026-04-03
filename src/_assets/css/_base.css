@@ -1,0 +1,72 @@
+/* Body resets
+ *
+ * Update the foundational and global aspects of the page.
+ */
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: var(--root-font-family);
+  font-size: var(--root-font-size);
+  line-height: var(--root-line-height);
+
+  @media (min-width: 44em) {
+    font-size: var(--medium-font-size);
+  }
+
+  @media (min-width: 80em) {
+    font-size: var(--x-large-font-size);
+  }
+}
+
+body {
+  color: var(--body-color);
+  background-color: var(--body-bg);
+  font-feature-settings: "onum" 1;
+  font-variant-numeric: oldstyle-nums;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+a {
+  color: var(--color-highlight);
+  text-decoration: none;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 50%,
+    rgba(225, 58, 0, 0.6) 50%
+  );
+  background-repeat: repeat-x;
+  background-size: 2px 2px;
+  background-position: 0 1.05em;
+  background-position: 0 calc(43% + 0.44em + 4px);
+  cursor: pointer;
+
+  &:hover {
+    background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0) 50%,
+      rgba(225, 58, 0, 0.8) 50%
+    );
+    color: var(--color-highlight);
+  }
+
+  .no-cssgradients & {
+    text-decoration: underline;
+  }
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
