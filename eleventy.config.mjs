@@ -5,6 +5,7 @@ import markdownItAttrs from "markdown-it-attrs";
 import markdownItFootnote from "markdown-it-footnote";
 import { stripHtml } from "string-strip-html";
 import shortcodes from "./config/shortcodes.mjs";
+import { bibliographyShortcode } from "./config/bibliography.mjs";
 
 function byOrder(a, b) {
   return a.data.order - b.data.order;
@@ -59,6 +60,7 @@ export default function (config) {
   config.addNunjucksAsyncShortcode("asset", shortcodes.asset);
   config.addNunjucksAsyncShortcode("image", shortcodes.image);
   config.addNunjucksShortcode("siteUpdateDateTime", shortcodes.siteUpdateDateTime);
+  config.addNunjucksAsyncShortcode("bibliography", bibliographyShortcode);
 
   // Filters
 
