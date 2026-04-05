@@ -222,7 +222,7 @@
         }
       }
 
-      &:hover, &:focus {
+      &:hover, &:focus-visible {
 
         > ul {
           opacity: 1;
@@ -246,7 +246,7 @@
     a {
       display: block;
 
-      &:hover, &:focus {
+      &:hover, &:focus-visible {
         color: inherit;
       }
     }
@@ -387,7 +387,7 @@
     text-align: center;
     user-select: none;
 
-    &:hover, &:focus {
+    &:hover, &:focus-visible {
       color: var(--color-highlight);
     }
   }
@@ -462,7 +462,7 @@
     color: var(--color-dark);
     background-color: var(--color-light);
 
-    &:hover, &:focus {
+    &:hover, &:focus-visible {
       color: var(--color-light);
       background-color: var(--color-highlight);
     }
@@ -711,7 +711,7 @@
   user-select: none;
 
   &:hover,
-  &:focus,
+  &:focus-visible,
   &:active {
     color: var(--color-highlight);
   }

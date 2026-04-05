@@ -38,6 +38,32 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
+:where(
+  [href],
+  button,
+  input,
+  textarea,
+  summary,
+  select,
+  [tabindex],
+  [draggable],
+  area,
+  object,
+  iframe
+) {
+  &:focus {
+    outline: none;
+  }
+
+  &:focus-visible {
+    outline: 2px solid;
+  }
+}
+
+:target {
+  outline: 2px solid;
+}
+
 a {
   color: var(--color-highlight);
   text-decoration: none;

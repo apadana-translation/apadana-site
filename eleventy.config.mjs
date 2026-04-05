@@ -56,7 +56,7 @@ export default function (config) {
   config.addPassthroughCopy("src/public");
 
   // Shortcodes
-  config.addNunjucksShortcode("cite", shortcodes.cite);
+  config.addNunjucksAsyncShortcode("cite", shortcodes.cite);
   config.addNunjucksAsyncShortcode("asset", shortcodes.asset);
   config.addNunjucksAsyncShortcode("image", shortcodes.image);
   config.addNunjucksShortcode("siteUpdateDateTime", shortcodes.siteUpdateDateTime);

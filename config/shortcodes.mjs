@@ -5,10 +5,94 @@ import Image from "@11ty/eleventy-img";
 
 const __dirname = fileURLToPath(new URL(".", import.meta.url));
 const manifestPath = resolve(__dirname, "../dist/.vite/manifest.json");
+const bibPath = resolve(__dirname, "../src/_resources/references.bib");
 const imageMaxWidth = 700;
 
-function citeShortcode(filename, options) {
-  return `<a href="#">future link to "${filename}"</a>`;
+let bibCache = null;
+
+function parseBibtex(content) {
+  // Strip Eleventy frontmatter if present
+  content = content.replace(/^---[\s\S]*?---\s*/, "");
+
+  const entries = {};
+  // Split at each entry start so we don't need to match closing braces
+  for (const chunk of content.split(/(?=@\w+\{)/)) {
+    const header = chunk.match(/^@(\w+)\{([^,]+),/);
+    if (!header) continue;
+
+    const type = header[1].toLowerCase();
+    const key = header[2].trim();
+    const fields = {};
+
+    // Match field = {value} or field = bare_number
+    const fieldRe = /(\w+)\s*=\s*(?:\{([^}]*)\}|(\d+))/g;
+    for (const fm of chunk.matchAll(fieldRe)) {
+      fields[fm[1].toLowerCase()] = fm[2] !== undefined ? fm[2] : fm[3];
+    }
+
+    entries[key] = { type, key, ...fields };
+  }
+
+  return entries;
+}
+
+async function getBibEntries() {
+  if (!bibCache) {
+    const content = await readFile(bibPath, "utf8");
+    bibCache = parseBibtex(content);
+  }
+  return bibCache;
+}
+
+function formatAuthor(authorStr) {
+  // "First Last and First Last" → "Last, First and Last, First"
+  return authorStr
+    .split(" and ")
+    .map((name) => {
+      const parts = name.trim().split(" ");
+      const last = parts.pop();
+      return parts.length ? `${last}, ${parts.join(" ")}` : last;
+    })
+    .join(", ");
+}
+
+function formatCitation(entry, options = {}) {
+  const { suppressAuthor = false } = options;
+  const parts = [];
+
+  if (!suppressAuthor && entry.author) {
+    parts.push(formatAuthor(entry.author) + ".");
+  }
+
+  if (entry.type === "article") {
+    let ref = `"${entry.title}." <em>${entry.journal}</em> ${entry.volume}`;
+    if (entry.number) ref += `, no. ${entry.number}`;
+    ref += ` (${entry.year}): ${entry.pages}.`;
+    parts.push(ref);
+  } else if (entry.type === "incollection") {
+    let ref = `"${entry.title}." In <em>${entry.booktitle}</em>`;
+    if (entry.editor) ref += `, ed. ${entry.editor}`;
+    ref += `. ${entry.publisher}, ${entry.year}`;
+    if (entry.pages) ref += `, ${entry.pages}`;
+    ref += ".";
+    parts.push(ref);
+  } else if (entry.type === "phdthesis") {
+    parts.push(
+      `"${entry.title}." PhD diss., ${entry.school}, ${entry.year}.`
+    );
+  }
+
+  return parts.join(" ");
+}
+
+async function citeShortcode(key, options = {}) {
+  const entries = await getBibEntries();
+  const entry = entries[key];
+  if (!entry) {
+    console.warn(`[cite] No bib entry found for key: "${key}"`);
+    return `<a href="/resources/">[missing citation: ${key}]</a>`;
+  }
+  return `<a href="/resources/#${key}">${formatCitation(entry, options)}</a>`;
 }
 
 // Resolve hashed asset paths from Vite's manifest.json
