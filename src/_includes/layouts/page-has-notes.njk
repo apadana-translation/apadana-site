@@ -2,14 +2,13 @@
 layout: default
 ---
 
-<poem-sidenotes></poem-sidenotes>
 <article class="page has-notes" itemscope itemtype="http://schema.org/Article">
   <header class="page__header">
     <h1 class="page__title" itemprop="name">{{ title }}</h1>
   </header>
-  <div class="page__content" itemprop="articleBody">
+  <with-sidenotes class="page__content" itemprop="articleBody">
     {{ content | safe }}
-  </div>
+  </with-sidenotes>
   <span itemprop="author" itemscope itemtype="http://schema.org/Person">
     <meta itemprop="name" content="Jonathan S. Walters">
   </span>

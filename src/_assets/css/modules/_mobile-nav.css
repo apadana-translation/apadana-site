@@ -47,7 +47,7 @@
     }
 
     &:hover,
-    &:focus {
+    &:focus-visible {
       color: var(--color-light);
       background-color: var(--color-highlight);
     }
@@ -76,7 +76,7 @@
     color: var(--color-dark);
     background-color: var(--color-light);
 
-    &:hover, &:focus {
+    &:hover, &:focus-visible {
       color: var(--color-light);
       background-color: var(--color-highlight);
     }

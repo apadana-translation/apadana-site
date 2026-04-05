@@ -1,9 +1,6 @@
-class PoemSidenotes extends HTMLElement {
+class WithSidenotes extends HTMLElement {
   connectedCallback() {
-    const postContainer = document.querySelector('.poem .poem__content, .has-notes');
-    if (!postContainer) return;
-
-    const footnoteContainer = postContainer.querySelector('.footnotes');
+    const footnoteContainer = this.querySelector('.footnotes');
     if (!footnoteContainer) return;
 
     const footnotes = footnoteContainer.querySelectorAll(':scope > ol > li');
@@ -14,18 +11,18 @@ class PoemSidenotes extends HTMLElement {
     footnotes.forEach(footnoteEl => {
       const footnoteID = footnoteEl.id;
       const escapedID = CSS.escape(footnoteID);
-      const refAnchor = postContainer.querySelector(`a[href='#${escapedID}']`);
+      const refAnchor = this.querySelector(`a[href='#${escapedID}']`);
       if (!refAnchor) return;
 
       const refSup = refAnchor.parentElement?.tagName === 'SUP' ? refAnchor.parentElement : null;
       const refMark = refSup || refAnchor;
 
-      // Walk up to find the first element that is a direct child of postContainer
+      // Walk up to find the first element that is a direct child of this element
       let pivot = refMark;
-      while (pivot.parentElement && pivot.parentElement !== postContainer) {
+      while (pivot.parentElement && pivot.parentElement !== this) {
         pivot = pivot.parentElement;
       }
-      if (!pivot || pivot === postContainer) return;
+      if (!pivot || pivot === this) return;
 
       const ref = refCounter++;
       const sidenoteID = footnoteID.replace(/^f/, 's');
@@ -47,7 +44,7 @@ class PoemSidenotes extends HTMLElement {
       refAnchor.href = `#${sidenoteID}`;
 
       // Insert before the pivot paragraph
-      postContainer.insertBefore(aside, pivot);
+      this.insertBefore(aside, pivot);
 
       // Hide the original footnote list item
       footnoteEl.hidden = true;
@@ -55,7 +52,7 @@ class PoemSidenotes extends HTMLElement {
 
     // Hide the footnotes section and its separator
     footnoteContainer.hidden = true;
-    const sep = postContainer.querySelector('.footnotes-sep');
+    const sep = this.querySelector('.footnotes-sep');
     if (sep) sep.hidden = true;
 
     // Show/hide based on viewport width
@@ -65,17 +62,20 @@ class PoemSidenotes extends HTMLElement {
 
   _updateVisibility() {
     const show = window.matchMedia('(min-width: 880px)').matches;
-    document.querySelectorAll('aside.sidenote').forEach(aside => {
+    this.querySelectorAll('aside.sidenote').forEach(aside => {
       aside.hidden = !show;
     });
     // Also restore footnote container visibility on small screens
-    const footnoteContainer = document.querySelector('.poem .poem__content .footnotes, .has-notes .footnotes');
+    const footnoteContainer = this.querySelector('.footnotes');
     if (footnoteContainer) {
       footnoteContainer.hidden = show;
-      const sep = footnoteContainer.parentElement?.querySelector('.footnotes-sep');
+      footnoteContainer.querySelectorAll(':scope > ol > li').forEach(li => {
+        li.hidden = show;
+      });
+      const sep = this.querySelector('.footnotes-sep');
       if (sep) sep.hidden = show;
     }
   }
 }
 
-customElements.define('poem-sidenotes', PoemSidenotes);
+customElements.define('with-sidenotes', WithSidenotes);

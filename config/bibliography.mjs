@@ -189,7 +189,7 @@ export async function bibliographyShortcode() {
       ? ` [<svg width="20" height="20" class="icon-pdf"><use xlink:href="#icon-pdf"></use></svg><a href="${pdfUrl}"><span class="abbr">PDF</span></a>]`
       : "";
 
-    return `  <li>${citation}${pdfLink}</li>`;
+    return `  <li id="${key}">${citation}${pdfLink}</li>`;
   });
 
   return `<ol class="bibliography">\n${items.join("\n")}\n</ol>`;
