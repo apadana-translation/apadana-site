@@ -19,9 +19,7 @@
     "email": "dana@danajohnson.co"
   },
   "browserslist": [
-    "last 2 years",
-    "not dead",
-    "> 0.5%"
+    "baseline widely available"
   ],
   "scripts": {
     "clean": "rm -rf dist",
