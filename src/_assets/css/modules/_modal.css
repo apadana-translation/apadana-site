@@ -1,43 +1,54 @@
 .modal {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: transparent;
   opacity: 0;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 0;
-  height: 0;
-  transform: translateZ(0);
-  transition: opacity .4s ease-out;
-  z-index: 99998;
+  transition:
+    opacity 0.4s ease-out,
+    display 0.4s ease-out allow-discrete,
+    overlay 0.4s ease-out allow-discrete;
 
-  body[modal-state="is-open"] & {
+  &[open] {
     opacity: 1;
-    width: 100%;
-    height: 100%;
+
+    @starting-style {
+      opacity: 0;
+    }
+  }
+
+  &::backdrop {
+    background-color: rgba(255, 255, 255, 0);
+    transition:
+      background-color 0.4s ease-out,
+      display 0.4s ease-out allow-discrete,
+      overlay 0.4s ease-out allow-discrete;
+  }
+
+  &[open]::backdrop {
     background-color: rgba(255, 255, 255, 0.99);
-    transition: background-color 0.4s ease-out;
-    overflow-y: scroll;
-    z-index: 99999;
+
+    @starting-style {
+      background-color: rgba(255, 255, 255, 0);
+    }
   }
 }
 
 .modal__container {
-  opacity: 0;
-  /* from .container */
-  display: block;
-  max-width: var(--container-width);
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.modal__inner {
+  max-width: 38rem;
   margin-left: auto;
   margin-right: auto;
   padding: 2rem 1rem;
-  overflow: auto;
-  /* own properties */
-  max-width: 38rem;
-  padding: 0;
-  transition: opacity .4s .2s ease-out;
-
-  body[modal-state="is-open"] & {
-    opacity: 1;
-    padding: 2rem 1rem;
-  }
 }
 
 .modal__toggle {
@@ -51,10 +62,6 @@
   cursor: pointer;
 }
 
-body[modal-state="is-open"] {
-  /* overflow-y: hidden; */
-
-  .header--poem, .mobile-nav {
-    z-index: 0;
-  }
+body:has(.modal[open]) {
+  overflow: hidden;
 }
