@@ -150,7 +150,7 @@ Březina, and [Skolar Sans][4], designed by David Březina and Sláva Jevčinov�
 
 The poems and other pages on the site are encoded in [Markdown][5], a minimal
 plain-text syntax that offers durability and flexibility for distribution.[^3]
-We use [Jekyll][6] to generate the website and [Pandoc][7] to convert the
+We use [Eleventy][6] to generate the website and [Pandoc][7] to convert the
 text files to <span class="abbr">HTML</span>, ePub, and <span class="abbr">PDF</span>. The codebase for
 the site is available in a [public repository][10] on GitHub.[^4]
 
@@ -159,31 +159,14 @@ The text of the translation and the site’s code are made freely available to
 others to adapt and remix with attribution under a [CC-BY-NC-SA license][8].
 
 ### Browser Requirements
-This site has been designed to work across a range of devices and browsers. The
-reading interface for the translation relies on Javascript to render many of its
-features. We also recommend you use one of the following browsers:
-
-* Chrome 21.0 or higher
-* Safari 6.1 or higher
-* Firefox 18.0 or higher
-* Opera 12.10 or higher
-* Internet Explorer 11 or higher
-
-* iOS Safari 7 or higher
-* Opera Mini
-* Android browser 2.1 or higher
+This site has been designed to work across a range of devices and browsers.
+We follow the "widely available" stage of the [Baseline initiaive](https://web.dev/baseline/)
+for browser support. While much of the site is static <span class="abbr">HTML</span> and
+<span class="abbr">CSS</span>, the reading interface for the translation relies on Javascript
+to render many of its features.
 
 ## Feedback
 {% include 'feedback.md' %}
-
-## Project Roadmap
-
-  * ### v1.1.0 (Spring/Summer 2018)
-    * Build visual glossary of monks and nuns, and flora and fauna, that may be
-      unfamiliar to the reader
-    * Add additional audio recordings of poem recitations
-    * Make available additional scholarly articles and information related to
-      *Apadāna*
 
 [^1]: Mary E. Lilley, ed., *The Apadāna of the Khuddaka Nikāya* (London:
     Pali Text Society, 1925 \[Part One\] and 1927 \[Part Two\]).
@@ -210,7 +193,7 @@ can be found at [http://danajohnson.co/projects/apadana/](http://danajohnson.co/
 [3]: https://www.rosettatype.com/Skolar "Skolar"
 [4]: https://www.rosettatype.com/SkolarSans "Skolar Sans"
 [5]: https://daringfireball.net/projects/markdown/syntax "Markdown"
-[6]: https://jekyllrb.com/ "Jekyll"
+[6]: https://www.11ty.dev/ "Eleventy"
 [7]: http://pandoc.org/index.html "Pandoc"
 [8]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [9]: https://www.whitman.edu/ "Whitman College"
