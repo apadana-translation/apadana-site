@@ -1,11 +1,14 @@
-class PoemModal extends HTMLElement {
+class ModalDialog extends HTMLElement {
   connectedCallback() {
+    const dialog = this.querySelector('dialog');
+    if (!dialog) return;
+
     document.addEventListener('click', (e) => {
-      if (!e.target.closest('.modal-open') && !e.target.closest('#modal-close')) return;
-      const state = document.body.getAttribute('modal-state');
-      document.body.setAttribute('modal-state', state === 'is-open' ? 'is-closed' : 'is-open');
+      if (e.target.closest('.modal-open')) {
+        dialog.showModal();
+      }
     });
   }
 }
 
-customElements.define('poem-modal', PoemModal);
+customElements.define('modal-dialog', ModalDialog);

@@ -1,15 +1,20 @@
-<poem-modal></poem-modal>
-<div id="feedback" class="modal" role="dialog" aria-hidden="true">
-	<div class="modal__container">
-    <div class="modal__header">
-      <button id="modal-close" class="modal__toggle">
-        <svg width="20" height="20" class="icon-close"><use xlink:href="#icon-close"></use></svg>
-        Close
-      </button>
+<modal-dialog>
+  <dialog id="feedback" class="modal" aria-labelledby="feedback-heading">
+    <div class="modal__container">
+      <div class="modal__inner">
+        <div class="modal__header">
+          <form method="dialog">
+            <button class="modal__toggle">
+              <svg width="20" height="20" class="icon-close"><use xlink:href="#icon-close"></use></svg>
+              Close
+            </button>
+          </form>
+        </div>
+        <div class="modal__content">
+          <h2 id="feedback-heading">Feedback</h2>
+          {% renderFile "./src/_includes/feedback.md" %}
+        </div>
+      </div>
     </div>
-    <div class="modal__content">
-			<h2>Feedback</h2>
-			{% renderFile "./src/_includes/feedback.md" %}
-    </div>
-  </div>
-</div>
+  </dialog>
+</modal-dialog>
