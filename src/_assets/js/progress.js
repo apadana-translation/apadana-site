@@ -1,27 +1,29 @@
 class ReadingProgress extends HTMLElement {
   connectedCallback() {
-    const poem = document.querySelector('article.poem');
-    if (!poem) return;
+    const article = this.closest('main')?.querySelector('article.poem');
+    if (!article) return;
 
     const circle = this.querySelector('.animated-circle');
     const counter = this.querySelector('.progress__count');
-    const progressBar = document.querySelector('progress');
 
     const update = () => {
-      const max = Math.max(1, poem.offsetHeight - window.innerHeight);
-      const value = window.scrollY;
+      const max = Math.max(1, article.offsetHeight - window.innerHeight);
+      const perc = Math.max(0, Math.min(1, window.scrollY / max));
 
-      if (progressBar) {
-        progressBar.max = max;
-        progressBar.value = value;
-      }
-
-      const perc = Math.max(0, Math.min(1, value / max));
       if (circle) circle.style.strokeDashoffset = 126 * (1 - perc);
       if (counter) counter.textContent = Math.round(perc * 100) + '%';
     };
 
-    window.addEventListener('scroll', update, { passive: true });
+    let rafId = null;
+    const onScroll = () => {
+      if (rafId !== null) return;
+      rafId = requestAnimationFrame(() => {
+        rafId = null;
+        update();
+      });
+    };
+
+    window.addEventListener('scroll', onScroll, { passive: true });
     update();
   }
 }

@@ -1,12 +1,34 @@
 class PoemNavigation extends HTMLElement {
   connectedCallback() {
     this._initTabs();
-    this._initMobileScroll();
+    this._initProgressBar();
+  }
+
+  _initProgressBar() {
+    const bar = this.querySelector('progress');
+    if (!bar) return;
+
+    const update = () => {
+      const doc = document.documentElement;
+      bar.max = Math.max(1, doc.scrollHeight - window.innerHeight);
+      bar.value = window.scrollY;
+    };
+
+    let rafId = null;
+    const onScroll = () => {
+      if (rafId !== null) return;
+      rafId = requestAnimationFrame(() => {
+        rafId = null;
+        update();
+      });
+    };
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+    update();
   }
 
   _initTabs() {
-    // Toggle radio off when clicking an already-checked label
-    document.querySelectorAll('.tab__label, .chapter').forEach(label => {
+    this.querySelectorAll('.tab__label, .chapter').forEach(label => {
       label.addEventListener('click', (e) => {
         const input = label.previousElementSibling;
         if (input && input.type === 'radio' && input.checked) {
@@ -16,10 +38,10 @@ class PoemNavigation extends HTMLElement {
       });
     });
 
-    const tabNavigation = document.getElementById('tabNavigation');
-    const tabTools = document.getElementById('tabTools');
-    const tabGroupNavigation = document.getElementById('tabGroupNavigation');
-    const tabGroupTools = document.getElementById('tabGroupTools');
+    const tabNavigation = this.querySelector('#tabNavigation');
+    const tabTools = this.querySelector('#tabTools');
+    const tabGroupNavigation = this.querySelector('#tabGroupNavigation');
+    const tabGroupTools = this.querySelector('#tabGroupTools');
 
     const setTab = (el, state) => el && el.setAttribute('data-tab', state);
     const toggleTab = (el, on, off) => {
@@ -39,7 +61,6 @@ class PoemNavigation extends HTMLElement {
       toggleTab(tabGroupTools, 'on', 'off');
     });
 
-    // Selecting a radio in one tab group unchecks the other
     tabGroupNavigation?.querySelectorAll('input[type=radio]').forEach(input => {
       input.addEventListener('click', () => {
         tabGroupTools?.querySelectorAll('input[type=radio]').forEach(r => { r.checked = false; });
@@ -52,43 +73,14 @@ class PoemNavigation extends HTMLElement {
       });
     });
 
-    // Chapters 3 and 4 are mutually exclusive
-    document.querySelector('label[for=chapter-3]')?.addEventListener('click', () => {
-      const ch4 = document.querySelector('input#chapter-4');
+    this.querySelector('label[for=chapter-3]')?.addEventListener('click', () => {
+      const ch4 = this.querySelector('input#chapter-4');
       if (ch4) ch4.checked = false;
     });
-    document.querySelector('label[for=chapter-4]')?.addEventListener('click', () => {
-      const ch3 = document.querySelector('input#chapter-3');
+    this.querySelector('label[for=chapter-4]')?.addEventListener('click', () => {
+      const ch3 = this.querySelector('input#chapter-3');
       if (ch3) ch3.checked = false;
     });
-  }
-
-  _initMobileScroll() {
-    const navBar = document.querySelector('.header--poem');
-    const pagination = document.querySelector('.mobile-pagination');
-    if (!navBar || !pagination) return;
-
-    let lastScrollTop = 0;
-    const delta = 5;
-    let didScroll = false;
-
-    window.addEventListener('scroll', () => { didScroll = true; }, { passive: true });
-
-    setInterval(() => {
-      if (!didScroll) return;
-      didScroll = false;
-      const st = window.scrollY;
-      if (Math.abs(lastScrollTop - st) <= delta) return;
-
-      if (st > lastScrollTop && st > navBar.offsetHeight) {
-        pagination.classList.remove('nav-show');
-        pagination.classList.add('nav-below');
-      } else if (st + window.innerHeight < document.documentElement.scrollHeight) {
-        pagination.classList.remove('nav-below');
-        pagination.classList.add('nav-show');
-      }
-      lastScrollTop = st;
-    }, 125);
   }
 }
 

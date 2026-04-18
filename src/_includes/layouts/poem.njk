@@ -9,31 +9,33 @@
     {% include 'head/analytics--noscript.njk' %}
     {% include 'svg-sprite.njk' %}
 
-    <div class="content" id="content">
-      {% include 'poem/header.njk' %}
-      {% include 'mobile.njk' %}
-      <main role="main" id="poem">
-        <div class="container flex">
-          {% include 'poem/meta.njk' %}
-          <article class="poem" itemscope itemtype="http://schema.org/Article">
-            <meta itemprop="name" content="{{ title }}">
-            <with-sidenotes id="poem-content" class="poem__content" itemprop="articleBody">
-              {{ content | safe }}
-            </with-sidenotes>
-            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-              <meta itemprop="name" content="Jonathan S. Walters">
-            </span>
-            {% if page.date %}<meta itemprop="dateModified" content="{{ page.date }}">{% endif %}
-          </article>
-          {% include 'feedback-modal.njk' %}
-        </div>
-      </main>
-      {% include 'site/footer.njk' %}
-    </div>
-
-    <poem-toggles></poem-toggles>
-    <poem-audio></poem-audio>
-    <to-top-button></to-top-button>
+    <poem-toggles>
+    <poem-audio>
+    <to-top-button>
+      <div class="content" id="content">
+        {% include 'poem/header.njk' %}
+        {% include 'mobile.njk' %}
+        <main role="main" id="poem">
+          <div class="container flex">
+            {% include 'poem/meta.njk' %}
+            <article class="poem" itemscope itemtype="http://schema.org/Article">
+              <meta itemprop="name" content="{{ title }}">
+              <with-sidenotes id="poem-content" class="poem__content" itemprop="articleBody">
+                {{ content | safe }}
+              </with-sidenotes>
+              <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                <meta itemprop="name" content="Jonathan S. Walters">
+              </span>
+              {% if page.date %}<meta itemprop="dateModified" content="{{ page.date }}">{% endif %}
+            </article>
+            {% include 'feedback-modal.njk' %}
+          </div>
+        </main>
+        {% include 'site/footer.njk' %}
+      </div>
+    </to-top-button>
+    </poem-audio>
+    </poem-toggles>
 
     <script src="{% asset 'main.js' %}"></script>
 

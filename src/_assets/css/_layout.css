@@ -35,3 +35,11 @@ aside {
   position: relative;
   vertical-align: top;
 }
+
+poem-navigation,
+meta-scroll,
+poem-toggles,
+poem-audio,
+to-top-button {
+  display: contents;
+}

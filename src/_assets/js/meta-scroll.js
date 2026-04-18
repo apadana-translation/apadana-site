@@ -1,14 +1,13 @@
 class MetaScroll extends HTMLElement {
   connectedCallback() {
-    if (!document.querySelector('#poem')) return;
-    if (!window.matchMedia('(min-width: 880px)').matches) return;
-
-    const container = document.querySelector('.poem__meta');
-    const inner = document.querySelector('.meta-inner');
+    const container = this.querySelector('.poem__meta');
+    const inner = this.querySelector('.meta-inner');
     if (!container || !inner) return;
 
+    const mq = window.matchMedia('(min-width: 880px)');
+
     const update = () => {
-      if (!window.matchMedia('(min-width: 880px)').matches) return;
+      if (!mq.matches) return;
       const containerTop = container.getBoundingClientRect().top + window.scrollY;
       const containerBottom = containerTop + container.offsetHeight;
       const innerBottom = inner.offsetHeight + containerTop;
