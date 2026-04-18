@@ -1,8 +1,6 @@
 class ToTopButton extends HTMLElement {
   connectedCallback() {
-    if (!document.querySelector('#poem')) return;
-
-    const sidebarBtn = document.querySelector('.poem__meta .to-top');
+    const sidebarBtn = this.querySelector('.poem__meta .to-top');
     if (sidebarBtn) {
       sidebarBtn.style.display = 'none';
       window.addEventListener('scroll', () => {
@@ -10,7 +8,7 @@ class ToTopButton extends HTMLElement {
       }, { passive: true });
     }
 
-    document.querySelectorAll('.to-top').forEach(el => {
+    this.querySelectorAll('.to-top').forEach(el => {
       el.addEventListener('click', (e) => {
         e.preventDefault();
         window.scrollTo({ top: 0, behavior: 'smooth' });

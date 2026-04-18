@@ -1,12 +1,12 @@
 class PoemToggles extends HTMLElement {
   connectedCallback() {
-    if (!document.querySelector('#poem')) return;
+    if (!this.querySelector('#poem')) return;
     this._tagDOM();
     this._initToggles();
   }
 
   _tagDOM() {
-    const poemContent = document.querySelector('#poem-content');
+    const poemContent = this.querySelector('#poem-content');
     if (!poemContent) return;
 
     const brackets = /(\[)([a-zA-Z\s_.,;!""'']+)(\])/g;
@@ -34,7 +34,7 @@ class PoemToggles extends HTMLElement {
 
   _initToggles() {
     const setAttr = (selector, attr, value) => {
-      document.querySelectorAll(selector).forEach(el => el.setAttribute(attr, value));
+      this.querySelectorAll(selector).forEach(el => el.setAttribute(attr, value));
     };
 
     const bindToggle = (buttonEl, selectors, onState, offState) => {
@@ -57,11 +57,11 @@ class PoemToggles extends HTMLElement {
       });
     };
 
-    const toggleNotes = document.querySelector('#toggle--notes');
-    const toggleBrackets = document.querySelector('#toggle--brackets');
-    const toggleVerseNumbers = document.querySelector('#toggle--verse-numbers');
-    const toggleDiacritics = document.querySelector('#toggle--diacritics');
-    const toggleAll = document.querySelector('#toggle--all');
+    const toggleNotes = this.querySelector('#toggle--notes');
+    const toggleBrackets = this.querySelector('#toggle--brackets');
+    const toggleVerseNumbers = this.querySelector('#toggle--verse-numbers');
+    const toggleDiacritics = this.querySelector('#toggle--diacritics');
+    const toggleAll = this.querySelector('#toggle--all');
 
     bindToggle(toggleNotes, ['aside.sidenote', 'a.footnoteRef'], 'on', 'off');
     bindToggle(toggleBrackets, 'span.bracket', 'on', 'off');
@@ -71,7 +71,6 @@ class PoemToggles extends HTMLElement {
     // Diacritics toggle inverts two selectors independently
     const toggleDiacriticsEl = toggleDiacritics?.querySelector(':scope > input[type=checkbox]');
     if (toggleDiacriticsEl) {
-      // Remove the binding from bindToggle for diacritics since it needs split logic
       const newCheckbox = toggleDiacriticsEl.cloneNode(true);
       toggleDiacriticsEl.replaceWith(newCheckbox);
       newCheckbox.addEventListener('change', () => {
@@ -80,10 +79,9 @@ class PoemToggles extends HTMLElement {
       });
     }
 
-    // Master toggle
     if (toggleAll) {
       const masterCheckbox = toggleAll.querySelector(':scope > input[type=checkbox]');
-      const switches = document.querySelectorAll('.switch:not(.switch--master)');
+      const switches = this.querySelectorAll('.switch:not(.switch--master)');
 
       masterCheckbox?.addEventListener('change', () => {
         switches.forEach(sw => {

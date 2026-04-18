@@ -9,20 +9,22 @@ function formatTime(seconds) {
 
 class PoemAudio extends HTMLElement {
   connectedCallback() {
-    const audioEl = document.getElementById('html5-audio');
+    const audioEl = this.querySelector('#html5-audio');
     if (!audioEl) return;
 
-    const timeline = document.getElementById('audio-timeline');
-    const playhead = document.getElementById('audio-playhead');
+    const timeline = this.querySelector('#audio-timeline');
+    const playhead = this.querySelector('#audio-playhead');
+    const durationEl = this.querySelector('#audio-duration');
+    const circle = this.querySelector('#audio-progress .animated-circle');
 
     const setPlayState = (playing) => {
-      document.querySelectorAll('.audio-control').forEach(btn => {
+      this.querySelectorAll('.audio-control').forEach(btn => {
         btn.classList.toggle('is-playing', playing);
         btn.classList.toggle('is-paused', !playing);
       });
     };
 
-    document.querySelectorAll('.audio-control').forEach(btn => {
+    this.querySelectorAll('.audio-control').forEach(btn => {
       btn.addEventListener('click', (e) => {
         e.preventDefault();
         if (!audioEl.paused) {
@@ -35,14 +37,13 @@ class PoemAudio extends HTMLElement {
       });
     });
 
-    document.querySelectorAll('.audio-rewind').forEach(btn => {
+    this.querySelectorAll('.audio-rewind').forEach(btn => {
       btn.addEventListener('click', (e) => {
         e.preventDefault();
         audioEl.currentTime = Math.max(0, audioEl.currentTime - 10);
       });
     });
 
-    const durationEl = document.getElementById('audio-duration');
     const writeDuration = () => {
       if (durationEl && !isNaN(audioEl.duration)) {
         durationEl.textContent = formatTime(audioEl.duration);
@@ -69,10 +70,7 @@ class PoemAudio extends HTMLElement {
 
     audioEl.addEventListener('timeupdate', () => {
       const percent = Math.max(0, Math.min(1, audioEl.currentTime / audioEl.duration));
-
-      const circle = document.querySelector('#audio-progress .animated-circle');
       if (circle) circle.style.strokeDashoffset = 126 * (1 - percent);
-
       if (playhead) playhead.style.marginLeft = (percent * 100) + '%';
     });
   }
