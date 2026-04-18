@@ -40,6 +40,7 @@ poem-navigation,
 meta-scroll,
 poem-toggles,
 poem-audio,
-to-top-button {
+to-top-button,
+social-share {
   display: contents;
 }

@@ -442,38 +442,39 @@
   }
 }
 
-.tab {
-  /* from %radio-for-dropdown--light (which includes %radio-for-dropdown) */
-  display: none;
+.tab__label {
+  cursor: pointer;
+  display: block;
+  flex: 1;
+  padding: 1em;
+  text-align: center;
+  user-select: none;
+  color: var(--color-dark);
+  background-color: var(--color-light);
 
-  & + label {
-    cursor: pointer;
-    display: block;
-    flex: 1;
-    padding: 1em;
-    text-align: center;
-    user-select: none;
-  }
-
-  &:checked + label {
+  &:hover, &:focus-visible {
     color: var(--color-light);
     background-color: var(--color-highlight);
   }
 
-  & + label {
-    color: var(--color-dark);
-    background-color: var(--color-light);
+  @media (min-width: 70em) {
+    color: var(--color-light);
+    background-color: var(--color-dark);
+  }
+}
 
-    &:hover, &:focus-visible {
-      color: var(--color-light);
-      background-color: var(--color-highlight);
-    }
+button.tab__label {
+  border: 0;
+  font: inherit;
+}
 
-    @media (min-width: 70em) {
-      flex: 1;
-      color: var(--color-light);
-      background-color: var(--color-dark);
-    }
+.tab {
+  /* from %radio-for-dropdown--light (which includes %radio-for-dropdown) */
+  display: none;
+
+  &:checked + label {
+    color: var(--color-light);
+    background-color: var(--color-highlight);
   }
 
   /* unrolled @for $i from 1 through 4 */

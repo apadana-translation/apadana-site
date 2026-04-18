@@ -16,11 +16,7 @@
   <span class="tab__title">Download</span>
 </label>
 
-<input type="radio" id="tab8" name="tabGroup2" class="tab">
-<label for="tab8" class="tab__label" title="Share" aria-label="View Share Options">
-  <svg width="20" height="20" class="icon-share"><use xlink:href="#icon-share"></use></svg>
-  <span class="tab__title">Share</span>
-</label>
+{% include 'tab/share.njk' %}
 
 <div id="tab-toggles" class="tab__content">
   {% include 'tab/toggles.njk' %}
@@ -30,7 +26,4 @@
 </div>
 <div id="tab-download" class="tab__content">
   {% include 'tab/download.njk' %}
-</div>
-<div id="tab-share" class="tab__content">
-  {% include 'tab/share.njk' %}
 </div>
