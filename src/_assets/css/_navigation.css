@@ -377,28 +377,6 @@
 /* ===================================
    Poem Navigation
    =================================== */
-.menu {
-  /* from %radio-for-dropdown--dark (which includes %radio-for-dropdown) */
-  display: none;
-
-  & + label {
-    cursor: pointer;
-    display: block;
-    flex: 1;
-    padding: 1em;
-    text-align: center;
-    user-select: none;
-
-    &:hover, &:focus-visible {
-      color: var(--color-highlight);
-    }
-  }
-
-  &:checked + label {
-    color: var(--color-highlight);
-  }
-}
-
 .tab-group {
   /* from %dropdown */
   opacity: 0;
@@ -414,7 +392,7 @@
   color: var(--color-dark);
   background-color: var(--color-light);
 
-  &[data-tab=on] {
+  &[data-open="true"] {
     /* from %dropdown-is-open */
     opacity: 1;
     position: relative;
@@ -444,13 +422,18 @@
 
 .tab__label {
   cursor: pointer;
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
   flex: 1;
   padding: 1em;
   text-align: center;
-  user-select: none;
+  line-height: 1;
+  font: inherit;
   color: var(--color-dark);
   background-color: var(--color-light);
+  border: 0;
 
   &:hover, &:focus-visible {
     color: var(--color-light);
@@ -463,77 +446,28 @@
   }
 }
 
-button.tab__label {
-  border: 0;
-  font: inherit;
+.tab-group .tab__label[aria-expanded="true"] {
+  color: var(--color-light);
+  background-color: var(--color-highlight);
 }
 
-.tab {
-  /* from %radio-for-dropdown--light (which includes %radio-for-dropdown) */
-  display: none;
+.top-bar .tab__label {
+  color: inherit;
+  background-color: transparent;
 
-  &:checked + label {
-    color: var(--color-light);
-    background-color: var(--color-highlight);
+  &:hover, &:focus-visible {
+    color: var(--color-highlight);
+    background-color: transparent;
   }
 
-  /* unrolled @for $i from 1 through 4 */
-  &:checked:nth-of-type(1) ~ .tab__content:nth-of-type(1) {
-    /* from %dropdown-is-open */
-    opacity: 1;
-    position: relative;
-    top: 0;
-    transform: translateY(0px);
-
-    @media (min-width: 70em) {
-      position: absolute;
-      top: var(--header-height);
-    }
-  }
-
-  &:checked:nth-of-type(2) ~ .tab__content:nth-of-type(2) {
-    /* from %dropdown-is-open */
-    opacity: 1;
-    position: relative;
-    top: 0;
-    transform: translateY(0px);
-
-    @media (min-width: 70em) {
-      position: absolute;
-      top: var(--header-height);
-    }
-  }
-
-  &:checked:nth-of-type(3) ~ .tab__content:nth-of-type(3) {
-    /* from %dropdown-is-open */
-    opacity: 1;
-    position: relative;
-    top: 0;
-    transform: translateY(0px);
-
-    @media (min-width: 70em) {
-      position: absolute;
-      top: var(--header-height);
-    }
-  }
-
-  &:checked:nth-of-type(4) ~ .tab__content:nth-of-type(4) {
-    /* from %dropdown-is-open */
-    opacity: 1;
-    position: relative;
-    top: 0;
-    transform: translateY(0px);
-
-    @media (min-width: 70em) {
-      position: absolute;
-      top: var(--header-height);
-    }
+  &[aria-expanded="true"] {
+    color: var(--color-highlight);
+    background-color: transparent;
   }
 }
 
 .tab__title {
   display: none;
-  margin-left: 0.25rem;
   font-size: 0.75rem;
 
   @media (min-width: 44em) {
@@ -566,6 +500,19 @@ button.tab__label {
 
   & > * {
     width: 100%;
+  }
+
+  &[data-open="true"] {
+    /* from %dropdown-is-open */
+    opacity: 1;
+    position: relative;
+    top: 0;
+    transform: translateY(0px);
+
+    @media (min-width: 70em) {
+      position: absolute;
+      top: var(--header-height);
+    }
   }
 }
 

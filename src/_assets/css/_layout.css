@@ -41,6 +41,7 @@ meta-scroll,
 poem-toggles,
 poem-audio,
 to-top-button,
-social-share {
+social-share,
+nav-menu {
   display: contents;
 }
