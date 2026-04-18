@@ -1,3 +1,4 @@
+import './nav-menu.js';
 import './navigation.js';
 import './share.js';
 import './modal.js';

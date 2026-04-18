@@ -1,29 +1,26 @@
-<input type="radio" id="tab5" name="tabGroup2" class="tab">
-<label for="tab5" class="tab__label" title="Text Features" aria-label="View Text Features">
+<button type="button" class="tab__label" aria-controls="tab-toggles" aria-expanded="false" title="Text Features">
   <svg width="20" height="20" class="icon-multiple-pages"><use xlink:href="#icon-multiple-pages"></use></svg>
   <span class="tab__title">Features</span>
-</label>
+</button>
 
-<input type="radio" id="tab6" name="tabGroup2" class="tab">
-<label for="tab6" class="tab__label" title="Search" aria-label="View Search Bar">
+<button type="button" class="tab__label" aria-controls="tab-search" aria-expanded="false" title="Search">
   <svg width="20" height="20" class="icon-search"><use xlink:href="#icon-search"></use></svg>
   <span class="tab__title">Search</span>
-</label>
+</button>
 
-<input type="radio" id="tab7" name="tabGroup2" class="tab">
-<label for="tab7" class="tab__label" title="Download" aria-label="View Download Options">
+<button type="button" class="tab__label" aria-controls="tab-download" aria-expanded="false" title="Download">
   <svg width="20" height="20" class="icon-download"><use xlink:href="#icon-download"></use></svg>
   <span class="tab__title">Download</span>
-</label>
+</button>
 
 {% include 'tab/share.njk' %}
 
-<div id="tab-toggles" class="tab__content">
+<div id="tab-toggles" class="tab__content" data-open="false">
   {% include 'tab/toggles.njk' %}
 </div>
-<div id="tab-search" class="tab__content search">
+<div id="tab-search" class="tab__content search" data-open="false">
   {% include 'tab/search.njk' %}
 </div>
-<div id="tab-download" class="tab__content">
+<div id="tab-download" class="tab__content" data-open="false">
   {% include 'tab/download.njk' %}
 </div>
