@@ -1,12 +1,13 @@
-% Set main font to Skolar PE from _assets/fonts folder
+% Set main font to Skolar PE from src/_assets/fonts (path is relative to the
+% project root, where config/pandoc/job.mjs runs pandoc)
 \setmainfont [
-  Path = _assets/fonts/,
-  Extension = .otf,
+  Path = src/_assets/fonts/,
+  Extension = .ttf,
   UprightFont = *-Regular,
   BoldFont = *-Bold,
   ItalicFont = *-Italic,
   BoldItalicFont = *-BoldItalic
-] {SkolarPE}
+] {SkolarPEWeb}
 
 % Set page header
 % adapted from https://github.com/edsl/endefensadelsl.org/blob/queue/src/layouts/header.tex

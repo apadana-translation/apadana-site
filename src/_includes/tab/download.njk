@@ -8,11 +8,11 @@
 <section class="tab__primary-content">
   <p>
     <svg width="20" height="20" class="icon--large icon-pdf"><use xlink:href="#icon-pdf"></use></svg>
-    <a href="{{ page.url | replace(page.fileSlug ~ '/', page.fileSlug ~ '.pdf') }}" download="walters_{{ site.title | slug }}_{{ title | slug }}.pdf" download="{{ chapter }}{{ title }}.pdf" class="button">Download <span class="abbr">PDF</span></a>
+    <a href="{{ page.url | replace(page.fileSlug ~ '/', page.fileSlug ~ '.pdf') }}" download="{{ chapter }}{{ title }}.pdf" class="button">Download <span class="abbr">PDF</span></a>
   </p>
   <p>
     <svg width="20" height="20" class="icon--large icon-book-open"><use xlink:href="#icon-book-open"></use></svg>
-    <a href="{{ page.url | replace(page.fileSlug ~ '/', page.fileSlug ~ '.epub') }}" download="walters_{{ site.title | slug }}_{{ title | slug }}.epub" download="{{ chapter }}{{ title }}.epub" class="button">Download ePub</a>
+    <a href="{{ page.url | replace(page.fileSlug ~ '/', page.fileSlug ~ '.epub') }}" download="{{ chapter }}{{ title }}.epub" class="button">Download ePub</a>
   </p>
 </section>
 
