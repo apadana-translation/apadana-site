@@ -101,7 +101,9 @@ async function assetShortcode(name) {
   try {
     const data = await readFile(manifestPath, { encoding: "utf8" });
     const manifest = JSON.parse(data);
-    const entry = Object.values(manifest).find((v) => v.isEntry);
+    const entry = Object.values(manifest).find(
+      (v) => v.isEntry && v.src?.endsWith("main.js"),
+    );
     if (!entry) return `/assets/${name}`;
     if (name === "main.js") return "/" + entry.file;
     if (name === "main.css") return "/" + (entry.css?.[0] ?? name);
