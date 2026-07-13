@@ -67,7 +67,3 @@ The `jsonify_markdown` Nunjucks filter renders Markdown to HTML then strips tags
 ### Site Data
 
 Global site metadata is in `src/_data/site.json`. Navigation structure is in `src/_data/navigation.json`.
-
-### Deployment
-
-The `s3_website.yml` suggests S3/CloudFront deployment. The `admin/` directory (passed through to dist) contains a Netlify CMS config.

@@ -1,12 +1,18 @@
 backend:
-  name: git-gateway
-  branch: netlify-cms
+  name: github
+  repo: apadana-translation/apadana-site
+  branch: v2
+  auth_scope: public_repo
   commit_messages:
     create: Create {{path}}
     update: Update {{path}}
     delete: Delete {{path}}
     uploadMedia: Upload {{path}}
     deleteMedia: Delete {{path}}
+
+# Use the local proxy (npx decap-server) when developing on localhost;
+# ignored on the deployed site.
+local_backend: true
 
 media_folder: "_assets/images"
 public_folder: "/public"
