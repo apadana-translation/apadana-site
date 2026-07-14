@@ -38,7 +38,7 @@ There are no tests in this project.
 The build pipeline has two parallel processes:
 
 1. **Vite** (`vite.config.js`) — bundles `src/_assets/main.js` (entry point that imports the site CSS and JS) into `dist/assets/`. Produces a manifest at `dist/.vite/manifest.json` used by Eleventy to resolve hashed asset filenames.
-2. **Eleventy** (`eleventy.config.mjs`) — compiles templates from `src/` into `dist/`. Input: `./src`, output: `./dist`. Passthrough-copies `admin/` and `src/public/`.
+2. **Eleventy** (`eleventy.config.mjs`) — compiles templates from `src/` into `dist/`. Input: `./src`, output: `./dist`. Passthrough-copies `src/admin/config.yml` and `src/public/`.
 
 ### Content Structure
 
@@ -83,7 +83,7 @@ Nunjucks filters: `jsonify_markdown` renders Markdown to HTML then strips tags (
 
 ### CMS
 
-Content is editable through Decap CMS at `/admin/` (configuration in `admin/config.yml`). The admin app is loaded from the unpkg CDN in `admin/index.html`, which also registers the preview styles. See the README for running the CMS against a local repository.
+Content is editable through Decap CMS at `/admin/` (configuration in `src/admin/config.yml`). The admin page is an Eleventy template (`src/admin/index.njk`) that loads the CMS app from the unpkg CDN and registers the preview styles, resolving the site stylesheet via the `asset` shortcode. See the README for running the CMS against a local repository.
 
 ### Site Data
 
