@@ -1,0 +1,23 @@
+# Netlify build: site (Vite + Eleventy) plus the PDF/EPUB downloads
+# (pandoc + typst, installed as pinned binaries by install-tools.mjs).
+#
+# Requires the FONT_CRYPT_SECRET_KEY environment variable (site settings)
+# to decrypt the licensed fonts, which are embedded in the PDFs and served
+# to the site.
+#
+# netlify-plugin-cache persists .cache/ between builds: the downloaded
+# tool binaries (.cache/bin) and the incremental pandoc output cache
+# (.cache/pandoc), so unchanged downloads are never regenerated.
+
+[build]
+  command = "yarn unpack-fonts && yarn install-tools && yarn build:all"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "24"
+
+[[plugins]]
+  package = "netlify-plugin-cache"
+
+  [plugins.inputs]
+    paths = [".cache"]

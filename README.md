@@ -8,7 +8,7 @@ This project is under active development. For questions, contact [Dana Johnson](
 
 - Node.js 24
 - Yarn 4 (via Corepack; see `packageManager` in `package.json`)
-- [Pandoc](https://pandoc.org/) and XeLaTeX (only for generating the PDF/EPUB downloads)
+- [Pandoc](https://pandoc.org/) and [Typst](https://typst.app/) (only for generating the PDF/EPUB downloads) — `yarn install-tools` downloads pinned copies into `.cache/bin`, so no system install is needed
 
 ## Setup
 
@@ -36,3 +36,7 @@ yarn build:all   # both
 ```
 
 The Pandoc build is incremental: a content-hash cache in `.cache/pandoc` skips unchanged outputs. It accepts `--format=pdf,epub`, `--kind=...`, `--slug=...`, and `--force` flags, e.g. `yarn build:pandoc --format=epub`.
+
+## Deployment
+
+Netlify runs the full build, including the PDF/EPUB downloads (see `netlify.toml`): it decrypts the fonts (`FONT_CRYPT_SECRET_KEY` must be set in the site's environment), installs the pinned Pandoc and Typst binaries, and builds the site plus downloads. `netlify-plugin-cache` persists `.cache/` between builds, so only outputs whose content changed are regenerated.

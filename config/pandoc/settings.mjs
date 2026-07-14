@@ -23,12 +23,15 @@ export const paths = {
   src: (p) => src(p),
   dist: (p) => dist(p),
   poems: src("_poems"),
-  covers: src("_assets/covers"),
+  // Single shared cover for every output, 2448x3168 (~288 DPI at US
+  // letter), rasterized from the original vector cover.pdf (in git
+  // history at a41ca35^)
+  cover: src("_assets/covers/cover.png"),
   fonts: src("_assets/fonts"),
   layouts: src("_includes/layouts"),
   epubMetadata: src("_includes/layouts/epub-metadata.xml"),
-  pdfHeader: src("_includes/layouts/pdf-header.tex"),
-  pdfFrontmatter: src("_includes/layouts/pdf-frontmatter.tex"),
+  pdfTemplate: path.join(__dirname, "template.typst"),
+  pdfFrontmatter: path.join(__dirname, "frontmatter.typ"),
   poemOut: (chapterSlug, poemSlug, ext) =>
     dist(path.join("text", chapterSlug, `${poemSlug}.${ext}`)),
   bundleOut: (slug, ext) => dist(`public/links/walters_${slug}.${ext}`),
@@ -61,18 +64,30 @@ export const formats = {
     ext: "pdf",
     binary: true,
     extraArgs: [
-      "--pdf-engine=xelatex",
+      "--pdf-engine=typst",
+      // Typst refuses to read files outside its compilation root, and pandoc
+      // compiles from a temp dir — root at / so absolute paths (cover image)
+      // resolve. Page geometry lives in the template.
+      "--pdf-engine-opt=--root=/",
+      `--pdf-engine-opt=--font-path=${paths.fonts}`,
+      // Only the repo fonts, so local builds cannot silently substitute a
+      // system-installed Skolar PE that CI does not have.
+      "--pdf-engine-opt=--ignore-system-fonts",
+      `--template=${paths.pdfTemplate}`,
+      "-V", "mainfont=Skolar PE",
       "-V", "fontsize=12pt",
-      "-V", "documentclass=article",
-      "-V", "geometry=hcentering",
-      "-V", "geometry=bindingoffset=.2in",
-      "-V", "geometry=tmargin=1.2in",
-      "-V", "geometry=bmargin=1in",
-      "-V", "links-as-notes=true",
-      `--include-in-header=${paths.pdfHeader}`,
       `--include-before-body=${paths.pdfFrontmatter}`,
     ],
   },
+};
+
+// Pinned pandoc/typst binaries installed by config/ci/install-tools.mjs.
+// Prepended to PATH so they win over any system-installed versions; falls
+// back to PATH lookup when .cache/bin doesn't exist.
+export const binDir = path.join(projectRoot, ".cache", "bin");
+export const toolEnv = {
+  ...process.env,
+  PATH: `${binDir}${path.delimiter}${process.env.PATH ?? ""}`,
 };
 
 export const concurrency = Math.max(1, os.cpus().length);
