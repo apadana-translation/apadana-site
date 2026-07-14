@@ -52,7 +52,7 @@ export default function (config) {
   config.setLibrary("md", markdownLib);
 
   // Pass through to build
-  config.addPassthroughCopy("admin");
+  config.addPassthroughCopy("src/admin/config.yml");
   config.addPassthroughCopy("src/public");
 
   // Shortcodes
