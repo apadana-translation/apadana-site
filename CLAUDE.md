@@ -4,16 +4,25 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## About
 
-*Legends of the Buddhist Saints* is a web-based interface for reading the first complete English translation of *Apadānapāli* by Dr. Jonathan S. Walters (Whitman College). The site is built with Eleventy (11ty) for static site generation and Vite for asset bundling.
+*Legends of the Buddhist Saints* is a web-based interface for reading the first complete English translation of *Apadānapāli* by Dr. Jonathan S. Walters (Whitman College). The site is built with Eleventy (11ty) for static site generation and Vite for asset bundling. Requires Node 24 and Yarn 4.
 
 ## Commands
 
 ```bash
-# Development (runs Webpack + Eleventy in parallel with file watching)
+# Development (runs Vite and Eleventy in parallel with file watching)
 yarn dev
 
-# Production build
+# Production build (Vite + Eleventy)
 yarn build
+
+# Generate PDF/EPUB downloads via Pandoc (requires pandoc + xelatex)
+yarn build:pandoc
+
+# Site build plus PDF/EPUB generation
+yarn build:all
+
+# Remove dist/
+yarn clean
 
 # Decrypt and unzip licensed fonts (required first-time setup)
 yarn unpack-fonts
@@ -28,42 +37,54 @@ There are no tests in this project.
 
 The build pipeline has two parallel processes:
 
-1. **Vite** (`vite.config.js`) — bundles `src/_assets/main.js` (entry point that imports SCSS and JS modules) into `dist/assets/`. Produces a `.vite/manifest.json` (at `dist/.vite/manifest.json`) used by Eleventy to resolve hashed asset filenames.
-2. **Eleventy** (`.eleventy.js`) — compiles templates from `src/` into `dist/`. Input: `./src`, output: `./dist`.
+1. **Vite** (`vite.config.js`) — bundles `src/_assets/main.js` (entry point that imports the site CSS and JS) into `dist/assets/`. Produces a manifest at `dist/.vite/manifest.json` used by Eleventy to resolve hashed asset filenames.
+2. **Eleventy** (`eleventy.config.mjs`) — compiles templates from `src/` into `dist/`. Input: `./src`, output: `./dist`. Passthrough-copies `admin/` and `src/public/`.
 
 ### Content Structure
 
-Poems are Markdown files under `src/_poems/`, organized into four chapters. Each chapter folder has a JSON data file setting the `chapter-N` tag (e.g., `chapter-1.json`). The root `_poems.json` sets the shared layout and permalink pattern. Eleventy collections `chapter-1` through `chapter-4`, `allPoems`, and `allPoemsGroupedByChapter` are registered in `.eleventy.js`.
+Poems are Markdown files under `src/_poems/`, organized into four chapters. Each chapter folder has a JSON data file setting the `chapter-N` tag (e.g., `chapter-1.json`). The root `_poems.json` sets the shared layout and permalink pattern. Eleventy collections `chapter-1` through `chapter-4`, `allPoems`, and `allPoemsGroupedByChapter` are registered in `eleventy.config.mjs`.
 
 Poem frontmatter fields: `title`, `category`, `order` (used for sort order within a chapter).
 
+Standalone pages live in `src/_pages/`. `src/_data/categories.json` is the single source of truth for poem categories. Slugs and filenames used in URLs are ASCII-only (diacritics stripped); display names keep their diacritics.
+
+### PDF/EPUB Generation
+
+`config/pandoc/build.mjs` generates the downloadable PDF and EPUB editions with Pandoc (PDFs via xelatex). Jobs cover the full set, per-chapter, and per-poem outputs; cover images are in `src/_assets/covers/`. The build is incremental: a content-hash cache in `.cache/pandoc` skips unchanged jobs (the cache survives `yarn clean`, but changes to the build scripts themselves are not detected — use `--force`). Filter flags: `--format=pdf,epub`, `--kind=...`, `--slug=...`, `--force`.
+
 ### Templates
 
-Nunjucks (`.njk`) is the template engine for both HTML and Markdown files. Layouts live in `src/_includes/layouts/`. Layout aliases are registered in `.eleventy.js` (e.g., `"poem"` → `layouts/poem.njk`).
+Nunjucks (`.njk`) is the template engine for both HTML and Markdown files. Layouts live in `src/_includes/layouts/`. Layout aliases are registered in `eleventy.config.mjs` (e.g., `"poem"` → `layouts/poem.njk`).
 
 ### Shortcodes
 
 Defined in `config/shortcodes.mjs`:
 - `{% asset "main.css" %}` / `{% asset "main.js" %}` — resolves hashed asset paths from `dist/.vite/manifest.json`
 - `{% image src, alt %}` — generates responsive `<picture>` elements via `@11ty/eleventy-img`
-- `{% cite filename %}` — placeholder for citation links
+- `{% cite key %}` — renders a formatted citation from `src/_resources/references.bib`, linked to `/resources/#key`
 - `{% siteUpdateDateTime %}` — renders current date as a `<time>` element
+
+`{% bibliography %}` (from `config/bibliography.mjs`) renders the full bibliography from the same BibTeX file.
 
 ### Markdown Extensions
 
 The Markdown parser is configured with:
 - `markdown-it-bracketed-spans` — `[text]{.class}` syntax
-- `markdown-it-attrs` — attribute syntax `{.class #id}`
+- `markdown-it-attrs` — attribute syntax `{.class #id}` (allowed attributes: `id`, `class`, `data-state`)
 - `markdown-it-footnote` — footnote syntax `[^1]`
 
-The `jsonify_markdown` Nunjucks filter renders Markdown to HTML then strips tags (used for JSON data output, e.g., search indexes).
+Nunjucks filters: `jsonify_markdown` renders Markdown to HTML then strips tags (used for JSON data output, e.g., search indexes); `strip_html` strips tags and collapses whitespace in already-rendered content.
 
 ### Assets
 
-- **JS**: `src/_assets/js/` — individual feature modules (audio player, search, sidenotes, navigation, etc.) imported via `src/_assets/main.js`
-- **CSS**: `src/_assets/css/` — SCSS with `main.scss` as entry; modules in `css/modules/`
-- **Fonts**: Licensed fonts are encrypted at rest; run `yarn unpack-fonts` to decrypt and unzip them into the fonts directory
+- **JS**: `src/_assets/js/` — individual feature modules (audio player, search, sidenotes, navigation, modal, share, etc.) imported via `src/_assets/js/main.js`
+- **CSS**: `src/_assets/css/` — plain CSS processed with PostCSS (`postcss-import`, `postcss-nesting`); `main.css` is the entry, modules in `css/modules/`
+- **Fonts**: Licensed fonts are encrypted at rest (`src/_assets/fonts.zip.enc`); `yarn unpack-fonts` decrypts (requires `FONT_CRYPT_SECRET_KEY` in the environment or `.env`) and unzips them into the fonts directory
+
+### CMS
+
+Content is editable through Decap CMS at `/admin/` (configuration in `admin/config.yml`). The admin app is loaded from the unpkg CDN in `admin/index.html`, which also registers the preview styles. See the README for running the CMS against a local repository.
 
 ### Site Data
 
-Global site metadata is in `src/_data/site.json`. Navigation structure is in `src/_data/navigation.json`.
+Global site metadata is in `src/_data/site.json`. Navigation structure is in `src/_data/navigation.json`. Poem categories are in `src/_data/categories.json`. `src/_data/site_url.mjs` resolves the site URL per environment.
