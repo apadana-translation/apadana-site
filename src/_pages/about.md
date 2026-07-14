@@ -188,7 +188,7 @@ Markdown”][12], *The Programming Historian*.
 [^4]: A detailed write-up about how this site was conceptualized and developed
 can be found at [http://danajohnson.co/projects/apadana/](http://danajohnson.co/projects/apadana/).
 
-[1]: {{ site.author.url }}
+[1]: {{ site.author.github }}
 [2]: https://www.rosettatype.com/ "Rosetta Type"
 [3]: https://www.rosettatype.com/Skolar "Skolar"
 [4]: https://www.rosettatype.com/SkolarSans "Skolar Sans"
