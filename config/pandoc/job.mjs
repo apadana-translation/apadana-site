@@ -2,9 +2,8 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { spawn } from "node:child_process";
 import yaml from "js-yaml";
-import { formats, author, projectRoot, distRoot, paths } from "./settings.mjs";
+import { formats, author, projectRoot, distRoot, paths, toolEnv } from "./settings.mjs";
 import { concatPoems } from "./bundle.mjs";
-import { coverPngFor, ensurePdfCover } from "./covers.mjs";
 import { digest, fileDigest } from "./state.mjs";
 
 async function exists(p) {
@@ -41,7 +40,7 @@ async function runPandoc(args, input) {
     const proc = spawn("pandoc", args, {
       cwd: projectRoot,
       stdio: ["pipe", "inherit", "inherit"],
-      env: { ...process.env, PATH: `/Library/TeX/texbin:${process.env.PATH ?? ""}` },
+      env: toolEnv,
     });
     proc.on("error", reject);
     proc.on("exit", (code) =>
@@ -49,16 +48,6 @@ async function runPandoc(args, input) {
     );
     proc.stdin.write(input);
     proc.stdin.end();
-  });
-}
-
-async function runPdfunite(outputs, finalPath) {
-  return new Promise((resolve, reject) => {
-    const proc = spawn("pdfunite", [...outputs, finalPath], { stdio: "inherit" });
-    proc.on("error", reject);
-    proc.on("exit", (code) =>
-      code === 0 ? resolve() : reject(new Error(`pdfunite exited ${code}`))
-    );
   });
 }
 
@@ -79,33 +68,25 @@ async function publish(cachePath, outPath) {
   }
 }
 
-export async function runJob(job, { force = false, state, pandocVersion }) {
-  let coverArg = null;
-  let pdfCoverToMerge = null;
-  const fileDeps = [];
+export async function runJob(job, { force = false, state, toolVersions }) {
+  const fileDeps = [paths.cover];
 
-  const coverPng = coverPngFor(job);
+  const coverArg =
+    job.format === "epub"
+      ? ["--epub-cover-image", paths.cover]
+      : ["-V", `cover-image=${paths.cover}`];
   if (job.format === "epub") {
     fileDeps.push(paths.epubMetadata);
-    if (coverPng) {
-      fileDeps.push(coverPng);
-      coverArg = ["--epub-cover-image", coverPng];
-    }
   } else if (job.format === "pdf") {
-    fileDeps.push(paths.pdfHeader, paths.pdfFrontmatter, ...(await fontFiles()));
-    if (coverPng) {
-      fileDeps.push(coverPng);
-      pdfCoverToMerge = await ensurePdfCover(coverPng);
-    }
+    fileDeps.push(paths.pdfTemplate, paths.pdfFrontmatter, ...(await fontFiles()));
   }
 
   const input = buildMetadata(job) + concatPoems(job.poems);
   const stateKey = path.relative(distRoot, job.outPath);
   const cachePath = paths.cacheFor(job.outPath);
   const jobDigest = digest([
-    pandocVersion,
-    JSON.stringify(formats[job.format].extraArgs),
-    pdfCoverToMerge ? "cover-merge" : coverArg ? "cover-image" : "no-cover",
+    toolVersions,
+    JSON.stringify([...formats[job.format].extraArgs, ...coverArg]),
     ...(await Promise.all(fileDeps.map(fileDigest))),
     input,
   ]);
@@ -116,16 +97,7 @@ export async function runJob(job, { force = false, state, pandocVersion }) {
   }
 
   await fs.mkdir(path.dirname(cachePath), { recursive: true });
-
-  if (pdfCoverToMerge) {
-    // Render body to a temp, then prepend cover via pdfunite.
-    const tmpBody = cachePath.replace(/\.pdf$/, ".body.pdf");
-    await runPandoc(buildArgs(tmpBody, job.format, null), input);
-    await runPdfunite([pdfCoverToMerge, tmpBody], cachePath);
-    await fs.rm(tmpBody, { force: true });
-  } else {
-    await runPandoc(buildArgs(cachePath, job.format, coverArg), input);
-  }
+  await runPandoc(buildArgs(cachePath, job.format, coverArg), input);
 
   await publish(cachePath, job.outPath);
   state[stateKey] = jobDigest;

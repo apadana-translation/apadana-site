@@ -731,6 +731,7 @@ __metadata:
     markdown-it-attrs: "npm:^4.5.0"
     markdown-it-bracketed-spans: "npm:^1.0.1"
     markdown-it-footnote: "npm:^4.0.0"
+    netlify-plugin-cache: "npm:^1.0.3"
     npm-run-all: "npm:^4.1.5"
     postcss: "npm:^8.5.16"
     postcss-import: "npm:^16.1.1"
@@ -2532,6 +2533,13 @@ __metadata:
   version: 1.0.0
   resolution: "negotiator@npm:1.0.0"
   checksum: 10c0/4c559dd52669ea48e1914f9d634227c561221dd54734070791f999c52ed0ff36e437b2e07d5c1f6e32909fc625fe46491c16e4a8f0572567d4dd15c3a4fda04b
+  languageName: node
+  linkType: hard
+
+"netlify-plugin-cache@npm:^1.0.3":
+  version: 1.0.3
+  resolution: "netlify-plugin-cache@npm:1.0.3"
+  checksum: 10c0/0f80bdd52a9407e13ad26930435cd28cb1dddfb140c6a9cd3f7e8489ab46e7060bab0bb6ebddc16e542d19435cb21e58688d95a3756fd45051dd220b4b15ff13
   languageName: node
   linkType: hard
 

@@ -15,7 +15,10 @@ yarn dev
 # Production build (Vite + Eleventy)
 yarn build
 
-# Generate PDF/EPUB downloads via Pandoc (requires pandoc + xelatex)
+# Download pinned pandoc + typst binaries into .cache/bin (first-time setup)
+yarn install-tools
+
+# Generate PDF/EPUB downloads via Pandoc (PDFs rendered with Typst)
 yarn build:pandoc
 
 # Site build plus PDF/EPUB generation
@@ -50,7 +53,9 @@ Standalone pages live in `src/_pages/`. `src/_data/categories.json` is the singl
 
 ### PDF/EPUB Generation
 
-`config/pandoc/build.mjs` generates the downloadable PDF and EPUB editions with Pandoc (PDFs via xelatex). Jobs cover the full set, per-chapter, and per-poem outputs; cover images are in `src/_assets/covers/`. The build is incremental: a content-hash cache in `.cache/pandoc` skips unchanged jobs (the cache survives `yarn clean`, but changes to the build scripts themselves are not detected — use `--force`). Filter flags: `--format=pdf,epub`, `--kind=...`, `--slug=...`, `--force`.
+`config/pandoc/build.mjs` generates the downloadable PDF and EPUB editions with Pandoc (PDFs via `--pdf-engine=typst`; the page layout, running heads, and cover page live in `config/pandoc/template.typst`, the copyright page in `config/pandoc/frontmatter.typ`). Jobs cover the full set, per-chapter, and per-poem outputs; every output shares the single cover `src/_assets/covers/cover.png` (rendered from `cover.svg`, the design master), embedded by the template for PDFs and passed as `--epub-cover-image` for EPUBs. Pandoc and Typst run from pinned binaries in `.cache/bin`, installed by `config/ci/install-tools.mjs` (`yarn install-tools`); system binaries are a fallback. The build is incremental: a content-hash cache in `.cache/pandoc` skips unchanged jobs (the cache survives `yarn clean`, but changes to the build scripts themselves are not detected — use `--force`). Filter flags: `--format=pdf,epub`, `--kind=...`, `--slug=...`, `--force`.
+
+Netlify runs the whole thing on deploy (`netlify.toml`): fonts are decrypted with `FONT_CRYPT_SECRET_KEY`, tools installed, then `yarn build:all`; `netlify-plugin-cache` persists `.cache/` across builds.
 
 ### Templates
 

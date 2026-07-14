@@ -3,7 +3,7 @@ import { promisify } from "node:util";
 import { buildManifest } from "./manifest.mjs";
 import { runJob } from "./job.mjs";
 import { loadState, saveState } from "./state.mjs";
-import { concurrency } from "./settings.mjs";
+import { concurrency, toolEnv } from "./settings.mjs";
 
 function parseFilters(argv) {
   const filters = { formats: null, kinds: null, slugs: null, force: false };
@@ -27,20 +27,27 @@ function applyFilters(jobs, { formats, kinds, slugs }) {
 }
 
 // Rough cost estimate so the workers start the slowest jobs first: the
-// full-set and chapter PDFs take ~30s each and would otherwise run last,
-// alone, after every core has gone idle. PDF jobs dwarf epub jobs (xelatex
-// startup alone is ~1.5s), so all PDFs sort ahead of all epubs.
+// full-set and chapter PDFs would otherwise run last, alone, after every
+// core has gone idle. PDF jobs still sort ahead of all epubs.
 function jobCost(job) {
   const bytes = job.poems.reduce((sum, p) => sum + p.content.length, 0);
   return job.format === "pdf" ? 1e9 + bytes : bytes;
 }
 
-async function pandocVersion() {
-  const { stdout } = await promisify(execFile)("pandoc", ["--version"]);
-  return stdout.split("\n", 1)[0];
+// First line of `pandoc --version` and `typst --version`, combined; both
+// feed the cache digest so upgrading either tool invalidates outputs.
+async function toolVersions() {
+  const run = promisify(execFile);
+  const versions = await Promise.all(
+    ["pandoc", "typst"].map(async (bin) => {
+      const { stdout } = await run(bin, ["--version"], { env: toolEnv });
+      return stdout.split("\n", 1)[0];
+    })
+  );
+  return versions.join("; ");
 }
 
-async function runAll(jobs, limit, { force, state, version }) {
+async function runAll(jobs, limit, { force, state, versions }) {
   let i = 0;
   let failures = 0;
   let built = 0;
@@ -51,7 +58,7 @@ async function runAll(jobs, limit, { force, state, version }) {
       const label = `[${job.format}/${job.kind}] ${job.slug}`;
       try {
         const start = Date.now();
-        const result = await runJob(job, { force, state, pandocVersion: version });
+        const result = await runJob(job, { force, state, toolVersions: versions });
         if (result.skipped) {
           skipped++;
         } else {
@@ -69,10 +76,10 @@ async function runAll(jobs, limit, { force, state, version }) {
 }
 
 const filters = parseFilters(process.argv.slice(2));
-const [{ jobs }, state, version] = await Promise.all([
+const [{ jobs }, state, versions] = await Promise.all([
   buildManifest(),
   loadState(),
-  pandocVersion(),
+  toolVersions(),
 ]);
 const filtered = applyFilters(jobs, filters).sort((a, b) => jobCost(b) - jobCost(a));
 
@@ -80,7 +87,7 @@ console.log(`Considering ${filtered.length} of ${jobs.length} jobs at concurrenc
 const { failures, built, skipped } = await runAll(filtered, concurrency, {
   force: filters.force,
   state,
-  version,
+  versions,
 });
 await saveState(state);
 console.log(`Done: built ${built}, skipped ${skipped}, failed ${failures}`);
