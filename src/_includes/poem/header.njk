@@ -1,0 +1,34 @@
+<poem-navigation>
+  <header class="header header--poem">
+    <progress value="0"></progress>
+    <nav-menu data-always-open-media="(min-width: 70em)">
+      <div class="top-bar top-bar--poem">
+        <div class="top-bar__section title-wrap">
+          {% include 'header/title.njk' %}
+        </div>
+        <div class="top-bar__section">
+          <button type="button" class="tab__label" aria-controls="tabGroupNavigation" aria-expanded="false" title="Navigation">
+            <svg width="20" height="20" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
+            <span class="tab__title">Navigation</span>
+          </button>
+        </div>
+        <div class="top-bar__section">
+          <button type="button" class="tab__label" aria-controls="tabGroupTools" aria-expanded="false" title="Text Tools">
+            <svg width="20" height="20" class="icon-cog"><use xlink:href="#icon-cog"></use></svg>
+            <span class="tab__title">Tools</span>
+          </button>
+        </div>
+      </div>
+      <div id="tabGroupNavigation" class="tab-group" data-open="false">
+        <nav-menu>
+          {% include 'header/tab-group-1.njk' %}
+        </nav-menu>
+      </div>
+      <div id="tabGroupTools" class="tab-group" data-open="false">
+        <nav-menu>
+          {% include 'header/tab-group-2.njk' %}
+        </nav-menu>
+      </div>
+    </nav-menu>
+  </header>
+</poem-navigation>

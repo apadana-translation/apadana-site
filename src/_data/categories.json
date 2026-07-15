@@ -1,0 +1,18 @@
+{
+  "chapter-1": {
+    "name": "The Legend of the Buddhas",
+    "slug": "the-legend-of-the-buddhas"
+  },
+  "chapter-2": {
+    "name": "The Legend of the Lonely Buddhas",
+    "slug": "the-legend-of-the-lonely-buddhas"
+  },
+  "chapter-3": {
+    "name": "The Legends of the Theras",
+    "slug": "the-legends-of-the-theras"
+  },
+  "chapter-4": {
+    "name": "The Legends of the Therīs",
+    "slug": "the-legends-of-the-theris"
+  }
+}

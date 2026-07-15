@@ -1,0 +1,21 @@
+<nav id="site-nav" class="nav nav--site tab__primary-content">
+  <ul>
+    <li>
+      <a href="/" title="Project Homepage">Project Homepage</a>
+    </li>
+    {% for group in navigation %}
+      <li><a href="{{ group.url }}" class="{{ class }}">{{ group.title }}</a>
+        {% if group.items %}
+        <ul>
+          {% for item in group.items %}
+            <li><a href="{{ item.url }}" class="{{ class }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+    <li><a href="{{ site.repository }}" aria-label="GitHub Repository">
+      <svg width="20" height="20" class="icon-github"><use xlink:href="#icon-github"></use></svg>
+    </a></li>
+  </ul>
+</nav>

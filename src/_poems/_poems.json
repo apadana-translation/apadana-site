@@ -1,0 +1,5 @@
+{
+    "layout": "layouts/poem.njk",
+    "tags": "poem",
+    "permalink": "/text/{{ category | slug }}/{{ page.fileSlug }}/index.html"
+}

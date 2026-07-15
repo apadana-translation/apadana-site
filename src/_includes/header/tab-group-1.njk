@@ -1,0 +1,16 @@
+<button type="button" class="tab__label" aria-controls="tab-menu" aria-expanded="false" title="Main Menu">
+  <svg width="20" height="20" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
+  <span class="tab__title">Menu</span>
+</button>
+
+<button type="button" class="tab__label" aria-controls="tab-toc" aria-expanded="false" title="Table of Contents">
+  <svg width="20" height="20" class="icon-list"><use xlink:href="#icon-list"></use></svg>
+  <span class="tab__title">Contents</span>
+</button>
+
+<div id="tab-menu" class="tab__content" data-open="false">
+  {% include 'tab/menu.njk' %}
+</div>
+<div id="tab-toc" class="tab__content" data-open="false">
+  {% include 'toc.njk' %}
+</div>

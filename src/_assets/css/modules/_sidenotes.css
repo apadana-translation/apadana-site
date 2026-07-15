@@ -1,0 +1,52 @@
+with-sidenotes {
+  display: block;
+}
+
+/* Sidenotes */
+.sidenote {
+  font-size: 0.6875rem;
+
+  @media (min-width: 55em) {
+    float: right;
+    clear: right;
+    width: 15.625rem;
+    right: -18.75rem;
+    margin-left: -100%;
+  }
+
+  p {
+    margin-bottom: 0.6875rem;
+  }
+
+  ol {
+    padding-left: 1rem;
+  }
+
+  hr {
+    border-bottom-color: var(--color-dark);
+    border-top: none;
+  }
+}
+
+/* Note number within body text */
+a[href^="#sn"] {
+  vertical-align: baseline;
+  font-size: inherit;
+  font-feature-settings: "sups" 1;
+  font-variant-position: super;
+}
+
+.ref-mark {
+  float: left;
+  margin-right: 0.4em;
+  font-feature-settings: "lnum";
+  font-variant-numeric: lining-nums;
+
+  &::after {
+    content: "."
+  }
+}
+
+.footnotes {
+  font-size: 0.875rem;
+}

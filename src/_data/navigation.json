@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Read the Text",
+    "url": "/text",
+    "items": [
+      {
+        "title": "Read Online",
+        "url": "/text"
+      },
+      {
+        "title": "Download",
+        "url": "/text/download"
+      }
+    ]
+  },
+  {
+    "title": "About",
+    "url": "/about",
+    "items": [
+      {
+        "title": "Introduction",
+        "url": "/text/introduction"
+      },
+      {
+        "title": "About the Project",
+        "url": "/about"
+      }
+    ]
+  },
+  {
+    "title": "Resources",
+    "url": "/resources",
+    "items": [
+      {
+        "title": "Further Reading",
+        "url": "/resources#further-reading"
+      }
+    ]
+  }
+]

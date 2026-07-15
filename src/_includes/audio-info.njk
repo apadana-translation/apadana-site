@@ -1,0 +1,12 @@
+{% set reciter = page.audio.reciter %}
+{% if reciter.name %}
+  <span>
+    <label>Recitation perfomed by:</label> {{ reciter.name }}{% if reciter.title %}, {{ reciter.title }}{% endif %}{% if reciter.grad_year %}, {{ reciter.grad_year }}{% endif %}
+  </span>
+{% endif %}
+{% if page.audio.date %}
+  <span><label>Date of recitation:</label> {{ page.audio.date }}</span>
+{% endif %}
+{% if page.audio.location %}
+  <span><label>Location:</label> {{ page.audio.location }}</span>
+{% endif %}

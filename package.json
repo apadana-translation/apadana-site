@@ -1,0 +1,61 @@
+{
+  "name": "apadanapali",
+  "version": "1.1.0-alpha.0",
+  "browser": "index.js",
+  "description": "A web-based interface for reading Legends of the Buddhist Saints (Apadānapāli) by Jonathan S. Walters, Whitman College, 2017–, built on Eleventy.",
+  "author": "Dana Johnson <dana@castironcoding.com> (https://github.com/dananjohnson/)",
+  "homepage": "https://github.com/apadana-translation/apadana-site",
+  "license": "CC-BY-4.0",
+  "engines": {
+    "node": "24"
+  },
+  "packageManager": "yarn@4.17.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apadana-translation/apadana-site"
+  },
+  "bugs": {
+    "url": "https://github.com/apadana-translation/apadana-site/issues",
+    "email": "dana@castironcoding.com"
+  },
+  "browserslist": [
+    "baseline widely available"
+  ],
+  "scripts": {
+    "clean": "rm -rf dist",
+    "dev": "yarn clean && concurrently -c \"auto\" \"yarn:dev:*\"",
+    "dev:vite": "vite build --watch --mode development",
+    "dev:eleventy": "NODE_ENV=development eleventy --serve --quiet",
+    "build": "yarn build:vite && yarn build:eleventy",
+    "build:vite": "vite build",
+    "build:eleventy": "NODE_ENV=production eleventy",
+    "build:pandoc": "node config/pandoc/build.mjs",
+    "install-tools": "node config/ci/install-tools.mjs",
+    "build:all": "yarn build && yarn build:pandoc",
+    "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
+    "unpack-fonts": "yarn unpack-fonts:decrypt && yarn unpack-fonts:unzip",
+    "unpack-fonts:decrypt": "node ./decrypt-fonts.js",
+    "unpack-fonts:unzip": "node ./unzip-fonts.js",
+    "browserslist:upgrade": "npx browserslist@latest --update-db"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6",
+    "@11ty/eleventy-img": "^6.0.4",
+    "adm-zip": "^0.5.18",
+    "browserslist": "^4.28.5",
+    "concurrently": "^10.0.3",
+    "dotenv": "^17.4.2",
+    "editorconfig": "^3.0.2",
+    "markdown-it": "^14.3.0",
+    "markdown-it-attrs": "^4.5.0",
+    "markdown-it-bracketed-spans": "^1.0.1",
+    "markdown-it-footnote": "^4.0.0",
+    "netlify-plugin-cache": "^1.0.3",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.5.16",
+    "postcss-import": "^16.1.1",
+    "postcss-nesting": "^14.0.0",
+    "string-strip-html": "^13.5.3",
+    "vite": "^8.1.4"
+  }
+}
