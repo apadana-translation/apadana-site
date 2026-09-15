@@ -78,7 +78,12 @@ export async function runJob(job, { force = false, state, toolVersions }) {
   if (job.format === "epub") {
     fileDeps.push(paths.epubMetadata);
   } else if (job.format === "pdf") {
-    fileDeps.push(paths.pdfTemplate, paths.pdfFrontmatter, ...(await fontFiles()));
+    fileDeps.push(
+      paths.pdfTemplate,
+      paths.pdfFrontmatter,
+      paths.pdfFilter,
+      ...(await fontFiles())
+    );
   }
 
   const input = buildMetadata(job) + concatPoems(job.poems);

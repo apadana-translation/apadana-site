@@ -32,6 +32,7 @@ export const paths = {
   epubMetadata: src("_includes/layouts/epub-metadata.xml"),
   pdfTemplate: path.join(__dirname, "template.typst"),
   pdfFrontmatter: path.join(__dirname, "frontmatter.typ"),
+  pdfFilter: path.join(__dirname, "typst-escape.lua"),
   poemOut: (chapterSlug, poemSlug, ext) =>
     dist(path.join("text", chapterSlug, `${poemSlug}.${ext}`)),
   bundleOut: (slug, ext) => dist(`public/links/walters_${slug}.${ext}`),
@@ -77,6 +78,8 @@ export const formats = {
       "-V", "mainfont=Skolar PE",
       "-V", "fontsize=12pt",
       `--include-before-body=${paths.pdfFrontmatter}`,
+      // Escapes footnote bodies that would otherwise parse as Typst markup.
+      `--lua-filter=${paths.pdfFilter}`,
     ],
   },
 };
