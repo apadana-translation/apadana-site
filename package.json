@@ -35,8 +35,7 @@
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
     "unpack-fonts": "yarn unpack-fonts:decrypt && yarn unpack-fonts:unzip",
     "unpack-fonts:decrypt": "node ./decrypt-fonts.js",
-    "unpack-fonts:unzip": "node ./unzip-fonts.js",
-    "browserslist:upgrade": "npx browserslist@latest --update-db"
+    "unpack-fonts:unzip": "node ./unzip-fonts.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.6",
