@@ -40,7 +40,7 @@ There are no tests in this project.
 
 The build pipeline has two parallel processes:
 
-1. **Vite** (`vite.config.js`) — bundles `src/_assets/main.js` (entry point that imports the site CSS and JS) into `dist/assets/`. Produces a manifest at `dist/.vite/manifest.json` used by Eleventy to resolve hashed asset filenames.
+1. **Vite** (`vite.config.mjs`) — bundles `src/_assets/main.js` (entry point that imports the site CSS and JS) into `dist/assets/`. Produces a manifest at `dist/.vite/manifest.json` used by Eleventy to resolve hashed asset filenames.
 2. **Eleventy** (`eleventy.config.mjs`) — compiles templates from `src/` into `dist/`. Input: `./src`, output: `./dist`. Passthrough-copies `src/admin/config.yml` and `src/public/`.
 
 ### Content Structure
