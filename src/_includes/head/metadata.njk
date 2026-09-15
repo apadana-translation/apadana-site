@@ -11,7 +11,7 @@
 <meta name="description" content="{% if desc %}{{ desc }}{% elseif excerpt %}{{ excerpt | striptags(true) | truncate(160) }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:site_name" content="{{ site.title }}">
 {% if title %}
-  <meta property="og:title" content="{{ chapter ~ ". " }}{{ title }}">
+  <meta property="og:title" content="{% if title == "Home" %}{{ site.title }}{% else %}{{ chapter ~ ". " if chapter }}{{ title }}{% endif %}">
   <meta property="og:type" content="article">
   <meta property="og:description" content="{% if desc %}{{ desc }}{% elseif excerpt %}{{ excerpt | striptags(true) | truncate(160) }}{% else %}{{ site.description }}{% endif %}">
 {% else %}
