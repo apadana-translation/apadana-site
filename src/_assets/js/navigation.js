@@ -1,7 +1,6 @@
 class PoemNavigation extends HTMLElement {
   connectedCallback() {
     this._initProgressBar();
-    this._initChapterAccordionMutex();
   }
 
   _initProgressBar() {
@@ -25,17 +24,6 @@ class PoemNavigation extends HTMLElement {
 
     window.addEventListener('scroll', onScroll, { passive: true });
     update();
-  }
-
-  _initChapterAccordionMutex() {
-    this.querySelector('label[for=chapter-3]')?.addEventListener('click', () => {
-      const ch4 = this.querySelector('input#chapter-4');
-      if (ch4) ch4.checked = false;
-    });
-    this.querySelector('label[for=chapter-4]')?.addEventListener('click', () => {
-      const ch3 = this.querySelector('input#chapter-3');
-      if (ch3) ch3.checked = false;
-    });
   }
 }
 

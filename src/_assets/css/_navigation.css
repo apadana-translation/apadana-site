@@ -565,46 +565,7 @@
 
   ol {
     margin-bottom: 0;
-    padding-left: 0;
     counter-reset: chapter;
-  }
-
-  li {
-    display: table;
-    width: 100%;
-    counter-increment: chapter;
-
-    &::before {
-      display: table-cell;
-      position: relative;
-      width: 2rem;
-    }
-  }
-
-  input[type='radio'] {
-    display: none;
-
-    &:checked {
-
-      & + label {
-        color: var(--color-highlight);
-
-        & > .icon-plus {
-          display: none;
-        }
-
-        & > .icon-minus {
-          display: inline-block;
-        }
-      }
-
-      & ~ .toc__level2 {
-        max-height: 15.75rem;
-        overflow-y: auto;
-        padding-bottom: 0.5rem;
-        z-index: 10;
-      }
-    }
   }
 }
 
@@ -614,9 +575,15 @@
   list-style: none;
 
   > li {
+    display: table;
+    width: 100%;
+    counter-increment: chapter;
 
     &::before {
       content: counters(chapter, ".", upper-roman) ". ";
+      display: table-cell;
+      position: relative;
+      width: 2rem;
       background: var(--toc-bg-color, var(--color-light));
     }
 
@@ -629,6 +596,10 @@
       &::before {
         display: none;
       }
+
+      .chapter-size::before {
+        display: none;
+      }
     }
 
     &:not(:last-child) {
@@ -639,16 +610,51 @@
 
 .toc__level2 {
   position: relative;
-  max-height: 0;
-  overflow-y: hidden;
+  max-block-size: 15.75rem;
+  overflow-y: auto;
+  padding-inline-start: 3rem;
+  padding-block-end: 0.5rem;
   font-size: var(--nav-font-size);
-  transition: max-height 0.8s ease;
 
   > li {
+    counter-increment: chapter;
     padding-bottom: 0.25rem;
 
-    &::before {
+    &::marker {
       content: counters(chapter, ".") ". ";
+    }
+  }
+}
+
+/* ===================================
+   Collapsible chapters (details/summary)
+   =================================== */
+.toc__chapter {
+
+  &[open] > .chapter {
+    color: var(--color-highlight);
+  }
+}
+
+@supports (interpolate-size: allow-keywords) {
+  .toc__chapter {
+    interpolate-size: allow-keywords;
+
+    &::details-content {
+      block-size: 0;
+      overflow-y: clip;
+    }
+
+    &[open]::details-content {
+      block-size: auto;
+    }
+
+    @media (prefers-reduced-motion: no-preference) {
+      &::details-content {
+        transition:
+          block-size 0.5s ease,
+          content-visibility 0.5s allow-discrete;
+      }
     }
   }
 }
@@ -659,15 +665,16 @@
   cursor: pointer;
   padding: 0.5rem 0;
   user-select: none;
+  list-style: none;
+
+  &::-webkit-details-marker {
+    display: none;
+  }
 
   &:hover,
   &:focus-visible,
   &:active {
     color: var(--color-highlight);
-  }
-
-  & > .icon-minus {
-    display: none;
   }
 }
 
@@ -691,10 +698,6 @@
     letter-spacing: 0.7rem;
     bottom: 5px;
     z-index: -1;
-
-    li.list-header & {
-      display: none;
-    }
   }
 }
 
