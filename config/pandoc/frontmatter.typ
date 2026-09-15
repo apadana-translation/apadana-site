@@ -8,7 +8,7 @@
 
   #smallcaps[Published by Jonathan S. Walters and Whitman College]
 
-  #link("http://www.apadanatranslation.org")
+  #link("https://apadanatranslation.com")
 
   Licensed under the Attribution, Non-Commercial, Share Alike
   (#smallcaps[CC BY-NC-SA 4.0]) license

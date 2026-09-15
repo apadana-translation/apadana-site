@@ -21,3 +21,9 @@
 
   [plugins.inputs]
     paths = [".cache"]
+
+[[redirects]]
+  from = "https://apadanatranslation.org/*"
+  to = "https://apadanatranslation.com/:splat"
+  status = 301
+  force = true

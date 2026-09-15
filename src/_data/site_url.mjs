@@ -1,3 +1,3 @@
 export default function () {
-  return process.env.SITE_URL || "http://apadanatranslation.org";
+  return process.env.SITE_URL || "https://apadanatranslation.com";
 }
