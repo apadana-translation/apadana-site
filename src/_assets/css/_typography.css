@@ -102,6 +102,11 @@ aside {
   font-size: 0.8125rem;
 }
 
+sup {
+  font: inherit;
+  vertical-align: inherit;
+}
+
 /* ===================================
    Special Typographic Classes
    =================================== */
